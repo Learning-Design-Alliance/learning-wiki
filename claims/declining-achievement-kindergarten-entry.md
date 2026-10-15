@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: christine-pitts-2020
-    resource: "https://www.nwea.org/research/publication/mind-the-kinder-gap-new-data-on-childrens-math-and-reading-skills-as-they-enter-kindergarten/"
-    title: "Christine Pitts, Megan Kuhfeld. (2020). Mind the kinder-gap: New data on children’s math and reading skills as they enter kindergarten. Phi Delta Kappan 102(2). https://www.nwea.org/research/publication/mind-the-kinder-gap-new-data-on-childrens-math-and-reading-skills-as-they-enter-kindergarten/"
+    resource: "https://doi.org/10.1177/0031721720963228"
+    title: "Christine Pitts, Megan Kuhfeld. (2020). Mind the kinder-gap: New data on children’s math and reading skills as they enter kindergarten. Phi Delta Kappan 102(2). https://www.nwea.org/research/publication/mind-the-kinder-gap-new-data-on-childrens-math-and-reading-skills-as-they-enter-kindergarten/ [doi:10.1177/0031721720963228](https://doi.org/10.1177/0031721720963228)"
     author: Christine Pitts, Megan Kuhfeld
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Christine Pitts 2020
 
-Christine Pitts, Megan Kuhfeld. (2020). Mind the kinder-gap: New data on children’s math and reading skills as they enter kindergarten. Phi Delta Kappan 102(2). https://www.nwea.org/research/publication/mind-the-kinder-gap-new-data-on-childrens-math-and-reading-skills-as-they-enter-kindergarten/
+Christine Pitts, Megan Kuhfeld. (2020). Mind the kinder-gap: New data on children’s math and reading skills as they enter kindergarten. Phi Delta Kappan 102(2). https://www.nwea.org/research/publication/mind-the-kinder-gap-new-data-on-childrens-math-and-reading-skills-as-they-enter-kindergarten/ [doi:10.1177/0031721720963228](https://doi.org/10.1177/0031721720963228)
 
 `q2 · i?` · `associational · r?`
 
@@ -44,4 +44,4 @@ The article's abstract states that data on children's academic preparation at ki
 
 ## Related Claims
 - [Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract](shrinking-gaps-kindergarten-entry.md) — related
-- [Registrations of children aged 0-5 and 5-10 years declined significantly across the three time periods](cap-clinic-younger-child-registrations-declined.md) — related
+- Registrations of children aged 0-5 and 5-10 years declined significantly across the three time periods — related

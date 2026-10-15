@@ -18,7 +18,7 @@ sources:
 # Briya family literacy program
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Briya Public Charter School runs this free Washington, D.C., family-literacy programme, providing adults with English, digital-literacy, and parenting education while their children receive early education.
@@ -28,7 +28,6 @@ Briya Public Charter School runs this free Washington, D.C., family-literacy pro
 - **Briya family literacy program integrating adult English, digital literacy, and parenting education with children's early education**: Briya Public Charter School is "a free family literacy program in Washington, D.C." where "Adults study English, digital literacy, and parenting, while children receive a high-quality early education." It operates four D.C. campuses with classrooms for parents and children, plus support services through a partnership with Mary's Center, a federally qualified health center. The program integrates parents' and children's educational experiences to improve families' educational, economic, and social opportunities. (Technology et al. (2016))
 
 ### Claims
-- [Briya adult learners showed high rates of employment entry, retention, or postsecondary entry](../claims/briya-adult-employment-outcomes.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,7 +64,6 @@ Briya Public Charter School is "a free family literacy program in Washington, D.
 
 ## Claims
 
-- [Briya adult learners showed high rates of employment entry, retention, or postsecondary entry](../claims/briya-adult-employment-outcomes.md) [+W]
 
 ## Related Elements
 

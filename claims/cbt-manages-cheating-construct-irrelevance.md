@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: steven-wise-2018
-    resource: "https://www.nwea.org/research/publication/controlling-construct-irrelevant-factors-through-computer-based-testing-disengagement-anxiety-cheating/"
-    title: "Steven Wise. (2018). Controlling construct-irrelevant factors through computer-based testing: Disengagement, anxiety, & cheating. Education Inquiry 10(1), 21-33. https://www.nwea.org/research/publication/controlling-construct-irrelevant-factors-through-computer-based-testing-disengagement-anxiety-cheating/"
+    resource: "https://doi.org/10.1080/20004508.2018.1490127"
+    title: "Steven Wise. (2018). Controlling construct-irrelevant factors through computer-based testing: Disengagement, anxiety, & cheating. Education Inquiry 10(1), 21-33. https://www.nwea.org/research/publication/controlling-construct-irrelevant-factors-through-computer-based-testing-disengagement-anxiety-cheating/ [doi:10.1080/20004508.2018.1490127](https://doi.org/10.1080/20004508.2018.1490127)"
     author: Steven Wise
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Steven Wise 2018
 
-Steven Wise. (2018). Controlling construct-irrelevant factors through computer-based testing: Disengagement, anxiety, & cheating. Education Inquiry 10(1), 21-33. https://www.nwea.org/research/publication/controlling-construct-irrelevant-factors-through-computer-based-testing-disengagement-anxiety-cheating/
+Steven Wise. (2018). Controlling construct-irrelevant factors through computer-based testing: Disengagement, anxiety, & cheating. Education Inquiry 10(1), 21-33. https://www.nwea.org/research/publication/controlling-construct-irrelevant-factors-through-computer-based-testing-disengagement-anxiety-cheating/ [doi:10.1080/20004508.2018.1490127](https://doi.org/10.1080/20004508.2018.1490127)
 
 `q2 · i?` · `theoretical · r1`
 

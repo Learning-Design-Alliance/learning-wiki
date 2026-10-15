@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Students in schools using PLC at Work scored significantly higher on the ACT Aspire math test than similar students in well-matched comparison schools, with an effect size of +0.08. [→ Professional Learning Communities at Work (PLC at Work) 2020](#professional-learning-communities-at-work-plc-at-work-2020)
@@ -44,5 +45,5 @@ A quasi-experimental study compared over 2,500 students in 12 Arkansas schools u
 ## Related Claims
 
 - [A small set of mathematics-only studies gives existence proof that teacher participation in a mathematics PLC can enhance student learning, but evidence is insufficient to link formal assessment results to PLC participation](stem-plc-math-student-learning-existence-proof.md) — the general claim this finding bears on, with the studies behind it
-- [PLC at Work did not significantly affect ELA achievement scores](plc-at-work-no-ela-effect.md) — related
+- PLC at Work did not significantly affect ELA achievement scores — related
 - [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](barr-multisite-rct-map-math-es-008.md) — related

@@ -16,7 +16,7 @@ sources:
 # dAFM: a neural-network fusion of psychometric and connectionist modeling enabling backpropagation-based Q-matrix refinement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (5 for, 1 mixed, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 dAFM augments the Additive Factors Model, whose "calculations and constraints we show can be exactly replicated within the framework of neural networks", by representing the Q-matrix as a weight coefficient matrix (WQk) adjustable by backpropagation and by computing student KC opportunity counts dynamically with an identity-weight RNN counter as the Q-matrix changes. The model retains AFM's logistic formulation predicting correctness from student ability, KC difficulties, and KC growth rates multiplied by opportunity counts. It was evaluated in six variants on five Cognitive Tutor and ASSISTments datasets, comparing refinement of an expert Q-matrix against learning one from scratch.
@@ -41,13 +41,6 @@ dAFM augments the Additive Factors Model, whose "calculations and constraints we
 
 ### Claims
 
-- [Dafm Fine Tuned Improves Prediction Over Afm](../claims/dafm-fine-tuned-improves-prediction-over-afm.md) [+M]
-- [Expert Refined Qmatrix Beats Ground Up Learning](../claims/expert-refined-qmatrix-beats-ground-up-learning.md) [+M]
-- [Base AFM with its expert Q-matrix generalizes better than a ground-up learned Q-matrix only on the large Cognitive Tutor Bridge datasets](../claims/afm-beats-random-init-only-on-large-cogtutor-datasets.md) [+W]
-- [Qualitative inspection shows dAFM refinement remaps a Geometry problem's items toward side-identification KCs with plausible but partly spurious associations](../claims/dafm-qualitative-remapping-triangle-rectangle.md) [~W]
-- [Q-matrices clustered from DKT and skip-gram item embeddings do not outperform dAFM models but do outperform a randomly initialized Q-matrix](../claims/embedding-clustered-qmatrices-null-versus-dafm.md) [+W]
-- [Training dAFM with individualized student ability estimates yields essentially no prediction benefit over average ability](../claims/individualized-ability-no-benefit-dafm.md) [-W]
-- [Replacing the linear qk activation with ReLU sacrifices very little predictive accuracy while prohibiting negative Q-matrix values](../claims/relu-activation-preserves-dafm-accuracy.md) [+W]
 
 ## Related Theories
 

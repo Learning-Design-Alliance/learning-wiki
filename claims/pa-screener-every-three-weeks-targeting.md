@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the first study's implementation, students were tested with the Phonological Awareness Screener for Intervention every three weeks as part of the implementation to target instruction. [→ Phonological Awareness Deluxe Package 2023](#phonological-awareness-deluxe-package-2023)
@@ -43,6 +44,6 @@ Descriptive implementation detail reported for the first quasi-experimental stud
 
 
 ## Related Claims
-- [Across two studies of PA Lessons, the average effect size on Acadience Reading composite scores is +0.49, with both studies rated Moderate](pa-lessons-average-effect-size-049.md) — related
-- [A second study replicated the benefit of PA Lessons on Acadience Reading composite scores with a larger effect size (+0.74)](pa-lessons-study2-acadience-es-074.md) — related
-- [Kindergarten students in schools using PA Lessons showed significantly increased Acadience Reading composite scores compared to comparison schools (effect size +0.21)](pa-lessons-study1-acadience-es-021.md) — related
+- Across two studies of PA Lessons, the average effect size on Acadience Reading composite scores is +0.49, with both studies rated Moderate — related
+- A second study replicated the benefit of PA Lessons on Acadience Reading composite scores with a larger effect size (+0.74) — related
+- Kindergarten students in schools using PA Lessons showed significantly increased Acadience Reading composite scores compared to comparison schools (effect size +0.21) — related

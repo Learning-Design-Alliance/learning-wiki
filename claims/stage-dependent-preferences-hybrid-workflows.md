@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zhengxu-li-2026
-    resource: "https://arxiv.org/abs/2605.10672"
-    title: "Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672"
+    resource: "https://doi.org/10.48550/arxiv.2605.10672"
+    title: "Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672 [doi:10.48550/arxiv.2605.10672](https://doi.org/10.48550/arxiv.2605.10672)"
     author: Zhengxu Li, Junling Wang, and April Yi Wang
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zhengxu Li 2026
 
-Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672
+Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672 [doi:10.48550/arxiv.2605.10672](https://doi.org/10.48550/arxiv.2605.10672)
 
 `q3 · i?` · `causal · r2`
 
@@ -46,6 +46,6 @@ Interview findings from the 24-teacher mixed-methods study: "15 teachers explici
 - [Primary mathematics teachers rate post-generation control significantly higher than pre- and mid-generation control on perceived numerical correctness of generated visuals](post-generation-control-higher-perceived-numerical-correctness.md) — related
 - [The perceived value of GenAI and XR varied across design stages: GenAI suited early exploratory prototyping, XR once a 3D artifact existed for spatial evaluation](phase-dependent-genai-xr-value-design-stages.md) — related
 - [Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation](genai-xr-complementary-roles-design.md) — related
-- [A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions](gen-aitecture-expanded-creative-search-space.md) — related
+- A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions — related
 - [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](interviews-flipped-readiness-genai-supplementary.md) — related
 - [In teacher-AI learning task design studies, GenAI tools are predominantly used for lesson planning, prompt generation, and creative ideation, while traditional AI tools are commonly used for designing analytics and feedback](genai-for-planning-ideation-traditional-ai-for-analytics-feedback.md) — related

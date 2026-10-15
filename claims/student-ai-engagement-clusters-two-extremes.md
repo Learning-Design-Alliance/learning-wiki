@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: liu-2026
-    resource: "https://arxiv.org/abs/2606.00038"
-    title: "Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038"
+    resource: "https://doi.org/10.48550/arxiv.2606.00038"
+    title: "Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038 [doi:10.48550/arxiv.2606.00038](https://doi.org/10.48550/arxiv.2606.00038)"
     author: "Liu, J. P., & Levy, R."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Liu 2026
 
-Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038
+Liu, J. P., & Levy, R. (2026). Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education. North Carolina State University. https://arxiv.org/abs/2606.00038 [doi:10.48550/arxiv.2606.00038](https://doi.org/10.48550/arxiv.2606.00038)
 
 `q1 · i?` · `design · r2`
 
@@ -45,7 +45,7 @@ Observational synthesis of the authors' multi-year instructional practice with s
 ## Related Claims
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](cll-four-ethical-tensions.md) — related
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
 - [The article interprets the ethics gap as students viewing ethics through coursework practices and instructors treating it as an integrity question shaped by lack of institutional clarity](ethics-gap-coursework-versus-institutional-clarity-interpretation.md) — related

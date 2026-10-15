@@ -47,7 +47,7 @@ Cross-program comparison across the eight tutoring evaluations. The brief states
 - [A portfolio of eight math tutoring programs showed positive and meaningful average effects on student math knowledge, perceptions, and beliefs](middle-years-math-tutoring-portfolio-positive-average-effects.md) — related
 - [Saga tutoring impacts were larger in schools with fewer staffing challenges and in tutoring groups of two students or fewer](saga-impacts-larger-fewer-staffing-challenges-small-groups.md) — a narrower finding that bears on this claim
 - [Strong student–tutor relationships and a sense of belonging characterized tutoring programs with high attendance and positive learning effects](strong-student-tutor-relationships-key-to-tutoring-success.md) — related
-- [In real-world implementation, TSI students attended on average 25.5 of 50 scheduled tutoring sessions](tsi-attendance-half-of-scheduled-sessions.md) — related
+- In real-world implementation, TSI students attended on average 25.5 of 50 scheduled tutoring sessions — related
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — reports the opposite
 - [Exploratory analyses: students ending the year in larger tutoring groups showed the largest math score increases but reported weaker tutor relationships than peers in smaller groups](blueprint-larger-groups-scores-up-relationships-weaker.md) — related
 - [The brief compares the scale and impact of summer school with other interventions such as tutoring](summer-school-compared-tutoring-scale-impact.md) — related

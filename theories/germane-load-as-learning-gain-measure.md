@@ -17,7 +17,7 @@ sources:
 # Germane load operationalized as learning effects measured by test-score increases
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies (2 design, 1 causal), `q2` · 2 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article operationalizes germane load as learning effects: the portion of working memory resources devoted to schema construction during a learning phase, whose behavioral signature is improvement on post-test problems. As the article states, "germane load assigned in the learning phase was evaluated based on the increase of the test scores." This measurement approach treats pre- to post-test gains as the index of germane load, and the article uses it to distinguish two types of germane load related to intrinsic load.
@@ -38,10 +38,8 @@ The article operationalizes germane load as learning effects: the portion of wor
 
 ### Claims
 
-- [Two Types Of Germane Load Related To Intrinsic Load](../claims/two-types-of-germane-load-related-to-intrinsic-load.md) [+M]
 - [Under high extraneous load (hint presentation and L and rL condition), no test-score increases were observed on identical or near-transfer problems](../claims/extraneous-load-eliminates-germane-load-learning-gains.md) [~W]
 - [Per-question pre/post analysis showed significant improvement on almost all questions, with Q1 (DBMS use) and Q4 (basic normalization) as exceptions due to high pre-test scores](../claims/per-question-prepost-gains-five-of-seven.md) [+W]
-- [In the learning study, class post-test scores increased 11 and 10 percent units in the first and last lessons but not in the middle class](../claims/learning-study-class-gains-11-and-10-percent-units.md) [~W]
 
 ## Related Theories
 - 

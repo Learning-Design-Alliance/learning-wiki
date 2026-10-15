@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i3` Dyads provided with subtitled videos produced a significantly higher percentage of negotiated turns (M = .30) than dyads without videos (M = .17), t(8) = -4.48, p = .002, d = 2.82. [→ Arslanyilmaz 2010](#arslanyilmaz-2010)
@@ -44,5 +45,5 @@ Quasi-experiment with 10 NNS-NNS dyads (5 per condition, intact sections randoml
 
 ## Related Claims
 - [Completing meaning-focused tasks through CMC fosters negotiated interactions in all three modes (discussion board, text chat, videoconferencing)](cmc-meaning-focused-tasks-foster-negotiated-interactions.md) — related
-- [Prior research on task familiarity and negotiation of meaning is inconsistent, with some studies finding more negotiation for unfamiliar tasks and one finding no difference](task-familiarity-negotiation-prior-research-inconsistent.md) — related
-- [Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange](two-way-tasks-promote-interactional-restructuring.md) — related
+- Prior research on task familiarity and negotiation of meaning is inconsistent, with some studies finding more negotiation for unfamiliar tasks and one finding no difference — related
+- Native-speaker conversations with learners show more interactional modification than native-speaker conversations in two-way information-exchange tasks, but not in tasks without information exchange — related

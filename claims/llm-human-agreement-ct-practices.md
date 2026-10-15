@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sean-savage-2026
-    resource: "https://arxiv.org/abs/2608.06200"
-    title: "Sean Savage, Anand Shanker, Grace Michlitsch, and N. Sanjay Rebello. (2026). Using LLMs to Detect Growth in Computational Thinking in Introductory Physics. arXiv preprint. https://arxiv.org/abs/2608.06200"
+    resource: "https://doi.org/10.48550/arxiv.2608.06200"
+    title: "Sean Savage, Anand Shanker, Grace Michlitsch, and N. Sanjay Rebello. (2026). Using LLMs to Detect Growth in Computational Thinking in Introductory Physics. arXiv preprint. https://arxiv.org/abs/2608.06200 [doi:10.48550/arxiv.2608.06200](https://doi.org/10.48550/arxiv.2608.06200)"
     author: Sean Savage, Anand Shanker, Grace Michlitsch, and N. Sanjay Rebello
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sean Savage 2026
 
-Sean Savage, Anand Shanker, Grace Michlitsch, and N. Sanjay Rebello. (2026). Using LLMs to Detect Growth in Computational Thinking in Introductory Physics. arXiv preprint. https://arxiv.org/abs/2608.06200
+Sean Savage, Anand Shanker, Grace Michlitsch, and N. Sanjay Rebello. (2026). Using LLMs to Detect Growth in Computational Thinking in Introductory Physics. arXiv preprint. https://arxiv.org/abs/2608.06200 [doi:10.48550/arxiv.2608.06200](https://doi.org/10.48550/arxiv.2608.06200)
 
 `q2 · i?` · `design · r2`
 

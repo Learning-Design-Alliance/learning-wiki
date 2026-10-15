@@ -43,7 +43,7 @@ From the enrollment-effect models addressing Research Question 2: English I enro
 
 
 ## Related Claims
-- [Compressed content, grade retention, and enhanced Response to Intervention show less evidence of substantially shifting outcomes for struggling students, and some carry potential adverse long-term consequences](compressed-content-retention-enhanced-rti-less-evidence.md) — related
+- Compressed content, grade retention, and enhanced Response to Intervention show less evidence of substantially shifting outcomes for struggling students, and some carry potential adverse long-term consequences — related
 - [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — possibly the same claim (merge candidate)
 - [The policy substantially increased English I credit earning for low-ability students, with marginal increases in English failure and slightly lower grades](policy-effect-english-credit-increased-marginal-failure.md) — related
 - [Mandated rigorous-curriculum policies in CPS sometimes had adverse consequences: the IDS initiative saw test scores decline and the college-prep-for-all policy increased course failure without achievement gains](mandated-rigor-policies-adverse-consequences.md) — related

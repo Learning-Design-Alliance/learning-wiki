@@ -48,6 +48,6 @@ The playbook's research summary, citing grading research (Brookhart et al.) and 
 - [Contextualized high school GPA had a stronger relationship with college success than contextualized standardized test scores (Bastedo et al., attributed)](contextualized-gpa-stronger-than-contextualized-test-scores.md) — possibly the same claim (merge candidate)
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness](attendance-effort-drive-grades-graduation.md) — related
-- [Prior GPA was the best predictor of students' course grade, whether or not students used courseware.](prior-gpa-best-grade-predictor.md) — related
+- Prior GPA was the best predictor of students' course grade, whether or not students used courseware. — related
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related
 - [The Artifact captures learning experiences within and beyond the classroom, revealing learning habits and mindsets relevant to action-based pedagogy](artifact-captures-learning-in-action.md) — related

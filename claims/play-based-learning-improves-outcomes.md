@@ -82,13 +82,13 @@ This systematic review searched for studies (1977–2020) comparing guided play 
 - [Cognitive Apprenticeship](../theories/cognitive-apprenticeship.md) — models how adult scaffolding structures otherwise informal activity
 - [Cognitive Load Theory](../theories/cognitive-load-theory.md) — explains why unscaffolded discovery through play can overload novices
 - [Exercise of autonomy at one level may inhibit its development at another in early literacy learning](autonomy-at-one-level-may-inhibit-another.md) — related
-- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy — related
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathematics indistinguishable from those in science and social studies, in one meta-analysis](writing-improves-mathematical-understanding.md) — related
 - [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](minimally-guided-approaches-ignore-cognitive-architecture.md) — related
 - [Cognitive load reduction improves learning](cognitive-load-reduction-improves-learning.md) — adult scaffolding in guided play functions as load management for young novices
 - [Direct instruction](../patterns/direct-instruction.md) — the comparison condition on the play–instruction continuum
-- [Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading](literacy-embedded-play-increases-literacy-engagement.md) — related
+- Embedding literacy materials in play settings increases children's literacy engagement and environmental print reading — related
 - [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md) — a narrower finding that bears on this claim
 - [Parents play an important role in young children's math development](parents-role-early-math-development.md) — related
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — related

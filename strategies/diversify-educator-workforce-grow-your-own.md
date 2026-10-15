@@ -17,7 +17,7 @@ sources:
 # Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief recommends states diversify and retain the educator workforce to foster belonging and challenge students to thrive. Recommended policies include funding alternative-route Grow Your Own programs, scholarships and loan forgiveness to attract students of color into preparation programs, rigorous program approval standards, oral-based assessment alternatives for native speakers of foreign languages, full tuition scholarships, teacher academies and dual enrollment, and induction and mentoring providing at least two years of support for new teachers.
@@ -39,7 +39,6 @@ The brief recommends states diversify and retain the educator workforce to foste
 
 ## Claims
 
-- [Only 20% of the U.S. national teacher workforce is comprised of teachers of color while most P-12 public school students are children of color](../claims/teacher-workforce-diversity-disparity-20-percent.md) [+W]
 
 ## Related Strategies
 

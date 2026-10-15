@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: suhyeon-lee-2026
-    resource: "https://arxiv.org/abs/2608.22993"
-    title: "Suhyeon Lee, Juneha Baek, Jaehyeong Park, Donghyuk Shin. (2026). LLM Pedagogical Behavior in AI Tutoring Interactions. https://arxiv.org/abs/2608.22993"
+    resource: "https://doi.org/10.48550/arxiv.2608.22993"
+    title: "Suhyeon Lee, Juneha Baek, Jaehyeong Park, Donghyuk Shin. (2026). LLM Pedagogical Behavior in AI Tutoring Interactions. https://arxiv.org/abs/2608.22993 [doi:10.48550/arxiv.2608.22993](https://doi.org/10.48550/arxiv.2608.22993)"
     author: Suhyeon Lee, Juneha Baek, Jaehyeong Park, Donghyuk Shin
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Suhyeon Lee 2026
 
-Suhyeon Lee, Juneha Baek, Jaehyeong Park, Donghyuk Shin. (2026). LLM Pedagogical Behavior in AI Tutoring Interactions. https://arxiv.org/abs/2608.22993
+Suhyeon Lee, Juneha Baek, Jaehyeong Park, Donghyuk Shin. (2026). LLM Pedagogical Behavior in AI Tutoring Interactions. https://arxiv.org/abs/2608.22993 [doi:10.48550/arxiv.2608.22993](https://doi.org/10.48550/arxiv.2608.22993)
 
 `q2 · i?` · `associational · r2`
 

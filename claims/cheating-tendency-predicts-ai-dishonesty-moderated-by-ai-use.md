@@ -43,8 +43,8 @@ Moderation tested with Hayes' PROCESS Model 14 in the survey of 1,045 undergradu
 ## Related Claims
 - [Cheating tendency mediates the effects of procrastination, learned helplessness, and self-efficacy on AI-assisted dishonesty, with indirect effects stronger at higher AI use](cheating-tendency-mediated-indirect-effects-stronger-high-ai-use.md) — a broader claim this one bears on
 - [Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negatively predicts it](social-contextual-predictors-ai-assisted-dishonesty.md) — related
-- [Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV](lms-traces-predict-ai-assisted-cheating-risk.md) — related
+- Early-semester LMS interaction data predicts AI-assisted cheating risk in the final exam, with Logistic Regression achieving AUC = 0.763 under LOOCV — related
 - [Academic procrastination and learned helplessness positively predict cheating tendency, while academic self-efficacy negatively predicts it among university students](psychological-antecedents-predict-cheating-tendency.md) — related
 - [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](self-efficacy-negative-ability-not-correlated-cheating.md) — related
 - [Students with higher perceived academic dishonesty perceive greater risk in using ChatGPT](pad-positively-related-perceived-risk.md) — related
-- [Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60)](stable-lms-features-lower-in-high-risk-group.md) — related
+- Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60) — related

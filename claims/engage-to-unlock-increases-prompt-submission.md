@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xiaotian-su-2026
-    resource: "https://arxiv.org/abs/2610.01518"
-    title: "Xiaotian Su, Laura Rimell, Jiazheng Li, Amal Rannen-Triki, Ulrich Paquet, Lisa Anne Hendricks, Rida Qadri, Daphne Ippolito and Piotr Mirowski. (2026). Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI. https://arxiv.org/abs/2610.01518"
+    resource: "https://doi.org/10.48550/arxiv.2610.01518"
+    title: "Xiaotian Su, Laura Rimell, Jiazheng Li, Amal Rannen-Triki, Ulrich Paquet, Lisa Anne Hendricks, Rida Qadri, Daphne Ippolito and Piotr Mirowski. (2026). Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI. https://arxiv.org/abs/2610.01518 [doi:10.48550/arxiv.2610.01518](https://doi.org/10.48550/arxiv.2610.01518)"
     author: Xiaotian Su, Laura Rimell, Jiazheng Li, Amal Rannen-Triki, Ulrich Paquet, Lisa Anne Hendricks, Rida Qadri, Daphne Ippolito and Piotr Mirowski
     q: 3
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Xiaotian Su 2026
 
-Xiaotian Su, Laura Rimell, Jiazheng Li, Amal Rannen-Triki, Ulrich Paquet, Lisa Anne Hendricks, Rida Qadri, Daphne Ippolito and Piotr Mirowski. (2026). Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI. https://arxiv.org/abs/2610.01518
+Xiaotian Su, Laura Rimell, Jiazheng Li, Amal Rannen-Triki, Ulrich Paquet, Lisa Anne Hendricks, Rida Qadri, Daphne Ippolito and Piotr Mirowski. (2026). Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI. https://arxiv.org/abs/2610.01518 [doi:10.48550/arxiv.2610.01518](https://doi.org/10.48550/arxiv.2610.01518)
 
 `q3 · i3` · `causal · r2`
 

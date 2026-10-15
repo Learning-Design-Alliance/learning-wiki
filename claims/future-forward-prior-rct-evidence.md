@@ -67,15 +67,15 @@ This report narrates the prior i3-funded RCT by Jones & Christian (2020), which 
 
 ## Related Claims
 
-- [A COVID-19-modified version of Future Forward yielded a non-significant but positive effect of +0.09](future-forward-covid-modified-nonsignificant-effect.md) — related
-- [One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction](future-forward-improves-school-attendance.md) — a narrower finding that bears on this claim
-- [A one-semester version of Future Forward showed significant reading gains on Star Reading and DIBELS](future-forward-one-semester-significant-reading-gains.md) — a narrower finding that bears on this claim
-- [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](future-forward-differential-impact-subgroups.md) — related
-- [Black male students with low baseline attendance show the largest Future Forward attendance gains, though not statistically significant](future-forward-black-male-low-attendance-gains.md) — related
-- [The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions](future-forward-tutoring-scaled-up.md) — related
-- [The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts](future-forward-family-engagement-not-scaled.md) — related
-- [Future Forward produces statistically significant gains in foundational literacy skills in a two-year RCT](future-forward-rct-literacy-gains.md) — related
-- [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](future-forward-rd-nonsignificant-positive-effect.md) — related
-- [FF's attendance impact was greatest for Black male students, and especially Black male students with low baseline attendance](ff-intersectional-impact-black-male-low-attendance.md) — related
+- A COVID-19-modified version of Future Forward yielded a non-significant but positive effect of +0.09 — related
+- One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction — a narrower finding that bears on this claim
+- A one-semester version of Future Forward showed significant reading gains on Star Reading and DIBELS — a narrower finding that bears on this claim
+- The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance — related
+- Black male students with low baseline attendance show the largest Future Forward attendance gains, though not statistically significant — related
+- The tutoring component of Future Forward scaled up successfully to 14 schools, with 89.7% of participants receiving the intended sessions — related
+- The family engagement component of Future Forward did not fully scale up, with only about 30% of families receiving intended contacts — related
+- Future Forward produces statistically significant gains in foundational literacy skills in a two-year RCT — related
+- A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth — related
+- FF's attendance impact was greatest for Black male students, and especially Black male students with low baseline attendance — related
 - [Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial](rd-replication-matches-experimental-estimates-two-interventions.md) — related
 - [The case study cannot distinguish which program elements caused the positive impacts](bell-elements-causal-attribution-limited.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hyeongdon-moon-2026
-    resource: "https://arxiv.org/abs/2605.07040"
-    title: "Hyeongdon Moon, Carolyn Rosé, and John Stamper. (2026). Cognitive Agent Compilation for Explicit Problem Solver Modeling. https://arxiv.org/abs/2605.07040"
+    resource: "https://doi.org/10.48550/arxiv.2605.07040"
+    title: "Hyeongdon Moon, Carolyn Rosé, and John Stamper. (2026). Cognitive Agent Compilation for Explicit Problem Solver Modeling. https://arxiv.org/abs/2605.07040 [doi:10.48550/arxiv.2605.07040](https://doi.org/10.48550/arxiv.2605.07040)"
     author: Hyeongdon Moon, Carolyn Rosé, and John Stamper
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hyeongdon Moon 2026
 
-Hyeongdon Moon, Carolyn Rosé, and John Stamper. (2026). Cognitive Agent Compilation for Explicit Problem Solver Modeling. https://arxiv.org/abs/2605.07040
+Hyeongdon Moon, Carolyn Rosé, and John Stamper. (2026). Cognitive Agent Compilation for Explicit Problem Solver Modeling. https://arxiv.org/abs/2605.07040 [doi:10.48550/arxiv.2605.07040](https://doi.org/10.48550/arxiv.2605.07040)
 
 `q1 · i?` · `design · r2`
 

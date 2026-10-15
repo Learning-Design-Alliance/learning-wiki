@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The authors assert that the mediation process remains applicable and beneficial regardless of barriers such as environmental problems, socio-economic conditions and mental disorders, even when mediation arrives late. [→ Mutlu 2019](#mutlu-2019)

@@ -86,7 +86,7 @@ Post-survey comparisons in RQ3; trust (p = 0.1456) and acceptance (p = 0.2393) a
 |---|---|---|---|
 | Chloe Qianhui Zhao 2026 | q3 · causal · r2 | i? | this claim |
 | [Patricia D. Simon 2026](https://doi.org/10.1016/j.caeo.2026.100360) | q2 · review · r3 | i? | [Providing elaborate explanations and summary interactives instead of just scores increases](elaborate-feedback-raises-engagement-perceptions.md) (supports) |
-| Raigul Zheldibayeva 2025 | q2 · qualitative · r3 | i? | [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned](students-value-detailed-rubric-aligned-genai-feedback.md) (supports) |
+| [Raigul Zheldibayeva 2025](https://doi.org/10.48550/arxiv.2605.17055) | q2 · qualitative · r3 | i? | [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned](students-value-detailed-rubric-aligned-genai-feedback.md) (supports) |
 | [Winstone 2026](https://doi.org/10.1080/02602938.2026.2643333) | q2 · review · r2 | i? | [Students rate human-generated feedback as superior to AI-generated feedback in quality, he](human-feedback-rated-superior-to-ai-feedback.md) (qualifies) |
 | [Jin 2025](https://doi.org/10.18608/jla.2025.8609) | q2 · qualitative · r2 | i? | [Student perceptions of GenAI feedback functionalities diverged, with some finding them red](divergent-perceptions-genai-feedback-redundancy.md) (qualifies) |
 | Yeon Su Park 2026 | q2 · design · r2 | i? | [Discrepancies between lenient learner feedback and more critical automated feedback caused](feedback-source-discrepancies-cause-confusion.md) (qualifies) |

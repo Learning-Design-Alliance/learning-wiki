@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yu-liming-1990
-    resource: "https://eric.ed.gov/?id=EJ420159"
-    title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159"
+    resource: "https://doi.org/10.18806/tesl.v8i1.575"
+    title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159 [doi:10.18806/tesl.v8i1.575](https://doi.org/10.18806/tesl.v8i1.575)"
     author: Yu Liming
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Pushing for comprehensible output drives understanding and assimilation of comprehensible input
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r1`–`r2` · `q1`
+> **Evidence** · 2 studies · 2 qualitative `r1`–`r2` · `q1`
 
 ## Subclaims
 `q1 i?` A clearer understanding of a structure such as the past progressive was achieved when the learner pushed for it in output, not when input containing it was merely directed at the learner. [→ Yu Liming 1990](#yu-liming-1990)
@@ -40,7 +40,7 @@ sources:
 
 ### Yu Liming 1990
 
-Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
+Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159 [doi:10.18806/tesl.v8i1.575](https://doi.org/10.18806/tesl.v8i1.575)
 
 `q1 · i?` · `qualitative · r1`
 
@@ -62,7 +62,7 @@ Diary self-study: although "take somebody's call" had been heard and seen on a d
 
 
 ## Related Claims
-- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — related
+- There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related
 - [Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output](pushing-output-elicits-negative-input.md) — related
 - [Syntactic rather than semantic processing of input is essential for correcting incomprehensible output](syntactic-processing-corrects-incomprehensible-output.md) — related
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sempowicz-2011
-    resource: "https://ro.ecu.edu.au/ajte/vol36/iss8/1"
-    title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1"
+    resource: "https://doi.org/10.14221/ajte.2011v36n8.4"
+    title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1 [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)"
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sempowicz 2011
 
-Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
+Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1 [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -46,6 +46,6 @@ Case-study finding from researcher observations and interviews: the mentee selec
 - [Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time](effective-classroom-management-engages-students-over-90-percent-of-time.md) — related
 - [Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment](five-factor-mentoring-30-of-34-practices-classroom-management.md) — a broader claim this one bears on
 - [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — related
-- [Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning](mentor-program-concepts-support-student-teacher-learning.md) — a broader claim this one bears on
+- Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning — a broader claim this one bears on
 - [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](repeated-short-lessons-scaffold-mentee-behaviour-management.md) — related
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related

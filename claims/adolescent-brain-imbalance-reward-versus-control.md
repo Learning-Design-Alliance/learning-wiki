@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` During early and mid-adolescence (11-15 years), brain systems that seek rewards and process emotions are more developed than cognitive control systems responsible for good decision-making and future planning, meaning self-regulation is developmentally out of balance at this age. [→ Murray 2017](#murray-2017)
@@ -43,7 +44,7 @@ The brief reports this developmental neuroscience finding as background from res
 
 
 ## Related Claims
-- [A rapid increase in dopamine activity in the adolescent brain's reward center contributes to teen risk-taking](adolescent-dopamine-surge-drives-risk-taking.md) — related
-- [Adolescents rely more on the amygdala and less on frontal regions than adults when processing emotional stimuli, and younger teens often misread facial expressions](adolescents-amygdala-driven-emotion-processing.md) — related
+- A rapid increase in dopamine activity in the adolescent brain's reward center contributes to teen risk-taking — related
+- Adolescents rely more on the amygdala and less on frontal regions than adults when processing emotional stimuli, and younger teens often misread facial expressions — related
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
-- [A second wave of brain development, including experience-dependent synaptic pruning, occurs during adolescence from roughly age 11 or 12 through approximately 24](adolescent-second-wave-brain-development-pruning.md) — related
+- A second wave of brain development, including experience-dependent synaptic pruning, occurs during adolescence from roughly age 11 or 12 through approximately 24 — related

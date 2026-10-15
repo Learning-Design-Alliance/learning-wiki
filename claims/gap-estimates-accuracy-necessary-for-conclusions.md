@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2018
-    resource: "https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/"
-    title: "James Soland. (2018). The achievement gap or the engagement gap? Investigating the sensitivity of gaps estimates to test motivation. Applied Measurement in Education 31(4), 312-323. https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/"
+    resource: "https://doi.org/10.1080/08957347.2018.1495213"
+    title: "James Soland. (2018). The achievement gap or the engagement gap? Investigating the sensitivity of gaps estimates to test motivation. Applied Measurement in Education 31(4), 312-323. https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/ [doi:10.1080/08957347.2018.1495213](https://doi.org/10.1080/08957347.2018.1495213)"
     author: James Soland
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2018
 
-James Soland. (2018). The achievement gap or the engagement gap? Investigating the sensitivity of gaps estimates to test motivation. Applied Measurement in Education 31(4), 312-323. https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/
+James Soland. (2018). The achievement gap or the engagement gap? Investigating the sensitivity of gaps estimates to test motivation. Applied Measurement in Education 31(4), 312-323. https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/ [doi:10.1080/08957347.2018.1495213](https://doi.org/10.1080/08957347.2018.1495213)
 
 `q1 · i?` · `theoretical · r1`
 
@@ -43,7 +43,7 @@ Abstract-level framing argument from the article's introduction of why gap estim
 
 
 ## Related Claims
-- [The developed MIRT equating methods behave as unbiased, effective, and consistent estimators of transformation parameters](mirt-equating-methods-unbiased-effective-consistent.md) — related
+- The developed MIRT equating methods behave as unbiased, effective, and consistent estimators of transformation parameters — related
 - [Stage 1 (after the first unit review assignment) is the optimal point for identifying at-risk students, balancing timeliness, accuracy, and fairness](stage1-optimal-early-at-risk-identification.md) — related
 - [Standard errors sometimes differ across estimators, so policy conclusions from clustered education RCTs could be sensitive to the choice of estimator](rct-policy-conclusions-sensitive-to-estimator-choice.md) — related
 - [The article investigates whether achievement gap estimates are sensitive to test motivation, framing the question as achievement gap versus engagement gap](gap-estimates-sensitive-to-test-motivation-investigation.md) — a narrower finding that bears on this claim

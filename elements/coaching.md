@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (10 for, 5 mixed, 1 unmarked) · 24 studies (9 review, 5 causal, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 0 of 24 report an effect size · 9 claims rest on one study
+> **Evidence** · 15 claims (9 for, 5 mixed, 1 unmarked) · 24 studies (9 review, 5 causal, 4 qualitative, 2 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 0 of 24 report an effect size · 8 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -54,7 +54,6 @@ Coaching accelerates skill development by keeping learners in a productive strug
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)](../claims/ai-contextual-affordances-scaffolding-simulation.md) [+M]
-- [Most coached teachers report improvement across classroom challenge categories after working with a coach](../claims/coaching-improves-classroom-challenge-categories.md) [+W]
 - [Long Beach schools with assigned math coaches showed markedly and disproportionately rising CAASPP scores, though causation could not be tied to coaching](../claims/long-beach-coach-assigned-schools-caaspp-rose.md) [~W]
 - [Instructor access to students' individual Web folders enabled coaching on work-in-progress in the Web-based course](../claims/web-folders-enable-coaching.md) [+W]
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](../claims/bounded-reliance-hybrid-feedback-preference.md) [+W]

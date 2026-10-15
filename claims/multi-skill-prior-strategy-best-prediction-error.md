@@ -44,4 +44,4 @@ The authors compared three strategies for setting initial individualized knowled
 
 ## Related Claims
 - [Individualizing the initial knowledge parameter reliably improves prediction of real-world data](individualizing-initial-knowledge-improves-prediction.md) — related
-- [Training dAFM with individualized student ability estimates yields essentially no prediction benefit over average ability](individualized-ability-no-benefit-dafm.md) — related
+- Training dAFM with individualized student ability estimates yields essentially no prediction benefit over average ability — related

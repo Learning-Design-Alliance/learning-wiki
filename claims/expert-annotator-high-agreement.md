@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: michal-štefánik-2026
-    resource: "https://arxiv.org/abs/2609.20484"
-    title: "Michal Štefánik, Jan Nehyba, Jirina Karasova, Martin Fico, Lucie Škarková, Markéta Košatková, David Kosatka. (2026). Edustories: A Collection of Real-world Case Studies from Classroom Practices. https://arxiv.org/abs/2609.20484"
+    resource: "https://doi.org/10.48550/arxiv.2609.20484"
+    title: "Michal Štefánik, Jan Nehyba, Jirina Karasova, Martin Fico, Lucie Škarková, Markéta Košatková, David Kosatka. (2026). Edustories: A Collection of Real-world Case Studies from Classroom Practices. https://arxiv.org/abs/2609.20484 [doi:10.48550/arxiv.2609.20484](https://doi.org/10.48550/arxiv.2609.20484)"
     author: Michal Štefánik, Jan Nehyba, Jirina Karasova, Martin Fico, Lucie Škarková, Markéta Košatková, David Kosatka
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Michal Štefánik 2026
 
-Michal Štefánik, Jan Nehyba, Jirina Karasova, Martin Fico, Lucie Škarková, Markéta Košatková, David Kosatka. (2026). Edustories: A Collection of Real-world Case Studies from Classroom Practices. https://arxiv.org/abs/2609.20484
+Michal Štefánik, Jan Nehyba, Jirina Karasova, Martin Fico, Lucie Škarková, Markéta Košatková, David Kosatka. (2026). Edustories: A Collection of Real-world Case Studies from Classroom Practices. https://arxiv.org/abs/2609.20484 [doi:10.48550/arxiv.2609.20484](https://doi.org/10.48550/arxiv.2609.20484)
 
 `q2 · i?` · `design · r2`
 

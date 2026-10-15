@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sagnik-nath-2026
-    resource: "https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv"
-    title: "Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv"
+    resource: "https://doi.org/10.1007/978-3-032-30860-3_11"
+    title: "Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv [doi:10.1007/978-3-032-30860-3_11](https://doi.org/10.1007/978-3-032-30860-3_11)"
     author: Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Code-augmented interaction redistributes failures into protocol, execution, and mathematical layers, with Gemini 2.5 Pro failing mostly through protocol violations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Under the code-augmented condition, failures separate into protocol violations, execution failures, and mathematically incorrect computations, and models differ markedly in where they fail. [→ Sagnik Nath 2026](#sagnik-nath-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sagnik Nath 2026
 
-Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv
+Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv [doi:10.1007/978-3-032-30860-3_11](https://doi.org/10.1007/978-3-032-30860-3_11)
 
 `q2 · i?` · `causal · r2`
 

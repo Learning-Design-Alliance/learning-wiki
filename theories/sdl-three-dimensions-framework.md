@@ -16,7 +16,7 @@ sources:
 # Three-dimension framework distinguishing self-initiated learning, self-direction as personal attribute, and self-direction as educational goal
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Following formulations by Caffarella and O'Donnell, the authors propose that debate about self-directed learning is "crucially including three dimensions": self-initiated learning occurring within or outside formal contexts; self-directed learning as a personal attribute of the learner; and self-direction in learning as a goal of education. The framework tidies a debate in which, as Caffarella and O'Donnell warn, over-defining can make the concept vacuous by applying to nothing or to everything. The review's own focus is self-initiated learning outside formal contexts.
@@ -37,9 +37,6 @@ Following formulations by Caffarella and O'Donnell, the authors propose that deb
 
 ### Claims
 
-- [Research on adults' self-directed learning has been extensive in North America but almost absent in Britain over the past twenty-five years](../claims/north-american-british-sdl-research-imbalance.md) [+W]
-- [Penland's 1979 national survey found about 80% of US adults considered themselves continuing learners and over three quarters had planned their own learning projects in the prior year](../claims/penland-1979-national-self-initiated-learning.md) [+W]
-- [Tough's 1967 study found all forty sampled graduates engaged in self-teaching, assisted on average by 10.6 helpers each](../claims/tough-1967-adults-self-teach-with-helpers.md) [+W]
 - [Tough's 1971 study found nearly all adults had undertaken a learning project in the past year, 68% self-planned and under 1% for credit, with women's categories logging fewer hours](../claims/tough-1971-learning-projects-prevalence-self-planned.md) [+W]
 
 ## Related Theories

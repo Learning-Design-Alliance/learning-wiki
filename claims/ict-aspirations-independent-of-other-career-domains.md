@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: popa-2022
-    resource: "https://arxiv.org/abs/2605.27391"
-    title: "Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391"
+    resource: "https://doi.org/10.48550/arxiv.2605.27391"
+    title: "Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)"
     author: "Popa, D. M., Oprea, S.-V., & Bâra, A."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Popa 2022
 
-Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391
+Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)
 
 `q2 · i?` · `associational · r1`
 

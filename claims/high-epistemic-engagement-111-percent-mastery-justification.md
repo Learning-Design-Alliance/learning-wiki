@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: menggian-wu-2026
-    resource: "https://arxiv.org/abs/2607.00211"
-    title: "Menggian Wu. (2026). Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming. 2nd International Workshop on AI Literacy Education For All (ALIT4ALL 2026), co-located with AIED 2026, Seoul, Republic of Korea. https://arxiv.org/abs/2607.00211"
+    resource: "https://doi.org/10.48550/arxiv.2607.00211"
+    title: "Menggian Wu. (2026). Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming. 2nd International Workshop on AI Literacy Education For All (ALIT4ALL 2026), co-located with AIED 2026, Seoul, Republic of Korea. https://arxiv.org/abs/2607.00211 [doi:10.48550/arxiv.2607.00211](https://doi.org/10.48550/arxiv.2607.00211)"
     author: Menggian Wu
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Profiles in which mastery-oriented aims co-occur with epistemic justification (and explanation seeking) account for only 11.1% of observed interactions. [→ Menggian Wu 2026](#menggian-wu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Menggian Wu 2026
 
-Menggian Wu. (2026). Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming. 2nd International Workshop on AI Literacy Education For All (ALIT4ALL 2026), co-located with AIED 2026, Seoul, Republic of Korea. https://arxiv.org/abs/2607.00211
+Menggian Wu. (2026). Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming. 2nd International Workshop on AI Literacy Education For All (ALIT4ALL 2026), co-located with AIED 2026, Seoul, Republic of Korea. https://arxiv.org/abs/2607.00211 [doi:10.48550/arxiv.2607.00211](https://doi.org/10.48550/arxiv.2607.00211)
 
 `q2 · i?` · `associational · r1`
 

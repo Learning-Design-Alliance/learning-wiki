@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: zheng-li-2026
-    resource: "https://arxiv.org/abs/2601.21375"
-    title: "Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375"
+    resource: "https://doi.org/10.48550/arxiv.2601.21375"
+    title: "Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375 [doi:10.48550/arxiv.2601.21375](https://doi.org/10.48550/arxiv.2601.21375)"
     author: Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zheng Li 2026
 
-Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375
+Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375 [doi:10.48550/arxiv.2601.21375](https://doi.org/10.48550/arxiv.2601.21375)
 
 `q2 · i?` · `design · r2`
 

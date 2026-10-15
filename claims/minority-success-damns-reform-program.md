@@ -43,4 +43,4 @@ Anecdotal case reported by the author from a researcher network on inquiry-based
 
 
 ## Related Claims
-- [In a contrasting case study of Chicago schools with teacher-reported strong principal instructional leadership, half showed continuously growing test scores while half did not](strong-leadership-schools-split-test-score-growth.md) — related
+- In a contrasting case study of Chicago schools with teacher-reported strong principal instructional leadership, half showed continuously growing test scores while half did not — related

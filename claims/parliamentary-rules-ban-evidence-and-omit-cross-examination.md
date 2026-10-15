@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Parliamentary debate discourages specific knowledge and bans published material in rounds, which the author argues voids critical components of academic debate training. [→ Jensen 1996](#jensen-1996)
@@ -62,6 +63,6 @@ The author's rule analysis identifies the missing cross examination period as a 
 
 
 ## Related Claims
-- [Less experienced debate judges are more likely to be assigned to parliamentary debate](inexperienced-judges-assigned-to-parliamentary-debate.md) — related
-- [Judges surveyed perceive CEDA/NDT debaters as devoting more weekly work than parliamentary debaters](judges-perceive-ceda-ndt-work-exceeds-parliamentary-work.md) — related
+- Less experienced debate judges are more likely to be assigned to parliamentary debate — related
+- Judges surveyed perceive CEDA/NDT debaters as devoting more weekly work than parliamentary debaters — related
 - [In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate](survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) — related

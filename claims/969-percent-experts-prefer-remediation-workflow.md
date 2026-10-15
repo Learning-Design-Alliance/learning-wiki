@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xinchen-ma-2026
-    resource: "https://arxiv.org/abs/2609.24083"
-    title: "Xinchen Ma, Shuimu Wang, Gaole He, Yanbin Zhang, Chunyang Wang, Yunshi Lan, Weining Qian. (2026). From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning. https://arxiv.org/abs/2609.24083"
+    resource: "https://doi.org/10.48550/arxiv.2609.24083"
+    title: "Xinchen Ma, Shuimu Wang, Gaole He, Yanbin Zhang, Chunyang Wang, Yunshi Lan, Weining Qian. (2026). From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning. https://arxiv.org/abs/2609.24083 [doi:10.48550/arxiv.2609.24083](https://doi.org/10.48550/arxiv.2609.24083)"
     author: Xinchen Ma, Shuimu Wang, Gaole He, Yanbin Zhang, Chunyang Wang, Yunshi Lan, Weining Qian
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xinchen Ma 2026
 
-Xinchen Ma, Shuimu Wang, Gaole He, Yanbin Zhang, Chunyang Wang, Yunshi Lan, Weining Qian. (2026). From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning. https://arxiv.org/abs/2609.24083
+Xinchen Ma, Shuimu Wang, Gaole He, Yanbin Zhang, Chunyang Wang, Yunshi Lan, Weining Qian. (2026). From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning. https://arxiv.org/abs/2609.24083 [doi:10.48550/arxiv.2609.24083](https://doi.org/10.48550/arxiv.2609.24083)
 
 `q2 · i?` · `design · r2`
 

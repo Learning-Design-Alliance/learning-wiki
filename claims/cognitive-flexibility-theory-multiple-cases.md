@@ -71,7 +71,7 @@ This random-effects meta-analysis covers 57 laboratory and classroom experiments
 | [Gentner et al. 2003](https://doi.org/10.1037/0022-0663.95.2.393) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
 | [Rittle-Johnson & Star 2007](https://doi.org/10.1037/0022-0663.99.3.561) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
 | Shavelson 1986 | q2 · review · r2 | i? | [Encoding variability across varied example contexts produces decontextualization supportin](encoding-variability-decontextualization-transfer.md) (supports) |
-| Chokri Barhoumi; Pier Giuseppe Rossi 2013 | q2 · causal · r1 | i? | [A flexible hypertext course group averaged 76% on achievement tests against 59% for a dire](cft-hypertext-design-higher-achievement-scores.md) (qualifies) |
+| [Chokri Barhoumi; Pier Giuseppe Rossi 2013](https://doi.org/10.30935/cedtech/6109) | q2 · causal · r1 | i? | [A flexible hypertext course group averaged 76% on achievement tests against 59% for a dire](cft-hypertext-design-higher-achievement-scores.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

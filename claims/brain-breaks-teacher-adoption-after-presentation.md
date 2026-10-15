@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` At Laurelwood Elementary, an estimated 80-90 percent of teachers implemented brain breaks after the research team presented evidence on their benefits. [→ Improving Research and Practice through Partnership: Lessons Learned from Santa Clara Unified Schools and UC San Francisco Researchers 2016](#improving-research-and-practice-through-partnership-lessons-learned-from-santa-clara-unified-schools-and-uc-san-francisco-researchers-2016)

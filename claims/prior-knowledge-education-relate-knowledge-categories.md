@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: guttormsen-schär-2007
-    resource: "https://eric.ed.gov/?id=EJ826063"
-    title: "Guttormsen Schär, S., & Zimmermann, P. G. (2007). Investigating Means to Reduce Cognitive Load from Animations: Applying Differentiated Measures of Knowledge Representation. Journal of Research on Technology in Education, 40(1), 64–78. https://eric.ed.gov/?id=EJ826063"
+    resource: "https://doi.org/10.1080/15391523.2007.10782497"
+    title: "Guttormsen Schär, S., & Zimmermann, P. G. (2007). Investigating Means to Reduce Cognitive Load from Animations: Applying Differentiated Measures of Knowledge Representation. Journal of Research on Technology in Education, 40(1), 64–78. https://eric.ed.gov/?id=EJ826063 [doi:10.1080/15391523.2007.10782497](https://doi.org/10.1080/15391523.2007.10782497)"
     author: "Guttormsen Schär, S., & Zimmermann, P. G."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Guttormsen Schär 2007
 
-Guttormsen Schär, S., & Zimmermann, P. G. (2007). Investigating Means to Reduce Cognitive Load from Animations: Applying Differentiated Measures of Knowledge Representation. Journal of Research on Technology in Education, 40(1), 64–78. https://eric.ed.gov/?id=EJ826063
+Guttormsen Schär, S., & Zimmermann, P. G. (2007). Investigating Means to Reduce Cognitive Load from Animations: Applying Differentiated Measures of Knowledge Representation. Journal of Research on Technology in Education, 40(1), 64–78. https://eric.ed.gov/?id=EJ826063 [doi:10.1080/15391523.2007.10782497](https://doi.org/10.1080/15391523.2007.10782497)
 
 `q2 · i?` · `causal · r1`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: margaret-ellis-2026
-    resource: "https://arxiv.org/abs/2606.30908"
-    title: "Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, and Naren Ramakrishnan. (2026). Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2. arXiv. https://arxiv.org/abs/2606.30908"
+    resource: "https://doi.org/10.48550/arxiv.2606.30908"
+    title: "Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, and Naren Ramakrishnan. (2026). Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2. arXiv. https://arxiv.org/abs/2606.30908 [doi:10.48550/arxiv.2606.30908](https://doi.org/10.48550/arxiv.2606.30908)"
     author: "Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, and Naren Ramakrishnan"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Margaret Ellis 2026
 
-Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, and Naren Ramakrishnan. (2026). Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2. arXiv. https://arxiv.org/abs/2606.30908
+Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, and Naren Ramakrishnan. (2026). Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2. arXiv. https://arxiv.org/abs/2606.30908 [doi:10.48550/arxiv.2606.30908](https://doi.org/10.48550/arxiv.2606.30908)
 
 `q2 · i?` · `design · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zain-naboulsi-2026
-    resource: "https://arxiv.org/abs/2604.17460"
-    title: "Zain Naboulsi. (2026). Agentic Education: Using Claude Code to Teach Claude Code. arXiv. https://arxiv.org/abs/2604.17460"
+    resource: "https://doi.org/10.48550/arxiv.2604.17460"
+    title: "Zain Naboulsi. (2026). Agentic Education: Using Claude Code to Teach Claude Code. arXiv. https://arxiv.org/abs/2604.17460 [doi:10.48550/arxiv.2604.17460](https://doi.org/10.48550/arxiv.2604.17460)"
     author: Zain Naboulsi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zain Naboulsi 2026
 
-Zain Naboulsi. (2026). Agentic Education: Using Claude Code to Teach Claude Code. arXiv. https://arxiv.org/abs/2604.17460
+Zain Naboulsi. (2026). Agentic Education: Using Claude Code to Teach Claude Code. arXiv. https://arxiv.org/abs/2604.17460 [doi:10.48550/arxiv.2604.17460](https://doi.org/10.48550/arxiv.2604.17460)
 
 `q2 · i?` · `design · r?`
 

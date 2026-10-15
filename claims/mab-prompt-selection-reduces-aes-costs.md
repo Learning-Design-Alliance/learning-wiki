@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: olga-manakina-2026
-    resource: "https://arxiv.org/abs/2608.23814"
-    title: "Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814"
+    resource: "https://doi.org/10.48550/arxiv.2608.23814"
+    title: "Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814 [doi:10.48550/arxiv.2608.23814](https://doi.org/10.48550/arxiv.2608.23814)"
     author: Olga Manakina, Igor Bogdanov
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Olga Manakina 2026
 
-Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814
+Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814 [doi:10.48550/arxiv.2608.23814](https://doi.org/10.48550/arxiv.2608.23814)
 
 `q2 · i?` · `causal · r1`
 
@@ -46,9 +46,9 @@ Simulation-style experiment on the IELTS Task 2 subset using Google Gemini 2.5, 
 - [The multi-step grading recipe with calibration examples achieves the highest scoring accuracy and receives the majority of bandit arm pulls](multi-step-examples-highest-aes-accuracy.md) — related
 - [Removing detailed rubric explanations from prompts improved grading accuracy across all approaches in an ablation study](simplified-prompts-outperform-detailed-rubrics.md) — related
 - [Grading recipes without calibration examples perform substantially worse on MAE, though multi-step without examples ranks second on QWK](no-example-recipes-worse-mae.md) — related
-- [An optimistic prior distribution partially mitigates MAB power loss without substantially reducing student benefits](optimistic-prior-mitigates-mab-power-loss.md) — related
-- [Over long horizons, MAB assignment places fewer total students in the less effective condition than a shorter uniform experiment followed by committing to one condition](mab-fewer-students-in-worse-condition-long-horizon.md) — related
-- [MAB assignment increases the Type I (false positive) error rate above the nominal alpha level](mab-assignment-increases-type-i-error-rate.md) — related
-- [MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments](mab-assignment-higher-average-student-rewards.md) — related
+- An optimistic prior distribution partially mitigates MAB power loss without substantially reducing student benefits — related
+- Over long horizons, MAB assignment places fewer total students in the less effective condition than a shorter uniform experiment followed by committing to one condition — related
+- MAB assignment increases the Type I (false positive) error rate above the nominal alpha level — related
+- MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments — related
 - MAB (Thompson sampling) assignment reduces statistical power relative to uniform random assignment, requiring roughly doubled sample sizes — related
 - [Removing grid-search initialization of IRT discrimination and difficulty parameters drops scoring performance from QWK 0.747 to 0.705](psyscore-irt-initialization-ablation-qwk-drop.md) — related

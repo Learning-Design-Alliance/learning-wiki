@@ -43,6 +43,6 @@ Analysis of CAASPP ELA performance data for 2022–23. The report states "some s
 
 
 ## Related Claims
-- [Policy adherence is high across states (96-98 percent of eligible students reclassified) but is relatively lower in the state mandating end-of-grade assessment proficiency](policy-adherence-high-but-lower-in-mandated-assessment-state.md) — related
+- Policy adherence is high across states (96-98 percent of eligible students reclassified) but is relatively lower in the state mandating end-of-grade assessment proficiency — related
 - [Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification](proficiency-reclassification-gap-ltels.md) — related
 - [Large performance gaps on grades 6–8 and grade 11 CAASPP ELA and math tests, with LTEL7 students performing at lower levels than other ever-ELs](ltel7-caaspp-performance-gaps.md) — related

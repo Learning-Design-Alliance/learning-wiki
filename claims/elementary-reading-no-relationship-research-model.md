@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Changes in elementary reading achievement showed no relationship to whether schools selected a CSR model with a scientific research base. [→ Orland 2010](#orland-2010)
@@ -44,7 +45,7 @@ Analysis of elementary reading achievement gains from 2002 to 2005 by model rese
 
 ## Related Claims
 - [Low-performing CSR elementary schools that adopted models with scientific research bases gained in mathematics achievement after three years](low-performing-elementary-csr-math-gains-research-models.md) — related
-- [Middle school CSR schools adopting models with limited scientific research bases realized mathematics and reading gains after three years](middle-school-csr-limited-research-base-gains.md) — related
+- Middle school CSR schools adopting models with limited scientific research bases realized mathematics and reading gains after three years — related
 - [Only one-third of CSR schools adopted reform models identified as having a scientific research base](one-third-csr-schools-research-based-models.md) — related
-- [Achievement gains in CSR schools had evaporated after five years, returning to baseline levels](csr-gains-evaporated-five-years-baseline.md) — related
-- [Five years after receiving CSR awards, schools did not demonstrate larger achievement growth than matched comparison schools](csr-award-no-larger-achievement-growth-five-years.md) — related
+- Achievement gains in CSR schools had evaporated after five years, returning to baseline levels — related
+- Five years after receiving CSR awards, schools did not demonstrate larger achievement growth than matched comparison schools — related

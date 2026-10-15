@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gendo-kumoi-2026
-    resource: "https://arxiv.org/abs/2607.12235"
-    title: "Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, and Shigeichi Hirasawa. (2026). A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential. Preprint, under review at IEEE Access. https://arxiv.org/abs/2607.12235"
+    resource: "https://doi.org/10.48550/arxiv.2607.12235"
+    title: "Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, and Shigeichi Hirasawa. (2026). A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential. Preprint, under review at IEEE Access. https://arxiv.org/abs/2607.12235 [doi:10.48550/arxiv.2607.12235](https://doi.org/10.48550/arxiv.2607.12235)"
     author: Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, and Shigeichi Hirasawa
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Gendo Kumoi 2026
 
-Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, and Shigeichi Hirasawa. (2026). A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential. Preprint, under review at IEEE Access. https://arxiv.org/abs/2607.12235
+Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, and Shigeichi Hirasawa. (2026). A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential. Preprint, under review at IEEE Access. https://arxiv.org/abs/2607.12235 [doi:10.48550/arxiv.2607.12235](https://doi.org/10.48550/arxiv.2607.12235)
 
 `q2 · i?` · `causal · r1`
 

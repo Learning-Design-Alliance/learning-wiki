@@ -16,7 +16,7 @@ sources:
 # Plan dual language program resources: personnel, facilities, and partner-language materials
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report advises educators planning dual language programs to budget for three resource categories: personnel (additional administrative and instructional staff, training, and teacher time for translating English materials into the partner language), classroom facilities delivered during regular class time, and curricular and instructional materials in the partner language such as textbooks and assessments. Costs vary: Steele et al. (2018) report about 2% to 4% of per-pupil spending annually, while other studies estimated 7% to 12%.
@@ -38,7 +38,6 @@ The report advises educators planning dual language programs to budget for three
 
 ## Claims
 
-- [Estimated economic costs for English Learner program personnel range from $1,670 to $5,000 per English Learner student annually across interviewed LEAs](../claims/sv-el-program-personnel-economic-costs-1670-to-5000.md) [+W]
 
 ## Related Strategies
 - 

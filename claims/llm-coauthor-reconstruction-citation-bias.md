@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yifan-liu-2026
-    resource: "https://arxiv.org/abs/2606.08936"
-    title: "Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936"
+    resource: "https://doi.org/10.48550/arxiv.2606.08936"
+    title: "Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936 [doi:10.48550/arxiv.2606.08936](https://doi.org/10.48550/arxiv.2606.08936)"
     author: Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yifan Liu 2026
 
-Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936
+Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936 [doi:10.48550/arxiv.2606.08936](https://doi.org/10.48550/arxiv.2606.08936)
 
 `q2 · i?` · `associational · r?`
 

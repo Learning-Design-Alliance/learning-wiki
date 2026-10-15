@@ -43,7 +43,7 @@ The review reports this second-hand finding as evidence of limited AI readiness 
 
 
 ## Related Claims
-- [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
+- Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — related
 - [AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive](low-ai-literacy-positive-attitudes-health-students.md) — related

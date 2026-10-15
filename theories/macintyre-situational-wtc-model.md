@@ -16,7 +16,7 @@ sources:
 # MacIntyre et al.'s situational model of willingness to communicate in L2
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 3 studies (3 associational), `q2` · 1 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (2 associational, 1 design), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The article describes WTC in a second language via the model of MacIntyre et al. (1998), which integrated social-psychological, linguistic, educational and communicative dimensions to predict, describe and explain learners' WTC. WTC is defined as "the probability of engaging in communication when free to do so," a state of readiness to initiate communication at a particular time and in specific situations. The pyramid or heuristic model illustrates twelve variables influencing WTC, including both enduring and temporary effects. The article's class-size findings are framed against this model.
@@ -40,7 +40,6 @@ The article describes WTC in a second language via the model of MacIntyre et al.
 
 - [Class Size Significant Wtc Difference Iranian Efl](../claims/class-size-significant-wtc-difference-iranian-efl.md) [+M]
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](../claims/motivation-correlates-with-l2-wtc-turkish-efl.md) [+W]
-- [Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities](../claims/wtc-variables-positively-correlated-overall-wtc.md) [+W]
 - [Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC](../claims/audio-discussions-no-significant-wtc-change.md) [~W]
 - [Only the smallest class differs significantly from the other two; classes of 10 and 15 do not differ significantly](../claims/tukey-smallest-class-differs-only.md) [+W]
 - [WTC decreases as class size increases on both talk-time and turns of talk](../claims/wtc-decreases-as-class-size-increases.md) [+W]

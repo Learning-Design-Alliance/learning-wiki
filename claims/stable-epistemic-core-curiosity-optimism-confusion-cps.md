@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sifatul-anindho-2026
-    resource: "https://arxiv.org/abs/2607.23317"
-    title: "Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, and Nathaniel Blanchard. (2026). Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving. https://arxiv.org/abs/2607.23317"
+    resource: "https://doi.org/10.48550/arxiv.2607.23317"
+    title: "Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, and Nathaniel Blanchard. (2026). Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving. https://arxiv.org/abs/2607.23317 [doi:10.48550/arxiv.2607.23317](https://doi.org/10.48550/arxiv.2607.23317)"
     author: Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, and Nathaniel Blanchard
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sifatul Anindho 2026
 
-Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, and Nathaniel Blanchard. (2026). Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving. https://arxiv.org/abs/2607.23317
+Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, and Nathaniel Blanchard. (2026). Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving. https://arxiv.org/abs/2607.23317 [doi:10.48550/arxiv.2607.23317](https://doi.org/10.48550/arxiv.2607.23317)
 
 `q2 · i?` · `associational · r1`
 

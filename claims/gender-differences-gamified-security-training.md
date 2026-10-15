@@ -65,7 +65,7 @@ Format-acceptance item in the same gender breakdown of the N=50 survey. Female p
 - [In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training](gamified-modules-beat-mimecast-phishing.md) — related
 - [Playing the gamified security modules raised students' self-reported confidence and understanding of online security](gamified-security-games-confidence-understanding.md) — a broader claim this one bears on
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related
-- [Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures](males-more-work-avoidant-than-females-pbl.md) — related
+- Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures — related
 - [WEC index effects on academic outcomes are more pronounced for male students, with the well-being effect on literacy absent for females](wec-effects-more-pronounced-males-literacy.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related

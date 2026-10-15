@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pierre-haritz-2026
-    resource: "https://arxiv.org/abs/2609.02453"
-    title: "Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453"
+    resource: "https://doi.org/10.48550/arxiv.2609.02453"
+    title: "Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453 [doi:10.48550/arxiv.2609.02453](https://doi.org/10.48550/arxiv.2609.02453)"
     author: Pierre Haritz, Hendrik Krone, and Thomas Liebig
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pierre Haritz 2026
 
-Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453
+Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453 [doi:10.48550/arxiv.2609.02453](https://doi.org/10.48550/arxiv.2609.02453)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -45,6 +45,6 @@ Systematic review of 133 K-12 ML activities analyzing the learning contexts in w
 ## Related Claims
 - [In a review of 126 K-12 ML activities, supervised learning activities cluster overwhelmingly in the lowest algorithmic-abstraction levels](k12-ml-activities-cluster-low-abstraction.md) — related
 - [Of 89 coded supervised learning activities, 69 confine learners to the User role, 17 reach Creator, and 8 reach Machine](k12-supervised-activities-user-role-dominant.md) — related
-- [People may absorb bias from AI and carry it beyond their interactions with the algorithm](humans-absorb-bias-from-ai.md) — related
+- People may absorb bias from AI and carry it beyond their interactions with the algorithm — related
 - [Ethical reflection is often addressed separately from technical and creative AI activities, showing weak co-occurrence with Social Reasoning (42%), Using AI (41%) and Creating with AI (55%)](ethics-weakly-integrated-with-technical-creative-ai-activities.md) — related
 - [Algorithmic and technical-mechanism concepts are marginal in students' AI networks: machine learning was produced by a single participant across 436 respondents](algorithmic-concepts-marginal-machine-learning-single-response.md) — related

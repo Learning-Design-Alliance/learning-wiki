@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Three teaching episodes after the prompted success, Devin still needed prompting to regulate stopping the unit-rate count on a 7T6 task, indicating his construction was at the participatory (prompt-dependent) stage. [→ Risley 2016](#risley-2016)
@@ -43,8 +44,8 @@ Analysis of an October 23, 2014 episode (task 7T6, chosen because both the compi
 
 
 ## Related Claims
-- [Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues](conceptual-factors-beyond-memory-underlie-sld-mdc-challenges.md) — a broader claim this one bears on
+- Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues — a broader claim this one bears on
 - [A student with learning difficulties independently anticipated where to start a coordinated count but failed to anticipate where to stop the unit-rate count with harder numbers](sld-anticipates-start-but-not-stop-in-mdc-hard-numbers.md) — related
-- [A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity](orienting-reflection-to-own-tracking-fosters-monitoring.md) — related
+- A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity — related
 - [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) — related
 - [In the S0-54 tutoring episode, the learner reaches the correct posterior (1/6) yet the three Stage 2 evidence scopes yield different diagnoses, with full trajectory credit withheld because part of the interpretation remains tutor-owned](s0-54-mixed-diagnosis-correct-answer.md) — related

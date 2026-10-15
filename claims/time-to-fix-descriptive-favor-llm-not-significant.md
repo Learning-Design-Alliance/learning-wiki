@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: alexandru-radu-moraru-2026
-    resource: "https://arxiv.org/abs/2608.20896"
-    title: "Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896"
+    resource: "https://doi.org/10.48550/arxiv.2608.20896"
+    title: "Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896 [doi:10.48550/arxiv.2608.20896](https://doi.org/10.48550/arxiv.2608.20896)"
     author: Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alexandru-Radu Moraru 2026
 
-Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896
+Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896 [doi:10.48550/arxiv.2608.20896](https://doi.org/10.48550/arxiv.2608.20896)
 
 `q2 · i?` · `causal · r2`
 
@@ -46,4 +46,4 @@ Time-to-fix analysis of the main Prolific experiment, split by skill level; Figu
 - [LLM-rewritten Python error messages improved subjective evaluations but did not reliably improve objective debugging performance](llm-error-rewrites-subjective-not-objective-gains.md) — related
 - [Pragmatic and contingent LLM rewrites reduced perceived cognitive load relative to standard interpreter messages](llm-rewrites-lower-perceived-cognitive-load.md) — related
 - [Both LLM rewrite styles were rated less authoritative than standard interpreter messages](llm-rewrites-rated-less-authoritative.md) — related
-- [Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero](delayed-final-exam-directional-nonconfirmatory.md) — related
+- Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero — related

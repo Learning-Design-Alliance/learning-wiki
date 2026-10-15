@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: soland-2019
-    resource: "https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/"
-    title: "Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement Gap: Understanding the Relationship between Academic and Social-emotional Growth (The Collaborative for Student Growth at NWEA Working Paper). https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/"
+    resource: "https://doi.org/10.1080/10824669.2020.1787171"
+    title: "Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement Gap: Understanding the Relationship between Academic and Social-emotional Growth (The Collaborative for Student Growth at NWEA Working Paper). https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/ [doi:10.1080/10824669.2020.1787171](https://doi.org/10.1080/10824669.2020.1787171)"
     author: Soland, J.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Soland 2019
 
-Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement Gap: Understanding the Relationship between Academic and Social-emotional Growth (The Collaborative for Student Growth at NWEA Working Paper). https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/
+Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement Gap: Understanding the Relationship between Academic and Social-emotional Growth (The Collaborative for Student Growth at NWEA Working Paper). https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/ [doi:10.1080/10824669.2020.1787171](https://doi.org/10.1080/10824669.2020.1787171)
 
 `q2 · i?` · `associational · r3`
 

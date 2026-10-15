@@ -16,7 +16,7 @@ sources:
 # Five Chicago school turnaround reform models mapped to four federal intervention models
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (5 for, 4 mixed, 1 against) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 10 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 The report organizes Chicago's 1997-2010 district-mandated interventions into five models—Reconstitution, School Closure and Restart, the School Turnaround Specialist Program, Academy for Urban School Leadership, and the Office of School Improvement—classified by three levers of change: staff replacement, leadership replacement, and governance replacement, plus changes in attendance rules. It maps these onto the four federal models, noting that "The AUSL model, the OSI model, and the earlier Reconstitution efforts, contain the elements of the federal turnaround model," STSP corresponds to the transformational model, and Closure and Restart is "analogous to the federal restart model."
@@ -46,9 +46,6 @@ The report organizes Chicago's 1997-2010 district-mandated interventions into fi
 - [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](../claims/turnaround-is-a-process-not-an-event.md) [+W]
 - [Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students](../claims/turnaround-student-composition-stable-except-restart.md) [~M]
 - [Closure and Restart, AUSL, and OSI models rehired fewer than 10 percent of prior teachers, and post-reform workforces were younger, less experienced, more likely white, and more likely provisionally certified](../claims/turnaround-teacher-workforce-replacement-patterns.md) [~M]
-- [Students affected by the school closures were more disadvantaged than typical CPS students, and the closed schools served more vulnerable populations than other schools](../claims/chicago-closings-affected-students-more-disadvantaged.md) [~W]
-- [There was no increase in the share of families leaving CPS after the school closings; 94 percent reenrolled in a CPS school](../claims/chicago-closings-no-increase-in-families-leaving-district.md) [+W]
-- [Two-thirds of reenrolled displaced students attended their designated welcoming school, with rates varying from 6 to 90 percent across closed schools](../claims/chicago-closings-66-percent-attended-welcoming-school.md) [~W]
 
 ## Related Theories
 

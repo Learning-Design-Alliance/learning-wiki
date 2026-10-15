@@ -18,7 +18,7 @@ sources:
 # Math Garden single-digit multiplication error dataset and 14-category error classification
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A research dataset and 14-category taxonomy of single-digit multiplication errors collected from the Math Garden computerized arithmetic practice environment and analyzed by Savi et al. (2021).
@@ -27,10 +27,6 @@ A research dataset and 14-category taxonomy of single-digit multiplication error
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [In single-digit multiplication, most items are susceptible to nearly all considered error causes, which precludes the use of cognitive diagnostic models for this data](../claims/item-cause-density-precludes-cdms.md) [+W]
-- [Larger error windows improve SET ranking performance, with a window of 30 errors yielding the highest MAP regardless of edge-weight transformation](../claims/larger-error-windows-improve-set-ranking.md) [+W]
-- [SET calibration shows a window-size by beta interaction, with the lowest Brier score for window size 30, cause weights, and beta = .6](../claims/set-calibration-window-beta-interaction.md) [+W]
-- [SET adapts its predicted ranking to individual students' errors for the typo and reverse causes but not for all causes](../claims/set-cause-level-ranking-typo-reverse.md) [+W]
 
 ## Related Products and Programmes
 
@@ -65,10 +61,6 @@ Math Garden is a computerized adaptive practice environment for arithmetic, wide
 
 ## Claims
 
-- [In single-digit multiplication, most items are susceptible to nearly all considered error causes, which precludes the use of cognitive diagnostic models for this data](../claims/item-cause-density-precludes-cdms.md) [+W]
-- [Larger error windows improve SET ranking performance, with a window of 30 errors yielding the highest MAP regardless of edge-weight transformation](../claims/larger-error-windows-improve-set-ranking.md) [+W]
-- [SET calibration shows a window-size by beta interaction, with the lowest Brier score for window size 30, cause weights, and beta = .6](../claims/set-calibration-window-beta-interaction.md) [+W]
-- [SET adapts its predicted ranking to individual students' errors for the typo and reverse causes but not for all causes](../claims/set-cause-level-ranking-typo-reverse.md) [+W]
 
 ## Related Elements
 - 

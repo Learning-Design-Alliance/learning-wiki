@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gregorio-orlando-2026
-    resource: "https://arxiv.org/abs/2609.38737"
-    title: "Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737"
+    resource: "https://doi.org/10.48550/arxiv.2609.38737"
+    title: "Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737 [doi:10.48550/arxiv.2609.38737](https://doi.org/10.48550/arxiv.2609.38737)"
     author: Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Drawings produced with AIfred are ranked best by independent art and design professors in 33 of 36 cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` AIfred drawings were ranked 1st in 33 of 36 cases (92%) and never 3rd, while baseline drawings were never ranked 1st and ChatGPT drawings were ranked 1st in only 3 cases. [→ Gregorio Orlando 2026](#gregorio-orlando-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Gregorio Orlando 2026
 
-Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737
+Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737 [doi:10.48550/arxiv.2609.38737](https://doi.org/10.48550/arxiv.2609.38737)
 
 `q2 · i?` · `causal · r1`
 

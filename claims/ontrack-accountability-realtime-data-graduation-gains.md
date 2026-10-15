@@ -62,7 +62,7 @@ The review states that "on-track rates only improved after the district develope
 
 
 ## Related Claims
-- [Chicago's on-track data system was associated with improved high school graduation rates](chicago-ontrack-system-improved-graduation-rates.md) — possibly the same claim (merge candidate)
+- Chicago's on-track data system was associated with improved high school graduation rates — possibly the same claim (merge candidate)
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — related

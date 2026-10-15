@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: madeleine-eastwood-2026
-    resource: "https://arxiv.org/abs/2609.29995"
-    title: "Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995"
+    resource: "https://doi.org/10.48550/arxiv.2609.29995"
+    title: "Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995 [doi:10.48550/arxiv.2609.29995](https://doi.org/10.48550/arxiv.2609.29995)"
     author: Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Socratic + No Context produces the highest query volume and Direct + No Context the longest messages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Query volume differed significantly across conditions (χ²(3)=13.28, p=.004); Socratic + No Context students sent the most queries per problem (μ=11.1) versus 5.1, 4.1, and 4.7 in the other conditions. [→ Madeleine Eastwood 2026](#madeleine-eastwood-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Madeleine Eastwood 2026
 
-Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995
+Madeleine Eastwood, Harshith Narne, Joseph Hilby, Paul Denny, Ashish Aggarwal, and Amanpreet Kapoor. (2026). Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming. https://arxiv.org/abs/2609.29995 [doi:10.48550/arxiv.2609.29995](https://doi.org/10.48550/arxiv.2609.29995)
 
 `q3 · i?` · `causal · r2`
 

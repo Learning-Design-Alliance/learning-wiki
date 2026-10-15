@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kailai-he-2026
-    resource: "https://arxiv.org/abs/2609.21154"
-    title: "Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154"
+    resource: "https://doi.org/10.48550/arxiv.2609.21154"
+    title: "Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154 [doi:10.48550/arxiv.2609.21154](https://doi.org/10.48550/arxiv.2609.21154)"
     author: Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1`–`i3`
+> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i1`–`i3`
 
 ## Subclaims
 `q2 i3` Per-answer mastery_evidence correlates with true mastery at Pearson r = 0.68 pooled across tiers in the 6-persona live-graded run. [→ Kailai He 2026](#kailai-he-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Kailai He 2026
 
-Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154
+Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154 [doi:10.48550/arxiv.2609.21154](https://doi.org/10.48550/arxiv.2609.21154)
 
 `q2 · i3` · `design · r2`
 
@@ -63,5 +63,5 @@ Same simulation, decomposed by tier: the article reports "the within-tier correl
 
 ## Related Claims
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
-- [LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst](llm-choice-affects-human-ai-coding-correspondence.md) — related
+- LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst — related
 - [Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence](agreement-moderators-tiers-consensus-confidence.md) — related

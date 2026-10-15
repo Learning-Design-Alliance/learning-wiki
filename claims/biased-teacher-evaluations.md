@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gold-2020
-    resource: "https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
-    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
+    resource: "https://doi.org/10.51388/20.500.12265/96"
+    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/ [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)"
     author: Gold, T.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Gold 2020
 
-Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/
+Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/ [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)
 
 `q2 · i?` · `associational · r?`
 
@@ -47,5 +47,5 @@ Secondhand report of a Michigan study (Drake et al., 2019) of evaluation ratings
 - [Teachers of color leave the teaching profession at higher rates than white teachers (about 19 percent vs. 15 percent turnover).](toc-higher-turnover-than-white-teachers.md) — related
 - [Teachers of color disproportionately teach in schools serving more than 75% students of color and more than 75% students from low-income families](teachers-of-color-concentrated-in-underresourced-schools.md) — related
 - [Teachers of color report more workplace stress and dissatisfaction than White teachers](teachers-of-color-workplace-stress-dissatisfaction.md) — related
-- [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](students-of-color-receive-belonging-signals.md) — related
+- Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive — related
 - [Participants rated the arithmetic-error peer agent more harshly than the conceptual-error peer agent, calibrating trust by error observability rather than severity](arithmetic-errors-rated-harsher-than-conceptual-errors.md) — related

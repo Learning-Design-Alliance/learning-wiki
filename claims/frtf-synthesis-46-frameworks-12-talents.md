@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` A search of academic and grey literatures identified 46 talent frameworks relevant to WIL. [→ Pretti 2021](#pretti-2021)
@@ -66,4 +67,4 @@ A researcher and a talent-development expert built a grid of frameworks by talen
 - [Educators sorted 11 talents into the proposed FRTF clusters significantly above chance, from 94.8% (self-assessment) to 44.8% (critical thinking)](frtf-talent-cluster-sorting-validated.md) — related
 - [54 of 59 FRTF behavioral examples were sorted better than chance and 48 by a majority of educator participants](frtf-behavioral-example-sorting-validated.md) — related
 - [Several FRTF behavioral examples were not sorted better than chance, including actively listening to others (18.2%) and exploring implications of proposed solutions (9.4%)](frtf-behavioral-examples-below-chance.md) — related
-- [Literature review identifies 182 candidate coaching components organized into coach, teacher, and interaction factors](literature-review-182-coaching-components-three-categories.md) — related
+- Literature review identifies 182 candidate coaching components organized into coach, teacher, and interaction factors — related

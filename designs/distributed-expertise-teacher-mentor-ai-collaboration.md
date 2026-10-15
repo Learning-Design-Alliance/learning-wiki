@@ -17,7 +17,7 @@ sources:
 # Teacher-mentor-AI collaboration as a distributed expertise system in AI technology creation
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article conceptualizes workshop interactions among teachers, mentors, and AI as "a dynamically coordinated system of distributed expertise, grounded in distributed cognition theory". Evidence-based knowledge from mentors, practice-based knowledge from teachers, and generative knowledge from AI are integrated and reconfigured through interaction. AI is treated not merely as a tool but as a mediational artifact that shapes teachers' thinking, as teachers externalize tacit knowledge through prompt writing, prototype demonstration, and output review.
@@ -39,7 +39,6 @@ The article conceptualizes workshop interactions among teachers, mentors, and AI
 - Teacher professional learning
 
 ### Claims
-- [Mentor Teacher Interaction Frequency Distribution](../claims/mentor-teacher-interaction-frequency-distribution.md) [+M]
 
 ## Related Designs
 - 

@@ -13,7 +13,7 @@ generated:
 # SocratiCode
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (3 design), `q2` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
 
 ## Description
 A prompt-based Socratic and adaptive generative-AI tutoring framework for K–12 beginners learning Python, developed by the study authors.

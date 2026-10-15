@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: minju-park-2026
-    resource: "https://arxiv.org/abs/2605.04534"
-    title: "Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534"
+    resource: "https://doi.org/10.48550/arxiv.2605.04534"
+    title: "Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534 [doi:10.48550/arxiv.2605.04534](https://doi.org/10.48550/arxiv.2605.04534)"
     author: Minju Park, Ivan Orozco Vasquez, and Cristina Conati
     q: 2
     i: 2
@@ -30,7 +30,7 @@ sources:
 # Students who used LLMs on assignments scored significantly lower than non-users on the first midterm (large effect size), but this gap narrowed and was non-significant on the later midterms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
+> **Evidence** · 2 studies · 2 associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` No-LLM students significantly outperformed LLM users on Midterm 1 with a large effect size; the difference decreased across the subsequent two midterms, and LLM users improved by about 10% from first to last midterm. [→ Minju Park 2026](#minju-park-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Minju Park 2026
 
-Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534
+Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534 [doi:10.48550/arxiv.2605.04534](https://doi.org/10.48550/arxiv.2605.04534)
 
 `q2 · i2` · `associational · r1`
 

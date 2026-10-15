@@ -17,7 +17,7 @@ sources:
 # TAN micro-credentials for Data and Analysis and Algorithms
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The TAN project pairs its CT Booster sessions with micro-credentials that teachers can pursue in the same content areas. The deck lists "Micro-credentials: ● Data and Analysis ○ Analyzing and Communicating with Data ○ Collecting and Structuring Data ● Algorithms ○ Creating Algorithms". Each booster session includes a two-minute segment introducing the related micro-credential, linking the live virtual session to a competency-based recognition pathway.
@@ -38,7 +38,6 @@ The TAN project pairs its CT Booster sessions with micro-credentials that teache
 
 ## Claims
 
-- [The TAN project delivered four virtual CT Booster sessions for K-2 and 3-8 teachers on Data & Analysis and Algorithms between November 2020 and January 2021](../claims/tan-four-ct-booster-sessions-rural-ky.md) [+W]
 
 ## Related Elements
 

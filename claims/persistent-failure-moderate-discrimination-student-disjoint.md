@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shihao-wang-2026
-    resource: "https://arxiv.org/abs/2609.29874"
-    title: "Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874"
+    resource: "https://doi.org/10.48550/arxiv.2609.29874"
+    title: "Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874 [doi:10.48550/arxiv.2609.29874](https://doi.org/10.48550/arxiv.2609.29874)"
     author: Shihao Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shihao Wang 2026
 
-Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874
+Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874 [doi:10.48550/arxiv.2609.29874](https://doi.org/10.48550/arxiv.2609.29874)
 
 `q2 · i?` · `design · r2`
 
@@ -44,5 +44,5 @@ Retrospective computational study of 2993 failed-submission states from 215 stud
 
 ## Related Claims
 - [The selected MLP outperformed gradient boosting for persistent-failure prediction in paired student bootstrap comparison](mlp-outperformed-gradient-boosting-persistent-failure.md) — related
-- [Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind](best-lr-and-dkt-lead-markov-methods-lag-nine-datasets.md) — related
+- Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind — related
 - [Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal](secondary-outcomes-varied-predictability.md) — related

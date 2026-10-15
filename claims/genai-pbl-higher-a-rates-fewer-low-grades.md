@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: micky-c-nnamdi-2026
-    resource: "https://arxiv.org/abs/2503.16558"
-    title: "Micky C. Nnamdi, J. Ben Tamo, Benoit Marteau, Wenqi Shi, May D. Wang. (2026). Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI. arXiv. https://arxiv.org/abs/2503.16558"
+    resource: "https://doi.org/10.48550/arxiv.2503.16558"
+    title: "Micky C. Nnamdi, J. Ben Tamo, Benoit Marteau, Wenqi Shi, May D. Wang. (2026). Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI. arXiv. https://arxiv.org/abs/2503.16558 [doi:10.48550/arxiv.2503.16558](https://doi.org/10.48550/arxiv.2503.16558)"
     author: Micky C. Nnamdi, J. Ben Tamo, Benoit Marteau, Wenqi Shi, May D. Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Micky C. Nnamdi 2026
 
-Micky C. Nnamdi, J. Ben Tamo, Benoit Marteau, Wenqi Shi, May D. Wang. (2026). Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI. arXiv. https://arxiv.org/abs/2503.16558
+Micky C. Nnamdi, J. Ben Tamo, Benoit Marteau, Wenqi Shi, May D. Wang. (2026). Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI. arXiv. https://arxiv.org/abs/2503.16558 [doi:10.48550/arxiv.2503.16558](https://doi.org/10.48550/arxiv.2503.16558)
 
 `q2 · i?` · `causal · r1`
 

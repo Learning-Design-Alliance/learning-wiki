@@ -74,7 +74,7 @@ A systematic review of experimental and quasi-experimental studies of universal 
 | [dePaoli 2023](https://doi.org/10.54300/701.445) | q3 / q4 · review · r? | i? | [Social and emotional learning programs promote competencies, reduce behavior problems, and](sel-programs-improve-behavior-engagement-achievement.md) (supports) |
 | Burchinal 2022 | q4 · quant-synthesis · r2 | i? | [The recommendation to provide intentional, engaging social-emotional instruction carries s](strong-evidence-social-emotional-instruction-preschool.md) (supports) |
 | Social Skills Training 2013 | q3 · quant-synthesis · r1 | i2 | [Social skills training has positive effects on social-emotional development and behavior f](social-skills-training-positive-social-emotional-effects-preschool-disabilities.md) (supports) |
-| Cardichon 2019 | q3 · review · r1 | i? | [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high](sel-meta-analysis-graduation-increases.md) (supports) |
+| [Cardichon 2019](https://doi.org/10.33682/a3vc-nfcx) | q3 · review · r1 | i? | [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high](sel-meta-analysis-graduation-increases.md) (supports) |
 | Fronius 2019 | q2 · review · r3 | i? | [A two-year quasi-experimental study in Hong Kong found full-implementation restorative who](rwsa-hong-kong-less-bullying-empathy-gains.md) (supports) |
 | Building Decision Skills 2006 | q2 · causal · r? | i3 | [Building Decision Skills plus service learning significantly improved twelfth-graders' eth](bds-improves-ethical-perspective.md) (supports) |
 | Bergen 2002 | q2 · review · r2 | i? | [High-quality pretend play is an important facilitator of perspective taking and later abst](pretend-play-facilitates-perspective-taking-abstract-thought.md) (supports) |
@@ -101,16 +101,16 @@ A systematic review of experimental and quasi-experimental studies of universal 
 - [The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others](framework-elements-interrelated-in-practice.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [SEL Programs Improve Academic Achievement](sel-programs-improve-behavior-and-achievement.md) — related
-- [Learning Genie effects on SEL outcomes were mixed, with Social and Emotional Development scores showing the greatest gains](learning-genie-sel-outcomes-mixed.md) — a narrower finding that bears on this claim
+- Learning Genie effects on SEL outcomes were mixed, with Social and Emotional Development scores showing the greatest gains — a narrower finding that bears on this claim
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [Research on summer programs addresses their implementation, design, and efficacy for literacy, math, and social-emotional learning outcomes](summer-programs-research-implementation-design-efficacy.md) — related
 - [Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice](forms-sel-checkins-anonymity.md) — a narrower finding that bears on this claim
-- [Implementing specific SEL curricula can improve academic performance, including learning to read](sel-curricula-improve-academic-performance.md) — related
+- Implementing specific SEL curricula can improve academic performance, including learning to read — related
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — a narrower finding that bears on this claim
-- [Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning](emotions-critical-to-learning-leverage-in-design.md) — related
+- Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning — related
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
-- [Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress](schoolwide-sel-prosocial-distress-24-percent.md) — related
+- Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress — related
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
 - [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related
 - [SEL programs are associated with an 11 percentile-point improvement in academic performance](sel-programs-improve-academic-performance.md) — related

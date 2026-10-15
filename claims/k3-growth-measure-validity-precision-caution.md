@@ -56,7 +56,7 @@ The report's Key Findings state that a K-3 school-level growth measure was estim
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
 - [Lower measurement error rates can be achieved when schools, rather than individual teachers, are the performance unit](school-as-performance-unit-lower-error-rates.md) — related
 - [Students raised concerns that performance forecasts cannot capture personal circumstances affecting study](forecast-concerns-personal-circumstances.md) — related
-- [About 14% of Grade 1 schools and 13% of Grade 2 schools were positive deviants whose growth exceeded the average growth confidence bounds](positive-deviant-schools-math-growth.md) — related
+- About 14% of Grade 1 schools and 13% of Grade 2 schools were positive deviants whose growth exceeded the average growth confidence bounds — related
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
 - [Growth measures offer a clearer, more accurate picture of learning than achievement data, while achievement data remains critical for tracking student progress](growth-measures-clearer-picture-of-learning.md) — related
 - State compensation rankings should be interpreted with caution because differences in value between ranks are often quite small — related

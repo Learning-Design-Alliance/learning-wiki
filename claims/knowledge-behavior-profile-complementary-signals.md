@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zhangqi-duan-2026
-    resource: "https://arxiv.org/abs/2605.30051"
-    title: "Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, Andrew Lan. (2026). Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues. arXiv preprint. https://arxiv.org/abs/2605.30051"
+    resource: "https://doi.org/10.48550/arxiv.2605.30051"
+    title: "Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, Andrew Lan. (2026). Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues. arXiv preprint. https://arxiv.org/abs/2605.30051 [doi:10.48550/arxiv.2605.30051](https://doi.org/10.48550/arxiv.2605.30051)"
     author: Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, Andrew Lan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zhangqi Duan 2026
 
-Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, Andrew Lan. (2026). Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues. arXiv preprint. https://arxiv.org/abs/2605.30051
+Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, Andrew Lan. (2026). Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues. arXiv preprint. https://arxiv.org/abs/2605.30051 [doi:10.48550/arxiv.2605.30051](https://doi.org/10.48550/arxiv.2605.30051)
 
 `q2 · i?` · `causal · r2`
 

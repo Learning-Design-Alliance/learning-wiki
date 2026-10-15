@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The authors' initial findings from using Tracker with their students suggest video modeling pedagogy suits active and deep learning because students predict by keying values, observe by comparing real data with the model, and explain by choice of values. [→ Wee 2011](#wee-2011)
@@ -44,7 +45,7 @@ The authors' own classroom experience using Tracker with their students, framed 
 
 ## Related Claims
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](osp-community-remixed-75-ejs-models.md) — related
-- [A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion](tracker-constant-vx-model-activity.md) — a narrower finding that bears on this claim
-- [Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration](tracker-incorrect-fx-model-refutes-x-force.md) — a narrower finding that bears on this claim
-- [Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video](tracker-parabola-fit-derives-gravitational-acceleration.md) — a narrower finding that bears on this claim
+- A proposed Tracker activity has students key a constant-vx dynamic model against real video data so they can see for themselves that x-direction velocity is constant in projectile motion — a narrower finding that bears on this claim
+- Comparing an incorrect applied-force model (fx = 10 N) with real data shows students why projectile motion has no x-direction acceleration — a narrower finding that bears on this claim
+- Students can derive an accurate gravitational acceleration value from Tracker's parabola fit of a falling-ball video — a narrower finding that bears on this claim
 - [Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments](av-advantage-analysis-support-dimensions.md) — related

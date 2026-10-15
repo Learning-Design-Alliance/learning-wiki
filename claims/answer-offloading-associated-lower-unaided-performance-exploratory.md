@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sebastian-maier-2026
-    resource: "https://arxiv.org/abs/2609.20143"
-    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143"
+    resource: "https://doi.org/10.48550/arxiv.2609.20143"
+    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143 [doi:10.48550/arxiv.2609.20143](https://doi.org/10.48550/arxiv.2609.20143)"
     author: Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sebastian Maier 2026
 
-Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143
+Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143 [doi:10.48550/arxiv.2609.20143](https://doi.org/10.48550/arxiv.2609.20143)
 
 `q2 · i?` · `causal · r3`
 

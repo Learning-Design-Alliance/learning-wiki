@@ -69,4 +69,4 @@ Regression discontinuity analysis of Chicago principals' merit awards compares p
 
 - [The merit award program produced modest achievement improvements concentrated in schools close to the award threshold](merit-award-modest-gains-near-threshold.md) — related
 - [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related
-- [The merit award program's incentives increased student achievement in Chicago schools](merit-award-incentives-increased-achievement.md) — related
+- The merit award program's incentives increased student achievement in Chicago schools — related

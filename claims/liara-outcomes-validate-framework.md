@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: panisson-2026
-    resource: "https://arxiv.org/abs/2608.13447"
-    title: "Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., da Silva, H. H., Savaris, R. F., Costa, B. P., Vigil, M. A. G., Lau, J., Hentz, A., Bordin, A. S., Gonçalves, A. L., & Rodrigues-Filho, R. (2026). Academic League of Artificial Intelligence – An Integrative Perspective of Teaching, Research, and Extension. https://arxiv.org/abs/2608.13447"
+    resource: "https://doi.org/10.48550/arxiv.2608.13447"
+    title: "Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., da Silva, H. H., Savaris, R. F., Costa, B. P., Vigil, M. A. G., Lau, J., Hentz, A., Bordin, A. S., Gonçalves, A. L., & Rodrigues-Filho, R. (2026). Academic League of Artificial Intelligence – An Integrative Perspective of Teaching, Research, and Extension. https://arxiv.org/abs/2608.13447 [doi:10.48550/arxiv.2608.13447](https://doi.org/10.48550/arxiv.2608.13447)"
     author: "Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., da Silva, H. H., Savaris, R. F., Costa, B. P., Vigil, M. A. G., Lau, J., Hentz, A., Bordin, A. S., Gonçalves, A. L., & Rodrigues-Filho, R."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Panisson 2026
 
-Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., da Silva, H. H., Savaris, R. F., Costa, B. P., Vigil, M. A. G., Lau, J., Hentz, A., Bordin, A. S., Gonçalves, A. L., & Rodrigues-Filho, R. (2026). Academic League of Artificial Intelligence – An Integrative Perspective of Teaching, Research, and Extension. https://arxiv.org/abs/2608.13447
+Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., da Silva, H. H., Savaris, R. F., Costa, B. P., Vigil, M. A. G., Lau, J., Hentz, A., Bordin, A. S., Gonçalves, A. L., & Rodrigues-Filho, R. (2026). Academic League of Artificial Intelligence – An Integrative Perspective of Teaching, Research, and Extension. https://arxiv.org/abs/2608.13447 [doi:10.48550/arxiv.2608.13447](https://doi.org/10.48550/arxiv.2608.13447)
 
 `q1 · i?` · `design · r2`
 

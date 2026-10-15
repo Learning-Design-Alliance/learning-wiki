@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Two learners at the same CEFR A2 level for English structure showed different reciprocity levels and mediation needs, revealing ZPD differences that DIALANG's psychometric results did not pinpoint. [→ Ebadi 2016](#ebadi-2016)

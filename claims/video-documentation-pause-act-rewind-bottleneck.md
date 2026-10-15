@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: farnaz-baksh-2026
-    resource: "https://arxiv.org/abs/2606.15239"
-    title: "Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239"
+    resource: "https://doi.org/10.48550/arxiv.2606.15239"
+    title: "Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239 [doi:10.48550/arxiv.2606.15239](https://doi.org/10.48550/arxiv.2606.15239)"
     author: Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Video-only documentation created a pause-act-rewind cycle, with orientation and navigation-continuity clarity scoring lowest and wiring identification the primary difficulty for first-time builders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · design `r2`–`r3` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Six of seven Study 2 participants identified video guidance as the most helpful feature, yet concurrently cited wiring as the primary difficulty. [→ Farnaz Baksh 2026](#farnaz-baksh-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Farnaz Baksh 2026
 
-Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239
+Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239 [doi:10.48550/arxiv.2606.15239](https://doi.org/10.48550/arxiv.2606.15239)
 
 `q2 · i?` · `design · r2`
 

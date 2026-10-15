@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In Purkey's North Carolina research, invited students were given an average of 3 seconds to respond to unanswerable questions before the teacher intervened, while disinvited students of equal academic ability were given an average of .9 second. [→ Knight 1985](#knight-1985)

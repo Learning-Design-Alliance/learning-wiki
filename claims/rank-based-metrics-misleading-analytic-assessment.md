@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: stefano-bannò-2026
-    resource: "https://arxiv.org/abs/2605.04298"
-    title: "Stefano Bannò, Kate Knill, Mark Gales. (2026). Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs. https://arxiv.org/abs/2605.04298"
+    resource: "https://doi.org/10.48550/arxiv.2605.04298"
+    title: "Stefano Bannò, Kate Knill, Mark Gales. (2026). Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs. https://arxiv.org/abs/2605.04298 [doi:10.48550/arxiv.2605.04298](https://doi.org/10.48550/arxiv.2605.04298)"
     author: Stefano Bannò, Kate Knill, Mark Gales
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Stefano Bannò 2026
 
-Stefano Bannò, Kate Knill, Mark Gales. (2026). Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs. https://arxiv.org/abs/2605.04298
+Stefano Bannò, Kate Knill, Mark Gales. (2026). Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs. https://arxiv.org/abs/2605.04298 [doi:10.48550/arxiv.2605.04298](https://doi.org/10.48550/arxiv.2605.04298)
 
 `q2 · i?` · `associational · r2`
 

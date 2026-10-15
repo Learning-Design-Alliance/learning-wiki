@@ -18,7 +18,7 @@ sources:
 # Hoot Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 causal), `q4` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Hoot Reading is a proprietary-platform, video-based one-to-one literacy tutoring programme delivered by trained Hoot Reading teachers in partnership with schools and districts.
@@ -28,9 +28,6 @@ Hoot Reading is a proprietary-platform, video-based one-to-one literacy tutoring
 - **Hoot Reading online one-to-one literacy tutoring program**: Hoot Reading provides online, one-to-one literacy instruction delivered by trained teachers, with sessions taking place over video call through the company's proprietary platform. The platform was developed through an earlier research collaboration involving the Nokia Research Lab, Sesame Workshop, and the Joan Ganz Cooney Center. The program works with school districts across North America to advance student reading achievement, and tutors are provided by Hoot Reading while school staff supervise at each location. (Hoot Reading — Evidence Summary (2025))
 
 ### Claims
-- [Grade 3–4 impacts of Hoot Reading on the Missouri Assessment Program were positive but not statistically significant](../claims/hoot-reading-map-grades-3-4-not-significant.md) [+W]
-- [No positive effects of Hoot Reading were found for MTSS Tier II students](../claims/hoot-reading-no-positive-effects-tier-ii.md) [-W]
-- [MTSS Tier III students assigned to Hoot Reading significantly outperformed control peers on the i-Ready assessment (effect size = +0.08)](../claims/hoot-reading-tier-iii-significant-i-ready-gain.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,9 +62,6 @@ Hoot Reading provides online, one-to-one literacy instruction delivered by train
 
 ## Claims
 
-- [Grade 3–4 impacts of Hoot Reading on the Missouri Assessment Program were positive but not statistically significant](../claims/hoot-reading-map-grades-3-4-not-significant.md) [+W]
-- [No positive effects of Hoot Reading were found for MTSS Tier II students](../claims/hoot-reading-no-positive-effects-tier-ii.md) [-W]
-- [MTSS Tier III students assigned to Hoot Reading significantly outperformed control peers on the i-Ready assessment (effect size = +0.08)](../claims/hoot-reading-tier-iii-significant-i-ready-gain.md) [+W]
 
 ## Related Elements
 

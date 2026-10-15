@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Students accustomed to in-class questioning and discussion in their home countries continued those practices, while students from less interactive backgrounds had difficulty appropriating them, though they slowly moved toward more whole-class interaction. [→ Nelson 2001](#nelson-2001)
@@ -43,7 +44,7 @@ Participant-observer analysis of a first-year composition course for internation
 
 
 ## Related Claims
-- [Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection](contradictions-transform-olr-into-reflection-instrument.md) — related
-- [Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings](participation-appropriates-olr-conceptual-underpinnings.md) — related
-- [Past and present sociohistorical influences led two similar students in the same class to work toward different grades](sociohistorical-influences-on-achievement.md) — related
-- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
+- Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection — related
+- Participation in composing the Midterm OLR moved students from appropriating labels and surface features toward conceptual underpinnings — related
+- Past and present sociohistorical influences led two similar students in the same class to work toward different grades — related
+- Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content — related

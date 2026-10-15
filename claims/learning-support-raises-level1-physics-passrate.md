@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: mm-casey-and-s-mcvitie-2009
-    resource: "https://arxiv.org/abs/0911.2733"
-    title: "MM Casey and S McVitie. (2009). Academic performance & student engagement in level 1 physics undergraduates. https://arxiv.org/abs/0911.2733"
+    resource: "https://doi.org/10.48550/arxiv.0911.2733"
+    title: "MM Casey and S McVitie. (2009). Academic performance & student engagement in level 1 physics undergraduates. https://arxiv.org/abs/0911.2733 [doi:10.48550/arxiv.0911.2733](https://doi.org/10.48550/arxiv.0911.2733)"
     author: MM Casey and S McVitie
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### MM Casey and S McVitie 2009
 
-MM Casey and S McVitie. (2009). Academic performance & student engagement in level 1 physics undergraduates. https://arxiv.org/abs/0911.2733
+MM Casey and S McVitie. (2009). Academic performance & student engagement in level 1 physics undergraduates. https://arxiv.org/abs/0911.2733 [doi:10.48550/arxiv.0911.2733](https://doi.org/10.48550/arxiv.0911.2733)
 
 `q2 · i2` · `design · r2`
 

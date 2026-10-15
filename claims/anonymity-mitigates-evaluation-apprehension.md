@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kowalski-2013
-    resource: "https://arxiv.org/abs/1308.2434"
-    title: "Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434"
+    resource: "https://doi.org/10.48550/arxiv.1308.2434"
+    title: "Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434 [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)"
     author: Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kowalski 2013
 
-Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434
+Kowalski, F.V., Kowalski, S.E., Kohl, P.B., and Kuo, V.H. (2013). Technology-Enabled Nurturing of Creativity and Innovation: A Specific Illustration from an Undergraduate Engineering Physics Course. https://arxiv.org/abs/1308.2434 [doi:10.48550/arxiv.1308.2434](https://doi.org/10.48550/arxiv.1308.2434)
 
 `q1 · i? · the article prints no effect size for this finding` · `design · r1`
 

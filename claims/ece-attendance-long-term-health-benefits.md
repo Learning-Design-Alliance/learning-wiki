@@ -44,12 +44,12 @@ The summary product reports, citing Campbell et al. (2014) in Science, that ECE 
 
 ## Related Claims
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
-- [PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19)](powerschool-attendance-intervention-reduces-chronic-absenteeism.md) — related
+- PowerSchool Attendance Intervention significantly reduces chronic absenteeism for students of trained teachers (effect size +0.19) — related
 - [The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address](chronic-absenteeism-early-grades-importance-asserted.md) — related
 - [The article asserts that the Go-Learn-Grow materials can help districts, schools, and early childhood providers improve pre-K and kindergarten attendance](go-learn-grow-materials-support-attendance-improvement.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important for young learners](prek-kindergarten-attendance-importance.md) — related
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
-- [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related
+- EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation — related
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related
 - [Early childhood education attendance is associated with statistically significant reductions in special education placement and grade retention](ece-reduces-special-education-retention.md) — related
 - [A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — related

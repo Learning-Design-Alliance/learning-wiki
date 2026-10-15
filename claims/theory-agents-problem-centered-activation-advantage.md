@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: younghoon-jeon-2026
-    resource: "https://arxiv.org/abs/2602.10620"
-    title: "YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee. (2026). ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents. Preprint. https://arxiv.org/abs/2602.10620"
+    resource: "https://doi.org/10.48550/arxiv.2602.10620"
+    title: "YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee. (2026). ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents. Preprint. https://arxiv.org/abs/2602.10620 [doi:10.48550/arxiv.2602.10620](https://doi.org/10.48550/arxiv.2602.10620)"
     author: YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee
     q: 2
     i: 1
@@ -30,7 +30,7 @@ sources:
 # Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i1` small
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation of prior knowledge (d = 0.29), both p < 0.001. [→ YoungHoon Jeon 2026](#younghoon-jeon-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### YoungHoon Jeon 2026
 
-YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee. (2026). ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents. Preprint. https://arxiv.org/abs/2602.10620
+YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee. (2026). ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents. Preprint. https://arxiv.org/abs/2602.10620 [doi:10.48550/arxiv.2602.10620](https://doi.org/10.48550/arxiv.2602.10620)
 
 `q2 · i1` · `causal · r1`
 

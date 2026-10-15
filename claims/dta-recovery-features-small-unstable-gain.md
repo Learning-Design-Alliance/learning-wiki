@@ -60,4 +60,3 @@ Repeated five-fold cross-validation and 30%–50% calendar-window sensitivity an
 ## Related Claims
 
 - [For activity-defined engagement prediction in DTA logs, the activity-only Baseline remained strongest, and permutation importance was dominated by activity indicators](activity-baseline-strongest-engagement-prediction.md) — related
-- [Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets](time-window-features-null-for-lr-boost-nonlinear.md)

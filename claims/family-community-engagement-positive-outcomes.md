@@ -49,6 +49,6 @@ The report's synthesis finding for Pillar 3, based on 29 studies including 13 re
 - [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](community-schools-positive-outcomes.md) — related
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — a broader claim this one bears on
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related
-- [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](parent-partnerships-and-climate-predict-teacher-staying.md) — related
+- Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately — related
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](positive-school-climate-mitigates-homicide-effects.md) — related
 - [ParentCorps improves family engagement measures (Inclusive Leadership, Trust in School Leader, Communication and Trust in Teacher) in a 61-school trial](parentcorps-family-engagement-school-survey.md) — related

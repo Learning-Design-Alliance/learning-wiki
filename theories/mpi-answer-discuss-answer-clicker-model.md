@@ -16,7 +16,7 @@ sources:
 # Modified peer instruction answer-discuss-answer model for clickers in mathematics content courses
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (2 causal, 1 associational), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (2 causal, 1 associational), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article describes an answer-discuss-answer implementation "similar in nature to the modified peer instruction model (MPI) described by Milner-Bolotin et al. (2010)", aligned with think-pair-share. Students answer individually, a bar graph of responses is displayed, students discuss with groupmates arguing approaches and rationale, the class answers again with the correct answer shown, and a full-class discussion follows. The model was used in six lessons with seven to nine multiple-choice questions each.
@@ -39,10 +39,8 @@ The article describes an answer-discuss-answer implementation "similar in nature
 ### Claims
 
 - [Learning Attributed To Process Not Technology](../claims/learning-attributed-to-process-not-technology.md) [+M]
-- [Clicker Mpi Liked By Preservice Teachers](../claims/clicker-mpi-liked-by-preservice-teachers.md) [+M]
 - [Students perceived clickers' greatest course impact as lesson variation and fun, with learning influence a distant second](../claims/clickers-fun-variation-over-learning.md) [+W]
 - [Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material](../claims/clickers-perceived-learning-benefit.md) [+W]
-- [No instructor bias was evident in students' liking of the clicker implementation or perceived learning benefit](../claims/no-instructor-bias-clicker-perceptions.md) [+W]
 - [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
 
 ## Related Theories

@@ -94,7 +94,7 @@ A Best Evidence Medical Education review of case-based learning in prequalificat
 - [Collaborative learning improves outcomes.](collaborative-learning-improves-outcomes.md) — most case-based formats are collaborative; the group process may mediate exam gains
 - [Activation improves learning.](activation-improves-learning.md) — effective case analysis depends on learners activating relevant prior knowledge before and during case work
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
-- [Interactive LRE methods engage students, who value LRE classes as relevant and interesting](lre-interactive-methods-student-interest.md) — related
+- Interactive LRE methods engage students, who value LRE classes as relevant and interesting — related
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates](nvcc-bridge-program-full-retention.md) — related
 - [A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content](cft-hypertext-design-higher-achievement-scores.md) — related

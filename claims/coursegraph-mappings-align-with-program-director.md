@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: arthur-nijdam-2026
-    resource: "https://arxiv.org/abs/2608.05910"
-    title: "Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian. (2026). CourseGraph: Finding overlaps and differences in Computer Science courses across universities. https://arxiv.org/abs/2608.05910"
+    resource: "https://doi.org/10.48550/arxiv.2608.05910"
+    title: "Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian. (2026). CourseGraph: Finding overlaps and differences in Computer Science courses across universities. https://arxiv.org/abs/2608.05910 [doi:10.48550/arxiv.2608.05910](https://doi.org/10.48550/arxiv.2608.05910)"
     author: Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # CourseGraph's nearest-neighbor course mappings largely align with a program director's judgments on real Erasmus+ decisions, with errors traced to ignored pedagogical differences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For validated exchange courses, CourseGraph's closest-match LU courses corresponded with the program director's annotations, e.g. Distributed Data Systems was assigned to Distributed Systems (EDAP25). [→ Arthur Nijdam 2026](#arthur-nijdam-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Arthur Nijdam 2026
 
-Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian. (2026). CourseGraph: Finding overlaps and differences in Computer Science courses across universities. https://arxiv.org/abs/2608.05910
+Arthur Nijdam, Paul Stankovski Wagner, Sara Ramezanian. (2026). CourseGraph: Finding overlaps and differences in Computer Science courses across universities. https://arxiv.org/abs/2608.05910 [doi:10.48550/arxiv.2608.05910](https://doi.org/10.48550/arxiv.2608.05910)
 
 `q2 · i?` · `design · r2`
 

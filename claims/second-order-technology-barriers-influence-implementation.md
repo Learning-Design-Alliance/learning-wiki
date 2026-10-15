@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lina-shanley-2017
-    resource: "https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/"
-    title: "Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier. (2017). Instructors’ technology experience and iPad delivered intervention implementation: A mixed methods replication study. Educational Technology Research and Development 65, 815–830. https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/"
+    resource: "https://doi.org/10.1007/s11423-016-9488-8"
+    title: "Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier. (2017). Instructors’ technology experience and iPad delivered intervention implementation: A mixed methods replication study. Educational Technology Research and Development 65, 815–830. https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/ [doi:10.1007/s11423-016-9488-8](https://doi.org/10.1007/s11423-016-9488-8)"
     author: Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Lina Shanley 2017
 
-Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier. (2017). Instructors’ technology experience and iPad delivered intervention implementation: A mixed methods replication study. Educational Technology Research and Development 65, 815–830. https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/
+Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier. (2017). Instructors’ technology experience and iPad delivered intervention implementation: A mixed methods replication study. Educational Technology Research and Development 65, 815–830. https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/ [doi:10.1007/s11423-016-9488-8](https://doi.org/10.1007/s11423-016-9488-8)
 
 `q2 · i?` · `associational · r?`
 
@@ -47,4 +47,4 @@ Findings from the two KinderTEK development studies indicate that "second-order 
 - [Instructors' pre-intervention iPad experience varied widely and this range corresponded with variable student use of the intervention](instructor-ipad-experience-range-corresponds-variable-student-use.md) — related
 - [Instructors who reported moderate iPad experience and/or no barriers to technology integration demonstrated the least desirable student use patterns](moderate-experience-no-barriers-least-desirable-use.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related
-- [Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration](tefa-skill-areas-sequential-order.md) — related
+- Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration — related

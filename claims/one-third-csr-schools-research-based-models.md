@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Most CSR schools chose models that were not rated by the CSRQ Center as having a scientific research base. [→ Orland 2010](#orland-2010)
@@ -46,6 +47,5 @@ Descriptive analysis of model adoption using CSRQ Center ratings covering the 31
 
 - [No relationship existed between elementary reading achievement gains and selection of a model with a scientific research base](elementary-reading-no-relationship-research-model.md) — related
 - [Low-performing CSR elementary schools that adopted models with scientific research bases gained in mathematics achievement after three years](low-performing-elementary-csr-math-gains-research-models.md) — related
-- [Middle school CSR schools adopting models with limited scientific research bases realized mathematics and reading gains after three years](middle-school-csr-limited-research-base-gains.md) — related
-- [Five years after receiving CSR awards, schools did not demonstrate larger achievement growth than matched comparison schools](csr-award-no-larger-achievement-growth-five-years.md) — related
-- [CSR and non-CSR schools implemented a similar number of legislatively specified components in both 2003 and 2007](csr-noncsr-similar-component-implementation.md)
+- Middle school CSR schools adopting models with limited scientific research bases realized mathematics and reading gains after three years — related
+- Five years after receiving CSR awards, schools did not demonstrate larger achievement growth than matched comparison schools — related

@@ -44,4 +44,4 @@ Correlational analysis across all 169 participants, reported in the General Disc
 
 ## Related Claims
 - [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](construction-based-sorting-increases-with-grade-level.md) — related
-- [Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners](receptive-vocabulary-moderately-correlates-advanced-listening.md) — related
+- Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners — related

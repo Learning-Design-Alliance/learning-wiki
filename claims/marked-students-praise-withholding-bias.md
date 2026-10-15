@@ -46,8 +46,8 @@ Cross-condition lexical comparison of feedback generated for the same 600 essays
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Tan et al. 2026](https://doi.org/10.1145/3785022.3785113) | q2 · causal · r2 | i? | this claim; [Motivation prompts shift feedback tone: unmotivated students receive enthusiastic, collabo](motivation-prompt-enthusiasm-pedagogy.md) (supports); [Gender prompts shift feedback stance: female students receive affective, first-person, emp](gender-prompt-emotional-connection-pedagogy.md) (qualifies) |
-| Jerin George Mathew 2026 | q2 · associational · r2 | i? | [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high s](llm-feedback-sentiment-tracks-scores.md) (qualifies) |
-| validation-content | q2 · associational · r2 | i? | [The agent's praise was indiscriminate affirmation: validation followed about half of parti](indiscriminate-affirmation-reflection-agent.md) (qualifies) |
+| [Jerin George Mathew 2026](https://doi.org/10.48550/arxiv.2603.23714) | q2 · associational · r2 | i? | [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high s](llm-feedback-sentiment-tracks-scores.md) (qualifies) |
+| [validation-content](https://doi.org/10.48550/arxiv.2609.19635) | q2 · associational · r2 | i? | [The agent's praise was indiscriminate affirmation: validation followed about half of parti](indiscriminate-affirmation-reflection-agent.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

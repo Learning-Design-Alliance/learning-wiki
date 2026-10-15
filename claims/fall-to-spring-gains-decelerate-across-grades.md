@@ -44,8 +44,8 @@ Fixed-effects estimates from CP models fit to MAP Growth RIT scores (grades 2-6,
 
 ## Related Claims
 - [In the study data, mean spring grade-2 math RIT was 190.6 with linear spring-to-spring growth of 14.5 RIT, and mean fall-to-spring gain in grade-2 math was 13.4 RIT](grade2-math-growth-descriptives-cp-model.md) — a narrower finding that bears on this claim
-- [Mathematics growth in Grades 1-3 is nonlinear with deceleration, so more growth occurs in the first half of the school year, and average growth rates decline across grade levels](early-math-growth-decelerates-first-half-year.md) — related
-- [Students who placed on or above grade level in Grade 1 showed accelerated second-half growth in Grade 3, while growth rates declined in all placement groups](grade3-accelerated-growth-on-above-grade-level.md) — related
+- Mathematics growth in Grades 1-3 is nonlinear with deceleration, so more growth occurs in the first half of the school year, and average growth rates decline across grade levels — related
+- Students who placed on or above grade level in Grade 1 showed accelerated second-half growth in Grade 3, while growth rates declined in all placement groups — related
 - [More of the variance in linear growth lies at the school level for fall-to-spring than for spring-to-spring estimates, in some cases twice or three times as much](more-school-level-variance-fall-to-spring-growth.md) — related
 - [Fall-to-spring growth rates in high school grades, particularly in reading, are often close to zero and can be negative](high-school-fall-spring-growth-near-zero.md) — a narrower finding that bears on this claim
 - [Within-year fall-to-spring gains are largest in second grade (about 13.4 RIT in math) and slow by roughly 1.4 RIT per year as students progress through elementary school](within-year-gains-largest-second-grade-then-slow.md) — related

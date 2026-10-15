@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: crumley-2015
-    resource: "https://arxiv.org/abs/0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
+    resource: "https://doi.org/10.48550/arxiv.0706.1985"
+    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most lab groups get good agreement between their leading constants for fixed solar wind speed versus fixed number density data, showing reasonably consistent estimates of magnetopause location. [→ Crumley 2015](#crumley-2015)
@@ -40,7 +40,7 @@ sources:
 
 ### Crumley 2015
 
-Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
+Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 

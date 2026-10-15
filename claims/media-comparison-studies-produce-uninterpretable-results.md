@@ -89,7 +89,7 @@ The authors apply Clark's and Levie & Dickie's critiques directly to early-2000s
 | Lockee, Moore, and Burton 2001 | q2 · theoretical · r? | i? | this claim |
 | Salomon 1983 | q2 · theoretical · r3 | i0 | [The measured advantage of computer-based instruction over conventional teaching shrinks wh](cbi-advantage-shrinks-same-teacher-comparisons.md) (supports) |
 | Martin 2003 | q3 · causal · r2 | i? | [In one experiment with 256 undergraduates, computer-based lesson versions that included pr](practice-presence-raises-cbi-posttest-achievement.md) (supports) |
-| Slezak 2011 | q2 · causal · r2 | i? | [The computer-based implementation showed no significant difference from individual paper-b](computer-based-no-better-than-individual-paper.md) (supports); [A computer-based implementation of the tutorial yields the lowest post-test scores, statis](computer-based-tutorial-implementation-lowest-posttest.md) (qualifies) |
+| [Slezak 2011](https://doi.org/10.48550/arxiv.1110.0050) | q2 · causal · r2 | i? | [The computer-based implementation showed no significant difference from individual paper-b](computer-based-no-better-than-individual-paper.md) (supports); [A computer-based implementation of the tutorial yields the lowest post-test scores, statis](computer-based-tutorial-implementation-lowest-posttest.md) (qualifies) |
 | Gilbert 1999 | q2 · theoretical · r3 | i? | [A tool's effectiveness results from the whole configuration of events, activities, and con](tool-effectiveness-depends-on-context-configuration.md) (supports) |
 | Brewe 2007 | q2 · causal · r1 | i? | [The authors of one physics-course study attribute its technology-supported gains to the st](lab-technology-gains-depend-on-active-engagement-pedagogy.md) (supports) |
 | [Jaeseok Yang 2013](https://doi.org/10.5539/elt.v6n7p19) | q2 · review · r2 | i? | [In one 30-student study of high-school English learners (Lu 2008, reported in a review), v](sms-vocabulary-learning-beats-paper-materials.md) (qualifies) |
@@ -102,7 +102,7 @@ This claim is methodological rather than an effect-size finding: it does not ass
 A live tension worth flagging: the claim that "media do not influence learning, only method does" (the strong form of Clark's position) has itself been contested by media researchers such as Kozma (1994), who argued some media genuinely afford instructional methods that would be impractical or impossible in others — the confound Clark identifies is real, but does not necessarily prove media are inert.
 
 ## Related Claims
-- [A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps](gap-between-media-theory-and-isd-steps.md) — related
+- A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps — related
 - [The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within](lab-technology-gains-depend-on-active-engagement-pedagogy.md) — related
 - [Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions](bilingual-evaluations-ignore-interactions.md) — a narrower finding that bears on this claim
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: fanfei-li-2026
-    resource: "https://arxiv.org/abs/2608.13545"
-    title: "Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545"
+    resource: "https://doi.org/10.48550/arxiv.2608.13545"
+    title: "Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545 [doi:10.48550/arxiv.2608.13545](https://doi.org/10.48550/arxiv.2608.13545)"
     author: Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In-context learning with few-shot examples and explanations does not unlock Beyond-K-5 reasoning for the 5B LittleLearner
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Few-shot prompting with three manually authored chain-of-thought examples per CCSS standard yields modest K-5 gains but no gain at all in Beyond-K-5 on MathCAMPS. [→ Fanfei Li 2026](#fanfei-li-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Fanfei Li 2026
 
-Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545
+Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545 [doi:10.48550/arxiv.2608.13545](https://doi.org/10.48550/arxiv.2608.13545)
 
 `q2 · i?` · `causal · r2`
 

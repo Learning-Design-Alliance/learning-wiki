@@ -18,7 +18,7 @@ sources:
 # Family Science Fun Guide
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size
 
 ## Description
 A digital family science curriculum guide developed for the Early Science with Nico and Nor program, offering playful home and outdoor activities and conversation support for caregivers.
@@ -28,9 +28,6 @@ A digital family science curriculum guide developed for the Early Science with N
 
 ### Claims
 - [Children who engaged in the program at both home and school made significantly more improvement in science learning than children who implemented at school only](../claims/home-and-school-engagement-greater-science-improvement.md) [+M]
-- [Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests](../claims/parents-adapted-family-guide-activities.md) [+W]
-- [Parents reported that the home activities were fun, promoted science learning, and meaningfully connected to everyday experiences](../claims/parents-report-activities-fun-and-connected.md) [+W]
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](../claims/nico-nor-greater-science-learning-gains-than-comparison.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -67,9 +64,6 @@ The Family Science Fun Guide is a digital guide that "includes indoor and outdoo
 ## Claims
 
 - [Children who engaged in the program at both home and school made significantly more improvement in science learning than children who implemented at school only](../claims/home-and-school-engagement-greater-science-improvement.md) [+M]
-- [Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests](../claims/parents-adapted-family-guide-activities.md) [+W]
-- [Parents reported that the home activities were fun, promoted science learning, and meaningfully connected to everyday experiences](../claims/parents-report-activities-fun-and-connected.md) [+W]
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](../claims/nico-nor-greater-science-learning-gains-than-comparison.md) [+M]
 
 ## Related Elements
 

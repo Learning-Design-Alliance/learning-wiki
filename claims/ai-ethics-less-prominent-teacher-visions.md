@@ -47,7 +47,7 @@ Qualitative content analysis of 50 essays found ethical and governance themes re
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — reports the opposite
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — reports the opposite
 - [Data privacy mitigations centered on data governance and monitoring (68.9%), while technical reliability mitigations centered on human involvement (36.9%)](rfi-privacy-reliability-mitigation-distribution.md) — related
-- [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
+- Generative AI systems carry strong potential for introduced and inherited bias — related
 - [Respondents proposed testing and monitoring (61.9%) and human involvement (22.7%) as leading mitigations for algorithmic bias](rfi-bias-mitigation-testing-human-involvement.md) — related
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related

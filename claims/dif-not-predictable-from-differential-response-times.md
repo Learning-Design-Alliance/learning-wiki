@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Mantel-Haenszel DIF analysis flagged four items, but differential response times alone did not predict which items would be DIF-flagged. [→ Srdjan Verbić & Boris Tomić 2008](#srdjan-verbic-boris-tomic-2008)
@@ -45,8 +46,8 @@ Mantel-Haenszel DIF procedure (items with p<0.05 flagged) applied to the boys-ve
 
 - [The ICC and LDF methods identify substantially different sets of items as exhibiting DIF on a state science performance assessment](icc-and-ldf-methods-identify-different-dif-items.md) — the general claim this finding bears on, with the studies behind it
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
-- [Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls](likelihood-variance-greater-for-girls.md) — related
+- Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls — related
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
-- [The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04)](rt-likelihood-trend-boys-not-girls.md) — related
-- [Differential item functioning was found in four items across the function, form and level dimensions](thinking-styles-scale-dif-items.md) — related
+- The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04) — related
+- Differential item functioning was found in four items across the function, form and level dimensions — related
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related

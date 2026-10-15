@@ -18,7 +18,7 @@ sources:
 # 360 Filmmakers Challenge
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A programme run through Oculus VR for Good in which young people produce 360-degree films using emerging technology, educator support, professional mentors, prompts, and an authentic audience.
@@ -27,11 +27,6 @@ A programme run through Oculus VR for Good in which young people produce 360-deg
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Students improved communication and collaboration through the open-ended 360 film production process](../claims/360-filmmakers-challenge-communication-collaboration.md) [+W]
-- [Educators grew more confident supporting student autonomy and leading media production through the program](../claims/360-filmmakers-challenge-educator-confidence-autonomy.md) [+W]
-- [Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence](../claims/360-filmmakers-challenge-personal-meaning-motivation.md) [+W]
-- [Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives](../claims/360-filmmakers-challenge-perspective-taking.md) [+W]
-- [Educators and students reported that the 360 Filmmakers Challenge built students' technical and creative production skills with emerging media technologies](../claims/360-filmmakers-challenge-production-skills-gains.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,11 +63,6 @@ The 360 Filmmakers Challenge, part of the Oculus VR for Good initiative, engages
 
 ## Claims
 
-- [Students improved communication and collaboration through the open-ended 360 film production process](../claims/360-filmmakers-challenge-communication-collaboration.md) [+W]
-- [Educators grew more confident supporting student autonomy and leading media production through the program](../claims/360-filmmakers-challenge-educator-confidence-autonomy.md) [+W]
-- [Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence](../claims/360-filmmakers-challenge-personal-meaning-motivation.md) [+W]
-- [Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives](../claims/360-filmmakers-challenge-perspective-taking.md) [+W]
-- [Educators and students reported that the 360 Filmmakers Challenge built students' technical and creative production skills with emerging media technologies](../claims/360-filmmakers-challenge-production-skills-gains.md) [+W]
 
 ## Related Elements
 - 

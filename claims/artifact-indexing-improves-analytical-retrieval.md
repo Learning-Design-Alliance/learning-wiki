@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dawei-xie-2026
-    resource: "https://arxiv.org/abs/2605.17259"
-    title: "Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259"
+    resource: "https://doi.org/10.48550/arxiv.2605.17259"
+    title: "Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259 [doi:10.48550/arxiv.2605.17259](https://doi.org/10.48550/arxiv.2605.17259)"
     author: Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Indexing LLM-generated artifacts nearly doubles retrieval recall on analytical queries compared with transcript-only retrieval, while direct queries perform comparably across configurations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On 20 analytical queries whose evaluative vocabulary does not appear in student speech, transcript-only retrieval achieved Recall@5 = .371, while combining all artifact types yielded the strongest performance (Recall@5 = .739, Recall@10 = .804, MRR@5 = .942). [→ Dawei Xie 2026](#dawei-xie-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Dawei Xie 2026
 
-Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259
+Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259 [doi:10.48550/arxiv.2605.17259](https://doi.org/10.48550/arxiv.2605.17259)
 
 `q2 · i?` · `design · r2`
 
@@ -63,6 +63,6 @@ For the 10 direct queries whose terms appear in transcripts, retrieval found rel
 
 ## Related Claims
 - [Artifact-grounded agent responses are rated significantly higher than transcript-only responses on groundedness, analytical depth, helpfulness, relevance, and overall quality](artifact-grounded-responses-rated-higher.md) — related
-- [A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment](hybrid-gpt4o-human-inductive-thematic-analysis-workflow.md) — related
+- A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment — related
 - [General-purpose embedding yields better retrieval while domain-specific embedding yields higher answer completeness and relevance](embedding-model-tradeoff-retrieval-vs-completeness.md) — related
 - [The Dashboard's largest rating advantage was on exploring response details (L1, Δ=1.30), while the two platforms were nearly comparable on broad trends (L2, Δ=0.20) and development over time (L6, Δ=0.10)](dashboard-detail-advantage-trends-comparable.md) — related

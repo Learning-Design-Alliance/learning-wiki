@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3` · `i0` negligible
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 17 design pages cite it; treat it as a lead to check, not an established finding.
 
 In one study of text underlining, learners' prior knowledge scores did not correlate significantly with the number of test questions answered correctly. This is a narrow, sample-specific null finding — not evidence that prior knowledge is generally unrelated to learning.
 

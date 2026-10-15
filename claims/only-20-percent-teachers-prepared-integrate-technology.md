@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In a 1998 national survey, only 20 percent of full-time public school teachers reported feeling very well prepared to integrate educational technology into classroom instruction. [→ CEO Forum on Education and Technology 1999](#ceo-forum-on-education-and-technology-1999)
@@ -45,6 +46,6 @@ A national survey statistic reported in the in-service career development sectio
 ## Related Claims
 - [Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers](pd-integration-training-doubles-reliance.md) — related
 - [Schools spend far less per student on teacher technology training than on hardware, software, and connectivity, below the recommended 30 percent share](technology-training-spending-inadequate.md) — related
-- [Between the 1997 and 1999 STaR assessments, the share of schools effectively using technology rose from 15 to 24 percent, and almost 80 percent of schools had Internet connections](star-year2-technology-use-rise.md) — related
+- Between the 1997 and 1999 STaR assessments, the share of schools effectively using technology rose from 15 to 24 percent, and almost 80 percent of schools had Internet connections — related
 - [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md) — related
 - [Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms](art-teachers-resource-integration-challenges-prestudy.md) — related

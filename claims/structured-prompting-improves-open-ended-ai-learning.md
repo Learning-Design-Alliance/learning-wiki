@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xiaoyu-hou-2026
-    resource: "https://arxiv.org/abs/2606.05509"
-    title: "Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. https://arxiv.org/abs/2606.05509"
+    resource: "https://doi.org/10.48550/arxiv.2606.05509"
+    title: "Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. https://arxiv.org/abs/2606.05509 [doi:10.48550/arxiv.2606.05509](https://doi.org/10.48550/arxiv.2606.05509)"
     author: Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller
     q: 3
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Xiaoyu Hou 2026
 
-Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. https://arxiv.org/abs/2606.05509
+Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. https://arxiv.org/abs/2606.05509 [doi:10.48550/arxiv.2606.05509](https://doi.org/10.48550/arxiv.2606.05509)
 
 `q3 · i?` · `causal · r2`
 

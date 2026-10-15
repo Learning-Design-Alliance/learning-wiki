@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` More congruent responses occurred when consequences and relationships were important; in low-importance, low-relationship situations incongruent responses were more the rule than the exception. [→ Duke 1979](#duke-1979)
@@ -43,7 +44,7 @@ In a study (Ladd, Nowicki, & Duke, 1979), sixty female college students responde
 
 
 ## Related Claims
-- [Therapy relationships do not show a transition from relational incongruence to congruence across sessions](no-incongruence-to-congruence-transition-across-therapy-sessions.md) — related
+- Therapy relationships do not show a transition from relational incongruence to congruence across sessions — related
 - [The category distribution of student questions varies substantially across different simulations](simulation-content-shifts-curiosity-categories.md) — related
-- [Response redundancy (relational congruence) is not related to working alliance ratings](redundancy-unrelated-to-working-alliance.md) — related
+- Response redundancy (relational congruence) is not related to working alliance ratings — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on

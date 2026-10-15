@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` In Experiment 1, significant three-way strategy-by-accuracy-by-certainty interactions showed reading controls endorsed more incorrect statements with great certainty. [→ Woloshyn 1992](#woloshyn-1992)

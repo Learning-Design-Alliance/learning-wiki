@@ -43,5 +43,5 @@ Cross-program analysis of non-student outcomes across the 36 reviewed programs (
 
 
 ## Related Claims
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - [Studies of character education programs most often measure student-level outcomes, with behavioral outcomes measured for 31 of 36 programs, affective for 28, and cognitive for 25](character-ed-studies-mostly-measure-student-outcomes.md) — related

@@ -16,7 +16,7 @@ sources:
 # Sauvé's taxonomy of fifteen currents of environmental education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article reports that, grounded in a review of the international EE literature, Sauvé (2005) established fifteen different "currents," each a general way of envisioning and practicing EE, divided into long-tradition currents (naturalist, conservationist/resourcist, problem-solving, systemic, scientific, humanistic, and value-centered) and emerging currents (holistic, bioregionalist, praxic, socially critical, feminist, ethnographic, eco-education, and sustainability). The article uses this mapping to frame the heterogeneous discursive formations circulating in the EE field, noting currents overlap and must not be reified.
@@ -37,10 +37,6 @@ The article reports that, grounded in a review of the international EE literatur
 
 ### Claims
 
-- [Brazilian EE legislation shifted from Law 6938/1981's naturalistic, conservation-restricted discourse to the socio-environmental perspective of Law 9795/1999 and the 2013 DCNEB](../claims/brazilian-ee-legislation-discourse-shift.md) [+W]
-- [The biology teacher-training curricular matrix devotes most environment-related hours to biological perspectives, with few courses promoting EE from other perspectives](../claims/curricular-matrix-biological-predominance.md) [+W]
-- [Pre-service biology teachers' discourses about environmental education are predominantly restricted to conservation or preservation, with some confusion between EE and ecology](../claims/ee-discourses-restricted-conservation-preservation.md) [+W]
-- [Student discourses showed little association between EE and socioeconomic issues, contrary to the interdisciplinary approach recommended by Brazilian legislation](../claims/little-ee-socioeconomic-association.md) [+W]
 
 ## Related Theories
 

@@ -26,7 +26,7 @@ sources:
 # Amira
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 5 studies (3 qualitative, 1 causal, 1 associational), `q2` · 1 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (2 mixed, 1 against) · 4 studies (3 qualitative, 1 associational), `q2` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 Amira Learning's Amira is an AI-powered personal reading tutor that assesses oral reading fluency, provides individualized reading practice and intervention, and reports diagnostic information to educators and families.
@@ -37,9 +37,6 @@ Amira Learning's Amira is an AI-powered personal reading tutor that assesses ora
 - **Microintervention scaffolds delivered at word, phrase, and story levels during oral reading practice**: Coach delivers scaffolded support as responses to errors detected during oral reading, at three moments within a reading session: word level when a student is stuck on a word, phrase level when a student misreads words within a sentence, and story level as a wrap-up building comprehension at the end of the story. Each microintervention is described as a "scaffold" aligned to the Reading Rope, with dozens employed to build foundational reading skills in English and Spanish. (MAP Reading Fluency with Coach Evidence Base (2024))
 
 ### Claims
-- [In a matched comparison study, Amira students outperformed matched controls on end-of-year DIBELS by +0.26 in kindergarten and +0.06 in first grade](../claims/amira-matched-dibels-kindergarten-first-grade.md) [+W]
-- [Across two studies totaling 15,602 students, Amira shows consistent positive impacts on early reading, qualifying it for a Moderate rating with an average effect size of +0.15](../claims/amira-moderate-evidence-rating-average-015.md) [+W]
-- [In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls](../claims/amira-rct-woodcock-effect-064.md) [+M]
 - [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](../claims/asr-inaccuracy-diverse-accents.md) [-W]
 - [Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects](../claims/ai-multilingual-disability-speech-tool-gaps.md) [~W]
 - [Respondents anticipated using LLMs most often (23%), followed by NLP (17%), predictive AI (14%), chatbots (13%), and ASR (10%)](../claims/rfi-technology-types-llm-most-common.md) [~W]
@@ -83,9 +80,6 @@ Amira is "a personal artificial intelligent tutor program" that provides student
 
 ## Claims
 
-- [In a matched comparison study, Amira students outperformed matched controls on end-of-year DIBELS by +0.26 in kindergarten and +0.06 in first grade](../claims/amira-matched-dibels-kindergarten-first-grade.md) [+W]
-- [Across two studies totaling 15,602 students, Amira shows consistent positive impacts on early reading, qualifying it for a Moderate rating with an average effect size of +0.15](../claims/amira-moderate-evidence-rating-average-015.md) [+W]
-- [In a student-randomized trial, struggling readers in grades 1–4 who used Amira scored significantly higher on the Woodcock Reading Mastery Test Total Reading Composite (effect size = +0.64) than Sustained Silent Reading controls](../claims/amira-rct-woodcock-effect-064.md) [+M]
 
 ## Related Elements
 

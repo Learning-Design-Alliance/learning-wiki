@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: esse-ciego-2026
-    resource: "https://arxiv.org/abs/2607.28203"
-    title: "Esse Ciego, Shubbhi Taneja, Wilson Wong, and Amanpreet Kapoor. (2026). Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education. https://arxiv.org/abs/2607.28203"
+    resource: "https://doi.org/10.48550/arxiv.2607.28203"
+    title: "Esse Ciego, Shubbhi Taneja, Wilson Wong, and Amanpreet Kapoor. (2026). Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education. https://arxiv.org/abs/2607.28203 [doi:10.48550/arxiv.2607.28203](https://doi.org/10.48550/arxiv.2607.28203)"
     author: Esse Ciego, Shubbhi Taneja, Wilson Wong, and Amanpreet Kapoor
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Esse Ciego 2026
 
-Esse Ciego, Shubbhi Taneja, Wilson Wong, and Amanpreet Kapoor. (2026). Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education. https://arxiv.org/abs/2607.28203
+Esse Ciego, Shubbhi Taneja, Wilson Wong, and Amanpreet Kapoor. (2026). Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education. https://arxiv.org/abs/2607.28203 [doi:10.48550/arxiv.2607.28203](https://doi.org/10.48550/arxiv.2607.28203)
 
 `q2 · i?` · `qualitative · r2`
 

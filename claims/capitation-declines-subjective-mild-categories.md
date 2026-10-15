@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: elizabeth-dhuey-2011
-    resource: "https://www.mathematica.org/publications/funding-special-education-by-capitation-evidence-from-state-finance-reforms"
-    title: "Elizabeth Dhuey, Stephen Lipscomb. (2011). Funding Special Education by Capitation: Evidence from State Finance Reforms. Education Finance and Policy, vol. 6, no. 2. https://www.mathematica.org/publications/funding-special-education-by-capitation-evidence-from-state-finance-reforms"
+    resource: "https://doi.org/10.1162/edfp_a_00031"
+    title: "Elizabeth Dhuey, Stephen Lipscomb. (2011). Funding Special Education by Capitation: Evidence from State Finance Reforms. Education Finance and Policy, vol. 6, no. 2. https://www.mathematica.org/publications/funding-special-education-by-capitation-evidence-from-state-finance-reforms [doi:10.1162/edfp_a_00031](https://doi.org/10.1162/edfp_a_00031)"
     author: Elizabeth Dhuey, Stephen Lipscomb
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Elizabeth Dhuey 2011
 
-Elizabeth Dhuey, Stephen Lipscomb. (2011). Funding Special Education by Capitation: Evidence from State Finance Reforms. Education Finance and Policy, vol. 6, no. 2. https://www.mathematica.org/publications/funding-special-education-by-capitation-evidence-from-state-finance-reforms
+Elizabeth Dhuey, Stephen Lipscomb. (2011). Funding Special Education by Capitation: Evidence from State Finance Reforms. Education Finance and Policy, vol. 6, no. 2. https://www.mathematica.org/publications/funding-special-education-by-capitation-evidence-from-state-finance-reforms [doi:10.1162/edfp_a_00031](https://doi.org/10.1162/edfp_a_00031)
 
 `q2 · i?` · `associational · r?`
 

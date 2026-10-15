@@ -18,7 +18,7 @@ sources:
 # FASTalk
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 FASTalk is a text-message family-engagement programme that sends multilingual, at-home literacy activities to families to support learning partnerships between schools and historically underserved households.
@@ -28,9 +28,6 @@ FASTalk is a text-message family-engagement programme that sends multilingual, a
 - **FASTalk text-message family engagement program for at-home literacy activities in the home language**: FASTalk (Families and Schools Talk) is a family engagement tool that "seeks to promote equity and build partnerships between teachers and historically underserved families by sharing engaging, at-home learning activities via text messages in each family's home language." Parents received three text messages per week for 8 weeks supporting literacy development at home. The program requires no additional staffing, offers optional professional development for administrators and educators, and requires only a text message-enabled phone. (FASTalk program description et al. (2019))
 
 ### Claims
-- [FASTalk students showed significantly higher spring iSTEEP literacy growth than matched non-FASTalk peers (effect size +0.39)](../claims/fastalk-baton-rouge-isteep-growth.md) [+W]
-- [FASTalk kindergarten students in Oakland Unified gained 1.1 months of additional literacy compared with matched comparison students](../claims/fastalk-ousd-kindergarten-months-gains.md) [+W]
-- [FASTalk holds a Promising evidence rating based on two qualifying studies averaging +0.27 across 585 students](../claims/fastalk-promising-rating-two-studies.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,9 +64,6 @@ FASTalk (Families and Schools Talk) is a family engagement tool that "seeks to p
 
 ## Claims
 
-- [FASTalk students showed significantly higher spring iSTEEP literacy growth than matched non-FASTalk peers (effect size +0.39)](../claims/fastalk-baton-rouge-isteep-growth.md) [+W]
-- [FASTalk kindergarten students in Oakland Unified gained 1.1 months of additional literacy compared with matched comparison students](../claims/fastalk-ousd-kindergarten-months-gains.md) [+W]
-- [FASTalk holds a Promising evidence rating based on two qualifying studies averaging +0.27 across 585 students](../claims/fastalk-promising-rating-two-studies.md) [+W]
 
 ## Related Elements
 

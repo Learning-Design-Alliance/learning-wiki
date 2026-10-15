@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: melissa-a-clark-2015
-    resource: "https://www.mathematica.org/publications/do-charter-schools-improve-student-achievement"
-    title: "Melissa A. Clark, Philip M. Gleason, Christina Clark Tuttle, Marsha K. Silverberg. (2015). Do Charter Schools Improve Student Achievement? Educational Evaluation and Policy Analysis, vol. 37, no. 4. https://www.mathematica.org/publications/do-charter-schools-improve-student-achievement"
+    resource: "https://doi.org/10.3102/0162373714558292"
+    title: "Melissa A. Clark, Philip M. Gleason, Christina Clark Tuttle, Marsha K. Silverberg. (2015). Do Charter Schools Improve Student Achievement? Educational Evaluation and Policy Analysis, vol. 37, no. 4. https://www.mathematica.org/publications/do-charter-schools-improve-student-achievement [doi:10.3102/0162373714558292](https://doi.org/10.3102/0162373714558292)"
     author: Melissa A. Clark, Philip M. Gleason, Christina Clark Tuttle, Marsha K. Silverberg
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Melissa A. Clark 2015
 
-Melissa A. Clark, Philip M. Gleason, Christina Clark Tuttle, Marsha K. Silverberg. (2015). Do Charter Schools Improve Student Achievement? Educational Evaluation and Policy Analysis, vol. 37, no. 4. https://www.mathematica.org/publications/do-charter-schools-improve-student-achievement
+Melissa A. Clark, Philip M. Gleason, Christina Clark Tuttle, Marsha K. Silverberg. (2015). Do Charter Schools Improve Student Achievement? Educational Evaluation and Policy Analysis, vol. 37, no. 4. https://www.mathematica.org/publications/do-charter-schools-improve-student-achievement [doi:10.3102/0162373714558292](https://doi.org/10.3102/0162373714558292)
 
 `q3 · i?` · `causal · r2`
 

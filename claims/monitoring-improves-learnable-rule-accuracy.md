@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i0` negligible
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In Ciske's pilot study, monitoring significantly improved the accuracy of subject-verb agreement (p < .01) and regular past tense (p < .001) for one Korean ESL student. [→ Adamson 1983](#adamson-1983)
@@ -48,6 +49,6 @@ A pilot study by Mary Ciske elicited four contextual styles (free writing, readi
 ## Related Claims
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — reports the opposite
 - [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](monitoring-lowers-preposition-accuracy.md) — related
-- [Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles](monitoring-variable-not-all-or-nothing.md) — related
+- Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles — related
 - [Regular past tense accuracy is greatest in planned writing, intermediate in planned speech, and least in unplanned speech](regular-past-accuracy-planned-writing-highest.md) — related
 - [L2 learners style-shift in past tense accuracy within narrative discourse according to the amount of planning time available](style-shifting-past-tense-planning-time-narrative.md) — related

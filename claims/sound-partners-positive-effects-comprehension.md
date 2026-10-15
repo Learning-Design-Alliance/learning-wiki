@@ -46,8 +46,8 @@ The WWC synthesis reports that "the average improvement index for reading compre
 - [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related
 - [Sound Partners tutoring has positive effects on reading fluency of beginning readers](sound-partners-positive-effects-fluency.md) — related
 - [CIRC has potentially positive effects on comprehension for beginning readers, with an average improvement index of +12 percentile points across two studies](circ-potentially-positive-comprehension-effects.md) — related
-- [Sound Partners outcomes for English learners persist two years later on Word Reading and Comprehension](sound-partners-outcomes-persist-two-years.md) — related
-- [Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15)](sound-partners-positive-first-grade-effects-english-learners.md) — a narrower finding that bears on this claim
-- [Sound Partners produces significantly positive reading outcomes for English learner kindergartners (effect size +0.60)](sound-partners-positive-kindergarten-effects-english-learners.md) — related
-- [Sound Partners tutoring produces an average effect size of +0.58 on reading measures for kindergarten and first-grade students, meeting ESSA Strong criteria](sound-partners-average-effect-size-058.md) — related
-- [Sound Partners effects on word reading and comprehension are maintained two years after tutoring for kindergartners and first graders](sound-partners-effects-maintained-two-years.md) — related
+- Sound Partners outcomes for English learners persist two years later on Word Reading and Comprehension — related
+- Sound Partners produces significantly positive but smaller reading outcomes for English learner first graders (effect size +0.15) — a narrower finding that bears on this claim
+- Sound Partners produces significantly positive reading outcomes for English learner kindergartners (effect size +0.60) — related
+- Sound Partners tutoring produces an average effect size of +0.58 on reading measures for kindergarten and first-grade students, meeting ESSA Strong criteria — related
+- Sound Partners effects on word reading and comprehension are maintained two years after tutoring for kindergartners and first graders — related

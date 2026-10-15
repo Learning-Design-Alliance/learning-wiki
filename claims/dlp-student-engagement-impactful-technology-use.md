@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bakhshaei-2019
-    resource: "https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c"
-    title: "Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c"
+    resource: "https://doi.org/10.51388/20.500.12265/82"
+    title: "Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c [doi:10.51388/20.500.12265/82](https://doi.org/10.51388/20.500.12265/82)"
     author: "Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` DLP teachers reported higher rates of technology used for small-group collaboration (75 vs 62 percent), creating unique products (51 vs 38 percent), and student-chosen learning activities (46 vs 35 percent). [→ Bakhshaei 2019](#bakhshaei-2019)
@@ -40,7 +40,7 @@ sources:
 
 ### Bakhshaei 2019
 
-Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c
+Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c [doi:10.51388/20.500.12265/82](https://doi.org/10.51388/20.500.12265/82)
 
 `q2 · i?` · `associational · r1`
 

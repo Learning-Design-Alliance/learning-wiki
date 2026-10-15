@@ -45,4 +45,4 @@ BKT parameter estimation on the pilot log data (Table 3) reports mean final mast
 ## Related Claims
 - [Learning curves show error rates decreased for wind direction, air movement, and cloud type but stayed high for wind speed and precipitation skills](bkt-learning-curves-skill-differences.md) — related
 - [DBN analysis shows wind direction and air movement reached the highest posterior mastery probabilities while other skills stayed flat or declined](dbn-posterior-mastery-over-time.md) — related
-- [Both BKT and DBN show high classification accuracy but low consistency for wind direction, cloud type, and air movement](classification-accuracy-high-consistency-low.md) — related
+- Both BKT and DBN show high classification accuracy but low consistency for wind direction, cloud type, and air movement — related

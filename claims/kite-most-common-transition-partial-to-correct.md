@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mragisha-jain-2026
-    resource: "https://arxiv.org/abs/2605.12988"
-    title: "Mragisha Jain, Tirth Bhatt, Griffin Pitts, Aum Pandya, Peter Brusilovsky, Narges Norouzi, Arto Hellas, Juho Leinonen, Bita Akram. (2026). Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education. Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026), co-located with ACL 2026. https://arxiv.org/abs/2605.12988"
+    resource: "https://doi.org/10.48550/arxiv.2605.12988"
+    title: "Mragisha Jain, Tirth Bhatt, Griffin Pitts, Aum Pandya, Peter Brusilovsky, Narges Norouzi, Arto Hellas, Juho Leinonen, Bita Akram. (2026). Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education. Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026), co-located with ACL 2026. https://arxiv.org/abs/2605.12988 [doi:10.48550/arxiv.2605.12988](https://doi.org/10.48550/arxiv.2605.12988)"
     author: Mragisha Jain, Tirth Bhatt, Griffin Pitts, Aum Pandya, Peter Brusilovsky, Narges Norouzi, Arto Hellas, Juho Leinonen, Bita Akram
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mragisha Jain 2026
 
-Mragisha Jain, Tirth Bhatt, Griffin Pitts, Aum Pandya, Peter Brusilovsky, Narges Norouzi, Arto Hellas, Juho Leinonen, Bita Akram. (2026). Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education. Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026), co-located with ACL 2026. https://arxiv.org/abs/2605.12988
+Mragisha Jain, Tirth Bhatt, Griffin Pitts, Aum Pandya, Peter Brusilovsky, Narges Norouzi, Arto Hellas, Juho Leinonen, Bita Akram. (2026). Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education. Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026), co-located with ACL 2026. https://arxiv.org/abs/2605.12988 [doi:10.48550/arxiv.2605.12988](https://doi.org/10.48550/arxiv.2605.12988)
 
 `q2 · i?` · `design · r2`
 

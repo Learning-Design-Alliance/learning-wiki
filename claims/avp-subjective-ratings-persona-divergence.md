@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: angela-chen-2026
-    resource: "https://arxiv.org/abs/2606.10051"
-    title: "Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills. https://arxiv.org/abs/2606.10051"
+    resource: "https://doi.org/10.48550/arxiv.2606.10051"
+    title: "Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills. https://arxiv.org/abs/2606.10051 [doi:10.48550/arxiv.2606.10051](https://doi.org/10.48550/arxiv.2606.10051)"
     author: Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu
     q: 2
     i: 2
@@ -30,7 +30,7 @@ sources:
 # Post-session subjective ratings favored the adaptive system for the expressive persona but showed a reversed adaptivity disadvantage for the guarded persona
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
+> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` For the expressive persona (Alex), the adaptive condition significantly outscored static on character consistency (d = 0.40) with a medium realism effect (d = 0.47). [→ Angela Chen 2026](#angela-chen-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Angela Chen 2026
 
-Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills. https://arxiv.org/abs/2606.10051
+Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills. https://arxiv.org/abs/2606.10051 [doi:10.48550/arxiv.2606.10051](https://doi.org/10.48550/arxiv.2606.10051)
 
 `q2 · i2` · `causal · r2`
 

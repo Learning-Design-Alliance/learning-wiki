@@ -17,7 +17,7 @@ sources:
 # Adaptive game-based design combining scaffolding, embedded assessment, and narrative engagement
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The program's design pattern combines a math curriculum with adaptive game-based learning: each game activity maps to a learning objective with "an interactive instruction level, as well as several layers of scaffolding and feedback." Adaptivity operates within games, between games, and across the system to give "a customized pathway between skills based on prior performance," with cohesive narrative and interactive characters supporting engagement.
@@ -37,7 +37,6 @@ The program's design pattern combines a math curriculum with adaptive game-based
 - Fundamental number sense and operations
 
 ### Claims
-- [Mma Moderators Baseline And Usage](../claims/mma-moderators-baseline-and-usage.md) [+M]
 
 ## Related Designs
 - 

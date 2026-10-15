@@ -16,7 +16,7 @@ sources:
 # Home culture as multifaceted cultural identity expressed in teaching through inclusion of home culture in the school's culture
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper's concluding framework defines home culture as "cultural identity which consists of several identities including gender, race, sexual preference, ethnic backgrounds." Teachers express and maintain their own identity in teaching by including their home culture within the school's culture, and to create classrooms where students feel free to express their identities, students' home cultures must likewise be included. The framework treats language as the largest representation of the student's home culture and reframes linguistic difference as difference rather than deficiency.
@@ -38,7 +38,6 @@ The paper's concluding framework defines home culture as "cultural identity whic
 - combating inequities in access to knowledge and power
 
 ### Claims
-- [School Home Culture Mismatch Assimilation Disadvantage](../claims/school-home-culture-mismatch-assimilation-disadvantage.md) [+M]
 - [Incorporating Home Culture Improves Academic Performance](../claims/incorporating-home-culture-improves-academic-performance.md) [+M]
 
 ## Related Theories

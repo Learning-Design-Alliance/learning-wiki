@@ -17,7 +17,7 @@ sources:
 # Experiment embedded in the 2006 National Survey of Student Engagement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This element is the data source for the study: an experiment embedded in the 2006 National Survey of Student Engagement. The article reports that "using data from an experiment embedded in the 2006 National Survey of Student Engagement," it examined differential interpretation of vague quantifiers of behavioral frequency. The embedded-experiment design supplied the response data analyzed with latent variable models.
@@ -38,8 +38,6 @@ This element is the data source for the study: an experiment embedded in the 200
 
 ## Claims
 
-- [Differential interpretation of vague quantifiers is best represented as variability between latent interpretation classes](../claims/differential-interpretation-latent-classes-finding.md) [+W]
-- [Latent variable models can be used to detect individual variability in the interpretation of vague quantifiers of behavioral frequency](../claims/latent-variable-models-detect-vague-quantifier-interpretation-variability.md) [+W]
 - [Measurement models based on vaguely quantified behavioral frequency reports differ in structure from those based on numerically quantified reports](../claims/vague-vs-numeric-frequency-measurement-models-differ.md) [+W]
 
 ## Related Elements

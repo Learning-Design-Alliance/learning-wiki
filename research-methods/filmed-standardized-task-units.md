@@ -17,7 +17,7 @@ sources:
 # Filmed standardized task units
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article's core methodological pattern is presenting each of six teachers with the same tasks under controlled conditions and filming 20-minute sessions so that inter- and intra-teaching comparisons can be analyzed by diverse observers. Teachers performed two filmed tasks with a two to three day latency between receiving instructions and doing the task, and one task with no delay, allowing systematic variation over content and latency of tasks. The films serve as a permanent record; the article states "In a very real sense, the films are the data." Anecdotal reports were written for all filmed tasks and two additional tasks including snack time, and validity is to be ascertained by compar
@@ -27,8 +27,6 @@ The article's core methodological pattern is presenting each of six teachers wit
 - **Filmed standardized task units as a research pattern: 20-minute common tasks with varied latency, filmed to permit within- and between-teacher comparison and study of observer variation**: The article's core methodological pattern is presenting each of six teachers with the same tasks under controlled conditions and filming 20-minute sessions so that inter- and intra-teaching comparisons can be analyzed by diverse observers. Teachers performed two filmed tasks with a two to three day latency between receiving instructions and doing the task, and one task with no delay, allowing systematic variation over content and latency of tasks. The films serve as a permanent record; the article states "In a very real sense, the films are the data." Anecdotal reports were written for all filmed tasks and two additional tasks including snack time, and validity is to be ascertained by compar (Garfunkel (1967))
 
 ### Claims
-- [Standardized teaching tasks elicit style variation predictable across tasks: observers accurately forecasted subsequent task performance for five of six Head Start teachers](../claims/teaching-task-predictions-forecast-style-five-of-six.md) [+W]
-- [Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60](../claims/style-scale-correlations-and-observer-agreement.md) [+W]
 
 ## Related Research Methods
 -
@@ -65,8 +63,6 @@ The article's core methodological pattern is presenting each of six teachers wit
 
 ### Claims
 
-- [Teaching Task Predictions Forecast Style Five Of Six](../claims/teaching-task-predictions-forecast-style-five-of-six.md) [+W]
-- [Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60](../claims/style-scale-correlations-and-observer-agreement.md) [+W]
 
 ## Related Patterns
 - 

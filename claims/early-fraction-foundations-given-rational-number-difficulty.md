@@ -45,5 +45,5 @@ Authors' closing recommendation slide (type e, interpretation). The presentation
 ## Related Claims
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — a broader claim this one bears on
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
-- [Adults learn better when learning content and methods link to their previous experience](adult-learning-linked-to-previous-experience.md) — related
+- Adults learn better when learning content and methods link to their previous experience — related
 - [The Heising-Simons Foundation funded family engagement providers to develop, test, and integrate research-based early math projects within existing family engagement programs](heising-simons-funded-early-math-family-engagement-projects.md) — related

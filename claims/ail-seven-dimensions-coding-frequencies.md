@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: veronika-hackl-2025
-    resource: "https://arxiv.org/abs/2509.18900"
-    title: "Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer. (2025). The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education. https://arxiv.org/abs/2509.18900"
+    resource: "https://doi.org/10.48550/arxiv.2509.18900"
+    title: "Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer. (2025). The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education. https://arxiv.org/abs/2509.18900 [doi:10.48550/arxiv.2509.18900](https://doi.org/10.48550/arxiv.2509.18900)"
     author: Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Veronika Hackl 2025
 
-Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer. (2025). The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education. https://arxiv.org/abs/2509.18900
+Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer. (2025). The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education. https://arxiv.org/abs/2509.18900 [doi:10.48550/arxiv.2509.18900](https://doi.org/10.48550/arxiv.2509.18900)
 
 `q2 · i?` · `review · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: stelzer-2008
-    resource: "https://arxiv.org/abs/0806.0405"
-    title: "Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405"
+    resource: "https://doi.org/10.48550/arxiv.0806.0405"
+    title: "Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405 [doi:10.48550/arxiv.0806.0405](https://doi.org/10.48550/arxiv.0806.0405)"
     author: Stelzer, Gladding, Mestre, and Brookes
     q: 2
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Stelzer 2008
 
-Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405
+Stelzer, Gladding, Mestre, and Brookes. (2008). Comparing the efficacy of multimedia modules with traditional textbooks for learning introductory physics content. https://arxiv.org/abs/0806.0405 [doi:10.48550/arxiv.0806.0405](https://doi.org/10.48550/arxiv.0806.0405)
 
 `q2 · i1` · `causal · r2`
 
@@ -46,4 +46,4 @@ End-of-study survey comparing study materials with the students' current textboo
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — related
 - [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related
 - [Students report rarely reading their physics textbooks, with half claiming never to have used it in an entire semester](students-rarely-read-textbook.md) — related
-- [No instructor bias was evident in students' liking of the clicker implementation or perceived learning benefit](no-instructor-bias-clicker-perceptions.md) — related
+- No instructor bias was evident in students' liking of the clicker implementation or perceived learning benefit — related

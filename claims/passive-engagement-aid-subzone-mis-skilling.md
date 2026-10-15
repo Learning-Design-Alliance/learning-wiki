@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tsim-2026
-    resource: "https://arxiv.org/abs/2608.28373"
-    title: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373"
+    resource: "https://doi.org/10.48550/arxiv.2608.28373"
+    title: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373 [doi:10.48550/arxiv.2608.28373](https://doi.org/10.48550/arxiv.2608.28373)"
     author: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence** · 2 studies · 2 theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` A learner who correctly identifies an Aid task but engages passively (reading without evaluating, accepting without comparing) internalizes plausible-sounding AI errors, constituting a failure of epistemic activity rather than subzone selection. [→ Tsim 2026](#tsim-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Tsim 2026
 
-Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373
+Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373 [doi:10.48550/arxiv.2608.28373](https://doi.org/10.48550/arxiv.2608.28373)
 
 `q1 · i?` · `theoretical · r2`
 

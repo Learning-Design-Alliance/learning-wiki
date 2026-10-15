@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hao-liang-2026
-    resource: "https://arxiv.org/abs/2609.23088"
-    title: "Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang. (2026). OmniEdu: Open Foundation Models for Learning and Teaching. https://arxiv.org/abs/2609.23088"
+    resource: "https://doi.org/10.48550/arxiv.2609.23088"
+    title: "Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang. (2026). OmniEdu: Open Foundation Models for Learning and Teaching. https://arxiv.org/abs/2609.23088 [doi:10.48550/arxiv.2609.23088](https://doi.org/10.48550/arxiv.2609.23088)"
     author: Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hao Liang 2026
 
-Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang. (2026). OmniEdu: Open Foundation Models for Learning and Teaching. https://arxiv.org/abs/2609.23088
+Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang. (2026). OmniEdu: Open Foundation Models for Learning and Teaching. https://arxiv.org/abs/2609.23088 [doi:10.48550/arxiv.2609.23088](https://doi.org/10.48550/arxiv.2609.23088)
 
 `q2 · i?` · `design · r2`
 

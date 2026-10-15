@@ -18,7 +18,7 @@ sources:
 # Training a Multicultural Workforce
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 qualitative, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A 30-hour, six-module supervisor-training curriculum developed by Dyer for ESL-qualified instructors to help Australian workplace supervisors manage and train a multicultural workforce, including refugees and immigrants from non-English-speaking backgrounds.
@@ -28,8 +28,6 @@ A 30-hour, six-module supervisor-training curriculum developed by Dyer for ESL-q
 
 ### Claims
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
-- [The package argues the workplace provides experiences that give meaning to new language](../claims/workplace-context-gives-meaning-to-new-language.md) [+W]
-- [Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English](../claims/limited-english-use-opportunities-after-training.md) [~W]
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 
 ## Related Products and Programmes
@@ -67,8 +65,6 @@ A 30-hour training package designed to assist workplace supervisors in Australia
 ## Claims
 
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
-- [The package argues the workplace provides experiences that give meaning to new language](../claims/workplace-context-gives-meaning-to-new-language.md) [+W]
-- [Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English](../claims/limited-english-use-opportunities-after-training.md) [~W]
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 
 ## Related Elements

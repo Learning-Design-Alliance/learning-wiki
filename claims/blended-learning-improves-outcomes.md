@@ -45,13 +45,12 @@ A meta-analysis (part of a US Department of Education-commissioned review) synth
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a blended course produce better learning outcomes than the same course taught in one mode?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 review, 1 design), `q2`–`q3`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a blended course produce better learning outcomes than the same course taught in one mode?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Means et al. 2013](https://doi.org/10.1177/016146811311500307) | q3 · quant-synthesis · r? | i2 · medium effect, g+=0.35, p<.0001 | this claim |
 | Mid-Atlantic Regional Educational Laboratory 2018 | q2 · review · r? | i? | [Some blended learning interventions improve student outcomes, but whether a positive effec](blended-learning-effects-vary-by-intervention-and-domain.md) (qualifies); [Research has not yet identified blended learning implementation strategies that increase t](no-identified-blended-learning-implementation-strategies.md) (qualifies) |
-| Digital Promise 2021 | q2 · design · r2 | i? | [Students in the Haiti blended learning pilot showed statistically significant learning gai](haiti-blended-pilot-significant-gains-lowest-baseline.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -83,5 +82,5 @@ A meta-analysis (part of a US Department of Education-commissioned review) synth
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — related
 - [Experimental-group students accessed the online course and learning activities more frequently (6.38 and 7.92) than control-group students (2.67 and 6.05)](cft-hypertext-design-higher-access-rates.md) — related
-- [Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses](online-credit-recovery-evidence-gap.md) — related
-- [Academic leaders rate blended learning outcomes more favorably than fully online outcomes, with more rating blended as superior than inferior to face-to-face](blended-outcomes-rated-superior-to-online.md) — related
+- Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses — related
+- Academic leaders rate blended learning outcomes more favorably than fully online outcomes, with more rating blended as superior than inferior to face-to-face — related

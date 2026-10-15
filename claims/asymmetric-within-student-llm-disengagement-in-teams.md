@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sehrish-basir-nizamani-2026
-    resource: "https://arxiv.org/abs/2606.30860"
-    title: "Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, and Khyati Goyal. (2026). Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work. https://arxiv.org/abs/2606.30860"
+    resource: "https://doi.org/10.48550/arxiv.2606.30860"
+    title: "Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, and Khyati Goyal. (2026). Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work. https://arxiv.org/abs/2606.30860 [doi:10.48550/arxiv.2606.30860](https://doi.org/10.48550/arxiv.2606.30860)"
     author: Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, and Khyati Goyal
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sehrish Basir Nizamani 2026
 
-Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, and Khyati Goyal. (2026). Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work. https://arxiv.org/abs/2606.30860
+Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, and Khyati Goyal. (2026). Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work. https://arxiv.org/abs/2606.30860 [doi:10.48550/arxiv.2606.30860](https://doi.org/10.48550/arxiv.2606.30860)
 
 `q2 · i?` · `associational · r1`
 

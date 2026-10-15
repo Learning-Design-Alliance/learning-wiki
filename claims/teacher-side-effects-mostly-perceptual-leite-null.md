@@ -44,4 +44,4 @@ The review reports this null direct association from Leite et al.'s (2022) large
 
 ## Related Claims
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — a broader claim this one bears on
-- [High school principals influence student achievement most strongly through school culture and climate](principal-leadership-strongest-through-school-climate.md) — related
+- High school principals influence student achievement most strongly through school culture and climate — related

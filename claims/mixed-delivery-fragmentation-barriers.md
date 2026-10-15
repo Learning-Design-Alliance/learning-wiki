@@ -44,7 +44,7 @@ Descriptive analysis in the report's background section enumerates challenges of
 
 ## Related Claims
 - [Community listening sessions identified shared themes of access and affordability, market shifts, workforce development, wages, outreach, inclusion, family supports, and facilities](listening-session-shared-findings-themes.md) — related
-- [The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers](frontline-ecosystem-siloed-data-flow.md) — related
+- The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers — related
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
-- [Child care providers interviewed during COVID-19 identified four key challenge areas: accessing funding, supporting health and safety, connecting supply and demand, and retaining workers](child-care-providers-four-key-challenge-areas.md) — related
+- Child care providers interviewed during COVID-19 identified four key challenge areas: accessing funding, supporting health and safety, connecting supply and demand, and retaining workers — related

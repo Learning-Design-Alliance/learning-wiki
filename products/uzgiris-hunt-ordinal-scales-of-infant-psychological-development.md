@@ -18,7 +18,7 @@ sources:
 # Uzgiris-Hunt ordinal scales of infant psychological development
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A set of six sequential ordinal scales developed by C. Uzgiris and J. McV. Hunt to assess infant psychological development through behavioral landmarks such as object permanence, imitation, causality, and object relations.
@@ -27,8 +27,6 @@ A set of six sequential ordinal scales developed by C. Uzgiris and J. McV. Hunt 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Advances in object construction lead advances in other developmental lines when steps anchor the comparison](../claims/object-construction-leads-other-lines.md) [+W]
-- [Scale scores for object construction and imitation intercorrelate highly in the Greek sample](../claims/greek-scale-intercorrelations-high.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -62,8 +60,6 @@ The Uzgiris-Hunt Scales are sequential ordinal assessment instruments for infant
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [Advances in object construction lead advances in other developmental lines when steps anchor the comparison](../claims/object-construction-leads-other-lines.md) [+W]
-- [Scale scores for object construction and imitation intercorrelate highly in the Greek sample](../claims/greek-scale-intercorrelations-high.md) [+W]
 
 ## Related Elements
 - 

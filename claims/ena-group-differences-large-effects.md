@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shayla-sharmin-2025
-    resource: "https://arxiv.org/abs/2607.08698"
-    title: "Shayla Sharmin, Mohammad Al-Ratrout, Mohammad Fahim Abrar, and Roghayeh Leila Barmaki. (2025). How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata. https://arxiv.org/abs/2607.08698"
+    resource: "https://doi.org/10.48550/arxiv.2607.08698"
+    title: "Shayla Sharmin, Mohammad Al-Ratrout, Mohammad Fahim Abrar, and Roghayeh Leila Barmaki. (2025). How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata. https://arxiv.org/abs/2607.08698 [doi:10.48550/arxiv.2607.08698](https://doi.org/10.48550/arxiv.2607.08698)"
     author: Shayla Sharmin, Mohammad Al-Ratrout, Mohammad Fahim Abrar, and Roghayeh Leila Barmaki
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shayla Sharmin 2025
 
-Shayla Sharmin, Mohammad Al-Ratrout, Mohammad Fahim Abrar, and Roghayeh Leila Barmaki. (2025). How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata. https://arxiv.org/abs/2607.08698
+Shayla Sharmin, Mohammad Al-Ratrout, Mohammad Fahim Abrar, and Roghayeh Leila Barmaki. (2025). How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata. https://arxiv.org/abs/2607.08698 [doi:10.48550/arxiv.2607.08698](https://doi.org/10.48550/arxiv.2607.08698)
 
 `q2 · i?` · `associational · r2`
 

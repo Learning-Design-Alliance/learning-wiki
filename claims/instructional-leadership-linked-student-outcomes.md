@@ -65,7 +65,7 @@ A cited study contrasting principal time uses: coaching, feedback, and program d
 - [Building a strong learning climate by supporting and guiding teacher collaboration around common goals is highlighted as a key finding](learning-climate-teacher-collaboration-common-goals.md) — related
 - [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](principal-program-content-instruction-collegial-data.md) — related
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — a broader claim this one bears on
-- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
+- Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — related
 - [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related
 - [Elementary LAUNCH principals' schools rated significantly lower on 5 of 12 measures compared to schools led by non-program principals](launch-elementary-schools-rated-lower.md) — related
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related

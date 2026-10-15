@@ -66,5 +66,5 @@ Descriptive analysis of self-reported student teaching hours from the completer 
 - [Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates](clinical-feedback-predicts-tpa-passing-preservice-only.md) — related
 - [Candidates from programs rated highest on TPA support have 1.7 times higher odds of passing than those from lowest-rated programs](program-tpa-support-rating-predicts-passing.md) — related
 - [Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers](residency-graduates-perceived-effective.md) — related
-- [Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment](contextual-factors-influence-reflective-judgment-demonstration.md) — related
+- Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment — related
 - [Residents reported more intensive clinical experiences than other pathways, with 66% completing at least 600 hours of student teaching versus 51% of traditional student teachers](residents-more-clinical-hours-than-student-teachers.md) — related

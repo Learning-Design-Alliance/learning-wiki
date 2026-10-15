@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: brian-goesling-2019
-    resource: "https://www.mathematica.org/publications/a-practical-guide-to-cluster-randomized-trials-in-school-health-research"
-    title: "Brian Goesling. (2019). A Practical Guide to Cluster Randomized Trials in School Health Research. Journal of School Health, vol. 89, issue 11. https://www.mathematica.org/publications/a-practical-guide-to-cluster-randomized-trials-in-school-health-research"
+    resource: "https://doi.org/10.1111/josh.12826"
+    title: "Brian Goesling. (2019). A Practical Guide to Cluster Randomized Trials in School Health Research. Journal of School Health, vol. 89, issue 11. https://www.mathematica.org/publications/a-practical-guide-to-cluster-randomized-trials-in-school-health-research [doi:10.1111/josh.12826](https://doi.org/10.1111/josh.12826)"
     author: Brian Goesling
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Brian Goesling 2019
 
-Brian Goesling. (2019). A Practical Guide to Cluster Randomized Trials in School Health Research. Journal of School Health, vol. 89, issue 11. https://www.mathematica.org/publications/a-practical-guide-to-cluster-randomized-trials-in-school-health-research
+Brian Goesling. (2019). A Practical Guide to Cluster Randomized Trials in School Health Research. Journal of School Health, vol. 89, issue 11. https://www.mathematica.org/publications/a-practical-guide-to-cluster-randomized-trials-in-school-health-research [doi:10.1111/josh.12826](https://doi.org/10.1111/josh.12826)
 
 `q2 · i?` · `review · r?`
 

@@ -34,7 +34,7 @@ sources:
 # Computational Thinking Pathways
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (8 for, 1 against) · 4 studies (4 design), `q1` · 0 of 4 report an effect size · 9 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A Digital Promise framework of system-wide K–12 computational-thinking learning progressions designed to support equitable participation through consistent, cumulative, and competency-based learning across classrooms and years.
@@ -52,11 +52,6 @@ A Digital Promise framework of system-wide K–12 computational-thinking learnin
 - **Talladega Inclusive CT Pathways document and competency map**: A K-12 pathway document developed by Talladega County Schools to expand computer science and computational thinking access, built on the Rigorous Curriculum Design template because it "was very similar to Talladega's content pacing guides used at all grade levels." The accompanying competency map aligns grade-level content to five CT competencies, maps to Alabama DLCS standards, and was refined through teacher focus-group feedback, classroom piloting, and professional development sessions. (Digital Promise (2021))
 
 ### Claims
-- [Talladega County Schools narrowed a broad CT framework to five core competencies embedded across the curriculum](../claims/core-five-ct-competencies-talladega.md) [+W]
-- [Participating districts report large enrollment gaps in CS courses by income and gender](../claims/cs-enrollment-gaps-income-gender.md) [+W]
-- [Pilot districts report teacher knowledge and integration, not student demand, as their principal equity challenges](../claims/district-equity-challenges-teacher-capacity.md) [+W]
-- [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](../claims/ct-pathway-research-questions.md) [+W]
-- [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](../claims/ky-appalachia-k8-ct-pathway-rpp.md) [+M]
 - [IPSD piloted its CT competency map in 2019-2020 in schools including a subset of its Title I equity-goal schools, paired with professional development](../claims/ipsd-competency-map-pilot-title-i-pd.md) [+W]
 - [IPSD set an equity goal of increasing computing opportunities in five Title I elementary schools to reach all students district-wide](../claims/ipsd-title-i-computing-equity-goal.md) [+W]
 - [A district produced an inclusive computational thinking pathway document through a participatory, teacher-represented development process spanning multiple school years.](../claims/talladega-participatory-ct-pathway-development.md) [+W]
@@ -108,10 +103,6 @@ The Computing Pathways Research Practice Partnership is a collaboration in which
 
 ## Claims
 
-- [Talladega County Schools narrowed a broad CT framework to five core competencies embedded across the curriculum](../claims/core-five-ct-competencies-talladega.md) [+W]
-- [Participating districts report large enrollment gaps in CS courses by income and gender](../claims/cs-enrollment-gaps-income-gender.md) [+W]
-- [Pilot districts report teacher knowledge and integration, not student demand, as their principal equity challenges](../claims/district-equity-challenges-teacher-capacity.md) [+W]
-- [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](../claims/ct-pathway-research-questions.md) [+W]
 
 ## Related Elements
 
@@ -156,8 +147,6 @@ A research-practice partnership, supported by NSF Grant No. 1837386, in which Di
 
 ## Claims
 
-- [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](../claims/ky-appalachia-k8-ct-pathway-rpp.md) [+W]
-- [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](../claims/ct-pathway-research-questions.md) [+W]
 
 ## Related Elements
 
@@ -204,8 +193,6 @@ The CT Pathways Toolkit is a resource for school districts to guide them in the 
 
 ## Claims
 
-- [Talladega County Schools narrowed a broad CT framework to five core competencies embedded across the curriculum](../claims/core-five-ct-competencies-talladega.md) [+W]
-- [Pilot districts report teacher knowledge and integration, not student demand, as their principal equity challenges](../claims/district-equity-challenges-teacher-capacity.md) [+W]
 
 ## Related Elements
 
@@ -249,8 +236,6 @@ The project is described as "an ever-expanding partnership" organized by Floyd C
 
 ## Claims
 
-- [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](../claims/ky-appalachia-k8-ct-pathway-rpp.md) [+W]
-- [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](../claims/ct-pathway-research-questions.md) [+W]
 
 ## Related Elements
 
@@ -370,7 +355,6 @@ The IPSD Inclusive CT Pathway centers on a competency map identifying six CT com
 
 - [IPSD piloted its CT competency map in 2019-2020 in schools including a subset of its Title I equity-goal schools, paired with professional development](../claims/ipsd-competency-map-pilot-title-i-pd.md) [+W]
 - [IPSD set an equity goal of increasing computing opportunities in five Title I elementary schools to reach all students district-wide](../claims/ipsd-title-i-computing-equity-goal.md) [+W]
-- [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](../claims/ct-pathway-research-questions.md) [+W]
 
 ## Related Elements
 
@@ -413,8 +397,6 @@ The presentation describes two NSF-funded CSforAll Research Practice Partnership
 
 ## Claims
 
-- [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](../claims/ky-appalachia-k8-ct-pathway-rpp.md) [+M]
-- [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](../claims/ct-pathway-research-questions.md) [+W]
 
 ## Related Elements
 
@@ -457,7 +439,6 @@ A K-12 pathway document developed by Talladega County Schools to expand computer
 
 - [A district produced an inclusive computational thinking pathway document through a participatory, teacher-represented development process spanning multiple school years.](../claims/talladega-participatory-ct-pathway-development.md) [+W]
 - [Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.](../claims/talladega-disparities-persisted-despite-pathway.md) [-W]
-- [Talladega County Schools narrowed a broad CT framework to five core competencies embedded across the curriculum](../claims/core-five-ct-competencies-talladega.md) [+W]
 
 ## Related Elements
 

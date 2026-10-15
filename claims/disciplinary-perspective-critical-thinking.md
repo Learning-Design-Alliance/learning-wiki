@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Mark Weinstein's plenary paper argues for the centrality of a disciplinary perspective on critical thinking, that is, critical thinking that incorporates substantive methodological criteria from within the various disciplines, while acknowledging important generality of critical thinking across disciplines. [→ Weinstein 1989](#weinstein-1989)
@@ -45,4 +46,4 @@ Summary of Weinstein's plenary paper 'Critical Thinking Across the Disciplines' 
 ## Related Claims
 - [Critical science education requires explicit attention to philosophy of science and rival theories](critical-science-education-philosophy-of-science.md) — related
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — a broader claim this one bears on
-- [In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning](regulative-context-critique-methodological-or-paradigmatic.md) — related
+- In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning — related

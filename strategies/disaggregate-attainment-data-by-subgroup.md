@@ -17,7 +17,7 @@ sources:
 # Disaggregate attainment data by student subgroup to locate barriers and target supports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The researchers' approach of breaking attainment indicators down by student characteristics to understand which students face barriers. The release states that "where possible, researchers disaggregated data by race/ethnicity and gender, disability status, and English Learner (EL) status to understand which students face more barriers to educational attainment and where different strategies and supports are needed." This practice directs improvement efforts toward the students and settings that need them most.
@@ -38,7 +38,6 @@ The researchers' approach of breaking attainment indicators down by student char
 
 ## Claims
 
-- [Utah's LQ indicator shifted school data conversations toward disaggregated growth of struggling students](../claims/utah-lq-indicator-shifted-data-conversations.md) [+W]
 
 ## Related Strategies
 

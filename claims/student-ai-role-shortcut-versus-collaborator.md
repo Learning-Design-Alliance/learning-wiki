@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: reshaping-undergraduate-computer-science-education-in-the-generative-ai-era-2026
-    resource: "https://arxiv.org/abs/2606.07545"
-    title: "Reshaping Undergraduate Computer Science Education in the Generative AI Era. (2026). https://arxiv.org/abs/2606.07545"
+    resource: "https://doi.org/10.48550/arxiv.2606.07545"
+    title: "Reshaping Undergraduate Computer Science Education in the Generative AI Era. (2026). https://arxiv.org/abs/2606.07545 [doi:10.48550/arxiv.2606.07545](https://doi.org/10.48550/arxiv.2606.07545)"
     author: Reshaping Undergraduate Computer Science Education in the Generative AI Era
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Reshaping Undergraduate Computer Science Education in the Generative AI Era 2026
 
-Reshaping Undergraduate Computer Science Education in the Generative AI Era. (2026). https://arxiv.org/abs/2606.07545
+Reshaping Undergraduate Computer Science Education in the Generative AI Era. (2026). https://arxiv.org/abs/2606.07545 [doi:10.48550/arxiv.2606.07545](https://doi.org/10.48550/arxiv.2606.07545)
 
 `q1 · i?` · `qualitative · r1`
 

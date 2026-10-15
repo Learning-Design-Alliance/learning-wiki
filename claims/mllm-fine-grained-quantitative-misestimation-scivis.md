@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: patrick-phuoc-do-2026
-    resource: "https://arxiv.org/abs/2607.15176"
-    title: "Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176"
+    resource: "https://doi.org/10.48550/arxiv.2607.15176"
+    title: "Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176 [doi:10.48550/arxiv.2607.15176](https://doi.org/10.48550/arxiv.2607.15176)"
     author: Patrick Phuoc Do, Chau M. Ta, Chaoli Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Patrick Phuoc Do 2026
 
-Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176
+Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176 [doi:10.48550/arxiv.2607.15176](https://doi.org/10.48550/arxiv.2607.15176)
 
 `q2 · i?` · `design · r2`
 
@@ -45,6 +45,6 @@ Qualitative error analysis of model rationales (Section 4.4). In Item 41, Gemini
 ## Related Claims
 - [MLLM performance on SVLAT is highly uneven across SciVis techniques, with Scientific Illustration most accessible and texture-based and integration-based visualizations revealing human-model gaps](mllm-accuracy-uneven-across-scivis-techniques.md) — related
 - [Some MLLM failures occur when a higher-level SciVis interpretation is grounded in an unsupported visual encoding rather than the encoding specified by the visualization and caption](mllm-encoding-mapping-error-unsupported-grounding.md) — related
-- [In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve](visual-misread-dominant-non-reasoning-failure.md) — related
+- In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve — related
 - [VLMs show a common grounding failure: coarse semantic relevance without precise region-activity binding and entity-evidence alignment](vlm-grounding-failure-region-activity-binding.md) — a broader claim this one bears on
 - [Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws](trained-students-remediate-genai-deficiencies.md) — related

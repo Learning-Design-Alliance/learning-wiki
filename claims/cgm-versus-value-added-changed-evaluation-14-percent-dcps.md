@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: elias-walsh-2015
-    resource: "https://www.mathematica.org/publications/how-does-value-added-compare-to-student-growth-percentiles"
-    title: "Elias Walsh, Eric Isenberg. (2015). How Does Value Added Compare to Student Growth Percentiles? Statistics and Public Policy, vol. 2, issue 1. https://www.mathematica.org/publications/how-does-value-added-compare-to-student-growth-percentiles"
+    resource: "https://doi.org/10.1080/2330443x.2015.1034390"
+    title: "Elias Walsh, Eric Isenberg. (2015). How Does Value Added Compare to Student Growth Percentiles? Statistics and Public Policy, vol. 2, issue 1. https://www.mathematica.org/publications/how-does-value-added-compare-to-student-growth-percentiles [doi:10.1080/2330443x.2015.1034390](https://doi.org/10.1080/2330443x.2015.1034390)"
     author: Elias Walsh, Eric Isenberg
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Elias Walsh 2015
 
-Elias Walsh, Eric Isenberg. (2015). How Does Value Added Compare to Student Growth Percentiles? Statistics and Public Policy, vol. 2, issue 1. https://www.mathematica.org/publications/how-does-value-added-compare-to-student-growth-percentiles
+Elias Walsh, Eric Isenberg. (2015). How Does Value Added Compare to Student Growth Percentiles? Statistics and Public Policy, vol. 2, issue 1. https://www.mathematica.org/publications/how-does-value-added-compare-to-student-growth-percentiles [doi:10.1080/2330443x.2015.1034390](https://doi.org/10.1080/2330443x.2015.1034390)
 
 `q2 · i?` · `associational · r?`
 

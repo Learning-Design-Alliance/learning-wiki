@@ -18,7 +18,7 @@ sources:
 # Reading Matters
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2`–`q3` · 2 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Reading Matters is a structured literacy curriculum for first-year ECED students, delivered through authentic expository texts as a supplement to regular English instruction and supported by professional development.
@@ -28,8 +28,6 @@ Reading Matters is a structured literacy curriculum for first-year ECED students
 - **Reading Matters first-year ECED curriculum**: Reading Matters is "the first year curriculum" of ECED. It "strengthens students' abilities to comprehend and gather information and to identify early learning strategies". It is a structured literacy curriculum based on authentic expository texts, provided as a supplement to regular English, and is taught by reallocated existing school staff with professional development support. (Every Classroom (2019))
 
 ### Claims
-- [ECED schools made somewhat greater gains on state tests than control schools (effect size +0.06) in a large two-year study](../claims/eced-somewhat-greater-state-test-gains.md) [+W]
-- [ECED schools made greater gains on state math tests than control schools (effect size +0.14) in one large two-year study](../claims/eced-greater-math-gains-state-tests.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -69,8 +67,6 @@ Reading Matters is "the first year curriculum" of ECED. It "strengthens students
 
 ## Claims
 
-- [ECED schools made somewhat greater gains on state tests than control schools (effect size +0.06) in a large two-year study](../claims/eced-somewhat-greater-state-test-gains.md) [+W]
-- [ECED schools made greater gains on state math tests than control schools (effect size +0.14) in one large two-year study](../claims/eced-greater-math-gains-state-tests.md) [+W]
 
 ## Related Elements
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alexis-popovici-2026
-    resource: "https://arxiv.org/abs/2607.11292"
-    title: "Alexis Popovici, Andrei Ionascu, Adrian Marius Dumitran. (2026). The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students. arXiv preprint. https://arxiv.org/abs/2607.11292"
+    resource: "https://doi.org/10.48550/arxiv.2607.11292"
+    title: "Alexis Popovici, Andrei Ionascu, Adrian Marius Dumitran. (2026). The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students. arXiv preprint. https://arxiv.org/abs/2607.11292 [doi:10.48550/arxiv.2607.11292](https://doi.org/10.48550/arxiv.2607.11292)"
     author: Alexis Popovici, Andrei Ionascu, Adrian Marius Dumitran
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alexis Popovici 2026
 
-Alexis Popovici, Andrei Ionascu, Adrian Marius Dumitran. (2026). The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students. arXiv preprint. https://arxiv.org/abs/2607.11292
+Alexis Popovici, Andrei Ionascu, Adrian Marius Dumitran. (2026). The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students. arXiv preprint. https://arxiv.org/abs/2607.11292 [doi:10.48550/arxiv.2607.11292](https://doi.org/10.48550/arxiv.2607.11292)
 
 `q2 · i?` · `causal · r2`
 

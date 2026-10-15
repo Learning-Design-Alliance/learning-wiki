@@ -17,7 +17,7 @@ sources:
 # Learning study
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Learning study is described as "an approach for developing lessons, using a theory of variation", in which teachers formulate a learning object, construct pre/post tests, plan and video-record lessons, analyze them, and improve successive lessons. The article uses it both to develop pupils' learning of a specific object and to develop teachers' systematic scientific knowledge, and positions it as an instrument for distributing power and leadership democratically between university and school, with similarities to action research.
@@ -27,8 +27,6 @@ Learning study is described as "an approach for developing lessons, using a theo
 - **Learning study with a theory of variation as an approach for alignment and distributed leadership between teacher education and practice**: Learning study is described as "an approach for developing lessons, using a theory of variation", in which teachers formulate a learning object, construct pre/post tests, plan and video-record lessons, analyze them, and improve successive lessons. The article uses it both to develop pupils' learning of a specific object and to develop teachers' systematic scientific knowledge, and positions it as an instrument for distributing power and leadership democratically between university and school, with similarities to action research. (Nilsson (2008))
 
 ### Claims
-- [Learning objects clearly lifted forward during a lesson resulted in pupils' learning, even when not the intended learning object](../claims/clearly-lifted-learning-object-yields-pupil-learning.md) [+M]
-- [Teachers integrated general teacher knowledge and subject knowledge during learning study analyses and reflections](../claims/learning-study-integrates-general-and-subject-knowledge.md) [+M]
 
 ## Related Research Methods
 -
@@ -64,8 +62,6 @@ Learning study is described as "an approach for developing lessons, using a theo
 - teachers' professional and research knowledge development
 
 ### Claims
-- [Clearly Lifted Learning Object Yields Pupil Learning](../claims/clearly-lifted-learning-object-yields-pupil-learning.md) [+M]
-- [Learning Study Integrates General And Subject Knowledge](../claims/learning-study-integrates-general-and-subject-knowledge.md) [+M]
 
 ## Related Theories
 - 

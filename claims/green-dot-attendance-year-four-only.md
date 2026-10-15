@@ -65,6 +65,6 @@ The same reviewed study found, and the WWC confirmed, "no statistically signific
 - [Green Dot Public Schools improve English language arts achievement in the first year of high school for the 2009–10 cohort, with no significant effects on later ELA measures (mixed evidence)](green-dot-ela-first-year-only.md) — related
 - [Green Dot Public Schools increase high school graduation and college-preparatory (A-G) graduation for students entering ninth grade (potentially positive effects rating)](green-dot-positive-student-progression.md) — related
 - [Attending Green Dot Public Schools produces statistically significant positive effects on high school mathematics achievement (potentially positive effects rating, small extent of evidence)](green-dot-positive-math-achievement.md) — related
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
-- [Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students](powerschool-attendance-intervention-reduces-chronic-absenteeism.md) — related
+- BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — related
+- Providing teachers with the PowerSchool Attendance Intervention app and training substantially reduces chronic absenteeism among 6th-12th grade students — related
 - [Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness](software-effects-changed-between-cohorts.md) — related

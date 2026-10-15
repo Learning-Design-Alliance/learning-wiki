@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: adama-2026
-    resource: "https://arxiv.org/abs/2606.18541"
-    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541"
+    resource: "https://doi.org/10.48550/arxiv.2606.18541"
+    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541 [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)"
     author: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Adama 2026
 
-Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541
+Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541 [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -43,7 +43,7 @@ Thematic analysis of open-ended survey responses on how students decide whether 
 
 
 ## Related Claims
-- [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — a broader claim this one bears on
+- Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it — a broader claim this one bears on
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related
 - Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied — related
 - [Students' reliance on surface-level evaluation strategies declined after the modules, including trust in dot-org domains, links, appearance, and About pages](surface-strategies-declined-after-modules.md) — related

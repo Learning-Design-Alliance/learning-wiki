@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chiara-marcoccia-2026
-    resource: "https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6"
-    title: "Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6"
+    resource: "https://doi.org/10.31234/osf.io/5y6m4_v1"
+    title: "Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6 [doi:10.31234/osf.io/5y6m4_v1](https://doi.org/10.31234/osf.io/5y6m4_v1)"
     author: Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Access to AI advice roughly doubles reported confidence in answers even though the advice is usually wrong
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Evidence** · 2 studies · 2 causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` AI advice nearly doubled reported confidence on a 0–100 scale (29.6 vs. 75.9 without stakes; 37.7 vs. 73.5 with stakes). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Chiara Marcoccia 2026
 
-Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say "I don't know", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6
+Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say "I don't know", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6 [doi:10.31234/osf.io/5y6m4_v1](https://doi.org/10.31234/osf.io/5y6m4_v1)
 
 `q3 · i?` · `causal · r3`
 

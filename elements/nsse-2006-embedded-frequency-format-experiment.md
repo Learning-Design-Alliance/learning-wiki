@@ -17,7 +17,7 @@ sources:
 # Experiment embedded in the 2006 National Survey of Student Engagement comparing numerically and vaguely quantified frequency reports
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The study's data source is an experiment embedded in the 2006 National Survey of Student Engagement, a large-scale survey of student engagement. The experiment collected behavioral frequency information in two formats: "numerically or vaguely quantified frequency reports," allowing comparison of the measurement models each format supports. It serves as the empirical basis for the working paper's findings on measurement-model structure.
@@ -40,8 +40,6 @@ The study's data source is an experiment embedded in the 2006 National Survey of
 
 - [The format used to quantify behavioral frequency reports directly influences substantive findings](../claims/frequency-report-format-influences-substantive-findings.md) [+W]
 - [Measurement models based on vaguely quantified behavioral frequency reports differ in structure from those based on numerically quantified reports](../claims/vague-vs-numeric-frequency-measurement-models-differ.md) [+W]
-- [Differential interpretation of vague quantifiers is best represented as variability between latent interpretation classes](../claims/differential-interpretation-latent-classes-finding.md) [+W]
-- [Latent variable models can be used to detect individual variability in the interpretation of vague quantifiers of behavioral frequency](../claims/latent-variable-models-detect-vague-quantifier-interpretation-variability.md) [+W]
 
 ## Related Elements
 

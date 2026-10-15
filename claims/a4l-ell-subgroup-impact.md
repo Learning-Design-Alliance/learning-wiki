@@ -47,5 +47,5 @@ Exploratory subgroup analyses using subgroup-by-treatment interaction terms in H
 - [Grade 5 students showed very small, non-significant CCU differences, indicating no reliable A4L impact at that grade level](a4l-grade5-ccu-no-impact.md) — related
 - [The A4L Lessons Project had no statistically significant impact on students' OAKS Reading/Literature achievement after one, two, or three years of participation](a4l-no-impact-oaks-reading.md) — related
 - [The A4L impact on grade 4 CCU outcomes did not differ significantly between free/reduced-price lunch and non-FRL students](a4l-frl-subgroup-no-difference.md) — related
-- [Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch](plc-at-work-underserved-subgroup-growth.md) — related
+- Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch — related
 - [Grade 3 students showed small positive but statistically non-significant CCU impacts across all three study years](a4l-grade3-ccu-nonsignificant.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: zixin-chen-2026
-    resource: "https://arxiv.org/abs/2605.14322"
-    title: "Zixin Chen, Peng Liu, Rui Sheng, Haobo Li, Jianhong Tu, Xiaodong Deng, Kashun Shum, Dayiheng Liu, Huamin Qu. (2026). Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows. Preprint. https://arxiv.org/abs/2605.14322"
+    resource: "https://doi.org/10.48550/arxiv.2605.14322"
+    title: "Zixin Chen, Peng Liu, Rui Sheng, Haobo Li, Jianhong Tu, Xiaodong Deng, Kashun Shum, Dayiheng Liu, Huamin Qu. (2026). Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows. Preprint. https://arxiv.org/abs/2605.14322 [doi:10.48550/arxiv.2605.14322](https://doi.org/10.48550/arxiv.2605.14322)"
     author: Zixin Chen, Peng Liu, Rui Sheng, Haobo Li, Jianhong Tu, Xiaodong Deng, Kashun Shum, Dayiheng Liu, Huamin Qu
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zixin Chen 2026
 
-Zixin Chen, Peng Liu, Rui Sheng, Haobo Li, Jianhong Tu, Xiaodong Deng, Kashun Shum, Dayiheng Liu, Huamin Qu. (2026). Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows. Preprint. https://arxiv.org/abs/2605.14322
+Zixin Chen, Peng Liu, Rui Sheng, Haobo Li, Jianhong Tu, Xiaodong Deng, Kashun Shum, Dayiheng Liu, Huamin Qu. (2026). Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows. Preprint. https://arxiv.org/abs/2605.14322 [doi:10.48550/arxiv.2605.14322](https://doi.org/10.48550/arxiv.2605.14322)
 
 `q1 · i?` · `qualitative · r?`
 

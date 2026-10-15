@@ -43,14 +43,14 @@ The report attributes this finding to prior CCSR research examining 100 elementa
 
 
 ## Related Claims
-- [Schools with strong teacher collaboration are more effective at improving learning than schools with strong individuals but little collaboration](collaboration-beats-individual-teacher-quality.md) — related
-- [Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools](disadvantaged-schools-with-supports-improve-equally.md) — related
+- Schools with strong teacher collaboration are more effective at improving learning than schools with strong individuals but little collaboration — related
+- Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools — related
 - [Schools strong in the essential supports are more likely to improve student learning over time](essential-supports-strong-schools-improve-learning.md) — a broader claim this one bears on
 - [Chicago elementary schools strong in most essential supports were at least ten times more likely than weak-support schools to show substantial gains in both reading and mathematics](strong-essential-supports-ten-times-more-likely-substantial-gains.md) — possibly the same claim (merge candidate)
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — possibly the same claim (merge candidate)
-- [Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics](chicago-strong-essentials-tenfold-gains.md) — possibly the same claim (merge candidate)
+- Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics — possibly the same claim (merge candidate)
 - [Schools weak in most essential supports were four to five times more likely to stagnate than schools with strong overall organizational capacity](weak-essential-supports-four-to-five-times-stagnation.md) — related
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](sustained-weakness-one-support-few-improve.md) — related
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — related
 - [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — a broader claim this one bears on
-- [Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains](five-essential-supports-ten-times-substantial-gains.md) — related
+- Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains — related

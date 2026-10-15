@@ -46,5 +46,5 @@ Subgroup analysis of students receiving special education services in the nation
 - [Learning Disabilities and Developmental Differences](../learner-variables/learning-disabilities.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS](ri-charter-gains-poverty-sped-ell.md) — reports the opposite
+- Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS — reports the opposite
 - [TEP's student population was similar to other neighborhood schools: high poverty, mostly Hispanic, with similar rates of special education services](tep-student-population-comparable-to-neighborhood-schools.md) — related

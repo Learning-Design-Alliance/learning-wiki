@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: prevention-science-in-school-settings-chapter-2015
-    resource: "https://consortium.uchicago.edu/publications/dropout-prevention-previously-intractable-problem-addressed-through-systems-monitoring"
-    title: "Prevention Science in School Settings chapter, edited by Kris Bosworth. (2015). Dropout Prevention: A Previously Intractable Problem Addressed Through Systems for Monitoring and Supporting Students. Springer. https://consortium.uchicago.edu/publications/dropout-prevention-previously-intractable-problem-addressed-through-systems-monitoring"
+    resource: "https://doi.org/10.1007/978-1-4939-3155-2_17"
+    title: "Prevention Science in School Settings chapter, edited by Kris Bosworth. (2015). Dropout Prevention: A Previously Intractable Problem Addressed Through Systems for Monitoring and Supporting Students. Springer. https://consortium.uchicago.edu/publications/dropout-prevention-previously-intractable-problem-addressed-through-systems-monitoring [doi:10.1007/978-1-4939-3155-2_17](https://doi.org/10.1007/978-1-4939-3155-2_17)"
     author: Prevention Science in School Settings chapter, edited by Kris Bosworth
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Prevention Science in School Settings chapter 2015
 
-Prevention Science in School Settings chapter, edited by Kris Bosworth. (2015). Dropout Prevention: A Previously Intractable Problem Addressed Through Systems for Monitoring and Supporting Students. Springer. https://consortium.uchicago.edu/publications/dropout-prevention-previously-intractable-problem-addressed-through-systems-monitoring
+Prevention Science in School Settings chapter, edited by Kris Bosworth. (2015). Dropout Prevention: A Previously Intractable Problem Addressed Through Systems for Monitoring and Supporting Students. Springer. https://consortium.uchicago.edu/publications/dropout-prevention-previously-intractable-problem-addressed-through-systems-monitoring [doi:10.1007/978-1-4939-3155-2_17](https://doi.org/10.1007/978-1-4939-3155-2_17)
 
 `q1 · i?` · `review · r?`
 
@@ -43,7 +43,7 @@ The chapter's overview asserts, citing prior research, that dropout risk signs a
 
 
 ## Related Claims
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
+- BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — related
 - [Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities](check-and-connect-reduces-dropout-staying-in-school.md) — related
 - [Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures](non-core-failures-graduation-risk.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related

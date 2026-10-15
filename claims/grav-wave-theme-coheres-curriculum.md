@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: farr-2012
-    resource: "https://arxiv.org/abs/1109.3720"
-    title: "Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720"
+    resource: "https://doi.org/10.48550/arxiv.1109.3720"
+    title: "Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)"
     author: "Farr, Schelbert, & Trouille"
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Farr 2012
 
-Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720
+Farr, Schelbert, & Trouille. (2012). Gravitational-wave science in the high school classroom. https://arxiv.org/abs/1109.3720 [doi:10.48550/arxiv.1109.3720](https://doi.org/10.48550/arxiv.1109.3720)
 
 `q1 · i?` · `design · r2`
 

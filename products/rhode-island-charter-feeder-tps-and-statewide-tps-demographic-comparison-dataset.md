@@ -18,7 +18,7 @@ sources:
 # Rhode Island charter, feeder TPS, and statewide TPS demographic comparison dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A demographic comparison dataset compiled in the 2023 Charter School Performance in Rhode Island report, covering Rhode Island charter schools, feeder traditional public schools, and statewide traditional public schools.
@@ -27,9 +27,7 @@ A demographic comparison dataset compiled in the 2023 Charter School Performance
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls](../claims/ri-charter-positive-gains-reading-math.md) [+W]
 - [A larger share of Rhode Island charter schools outperform local options (43% reading, 57% math) than the national rates found in the 2013 CREDO Study (25% reading, 29% math)](../claims/ri-charter-schools-outperform-share-vs-credo-2013.md) [+W]
-- [Substantial learning inequalities persist: TPS students in poverty, TPS English learners, and special education students in either setting show significant learning gaps](../claims/ri-learning-gaps-tps-subgroups.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,9 +61,7 @@ The report tabulates 286 statewide TPS, 86 feeder TPS, and 31 charter schools, w
 
 ## Claims
 
-- [Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls](../claims/ri-charter-positive-gains-reading-math.md) [+W]
 - [A larger share of Rhode Island charter schools outperform local options (43% reading, 57% math) than the national rates found in the 2013 CREDO Study (25% reading, 29% math)](../claims/ri-charter-schools-outperform-share-vs-credo-2013.md) [+W]
-- [Substantial learning inequalities persist: TPS students in poverty, TPS English learners, and special education students in either setting show significant learning gaps](../claims/ri-learning-gaps-tps-subgroups.md) [+W]
 
 ## Related Elements
 - 

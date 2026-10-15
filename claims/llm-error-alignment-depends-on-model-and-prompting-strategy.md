@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ali-keramati-2026
-    resource: "https://arxiv.org/abs/2606.14113"
-    title: "Ali Keramati, Jie Cao, Iman Mohammadi, Mark Warschauer, Yang Shi. (2026). Simulating Students' Java Programming Errors with Large Language Models. arXiv preprint. https://arxiv.org/abs/2606.14113"
+    resource: "https://doi.org/10.48550/arxiv.2606.14113"
+    title: "Ali Keramati, Jie Cao, Iman Mohammadi, Mark Warschauer, Yang Shi. (2026). Simulating Students' Java Programming Errors with Large Language Models. arXiv preprint. https://arxiv.org/abs/2606.14113 [doi:10.48550/arxiv.2606.14113](https://doi.org/10.48550/arxiv.2606.14113)"
     author: Ali Keramati, Jie Cao, Iman Mohammadi, Mark Warschauer, Yang Shi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ali Keramati 2026
 
-Ali Keramati, Jie Cao, Iman Mohammadi, Mark Warschauer, Yang Shi. (2026). Simulating Students' Java Programming Errors with Large Language Models. arXiv preprint. https://arxiv.org/abs/2606.14113
+Ali Keramati, Jie Cao, Iman Mohammadi, Mark Warschauer, Yang Shi. (2026). Simulating Students' Java Programming Errors with Large Language Models. arXiv preprint. https://arxiv.org/abs/2606.14113 [doi:10.48550/arxiv.2606.14113](https://doi.org/10.48550/arxiv.2606.14113)
 
 `q2 · i?` · `causal · r2`
 

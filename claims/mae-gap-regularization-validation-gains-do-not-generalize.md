@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: christoforos-fragkiadakis-2026
-    resource: "https://arxiv.org/abs/2609.02232"
-    title: "Christoforos Fragkiadakis, Seyed Sahand Mohammadi Ziabari, and Ali Mohammed Mansoor Alsahag. (2026). Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation. https://arxiv.org/abs/2609.02232"
+    resource: "https://doi.org/10.48550/arxiv.2609.02232"
+    title: "Christoforos Fragkiadakis, Seyed Sahand Mohammadi Ziabari, and Ali Mohammed Mansoor Alsahag. (2026). Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation. https://arxiv.org/abs/2609.02232 [doi:10.48550/arxiv.2609.02232](https://doi.org/10.48550/arxiv.2609.02232)"
     author: Christoforos Fragkiadakis, Seyed Sahand Mohammadi Ziabari, and Ali Mohammed Mansoor Alsahag
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Demographic MAE-gap regularization reduces targeted subgroup gaps on validation data, but these fairness gains do not consistently transfer to held-out test subjects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Gender-regularized training (λ=0.7) reduced the validation gender MAE gap from 0.02 to 0.005, but on the test set both the gender gap and worst-group MAE increased, and the gap was reduced in only 4 of 10 runs. [→ Christoforos Fragkiadakis 2026](#christoforos-fragkiadakis-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Christoforos Fragkiadakis 2026
 
-Christoforos Fragkiadakis, Seyed Sahand Mohammadi Ziabari, and Ali Mohammed Mansoor Alsahag. (2026). Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation. https://arxiv.org/abs/2609.02232
+Christoforos Fragkiadakis, Seyed Sahand Mohammadi Ziabari, and Ali Mohammed Mansoor Alsahag. (2026). Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation. https://arxiv.org/abs/2609.02232 [doi:10.48550/arxiv.2609.02232](https://doi.org/10.48550/arxiv.2609.02232)
 
 `q2 · i?` · `causal · r2`
 

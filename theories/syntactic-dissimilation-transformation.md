@@ -16,7 +16,7 @@ sources:
 # Syntactic dissimilation: cognate verbs replaced by pro-verbs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Syntactic dissimilation is a transformational process operating on cognate constructions, in which the object holds the same meaning as the verb. As the paper states, "In the transformational processof dissimilation theverb is replacedby 'have' or 'do,' so that verband object areless alike." The paper uses this process to explain alternations such as 'I drank a drink of water' versus 'I had a drink of water,' deriving dissimilated sentences from underlying cognate constructions.
@@ -38,11 +38,6 @@ Syntactic dissimilation is a transformational process operating on cognate const
 
 ### Claims
 
-- [Spanish and French show the same dissimilation pattern for reflexive-type verbs as English](../claims/cross-linguistic-dissimilation-spanish-french.md) [+W]
-- [Object clauses of verbs like know, think, believe and recommend presuppose factitive objects](../claims/object-clauses-presuppose-factitive-objects.md) [+W]
-- [Pro-verbs become configuration-bound function words whose meaning comes from their sentential frame](../claims/pro-verbs-context-bound-function-words.md) [+W]
-- [Subject case category governs pro-verb selection and passivization in dissimilated sentences](../claims/subject-category-governs-pro-verb-selection.md) [+W]
-- [Dissimilation is stated as a two-step rule: delete the generic cognate noun, then replace the verb with a pro-verb](../claims/two-step-dissimilation-rules.md) [+W]
 
 ## Related Theories
 

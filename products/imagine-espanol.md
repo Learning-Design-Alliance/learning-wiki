@@ -18,7 +18,7 @@ sources:
 # Imagine Español
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Imagine Español is Imagine Learning's personalized Spanish language and literacy curriculum for students in grades Pre-K–6, supporting dual-language, transitional bilingual, and world-language programs.
@@ -28,9 +28,6 @@ Imagine Español is Imagine Learning's personalized Spanish language and literac
 - **Technology requirements for implementing Imagine Español**: Implementation requires standard networked computers or tablets with microphone access, preferably a headset, to get the most out of the instructional content. The article states that "Network configuration to permit the specified allowed URLs through any firewalls on designated ports is essential for an easy set up," and depending on the device, the Imagine Learning Student App may need to be installed or the program accessed in a supported web browser. (Imagine Español (2025))
 
 ### Claims
-- [Imagine Español students in Grades 2–6 made significantly greater English reading gains than peers (ES +0.16)](../claims/imagine-espanol-grades-2-6-english-reading-gains.md) [+W]
-- [In Grades K–1, Imagine Español students outperformed peers on earlyReading but the difference was not statistically significant (ES +0.13)](../claims/imagine-espanol-k1-earlyreading-nonsignificant.md) [+W]
-- [Imagine Español use is associated with significantly higher Spanish CIRCLE Progress Monitoring scores for Pre-K students (ES +0.25)](../claims/imagine-espanol-prek-spanish-circle-gains.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,9 +62,6 @@ Imagine Español is a personalized learning program designed to "accelerate Span
 
 ## Claims
 
-- [Imagine Español students in Grades 2–6 made significantly greater English reading gains than peers (ES +0.16)](../claims/imagine-espanol-grades-2-6-english-reading-gains.md) [+W]
-- [In Grades K–1, Imagine Español students outperformed peers on earlyReading but the difference was not statistically significant (ES +0.13)](../claims/imagine-espanol-k1-earlyreading-nonsignificant.md) [+W]
-- [Imagine Español use is associated with significantly higher Spanish CIRCLE Progress Monitoring scores for Pre-K students (ES +0.25)](../claims/imagine-espanol-prek-spanish-circle-gains.md) [+W]
 
 ## Related Elements
 

@@ -17,7 +17,7 @@ sources:
 # Provide school-placement decision-makers with richer school information and strengthen transportation implementation to support school-of-origin stability
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's interviewees identified two levers for improving school stability for students in foster care. First, those making best interest determination placements need better information about schools' "dual enrollment offerings, extracurricular activities, dedicated personnel to support high-need student groups, discipline policies, and other features." Second, although ESSA legislation addresses transportation through child-welfare/district agreements to promote school-of-origin continuation, implementation has been inconsistent and continues to affect stability.
@@ -39,7 +39,6 @@ The report's interviewees identified two levers for improving school stability f
 ## Claims
 
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](../claims/foster-care-coordination-challenges.md) [+W]
-- [Teachers' wish lists center on faster notification and paperwork, streamlined school procedures, partial-credit fixes, school stability across placements, and community strengthening of foster parenting](../claims/teacher-wish-lists-foster-care-support.md) [+W]
 
 ## Related Strategies
 

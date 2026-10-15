@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: iwatani-2021
-    resource: "https://digitalpromise.dspacedirect.org/items/327e7ce2-ba5e-4ea9-8847-aeda3b061c25"
-    title: "Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://digitalpromise.dspacedirect.org/items/327e7ce2-ba5e-4ea9-8847-aeda3b061c25"
+    resource: "https://doi.org/10.1109/respect51740.2021.9620610"
+    title: "Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://digitalpromise.dspacedirect.org/items/327e7ce2-ba5e-4ea9-8847-aeda3b061c25 [doi:10.1109/respect51740.2021.9620610](https://doi.org/10.1109/respect51740.2021.9620610)"
     author: "Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Iwatani 2021
 
-Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://digitalpromise.dspacedirect.org/items/327e7ce2-ba5e-4ea9-8847-aeda3b061c25
+Iwatani, E., Tackett, T., Tackett, K., Arnett, N., & May, P. (2021). Leveraging Community Cultural Wealth to Support K-8 CT Education in Kentucky Appalachia. IEEE. https://digitalpromise.dspacedirect.org/items/327e7ce2-ba5e-4ea9-8847-aeda3b061c25 [doi:10.1109/respect51740.2021.9620610](https://doi.org/10.1109/respect51740.2021.9620610)
 
 `q1 · i?` · `theoretical · r1`
 
@@ -45,5 +45,5 @@ Panel-position statement describing the project team's interpretive account (typ
 ## Related Claims
 - [Appalachian culture carries aspirational, resistance, and familial capital that connect to problem-solving and CT](appalachian-cultural-capital-connects-ct.md) — a broader claim this one bears on
 - [Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization](eastern-ky-educators-invest-in-k16-cs-ct.md) — related
-- [Two Eastern KY teachers shifted from learners to trainers and taught 15 new teachers what they had learned](eky-teachers-shifted-learner-to-trainer.md) — related
+- Two Eastern KY teachers shifted from learners to trainers and taught 15 new teachers what they had learned — related
 - [Connecting CT education to real community opportunities is powerful for teachers and students](connect-ct-to-community-opportunities.md) — related

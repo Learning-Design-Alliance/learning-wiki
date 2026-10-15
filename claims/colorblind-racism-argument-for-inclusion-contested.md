@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: baker-2023
-    resource: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619"
-    title: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619"
+    resource: "https://doi.org/10.35542/osf.io/y4wvj"
+    title: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619 [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)"
     author: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The argument that excluding demographic predictors amounts to color-blind racism is contested: inclusion can also produce racist decision-making
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Evidence** · 2 studies · 2 theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Yu et al. (2021) and others argue that excluding protected attributes from dropout prediction models can be construed as subscribing to a colorblind ideology criticized as racist. [→ Baker 2023](#baker-2023)
@@ -40,7 +40,7 @@ sources:
 
 ### Baker 2023
 
-Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619
+Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619 [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -67,4 +67,4 @@ The authors' counter-argument (type e): given widespread implicit color-blind ra
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — related
 - [Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups](demographic-category-heterogeneity-harms-atypical-members.md) — related
 - [Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race](colorblindness-blocks-distribution-discussion.md) — related
-- [Hiring without multiple agreed-upon data points leads decision-makers to rely on gut decisions that can disadvantage teachers of color](gut-hiring-decisions-disadvantage-teachers-of-color.md) — related
+- Hiring without multiple agreed-upon data points leads decision-makers to rely on gut decisions that can disadvantage teachers of color — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Case study teachers reported prior coaches were unprepared and used outdated methods, creating reluctance to engage in coaching, and described an ideal coach with specific characteristics including patience, preparation, class observation, step-by-step guidance, and current research-based methods. [→ Carol Lopez 2021](#carol-lopez-2021)
@@ -45,5 +46,5 @@ Focus group discussions found consensus that coaching could be improved: prior "
 ## Related Claims
 - [About one-third of edtech coaches felt unprepared at closure onset to support non-digital-instruction needs such as social-emotional support and equitable lessons](coach-readiness-gaps-nondigital-support.md) — related
 - [Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not](dlp-coaching-technology-use-confidence.md) — related
-- [Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development](pr-pilot-microcredential-earning-and-value.md) — related
+- Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development — related
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](personalized-coaching-coherence-fit.md) — related

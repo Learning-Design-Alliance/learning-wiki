@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yilin-jiang-2026
-    resource: "https://arxiv.org/abs/2608.09548"
-    title: "Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548"
+    resource: "https://doi.org/10.48550/arxiv.2608.09548"
+    title: "Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548 [doi:10.48550/arxiv.2608.09548](https://doi.org/10.48550/arxiv.2608.09548)"
     author: Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Yilin Jiang 2026
 
-Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548
+Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548 [doi:10.48550/arxiv.2608.09548](https://doi.org/10.48550/arxiv.2608.09548)
 
 `q2 · i3` · `associational · r1`
 

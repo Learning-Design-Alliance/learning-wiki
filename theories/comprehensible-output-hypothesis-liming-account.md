@@ -16,7 +16,7 @@ sources:
 # Swain's Comprehensible Output Hypothesis with a circular input-output-intake model
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 2 studies (1 review, 1 qualitative), `q1` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The Comprehensible Output Hypothesis, advanced by Swain in deliberate contrast to Krashen's Comprehensible Input Hypothesis, holds that learners must be "pushed toward the delivery of a message that is not only conveyed, but that is conveyed precisely, coherently, and appropriately". The article applies it to self-directed learning and hypothesizes that intake involves a circular movement from input through internal mechanisms to output and back to input, so production of output directly affects assimilation of input. Output is treated as a process of eliminating incomprehensible output across developing competence levels.
@@ -43,7 +43,6 @@ The Comprehensible Output Hypothesis, advanced by Swain in deliberate contrast t
 - [Syntactic Processing Corrects Incomprehensible Output](../claims/syntactic-processing-corrects-incomprehensible-output.md) [+M]
 - [Pushing Output Drives Input Assimilation](../claims/pushing-output-drives-input-assimilation.md) [+M]
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](../claims/mere-exposure-insufficient-advanced-l2-communicative-competence.md) [+W]
-- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](../claims/no-direct-evidence-input-hypothesis.md) [-W]
 
 ## Related Theories
 

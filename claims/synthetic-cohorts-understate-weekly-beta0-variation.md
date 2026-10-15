@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: inoue-2026
-    resource: "https://arxiv.org/abs/2609.27265"
-    title: "Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265"
+    resource: "https://doi.org/10.48550/arxiv.2609.27265"
+    title: "Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265 [doi:10.48550/arxiv.2609.27265](https://doi.org/10.48550/arxiv.2609.27265)"
     author: "Inoue, H., & Yasutake, K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Synthetic cohorts reproduce the level and shape of the weekly β0 partition but vary 2.6–4.9 times less across the term than real cohorts at a common working point
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In every cohort the real weekly β0 curve moves between 2.6 and 4.9 times as much across the term as the synthetic curve, with no overlap in coefficient-of-variation ranges. [→ Inoue 2026](#inoue-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Inoue 2026
 
-Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265
+Inoue, H., & Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://arxiv.org/abs/2609.27265 [doi:10.48550/arxiv.2609.27265](https://doi.org/10.48550/arxiv.2609.27265)
 
 `q2 · i?` · `design · r2`
 

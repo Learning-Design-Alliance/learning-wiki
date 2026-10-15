@@ -17,7 +17,7 @@ sources:
 # Responsible and Acceptable Use Policy drafting guide organized by the six topics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The deck includes a drafting guide serving as "a starting point" for districts applying the six topics to their policies, with pages of do-and-do-not checklist items per topic. Examples include AI literacy ("Users should not trust AI results at face-value"), safety ("Users should not share personal identifying information with AI tools"), ethics, transparency (disclose where and when AI was used), implementation, and evaluation and impact. Districts can adapt the language to meet the needs of their learners, educators, and school community.
@@ -43,8 +43,6 @@ The deck includes a drafting guide serving as "a starting point" for districts a
 
 ## Claims
 
-- [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](../claims/gpt-detectors-biased-against-nonnative-english-writers.md) [~W]
-- [Language models exhibit dialect prejudice against speakers of African American English](../claims/language-models-dialect-prejudice-aae.md) [~W]
 
 ## Related Elements
 - 

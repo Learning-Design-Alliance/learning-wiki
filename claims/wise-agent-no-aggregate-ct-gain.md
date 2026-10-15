@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: qi-zhu-2026
-    resource: "https://orcid.org/0000-0003-4519-1931"
-    title: "Qi Zhu, Xiaoming Zhai, Yan Zou, Chunlei Gao. (2026). Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency. https://orcid.org/0000-0003-4519-1931"
+    resource: "https://doi.org/10.1007/978-3-032-29788-4_37"
+    title: "Qi Zhu, Xiaoming Zhai, Yan Zou, Chunlei Gao. (2026). Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency. https://orcid.org/0000-0003-4519-1931 [doi:10.1007/978-3-032-29788-4_37](https://doi.org/10.1007/978-3-032-29788-4_37)"
     author: Qi Zhu, Xiaoming Zhai, Yan Zou, Chunlei Gao
     q: 2
     i: 0
@@ -31,7 +31,7 @@ sources:
 
 ### Qi Zhu 2026
 
-Qi Zhu, Xiaoming Zhai, Yan Zou, Chunlei Gao. (2026). Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency. https://orcid.org/0000-0003-4519-1931
+Qi Zhu, Xiaoming Zhai, Yan Zou, Chunlei Gao. (2026). Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency. https://orcid.org/0000-0003-4519-1931 [doi:10.1007/978-3-032-29788-4_37](https://doi.org/10.1007/978-3-032-29788-4_37)
 
 `q2 · i0` · `design · r2`
 

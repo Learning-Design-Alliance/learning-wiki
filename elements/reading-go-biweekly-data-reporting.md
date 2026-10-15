@@ -17,7 +17,7 @@ sources:
 # Biweekly data reporting via the school program coordinator's computer
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 As part of the program's technology requirements, the school's Reading Rescue Program Coordinator uses a computer for biweekly data reporting. This supports the program's broader emphasis on ongoing data analysis and progress monitoring, through which tutors use daily assessments to inform daily instruction within a sequential framework.
@@ -39,7 +39,6 @@ As part of the program's technology requirements, the school's Reading Rescue Pr
 
 ## Claims
 
-- [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](../claims/reading-go-positive-decoding-word-reading-outcomes.md) [+W]
 
 ## Related Elements
 

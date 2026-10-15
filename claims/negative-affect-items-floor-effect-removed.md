@@ -45,5 +45,5 @@ Item reduction analysis in Sample 1 (N = 1217) on the four negatively keyed affe
 ## Related Claims
 - [CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty](glat-item-selection-discrimination.md) — related
 - [CSEBench items show adequate psychometric quality, with satisfactory difficulty, discrimination, and reliability for both diagnostic forms](csebench-item-quality-reliability.md) — related
-- [Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item](ngss-benchmark-items-high-difficulty-low-discrimination.md) — related
+- Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item — related
 - [Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time](survey-item-discrimination-and-ceiling-effects.md) — related

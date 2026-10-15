@@ -22,7 +22,7 @@ sources:
 # Progress Learning
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (2 causal), `q2` · 2 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Progress Learning is a standards-aligned K–12 online instructional platform that provides individualized learning paths, assessments, assignments, diagnostics, and progress monitoring across subjects.
@@ -31,13 +31,8 @@ Progress Learning is a standards-aligned K–12 online instructional platform th
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Middle school students whose teachers used Progress Learning showed significantly greater mathematics gains than comparison students in Douglas County, Georgia (effect size +0.09)](../claims/progress-learning-douglas-county-math-gains.md) [+W]
 - [Progress Learning showed statistically significant positive impacts on both NWEA MAP and STAAR math scores in Forney ISD, Texas](../claims/progress-learning-forney-map-staar-impacts.md) [+W]
-- [Across two retrospective quasi-experimental studies involving 8,806 students, Progress Learning averaged an effect size of +0.08, earning a Promising evidence rating](../claims/progress-learning-promising-rating-average-effect.md) [+W]
 - [Progress Learning shows a statistically significant positive effect on Grade 5 NWEA MAP science scores](../claims/progress-learning-map-science-grade5-effect.md) [+W]
-- [Progress Learning qualifies for a Promising evidence rating based on one quasi-experimental study](../claims/progress-learning-promising-rating-one-study.md) [+W]
-- [Progress Learning shows a directionally positive effect on STAAR science scores](../claims/progress-learning-staar-science-positive.md) [+W]
-- [Subgroup analyses show strongest Progress Learning effects for SPED, Hispanic, and Black students on MAP science](../claims/progress-learning-subgroup-effects-sped-hispanic-black.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -75,9 +70,7 @@ Progress Learning is a comprehensive, state standards-aligned instructional reso
 
 ## Claims
 
-- [Middle school students whose teachers used Progress Learning showed significantly greater mathematics gains than comparison students in Douglas County, Georgia (effect size +0.09)](../claims/progress-learning-douglas-county-math-gains.md) [+W]
 - [Progress Learning showed statistically significant positive impacts on both NWEA MAP and STAAR math scores in Forney ISD, Texas](../claims/progress-learning-forney-map-staar-impacts.md) [+W]
-- [Across two retrospective quasi-experimental studies involving 8,806 students, Progress Learning averaged an effect size of +0.08, earning a Promising evidence rating](../claims/progress-learning-promising-rating-average-effect.md) [+W]
 
 ## Related Elements
 - 
@@ -117,9 +110,6 @@ Progress Learning is a comprehensive, state standards-aligned instructional reso
 ## Claims
 
 - [Progress Learning shows a statistically significant positive effect on Grade 5 NWEA MAP science scores](../claims/progress-learning-map-science-grade5-effect.md) [+W]
-- [Progress Learning qualifies for a Promising evidence rating based on one quasi-experimental study](../claims/progress-learning-promising-rating-one-study.md) [+W]
-- [Progress Learning shows a directionally positive effect on STAAR science scores](../claims/progress-learning-staar-science-positive.md) [+W]
-- [Subgroup analyses show strongest Progress Learning effects for SPED, Hispanic, and Black students on MAP science](../claims/progress-learning-subgroup-effects-sped-hispanic-black.md) [+W]
 
 ## Related Elements
 

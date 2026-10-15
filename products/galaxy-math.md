@@ -18,7 +18,7 @@ sources:
 # Galaxy Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Galaxy Math is an AIR-disseminated, space-themed one-to-one tutoring programme in which paraprofessionals provide at-risk first graders with frequent sessions focused on addition and subtraction.
@@ -28,8 +28,6 @@ Galaxy Math is an AIR-disseminated, space-themed one-to-one tutoring programme i
 - **Galaxy Math one-to-one tutoring program for at-risk first graders**: Galaxy Math is "a one-to-one tutoring approach for at-risk first graders" in which "Paraprofessionals tutor students in 30-minute sessions 3 times a week for 16 weeks." The program has "a space theme" and focuses on "understanding and proficiency with addition and subtraction." It is disseminated through AIR tutor training. (Galaxy Math (2013))
 
 ### Claims
-- [Strategic speeded practice outperformed strategic non-speeded practice within Galaxy Math, with a +0.57 effect size for the disseminated speeded version](../claims/galaxy-math-speeded-practice-advantage.md) [+W]
-- [Galaxy Math improves first-grade math outcomes with a qualifying effect size of +0.24, qualifying it as Strong evidence](../claims/galaxy-math-strong-evidence-024.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,8 +62,6 @@ Galaxy Math is "a one-to-one tutoring approach for at-risk first graders" in whi
 
 ## Claims
 
-- [Strategic speeded practice outperformed strategic non-speeded practice within Galaxy Math, with a +0.57 effect size for the disseminated speeded version](../claims/galaxy-math-speeded-practice-advantage.md) [+W]
-- [Galaxy Math improves first-grade math outcomes with a qualifying effect size of +0.24, qualifying it as Strong evidence](../claims/galaxy-math-strong-evidence-024.md) [+W]
 
 ## Related Elements
 

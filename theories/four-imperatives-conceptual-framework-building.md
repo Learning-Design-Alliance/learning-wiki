@@ -16,7 +16,7 @@ sources:
 # Four imperatives for building the conceptual framework of library and information science
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes four imperatives for fostering collaboration across the branches of library and information science: "Stay with a problem to develop concepts", apply the field's conceptual framework to findings, develop research projects of interest to more than one area, and design application of concepts for implementation into systems and services. The framework responds to the finding that scholars in different branches do not cite or read each other, which "severely limits our ability to solve users' information problems".
@@ -37,9 +37,6 @@ The article proposes four imperatives for fostering collaboration across the bra
 
 ### Claims
 
-- [Forming a focus, rather than merely gathering information, is the main task in complex information seeking](../claims/forming-focus-main-task-information-seeking.md) [+W]
-- [Novice and expert information seekers pursue different information goals, producing different outcomes on the same task](../claims/information-goals-differ-novice-expert.md) [+W]
-- [Existing information retrieval systems fail to support users' constructive process in complex tasks](../claims/ir-systems-unsupportive-of-construction.md) [+W]
 - [Task complexity moderates whether users experience the constructive information search process](../claims/task-complexity-moderates-information-search-process.md) [+W]
 
 ## Related Theories

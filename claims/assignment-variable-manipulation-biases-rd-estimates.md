@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: philip-gleason-2018
-    resource: "https://www.mathematica.org/publications/rd-or-not-rd-using-experimental-studies-to-assess-the-performance-of-the-regression-discontinuity"
-    title: "Philip Gleason, Alexandra Resch, Jillian Berk. (2018). RD or Not RD: Using Experimental Studies to Assess the Performance of the Regression Discontinuity Approach. Evaluation Review, vol. 42. https://www.mathematica.org/publications/rd-or-not-rd-using-experimental-studies-to-assess-the-performance-of-the-regression-discontinuity"
+    resource: "https://doi.org/10.1177/0193841x18787267"
+    title: "Philip Gleason, Alexandra Resch, Jillian Berk. (2018). RD or Not RD: Using Experimental Studies to Assess the Performance of the Regression Discontinuity Approach. Evaluation Review, vol. 42. https://www.mathematica.org/publications/rd-or-not-rd-using-experimental-studies-to-assess-the-performance-of-the-regression-discontinuity [doi:10.1177/0193841x18787267](https://doi.org/10.1177/0193841x18787267)"
     author: Philip Gleason, Alexandra Resch, Jillian Berk
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Philip Gleason 2018
 
-Philip Gleason, Alexandra Resch, Jillian Berk. (2018). RD or Not RD: Using Experimental Studies to Assess the Performance of the Regression Discontinuity Approach. Evaluation Review, vol. 42. https://www.mathematica.org/publications/rd-or-not-rd-using-experimental-studies-to-assess-the-performance-of-the-regression-discontinuity
+Philip Gleason, Alexandra Resch, Jillian Berk. (2018). RD or Not RD: Using Experimental Studies to Assess the Performance of the Regression Discontinuity Approach. Evaluation Review, vol. 42. https://www.mathematica.org/publications/rd-or-not-rd-using-experimental-studies-to-assess-the-performance-of-the-regression-discontinuity [doi:10.1177/0193841x18787267](https://doi.org/10.1177/0193841x18787267)
 
 `q2 · i?` · `causal · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jake-obrien-2026
-    resource: "https://arxiv.org/abs/2609.21037"
-    title: "Jake O'Brien, Margaret Ellis, Alma Robinson, John Simonetti, and Naren Ramakrishnan. (2026). Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction. https://arxiv.org/abs/2609.21037"
+    resource: "https://doi.org/10.48550/arxiv.2609.21037"
+    title: "Jake O'Brien, Margaret Ellis, Alma Robinson, John Simonetti, and Naren Ramakrishnan. (2026). Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction. https://arxiv.org/abs/2609.21037 [doi:10.48550/arxiv.2609.21037](https://doi.org/10.48550/arxiv.2609.21037)"
     author: "Jake O'Brien, Margaret Ellis, Alma Robinson, John Simonetti, and Naren Ramakrishnan"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A reflective lesson on LLM functioning and educational impacts shifted physics students toward greater skepticism about LLM learning impacts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` After the lesson, agreement that LLM help can leave a false sense of confidence rose from 58% to 88%, and agreement that solution generation reduces conceptual understanding rose from 63% to 85%. [→ Jake O'Brien 2026](#jake-obrien-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jake O'Brien 2026
 
-Jake O'Brien, Margaret Ellis, Alma Robinson, John Simonetti, and Naren Ramakrishnan. (2026). Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction. https://arxiv.org/abs/2609.21037
+Jake O'Brien, Margaret Ellis, Alma Robinson, John Simonetti, and Naren Ramakrishnan. (2026). Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction. https://arxiv.org/abs/2609.21037 [doi:10.48550/arxiv.2609.21037](https://doi.org/10.48550/arxiv.2609.21037)
 
 `q2 · i?` · `causal · r1`
 

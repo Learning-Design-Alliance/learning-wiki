@@ -47,5 +47,5 @@ Supplementary normalized gain (N-Gain) analysis, computed with Hake's formula an
 - [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — related
 - [Gender does not significantly moderate the effect of AI-supported PBL on computational thinking or academic achievement](gender-does-not-moderate-ai-pbl-effects.md) — related
 - [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
-- [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — related
+- Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related

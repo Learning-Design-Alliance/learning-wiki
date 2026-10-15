@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: naiming-liu-2025
-    resource: "https://arxiv.org/abs/2512.24362"
-    title: "Naiming Liu, Brittany Bradford, Johaun Hatchett, Gabriel Diaz, Lorenzo Luzi, Zichao Wang, Debshila Basu Mallick, Richard Baraniuk. (2025). Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education. https://arxiv.org/abs/2512.24362"
+    resource: "https://doi.org/10.48550/arxiv.2512.24362"
+    title: "Naiming Liu, Brittany Bradford, Johaun Hatchett, Gabriel Diaz, Lorenzo Luzi, Zichao Wang, Debshila Basu Mallick, Richard Baraniuk. (2025). Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education. https://arxiv.org/abs/2512.24362 [doi:10.48550/arxiv.2512.24362](https://doi.org/10.48550/arxiv.2512.24362)"
     author: Naiming Liu, Brittany Bradford, Johaun Hatchett, Gabriel Diaz, Lorenzo Luzi, Zichao Wang, Debshila Basu Mallick, Richard Baraniuk
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Naiming Liu 2025
 
-Naiming Liu, Brittany Bradford, Johaun Hatchett, Gabriel Diaz, Lorenzo Luzi, Zichao Wang, Debshila Basu Mallick, Richard Baraniuk. (2025). Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education. https://arxiv.org/abs/2512.24362
+Naiming Liu, Brittany Bradford, Johaun Hatchett, Gabriel Diaz, Lorenzo Luzi, Zichao Wang, Debshila Basu Mallick, Richard Baraniuk. (2025). Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education. https://arxiv.org/abs/2512.24362 [doi:10.48550/arxiv.2512.24362](https://doi.org/10.48550/arxiv.2512.24362)
 
 `q1 · i?` · `causal · r1`
 

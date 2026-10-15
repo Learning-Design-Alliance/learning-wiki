@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Coached teachers in core subjects more often reported their PD fit their current teaching needs (56% vs. 36%, Chi-Sq p < .001), and fit correlated with ITU confidence (corr = .3, p < .001). [→ Mahsa Bakhshaei 2020](#mahsa-bakhshaei-2020)
@@ -44,7 +45,7 @@ DLP year 2 survey: coached core-subject teachers reported better PD fit than non
 
 ## Related Claims
 - [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](coaching-partnership-voluntary-non-evaluative.md) — related
-- [Coached teachers report significantly higher confidence in their ability to implement impactful technology use](coaching-raises-teacher-itu-confidence.md) — related
+- Coached teachers report significantly higher confidence in their ability to implement impactful technology use — related
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — related
 - [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours](sustained-coaching-contact-hours.md) — related
 - [Teachers described an ideal technology coach as prepared, patient, observant, and using current research-based methods](pr-ideal-coach-characteristics-teacher-voice.md) — related

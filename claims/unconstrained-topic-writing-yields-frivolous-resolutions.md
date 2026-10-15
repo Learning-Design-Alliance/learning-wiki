@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The author reports that no constraints prevail on resolution types across tournaments and lists paraphrased examples such as Elvis being alive in the U.S. Senate and Daffy Duck versus Donald Duck. [→ Jensen 1996](#jensen-1996)
@@ -62,7 +63,7 @@ The author recounts a final round at a recent tournament where the resolution ab
 
 
 ## Related Claims
-- [Less experienced debate judges are more likely to be assigned to parliamentary debate](inexperienced-judges-assigned-to-parliamentary-debate.md) — related
+- Less experienced debate judges are more likely to be assigned to parliamentary debate — related
 - [In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate](survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate.md) — related
 - [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0](coi-presence-uneven-profile-mba.md) — related
 - [Task topic (science vs debate) showed no statistically significant effect on conversation informativeness](task-topic-no-effect-informativeness.md) — related

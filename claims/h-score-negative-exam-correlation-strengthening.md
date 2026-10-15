@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: david-racovan-2026
-    resource: "https://arxiv.org/abs/2609.36073"
-    title: "David Racovan, Ajay Rawat, Christopher K. May, Jeffrey A. Turkstra. (2026). Argus: Academic Integrity in the Era of Generative AI. https://arxiv.org/abs/2609.36073"
+    resource: "https://doi.org/10.48550/arxiv.2609.36073"
+    title: "David Racovan, Ajay Rawat, Christopher K. May, Jeffrey A. Turkstra. (2026). Argus: Academic Integrity in the Era of Generative AI. https://arxiv.org/abs/2609.36073 [doi:10.48550/arxiv.2609.36073](https://doi.org/10.48550/arxiv.2609.36073)"
     author: David Racovan, Ajay Rawat, Christopher K. May, Jeffrey A. Turkstra
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### David Racovan 2026
 
-David Racovan, Ajay Rawat, Christopher K. May, Jeffrey A. Turkstra. (2026). Argus: Academic Integrity in the Era of Generative AI. https://arxiv.org/abs/2609.36073
+David Racovan, Ajay Rawat, Christopher K. May, Jeffrey A. Turkstra. (2026). Argus: Academic Integrity in the Era of Generative AI. https://arxiv.org/abs/2609.36073 [doi:10.48550/arxiv.2609.36073](https://doi.org/10.48550/arxiv.2609.36073)
 
 `q2 · i?` · `associational · r2`
 

@@ -43,5 +43,5 @@ Authors' interpretive statement in the section introducing the adapted framework
 
 
 ## Related Claims
-- [Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like](integrated-stem-quilt-project-judged-to-offer-multiple-entry-points.md) — related
+- Expanding the quilt task into an integrated STEM project was judged by its two designers to give students multiple entry points and to feel fun rather than too school-like — related
 - [Review reports students did not recognize the key points an exemplary lecturer presented in a proof](students-did-not-recognize-lecture-proof-key-points.md) — related

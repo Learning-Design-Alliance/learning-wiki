@@ -64,7 +64,7 @@ Study Field distributions (Fig. 5d) across clusters. The article also reports Cl
 ## Related Claims
 - [Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices](demographics-trivial-effects-conceptions.md) — reports the opposite
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — a broader claim this one bears on
-- [Age, sex, faculty, programme level and campus-territory are each significantly related to mobile user type membership, though the model's pseudo R-squared is low](demographics-relate-to-mobile-user-type.md) — possibly the same claim (merge candidate)
+- Age, sex, faculty, programme level and campus-territory are each significantly related to mobile user type membership, though the model's pseudo R-squared is low — possibly the same claim (merge candidate)
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](demographics-not-associated-lower-distraction.md) — reports the opposite
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
 - [AI adoption at work shows generational and occupational patterns, with younger workers and tech, professional services, and finance fields more likely to use AI](generational-occupational-ai-adoption-patterns.md) — related

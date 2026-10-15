@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: calvin-isley-2025
-    resource: "https://arxiv.org/abs/2508.08314"
-    title: "Calvin Isley, Joshua Gilbert, Evangelos Kassos, Michaela Kocher, Allen Nie, Emma Brunskill, Ben Domingue, Jake Hofman, Joscha Legewie, Teddy Svoronos, Charlotte Tuminelli, Sharad Goel. (2025). Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study. https://arxiv.org/abs/2508.08314"
+    resource: "https://doi.org/10.48550/arxiv.2508.08314"
+    title: "Calvin Isley, Joshua Gilbert, Evangelos Kassos, Michaela Kocher, Allen Nie, Emma Brunskill, Ben Domingue, Jake Hofman, Joscha Legewie, Teddy Svoronos, Charlotte Tuminelli, Sharad Goel. (2025). Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study. https://arxiv.org/abs/2508.08314 [doi:10.48550/arxiv.2508.08314](https://doi.org/10.48550/arxiv.2508.08314)"
     author: Calvin Isley, Joshua Gilbert, Evangelos Kassos, Michaela Kocher, Allen Nie, Emma Brunskill, Ben Domingue, Jake Hofman, Joscha Legewie, Teddy Svoronos, Charlotte Tuminelli, Sharad Goel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Calvin Isley 2025
 
-Calvin Isley, Joshua Gilbert, Evangelos Kassos, Michaela Kocher, Allen Nie, Emma Brunskill, Ben Domingue, Jake Hofman, Joscha Legewie, Teddy Svoronos, Charlotte Tuminelli, Sharad Goel. (2025). Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study. https://arxiv.org/abs/2508.08314
+Calvin Isley, Joshua Gilbert, Evangelos Kassos, Michaela Kocher, Allen Nie, Emma Brunskill, Ben Domingue, Jake Hofman, Joscha Legewie, Teddy Svoronos, Charlotte Tuminelli, Sharad Goel. (2025). Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study. https://arxiv.org/abs/2508.08314 [doi:10.48550/arxiv.2508.08314](https://doi.org/10.48550/arxiv.2508.08314)
 
 `q2 · i?` · `associational · r2`
 

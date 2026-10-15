@@ -18,7 +18,7 @@ sources:
 # Magma Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Magma Math is a browser- and iPad-based digital mathematics learning platform developed and operated by Magma Math for students in grades 4–8.
@@ -28,9 +28,6 @@ Magma Math is a browser- and iPad-based digital mathematics learning platform de
 - **Magma Math digital math platform with process-showing canvas, heatmaps, and data dashboards**: Magma Math is a digital math platform for grades 4–8 supporting student-centered mathematical learning and discourse. Students "solve problems on a digital canvas using keyboard or stylus input, showing their full problem-solving process rather than just a final answer." Teachers assign problems, view work in real time through heatmaps and data dashboards, and use student solutions to drive classroom discussion and differentiated instruction. It runs in any modern web browser and as an iPad app, with no downloads or plug-ins required. (Magma Math: Evidence Rating Promising (2025))
 
 ### Claims
-- [In grades 4–5, students who used Magma Math scored significantly higher on spring i-Ready Mathematics than matched non-users (effect size +0.12)](../claims/magma-math-grades-4-5-significant-i-ready-gain.md) [+W]
-- [In grades 6–8, Magma Math users outscored matched non-users but the difference was not statistically significant (effect size +0.07)](../claims/magma-math-grades-6-8-nonsignificant-advantage.md) [+W]
-- [Across a matched quasi-experimental evaluation of 1,686 students in grades 4–8, Magma Math showed an average effect size of +0.09, earning a Promising evidence rating](../claims/magma-math-overall-promising-rating-es-009.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,9 +61,6 @@ Magma Math is a digital math platform for grades 4–8 supporting student-center
 
 ## Claims
 
-- [In grades 4–5, students who used Magma Math scored significantly higher on spring i-Ready Mathematics than matched non-users (effect size +0.12)](../claims/magma-math-grades-4-5-significant-i-ready-gain.md) [+W]
-- [In grades 6–8, Magma Math users outscored matched non-users but the difference was not statistically significant (effect size +0.07)](../claims/magma-math-grades-6-8-nonsignificant-advantage.md) [+W]
-- [Across a matched quasi-experimental evaluation of 1,686 students in grades 4–8, Magma Math showed an average effect size of +0.09, earning a Promising evidence rating](../claims/magma-math-overall-promising-rating-es-009.md) [+W]
 
 ## Related Elements
 

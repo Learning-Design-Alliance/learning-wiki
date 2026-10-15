@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hunter-mcnichols-2026
-    resource: "https://arxiv.org/abs/2608.11460"
-    title: "Hunter McNichols, Kai Du, Andrew Lan. (2026). PRINCIPAL TRAIT ANALYSIS: TOWARDS DERIVING \"SKILLS\" IN HUMAN-AI COLLABORATION. A preprint - August 13, 2026. https://arxiv.org/abs/2608.11460"
+    resource: "https://doi.org/10.48550/arxiv.2608.11460"
+    title: "Hunter McNichols, Kai Du, Andrew Lan. (2026). PRINCIPAL TRAIT ANALYSIS: TOWARDS DERIVING \"SKILLS\" IN HUMAN-AI COLLABORATION. A preprint - August 13, 2026. https://arxiv.org/abs/2608.11460 [doi:10.48550/arxiv.2608.11460](https://doi.org/10.48550/arxiv.2608.11460)"
     author: Hunter McNichols, Kai Du, Andrew Lan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hunter McNichols 2026
 
-Hunter McNichols, Kai Du, Andrew Lan. (2026). PRINCIPAL TRAIT ANALYSIS: TOWARDS DERIVING "SKILLS" IN HUMAN-AI COLLABORATION. A preprint - August 13, 2026. https://arxiv.org/abs/2608.11460
+Hunter McNichols, Kai Du, Andrew Lan. (2026). PRINCIPAL TRAIT ANALYSIS: TOWARDS DERIVING "SKILLS" IN HUMAN-AI COLLABORATION. A preprint - August 13, 2026. https://arxiv.org/abs/2608.11460 [doi:10.48550/arxiv.2608.11460](https://doi.org/10.48550/arxiv.2608.11460)
 
 `q2 · i?` · `associational · r2`
 

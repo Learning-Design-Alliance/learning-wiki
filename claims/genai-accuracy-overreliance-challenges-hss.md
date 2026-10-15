@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lei-fan-and-fangxue-liu-2026
-    resource: "https://arxiv.org/abs/2606.24104"
-    title: "Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104"
+    resource: "https://doi.org/10.48550/arxiv.2606.24104"
+    title: "Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104 [doi:10.48550/arxiv.2606.24104](https://doi.org/10.48550/arxiv.2606.24104)"
     author: Lei Fan and Fangxue Liu
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 81.42% of students identified limited accuracy as the top challenge and 65.36% reported over-reliance; 67.10% encountered inaccurate information frequently or very frequently. [→ Lei Fan and Fangxue Liu 2026](#lei-fan-and-fangxue-liu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Lei Fan and Fangxue Liu 2026
 
-Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104
+Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104 [doi:10.48550/arxiv.2606.24104](https://doi.org/10.48550/arxiv.2606.24104)
 
 `q2 · i?` · `associational · r2`
 
@@ -64,8 +64,8 @@ Ethics and privacy results (Figure 7): 87.97% rated ethical issues important or 
 ## Related Claims
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — related
-- [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](institutional-barriers-ai-integration.md) — related
+- Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring — related
 - [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — a narrower finding that bears on this claim
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related

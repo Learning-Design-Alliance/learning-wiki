@@ -5,6 +5,34 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-15 — quality over quantity: DOIs recovered, unsourced claims removed
+
+The maintainer, seeing the state-of-the-evidence figures: "it's becoming clear how much chuff there is in Ed
+research ... we really need to be strict on quality over quantity."
+
+- **Synthesis search** (`find_page_syntheses.py`) on the 219 converted principles and patterns and the 238
+  single-study claims cited by 4+ design pages: 1,339 works named, 1,088 confirmed on Crossref, 471 new, 94
+  readable (the rest are paywalled; robots.txt and publisher blocks are respected). 89 ingested, 373 claims.
+  The paywalled ones are ranked for manual download in the session notes; a PDF supplied by a person can be
+  ingested directly.
+- **Citation chasing** (`chase_citations.py`): the reference lists of the 295 strongest studies with a DOI
+  (quantitative syntheses, `q4`, `q3` with a printed effect size) name 12,118 works; 1,230 are cited by two or
+  more of them, are not in the wiki, and are not the meta-analysis methods literature. Leading venues: J.
+  Educational Psychology, RER, Learning and Instruction, Educational Psychology Review.
+- **DOI recovery**: 12,615 claims had no DOI on any evidence entry. Their 3,186 distinct citations were looked
+  up: 591 arXiv preprints matched DataCite by title, 291 others matched Crossref on title, first author, year,
+  form and venue (`find_missing_dois.decide`). 4,001 DOIs were written onto 3,997 claims.
+- **Removal**: 2,845 claims still without a DOI, not resting on an evaluation report and not cited by a
+  principle, pattern or 10+ design pages were removed (`remove_pages.py`, logged in `eval/removed/pages.ndjson`;
+  8,446 links taken out). 5,005 rest on evaluation reports and stay. 802 are load-bearing and stay with an
+  `Evidence quality` line under their banner.
+- **Measured before the cut** (journal venue from Crossref for every study with a DOI): DOI-registered journal
+  articles are 40% `q3`+ with 30% printing an effect size and 80% cited by a design page; studies with no DOI
+  are 16%, 16% and 56%. Only 26% of studies had a DOI at all.
+- Open: arXiv preprints now carry a DOI and so pass the rule, though they are the weakest channel (10% `q3`+);
+  a second pass on preprints not cited by a design page is the next candidate. 23 load-bearing entries failed
+  the judge in this batch's check and wait for triage.
+
 ## 2026-10-15 (overnight, part 3) — fragments folded into their canonical pages
 
 - **153 fragment pages folded** (127 into principles, 26 into patterns) with `merge_pages.py`, each into the

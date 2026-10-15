@@ -44,4 +44,4 @@ Narrative review, attributed to Molnar-Main (2014) drawing on limited evidence: 
 
 ## Related Claims
 - [Teachers' perceived severity of bullying predicts their likelihood of reacting to incidents of aggression](perceived-severity-predicts-teacher-reaction.md) — related
-- [Victimized students reported negative school conditions at higher rates than nonvictims](victims-report-negative-school-conditions-higher-rates.md) — related
+- Victimized students reported negative school conditions at higher rates than nonvictims — related

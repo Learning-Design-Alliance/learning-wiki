@@ -16,7 +16,7 @@ sources:
 # Cognitive apprenticeship framework with four learning-environment dimensions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Cognitive apprenticeship is defined as learning through guided experience on cognitive and metacognitive rather than physical skills, rooted in social learning theories and Vygotsky's zone of proximal development. The article states the resulting method comprises a learning environment of four dimensions: "content, method, sequencing and the sociology of a learning environment". The method dimension synthesizes modeling, coaching, and scaffolding with articulation, reflection, and exploration, and the article applies this framework to design philosophy sessions.
@@ -37,7 +37,6 @@ Cognitive apprenticeship is defined as learning through guided experience on cog
 
 ### Claims
 
-- [Metacognitive Scaffolding Enhanced Philosophy Learning Non Specialists](../claims/metacognitive-scaffolding-enhanced-philosophy-learning-non-specialists.md) [+M]
 - [The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills](../claims/ca-methods-more-effective-than-traditional-writing-college.md) [+M]
 - [The review reports reciprocal teaching of reading, an approach exemplifying cognitive apprenticeship, was remarkably effective in raising reading comprehension scores, especially for poor readers](../claims/reciprocal-teaching-raises-reading-comprehension-poor-readers.md) [+M]
 - [The review reports that students receiving situated instruction outperformed a lecture-based control group on a causality posttest](../claims/situated-instruction-outperformed-abstract-control-causality.md) [+M]

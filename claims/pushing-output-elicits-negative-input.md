@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yu-liming-1990
-    resource: "https://eric.ed.gov/?id=EJ420159"
-    title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159"
+    resource: "https://doi.org/10.18806/tesl.v8i1.575"
+    title: "Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159 [doi:10.18806/tesl.v8i1.575](https://doi.org/10.18806/tesl.v8i1.575)"
     author: Yu Liming
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yu Liming 1990
 
-Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159
+Yu Liming. (1990). The Comprehensible Output Hypothesis and Self-directed Learning: A Learner's Perspective. TESL Canada Journal/Revue TESL du Canada, Vol. 8, No. 1. https://eric.ed.gov/?id=EJ420159 [doi:10.18806/tesl.v8i1.575](https://doi.org/10.18806/tesl.v8i1.575)
 
 `q1 · i?` · `qualitative · r2`
 

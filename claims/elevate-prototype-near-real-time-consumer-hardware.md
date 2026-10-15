@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lorenzo-stacchio-2026
-    resource: "https://arxiv.org/abs/2606.30662"
-    title: "Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni. (2026). ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education. arXiv preprint. https://arxiv.org/abs/2606.30662"
+    resource: "https://doi.org/10.48550/arxiv.2606.30662"
+    title: "Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni. (2026). ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education. arXiv preprint. https://arxiv.org/abs/2606.30662 [doi:10.48550/arxiv.2606.30662](https://doi.org/10.48550/arxiv.2606.30662)"
     author: Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lorenzo Stacchio 2026
 
-Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni. (2026). ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education. arXiv preprint. https://arxiv.org/abs/2606.30662
+Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni. (2026). ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education. arXiv preprint. https://arxiv.org/abs/2606.30662 [doi:10.48550/arxiv.2606.30662](https://doi.org/10.48550/arxiv.2606.30662)
 
 `q2 · i?` · `design · r2`
 

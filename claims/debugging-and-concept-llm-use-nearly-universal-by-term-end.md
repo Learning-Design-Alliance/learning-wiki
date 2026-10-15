@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yuan-an-2026
-    resource: "https://arxiv.org/abs/2609.27063"
-    title: "Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063"
+    resource: "https://doi.org/10.48550/arxiv.2609.27063"
+    title: "Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063 [doi:10.48550/arxiv.2609.27063](https://doi.org/10.48550/arxiv.2609.27063)"
     author: Yuan An, Lei Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yuan An 2026
 
-Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063
+Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063 [doi:10.48550/arxiv.2609.27063](https://doi.org/10.48550/arxiv.2609.27063)
 
 `q2 · i?` · `associational · r1`
 
@@ -44,7 +44,7 @@ Descriptive final-survey analysis (n=14) of usage modes found debugging selected
 
 ## Related Claims
 
-- [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
-- [Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation](oop-genai-explanations-debugging-exceed-code-generation.md) — related
+- Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related
+- Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation — related
 - [LLM use for debugging is significantly negatively correlated with student final grades](llm-debugging-negative-correlation-grades.md)
 - [LLM use for seeking additional explanations does not significantly impact final grades](llm-explanations-no-significant-grade-impact.md)

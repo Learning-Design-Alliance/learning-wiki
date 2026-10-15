@@ -17,7 +17,7 @@ sources:
 # Authentic intellectual work scoring rubrics with double-scoring design for inter-scorer reliability
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 5 studies (3 design, 1 associational, 1 qualitative), `q2` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 4 studies (3 design, 1 associational), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 The project scored assignments and student work using measurement rubrics created by writing and mathematics experts, one rubric set per subject (Documents 15 and 16). Each standard was scored 1 to 3 or 1 to 4, and each document received one score per standard. To control for rater differences, "half of the data documents needed to be double scored" so that "scorer severity" could be estimated, and matrix guidelines specified that all work be scored at least once per standard and that each possible pair of scorers work together at least once per standard.
@@ -43,7 +43,6 @@ The project scored assignments and student work using measurement rubrics create
 
 - [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](../claims/rasch-adjustment-of-scorer-severity.md) [+W]
 - [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](../claims/engineering-rubric-low-scoring-reliability.md) [-W]
-- [The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives](../claims/rjm-high-interrater-reliability-teacher-educators.md) [+W]
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](../claims/framework-scoring-high-consistency-physics.md) [+W]
 - [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.](../claims/expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) [~W]
 

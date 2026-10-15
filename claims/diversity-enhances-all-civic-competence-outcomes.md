@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i2` Exploration of diversity was one of the two practices most strongly related to civic competence (r = .552), second to a syllabus clearly connecting service work to course content (r = .569); the article reports that the exploration of diversity significantly enhances all civic competence outcomes, though the analysis is correlational (cross tabulations and Pearson correlations) and does not establish causation. [→ Stokamer 2013](#stokamer-2013)
@@ -43,9 +44,9 @@ Correlational analysis (cross tabulations and Pearson correlation) of instructio
 
 
 ## Related Claims
-- [Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys](civic-competence-four-epistemological-components.md) — related
+- Civic competence items cluster into four epistemological components (knowledge, skills, attitudes, actions) in community-based learning course surveys — related
 - [A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence](civic-subject-alone-insufficient.md) — related
-- [Class discussion is widely used among students attaining knowledge outcomes, while race and political topics are underused despite association with civic competence](discussion-common-race-political-topics-underused.md) — related
+- Class discussion is widely used among students attaining knowledge outcomes, while race and political topics are underused despite association with civic competence — related
 - [A syllabus that clearly connects service work to course content shows the strongest relationship with civic competence outcomes](syllabus-service-content-connection-strongest-pedagogical-relationship.md) — related
 - [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — related
 - [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — related

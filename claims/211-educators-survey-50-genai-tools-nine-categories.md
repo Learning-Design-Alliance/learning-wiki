@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: matt-bower-2026
-    resource: "https://bit.ly/2026GenAITypologyData"
-    title: "Matt Bower, Jodie Torrington, Jennifer W. M. Lai. (2026). 2026 Typology of Generative AI Tools for Education. https://bit.ly/2026GenAITypologyData"
+    resource: "https://doi.org/10.35542/osf.io/4eqrk_v1"
+    title: "Matt Bower, Jodie Torrington, Jennifer W. M. Lai. (2026). 2026 Typology of Generative AI Tools for Education. https://bit.ly/2026GenAITypologyData [doi:10.35542/osf.io/4eqrk_v1](https://doi.org/10.35542/osf.io/4eqrk_v1)"
     author: Matt Bower, Jodie Torrington, Jennifer W. M. Lai
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Matt Bower 2026
 
-Matt Bower, Jodie Torrington, Jennifer W. M. Lai. (2026). 2026 Typology of Generative AI Tools for Education. https://bit.ly/2026GenAITypologyData
+Matt Bower, Jodie Torrington, Jennifer W. M. Lai. (2026). 2026 Typology of Generative AI Tools for Education. https://bit.ly/2026GenAITypologyData [doi:10.35542/osf.io/4eqrk_v1](https://doi.org/10.35542/osf.io/4eqrk_v1)
 
 `q2 · i?` · `associational · r1`
 

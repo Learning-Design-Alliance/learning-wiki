@@ -45,7 +45,7 @@ Cross-case qualitative finding (RQ1-2) from faculty and advisor interviews and c
 ## Related Claims
 - [CA tool-based assessment and visualization of learning outcomes enables targeted feedback and evidence-based adjustment of pedagogical practices in higher education](ca-visualization-supports-targeted-feedback-and-pedagogical-adjustment.md) — related
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
-- [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
+- AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process — related
 - [CA data visualization positioned LO attainment data as the central axis of curriculum decision-making in both institutions](ca-visualization-central-axis-curriculum-decision-making.md) — related
 - [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](visual-prompts-more-actionable-than-plain-text.md) — related
 - [AI adoption in higher education is associated with improved teaching practices, learner engagement and curriculum innovation](ai-adoption-associated-teaching-engagement-curriculum-improvements.md) — a broader claim this one bears on

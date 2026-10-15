@@ -18,7 +18,7 @@ sources:
 # IXL Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 IXL Learning's IXL Math is a personalized mathematics learning platform with adaptive skills, tutorials, diagnostics, analytics, and classroom-support tools for learners from PreK through Calculus.
@@ -28,10 +28,6 @@ IXL Learning's IXL Math is a personalized mathematics learning platform with ada
 - **IXL Math personalized learning program with Real-Time Diagnostic and IXL Analytics**: IXL Math is "a comprehensive personalized teaching and learning program supporting math instruction from PreK through Calculus." Its curriculum includes "thousands of adaptive skills aligned to state standards, popular textbooks, and assessments, as well as video tutorials, classroom engagement and motivation tools, games, and more." The Real-Time Diagnostic identifies each student's grade-level proficiency in key strands and builds an action plan with next steps, while IXL Analytics provides reports on student learning and growth at district, school, classroom, and individual student levels. It runs on Windows, Mac OS, Chrome OS, iPad and iPhone, Android devices, and Fire tablets. (IXL Math (2023))
 
 ### Claims
-- [IXL Math's impact on the M-STEP state assessment was positive but not statistically significant (effect size +0.03)](../claims/ixl-math-mstep-null-impact.md) [+W]
-- [IXL Math shows significant positive impacts for Grade 3, Hispanic, special education, ELL, and low-income subgroups](../claims/ixl-math-positive-subgroup-impacts.md) [+W]
-- [IXL Math raises Grade 3-5 mathematics achievement on the Renaissance Star Math after one semester (effect size +0.13)](../claims/ixl-math-star-math-gains-grade-3-5.md) [+W]
-- [Participating teachers reported largely positive perceptions of IXL Math and its professional development](../claims/ixl-math-teacher-perceptions-positive.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,10 +61,6 @@ IXL Math is "a comprehensive personalized teaching and learning program supporti
 
 ## Claims
 
-- [IXL Math's impact on the M-STEP state assessment was positive but not statistically significant (effect size +0.03)](../claims/ixl-math-mstep-null-impact.md) [+W]
-- [IXL Math shows significant positive impacts for Grade 3, Hispanic, special education, ELL, and low-income subgroups](../claims/ixl-math-positive-subgroup-impacts.md) [+W]
-- [IXL Math raises Grade 3-5 mathematics achievement on the Renaissance Star Math after one semester (effect size +0.13)](../claims/ixl-math-star-math-gains-grade-3-5.md) [+W]
-- [Participating teachers reported largely positive perceptions of IXL Math and its professional development](../claims/ixl-math-teacher-perceptions-positive.md) [+W]
 
 ## Related Elements
 

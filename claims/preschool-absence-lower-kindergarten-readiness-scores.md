@@ -80,10 +80,10 @@ Null result from the same PLS analysis (n=1,265): the pre-literacy subscale show
 
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — the general claim this finding bears on, with the studies behind it
 
-- [Chronically absent pre-kindergarten students (absent 10 percent or more of enrolled days) display lower academic and behavioral kindergarten readiness](chronic-prek-absence-lower-kindergarten-readiness.md) — possibly the same claim (merge candidate)
+- Chronically absent pre-kindergarten students (absent 10 percent or more of enrolled days) display lower academic and behavioral kindergarten readiness — possibly the same claim (merge candidate)
 - [Good attendance is more strongly related to academic gains for students who enter preschool with lower incoming skills than for those entering with higher skills](attendance-benefits-strongest-low-incoming-skills.md) — related
-- [Pre-kindergarten absence is widespread in a large urban district, particularly among African American students and those entering with the lowest skills](prek-absence-widespread-african-american-lowest-skills.md) — related
+- Pre-kindergarten absence is widespread in a large urban district, particularly among African American students and those entering with the lowest skills — related
 - [Freshmen who miss more than two weeks of school per semester fail at least two classes on average, regardless of incoming test scores](two-weeks-absence-course-failure.md) — related
 - [Pre-K benefits at the start of kindergarten diminish by a little more than half during the kindergarten year](pre-k-benefits-diminish-by-half-during-kindergarten.md) — related
 - [Students chronically absent (10%+) in the prior year start the following school year 0.22 to 0.47 SDs lower in mathematics than peers with no prior-year absences](prior-year-chronic-absence-lower-fall-math-achievement.md) — related
-- [Health is the most commonly reported reason preschool children miss school, with more than half of all days missed due to sickness, and logistical obstacles accounting for another 18 percent](health-primary-reason-preschool-absences.md) — related
+- Health is the most commonly reported reason preschool children miss school, with more than half of all days missed due to sickness, and logistical obstacles accounting for another 18 percent — related

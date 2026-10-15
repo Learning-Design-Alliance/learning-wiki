@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: vinicius-santana-gomes-2026
-    resource: "https://arxiv.org/abs/2606.01517"
-    title: "Vinicius Santana Gomes. (2026). The Main Barrier to AI Adoption in the Public Sector Is Lack of Training: How a Structured Method Accompanied Productivity Gains in Two Brazilian Government Cases. arXiv. https://arxiv.org/abs/2606.01517"
+    resource: "https://doi.org/10.48550/arxiv.2606.01517"
+    title: "Vinicius Santana Gomes. (2026). The Main Barrier to AI Adoption in the Public Sector Is Lack of Training: How a Structured Method Accompanied Productivity Gains in Two Brazilian Government Cases. arXiv. https://arxiv.org/abs/2606.01517 [doi:10.48550/arxiv.2606.01517](https://doi.org/10.48550/arxiv.2606.01517)"
     author: Vinicius Santana Gomes
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Vinicius Santana Gomes 2026
 
-Vinicius Santana Gomes. (2026). The Main Barrier to AI Adoption in the Public Sector Is Lack of Training: How a Structured Method Accompanied Productivity Gains in Two Brazilian Government Cases. arXiv. https://arxiv.org/abs/2606.01517
+Vinicius Santana Gomes. (2026). The Main Barrier to AI Adoption in the Public Sector Is Lack of Training: How a Structured Method Accompanied Productivity Gains in Two Brazilian Government Cases. arXiv. https://arxiv.org/abs/2606.01517 [doi:10.48550/arxiv.2606.01517](https://doi.org/10.48550/arxiv.2606.01517)
 
 `q2 · i?` · `design · r2`
 

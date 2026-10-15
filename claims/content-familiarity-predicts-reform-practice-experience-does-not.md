@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: corcoran-2003
-    resource: "https://eric.ed.gov/?id=ED480404"
-    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404"
+    resource: "https://doi.org/10.1037/e383112004-001"
+    title: "Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)"
     author: Corcoran, Tom
     q: 3
     i: 1
@@ -30,7 +30,7 @@ sources:
 # Content familiarity, not teaching experience, predicted reform-based science teaching practice
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i0`–`i1`
+> **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i0`–`i1`
 
 ## Subclaims
 `q3 i1` Each additional semester of college science was associated with a statistically significant .11 of a standard deviation increase in reform-based teaching practice. [→ Corcoran 2003](#corcoran-2003)
@@ -40,7 +40,7 @@ sources:
 
 ### Corcoran 2003
 
-Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404
+Corcoran, Tom. (2003). The Merck Institute for Science Education: A Successful Intermediary for Education Reform. CPRE Research Report Series RR-052. https://eric.ed.gov/?id=ED480404 [doi:10.1037/e383112004-001](https://doi.org/10.1037/e383112004-001)
 
 `q3 · i1` · `associational · r2`
 

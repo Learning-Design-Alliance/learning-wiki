@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hornung-2026
-    resource: "https://arxiv.org/abs/2608.07965"
-    title: "Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965"
+    resource: "https://doi.org/10.48550/arxiv.2608.07965"
+    title: "Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965 [doi:10.48550/arxiv.2608.07965](https://doi.org/10.48550/arxiv.2608.07965)"
     author: "Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hornung 2026
 
-Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965
+Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity. Preprint. https://arxiv.org/abs/2608.07965 [doi:10.48550/arxiv.2608.07965](https://doi.org/10.48550/arxiv.2608.07965)
 
 `q2 · i?` · `design · r2`
 
@@ -45,12 +45,12 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 ## Related Claims
 - [The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)](psrbvbq-scales-internal-consistency.md) — related
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
-- [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](mrbq-scale-reliability-mixed.md) — related
+- Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69) — related
 - [The AEEGS software demonstrated internal consistency of Cronbach alpha 0.86 in trial testing and was validated for face and content validity by three software experts](aeegs-reliability-cronbach-086.md) — related
-- [No statistically significant differences among the four Knowledge/Judgment item scores (ANOVA p=.549), confirming similar rank scores](no-item-differences-anova-rjm.md) — related
+- No statistically significant differences among the four Knowledge/Judgment item scores (ANOVA p=.549), confirming similar rank scores — related
 - Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability — related
 - [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
-- [The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established](eeebi-instrument-preliminary-promise.md) — related
+- The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related
 - [The study used pre- and post-semester surveys with Likert-scale literacy-confidence items and open-text ethical reflection, thematically analysed](pre-post-survey-likert-open-text-genai-design.md) — related

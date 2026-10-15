@@ -77,5 +77,5 @@ Self-monitoring is not mere self-report. It is strongest when learners have expl
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
-- [Strategy-control in interactive instruction divides into four tactic categories: survey, learning, evaluation, and review](strategy-control-four-tactic-categories.md) — related
+- Strategy-control in interactive instruction divides into four tactic categories: survey, learning, evaluation, and review — related
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related

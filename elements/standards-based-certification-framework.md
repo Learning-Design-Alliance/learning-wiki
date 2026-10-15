@@ -18,7 +18,7 @@ sources:
 # Certificate fields differentiated by developmental level and subject
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The digest explains that the National Board rejected a single general certificate, noting that "its holder is proficient in teaching all subjects to all students of all ages is unwarranted" (NBPTS, 1991), and instead built "a certificate framework that included 31 certification fields" organized by age band and subject area. This element holds that advanced certification standards must be specific to subject matter and developmental level, because teaching expertise is treated as domain- and age-specific.
@@ -39,7 +39,6 @@ The digest explains that the National Board rejected a single general certificat
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Teachers' subject-specific content knowledge matters for achievement, especially in mathematics and science at middle and senior high levels](../claims/teacher-content-knowledge-subject-specific-achievement.md) [+W]
 
 ## Related Elements
 

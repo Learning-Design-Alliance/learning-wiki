@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: eric-j-isenberg-2007
-    resource: "https://www.mathematica.org/publications/what-have-we-learned-about-homeschooling"
-    title: "Eric J. Isenberg. (2007). What Have We Learned About Homeschooling? Peabody Journal of Education, vol. 82, no. 2-3. https://www.mathematica.org/publications/what-have-we-learned-about-homeschooling"
+    resource: "https://doi.org/10.1080/01619560701312996"
+    title: "Eric J. Isenberg. (2007). What Have We Learned About Homeschooling? Peabody Journal of Education, vol. 82, no. 2-3. https://www.mathematica.org/publications/what-have-we-learned-about-homeschooling [doi:10.1080/01619560701312996](https://doi.org/10.1080/01619560701312996)"
     author: Eric J. Isenberg
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eric J. Isenberg 2007
 
-Eric J. Isenberg. (2007). What Have We Learned About Homeschooling? Peabody Journal of Education, vol. 82, no. 2-3. https://www.mathematica.org/publications/what-have-we-learned-about-homeschooling
+Eric J. Isenberg. (2007). What Have We Learned About Homeschooling? Peabody Journal of Education, vol. 82, no. 2-3. https://www.mathematica.org/publications/what-have-we-learned-about-homeschooling [doi:10.1080/01619560701312996](https://doi.org/10.1080/01619560701312996)
 
 `q1 · i?` · `review · r?`
 

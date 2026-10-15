@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i2` Teacher-reported outcomes favored TAPP, with significant improvement in school-related behavioral problems on the BASC-2 (effect size = +0.45). [→ Teachers and Parents as Partners (TAPP) Family Engagement evidence summary 2012](#teachers-and-parents-as-partners-tapp-family-engagement-evidence-summary-2012)
@@ -43,6 +44,6 @@ Second randomized controlled trial extending TAPP to 45 rural schools with 267 K
 
 
 ## Related Claims
-- [Direct classroom observations in the rural trial showed TAPP students exhibited more on-task and prosocial behavior and less off-task behavior](tapp-observation-on-task-prosocial-behavior-gains.md) — related
+- Direct classroom observations in the rural trial showed TAPP students exhibited more on-task and prosocial behavior and less off-task behavior — related
 - [In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships](tapp-strengthens-parent-teacher-relationships.md) — related
-- [TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools)](tapp-teacher-reported-adaptive-behavior-social-skills-gains.md) — related
+- TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools) — related

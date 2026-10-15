@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: heidi-taveter-and-marina-lepp-2026
-    resource: "https://arxiv.org/abs/2607.24757"
-    title: "Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757"
+    resource: "https://doi.org/10.48550/arxiv.2607.24757"
+    title: "Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757 [doi:10.48550/arxiv.2607.24757](https://doi.org/10.48550/arxiv.2607.24757)"
     author: Heidi Taveter and Marina Lepp
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Teachers using the tool in a 160-student introductory programming course appreciated the visual overview of activity types and clearly marked pauses, and reported that the tool helped identify largely copied solutions and incorrect or incomplete log files. [→ Heidi Taveter and Marina Lepp 2026](#heidi-taveter-and-marina-lepp-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Heidi Taveter and Marina Lepp 2026
 
-Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757
+Heidi Taveter and Marina Lepp. (2026). From Idea to Classroom in Days: Using “Vibe Coding” to Create a Programming Process Visualizer from IDE Activity Logs. https://arxiv.org/abs/2607.24757 [doi:10.48550/arxiv.2607.24757](https://doi.org/10.48550/arxiv.2607.24757)
 
 `q2 · i?` · `design · r2`
 
@@ -63,6 +63,6 @@ Iterative refinement during the same pilot: corrections were typically completed
 
 ## Related Claims
 - [The programming-process replay was the most prompt-intensive view to develop, requiring 31 prompts to work reliably and handle edge cases](replay-most-prompt-intensive-view-31-prompts.md) — related
-- [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — related
-- [Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations](teachers-appreciate-chatgpt-generative-learning-affordances.md) — related
+- Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos — related
+- Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — related
 - [Student perceptions of GenAI feedback functionalities diverged, with some finding them redundant when feedback was perceived as clear](divergent-perceptions-genai-feedback-redundancy.md) — related

@@ -43,9 +43,9 @@ Logistic regression with MDTP topic mastery indicators and grade 6 CST scale sco
 
 
 ## Related Claims
-- [The Elevate Math summer program significantly increased algebra readiness, raising the share of students mastering at least three MDTP topic areas from 12 to 29 percent](elevate-math-increases-algebra-readiness-12-to-29-percent.md) — related
+- The Elevate Math summer program significantly increased algebra readiness, raising the share of students mastering at least three MDTP topic areas from 12 to 29 percent — related
 - [Grade 6 math CST proficiency alone is not an effective indicator of algebra readiness: students need a scale score of 367, about 0.27 SD above the cutpoint, to reach a 50 percent probability of grade 8 algebra I proficiency](grade6-proficiency-insufficient-algebra-readiness-indicator.md) — related
 - [Revisiting grade 8 algebra placement with grade 7 math CST scores does not necessarily yield more accurate placement outcomes, because predictions from different assessments largely overlap](grade7-cst-fine-tuning-limited-benefit.md) — related
 - [When scale scores are used, prediction accuracy of grade 8 algebra I proficiency does not vary substantially across grade 6 CST, grade 7 CST, and MDTP assessments (75–78 percent)](scale-score-prediction-accuracy-75-78-percent.md) — related
 - [Using grade 6 math CST scale scores rather than proficiency status increases the accuracy of grade 8 algebra I placement decisions from 69 to 75 percent](grade6-cst-scale-scores-improve-algebra-placement-accuracy.md) — related
-- [The Elevate Math summer program significantly improved math achievement of rising grade 8 students, with a treatment-control difference equivalent to 0.7 standard deviation](elevate-math-improves-math-achievement-0-7-sd.md) — related
+- The Elevate Math summer program significantly improved math achievement of rising grade 8 students, with a treatment-control difference equivalent to 0.7 standard deviation — related

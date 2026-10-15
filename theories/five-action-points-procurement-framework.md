@@ -16,7 +16,7 @@ sources:
 # Five Action Points operational framework for K-12 ed-tech procurement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report presents an operational framework depicting five key Action Points of typical procurement processes in school districts: allotment of funding, assessment of needs, discovery of ed-tech products, evaluation of product quality and effectiveness, and acquisition of selected products. The framework is described as interactive and often overlapping rather than an invariant linear sequence, providing an operational structure for relating results to key procurement needs along the pathway from funding to acquisition.
@@ -37,11 +37,6 @@ The report presents an operational framework depicting five key Action Points of
 
 ### Claims
 
-- [Discovery of ed-tech products is a serious challenge for both districts and providers](../claims/discovery-serious-challenge-districts-providers.md) [+W]
-- [District stakeholders are mostly satisfied with procurement while providers are largely dissatisfied](../claims/districts-satisfied-providers-dissatisfied-procurement.md) [+W]
-- [Needs assessments are mostly informal and focused on student achievement](../claims/needs-assessments-informal-achievement-focused.md) [+W]
-- [Procurement perceived as smoother and more inclusive in smaller districts than larger districts](../claims/smaller-districts-smoother-procurement.md) [+W]
-- [School districts and ed-tech developers hold different perspectives on the role and value of school-based technology pilots in procurement](../claims/districts-developers-differ-pilot-perspectives.md) [+W]
 - [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](../claims/varied-success-definitions-hinder-evaluation.md) [+W]
 
 ## Related Theories

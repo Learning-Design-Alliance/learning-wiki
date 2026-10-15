@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In one comparison at the McKay Institute, the video-disc group outperformed the video-tape group in ability to retain information and recall facts, with statistical significance exceeding the 0.01 level of confidence; the report's description of this as "almost two full standard deviations" does not agree with its own parenthetical figure (S.D. difference .192), so the size of the gap is unclear. [→ Gale 1985](#gale-1985)
@@ -44,4 +45,4 @@ Comparison study in the McKay Institute projects section: an intermediate Spanis
 ## Related Claims
 
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
-- [The interactive videodisc combines the capabilities of books, movies, and computer-assisted instruction in one delivery medium](videodisc-combines-books-movies-cai-capabilities.md) — related
+- The interactive videodisc combines the capabilities of books, movies, and computer-assisted instruction in one delivery medium — related

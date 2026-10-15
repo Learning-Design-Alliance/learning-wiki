@@ -17,7 +17,7 @@ sources:
 # Secuencia de cinco actividades que va del problema cotidiano a la construcción de un instrumento de medición
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 El patrón organiza la enseñanza en cinco actividades encadenadas: indagación introductoria sobre las sombras y la hora sin relojes; diseño de una maqueta de los arcos solares; debate histórico sobre modelos geocéntrico y heliocéntrico; sombras y latitud con modelos externos e internos; y construcción y orientación de un reloj de Sol horizontal. Cada actividad se apoya en los conocimientos adquiridos en la anterior y registra las respuestas de los alumnos en un cartel colectivo para revisarlas más adelante.
@@ -43,9 +43,7 @@ El patrón organiza la enseñanza en cinco actividades encadenadas: indagación 
 
 ### Claims
 
-- [Las longitudes de las sombras al mediodía muestran una simetría en torno a los solsticios y los equinoccios que impide distinguir fechas solo midiendo sombras](../claims/shadow-length-symmetry-around-solstices.md) [+W]
 - [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](../claims/students-difficulties-solar-movement-observable-changes.md) [+W]
-- [El Sol solo sale exactamente por el este y se pone exactamente por el oeste durante los equinoccios](../claims/sun-rises-exactly-east-only-at-equinoxes.md) [+W]
 
 ## Related Patterns
 - 

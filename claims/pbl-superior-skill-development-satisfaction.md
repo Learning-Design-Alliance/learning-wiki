@@ -45,4 +45,4 @@ Findings of the qualitative meta-synthesis of meta-analyses on PBL effectiveness
 ## Related Claims
 - [PBL is superior to conventional instruction for long-term retention, according to a meta-synthesis of meta-analyses](pbl-superior-long-term-retention.md) — related
 - [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](traditional-instruction-short-term-retention-board-exams.md) — related
-- [Discovery method in motor skill learning was superior to teacher-directed approach in children's attitudes and social interaction](discovery-method-motor-learning-attitudes.md) — related
+- Discovery method in motor skill learning was superior to teacher-directed approach in children's attitudes and social interaction — related

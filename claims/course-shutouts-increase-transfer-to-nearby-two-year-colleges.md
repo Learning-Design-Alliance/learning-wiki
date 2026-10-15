@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: silvia-robles-2021
-    resource: "https://www.mathematica.org/publications/the-effect-of-course-shutouts-on-community-college-students-evidence-from-waitlist-cutoffs"
-    title: "Silvia Robles, Max Gross, Robert W. Fairlie. (2021). The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs. Journal of Public Economics, vol. 199. https://www.mathematica.org/publications/the-effect-of-course-shutouts-on-community-college-students-evidence-from-waitlist-cutoffs"
+    resource: "https://doi.org/10.1016/j.jpubeco.2021.104409"
+    title: "Silvia Robles, Max Gross, Robert W. Fairlie. (2021). The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs. Journal of Public Economics, vol. 199. https://www.mathematica.org/publications/the-effect-of-course-shutouts-on-community-college-students-evidence-from-waitlist-cutoffs [doi:10.1016/j.jpubeco.2021.104409](https://doi.org/10.1016/j.jpubeco.2021.104409)"
     author: Silvia Robles, Max Gross, Robert W. Fairlie
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Silvia Robles 2021
 
-Silvia Robles, Max Gross, Robert W. Fairlie. (2021). The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs. Journal of Public Economics, vol. 199. https://www.mathematica.org/publications/the-effect-of-course-shutouts-on-community-college-students-evidence-from-waitlist-cutoffs
+Silvia Robles, Max Gross, Robert W. Fairlie. (2021). The Effect of Course Shutouts on Community College Students: Evidence from Waitlist Cutoffs. Journal of Public Economics, vol. 199. https://www.mathematica.org/publications/the-effect-of-course-shutouts-on-community-college-students-evidence-from-waitlist-cutoffs [doi:10.1016/j.jpubeco.2021.104409](https://doi.org/10.1016/j.jpubeco.2021.104409)
 
 `q3 · i?` · `causal · r2`
 

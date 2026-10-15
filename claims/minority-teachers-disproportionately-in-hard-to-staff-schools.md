@@ -47,5 +47,5 @@ Cross-tabulation of 2011–12 SASS data by school type (Table 3, Figure 4). The 
 - [Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14](shortage-burden-high-poverty-high-minority-schools.md) — related
 - [In 2016, schools with high enrollment of students of color were four times as likely to employ uncertified teachers as schools with low enrollment of students of color](high-student-of-color-schools-four-times-uncertified-teachers.md) — related
 - [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](state-variation-teacher-access-inequity.md) — related
-- [California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers](california-low-ses-uncertified-teachers-tenfold.md) — related
+- California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers — related
 - [From 1987 to 2012 the number of U.S. minority teachers more than doubled, growing faster than nonminority teachers and minority students](minority-teachers-more-than-doubled-1987-2012.md) — related

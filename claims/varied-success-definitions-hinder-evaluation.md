@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Varied definitions of pilot success across districts complicate evaluating product effects on student improvement within and across districts. [→ Adams-Bass 2015](#adams-bass-2015)
@@ -43,7 +44,7 @@ Qualitative analysis found that while all districts intended to use pilot data t
 
 
 ## Related Claims
-- [US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs](adult-ed-delivery-structures-fractured.md) — related
-- [School districts and ed-tech developers hold different perspectives on the role and value of school-based technology pilots in procurement](districts-developers-differ-pilot-perspectives.md) — related
+- US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs — related
+- School districts and ed-tech developers hold different perspectives on the role and value of school-based technology pilots in procurement — related
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related

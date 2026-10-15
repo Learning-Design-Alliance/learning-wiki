@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sebastian-maier-2026
-    resource: "https://arxiv.org/abs/2609.20143"
-    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143"
+    resource: "https://doi.org/10.48550/arxiv.2609.20143"
+    title: "Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143 [doi:10.48550/arxiv.2609.20143](https://doi.org/10.48550/arxiv.2609.20143)"
     author: Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The effort-based reward reduced how often participants used the assistant, whereas metacognitive feedback changed how they used it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q2`
+> **Evidence** · 2 studies · 2 causal `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The reward reduced the odds of requesting any form of assistance on a given item (OR = 0.39), while the reduction under metacognitive feedback was smaller and not significant (OR = 0.60, p = .052). [→ Sebastian Maier 2026](#sebastian-maier-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sebastian Maier 2026
 
-Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143
+Sebastian Maier, Kai Schwabe, Manuel Schneider, and Stefan Feuerriegel. (2026). Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants. arXiv. https://arxiv.org/abs/2609.20143 [doi:10.48550/arxiv.2609.20143](https://doi.org/10.48550/arxiv.2609.20143)
 
 `q2 · i?` · `causal · r3`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: steven-wise-2015
-    resource: "https://www.nwea.org/research/publication/effort-analysis-individual-score-validation-of-achievement-test-data/"
-    title: "Steven Wise. (2015). Effort analysis: Individual score validation of achievement test data. Applied Measurement in Education, 28(3), 237–252. https://www.nwea.org/research/publication/effort-analysis-individual-score-validation-of-achievement-test-data/"
+    resource: "https://doi.org/10.1080/08957347.2015.1042155"
+    title: "Steven Wise. (2015). Effort analysis: Individual score validation of achievement test data. Applied Measurement in Education, 28(3), 237–252. https://www.nwea.org/research/publication/effort-analysis-individual-score-validation-of-achievement-test-data/ [doi:10.1080/08957347.2015.1042155](https://doi.org/10.1080/08957347.2015.1042155)"
     author: Steven Wise
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Steven Wise 2015
 
-Steven Wise. (2015). Effort analysis: Individual score validation of achievement test data. Applied Measurement in Education, 28(3), 237–252. https://www.nwea.org/research/publication/effort-analysis-individual-score-validation-of-achievement-test-data/
+Steven Wise. (2015). Effort analysis: Individual score validation of achievement test data. Applied Measurement in Education, 28(3), 237–252. https://www.nwea.org/research/publication/effort-analysis-individual-score-validation-of-achievement-test-data/ [doi:10.1080/08957347.2015.1042155](https://doi.org/10.1080/08957347.2015.1042155)
 
 `q2 · i?` · `theoretical · r?`
 

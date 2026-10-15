@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jeongyeon-kim-and-john-mitchell-2026
-    resource: "https://arxiv.org/abs/2609.11109"
-    title: "Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109"
+    resource: "https://doi.org/10.48550/arxiv.2609.11109"
+    title: "Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109 [doi:10.48550/arxiv.2609.11109](https://doi.org/10.48550/arxiv.2609.11109)"
     author: Jeongyeon Kim and John Mitchell
     q: 2
     i: 1
@@ -46,7 +46,7 @@ sources:
 # More controversial, unresolved AI-coder debates produce higher discussion-prompted coding accuracy, while compromising and collaborating modes reduce it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (4 entries) · design `r2` · `q2` · `i0`–`i1`
+> **Evidence** · 2 studies (4 entries) · 2 design `r2` · `q2` · `i0`–`i1`
 
 ## Subclaims
 `q2 i1` More discussion turns predict higher discussion-prompted coding accuracy (effect size 0.168, p<0.0001). [→ Jeongyeon Kim and John Mitchell 2026](#jeongyeon-kim-and-john-mitchell-2026)
@@ -58,7 +58,7 @@ sources:
 
 ### Jeongyeon Kim and John Mitchell 2026
 
-Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109
+Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109 [doi:10.48550/arxiv.2609.11109](https://doi.org/10.48550/arxiv.2609.11109)
 
 `q2 · i1` · `design · r2`
 

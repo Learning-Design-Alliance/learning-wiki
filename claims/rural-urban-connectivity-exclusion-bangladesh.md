@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: avijit-roy-2026
-    resource: "https://arxiv.org/abs/2608.12278"
-    title: "Avijit Roy, Proma Roy. (2026). Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages — A Case Study in Bengali, the Digital Divide, and the Hidden Cost of English-Centric Design. arXiv preprint. https://arxiv.org/abs/2608.12278"
+    resource: "https://doi.org/10.48550/arxiv.2608.12278"
+    title: "Avijit Roy, Proma Roy. (2026). Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages — A Case Study in Bengali, the Digital Divide, and the Hidden Cost of English-Centric Design. arXiv preprint. https://arxiv.org/abs/2608.12278 [doi:10.48550/arxiv.2608.12278](https://doi.org/10.48550/arxiv.2608.12278)"
     author: Avijit Roy, Proma Roy
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Avijit Roy 2026
 
-Avijit Roy, Proma Roy. (2026). Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages — A Case Study in Bengali, the Digital Divide, and the Hidden Cost of English-Centric Design. arXiv preprint. https://arxiv.org/abs/2608.12278
+Avijit Roy, Proma Roy. (2026). Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages — A Case Study in Bengali, the Digital Divide, and the Hidden Cost of English-Centric Design. arXiv preprint. https://arxiv.org/abs/2608.12278 [doi:10.48550/arxiv.2608.12278](https://doi.org/10.48550/arxiv.2608.12278)
 
 `q2 · i?` · `theoretical · r2`
 

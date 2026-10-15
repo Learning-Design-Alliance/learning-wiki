@@ -13,7 +13,7 @@ generated:
 # Community schools framework: four pillars for a whole-child, whole-school, whole-community approach
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Oakes et al. community schools framework organizes school redesign around integrated supports, expanded learning, family and community engagement, and collaborative leadership to improve outcomes for students in underserved communities.
@@ -26,7 +26,6 @@ The Oakes et al. community schools framework organizes school redesign around in
 - **The four-pillar framework of community schools: integrated student supports, expanded learning time, family and community engagement, and collaborative leadership**: The report organizes community schools implementation around four evidence-based pillars, or features: "(1) integrated student supports, (2) expanded learning time, (3) family and community engagement, and (4) collaborative leadership." State grant programs use these pillars to structure allowable uses of funds—New Mexico implementation grants, Vermont grants, and Georgia's certification process all fund activities mapped to the pillars. The framework functions as the report's organizing account of what a community school is and does, alongside practices grounded in the science of learning and development such as trauma-informed supports. (Maier et al. (2023))
 
 ### Claims
-- [Fully implemented community schools (TACSI) produced significantly higher math and reading scores than comparison schools](../claims/tacsi-fully-implemented-higher-math-reading.md) [+M]
 - [An evaluation of the New York City community schools initiative found increased graduation rates, increased elementary and middle school mathematics achievement, and reductions in chronic absenteeism.](../claims/nyc-community-schools-evaluation-promising-results.md) [+M]
 
 ## Related Products and Programmes

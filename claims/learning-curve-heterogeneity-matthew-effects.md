@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: won-ik-cho-2026
-    resource: "https://arxiv.org/abs/2605.24688"
-    title: "Won Ik Cho, Seong-hun Kim, Geunhye Kim. (2026). Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306. https://arxiv.org/abs/2605.24688"
+    resource: "https://doi.org/10.48550/arxiv.2605.24688"
+    title: "Won Ik Cho, Seong-hun Kim, Geunhye Kim. (2026). Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306. https://arxiv.org/abs/2605.24688 [doi:10.48550/arxiv.2605.24688](https://doi.org/10.48550/arxiv.2605.24688)"
     author: Won Ik Cho, Seong-hun Kim, Geunhye Kim
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Won Ik Cho 2026
 
-Won Ik Cho, Seong-hun Kim, Geunhye Kim. (2026). Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306. https://arxiv.org/abs/2605.24688
+Won Ik Cho, Seong-hun Kim, Geunhye Kim. (2026). Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost. Proceedings of the 43rd International Conference on Machine Learning, PMLR 306. https://arxiv.org/abs/2605.24688 [doi:10.48550/arxiv.2605.24688](https://doi.org/10.48550/arxiv.2605.24688)
 
 `q1 · i?` · `theoretical · r2`
 

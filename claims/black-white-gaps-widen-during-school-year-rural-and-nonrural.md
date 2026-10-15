@@ -44,7 +44,7 @@ Analysis of fall-to-spring growth for 840,000 K–8 students in 8,800 public sch
 
 ## Related Claims
 - [The rural–nonrural achievement divergence is driven by larger summer losses for rural students](rural-achievement-divergence-driven-by-summer-loss.md) — related
-- [Poor White students consistently outperformed poor Black and poor Hispanic students in achievement, with gaps widening around ages 7-8](poor-white-students-outperform-poor-black-hispanic-gaps-widen-ages-7-8.md) — related
+- Poor White students consistently outperformed poor Black and poor Hispanic students in achievement, with gaps widening around ages 7-8 — related
 - [Rural students start kindergarten slightly ahead of nonrural students but fall behind by middle school](rural-students-start-ahead-fall-behind-middle-school.md) — related
 - [Asian students generally pull ahead of White students at a faster rate during summers than during school periods](asian-white-summer-growth-advantage.md) — related
 - [Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students](black-white-gaps-widen-school-shrink-summer.md) — a broader claim this one bears on

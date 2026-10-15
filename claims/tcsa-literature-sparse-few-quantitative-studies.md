@@ -43,4 +43,4 @@ The review's article-selection analysis found that although many TCSA papers app
 
 
 ## Related Claims
-- [The limited empirical literature on administrative decisionmaking supports the utility of reflective procedures](decisionmaking-literature-supports-reflective-procedures.md) — related
+- The limited empirical literature on administrative decisionmaking supports the utility of reflective procedures — related

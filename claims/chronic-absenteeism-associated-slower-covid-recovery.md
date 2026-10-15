@@ -47,7 +47,7 @@ Observational analysis of MAP Growth data across 2,000 US school districts exami
 
 ## Related Claims
 - [A NWEA research brief examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions to learning](chronic-absenteeism-impediment-academic-recovery.md) — possibly the same claim (merge candidate)
-- [Math shows slower recovery than reading in the full meta-analysis](math-slower-recovery-than-reading.md) — related
+- Math shows slower recovery than reading in the full meta-analysis — related
 - [Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement](spring-2025-map-growth-modest-math-recovery.md) — related
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — possibly the same claim (merge candidate)
 - [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related

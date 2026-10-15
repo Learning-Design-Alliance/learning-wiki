@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alex-liu-2026
-    resource: "https://arxiv.org/abs/2604.16738"
-    title: "Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738"
+    resource: "https://doi.org/10.48550/arxiv.2604.16738"
+    title: "Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738 [doi:10.48550/arxiv.2604.16738](https://doi.org/10.48550/arxiv.2604.16738)"
     author: Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He
     q: 2
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Alex Liu 2026
 
-Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738
+Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, and Kevin He. (2026). Teacher-Authored Prompts for Configuring StudentAI Dialogue: K12 Classroom Implementation. https://arxiv.org/abs/2604.16738 [doi:10.48550/arxiv.2604.16738](https://doi.org/10.48550/arxiv.2604.16738)
 
 `q2 · i1` · `associational · r2`
 

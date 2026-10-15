@@ -16,7 +16,7 @@ sources:
 # Behavioristic theory: children learn language through imitation of those around them, supported by models and reinforcement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 2 against) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper describes the behavioristic theory of language acquisition, which holds that children learn language by imitating individuals around them, with those around the child providing a model along with rewards that motivate learning. The paper notes supporting evidence: children learn the language of their speech community and often repeat or 'parrot' words and expressions used by those around them. It also reports that this theory has been challenged as inadequate.
@@ -37,8 +37,6 @@ The paper describes the behavioristic theory of language acquisition, which hold
 
 ### Claims
 
-- [Children's language is highly resistant to alteration by adult intervention, challenging a simple imitation theory](../claims/child-language-resistant-to-adult-correction.md) [-W]
-- [Children produce overgeneralized forms they have not heard, indicating they use rules rather than imitation](../claims/overgeneralization-errors-indicate-rule-use.md) [-W]
 - [Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction](../claims/children-imitate-beyond-independent-capability.md) [+W]
 
 ## Related Theories

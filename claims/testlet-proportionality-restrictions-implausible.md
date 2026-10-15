@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rijmen-2009
-    resource: "http://www.ets.org/research/contact.html"
-    title: "Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html"
+    resource: "https://doi.org/10.1002/j.2333-8504.2009.tb02194.x"
+    title: "Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2009.tb02194.x](https://doi.org/10.1002/j.2333-8504.2009.tb02194.x)"
     author: Rijmen, F.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rijmen 2009
 
-Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html
+Rijmen, F. (2009). Three Multidimensional Models for Testlet-Based Tests: Formal Relations and an Empirical Comparison. ETS Research Report RR-09-37. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2009.tb02194.x](https://doi.org/10.1002/j.2333-8504.2009.tb02194.x)
 
 `q2 · i?` · `theoretical · r3`
 

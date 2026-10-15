@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: dongming-mei-2026
-    resource: "https://arxiv.org/abs/2605.09624"
-    title: "Dongming Mei, Katherine Moore, and Ben Sayler. (2026). Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment. https://arxiv.org/abs/2605.09624"
+    resource: "https://doi.org/10.48550/arxiv.2605.09624"
+    title: "Dongming Mei, Katherine Moore, and Ben Sayler. (2026). Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment. https://arxiv.org/abs/2605.09624 [doi:10.48550/arxiv.2605.09624](https://doi.org/10.48550/arxiv.2605.09624)"
     author: Dongming Mei, Katherine Moore, and Ben Sayler
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dongming Mei 2026
 
-Dongming Mei, Katherine Moore, and Ben Sayler. (2026). Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment. https://arxiv.org/abs/2605.09624
+Dongming Mei, Katherine Moore, and Ben Sayler. (2026). Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment. https://arxiv.org/abs/2605.09624 [doi:10.48550/arxiv.2605.09624](https://doi.org/10.48550/arxiv.2605.09624)
 
 `q2 · i?` · `theoretical · r2`
 

@@ -17,7 +17,7 @@ sources:
 # Diseño mixto con grabación en audio de tutorías de 6 docentes tutores de trabajo de grado
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Elemento metodológico central de la tesis: un estudio con diseño mixto en el que el análisis cualitativo de los enunciados se categoriza y transforma en datos cuantitativos. La muestra, por conveniencia y no probabilística, correspondió a 6 docentes de una universidad privada de Bogotá; "el muestreo se realizó por conveniencia y es de carácter no probabilístico, la muestra de participantes correspondió a 6 docentes". La técnica de recolección fue "el registro del desarrollo de la tutoría mediante la grabación del audio durante el desarrollo de la tutoría".
@@ -38,8 +38,6 @@ Elemento metodológico central de la tesis: un estudio con diseño mixto en el q
 
 ### Claims
 
-- [El estudio define 4 estilos de retroalimentación en tutoría de trabajo de grado, combinando énfasis (tarea/proceso) y cercanía psicológica (cálida/formal)](../claims/cuatro-estilos-retroalimentacion-tutoria-trabajo-grado.md) [+W]
-- [El análisis de enunciados de tutoría define 5 categorías para caracterizar la retroalimentación](../claims/cinco-categorias-caracterizacion-retroalimentacion-tutoria.md) [+W]
 
 ## Related Designs
 - 

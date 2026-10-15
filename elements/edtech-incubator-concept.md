@@ -17,7 +17,7 @@ sources:
 # Ed-Tech Incubator concept: mutually beneficial school-startup product development relationships
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The Ed-Tech Incubator concept proposes that schools participate directly in ed-tech product development, creating mutually beneficial relationships between educators as end users and entrepreneurs as developers. The report states that "startups can have more direct access to teachers, students, and administrators, enabling them to develop more relevant products," while schools gain experience with startup practices and potentially discounts or privileged access to products built around their needs. It responds to the theme that districts struggle to connect district needs with what startups are developing.
@@ -41,8 +41,6 @@ The Ed-Tech Incubator concept proposes that schools participate directly in ed-t
 
 ## Claims
 
-- [Trust amongst peers is high while trust of outsiders is low, and vendor relationships in districts follow a long consultative sales cycle](../claims/peer-trust-high-outsider-trust-low-edtech.md) [+W]
-- [District leaders report that public scrutiny produces fear and risk aversion that favors the status quo over innovation in ed-tech decisions](../claims/public-scrutiny-risk-aversion-edtech-procurement.md) [~W]
 
 ## Related Elements
 

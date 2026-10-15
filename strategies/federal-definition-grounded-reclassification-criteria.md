@@ -17,7 +17,7 @@ sources:
 # Reclassify English learners using criteria grounded in the federal EL definition, without requiring minimum content-assessment performance for exit
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 2 studies (1 associational, 1 theoretical), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper recommends conceptualizing reclassification criteria using the federal definition of an EL, addressing the linguistic contribution to academic performance and societal participation "while not requiring a minimum level of performance on an academic content assessment for exit". It recommends studies relating ELP assessment results to academic outcomes on Smarter Balanced, PARCC, and stand-alone states' summative assessments, plus standardized rubrics or rating scales to support and standardize local criteria for classroom participation and societal participation.
@@ -43,10 +43,6 @@ The paper recommends conceptualizing reclassification criteria using the federal
 
 ## Claims
 
-- [Most states use multiple criteria to reclassify English learners, with locally established criteria producing non-uniform within-state definitions](../claims/multiple-criteria-el-reclassification-variation.md) [~W]
-- [States mandating non-ELP reclassification requirements have higher shares of long-term ELs](../claims/mandated-non-elp-requirements-higher-long-term-el-shares.md) [+W]
-- [Policy adherence is high across states (96-98 percent of eligible students reclassified) but is relatively lower in the state mandating end-of-grade assessment proficiency](../claims/policy-adherence-high-but-lower-in-mandated-assessment-state.md) [+W]
-- [Disparities in reclassification eligibility across states widen as grade levels progress, with states relying solely on ELP criteria showing sharp increases by grade 5](../claims/eligibility-disparities-widen-across-grades.md) [~W]
 
 ## Related Strategies
 

@@ -18,7 +18,7 @@ sources:
 # Whole School Safety (WSS) Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 3 studies (2 qualitative, 1 causal), `q1`–`q2` · 0 of 3 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 2 studies (1 causal, 1 qualitative), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 A Chicago Public Schools framework developed with community-based organizations that organizes school safety planning around physical safety, emotional safety, and relational trust.
@@ -35,7 +35,6 @@ A Chicago Public Schools framework developed with community-based organizations 
 - [CBO leaders characterized the collaborative WSS development process as healing and restorative, applying restorative justice principles to policymaking](../claims/wss-codesign-restorative-healing-process.md) [+W]
 - [District officials and CBO leaders believed WSS implementation success should be assessed along multiple dimensions including engagement, student outcomes, district resources, and experiences](../claims/wss-multidimensional-success-measures.md) [+W]
 - [CBO leaders cautioned that assessing WSS outcomes without accounting for district inputs obscures how resource allocation determines policy success](../claims/wss-outcomes-need-input-transparency.md) [+W]
-- [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](../claims/hardening-intervenes-too-late-pathway-violence.md) [+W]
 
 ## Related Products and Programmes
 -

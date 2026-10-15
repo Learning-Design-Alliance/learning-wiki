@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ndidi-bianca-ogbo-2026
-    resource: "https://arxiv.org/abs/2605.27400"
-    title: "Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400"
+    resource: "https://doi.org/10.48550/arxiv.2605.27400"
+    title: "Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400 [doi:10.48550/arxiv.2605.27400](https://doi.org/10.48550/arxiv.2605.27400)"
     author: Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In simulations, peer sensitivity (β) moderates how rapidly responsible AI-use norms emerge: strong peer sensitivity yields a sharp tipping-point transition, while weak peer sensitivity yields only gradual, marginal increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Under strong peer sensitivity (β = 0.5), responsible AI use rapidly becomes the dominant norm once a critical reflection threshold is reached. [→ Ndidi Bianca Ogbo 2026](#ndidi-bianca-ogbo-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ndidi Bianca Ogbo 2026
 
-Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400
+Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400 [doi:10.48550/arxiv.2605.27400](https://doi.org/10.48550/arxiv.2605.27400)
 
 `q2 · i?` · `theoretical · r3`
 

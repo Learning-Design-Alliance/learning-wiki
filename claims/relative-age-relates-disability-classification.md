@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: elizabeth-dhuey-2010
-    resource: "https://www.mathematica.org/publications/disabled-or-young-relative-age-and-special-education-diagnoses-in-schools"
-    title: "Elizabeth Dhuey, Stephen Lipscomb. (2010). Disabled or Young? Relative Age and Special Education Diagnoses in Schools. Economics of Education Review, vol. 29, no. 5. https://www.mathematica.org/publications/disabled-or-young-relative-age-and-special-education-diagnoses-in-schools"
+    resource: "https://doi.org/10.1016/j.econedurev.2010.03.006"
+    title: "Elizabeth Dhuey, Stephen Lipscomb. (2010). Disabled or Young? Relative Age and Special Education Diagnoses in Schools. Economics of Education Review, vol. 29, no. 5. https://www.mathematica.org/publications/disabled-or-young-relative-age-and-special-education-diagnoses-in-schools [doi:10.1016/j.econedurev.2010.03.006](https://doi.org/10.1016/j.econedurev.2010.03.006)"
     author: Elizabeth Dhuey, Stephen Lipscomb
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Elizabeth Dhuey 2010
 
-Elizabeth Dhuey, Stephen Lipscomb. (2010). Disabled or Young? Relative Age and Special Education Diagnoses in Schools. Economics of Education Review, vol. 29, no. 5. https://www.mathematica.org/publications/disabled-or-young-relative-age-and-special-education-diagnoses-in-schools
+Elizabeth Dhuey, Stephen Lipscomb. (2010). Disabled or Young? Relative Age and Special Education Diagnoses in Schools. Economics of Education Review, vol. 29, no. 5. https://www.mathematica.org/publications/disabled-or-young-relative-age-and-special-education-diagnoses-in-schools [doi:10.1016/j.econedurev.2010.03.006](https://doi.org/10.1016/j.econedurev.2010.03.006)
 
 `q2 · i?` · `associational · r2`
 

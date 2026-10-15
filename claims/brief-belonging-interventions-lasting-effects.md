@@ -44,5 +44,5 @@ The article reports, citing Walton & Cohen 2007, Walton & Spencer 2009, and Yeag
 
 ## Related Claims
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
-- [Dedicated sense-of-belonging courseware features were underused: most students were unaware of the Lumen Community and vaguely remembered the Introduce Yourself module](belonging-features-underused-lumen-community.md) — related
+- Dedicated sense-of-belonging courseware features were underused: most students were unaware of the Lumen Community and vaguely remembered the Introduce Yourself module — related
 - [An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence](cohort-support-improves-adult-persistence.md) — related

@@ -44,7 +44,7 @@ State-level CRDC analysis identifying Florida as bucking the national trend. The
 
 ## Related Claims
 - [Washington State's automatic-enrollment academic acceleration policy is associated with more equitable advanced course offerings, reversing the typical gap](washington-automatic-enrollment-equity-course-access.md) — related
-- [Advanced course completion and dual credit graduation vary by district poverty concentration, with Latino students completing advanced courses and graduating with DC at higher rates in high-poverty districts](district-poverty-completion-patterns.md) — related
+- Advanced course completion and dual credit graduation vary by district poverty concentration, with Latino students completing advanced courses and graduating with DC at higher rates in high-poverty districts — related
 - [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced science courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-science-courses.md) — related
 - [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced mathematics courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-math-courses.md) — related
 - [State-level disparities in advanced course access are large, with New York showing a 54-percentage-point Calculus gap between low- and high-student-of-color-enrollment schools](state-disparities-advanced-course-access-new-york.md) — related

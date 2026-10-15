@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: junko-yamashita-2013
-    resource: "http://nflrc.hawaii.edu/rfl"
-    title: "Junko Yamashita. (2013). Effects of extensive reading on reading attitudes in a foreign language. Reading in a Foreign Language, 25(2). http://nflrc.hawaii.edu/rfl"
+    resource: "https://doi.org/10.64152/10125/66872"
+    title: "Junko Yamashita. (2013). Effects of extensive reading on reading attitudes in a foreign language. Reading in a Foreign Language, 25(2). http://nflrc.hawaii.edu/rfl [doi:10.64152/10125/66872](https://doi.org/10.64152/10125/66872)"
     author: Junko Yamashita
     q: 2
     i: 2
@@ -30,7 +30,7 @@ sources:
 # Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i2` medium
+> **Evidence** · 2 studies · 2 causal `r1` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Extensive reading significantly reduced Anxiety toward EFL reading, with a medium effect size (r = .34). [→ Junko Yamashita 2013](#junko-yamashita-2013)
@@ -39,7 +39,7 @@ sources:
 
 ### Junko Yamashita 2013
 
-Junko Yamashita. (2013). Effects of extensive reading on reading attitudes in a foreign language. Reading in a Foreign Language, 25(2). http://nflrc.hawaii.edu/rfl
+Junko Yamashita. (2013). Effects of extensive reading on reading attitudes in a foreign language. Reading in a Foreign Language, 25(2). http://nflrc.hawaii.edu/rfl [doi:10.64152/10125/66872](https://doi.org/10.64152/10125/66872)
 
 `q2 · i2` · `causal · r1`
 

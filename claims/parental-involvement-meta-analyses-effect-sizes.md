@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q4` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q4 i2` Statistical meta-analyses found significant relationships between parental involvement and better student outcomes across racial backgrounds, with effect sizes ranging from 0.2 to 0.75 standard deviations. [→ Oakes 2017](#oakes-2017)

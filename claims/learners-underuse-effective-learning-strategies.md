@@ -42,7 +42,7 @@ Narrative review assertion. The review states that research "has highlighted str
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Will learners choose to retrieve on their own, and can they be taught to?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **8 distinct studies** (3 review, 3 causal, 1 associational, 1 design), `q1`–`q3`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Will learners choose to retrieve on their own, and can they be taught to?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **7 distinct studies** (3 review, 3 causal, 1 associational), `q1`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -51,7 +51,6 @@ Narrative review assertion. The review states that research "has highlighted str
 | [Bjork Dunlosky Kornell 2013](https://doi.org/10.1146/annurev-psych-113011-143823) | q2 · review · r? | i? | [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) (supports) |
 | [Ariel 2018](https://doi.org/10.1037/xap0000133) | q3 · causal · r2 | i2; i1; i? | [Instructions increased self-testing and cumulative learning but not study choices or feedb](instructions-increase-self-testing-cumulative-learning.md) (qualifies); [Retrieval practice instructions led students to recall items to a criterion of about three](instructions-promote-three-recall-criterion.md) (qualifies); [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) (qualifies); [Students given retrieval practice instructions spontaneously used a repeated retrieval str](spontaneous-strategy-transfer-one-week-delay.md) (qualifies); [Effects of instructions on some measures were inconsistent across experiments, and instruc](mixed-effects-across-experiments-criterion-failures.md) (qualifies) |
 | [Karpicke 2017](https://doi.org/10.1016/b978-0-12-809324-5.21055-9) | q2 · review · r3 | i? | [Most middle and high school students surveyed after classroom retrieval practice programs ](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) (qualifies) |
-| The Art and Science of Learning: How New Mexico School for the Arts Uses Research 2016 | q2 · design · r2 | i? | [In a teacher-run classroom survey, students most preferred practice test questions among t](nmsa-survey-preference-practice-testing.md) (qualifies) |
 | [Kornell & Bjork 2008](https://doi.org/10.1111/j.1467-9280.2008.02127.x) | q3 · causal · r? | i? | [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) (supports) |
 | [Kornell 2009](https://doi.org/10.1002/acp.1537) | q3 · causal · r? | i? | [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) (supports) |
 <!-- synthesis:end -->
@@ -61,5 +60,5 @@ Narrative review assertion. The review states that research "has highlighted str
 
 ## Related Claims
 - [Underuse of effective strategies may stem from false beliefs, lack of awareness, and the counter-intuitive nature of the strategies](underuse-stems-from-false-beliefs-and-counterintuition.md) — possibly the same claim (merge candidate)
-- [Dedicated sense-of-belonging courseware features were underused: most students were unaware of the Lumen Community and vaguely remembered the Introduce Yourself module](belonging-features-underused-lumen-community.md) — related
-- [Undergraduate statistics students most frequently used and valued the courseware's ungraded formative practice features, the Readiness Check and Self Check](students-value-ungraded-formative-practice-lumen-one.md) — related
+- Dedicated sense-of-belonging courseware features were underused: most students were unaware of the Lumen Community and vaguely remembered the Introduce Yourself module — related
+- Undergraduate statistics students most frequently used and valued the courseware's ungraded formative practice features, the Readiness Check and Self Check — related

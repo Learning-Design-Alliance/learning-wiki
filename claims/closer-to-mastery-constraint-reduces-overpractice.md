@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: haley-noh-2026
-    resource: "https://arxiv.org/abs/2605.21613"
-    title: "Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers. (2026). Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning. arXiv preprint. https://arxiv.org/abs/2605.21613"
+    resource: "https://doi.org/10.48550/arxiv.2605.21613"
+    title: "Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers. (2026). Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning. arXiv preprint. https://arxiv.org/abs/2605.21613 [doi:10.48550/arxiv.2605.21613](https://doi.org/10.48550/arxiv.2605.21613)"
     author: Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Haley Noh 2026
 
-Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers. (2026). Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning. arXiv preprint. https://arxiv.org/abs/2605.21613
+Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers. (2026). Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning. arXiv preprint. https://arxiv.org/abs/2605.21613 [doi:10.48550/arxiv.2605.21613](https://doi.org/10.48550/arxiv.2605.21613)
 
 `q2 · i3` · `design · r2`
 

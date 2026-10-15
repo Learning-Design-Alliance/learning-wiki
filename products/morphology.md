@@ -18,7 +18,7 @@ sources:
 # Morphology+
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 IMSE's Morphology+ is a structured literacy curriculum and educator-training program developed by the Institute for Multisensory Education for grades 3–5 morphology, vocabulary, and comprehension instruction.
@@ -29,7 +29,6 @@ IMSE's Morphology+ is a structured literacy curriculum and educator-training pro
 
 ### Claims
 - [Third-grade students whose teachers implemented IMSE's Morphology+ scored significantly higher on NWEA MAP Growth Reading than comparison students (effect size +0.05)](../claims/morphology-plus-significant-reading-gain-third-grade.md) [+W]
-- [Morphology+ showed larger positive effects in the informational text (+0.17) and vocabulary (+0.18) subdomains than the overall reading effect](../claims/morphology-plus-subdomain-effects-informational-vocabulary.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,7 +66,6 @@ IMSE's Morphology+ combines 30 hours of educator training with 148 sequenced les
 ## Claims
 
 - [Third-grade students whose teachers implemented IMSE's Morphology+ scored significantly higher on NWEA MAP Growth Reading than comparison students (effect size +0.05)](../claims/morphology-plus-significant-reading-gain-third-grade.md) [+W]
-- [Morphology+ showed larger positive effects in the informational text (+0.17) and vocabulary (+0.18) subdomains than the overall reading effect](../claims/morphology-plus-subdomain-effects-informational-vocabulary.md) [+W]
 
 ## Related Elements
 - 

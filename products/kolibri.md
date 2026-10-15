@@ -22,7 +22,7 @@ sources:
 # Kolibri
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (3 design), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Kolibri is Learning Equality's open-source, offline-first learning platform for delivering educational content and supporting learning in low-connectivity settings.
@@ -31,9 +31,6 @@ Kolibri is Learning Equality's open-source, offline-first learning platform for 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [In 75% of observed lesson segments in the Haiti pilot, all pupils were engaged](../claims/haiti-blended-pilot-75-percent-segments-all-engaged.md) [+W]
-- [Students in the Haiti blended learning pilot showed statistically significant learning gains, with the lowest-baseline students gaining the most](../claims/haiti-blended-pilot-significant-gains-lowest-baseline.md) [+W]
-- [Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners](../claims/student-pace-and-engagement-varies-by-skill-level.md) [+W]
 - [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](../claims/breakthrough-tutoring-confidence-gain-not-significant.md) [~W]
 
 ## Related Products and Programmes
@@ -70,9 +67,6 @@ Kolibri is Learning Equality's "open-source, offline-first" platform, which the 
 
 ## Claims
 
-- [In 75% of observed lesson segments in the Haiti pilot, all pupils were engaged](../claims/haiti-blended-pilot-75-percent-segments-all-engaged.md) [+W]
-- [Students in the Haiti blended learning pilot showed statistically significant learning gains, with the lowest-baseline students gaining the most](../claims/haiti-blended-pilot-significant-gains-lowest-baseline.md) [+W]
-- [Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners](../claims/student-pace-and-engagement-varies-by-skill-level.md) [+W]
 - [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](../claims/breakthrough-tutoring-confidence-gain-not-significant.md) [~W]
 
 ## Related Elements

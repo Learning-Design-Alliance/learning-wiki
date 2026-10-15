@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chokri-barhoumi-pier-giuseppe-rossi-2013
-    resource: "https://eric.ed.gov/?id=EJ1105506"
-    title: "Chokri Barhoumi; Pier Giuseppe Rossi. (2013). The Effectiveness of Instruction-Oriented Hypertext Systems Compared to Direct Instruction in e-learning Environments. Contemporary Educational Technology, 4(4), 281-308. https://eric.ed.gov/?id=EJ1105506"
+    resource: "https://doi.org/10.30935/cedtech/6109"
+    title: "Chokri Barhoumi; Pier Giuseppe Rossi. (2013). The Effectiveness of Instruction-Oriented Hypertext Systems Compared to Direct Instruction in e-learning Environments. Contemporary Educational Technology, 4(4), 281-308. https://eric.ed.gov/?id=EJ1105506 [doi:10.30935/cedtech/6109](https://doi.org/10.30935/cedtech/6109)"
     author: Chokri Barhoumi; Pier Giuseppe Rossi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Chokri Barhoumi; Pier Giuseppe Rossi 2013
 
-Chokri Barhoumi; Pier Giuseppe Rossi. (2013). The Effectiveness of Instruction-Oriented Hypertext Systems Compared to Direct Instruction in e-learning Environments. Contemporary Educational Technology, 4(4), 281-308. https://eric.ed.gov/?id=EJ1105506
+Chokri Barhoumi; Pier Giuseppe Rossi. (2013). The Effectiveness of Instruction-Oriented Hypertext Systems Compared to Direct Instruction in e-learning Environments. Contemporary Educational Technology, 4(4), 281-308. https://eric.ed.gov/?id=EJ1105506 [doi:10.30935/cedtech/6109](https://doi.org/10.30935/cedtech/6109)
 
 `q2 · i?` · `causal · r2`
 

@@ -46,9 +46,9 @@ Focus-group theme from the 10-participant qualitative pilot. Typed-response subt
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — related
 - [Graduate SLP students perceive the learning mode of computer-based simulation as highly beneficial because it allows unlimited attempts without grade penalty](simucase-learning-mode-perceived-beneficial.md) — related
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related
-- [Students wanted more detailed feedback explaining why answers were incorrect and linking to relevant course content](students-want-detailed-explanatory-feedback.md) — related
-- [Students who reported their teacher was more knowledgeable with the program perceived education technology as more beneficial](teacher-knowledge-higher-perceived-benefit.md) — related
-- [Families struggle to access and understand score reports because of technological, language, and explanation barriers](score-reports-inaccessible-to-families.md) — related
+- Students wanted more detailed feedback explaining why answers were incorrect and linking to relevant course content — related
+- Students who reported their teacher was more knowledgeable with the program perceived education technology as more beneficial — related
+- Families struggle to access and understand score reports because of technological, language, and explanation barriers — related
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
 - [Pilot testing found the initial problem posing test response time too short, with most pilot students unable to complete all three items](pilot-response-time-insufficient-problem-posing-test.md) — related
 - [Explanatory feedback alone raises both perceived fairness and decision acceptance, and the indirect effect of agent on acceptance is significant only when explanations are provided](explanatory-feedback-main-effects-and-conditional-indirect-effect.md) — related

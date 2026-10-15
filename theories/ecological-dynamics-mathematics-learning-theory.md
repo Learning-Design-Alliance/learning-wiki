@@ -16,7 +16,7 @@ sources:
 # Ecological dynamics as a theory of mathematics learning: mathematical concepts emerge from guided discovery of sensorimotor schemes oriented on attentional anchors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Ecological dynamics blends dynamical systems theory and ecological psychology's theory of affordances; the article applies it to mathematics education, modeling learning as 'the complex and adaptive self-organizing of subject –environment dynamical systems' rather than as sequences of disembodied symbolic propositions. On this view, mathematical meanings are cultural constructs that agents build by developing and then signifying motor-action coordinations oriented on discovered attentional anchors. The authors contend the framework offers tools for designing, implementing, and analyzing pedagogical interactions in embodied-interaction environments, and position it as extending constructivist and socio-cultural perspectives.
@@ -38,8 +38,6 @@ Ecological dynamics blends dynamical systems theory and ecological psychology's 
 ### Claims
 
 - Students Discover Interval Attentional Anchor Mitp [+M]
-- [Grid Overlay Reifies Anchor Shifts Routine](../claims/grid-overlay-reifies-anchor-shifts-routine.md) [+M]
-- [Eye-tracking results confirm that just before students articulate a new manipulation strategy, their visual attention shifts from figural screen elements to a newly invented attentional-anchor location](../claims/eye-tracking-confirms-attentional-anchor-shift.md) [+W]
 
 ## Related Theories
 

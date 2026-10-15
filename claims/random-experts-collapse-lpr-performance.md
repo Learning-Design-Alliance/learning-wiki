@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: geonwoo-bang-2026
-    resource: "https://arxiv.org/abs/2610.03273"
-    title: "Geonwoo Bang, Dongho Kim, and Moohong Min. (2026). EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation. arXiv:2610.03273. https://arxiv.org/abs/2610.03273"
+    resource: "https://doi.org/10.48550/arxiv.2610.03273"
+    title: "Geonwoo Bang, Dongho Kim, and Moohong Min. (2026). EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation. arXiv:2610.03273. https://arxiv.org/abs/2610.03273 [doi:10.48550/arxiv.2610.03273](https://doi.org/10.48550/arxiv.2610.03273)"
     author: Geonwoo Bang, Dongho Kim, and Moohong Min
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Geonwoo Bang 2026
 
-Geonwoo Bang, Dongho Kim, and Moohong Min. (2026). EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation. arXiv:2610.03273. https://arxiv.org/abs/2610.03273
+Geonwoo Bang, Dongho Kim, and Moohong Min. (2026). EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation. arXiv:2610.03273. https://arxiv.org/abs/2610.03273 [doi:10.48550/arxiv.2610.03273](https://doi.org/10.48550/arxiv.2610.03273)
 
 `q2 · i?` · `causal · r2`
 

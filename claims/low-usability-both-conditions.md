@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rief-2026
-    resource: "https://arxiv.org/abs/2609.02611"
-    title: "Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611"
+    resource: "https://doi.org/10.48550/arxiv.2609.02611"
+    title: "Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611 [doi:10.48550/arxiv.2609.02611](https://doi.org/10.48550/arxiv.2609.02611)"
     author: Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T.
     q: 3
     i: 2
@@ -33,7 +33,7 @@ In Rief et al. (2026), seventh graders practised algebra in the "Math with Matt"
 
 ### Rief 2026
 
-Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611
+Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., Nagashima, T. (2026). Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning. https://arxiv.org/abs/2609.02611 [doi:10.48550/arxiv.2609.02611](https://doi.org/10.48550/arxiv.2609.02611)
 
 `q3 · i2` · `causal · r2`
 

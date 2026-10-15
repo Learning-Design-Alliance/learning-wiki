@@ -45,6 +45,6 @@ Meta-analytic results for code-related literacy skills: 11 of 14 contrasts combi
 ## Related Claims
 - [In a Los Angeles RCT, Earobics® plus Open Court improved phonological awareness but not letter knowledge, phonics, or fluency](earobics-cognitive-concepts-2003-phonological-awareness-gains.md) — related
 - [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related
-- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](bridge-to-reading-kindergarten-growth-es-022.md) — related
+- Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each) — related
 - [Technology-enhanced stories show no significant effect on child engagement and communication during reading](technology-stories-no-engagement-effect.md) — related
 - [Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading](technology-stories-no-receptive-vocabulary-effect.md) — related

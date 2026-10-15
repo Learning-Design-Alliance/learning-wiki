@@ -18,7 +18,7 @@ sources:
 # Symphony Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Symphony Math is a web-browser and iPad technology intervention program that provides individualized mathematics practice for K–8 students, developed and distributed as the Symphony Math program.
@@ -28,7 +28,6 @@ Symphony Math is a web-browser and iPad technology intervention program that pro
 - **Symphony Math K-8 technology intervention program for mathematical concepts**: Symphony Math is a technology intervention program designed to help K-8 students develop a deep understanding of critical mathematical concepts. It is intended to be used as a complement to classroom learning and provides individual practice at each student's developmental level. The program runs in a web browser (HTML5) or as an iPad app and requires no additional staffing. (Symphony Math (2021))
 
 ### Claims
-- [Symphony Math students made greater math achievement gains than district peers (effect size +0.30)](../claims/symphony-math-star-math-gains-030.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -62,7 +61,6 @@ Symphony Math is a technology intervention program designed to help K-8 students
 
 ## Claims
 
-- [Symphony Math students made greater math achievement gains than district peers (effect size +0.30)](../claims/symphony-math-star-math-gains-030.md) [+W]
 
 ## Related Elements
 

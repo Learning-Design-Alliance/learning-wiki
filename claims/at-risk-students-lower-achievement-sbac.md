@@ -43,5 +43,5 @@ Descriptive comparison of 2023/24 SBAC performance levels by At-risk status, wit
 
 
 ## Related Claims
-- [Black students in LBUSD score behind all other ethnic groups and ELLs on the 2024 SBAC, with only 20 percent meeting or exceeding achievement in math and 34 percent in ELA](lbusd-black-students-sbac-gaps-2024.md) — related
+- Black students in LBUSD score behind all other ethnic groups and ELLs on the 2024 SBAC, with only 20 percent meeting or exceeding achievement in math and 34 percent in ELA — related
 - [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — related

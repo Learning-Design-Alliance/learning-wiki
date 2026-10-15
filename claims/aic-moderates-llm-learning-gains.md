@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bharat-anand-2026
-    resource: "https://arxiv.org/abs/2605.18143"
-    title: "Bharat Anand, Lihi Idan. (2026). Generative AI and the Productivity Divide: Human–AI Complementarities in Education and Knowledge Work (Working Paper). https://arxiv.org/abs/2605.18143"
+    resource: "https://doi.org/10.48550/arxiv.2605.18143"
+    title: "Bharat Anand, Lihi Idan. (2026). Generative AI and the Productivity Divide: Human–AI Complementarities in Education and Knowledge Work (Working Paper). https://arxiv.org/abs/2605.18143 [doi:10.48550/arxiv.2605.18143](https://doi.org/10.48550/arxiv.2605.18143)"
     author: Bharat Anand, Lihi Idan
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The Treatment × AIC interaction was positive and significant, with high-AIC participants benefiting disproportionately. [→ Bharat Anand 2026](#bharat-anand-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Bharat Anand 2026
 
-Bharat Anand, Lihi Idan. (2026). Generative AI and the Productivity Divide: Human–AI Complementarities in Education and Knowledge Work (Working Paper). https://arxiv.org/abs/2605.18143
+Bharat Anand, Lihi Idan. (2026). Generative AI and the Productivity Divide: Human–AI Complementarities in Education and Knowledge Work (Working Paper). https://arxiv.org/abs/2605.18143 [doi:10.48550/arxiv.2605.18143](https://doi.org/10.48550/arxiv.2605.18143)
 
 `q3 · i?` · `causal · r2`
 

@@ -47,4 +47,4 @@ Qualitative reflexive thematic analysis of eight group interviews with 48 studen
 - Bibliometric mapping of GenAI-in-higher-education literature reveals four keyword clusters spanning pedagogy, technical infrastructure, learning design and assessment, and ethics — related
 - Keyword co-occurrence analysis identifies three thematic clusters: traditional AI/predictive modeling, medical education with generative AI, and ethics/knowledge/healthcare integration — related
 - Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes — related
-- [A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages](human-llm-pipeline-72-item-educator-ai-codebook.md) — related
+- A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages — related

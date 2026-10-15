@@ -12,7 +12,7 @@ generated:
 # Human-AI collaborative thematic analysis process guided by the IAVES framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The study adapted Braun and Clarke's six-phase reflexive thematic analysis to incorporate systematic human-AI collaboration guided by the IAVES framework for Human-Centered AI Interaction. Multiple GenAI models were used strategically: "AI functioned instrumentally during systematic coding activities, as well as worked as an intellectual partner during interpretive theme development". Nine AI-proposed candidate themes were refined into twelve final themes through human disaggregation, with human researchers retaining full interpretive authority at all decision gates and cross-validation across models functioning as triangulation.
@@ -23,7 +23,6 @@ The study adapted Braun and Clarke's six-phase reflexive thematic analysis to in
 
 ### Claims
 
-- [A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages](../claims/human-llm-pipeline-72-item-educator-ai-codebook.md) [+W]
 
 ## Related Research Methods
 

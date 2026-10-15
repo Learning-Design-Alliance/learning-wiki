@@ -68,6 +68,6 @@ ANOVA on 1-7 Likert difficulty self-ratings after the lesson. The elaborative-in
 - [Answers to elaborative interrogation questions were mostly poor in quality, and answer quality correlated positively with posttest scores](elaborative-interrogation-answer-quality-poor-correlates-with-posttest.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — related
-- [Open-ended responses rank the review section and practice questions as the most-liked lesson features](open-ended-likes-review-and-practice-top.md) — related
+- Open-ended responses rank the review section and practice questions as the most-liked lesson features — related
 - [Mental effort and study time increase with a topic's element interactivity level, making them indicators of element interactivity](mental-effort-study-time-indicate-element-interactivity.md) — related
 - [AIDA-supported participants spent on average twice as long in the course platform as controls, but the difference in usage time was not statistically significant](aida-usage-time-doubled-not-significant.md) — related

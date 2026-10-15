@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: stephan-vonschallen-2026
-    resource: "https://arxiv.org/abs/2607.22345"
-    title: "Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345"
+    resource: "https://doi.org/10.48550/arxiv.2607.22345"
+    title: "Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345 [doi:10.48550/arxiv.2607.22345](https://doi.org/10.48550/arxiv.2607.22345)"
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # An exploratory path model suggests perceived responsible behavior mediates the association between KBD and both learner motivation and acceptance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Perceived alignment with responsible behavior significantly predicted motivation (β = .588) and acceptance (β = .512) in the path model. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Stephan Vonschallen 2026
 
-Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
+Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345 [doi:10.48550/arxiv.2607.22345](https://doi.org/10.48550/arxiv.2607.22345)
 
 `q2 · i?` · `causal · r2`
 

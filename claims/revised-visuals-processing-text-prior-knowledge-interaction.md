@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: clinton-2017
-    resource: "https://eric.ed.gov/?id=ED574984"
-    title: "Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984"
+    resource: "https://doi.org/10.4018/978-1-5225-1005-5.ch010"
+    title: "Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984 [doi:10.4018/978-1-5225-1005-5.ch010](https://doi.org/10.4018/978-1-5225-1005-5.ch010)"
     author: "Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Clinton 2017
 
-Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984
+Clinton, V., Cooper, J.L., Michaelis, J., Alibali, M.W., & Nathan, M.J. (2017). How Revisions to Mathematical Visuals Affect Cognition: Evidence from Eye Tracking. In Eye-tracking technology applications in educational research (pp. 195-218). IGI Global. https://eric.ed.gov/?id=ED574984 [doi:10.4018/978-1-5225-1005-5.ch010](https://doi.org/10.4018/978-1-5225-1005-5.ch010)
 
 `q3 · i?` · `causal · r?`
 

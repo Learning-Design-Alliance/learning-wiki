@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` At .25 DIF magnitude, high-discriminating items had better NCDIF detection rates, but this trend did not appear at .10 magnitude; SIBTEST and Lord's chi-square detection rose with discrimination in all conditions. [→ Flowers 1997](#flowers-1997)
@@ -43,8 +44,8 @@ Per-item detection rates from Table 5 for studied items with a-parameters of .55
 
 
 ## Related Claims
-- [DIF detection rates for all indices are higher with larger samples, equivalent distributions, fewer DIF items, greater DIF magnitude, and larger a-parameters](polytomous-dif-detection-rate-factors.md) — related
-- [The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest](polytomous-dfit-type-i-error-near-alpha.md) — related
+- DIF detection rates for all indices are higher with larger samples, equivalent distributions, fewer DIF items, greater DIF magnitude, and larger a-parameters — related
+- The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest — related
 - [Lord's chi-square identified more DIF items than Raju's unsigned area in the without-purification condition](lords-chi-square-flags-more-dif-items-than-raju-ua.md) — related
 - [The chi-square significance test for NC-DIF is overly sensitive at large sample sizes, requiring an empirical cutoff value](nc-dif-chi-square-overly-sensitive-large-samples.md) — related
-- [Type of DIF affected detection: nonuniform DIF items with higher a-parameters were not detected whereas lower a-parameter items were](polytomous-dfit-nonuniform-high-a-not-detected.md) — related
+- Type of DIF affected detection: nonuniform DIF items with higher a-parameters were not detected whereas lower a-parameter items were — related

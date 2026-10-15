@@ -47,6 +47,4 @@ Spearman correlation from the same experiment; the bootstrap confidence interval
 - [Higher average LLM use across all tasks is significantly negatively correlated with final grades in undergraduate programming education](average-llm-use-negative-correlation-final-grades.md) — a broader claim this one bears on
 - [LLM use for code generation is significantly negatively correlated with student final grades](llm-code-generation-negative-correlation-grades.md) — related
 - [LLM use for debugging is significantly negatively correlated with student final grades](llm-debugging-negative-correlation-grades.md) — related
-- [Students in an OOP course report using GenAI significantly more often for explanation seeking and debugging than for code generation](oop-genai-explanations-debugging-exceed-code-generation.md)
 - [By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students](debugging-and-concept-llm-use-nearly-universal-by-term-end.md)
-- [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md)

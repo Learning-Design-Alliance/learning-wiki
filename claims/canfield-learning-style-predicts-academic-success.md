@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i1` Over 20 percent of variance in multiple-choice examination scores was explained by four learning style variables, while cognitive style showed no correlation with academic success. [→ Tamaoka 1985](#tamaoka-1985)
@@ -43,4 +44,4 @@ The review reports Blagg's comparison of the Hidden Figures Test, the Canfield L
 
 
 ## Related Claims
-- [Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors](srl-strategies-account-up-to-51-percent-variance-academic-performance.md) — related
+- Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors — related

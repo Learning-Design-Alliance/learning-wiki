@@ -18,7 +18,7 @@ sources:
 # Reading Partners
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q4` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Reading Partners is a community-volunteer one-to-one tutoring programme run by Reading Partners, with staff and AmeriCorps members recruiting, training, and supporting tutors in school-based reading centers.
@@ -28,7 +28,6 @@ Reading Partners is a community-volunteer one-to-one tutoring programme run by R
 - **Reading Partners one-to-one volunteer tutoring program**: Reading Partners is "a one-to-one tutoring program delivered by community volunteers who are recruited, trained, and supported by Reading Partners staff and AmeriCorps members at a reading center within a school." It serves grade 2-4 students reading one to twenty-five months below grade level who are fluent in English and have no IEPs. Students attend 45-minute individualized sessions twice weekly, managed by a full-time site coordinator provided to partner schools. (Reading Partners: Program Description et al. (2013))
 
 ### Claims
-- [Reading Partners targets a defined struggling-reader population: grades 2-4, one to twenty-five months below grade level, fluent in English, without IEPs](../claims/reading-partners-eligibility-scope-claim.md) [+W]
 - [Reading Partners tutoring significantly improves reading comprehension for grade 2-4 struggling readers, with a total effect size of +0.10](../claims/reading-partners-tutoring-comprehension-effect.md) [+M]
 
 ## Related Products and Programmes
@@ -65,7 +64,6 @@ Reading Partners is "a one-to-one tutoring program delivered by community volunt
 
 ## Claims
 
-- [Reading Partners targets a defined struggling-reader population: grades 2-4, one to twenty-five months below grade level, fluent in English, without IEPs](../claims/reading-partners-eligibility-scope-claim.md) [+W]
 - [Reading Partners tutoring significantly improves reading comprehension for grade 2-4 struggling readers, with a total effect size of +0.10](../claims/reading-partners-tutoring-comprehension-effect.md) [+M]
 
 ## Related Elements

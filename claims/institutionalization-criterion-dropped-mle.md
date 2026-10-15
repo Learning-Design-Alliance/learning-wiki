@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: felini-2014
-    resource: "https://www.jmle.org"
-    title: "Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org"
+    resource: "https://doi.org/10.23860/jmle-6-1-3"
+    title: "Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org [doi:10.23860/jmle-6-1-3](https://doi.org/10.23860/jmle-6-1-3)"
     author: Felini, D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Felini 2014
 
-Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org
+Felini, D. (2014). Quality Media Literacy Education: A Tool for Teachers and Teacher Educators of Italian Elementary Schools. Journal of Media Literacy Education, 6(1), 28-43. https://www.jmle.org [doi:10.23860/jmle-6-1-3](https://doi.org/10.23860/jmle-6-1-3)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 

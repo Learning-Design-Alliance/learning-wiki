@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: carpanelli-2026
-    resource: "https://arxiv.org/abs/2608.02102"
-    title: "Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://arxiv.org/abs/2608.02102"
+    resource: "https://doi.org/10.48550/arxiv.2608.02102"
+    title: "Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://arxiv.org/abs/2608.02102 [doi:10.48550/arxiv.2608.02102](https://doi.org/10.48550/arxiv.2608.02102)"
     author: "Carpanelli, M., Duszynski, J. & Stephany, F."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Carpanelli 2026
 
-Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://arxiv.org/abs/2608.02102
+Carpanelli, M., Duszynski, J. & Stephany, F. (2026). Navigating the skill diversity frontier: How skill complexity explains worker resilience. Working paper, Oxford Internet Institute. https://arxiv.org/abs/2608.02102 [doi:10.48550/arxiv.2608.02102](https://doi.org/10.48550/arxiv.2608.02102)
 
 `q2 · i?` · `associational · r2`
 

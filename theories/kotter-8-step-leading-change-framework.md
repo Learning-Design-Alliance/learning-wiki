@@ -16,7 +16,7 @@ sources:
 # Kotter's 8-Step Process for Leading Change as a framework for school technology implementation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Kotter's 8-Step Process for Leading Change is a change management roadmap for leaders, organized into three phases: creating a climate for change, making the change happen, and sustaining the change. The article used it as both a professional learning content and an analytic lens, grouping steps such as building a guiding coalition, enlisting a volunteer army, removing barriers, and generating short-term wins. The report states it "provides a change management roadmap for leaders, from creating the climate for change to sustaining the change as part of organizational culture."
@@ -39,7 +39,6 @@ Kotter's 8-Step Process for Leading Change is a change management roadmap for le
 
 ### Claims
 
-- [Coaches Kotter Implementation Plans Coursemojo](../claims/coaches-kotter-implementation-plans-coursemojo.md) [+M]
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [~W]
 
 ## Related Theories

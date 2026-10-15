@@ -16,7 +16,7 @@ sources:
 # Support-and-scaffolding framework of five design principles for adult learner technology
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief organizes its recommendations as a framework of five key design principles drawn from instructional strategy research: focused lessons, visual learning, easily accessible resources, learner-instructor communication, and peer-to-peer interaction. It argues that adult learners achieve the most with digital tools when given additional support and scaffolding, defined as a method of helping students move progressively toward stronger understanding. Each principle enriches the experience separately, but the brief encourages designers to incorporate all five to provide the richest support for vulnerable learners.
@@ -39,8 +39,6 @@ The brief organizes its recommendations as a framework of five key design princi
 - acquiring skills needed for advancement
 
 ### Claims
-- [Cell Ed Micro Modules Gains Equivalent Schooling](../claims/cell-ed-micro-modules-gains-equivalent-schooling.md) [+M]
-- [Cell Ed Learners Higher Self Esteem](../claims/cell-ed-learners-higher-self-esteem.md) [+M]
 
 ## Related Theories
 - 

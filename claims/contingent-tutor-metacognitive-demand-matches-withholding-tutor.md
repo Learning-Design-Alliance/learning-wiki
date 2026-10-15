@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hou-2026
-    resource: "https://arxiv.org/abs/2609.22993"
-    title: "Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993"
+    resource: "https://doi.org/10.48550/arxiv.2609.22993"
+    title: "Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993 [doi:10.48550/arxiv.2609.22993](https://doi.org/10.48550/arxiv.2609.22993)"
     author: "Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Under contingent support, learners reported more effort on the task and on the approach than under the answer-on-request tutor, and did not differ from the question-only tutor on approach effort. [→ Hou 2026](#hou-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Hou 2026
 
-Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993
+Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., & Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993 [doi:10.48550/arxiv.2609.22993](https://doi.org/10.48550/arxiv.2609.22993)
 
 `q3 · i?` · `causal · r2`
 

@@ -46,7 +46,7 @@ Randomized controlled trial, progressing-in-school outcome conditional on remain
 - [ALAS effects on progressing in school and completing school fade or are non-significant after the intervention](alas-progressing-completing-null-follow-up.md) — related
 - [ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention](alas-staying-in-school-positive-end-of-intervention.md) — related
 - [The WWC rates ALAS as having potentially positive effects on staying in school and progressing in school](alas-wwc-potentially-positive-rating.md) — a broader claim this one bears on
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
+- BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related
 - [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — related

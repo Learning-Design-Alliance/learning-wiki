@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: roschelle-2017
-    resource: "https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad"
-    title: "Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.). (2017). Cyberlearning Community Report: The State of Cyberlearning and the Future of Learning With Technology. Menlo Park CA: SRI International. https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad"
+    resource: "https://doi.org/10.1007/978-3-319-66610-5_69"
+    title: "Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.). (2017). Cyberlearning Community Report: The State of Cyberlearning and the Future of Learning With Technology. Menlo Park CA: SRI International. https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad [doi:10.1007/978-3-319-66610-5_69](https://doi.org/10.1007/978-3-319-66610-5_69)"
     author: "Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.)"
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Roschelle 2017
 
-Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.). (2017). Cyberlearning Community Report: The State of Cyberlearning and the Future of Learning With Technology. Menlo Park CA: SRI International. https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad
+Roschelle, J., Martin, W., Ahn, J. & Schank, P. (Eds.). (2017). Cyberlearning Community Report: The State of Cyberlearning and the Future of Learning With Technology. Menlo Park CA: SRI International. https://digitalpromise.dspacedirect.org/items/dafbe585-c0f8-4693-bde8-a6d847a58aad [doi:10.1007/978-3-319-66610-5_69](https://doi.org/10.1007/978-3-319-66610-5_69)
 
 `q2 · i?` · `design · r1`
 

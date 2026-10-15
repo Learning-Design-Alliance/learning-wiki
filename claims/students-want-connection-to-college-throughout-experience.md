@@ -43,7 +43,7 @@ Qualitative analysis of 15 two-hour focus groups with 161 current, completing, a
 
 
 ## Related Claims
-- [Students express a desire to be challenged by their coursework, contrary to beliefs that students want school to be easy](students-want-challenging-coursework.md) — related
+- Students express a desire to be challenged by their coursework, contrary to beliefs that students want school to be easy — related
 - [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
 - [Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory](students-wary-of-mandatory-services.md) — related
 - [Former students who dropped out want colleges to proactively invite them to return and explain how to return](noncompleters-want-proactive-return-outreach.md) — a narrower finding that bears on this claim

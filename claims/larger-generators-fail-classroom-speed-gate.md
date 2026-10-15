@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sidney-shapiro-and-joshua-lindemann-2026
-    resource: "https://arxiv.org/abs/2610.02510"
-    title: "Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510"
+    resource: "https://doi.org/10.48550/arxiv.2610.02510"
+    title: "Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510 [doi:10.48550/arxiv.2610.02510](https://doi.org/10.48550/arxiv.2610.02510)"
     author: Sidney Shapiro and Joshua Lindemann
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sidney Shapiro and Joshua Lindemann 2026
 
-Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510
+Sidney Shapiro and Joshua Lindemann. (2026). On-Premises Multi-Course RAG Tutoring for Business Education: Hardware–Software Trade-offs in a Campus AI Tutor. arXiv. https://arxiv.org/abs/2610.02510 [doi:10.48550/arxiv.2610.02510](https://doi.org/10.48550/arxiv.2610.02510)
 
 `q2 · i?` · `design · r3`
 

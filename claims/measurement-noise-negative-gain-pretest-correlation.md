@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lei-bao-2006
-    resource: "https://arxiv.org/abs/0710.1375"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
+    resource: "https://doi.org/10.48550/arxiv.0710.1375"
+    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)"
     author: Lei Bao
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Lei Bao 2006
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
+Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)
 
 `q2 · i2 · medium effect, r = -0.2` · `theoretical · r3`
 
@@ -49,5 +49,5 @@ Analytical first-order approximation (Section III) combining random pre- and pos
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
 - [Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score](normalized-gain-pretest-uncorrelated-alpha-process.md) — related
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
-- [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — related
+- Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [Average homework H-scores correlate negatively with proctored exam performance, with the correlation strengthening from Spring 2024 to Spring 2026](h-score-negative-exam-correlation-strengthening.md) — related

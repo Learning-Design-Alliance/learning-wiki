@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jiayi-wang-2025
-    resource: "https://arxiv.org/abs/2508.16659"
-    title: "Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659"
+    resource: "https://doi.org/10.48550/arxiv.2508.16659"
+    title: "Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659 [doi:10.48550/arxiv.2508.16659](https://doi.org/10.48550/arxiv.2508.16659)"
     author: Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jiayi Wang 2025
 
-Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659
+Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659 [doi:10.48550/arxiv.2508.16659](https://doi.org/10.48550/arxiv.2508.16659)
 
 `q3 · i?` · `causal · r1`
 

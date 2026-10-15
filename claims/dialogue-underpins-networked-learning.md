@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: dennis-2020
-    resource: "https://www.irrodl.org/"
-    title: "Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/"
+    resource: "https://doi.org/10.19173/irrodl.v21i3.4718"
+    title: "Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/ [doi:10.19173/irrodl.v21i3.4718](https://doi.org/10.19173/irrodl.v21i3.4718)"
     author: Dennis, J.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dennis 2020
 
-Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/
+Dennis, J. (2020). Languaging Network Learning: The Emergence of Connectivism in Architectonic Thought. International Review of Research in Open and Distributed Learning, 21(3). https://www.irrodl.org/ [doi:10.19173/irrodl.v21i3.4718](https://doi.org/10.19173/irrodl.v21i3.4718)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -43,7 +43,7 @@ The article reports, citing Ravenscroft (2011), that "thinking in networks will 
 
 
 ## Related Claims
-- [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — related
+- Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks — related
 - [Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning](connectivism-iteration-of-architectonics.md) — related
 - [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related
 - [The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research](topical-pair-minimum-unit-analysis-scmd.md) — related

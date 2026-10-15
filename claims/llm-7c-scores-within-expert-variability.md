@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dawei-xie-2026
-    resource: "https://arxiv.org/abs/2605.17259"
-    title: "Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259"
+    resource: "https://doi.org/10.48550/arxiv.2605.17259"
+    title: "Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259 [doi:10.48550/arxiv.2605.17259](https://doi.org/10.48550/arxiv.2605.17259)"
     author: Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Adding the LLM as an additional rater did not reduce overall inter-rater agreement (alpha .637 vs .639), and LLM scores deviated less from the human mean than human scores deviated from each other (MAD 8.79 vs 10.25). [→ Dawei Xie 2026](#dawei-xie-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Dawei Xie 2026
 
-Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259
+Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259 [doi:10.48550/arxiv.2605.17259](https://doi.org/10.48550/arxiv.2605.17259)
 
 `q2 · i?` · `design · r2`
 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The article concludes that Washington's insistence on the correctness of his Tuskegee method and unconditional acceptance of it effectively stifled the emergence of new ideas, and that his self-help industrial education restricted Black people's potential for broad success. [→ Ronald E. Chennault 2013](#ronald-e-chennault-2013)
@@ -44,8 +45,7 @@ Authors' interpretive conclusion: the article states Washington's "insistence on
 
 ## Related Claims
 
-- [Washington's Tuskegee practice anticipated the project method, building an institution around it decades before Kilpatrick](washington-anticipated-project-method.md) — related
-- [Washington's correlating of industrial with academic instruction reflects an adaptation of Pestalozzi and Fröebel, situating him in progressive education](washington-pestalozzi-froebel-correlation.md) — related
-- [Generals's case that Washington's Tuskegee practices were as reform-oriented as those identified with the progressive education movement](washington-reform-oriented-progressivist.md) — reports the opposite
-- [Washington's educational philosophy fits within the American pragmatist tradition, sharing a table with Dewey](washington-educational-pragmatist.md) — related
-- [Washington and Dewey differed on honoring student desires, with Washington arguing for their suppression](washington-suppression-of-student-desires.md)
+- Washington's Tuskegee practice anticipated the project method, building an institution around it decades before Kilpatrick — related
+- Washington's correlating of industrial with academic instruction reflects an adaptation of Pestalozzi and Fröebel, situating him in progressive education — related
+- Generals's case that Washington's Tuskegee practices were as reform-oriented as those identified with the progressive education movement — reports the opposite
+- Washington's educational philosophy fits within the American pragmatist tradition, sharing a table with Dewey — related

@@ -13,7 +13,7 @@ generated:
 # Portfolio
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 6 studies (2 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 2 of 6 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 5 studies (2 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 2 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 A portfolio is a purposeful collection of learner work — artifacts, drafts, and reflections — assembled over time to document progress, demonstrate competence, and support self-evaluation. Unlike point-in-time [assessment](assessment.md), it captures process as well as product, and the learner typically participates in selecting and annotating what is included.
@@ -54,7 +54,6 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [The portfolio adds context to holistic review that readers say helps level the playing field for applicants from under-resourced high schools](../claims/portfolio-adds-equity-context-holistic-review.md) [~W] — attached 2026-10-10 from Willis et al. (2022), which proposed "Ross Admissions Portfolio (Business Case Discussion + Artifact)".
 - [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](../claims/innovative-assessments-capture-pog-competencies.md) [+W]
-- [Student portfolios are reported to be a useful method for noticing student growth on Portrait of a Graduate competencies](../claims/portfolios-notice-portrait-of-graduate-growth.md) [+W]
 - [Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation](../claims/specialisation-demographic-stratification-linkedin.md) [~W]
 
 ## Related Elements

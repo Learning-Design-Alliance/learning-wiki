@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: angela-johnson-2019
-    resource: "https://www.sciencedirect.com/journal/international-journal-of-educational-research"
-    title: "Angela Johnson, Catherine Galloway, Elliot Friedlander, Claude Goldenberg. (2019). Advancing educational quality in Rwanda: Improving teachers' literacy pedagogy and print environments. International Journal of Educational Research 98, 134-145. https://www.sciencedirect.com/journal/international-journal-of-educational-research"
+    resource: "https://doi.org/10.1016/j.ijer.2019.08.016"
+    title: "Angela Johnson, Catherine Galloway, Elliot Friedlander, Claude Goldenberg. (2019). Advancing educational quality in Rwanda: Improving teachers' literacy pedagogy and print environments. International Journal of Educational Research 98, 134-145. https://www.sciencedirect.com/journal/international-journal-of-educational-research [doi:10.1016/j.ijer.2019.08.016](https://doi.org/10.1016/j.ijer.2019.08.016)"
     author: Angela Johnson, Catherine Galloway, Elliot Friedlander, Claude Goldenberg
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Angela Johnson 2019
 
-Angela Johnson, Catherine Galloway, Elliot Friedlander, Claude Goldenberg. (2019). Advancing educational quality in Rwanda: Improving teachers' literacy pedagogy and print environments. International Journal of Educational Research 98, 134-145. https://www.sciencedirect.com/journal/international-journal-of-educational-research
+Angela Johnson, Catherine Galloway, Elliot Friedlander, Claude Goldenberg. (2019). Advancing educational quality in Rwanda: Improving teachers' literacy pedagogy and print environments. International Journal of Educational Research 98, 134-145. https://www.sciencedirect.com/journal/international-journal-of-educational-research [doi:10.1016/j.ijer.2019.08.016](https://doi.org/10.1016/j.ijer.2019.08.016)
 
 `q3 · i?` · `causal · r?`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lawrence-obiuwevwi-2026
-    resource: "https://arxiv.org/abs/2607.01214"
-    title: "Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, & Sampath Jayarathna. (2026). Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education. arXiv. https://arxiv.org/abs/2607.01214"
+    resource: "https://doi.org/10.48550/arxiv.2607.01214"
+    title: "Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, & Sampath Jayarathna. (2026). Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education. arXiv. https://arxiv.org/abs/2607.01214 [doi:10.48550/arxiv.2607.01214](https://doi.org/10.48550/arxiv.2607.01214)"
     author: "Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, & Sampath Jayarathna"
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lawrence Obiuwevwi 2026
 
-Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, & Sampath Jayarathna. (2026). Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education. arXiv. https://arxiv.org/abs/2607.01214
+Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, & Sampath Jayarathna. (2026). Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education. arXiv. https://arxiv.org/abs/2607.01214 [doi:10.48550/arxiv.2607.01214](https://doi.org/10.48550/arxiv.2607.01214)
 
 `q1 · i?` · `design · r2`
 
@@ -44,6 +44,6 @@ Informal assessment of the optional Layer 3 extraction over textbook chart image
 
 ## Related Claims
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related
-- [In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve](visual-misread-dominant-non-reasoning-failure.md) — related
+- In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve — related
 - [VLMs achieve higher accuracy on non-erroneous than erroneous student math responses even when controlling for the math problem](vlms-underperform-on-erroneous-student-math-responses.md) — related
 - [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related

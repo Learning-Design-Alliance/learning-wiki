@@ -46,4 +46,4 @@ Meta-analysis of single-case research on aided AAC with individuals with ASD, sy
 - [AAC interventions showed positive effects on all targeted behavioral outcomes, with greater effects for communication skills than other skill categories](aac-positive-all-outcomes-communication-skills-greater.md) — related
 - [The research base on aided AAC approaches for individuals with autism consists mostly of single-case research with small numbers of participants](aided-aac-evidence-base-single-case-small-n.md) — related
 - [PECS and speech-generating devices produced larger effects than other picture-based AAC systems, which nonetheless showed small effects](pecs-sgd-larger-than-other-picture-based-systems.md) — a narrower finding that bears on this claim
-- [Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses](heterogeneity-limits-aac-reviews.md) — related
+- Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses — related

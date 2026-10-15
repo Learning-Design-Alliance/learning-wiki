@@ -45,7 +45,7 @@ Cross-case qualitative analysis of three high-performing CHSRI schools based on 
 ## Related Claims
 - [In CHSRI small high schools, strong freshman course performance is associated with the combination of developmental practices, deep principal leadership, and teacher influence](chsri-combination-three-conditions-strong-course-performance.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — a broader claim this one bears on
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related
 - [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — related
 - [Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role](aligned-resources-and-distributive-leadership-distinguish-improving-schools.md) — related

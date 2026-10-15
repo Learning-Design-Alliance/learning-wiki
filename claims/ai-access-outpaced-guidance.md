@@ -74,7 +74,7 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms](existing-ai-guidance-focuses-policy-integrity.md) — related
 - [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — reports the opposite
 - [GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity](genai-undermines-integrity-systemically.md) — related
-- [Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster](limited-regulatory-awareness-transitional-cluster.md) — related
+- Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster — related
 - [Academic misconduct emerges primarily from systemic pressures rather than individual moral failure, and academic integrity is a collective epistemic practice institutions must sustain](misconduct-from-systemic-pressures-integrity-collective.md) — related
 - [A 2024 global survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate](survey-86-percent-students-use-ai-80-percent-policies-unclear.md) — related
 - [Faculty adoption of GenAI is widespread but instructional confidence remains low, so adoption prevalence should not be misread as instructional readiness](ai-adoption-exceeds-faculty-instructional-confidence.md) — related

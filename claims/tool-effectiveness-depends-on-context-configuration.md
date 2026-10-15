@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 6 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Salomon's principle, cited by the paper, holds that no tool is good or bad in itself; effectiveness results from the whole configuration of events, activities, contexts, and interpersonal processes in which it is used, and introducing a tool alone changes little. [→ Gilbert 1999](#gilbert-1999)
@@ -66,7 +67,7 @@ The paper cites prior Logo research (Jonassen & Reeves, 1996; Pea, Kurland, & Ha
 
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [Salomon distinguishes effects with the computer (system performance) from effects of the computer (cognitive residue on the solo performer)](effects-with-versus-effects-of-computer.md) — related
-- [Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations](salomon-perkins-learning-with-versus-of-tools.md) — related
+- Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations — related
 - [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — related
-- [Computer-led exploration set the decision boundary for what counted as an interaction, shaping which events became detectable and how interpretation proceeded](computer-led-exploration-shaped-detectable-events.md) — a narrower finding that bears on this claim
+- Computer-led exploration set the decision boundary for what counted as an interaction, shaping which events became detectable and how interpretation proceeded — a narrower finding that bears on this claim
 - [Predictive performance of sensor configurations does not change monotonically with the number of sensing streams; preferred configuration depends on target metric and sensing cost](sensor-stream-performance-non-monotonic.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: george-efthimiou-2026
-    resource: "https://www.mdpi.com/journal/educationsciences"
-    title: "George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences"
+    resource: "https://doi.org/10.35542/osf.io/m5erf_v1"
+    title: "George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences [doi:10.35542/osf.io/m5erf_v1](https://doi.org/10.35542/osf.io/m5erf_v1)"
     author: George Efthimiou, Katerina Plakitsi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### George Efthimiou 2026
 
-George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences
+George Efthimiou, Katerina Plakitsi. (2026). Preservice Early Childhood Educators' Engagement with Generative AI in Science Activity Design: The Case of Magnetism. https://www.mdpi.com/journal/educationsciences [doi:10.35542/osf.io/m5erf_v1](https://doi.org/10.35542/osf.io/m5erf_v1)
 
 `q2 · i?` · `associational · r1`
 

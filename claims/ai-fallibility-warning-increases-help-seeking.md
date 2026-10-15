@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tomohiro-nagashima-2026
-    resource: "https://arxiv.org/abs/2606.03822"
-    title: "Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822"
+    resource: "https://doi.org/10.48550/arxiv.2606.03822"
+    title: "Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822 [doi:10.48550/arxiv.2606.03822](https://doi.org/10.48550/arxiv.2606.03822)"
     author: Tomohiro Nagashima, Mirella Hladký, and Vera Rief
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tomohiro Nagashima 2026
 
-Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822
+Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822 [doi:10.48550/arxiv.2606.03822](https://doi.org/10.48550/arxiv.2606.03822)
 
 `q3 · i?` · `causal · r2`
 
@@ -43,10 +43,10 @@ Classroom experiment at a secondary school in Tokyo with 252 seventh-grade stude
 
 
 ## Related Claims
-- [Hint takers spend less time on a question than learners who attempt it, regardless of attempt outcome](hint-takers-spend-less-time-than-attempters.md) — related
+- Hint takers spend less time on a question than learners who attempt it, regardless of attempt outcome — related
 - [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related
 - [The AI-fallibility warning did not significantly change error rate or time spent per problem-solving step](ai-fallibility-warning-no-performance-effect.md) — related
-- [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](adaptive-hint-seeking-behavior-differences.md) — related
+- Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students — related
 - [In Study 2, both general and specific warnings at least marginally reduce attitude change, with no significant difference between them](study2-general-specific-warnings-reduce-change.md) — related
 - [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% sometimes avoiding asking for help even when needed and 75% reporting anxiety when not understanding a topic](students-avoid-help-seeking-despite-need.md) — related
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related

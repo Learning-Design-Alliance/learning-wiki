@@ -48,7 +48,7 @@ The overview summarizes the longitudinal multi-method study of hundreds of schoo
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](supports-matter-in-combined-clusters.md) — related
 - [In CHSRI small high schools, strong freshman course performance is associated with the combination of developmental practices, deep principal leadership, and teacher influence](chsri-combination-three-conditions-strong-course-performance.md) — related
 - [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — related
-- [School learning climate is the only process through which high school leadership accounts for differences across schools in instructional quality and achievement](learning-climate-only-cross-school-pathway.md) — related
+- School learning climate is the only process through which high school leadership accounts for differences across schools in instructional quality and achievement — related
 - [CHSRI small schools lack a shared vision of high-quality instruction, and the link between school themes and curriculum remains weak in year two](chsri-no-shared-vision-quality-instruction.md) — related
 - [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related
 - [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — related

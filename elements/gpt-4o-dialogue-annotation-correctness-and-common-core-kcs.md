@@ -18,7 +18,7 @@ sources:
 # GPT-4o Automated Dialogue Annotation with Recursive Common Core Tagging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 3 studies (3 design), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article annotates each student turn with correctness and KC labels using GPT-4o via simple, zero-shot chain-of-thought prompting, instructing it to summarize turns before labeling. "For KC annotation, we adapt the recursive tagging algorithm from [34], which tags math word problems with Common Core math standards": the model selects domains, then clusters, then turn-level standards from the Achieve the Core coherence map. The two tasks are run separately because "doing so leads to improved accuracy compared to combining them".
@@ -48,7 +48,6 @@ The article annotates each student turn with correctness and KC labels using GPT
 - [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.](../claims/expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) [+M]
 - [GPT-4o's correctness-labeling errors concentrate on final turns requiring numerical calculation, and its main KC-labeling error is assigning too few standards to a turn.](../claims/gpt-4o-annotation-errors-concentrate-on-final-turns-and-too-few-kcs.md) [+W]
 - [Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models](../claims/prompting-strategies-limited-alignment-gain.md) [+W]
-- [A pilot human annotation surfaces a framing discrepancy: a NEET aspirant labeled all 10 sampled questions as Recall, including the five the LLM tagged as Elimination/Negation](../claims/learnopt-pilot-recall-framing.md) [-W]
 
 ## Related Elements
 - [Annotating](../principles/annotating.md)

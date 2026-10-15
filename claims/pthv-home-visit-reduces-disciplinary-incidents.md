@@ -63,4 +63,4 @@ Matched comparison group study of structured relationship-building teacher home 
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — the general claim this finding bears on, with the studies behind it
 
 - [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](pthv-home-visits-improve-attendance-slightly.md) — related
-- [Prior home visiting research indicates child-development-focused content is associated with child outcomes and sustained family participation](child-development-focus-linked-to-outcomes-and-participation.md) — related
+- Prior home visiting research indicates child-development-focused content is associated with child outcomes and sustained family participation — related

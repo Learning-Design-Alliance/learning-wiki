@@ -47,5 +47,5 @@ Theoretical/historical statement in the article's opening extract: because psych
 
 ## Related Claims
 - [Anxiety is a multifaceted construct with several differentiated types](anxiety-multifaceted-types-taxonomy.md) — related
-- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
+- The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — related
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related

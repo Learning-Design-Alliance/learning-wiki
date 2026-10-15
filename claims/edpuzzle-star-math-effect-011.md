@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: edpuzzle-evidence-summary-2025
-    resource: "https://www.edpuzzle.com"
-    title: "Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com"
+    resource: "https://doi.org/10.2139/ssrn.5265891"
+    title: "Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com [doi:10.2139/ssrn.5265891](https://doi.org/10.2139/ssrn.5265891)"
     author: Edpuzzle evidence summary
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Edpuzzle evidence summary 2025
 
-Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com
+Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com [doi:10.2139/ssrn.5265891](https://doi.org/10.2139/ssrn.5265891)
 
 `q3 · i?` · `causal · r?`
 
@@ -44,5 +44,5 @@ In the same randomized grades 3–5 study (analytic sample 1,843 students across
 
 ## Related Claims
 - [Edpuzzle Original math videos raise grades 3–5 mathematics achievement on the CAASPP (effect size +0.09)](edpuzzle-caaspp-math-effect-009.md) — related
-- [Early elementary students using Imagine Math Facts demonstrated significantly more growth on Ren Star math assessments (effect size +0.11)](imagine-math-facts-early-elementary-significant-growth.md) — related
-- [IXL Math raises Grade 3-5 mathematics achievement on the Renaissance Star Math after one semester (effect size +0.13)](ixl-math-star-math-gains-grade-3-5.md) — related
+- Early elementary students using Imagine Math Facts demonstrated significantly more growth on Ren Star math assessments (effect size +0.11) — related
+- IXL Math raises Grade 3-5 mathematics achievement on the Renaissance Star Math after one semester (effect size +0.13) — related

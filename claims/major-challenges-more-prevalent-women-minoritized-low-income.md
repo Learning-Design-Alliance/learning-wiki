@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: means-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471"
-    title: "Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471"
+    resource: "https://doi.org/10.51388/20.500.12265/102"
+    title: "Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471 [doi:10.51388/20.500.12265/102](https://doi.org/10.51388/20.500.12265/102)"
     author: "Means, B., & Neisler, J."
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 17% of women versus 7% of men reported four or more major problems continuing their STEM course online. [→ Means 2020](#means-2020)
@@ -49,7 +49,7 @@ sources:
 
 ### Means 2020
 
-Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471
+Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471 [doi:10.51388/20.500.12265/102](https://doi.org/10.51388/20.500.12265/102)
 
 `q2 · i?` · `associational · r2`
 
@@ -85,4 +85,4 @@ Same challenge-scale analysis by household income (Table 2); the report also fou
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Despite more challenges, minoritized, female, and lower-income students were more likely to rate their online STEM experience as good as or better than in person](minoritized-female-low-income-rated-online-experience-equal-or-better.md) — related
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
-- [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](students-of-color-receive-belonging-signals.md) — related
+- Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yilin-jiang-2026
-    resource: "https://arxiv.org/abs/2608.09548"
-    title: "Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548"
+    resource: "https://doi.org/10.48550/arxiv.2608.09548"
+    title: "Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548 [doi:10.48550/arxiv.2608.09548](https://doi.org/10.48550/arxiv.2608.09548)"
     author: Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # On structured pedagogical-judgment items, all evaluated models share a systematic style-over-fit deviation, converging on the same non-reference option
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Models substitute pedagogical style for pedagogical fit, favoring gentler, more Socratic, more elaborate options over the goal-optimal reference. [→ Yilin Jiang 2026](#yilin-jiang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yilin Jiang 2026
 
-Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548
+Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548 [doi:10.48550/arxiv.2608.09548](https://doi.org/10.48550/arxiv.2608.09548)
 
 `q2 · i?` · `design · r3`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dan-goldhaber-2023
-    resource: "https://www.sciencedirect.com/journal/social-science-research/vol/116"
-    title: "Dan Goldhaber, Matt Kasman, Vanessa Quince, Roddy Theobald, Malcolm Wolff. (2023). How Did it Get this Way? Disentangling the Sources of Teacher Quality Gaps through Agent-Based Modeling. Social Science Research, vol. 116. https://www.sciencedirect.com/journal/social-science-research/vol/116"
+    resource: "https://doi.org/10.1016/j.ssresearch.2023.102941"
+    title: "Dan Goldhaber, Matt Kasman, Vanessa Quince, Roddy Theobald, Malcolm Wolff. (2023). How Did it Get this Way? Disentangling the Sources of Teacher Quality Gaps through Agent-Based Modeling. Social Science Research, vol. 116. https://www.sciencedirect.com/journal/social-science-research/vol/116 [doi:10.1016/j.ssresearch.2023.102941](https://doi.org/10.1016/j.ssresearch.2023.102941)"
     author: Dan Goldhaber, Matt Kasman, Vanessa Quince, Roddy Theobald, Malcolm Wolff
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dan Goldhaber 2023
 
-Dan Goldhaber, Matt Kasman, Vanessa Quince, Roddy Theobald, Malcolm Wolff. (2023). How Did it Get this Way? Disentangling the Sources of Teacher Quality Gaps through Agent-Based Modeling. Social Science Research, vol. 116. https://www.sciencedirect.com/journal/social-science-research/vol/116
+Dan Goldhaber, Matt Kasman, Vanessa Quince, Roddy Theobald, Malcolm Wolff. (2023). How Did it Get this Way? Disentangling the Sources of Teacher Quality Gaps through Agent-Based Modeling. Social Science Research, vol. 116. https://www.sciencedirect.com/journal/social-science-research/vol/116 [doi:10.1016/j.ssresearch.2023.102941](https://doi.org/10.1016/j.ssresearch.2023.102941)
 
 `q2 · i?` · `theoretical · r?`
 
@@ -47,4 +47,4 @@ A simulation applying the agent-based model to Washington State data estimates t
 - [Eliminating hiring inequities alone would close teacher quality gaps within 10 years](hiring-equity-closes-tqgs-10-years.md) — related
 - [Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students](three-processes-contribute-teacher-quality-gaps.md) — a broader claim this one bears on
 - [Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access](hiring-transfers-not-attrition-drive-inequity.md) — related
-- [Assuring that poor and minority children had teachers of the same quality as other children would close about half the achievement gap](equalizing-teacher-quality-closes-half-the-gap.md) — related
+- Assuring that poor and minority children had teachers of the same quality as other children would close about half the achievement gap — related

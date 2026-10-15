@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: eamon-worden-2026
-    resource: "https://arxiv.org/abs/2602.00070"
-    title: "Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070"
+    resource: "https://doi.org/10.48550/arxiv.2602.00070"
+    title: "Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070 [doi:10.48550/arxiv.2602.00070](https://doi.org/10.48550/arxiv.2602.00070)"
     author: Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Cognitive modeling of exact student responses is hardest for multi-select problems and rare-error answers, with select-all accuracy of only 12-15% and cognitive accuracy dropping to as low as 3.7% when answers are incorrect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All models achieve only 12-15% accuracy on select-all problems (baseline approximately 2.9%), and cognitive accuracy for incorrect answers drops as low as 3.7% (Llama-3.3-70B). [→ Eamon Worden 2026](#eamon-worden-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Eamon Worden 2026
 
-Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070
+Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070 [doi:10.48550/arxiv.2602.00070](https://doi.org/10.48550/arxiv.2602.00070)
 
 `q2 · i?` · `design · r2`
 

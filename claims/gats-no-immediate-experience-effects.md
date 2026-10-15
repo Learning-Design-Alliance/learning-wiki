@@ -50,7 +50,7 @@ Likert self-report instruments (Paas mental effort, NASA-TLX, IMI items) analyze
 - [In the Java-based CS1 course at TU Delft, GATs significantly improved immediate post-intervention performance pooled across topics, driven mainly by the While-loop intervention](gats-improve-immediate-performance-tu-delft.md) — related
 - [In the Python-based CS1 course at UofT, GATs produced no significant overall or topic-specific immediate performance effects](gats-no-immediate-performance-effect-uoft.md) — related
 - [Across both institutions, GATs showed no significant effect on long-term summative exam performance](gats-no-long-term-exam-effect.md) — related
-- [Changes in situational interest were not statistically significant for either Mathbot or BAU students during the five-day fraction intervention](mathbot-situational-interest-not-significant.md) — related
+- Changes in situational interest were not statistically significant for either Mathbot or BAU students during the five-day fraction intervention — related
 - [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](personalized-paths-lower-cognitive-load.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Self-reported cognitive load showed no significant differences across either volume-based or content-based offloading profiles](no-cognitive-load-differences-across-offloading-profiles.md) — related

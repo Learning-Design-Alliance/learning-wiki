@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: meijuan-xie-2025
-    resource: "https://arxiv.org/abs/2503.13533"
-    title: "Meijuan Xie, Liling Luo. (2025). The Status Quo and Future of AI-TPACK for Mathematics Teacher Education Students: A Case Study in Chinese Universities. arXiv. https://arxiv.org/abs/2503.13533"
+    resource: "https://doi.org/10.48550/arxiv.2503.13533"
+    title: "Meijuan Xie, Liling Luo. (2025). The Status Quo and Future of AI-TPACK for Mathematics Teacher Education Students: A Case Study in Chinese Universities. arXiv. https://arxiv.org/abs/2503.13533 [doi:10.48550/arxiv.2503.13533](https://doi.org/10.48550/arxiv.2503.13533)"
     author: Meijuan Xie, Liling Luo
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # AI-TK contributes to AI-TPACK only indirectly through AI-TPK and AI-TCK, which positively predict AI-TPACK
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 associational `r?` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` AI-TK positively predicts AI-TPK (β = 0.62) and AI-TCK (β = 0.35), but its direct path to AI-TPACK (H3c) was deleted as insignificant. [→ Meijuan Xie 2025](#meijuan-xie-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Meijuan Xie 2025
 
-Meijuan Xie, Liling Luo. (2025). The Status Quo and Future of AI-TPACK for Mathematics Teacher Education Students: A Case Study in Chinese Universities. arXiv. https://arxiv.org/abs/2503.13533
+Meijuan Xie, Liling Luo. (2025). The Status Quo and Future of AI-TPACK for Mathematics Teacher Education Students: A Case Study in Chinese Universities. arXiv. https://arxiv.org/abs/2503.13533 [doi:10.48550/arxiv.2503.13533](https://doi.org/10.48550/arxiv.2503.13533)
 
 `q2 · i3` · `associational · r?`
 

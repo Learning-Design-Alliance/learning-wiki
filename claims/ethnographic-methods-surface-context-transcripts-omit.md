@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: liliana-santos-deonizio-2027
-    resource: "https://arxiv.org/abs/2608.23780"
-    title: "Liliana Santos-Deonizio, James Malamut, Ramón Antonio Martínez, and Dorottya Demszky. (2027). When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk. In Proceedings of TBD (CSCW '27). ACM, New York, NY, USA. https://arxiv.org/abs/2608.23780"
+    resource: "https://doi.org/10.48550/arxiv.2608.23780"
+    title: "Liliana Santos-Deonizio, James Malamut, Ramón Antonio Martínez, and Dorottya Demszky. (2027). When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk. In Proceedings of TBD (CSCW '27). ACM, New York, NY, USA. https://arxiv.org/abs/2608.23780 [doi:10.48550/arxiv.2608.23780](https://doi.org/10.48550/arxiv.2608.23780)"
     author: Liliana Santos-Deonizio, James Malamut, Ramón Antonio Martínez, and Dorottya Demszky
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Ethnographically-oriented methods surface five dimensions of classroom context that text-only transcripts omit, including multimodal communication and relationships
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Participant observations, interviews, and focus groups recovered contextual dimensions—environment, lesson structure, multimodal communication, language ideologies, and relationships—that transcripts lose. [→ Liliana Santos-Deonizio 2027](#liliana-santos-deonizio-2027)
@@ -40,7 +40,7 @@ sources:
 
 ### Liliana Santos-Deonizio 2027
 
-Liliana Santos-Deonizio, James Malamut, Ramón Antonio Martínez, and Dorottya Demszky. (2027). When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk. In Proceedings of TBD (CSCW '27). ACM, New York, NY, USA. https://arxiv.org/abs/2608.23780
+Liliana Santos-Deonizio, James Malamut, Ramón Antonio Martínez, and Dorottya Demszky. (2027). When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk. In Proceedings of TBD (CSCW '27). ACM, New York, NY, USA. https://arxiv.org/abs/2608.23780 [doi:10.48550/arxiv.2608.23780](https://doi.org/10.48550/arxiv.2608.23780)
 
 `q2 · i?` · `qualitative · r3`
 

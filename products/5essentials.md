@@ -46,7 +46,7 @@ sources:
 # 5Essentials
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 26 claims (26 for) · 11 studies (7 associational, 2 review, 1 qualitative, 1 design), `q2` · 0 of 11 report an effect size · 26 claims rest on one study
+> **Evidence** · 21 claims (21 for) · 10 studies (7 associational, 1 review, 1 qualitative, 1 design), `q2` · 0 of 10 report an effect size · 21 claims rest on one study
 
 ## Description
 A school-improvement measurement framework developed by the University of Chicago Consortium on School Research that organizes school survey profiles around five domains and their related measures.
@@ -73,11 +73,6 @@ A school-improvement measurement framework developed by the University of Chicag
 - [Principal leadership regard is nearly unanimous in top quartile schools but low for about 40 percent of teachers in bottom quartile schools](../claims/principal-leadership-regard-quartile-contrast.md) [+W]
 - [Most students, even in bottom quartile schools, report feeling mostly safe at school](../claims/student-safety-high-even-bottom-quartile-schools.md) [+W]
 - [Teacher influence over school decisions is minimal or limited for most teachers in bottom quartile schools but extensive or moderate for most in top quartile schools](../claims/teacher-influence-quartile-contrast.md) [+W]
-- [Schools with strong teacher collaboration are more effective at improving learning than schools with strong individuals but little collaboration](../claims/collaboration-beats-individual-teacher-quality.md) [+M]
-- [The association between teacher qualifications and learning gains depends on school context: no association exists at schools with poor learning climates](../claims/teacher-quality-gains-depend-on-school-climate.md) [+M]
-- [Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools](../claims/disadvantaged-schools-with-supports-improve-equally.md) [+W]
-- [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](../claims/parent-partnerships-and-climate-predict-teacher-staying.md) [+W]
-- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](../claims/work-environment-predicts-teacher-retention-chicago.md) [+W]
 - [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](../claims/organizational-gains-without-instructional-gains.md) [+W] — (also cited [~W])
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+W]
 - [Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families](../claims/family-voices-inform-all-essentials.md) [+W]
@@ -290,11 +285,6 @@ The article reports a Chicago framework in which schools effective at improving 
 
 ### Claims
 
-- [Collaboration Beats Individual Teacher Quality](../claims/collaboration-beats-individual-teacher-quality.md) [+M]
-- [Teacher Quality Gains Depend On School Climate](../claims/teacher-quality-gains-depend-on-school-climate.md) [+M]
-- [Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools](../claims/disadvantaged-schools-with-supports-improve-equally.md) [+W]
-- [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](../claims/parent-partnerships-and-climate-predict-teacher-staying.md) [+W]
-- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](../claims/work-environment-predicts-teacher-retention-chicago.md) [+W]
 - [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](../claims/organizational-gains-without-instructional-gains.md) [+W]
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+W]
 - [Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families](../claims/family-voices-inform-all-essentials.md) [+W]

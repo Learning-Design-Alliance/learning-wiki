@@ -43,7 +43,7 @@ A legal-considerations premise in the guidance, paired with SEA guiding question
 
 
 ## Related Claims
-- [Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms](three-options-setting-iep-goals-cbm.md) — related
+- Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms — related
 - [Self Directed IEP Increases Student Participation](self-directed-iep-increases-student-participation.md) — related
 - [Intensive interventions should be planned and provided based on data and guided by evidence-based practices](intensive-interventions-data-based-evidence-guided.md) — related
 - [New baseline data are needed to support instructional planning for individual students and student groups after disrupted schooling](new-baseline-data-needed-instructional-planning-disrupted-schooling.md) — related

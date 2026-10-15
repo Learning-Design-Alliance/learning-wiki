@@ -45,4 +45,4 @@ The review states that "the effectiveness of different forms of citizenship educ
 ## Related Claims
 - [The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace](gced-potential-culture-of-peace.md) — related
 - [Ikeda positions hope as an essential component of global citizenship education, with value creation starting from hope](hope-essential-component-gced.md) — related
-- [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — a narrower finding that bears on this claim
+- Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes — a narrower finding that bears on this claim

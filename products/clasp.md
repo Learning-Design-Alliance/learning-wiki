@@ -22,7 +22,7 @@ sources:
 # CLASP
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (11 for, 1 mixed) · 3 studies (3 design), `q2`–`q3` · 1 of 3 report an effect size · 12 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 2 studies (2 design), `q2`–`q3` · 1 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 A three-quarter introductory physics curriculum for bioscience majors, developed and run at UC Davis and implemented in other university settings.
@@ -39,12 +39,7 @@ A three-quarter introductory physics curriculum for bioscience majors, developed
 - [Only bioscience graduates who took CLASP (2000-2001) had significantly higher UDGPA than transfer students in their majors, unlike 1993-1994 graduates and non-bioscience majors](../claims/clasp-bio-freshmen-beat-transfers-udgpa.md) [+W]
 - [CLASP students' MCAT Physical Science scores were slightly higher than Physics 5 students', but the difference was not statistically significant; Biological Science scores were identical on average](../claims/clasp-mcat-no-significant-difference.md) [~W]
 - [CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes](../claims/clasp-mpex-epistemologies-unchanged.md) [+W]
-- [Under the life-science curriculum, MPEX attitudes showed no meaningful change in five of six clusters, avoiding the reality-link decline seen in previous semesters, while the effort cluster declined significantly](../claims/mpex-attitudes-stable-reality-link.md) [+W]
-- [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](../claims/clasp-critical-success-factors-communication.md) [+W]
-- [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](../claims/clasp-diverse-users-missing-library-links.md) [+W]
 - [CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models](../claims/clasp-limited-collaboration-models.md) [+W]
-- [CLASP successfully established library use among children, reaching thousands of new users who were highly satisfied with programs](../claims/clasp-successful-library-use-children.md) [+W]
-- [CLASP's impact centered on the number of programs offered rather than program type, with few differences between CLASP and non-CLASP library programs](../claims/clasp-impact-number-over-type.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -90,7 +85,6 @@ CLASP (Collaborative Learning through Active Sense-making in Physics) is a three
 - [Only bioscience graduates who took CLASP (2000-2001) had significantly higher UDGPA than transfer students in their majors, unlike 1993-1994 graduates and non-bioscience majors](../claims/clasp-bio-freshmen-beat-transfers-udgpa.md) [+W]
 - [CLASP students' MCAT Physical Science scores were slightly higher than Physics 5 students', but the difference was not statistically significant; Biological Science scores were identical on average](../claims/clasp-mcat-no-significant-difference.md) [~W]
 - [CLASP students' expert-like epistemologies (MPEX-II) were statistically unchanged over the quarter, unlike the declines reported for most standard and many reformed physics classes](../claims/clasp-mpex-epistemologies-unchanged.md) [+W]
-- [Under the life-science curriculum, MPEX attitudes showed no meaningful change in five of six clusters, avoiding the reality-link decline seen in previous semesters, while the effort cluster declined significantly](../claims/mpex-attitudes-stable-reality-link.md) [+W]
 
 ## Related Elements
 - 
@@ -137,11 +131,7 @@ CLASP was a three-year, $3.6 million pilot program initiated in 1991 by the DeWi
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](../claims/clasp-critical-success-factors-communication.md) [+W]
-- [CLASP succeeded in bringing ethnically diverse and underserved users into the library but programs often failed to create links to books, reading, or library services](../claims/clasp-diverse-users-missing-library-links.md) [+W]
 - [CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models](../claims/clasp-limited-collaboration-models.md) [+W]
-- [CLASP successfully established library use among children, reaching thousands of new users who were highly satisfied with programs](../claims/clasp-successful-library-use-children.md) [+W]
-- [CLASP's impact centered on the number of programs offered rather than program type, with few differences between CLASP and non-CLASP library programs](../claims/clasp-impact-number-over-type.md) [+W]
 
 ## Related Elements
 - 

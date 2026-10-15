@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i2` Experimental group students in all three schools scored 10-15% higher in reading comprehension, a difference statistically significant at the .01 level by a t-test between the means. [→ Manzo 1977](#manzo-1977)
@@ -45,6 +46,6 @@ Quasi-experimental study of science material with approximately 200 tenth grader
 
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book.](embedded-aids-are-acceptable-to-students-and-teachers.md) — related
-- [Using embedded aids required students to take about 7% longer, on average, to complete an assigned chapter, and comprehension scores reflected this additional effort.](embedded-aids-increase-reading-time-modestly.md) — a narrower finding that bears on this claim
-- [Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions.](embedded-aids-support-cross-disciplinary-transfer-of-reading-skills.md) — related
-- [Students do not appear to have great difficulty adjusting to a more 'busy' page when assistance and enrichment units are woven into textual material.](students-adjust-easily-to-busier-text-pages.md) — related
+- Using embedded aids required students to take about 7% longer, on average, to complete an assigned chapter, and comprehension scores reflected this additional effort. — a narrower finding that bears on this claim
+- Embedded aids address the content-area reading problem by helping weak readers read textual material and helping effective readers transfer training across disciplines, via a running commentary explaining key concepts, terminology, and questions. — related
+- Students do not appear to have great difficulty adjusting to a more 'busy' page when assistance and enrichment units are woven into textual material. — related

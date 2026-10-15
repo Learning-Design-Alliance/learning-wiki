@@ -13,7 +13,7 @@ generated:
 # Four-metric faculty equity grading framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A four-metric framework developed by Bitar et al. for auditing and grading institutional racial equity in faculty diversity, hiring, tenure distribution, and change over time.
@@ -24,11 +24,6 @@ A four-metric framework developed by Bitar et al. for auditing and grading insti
 
 ### Claims
 
-- [In 2020, most public four-year institutions received failing grades for Black and Latino faculty diversity relative to student diversity](../claims/black-latino-faculty-diversity-failing-grades-2020.md) [+M]
-- [Black and Latino faculty are disproportionately hired off the tenure track at public four-year institutions](../claims/black-latino-faculty-hired-off-tenure-track.md) [+M]
-- [Tenure equity for Black and Latino faculty varies widely across institutions, with many institutions having no Black or Latino faculty at all](../claims/tenure-equity-black-latino-faculty-2020.md) [+M]
-- [Little progress was made on Black and Latino faculty diversification at public colleges between 2005 and 2020, with the largest increases at institutions starting from zero](../claims/little-faculty-diversification-progress-2005-2020.md) [+M]
-- [Minority-serving institutions lead the faculty pipeline, dominating the top institutions for Black and Latino faculty growth](../claims/msis-feed-the-faculty-pipeline.md) [+W]
 
 ## Related Products and Programmes
 -

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yimeng-sun-2026
-    resource: "https://arxiv.org/abs/2605.14330"
-    title: "Yimeng Sun, Haiyang Xin, Qiannan Niu, Shuang Li, Lingyun Huang, Gaowei Chen. (2026). Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study. https://arxiv.org/abs/2605.14330"
+    resource: "https://doi.org/10.48550/arxiv.2605.14330"
+    title: "Yimeng Sun, Haiyang Xin, Qiannan Niu, Shuang Li, Lingyun Huang, Gaowei Chen. (2026). Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study. https://arxiv.org/abs/2605.14330 [doi:10.48550/arxiv.2605.14330](https://doi.org/10.48550/arxiv.2605.14330)"
     author: Yimeng Sun, Haiyang Xin, Qiannan Niu, Shuang Li, Lingyun Huang, Gaowei Chen
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Students with moderate initial CT levels show substantially greater self-efficacy gains than high-CT and low-CT peers, an 'Optimal Development Zone' effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 1 causal `r1`, 1 associational `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` K-means clustering identified three profiles, and ANOVA showed significant gain differences [F(2,84)=51.64, p<.001, η²=.55], with the Moderate-CT group significantly outperforming both High-CT (Δ=17.62, p<.001) and Low-CT groups (Δ=18.88, p<.001). [→ Yimeng Sun 2026](#yimeng-sun-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yimeng Sun 2026
 
-Yimeng Sun, Haiyang Xin, Qiannan Niu, Shuang Li, Lingyun Huang, Gaowei Chen. (2026). Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study. https://arxiv.org/abs/2605.14330
+Yimeng Sun, Haiyang Xin, Qiannan Niu, Shuang Li, Lingyun Huang, Gaowei Chen. (2026). Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study. https://arxiv.org/abs/2605.14330 [doi:10.48550/arxiv.2605.14330](https://doi.org/10.48550/arxiv.2605.14330)
 
 `q2 · i3` · `associational · r2`
 

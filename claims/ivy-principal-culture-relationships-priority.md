@@ -44,12 +44,12 @@ Interview statement from Principal Walker in the Ivy case study. He describes th
 
 ## Related Claims
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
-- [Female principals enacted care through a 'listening then deciding' pattern of situational decision making](listening-then-deciding-situational-decision-making.md) — related
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
-- [Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation](principals-maintain-connectedness-despite-bureaucracy.md) — related
-- [The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools](ethic-of-care-found-in-three-female-principals.md) — related
+- Female principals enacted care through a 'listening then deciding' pattern of situational decision making — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related
+- Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation — related
+- The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools — related
 - [Ivy Elementary staff jointly monitor progress toward goals in team meetings and organize tiered supports for students](ivy-progress-monitoring-tiered-supports.md) — related
-- [The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles](personal-ethic-of-care-transferred-from-motherhood.md) — related
+- The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles — related
 - [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](all-staff-family-communication-channels.md) — related
 - [At Ivy Elementary, teachers lead grade-level goal setting and participate in school-level decisions, with the principal empowering staff](ivy-teacher-led-goals-collective-decisions.md) — related
 - [High-performing CHSRI schools shared four practices for guiding and sustaining instructional improvement: defining leadership responsibilities, creatively distributing them, institutionalizing routines, and focusing team work on school-wide goals](chsri-four-improvement-practices.md) — related

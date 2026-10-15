@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tam-nguyen-2026
-    resource: "https://arxiv.org/abs/2607.14044"
-    title: "Tam Nguyen, Hung Nguyen, Robert Ogburn. (2026). AI-accelerated End-to-End Framework for Rapid Professional Upskilling. https://arxiv.org/abs/2607.14044"
+    resource: "https://doi.org/10.48550/arxiv.2607.14044"
+    title: "Tam Nguyen, Hung Nguyen, Robert Ogburn. (2026). AI-accelerated End-to-End Framework for Rapid Professional Upskilling. https://arxiv.org/abs/2607.14044 [doi:10.48550/arxiv.2607.14044](https://doi.org/10.48550/arxiv.2607.14044)"
     author: Tam Nguyen, Hung Nguyen, Robert Ogburn
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tam Nguyen 2026
 
-Tam Nguyen, Hung Nguyen, Robert Ogburn. (2026). AI-accelerated End-to-End Framework for Rapid Professional Upskilling. https://arxiv.org/abs/2607.14044
+Tam Nguyen, Hung Nguyen, Robert Ogburn. (2026). AI-accelerated End-to-End Framework for Rapid Professional Upskilling. https://arxiv.org/abs/2607.14044 [doi:10.48550/arxiv.2607.14044](https://doi.org/10.48550/arxiv.2607.14044)
 
 `q1 · i?` · `design · r2`
 

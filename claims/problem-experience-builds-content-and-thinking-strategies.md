@@ -43,7 +43,7 @@ The article cites psychological research and theory as the basis for the claim t
 
 
 ## Related Claims
-- [Introducing CT as a problem-solving approach that often involves digital technology helped teachers](introduce-ct-as-problem-solving-approach.md) — related
+- Introducing CT as a problem-solving approach that often involves digital technology helped teachers — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — a broader claim this one bears on

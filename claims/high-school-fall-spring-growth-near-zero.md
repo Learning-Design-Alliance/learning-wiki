@@ -46,4 +46,4 @@ FAQ explanation for why negative average or aspirational growth may appear in th
 - [Within-year (fall-to-spring) achievement gains decelerate linearly as students move through school, at roughly 1.4 to 4 RIT per year depending on subject and centering grade](fall-to-spring-gains-decelerate-across-grades.md) — a broader claim this one bears on
 - [Within-school-year achievement growth is often not linear, particularly in reading](linear-within-year-growth-assumption-unjustified-reading.md) — related
 - [Mean foundational-skills scores rise from fall to spring with the largest gains in kindergarten and grade 1, and growth flattens by grades 2-3](spanish-foundational-skills-fall-to-spring-gain-pattern.md) — related
-- [Mathematics growth in Grades 1-3 is nonlinear with deceleration, so more growth occurs in the first half of the school year, and average growth rates decline across grade levels](early-math-growth-decelerates-first-half-year.md) — related
+- Mathematics growth in Grades 1-3 is nonlinear with deceleration, so more growth occurs in the first half of the school year, and average growth rates decline across grade levels — related

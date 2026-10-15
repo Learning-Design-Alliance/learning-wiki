@@ -68,4 +68,4 @@ The same ITBS trend analysis reports that "Positive trends in ITBS reading score
 - [A Rasch-score re-analysis corroborates slowing and in some cases declining test score trends, with nine-year-olds an exception](rasch-reanalysis-corroborates-slowing-trends.md) — related
 - [Grouping students by age instead of grade is a viable alternative for tracking ITBS score trends, mirroring the grade-group findings](age-group-reporting-viable-alternative.md) — related
 - After adjustments for inclusion-rule changes, CPS elementary test scores continued to improve through 1999, with long-term math gains across all grades but slowing reading improvement at ages 9, 11, and 12 — a broader claim this one bears on
-- [Standardized test scores change so slowly that even schools making exceptional gains may appear stagnant](test-scores-change-slowly-schools-appear-stagnant.md) — related
+- Standardized test scores change so slowly that even schools making exceptional gains may appear stagnant — related

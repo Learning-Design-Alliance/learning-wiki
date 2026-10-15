@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: xiaozao-wang-2026
-    resource: "https://arxiv.org/abs/2606.31012"
-    title: "Xiaozao Wang, Zhewei Wang, Hongyi Wen. (2026). Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations. https://arxiv.org/abs/2606.31012"
+    resource: "https://doi.org/10.48550/arxiv.2606.31012"
+    title: "Xiaozao Wang, Zhewei Wang, Hongyi Wen. (2026). Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations. https://arxiv.org/abs/2606.31012 [doi:10.48550/arxiv.2606.31012](https://doi.org/10.48550/arxiv.2606.31012)"
     author: Xiaozao Wang, Zhewei Wang, Hongyi Wen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xiaozao Wang 2026
 
-Xiaozao Wang, Zhewei Wang, Hongyi Wen. (2026). Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations. https://arxiv.org/abs/2606.31012
+Xiaozao Wang, Zhewei Wang, Hongyi Wen. (2026). Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations. https://arxiv.org/abs/2606.31012 [doi:10.48550/arxiv.2606.31012](https://doi.org/10.48550/arxiv.2606.31012)
 
 `q2 · i?` · `design · r2`
 

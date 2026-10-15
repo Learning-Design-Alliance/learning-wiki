@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system-2015
-    resource: "https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/"
-    title: "The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system. (2015). Value Added Modeling and Growth Modeling with Particular Application to Teacher and School Effectiveness, 237–269. https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/"
+    resource: "https://doi.org/10.1108/978-1-62396-776-5"
+    title: "The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system. (2015). Value Added Modeling and Growth Modeling with Particular Application to Teacher and School Effectiveness, 237–269. https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/ [doi:10.1108/978-1-62396-776-5](https://doi.org/10.1108/978-1-62396-776-5)"
     author: "The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system"
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system 2015
 
-The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system. (2015). Value Added Modeling and Growth Modeling with Particular Application to Teacher and School Effectiveness, 237–269. https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/
+The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system. (2015). Value Added Modeling and Growth Modeling with Particular Application to Teacher and School Effectiveness, 237–269. https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/ [doi:10.1108/978-1-62396-776-5](https://doi.org/10.1108/978-1-62396-776-5)
 
 `q1 · i?` · `theoretical · r?`
 
@@ -44,7 +44,7 @@ The abstract lists this among the questions the edited volume addresses, indicat
 
 ## Related Claims
 - [The volume addresses criteria for evaluating growth models and how outputs from growth models should be utilized](growth-model-evaluation-criteria-questions.md) — related
-- [The paper clarifies confusion about the use of value-added information in teacher evaluation](value-added-use-of-information-clarified.md) — related
+- The paper clarifies confusion about the use of value-added information in teacher evaluation — related
 - [Empirical Bayes shrinkage could be used to address bias in proxy pre-test value-added estimates](empirical-bayes-shrinkage-for-proxy-pretest-bias.md) — related
 - [Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness](proxy-pretest-estimates-biased-but-informative.md) — related
 - [Bias, not precision loss, drives the difference in proxy pre-test value-added estimates](proxy-pretest-difference-driven-by-bias-not-precision.md) — related

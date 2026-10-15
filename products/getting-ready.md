@@ -18,7 +18,7 @@ sources:
 # Getting Ready
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Getting Ready is a University of Nebraska–Lincoln program that trains early childhood educators in evidence-based family-partnership strategies and coaches them in collaborative goal-setting through home visits, conferences, and informal interactions.
@@ -28,10 +28,7 @@ Getting Ready is a University of Nebraska–Lincoln program that trains early ch
 - **Getting Ready family-partnership program for early childhood educators**: Getting Ready is a program developed at the University of Nebraska—Lincoln to increase school readiness among children five and younger in home visitation or center-based early childhood programs. It "trains educators in eight evidence-based strategies to enhance their partnerships with families" and provides coaching for meetings with families through home visits, conferences, and informal interactions in which educators and families "collaboratively set goals to position each other for success." (Getting Ready (2025))
 
 ### Claims
-- [In the first trial, Getting Ready produced significant positive impacts on teacher-reported language, reading, and writing outcomes after two years](../claims/getting-ready-academic-gains-study-one.md) [+M]
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](../claims/getting-ready-replication-relationships.md) [+W]
-- [Getting Ready shows a strong evidence rating for social-emotional learning, with an average effect size of +0.22 across two studies and 487 students](../claims/getting-ready-sel-strong-rating.md) [+W]
-- [The first trial also found social-emotional gains including increased attachment and initiative and reduced anxiety/withdrawal](../claims/getting-ready-social-emotional-outcomes-study-one.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -68,10 +65,7 @@ Getting Ready is a program developed at the University of Nebraska—Lincoln to 
 
 ## Claims
 
-- [In the first trial, Getting Ready produced significant positive impacts on teacher-reported language, reading, and writing outcomes after two years](../claims/getting-ready-academic-gains-study-one.md) [+M]
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](../claims/getting-ready-replication-relationships.md) [+W]
-- [Getting Ready shows a strong evidence rating for social-emotional learning, with an average effect size of +0.22 across two studies and 487 students](../claims/getting-ready-sel-strong-rating.md) [+W]
-- [The first trial also found social-emotional gains including increased attachment and initiative and reduced anxiety/withdrawal](../claims/getting-ready-social-emotional-outcomes-study-one.md) [+M]
 
 ## Related Elements
 

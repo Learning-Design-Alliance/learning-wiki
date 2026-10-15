@@ -18,7 +18,7 @@ sources:
 # Literacy First
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Literacy First is an early-literacy tutoring programme run by Literacy First that provides trained tutors and individualized daily sessions for kindergarten through grade 2 students who are reading below grade level.
@@ -28,8 +28,6 @@ Literacy First is an early-literacy tutoring programme run by Literacy First tha
 - **Literacy First early literacy tutoring program for kindergarten through grade 2**: Literacy First (formerly AmeriCorps for Community Engagement and Education, then A Community for Education) is an early literacy intervention providing trained tutors for students in kindergarten through grade 2, largely in the Austin, Texas area. It identifies "students reading below grade level each fall and provides tutoring across the school year." Tutors work with students daily in 30-minute sessions tailored to individual literacy/language needs, and 50% of tutors are bilingual, supporting both Spanish- and English-speaking students. (Literacy First program description et al. (2021))
 
 ### Claims
-- [Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19)](../claims/literacy-first-grade2-itbs-comprehension-effect.md) [+W]
-- [Literacy First students scored higher on STAAR Grade 3 Reading in a follow-up analysis (effect size +0.21)](../claims/literacy-first-grade3-staar-follow-up.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,8 +62,6 @@ Literacy First (formerly AmeriCorps for Community Engagement and Education, then
 
 ## Claims
 
-- [Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19)](../claims/literacy-first-grade2-itbs-comprehension-effect.md) [+W]
-- [Literacy First students scored higher on STAAR Grade 3 Reading in a follow-up analysis (effect size +0.21)](../claims/literacy-first-grade3-staar-follow-up.md) [+W]
 
 ## Related Elements
 

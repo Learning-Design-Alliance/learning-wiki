@@ -18,7 +18,7 @@ sources:
 # Readable English
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Readable English is a branded reading intervention programme developed and delivered by Readable English, combining an adaptive conversion tool with sequenced scripted phonics-to-comprehension lessons for struggling readers.
@@ -27,8 +27,6 @@ Readable English is a branded reading intervention programme developed and deliv
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Readable English students significantly outperformed control students on EasyCBM passage comprehension and reading fluency measures](../claims/readable-english-improves-fluency-comprehension.md) [+M]
-- [Students in the Readable English intervention group showed significant improvements in reading fluency and comprehension compared to the control group](../claims/readable-english-significant-gains-over-control.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,8 +65,6 @@ Readable English is a reading intervention program that "utilizes adaptive techn
 
 ## Claims
 
-- [Readable English students significantly outperformed control students on EasyCBM passage comprehension and reading fluency measures](../claims/readable-english-improves-fluency-comprehension.md) [+M]
-- [Students in the Readable English intervention group showed significant improvements in reading fluency and comprehension compared to the control group](../claims/readable-english-significant-gains-over-control.md) [+W]
 
 ## Related Elements
 - 

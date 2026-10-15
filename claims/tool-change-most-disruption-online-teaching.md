@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: murphy-2009
-    resource: "https://www.irrodl.org/index.php/irrodl"
-    title: "Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl"
+    resource: "https://doi.org/10.19173/irrodl.v10i3.579"
+    title: "Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl [doi:10.19173/irrodl.v10i3.579](https://doi.org/10.19173/irrodl.v10i3.579)"
     author: "Murphy, E., & Rodriguez-Manzanares, M. A."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Murphy 2009
 
-Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl
+Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl [doi:10.19173/irrodl.v10i3.579](https://doi.org/10.19173/irrodl.v10i3.579)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -47,5 +47,5 @@ In the Discussion, the authors state "the change in tools that caused the most d
 - [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
 - [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — related
 - [SCMD activity systems exhibit three categories of rules and four types of participant roles](scmd-rules-and-division-of-labor.md) — related
-- [Cultural mediation has four implications, including that artifacts fundamentally transform mental functioning and the mind is distributed in artifacts](cultural-mediation-four-implications-artifacts-transform-mind.md) — a broader claim this one bears on
+- Cultural mediation has four implications, including that artifacts fundamentally transform mental functioning and the mind is distributed in artifacts — a broader claim this one bears on
 - [Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice](forms-sel-checkins-anonymity.md) — related

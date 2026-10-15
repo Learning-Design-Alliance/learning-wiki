@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ugwuanyi-2025
-    resource: "https://arxiv.org/abs/2607.28505"
-    title: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505"
+    resource: "https://doi.org/10.48550/arxiv.2607.28505"
+    title: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505 [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)"
     author: "Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Prompting experiments show LLMs perform badly at generating non-US national standard varieties and conflate Nigerian English with Nigerian Pidgin
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
+> **Evidence** · 2 studies · 1 qualitative `r2`, 1 theoretical `r2` · `q1`
 
 ## Subclaims
 `q1 i?` In the contributors' prompting experiments, LLMs performed very badly at generating national standard varieties of English other than US English, even failing to implement British spelling consistently. [→ Ugwuanyi 2025](#ugwuanyi-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Ugwuanyi 2025
 
-Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505
+Ugwuanyi, K., Mair, C., Dovchin, S., Erdocia, I., Kuteeva, M., & Airemionkhale, E. (2025). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. https://arxiv.org/abs/2607.28505 [doi:10.48550/arxiv.2607.28505](https://doi.org/10.48550/arxiv.2607.28505)
 
 `q1 · i?` · `theoretical · r2`
 

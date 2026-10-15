@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cogevol-team-2026
-    resource: "https://arxiv.org/abs/2608.30968"
-    title: "CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968"
+    resource: "https://doi.org/10.48550/arxiv.2608.30968"
+    title: "CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968 [doi:10.48550/arxiv.2608.30968](https://doi.org/10.48550/arxiv.2608.30968)"
     author: "CogEvol Team, CogEvol Inc. & Tsinghua University"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Purpose-trained single-pass generation completes a slide in a median of 17 seconds and an interactive page in 59 seconds over 220k production requests, and delivers artifacts at 15–22× lower per-artifact API cost than flagship models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Over a seven-day live-traffic window the production models completed 180k slide generations at a median of 17s and 40k interactive pages at 59s. [→ CogEvol Team 2026](#cogevol-team-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### CogEvol Team 2026
 
-CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968
+CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968 [doi:10.48550/arxiv.2608.30968](https://doi.org/10.48550/arxiv.2608.30968)
 
 `q2 · i?` · `design · r3`
 

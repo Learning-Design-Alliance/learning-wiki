@@ -44,4 +44,4 @@ The article's overall conclusion from examining the empirical evidence supportin
 
 ## Related Claims
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related
-- [It is unknown whether community residents and providers recognize the lifelong learning opportunities community-based education offers](recognition-of-community-lifelong-learning-opportunities-unknown.md) — related
+- It is unknown whether community residents and providers recognize the lifelong learning opportunities community-based education offers — related

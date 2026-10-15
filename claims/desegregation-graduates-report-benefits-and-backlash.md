@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: amy-stuart-wells-2009
-    resource: "https://www.mathematica.org/publications/both-sides-now-the-story-of-school-desegregations-graduates"
-    title: "Amy Stuart Wells, Jennifer Jellison Holme, Anita Tijerina Revilla, Awo Korantemaa Atanda. (2009). Both Sides Now: The Story of School Desegregation's Graduates. Berkeley, CA: University of California Press. https://www.mathematica.org/publications/both-sides-now-the-story-of-school-desegregations-graduates"
+    resource: "https://doi.org/10.1525/9780520942486"
+    title: "Amy Stuart Wells, Jennifer Jellison Holme, Anita Tijerina Revilla, Awo Korantemaa Atanda. (2009). Both Sides Now: The Story of School Desegregation's Graduates. Berkeley, CA: University of California Press. https://www.mathematica.org/publications/both-sides-now-the-story-of-school-desegregations-graduates [doi:10.1525/9780520942486](https://doi.org/10.1525/9780520942486)"
     author: Amy Stuart Wells, Jennifer Jellison Holme, Anita Tijerina Revilla, Awo Korantemaa Atanda
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Amy Stuart Wells 2009
 
-Amy Stuart Wells, Jennifer Jellison Holme, Anita Tijerina Revilla, Awo Korantemaa Atanda. (2009). Both Sides Now: The Story of School Desegregation's Graduates. Berkeley, CA: University of California Press. https://www.mathematica.org/publications/both-sides-now-the-story-of-school-desegregations-graduates
+Amy Stuart Wells, Jennifer Jellison Holme, Anita Tijerina Revilla, Awo Korantemaa Atanda. (2009). Both Sides Now: The Story of School Desegregation's Graduates. Berkeley, CA: University of California Press. https://www.mathematica.org/publications/both-sides-now-the-story-of-school-desegregations-graduates [doi:10.1525/9780520942486](https://doi.org/10.1525/9780520942486)
 
 `q2 · i?` · `qualitative · r?`
 
@@ -43,6 +43,6 @@ Qualitative interview study described on the book's abstract page: a five-year s
 
 
 ## Related Claims
-- [Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns](neighborhood-based-desegregation-plans-short-term.md) — related
+- Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns — related
 - [Under Boston's Controlled Choice plan, 90 percent of students received a first- or second-choice school and fewer than 10 percent were mandatorily assigned](boston-controlled-choice-most-students-get-first-or-second-choice.md) — related
 - [Interdistrict desegregation choice programs show achievement and graduation benefits for disadvantaged students, with stronger outcomes the longer students remain](interdistrict-desegregation-benefits.md) — related

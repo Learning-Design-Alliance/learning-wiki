@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: beau-2025
-    resource: "https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf"
-    title: "Beau, M., & Lazar, M. (2025). From AI Intuition to AI Literacy: A Dual Framework for K-12 Education. International School of Boston. https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf"
+    resource: "https://doi.org/10.35542/osf.io/6uhj2_v1"
+    title: "Beau, M., & Lazar, M. (2025). From AI Intuition to AI Literacy: A Dual Framework for K-12 Education. International School of Boston. https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf [doi:10.35542/osf.io/6uhj2_v1](https://doi.org/10.35542/osf.io/6uhj2_v1)"
     author: "Beau, M., & Lazar, M."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Beau 2025
 
-Beau, M., & Lazar, M. (2025). From AI Intuition to AI Literacy: A Dual Framework for K-12 Education. International School of Boston. https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf
+Beau, M., & Lazar, M. (2025). From AI Intuition to AI Literacy: A Dual Framework for K-12 Education. International School of Boston. https://resources.finalsite.net/images/v1760105856/isboston/njqucrdzeyxvmtjr4cla/WhitePaper_AI_October2025.pdf [doi:10.35542/osf.io/6uhj2_v1](https://doi.org/10.35542/osf.io/6uhj2_v1)
 
 `q1 · i?` · `theoretical · r2`
 

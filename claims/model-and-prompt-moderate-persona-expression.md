@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jana-gonnermann-müller-2026
-    resource: "https://arxiv.org/abs/2605.06307"
-    title: "Jana Gonnermann-Müller, Jennifer Haase, Nicolas Leins, Thomas Kosch, Sebastian Pokutta. (2026). LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD-Related Persona Specifications. https://arxiv.org/abs/2605.06307"
+    resource: "https://doi.org/10.48550/arxiv.2605.06307"
+    title: "Jana Gonnermann-Müller, Jennifer Haase, Nicolas Leins, Thomas Kosch, Sebastian Pokutta. (2026). LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD-Related Persona Specifications. https://arxiv.org/abs/2605.06307 [doi:10.48550/arxiv.2605.06307](https://doi.org/10.48550/arxiv.2605.06307)"
     author: Jana Gonnermann-Müller, Jennifer Haase, Nicolas Leins, Thomas Kosch, Sebastian Pokutta
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jana Gonnermann-Müller 2026
 
-Jana Gonnermann-Müller, Jennifer Haase, Nicolas Leins, Thomas Kosch, Sebastian Pokutta. (2026). LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD-Related Persona Specifications. https://arxiv.org/abs/2605.06307
+Jana Gonnermann-Müller, Jennifer Haase, Nicolas Leins, Thomas Kosch, Sebastian Pokutta. (2026). LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD-Related Persona Specifications. https://arxiv.org/abs/2605.06307 [doi:10.48550/arxiv.2605.06307](https://doi.org/10.48550/arxiv.2605.06307)
 
 `q2 · i?` · `causal · r2`
 

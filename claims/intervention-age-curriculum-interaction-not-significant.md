@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The interaction between classroom pedagogical interventions and the age and curricular undertakings of respondents was analyzed with estimated marginal means and was not significant at the .05 level (F = 2.487, p = .098 at .10 level). [→ Bautista 2015](#bautista-2015)

@@ -17,7 +17,7 @@ sources:
 # Composite transformation framework for MIRT equating
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article frames MIRT equating as transforming the equated group's reference system into the base group's system via a composite transformation: "an orthogonal procrustes rotation, a translation transformation and a single dilation". Because estimation programs impose abilities distributed as N(0, I), reference axes are orthogonal and of unit length, so rotation resolves rotational indeterminacy, translation coefficients shift the origin, and a dilation coefficient k rescales the unit. Three sets of equating methods were built on this framework and evaluated with BIAS and RMSE criteria.
@@ -27,10 +27,6 @@ The article frames MIRT equating as transforming the equated group's reference s
 - **Composite transformation framework for MIRT equating: orthogonal procrustes rotation, translation, and single dilation**: The article frames MIRT equating as transforming the equated group's reference system into the base group's system via a composite transformation: "an orthogonal procrustes rotation, a translation transformation and a single dilation". Because estimation programs impose abilities distributed as N(0, I), reference axes are orthogonal and of unit length, so rotation resolves rotational indeterminacy, translation coefficients shift the origin, and a dilation coefficient k rescales the unit. Three sets of equating methods were built on this framework and evaluated with BIAS and RMSE criteria. (Li et al. (1998))
 
 ### Claims
-- [The Ratio of Trace method consistently yields the most precise estimates of the MIRT dilation parameter k across all simulated equating situations](../claims/ratio-of-trace-best-dilation-estimate-mirt-equating.md) [+W]
-- [Least Squares procedures consistently outperform the MTCS method for estimating MIRT translation parameters m1 and m2](../claims/least-squares-beats-mtcs-translation-estimates.md) [+W]
-- [The developed MIRT equating methods behave as unbiased, effective, and consistent estimators of transformation parameters](../claims/mirt-equating-methods-unbiased-effective-consistent.md) [+W]
-- [Regression analysis shows the MTCS method significantly degrades dilation-parameter precision relative to the Ratio of Eigenvalues method, while simulation factors explain most RMSE variation](../claims/regression-mtcs-significant-k-precision.md) [+W]
 
 ## Related Research Methods
 -
@@ -64,10 +60,6 @@ The article frames MIRT equating as transforming the equated group's reference s
 
 ### Claims
 
-- [Ratio Of Trace Best Dilation Estimate Mirt Equating](../claims/ratio-of-trace-best-dilation-estimate-mirt-equating.md) [+M]
-- [Least Squares Beats Mtcs Translation Estimates](../claims/least-squares-beats-mtcs-translation-estimates.md) [+M]
-- [Mirt Equating Methods Unbiased Effective Consistent](../claims/mirt-equating-methods-unbiased-effective-consistent.md) [+M]
-- [Regression analysis shows the MTCS method significantly degrades dilation-parameter precision relative to the Ratio of Eigenvalues method, while simulation factors explain most RMSE variation](../claims/regression-mtcs-significant-k-precision.md) [+W]
 
 ## Related Theories
 

@@ -45,5 +45,5 @@ Authors' interpretation in the conclusion (type e), weighing the analytical expo
 ## Related Claims
 - [The HMM form of BKT, solved analytically, is a three-parameter exponential in opportunity number](bkt-hmm-form-is-three-parameter-exponential.md) — related
 - [The identifiability problem of the BKT HMM arises because combinations of P(G) and P(L0) with the same product A give identical functional forms](bkt-identifiability-explained-by-parameter-a.md) — related
-- [Semi-Markov models fit the writing-process data better than continuous-time Markov chain models](semimarkov-preferred-over-ctmc.md) — related
+- Semi-Markov models fit the writing-process data better than continuous-time Markov chain models — related
 - [A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability](hmm-identifies-a5-bottleneck.md) — related

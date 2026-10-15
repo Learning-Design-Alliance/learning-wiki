@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Freyberg's eight training sessions using modeling and direct teaching significantly improved imaginativeness, positive affect, and concentration in disadvantaged kindergarten children, while a puzzle-manipulating control group showed no change. Two months later the children still played with greater imaginativeness and improved verbal communication as well as more spontaneity and increased attention span; the source does not state whether the affect gains persisted. [→ Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions 1973](#third-invitational-interdisciplinary-seminar-piagetian-theory-and-its-implications-for-the-helping-professions-1973)
@@ -48,7 +49,7 @@ Freyberg studied 80 disadvantaged kindergarten children in New York City, dividi
 
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — the general claim this finding bears on, with the studies behind it
 - [Kindergartners struggle to give verbal causal explanations, but model-based tasks let most of them express causal ideas](model-tasks-overcome-verbal-explanation-limits.md) — related
-- [Toy structure made little difference to imaginative play; fantasy predisposition may be already pretty well formed by age five](toy-structure-little-difference-fantasy-predisposition.md) — related
+- Toy structure made little difference to imaginative play; fantasy predisposition may be already pretty well formed by age five — related
 - [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
 - [Children from economically disadvantaged families are at greater risk for poor kindergarten transitions than their peers](economically-disadvantaged-greater-kindergarten-transition-risk.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: grace-liu-2026
-    resource: "https://arxiv.org/abs/2604.04721"
-    title: "Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey. (2026). AI Assistance Reduces Persistence and Hurts Independent Performance. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2604.04721"
+    resource: "https://doi.org/10.48550/arxiv.2604.04721"
+    title: "Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey. (2026). AI Assistance Reduces Persistence and Hurts Independent Performance. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2604.04721 [doi:10.48550/arxiv.2604.04721](https://doi.org/10.48550/arxiv.2604.04721)"
     author: Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey
     q: 3
     i: 0
@@ -31,7 +31,7 @@ sources:
 
 ### Grace Liu 2026
 
-Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey. (2026). AI Assistance Reduces Persistence and Hurts Independent Performance. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2604.04721
+Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey. (2026). AI Assistance Reduces Persistence and Hurts Independent Performance. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2604.04721 [doi:10.48550/arxiv.2604.04721](https://doi.org/10.48550/arxiv.2604.04721)
 
 `q3 · i0` · `causal · r2`
 

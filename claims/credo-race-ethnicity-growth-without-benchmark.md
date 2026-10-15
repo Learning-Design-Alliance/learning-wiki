@@ -43,4 +43,4 @@ Methodological contribution described in the report's introduction as a departur
 
 
 ## Related Claims
-- [Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls](ri-charter-gains-black-hispanic-students.md) — related
+- Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls — related

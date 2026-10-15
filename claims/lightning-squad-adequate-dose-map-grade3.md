@@ -45,10 +45,10 @@ Dose-analysis subsample of the cluster randomized study, restricted to students 
 ## Related Claims
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](booknook-small-positive-map-reading-growth.md) — related
 - [OnYourMark tutoring did not produce significantly better performance on the NWEA MAP](onyourmark-no-significant-nwea-map-effect.md) — related
-- [Among third graders, Education Corps tutoring showed a positive but non-significant effect on the state End-of-Grade reading assessment (+0.13)](education-corps-eog-reading-non-significant.md) — related
-- [The average effect size of Tutoring with the Lightning Squad across outcome measures is +0.07](lightning-squad-average-effect-0-07.md) — a broader claim this one bears on
-- [Principals, site coordinators, and teachers reported strongly positive reactions to the program](lightning-squad-stakeholder-survey-positive.md) — related
-- [Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18)](lightning-squad-word-attack-significant-itt.md) — related
-- [The Pathblazer reading component had a positive and statistically significant impact on grade 3–5 reading achievement in a one-semester cluster randomized trial](pathblazer-positive-reading-achievement-cluster-rct.md) — related
-- [Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math](pirate-math-keymath-effect-037.md) — related
+- Among third graders, Education Corps tutoring showed a positive but non-significant effect on the state End-of-Grade reading assessment (+0.13) — related
+- The average effect size of Tutoring with the Lightning Squad across outcome measures is +0.07 — a broader claim this one bears on
+- Principals, site coordinators, and teachers reported strongly positive reactions to the program — related
+- Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18) — related
+- The Pathblazer reading component had a positive and statistically significant impact on grade 3–5 reading achievement in a one-semester cluster randomized trial — related
+- Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math — related
 - [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related

@@ -16,7 +16,7 @@ sources:
 # Distinction between cooperative learning and collaborative learning as two approaches to students working in groups
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 design), `q1` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The primer defines two distinct approaches to students working in groups. In cooperative learning, tasks are divided among team members who each do their own task before combining efforts, often to save time or accomplish more than one student could alone. In collaborative learning, "the intent is for students to build shared understanding and to support each other as they work together to answer questions, debate an issue, solve a problem, or work on some other challenge." The primer illustrates the contrast with a slideshow example: collaborative groups work together on each slide rather than dividing slides up. Learning outcomes differ, with collaborative learning offering ways of learning students could not achieve alone.
@@ -37,10 +37,7 @@ The primer defines two distinct approaches to students working in groups. In coo
 
 ### Claims
 
-- [Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes](../claims/meta-analytic-moderate-large-effects-collaborative-learning.md) [+M]
-- [Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose](../claims/group-membership-alone-does-not-produce-cooperation.md) [+W]
 - [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](../claims/collective-working-memory-effect-task-complexity.md) [+W]
-- [Collaboration scripts improve collaborative skills and domain learning, but highly prescriptive scripts can undermine learner motivation and agency](../claims/scripts-improve-skills-prescriptive-scripts-harm-motivation.md) [+W]
 
 ## Related Theories
 

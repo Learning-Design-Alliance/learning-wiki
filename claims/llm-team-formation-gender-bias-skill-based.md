@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: erfan-entezami-2026
-    resource: "https://arxiv.org/abs/2609.28483"
-    title: "Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483"
+    resource: "https://doi.org/10.48550/arxiv.2609.28483"
+    title: "Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483 [doi:10.48550/arxiv.2609.28483](https://doi.org/10.48550/arxiv.2609.28483)"
     author: Erfan Entezami, Andrew Lan, and Madeline Endres
     q: 2
     i: 2
@@ -30,7 +30,7 @@ sources:
 # Even with skill-based qualifications, LLM team assignment remains gender-biased: when two teams are equally valid, models favor Core Development for male personas over Interface Design
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
+> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` When choosing between Core Development and Interface Design for equally qualified personas, all models significantly favor Core Development for male personas compared to female personas (GPT-4.1 OR=2.53, GPT-5.2 OR=2.81, DeepSeek OR=1.43, p<0.05). [→ Erfan Entezami 2026](#erfan-entezami-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Erfan Entezami 2026
 
-Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483
+Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483 [doi:10.48550/arxiv.2609.28483](https://doi.org/10.48550/arxiv.2609.28483)
 
 `q2 · i2` · `causal · r2`
 

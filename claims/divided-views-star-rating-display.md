@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: raigul-zheldibayeva-2025
-    resource: "https://arxiv.org/abs/2605.17055"
-    title: "Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2025). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055"
+    resource: "https://doi.org/10.48550/arxiv.2605.17055"
+    title: "Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2025). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055 [doi:10.48550/arxiv.2605.17055](https://doi.org/10.48550/arxiv.2605.17055)"
     author: Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Some students and one teacher found stars motivating and treated them as feedback rather than grades. [→ Raigul Zheldibayeva 2025](#raigul-zheldibayeva-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Raigul Zheldibayeva 2025
 
-Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2025). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055
+Raigul Zheldibayeva, Ana Karina de Oliveira Nascimento, Vania Castro, Bill Cope and Mary Kalantzis. (2025). Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar. https://arxiv.org/abs/2605.17055 [doi:10.48550/arxiv.2605.17055](https://doi.org/10.48550/arxiv.2605.17055)
 
 `q2 · i?` · `qualitative · r3`
 

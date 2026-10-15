@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ilya-mikhelson-2026
-    resource: "https://arxiv.org/abs/2607.29624"
-    title: "Ilya Mikhelson. (2026). The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations. https://arxiv.org/abs/2607.29624"
+    resource: "https://doi.org/10.48550/arxiv.2607.29624"
+    title: "Ilya Mikhelson. (2026). The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations. https://arxiv.org/abs/2607.29624 [doi:10.48550/arxiv.2607.29624](https://doi.org/10.48550/arxiv.2607.29624)"
     author: Ilya Mikhelson
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ilya Mikhelson 2026
 
-Ilya Mikhelson. (2026). The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations. https://arxiv.org/abs/2607.29624
+Ilya Mikhelson. (2026). The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations. https://arxiv.org/abs/2607.29624 [doi:10.48550/arxiv.2607.29624](https://doi.org/10.48550/arxiv.2607.29624)
 
 `q2 · i?` · `theoretical · r2`
 

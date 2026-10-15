@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: eren-2010
-    resource: "https://ro.ecu.edu.au/ajte/vol35/iss3/2/"
-    title: "Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/"
+    resource: "https://doi.org/10.14221/ajte.2010v35n3.3"
+    title: "Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/ [doi:10.14221/ajte.2010v35n3.3](https://doi.org/10.14221/ajte.2010v35n3.3)"
     author: Eren, A.
     q: 3
     i: 0
@@ -31,7 +31,7 @@ sources:
 
 ### Eren 2010
 
-Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/
+Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/ [doi:10.14221/ajte.2010v35n3.3](https://doi.org/10.14221/ajte.2010v35n3.3)
 
 `q3 · i0` · `associational · r2`
 
@@ -50,8 +50,8 @@ MANCOVAs with ANCOVA follow-ups on 304 prospective teachers testing gender, year
 - [A minority of prospective teachers show consonance, believing each conception dimension is both valuable and applicable](consonance-both-valuable-and-applicable-minority.md) — related
 - [Attitudes, gender, and age predict counselors' rape myth acceptance in both label conditions](attitudes-demographics-predict-counselor-rape-myth-acceptance.md) — related
 - [Demographic and psychiatric-history variables are largely unrelated to treatment acceptability, with counseling history the exception](demographics-unrelated-to-acceptability-ratings.md)
-- [Training outcomes were unrelated to tenure: no relationships were established with years employed in DCPS or years in the field of education](sdm-training-outcomes-unrelated-to-tenure.md) — related
-- [Family demographics were largely unrelated to goal setting, with child gender the only associated variable](demographics-unrelated-to-goal-activity.md) — related
+- Training outcomes were unrelated to tenure: no relationships were established with years employed in DCPS or years in the field of education — related
+- Family demographics were largely unrelated to goal setting, with child gender the only associated variable — related
 - [Teaching experience is a minor negative predictor of digital data use, while age and gender show no significant effect](experience-negative-age-gender-null-data-use.md) — related
 - [Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use](institutional-and-information-variables-weakly-related-to-ai-use.md) — related
 - [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — reports the opposite

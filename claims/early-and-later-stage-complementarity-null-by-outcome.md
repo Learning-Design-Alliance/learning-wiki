@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dietzel-1974
-    resource: "https://eric.ed.gov/?id=ED091646"
-    title: "Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646"
+    resource: "https://doi.org/10.1037/h0076731"
+    title: "Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646 [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)"
     author: Dietzel, C. S.; Abeles, Norman
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Early-stage therapist complementarity does not differ by outcome group, and the predicted later-stage advantage for successful dyads was not supported
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` During the early stage, all therapists responded at a moderate complementarity level with no significant outcome-group difference (t = 0.716, p > .05). [→ Dietzel 1974](#dietzel-1974)
@@ -40,7 +40,7 @@ sources:
 
 ### Dietzel 1974
 
-Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646 [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)
 
 `q2 · i?` · `associational · r1`
 
@@ -66,4 +66,4 @@ Later-stage (last and next-to-last sessions) comparison of Complementarity Index
 - [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](overall-therapist-complementarity-not-related-to-therapy-outcome.md) — related
 - [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
 - [Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells](interaction-frequencies-support-matrix-weightings.md) — related
-- [Therapy relationships do not show a transition from relational incongruence to congruence across sessions](no-incongruence-to-congruence-transition-across-therapy-sessions.md) — related
+- Therapy relationships do not show a transition from relational incongruence to congruence across sessions — related

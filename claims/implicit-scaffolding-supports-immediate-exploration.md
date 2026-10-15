@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: podolefsky-2013
-    resource: "https://arxiv.org/abs/1306.6544"
-    title: "Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. https://arxiv.org/abs/1306.6544"
+    resource: "https://doi.org/10.48550/arxiv.1306.6544"
+    title: "Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. https://arxiv.org/abs/1306.6544 [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)"
     author: "Podolefsky, N. S., Moore, E. B., & Perkins, K. K."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Podolefsky 2013
 
-Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. https://arxiv.org/abs/1306.6544
+Podolefsky, N. S., Moore, E. B., & Perkins, K. K. (2013). Implicit scaffolding in interactive simulations: Design strategies to support multiple educational goals. https://arxiv.org/abs/1306.6544 [doi:10.48550/arxiv.1306.6544](https://doi.org/10.48550/arxiv.1306.6544)
 
 `q2 · qualitative case study` · `i? · no effect size` · `qualitative · r2`
 

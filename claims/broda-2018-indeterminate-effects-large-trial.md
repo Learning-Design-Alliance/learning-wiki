@@ -52,5 +52,5 @@ RCT at a public university in Michigan with incoming first-year students blocked
 - [Dual enrollment programs show no discernible effects on general academic achievement (college)](dual-enrollment-no-effect-college-achievement.md) — related
 - [FLIGHT shows no discernible effects on general high school academic achievement (GPA)](flight-no-discernible-effect-high-school-gpa.md) — related
 - [I-BEST has no discernible effects on credit accumulation](ibest-no-discernible-effects-credit-accumulation.md) — possibly the same claim (merge candidate)
-- [Chatbot outreach showed no statistically significant effect on credits enrolled, earned, accumulated, or on term and cumulative GPA](chatbot-null-gpa-and-credits.md) — possibly the same claim (merge candidate)
+- Chatbot outreach showed no statistically significant effect on credits enrolled, earned, accumulated, or on term and cumulative GPA — possibly the same claim (merge candidate)
 - [The growth mindset intervention increased tenth-grade advanced mathematics course enrolment overall, with larger gains in the highest-achieving schools](growth-mindset-increases-advanced-math-enrolment.md) — related

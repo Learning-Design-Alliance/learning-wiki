@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tam-nguyen-2026
-    resource: "https://arxiv.org/abs/2607.14044"
-    title: "Tam Nguyen, Hung Nguyen, Robert Ogburn. (2026). AI-accelerated End-to-End Framework for Rapid Professional Upskilling. https://arxiv.org/abs/2607.14044"
+    resource: "https://doi.org/10.48550/arxiv.2607.14044"
+    title: "Tam Nguyen, Hung Nguyen, Robert Ogburn. (2026). AI-accelerated End-to-End Framework for Rapid Professional Upskilling. https://arxiv.org/abs/2607.14044 [doi:10.48550/arxiv.2607.14044](https://doi.org/10.48550/arxiv.2607.14044)"
     author: Tam Nguyen, Hung Nguyen, Robert Ogburn
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tam Nguyen 2026
 
-Tam Nguyen, Hung Nguyen, Robert Ogburn. (2026). AI-accelerated End-to-End Framework for Rapid Professional Upskilling. https://arxiv.org/abs/2607.14044
+Tam Nguyen, Hung Nguyen, Robert Ogburn. (2026). AI-accelerated End-to-End Framework for Rapid Professional Upskilling. https://arxiv.org/abs/2607.14044 [doi:10.48550/arxiv.2607.14044](https://doi.org/10.48550/arxiv.2607.14044)
 
 `q2 · i?` · `design · r2`
 
@@ -44,5 +44,5 @@ Third-party accreditation reported in Section IV-C: NASBA National Registry revi
 
 ## Related Claims
 - [Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement](four-gaps-existing-upskilling-frameworks.md) — related
-- [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](nine-states-ceus-no-coherent-valuation-framework.md) — related
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — related
+- Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials — related
+- Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related

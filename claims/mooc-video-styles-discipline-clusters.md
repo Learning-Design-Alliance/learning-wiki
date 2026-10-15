@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The review reports, citing Santos-Espino, Afonso-Suárez, and Guerra-Artal (2016), that MOOC courses in humanities and arts emphasize speaker-centric styles while science and engineering courses emphasize board-centric styles, with social and life sciences balanced between them. [→ Chorianopoulos 2018](#chorianopoulos-2018)
@@ -43,5 +44,5 @@ Narrative review attributing to Santos-Espino et al. (2016) a survey of instruct
 
 
 ## Related Claims
-- [Kolb's inventory successfully differentiated group learning styles by students' subject majors](kolb-inventory-group-styles-by-subject-major.md) — related
+- Kolb's inventory successfully differentiated group learning styles by students' subject majors — related
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related

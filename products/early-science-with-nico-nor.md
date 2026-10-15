@@ -21,7 +21,7 @@ sources:
 # Early Science with Nico & Nor
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 9 studies (5 design, 4 causal), `q1`–`q2` · 0 of 9 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 9 studies (5 causal, 4 design), `q1`–`q2` · 0 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 A co-designed preschool science curriculum developed by teachers, families, curriculum and media developers, and researchers that uses playful, interest-based home and school experiences, digital supports, and family and teacher guides to connect science with engineering and mathematics.
@@ -37,10 +37,6 @@ A co-designed preschool science curriculum developed by teachers, families, curr
 
 ### Claims
 - [Children who engaged in the program at both home and school made significantly more improvement in science learning than children who implemented at school only](../claims/home-and-school-engagement-greater-science-improvement.md) [+M]
-- [Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests](../claims/parents-adapted-family-guide-activities.md) [+W]
-- [Parents reported that the home activities were fun, promoted science learning, and meaningfully connected to everyday experiences](../claims/parents-report-activities-fun-and-connected.md) [+W]
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](../claims/nico-nor-greater-science-learning-gains-than-comparison.md) [+M]
-- [In pilot testing, teachers successfully integrated science instruction and children deepened their understanding of science core ideas while engaging with science practices and connecting to math and engineering.](../claims/nico-nor-teachers-integrated-science-instruction.md) [+M]
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](../claims/nico-nor-digital-tools-complement-hands-on.md) [+W]
 - [Observed classroom implementation promoted science practices and core ideas, with Observing and Describing most frequent and coverage varying by unit](../claims/nico-nor-classroom-science-practices-coverage.md) [+M]
 - [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](../claims/nico-nor-math-null-with-item-gains.md) [~M]
@@ -86,10 +82,6 @@ Early Science with Nico and Nor is a preschool science program "co-designed by t
 ## Claims
 
 - [Children who engaged in the program at both home and school made significantly more improvement in science learning than children who implemented at school only](../claims/home-and-school-engagement-greater-science-improvement.md) [+M]
-- [Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests](../claims/parents-adapted-family-guide-activities.md) [+W]
-- [Parents reported that the home activities were fun, promoted science learning, and meaningfully connected to everyday experiences](../claims/parents-report-activities-fun-and-connected.md) [+W]
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](../claims/nico-nor-greater-science-learning-gains-than-comparison.md) [+M]
-- [In pilot testing, teachers successfully integrated science instruction and children deepened their understanding of science core ideas while engaging with science practices and connecting to math and engineering.](../claims/nico-nor-teachers-integrated-science-instruction.md) [+M]
 
 ## Related Elements
 
@@ -137,7 +129,6 @@ The program includes free digital apps for iPad described as digital games that 
 ## Claims
 
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](../claims/nico-nor-digital-tools-complement-hands-on.md) [+W]
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](../claims/nico-nor-greater-science-learning-gains-than-comparison.md) [+M]
 - [Children who engaged in the program at both home and school made significantly more improvement in science learning than children who implemented at school only](../claims/home-and-school-engagement-greater-science-improvement.md) [+M]
 
 ## Related Elements
@@ -185,7 +176,6 @@ The program includes free digital apps for iPad: Nico and Nor games give childre
 ## Claims
 
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](../claims/nico-nor-digital-tools-complement-hands-on.md) [+W]
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](../claims/nico-nor-greater-science-learning-gains-than-comparison.md) [+W]
 
 ## Related Elements
 
@@ -237,7 +227,6 @@ Early Science with Nico & Nor is a preschool science program spanning three curr
 - [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](../claims/nico-nor-math-null-with-item-gains.md) [~M]
 - [Children in intervention classrooms made significantly more improvement in science learning than children in comparison (business as usual) classrooms](../claims/nico-nor-science-gains-over-comparison.md) [+W]
 - [Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints](../claims/nico-nor-teacher-implementation-experience.md) [+M]
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](../claims/nico-nor-greater-science-learning-gains-than-comparison.md) [+W]
 
 ## Related Elements
 
@@ -282,10 +271,6 @@ The Teacher Guide is the program's classroom curricular resource. It "includes 3
 ## Claims
 
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](../claims/nico-nor-digital-tools-complement-hands-on.md) [+W]
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](../claims/nico-nor-greater-science-learning-gains-than-comparison.md) [+M]
-- [In pilot testing, teachers successfully integrated science instruction and children deepened their understanding of science core ideas while engaging with science practices and connecting to math and engineering.](../claims/nico-nor-teachers-integrated-science-instruction.md) [+M]
-- [Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests](../claims/parents-adapted-family-guide-activities.md) [+W]
-- [Parents reported that the home activities were fun, promoted science learning, and meaningfully connected to everyday experiences](../claims/parents-report-activities-fun-and-connected.md) [+W]
 
 ## Related Elements
 
@@ -327,8 +312,6 @@ The program was co-designed by teachers, families, curricula and media developer
 
 ### Claims
 
-- [Nico Nor Teachers Integrated Science Instruction](../claims/nico-nor-teachers-integrated-science-instruction.md) [+M]
-- [Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms.](../claims/nico-nor-greater-science-learning-gains-than-comparison.md) [+M]
 
 ## Related Theories
 - 

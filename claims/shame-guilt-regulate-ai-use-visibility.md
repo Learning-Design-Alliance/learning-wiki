@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kate-hamilton-2026
-    resource: "https://arxiv.org/abs/2606.14920"
-    title: "Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, and Stephen MacNeil. (2026). “Stuck in a Spiral”: Shame and Guilt as Social Regulators of AI Use in Computing Education. https://arxiv.org/abs/2606.14920"
+    resource: "https://doi.org/10.48550/arxiv.2606.14920"
+    title: "Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, and Stephen MacNeil. (2026). “Stuck in a Spiral”: Shame and Guilt as Social Regulators of AI Use in Computing Education. https://arxiv.org/abs/2606.14920 [doi:10.48550/arxiv.2606.14920](https://doi.org/10.48550/arxiv.2606.14920)"
     author: Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, and Stephen MacNeil
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kate Hamilton 2026
 
-Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, and Stephen MacNeil. (2026). “Stuck in a Spiral”: Shame and Guilt as Social Regulators of AI Use in Computing Education. https://arxiv.org/abs/2606.14920
+Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, and Stephen MacNeil. (2026). “Stuck in a Spiral”: Shame and Guilt as Social Regulators of AI Use in Computing Education. https://arxiv.org/abs/2606.14920 [doi:10.48550/arxiv.2606.14920](https://doi.org/10.48550/arxiv.2606.14920)
 
 `q2 · i?` · `qualitative · r3`
 

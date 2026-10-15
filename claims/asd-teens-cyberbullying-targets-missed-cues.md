@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Individuals with autism are often easy targets of cyberbullying because they can miss social cues, may not realize they are bullied, and may lack skills to respond, which can lead to anxiety, depression, and low self-esteem. [→ cyberbullying-risk](#cyberbullying-risk)

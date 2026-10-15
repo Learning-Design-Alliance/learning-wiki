@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kevin-zhongyang-shao-2026
-    resource: "https://arxiv.org/abs/2607.26338"
-    title: "Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous. (2026). Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes. arXiv. https://arxiv.org/abs/2607.26338"
+    resource: "https://doi.org/10.48550/arxiv.2607.26338"
+    title: "Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous. (2026). Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes. arXiv. https://arxiv.org/abs/2607.26338 [doi:10.48550/arxiv.2607.26338](https://doi.org/10.48550/arxiv.2607.26338)"
     author: Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The baseline competence frustration × inattention interaction significantly predicts perceived competence (b = −.018, p = .003); higher inattention attenuates the positive association. [→ Kevin Zhongyang Shao 2026](#kevin-zhongyang-shao-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Kevin Zhongyang Shao 2026
 
-Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous. (2026). Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes. arXiv. https://arxiv.org/abs/2607.26338
+Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous. (2026). Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes. arXiv. https://arxiv.org/abs/2607.26338 [doi:10.48550/arxiv.2607.26338](https://doi.org/10.48550/arxiv.2607.26338)
 
 `q2 · i?` · `associational · r2`
 

@@ -16,7 +16,7 @@ sources:
 # Five dimensions of affective development in the preschool child
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report organizes affective development—defined broadly as "the emotional state and the personal attitudes of the individual"—into five critical dimensions: emergence of self, caretaker attachment, adaptation-mastery, self-concept, and socialization. The authors chose these dimensions "because they appear to be central to affective development" and use them as the analytic framework linking theory, curriculum materials, assessment devices, and bibliography entries throughout the report. They caution that the dimensions are interrelated and may develop simultaneously, while still mapping them to approximate age periods from birth through 48 months.
@@ -37,11 +37,6 @@ The report organizes affective development—defined broadly as "the emotional s
 
 ### Claims
 
-- [The review reports that one-year-olds' exploration covaries with attachment, occurring most when the mother is present](../claims/attachment-exploration-covariation-one-year-olds.md) [+W]
-- [The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration](../claims/bowlby-separation-sequence-to-exploration.md) [+W]
-- [The review reports that specific emotions differentiate from a generalized excitement state in a stable developmental sequence](../claims/emotions-differentiate-from-generalized-excitement.md) [+W]
-- [The review reports that infant monkeys preferred a terrycloth surrogate over a feeding wire-mesh surrogate, challenging secondary drive theory](../claims/harlow-surrogate-preference-challenges-secondary-drive.md) [+W]
-- [The review reports three stable infant temperamental styles: easy, slow to warm up, and difficult](../claims/three-infant-temperamental-styles.md) [+W]
 
 ## Related Theories
 

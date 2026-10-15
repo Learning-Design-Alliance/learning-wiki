@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: vom-lara-2014
-    resource: "https://arxiv.org/abs/1405.6581"
-    title: "V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581"
+    resource: "https://doi.org/10.48550/arxiv.1405.6581"
+    title: "V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581 [doi:10.48550/arxiv.1405.6581](https://doi.org/10.48550/arxiv.1405.6581)"
     author: V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira
     q: 2
     i: 1
@@ -30,7 +30,7 @@ sources:
 # The demonstration set yields a fair estimate of air permeability µair from coil data
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1` small
+> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` A fit with b fixed at −3 returns a′ = 4240± 25.81, leading to µair∼= 1.298× 10−6Hm−1, in good agreement with the expected µ0. [→ V.O.M. Lara 2014](#vom-lara-2014)
@@ -40,7 +40,7 @@ sources:
 
 ### V.O.M. Lara 2014
 
-V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581
+V.O.M. Lara, D. F. Amaral, D. Faria, and L. P. Vieira. (2014). Demonstrations of magnetic phenomena: Measuring the air permeablity using tablets. https://arxiv.org/abs/1405.6581 [doi:10.48550/arxiv.1405.6581](https://doi.org/10.48550/arxiv.1405.6581)
 
 `q2 · i1` · `design · r2`
 

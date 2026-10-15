@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kang-xue-2021
-    resource: "https://www.frontiersin.org/journals/psychology"
-    title: "Kang Xue, Laine Bradshaw. (2021). A semi-supervised learning-based diagnostic classification method using artificial neural networks. Frontiers in Psychology, 11, 3992. https://www.frontiersin.org/journals/psychology"
+    resource: "https://doi.org/10.3389/fpsyg.2020.618336"
+    title: "Kang Xue, Laine Bradshaw. (2021). A semi-supervised learning-based diagnostic classification method using artificial neural networks. Frontiers in Psychology, 11, 3992. https://www.frontiersin.org/journals/psychology [doi:10.3389/fpsyg.2020.618336](https://doi.org/10.3389/fpsyg.2020.618336)"
     author: Kang Xue, Laine Bradshaw
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kang Xue 2021
 
-Kang Xue, Laine Bradshaw. (2021). A semi-supervised learning-based diagnostic classification method using artificial neural networks. Frontiers in Psychology, 11, 3992. https://www.frontiersin.org/journals/psychology
+Kang Xue, Laine Bradshaw. (2021). A semi-supervised learning-based diagnostic classification method using artificial neural networks. Frontiers in Psychology, 11, 3992. https://www.frontiersin.org/journals/psychology [doi:10.3389/fpsyg.2020.618336](https://doi.org/10.3389/fpsyg.2020.618336)
 
 `q1 · i?` · `design · r2`
 

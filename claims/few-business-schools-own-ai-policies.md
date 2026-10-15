@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lydia-manikonda-and-dominique-outlaw-2026
-    resource: "https://arxiv.org/abs/2608.03584"
-    title: "Lydia Manikonda and Dominique Outlaw. (2026). Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools. https://arxiv.org/abs/2608.03584"
+    resource: "https://doi.org/10.48550/arxiv.2608.03584"
+    title: "Lydia Manikonda and Dominique Outlaw. (2026). Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools. https://arxiv.org/abs/2608.03584 [doi:10.48550/arxiv.2608.03584](https://doi.org/10.48550/arxiv.2608.03584)"
     author: Lydia Manikonda and Dominique Outlaw
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lydia Manikonda and Dominique Outlaw 2026
 
-Lydia Manikonda and Dominique Outlaw. (2026). Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools. https://arxiv.org/abs/2608.03584
+Lydia Manikonda and Dominique Outlaw. (2026). Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools. https://arxiv.org/abs/2608.03584 [doi:10.48550/arxiv.2608.03584](https://doi.org/10.48550/arxiv.2608.03584)
 
 `q2 · i?` · `associational · r2`
 

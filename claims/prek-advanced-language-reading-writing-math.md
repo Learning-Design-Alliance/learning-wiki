@@ -47,7 +47,7 @@ The summary reports, citing Gormley, Gayer, Phillips, and Dawson (2005) on unive
 
 ## Related Claims
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — related
-- [Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy](cl-early-childhood-education-improves-school-readiness.md) — related
+- Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy — related
 - [Early childhood education attendance is associated with decreased high school disciplinary measures including juvenile incarceration compared to similar non-attending children](ece-decreased-discipline-incarceration.md) — related
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related
 - [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — a broader claim this one bears on

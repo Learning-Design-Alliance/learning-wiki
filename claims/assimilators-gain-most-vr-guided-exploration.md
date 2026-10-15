@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chwen-jen-chen-2005
-    resource: "https://eric.ed.gov/?id=EJ728898"
-    title: "Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail. (2005). Are Learning Styles Relevant To Virtual Reality? Journal of Research on Technology in Education, 38(2). https://eric.ed.gov/?id=EJ728898"
+    resource: "https://doi.org/10.1080/15391523.2005.10782453"
+    title: "Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail. (2005). Are Learning Styles Relevant To Virtual Reality? Journal of Research on Technology in Education, 38(2). https://eric.ed.gov/?id=EJ728898 [doi:10.1080/15391523.2005.10782453](https://doi.org/10.1080/15391523.2005.10782453)"
     author: "Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail"
     q: 3
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Chwen Jen Chen 2005
 
-Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail. (2005). Are Learning Styles Relevant To Virtual Reality? Journal of Research on Technology in Education, 38(2). https://eric.ed.gov/?id=EJ728898
+Chwen Jen Chen, Seong Chong Toh, & Wan Mohd Fauzy Wan Ismail. (2005). Are Learning Styles Relevant To Virtual Reality? Journal of Research on Technology in Education, 38(2). https://eric.ed.gov/?id=EJ728898 [doi:10.1080/15391523.2005.10782453](https://doi.org/10.1080/15391523.2005.10782453)
 
 `q3 · i3` · `causal · r2`
 

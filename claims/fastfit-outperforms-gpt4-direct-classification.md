@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: youssef-medhat-2026
-    resource: "https://arxiv.org/abs/2606.10736"
-    title: "Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736"
+    resource: "https://doi.org/10.48550/arxiv.2606.10736"
+    title: "Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736 [doi:10.48550/arxiv.2606.10736](https://doi.org/10.48550/arxiv.2606.10736)"
     author: Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Youssef Medhat 2026
 
-Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736
+Youssef Medhat, Junsoo Park, Ploy Thajchayapong and Ashok K. Goel. (2026). Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs. CSEDM'26: 10th Workshop on Computer Science Educational Data Mining. https://arxiv.org/abs/2606.10736 [doi:10.48550/arxiv.2606.10736](https://doi.org/10.48550/arxiv.2606.10736)
 
 `q2 · i?` · `design · r2`
 
@@ -46,4 +46,3 @@ Comparison in the Method section (Table 1) of GPT-4 applied directly at inferenc
 
 - [Classifier errors cluster into three interpretable patterns, and the unknown abstention class is well classified (F1 = 0.93), reliably filtering off-topic chat](classifier-error-patterns-and-abstention-f1.md) — related
 - [A few-shot FastFit classifier maps conversational AI teaching assistant questions to 43 curriculum topic labels with 80.0% accuracy on a 70-question gold set](fastfit-few-shot-topic-classification-80-accuracy.md) — possibly the same claim (merge candidate)
-- [GPT-4 classifies self-affirmation essays reasonably in zero-shot mode but below fine-tuned BERT, and few-shot prompting does not appreciably improve it](gpt4-zero-shot-below-finetuned-bert-fewshot-plateau.md)

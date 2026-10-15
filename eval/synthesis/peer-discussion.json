@@ -121,10 +121,6 @@
           "+"
         ],
         [
-          "meta-analytic-moderate-large-effects-collaborative-learning",
-          "+"
-        ],
-        [
           "interactive-beats-constructive-concept-mapping",
           "+"
         ],
@@ -151,16 +147,8 @@
       "question": "How do learners receive vote-and-discuss routines?",
       "members": [
         [
-          "clicker-mpi-liked-by-preservice-teachers",
-          "+"
-        ],
-        [
           "clickers-and-lecture-rated-above-textbook",
           "+"
-        ],
-        [
-          "no-instructor-bias-clicker-perceptions",
-          "~"
         ],
         [
           "clickers-fun-variation-over-learning",

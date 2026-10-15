@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lan-anh-do-2026
-    resource: "https://arxiv.org/abs/2607.28651"
-    title: "Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas. (2026). Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents. https://arxiv.org/abs/2607.28651"
+    resource: "https://doi.org/10.48550/arxiv.2607.28651"
+    title: "Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas. (2026). Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents. https://arxiv.org/abs/2607.28651 [doi:10.48550/arxiv.2607.28651](https://doi.org/10.48550/arxiv.2607.28651)"
     author: Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lan Anh Do 2026
 
-Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas. (2026). Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents. https://arxiv.org/abs/2607.28651
+Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas. (2026). Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents. https://arxiv.org/abs/2607.28651 [doi:10.48550/arxiv.2607.28651](https://doi.org/10.48550/arxiv.2607.28651)
 
 `q2 · i?` · `design · r3`
 

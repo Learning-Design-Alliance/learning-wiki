@@ -18,7 +18,7 @@ sources:
 # Reading Apprenticeship Academic Literacy (RAAL)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Reading Apprenticeship Academic Literacy (RAAL) is Reading Apprenticeship's targeted year-long programme for students reading below grade level, delivered by trained and coached teachers in a dedicated daily class.
@@ -28,8 +28,6 @@ Reading Apprenticeship Academic Literacy (RAAL) is Reading Apprenticeship's targ
 - **Reading Apprenticeship Academic Literacy (RAAL) course for struggling readers**: RAAL is "the only RA program targeted to struggling readers." Students reading 2 to 5 years below grade level receive RA instruction during a daily class period, replacing non-reading electives such as art or music. It requires at least one teacher assigned to a year-long dedicated class, with a 5-day pre-course institute, a 2-day fall institute, and on-site and online coaching. (Reading Apprenticeship (2024))
 
 ### Claims
-- [RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10)](../claims/raal-significant-positive-effects.md) [+W]
-- [The overall mean impact of Reading Apprenticeship across four variations is +0.11](../claims/ra-mean-impact-plus-point-one-one.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,8 +61,6 @@ RAAL is "the only RA program targeted to struggling readers." Students reading 2
 
 ## Claims
 
-- [RAAL, the targeted RA program, had significant positive effects versus control (effect size +0.10)](../claims/raal-significant-positive-effects.md) [+W]
-- [The overall mean impact of Reading Apprenticeship across four variations is +0.11](../claims/ra-mean-impact-plus-point-one-one.md) [+W]
 
 ## Related Elements
 

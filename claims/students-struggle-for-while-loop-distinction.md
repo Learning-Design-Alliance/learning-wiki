@@ -45,6 +45,6 @@ Response-pattern analysis of Item 16 (Loops-FKSA1) in the main study, requiring 
 ## Related Claims
 
 - [The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error](taxonomy-decodes-overlapping-loop-misconceptions.md) — related
-- [Users have difficulty distinguishing between the various kinds of document types, resource types and formats in a faceted taxonomy](users-difficulty-distinguishing-resource-type-facets.md) — related
+- Users have difficulty distinguishing between the various kinds of document types, resource types and formats in a faceted taxonomy — related
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](tools-should-surface-misconceptions-track-difficulties.md) — related
 - [Students struggle with the 'not' operator and logical operator precedence when evaluating conditional statements](students-struggle-operator-precedence-conditionals.md)

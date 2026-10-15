@@ -45,6 +45,6 @@ Figure 2 of the brief, using California Department of Education DataQuest absent
 ## Related Claims
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
 - [In Western states during 2022–23, multilingual learners' chronic absence averaged 34.3 percent versus 28.9 percent for all students](western-states-34-3-percent-english-learner-absence.md) — related
-- [Chronic absenteeism roughly doubled nationwide to about 16 million students after the pandemic](chronic-absenteeism-doubled-nationwide-pandemic.md) — related
+- Chronic absenteeism roughly doubled nationwide to about 16 million students after the pandemic — related
 - [Chronic absence in West Kern Consortium schools dropped 9 percentage points from its 2021–22 peak, with large district-level reductions](west-kern-chronic-absence-reduction.md) — related
 - [Absenteeism severity varies by grade level, peaking in kindergarten, middle school, and 12th grade](absenteeism-severity-grade-level-pattern.md) — related

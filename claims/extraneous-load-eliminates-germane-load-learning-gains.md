@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i0` negligible
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The hint presentation and L and rL condition showed no increase in test scores on identical problems. [→ Relations between cognitive resources and two types of germane load for learning 2015](#miwa-et-al-2017)
@@ -66,5 +67,5 @@ In the near-transfer problem category, no significant "increase was found in the
 
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) — related
-- [There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases](two-types-of-germane-load-related-to-intrinsic-load.md) — related
+- There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases — related
 - [Rootless Podman isolation maintained containment with no observed privilege escalation or cross-identity contamination under classroom load](rootless-podman-containment-no-violations.md) — related

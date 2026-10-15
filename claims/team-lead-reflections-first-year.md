@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: digital-promise-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8"
-    title: "Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8"
+    resource: "https://doi.org/10.51388/20.500.12265/99"
+    title: "Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8 [doi:10.51388/20.500.12265/99](https://doi.org/10.51388/20.500.12265/99)"
     author: Digital Promise
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Digital Promise 2020
 
-Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8
+Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8 [doi:10.51388/20.500.12265/99](https://doi.org/10.51388/20.500.12265/99)
 
 `q2 · i?` · `qualitative · r?`
 

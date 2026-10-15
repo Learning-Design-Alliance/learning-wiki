@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sunny-yu-2026
-    resource: "https://arxiv.org/abs/2605.22687"
-    title: "Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. (2026). The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks. arXiv. https://arxiv.org/abs/2605.22687"
+    resource: "https://doi.org/10.48550/arxiv.2605.22687"
+    title: "Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. (2026). The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks. arXiv. https://arxiv.org/abs/2605.22687 [doi:10.48550/arxiv.2605.22687](https://doi.org/10.48550/arxiv.2605.22687)"
     author: Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Prior AI use carries over: brief AI exposure increases subsequent AI adoption and exacerbates the speedup illusion, while independent exposure does not reduce AI use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Participants exposed to AI in an exposure phase chose AI on 44.5% of subsequent easy tasks versus 27.7% for those who completed tasks independently. [→ Sunny Yu 2026](#sunny-yu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sunny Yu 2026
 
-Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. (2026). The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks. arXiv. https://arxiv.org/abs/2605.22687
+Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins. (2026). The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks. arXiv. https://arxiv.org/abs/2605.22687 [doi:10.48550/arxiv.2605.22687](https://doi.org/10.48550/arxiv.2605.22687)
 
 `q3 · i?` · `causal · r2`
 

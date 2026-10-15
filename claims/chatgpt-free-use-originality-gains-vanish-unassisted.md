@@ -71,9 +71,9 @@ The paper reports this secondhand, citing Wong and Qiu (2026): university studen
 | [Wong 2026](https://doi.org/10.1007/s10648-026-10118-7) | q3 · causal · r3 | i0 · negligible difference on the unassisted task, d = 0.04 (the assisted-task d = 0.79 is not what this code reads); i2 · medium effect, d = 0.52 and 0.48 | this claim; [The regulated 'think first, ChatGPT later' group outperformed both other groups in indepen](regulated-ai-outperforms-independent-originality.md) (qualifies) |
 | [Halani 2026](https://doi.org/10.35542/osf.io/t4cd2_v1) | q2 · theoretical · r2 | i? | this claim |
 | [Gres 2026](https://doi.org/10.31943/wej.v10i2.572) | q3 · review · r2 | i? | [Overreliance on AWE may lower learners' critical thinking and creativity](awe-overreliance-lowers-critical-thinking-creativity.md) (supports) |
-| Mahbub Ul Alam 2026 | q2 · design · r1 | i? | [LLM access boosts individual story creativity while significantly homogenising output acro](llm-access-homogenises-creative-output.md) (qualifies) |
+| [Mahbub Ul Alam 2026](https://doi.org/10.48550/arxiv.2609.13155) | q2 · design · r1 | i? | [LLM access boosts individual story creativity while significantly homogenising output acro](llm-access-homogenises-creative-output.md) (qualifies) |
 | [Niu T 2026](https://doi.org/10.3389/fpsyg.2026.1880052) | q2 · review · r3 | i? | [Primary studies report possible benefits of GenAI for children's divergent thinking, narra](genai-possible-benefits-children-creative-thinking.md) (qualifies) |
-| Stefana Broadbent 2026 | q2 · associational · r1 | i? | [Prototype generation is the only GenAI activity significantly associated with perceived lo](prototype-generation-linked-ownership-loss.md) (qualifies) |
+| [Stefana Broadbent 2026](https://doi.org/10.48550/arxiv.2607.17094) | q2 · associational · r1 | i? | [Prototype generation is the only GenAI activity significantly associated with perceived lo](prototype-generation-linked-ownership-loss.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

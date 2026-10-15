@@ -61,29 +61,30 @@ Cross-study synthesis of norm development. The review states that "productive no
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What conditions make a community productive: norms, trust, leadership, active participation?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **6 distinct studies** (3 qualitative, 1 review, 1 associational, 1 design), `q1`–`q2`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*What conditions make a community productive: norms, trust, leadership, active participation?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **7 distinct studies** (3 qualitative, 2 design, 1 review, 1 associational), `q1`–`q2`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Harvey 2022 | q2 · review · r2 | i? | this claim; [PLC with an appointed teacher leader were more productive than groups with no appointed le](teacher-leader-more-productive-plc.md) (supports) |
 | [Prytula 2012](https://doi.org/10.5539/ies.v5n4p112) | q2 · qualitative · r3 | i? | [Disagreements within a PLC can catalyze teacher learning rather than impede it](plc-disagreements-catalyze-learning.md) (supports) |
-| Irving 2013 | q2 · qualitative · r3 | i? | [The quality of inter-group interactions shifted from brief, superficial exchanges to long,](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) (supports) |
+| [Irving 2013](https://doi.org/10.48550/arxiv.1312.1953) | q2 · qualitative · r3 | i? | [The quality of inter-group interactions shifted from brief, superficial exchanges to long,](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) (supports) |
 | [Wabike 2021](https://doi.org/10.5296/jei.v7i2.18814) | q2 · associational · r1 | i?; i1 | [Active participation in a community has a more significant impact on learning than mere me](active-participation-beats-mere-membership-for-learning.md) (supports); [Honours community members perceive a safe and supportive environment that facilitates expl](honours-community-safe-supportive-learning-environment.md) (supports) |
-| Pittaway 2014 | q1 / q2 · design · r2 | i? | [Online learning communities do not simply emerge; they must be designed for and scaffolded](online-communities-must-be-designed-and-scaffolded.md) (supports); [Fortnightly web conferences with open-ended discussion supported students' academic and so](web-conferences-support-online-community.md) (supports) |
-| Murphy 2009 | q2 · qualitative · r2 | i? | [Creating community and interacting with students online required deliberate, planned effor](online-community-requires-conscious-effort.md) (supports) |
+| Pittaway 2014 | q1 · design · r2 | i? | [Online learning communities do not simply emerge; they must be designed for and scaffolded](online-communities-must-be-designed-and-scaffolded.md) (supports) |
+| [Murphy 2009](https://doi.org/10.19173/irrodl.v10i3.579) | q2 · qualitative · r2 | i? | [Creating community and interacting with students online required deliberate, planned effor](online-community-requires-conscious-effort.md) (supports) |
+| [Pittaway 2014](https://doi.org/10.14221/ajte.2014v39n7.10) | q2 · design · r2 | i? | [Fortnightly web conferences with open-ended discussion supported students' academic and so](web-conferences-support-online-community.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
 
 
 ## Related Claims
-- [In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice](boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice.md) — related
+- In one narrative inquiry, boundary crossing collaboration between a mathematics education researcher and an informal educator created a space for a new understanding of mathematics as normal human practice — related
 - [Disagreements within a PLC can catalyze teacher learning rather than impede it](plc-disagreements-catalyze-learning.md) — related
 - [PLC in mathematics in prior research pursue three distinct objects, with developing teachers' repertoire of teaching actions the most common](plc-mathematics-three-objects-repertoire-most-common.md) — related
 - [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — related
 - [Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies](plc-object-outcome-mismatch.md) — related
 - [A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment](teacher-growth-three-areas-guiding-preschool-math.md) — related
-- [Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice](situated-learning-three-barrier-categories.md) — related
+- Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice — related
 - [Teacher resistance as an exercise of teacher agency is a fundamental challenge to current PLC formulations](teacher-resistance-agency-challenges-plc.md) — related
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rijmen-2009
-    resource: "http://www.ets.org/research/contact.html"
-    title: "Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html"
+    resource: "https://doi.org/10.1002/j.2333-8504.2009.tb02160.x"
+    title: "Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)"
     author: Rijmen, F.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rijmen 2009
 
-Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
+Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -45,5 +45,5 @@ Analytical derivation in the paper, using the graphical model framework applied 
 ## Related Claims
 - [Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals](mml-second-order-dimension-two-dimensional-integrals.md) — related
 - [Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality](mml-complexity-scales-with-clique-state-spaces.md) — a broader claim this one bears on
-- [Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable](bifactor-within-occasion-tractable-cliques.md) — related
+- Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable — related
 - Under ordinal (WLSMV) estimation the bifactor model is not identifiable, with the S-1 diagnostic implicating the effectiveness-specific factor — related

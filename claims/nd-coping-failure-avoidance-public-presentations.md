@@ -53,4 +53,4 @@ Interview study with four ND computing students on scenarios where prior strateg
 - [Neurodivergent students' comfort is highest for fully structured assignments and lowest for assignments with no structure](nd-comfort-highest-fully-structured-assignments.md) — related
 - [Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2](nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) — related
 - [ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration](nd-nt-prefer-some-instructor-involvement-in-person.md) — related
-- [Work-avoidant orientation correlates negatively with GPA in the project-based course](gpa-negative-correlation-work-avoidant.md) — related
+- Work-avoidant orientation correlates negatively with GPA in the project-based course — related

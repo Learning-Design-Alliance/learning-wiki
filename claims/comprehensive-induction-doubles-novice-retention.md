@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: podolsky-2016
-    resource: "https://learningpolicyinstitute.org/product/solving-teacher-shortage"
-    title: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage"
+    resource: "https://doi.org/10.54300/262.960"
+    title: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage [doi:10.54300/262.960](https://doi.org/10.54300/262.960)"
     author: "Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Podolsky 2016
 
-Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage
+Podolsky, A., Kini, T., Bishop, J., & Darling-Hammond, L. (2016). Solving the Teacher Shortage: How to Attract and Retain Excellent Educators. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/solving-teacher-shortage [doi:10.54300/262.960](https://doi.org/10.54300/262.960)
 
 `q2 · i?` · `review · r2`
 

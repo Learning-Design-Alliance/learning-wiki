@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Contradictions between community objectives (the implementing organization's goals) and individual objectives (the typical end-user's goals) are gaining increasing attention in discussions of workplace computer systems, and appear in education as well. [→ Gilbert 1999](#gilbert-1999)
@@ -62,6 +63,6 @@ The paper reports, citing Perkins (1985), that many student users' individual go
 
 
 ## Related Claims
-- [Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL](chat-contradictions-activity-systems-rationale-for-csl.md) — a broader claim this one bears on
-- [Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection](contradictions-transform-olr-into-reflection-instrument.md) — a narrower finding that bears on this claim
+- Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL — a broader claim this one bears on
+- Contradictions surrounding the OLR drove students to appropriate it, transforming it from an object of confusion into an instrument of critical reflection — a narrower finding that bears on this claim
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related

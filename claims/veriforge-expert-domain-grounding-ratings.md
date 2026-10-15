@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ruqi-sun-2026
-    resource: "https://arxiv.org/abs/2608.09698"
-    title: "Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698"
+    resource: "https://doi.org/10.48550/arxiv.2608.09698"
+    title: "Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698 [doi:10.48550/arxiv.2608.09698](https://doi.org/10.48550/arxiv.2608.09698)"
     author: Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Blind expert raters judged VeriForge passages as conveying stronger perceived authorial domain competence, with other quality dimensions showing uncorrected trends
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Perceived authorial domain competence was rated higher for VeriForge (M=4.58 vs M=3.58; r=.818) and remained significant after FDR correction. [→ Ruqi Sun 2026](#ruqi-sun-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ruqi Sun 2026
 
-Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698
+Ruqi Sun, Jiaping Li, Wenhui Tao, Ximing Zheng, Yuefeng Tan, Jiahao Wei, and Yuxin Ma. (2026). VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding. https://arxiv.org/abs/2608.09698 [doi:10.48550/arxiv.2608.09698](https://doi.org/10.48550/arxiv.2608.09698)
 
 `q2 · i3` · `causal · r2`
 

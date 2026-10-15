@@ -43,5 +43,5 @@ Regression series predicting normalized assessment scores from a prior-score bas
 ## Related Claims
 - [Students' conceptual-question and editing-request LLM usage is positively correlated with exam outcomes in the spring semester](conceptual-questions-editing-positive-exam-outcomes.md) — related
 - [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](pta-traits-beat-dialogue-act-bloom-baselines.md) — related
-- [Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets](time-window-features-null-for-lr-boost-nonlinear.md) — related
+- Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets — related
 - [Conceptual Questions about mathematics are a strong negative indicator of assignment 6 scores](math-conceptual-questions-negative-a6.md) — related

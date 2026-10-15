@@ -11,8 +11,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: philip-m-gleason-2016
-    resource: "https://www.mathematica.org/publications/whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools"
-    title: "Philip M. Gleason. (2016). What's the Secret Ingredient? Searching for Policies and Practices that Make Charter Schools Successful. Working Paper 47. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools"
+    resource: "https://doi.org/10.1080/15582159.2017.1395620"
+    title: "Philip M. Gleason. (2016). What's the Secret Ingredient? Searching for Policies and Practices that Make Charter Schools Successful. Working Paper 47. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools [doi:10.1080/15582159.2017.1395620](https://doi.org/10.1080/15582159.2017.1395620)"
     author: Philip M. Gleason
     q: 2
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### Philip M. Gleason 2016
 
-Philip M. Gleason. (2016). What's the Secret Ingredient? Searching for Policies and Practices that Make Charter Schools Successful. Working Paper 47. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools
+Philip M. Gleason. (2016). What's the Secret Ingredient? Searching for Policies and Practices that Make Charter Schools Successful. Working Paper 47. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools [doi:10.1080/15582159.2017.1395620](https://doi.org/10.1080/15582159.2017.1395620)
 
 `q2 · i?` · `review · r?`
 

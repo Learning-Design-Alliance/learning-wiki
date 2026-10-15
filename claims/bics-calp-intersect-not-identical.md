@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The cognitive and social aspects of language proficiency intersect but are not identical or reducible one to the other. [→ Cummins 1999](#cummins-1999)
@@ -47,9 +48,9 @@ This is a conceptual argument in an opinion paper: Cummins reasons that all chil
 - [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](calp-can-precede-bics-in-certain-situations.md) — related
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — related
 - [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](bics-acquired-faster-than-calc-immigrant-children.md) — related
-- [The Cognitive Model does not address the social aspect of L2 writing and assumes uniform cognitive processes](cognitive-model-omits-social-aspect-of-writing.md) — related
-- [Reading difficulty occurs when one aspect of the interactive reading process is excluded for an extended period of time](reading-difficulty-excluded-aspect-extended-time.md) — related
-- [Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students](academic-proficiency-takes-5-7-years.md) — related
-- [Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability](sociocultural-critique-cummins-framework.md) — reports the opposite
+- The Cognitive Model does not address the social aspect of L2 writing and assumes uniform cognitive processes — related
+- Reading difficulty occurs when one aspect of the interactive reading process is excluded for an extended period of time — related
+- Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students — related
+- Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability — reports the opposite
 - [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related

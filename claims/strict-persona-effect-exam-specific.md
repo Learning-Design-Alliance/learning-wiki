@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: habibullah-2026
-    resource: "https://arxiv.org/abs/2609.29333"
-    title: "Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). Where LLM graders succeed and break: Evidence from two computer-science exams. arXiv. https://arxiv.org/abs/2609.29333"
+    resource: "https://doi.org/10.48550/arxiv.2609.29333"
+    title: "Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). Where LLM graders succeed and break: Evidence from two computer-science exams. arXiv. https://arxiv.org/abs/2609.29333 [doi:10.48550/arxiv.2609.29333](https://doi.org/10.48550/arxiv.2609.29333)"
     author: "Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N."
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Habibullah 2026
 
-Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). Where LLM graders succeed and break: Evidence from two computer-science exams. arXiv. https://arxiv.org/abs/2609.29333
+Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). Where LLM graders succeed and break: Evidence from two computer-science exams. arXiv. https://arxiv.org/abs/2609.29333 [doi:10.48550/arxiv.2609.29333](https://doi.org/10.48550/arxiv.2609.29333)
 
 `q2 · i3` · `causal · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sijing-yin-2026
-    resource: "https://arxiv.org/abs/2610.05783"
-    title: "Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783"
+    resource: "https://doi.org/10.48550/arxiv.2610.05783"
+    title: "Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783 [doi:10.48550/arxiv.2610.05783](https://doi.org/10.48550/arxiv.2610.05783)"
     author: Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # CLARA annotations align with blinded educator judgments, with 0.81 pairwise agreement and highest-rated educational interpretability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In blinded human evaluation, average pairwise annotation agreement across three educators per story reaches 0.81, and educational interpretability receives the highest average criterion score. [→ Sijing Yin 2026](#sijing-yin-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sijing Yin 2026
 
-Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783
+Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783 [doi:10.48550/arxiv.2610.05783](https://doi.org/10.48550/arxiv.2610.05783)
 
 `q2 · i?` · `design · r2`
 

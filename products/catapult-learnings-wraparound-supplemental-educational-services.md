@@ -18,7 +18,7 @@ sources:
 # Catapult Learning's Wraparound Supplemental Educational Services
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A Catapult Learning supplemental-education programme that delivers AchieveLiteracy and AchieveMath curricula through structured, low-ratio small-group instruction in literacy and mathematics.
@@ -30,7 +30,6 @@ A Catapult Learning supplemental-education programme that delivers AchieveLitera
 
 ### Claims
 - [Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)](../claims/wraparound-ses-improves-math-achievement.md) [+W]
-- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](../claims/wraparound-ses-subgroup-gains.md) [+W]
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](../claims/direct-instruction-improves-outcomes.md) [+M]
 
 ## Related Products and Programmes
@@ -67,7 +66,6 @@ The Wraparound program delivers systematic, small-group instruction in literacy 
 ## Claims
 
 - [Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)](../claims/wraparound-ses-improves-math-achievement.md) [+W]
-- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](../claims/wraparound-ses-subgroup-gains.md) [+W]
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](../claims/direct-instruction-improves-outcomes.md) [+M]
 
 ## Related Elements
@@ -110,7 +108,6 @@ Beyond academic instruction, the Wraparound program offers counseling services t
 ## Claims
 
 - [Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)](../claims/wraparound-ses-improves-math-achievement.md) [+W]
-- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](../claims/wraparound-ses-subgroup-gains.md) [+W]
 
 ## Related Elements
 

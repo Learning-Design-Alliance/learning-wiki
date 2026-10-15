@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i1` The replication study with 267 children found significantly greater social skills gains (ES = +0.24) and stronger teacher-child (ES = +0.33) and parent-teacher (ES = +0.36) relationships compared to controls. [→ Getting Ready 2025](#getting-ready-2025)
@@ -44,8 +45,8 @@ Second cluster randomized trial in publicly funded Nebraska preschool programs w
 
 ## Related Claims
 - [In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships](tapp-strengthens-parent-teacher-relationships.md) — related
-- [TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools)](tapp-teacher-reported-adaptive-behavior-social-skills-gains.md) — related
+- TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools) — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
-- [Getting Ready shows a strong evidence rating for social-emotional learning, with an average effect size of +0.22 across two studies and 487 students](getting-ready-sel-strong-rating.md) — related
-- [The first trial also found social-emotional gains including increased attachment and initiative and reduced anxiety/withdrawal](getting-ready-social-emotional-outcomes-study-one.md) — related
+- Getting Ready shows a strong evidence rating for social-emotional learning, with an average effect size of +0.22 across two studies and 487 students — related
+- The first trial also found social-emotional gains including increased attachment and initiative and reduced anxiety/withdrawal — related
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — related

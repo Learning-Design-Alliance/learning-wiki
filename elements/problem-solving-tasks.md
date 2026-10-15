@@ -13,7 +13,7 @@ generated:
 # Problem-Solving Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 9 studies (3 causal, 3 review, 2 theoretical, 1 qualitative), `q1`–`q3` · 0 of 9 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 8 studies (3 causal, 2 review, 2 theoretical, 1 qualitative), `q1`–`q3` · 0 of 8 report an effect size · 5 claims rest on one study
 
 ## Description
 Problem-solving tasks are structured activities in which learners must apply knowledge to reach a goal state that is not directly given — diagnosing a fault, designing a solution, or deciding among alternatives. Unlike routine exercises, they require learners to select and coordinate strategies, making them the primary vehicle for developing analytical reasoning and transferable skill.
@@ -53,7 +53,6 @@ Well-designed problem-solving tasks sit at the right point on the guidance spect
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Computer-based simulation tasks assess problem-solving, reasoning, and evaluation skills at scale](../claims/computer-based-simulations-assess-inquiry-skills.md) [+W]
 - [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](../claims/problem-based-principal-preparation-self-efficacy.md) [+W]
 - [Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly](../claims/genai-evaluation-null-summative-algorithms.md) [~W]
 - [QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses](../claims/active-learning-pedagogies-qr-redesign.md) [+W]

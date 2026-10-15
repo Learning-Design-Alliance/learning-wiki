@@ -44,6 +44,6 @@ A second student-level randomized study in a large suburban southern California 
 
 ## Related Claims
 - [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](barr-multisite-rct-map-math-es-008.md) — related
-- [In a large suburban southern California high school, BARR produced a significant positive reading effect (+0.14), larger for struggling readers (+0.21)](barr-suburban-high-school-reading-014-struggling-021.md) — related
+- In a large suburban southern California high school, BARR produced a significant positive reading effect (+0.14), larger for struggling readers (+0.21) — related
 - [Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)](barr-student-level-rcts-nwea-map-reading-009.md) — related
 - [In a large multi-site cluster randomized study, BARR improved PSAT/NMSQT math scores in one cohort but the second cohort performed similarly to comparison students](barr-cluster-randomized-psat-math-mixed-cohorts.md) — related

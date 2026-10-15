@@ -44,4 +44,4 @@ The brief's stated conclusion from its analysis of competencies and later outcom
 
 ## Related Claims
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
-- [Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains](act-deep-interaction-only-practical-competence.md) — related
+- Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains — related

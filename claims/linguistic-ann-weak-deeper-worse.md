@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jordan-j-bird-2024
-    resource: "https://arxiv.org/abs/2411.17593"
-    title: "Jordan J. Bird. (2024). What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics. arXiv preprint. https://arxiv.org/abs/2411.17593"
+    resource: "https://doi.org/10.48550/arxiv.2411.17593"
+    title: "Jordan J. Bird. (2024). What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics. arXiv preprint. https://arxiv.org/abs/2411.17593 [doi:10.48550/arxiv.2411.17593](https://doi.org/10.48550/arxiv.2411.17593)"
     author: Jordan J. Bird
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Neural networks on linguistic features classify Key Stages poorly, with deeper networks performing worse; the best (one hidden layer, 175 ReLU) reached F1 = 0.392
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The best linguistic-feature neural network had one hidden layer of 175 rectified linear units with an F1 score of 0.392. [→ Jordan J. Bird 2024](#jordan-j-bird-2024)
@@ -40,7 +40,7 @@ sources:
 
 ### Jordan J. Bird 2024
 
-Jordan J. Bird. (2024). What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics. arXiv preprint. https://arxiv.org/abs/2411.17593
+Jordan J. Bird. (2024). What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics. arXiv preprint. https://arxiv.org/abs/2411.17593 [doi:10.48550/arxiv.2411.17593](https://doi.org/10.48550/arxiv.2411.17593)
 
 `q2 · i?` · `design · r2`
 

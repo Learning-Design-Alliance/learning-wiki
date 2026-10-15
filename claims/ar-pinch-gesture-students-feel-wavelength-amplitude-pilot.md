@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` All 29 students agreed the pinch-and-spread motion helped them feel what wavelength is (mean 4.52), and the amplitude statement received the highest mean, 4.59. [→ Ofek Levy 2026](#ofek-levy-2026)
@@ -43,5 +44,5 @@ Pilot attitude survey in a class of 29 second-year medical imaging majors in an 
 
 
 ## Related Claims
-- [The article argues that for quantities represented spatially, such as amplitude and wavelength, the hand itself moving in space may be a more natural control than a slider or input box](hand-as-natural-control-for-spatial-quantities.md) — a broader claim this one bears on
+- The article argues that for quantities represented spatially, such as amplitude and wavelength, the hand itself moving in space may be a more natural control than a slider or input box — a broader claim this one bears on
 - [In the pilot, 93% of students found controlling the wave in the air natural and 86% reported feeling more engaged and focused than in regular learning](ar-gesture-control-felt-natural-and-increased-engagement-pilot.md) — related

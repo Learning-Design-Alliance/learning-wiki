@@ -44,7 +44,7 @@ Narrative synthesis of the reviewed corpus: the review attributes the engagement
 
 ## Related Claims
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — related
-- [Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos](chatgpt-brainstorming-partner-affordances.md) — a narrower finding that bears on this claim
+- Teachers find ChatGPT a creative, fast, iterative brainstorming partner that adds specific numbers and details when posing math questions from photos — a narrower finding that bears on this claim
 - [AI agents designed for specific educational purposes can support joyful assessment by creating low-stakes opportunities for practice, feedback, reflection, personalization, and multimodal demonstration of learning](ai-agents-support-joyful-assessment.md) — a narrower finding that bears on this claim
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - A structured narrative synthesis of GenAI/AI in STEAM education screened 107 records and included 15 sources in the reviewed corpus — related

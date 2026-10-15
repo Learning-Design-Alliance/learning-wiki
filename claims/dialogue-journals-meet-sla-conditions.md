@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Dialogue journals provide meaningful communication, comprehensible input, output opportunities, and interaction, conditions researchers identify as necessary for second language acquisition. [→ Kimberly Miller Linnell 2010](#kimberly-miller-linnell-2010)
@@ -46,9 +47,9 @@ Theoretical argument by the author, citing second language acquisition research 
 - [Reading and Language](../learner-variables/reading-and-language.md) — outcome: instruction changes it
 
 ## Related Claims
-- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — reports the opposite
-- [Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning](khanmigo-language-learning-potential-fully-supported.md) — related
-- [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — a broader claim this one bears on
+- There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — reports the opposite
+- Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning — related
+- Comprehensible input in natural language contexts is presented as essential to second language acquisition — a broader claim this one bears on
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — a broader claim this one bears on
 - [Syntactic rather than semantic processing of input is essential for correcting incomprehensible output](syntactic-processing-corrects-incomprehensible-output.md) — related

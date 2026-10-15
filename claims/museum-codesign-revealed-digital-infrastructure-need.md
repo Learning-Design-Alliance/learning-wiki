@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jiaojiao-zhao-2026
-    resource: "https://arxiv.org/abs/2606.09041"
-    title: "Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041"
+    resource: "https://doi.org/10.48550/arxiv.2606.09041"
+    title: "Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041 [doi:10.48550/arxiv.2606.09041](https://doi.org/10.48550/arxiv.2606.09041)"
     author: Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jiaojiao Zhao 2026
 
-Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041
+Jiaojiao Zhao, Weisheng Zhang, Jiawen Cai, Haibin Gao, and Luyao Zhang. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. https://arxiv.org/abs/2606.09041 [doi:10.48550/arxiv.2606.09041](https://doi.org/10.48550/arxiv.2606.09041)
 
 `q2 · i?` · `design · r2`
 
@@ -44,5 +44,5 @@ Results section of a bounded case study of two undergraduates in a 7-week CBL co
 
 ## Related Claims
 - [The bilingual cultural map functioned as a boundary object supporting divergent interpretations across students, museum educators, and end-users without requiring semantic consensus](cultural-map-boundary-object-distributed-cognition.md) — related
-- [Surveyed LEAs commonly lack key bilingual infrastructure, including materials in languages other than English and bilingual teaching supports](sv-leas-lack-bilingual-infrastructure-materials-and-pd.md) — related
+- Surveyed LEAs commonly lack key bilingual infrastructure, including materials in languages other than English and bilingual teaching supports — related
 - [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related

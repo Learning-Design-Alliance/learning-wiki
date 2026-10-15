@@ -17,7 +17,7 @@ sources:
 # Learning unit: sentence-translation file cards sorted into boxes by self-test performance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The learning unit consists of file cards with one corner removed and four or five boxes. Each card carries a target-language sentence with the new word underlined on one side and a translation on the other. After self-testing by reproducing the whole sentence, the student sorts each card into one of three boxes by whether the answer was immediate, delayed, or wrong, reassigning cards at each periodic test; a fourth box may hold over-familiar items needing only annual checks.
@@ -40,8 +40,6 @@ The learning unit consists of file cards with one corner removed and four or fiv
 
 ## Claims
 
-- [The traditional vocabulary book's written record becomes disorganised and unwieldy, deterring students from referring back to specific items](../claims/vocabulary-book-record-disorganised-unwieldy.md) [+W]
-- [Vocabulary-book revision is inefficient because most recorded items are already known, so students wade through pages to find the few unknown words](../claims/vocabulary-book-revision-redundancy-inefficient.md) [+W]
 
 ## Related Elements
 - 

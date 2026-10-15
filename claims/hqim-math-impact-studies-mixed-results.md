@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: perry-2026
-    resource: "https://eric.ed.gov/?id=ED681340"
-    title: "Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://eric.ed.gov/?id=ED681340"
+    resource: "https://doi.org/10.36315/2026inpact105"
+    title: "Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://eric.ed.gov/?id=ED681340 [doi:10.36315/2026inpact105](https://doi.org/10.36315/2026inpact105)"
     author: "Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Prior HQIM mathematics impact studies show mixed results, with positive effects for Desmos and some Illustrative Mathematics contexts but no significant grade-6 difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r1` · `q2`
+> **Evidence** · 2 studies · 2 design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A middle-grades Desmos study found a positive effect on math scores using a basic usage measure, while a quasi-experimental study found no statistically significant grade-6 achievement difference for Illustrative Mathematics districts versus business-as-usual districts. [→ Perry 2026](#perry-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Perry 2026
 
-Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://eric.ed.gov/?id=ED681340
+Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://eric.ed.gov/?id=ED681340 [doi:10.36315/2026inpact105](https://doi.org/10.36315/2026inpact105)
 
 `q2 · i?` · `design · r1`
 
@@ -61,4 +61,4 @@ The report cites a quasi-experimental study using HQIM adoption data (DePiper et
 
 
 ## Related Claims
-- [In a matched suburban-district study, Imagine IM showed no differences on GCAS for grades 3-5 but significant positive impacts on the MAP (effect size = +0.38), strongest for students with disabilities and economically disadvantaged students](imagine-im-suburban-matched-study-map-038.md) — related
+- In a matched suburban-district study, Imagine IM showed no differences on GCAS for grades 3-5 but significant positive impacts on the MAP (effect size = +0.38), strongest for students with disabilities and economically disadvantaged students — related

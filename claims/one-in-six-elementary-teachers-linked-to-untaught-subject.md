@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: eric-isenberg-2015
-    resource: "https://www.mathematica.org/publications/journal-article-elementary-school-data-issues-for-valueadded-models-implications-for-research"
-    title: "Eric Isenberg, Bing-ru Teh, Elias Walsh. (2015). Elementary School Data Issues for Value-Added Models: Implications for Research. Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/journal-article-elementary-school-data-issues-for-valueadded-models-implications-for-research"
+    resource: "https://doi.org/10.1080/19345747.2014.974231"
+    title: "Eric Isenberg, Bing-ru Teh, Elias Walsh. (2015). Elementary School Data Issues for Value-Added Models: Implications for Research. Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/journal-article-elementary-school-data-issues-for-valueadded-models-implications-for-research [doi:10.1080/19345747.2014.974231](https://doi.org/10.1080/19345747.2014.974231)"
     author: Eric Isenberg, Bing-ru Teh, Elias Walsh
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eric Isenberg 2015
 
-Eric Isenberg, Bing-ru Teh, Elias Walsh. (2015). Elementary School Data Issues for Value-Added Models: Implications for Research. Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/journal-article-elementary-school-data-issues-for-valueadded-models-implications-for-research
+Eric Isenberg, Bing-ru Teh, Elias Walsh. (2015). Elementary School Data Issues for Value-Added Models: Implications for Research. Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/journal-article-elementary-school-data-issues-for-valueadded-models-implications-for-research [doi:10.1080/19345747.2014.974231](https://doi.org/10.1080/19345747.2014.974231)
 
 `q2 · i?` · `associational · r?`
 

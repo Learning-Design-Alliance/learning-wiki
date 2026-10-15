@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Over a year of SCIS implementation, teachers' concerns at Stages 0, 1, and 2 decreased over time while concerns at Stages 4, 5, and 6 increased, supporting the developmental hypothesis. [→ Loucks 1977](#loucks-1977)
@@ -60,5 +61,5 @@ Longitudinal SoCQ study of Kansas elementary teachers implementing SCIS, assesse
 - [Management concerns never predominated for any group in the SCIS implementation, contrary to other innovation studies](management-concerns-never-predominated-scis.md) — related
 - [Anticipating a workshop versus having prior workshop experience differentiates teachers' concern profiles](prior-workshop-experience-differentiates-concerns.md) — related
 - [The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns](workshop-shifts-concerns-toward-user-profile.md) — related
-- [Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly](reentry-without-mentors-greatest-fuller-progress.md) — related
+- Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly — related
 - [Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)](ncstate-brief-training-stage-movement.md) — a narrower finding that bears on this claim

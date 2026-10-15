@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: riahi-2026
-    resource: "https://arxiv.org/abs/2609.29993"
-    title: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993"
+    resource: "https://doi.org/10.48550/arxiv.2609.29993"
+    title: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993 [doi:10.48550/arxiv.2609.29993](https://doi.org/10.48550/arxiv.2609.29993)"
     author: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Log-based evaluation showed chatbot alignment was stronger for responsiveness (88.9%) and persona (81.5%) than for rules (70.4%) and purpose (59.3%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Bot-level evaluation of 27 unique chatbots across four criteria found responsiveness was the strongest dimension (88.9% pass, Avg = 3.67) and purpose alignment the weakest (59.3% pass, Avg = 3.00). [→ Riahi 2026](#riahi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Riahi 2026
 
-Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993
+Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993 [doi:10.48550/arxiv.2609.29993](https://doi.org/10.48550/arxiv.2609.29993)
 
 `q2 · i?` · `design · r2`
 

@@ -44,7 +44,7 @@ Series of robustness specifications reported in Fig. 4 addressing loss to follow
 
 ## Related Claims
 - [Most of the lockdown learning loss reflects reduced knowledge learned rather than transitory day-of-test influences](learning-loss-reflects-knowledge-learned-not-transitory.md) — related
-- [The learning-loss estimates are robust to restricting the sample to constant schools, adding school fixed effects, and coarsened exact matching](covid-closures-losses-robust-to-robustness-checks.md) — related
+- The learning-loss estimates are robust to restricting the sample to constant schools, adding school fixed effects, and coarsened exact matching — related
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
 - [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](predictive-baseline-data-reduce-nonexperimental-bias.md) — a broader claim this one bears on
 - [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) — a broader claim this one bears on

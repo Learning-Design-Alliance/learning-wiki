@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: terzimehić-2025
-    resource: "https://arxiv.org/abs/2506.11789"
-    title: "Terzimehić, N., Bühler, B., & Kasneci, E. (2025). Conversational AI as a Catalyst for Informal Learning: An Empirical Large-Scale Study on LLM Use in Everyday Learning. https://arxiv.org/abs/2506.11789"
+    resource: "https://doi.org/10.48550/arxiv.2506.11789"
+    title: "Terzimehić, N., Bühler, B., & Kasneci, E. (2025). Conversational AI as a Catalyst for Informal Learning: An Empirical Large-Scale Study on LLM Use in Everyday Learning. https://arxiv.org/abs/2506.11789 [doi:10.48550/arxiv.2506.11789](https://doi.org/10.48550/arxiv.2506.11789)"
     author: "Terzimehić, N., Bühler, B., & Kasneci, E."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # LLM learners are younger, more likely male, and score higher on technology affinity than non-learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` LLM learners were significantly younger than non-LLM learners (M = 31 vs M = 35) and more likely to be male (53% vs 64% female among avoiders). [→ Terzimehić 2025](#terzimehic-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Terzimehić 2025
 
-Terzimehić, N., Bühler, B., & Kasneci, E. (2025). Conversational AI as a Catalyst for Informal Learning: An Empirical Large-Scale Study on LLM Use in Everyday Learning. https://arxiv.org/abs/2506.11789
+Terzimehić, N., Bühler, B., & Kasneci, E. (2025). Conversational AI as a Catalyst for Informal Learning: An Empirical Large-Scale Study on LLM Use in Everyday Learning. https://arxiv.org/abs/2506.11789 [doi:10.48550/arxiv.2506.11789](https://doi.org/10.48550/arxiv.2506.11789)
 
 `q2 · i?` · `associational · r1`
 

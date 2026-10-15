@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: stephan-böhm-and-georges-philip-constantine-2015
-    resource: "https://isbnsearch.org/isbn/9789898533364"
-    title: "Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364"
+    resource: "https://doi.org/10.1108/itse-02-2016-0003"
+    title: "Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364 [doi:10.1108/itse-02-2016-0003](https://doi.org/10.1108/itse-02-2016-0003)"
     author: Stephan Böhm and Georges Philip Constantine
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Stephan Böhm and Georges Philip Constantine 2015
 
-Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364
+Stephan Böhm and Georges Philip Constantine. (2015). Impact of Contextuality on Mobile Learning Acceptance: An Empirical Study Based on a Language Learning App. 11th International Conference Mobile Learning 2015. https://isbnsearch.org/isbn/9789898533364 [doi:10.1108/itse-02-2016-0003](https://doi.org/10.1108/itse-02-2016-0003)
 
 `q2 · i?` · `associational · r1`
 
@@ -46,4 +46,4 @@ PLS-SEM analysis of survey data from a net sample of 45 students and young profe
 - [Perceived contextual value is the primary driver of perceived usefulness of the contextual app](pcv-primary-driver-pu.md) — related
 - [Perceived usefulness is the strongest predictor of intention to use the contextual language learning app](pu-strongest-predictor-bi-colale.md) — related
 - [Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app](peou-non-significant-bi-contextual-app.md) — related
-- [Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use](typology-renders-effort-expectancy-nonsignificant.md) — related
+- Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use — related

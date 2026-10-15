@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` School staff argued that FAFSA completion ranking systems, such as Illinois' tiered bronze-to-platinum designations, lower school ratings when students legitimately opt out for military or other non-college pathways. [→ Victoria Jackson 2026](#victoria-jackson-2026)
@@ -43,6 +44,6 @@ In the qualitative interviews, an Illinois school counselor argued that students
 
 
 ## Related Claims
-- [School staff experienced universal FAFSA policies as unfunded mandates that increased counselor workload without added staffing or training](fafsa-mandates-experienced-as-unfunded.md) — related
-- [Louisiana repealed the first universal FAFSA policy in 2024, yet statewide FAFSA completion efforts and completions continued after repeal](louisiana-repeal-completion-continued.md) — related
-- [Illinois's universal FAFSA policy produced a mixed first-year result: submissions rose 0.8% while completions fell 0.2%](illinois-fafsa-policy-mixed-first-year-result.md) — related
+- School staff experienced universal FAFSA policies as unfunded mandates that increased counselor workload without added staffing or training — related
+- Louisiana repealed the first universal FAFSA policy in 2024, yet statewide FAFSA completion efforts and completions continued after repeal — related
+- Illinois's universal FAFSA policy produced a mixed first-year result: submissions rose 0.8% while completions fell 0.2% — related

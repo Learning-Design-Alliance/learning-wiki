@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` On assistments09, both Best-LR and DKT severely overestimate learners when the probability of correct answer is low and underestimate when it is high. [→ Theophile Gervet 2020](#theophile-gervet-2020)
@@ -61,25 +62,24 @@ Section 8 calibration analysis with reliability diagrams binned by predicted and
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Can the system's diagnosis of the learner be trusted?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (4 design, 2 causal, 1 review), `q2`–`q3`, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Can the system's diagnosis of the learner be trusted?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **6 distinct studies** (4 design, 1 review, 1 causal), `q2`–`q3`, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Theophile Gervet 2020 | q2 · design · r2 | i? | this claim |
-| Kirk Vanacore 2026 | q2 · review · r2 | i? | [Emerging evidence indicates generative AI tutors currently struggle to accurately infer st](genai-tutors-struggle-infer-student-knowledge.md) (supports) |
-| Jaewook Kim 2026 | q2 · causal · r2 | i? | [Failing to sort student attempt sequences by ServerTimestamp violates temporal causality a](pkt-temporal-causality-violation-inflates-performance.md) (supports) |
-| Lu 2024 | q3 · design · r2 | i2 | [The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an ](transformer-kt-first-place-edm-cup-2023.md) (qualifies) |
-| Liangbei Xu and Mark A. Davenport 2020 | q2 · causal · r2 | i? | [Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVM](dynemb-tracks-knowledge-without-skill-tags.md) (qualifies) |
-| Hooshyar 2026 | q2 · design · r2 | i? | [Symbolic knowledge injection improves temporal reliability of predictions, yielding lower ](responsible-dkt-temporal-reliability.md) (qualifies) |
-| Peilin Zhan 2026 | q2 · design · r2 | i? | [TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains pla](tsdr-improves-calibration-acc-rmse.md) (qualifies) |
+| [Kirk Vanacore 2026](https://doi.org/10.48550/arxiv.2602.19303) | q2 · review · r2 | i? | [Emerging evidence indicates generative AI tutors currently struggle to accurately infer st](genai-tutors-struggle-infer-student-knowledge.md) (supports) |
+| [Jaewook Kim 2026](https://doi.org/10.48550/arxiv.2605.04727) | q2 · causal · r2 | i? | [Failing to sort student attempt sequences by ServerTimestamp violates temporal causality a](pkt-temporal-causality-violation-inflates-performance.md) (supports) |
+| [Lu 2024](https://doi.org/10.31219/osf.io/3k7z2) | q3 · design · r2 | i2 | [The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an ](transformer-kt-first-place-edm-cup-2023.md) (qualifies) |
+| [Hooshyar 2026](https://doi.org/10.48550/arxiv.2604.08263) | q2 · design · r2 | i? | [Symbolic knowledge injection improves temporal reliability of predictions, yielding lower ](responsible-dkt-temporal-reliability.md) (qualifies) |
+| [Peilin Zhan 2026](https://doi.org/10.48550/arxiv.2605.05958) | q2 · design · r2 | i? | [TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains pla](tsdr-improves-calibration-acc-rmse.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
 
 
 ## Related Claims
-- [Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind](best-lr-and-dkt-lead-markov-methods-lag-nine-datasets.md) — related
-- [DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression](dkt-long-term-information-and-faster-burn-in.md) — related
-- [DynEmb outperforms BMF and DKT baselines in future response prediction across five tutoring datasets, with AUC improvement up to 5.43% in the New User setting](dynemb-outperforms-dkt-and-bmf-baselines.md) — related
+- Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind — related
+- DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression — related
+- DynEmb outperforms BMF and DKT baselines in future response prediction across five tutoring datasets, with AUC improvement up to 5.43% in the New User setting — related
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — related
 - [A structured mixture-of-experts candidate improved some corrections on fixed-evidence cases but introduced new factual and continuity regressions, so activation was held](moe-candidate-mixed-fidelity-result.md) — related

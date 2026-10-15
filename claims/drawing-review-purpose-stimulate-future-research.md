@@ -44,5 +44,5 @@ This is the review's statement of its own aims, in which applied and empirical l
 
 ## Related Claims
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — related
-- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
+- The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — related
 - [Empirical evidence on learner-generated drawing is inconsistent, and the review organizes it around hypotheses grounded in cognitive and strategic processing](inconsistent-drawing-evidence-organized-by-hypotheses.md) — related

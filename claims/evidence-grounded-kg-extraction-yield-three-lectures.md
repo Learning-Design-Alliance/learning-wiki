@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sahil-al-farib-2026
-    resource: "https://arxiv.org/abs/2608.03161"
-    title: "Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, and Md. Tanvir Raihan. (2026). Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning. https://arxiv.org/abs/2608.03161"
+    resource: "https://doi.org/10.48550/arxiv.2608.03161"
+    title: "Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, and Md. Tanvir Raihan. (2026). Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning. https://arxiv.org/abs/2608.03161 [doi:10.48550/arxiv.2608.03161](https://doi.org/10.48550/arxiv.2608.03161)"
     author: Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, and Md. Tanvir Raihan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sahil Al Farib 2026
 
-Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, and Md. Tanvir Raihan. (2026). Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning. https://arxiv.org/abs/2608.03161
+Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, and Md. Tanvir Raihan. (2026). Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning. https://arxiv.org/abs/2608.03161 [doi:10.48550/arxiv.2608.03161](https://doi.org/10.48550/arxiv.2608.03161)
 
 `q2 · i?` · `design · r2`
 

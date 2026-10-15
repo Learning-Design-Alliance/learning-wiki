@@ -66,7 +66,7 @@ A synthesis of eight major meta-analyses of PBL since 1992, reported by the arti
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q2 / q3 · theoretical · r3 | i? | this claim; [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) (qualifies) |
-| Clark 2010 | q2 · associational · r2 | i? | [Direct instruction on forces produces a significant positive effect on Newton's Third Law ](instruction-positive-effect-peaks-then-diminishes.md) (supports) |
+| [Clark 2010](https://doi.org/10.48550/arxiv.1009.0260) | q2 · associational · r2 | i? | [Direct instruction on forces produces a significant positive effect on Newton's Third Law ](instruction-positive-effect-peaks-then-diminishes.md) (supports) |
 | Raafat Gabriel 2009 | q2 · review · r2 | i? | [Explicit teaching is more effective for EFL copular be learning but its effect is not dura](explicit-teaching-effective-but-not-durable.md) (supports) |
 <!-- synthesis:end -->
 

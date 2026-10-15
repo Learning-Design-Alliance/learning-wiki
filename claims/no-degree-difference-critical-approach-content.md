@@ -44,9 +44,9 @@ Null result from the between-subjects ANOVA on Factor 3 among the 403 respondent
 
 ## Related Claims
 - [Teaching experience is significantly and positively related to Iranian EFL teachers' awareness of all four critical pedagogy factors](experience-correlates-critical-pedagogy-awareness.md) — related
-- [Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree](graduate-educated-pe-teachers-endorse-progressivism-perennialism-and-essentialism-more.md) — related
+- Physical education teachers studying in a graduate program endorse progressivism, perennialism and essentialism more than teachers with an undergraduate degree — related
 - [Iranian EFL teachers' awareness of critical pedagogy differs significantly across academic degrees, with PhD holders most aware](phd-holders-most-aware-of-critical-pedagogy.md) — a broader claim this one bears on
 - [PhD teachers show significantly higher awareness than MA teachers of incorporating dialogue and learners' real life into second language instruction](phd-higher-awareness-dialogue-real-life-factor.md) — related
 - [PhD teachers show significantly higher awareness than both MA and BA teachers of liberatory autonomy](phd-higher-awareness-liberatory-autonomy.md) — related
 - [PhD teachers show significantly higher awareness than BA teachers of decision making through negotiation](phd-higher-awareness-decision-making-negotiation.md) — related
-- [Secondary school teachers in 1980s China had low formal English qualifications](china-1980s-secondary-teachers-low-qualifications.md) — related
+- Secondary school teachers in 1980s China had low formal English qualifications — related

@@ -17,7 +17,7 @@ sources:
 # Five basic educational philosophies: traditional-conservative versus contemporary
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 mixed) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article frames teachers' educational beliefs with five basic approaches: "perennialism, essentialism, progressivism, existentialist education and reconstructivism". It groups perennialism and essentialism as "traditional-conservative educational philosophies" and the other three as contemporary, tracing perennialism and essentialism to idealism and realism, and reconstructivism and progressivism to pragmatism. It uses this axis to interpret its survey findings on physical education teachers.
@@ -38,9 +38,6 @@ The article frames teachers' educational beliefs with five basic approaches: "pe
 
 ### Claims
 
-- [Pe Teachers Endorse Existentialist Education Most And Essentialism Least](../claims/pe-teachers-endorse-existentialist-education-most-and-essentialism-least.md) [~M]
-- [Pe Teacher Educational Philosophy Beliefs Differ By Gender](../claims/pe-teacher-educational-philosophy-beliefs-differ-by-gender.md) [~M]
-- [Pe Teacher Essentialism Rises And Progressivism Falls With Seniority](../claims/pe-teacher-essentialism-rises-and-progressivism-falls-with-seniority.md) [~M]
 - [Critical thinking disposition subscales jointly explain about 14% of contemporary educational philosophy preference, with innovation the only significant predictor](../claims/ctds-subscales-predict-contemporary-philosophy-innovation.md) [~W]
 
 ## Related Theories

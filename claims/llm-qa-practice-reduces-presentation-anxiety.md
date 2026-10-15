@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: wen-liang-2026
-    resource: "https://arxiv.org/abs/2606.27380"
-    title: "Wen Liang, Li Siyan, Zackary Rackauckas, and Julia Hirschberg. (2026). A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges. https://arxiv.org/abs/2606.27380"
+    resource: "https://doi.org/10.48550/arxiv.2606.27380"
+    title: "Wen Liang, Li Siyan, Zackary Rackauckas, and Julia Hirschberg. (2026). A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges. https://arxiv.org/abs/2606.27380 [doi:10.48550/arxiv.2606.27380](https://doi.org/10.48550/arxiv.2606.27380)"
     author: Wen Liang, Li Siyan, Zackary Rackauckas, and Julia Hirschberg
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Wen Liang 2026
 
-Wen Liang, Li Siyan, Zackary Rackauckas, and Julia Hirschberg. (2026). A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges. https://arxiv.org/abs/2606.27380
+Wen Liang, Li Siyan, Zackary Rackauckas, and Julia Hirschberg. (2026). A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges. https://arxiv.org/abs/2606.27380 [doi:10.48550/arxiv.2606.27380](https://doi.org/10.48550/arxiv.2606.27380)
 
 `q2 · i?` · `review · r2`
 

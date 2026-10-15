@@ -17,7 +17,7 @@ sources:
 # Piagetian teacher behavioral congruency checklist for analyzing teaching styles
 
 > **Design Method** · [All design methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Mueller's paper translates Piagetian theory into a fifteen-item yes/no behavioral checklist covering environment organization, heterogeneous grouping, learner decision-making, cooperative interaction, active methods, error acceptance, self-evaluation, and avoidance of conformity-valuing tests. Teachers compute 'Planned' and 'Realized Behavioral Congruency Profiles' from 0% to 100%, and rate any teaching style's 'Structural Congruency' to decide use, modification, or elimination.
@@ -38,7 +38,6 @@ Mueller's paper translates Piagetian theory into a fifteen-item yes/no behaviora
 
 ### Claims
 
-- [Discovery method in motor skill learning was superior to teacher-directed approach in children's attitudes and social interaction](../claims/discovery-method-motor-learning-attitudes.md) [+W]
 
 ## Related Patterns
 - 

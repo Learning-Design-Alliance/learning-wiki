@@ -50,10 +50,10 @@ The article states, as background motivating the study, that "a growing body of 
 - [A well-implemented summer learning program (BELL) improves low-income children's reading test scores](bell-summer-program-improves-reading-scores.md) — a narrower finding that bears on this claim
 - [The BELL summer program increases the extent to which parents encourage their children to read during the subsequent school year](bell-summer-program-increases-parent-reading-encouragement.md) — related
 - [A prior random-assignment evaluation found the BELL summer learning intervention effective](bell-summer-program-random-assignment-effective.md) — related
-- [Summer reading loss disproportionately widens academic gaps for low-income children](summer-reading-loss-widens-gaps.md) — a narrower finding that bears on this claim
-- [Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards](springboard-summer-outperforms-matched-comparison.md) — related
-- [Springboard Summer scholars show positive, statistically significant reading growth from end-of-year to beginning-of-year assessments, averaging about 1.8 months](springboard-summer-significant-reading-gains.md) — related
-- [Reading growth after Springboard Summer varies by starting point relative to grade level, with the largest gains for scholars who started below grade level](springboard-summer-gains-vary-by-starting-level.md) — related
+- Summer reading loss disproportionately widens academic gaps for low-income children — a narrower finding that bears on this claim
+- Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards — related
+- Springboard Summer scholars show positive, statistically significant reading growth from end-of-year to beginning-of-year assessments, averaging about 1.8 months — related
+- Reading growth after Springboard Summer varies by starting point relative to grade level, with the largest gains for scholars who started below grade level — related
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — a narrower finding that bears on this claim
 - [Summer learning loss findings call into question explanations based on summer program access and school-year length](summer-loss-explanations-questioned.md) — related
 - [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related

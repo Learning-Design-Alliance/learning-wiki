@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Low-performing CSR elementary schools gained about 2 percentage points in mathematics proficiency with a limited research base model and 4 percentage points with a moderate or moderately strong research base model, but math achievement did not improve in non-low-performing CSR elementary schools. [→ Orland 2010](#orland-2010)
@@ -44,7 +45,7 @@ Analysis of achievement gains from 2002 to 2005 using CSRQ Center ratings of mod
 
 ## Related Claims
 - [No relationship existed between elementary reading achievement gains and selection of a model with a scientific research base](elementary-reading-no-relationship-research-model.md) — related
-- [Middle school CSR schools adopting models with limited scientific research bases realized mathematics and reading gains after three years](middle-school-csr-limited-research-base-gains.md) — related
+- Middle school CSR schools adopting models with limited scientific research bases realized mathematics and reading gains after three years — related
 - [Only one-third of CSR schools adopted reform models identified as having a scientific research base](one-third-csr-schools-research-based-models.md) — related
-- [Five years after receiving CSR awards, schools did not demonstrate larger achievement growth than matched comparison schools](csr-award-no-larger-achievement-growth-five-years.md) — related
-- [Achievement gains in CSR schools had evaporated after five years, returning to baseline levels](csr-gains-evaporated-five-years-baseline.md) — related
+- Five years after receiving CSR awards, schools did not demonstrate larger achievement growth than matched comparison schools — related
+- Achievement gains in CSR schools had evaporated after five years, returning to baseline levels — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: iwatani-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383"
-    title: "Iwatani, E., Means, B., Romero, M. R., & Vang, M. C. (2020). Deepening Science Engagement with Challenge Based Learning: Research Report. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383"
+    resource: "https://doi.org/10.51388/20.500.12265/93"
+    title: "Iwatani, E., Means, B., Romero, M. R., & Vang, M. C. (2020). Deepening Science Engagement with Challenge Based Learning: Research Report. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383 [doi:10.51388/20.500.12265/93](https://doi.org/10.51388/20.500.12265/93)"
     author: "Iwatani, E., Means, B., Romero, M. R., & Vang, M. C."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Challenge based lessons scored significantly higher than NGSS practices-aligned lessons on three of six deeper learning dimensions and equivalent on the other three
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Challenge based lessons scored significantly higher than NGSS practices-aligned lessons on real-world engagement, critical secondary research, and effective communication, with score differences the report prints as between 0.81 and 1.75 standard deviation units. [→ Iwatani 2020](#iwatani-2020)
@@ -40,7 +40,7 @@ sources:
 
 ### Iwatani 2020
 
-Iwatani, E., Means, B., Romero, M. R., & Vang, M. C. (2020). Deepening Science Engagement with Challenge Based Learning: Research Report. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383
+Iwatani, E., Means, B., Romero, M. R., & Vang, M. C. (2020). Deepening Science Engagement with Challenge Based Learning: Research Report. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/f928a607-e645-49d6-abbf-3d9b42cf7383 [doi:10.51388/20.500.12265/93](https://doi.org/10.51388/20.500.12265/93)
 
 `q2 · i?` · `design · r3`
 

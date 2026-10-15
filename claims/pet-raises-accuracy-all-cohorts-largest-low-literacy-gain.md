@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lier-jin-2026
-    resource: "https://arxiv.org/abs/2608.08942"
-    title: "Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942"
+    resource: "https://doi.org/10.48550/arxiv.2608.08942"
+    title: "Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942 [doi:10.48550/arxiv.2608.08942](https://doi.org/10.48550/arxiv.2608.08942)"
     author: Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Applying PET raises accuracy for every user cohort, with the largest gain for the Low Literacy cohort
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All user cohorts benefit from PET, with the largest improvement for the Low Literacy cohort, whose accuracy increases from 82.4% to 83.4%. [→ Lier Jin 2026](#lier-jin-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Lier Jin 2026
 
-Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942
+Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942 [doi:10.48550/arxiv.2608.08942](https://doi.org/10.48550/arxiv.2608.08942)
 
 `q2 · i?` · `causal · r2`
 

@@ -46,11 +46,11 @@ Analysis of interaction logs from 15 of 34 enrolled students who voluntarily use
 - [Dialogic competence is a prerequisite for meaningful engagement with LLM-based chatbots](dialogic-competence-prerequisite-meaningful-ai-engagement.md) — related
 - [Students primarily used the Socratic-tutor chatbot as a study aid aligned with existing study habits rather than for the intended Socratic reflection](chatbot-used-as-study-aid-not-socratic-reflection.md) — related
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related
-- [K-2 students showed sustained high engagement with Puzzlets, choosing it as their first station choice 27 out of 36 times](puzzlets-high-engagement-station-choice.md) — related
+- K-2 students showed sustained high engagement with Puzzlets, choosing it as their first station choice 27 out of 36 times — related
 - [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — related
 - [Primary metrics improved during US holidays, attributed to more motivated voluntary users](holiday-usage-motivation-metric-improvements.md) — related
 - [Chatbot usage analytics show substantial after-hours demand, with 36.8% of interactions occurring outside standard working hours](chatbot-after-hours-usage-demand.md) — related
-- [In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement](genai-practice-platform-uptake-230-submissions.md) — related
+- In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
 - [Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)](strategic-dance-socratic-transactional-switching.md) — related
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
 - [Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English](penny-usage-metrics-japanese-preference.md) — related

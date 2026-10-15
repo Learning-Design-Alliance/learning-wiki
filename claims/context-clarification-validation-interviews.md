@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zwickl-2013
-    resource: "https://arxiv.org/abs/1307.5760"
-    title: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760"
+    resource: "https://doi.org/10.48550/arxiv.1307.5760"
+    title: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760 [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)"
     author: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zwickl 2013
 
-Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
+Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760 [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 

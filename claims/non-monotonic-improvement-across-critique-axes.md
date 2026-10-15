@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: alisa-kovshov-2026
-    resource: "https://arxiv.org/abs/2609.20738"
-    title: "Alisa Kovshov, Anisha Choudhury, Anna Iurchenko, Amy Keeling, Avinatan Hassidim, Ayelet Shasha Evron, Ayça Çakmakli, Diana Akrong, Femi Olanubi, Gal Elidan, Ian Li, Ido Lerer, Katherine Chou, Lidan Hackmon, Michal Gordon, Nir Kerem, Niv Efron, Preeti Singh, Rena Levitt, Rotem Yulzary, Shlomi Ben Shimon, Sophie Allweis, Tracey Lee-Joe, Tzvika Stein, Yaniv Carmel, Yael Haramaty, Yishay Mor, Yossi Matias and Yuri Lev. (2026). Harnessing Generative UI for Education: Tailored Learning Interactives. Google Research. https://arxiv.org/abs/2609.20738"
+    resource: "https://doi.org/10.48550/arxiv.2609.20738"
+    title: "Alisa Kovshov, Anisha Choudhury, Anna Iurchenko, Amy Keeling, Avinatan Hassidim, Ayelet Shasha Evron, Ayça Çakmakli, Diana Akrong, Femi Olanubi, Gal Elidan, Ian Li, Ido Lerer, Katherine Chou, Lidan Hackmon, Michal Gordon, Nir Kerem, Niv Efron, Preeti Singh, Rena Levitt, Rotem Yulzary, Shlomi Ben Shimon, Sophie Allweis, Tracey Lee-Joe, Tzvika Stein, Yaniv Carmel, Yael Haramaty, Yishay Mor, Yossi Matias and Yuri Lev. (2026). Harnessing Generative UI for Education: Tailored Learning Interactives. Google Research. https://arxiv.org/abs/2609.20738 [doi:10.48550/arxiv.2609.20738](https://doi.org/10.48550/arxiv.2609.20738)"
     author: Alisa Kovshov, Anisha Choudhury, Anna Iurchenko, Amy Keeling, Avinatan Hassidim, Ayelet Shasha Evron, Ayça Çakmakli, Diana Akrong, Femi Olanubi, Gal Elidan, Ian Li, Ido Lerer, Katherine Chou, Lidan Hackmon, Michal Gordon, Nir Kerem, Niv Efron, Preeti Singh, Rena Levitt, Rotem Yulzary, Shlomi Ben Shimon, Sophie Allweis, Tracey Lee-Joe, Tzvika Stein, Yaniv Carmel, Yael Haramaty, Yishay Mor, Yossi Matias and Yuri Lev
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alisa Kovshov 2026
 
-Alisa Kovshov, Anisha Choudhury, Anna Iurchenko, Amy Keeling, Avinatan Hassidim, Ayelet Shasha Evron, Ayça Çakmakli, Diana Akrong, Femi Olanubi, Gal Elidan, Ian Li, Ido Lerer, Katherine Chou, Lidan Hackmon, Michal Gordon, Nir Kerem, Niv Efron, Preeti Singh, Rena Levitt, Rotem Yulzary, Shlomi Ben Shimon, Sophie Allweis, Tracey Lee-Joe, Tzvika Stein, Yaniv Carmel, Yael Haramaty, Yishay Mor, Yossi Matias and Yuri Lev. (2026). Harnessing Generative UI for Education: Tailored Learning Interactives. Google Research. https://arxiv.org/abs/2609.20738
+Alisa Kovshov, Anisha Choudhury, Anna Iurchenko, Amy Keeling, Avinatan Hassidim, Ayelet Shasha Evron, Ayça Çakmakli, Diana Akrong, Femi Olanubi, Gal Elidan, Ian Li, Ido Lerer, Katherine Chou, Lidan Hackmon, Michal Gordon, Nir Kerem, Niv Efron, Preeti Singh, Rena Levitt, Rotem Yulzary, Shlomi Ben Shimon, Sophie Allweis, Tracey Lee-Joe, Tzvika Stein, Yaniv Carmel, Yael Haramaty, Yishay Mor, Yossi Matias and Yuri Lev. (2026). Harnessing Generative UI for Education: Tailored Learning Interactives. Google Research. https://arxiv.org/abs/2609.20738 [doi:10.48550/arxiv.2609.20738](https://doi.org/10.48550/arxiv.2609.20738)
 
 `q2 · i?` · `design · r2`
 

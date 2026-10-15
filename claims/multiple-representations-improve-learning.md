@@ -70,7 +70,7 @@ This review addresses the "representation dilemma": students often must learn un
 | [Rau 2017](https://doi.org/10.1007/s10648-016-9365-3) | q2 · review · r? | i? | this claim |
 | [Lin 2016](https://doi.org/10.5539/elt.v9n10p1) | q3 · causal · r2 | i2 | [Video with concurrent narration and on-screen text yields higher immediate macrostructure ](video-narration-text-improves-immediate-macs-comprehension.md) (supports) |
 | Steinbach 2022 | q2 · review · r2 | i? | [Combining voiced auditory descriptions with tactile graphics increased braille readers' li](auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment.md) (supports) |
-| Rakib 2025 | q2 · causal · r1 | i? | [Participants valued multimodal experiences combining visualization with hands-on interacti](multimodal-valued-complex-visualizations-hinder.md) (qualifies) |
+| [Rakib 2025](https://doi.org/10.48550/arxiv.2607.00979) | q2 · causal · r1 | i? | [Participants valued multimodal experiences combining visualization with hands-on interacti](multimodal-valued-complex-visualizations-hinder.md) (qualifies) |
 | Douglas H. Clements 2013 | q2 · associational · r? | i? | [Using more representations of mathematical ideas is associated with increased student math](more-representations-mathematical-ideas-higher-achievement.md) (supports) |
 | Higgin 2025 | q2 · qualitative · r2 | i? | [Multiple representations and explanations of math concepts aid student understanding, but ](multiple-representations-aid-understanding-faculty-time.md) (supports) |
 <!-- synthesis:end -->
@@ -102,7 +102,7 @@ This review addresses the "representation dilemma": students often must learn un
 - [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — a narrower finding that bears on this claim
 - [In the Reading in Four Voices task, students connected story values to a distance–time graph by engaging in both literacy and oracy](reading-four-voices-connects-story-and-graph.md) — a narrower finding that bears on this claim
 - [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
-- [The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities](multiplatform-activity-range-engaged-diverse-learners.md) — related
+- The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — related
 - [Multiple representations and explanations of math concepts aid student understanding, but faculty lack time to source or develop them](multiple-representations-aid-understanding-faculty-time.md) — a broader claim this one bears on
 - [The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem](learner-context-personalizes-ai-tutor-explanations.md) — related
 - [LLM accuracy varies across mathematically equivalent problem representations even under deterministic decoding, in both interaction conditions](llm-representational-sensitivity-equivalent-math-forms.md) — related

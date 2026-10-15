@@ -43,9 +43,9 @@ Observational study using the BROMP protocol across four sessions; researchers c
 
 
 ## Related Claims
-- [EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration](edm-infers-broader-student-attributes.md) — related
+- EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration — related
 - [Digital notebooks presented technical difficulties with projection and loading during in-school implementation.](hero-elementary-notebook-technical-difficulties-projection-loading.md) — related
-- [Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning](notebook-ebook-engagement-dropped-distance-learning.md) — related
+- Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning — related
 - [Prior research established correlations between observable student experiences such as frustration and clickstream data in ASSISTments, enabling experience-variable equity research without demographic data](bromp-frustration-clickstream-correlations.md) — related
 - [Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.](hero-elementary-in-school-student-engagement-increased.md) — a broader claim this one bears on
 - [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — related

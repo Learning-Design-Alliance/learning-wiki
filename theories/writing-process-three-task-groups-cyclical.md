@@ -16,7 +16,7 @@ sources:
 # Writing process approach: prewriting, drafting, and revising as overlapping cyclical task groups
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The manual organizes writing instruction around a process approach that focuses less on the product than on the writer. It divides writing into three task groups — prewriting, drafting, and revising — plus proofreading and publishing, and stresses that the stages overlap and repeat. As the manual states, "Writing does not result from completing a series of tasks in a set order. Writers repeat certain steps." Teachers are urged to write themselves and with students to model the process.
@@ -37,7 +37,6 @@ The manual organizes writing instruction around a process approach that focuses 
 
 ### Claims
 
-- [Grammar instruction and skill drills show little carryover to composition success](../claims/grammar-drills-little-carryover-composition.md) [+W]
 
 ## Related Theories
 - 

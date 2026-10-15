@@ -17,7 +17,7 @@ sources:
 # Build Connections Between Mathematics and Other Practices
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The author's recommendation that "mathematics education researchers need to build connections between mathematics and other practices" in order to humanize mathematics and make it normal and ordinary. She argues that boundary crossing between the mathematics education and informal education communities bridges in-school and out-of-school mathematics, with each community contributing different expertise to the other.
@@ -39,7 +39,6 @@ The author's recommendation that "mathematics education researchers need to buil
 - Seeing mathematics as normal human practice rather than mandatory
 
 ### Claims
-- [Boundary Crossing Collaboration With Informal Educators Reframes Mathematics As Human Practice](../claims/boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice.md) [+W]
 
 ## Related Principles
 - [Informal Learning](../theories/informal-learning.md)

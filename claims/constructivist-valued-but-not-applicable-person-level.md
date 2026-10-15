@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: eren-2010
-    resource: "https://ro.ecu.edu.au/ajte/vol35/iss3/2/"
-    title: "Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/"
+    resource: "https://doi.org/10.14221/ajte.2010v35n3.3"
+    title: "Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/ [doi:10.14221/ajte.2010v35n3.3](https://doi.org/10.14221/ajte.2010v35n3.3)"
     author: Eren, A.
     q: 3
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Eren 2010
 
-Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/
+Eren, A. (2010). Consonance and dissonance between Turkish prospective teachers' values and practices: Conceptions about teaching, learning, and assessment. Australian Journal of Teacher Education, 35(3). https://ro.ecu.edu.au/ajte/vol35/iss3/2/ [doi:10.14221/ajte.2010v35n3.3](https://doi.org/10.14221/ajte.2010v35n3.3)
 
 `q3 · i2` · `associational · r2`
 

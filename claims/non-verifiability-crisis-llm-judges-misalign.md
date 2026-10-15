@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: zhihao-yuan-2026
-    resource: "https://arxiv.org/abs/2601.05473"
-    title: "Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell. (2026). Towards Valid Student Simulation with Large Language Models. https://arxiv.org/abs/2601.05473"
+    resource: "https://doi.org/10.48550/arxiv.2601.05473"
+    title: "Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell. (2026). Towards Valid Student Simulation with Large Language Models. https://arxiv.org/abs/2601.05473 [doi:10.48550/arxiv.2601.05473](https://doi.org/10.48550/arxiv.2601.05473)"
     author: Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zhihao Yuan 2026
 
-Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell. (2026). Towards Valid Student Simulation with Large Language Models. https://arxiv.org/abs/2601.05473
+Zhihao Yuan, Yunze Xiao, Ming Li, Weihao Xuan, Richard Tong, Mona Diab, Tom Mitchell. (2026). Towards Valid Student Simulation with Large Language Models. https://arxiv.org/abs/2601.05473 [doi:10.48550/arxiv.2601.05473](https://doi.org/10.48550/arxiv.2601.05473)
 
 `q2 · i?` · `theoretical · r2`
 

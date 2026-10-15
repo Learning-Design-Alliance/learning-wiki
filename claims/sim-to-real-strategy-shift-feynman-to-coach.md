@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: po-chin-chang-2026
-    resource: "https://arxiv.org/abs/2606.20138"
-    title: "Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer. (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. https://arxiv.org/abs/2606.20138"
+    resource: "https://doi.org/10.48550/arxiv.2606.20138"
+    title: "Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer. (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. https://arxiv.org/abs/2606.20138 [doi:10.48550/arxiv.2606.20138](https://doi.org/10.48550/arxiv.2606.20138)"
     author: Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Po-Chin Chang 2026
 
-Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer. (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. https://arxiv.org/abs/2606.20138
+Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer. (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. https://arxiv.org/abs/2606.20138 [doi:10.48550/arxiv.2606.20138](https://doi.org/10.48550/arxiv.2606.20138)
 
 `q3 · i?` · `causal · r2`
 

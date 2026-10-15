@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tarasawa-2020
-    resource: "https://www.nwea.org/research/publication/assessment-education-bridging-research-theory-and-practice-to-promote-equity-and-student-learning/"
-    title: "Tarasawa, B., Gotwals, A., & Jackson, C. (2020). Assessment education: Bridging research, theory, and practice to promote equity and student learning. Rowman & Littlefield. https://www.nwea.org/research/publication/assessment-education-bridging-research-theory-and-practice-to-promote-equity-and-student-learning/"
+    resource: "https://doi.org/10.5771/9781475851069"
+    title: "Tarasawa, B., Gotwals, A., & Jackson, C. (2020). Assessment education: Bridging research, theory, and practice to promote equity and student learning. Rowman & Littlefield. https://www.nwea.org/research/publication/assessment-education-bridging-research-theory-and-practice-to-promote-equity-and-student-learning/ [doi:10.5771/9781475851069](https://doi.org/10.5771/9781475851069)"
     author: "Tarasawa, B., Gotwals, A., & Jackson, C."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tarasawa 2020
 
-Tarasawa, B., Gotwals, A., & Jackson, C. (2020). Assessment education: Bridging research, theory, and practice to promote equity and student learning. Rowman & Littlefield. https://www.nwea.org/research/publication/assessment-education-bridging-research-theory-and-practice-to-promote-equity-and-student-learning/
+Tarasawa, B., Gotwals, A., & Jackson, C. (2020). Assessment education: Bridging research, theory, and practice to promote equity and student learning. Rowman & Littlefield. https://www.nwea.org/research/publication/assessment-education-bridging-research-theory-and-practice-to-promote-equity-and-student-learning/ [doi:10.5771/9781475851069](https://doi.org/10.5771/9781475851069)
 
 `q1 · i?` · `theoretical · r1`
 

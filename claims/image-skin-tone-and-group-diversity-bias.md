@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: erfan-entezami-2026
-    resource: "https://arxiv.org/abs/2609.28483"
-    title: "Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483"
+    resource: "https://doi.org/10.48550/arxiv.2609.28483"
+    title: "Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483 [doi:10.48550/arxiv.2609.28483](https://doi.org/10.48550/arxiv.2609.28483)"
     author: Erfan Entezami, Andrew Lan, and Madeline Endres
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Single-person images are significantly biased toward light-skinned individuals, while multi-person images show more balanced gender and skin-tone diversity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2`–`i3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i2`–`i3`
 
 ## Subclaims
 `q2 i3` Both models show significant bias toward light-skinned individuals in single-person images (GPT Image 2: p<0.001, V=0.57; Imagen 4: p<0.001, V=0.61). [→ Erfan Entezami 2026](#erfan-entezami-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Erfan Entezami 2026
 
-Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483
+Erfan Entezami, Andrew Lan, and Madeline Endres. (2026). Generative AI May Reinforce Social Biases in Software Engineering Education. arXiv preprint. https://arxiv.org/abs/2609.28483 [doi:10.48550/arxiv.2609.28483](https://doi.org/10.48550/arxiv.2609.28483)
 
 `q2 · i3` · `causal · r2`
 

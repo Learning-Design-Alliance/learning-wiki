@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: viki-m-young-2026
-    resource: "https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30"
-    title: "Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30"
+    resource: "https://doi.org/10.51388/20.500.12265/286"
+    title: "Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30 [doi:10.51388/20.500.12265/286](https://doi.org/10.51388/20.500.12265/286)"
     author: Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Viki M. Young 2026
 
-Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30
+Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30 [doi:10.51388/20.500.12265/286](https://doi.org/10.51388/20.500.12265/286)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -43,7 +43,7 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 
 
 ## Related Claims
-- [Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics](real-world-examples-aid-comprehension-and-relevance.md) — related
+- Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics — related
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — reports the opposite
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related

@@ -22,7 +22,7 @@ sources:
 # Success for All
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 2 studies (1 quant-synthesis, 1 review), `q2`–`q3` · 1 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Success for All is a comprehensive K–5 school reform and reading programme developed and operated by the Success for All Foundation for schools serving students at risk of reading difficulty.
@@ -34,10 +34,6 @@ Success for All is a comprehensive K–5 school reform and reading programme dev
 - **SFA® ability-grouped 90-minute daily reading block with sequenced phonics-to-comprehension instruction**: SFA® elementary reading programs "combine cooperative-learning strategies with detailed lessons, which incorporate multimedia, puppet skits, and videos to support students' engagement and classroom instruction." Students in prekindergarten through first grade participate in Reading Roots, and students in second grade and above participate in Reading Wings. Students are grouped into reading classes of 15–20 students with others of similar reading ability, regardless of age or grade level, during a daily 90-minute reading period; regrouping by demonstrated improvement lets teachers teach the whole class without smaller within-class groups. Instruction is sequenced across several years, emphasi (Success for All® (2017))
 
 ### Claims
-- [Success for All improves reading achievement with a student-weighted average effect size of +0.29 across six studies](../claims/sfa-average-effect-size-029-reading.md) [+W]
-- [Quasi-experimental studies of Success for All across diverse settings find positive effects on early-grade reading](../claims/sfa-quasi-experimental-positive-reading-effects.md) [+W]
-- [Randomized trials of Success for All find significant positive impacts on K-2 early reading, strongest for students starting with lower achievement](../claims/sfa-rcts-significant-early-reading-impacts.md) [+W]
-- [Teachers at SFA schools report positive perceptions of the reading program, including benefits for English learners and special education students](../claims/sfa-teacher-survey-positive-perceptions.md) [+W]
 - [SFA® shows mixed effects on reading comprehension for beginning readers](../claims/sfa-mixed-effects-comprehension.md) [~W]
 - [SFA® shows mixed effects on general reading achievement for beginning readers](../claims/sfa-mixed-effects-general-reading-achievement.md) [~W]
 - [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](../claims/sfa-positive-effects-alphabetics-k-4.md) [+M]
@@ -84,10 +80,6 @@ Success for All is "a comprehensive school reform program designed to ensure suc
 
 ## Claims
 
-- [Success for All improves reading achievement with a student-weighted average effect size of +0.29 across six studies](../claims/sfa-average-effect-size-029-reading.md) [+W]
-- [Quasi-experimental studies of Success for All across diverse settings find positive effects on early-grade reading](../claims/sfa-quasi-experimental-positive-reading-effects.md) [+W]
-- [Randomized trials of Success for All find significant positive impacts on K-2 early reading, strongest for students starting with lower achievement](../claims/sfa-rcts-significant-early-reading-impacts.md) [+W]
-- [Teachers at SFA schools report positive perceptions of the reading program, including benefits for English learners and special education students](../claims/sfa-teacher-survey-positive-perceptions.md) [+W]
 
 ## Related Elements
 

@@ -65,5 +65,5 @@ Bar graphs compared SIP assessments in the most and least positive elementary an
 - Chicago teachers are far more likely to report improvements in their own work than improvements in student academic performance — related
 - About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership — related
 - [Teachers in the lowest achieving schools are more likely to report that reform has changed and will change their classroom practices, though differences are modest](instructional-change-highest-in-lowest-achieving-schools.md) — related
-- [In about a third of Chicago elementary schools, expanded local democratic participation served as a strong lever for systemic change focused on improved instruction](one-third-schools-democratic-participation-lever-systemic-change.md) — related
-- [The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis](politics-of-local-control-joined-to-school-change.md) — related
+- In about a third of Chicago elementary schools, expanded local democratic participation served as a strong lever for systemic change focused on improved instruction — related
+- The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis — related

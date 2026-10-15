@@ -46,6 +46,6 @@ Conceptual definition of the system-reconfiguration factor. The article gives co
 - [Discontinuity: breakthrough innovations introduce new models that depart from dominant approaches](breakthrough-discontinuity-departs-dominant-approaches.md) — related
 - [Expanded participation and new forms of evidence: breakthroughs reach previously excluded populations and may require new metrics](breakthrough-expanded-participation-new-evidence-forms.md) — related
 - [Generativity: breakthroughs enable follow-on innovations, adaptation, and scaling through recombination](breakthrough-generativity-new-opportunity-spaces.md) — related
-- [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
+- AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process — related
 - [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — a narrower finding that bears on this claim
 - Agent-based educational science is positioned as reconfiguring, not replacing, empirical educational research — a narrower finding that bears on this claim

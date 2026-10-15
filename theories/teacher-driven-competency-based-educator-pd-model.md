@@ -14,7 +14,7 @@ sources:
 # Teacher-driven, competency-based professional learning modeled on personalized student learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report organizes its argument around a model in which the logic of personalized student learning and competency-based education contours educator professional learning: educators should customize their own PD aligned to unique student needs, with educator voice and choice as significant drivers. Micro-credentials operationalize this model by recognizing specific competencies, bridging informal learning (Twitter chats, EdCamps, online courses) with formal recognition, and creating "self-driven and reflective professional learning environments for educators" that in turn advance personalized, competency-based environments for student learning.
@@ -35,7 +35,6 @@ The report organizes its argument around a model in which the logic of personali
 
 ### Claims
 
-- [Educators perceive formal professional development as a compliance exercise over which they have limited choice](../claims/educators-view-pd-as-compliance-with-limited-choice.md) [+W]
 
 ## Related Theories
 - 

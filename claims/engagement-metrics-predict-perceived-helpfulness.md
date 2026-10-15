@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rose-niousha-2026
-    resource: "https://arxiv.org/abs/2605.05648"
-    title: "Rose Niousha, Samantha Boatright Smith, Bita Akram, Peter Brusilovsky, Arto Hellas, Juho Leinonen, John DeNero, and Narges Norouzi. (2026). The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness. arXiv preprint. https://arxiv.org/abs/2605.05648"
+    resource: "https://doi.org/10.48550/arxiv.2605.05648"
+    title: "Rose Niousha, Samantha Boatright Smith, Bita Akram, Peter Brusilovsky, Arto Hellas, Juho Leinonen, John DeNero, and Narges Norouzi. (2026). The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness. arXiv preprint. https://arxiv.org/abs/2605.05648 [doi:10.48550/arxiv.2605.05648](https://doi.org/10.48550/arxiv.2605.05648)"
     author: Rose Niousha, Samantha Boatright Smith, Bita Akram, Peter Brusilovsky, Arto Hellas, Juho Leinonen, John DeNero, and Narges Norouzi
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Engagement-based metrics are more robust predictors of students' perceived feedback helpfulness than pedagogical dimensions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In logistic regressions predicting high perceived helpfulness, RelScore (β = 0.420, p < 0.001) and SuccScore (β = 0.187, p < 0.001) are positively and significantly associated with helpfulness, while most pedagogical dimensions show weak or inconsistent associations. [→ Rose Niousha 2026](#rose-niousha-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Rose Niousha 2026
 
-Rose Niousha, Samantha Boatright Smith, Bita Akram, Peter Brusilovsky, Arto Hellas, Juho Leinonen, John DeNero, and Narges Norouzi. (2026). The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness. arXiv preprint. https://arxiv.org/abs/2605.05648
+Rose Niousha, Samantha Boatright Smith, Bita Akram, Peter Brusilovsky, Arto Hellas, Juho Leinonen, John DeNero, and Narges Norouzi. (2026). The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness. arXiv preprint. https://arxiv.org/abs/2605.05648 [doi:10.48550/arxiv.2605.05648](https://doi.org/10.48550/arxiv.2605.05648)
 
 `q2 · i?` · `associational · r2`
 

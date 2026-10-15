@@ -44,5 +44,5 @@ Mobility analysis comparing displaced and matched comparison students (Figures 4
 
 ## Related Claims
 - [Displaced students were less likely to enroll in Summer Bridge the summer after their schools closed](reduced-summer-bridge-enrollment-after-closings.md) — related
-- [Proximity and relocation into the closed school building strongly predicted enrollment in designated welcoming schools](chicago-closings-proximity-relocation-predict-welcoming-enrollment.md) — related
+- Proximity and relocation into the closed school building strongly predicted enrollment in designated welcoming schools — related
 - [School closings, new school openings, CHA demolitions, and NCLB transfers each affected fewer than 1 percent of CPS students per year, though receiving schools saw summer in-mobility rise by almost 13 percentage points](policy-initiatives-small-system-level-effect.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: baker-2023
-    resource: "https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619"
-    title: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619"
+    resource: "https://doi.org/10.35542/osf.io/y4wvj"
+    title: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619 [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)"
     author: "Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S."
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Evidence** · 2 studies · 2 theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` If there is significant heterogeneity within a group, using the group variable will disadvantage atypical members, biasing towards a group mean. [→ Baker 2023](#baker-2023)
@@ -40,7 +40,7 @@ sources:
 
 ### Baker 2023
 
-Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619
+Baker, R. S., Esbenshade, L., Vitale, J., & Karumbaiah, S. (2023). Using Demographic Data as Predictor Variables: a Questionable Choice. Journal of Educational Data Mining, 15(2). https://jedm.educationaldatamining.org/index.php/JEDM/article/view/619 [doi:10.35542/osf.io/y4wvj](https://doi.org/10.35542/osf.io/y4wvj)
 
 `q1 · i?` · `theoretical · r3`
 

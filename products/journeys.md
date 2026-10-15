@@ -18,7 +18,7 @@ sources:
 # Journeys
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Journeys is a commercial K–6 English language arts curriculum developed and published by Houghton Mifflin Harcourt, with print and optional digital student and teacher materials.
@@ -30,7 +30,6 @@ Journeys is a commercial K–6 English language arts curriculum developed and pu
 - **Whole-group introduction followed by small-group homogeneous practice of the same skills**: The Journeys program organizes daily literacy instruction in two tiers: whole group activities introduce a "big idea" and "essential question" for the day, a teacher read-aloud, and vocabulary, phonics, comprehension, and fluency activities. Small group activities then "follow up these same skills in small, homogeneous groups," so all students meet the same content with differentiated group support. (Houghton Mifflin Harcourt Journeys: Evidence Review (2017))
 
 ### Claims
-- [Journeys produced statistically significant positive effects on ITBS reading scales averaging +0.14 in grades K-2](../claims/journeys-positive-effects-itbs-k-2.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -99,7 +98,6 @@ Journeys is a comprehensive reading and language arts program designed for kinde
 
 ## Claims
 
-- [Journeys produced statistically significant positive effects on ITBS reading scales averaging +0.14 in grades K-2](../claims/journeys-positive-effects-itbs-k-2.md) [+W]
 
 ## Related Elements
 

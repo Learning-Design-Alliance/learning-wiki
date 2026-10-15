@@ -18,7 +18,7 @@ sources:
 # ATI-UP
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 ATI-UP is a preventive, school-wide, multi-tiered attendance intervention developed for school teams to promote attendance and reduce chronic absenteeism through problem-solving, family and community engagement, attendance promotion, and behavior motivation.
@@ -27,8 +27,6 @@ ATI-UP is a preventive, school-wide, multi-tiered attendance intervention develo
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [ATI-UP increases average daily attendance in elementary schools after one semester (effect size +0.19)](../claims/ati-up-increases-average-daily-attendance.md) [+W]
-- [ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08)](../claims/ati-up-reduces-chronic-absenteeism.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,8 +62,6 @@ ATI-UP is "a preventive, school-wide intervention" in which school teams follow 
 
 ## Claims
 
-- [ATI-UP increases average daily attendance in elementary schools after one semester (effect size +0.19)](../claims/ati-up-increases-average-daily-attendance.md) [+W]
-- [ATI-UP reduces chronic absenteeism after one semester with a small effect size (+0.08)](../claims/ati-up-reduces-chronic-absenteeism.md) [+W]
 
 ## Related Elements
 - 

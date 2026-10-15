@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: naiming-liu-2026
-    resource: "https://arxiv.org/abs/2604.00818"
-    title: "Naiming Liu, Xinghe Chen, Richard Baraniuk, Mrinmaya Sachan, and Shashank Sonkar. (2026). Misconception Acquisition Dynamics in Large Language Models. https://arxiv.org/abs/2604.00818"
+    resource: "https://doi.org/10.48550/arxiv.2604.00818"
+    title: "Naiming Liu, Xinghe Chen, Richard Baraniuk, Mrinmaya Sachan, and Shashank Sonkar. (2026). Misconception Acquisition Dynamics in Large Language Models. https://arxiv.org/abs/2604.00818 [doi:10.48550/arxiv.2604.00818](https://doi.org/10.48550/arxiv.2604.00818)"
     author: Naiming Liu, Xinghe Chen, Richard Baraniuk, Mrinmaya Sachan, and Shashank Sonkar
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Naiming Liu 2026
 
-Naiming Liu, Xinghe Chen, Richard Baraniuk, Mrinmaya Sachan, and Shashank Sonkar. (2026). Misconception Acquisition Dynamics in Large Language Models. https://arxiv.org/abs/2604.00818
+Naiming Liu, Xinghe Chen, Richard Baraniuk, Mrinmaya Sachan, and Shashank Sonkar. (2026). Misconception Acquisition Dynamics in Large Language Models. https://arxiv.org/abs/2604.00818 [doi:10.48550/arxiv.2604.00818](https://doi.org/10.48550/arxiv.2604.00818)
 
 `q2 · i?` · `causal · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: daniele-verí-2026
-    resource: "https://arxiv.org/abs/2609.15624"
-    title: "Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624"
+    resource: "https://doi.org/10.48550/arxiv.2609.15624"
+    title: "Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624 [doi:10.48550/arxiv.2609.15624](https://doi.org/10.48550/arxiv.2609.15624)"
     author: Daniele Verí
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # No validated individual-level instrument in the focal corpus tests the full combination of agent-control behaviors for tool-using AI agents
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q2`
+> **Evidence** · 2 studies · 2 quant-synthesis `r1` · `q2`
 
 ## Subclaims
 `q2 i?` No validated individual-level instrument in the focal corpus tests the full combination of scope changes, permission decisions, recovery from faulty state, state isolation, independent review, and evidence-based closure. [→ Daniele Verí 2026](#daniele-veri-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Daniele Verí 2026
 
-Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624
+Daniele Verí. (2026). Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use. arXiv. https://arxiv.org/abs/2609.15624 [doi:10.48550/arxiv.2609.15624](https://doi.org/10.48550/arxiv.2609.15624)
 
 `q2 · i?` · `quant-synthesis · r1`
 

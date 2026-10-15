@@ -41,7 +41,7 @@ Descriptive profile of the 980-participant sample (Table 1); the printed percent
 
 
 ## Related Claims
-- [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](institutional-barriers-ai-integration.md) — related
+- Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring — related
 - [Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training](under-10-percent-arab-he-formal-ai-training.md) — related
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related

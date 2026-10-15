@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jarosław-a-chudziak-and-adam-kostka-2025
-    resource: "https://arxiv.org/abs/2507.12484"
-    title: "Jarosław A. Chudziak and Adam Kostka. (2025). AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education. arXiv preprint. https://arxiv.org/abs/2507.12484"
+    resource: "https://doi.org/10.48550/arxiv.2507.12484"
+    title: "Jarosław A. Chudziak and Adam Kostka. (2025). AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education. arXiv preprint. https://arxiv.org/abs/2507.12484 [doi:10.48550/arxiv.2507.12484](https://doi.org/10.48550/arxiv.2507.12484)"
     author: Jarosław A. Chudziak and Adam Kostka
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jarosław A. Chudziak and Adam Kostka 2025
 
-Jarosław A. Chudziak and Adam Kostka. (2025). AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education. arXiv preprint. https://arxiv.org/abs/2507.12484
+Jarosław A. Chudziak and Adam Kostka. (2025). AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education. arXiv preprint. https://arxiv.org/abs/2507.12484 [doi:10.48550/arxiv.2507.12484](https://doi.org/10.48550/arxiv.2507.12484)
 
 `q2 · i?` · `design · r2`
 

@@ -48,6 +48,6 @@ The report's synthesis of its own Chicago research program, including the Charti
 - [Foxglove Elementary distributes leadership across staff roles but has few mechanisms to coordinate the work](foxglove-decentralized-leadership-weak-coordination.md) — a narrower finding that bears on this claim
 - [Inclusive school leadership plays a critical role in building teachers' capacity for school improvement](inclusive-leadership-builds-teacher-capacity.md) — related
 - [Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005](organizational-gains-without-instructional-gains.md) — related
-- [Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear](six-restructuring-schools-case-findings.md) — related
+- Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear — related
 - [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md) — related
 - [Building capacity is critical for educational reform](reform-progress-depends-on-teacher-and-school-capacity.md) — related

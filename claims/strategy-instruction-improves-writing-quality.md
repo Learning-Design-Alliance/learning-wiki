@@ -100,8 +100,8 @@ Open questions for future evidence entries include the durability of effects aft
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - [In one keystroke-logging study, spontaneous sentence production under minimal planning is associated with gains in writers' self-rated understanding and with lower initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — related
 - [Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) — a narrower finding that bears on this claim
-- [Skilled EFL writers undergo a recursive writing process in which planning, writing, and reviewing repeat and embed within each other during composing.](skilled-efl-writers-recursive-writing-process.md) — related
+- Skilled EFL writers undergo a recursive writing process in which planning, writing, and reviewing repeat and embed within each other during composing. — related
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — prompts are a common delivery mechanism for SRL strategy instruction
-- [Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic.](skilled-writers-topic-familiarity-knowledge.md) — related
+- Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic. — related
 - [All types of regulation can be explicitly taught and improved with time, effort, and effective feedback](regulation-skills-can-be-taught.md) — related
 - [Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks](contract-yields-more-student-work.md) — related

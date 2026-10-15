@@ -18,7 +18,7 @@ sources:
 # Bridges in Mathematics
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Bridges in Mathematics is a comprehensive preK–5 mathematics curriculum developed by The Math Learning Center that combines direct instruction, investigation, exploration, discourse, visual models, and hands-on activities.
@@ -28,9 +28,6 @@ Bridges in Mathematics is a comprehensive preK–5 mathematics curriculum develo
 - **Number Corner: integrated daily practice component previewing forthcoming content**: Number Corner is an integrated component of the Bridges curriculum. It "previews forthcoming content from the lessons, provides skill practice, and reinforces key mathematical concepts through daily activities," operating alongside the curriculum's whole-class, small-group, and independent lesson activities. (Bridges in Mathematics (2025))
 
 ### Claims
-- [Bridges in Mathematics showed no significant effects on i-Ready and aimswebPlus progress-monitoring assessments](../claims/bridges-iready-aimsweb-null-results.md) [-W]
-- [Bridges students in kindergarten through grade 2 scored significantly higher than matched peers on MAP (effect size +0.06)](../claims/bridges-k-2-map-es-006.md) [+W]
-- [Bridges in Mathematics shows a statistically significant positive impact on state math tests for grades 4-5 (effect size +0.10)](../claims/bridges-state-tests-grades-4-5-es-010.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,9 +63,6 @@ Bridges in Mathematics by MLC is a comprehensive preK-5 math curriculum that "em
 
 ## Claims
 
-- [Bridges in Mathematics showed no significant effects on i-Ready and aimswebPlus progress-monitoring assessments](../claims/bridges-iready-aimsweb-null-results.md) [-W]
-- [Bridges students in kindergarten through grade 2 scored significantly higher than matched peers on MAP (effect size +0.06)](../claims/bridges-k-2-map-es-006.md) [+W]
-- [Bridges in Mathematics shows a statistically significant positive impact on state math tests for grades 4-5 (effect size +0.10)](../claims/bridges-state-tests-grades-4-5-es-010.md) [+W]
 
 ## Related Elements
 
@@ -113,9 +107,6 @@ Number Corner is an integrated component of the Bridges curriculum. It "previews
 
 ## Claims
 
-- [Bridges in Mathematics showed no significant effects on i-Ready and aimswebPlus progress-monitoring assessments](../claims/bridges-iready-aimsweb-null-results.md) [-W]
-- [Bridges students in kindergarten through grade 2 scored significantly higher than matched peers on MAP (effect size +0.06)](../claims/bridges-k-2-map-es-006.md) [+W]
-- [Bridges in Mathematics shows a statistically significant positive impact on state math tests for grades 4-5 (effect size +0.10)](../claims/bridges-state-tests-grades-4-5-es-010.md) [+W]
 
 ## Related Elements
 

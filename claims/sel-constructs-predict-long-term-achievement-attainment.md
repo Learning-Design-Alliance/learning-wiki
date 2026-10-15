@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2019
-    resource: "https://journals.sagepub.com/home/edr"
-    title: "James Soland, Gema Zamarro, Albert Cheng, Collin Hitt. (2019). Identifying naturally occurring direct assessments of social-emotional competencies: The promise and limitations of survey and assessment disengagement metadata. Educational Researcher 48 (7). https://journals.sagepub.com/home/edr"
+    resource: "https://doi.org/10.3102/0013189x19861356"
+    title: "James Soland, Gema Zamarro, Albert Cheng, Collin Hitt. (2019). Identifying naturally occurring direct assessments of social-emotional competencies: The promise and limitations of survey and assessment disengagement metadata. Educational Researcher 48 (7). https://journals.sagepub.com/home/edr [doi:10.3102/0013189x19861356](https://doi.org/10.3102/0013189x19861356)"
     author: James Soland, Gema Zamarro, Albert Cheng, Collin Hitt
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2019
 
-James Soland, Gema Zamarro, Albert Cheng, Collin Hitt. (2019). Identifying naturally occurring direct assessments of social-emotional competencies: The promise and limitations of survey and assessment disengagement metadata. Educational Researcher 48 (7). https://journals.sagepub.com/home/edr
+James Soland, Gema Zamarro, Albert Cheng, Collin Hitt. (2019). Identifying naturally occurring direct assessments of social-emotional competencies: The promise and limitations of survey and assessment disengagement metadata. Educational Researcher 48 (7). https://journals.sagepub.com/home/edr [doi:10.3102/0013189x19861356](https://doi.org/10.3102/0013189x19861356)
 
 `q2 · i?` · `review · r?`
 
@@ -45,4 +45,4 @@ The article's abstract states, citing growing evidence, that SEL-related constru
 ## Related Claims
 - [In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade](sel-status-more-frequently-significant-predictor-off-track.md) — a narrower finding that bears on this claim
 - [The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors](sel-domains-less-stable-than-achievement.md) — related
-- [Educators' emotion regulation, relationship management, well-being, and school climate perceptions did not predict whether students met i-Ready math or reading growth goals](adult-sel-measures-not-predicting-student-growth.md) — related
+- Educators' emotion regulation, relationship management, well-being, and school climate perceptions did not predict whether students met i-Ready math or reading growth goals — related

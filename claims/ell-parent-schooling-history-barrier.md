@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: beth-tarasawa-2015
-    resource: "https://epsl.asu.edu/epru/documents/EPSL-0801-250-EPRU.pdf"
-    title: "Beth Tarasawa, Jacqueline Waggoner. (2015). Increasing parental involvement of English language learner families: What the research says. Journal of Children and Poverty, 21(2), 129–134. https://epsl.asu.edu/epru/documents/EPSL-0801-250-EPRU.pdf"
+    resource: "https://doi.org/10.1080/10796126.2015.1058243"
+    title: "Beth Tarasawa, Jacqueline Waggoner. (2015). Increasing parental involvement of English language learner families: What the research says. Journal of Children and Poverty, 21(2), 129–134. https://epsl.asu.edu/epru/documents/EPSL-0801-250-EPRU.pdf [doi:10.1080/10796126.2015.1058243](https://doi.org/10.1080/10796126.2015.1058243)"
     author: Beth Tarasawa, Jacqueline Waggoner
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Beth Tarasawa 2015
 
-Beth Tarasawa, Jacqueline Waggoner. (2015). Increasing parental involvement of English language learner families: What the research says. Journal of Children and Poverty, 21(2), 129–134. https://epsl.asu.edu/epru/documents/EPSL-0801-250-EPRU.pdf
+Beth Tarasawa, Jacqueline Waggoner. (2015). Increasing parental involvement of English language learner families: What the research says. Journal of Children and Poverty, 21(2), 129–134. https://epsl.asu.edu/epru/documents/EPSL-0801-250-EPRU.pdf [doi:10.1080/10796126.2015.1058243](https://doi.org/10.1080/10796126.2015.1058243)
 
 `q2 · i?` · `review · r?`
 

@@ -16,7 +16,7 @@ sources:
 # Three-phase model of learning in the brain: encoding, consolidation, retrieval
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (3 review, 1 causal), `q2`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 The resource organizes its account of learning around three brain phases: encoding, described as "transforming experience into long-term memory", consolidation as "storing and maintaining information over time", and retrieval as "accessing information when needed". It uses this framework to structure its ten insights, noting that motivation and engagement should support these memory behaviors rather than replace them.
@@ -37,8 +37,6 @@ The resource organizes its account of learning around three brain phases: encodi
 
 ### Claims
 
-- [Retrieval practice strengthens memory and produces stronger, more enduring learning](../claims/retrieval-practice-strengthens-memory.md) [+W]
-- [Deep thinking and making connections help students build strong memories and learn more deeply](../claims/deep-thinking-connections-build-memories.md) [+W]
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+W]
 
 ## Related Theories

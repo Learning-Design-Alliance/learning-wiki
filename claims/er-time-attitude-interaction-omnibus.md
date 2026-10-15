@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: junko-yamashita-2013
-    resource: "http://nflrc.hawaii.edu/rfl"
-    title: "Junko Yamashita. (2013). Effects of extensive reading on reading attitudes in a foreign language. Reading in a Foreign Language, 25(2). http://nflrc.hawaii.edu/rfl"
+    resource: "https://doi.org/10.64152/10125/66872"
+    title: "Junko Yamashita. (2013). Effects of extensive reading on reading attitudes in a foreign language. Reading in a Foreign Language, 25(2). http://nflrc.hawaii.edu/rfl [doi:10.64152/10125/66872](https://doi.org/10.64152/10125/66872)"
     author: Junko Yamashita
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Junko Yamashita 2013
 
-Junko Yamashita. (2013). Effects of extensive reading on reading attitudes in a foreign language. Reading in a Foreign Language, 25(2). http://nflrc.hawaii.edu/rfl
+Junko Yamashita. (2013). Effects of extensive reading on reading attitudes in a foreign language. Reading in a Foreign Language, 25(2). http://nflrc.hawaii.edu/rfl [doi:10.64152/10125/66872](https://doi.org/10.64152/10125/66872)
 
 `q2 · i3` · `design · r2`
 

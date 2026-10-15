@@ -16,7 +16,7 @@ sources:
 # Ellis's revised interaction hypothesis: noticing, comparison, and integration as the basic acquisitional procedures
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Ellis proposes that L2 acquisition involves three basic procedures: "noticing", "comparison", and "integration". Noticing is conscious attention to linguistic features in the input, yielding preliminary intake; comparison identifies differences between noticed input features and the learner's own output; integration constructs and stores new hypotheses in long-term memory as final intake. Within this account, input derived through interaction primarily facilitates noticing and comparison, while output facilitates integration; comprehensible input and negotiation make acquisition possible but do not cause it.
@@ -38,7 +38,6 @@ Ellis proposes that L2 acquisition involves three basic procedures: "noticing", 
 ### Claims
 
 - [Comprehensible Input Insufficient Grammar Acquisition](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [+M]
-- [Interaction Facilitates Some Structures Not Others](../claims/interaction-facilitates-some-structures-not-others.md) [+M]
 - [Interactionally modified input aids comprehension but shows no advantage for retention among beginner learners](../claims/interactionally-modified-input-aids-comprehension-not-retention.md) [~W]
 - [Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners](../claims/negotiation-benefit-limited-lower-ability-learners.md) [~W]
 

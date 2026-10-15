@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: giulia-boaa-2025
-    resource: "https://github.com/CodeCruncher63/ISCR2025"
-    title: "Giulia Boaa, Marco Boaa, Cristina Gena, Alessandro Mazzei, Massimo Donini, and Alberto Lillo. (2025). Using the Pepper Robot to Support Sign Language Communication. https://github.com/CodeCruncher63/ISCR2025"
+    resource: "https://doi.org/10.1007/978-981-95-2382-5_8"
+    title: "Giulia Boaa, Marco Boaa, Cristina Gena, Alessandro Mazzei, Massimo Donini, and Alberto Lillo. (2025). Using the Pepper Robot to Support Sign Language Communication. https://github.com/CodeCruncher63/ISCR2025 [doi:10.1007/978-981-95-2382-5_8](https://doi.org/10.1007/978-981-95-2382-5_8)"
     author: Giulia Boaa, Marco Boaa, Cristina Gena, Alessandro Mazzei, Massimo Donini, and Alberto Lillo
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Recognition of individual Pepper-produced LIS signs varies widely, with several signs significantly above chance and others not significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` One-tailed binomial tests against the 25% chance level showed statistically significant recognition for signs including Dimenticare, Finire/Fatto, Shampoo, and Università (p < 0.0001). [→ Giulia Boaa 2025](#giulia-boaa-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Giulia Boaa 2025
 
-Giulia Boaa, Marco Boaa, Cristina Gena, Alessandro Mazzei, Massimo Donini, and Alberto Lillo. (2025). Using the Pepper Robot to Support Sign Language Communication. https://github.com/CodeCruncher63/ISCR2025
+Giulia Boaa, Marco Boaa, Cristina Gena, Alessandro Mazzei, Massimo Donini, and Alberto Lillo. (2025). Using the Pepper Robot to Support Sign Language Communication. https://github.com/CodeCruncher63/ISCR2025 [doi:10.1007/978-981-95-2382-5_8](https://doi.org/10.1007/978-981-95-2382-5_8)
 
 `q2 · i?` · `design · r2`
 

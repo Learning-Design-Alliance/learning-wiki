@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ron-zimmer-2009
-    resource: "https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition"
-    title: "Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition"
+    resource: "https://doi.org/10.7249/mg869"
+    title: "Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition [doi:10.7249/mg869](https://doi.org/10.7249/mg869)"
     author: Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ron Zimmer 2009
 
-Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition
+Ron Zimmer, Brian Gill, Kevin Booker, Stephane Lavertu, Tim Sass, John Witte. (2009). Charter Schools in Eight States: Effects on Achievement, Attainment, Integration, and Competition. Santa Monica, CA: RAND Corporation. https://www.mathematica.org/publications/charter-schools-in-eight-states-effects-on-achievement-attainment-integration-and-competition [doi:10.7249/mg869](https://doi.org/10.7249/mg869)
 
 `q3 · i?` · `associational · r?`
 
@@ -44,5 +44,5 @@ In the report's summary statement, the authors identify a knowledge gap, noting 
 
 ## Related Claims
 - [This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels](first-rigorous-study-kipp-all-grade-levels.md) — related
-- [The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio](authorizer-type-charter-effectiveness-ohio-study.md) — related
+- The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related
 - [About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades](online-charter-schools-200-schools-200000-students.md) — related

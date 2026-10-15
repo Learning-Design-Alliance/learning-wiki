@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The authors' research identified time for teacher-coach work together as one of the most important factors in coaching success, while unrelated duties and large caseloads diminish coaching impact and coach job satisfaction. [→ Hardy 2021](#hardy-2021)
@@ -44,9 +45,9 @@ Qualitative finding from the authors' three-year coaching research: teacher-coac
 ## Related Claims
 
 - [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — the general claim this finding bears on, with the studies behind it
-- [Literature review identifies 182 candidate coaching components organized into coach, teacher, and interaction factors](literature-review-182-coaching-components-three-categories.md) — related
+- Literature review identifies 182 candidate coaching components organized into coach, teacher, and interaction factors — related
 - [Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality](coaching-focus-instructional-delivery-versus-behavior-management.md) — a narrower finding that bears on this claim
 - [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](teacher-feedback-coaching-associated-charter-success.md) — related
-- [Coaches carry heavy workloads, often holding other roles and supporting large caseloads of teachers](coach-workload-multiple-roles-large-caseloads.md) — related
+- Coaches carry heavy workloads, often holding other roles and supporting large caseloads of teachers — related
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — a narrower finding that bears on this claim
 - [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — related

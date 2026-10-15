@@ -43,5 +43,5 @@ Full-year analysis of the Ohio study, limited to the subset of students who scor
 
 
 ## Related Claims
-- [Grade 1 students in California schools using 95 Phonics Lesson Library showed significantly higher Acadience Reading composite scores than comparison schools (ES +0.23)](pll-california-grade1-acadience-es-023.md) — related
-- [Fourth and fifth grade students using 95 PLL as Tier 2 and Tier 3 intervention demonstrated significantly greater mid-year growth on Acadience Reading than comparison students (ES +0.18)](pll-ohio-grades45-acadience-es-018.md) — related
+- Grade 1 students in California schools using 95 Phonics Lesson Library showed significantly higher Acadience Reading composite scores than comparison schools (ES +0.23) — related
+- Fourth and fifth grade students using 95 PLL as Tier 2 and Tier 3 intervention demonstrated significantly greater mid-year growth on Acadience Reading than comparison students (ES +0.18) — related

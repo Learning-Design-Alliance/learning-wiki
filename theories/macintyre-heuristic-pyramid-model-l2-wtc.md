@@ -16,7 +16,7 @@ sources:
 # MacIntyre et al.'s (1998) heuristic pyramid model of willingness to communicate in L2
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 associational), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 associational, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article describes the comprehensive 1998 model of L2 willingness to communicate by MacIntyre, Clement, Dörnyei and Noels, which treats WTC as a situational rather than trait-like variable. It is illustrated by "a pyramid figure which has twelve constructs" depicting probable determinants of WTC in L2, and is called "the first attempt at a comprehensive treatment of WTC in the L2".
@@ -38,7 +38,6 @@ The article describes the comprehensive 1998 model of L2 willingness to communic
 ### Claims
 
 - [Motivation Correlates With L2 Wtc Turkish Efl](../claims/motivation-correlates-with-l2-wtc-turkish-efl.md) [+M]
-- [Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities](../claims/wtc-variables-positively-correlated-overall-wtc.md) [+W]
 - [Turkish EFL preparatory students were somewhat willing to communicate in English](../claims/turkish-efl-students-somewhat-willing-communicate.md) [+W]
 - [Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC](../claims/audio-discussions-no-significant-wtc-change.md) [~W]
 

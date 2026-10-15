@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The authors interpret, from interview and classroom observations, that allowing students to access any sim feature at any time supports agency while implicit scaffolding leads students to tend to explore in a productive sequence. [→ Podolefsky 2013](#podolefsky-2013)

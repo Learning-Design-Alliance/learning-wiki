@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zhengxu-li-2026
-    resource: "https://arxiv.org/abs/2605.10672"
-    title: "Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672"
+    resource: "https://doi.org/10.48550/arxiv.2605.10672"
+    title: "Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672 [doi:10.48550/arxiv.2605.10672](https://doi.org/10.48550/arxiv.2605.10672)"
     author: Zhengxu Li, Junling Wang, and April Yi Wang
     q: 3
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Manually verified numerical accuracy of generated visuals is lowest under pre-generation control (12.2%), intermediate under mid-generation control (59.83%), and highest under post-generation control (97.85%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Manual verification of generated images found only 11 of 90 pre-gen images contained the correct number of objects (accuracy 12.2%). [→ Zhengxu Li 2026](#zhengxu-li-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Zhengxu Li 2026
 
-Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672
+Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672 [doi:10.48550/arxiv.2605.10672](https://doi.org/10.48550/arxiv.2605.10672)
 
 `q3 · i?` · `causal · r2`
 

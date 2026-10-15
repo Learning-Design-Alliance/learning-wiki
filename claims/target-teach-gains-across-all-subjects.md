@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Despite alignment targeting only third and fourth grade reading, Target Teach schools' ratings improved in mathematics, language arts, science and social studies as well. [→ Bruce Thompson 2006](#bruce-thompson-2006)
@@ -44,4 +45,4 @@ Comparison of 34 Target Teach schools' ratings on six state tests between 1996-9
 
 ## Related Claims
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
-- [IE participation correlated with improved Mathematics Computation NCE scores but lower Reading and Mathematics Concepts NCE scores on city-wide tests](ie-city-wide-nce-mixed-outcomes.md) — related
+- IE participation correlated with improved Mathematics Computation NCE scores but lower Reading and Mathematics Concepts NCE scores on city-wide tests — related

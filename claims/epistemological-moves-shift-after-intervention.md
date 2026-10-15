@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ahlquist-2020
-    resource: "https://journals.ku.dk/jmr"
-    title: "Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr"
+    resource: "https://doi.org/10.17161/jomr.v6i1.12051"
+    title: "Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr [doi:10.17161/jomr.v6i1.12051](https://doi.org/10.17161/jomr.v6i1.12051)"
     author: "Ahlquist, E.-M. T., & Gynther, P."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # After formative intervention, the teacher's presentations shifted from instruction-only moves to including generative, confirming, reconstructing, and reorienting moves
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In the first observed presentation the teacher used only instructional moves, with no reconstructing, reorienting, or generative moves. [→ Ahlquist 2020](#ahlquist-2020)
@@ -40,7 +40,7 @@ sources:
 
 ### Ahlquist 2020
 
-Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr
+Ahlquist, E.-M. T., & Gynther, P. (2020). Teaching in the Montessori Classroom: Investigating Variation Theory and Embodiment as a Foundation of Teachers' Development. Journal of Montessori Research, 6(1). https://journals.ku.dk/jmr [doi:10.17161/jomr.v6i1.12051](https://doi.org/10.17161/jomr.v6i1.12051)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -62,7 +62,7 @@ Observation of the subsequent quadrilateral presentation to five children. The a
 
 
 ## Related Claims
-- [After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging](academy-shift-toward-student-centered-methods.md) — related
+- After the IDEAS academy, both studied teachers' classrooms moved toward more student-centered methods, with inquiry and collaborative learning emerging — related
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
 - [A teacher's awareness of why a learning object must be treated in accordance with variation theory and embodiment promotes a more constructive and effective way to direct children's learning](variation-embodiment-awareness-promotes-constructive-teaching-montessori.md) — possibly the same claim (merge candidate)
 - [Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer](teacher-intervention-escalation-ladder.md) — related

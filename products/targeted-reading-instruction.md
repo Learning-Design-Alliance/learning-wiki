@@ -18,7 +18,7 @@ sources:
 # Targeted Reading Instruction
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Targeted Reading Instruction (TRI) is a one-to-one tutoring programme for struggling kindergarten and first-grade readers that provides brief daily instruction in foundational literacy skills with webcam-supported teacher coaching.
@@ -28,7 +28,6 @@ Targeted Reading Instruction (TRI) is a one-to-one tutoring programme for strugg
 - **Targeted Reading Instruction (TRI): one-to-one tutoring model for struggling K-1 readers**: TRI is a one-to-one tutoring model "designed in particular for isolated rural schools." Teachers work individually with struggling kindergarten and first-grade readers for 15 minutes a day, using "re-reading, word work, and guided oral reading" during sessions. Instruction focuses on "oral language, decoding, writing, comprehension, vocabulary, and fluency skills." Webcam technology connects teachers with TRI coaches for training and follow-up. (Targeted Reading Instruction (TRI) (2025))
 
 ### Claims
-- [TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies](../claims/tri-average-effect-size-051-woodcock-outcomes.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,7 +66,6 @@ TRI is a one-to-one tutoring model "designed in particular for isolated rural sc
 
 ## Claims
 
-- [TRI shows an average effect size of +0.51 on Woodcock reading outcomes across two studies](../claims/tri-average-effect-size-051-woodcock-outcomes.md) [+W]
 
 ## Related Elements
 

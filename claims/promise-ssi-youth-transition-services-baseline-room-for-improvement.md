@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gina-livermore-2020
-    resource: "https://www.mathematica.org/publications/insights-about-the-transition-system-for-ssi-youth-from-the-national-evaluation-of-promoting"
-    title: "Gina Livermore, Todd Honeycutt, Arif Mamun, Jacqueline Kauff. (2020). Insights About the Transition System for SSI Youth from the National Evaluation of Promoting Readiness of Minors in SSI (PROMISE). Journal of Vocational Rehabilitation, vol. 52, no. 1. https://www.mathematica.org/publications/insights-about-the-transition-system-for-ssi-youth-from-the-national-evaluation-of-promoting"
+    resource: "https://doi.org/10.3233/jvr-191056"
+    title: "Gina Livermore, Todd Honeycutt, Arif Mamun, Jacqueline Kauff. (2020). Insights About the Transition System for SSI Youth from the National Evaluation of Promoting Readiness of Minors in SSI (PROMISE). Journal of Vocational Rehabilitation, vol. 52, no. 1. https://www.mathematica.org/publications/insights-about-the-transition-system-for-ssi-youth-from-the-national-evaluation-of-promoting [doi:10.3233/jvr-191056](https://doi.org/10.3233/jvr-191056)"
     author: Gina Livermore, Todd Honeycutt, Arif Mamun, Jacqueline Kauff
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Gina Livermore 2020
 
-Gina Livermore, Todd Honeycutt, Arif Mamun, Jacqueline Kauff. (2020). Insights About the Transition System for SSI Youth from the National Evaluation of Promoting Readiness of Minors in SSI (PROMISE). Journal of Vocational Rehabilitation, vol. 52, no. 1. https://www.mathematica.org/publications/insights-about-the-transition-system-for-ssi-youth-from-the-national-evaluation-of-promoting
+Gina Livermore, Todd Honeycutt, Arif Mamun, Jacqueline Kauff. (2020). Insights About the Transition System for SSI Youth from the National Evaluation of Promoting Readiness of Minors in SSI (PROMISE). Journal of Vocational Rehabilitation, vol. 52, no. 1. https://www.mathematica.org/publications/insights-about-the-transition-system-for-ssi-youth-from-the-national-evaluation-of-promoting [doi:10.3233/jvr-191056](https://doi.org/10.3233/jvr-191056)
 
 `q3 · i?` · `causal · r?`
 

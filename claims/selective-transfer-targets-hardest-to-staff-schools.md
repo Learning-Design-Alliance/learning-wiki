@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ali-protik-2015
-    resource: "https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective"
-    title: "Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh. (2015). Staffing a Low-Performing School: Behavioral Responses to Selective Teacher Transfer Incentives. Education Finance and Policy, vol. 10, no. 4. https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective"
+    resource: "https://doi.org/10.1162/edfp_a_00174"
+    title: "Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh. (2015). Staffing a Low-Performing School: Behavioral Responses to Selective Teacher Transfer Incentives. Education Finance and Policy, vol. 10, no. 4. https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective [doi:10.1162/edfp_a_00174](https://doi.org/10.1162/edfp_a_00174)"
     author: Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ali Protik 2015
 
-Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh. (2015). Staffing a Low-Performing School: Behavioral Responses to Selective Teacher Transfer Incentives. Education Finance and Policy, vol. 10, no. 4. https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective
+Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh. (2015). Staffing a Low-Performing School: Behavioral Responses to Selective Teacher Transfer Incentives. Education Finance and Policy, vol. 10, no. 4. https://www.mathematica.org/publications/journal-article-staffing-a-lowperforming-school-behavioral-responses-to-selective [doi:10.1162/edfp_a_00174](https://doi.org/10.1162/edfp_a_00174)
 
 `q2 · i?` · `causal · r?`
 

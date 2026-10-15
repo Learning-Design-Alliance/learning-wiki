@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lawrence-obiuwevwi-2026
-    resource: "https://arxiv.org/abs/2607.01214"
-    title: "Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, & Sampath Jayarathna. (2026). Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education. arXiv. https://arxiv.org/abs/2607.01214"
+    resource: "https://doi.org/10.48550/arxiv.2607.01214"
+    title: "Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, & Sampath Jayarathna. (2026). Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education. arXiv. https://arxiv.org/abs/2607.01214 [doi:10.48550/arxiv.2607.01214](https://doi.org/10.48550/arxiv.2607.01214)"
     author: "Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, & Sampath Jayarathna"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lawrence Obiuwevwi 2026
 
-Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, & Sampath Jayarathna. (2026). Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education. arXiv. https://arxiv.org/abs/2607.01214
+Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, & Sampath Jayarathna. (2026). Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education. arXiv. https://arxiv.org/abs/2607.01214 [doi:10.48550/arxiv.2607.01214](https://doi.org/10.48550/arxiv.2607.01214)
 
 `q2 · i?` · `design · r2`
 

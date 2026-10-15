@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: nwogo-2026
-    resource: "https://arxiv.org/abs/2608.15738"
-    title: "Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738"
+    resource: "https://doi.org/10.48550/arxiv.2608.15738"
+    title: "Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738 [doi:10.48550/arxiv.2608.15738](https://doi.org/10.48550/arxiv.2608.15738)"
     author: "Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Nwogo 2026
 
-Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738
+Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria. arXiv. https://arxiv.org/abs/2608.15738 [doi:10.48550/arxiv.2608.15738](https://doi.org/10.48550/arxiv.2608.15738)
 
 `q2 · i?` · `design · r2`
 

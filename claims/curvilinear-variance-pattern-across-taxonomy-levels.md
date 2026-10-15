@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Proportions of variance explained increased steadily from Knowledge to Application and then decreased from Analysis to Evaluation, contradicting the expectation of steadily increasing direct links under the cumulative hierarchy. [→ Madaus 1971](#madaus-1971)
@@ -43,6 +44,6 @@ Pattern observed in Tables 2-4 and Figure 3 summarizing proportions of variance 
 
 
 ## Related Claims
-- [Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy](y-shaped-structure-challenges-bloom-cumulative-hierarchy.md) — related
-- [The g-factor's relationship to the higher taxonomy levels declines across grade levels](g-factor-relationship-declines-with-grade-level.md) — related
+- Causal model analysis of taxonomy test data suggests a Y-shaped structure rather than Bloom's cumulative hierarchy — related
+- The g-factor's relationship to the higher taxonomy levels declines across grade levels — related
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related

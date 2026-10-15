@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alonso-carracedo-2026
-    resource: "https://arxiv.org/abs/2607.02432"
-    title: "Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432"
+    resource: "https://doi.org/10.48550/arxiv.2607.02432"
+    title: "Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432 [doi:10.48550/arxiv.2607.02432](https://doi.org/10.48550/arxiv.2607.02432)"
     author: Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alonso-Carracedo 2026
 
-Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432
+Alonso-Carracedo, M., Fernandez-Boullon, R., Celard, P., Rodríguez-Martínez, F. J., Otero-Cerdeira, L. (2026). Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach. https://arxiv.org/abs/2607.02432 [doi:10.48550/arxiv.2607.02432](https://doi.org/10.48550/arxiv.2607.02432)
 
 `q2 · i?` · `causal · r2`
 

@@ -43,4 +43,4 @@ Qualitative case description from teacher partner Ms. F, a fourth-grade teacher,
 
 
 ## Related Claims
-- [Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners](student-pace-and-engagement-varies-by-skill-level.md) — related
+- Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners — related

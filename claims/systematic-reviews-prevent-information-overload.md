@@ -43,5 +43,5 @@ The author's stated purpose for systematic reviews, offered as an expert asserti
 
 
 ## Related Claims
-- [Decision makers face research summaries whose findings point in different directions, raising questions about study quality and comparability](decision-makers-face-conflicting-research-findings.md) — possibly the same claim (merge candidate)
+- Decision makers face research summaries whose findings point in different directions, raising questions about study quality and comparability — possibly the same claim (merge candidate)
 - [Systematic reviews serve decision makers by identifying relevant studies, assessing evidence quality, and summarizing valid findings](systematic-reviews-identify-assess-summarize-for-decision-makers.md) — related

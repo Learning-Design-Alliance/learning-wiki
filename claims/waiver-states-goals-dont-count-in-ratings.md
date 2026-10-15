@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Many waiver states set up systems in which performance against overall and group achievement goals does not factor at all into a school's accountability rating. [→ Daria Hall 2013](#daria-hall-2013)
@@ -45,4 +46,4 @@ The report's analysis of approved state waiver plans finds that although states 
 ## Related Claims
 - [States used ESEA flexibility to move away from the 100 percent proficiency goal and target a narrower set of low-performing schools for support](esea-flexibility-narrowed-accountability-focus.md) — related
 - [Nearly half of waiver states adopted a 'cut the gap in half' achievement goal, while only Arizona chose 100 percent proficiency by 2020](cut-gap-in-half-goal-adoption.md) — related
-- [Most states set meaningful exit criteria for Priority and Focus schools, but some use signals schools cannot target, and the Department of Education required no course of action for schools that keep missing exit criteria](exit-criteria-and-consequences-vary-across-waiver-states.md) — related
+- Most states set meaningful exit criteria for Priority and Focus schools, but some use signals schools cannot target, and the Department of Education required no course of action for schools that keep missing exit criteria — related

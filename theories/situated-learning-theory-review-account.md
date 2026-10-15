@@ -16,7 +16,7 @@ sources:
 # Situated Learning theory (legitimate peripheral participation in communities of practice)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review presents Situated Learning as the framework originating with Lave and Wenger in the early 1990s, in which learning occurs within authentic activities, contexts and cultures rather than isolated settings. Learning is a social process in which knowledge is co-constructed in communities of practitioners, and "learning occurs through legitimate peripheral participation as novices enter into the community and absorb the culture, language, and practices of expert members", becoming more competent as they move from periphery to center. Assessment is seamless and emerges from the task, not separate from it.
@@ -40,12 +40,6 @@ The review presents Situated Learning as the framework originating with Lave and
 
 ### Claims
 
-- [Situated Learning Four Era Concept Evolution](../claims/situated-learning-four-era-concept-evolution.md) [+M]
-- [Situated Learning Three Barrier Categories](../claims/situated-learning-three-barrier-categories.md) [+M]
-- [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](../claims/ai-authenticity-evaluation-reshaping.md) [+M]
-- [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](../claims/ai-four-solution-types-situated-learning.md) [+W]
-- [Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs](../claims/human-guidance-ethical-grounding-ai.md) [+M]
-- [Research production on situated learning has grown but stagnated, averaging about 140 articles per year over the last 10 years](../claims/situated-learning-publication-trend-stagnation.md) [+W]
 
 ## Related Theories
 

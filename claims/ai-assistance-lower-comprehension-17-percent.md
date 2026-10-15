@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rohit-mehra-2026
-    resource: "https://arxiv.org/abs/2607.06101"
-    title: "Rohit Mehra, Samdyuti Suri, Prithviraj K Tagadinamani, Kapil Singi, Vikrant Kaulgud, Adam P. Burden. (2026). Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development. https://arxiv.org/abs/2607.06101"
+    resource: "https://doi.org/10.48550/arxiv.2607.06101"
+    title: "Rohit Mehra, Samdyuti Suri, Prithviraj K Tagadinamani, Kapil Singi, Vikrant Kaulgud, Adam P. Burden. (2026). Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development. https://arxiv.org/abs/2607.06101 [doi:10.48550/arxiv.2607.06101](https://doi.org/10.48550/arxiv.2607.06101)"
     author: Rohit Mehra, Samdyuti Suri, Prithviraj K Tagadinamani, Kapil Singi, Vikrant Kaulgud, Adam P. Burden
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rohit Mehra 2026
 
-Rohit Mehra, Samdyuti Suri, Prithviraj K Tagadinamani, Kapil Singi, Vikrant Kaulgud, Adam P. Burden. (2026). Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development. https://arxiv.org/abs/2607.06101
+Rohit Mehra, Samdyuti Suri, Prithviraj K Tagadinamani, Kapil Singi, Vikrant Kaulgud, Adam P. Burden. (2026). Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development. https://arxiv.org/abs/2607.06101 [doi:10.48550/arxiv.2607.06101](https://doi.org/10.48550/arxiv.2607.06101)
 
 `q2 · i?` · `design · r1`
 

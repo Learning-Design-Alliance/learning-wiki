@@ -47,7 +47,7 @@ Exploratory subgroup analyses with grade 4 CCU data in 12 schools; the report in
 
 ## Related Claims
 - [Grade 4 students in treatment schools scored significantly higher than control students on the CCU Assessments in each of the three study years, with effect sizes from 0.30 to 0.36](a4l-grade4-ccu-significant-impact.md) — related
-- [Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch](plc-at-work-underserved-subgroup-growth.md) — related
+- Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch — related
 - [Grade 5 students showed very small, non-significant CCU differences, indicating no reliable A4L impact at that grade level](a4l-grade5-ccu-no-impact.md) — related
 - [The A4L Lessons Project had no statistically significant impact on students' OAKS Reading/Literature achievement after one, two, or three years of participation](a4l-no-impact-oaks-reading.md) — related
 - [The A4L impact on grade 4 CCU outcomes differed significantly by ELL status in years 1 and 2, with substantially larger effects for ELL students, but not in year 3](a4l-ell-subgroup-impact.md) — related

@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 6 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Newmann and Thompson's review of 27 high-quality secondary studies yielded 37 comparisons; cooperative learning was favored at the .05 level for 25 comparisons (68%), with effect sizes from .87 to 5.15. [→ Blosser 1993](#blosser-1993)
@@ -64,6 +65,6 @@ Method comparison within the same secondary review. The authors speculated that 
 
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
-- [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) — a narrower finding that bears on this claim
-- [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — a broader claim this one bears on
+- Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies — a narrower finding that bears on this claim
+- Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons — a broader claim this one bears on
 - [Classroom research primarily supports the motivational perspective on cooperative learning effects](classroom-research-supports-motivational-perspective.md) — related

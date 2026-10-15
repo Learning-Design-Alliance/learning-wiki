@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: freyaa-chawla-2026
-    resource: "https://arxiv.org/abs/2605.05144"
-    title: "Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii. (2026). Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting. arXiv preprint. https://arxiv.org/abs/2605.05144"
+    resource: "https://doi.org/10.48550/arxiv.2605.05144"
+    title: "Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii. (2026). Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting. arXiv preprint. https://arxiv.org/abs/2605.05144 [doi:10.48550/arxiv.2605.05144](https://doi.org/10.48550/arxiv.2605.05144)"
     author: Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Freyaa Chawla 2026
 
-Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii. (2026). Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting. arXiv preprint. https://arxiv.org/abs/2605.05144
+Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii. (2026). Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting. arXiv preprint. https://arxiv.org/abs/2605.05144 [doi:10.48550/arxiv.2605.05144](https://doi.org/10.48550/arxiv.2605.05144)
 
 `q1 · i?` · `qualitative · r1`
 
@@ -45,7 +45,7 @@ Authors' observational reflection from a single cohort of two high-school studen
 ## Related Claims
 
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
-- [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
+- Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related
 - [Some students lacked fundamental understanding of basic circuit concepts and offloaded critical thinking to AI during collaborative debugging](students-offload-critical-thinking-ai-debugging.md) — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
 - [More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated](boilerplate-blindspot-experienced-students.md) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Pigeons taught a discrimination with errors, unlike errorlessly trained birds, showed emotional responses to S-, response bursts to the incorrect stimulus, and less effective transfer to related discriminations. [→ Glaser 1966](#glaser-1966)

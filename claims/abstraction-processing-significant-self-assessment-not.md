@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: saptarshi-basu-2026
-    resource: "https://arxiv.org/abs/2609.03402"
-    title: "Saptarshi Basu, Sandeep Kakar, Ashok Goel. (2026). A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant. https://arxiv.org/abs/2609.03402"
+    resource: "https://doi.org/10.48550/arxiv.2609.03402"
+    title: "Saptarshi Basu, Sandeep Kakar, Ashok Goel. (2026). A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant. https://arxiv.org/abs/2609.03402 [doi:10.48550/arxiv.2609.03402](https://doi.org/10.48550/arxiv.2609.03402)"
     author: Saptarshi Basu, Sandeep Kakar, Ashok Goel
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Abstraction and processing preferences, but not self-assessment, were significant predictors of perceived response complexity, abstraction, and processing style
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A Bayesian ordinal mixed-effects model confirmed abstraction preference as a significant predictor of perceived complexity while self-assessment was not significant. [→ Saptarshi Basu 2026](#saptarshi-basu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Saptarshi Basu 2026
 
-Saptarshi Basu, Sandeep Kakar, Ashok Goel. (2026). A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant. https://arxiv.org/abs/2609.03402
+Saptarshi Basu, Sandeep Kakar, Ashok Goel. (2026). A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant. https://arxiv.org/abs/2609.03402 [doi:10.48550/arxiv.2609.03402](https://doi.org/10.48550/arxiv.2609.03402)
 
 `q2 · i?` · `causal · r1`
 

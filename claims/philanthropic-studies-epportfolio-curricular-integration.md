@@ -21,6 +21,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` In the Philanthropic Studies B.A. program, ePortfolio began in 2013 as a capstone replacement for paper portfolios and was later integrated across the first-year seminar, pre-internship course, internship course, and capstone, letting students develop ePortfolio making skills and integrative learning over time. [→ case-integration](#case-integration)
@@ -43,4 +44,4 @@ Single-program case study of the IUPUI Philanthropic Studies B.A. The authors de
 ## Related Claims
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](public-capstone-epportfolio-showcase-audience-effect.md) — related
 - [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](epportfolio-courses-engagement-grades-persistence.md) — a broader claim this one bears on
-- [The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment](eportfolio-effective-self-assessment-information-literacy.md) — related
+- The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment — related

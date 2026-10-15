@@ -43,6 +43,6 @@ The review attributes this to Henderson et al. (2025): a survey of Australian st
 
 
 ## Related Claims
-- [Trustworthiness and goodwill, more than expertise, set the limits of students' reliance on AI-generated feedback](sct-trustworthiness-goodwill-limit-reliance.md) — related
-- [Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback)](ai-feedback-trustworthiness-goodwill-concerns.md) — related
+- Trustworthiness and goodwill, more than expertise, set the limits of students' reliance on AI-generated feedback — related
+- Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback) — related
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related

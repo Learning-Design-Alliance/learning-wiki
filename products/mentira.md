@@ -18,7 +18,7 @@ sources:
 # Mentira
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Mentira is a place-based mobile game developed by Holden and Sykes that teaches Spanish sociopragmatic language use through collaborative crime-mystery interactions and contextual corrective feedback.
@@ -27,7 +27,6 @@ Mentira is a place-based mobile game developed by Holden and Sykes that teaches 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Explicit corrective feedback outperformed implicit feedback and control conditions for third-semester Spanish learners' pragmatic performance](../claims/explicit-cf-outperforms-implicit-spanish-pragmatics.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -61,7 +60,6 @@ Mentira (http://www.mentira.org) is a mobile game developed by Holden and Sykes 
 
 ## Claims
 
-- [Explicit corrective feedback outperformed implicit feedback and control conditions for third-semester Spanish learners' pragmatic performance](../claims/explicit-cf-outperforms-implicit-spanish-pragmatics.md) [+W]
 
 ## Related Elements
 - 

@@ -16,7 +16,7 @@ sources:
 # Learner Positioning System (LPS): a GPS-like system positioning each learner with a learner profile, learning map, and resource bank
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper envisions Learner Positioning Systems, analogous to a geographic GPS, that help learners position themselves in their learning. "An effective LPS would include information about the learner; a map of learning topics and progressions; and a bank of programs and resources tied to the learning map and the student's unique characteristics." Students would self-identify strengths, preferences, and challenges, select learning trajectories, and find resources, communities, and programs; the LPS would also help teachers and parents support learners. It is a proposed design concept, not an evaluated artifact.
@@ -40,7 +40,6 @@ The paper envisions Learner Positioning Systems, analogous to a geographic GPS, 
 
 ### Claims
 
-- [An online individualized instruction program was highly effective in improving literacy skills in preschool through third grade](../claims/individualized-instruction-reading-effective-p3.md) [+W]
 
 ## Related Theories
 

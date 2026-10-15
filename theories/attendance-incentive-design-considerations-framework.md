@@ -16,7 +16,7 @@ sources:
 # A framework of design considerations for attendance incentives
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article introduces a framework intended to fill a guidance gap around attendance incentives. As it states, "This article presents a framework to fill that gap," organizing "the design considerations when creating attendance incentives" so that practitioners can decide whether incentives fit their context and how to implement them well.
@@ -37,8 +37,6 @@ The article introduces a framework intended to fill a guidance gap around attend
 
 ### Claims
 
-- [Student attendance is closely tied to a range of educational outcomes](../claims/attendance-tied-to-educational-outcomes.md) [+W]
-- [Schools widely employ incentives to improve attendance across all grade levels](../claims/incentives-pervasive-prek-to-grade-12.md) [+W]
 
 ## Related Theories
 - 

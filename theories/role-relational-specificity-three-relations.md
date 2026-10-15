@@ -16,7 +16,7 @@ sources:
 # Role relational specificity: trust in schooling operates through asymmetric role relations among teachers, principals, and parents
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 3 studies (2 associational, 1 design), `q2`–`q3` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 associational, 1 design), `q2`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Because school-based relations are asymmetric rather than symmetric, the normative basis of trust takes on role relational specificity. The paper examines "three role relations critical for sustained school change: teachers with their colleagues, with the school principal (and other administrators), and with parents." Each relation carries differentiated reciprocal obligations: colleagues need predictability and generalized reciprocity, teachers expect fairness and resources from principals, and teacher-parent trust depends on teachers initiating respectful bridges given parents' vulnerability. Both parties remain vulnerable to each other, unlike patron-client arrangements.
@@ -41,8 +41,6 @@ Because school-based relations are asymmetric rather than symmetric, the normati
 - [Relational trust varies substantially between schools, supporting its treatment as an organizational property](../claims/relational-trust-varies-between-schools-organizational-property.md) [+W]
 - [Small elementary schools (under 350 students) report more positive trust relations among teachers and between teachers and parents](../claims/small-school-size-facilitates-trust.md) [+W]
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](../claims/trust-linked-to-teacher-commitment-innovation-outreach.md) [+W]
-- [School size and student socioeconomic status conditioned trust levels differently in the two contexts](../claims/school-size-ses-condition-trust-differently.md) [~W]
-- [Teachers and students in Valparaíso and Illinois responded similarly and positively about trust among teachers, between teachers and principals, and between students and teachers](../claims/relational-trust-similar-positive-valparaiso-illinois.md) [+W]
 - [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](../claims/teacher-reports-coherence-trust-increased.md) [+W]
 
 ## Related Theories

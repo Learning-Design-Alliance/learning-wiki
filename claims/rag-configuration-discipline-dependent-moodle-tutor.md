@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: anna-ostrowska-2026
-    resource: "https://tinyurl.com/mrytc2dr"
-    title: "Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr"
+    resource: "https://doi.org/10.24963/ijcai.2026/984"
+    title: "Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr [doi:10.24963/ijcai.2026/984](https://doi.org/10.24963/ijcai.2026/984)"
     author: Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Optimal RAG configuration differs by discipline: STEM subjects perform best with 512-character chunks and temperature 0.3 (faithfulness 0.97), while humanities require 1000-character chunks and temperature 0.1 (context recall 1.00, faithfulness 0.98)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` For STEM subjects the optimal chunk size was 512 characters with model temperature 0.3, achieving RAGAS faithfulness of 0.97. [→ Anna Ostrowska 2026](#anna-ostrowska-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Anna Ostrowska 2026
 
-Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr
+Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr [doi:10.24963/ijcai.2026/984](https://doi.org/10.24963/ijcai.2026/984)
 
 `q2 · i?` · `design · r2`
 

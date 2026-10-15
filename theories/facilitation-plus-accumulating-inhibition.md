@@ -16,7 +16,7 @@ sources:
 # Dual-process account of category access: general initial facilitation plus accumulating inhibition determined by the number of prior retrievals
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes that two opposing processes operate during retrieval from semantic memory categories: a general initial facilitation (category "warm up") that speeds early retrievals, and a compounding inhibition that grows with each successive retrieval effort. The inhibition is assumed to be item dependent and to accrue through both explicit (correct output) and implicit (incorrect, rejected) retrievals, so low-frequency exemplars, which invite more implicit retrievals, build inhibition faster. This account is offered to reconcile Loftus's finding of decreasing latencies with Brown's finding of increasing latencies across successive retrievals.
@@ -39,11 +39,6 @@ The article proposes that two opposing processes operate during retrieval from s
 
 ### Claims
 
-- [Position Frequency Interaction Latency](../claims/position-frequency-interaction-latency.md) [+M]
-- [Prior Frequency Slows Subsequent Retrieval](../claims/prior-frequency-slows-subsequent-retrieval.md) [+M]
-- [Effort Induced Slowdown Refuted](../claims/effort-induced-slowdown-refuted.md) [+M]
-- [Retrieval errors increase across successive positions, showing both a significant linear and a significant quadratic trend](../claims/retrieval-errors-increase-across-positions.md) [+W]
-- [Retrieval latencies increase across successive retrievals from semantic categories, with a significant linear trend and no quadratic trend](../claims/retrieval-latency-increases-across-positions.md) [+W]
 
 ## Related Theories
 - 

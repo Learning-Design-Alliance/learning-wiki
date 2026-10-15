@@ -69,7 +69,7 @@ Participants used a web-based programme to learn GRE-type vocabulary word pairs,
 |---|---|---|---|
 | [Kornell & Bjork 2008](https://doi.org/10.1111/j.1467-9280.2008.02127.x) | q3 · causal · r? | i? | this claim |
 | [Kornell 2009](https://doi.org/10.1002/acp.1537) | q3 · causal · r? | i? | this claim |
-| transfer-funnel | q2 · design · r2 | i? | [Students rarely open transfer-practice cards immediately after solving; they want such pro](transfer-practice-timing-mismatch-delayed-review.md) (qualifies) |
+| [transfer-funnel](https://doi.org/10.48550/arxiv.2607.01692) | q2 · design · r2 | i? | [Students rarely open transfer-practice cards immediately after solving; they want such pro](transfer-practice-timing-mismatch-delayed-review.md) (qualifies) |
 | transfer-funnel (2) | q2 · design · r3 | i? | [Students rarely open transfer-practice cards immediately after solving; they want such pro](transfer-practice-timing-mismatch-delayed-review.md) (qualifies) |
 <!-- synthesis:end -->
 

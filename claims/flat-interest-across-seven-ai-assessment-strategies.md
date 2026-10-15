@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: muhammad-sajjad-akbar-2026
-    resource: "https://arxiv.org/abs/2609.27842"
-    title: "Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842"
+    resource: "https://doi.org/10.48550/arxiv.2609.27842"
+    title: "Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842 [doi:10.48550/arxiv.2609.27842](https://doi.org/10.48550/arxiv.2609.27842)"
     author: Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Muhammad Sajjad Akbar 2026
 
-Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842
+Muhammad Sajjad Akbar, Geoffrey Challen, Fraida Fund, Casey Hopkins, Oscar Karnalim, Kevin Lin, James McGuffee, Shubbhi Taneja, Ranysha Ware. (2026). AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI. https://arxiv.org/abs/2609.27842 [doi:10.48550/arxiv.2609.27842](https://doi.org/10.48550/arxiv.2609.27842)
 
 `q2 · i?` · `qualitative · r1`
 

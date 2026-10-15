@@ -15,7 +15,7 @@ sources:
 # Collaborative argumentation as collective knowledge building and consensus seeking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 review, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The primer frames collaborative argumentation as "a process in which students actively build knowledge and consensus through critical thinking and communicating with others". Drawing on knowledge-building theory (Scardamalia & Bereiter, 2014), it treats argumentation as a discourse process communities use to determine the most plausible explanation when more than one exists, emphasizing collective responsibility for co-constructing knowledge rather than winning arguments. Teachers are advised to introduce it as learning together and understanding the world rather than persuading.
@@ -40,7 +40,6 @@ The primer frames collaborative argumentation as "a process in which students ac
 
 - [Arguing To Consensus Fosters Integration](../claims/arguing-to-consensus-fosters-integration.md) [+M]
 - [Collaborative argumentation benefits students' motivation, content learning, domain argumentation, transferable argumentation skills, and knowledge-building practices](../claims/collaborative-argumentation-benefits-summary.md) [+W]
-- [Emancipating problem-solving action critiques norms back to underlying ideology to seek morally defensible consensus value ends](../claims/emancipating-mode-critique-value-ends.md) [+W]
 
 ## Related Theories
 - 

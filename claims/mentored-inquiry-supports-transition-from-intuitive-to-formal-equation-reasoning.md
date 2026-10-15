@@ -52,9 +52,9 @@ This is a single-case ethnography; every finding here describes one student's tr
 - [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](repeated-short-lessons-scaffold-mentee-behaviour-management.md) — related
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
 - [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related
-- [Over 50% of introductory physics students describe Rolodex equation matching at the start of the semester](rolodex-equation-matching-dominates-initial-beliefs.md) — related
+- Over 50% of introductory physics students describe Rolodex equation matching at the start of the semester — related
 - [Physics students can execute Legendre-transform rules but express discomfort with the transform as a general mathematical tool](students-discomfort-legendre-transform-general-tool.md) — related
 - [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](third-space-distributes-authority-among-students.md) — related
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on
 - [After the TBL module, students were better prepared to design and implement independent final research projects](tbl-module-prepares-independent-projects.md) — related
-- [Open answers in the pilot cluster into three themes: feeling the wave through one's own body, the learning curve of hand tracking, and the experience leaving a mental trace students expect to use at the exam](ar-open-answer-three-themes-embodied-experience.md) — related
+- Open answers in the pilot cluster into three themes: feeling the wave through one's own body, the learning curve of hand tracking, and the experience leaving a mental trace students expect to use at the exam — related

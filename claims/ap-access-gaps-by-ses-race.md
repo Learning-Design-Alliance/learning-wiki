@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: melissa-roderick-2009
-    resource: "https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools"
-    title: "Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools"
+    resource: "https://doi.org/10.1353/foc.0.0024"
+    title: "Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools [doi:10.1353/foc.0.0024](https://doi.org/10.1353/foc.0.0024)"
     author: Melissa Roderick, Jenny Nagaoka, and Vanessa Coca
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Melissa Roderick 2009
 
-Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools
+Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools [doi:10.1353/foc.0.0024](https://doi.org/10.1353/foc.0.0024)
 
 `q2 · i?` · `review · r2`
 

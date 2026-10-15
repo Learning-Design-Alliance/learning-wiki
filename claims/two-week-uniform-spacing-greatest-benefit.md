@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: john-duplice-2022
-    resource: "https://iafor.org/journal/iafor-journal-of-education/"
-    title: "John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/"
+    resource: "https://doi.org/10.22492/ije.10.1.05"
+    title: "John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/ [doi:10.22492/ije.10.1.05](https://doi.org/10.22492/ije.10.1.05)"
     author: John Duplice
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Pairwise comparison confirmed the Standard treatment's benefit over the other treatments, with two-week spacing showing nearly twice the improvement of not using the GoldList Notebook Method. [→ John Duplice 2022](#john-duplice-2022)
@@ -40,7 +40,7 @@ sources:
 
 ### John Duplice 2022
 
-John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/
+John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/ [doi:10.22492/ije.10.1.05](https://doi.org/10.22492/ije.10.1.05)
 
 `q2 · i?` · `causal · r2`
 

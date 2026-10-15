@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: michael-hardy-2026
-    resource: "https://arxiv.org/abs/2603.00883"
-    title: "Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883"
+    resource: "https://doi.org/10.48550/arxiv.2603.00883"
+    title: "Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883 [doi:10.48550/arxiv.2603.00883](https://doi.org/10.48550/arxiv.2603.00883)"
     author: Michael Hardy, Yunsung Kim
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Michael Hardy 2026
 
-Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883
+Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883 [doi:10.48550/arxiv.2603.00883](https://doi.org/10.48550/arxiv.2603.00883)
 
 `q2 · i?` · `causal · r1`
 
@@ -45,9 +45,9 @@ Paired comparisons in Sec. 5.2 of reasoning variants against their base models (
 ## Related Claims
 - [Tutoring quality belongs to the base model and agent harness together rather than either alone, as adapter rankings reorder across tiers](educlaw-bench-model-harness-interaction.md) — related
 - [Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance](curricular-cot-improves-accuracy-larger-models.md) — reports the opposite
-- [Chain-of-thought prompting improved LLM multistep reasoning, operationalized via decomposition and interleaved planning approaches](cot-planning-decomposition-interleaved.md) — related
+- Chain-of-thought prompting improved LLM multistep reasoning, operationalized via decomposition and interleaved planning approaches — related
 - [Chain-of-thought prompting yields higher-quality GenAI feedback on argumentative essays than Zero-shot prompting and teacher feedback](cot-prompting-higher-feedback-quality-than-zero-shot-and-teacher.md) — related
-- [Zero-shot prompt type has minimal impact on LLM-human coding concordance](prompt-type-minimal-impact-llm-coding.md) — related
+- Zero-shot prompt type has minimal impact on LLM-human coding concordance — related
 - [Enforcing an explicit multi-step reasoning structure yields no significant improvement for the two studied models, which already self-organize an effective reasoning structure](enforced-structure-no-gain-self-organized-reasoning.md) — related
 - [Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models](prompting-strategies-limited-alignment-gain.md) — related
 - [Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs](reasoning-prompting-improves-llm-distractor-match.md) — related

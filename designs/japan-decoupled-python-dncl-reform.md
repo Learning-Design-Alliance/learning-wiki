@@ -17,7 +17,7 @@ sources:
 # Japan's decoupled reform: universal Python instruction with DNCL pseudocode examination
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Japan's 2022 Information I reform standardizes "Python for classroom instruction across all secondary schools" while a domain-specific pseudocode (DNCL) is used for the national university entrance examination. This decoupling ensures no student is disadvantaged by their Python implementation or IDE choice in high-stakes assessment, and by using pseudocode for assessment Japan "preserves the pedagogical benefits of Python while neutralizing the assessment lock-in problem" common to washback-driven systems.
@@ -37,7 +37,6 @@ Japan's 2022 Information I reform standardizes "Python for classroom instruction
 - Universal Python-based AI literacy instruction with exam-neutral assessment
 
 ### Claims
-- [Exam Washback Drives Language Policy](../claims/exam-washback-drives-language-policy.md) [+M]
 
 ## Related Designs
 - 

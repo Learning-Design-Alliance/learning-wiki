@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Leinhardt and Greeno found an expert's opening homework review took about one-third less time than a novice's while accomplishing more, and Berliner's teaching study showed experts depend on students trained in their routines. [→ Berliner 1988](#berliner-1988)
@@ -44,4 +45,4 @@ The article reports, citing Leinhardt and Greeno (1986), a comparison of an expe
 
 ## Related Claims
 - [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
-- [Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants](experts-show-emotionality-and-responsibility.md) — related
+- Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants — related

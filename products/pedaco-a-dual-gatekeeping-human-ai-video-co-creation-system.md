@@ -13,7 +13,7 @@ generated:
 # PedaCo: a dual gatekeeping human-AI video co-creation system
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 PedaCo is a human-AI collaborative software system that helps educators generate and evaluate instructional videos using CTML-informed script review and automated post-synthesis metrics.

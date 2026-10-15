@@ -16,7 +16,7 @@ sources:
 # Oxford's (1990) language learning strategy model with six strategy categories
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The study's conceptual framework is Oxford's (1990) LLS model, chosen "due to its thorough categorization of LLSs and for its frequent mention and use in the literature." The model divides LLSs into six groups: "memory, cognitive, compensation, metacognitive, social, and affective strategies." Oxford's work also produced the SILL, a quantitative questionnaire measuring frequency of strategy use. The article uses the model's categories as the predetermined typologies for coding interview data.
@@ -38,10 +38,6 @@ The study's conceptual framework is Oxford's (1990) LLS model, chosen "due to it
 ### Claims
 
 - Spanish Business Adults Favor Social Cognitive Metacognitive Strategies [+M]
-- [The LLSs Spanish adults use in business communication are not necessarily the LLSs taught or used in Spanish secondary school English classes](../claims/adult-lls-differ-from-secondary-school-lls.md) [+W]
-- [Spanish participants attribute weak English development in Spain to lack of original-version media, the past dictatorship, and inadequacies of the Spanish educational system](../claims/cultural-influences-spanish-english-learning.md) [+W]
-- [Spanish business professionals develop English outside work mainly through reading in English, watching original-version television and films, and speaking with native English speaking friends](../claims/out-of-work-english-practices-spanish-professionals.md) [+W]
-- [Spanish business professionals use distinct strategy sets for each business task, with four themes for presentations and specific before/during/after techniques for calls and meetings](../claims/task-specific-strategies-spanish-business-english.md) [+W]
 
 ## Related Theories
 - 

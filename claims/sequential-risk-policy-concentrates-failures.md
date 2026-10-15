@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: shihao-wang-2026
-    resource: "https://arxiv.org/abs/2609.29874"
-    title: "Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874"
+    resource: "https://doi.org/10.48550/arxiv.2609.29874"
+    title: "Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874 [doi:10.48550/arxiv.2609.29874](https://doi.org/10.48550/arxiv.2609.29874)"
     author: Shihao Wang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A fixed-threshold sequential risk policy concentrated persistent-failure alerts within restricted alert budgets
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 1 associational `r2`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The sequential student-history policy triggered on 17.8% of test states with precision 0.566 and captured 25.2% of observed persistent failures. [→ Shihao Wang 2026](#shihao-wang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Shihao Wang 2026
 
-Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874
+Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874 [doi:10.48550/arxiv.2609.29874](https://doi.org/10.48550/arxiv.2609.29874)
 
 `q2 · i?` · `associational · r2`
 

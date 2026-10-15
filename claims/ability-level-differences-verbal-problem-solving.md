@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` High ability students scored better than intermediate, who scored better than low ability students, on both criteria. [→ Bassler 1972](#bassler-1972)
@@ -67,5 +68,5 @@ As hypothesized, the treatment-by-ability interaction was non-significant on bot
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
 - [Polya and Dahmus methods do not differ on the problem solution criterion](no-treatment-difference-problem-solution-criterion.md) — related
 - [Cognitive apprenticeship instruction produced no significant differences from traditional instruction on post-treatment problem-solving, final, and standardized mathematics exams in community college technical mathematics](cognitive-apprenticeship-no-significant-exam-differences-technical-math.md) — related
-- [Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests](hourly-exam-differences-trigonometry-not-algebra.md) — related
+- Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests — related
 - [In a cluster randomized study across 73 high schools, Carnegie Learning students scored higher on the Algebra Proficiency Exam, with cohort effect sizes of +0.07 and +0.21](carnegie-learning-algebra-i-cluster-randomized-cohorts.md) — related

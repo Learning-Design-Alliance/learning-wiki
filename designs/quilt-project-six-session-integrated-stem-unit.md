@@ -17,7 +17,7 @@ sources:
 # Quilt Project: Six-Session Integrated STEM Unit
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A six-session project developed for the GEMS afterschool club by expanding a quilt mathematics task. The designers "integrate art, cultural, real-life elements, and geometry, technology, and algebra into the project". Sessions run from knowing patterns, appreciating quilt designs and sharing stories, using Geogebra to draw a quilt design, listing materials and making the quilt, to an exhibition involving parents.
@@ -39,7 +39,6 @@ A six-session project developed for the GEMS afterschool club by expanding a qui
 - Bringing cultural and life experiences into mathematics
 
 ### Claims
-- [Integrated Stem Quilt Project Judged To Offer Multiple Entry Points](../claims/integrated-stem-quilt-project-judged-to-offer-multiple-entry-points.md) [+W]
 
 ## Related Patterns
 - [Restorying Through Electronic Quilting](../strategies/restorying-through-electronic-quilting.md)

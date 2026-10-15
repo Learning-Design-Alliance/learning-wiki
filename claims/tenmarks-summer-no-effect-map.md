@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: christina-luke-2016
-    resource: "https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d"
-    title: "Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d"
+    resource: "https://doi.org/10.51388/20.500.12265/26"
+    title: "Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)"
     author: Christina Luke, Christa M. Simone, Aubrey T. Francisco
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TenMarks participants showed no effect on NWEA MAP Math scores pre to post compared with a matched control group who did not use the program. [→ Christina Luke 2016](#christina-luke-2016)
@@ -39,7 +39,7 @@ sources:
 
 ### Christina Luke 2016
 
-Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d
+Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)
 
 `q2 · i?` · `causal · r2`
 
@@ -62,6 +62,6 @@ Table 3 prints pilot participants' mean NWEA MAP scores of 233.3 (SD 14.8) at ba
 
 ## Related Claims
 - [Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer](low-declining-summer-edtech-usage.md) — related
-- [An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students](zearn-pilot-no-significant-differences.md) — related
+- An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students — related
 - [Vista students using Mathspace showed statistically significant math gains over the summer, while benchmark scores were not significantly different in the other two districts](vista-mathspace-significant-summer-math-gains.md) — related
-- [Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards](springboard-summer-outperforms-matched-comparison.md) — related
+- Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards — related

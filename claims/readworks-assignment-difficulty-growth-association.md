@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tare-2019
-    resource: "https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985"
-    title: "Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985"
+    resource: "https://doi.org/10.51388/20.500.12265/81"
+    title: "Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985 [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)"
     author: "Tare, M. & Shell, A. R."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In the district study, teachers assigned articles above students' STAR Lexile levels (about 375 points higher on average), and greater STAR growth related to completing more, harder, and more accurate ReadWorks assignments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Assignment Lexile levels averaged around 375 points higher than students' own Lexile levels (95% CI 215-535; t = 4.7, p < .01). [→ Tare 2019](#tare-2019)
@@ -40,7 +40,7 @@ sources:
 
 ### Tare 2019
 
-Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985
+Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985 [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
 
 `q2 · i?` · `associational · r2`
 

@@ -43,6 +43,6 @@ Descriptive mapping of school-average Teacher Use of and Belief in Grow scores (
 
 
 ## Related Claims
-- [Student background characteristics explain only a small amount of variation in school technology use, with males, Latinos, and at-risk students using less and higher achievers using more](background-characteristics-small-share-student-tech-use.md) — related
+- Student background characteristics explain only a small amount of variation in school technology use, with males, Latinos, and at-risk students using less and higher achievers using more — related
 - [The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students](digital-divide-narrowed-schools-partially-compensating.md) — related
 - [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related

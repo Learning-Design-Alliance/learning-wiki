@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: akshay-syal-2026
-    resource: "https://arxiv.org/abs/2605.04131"
-    title: "Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131"
+    resource: "https://doi.org/10.48550/arxiv.2605.04131"
+    title: "Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131 [doi:10.48550/arxiv.2605.04131](https://doi.org/10.48550/arxiv.2605.04131)"
     author: Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Examination of wrong answers yielded four main error categories: Context Misinterpretation, Mathematical Computation, Visual Processing, and Hybrid, with visual processing errors the most prevalent (17 of 34 multimodal errors). [→ Akshay Syal 2026](#akshay-syal-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Akshay Syal 2026
 
-Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131
+Akshay Syal, Lawrence Swaminathan Xavier Prince, Evin Gultepe, Nik Bear Brown, Srinivas Sridhar. (2026). A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education. https://arxiv.org/abs/2605.04131 [doi:10.48550/arxiv.2605.04131](https://doi.org/10.48550/arxiv.2605.04131)
 
 `q2 · i?` · `causal · r1`
 
@@ -84,5 +84,5 @@ Descriptive observation from the error analysis of the same question sets: compu
 - [The Multimodal Interference Effect: mapping visual representations to physical concepts degrades LLM performance even on non-visual problem aspects](multimodal-interference-effect-llms.md) — related
 - [A three-step structured multimodal dialogue intervention corrected 82% of baseline errors and raised multimodal accuracy to 95%, with visual processing errors corrected at 100% but context misinterpretation errors resistant](structured-dialogue-corrects-82-percent-llm-errors.md) — related
 - [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — reports the opposite
-- [In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve](visual-misread-dominant-non-reasoning-failure.md) — related
+- In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve — related
 - [The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error](taxonomy-decodes-overlapping-loop-misconceptions.md) — related

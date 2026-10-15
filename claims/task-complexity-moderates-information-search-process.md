@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Users show simple, straightforward information seeking in routine work tasks but a process of construction and formulation in tasks they identify as complex. [→ Kuhlthau 2005](#kuhlthau-2005)
@@ -43,5 +44,5 @@ The author's recent studies introduced the concept of task complexity, developed
 
 
 ## Related Claims
-- [Existing information retrieval systems fail to support users' constructive process in complex tasks](ir-systems-unsupportive-of-construction.md) — a narrower finding that bears on this claim
-- [Forming a focus, rather than merely gathering information, is the main task in complex information seeking](forming-focus-main-task-information-seeking.md) — a broader claim this one bears on
+- Existing information retrieval systems fail to support users' constructive process in complex tasks — a narrower finding that bears on this claim
+- Forming a focus, rather than merely gathering information, is the main task in complex information seeking — a broader claim this one bears on

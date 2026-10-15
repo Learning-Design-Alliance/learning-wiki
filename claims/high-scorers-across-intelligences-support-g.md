@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The review reports, citing McGuiness, that Gifted Child Quarterly findings showed children scoring highly on one intelligence tend to score highly on some others, which is expected if general intelligence exists and not expected if intelligences are separate. [→ Peariso 2008](#peariso-2008)
@@ -43,5 +44,5 @@ The review attributes this finding to McGuiness (2007) discussing work by Guskin
 
 
 ## Related Claims
-- [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — possibly the same claim (merge candidate)
+- A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for — possibly the same claim (merge candidate)
 - [Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain](intelligences-not-interchangeable.md) — related

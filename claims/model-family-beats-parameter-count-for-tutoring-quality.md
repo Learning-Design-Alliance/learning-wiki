@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: h-chad-lane-2026
-    resource: "https://github.com/InviteInstitute/CSTutorBench"
-    title: "H. Chad Lane, Bryson Kageler. (2026). CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming. SLM4ED'26: The 1st Workshop of Small Language Models for Education. https://github.com/InviteInstitute/CSTutorBench"
+    resource: "https://doi.org/10.1145/3770761.3777333"
+    title: "H. Chad Lane, Bryson Kageler. (2026). CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming. SLM4ED'26: The 1st Workshop of Small Language Models for Education. https://github.com/InviteInstitute/CSTutorBench [doi:10.1145/3770761.3777333](https://doi.org/10.1145/3770761.3777333)"
     author: H. Chad Lane, Bryson Kageler
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### H. Chad Lane 2026
 
-H. Chad Lane, Bryson Kageler. (2026). CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming. SLM4ED'26: The 1st Workshop of Small Language Models for Education. https://github.com/InviteInstitute/CSTutorBench
+H. Chad Lane, Bryson Kageler. (2026). CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming. SLM4ED'26: The 1st Workshop of Small Language Models for Education. https://github.com/InviteInstitute/CSTutorBench [doi:10.1145/3770761.3777333](https://doi.org/10.1145/3770761.3777333)
 
 `q2 · i?` · `design · r2`
 

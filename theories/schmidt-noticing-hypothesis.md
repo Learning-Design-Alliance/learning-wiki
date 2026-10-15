@@ -12,7 +12,7 @@ generated:
 # Schmidt's noticing hypothesis
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 16 claims (8 for, 6 mixed, 2 against) · 9 studies (3 review, 2 qualitative, 2 theoretical, 1 causal, 1 design), `q1`–`q2` · 0 of 9 report an effect size · 16 claims rest on one study
+> **Evidence** · 13 claims (5 for, 6 mixed, 2 against) · 9 studies (3 review, 2 qualitative, 2 theoretical, 1 causal, 1 design), `q1`–`q2` · 0 of 9 report an effect size · 13 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed338037, eric-ej1155586, eric-ej930155, eric-ej1412014, eric-ej1361438, eric-ej1117239, eric-ed507438. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -39,10 +39,7 @@ The articles also mark the hypothesis's weak points. Barnawi (eric-ej930155) not
 
 ## Claims
 
-- [Review reports that noticing correct versions with understanding helps students improve their L2 writing (Qi & Lapkin)](../claims/noticing-with-understanding-improves-l2-writing.md) [+W]
 - [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](../claims/noticing-errors-decreases-errors-preserves-quality.md) [+W]
-- [Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford)](../claims/cfts-promoted-noticing-peer-dialogs-metacognition.md) [+W]
-- [Review reports that collaborative feedback tasks improved students' writing accuracy for both low and highly proficient students (Tang & Tithecott)](../claims/cfts-improved-writing-accuracy-tang-tithecott.md) [+W]
 - [Unpressured within-task planning improves accuracy only when attention is guided to form](../claims/unpressured-within-task-planning-form-focused-accuracy.md) [+W]
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [+W]
 - [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](../claims/lexical-lres-dominate-grammar-lres-l2-writing.md) [~M]

@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ref-feedback
+    resource: "https://doi.org/10.48550/arxiv.2609.19870"
     title: ref-feedback
     q: 3
     i: "?"
@@ -36,7 +37,7 @@ sources:
 
 ### ref-feedback
 
-Jeongmin Rhee, Changhee Lee, Hyunwoo Kim, Kiroong Choe, Bohyoung Kim, Sungahn Ko, and Jinwook Seo. 2026. Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs. https://arxiv.org/abs/2609.19870
+Jeongmin Rhee, Changhee Lee, Hyunwoo Kim, Kiroong Choe, Bohyoung Kim, Sungahn Ko, and Jinwook Seo. 2026. Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs. https://arxiv.org/abs/2609.19870 [doi:10.48550/arxiv.2609.19870](https://doi.org/10.48550/arxiv.2609.19870)
 
 `q3 · i?` · `design · r3`
 

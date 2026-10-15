@@ -13,7 +13,7 @@ generated:
 # Spritz
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Spritz is a Discord-based LLM conversational agent that detects collaboration tensions, elicits private individual reflections, and returns anonymized perspective syntheses for interdisciplinary student teams.

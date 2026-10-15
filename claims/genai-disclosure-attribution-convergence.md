@@ -43,11 +43,11 @@ Document analysis of official university GenAI guidance pages across the 50-inst
 
 
 ## Related Claims
-- [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](genai-policy-vignettes-mostly-restrictive-indeterminate.md) — related
-- [Disclosure status alone often changes little in substantive classification, and false declarations change fewer classifications than expected](disclosure-alone-often-changes-little.md) — related
+- Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted — related
+- Disclosure status alone often changes little in substantive classification, and false declarations change fewer classifications than expected — related
 - [Students fear that declaring AI use will lead to lower marks even when permitted, creating a 'Disclosure Trap' that drives AI use underground](disclosure-trap-penalty-for-transparency.md) — related
-- [Cross-university divergence is highest for disclosed language rewriting and a disclosed AI-drafted paragraph, while an explicit assessment prohibition produces unanimity](divergence-highest-disclosed-moderate-contribution-unanimity-explicit-ban.md) — related
+- Cross-university divergence is highest for disclosed language rewriting and a disclosed AI-drafted paragraph, while an explicit assessment prohibition produces unanimity — related
 - [Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright](institutional-pro-use-course-guarded-genai-policies.md) — related
-- [Students frequently do not complete mandatory AI use declarations, perceiving them as admissions of wrongdoing (attributed to Gonsalves)](students-avoid-ai-declarations-fearing-consequences.md) — related
+- Students frequently do not complete mandatory AI use declarations, perceiving them as admissions of wrongdoing (attributed to Gonsalves) — related
 - [Among the 50 most innovative U.S. universities, instructor-set syllabus-level governance is the dominant GenAI convergence, with 33 of 50 providing syllabus or course-policy guidance](instructor-syllabus-level-genai-governance-dominant.md) — related
 - [A majority of faculty believe student evaluation methods require significant change, and preferences tilt toward disclosure-based permission regimes over bans](faculty-demand-assessment-transformation-permission-regimes.md) — related

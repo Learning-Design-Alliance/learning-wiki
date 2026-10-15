@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kailai-he-2026
-    resource: "https://arxiv.org/abs/2609.21154"
-    title: "Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154"
+    resource: "https://doi.org/10.48550/arxiv.2609.21154"
+    title: "Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154 [doi:10.48550/arxiv.2609.21154](https://doi.org/10.48550/arxiv.2609.21154)"
     author: Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kailai He 2026
 
-Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154
+Kailai He, Zhihao Wu, Linhai Zhang, Runcong Zhao, Yulan He, Jiazheng Li. (2026). CoLearn: An Agentic Tutor that Learns its Learner in a Human–AI Co-Learning Loop. https://arxiv.org/abs/2609.21154 [doi:10.48550/arxiv.2609.21154](https://doi.org/10.48550/arxiv.2609.21154)
 
 `q2 · i?` · `design · r2`
 

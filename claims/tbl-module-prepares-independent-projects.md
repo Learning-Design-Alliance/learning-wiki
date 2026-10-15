@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The authors report that students retained conceptual knowledge from the module and worked with more precision and confidence in their end-of-semester independent research projects. [→ Peterson 2015](#peterson-2015)
@@ -43,7 +44,7 @@ Authors' observational report on end-of-semester final projects, which replaced 
 
 
 ## Related Claims
-- [Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module](tbl-survey-above-neutral.md) — related
+- Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module — related
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — related
 - [Dental students in a revised low-stress TBL format rated its effectiveness for learning more positively than medical students rated the original format, in a non-randomised comparison of two cohorts](low-stress-tbl-higher-perceived-effectiveness.md) — related
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related

@@ -63,7 +63,7 @@ Experiential-learning theme from the same interviews: AI simulations let learner
 
 ## Related Claims
 - [Teachers describe AI companions as a low-stakes rehearsal space for students who struggle socially, including autistic students](ai-companion-rehearsal-space-struggling-students.md) — related
-- [AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process](ai-authenticity-evaluation-reshaping.md) — related
+- AI-driven situated learning reshapes education by enhancing authenticity and transforming evaluation into assessment woven into the learning process — related
 - [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related

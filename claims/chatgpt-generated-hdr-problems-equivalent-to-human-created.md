@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: satoshi-takahashi-2026
-    resource: "https://arxiv.org/abs/2609.25790"
-    title: "Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790"
+    resource: "https://doi.org/10.48550/arxiv.2609.25790"
+    title: "Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790 [doi:10.48550/arxiv.2609.25790](https://doi.org/10.48550/arxiv.2609.25790)"
     author: Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # ChatGPT-generated HDR problems measure the same ability as human-created problems, with high internal consistency (Cronbach's α = 0.78) and no significant difficulty difference
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q3`
+> **Evidence** · 2 studies · 2 design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` ChatGPT-generated HDR problems and original human-created problems yielded high internal consistency (α = 0.78), suggesting both measure the same cognitive ability to detect misuse of knowledge. [→ Satoshi Takahashi 2026](#satoshi-takahashi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Satoshi Takahashi 2026
 
-Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790
+Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790 [doi:10.48550/arxiv.2609.25790](https://doi.org/10.48550/arxiv.2609.25790)
 
 `q3 · i?` · `design · r2`
 
@@ -64,5 +64,5 @@ Experiment 1 score-distribution analysis: mean scores and 95% confidence interva
 ## Related Claims
 - [Automated HDR problem generation makes repeated and longitudinal assessment feasible by producing structurally equivalent cases with different contexts](automated-generation-enables-longitudinal-hdr-assessment.md) — related
 - [HDR scores correlate only weakly with reading comprehension (α = 0.36 and 0.41), indicating the task measures practical application ability rather than reading skill](hdr-measures-application-not-reading-comprehension.md) — related
-- [Both proposed adjustment methods (IEA and BA) reduce RMSE of item difficulty estimates from direct 2PL-IRT fitting, with BA yielding more consistent (lower-variance) estimates in simulation](iea-ba-reduce-difficulty-estimate-bias.md) — related
+- Both proposed adjustment methods (IEA and BA) reduce RMSE of item difficulty estimates from direct 2PL-IRT fitting, with BA yielding more consistent (lower-variance) estimates in simulation — related
 - [Students did not consistently detect scientific errors in ChatGPT responses, and students with stronger prior knowledge evaluated AI responses more critically](prior-knowledge-supports-critical-ai-evaluation.md) — related

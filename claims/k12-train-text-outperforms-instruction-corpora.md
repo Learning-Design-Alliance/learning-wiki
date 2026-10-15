@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hao-liang-2026
-    resource: "https://arxiv.org/abs/2605.09635"
-    title: "Hao Liang, Qihan Lin, Mingrui Chen, Hengyi Feng, Zhaoyang Han, Xiaochen Ma, Zhen Hao Wong, Meiyi Qiang, Linzhuang Sun, Wentao Zhang. (2026). K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs. arXiv preprint. https://arxiv.org/abs/2605.09635"
+    resource: "https://doi.org/10.48550/arxiv.2605.09635"
+    title: "Hao Liang, Qihan Lin, Mingrui Chen, Hengyi Feng, Zhaoyang Han, Xiaochen Ma, Zhen Hao Wong, Meiyi Qiang, Linzhuang Sun, Wentao Zhang. (2026). K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs. arXiv preprint. https://arxiv.org/abs/2605.09635 [doi:10.48550/arxiv.2605.09635](https://doi.org/10.48550/arxiv.2605.09635)"
     author: Hao Liang, Qihan Lin, Mingrui Chen, Hengyi Feng, Zhaoyang Han, Xiaochen Ma, Zhen Hao Wong, Meiyi Qiang, Linzhuang Sun, Wentao Zhang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Under a matched 2,300-sample SFT budget, K12-Train-Text outperforms eight mainstream instruction-tuning corpora on GaokaoBench and EduEval across two base models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On Qwen3-4B-Base, K12-Train-Text achieves the highest GaokaoBench total (1009.96), improving over the strongest baseline DataFlow (985.91) by +24.1; on Llama3.1-8B-Base it again obtains the highest total (625.49), outperforming WizardLM (593.08) by +32.4. [→ Hao Liang 2026](#hao-liang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Hao Liang 2026
 
-Hao Liang, Qihan Lin, Mingrui Chen, Hengyi Feng, Zhaoyang Han, Xiaochen Ma, Zhen Hao Wong, Meiyi Qiang, Linzhuang Sun, Wentao Zhang. (2026). K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs. arXiv preprint. https://arxiv.org/abs/2605.09635
+Hao Liang, Qihan Lin, Mingrui Chen, Hengyi Feng, Zhaoyang Han, Xiaochen Ma, Zhen Hao Wong, Meiyi Qiang, Linzhuang Sun, Wentao Zhang. (2026). K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs. arXiv preprint. https://arxiv.org/abs/2605.09635 [doi:10.48550/arxiv.2605.09635](https://doi.org/10.48550/arxiv.2605.09635)
 
 `q2 · i?` · `causal · r2`
 

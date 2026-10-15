@@ -17,7 +17,7 @@ sources:
 # Black box analysis of educational processes
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper's central framework is black box analysis: the examination of the internal character and content of educational processes that lie between documented inputs (instructional formats) and outcomes. The author argues the WICHE/NCHEMS structure has formal and substantive elements in place and outcomes under construction, but the outcomes segment is developing in a disengaged manner that ignores internal processes. He states "the general problem for the whole of the WICHE/NCHEMS structure is the absence of documented causal links between means and ends in explicitly viable ways grounded in theory and empirical science," and illustrates the framework through the instruction/learning inter
@@ -27,8 +27,6 @@ The paper's central framework is black box analysis: the examination of the inte
 - **Black box analysis of educational processes as the missing link between means and ends in post-secondary education management systems**: The paper's central framework is black box analysis: the examination of the internal character and content of educational processes that lie between documented inputs (instructional formats) and outcomes. The author argues the WICHE/NCHEMS structure has formal and substantive elements in place and outcomes under construction, but the outcomes segment is developing in a disengaged manner that ignores internal processes. He states "the general problem for the whole of the WICHE/NCHEMS structure is the absence of documented causal links between means and ends in explicitly viable ways grounded in theory and empirical science," and illustrates the framework through the instruction/learning inter (Counelis (1974))
 
 ### Claims
-- [The author calls for early WICHE/NCHEMS research into recognized black boxes including institutional environment, institutional utility structure, and accreditation self-study understandings](../claims/call-for-black-box-research-institutional-environment.md) [+W]
-- [Data Element 1107 (Method of Instruction) shows three deficiencies: higher-education bias, non-descriptive morphology, and no stated relation between instructional methods and learning outcomes](../claims/element-1107-three-deficiencies-method-of-instruction.md) [+W]
 
 ## Related Research Methods
 -
@@ -62,8 +60,6 @@ The paper's central framework is black box analysis: the examination of the inte
 
 ### Claims
 
-- [The author calls for early WICHE/NCHEMS research into recognized black boxes including institutional environment, institutional utility structure, and accreditation self-study understandings](../claims/call-for-black-box-research-institutional-environment.md) [+W]
-- [Data Element 1107 (Method of Instruction) shows three deficiencies: higher-education bias, non-descriptive morphology, and no stated relation between instructional methods and learning outcomes](../claims/element-1107-three-deficiencies-method-of-instruction.md) [+W]
 
 ## Related Theories
 - 

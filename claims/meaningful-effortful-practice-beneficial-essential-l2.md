@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: robert-dekeyser-2010
-    resource: "https://www.um.es/ijes"
-    title: "Robert DeKeyser. (2010). Practice for Second Language Learning: Don't Throw out the Baby with the Bathwater. International Journal of English Studies, 10(1). https://www.um.es/ijes"
+    resource: "https://doi.org/10.6018/ijes/2010/1/114021"
+    title: "Robert DeKeyser. (2010). Practice for Second Language Learning: Don't Throw out the Baby with the Bathwater. International Journal of English Studies, 10(1). https://www.um.es/ijes [doi:10.6018/ijes/2010/1/114021](https://doi.org/10.6018/ijes/2010/1/114021)"
     author: Robert DeKeyser
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Robert DeKeyser 2010
 
-Robert DeKeyser. (2010). Practice for Second Language Learning: Don't Throw out the Baby with the Bathwater. International Journal of English Studies, 10(1). https://www.um.es/ijes
+Robert DeKeyser. (2010). Practice for Second Language Learning: Don't Throw out the Baby with the Bathwater. International Journal of English Studies, 10(1). https://www.um.es/ijes [doi:10.6018/ijes/2010/1/114021](https://doi.org/10.6018/ijes/2010/1/114021)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -50,5 +50,5 @@ Theoretical argument in a position paper. The author endorses Lightbown's formul
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Extramural English gaming relates to better L2 proficiency, but effects vary by activity type and strategy](extramural-gaming-vocabulary-effects-mixed.md) — related
 - [Digital game-based learning supports long-term retention of second-language vocabulary](dgbl-long-term-vocabulary-retention.md) — related
-- [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — related
+- Comprehensible input in natural language contexts is presented as essential to second language acquisition — related
 - [Frequency should be reinstated as a bridging variable binding the different schools of language acquisition research](frequency-as-bridging-variable-language-acquisition-research.md) — related

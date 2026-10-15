@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Across 16 reviewed quasi-experimental and single-subject studies, six reported improved teacher results and four reported improved student behaviors, and only six of sixteen met all quality indicators. [→ Carmouche 2018](#carmouche-2018)

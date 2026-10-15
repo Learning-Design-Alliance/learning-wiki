@@ -18,7 +18,7 @@ sources:
 # Serie Leamos
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Serie Leamos is a free digital Spanish library created by Georgia State University's Spanish program and School of Art and Design, offering student-written and student-illustrated stories with multiple reading levels, vocabulary support, activities, downloadable texts, and audiobooks.
@@ -27,12 +27,7 @@ Serie Leamos is a free digital Spanish library created by Georgia State Universi
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety](../claims/extensive-reading-affective-benefits-anxiety-moderator.md) [+W]
-- [Extensive reading improves reading comprehension and reading fluency](../claims/extensive-reading-improves-comprehension-and-fluency.md) [+W]
-- [Extensive reading improves grammatical knowledge and writing style](../claims/extensive-reading-improves-grammar-and-writing-style.md) [+W]
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](../claims/extensive-reading-improves-vocabulary-and-spelling.md) [+W]
-- [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](../claims/meta-analyses-validate-extensive-reading-benefits-length-moderates.md) [+W]
-- [Reading for pleasure is associated with preserved cognitive functioning, delayed dementia symptoms, and greater general knowledge](../claims/pleasure-reading-cognitive-health-benefits.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -70,12 +65,7 @@ Serie Leamos (www.serieleamos.gsu.edu) is "a free digital Spanish library of eng
 
 ## Claims
 
-- [Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety](../claims/extensive-reading-affective-benefits-anxiety-moderator.md) [+W]
-- [Extensive reading improves reading comprehension and reading fluency](../claims/extensive-reading-improves-comprehension-and-fluency.md) [+W]
-- [Extensive reading improves grammatical knowledge and writing style](../claims/extensive-reading-improves-grammar-and-writing-style.md) [+W]
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](../claims/extensive-reading-improves-vocabulary-and-spelling.md) [+W]
-- [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](../claims/meta-analyses-validate-extensive-reading-benefits-length-moderates.md) [+W]
-- [Reading for pleasure is associated with preserved cognitive functioning, delayed dementia symptoms, and greater general knowledge](../claims/pleasure-reading-cognitive-health-benefits.md) [+W]
 
 ## Related Elements
 - 

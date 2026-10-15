@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jiawen-tao-2026
-    resource: "https://arxiv.org/abs/2607.28109"
-    title: "Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109"
+    resource: "https://doi.org/10.48550/arxiv.2607.28109"
+    title: "Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109 [doi:10.48550/arxiv.2607.28109](https://doi.org/10.48550/arxiv.2607.28109)"
     author: Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan
     q: 2
     i: "?"
@@ -46,7 +46,7 @@ sources:
 # Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (4 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies (4 entries) · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Removing TOC planning, clustering, and source chunks (Baseline C) drops overall judged quality from 9.38 to 6.12 (−3.26), the largest observed component effect. [→ Jiawen Tao 2026](#jiawen-tao-2026)
@@ -58,7 +58,7 @@ sources:
 
 ### Jiawen Tao 2026
 
-Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109
+Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109 [doi:10.48550/arxiv.2607.28109](https://doi.org/10.48550/arxiv.2607.28109)
 
 `q2 · i?` · `causal · r2`
 

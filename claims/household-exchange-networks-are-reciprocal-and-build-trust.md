@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Researchers and teacher-researchers found household relationships "often reciprocal", with each exchange with kin, friends, neighbors, or teachers developing or reinforcing mutual trust. [→ Funds of Knowledge: Learning from Language Minority Households. ERIC Digest 1994](#funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994)
@@ -65,7 +66,7 @@ The digest, citing Moll and Greenberg (1990), reports this trust grew as partici
 - [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — related
 - [Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.](teachers-have-readier-household-entree-than-anthropologists.md) — related
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — related
-- [A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function](rpp-trust-reciprocity-mutual-respect-benefits.md) — related
+- A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function — related
 - [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — related
 - [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](relational-trust-precondition-participatory.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related

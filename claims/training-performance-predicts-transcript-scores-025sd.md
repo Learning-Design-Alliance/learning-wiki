@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: thomas-2026
-    resource: "https://arxiv.org/abs/2606.18617"
-    title: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617"
+    resource: "https://doi.org/10.48550/arxiv.2606.18617"
+    title: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617 [doi:10.48550/arxiv.2606.18617](https://doi.org/10.48550/arxiv.2606.18617)"
     author: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Thomas 2026
 
-Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617
+Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617 [doi:10.48550/arxiv.2606.18617](https://doi.org/10.48550/arxiv.2606.18617)
 
 `q3 · i?` · `causal · r1`
 

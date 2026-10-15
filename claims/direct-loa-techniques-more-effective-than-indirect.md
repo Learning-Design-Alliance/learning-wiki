@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: haller-1963
-    resource: "https://eric.ed.gov/?id=ED016712"
-    title: "Haller, Archibald O. and Miller, Irwin W. (1963). The Occupational Aspiration Scale: Theory, Structure and Correlates. Michigan State University Agricultural Experiment Station. https://eric.ed.gov/?id=ED016712"
+    resource: "https://doi.org/10.2307/2575001"
+    title: "Haller, Archibald O. and Miller, Irwin W. (1963). The Occupational Aspiration Scale: Theory, Structure and Correlates. Michigan State University Agricultural Experiment Station. https://eric.ed.gov/?id=ED016712 [doi:10.2307/2575001](https://doi.org/10.2307/2575001)"
     author: Haller, Archibald O. and Miller, Irwin W.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Haller 1963
 
-Haller, Archibald O. and Miller, Irwin W. (1963). The Occupational Aspiration Scale: Theory, Structure and Correlates. Michigan State University Agricultural Experiment Station. https://eric.ed.gov/?id=ED016712
+Haller, Archibald O. and Miller, Irwin W. (1963). The Occupational Aspiration Scale: Theory, Structure and Correlates. Michigan State University Agricultural Experiment Station. https://eric.ed.gov/?id=ED016712 [doi:10.2307/2575001](https://doi.org/10.2307/2575001)
 
 `q1 · i?` · `design · r2`
 

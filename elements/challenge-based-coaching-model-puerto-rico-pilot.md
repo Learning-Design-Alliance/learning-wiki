@@ -17,7 +17,7 @@ sources:
 # Modelo de Coaching Basado en Retos (Challenge-Based Coaching Model)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 El Modelo de Coaching Basado en Retos es un modelo de coaching instructivo desarrollado por Digital Promise a partir del Proyecto de Aprendizaje Dinámico, estructurado en seis pasos: identificar y comprender los retos, investigar posibles estrategias, seleccionar estrategias y herramientas personalizadas, implementar estrategias y realizar mejoras, y reflexionar sobre la experiencia y los resultados. En el piloto, "Cada coach trabajó con dos maestros para establecer metas, identificar desafíos, crear estrategias, reflexionar acerca de los resultados", reuniéndose cada 1-2 semanas y apoyando la obtención de micro-credenciales alineadas.
@@ -38,10 +38,6 @@ El Modelo de Coaching Basado en Retos es un modelo de coaching instructivo desar
 
 ## Claims
 
-- [Al finalizar el piloto, la mayoría de los coaches reportó satisfacción, apoyo y confianza para continuar usando el Modelo de Coaching Basado en Retos.](../claims/pr-coaching-pilot-coach-satisfaction-confidence.md) [+W]
-- [En el piloto, la mitad de los coaches y la mayoría de los maestros ganaron micro-credenciales alineadas con sus retos de coaching.](../claims/pr-coaching-pilot-microcredential-earnings.md) [+W]
-- [El piloto formalizó la función de coaching informalmente desempeñada por los MRUCs y fortaleció relaciones y estructuras de apoyo en las escuelas.](../claims/pr-coaching-pilot-systems-impact-mrucs.md) [+W]
-- [Los maestros del piloto valoraron el trabajo con coaches, confiaron en aplicar los aprendizajes y reportaron experiencias positivas.](../claims/pr-coaching-pilot-teacher-outcomes.md) [+W]
 
 ## Related Elements
 

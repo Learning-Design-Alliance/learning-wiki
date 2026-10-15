@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sagnik-nath-2026
-    resource: "https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv"
-    title: "Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv"
+    resource: "https://doi.org/10.1007/978-3-032-30860-3_11"
+    title: "Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv [doi:10.1007/978-3-032-30860-3_11](https://doi.org/10.1007/978-3-032-30860-3_11)"
     author: Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera
     q: 2
     i: 0
@@ -30,7 +30,7 @@ sources:
 # Baseline versus code-augmented performance differs significantly for story and symbolic representations but not word-equations, with small effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i0` negligible
+> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` After Bonferroni correction, baseline versus code-augmented differences were significant for story problems (χ² = 13.14, p = 0.00029) and symbolic problems (χ² = 8.44, p = 0.0037) but not word-equation problems (χ² = 2.63, p = 0.105), with small Cramér's V effect sizes (Vstory = 0.073, Vsymbolic = 0.058, Vwordeq = 0.032). [→ Sagnik Nath 2026](#sagnik-nath-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sagnik Nath 2026
 
-Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv
+Sagnik Nath, Edith Aurora Graf, Liang Zhang and Diego Zapata-Rivera. (2026). Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving. https://github.com/sagniknath91/HCI-2026-dataset/blob/main/datasheet.csv [doi:10.1007/978-3-032-30860-3_11](https://doi.org/10.1007/978-3-032-30860-3_11)
 
 `q2 · i0` · `causal · r2`
 

@@ -11,16 +11,16 @@ generated:
 evidence_strength: weak
 sources:
   - id: favero-2025
-    resource: "https://arxiv.org/abs/2507.06878"
-    title: "Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878"
+    resource: "https://doi.org/10.48550/arxiv.2507.06878"
+    title: "Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878 [doi:10.48550/arxiv.2507.06878](https://doi.org/10.48550/arxiv.2507.06878)"
     author: "Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N."
     q: 2
     i: "?"
     kind: theoretical
     rigour: 3
   - id: mahbub-ul-alam-2026
-    resource: "https://arxiv.org/abs/2609.13155"
-    title: "Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155"
+    resource: "https://doi.org/10.48550/arxiv.2609.13155"
+    title: "Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155 [doi:10.48550/arxiv.2609.13155](https://doi.org/10.48550/arxiv.2609.13155)"
     author: Mahbub Ul Alam
     q: 2
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### Favero 2025
 
-Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878
+Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878 [doi:10.48550/arxiv.2507.06878](https://doi.org/10.48550/arxiv.2507.06878)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -53,7 +53,7 @@ The paper reports, citing Gerlich, a user study across age and education levels 
 
 ### Mahbub Ul Alam 2026
 
-Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155
+Mahbub Ul Alam. (2026). PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading. arXiv. https://arxiv.org/abs/2609.13155 [doi:10.48550/arxiv.2609.13155](https://doi.org/10.48550/arxiv.2609.13155)
 
 `q2 · i?` · `design · r1`
 

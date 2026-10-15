@@ -22,7 +22,7 @@ sources:
 # Lexia Core5 Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Lexia Learning's Lexia Core5 Reading is a blended digital literacy programme for pre-K–5 students that provides personalized foundational-reading instruction, embedded assessment, and teacher support resources.
@@ -32,10 +32,7 @@ Lexia Learning's Lexia Core5 Reading is a blended digital literacy programme for
 - **Lexia Core5 Reading blended literacy program**: Lexia Core5 Reading is a blended learning program aiming to "accelerate the development of fundamental literacy skills for students of all abilities in grades pre-K-5". It provides "explicit, systematic instruction through personalized learning paths", adapts to target skill gaps as they emerge, and equips teachers with data and instructional resources for personalized offline instruction. An embedded assessment supplies ongoing actionable data, and an online student dashboard encourages students to take ownership of their learning. It runs on PC, Mac, Chromebook, iPad, and Android devices. (Lexia® Core5® Reading evidence summary (2023))
 
 ### Claims
-- [Across four studies of Lexia Core5, the average effect size on reading outcomes is +0.16](../claims/core5-average-es-016-four-studies.md) [+W]
 - [Core5 students in grades 3-5 showed significantly larger reading achievement gains than a matched comparison group (ES = +0.11)](../claims/core5-matched-comparison-es-011.md) [+W]
-- [Teachers in a 2006 study reported high satisfaction with Core5, averaging 8.5 of 10 points on motivation items](../claims/core5-teacher-satisfaction-survey-2006.md) [+W]
-- [Core5 use for one year yields significantly higher MAP reading scores than control for K-5 special education students (ES = +0.23)](../claims/core5-higher-map-scores-special-education.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -71,9 +68,7 @@ Lexia Core5 Reading is a blended learning program that "accelerates the developm
 
 ## Claims
 
-- [Across four studies of Lexia Core5, the average effect size on reading outcomes is +0.16](../claims/core5-average-es-016-four-studies.md) [+W]
 - [Core5 students in grades 3-5 showed significantly larger reading achievement gains than a matched comparison group (ES = +0.11)](../claims/core5-matched-comparison-es-011.md) [+W]
-- [Teachers in a 2006 study reported high satisfaction with Core5, averaging 8.5 of 10 points on motivation items](../claims/core5-teacher-satisfaction-survey-2006.md) [+W]
 
 ## Related Elements
 
@@ -117,7 +112,6 @@ Lexia Core5 Reading is a blended learning program aiming to "accelerate the deve
 
 ## Claims
 
-- [Core5 use for one year yields significantly higher MAP reading scores than control for K-5 special education students (ES = +0.23)](../claims/core5-higher-map-scores-special-education.md) [+W]
 
 ## Related Elements
 

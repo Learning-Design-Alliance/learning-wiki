@@ -22,7 +22,7 @@ sources:
 # Talent Development High School
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 causal), `q1`–`q2` · 2 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A whole-school reform programme developed by Johns Hopkins University's Talent Development High School model to support ninth-grade students through small learning communities, double-dose curricula, extra help, and family and community involvement.
@@ -32,10 +32,6 @@ A whole-school reform programme developed by Johns Hopkins University's Talent D
 - **Talent Development High School whole-school reform model**: TDHS is described as "a whole-school reform model that focuses on reading and math". It provides a double dose of reading and math to ninth graders in high-poverty schools, with the reading approach called Strategic Reading and Student Team Literature. The model is implemented at school level with dedicated staffing and extensive professional development support. (Talent Development High School (2004))
 
 ### Claims
-- [Talent Development High School improved student attendance with an average effect size of +0.17, significant at the student level but not the school level](../claims/tdhs-attendance-effect-es-017.md) [+W]
-- [The Philadelphia evaluation compared five Talent Development schools to six matched control schools over a 3-year period](../claims/tdhs-five-vs-six-matched-schools.md) [+W]
-- [TDHS Strategic Reading produced a positive effect of +0.32 on CTBS Terra Nova reading outcomes for ninth graders compared to a control group in one Baltimore study](../claims/tdhs-strategic-reading-positive-reading-effect.md) [+W]
-- [Teachers implementing TDHS Strategic Reading reported positive experiences and greater impact on student reading than traditional curricula](../claims/tdhs-teacher-survey-positive-perceptions.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -73,9 +69,6 @@ The Talent Development High School is a whole-school reform program "intended to
 
 ## Claims
 
-- [Talent Development High School improved student attendance with an average effect size of +0.17, significant at the student level but not the school level](../claims/tdhs-attendance-effect-es-017.md) [+W]
-- [The Philadelphia evaluation compared five Talent Development schools to six matched control schools over a 3-year period](../claims/tdhs-five-vs-six-matched-schools.md) [+W]
-- [TDHS Strategic Reading produced a positive effect of +0.32 on CTBS Terra Nova reading outcomes for ninth graders compared to a control group in one Baltimore study](../claims/tdhs-strategic-reading-positive-reading-effect.md) [+W]
 
 ## Related Elements
 
@@ -119,8 +112,6 @@ TDHS is described as "a whole-school reform model that focuses on reading and ma
 
 ## Claims
 
-- [TDHS Strategic Reading produced a positive effect of +0.32 on CTBS Terra Nova reading outcomes for ninth graders compared to a control group in one Baltimore study](../claims/tdhs-strategic-reading-positive-reading-effect.md) [+W]
-- [Teachers implementing TDHS Strategic Reading reported positive experiences and greater impact on student reading than traditional curricula](../claims/tdhs-teacher-survey-positive-perceptions.md) [+W]
 
 ## Related Elements
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: roschelle-2020
-    resource: "https://circls.org/reports/ai-report"
-    title: "Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report"
+    resource: "https://doi.org/10.51388/20.500.12265/106"
+    title: "Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)"
     author: "Roschelle, J., Lester, J. & Fusco, J. (Eds.)"
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Roschelle 2020
 
-Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report
+Roschelle, J., Lester, J. & Fusco, J. (Eds.) (2020). AI and the future of learning: Expert panel report [Report]. Digital Promise. https://circls.org/reports/ai-report [doi:10.51388/20.500.12265/106](https://doi.org/10.51388/20.500.12265/106)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -45,7 +45,7 @@ This is an illustrative hypothetical example constructed by the report authors, 
 ## Related Claims
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — a broader claim this one bears on
 - [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related
-- [Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability](sociocultural-critique-cummins-framework.md) — related
+- Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability — related
 - [Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)](situated-perspective-bilingual-math-meaning.md) — related
-- [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — related
-- [People may absorb bias from AI and carry it beyond their interactions with the algorithm](humans-absorb-bias-from-ai.md) — related
+- Generative AI systems carry strong potential for introduced and inherited bias — related
+- People may absorb bias from AI and carry it beyond their interactions with the algorithm — related

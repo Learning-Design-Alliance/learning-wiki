@@ -88,5 +88,5 @@ Same matched comparison group study of grades 1-5 home visits in DC Public Schoo
 - [Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit](high-use-tutoring-center-visits-higher-persistence.md) — related
 - [In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.](home-visits-reveal-abundant-diverse-household-funds-of-knowledge.md) — related
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related
-- [PTHV is rated promising for social-emotional learning with an average effect size of +0.10 from one study](pthv-sel-promising-rating-es-010.md) — related
-- [In Los Angeles Unified, student attendance increased following visits to a school health center](shc-visits-linked-attendance-gains-lausd.md) — related
+- PTHV is rated promising for social-emotional learning with an average effect size of +0.10 from one study — related
+- In Los Angeles Unified, student attendance increased following visits to a school health center — related

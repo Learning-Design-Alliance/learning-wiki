@@ -16,7 +16,7 @@ sources:
 # Strategic Human Resource Management as a Framework for Instructional Improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (2 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Strategic HRM integrates various human resource management practices to enable and encourage employees to meet organizational goals. The authors propose applying this concept from organizational and management fields to education, so that schools and districts can attain instructional improvement. Fit emphasizes aligning a cohesive set of HRM practices with teaching and learning frameworks; flexibility emphasizes variability to accommodate diverse faculties and changing external demands.
@@ -40,7 +40,6 @@ Strategic HRM integrates various human resource management practices to enable a
 
 - [Guidance and Development Policy Instruments Are Individually Insufficient for Instructional Change](../claims/guidance-development-instruments-insufficient-alone.md) [+M]
 - [Structural Fragmentation of HRM Functions Impedes Strategic Coordination in School Districts](../claims/hrm-structural-fragmentation-impedes-coordination.md) [+W]
-- [Employee development and continuing education are presented as improving employee behavior, morale, and organizational performance](../claims/employee-education-improves-performance.md) [+W]
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](../claims/clear-roles-and-training-support-ca-implementation.md) [+W]
 
 ## Related Theories

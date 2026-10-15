@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shuanghong-shen-2021
-    resource: "https://arxiv.org/abs/2105.15106"
-    title: "Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106"
+    resource: "https://doi.org/10.48550/arxiv.2105.15106"
+    title: "Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106 [doi:10.48550/arxiv.2105.15106](https://doi.org/10.48550/arxiv.2105.15106)"
     author: Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shuanghong Shen 2021
 
-Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106
+Shuanghong Shen, Qi Liu, Zhenya Huang, Yonghe Zheng, Minghao Yin, Minjuan Wang, and Enhong Chen. (2021). A Survey of Knowledge Tracing: Models, Variants, and Applications. https://arxiv.org/abs/2105.15106 [doi:10.48550/arxiv.2105.15106](https://doi.org/10.48550/arxiv.2105.15106)
 
 `q2 · i?` · `review · r2`
 
@@ -44,5 +44,5 @@ Narrative review of Mongkhonvanit et al., who added video-watching features (pla
 
 ## Related Claims
 - [The survey reports, citing Jung et al., that students' language proficiency as side information was effective in promoting several KT models, including DKT, DKVMN and SAKT.](language-proficiency-side-information-improves-kt-models.md) — related
-- [DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets](dkt-input-output-representation-affects-performance.md) — related
+- DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets — related
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related

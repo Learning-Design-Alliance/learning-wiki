@@ -18,7 +18,7 @@ sources:
 # Pirate Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Pirate Math is a one-to-one mathematics tutoring programme for third-grade students with calculation and word-problem difficulties, delivered through structured sessions using counting-up and missing-number strategies with a treasure-map reward system.
@@ -30,7 +30,6 @@ Pirate Math is a one-to-one mathematics tutoring programme for third-grade stude
 - **Deliver supplemental math tutoring one-to-one outside ordinary math periods, staffed by teachers or trained paraprofessionals**: Pirate Math delivers tutoring one-to-one, with tutors who may be teachers or paraprofessionals working with students outside of ordinary math periods. This staffing and scheduling model allows struggling third graders to receive intensive individual support without displacing their regular math instruction. (Pirate Math (2021))
 
 ### Claims
-- [Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math](../claims/pirate-math-keymath-effect-037.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -67,7 +66,6 @@ Pirate Math is a one-to-one tutoring program for third graders struggling with m
 
 ## Claims
 
-- [Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math](../claims/pirate-math-keymath-effect-037.md) [+W]
 
 ## Related Elements
 - 
@@ -142,7 +140,6 @@ Pirate Math delivers tutoring one-to-one, with tutors who may be teachers or par
 - Math calculations and word problem solving
 
 ### Claims
-- [Pirate Math Keymath Effect 037](../claims/pirate-math-keymath-effect-037.md) [+M]
 
 ## Related Designs
 - 

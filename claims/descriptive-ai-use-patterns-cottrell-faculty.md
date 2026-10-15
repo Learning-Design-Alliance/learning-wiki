@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: t-j-atherton-2026
-    resource: "https://arxiv.org/abs/2605.18140"
-    title: "T. J. Atherton, I. Descamps, M. Webel, T. R. Holmes, C. L. Vizcarra, N. Sui, J. J. Foley IV. (2026). Faculty Orientations Shape Adoption of AI in Research and Teaching. https://arxiv.org/abs/2605.18140"
+    resource: "https://doi.org/10.48550/arxiv.2605.18140"
+    title: "T. J. Atherton, I. Descamps, M. Webel, T. R. Holmes, C. L. Vizcarra, N. Sui, J. J. Foley IV. (2026). Faculty Orientations Shape Adoption of AI in Research and Teaching. https://arxiv.org/abs/2605.18140 [doi:10.48550/arxiv.2605.18140](https://doi.org/10.48550/arxiv.2605.18140)"
     author: T. J. Atherton, I. Descamps, M. Webel, T. R. Holmes, C. L. Vizcarra, N. Sui, J. J. Foley IV
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### T. J. Atherton 2026
 
-T. J. Atherton, I. Descamps, M. Webel, T. R. Holmes, C. L. Vizcarra, N. Sui, J. J. Foley IV. (2026). Faculty Orientations Shape Adoption of AI in Research and Teaching. https://arxiv.org/abs/2605.18140
+T. J. Atherton, I. Descamps, M. Webel, T. R. Holmes, C. L. Vizcarra, N. Sui, J. J. Foley IV. (2026). Faculty Orientations Shape Adoption of AI in Research and Teaching. https://arxiv.org/abs/2605.18140 [doi:10.48550/arxiv.2605.18140](https://doi.org/10.48550/arxiv.2605.18140)
 
 `q2 · i?` · `associational · r1`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: negar-kamali-2026
-    resource: "https://arxiv.org/abs/2606.28510"
-    title: "Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510"
+    resource: "https://doi.org/10.48550/arxiv.2606.28510"
+    title: "Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510 [doi:10.48550/arxiv.2606.28510](https://doi.org/10.48550/arxiv.2606.28510)"
     author: Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # After training, analysts' free-text detection reasoning shifted away from physics-violation and anatomical cues toward functional and stylistic artifacts and became more specific
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` References to physics violations in analysts' comments decreased from 20.0% pre-training to 7.0% post-training, the only between-phase difference with non-overlapping 95% Wilson confidence intervals. [→ Negar Kamali 2026](#negar-kamali-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Negar Kamali 2026
 
-Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510
+Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510 [doi:10.48550/arxiv.2606.28510](https://doi.org/10.48550/arxiv.2606.28510)
 
 `q2 · i?` · `causal · r2`
 
@@ -63,4 +63,4 @@ Same exploratory coding of free-text detection reasoning. The article reports hi
 
 ## Related Claims
 - [Training improved discrimination sensitivity (d′) with only a small, non-significant criterion shift toward labeling images as AI-generated](training-improves-discrimination-sensitivity-not-response-bias.md) — related
-- [Word-frequency changes in reflections suggest a shift away from given-information-based strategies](word-frequency-shifts-in-reflections.md) — related
+- Word-frequency changes in reflections suggest a shift away from given-information-based strategies — related

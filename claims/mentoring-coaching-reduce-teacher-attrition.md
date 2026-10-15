@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` High-quality induction and mentoring programs in California schools reduced attrition by twenty-six percent in two years (Brill & McCartney, 2008). [→ Equitable & Inclusive Hiring Practices: A Reference Guide of Strategies to Grow & Diversify the Educator Workforce 2023](#equitable-inclusive-hiring-practices-a-reference-guide-of-strategies-to-grow-diversify-the-educator-workforce-2023)
@@ -65,4 +66,4 @@ The guidance states that coaching promotes retention and that "Early career teac
 - [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](mentoring-halves-new-teacher-attrition.md) — possibly the same claim (merge candidate)
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
 - [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related
-- [Ohio meets criteria on high-retention teaching pathways and early-career induction with mentoring](ohio-resident-educator-induction-mentoring-meets-criteria.md) — a narrower finding that bears on this claim
+- Ohio meets criteria on high-retention teaching pathways and early-career induction with mentoring — a narrower finding that bears on this claim

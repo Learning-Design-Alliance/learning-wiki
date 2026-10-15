@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hossein-talebzadeh-2025
-    resource: "https://conf.umz.ac.ir/gii"
-    title: "Hossein Talebzadeh. (2025). The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints. 3rd National Conference on Green Industries Innovation, University of Mazandaran. https://conf.umz.ac.ir/gii"
+    resource: "https://doi.org/10.35542/osf.io/x6qzy_v1"
+    title: "Hossein Talebzadeh. (2025). The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints. 3rd National Conference on Green Industries Innovation, University of Mazandaran. https://conf.umz.ac.ir/gii [doi:10.35542/osf.io/x6qzy_v1](https://doi.org/10.35542/osf.io/x6qzy_v1)"
     author: Hossein Talebzadeh
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hossein Talebzadeh 2025
 
-Hossein Talebzadeh. (2025). The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints. 3rd National Conference on Green Industries Innovation, University of Mazandaran. https://conf.umz.ac.ir/gii
+Hossein Talebzadeh. (2025). The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints. 3rd National Conference on Green Industries Innovation, University of Mazandaran. https://conf.umz.ac.ir/gii [doi:10.35542/osf.io/x6qzy_v1](https://doi.org/10.35542/osf.io/x6qzy_v1)
 
 `q2 · i?` · `causal · r1`
 

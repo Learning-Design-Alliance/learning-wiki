@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` A communicative view of lexical negotiation requires pedagogical focus on procedures as much as on declarative meanings, contrasting with impoverished definitional approaches. [→ Robinson 1988](#robinson-1988)
@@ -43,8 +44,8 @@ Theoretical argument in the paper's introduction: Robinson contends that traditi
 
 
 ## Related Claims
-- [Sense relations such as synonymy are negotiated in discourse rather than pre-existing](sense-relations-negotiated-in-discourse.md) — a narrower finding that bears on this claim
-- [Prior research on task familiarity and negotiation of meaning is inconsistent, with some studies finding more negotiation for unfamiliar tasks and one finding no difference](task-familiarity-negotiation-prior-research-inconsistent.md) — related
+- Sense relations such as synonymy are negotiated in discourse rather than pre-existing — a narrower finding that bears on this claim
+- Prior research on task familiarity and negotiation of meaning is inconsistent, with some studies finding more negotiation for unfamiliar tasks and one finding no difference — related
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — a broader claim this one bears on
 - [In both high school and college groups, learners with negotiation of meaning scored higher on the delayed post-vocabulary test than learners with pre-modified input only](negotiation-meaning-improves-vocabulary-scores-both-levels.md) — a narrower finding that bears on this claim
-- [Teachers framed communication and digital literacy as foundational skills requiring clear, contextually relevant definitions](teachers-frame-communication-digital-literacy-foundational.md) — related
+- Teachers framed communication and digital literacy as foundational skills requiring clear, contextually relevant definitions — related

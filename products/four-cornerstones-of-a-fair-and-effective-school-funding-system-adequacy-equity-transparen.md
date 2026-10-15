@@ -13,7 +13,7 @@ generated:
 # Four cornerstones of a fair and effective school funding system: adequacy, equity, transparency, and responsibility
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 against) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 An EdBuild-developed framework, summarized by The Education Trust–Midwest, for evaluating and reforming state school-funding systems through adequacy, equity, transparency, and responsibility.
@@ -24,9 +24,6 @@ An EdBuild-developed framework, summarized by The Education Trust–Midwest, for
 
 ### Claims
 
-- [Michigan ranks 20th of 28 similar-formula states for its low-income funding weight and 26th of 31 for English Learner funding](../claims/michigan-ranks-near-bottom-low-income-and-el-funding-weights.md) [-W]
-- [Michigan's legislated low-income funding weight of 11.5% is among the lowest in the country, and a budget loophole reduces actual spending to about 9% more](../claims/michigan-low-income-weight-11-5-percent-loophole.md) [-W]
-- [Michigan provides the lowest English Learner funding weight among weighting states, allocating about 1% to 11% more versus research recommending at least twice as much](../claims/michigan-english-learner-funding-lowest.md) [-W]
 
 ## Related Products and Programmes
 -

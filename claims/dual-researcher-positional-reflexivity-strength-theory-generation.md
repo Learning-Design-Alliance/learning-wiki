@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: anderson-2016
-    resource: "https://www.nwea.org/research/publication/are-all-biases-bad-collaborative-grounded-theory-in-developmental-evaluation-of-education-policy/"
-    title: "Anderson, R., Guerreiro, M., & Smith, J. (2016). Are all biases bad? Collaborative grounded theory in developmental evaluation of education policy. Journal of Multidisciplinary Evaluation 12(27), 44-57. https://www.nwea.org/research/publication/are-all-biases-bad-collaborative-grounded-theory-in-developmental-evaluation-of-education-policy/"
+    resource: "https://doi.org/10.56645/jmde.v12i27.449"
+    title: "Anderson, R., Guerreiro, M., & Smith, J. (2016). Are all biases bad? Collaborative grounded theory in developmental evaluation of education policy. Journal of Multidisciplinary Evaluation 12(27), 44-57. https://www.nwea.org/research/publication/are-all-biases-bad-collaborative-grounded-theory-in-developmental-evaluation-of-education-policy/ [doi:10.56645/jmde.v12i27.449](https://doi.org/10.56645/jmde.v12i27.449)"
     author: "Anderson, R., Guerreiro, M., & Smith, J."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Anderson 2016
 
-Anderson, R., Guerreiro, M., & Smith, J. (2016). Are all biases bad? Collaborative grounded theory in developmental evaluation of education policy. Journal of Multidisciplinary Evaluation 12(27), 44-57. https://www.nwea.org/research/publication/are-all-biases-bad-collaborative-grounded-theory-in-developmental-evaluation-of-education-policy/
+Anderson, R., Guerreiro, M., & Smith, J. (2016). Are all biases bad? Collaborative grounded theory in developmental evaluation of education policy. Journal of Multidisciplinary Evaluation 12(27), 44-57. https://www.nwea.org/research/publication/are-all-biases-bad-collaborative-grounded-theory-in-developmental-evaluation-of-education-policy/ [doi:10.56645/jmde.v12i27.449](https://doi.org/10.56645/jmde.v12i27.449)
 
 `q1 · i?` · `qualitative · r?`
 

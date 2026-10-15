@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: xiaokun-wang-2026
-    resource: "https://arxiv.org/abs/2607.22996"
-    title: "Xiaokun Wang, Siyu Song, Wentao Liu, Xiaodong Zou. (2026). Beyond Direct Answering: Aligning Educational LLMs as Socratic Guides via Heuristic Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2607.22996"
+    resource: "https://doi.org/10.48550/arxiv.2607.22996"
+    title: "Xiaokun Wang, Siyu Song, Wentao Liu, Xiaodong Zou. (2026). Beyond Direct Answering: Aligning Educational LLMs as Socratic Guides via Heuristic Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2607.22996 [doi:10.48550/arxiv.2607.22996](https://doi.org/10.48550/arxiv.2607.22996)"
     author: Xiaokun Wang, Siyu Song, Wentao Liu, Xiaodong Zou
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Using the directness penalty Rdir as a GRPO reward is counterproductive: it lowers SE by 0.200 and raises leakage by 10 percentage points relative to omitting it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Adding Rdir with γ=0.2 during GRPO reduces SE from 0.633 to 0.433 and raises leakage from 13.3% to 23.3% relative to γ=0. [→ Xiaokun Wang 2026](#xiaokun-wang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Xiaokun Wang 2026
 
-Xiaokun Wang, Siyu Song, Wentao Liu, Xiaodong Zou. (2026). Beyond Direct Answering: Aligning Educational LLMs as Socratic Guides via Heuristic Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2607.22996
+Xiaokun Wang, Siyu Song, Wentao Liu, Xiaodong Zou. (2026). Beyond Direct Answering: Aligning Educational LLMs as Socratic Guides via Heuristic Reinforcement Learning. arXiv preprint. https://arxiv.org/abs/2607.22996 [doi:10.48550/arxiv.2607.22996](https://doi.org/10.48550/arxiv.2607.22996)
 
 `q2 · i?` · `causal · r1`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sora-kang-2026
-    resource: "https://arxiv.org/abs/2607.24751"
-    title: "Sora Kang. (2026). Stop Writing for Me: Generative Refusal in AI Tools for Thought. In Proceedings of CHI 2026 Workshop on Tools for Thought. https://arxiv.org/abs/2607.24751"
+    resource: "https://doi.org/10.48550/arxiv.2607.24751"
+    title: "Sora Kang. (2026). Stop Writing for Me: Generative Refusal in AI Tools for Thought. In Proceedings of CHI 2026 Workshop on Tools for Thought. https://arxiv.org/abs/2607.24751 [doi:10.48550/arxiv.2607.24751](https://doi.org/10.48550/arxiv.2607.24751)"
     author: Sora Kang
     q: 3
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Question-driven AI journaling increases intrinsic motivation and acting confidence among actors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
 
 ## Subclaims
 `q3 i3` Intrinsic motivation increased significantly in the AI-assisted condition (eta-squared = .201). [→ Sora Kang 2026](#sora-kang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Sora Kang 2026
 
-Sora Kang. (2026). Stop Writing for Me: Generative Refusal in AI Tools for Thought. In Proceedings of CHI 2026 Workshop on Tools for Thought. https://arxiv.org/abs/2607.24751
+Sora Kang. (2026). Stop Writing for Me: Generative Refusal in AI Tools for Thought. In Proceedings of CHI 2026 Workshop on Tools for Thought. https://arxiv.org/abs/2607.24751 [doi:10.48550/arxiv.2607.24751](https://doi.org/10.48550/arxiv.2607.24751)
 
 `q3 · i3` · `causal · r2`
 

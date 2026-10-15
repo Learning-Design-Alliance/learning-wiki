@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jeongyeon-kim-and-john-mitchell-2026
-    resource: "https://arxiv.org/abs/2609.11109"
-    title: "Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109"
+    resource: "https://doi.org/10.48550/arxiv.2609.11109"
+    title: "Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109 [doi:10.48550/arxiv.2609.11109](https://doi.org/10.48550/arxiv.2609.11109)"
     author: Jeongyeon Kim and John Mitchell
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` LLMs emulate basic human interaction patterns including stance maintenance, acknowledgment, evidence reassessment, contrast, tentative stances, and alternative proposals. [→ Jeongyeon Kim and John Mitchell 2026](#jeongyeon-kim-and-john-mitchell-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jeongyeon Kim and John Mitchell 2026
 
-Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109
+Jeongyeon Kim and John Mitchell. (2026). How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding. arXiv. https://arxiv.org/abs/2609.11109 [doi:10.48550/arxiv.2609.11109](https://doi.org/10.48550/arxiv.2609.11109)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -62,5 +62,5 @@ Qualitative comparison of AI-agent and human discursive moves. The authors find 
 
 
 ## Related Claims
-- [Human-LLM sentiment divergences were patterned: the LLM tended to assign affective labels to statements a human coder read as neutral](llm-affective-label-bias-neutral-statements.md) — related
-- [LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531)](llm-classification-agreement-varies-by-construct.md) — related
+- Human-LLM sentiment divergences were patterned: the LLM tended to assign affective labels to statements a human coder read as neutral — related
+- LLM-based transcript classifications agreed highly with human judgment for explicit questions (κ = .778) and math talk (κ = .722), but only moderately for need for help (κ = .562) and confusion (κ = .531) — related

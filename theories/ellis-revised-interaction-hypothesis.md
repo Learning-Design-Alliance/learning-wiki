@@ -16,7 +16,7 @@ sources:
 # Ellis's revised Interaction Hypothesis: acquisition via noticing, comparison and integration
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Rod Ellis critically evaluates the Interaction Hypothesis and argues that because teaching can be viewed as interaction providing learners with opportunities for learning, studying the interaction-SLA relationship contributes significantly to pedagogy. He finds a theoretical account of how input made comprehensible through interactional modification results in acquisition is missing from the original hypothesis. His revision proposes that acquiring an L2 involves three basic procedures: noticing, comparison, and integration.
@@ -37,10 +37,7 @@ Rod Ellis critically evaluates the Interaction Hypothesis and argues that becaus
 
 ### Claims
 
-- [Process-oriented SLA studies do not demonstrate a link between modified interaction and language gains](../claims/process-studies-no-gain-link.md) [-W]
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [+W]
-- [Conversational interaction may facilitate acquisition of some grammatical structures but not others](../claims/interaction-facilitates-some-structures-not-others.md) [~W]
-- [The quality rather than the quantity of interactional modifications predicts comprehensible input](../claims/interaction-quality-over-quantity.md) [+W]
 
 ## Related Theories
 - [Long's interaction hypothesis](long-interaction-hypothesis.md) — the canonical page for this theory

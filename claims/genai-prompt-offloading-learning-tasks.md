@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yifan-liu-2026
-    resource: "https://arxiv.org/abs/2606.08936"
-    title: "Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936"
+    resource: "https://doi.org/10.48550/arxiv.2606.08936"
+    title: "Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936 [doi:10.48550/arxiv.2606.08936](https://doi.org/10.48550/arxiv.2606.08936)"
     author: Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yifan Liu 2026
 
-Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936
+Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu, Soo Young Rieh, Luanne Sinnamon, et al. (2026). Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS). ACM SIGIR Forum. https://arxiv.org/abs/2606.08936 [doi:10.48550/arxiv.2606.08936](https://doi.org/10.48550/arxiv.2606.08936)
 
 `q2 · i?` · `qualitative · r?`
 
@@ -49,5 +49,5 @@ The report describes a qualitative analysis of prompts issued to a GenAI system 
 - [Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship](volume-based-offloading-profiles-prior-knowledge-authorship.md) — related
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
 - [Some content-based offloading profiles differed in prompting volume even though volume was not a clustering variable, suggesting what is offloaded constrains how much is offloaded](offloading-content-constrains-volume.md) — related
-- [GenAI systems achieved consistently high scores on programming assessments written entirely in Estonian](genai-high-performance-estonian-language-tasks.md) — related
+- GenAI systems achieved consistently high scores on programming assessments written entirely in Estonian — related
 - [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](behavioural-engagement-not-cognitive-engagement.md) — related

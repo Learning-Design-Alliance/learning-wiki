@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: minju-park-2026
-    resource: "https://arxiv.org/abs/2605.04534"
-    title: "Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534"
+    resource: "https://doi.org/10.48550/arxiv.2605.04534"
+    title: "Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534 [doi:10.48550/arxiv.2605.04534](https://doi.org/10.48550/arxiv.2605.04534)"
     author: Minju Park, Ivan Orozco Vasquez, and Cristina Conati
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Individual trajectories suggest heavy LLM use focused on support other than full answer generation can coexist with improving scores, whereas reliance on LLM-generated summaries was associated with declining scores
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q1`
+> **Evidence** · 2 studies · 2 associational `r1` · `q1`
 
 ## Subclaims
 `q1 i?` S61, who used all categories except Generating Answers, showed steadily increasing midterm scores (69% to 72% to 79%). [→ Minju Park 2026](#minju-park-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Minju Park 2026
 
-Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534
+Minju Park, Ivan Orozco Vasquez, and Cristina Conati. (2026). Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks. https://arxiv.org/abs/2605.04534 [doi:10.48550/arxiv.2605.04534](https://doi.org/10.48550/arxiv.2605.04534)
 
 `q1 · i?` · `associational · r1`
 

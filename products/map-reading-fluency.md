@@ -42,7 +42,7 @@ sources:
 # MAP Reading Fluency
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (12 for) · 7 studies (3 design, 1 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q3` · 1 of 7 report an effect size · 12 claims rest on one study
+> **Evidence** · 11 claims (11 for) · 6 studies (3 design, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 6 report an effect size · 11 claims rest on one study
 
 ## Description
 MAP Reading Fluency is NWEA's online adaptive assessment for pre-K through grade 5 reading skills and oral reading fluency, with benchmark testing, progress monitoring, and an optional K–3 dyslexia screener in English and Spanish.
@@ -70,7 +70,6 @@ MAP Reading Fluency is NWEA's online adaptive assessment for pre-K through grade
 - [Mean foundational-skills scores rise from fall to spring with the largest gains in kindergarten and grade 1, and growth flattens by grades 2-3](../claims/spanish-foundational-skills-fall-to-spring-gain-pattern.md) [+W]
 - [The multivariate normality assumption of the true score model was judged reasonable for all domains and grades](../claims/spanish-foundational-skills-normality-assumption-met.md) [+W]
 - [Norming-sample testing volume is concentrated in kindergarten and grade 1, which together account for more than 70% of test events](../claims/spanish-foundational-skills-testing-volume-concentration.md) [+W]
-- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](../claims/bridge-to-reading-kindergarten-growth-es-022.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -435,7 +434,6 @@ A Spanish-language early-grades reading assessment covering three domains: Phono
 - [Mean foundational-skills scores rise from fall to spring with the largest gains in kindergarten and grade 1, and growth flattens by grades 2-3](../claims/spanish-foundational-skills-fall-to-spring-gain-pattern.md) [+W]
 - [The multivariate normality assumption of the true score model was judged reasonable for all domains and grades](../claims/spanish-foundational-skills-normality-assumption-met.md) [+W]
 - [Norming-sample testing volume is concentrated in kindergarten and grade 1, which together account for more than 70% of test events](../claims/spanish-foundational-skills-testing-volume-concentration.md) [+W]
-- [Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each)](../claims/bridge-to-reading-kindergarten-growth-es-022.md) [+W]
 
 ## Related Elements
 

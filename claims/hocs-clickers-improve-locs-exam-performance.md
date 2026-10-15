@@ -47,7 +47,7 @@ Counterbalanced quasi-experiment over two semesters of a nonmajors Human Biology
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Deborah K. Anderson 2023](https://doi.org/10.1128/jmbe.00151-22) | q3 · causal · r2 | i2; i? | this claim; [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) (qualifies); [Semester 2 students outperformed semester 1 students on HOCS exam questions regardless of ](semester-cohort-difference-hocs-exams.md) (qualifies); [Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam perform](students-perceive-clicker-levels-equally-helpful.md) (qualifies) |
-| Moore 2011 | q2 · associational · r1 | i? | [In physics-based courses for non-science majors taught with active-engagement pedagogy, no](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) (qualifies) |
+| [Moore 2011](https://doi.org/10.48550/arxiv.1110.2764) | q2 · associational · r1 | i? | [In physics-based courses for non-science majors taught with active-engagement pedagogy, no](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

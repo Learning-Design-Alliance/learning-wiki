@@ -63,7 +63,7 @@ Same person-parameter analysis across the five nested models per test. The autho
 
 ## Related Claims
 - [The increased efficiency effect confounds attempts to exploit the speed-ability trade-off central to many response-time models](increased-efficiency-confounds-speed-ability-tradeoff.md) — related
-- [The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04)](rt-likelihood-trend-boys-not-girls.md) — related
+- The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04) — related
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
 - [Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates](ci-effects-small-on-ability-item-larger-on-speed.md) — related
 - [Higher prior proficiency is associated with faster step-level response-time propensities](higher-proficiency-faster-step-responses.md) — possibly the same claim (merge candidate)

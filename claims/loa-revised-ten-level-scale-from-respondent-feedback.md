@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Based on respondent comments, the authors revised the eight-level matrix to ten levels, treating the first two as non-use variants and adding a level for technologies no longer used because they were replaced. [→ Orr 2009](#orr-2009)
@@ -43,6 +44,6 @@ Instrument-development response to pilot feedback: the most common respondent co
 
 
 ## Related Claims
-- [Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December](loa-lms-adoption-growth.md) — related
+- Learning management system adoption rose from mostly non-use/orientation to routine-through-integration levels by December — related
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — related
 - [Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms](free-response-loa-high-nonresponse.md) — related

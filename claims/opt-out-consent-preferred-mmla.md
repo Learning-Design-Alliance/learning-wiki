@@ -68,4 +68,4 @@ Same ethics theme: reasons for not reading included length (the document was jus
 - [Survey item sensitivity determines the parental permission pathway, from full waiver to active opt-in](survey-sensitivity-drives-parental-permission.md) — related
 - [School districts act as independent gatekeepers whose requirements can exceed IRB determinations](district-independent-gatekeeper-edtech-research.md) — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
-- [Students remained receptive to chatbot communication over four years, with annual opt-out rates below 4% and average interactive-campaign engagement near 5%](chatbot-receptivity-over-four-years.md) — related
+- Students remained receptive to chatbot communication over four years, with annual opt-out rates below 4% and average interactive-campaign engagement near 5% — related

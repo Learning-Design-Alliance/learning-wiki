@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: xiaojing-duan-2026
-    resource: "https://arxiv.org/abs/2604.03926"
-    title: "Xiaojing Duan, Frederick Nwanganga, and Chaoli Wang. (2026). CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation. https://arxiv.org/abs/2604.03926"
+    resource: "https://doi.org/10.48550/arxiv.2604.03926"
+    title: "Xiaojing Duan, Frederick Nwanganga, and Chaoli Wang. (2026). CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation. https://arxiv.org/abs/2604.03926 [doi:10.48550/arxiv.2604.03926](https://doi.org/10.48550/arxiv.2604.03926)"
     author: Xiaojing Duan, Frederick Nwanganga, and Chaoli Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xiaojing Duan 2026
 
-Xiaojing Duan, Frederick Nwanganga, and Chaoli Wang. (2026). CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation. https://arxiv.org/abs/2604.03926
+Xiaojing Duan, Frederick Nwanganga, and Chaoli Wang. (2026). CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation. https://arxiv.org/abs/2604.03926 [doi:10.48550/arxiv.2604.03926](https://doi.org/10.48550/arxiv.2604.03926)
 
 `q2 · i?` · `design · r2`
 
@@ -43,7 +43,7 @@ Qualitative analysis of SME feedback on FN cases from the expert evaluation. SME
 
 
 ## Related Claims
-- [A reasoning-capable open-weight model detects 84% of hidden misconceptions but at realistic prevalence false alarms outnumber genuine detections roughly 8 to 1](reasoning-model-detection-false-alarm-tradeoff.md) — related
+- A reasoning-capable open-weight model detects 84% of hidden misconceptions but at realistic prevalence false alarms outnumber genuine detections roughly 8 to 1 — related
 - [AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels](ai-grading-failure-modes-graphical-tasks.md) — related
 - [Three recurring AI failure modes arose in this project-based learning context: plausible-but-incorrect code, missing specialized knowledge, and limited long-term context](three-ai-failure-modes-project-based-learning.md) — related
 - [Students' moral rationalizations of AI use are typically post hoc and often internally inconsistent](ai-rationalizations-post-hoc-inconsistent.md) — related

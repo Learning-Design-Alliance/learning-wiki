@@ -16,7 +16,7 @@ sources:
 # School closure as spatial injustice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (3 associational), `q2`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The paper adopts the framing, attributed to Tieken and Auldridge-Reveles (2019), that closures concentrated in poor communities and communities of color constitute "spatial injustice." The injustice lies in closure decisions that "disrupt students' academic trajectories, weaken neighborhood cohesion, and perpetuate cycles of disadvantage." The framework situates closure decisions within historical patterns of racialized institutional loss rather than as purely administrative acts.
@@ -41,7 +41,6 @@ The paper adopts the framing, attributed to Tieken and Auldridge-Reveles (2019),
 - [Majority Black Schools Overrepresented Closures](../claims/majority-black-schools-overrepresented-closures.md) [+M]
 - [Racial Closure Disparity Holds Controlling Enrollment](../claims/racial-closure-disparity-holds-controlling-enrollment.md) [+M]
 - [High-poverty schools are overrepresented among closed schools across the study period](../claims/high-poverty-schools-overrepresented-closures.md) [+W]
-- [Students affected by the school closures were more disadvantaged than typical CPS students, and the closed schools served more vulnerable populations than other schools](../claims/chicago-closings-affected-students-more-disadvantaged.md) [+W]
 - [Turnaround schools generally served the same students after reform, except Closure and Restart schools, which shifted toward more advantaged, higher-achieving students](../claims/turnaround-student-composition-stable-except-restart.md) [+W]
 
 ## Related Theories

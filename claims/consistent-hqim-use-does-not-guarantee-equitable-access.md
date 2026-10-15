@@ -43,5 +43,5 @@ Spotlight interview with a Magnolia district leader describing what the report n
 
 
 ## Related Claims
-- [Substantial learning inequalities persist: TPS students in poverty, TPS English learners, and special education students in either setting show significant learning gaps](ri-learning-gaps-tps-subgroups.md) — related
+- Substantial learning inequalities persist: TPS students in poverty, TPS English learners, and special education students in either setting show significant learning gaps — related
 - [Subgroup categories such as FRL eligibility and multilingual learner status mask wide within-category variation](subgroup-categories-mask-within-category-variation.md) — related

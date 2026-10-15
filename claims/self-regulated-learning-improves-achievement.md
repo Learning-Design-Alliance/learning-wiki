@@ -215,7 +215,7 @@ Open questions that evidence entries should address include: which strategy fami
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — the theoretical constraint on when strategy practice can be self-managed.
 - [Autonomy supports intrinsic motivation](../claims/autonomy-supports-intrinsic-motivation.md) — self-regulation instruction works best when learners own their goals rather than follow imposed routines.
 - [Clear structure improves learning](../claims/clear-structure-improves-learning.md) — clear task structure gives learners the stable goals and criteria that self-monitoring requires.
-- [Cognitive activity is a kind of behavior and should be subject to the same learning laws](cognitive-activity-is-behavior.md) — related
+- Cognitive activity is a kind of behavior and should be subject to the same learning laws — related
 - [Cognitive engagement is the least well-defined engagement perspective and conflates with motivational constructs](cognitive-engagement-least-well-defined.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — possibly the same claim (merge candidate)
@@ -229,14 +229,14 @@ Open questions that evidence entries should address include: which strategy fami
 - [Short-term self-regulatory strategy training, including within regular mathematics lessons, enhances students' self-regulatory judgments and mathematics performance](short-srl-strategy-training-enhances-math-performance.md) — a narrower finding that bears on this claim
 - [Student-created Facebook groups support self-directed design learning and sharing of expertise outside the formal curriculum](sns-groups-support-informal-design-learning.md) — related
 - [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](srl-interventions-increase-logged-time-investment-online-math-prep-course.md) — a narrower finding that bears on this claim
-- [Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics](srl-is-domain-specific-strategy-use-varies-by-subject.md) — related
-- [Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors](srl-strategies-account-up-to-51-percent-variance-academic-performance.md) — related
+- Self-regulated learning is domain specific, with greater cognitive strategy use in social studies and English than in mathematics — related
+- Self-regulated learning strategies account for up to 51% of the variance in academic performance, with metacognitive regulation strategies the strongest predictors — related
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related
-- [Strategy-control in interactive instruction divides into four tactic categories: survey, learning, evaluation, and review](strategy-control-four-tactic-categories.md) — related
+- Strategy-control in interactive instruction divides into four tactic categories: survey, learning, evaluation, and review — related
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — possibly the same claim (merge candidate)
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](students-deficient-monitoring-maintaining-plan.md) — a narrower finding that bears on this claim
+- Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition — a narrower finding that bears on this claim
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — a narrower finding that bears on this claim
 - [Metacognitive activity alone does not equate to effective regulation; unaccompanied metacognitive processes may be counterproductive](metacognitive-alone-not-effective-regulation.md) — related
@@ -248,7 +248,7 @@ Open questions that evidence entries should address include: which strategy fami
 - [The review reports that connecting possible selves to concrete strategies is an essential precursor to positive behavior, beyond merely holding possible selves](possible-selves-require-concrete-strategies-for-behavior.md) — related
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — a narrower finding that bears on this claim
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related
-- [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — related
+- genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma) — related
 - [The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains](shared-learning-structure-performance-domains.md) — related
 - [AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance](ai-srl-end-outcomes-academic-performance-most-frequent.md) — related
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — a narrower finding that bears on this claim
@@ -258,11 +258,11 @@ Open questions that evidence entries should address include: which strategy fami
 - [Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning](metacognition-gates-genai-use-quality.md) — a narrower finding that bears on this claim
 - [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](agentic-srl-coaching-rct-86-significant-strategy-gain.md) — related
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — a narrower finding that bears on this claim
-- [Metacognitive strategy correlations with achievement vary widely across studies, from negative values near -.28 to values such as .66 and .94](metacognitive-strategy-correlations-variable-range.md) — related
+- Metacognitive strategy correlations with achievement vary widely across studies, from negative values near -.28 to values such as .66 and .94 — related
 - [Learner characteristics — prior knowledge, self-regulatory skills, cognitive styles, and attitudes towards learning — moderate hypermedia learning effectiveness](learner-characteristics-moderate-hypermedia-effectiveness.md) — related
 - [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) — prompts operationalize the monitoring step of self-regulation
 - [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) — a strategy learners can be taught to deploy on their own
 - [Goal setting improves performance](../claims/goal-setting-improves-performance.md) — goal-setting is the planning phase of self-regulation
-- [Student self-graphing of CBM scores is reported as motivating during secondary prevention](self-graphing-cbm-progress-motivating.md) — related
+- Student self-graphing of CBM scores is reported as motivating during secondary prevention — related
 - [Holding a strong goal intention alone does not guarantee goal achievement](goal-intention-alone-insufficient-for-achievement.md) — related
 - [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](zimmerman-cyclical-model-empirical-support.md) — a narrower finding that bears on this claim

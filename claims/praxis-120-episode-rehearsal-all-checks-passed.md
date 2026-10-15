@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: nizam-kadir-2026
-    resource: "https://arxiv.org/abs/2610.02699"
-    title: "Nizam Kadir. (2026). LearnAdapt Praxis: Controlled AI Assistance and Evidence Traces for Adult Workplace Learning. Technical research report. https://arxiv.org/abs/2610.02699"
+    resource: "https://doi.org/10.48550/arxiv.2610.02699"
+    title: "Nizam Kadir. (2026). LearnAdapt Praxis: Controlled AI Assistance and Evidence Traces for Adult Workplace Learning. Technical research report. https://arxiv.org/abs/2610.02699 [doi:10.48550/arxiv.2610.02699](https://doi.org/10.48550/arxiv.2610.02699)"
     author: Nizam Kadir
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Nizam Kadir 2026
 
-Nizam Kadir. (2026). LearnAdapt Praxis: Controlled AI Assistance and Evidence Traces for Adult Workplace Learning. Technical research report. https://arxiv.org/abs/2610.02699
+Nizam Kadir. (2026). LearnAdapt Praxis: Controlled AI Assistance and Evidence Traces for Adult Workplace Learning. Technical research report. https://arxiv.org/abs/2610.02699 [doi:10.48550/arxiv.2610.02699](https://doi.org/10.48550/arxiv.2610.02699)
 
 `q2 · i?` · `design · r2`
 

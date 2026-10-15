@@ -16,7 +16,7 @@ sources:
 # Cognitive apprenticeship as a hybrid of Schoenfeld's modeling-coaching-fading model and Treisman's collaborative workshop model
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Cognitive apprenticeship is an instructional paradigm that, per the article, merges the coaching-modeling-fading components of Schoenfeld's problem-solving course with Treisman's collaborative workshop model so students "become better problem solvers while working together as members of a community of learners." The article describes six teaching strategies comprising the model: "(1) modeling, (2) coaching, (3) scaffolding, (4) articulation, (5) reflection, and (6) exploration." In the tested treatment, teachers modeled expert problem solving during lecture periods and coached student groups during workshop sessions, with assistance fading as proficiency grew.
@@ -41,10 +41,7 @@ Cognitive apprenticeship is an instructional paradigm that, per the article, mer
 ### Claims
 
 - [Cognitive Apprenticeship No Significant Exam Differences Technical Math](../claims/cognitive-apprenticeship-no-significant-exam-differences-technical-math.md) [+M]
-- [Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method](../claims/attrition-non-significant-technical-math-quasi-experiment.md) [~W]
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](../claims/cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) [~W]
-- [Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests](../claims/hourly-exam-differences-trigonometry-not-algebra.md) [~W]
-- [Teacher-by-method interaction was significant on the standardized MPE posttest, with control-group performance dependent on the teacher](../claims/teacher-method-interaction-significant-mpe-posttest.md) [~W]
 
 ## Related Theories
 

@@ -45,4 +45,4 @@ Coded strategy analysis of pretest and posttest responses to the climate-change 
 ## Related Claims
 - [Computing students hold persistent incorrect beliefs, basing trust judgments on cues no longer reliable to guarantee trustworthiness](persistent-incorrect-trust-cue-beliefs.md) — related
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related
-- [Transparency about AI involvement appeared to function as an instructional intervention, shifting student reflection from feedback quality toward authority, trust, and assessment legitimacy](transparency-pedagogical-intervention-assessment-reflection.md) — related
+- Transparency about AI involvement appeared to function as an instructional intervention, shifting student reflection from feedback quality toward authority, trust, and assessment legitimacy — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hong-qu-2026
-    resource: "https://arxiv.org/abs/2609.18505"
-    title: "Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505"
+    resource: "https://doi.org/10.48550/arxiv.2609.18505"
+    title: "Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505 [doi:10.48550/arxiv.2609.18505](https://doi.org/10.48550/arxiv.2609.18505)"
     author: Hong Qu, Zichao Ling, Yadie Yang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hong Qu 2026
 
-Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505
+Hong Qu, Zichao Ling, Yadie Yang. (2026). Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course. https://arxiv.org/abs/2609.18505 [doi:10.48550/arxiv.2609.18505](https://doi.org/10.48550/arxiv.2609.18505)
 
 `q2 · i?` · `causal · r1`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chao-wen-2026
-    resource: "https://arxiv.org/abs/2606.03626"
-    title: "Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626"
+    resource: "https://doi.org/10.48550/arxiv.2606.03626"
+    title: "Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626 [doi:10.48550/arxiv.2606.03626](https://doi.org/10.48550/arxiv.2606.03626)"
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All models struggle with spatial reasoning — reasoning about relative positions, distances, angles, and sizes of patterns in the image. [→ Chao Wen 2026](#chao-wen-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Chao Wen 2026
 
-Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
+Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626 [doi:10.48550/arxiv.2606.03626](https://doi.org/10.48550/arxiv.2606.03626)
 
 `q2 · i?` · `design · r2`
 
@@ -66,5 +66,5 @@ Same manual failure analysis on DSReal: models can often replicate the intended 
 - [Fine-tuning primarily improves alignment between code generation and visual reasoning rather than visual understanding or spatial reasoning](fine-tuning-improves-code-reasoning-alignment.md) — related
 - [Current vision-language models struggle on education-oriented Turtle Graphics tasks, with even top models far below reliable performance on real-world tasks for grades 3-6](vlms-struggle-turtleai-real-world-tasks.md) — related
 - [Back-translation yields higher human agreement on spatial checks, while LLM-as-a-Judge considerably outperforms it on the angle-label check](checkwise-backtranslation-spatial-strong-angle-weak.md) — related
-- [All evaluated GenAI systems scored noticeably lower on graphics-related questions requiring interpretation of JavaFX output](genai-weak-visual-reasoning-javafx-questions.md) — related
+- All evaluated GenAI systems scored noticeably lower on graphics-related questions requiring interpretation of JavaFX output — related
 - [Viewpoint-aware spatial reasoning is a persistent bottleneck with poor calibration of spatial uncertainty](viewpoint-aware-spatial-reasoning-bottleneck.md) — a broader claim this one bears on

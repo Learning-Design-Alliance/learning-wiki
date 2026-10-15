@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: masum-hasan-2026
-    resource: "https://arxiv.org/abs/2609.22517"
-    title: "Masum Hasan, Ron Epstein, Thomas Carroll, Ehsan Hoque. (2026). Scalable AI-based clinical communication training and automated assessment. https://arxiv.org/abs/2609.22517"
+    resource: "https://doi.org/10.48550/arxiv.2609.22517"
+    title: "Masum Hasan, Ron Epstein, Thomas Carroll, Ehsan Hoque. (2026). Scalable AI-based clinical communication training and automated assessment. https://arxiv.org/abs/2609.22517 [doi:10.48550/arxiv.2609.22517](https://doi.org/10.48550/arxiv.2609.22517)"
     author: Masum Hasan, Ron Epstein, Thomas Carroll, Ehsan Hoque
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Masum Hasan 2026
 
-Masum Hasan, Ron Epstein, Thomas Carroll, Ehsan Hoque. (2026). Scalable AI-based clinical communication training and automated assessment. https://arxiv.org/abs/2609.22517
+Masum Hasan, Ron Epstein, Thomas Carroll, Ehsan Hoque. (2026). Scalable AI-based clinical communication training and automated assessment. https://arxiv.org/abs/2609.22517 [doi:10.48550/arxiv.2609.22517](https://doi.org/10.48550/arxiv.2609.22517)
 
 `q2 · i?` · `associational · r1`
 

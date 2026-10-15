@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: udeshi-2026
-    resource: "https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home"
-    title: "Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home"
+    resource: "https://doi.org/10.1007/978-3-032-29755-6_14"
+    title: "Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)"
     author: Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Reducing Math Agent output and disabling it for non-math courses reduced latency and increased behavioral engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A concise-response prompt on the Math Agent decreased time to full response latency (P50) by 32.7% ± 1.0% and increased behavioral engagement by 4.65 ± 2.98%. [→ Udeshi 2026](#udeshi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Udeshi 2026
 
-Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home
+Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R., DiGiano, C., Weatherholtz, K., Zaluski, M. (2026). Methodologies for Improving the Quality of AI Tutoring in K-12 Education. https://sites.google.com/khanacademy.org/aied2026supplementalmaterial/home [doi:10.1007/978-3-032-29755-6_14](https://doi.org/10.1007/978-3-032-29755-6_14)
 
 `q2 · i?` · `causal · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: roe-2026
-    resource: "https://arxiv.org/abs/2605.02649"
-    title: "Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649"
+    resource: "https://doi.org/10.48550/arxiv.2605.02649"
+    title: "Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649 [doi:10.48550/arxiv.2605.02649](https://doi.org/10.48550/arxiv.2605.02649)"
     author: "Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Roe 2026
 
-Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649
+Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649 [doi:10.48550/arxiv.2605.02649](https://doi.org/10.48550/arxiv.2605.02649)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -45,7 +45,7 @@ In-depth MCDA of Website 2, which constructed a student- and scholar-facing pers
 ## Related Claims
 - [Humanizer legitimacy performances show leakage: unendorsed logos, inactive social media, and no registered business address](humanizer-frontstage-leakage.md) — related
 - [AI humanizer websites recontextualize detection evasion by deleting misconduct terms and substituting euphemisms like 'humanize' and 'improve flow'](humanizer-recontextualization-deletes-misconduct.md) — related
-- [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](gpt-detectors-biased-against-nonnative-english-writers.md) — related
+- GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy — related
 - [In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated](multi-tool-audit-cross-tool-inconsistency.md) — related
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related
 - [Detection-led responses to AI in assessment face validity, fairness and trust limits](detection-limits-validity-fairness-trust.md) — related

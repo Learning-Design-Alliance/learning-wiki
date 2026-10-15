@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: elaine-allensworth-2008
-    resource: "https://ccsr.uchicago.edu"
-    title: "Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research at the University of Chicago. https://ccsr.uchicago.edu"
+    resource: "https://doi.org/10.3102/0162373709343471"
+    title: "Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research at the University of Chicago. https://ccsr.uchicago.edu [doi:10.3102/0162373709343471](https://doi.org/10.3102/0162373709343471)"
     author: "Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Overall policy effects: lowest-ability students earned more ninth-grade credits but also failed more, and long-term outcomes were small to non-existent, with no increase in college entrance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
+> **Evidence** · 2 studies · 2 causal `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Post-policy students in the two lower-ability groups were more likely to earn Algebra I credit (increases of 8.8 and 7.4 percentage points), but failures rose for the lowest-ability students. [→ Elaine Allensworth 2008](#elaine-allensworth-2008)
@@ -40,7 +40,7 @@ sources:
 
 ### Elaine Allensworth 2008
 
-Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research at the University of Chicago. https://ccsr.uchicago.edu
+Elaine Allensworth, Takako Nomi, Nicholas Montgomery, & Valerie E. Lee. (2008). College Preparatory Curriculum for All: Consequences of Ninth-Grade Course Taking in Algebra and English on Academic Outcomes in Chicago. Consortium on Chicago School Research at the University of Chicago. https://ccsr.uchicago.edu [doi:10.3102/0162373709343471](https://doi.org/10.3102/0162373709343471)
 
 `q2 · i?` · `causal · r?`
 

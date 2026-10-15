@@ -42,4 +42,4 @@ The authors conducted a final user study (n=16) comparing LearnMate2 against a w
 
 ## Related Claims
 - [In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator](structured-student-agents-differentiated-mastery-traces.md) — related
-- [The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience](gen-aitecture-modest-equalising-mechanism.md) — related
+- The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience — related

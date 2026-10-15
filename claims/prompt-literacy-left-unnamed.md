@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shahin-hossain-2026
-    resource: "https://arxiv.org/abs/2608.01705"
-    title: "Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha. (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K–12 Teacher Education. https://arxiv.org/abs/2608.01705"
+    resource: "https://doi.org/10.48550/arxiv.2608.01705"
+    title: "Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha. (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K–12 Teacher Education. https://arxiv.org/abs/2608.01705 [doi:10.48550/arxiv.2608.01705](https://doi.org/10.48550/arxiv.2608.01705)"
     author: Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # No existing AI literacy framework explicitly names prompt construction as a competency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Evidence** · 2 studies · 2 theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Long and Magerko's, Ng et al.'s, and Allen and Kendeou's frameworks could accommodate prompting in principle but none names, operationalizes, or distinguishes it. [→ Shahin Hossain 2026](#shahin-hossain-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Shahin Hossain 2026
 
-Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha. (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K–12 Teacher Education. https://arxiv.org/abs/2608.01705
+Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha. (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K–12 Teacher Education. https://arxiv.org/abs/2608.01705 [doi:10.48550/arxiv.2608.01705](https://doi.org/10.48550/arxiv.2608.01705)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -64,4 +64,4 @@ The review attributes to Yang and Appleget (2025) that most pre-service teacher 
 ## Related Claims
 - [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](agency-narrowed-to-tool-adoption.md) — related
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related
-- [Prominent existing AI literacy frameworks are not tailored to higher education](ai-literacy-frameworks-gap-higher-education.md) — related
+- Prominent existing AI literacy frameworks are not tailored to higher education — related

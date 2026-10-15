@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yossi-ben-zion-2024
-    resource: "https://arxiv.org/abs/2412.07482"
-    title: "Yossi Ben-Zion, Roi Einhorn Zarzecki, Joshua Glazer, Noah D. Finkelstein. (2024). Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab. https://arxiv.org/abs/2412.07482"
+    resource: "https://doi.org/10.48550/arxiv.2412.07482"
+    title: "Yossi Ben-Zion, Roi Einhorn Zarzecki, Joshua Glazer, Noah D. Finkelstein. (2024). Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab. https://arxiv.org/abs/2412.07482 [doi:10.48550/arxiv.2412.07482](https://doi.org/10.48550/arxiv.2412.07482)"
     author: Yossi Ben-Zion, Roi Einhorn Zarzecki, Joshua Glazer, Noah D. Finkelstein
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yossi Ben-Zion 2024
 
-Yossi Ben-Zion, Roi Einhorn Zarzecki, Joshua Glazer, Noah D. Finkelstein. (2024). Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab. https://arxiv.org/abs/2412.07482
+Yossi Ben-Zion, Roi Einhorn Zarzecki, Joshua Glazer, Noah D. Finkelstein. (2024). Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab. https://arxiv.org/abs/2412.07482 [doi:10.48550/arxiv.2412.07482](https://doi.org/10.48550/arxiv.2412.07482)
 
 `q1 · i?` · `design · r2`
 

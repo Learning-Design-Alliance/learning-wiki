@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: angevine-2019
-    resource: "https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6"
-    title: "Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6"
+    resource: "https://doi.org/10.51388/20.500.12265/86"
+    title: "Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6 [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)"
     author: "Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Angevine 2019
 
-Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6
+Angevine, C., Cator, K., Liberman, B., Smith, K., & Young, V. (2019). Designing a Process for Inclusive Innovation: A Radical Commitment to Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/d6db3e76-2dc9-4ea6-ae68-49814c88e6b6 [doi:10.51388/20.500.12265/86](https://doi.org/10.51388/20.500.12265/86)
 
 `q2 · i?` · `theoretical · r2`
 

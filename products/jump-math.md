@@ -18,7 +18,7 @@ sources:
 # JUMP Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 JUMP Math is a highly scaffolded K–8 mathematics curriculum and instructional program developed and delivered by JUMP Math, with detailed teacher guides and student practice and assessment materials.
@@ -27,7 +27,6 @@ JUMP Math is a highly scaffolded K–8 mathematics curriculum and instructional 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [JUMP Math raised math achievement with an effect size of +0.23 on Woodcock math tests in rural Ontario schools](../claims/jump-math-effect-023-woodcock-ontario.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -61,7 +60,6 @@ JUMP Math is a highly-scaffolded, direct instruction approach covering all stran
 
 ## Claims
 
-- [JUMP Math raised math achievement with an effect size of +0.23 on Woodcock math tests in rural Ontario schools](../claims/jump-math-effect-023-woodcock-ontario.md) [+W]
 
 ## Related Elements
 - 

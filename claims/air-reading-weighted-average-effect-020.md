@@ -43,5 +43,5 @@ Synthesis of the two randomized studies (740 students total per the review's hea
 
 
 ## Related Claims
-- [Across two randomized studies, Math Corps has a sample-size-weighted mean effect size of +0.16](math-corps-pooled-mean-effect-016.md) — related
-- [Averaging across the two randomized studies, weighted by sample size, Reading Corps produced a mean effect size of +0.36](reading-corps-pooled-effect-0-36.md) — related
+- Across two randomized studies, Math Corps has a sample-size-weighted mean effect size of +0.16 — related
+- Averaging across the two randomized studies, weighted by sample size, Reading Corps produced a mean effect size of +0.36 — related

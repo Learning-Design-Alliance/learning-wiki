@@ -75,16 +75,16 @@ Nothing here says where retention falls off.
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — also finds a nominal level to be a poor description of an individual
 - [Three weeks of explicit language-focused strategy instruction produced no significant word-problem gain in this study](explicit-strategy-instruction-no-significant-gain.md) — related
 - [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — related
-- [Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar](ideation-discussion-speaking-gains-not-grammar.md) — related
+- Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related
 - [Retention trajectories diverged by centre: Centre 1 retained gains at 30 days while Centre 2 showed significant post-to-delayed decay](podcast-retention-divergence-massed-vs-distributed.md) — a narrower finding that bears on this claim
-- [Participants in an intensive competency-based mastery workshop mastered more than 98% of their workshop enabling objectives](mastery-workshop-98-percent-objective-completion.md) — related
+- Participants in an intensive competency-based mastery workshop mastered more than 98% of their workshop enabling objectives — related
 - [The GoldList Notebook Method increases long-term retention of L2 idioms compared with a vocabulary lesson alone](goldlist-method-improves-l2-vocabulary-retention.md) — related
 - [A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice](listening-first-outperforms-intensive-oral-practice.md) — related
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related
 - [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — related
-- [Infants retain verbal material over delays, indicating adult-like storage of speech](infant-verbal-memory-retention.md) — related
+- Infants retain verbal material over delays, indicating adult-like storage of speech — related
 - [Repeated listening improves oral reading fluency in second-grade students, with Listening Only outgaining Reading While Listening and Reading Only](repeated-listening-improves-oral-reading-fluency.md) — related
 - [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — reports the opposite
 - [FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn](frac-transfer-retention-after-ai-removal.md) — related

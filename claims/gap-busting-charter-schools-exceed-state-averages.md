@@ -44,7 +44,7 @@ School-level analysis in the national study identifies "More than 1,000 charter 
 
 ## Related Claims
 - [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related
-- [Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS](ri-charter-gains-poverty-sped-ell.md) — related
+- Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS — related
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — reports the opposite
 - [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — reports the opposite
 - [Some charter school students grow faster than their traditional public school peers](some-charter-students-grow-faster-than-tps-peers.md) — related

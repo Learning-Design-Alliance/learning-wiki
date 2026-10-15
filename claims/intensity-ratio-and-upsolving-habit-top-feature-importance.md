@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: azuad-islam-ruhan-2026
-    resource: "https://arxiv.org/abs/2608.28618"
-    title: "Azuad Islam Ruhan, Golam Mostofa Naeem, Rakibul Islam Rafi, Sherin Afrin Mim, Nazira Bani Opi, Dewan Fahad Chowdhury, and Md. Rejaul Korim Sadi. (2026). Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs. https://arxiv.org/abs/2608.28618"
+    resource: "https://doi.org/10.48550/arxiv.2608.28618"
+    title: "Azuad Islam Ruhan, Golam Mostofa Naeem, Rakibul Islam Rafi, Sherin Afrin Mim, Nazira Bani Opi, Dewan Fahad Chowdhury, and Md. Rejaul Korim Sadi. (2026). Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs. https://arxiv.org/abs/2608.28618 [doi:10.48550/arxiv.2608.28618](https://doi.org/10.48550/arxiv.2608.28618)"
     author: Azuad Islam Ruhan, Golam Mostofa Naeem, Rakibul Islam Rafi, Sherin Afrin Mim, Nazira Bani Opi, Dewan Fahad Chowdhury, and Md. Rejaul Korim Sadi
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Engineered practice-balance features outperform raw activity counts: the Intensity Ratio ranks third among Codeforces predictors, and upsolving habit dominates the survey model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` The engineered Intensity Ratio (11.3% importance) ranked third on the behavioral dataset, above raw problem counts. [→ Azuad Islam Ruhan 2026](#azuad-islam-ruhan-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Azuad Islam Ruhan 2026
 
-Azuad Islam Ruhan, Golam Mostofa Naeem, Rakibul Islam Rafi, Sherin Afrin Mim, Nazira Bani Opi, Dewan Fahad Chowdhury, and Md. Rejaul Korim Sadi. (2026). Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs. https://arxiv.org/abs/2608.28618
+Azuad Islam Ruhan, Golam Mostofa Naeem, Rakibul Islam Rafi, Sherin Afrin Mim, Nazira Bani Opi, Dewan Fahad Chowdhury, and Md. Rejaul Korim Sadi. (2026). Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs. https://arxiv.org/abs/2608.28618 [doi:10.48550/arxiv.2608.28618](https://doi.org/10.48550/arxiv.2608.28618)
 
 `q2 · i?` · `associational · r2`
 

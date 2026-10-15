@@ -45,7 +45,7 @@ Report's data systems section, from county interviews and document review, finds
 ## Related Claims
 - Inconsistent and insufficient data make it difficult to measure California's ECE investment and unmet demand, including no unique child identifier and no centralized waiting list — related
 - [California's ECE system is a fragmented patchwork of programs accountable to multiple uncoordinated agencies](california-ece-fragmented-multi-agency-patchwork.md) — a broader claim this one bears on
-- [The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers](frontline-ecosystem-siloed-data-flow.md) — related
+- The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers — related
 - County-administered QRIS in California is voluntary, uneven, and destabilized by time-limited categorical funding — related
 - A landscape review found fragmentation in California's teacher workforce infrastructure, with no agency holding singular responsibility for workforce planning — related
 - Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — related

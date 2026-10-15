@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: younghoon-jeon-2026
-    resource: "https://arxiv.org/abs/2602.10620"
-    title: "YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee. (2026). ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents. Preprint. https://arxiv.org/abs/2602.10620"
+    resource: "https://doi.org/10.48550/arxiv.2602.10620"
+    title: "YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee. (2026). ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents. Preprint. https://arxiv.org/abs/2602.10620 [doi:10.48550/arxiv.2602.10620](https://doi.org/10.48550/arxiv.2602.10620)"
     author: YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### YoungHoon Jeon 2026
 
-YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee. (2026). ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents. Preprint. https://arxiv.org/abs/2602.10620
+YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee. (2026). ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents. Preprint. https://arxiv.org/abs/2602.10620 [doi:10.48550/arxiv.2602.10620](https://doi.org/10.48550/arxiv.2602.10620)
 
 `q2 · i?` · `causal · r1`
 
@@ -44,4 +44,4 @@ Benchmark experiment on 1,017 test scenarios with three base LLMs (Gemini-3-Flas
 
 ## Related Claims
 - [Coarse-grained tool design (5 phase-level tools) outperforms fine-grained decomposition (14 tools) for LLM-based ISD agents](coarse-grained-phase-level-tools-outperform-fine-grained.md) — related
-- [Agentic frameworks built on GPT-3.5 and GPT-4 show significant performance gains on the HumanEval benchmark over zero-shot baselines](agentic-frameworks-humaneval-gains.md) — a broader claim this one bears on
+- Agentic frameworks built on GPT-3.5 and GPT-4 show significant performance gains on the HumanEval benchmark over zero-shot baselines — a broader claim this one bears on

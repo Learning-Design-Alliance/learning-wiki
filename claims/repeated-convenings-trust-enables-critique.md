@@ -47,7 +47,7 @@ Interview participants in the three content-specific communities, each convened 
 - [District leaders reported the working group created a valued cross-district network, with 96 percent forming new connections to colleagues](sel-working-group-cross-district-connections.md) — related
 - [Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions](trust-and-social-dynamics-shape-dialogic-effectiveness.md) — a broader claim this one bears on
 - [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related
-- [A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function](rpp-trust-reciprocity-mutual-respect-benefits.md) — related
+- A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
 - [Most convening participants strongly agreed they could collaborate with district colleagues during the Melbourne convening](convening-collaboration-decision-makers-implementors.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: junjie-yin-2026
-    resource: "https://arxiv.org/abs/2608.02599"
-    title: "Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599"
+    resource: "https://doi.org/10.48550/arxiv.2608.02599"
+    title: "Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599 [doi:10.48550/arxiv.2608.02599](https://doi.org/10.48550/arxiv.2608.02599)"
     author: Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Junjie Yin 2026
 
-Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599
+Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599 [doi:10.48550/arxiv.2608.02599](https://doi.org/10.48550/arxiv.2608.02599)
 
 `q2 · i?` · `associational · r1`
 
@@ -43,7 +43,7 @@ Targeted nine-question community survey with 52 valid responses among power-and-
 
 
 ## Related Claims
-- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
+- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
 - [Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples](demand-for-power-specific-hands-on-ai-examples.md) — related
-- [Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring](institutional-barriers-ai-integration.md) — related
+- Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

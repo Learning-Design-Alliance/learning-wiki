@@ -43,4 +43,4 @@ Classification of the 1,715-school sample based on the difference between actual
 
 
 ## Related Claims
-- [Schools beating the odds — moving from underperformer to overperformer growth status between Grades 1 and 2 — are rare (about 1% of schools)](beat-the-odds-under-to-over-transition-rare.md) — related
+- Schools beating the odds — moving from underperformer to overperformer growth status between Grades 1 and 2 — are rare (about 1% of schools) — related

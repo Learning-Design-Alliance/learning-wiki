@@ -17,7 +17,7 @@ sources:
 # Seven-policy comprehensive approach to equalizing student access to certified and experienced teachers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends that federal, state, and local policies "must take a comprehensive approach to providing teachers with the preparation, resources, and supports they need to be successful". Its seven strategies are: strengthening federal equitable-distribution policies under ESSA; loan forgiveness and service scholarship programs to staff high-need fields and schools; more equitable state funding formulas for salaries and working conditions; funded teacher residency programs; mentoring and induction for novice teachers; compensating National Board Certified teachers in high-need schools; and principal training that builds collegial, professional environments.
@@ -38,7 +38,6 @@ The report recommends that federal, state, and local policies "must take a compr
 
 ## Claims
 
-- [Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools](../claims/louisiana-teachers-of-color-working-conditions-turnover.md) [+W]
 - [Teachers who are not fully certified have higher turnover than fully certified teachers (20.1% vs. 14.7%), with a larger gap among early-career teachers](../claims/uncertified-teachers-higher-turnover.md) [+W]
 
 ## Related Strategies

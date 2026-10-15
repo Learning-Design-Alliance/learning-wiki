@@ -16,7 +16,7 @@ sources:
 # Five-dimensional model of the adult educator with eight educator functions
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The adult educator is a professional who seeks to develop the educational potential of community problem-solving activity, working with the group on a continuing basis in a transactional relationship. The model's dimensions are what, how, when, where, and with whom. The what dimension comprises eight functions: "The final list consists of eight functions an educator might perform" — four internal functions (organizing, training, encouraging, conciliating) and four problem-solving functions (linking with knowledge, linking with human resources, enlisting support, coordinating).
@@ -36,7 +36,6 @@ The adult educator is a professional who seeks to develop the educational potent
 - learning the how and why of change or development while solving community problems
 
 ### Claims
-- [Educator Functions Influence Community Group Growth](../claims/educator-functions-influence-community-group-growth.md) [+W]
 
 ## Related Theories
 

@@ -44,7 +44,7 @@ Student-level subgroup analysis in the national charter school study finds "stro
 
 ## Related Claims
 - [Black, Hispanic, and poverty students enrolled in charter schools show stronger growth trends than the same subgroups citywide in several cities](credo-cohort1-charter-subgroup-stronger-growth.md) — related
-- [Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls](ri-charter-gains-black-hispanic-students.md) — related
+- Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls — related
 - [Black students in poverty attending charter schools gain about 35 additional days of learning in reading compared to their Black TPS peers in poverty, with no math difference](pa-charter-black-poverty-students-reading-gain.md) — related
 - [Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially](pa-charter-black-students-reading-gain.md) — a narrower finding that bears on this claim
 - [More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages](gap-busting-charter-schools-exceed-state-averages.md) — related

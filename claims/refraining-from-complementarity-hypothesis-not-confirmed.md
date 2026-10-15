@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: pennings-2017
-    resource: "https://complicityjournal.org"
-    title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org"
+    resource: "https://doi.org/10.29173/cmplct29338"
+    title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)"
     author: Pennings, H. J. M.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pennings 2017
 
-Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
+Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)
 
 `q2 · i?` · `associational · r1`
 

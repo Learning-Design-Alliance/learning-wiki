@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: thang-doan-viet-2026
-    resource: "https://arxiv.org/abs/2607.28647"
-    title: "Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647"
+    resource: "https://doi.org/10.48550/arxiv.2607.28647"
+    title: "Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647 [doi:10.48550/arxiv.2607.28647](https://doi.org/10.48550/arxiv.2607.28647)"
     author: Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Removing teacher-in-the-loop review or the curriculum checker significantly lowers teacher satisfaction, and replacing ADDIE orchestration with unstructured prompting yields the lowest satisfaction and longest preparation time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Removing the teacher-in-the-loop review stage causes a statistically significant drop in teacher satisfaction (p<0.05, Wilcoxon signed-rank test, n=18), despite marginally reducing preparation time. [→ Thang Doan Viet 2026](#thang-doan-viet-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Thang Doan Viet 2026
 
-Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647
+Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647 [doi:10.48550/arxiv.2607.28647](https://doi.org/10.48550/arxiv.2607.28647)
 
 `q2 · i?` · `design · r2`
 
@@ -64,4 +64,4 @@ System-level ablation (Table 4): the Generic LLM workflow took 90–120 minutes 
 ## Related Claims
 - [Teachers and students report strong satisfaction with ConnectED, with 94% of teachers willing to reuse it](connected-high-teacher-student-satisfaction.md) — related
 - [ConnectED reduces 45-minute lesson preparation time to approximately 15–20 minutes in-system, versus 3–4 hours for manual preparation](connected-reduces-lesson-preparation-time.md) — related
-- [Implementing a student-made glossary significantly lowered first-year engineering students' satisfaction with the M-Tutor tutorial](glossary-intervention-lowered-satisfaction-m-tutor.md) — related
+- Implementing a student-made glossary significantly lowered first-year engineering students' satisfaction with the M-Tutor tutorial — related

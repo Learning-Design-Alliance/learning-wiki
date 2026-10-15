@@ -43,5 +43,5 @@ The publication's own descriptive statement about when the tool applies. It offe
 
 
 ## Related Claims
-- [A policy inventory framework enables states to audit and compare teacher-quality policies](cl-state-teacher-policy-audit-inventory-enables-cross-state-comparison.md) — related
+- A policy inventory framework enables states to audit and compare teacher-quality policies — related
 - [The EDIT was developed iteratively beginning in 2012 under OPRE commissioning](edit-iterative-development-2012-opre.md) — related

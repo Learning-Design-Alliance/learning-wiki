@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: s-vonschallen-2026
-    resource: "https://arxiv.org/abs/2602.12873"
-    title: "S. Vonschallen, D. Oberle, T. Schmiedel, and F. Eyssel. (2026). Knowledge-Based Design Requirements for Generative Social Robots in Higher Education. https://arxiv.org/abs/2602.12873"
+    resource: "https://doi.org/10.48550/arxiv.2602.12873"
+    title: "S. Vonschallen, D. Oberle, T. Schmiedel, and F. Eyssel. (2026). Knowledge-Based Design Requirements for Generative Social Robots in Higher Education. https://arxiv.org/abs/2602.12873 [doi:10.48550/arxiv.2602.12873](https://doi.org/10.48550/arxiv.2602.12873)"
     author: S. Vonschallen, D. Oberle, T. Schmiedel, and F. Eyssel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### S. Vonschallen 2026
 
-S. Vonschallen, D. Oberle, T. Schmiedel, and F. Eyssel. (2026). Knowledge-Based Design Requirements for Generative Social Robots in Higher Education. https://arxiv.org/abs/2602.12873
+S. Vonschallen, D. Oberle, T. Schmiedel, and F. Eyssel. (2026). Knowledge-Based Design Requirements for Generative Social Robots in Higher Education. https://arxiv.org/abs/2602.12873 [doi:10.48550/arxiv.2602.12873](https://doi.org/10.48550/arxiv.2602.12873)
 
 `q2 · i?` · `qualitative · r3`
 

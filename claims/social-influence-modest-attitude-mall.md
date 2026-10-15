@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tuan-thanh-nguyen-2023
-    resource: "https://eric.ed.gov/?id=EJ1445637"
-    title: "Tuan Thanh Nguyen. (2023). Exploring the Interaction of Meta-UTAUT in the Mobile-Assisted Language Learning Environment for EFL Learning. Journal of Educators Online. https://eric.ed.gov/?id=EJ1445637"
+    resource: "https://doi.org/10.9743/jeo.2024.21.4.13"
+    title: "Tuan Thanh Nguyen. (2023). Exploring the Interaction of Meta-UTAUT in the Mobile-Assisted Language Learning Environment for EFL Learning. Journal of Educators Online. https://eric.ed.gov/?id=EJ1445637 [doi:10.9743/jeo.2024.21.4.13](https://doi.org/10.9743/jeo.2024.21.4.13)"
     author: Tuan Thanh Nguyen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tuan Thanh Nguyen 2023
 
-Tuan Thanh Nguyen. (2023). Exploring the Interaction of Meta-UTAUT in the Mobile-Assisted Language Learning Environment for EFL Learning. Journal of Educators Online. https://eric.ed.gov/?id=EJ1445637
+Tuan Thanh Nguyen. (2023). Exploring the Interaction of Meta-UTAUT in the Mobile-Assisted Language Learning Environment for EFL Learning. Journal of Educators Online. https://eric.ed.gov/?id=EJ1445637 [doi:10.9743/jeo.2024.21.4.13](https://doi.org/10.9743/jeo.2024.21.4.13)
 
 `q2 · i?` · `associational · r2`
 

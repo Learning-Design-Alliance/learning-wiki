@@ -79,9 +79,9 @@ Both studies share a structure worth noting for design purposes: the achievement
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — a related body of evidence on why moving away from pure lecture format changes learning outcomes
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related
-- [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
+- A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains — related
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
-- [Courseware use did not disadvantage any student group and appeared especially promising for under-represented minority students, with grades independent of Pell, enrollment, age, gender, and first-gen status in 75% or more of analyses.](ngcc-courseware-equity-findings.md) — related
+- Courseware use did not disadvantage any student group and appeared especially promising for under-represented minority students, with grades independent of Pell, enrollment, age, gender, and first-gen status in 75% or more of analyses. — related
 - [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — related
 - [Effects of active learning on achievement gaps vary widely across studies, with a minority of studies showing larger benefits for non-minoritized students](active-learning-gap-effects-vary-across-studies.md) — related
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — related

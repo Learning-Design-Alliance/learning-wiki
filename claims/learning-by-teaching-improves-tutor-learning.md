@@ -63,14 +63,15 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does preparing to teach a part, and then teaching it, improve the teaching learner's own understanding?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (2 quant-synthesis, 2 causal, 1 associational), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does preparing to teach a part, and then teaching it, improve the teaching learner's own understanding?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (3 causal, 2 quant-synthesis, 1 associational), `q2`–`q3`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Kobayashi 2019](https://doi.org/10.1111/jpr.12221) | q3 · quant-synthesis · r? | i2 · medium effect, g=0.56 (teaching with preparing-to-teach); g=0.35 (preparing-to-teach alone) | this claim |
 | [Cohen et al. 1982](https://doi.org/10.3102/00028312019002237) | q3 · quant-synthesis · r? | i? | this claim |
-| Angxuan Chen 2024 | q2 · causal · r1 | i3 | [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge](chatgpt-teachable-agent-knowledge-gains.md) (supports) |
-| Xinming Yang 2025 | q2 · causal · r1 | i? | [Learning-by-teaching an LLM improved assignment and project performance versus historical ](learning-by-teaching-llm-improves-assignments-projects.md) (qualifies) |
+| [Angxuan Chen 2024](https://doi.org/10.48550/arxiv.2412.15226) | q2 · causal · r1 | i3 | [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge](chatgpt-teachable-agent-knowledge-gains.md) (supports) |
+| [Xinming Yang 2025](https://doi.org/10.48550/arxiv.2508.05979) | q2 · causal · r1 | i? | [Learning-by-teaching an LLM improved assignment and project performance versus historical ](learning-by-teaching-llm-improves-assignments-projects.md) (qualifies) |
+| Xinming Yang 2025 (2) | q2 · causal · r1 | i? | [Learning-by-teaching an LLM improved assignment and project performance versus historical ](learning-by-teaching-llm-improves-assignments-projects.md) (qualifies) |
 | [Fathima Ameen 2026](https://doi.org/10.1007/s41237-026-00294-9) | q2 · associational · r1 | i? | [Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questi](kbr-predicts-tutor-posttest-conceptual-procedural.md) (qualifies) |
 <!-- synthesis:end -->
 
@@ -132,7 +133,7 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Retrieval practice improves retention.](retrieval-practice-improves-retention.md) — preparing to teach functions as a demanding retrieval and organization task, a proposed mechanism for the effect.
 - [Cognitive load theory](../theories/cognitive-load-theory.md) — explains why teach-before-study can overload novices
 - [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related
-- [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
+- The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained — related
 - [Tutoring benefits both tutors and tutees](peer-tutoring-improves-achievement.md) — related
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related

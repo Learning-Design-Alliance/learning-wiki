@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Research studies in the field of value education report that lecturing on values by teachers or resource persons does not transact values effectively to children, and that students and teachers need new methods of value acquisition and transaction. [→ Sankaranarayanan Paleeri 2014](#sankaranarayanan-paleeri-2014)

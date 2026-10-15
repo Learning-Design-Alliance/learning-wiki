@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: roe-2026
-    resource: "https://arxiv.org/abs/2605.02649"
-    title: "Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649"
+    resource: "https://doi.org/10.48550/arxiv.2605.02649"
+    title: "Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649 [doi:10.48550/arxiv.2605.02649](https://doi.org/10.48550/arxiv.2605.02649)"
     author: "Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Humanizer sites deploy mystification through opaque algorithm references, scale claims, and unexplained success-rate claims
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Sites cite advanced algorithms, parameter counts, and success rates (e.g., 99%) without explaining how humanization works, obscuring the underlying mechanism. [→ Roe 2026](#roe-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Roe 2026
 
-Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649
+Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment. A preprint. https://arxiv.org/abs/2605.02649 [doi:10.48550/arxiv.2605.02649](https://doi.org/10.48550/arxiv.2605.02649)
 
 `q2 · i?` · `qualitative · r3`
 

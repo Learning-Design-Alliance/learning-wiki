@@ -62,10 +62,10 @@ Test-set results on 9,886 NCTE classroom segments rated on MQI variables, using 
 
 
 ## Related Claims
-- [Class-weighted loss marginally improves PLM performance on skewed instruction-quality ratings, achieving best performance on 10 of 16 variables in the three-way setting and 9 of 16 in the binary setting](class-weighted-loss-marginal-gain-skewed-teaching-ratings.md) — related
-- [Fine-tuning Llama2-7B with parameter-efficient methods yields unsatisfactory results for measuring subject-matter teaching practices, only marginally improving the majority baseline](llama2-qlora-unsatisfactory-for-teaching-quality-tasks.md) — related
-- [A two-stage relevance-then-classification strategy improves PLM scoring of metacognitive modeling components whose assessment relies on multiple relevant sentences](two-stage-relevance-strategy-helps-multi-sentence-variables.md) — related
-- [Using only teachers' utterances as input achieves comparable or better PLM performance than including student utterances, even for student-oriented observation variables](teacher-utterances-alone-sufficient-for-classroom-measures.md) — related
+- Class-weighted loss marginally improves PLM performance on skewed instruction-quality ratings, achieving best performance on 10 of 16 variables in the three-way setting and 9 of 16 in the binary setting — related
+- Fine-tuning Llama2-7B with parameter-efficient methods yields unsatisfactory results for measuring subject-matter teaching practices, only marginally improving the majority baseline — related
+- A two-stage relevance-then-classification strategy improves PLM scoring of metacognitive modeling components whose assessment relies on multiple relevant sentences — related
+- Using only teachers' utterances as input achieves comparable or better PLM performance than including student utterances, even for student-oriented observation variables — related
 - [AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable](ai-not-best-practice-competency-based-assessment.md) — related
 - [Attachment to LLMs exhibits cruel optimism: desired efficiency collides with the vigilance and expertise students do not yet possess](cruel-optimism-of-llms-in-education.md) — related
 - [Raters scored significantly higher than AI on Emotional Support and significantly lower than AI on Instructional Support, with no difference for Classroom Organization](raters-ai-mean-differences-class-domains.md) — related

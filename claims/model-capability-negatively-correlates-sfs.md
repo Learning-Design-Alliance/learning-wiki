@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: heejin-do-2026
-    resource: "https://arxiv.org/abs/2605.12748"
-    title: "Heejin Do, Shashank Sonkar, Mrinmaya Sachan. (2026). Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators. Preprint. https://arxiv.org/abs/2605.12748"
+    resource: "https://doi.org/10.48550/arxiv.2605.12748"
+    title: "Heejin Do, Shashank Sonkar, Mrinmaya Sachan. (2026). Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators. Preprint. https://arxiv.org/abs/2605.12748 [doi:10.48550/arxiv.2605.12748](https://doi.org/10.48550/arxiv.2605.12748)"
     author: Heejin Do, Shashank Sonkar, Mrinmaya Sachan
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Heejin Do 2026
 
-Heejin Do, Shashank Sonkar, Mrinmaya Sachan. (2026). Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators. Preprint. https://arxiv.org/abs/2605.12748
+Heejin Do, Shashank Sonkar, Mrinmaya Sachan. (2026). Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators. Preprint. https://arxiv.org/abs/2605.12748 [doi:10.48550/arxiv.2605.12748](https://doi.org/10.48550/arxiv.2605.12748)
 
 `q2 · i3` · `causal · r2`
 

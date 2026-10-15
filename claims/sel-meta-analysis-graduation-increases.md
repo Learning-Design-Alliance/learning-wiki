@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cardichon-2019
-    resource: "https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline"
-    title: "Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline"
+    resource: "https://doi.org/10.33682/a3vc-nfcx"
+    title: "Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline [doi:10.33682/a3vc-nfcx](https://doi.org/10.33682/a3vc-nfcx)"
     author: "Cardichon, J., & Darling-Hammond, L."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Cardichon 2019
 
-Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline
+Cardichon, J., & Darling-Hammond, L. (2019). Protecting students' civil rights: The federal role in school discipline. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/student-civil-rights-school-discipline [doi:10.33682/a3vc-nfcx](https://doi.org/10.33682/a3vc-nfcx)
 
 `q3 · i?` · `review · r1`
 
@@ -46,7 +46,7 @@ A 2017 meta-analysis on social and emotional learning reported that participatin
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [SEL programs are associated with an 11 percentile-point improvement in academic performance](sel-programs-improve-academic-performance.md) — related
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related
-- [Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress](schoolwide-sel-prosocial-distress-24-percent.md) — related
-- [Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college](sel-value-added-graduation-college-enrollment.md) — related
+- Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress — related
+- Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: matin-amoozadeh-and-amin-alipour-2026
-    resource: "https://arxiv.org/abs/2608.17919"
-    title: "Matin Amoozadeh and Amin Alipour. (2026). Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks. https://arxiv.org/abs/2608.17919"
+    resource: "https://doi.org/10.48550/arxiv.2608.17919"
+    title: "Matin Amoozadeh and Amin Alipour. (2026). Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks. https://arxiv.org/abs/2608.17919 [doi:10.48550/arxiv.2608.17919](https://doi.org/10.48550/arxiv.2608.17919)"
     author: Matin Amoozadeh and Amin Alipour
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students' question types shift from confusion-reporting toward procedural and task-oriented inquiry as tasks progress, though the session difference did not reach conventional significance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` A chi-square test of independence revealed a near-significant difference between the two sessions (χ²(17) = 27.03, p = .0576), indicating a trend toward a shift from confusion-reporting in Session 1 toward more procedural and task-oriented inquiry in Session 2. [→ Matin Amoozadeh and Amin Alipour 2026](#matin-amoozadeh-and-amin-alipour-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Matin Amoozadeh and Amin Alipour 2026
 
-Matin Amoozadeh and Amin Alipour. (2026). Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks. https://arxiv.org/abs/2608.17919
+Matin Amoozadeh and Amin Alipour. (2026). Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks. https://arxiv.org/abs/2608.17919 [doi:10.48550/arxiv.2608.17919](https://doi.org/10.48550/arxiv.2608.17919)
 
 `q2 · i?` · `associational · r1`
 

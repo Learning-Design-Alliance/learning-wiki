@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lier-jin-2026
-    resource: "https://arxiv.org/abs/2608.08942"
-    title: "Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942"
+    resource: "https://doi.org/10.48550/arxiv.2608.08942"
+    title: "Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942 [doi:10.48550/arxiv.2608.08942](https://doi.org/10.48550/arxiv.2608.08942)"
     author: Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Across semantically equivalent MedQA prompts answered by the same model, accuracy exhibits a consistent monotonic trend in which it increases with prompt sophistication. [→ Lier Jin 2026](#lier-jin-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Lier Jin 2026
 
-Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942
+Lier Jin, Lan Hu, Binqi Shen, Hanyu Cai, and Yuting Xin. (2026). Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access. https://arxiv.org/abs/2608.08942 [doi:10.48550/arxiv.2608.08942](https://doi.org/10.48550/arxiv.2608.08942)
 
 `q2 · i?` · `causal · r1`
 

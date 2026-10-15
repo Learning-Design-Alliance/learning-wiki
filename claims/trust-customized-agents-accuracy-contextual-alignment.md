@@ -45,5 +45,5 @@ Thematic analysis found clarity/operability codes more prevalent in customized g
 ## Related Claims
 - [Customized AI agents generate feedback with higher accuracy and specificity than general-purpose agents in self-directed instructional design tasks](customized-agents-higher-feedback-accuracy-specificity.md) — related
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
-- [Focus groups with nine writing instructors identified four design priorities for WAT-C: clearer feedback, instructor customization, reduced administrative burden, and a simplified interface](wat-c-four-design-priorities-instructor-focus-groups.md) — related
+- Focus groups with nine writing instructors identified four design priorities for WAT-C: clearer feedback, instructor customization, reduced administrative burden, and a simplified interface — related
 - [Discrepancies between lenient learner feedback and more critical automated feedback caused tutors confusion, distrust, and demands for rationale](feedback-source-discrepancies-cause-confusion.md) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The chi-square test for NC-DIF was shown to be overly sensitive for large sample sizes, so an empirically established critical value (.016, the 99th percentile of 2,000 DIF-free items) was used instead. [→ Flowers 1996](#flowers-1996)
@@ -47,6 +48,6 @@ The article attributes the sensitivity finding to Fleer (1993). In this study, 2
 - [Grade cutoffs are arbitrary because adjacent scores receiving different grades are not significantly different, per the author's statistical argument](grade-cutoffs-arbitrary-adjacent-scores.md) — related
 - [Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude](a-parameter-moderates-dif-detection-by-index.md) — related
 - [Lord's chi-square identified more DIF items than Raju's unsigned area in the without-purification condition](lords-chi-square-flags-more-dif-items-than-raju-ua.md) — related
-- [C-DIF was less stable than NC-DIF across simulated conditions](polytomous-c-dif-less-stable-than-nc-dif.md) — related
-- [The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions](polytomous-dfit-effective-dif-detection-simulation.md) — related
+- C-DIF was less stable than NC-DIF across simulated conditions — related
+- The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions — related
 - [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — related

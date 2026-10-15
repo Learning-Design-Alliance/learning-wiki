@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: naeimeh-bakshiri-2011
-    resource: "https://eric.ed.gov/?id=EJ1071093"
-    title: "Naeimeh Bakshiri, Arshya Keyvanfar. (2011). Time Matters: Proactive vs. Reactive FOF. i-manager's Journal of English Language Teaching, Vol. 1 No. 2, April - June 2011. https://eric.ed.gov/?id=EJ1071093"
+    resource: "https://doi.org/10.26634/jelt.1.2.1457"
+    title: "Naeimeh Bakshiri, Arshya Keyvanfar. (2011). Time Matters: Proactive vs. Reactive FOF. i-manager's Journal of English Language Teaching, Vol. 1 No. 2, April - June 2011. https://eric.ed.gov/?id=EJ1071093 [doi:10.26634/jelt.1.2.1457](https://doi.org/10.26634/jelt.1.2.1457)"
     author: Naeimeh Bakshiri, Arshya Keyvanfar
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Naeimeh Bakshiri 2011
 
-Naeimeh Bakshiri, Arshya Keyvanfar. (2011). Time Matters: Proactive vs. Reactive FOF. i-manager's Journal of English Language Teaching, Vol. 1 No. 2, April - June 2011. https://eric.ed.gov/?id=EJ1071093
+Naeimeh Bakshiri, Arshya Keyvanfar. (2011). Time Matters: Proactive vs. Reactive FOF. i-manager's Journal of English Language Teaching, Vol. 1 No. 2, April - June 2011. https://eric.ed.gov/?id=EJ1071093 [doi:10.26634/jelt.1.2.1457](https://doi.org/10.26634/jelt.1.2.1457)
 
 `q2 · i?` · `causal · r2`
 

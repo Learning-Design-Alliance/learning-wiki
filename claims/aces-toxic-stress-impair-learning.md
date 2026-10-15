@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: darling-hammond-2018
-    resource: "https://learningpolicyinstitute.org/product/educating-whole-child"
-    title: "Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child"
+    resource: "https://doi.org/10.54300/145.655"
+    title: "Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child [doi:10.54300/145.655](https://doi.org/10.54300/145.655)"
     author: "Darling-Hammond, L., & Cook-Harvey, C. M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r1` · `q2`
+> **Evidence** · 2 studies · 2 review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Chronic stress from adversity negatively affects brain structures and causes trouble with attention, concentration, memory, and creativity. [→ Darling-Hammond 2018](#darling-hammond-2018)
@@ -40,7 +40,7 @@ sources:
 
 ### Darling-Hammond 2018
 
-Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child
+Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child [doi:10.54300/145.655](https://doi.org/10.54300/145.655)
 
 `q2 · i?` · `review · r1`
 
@@ -71,4 +71,4 @@ The report presents the Center on the Developing Child at Harvard University's i
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — related
 - [The report claims six core SoLD findings should reshape teacher preparation, including that the brain is malleable, variability is the norm, and relationships catalyze learning](sold-core-findings-reshape-teacher-preparation.md) — related
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — related
-- [Teachers report that disruptive behaviors of students in foster care are easily misinterpreted and that purely disciplinary responses can make things worse](misread-behaviors-discipline-backfire-foster-care.md) — related
+- Teachers report that disruptive behaviors of students in foster care are easily misinterpreted and that purely disciplinary responses can make things worse — related

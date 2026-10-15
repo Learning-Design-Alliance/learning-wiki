@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rajesh-kumar-2026
-    resource: "https://arxiv.org/abs/2609.26687"
-    title: "Rajesh Kumar, Nabeel Siddiqui, Alexander Fuchsberger. (2026). Detecting GPT-Assisted Writing Using Interpretable Stylometric Features. https://arxiv.org/abs/2609.26687"
+    resource: "https://doi.org/10.48550/arxiv.2609.26687"
+    title: "Rajesh Kumar, Nabeel Siddiqui, Alexander Fuchsberger. (2026). Detecting GPT-Assisted Writing Using Interpretable Stylometric Features. https://arxiv.org/abs/2609.26687 [doi:10.48550/arxiv.2609.26687](https://doi.org/10.48550/arxiv.2609.26687)"
     author: Rajesh Kumar, Nabeel Siddiqui, Alexander Fuchsberger
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rajesh Kumar 2026
 
-Rajesh Kumar, Nabeel Siddiqui, Alexander Fuchsberger. (2026). Detecting GPT-Assisted Writing Using Interpretable Stylometric Features. https://arxiv.org/abs/2609.26687
+Rajesh Kumar, Nabeel Siddiqui, Alexander Fuchsberger. (2026). Detecting GPT-Assisted Writing Using Interpretable Stylometric Features. https://arxiv.org/abs/2609.26687 [doi:10.48550/arxiv.2609.26687](https://doi.org/10.48550/arxiv.2609.26687)
 
 `q2 · i?` · `design · r2`
 

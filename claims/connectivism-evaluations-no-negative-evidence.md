@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Across the surveyed papers where connectivism was explicitly evaluated, in no case did the evidence mitigate against connectivism; most outcomes were positive or at worst neutral. [→ Downes 2019](#downes-2019)
@@ -44,7 +45,7 @@ The author's interpretive survey of 44 openly accessible papers referencing conn
 
 ## Related Claims
 - [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — a narrower finding that bears on this claim
-- [Critics argue connectivism cannot explain concept formation or development, invoking the learning paradox](connectivism-cannot-explain-concept-development.md) — related
-- [A connectivism instructional method was significantly more effective than the grammar-translation method for EFL academic engagement](connectivism-method-beats-grammar-translation.md) — a narrower finding that bears on this claim
+- Critics argue connectivism cannot explain concept formation or development, invoking the learning paradox — related
+- A connectivism instructional method was significantly more effective than the grammar-translation method for EFL academic engagement — a narrower finding that bears on this claim
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — reports the opposite
-- [Connectivism-based training produced higher academic self-efficacy and task value than CLT in an EFL experiment](connectivism-raises-motivational-beliefs-vs-clt.md) — a narrower finding that bears on this claim
+- Connectivism-based training produced higher academic self-efficacy and task value than CLT in an EFL experiment — a narrower finding that bears on this claim

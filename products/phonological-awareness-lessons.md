@@ -18,7 +18,7 @@ sources:
 # Phonological Awareness Lessons
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q4` · 2 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Phonological Awareness Lessons is an explicit, systematic phonological-awareness curriculum for Pre-K through first grade, developed for use by teachers supporting foundational reading skills.
@@ -27,9 +27,6 @@ Phonological Awareness Lessons is an explicit, systematic phonological-awareness
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Across two studies of PA Lessons, the average effect size on Acadience Reading composite scores is +0.49, with both studies rated Moderate](../claims/pa-lessons-average-effect-size-049.md) [+M]
-- [Kindergarten students in schools using PA Lessons showed significantly increased Acadience Reading composite scores compared to comparison schools (effect size +0.21)](../claims/pa-lessons-study1-acadience-es-021.md) [+W]
-- [A second study replicated the benefit of PA Lessons on Acadience Reading composite scores with a larger effect size (+0.74)](../claims/pa-lessons-study2-acadience-es-074.md) [+W]
 - [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M]
 
 ## Related Products and Programmes
@@ -66,9 +63,6 @@ Phonological Awareness Lessons is the instructional program evaluated in the two
 
 ## Claims
 
-- [Across two studies of PA Lessons, the average effect size on Acadience Reading composite scores is +0.49, with both studies rated Moderate](../claims/pa-lessons-average-effect-size-049.md) [+M]
-- [Kindergarten students in schools using PA Lessons showed significantly increased Acadience Reading composite scores compared to comparison schools (effect size +0.21)](../claims/pa-lessons-study1-acadience-es-021.md) [+W]
-- [A second study replicated the benefit of PA Lessons on Acadience Reading composite scores with a larger effect size (+0.74)](../claims/pa-lessons-study2-acadience-es-074.md) [+W]
 - [Phonemic Awareness Training Improves Reading](../claims/phonemic-awareness-training-improves-reading.md) [+M]
 
 ## Related Elements

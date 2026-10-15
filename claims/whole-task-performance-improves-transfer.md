@@ -55,7 +55,7 @@ This article presents a training-design approach rather than a new study. Drawin
 | [Khan Abdus Salam 2025](https://doi.org/10.7759/cureus.94133) | q2 · causal · r1 | i? | [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the diff](osce-advantage-4cid-not-significant.md) (qualifies); [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emerg](no-knowledge-difference-lecture-vs-4cid-consent-training.md) (qualifies) |
 | M. David Merrill 2007 | q1 · theoretical · r3 | i? | [In one trial, task-centered Entrepreneur course students analyzed a new business as well a](entrepreneur-course-trial-matches-business-majors.md) (supports) |
 | [Pollock et al. 2002](<https://doi.org/10.1016/s0959-4752(01)00016-0>) | q3 · causal · r? | i? | [Part-task practice reduces cognitive load for absolute novices during initial skill acquis](part-task-practice-reduces-load-for-novices.md) (qualifies) |
-| Bill VanPatten 2010 | q1 · theoretical · r3 | i? | [Skill develops through engaging in the target activity itself, not through mechanistic dri](skill-develops-through-engagement-not-drill.md) (supports) |
+| [Bill VanPatten 2010](https://doi.org/10.6018/ijes/2010/1/113951) | q1 · theoretical · r3 | i? | [Skill develops through engaging in the target activity itself, not through mechanistic dri](skill-develops-through-engagement-not-drill.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

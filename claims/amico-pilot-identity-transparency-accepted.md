@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: pier-paolo-benedetti-2026
-    resource: "https://arxiv.org/abs/2605.20665"
-    title: "Pier Paolo Benedetti. (2026). Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China. Accepted at the 2026 International Conference on Artificial Intelligence and Education (ICAIE 2026), IEEE. https://arxiv.org/abs/2605.20665"
+    resource: "https://doi.org/10.48550/arxiv.2605.20665"
+    title: "Pier Paolo Benedetti. (2026). Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China. Accepted at the 2026 International Conference on Artificial Intelligence and Education (ICAIE 2026), IEEE. https://arxiv.org/abs/2605.20665 [doi:10.48550/arxiv.2605.20665](https://doi.org/10.48550/arxiv.2605.20665)"
     author: Pier Paolo Benedetti
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pier Paolo Benedetti 2026
 
-Pier Paolo Benedetti. (2026). Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China. Accepted at the 2026 International Conference on Artificial Intelligence and Education (ICAIE 2026), IEEE. https://arxiv.org/abs/2605.20665
+Pier Paolo Benedetti. (2026). Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China. Accepted at the 2026 International Conference on Artificial Intelligence and Education (ICAIE 2026), IEEE. https://arxiv.org/abs/2605.20665 [doi:10.48550/arxiv.2605.20665](https://doi.org/10.48550/arxiv.2605.20665)
 
 `q2 · i?` · `design · r2`
 

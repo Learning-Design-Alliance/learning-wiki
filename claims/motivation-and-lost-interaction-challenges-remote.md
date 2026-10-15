@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: means-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
-    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
+    resource: "https://doi.org/10.51388/20.500.12265/98"
+    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)"
     author: Means, B., and Neisler, J., with Langer Research Associates
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
+> **Evidence** · 2 studies · 2 associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Seventy-nine percent of students cited staying motivated as a problem (42 percent major, 37 percent minor); other common challenges were finding a quiet place (55 percent), home/family responsibilities (54 percent), and not knowing where to get help (54 percent). [→ Means 2020](#means-2020)
@@ -40,7 +40,7 @@ sources:
 
 ### Means 2020
 
-Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e
+Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)
 
 `q3 · i?` · `associational · r2`
 
@@ -62,8 +62,8 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 
 
 ## Related Claims
-- [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](covid-stem-collaboration-reduced-remote.md) — related
-- [Staying motivated was the most prevalent non-technology challenge to completing STEM courses at a distance, reported as a major problem by 45% of students](covid-stem-motivation-top-challenge.md) — related
+- Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online — related
+- Staying motivated was the most prevalent non-technology challenge to completing STEM courses at a distance, reported as a major problem by 45% of students — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related
 - [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation](personal-messages-largest-satisfaction-effect.md) — related
@@ -72,7 +72,7 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — a broader claim this one bears on
 - [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](remote-shift-reduced-collaborative-learning.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — possibly the same claim (merge candidate)
-- [Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%)](problems-attributed-unplanned-move-not-online-learning.md) — related
+- Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%) — related
 - [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](hero-elementary-training-discussion-facilitation-online-resources-challenge.md) — related
 - [Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance](engagement-benefits-satisfaction-motivation-isolation-performance.md) — related
 - [Pedagogical challenges inherent in distance and online learning must be considered in instructional design and software development](pedagogical-challenges-distance-learning-design-software.md) — a broader claim this one bears on

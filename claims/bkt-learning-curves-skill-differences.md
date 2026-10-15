@@ -45,4 +45,4 @@ BKT learning curves (Figure 7) plot mean error rate against learning opportuniti
 ## Related Claims
 - [BKT estimates show most students mastered wind direction and air movement but few mastered wind speed, precipitation type, or amount](bkt-mastery-profile-weather-skills.md) — related
 - [DBN analysis shows wind direction and air movement reached the highest posterior mastery probabilities while other skills stayed flat or declined](dbn-posterior-mastery-over-time.md) — related
-- [Both BKT and DBN show high classification accuracy but low consistency for wind direction, cloud type, and air movement](classification-accuracy-high-consistency-low.md) — related
+- Both BKT and DBN show high classification accuracy but low consistency for wind direction, cloud type, and air movement — related

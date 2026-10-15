@@ -17,7 +17,7 @@ sources:
 # School-community-family partnership pattern pairing tutoring dosage with regular family contact
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The program's design pattern combines a minimum tutoring dosage with structured family outreach: "FF sites are expected to provide students with a minimum of three 30-minute tutoring sessions per week and to communicate with families at least two times per month." Tutoring is individualized, with sessions varying "based on the skills and interests of the students," while the family engagement coordinator runs monthly family events and ongoing contacts to support literacy development outside school.
@@ -39,8 +39,6 @@ The program's design pattern combines a minimum tutoring dosage with structured 
 - Foundational literacy skills including phonological awareness, reading, and writing
 
 ### Claims
-- [Future Forward Rct Literacy Gains](../claims/future-forward-rct-literacy-gains.md) [+M]
-- [Future Forward Covid Modified Nonsignificant Effect](../claims/future-forward-covid-modified-nonsignificant-effect.md) [~M]
 
 ## Related Designs
 - 

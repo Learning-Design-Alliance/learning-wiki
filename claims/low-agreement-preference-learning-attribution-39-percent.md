@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: isabel-molnar-2026
-    resource: "https://arxiv.org/abs/2603.18189"
-    title: "Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla. (2026). TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors. https://arxiv.org/abs/2603.18189"
+    resource: "https://doi.org/10.48550/arxiv.2603.18189"
+    title: "Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla. (2026). TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors. https://arxiv.org/abs/2603.18189 [doi:10.48550/arxiv.2603.18189](https://doi.org/10.48550/arxiv.2603.18189)"
     author: Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Isabel Molnar 2026
 
-Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla. (2026). TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors. https://arxiv.org/abs/2603.18189
+Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla. (2026). TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors. https://arxiv.org/abs/2603.18189 [doi:10.48550/arxiv.2603.18189](https://doi.org/10.48550/arxiv.2603.18189)
 
 `q2 · i?` · `associational · r1`
 

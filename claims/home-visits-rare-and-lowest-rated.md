@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Only 10% of parents said their school offered home visits last year, and among those with access, only about 80% thought the visits were done well — the lowest rating of any engagement resource or activity. [→ Morgan 2024](#morgan-2024)
@@ -63,4 +64,4 @@ Survey 2 subgroup comparison reported alongside Figure 2, which breaks down help
 ## Related Claims
 
 - [Teachers who took part in funds of knowledge household research came to view their minority students as competent and raised their expectations of them.](funds-of-knowledge-research-raises-teacher-expectations.md) — the general claim this finding bears on, with the studies behind it
-- [Two-thirds of parents want at least some virtual engagement programming to continue, with Black and multilingual parents most likely to prefer virtual options](parents-want-virtual-engagement-continued.md) — related
+- Two-thirds of parents want at least some virtual engagement programming to continue, with Black and multilingual parents most likely to prefer virtual options — related

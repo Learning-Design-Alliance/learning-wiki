@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: esposito-2026
-    resource: "https://arxiv.org/abs/2604.27618"
-    title: "Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618"
+    resource: "https://doi.org/10.48550/arxiv.2604.27618"
+    title: "Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618 [doi:10.48550/arxiv.2604.27618](https://doi.org/10.48550/arxiv.2604.27618)"
     author: "Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Esposito 2026
 
-Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618
+Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618 [doi:10.48550/arxiv.2604.27618](https://doi.org/10.48550/arxiv.2604.27618)
 
 `q2 · i?` · `design · r2`
 
@@ -43,5 +43,5 @@ Fallacy classification of Task 1 explanations (Q4–Q6) using a DistilBERT falla
 
 
 ## Related Claims
-- [Family-level permutation tests do not detect reliable reasoning-versus-non-reasoning differences in accuracy, refusal, or consistency](family-permutation-tests-null-differences.md) — related
+- Family-level permutation tests do not detect reliable reasoning-versus-non-reasoning differences in accuracy, refusal, or consistency — related
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related

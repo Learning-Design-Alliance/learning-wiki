@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jonathan-schweig-2022
-    resource: "https://www.nwea.org/research/publication/changes-in-school-composition-during-the-covid-19-pandemic-implications-for-school-average-interim-test-score-use/"
-    title: "Jonathan Schweig, Megan Kuhfeld, Andrew McEachin, Melissa Diliberti, Louis Mariano. (2022). Changes in school composition during the COVID-19 pandemic: Implications for school-average interim test score use. NWEA Research. https://www.nwea.org/research/publication/changes-in-school-composition-during-the-covid-19-pandemic-implications-for-school-average-interim-test-score-use/"
+    resource: "https://doi.org/10.7249/rra1037-2"
+    title: "Jonathan Schweig, Megan Kuhfeld, Andrew McEachin, Melissa Diliberti, Louis Mariano. (2022). Changes in school composition during the COVID-19 pandemic: Implications for school-average interim test score use. NWEA Research. https://www.nwea.org/research/publication/changes-in-school-composition-during-the-covid-19-pandemic-implications-for-school-average-interim-test-score-use/ [doi:10.7249/rra1037-2](https://doi.org/10.7249/rra1037-2)"
     author: Jonathan Schweig, Megan Kuhfeld, Andrew McEachin, Melissa Diliberti, Louis Mariano
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jonathan Schweig 2022
 
-Jonathan Schweig, Megan Kuhfeld, Andrew McEachin, Melissa Diliberti, Louis Mariano. (2022). Changes in school composition during the COVID-19 pandemic: Implications for school-average interim test score use. NWEA Research. https://www.nwea.org/research/publication/changes-in-school-composition-during-the-covid-19-pandemic-implications-for-school-average-interim-test-score-use/
+Jonathan Schweig, Megan Kuhfeld, Andrew McEachin, Melissa Diliberti, Louis Mariano. (2022). Changes in school composition during the COVID-19 pandemic: Implications for school-average interim test score use. NWEA Research. https://www.nwea.org/research/publication/changes-in-school-composition-during-the-covid-19-pandemic-implications-for-school-average-interim-test-score-use/ [doi:10.7249/rra1037-2](https://doi.org/10.7249/rra1037-2)
 
 `q1 · i?` · `associational · r?`
 

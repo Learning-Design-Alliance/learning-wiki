@@ -18,7 +18,7 @@ sources:
 # STARI
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A supplemental, multicomponent reading intervention for struggling middle-school readers, developed by the Strategic Education Research Partnership (SERP) and delivered through thematic units during the school day.
@@ -29,7 +29,6 @@ A supplemental, multicomponent reading intervention for struggling middle-school
 - **Four types of peer collaboration embedded in a reading intervention**: STARI was designed to promote social interactions that foster student engagement, structuring peer collaboration in four recurring formats across its units. The program "uses four types of peer collaboration: partner-assisted fluency practice, reciprocal teaching of comprehension strategies, partner reading and responding to novels and nonfiction texts, and peer debate, in which teams gather text evidence and build arguments." Peer contexts also push students to articulate personal stances on texts and compare them with partners or classmates. (Strategic Adolescent Reading Intervention (STARI) program evidence summary (2024))
 
 ### Claims
-- [One year of STARI significantly improves word recognition, basic reading comprehension efficiency, and morphological awareness in struggling middle school readers](../claims/stari-improves-word-recognition-comprehension-morphological-awareness.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -69,7 +68,6 @@ STARI is a supplemental, multicomponent reading intervention for middle school s
 
 ## Claims
 
-- [One year of STARI significantly improves word recognition, basic reading comprehension efficiency, and morphological awareness in struggling middle school readers](../claims/stari-improves-word-recognition-comprehension-morphological-awareness.md) [+W]
 
 ## Related Elements
 

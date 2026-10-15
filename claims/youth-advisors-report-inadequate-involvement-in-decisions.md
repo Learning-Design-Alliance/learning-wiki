@@ -45,4 +45,4 @@ Informational interviews with four youth advisors (Aisha Bilgrammi, Alexa Southa
 
 - [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — the general claim this finding bears on, with the studies behind it
 - [Community college students want to play a role in edtech evaluation and procurement decisions](ccc-students-want-role-in-edtech-evaluation.md) — related
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related

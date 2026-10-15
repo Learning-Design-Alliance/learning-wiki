@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The authors argue that preparing youth for contemporary work and technology requires teacher education covering both technical and human dimensions of enterprise. [→ Stadt 1970](#stadt-1970)
@@ -44,11 +45,11 @@ Position argument in the monograph's abstract, not an empirical test. The author
 
 ## Related Claims
 - [Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways](iei-implementation-gaps-boundary-conditions.md) — related
-- [The Man-Technology model replaces traditional industrial arts content areas with production, transportation, and communication](three-technology-areas-replace-traditional-industrial-arts.md) — related
-- [Industrial arts curricular change must be so extensive the field becomes unrecognizable as either industrial in scope or arts in substance](industrial-arts-unrecognizable-curricular-change.md) — related
-- [The fellowship team argued industrial arts education exemplifies a craft era and has failed to keep pace with technological change](industrial-arts-craft-era-inadequate-cybernetic-era.md) — related
-- [The fellowship team concluded that the study of man and technology is the most valid discipline base for industrial arts education](man-technology-valid-discipline-base-industrial-arts.md) — a broader claim this one bears on
-- [Schools must foster education that aids occupational and geographical mobility as job-changing becomes the norm](schools-foster-occupational-geographical-mobility.md) — related
-- [Information processing now consumes more societal effort than making goods and rendering services](information-processing-exceeds-goods-production-effort.md) — related
-- [By 1973, 70% of the US population lived in the nation's 247 Standard Metropolitan Statistical Areas](seventy-percent-population-in-metropolitan-areas.md) — related
+- The Man-Technology model replaces traditional industrial arts content areas with production, transportation, and communication — related
+- Industrial arts curricular change must be so extensive the field becomes unrecognizable as either industrial in scope or arts in substance — related
+- The fellowship team argued industrial arts education exemplifies a craft era and has failed to keep pace with technological change — related
+- The fellowship team concluded that the study of man and technology is the most valid discipline base for industrial arts education — a broader claim this one bears on
+- Schools must foster education that aids occupational and geographical mobility as job-changing becomes the norm — related
+- Information processing now consumes more societal effort than making goods and rendering services — related
+- By 1973, 70% of the US population lived in the nation's 247 Standard Metropolitan Statistical Areas — related
 - [Changing job requirements mean students must be prepared to change throughout their entire work lives](changing-job-requirements-students-prepared-for-change.md) — related

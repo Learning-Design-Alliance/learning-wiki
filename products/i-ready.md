@@ -18,7 +18,7 @@ sources:
 # i-Ready
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 i-Ready is Curriculum Associates' digital learning platform combining computer-adaptive Diagnostic assessments with personalized Reading and Mathematics instruction.
@@ -28,11 +28,6 @@ i-Ready is Curriculum Associates' digital learning platform combining computer-a
 - **i-Ready digital learning platform with adaptive diagnostic and personalized instruction**: i-Ready is a suite of instructional and assessment products by Curriculum Associates covering Reading and Mathematics. The i-Ready Diagnostic uses "computer-based adaptative testing" to assess students on four math domains and place them at grade levels in each. i-Ready Personalized Instruction uses diagnostic data to assign each student a personalized lesson sequence, "starting from the domain where the student placed the lowest," intended to supplement classroom teachers' instruction. (Ana Paula Melo et al. (2024))
 
 ### Claims
-- [Students initially placed below grade level complete an increasing share of on-or-above-grade-level lessons as they approach the winter diagnostic](../claims/below-grade-students-advance-toward-grade-level-content.md) [+W]
-- [The i-Ready platform allocates more lessons toward the domain where a student is placed below grade level, with the strongest differentiation in Algebra and Algebraic Thinking](../claims/dlp-allocates-more-lessons-to-domain-of-need.md) [+W]
-- [The share of on-or-above-grade-level lessons a student completes rises with the number of domains in which the student is placed on or above grade level](../claims/on-grade-lesson-share-rises-with-domains-on-grade.md) [+W]
-- [Students on the platform tend to improve over the year, with 57 percent placed on or above grade level by spring versus 20 percent in fall](../claims/placement-improves-fall-to-spring.md) [+W]
-- [Students complete a similar number of lessons and total time on the platform regardless of their fall placement level](../claims/similar-lesson-quantity-regardless-of-placement.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,11 +61,6 @@ i-Ready is a suite of instructional and assessment products by Curriculum Associ
 
 ## Claims
 
-- [Students initially placed below grade level complete an increasing share of on-or-above-grade-level lessons as they approach the winter diagnostic](../claims/below-grade-students-advance-toward-grade-level-content.md) [+W]
-- [The i-Ready platform allocates more lessons toward the domain where a student is placed below grade level, with the strongest differentiation in Algebra and Algebraic Thinking](../claims/dlp-allocates-more-lessons-to-domain-of-need.md) [+W]
-- [The share of on-or-above-grade-level lessons a student completes rises with the number of domains in which the student is placed on or above grade level](../claims/on-grade-lesson-share-rises-with-domains-on-grade.md) [+W]
-- [Students on the platform tend to improve over the year, with 57 percent placed on or above grade level by spring versus 20 percent in fall](../claims/placement-improves-fall-to-spring.md) [+W]
-- [Students complete a similar number of lessons and total time on the platform regardless of their fall placement level](../claims/similar-lesson-quantity-regardless-of-placement.md) [+W]
 
 ## Related Elements
 

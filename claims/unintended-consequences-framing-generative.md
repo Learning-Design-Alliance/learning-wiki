@@ -46,6 +46,6 @@ Authors' interpretation of the case-study dialogue: considering how the PECAS Me
 - [Interdisciplinary collaboration is fundamentally relational; tools assist but relationships make or break it](collaboration-fundamentally-relational.md) — related
 - [First-time computer scientist users' contributions fit naturally into the adapted conjecture map format](conjecture-map-familiar-to-computer-scientists.md) — related
 - [Collaborative conjecture map construction surfaced a tension between nuanced learning theory and limited technical capability](conjecture-map-surfaces-theory-technical-tension.md) — possibly the same claim (merge candidate)
-- [Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students](edm-learning-analytics-practice-concerns.md) — related
+- Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students — related
 - [Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design](instructors-part-of-the-solution-frameshift.md) — related
 - [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related

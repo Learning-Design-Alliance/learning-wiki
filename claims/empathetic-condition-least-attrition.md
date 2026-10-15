@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: li-siyan-2026
-    resource: "https://arxiv.org/abs/2606.26641"
-    title: "Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641"
+    resource: "https://doi.org/10.48550/arxiv.2606.26641"
+    title: "Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641 [doi:10.48550/arxiv.2606.26641](https://doi.org/10.48550/arxiv.2606.26641)"
     author: Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Li Siyan 2026
 
-Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641
+Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, and Zhou Yu. (2026). Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions. https://arxiv.org/abs/2606.26641 [doi:10.48550/arxiv.2606.26641](https://doi.org/10.48550/arxiv.2606.26641)
 
 `q2 · i?` · `causal · r1`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: li-li-2025
-    resource: "https://arxiv.org/abs/2606.09598"
-    title: "Li Li, Yu Cao. (2025). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598"
+    resource: "https://doi.org/10.48550/arxiv.2606.09598"
+    title: "Li Li, Yu Cao. (2025). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598 [doi:10.48550/arxiv.2606.09598](https://doi.org/10.48550/arxiv.2606.09598)"
     author: Li Li, Yu Cao
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Reflection on a prediction failure shifted students' isomorphism awareness from structural recognition to boundary awareness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r1` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r1` · `q2`
 
 ## Subclaims
 `q2 i?` When an anomaly (an opened flask lid) made the AI's prediction deviate from the actual value, students attributed the error to contextual information missing from the model's data, showing understanding that human inference can complement AI prediction. [→ Li Li 2025](#li-li-2025)
@@ -39,7 +39,7 @@ sources:
 
 ### Li Li 2025
 
-Li Li, Yu Cao. (2025). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598
+Li Li, Yu Cao. (2025). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction, A Case Study of the Compound Line Graph. https://arxiv.org/abs/2606.09598 [doi:10.48550/arxiv.2606.09598](https://doi.org/10.48550/arxiv.2606.09598)
 
 `q2 · i?` · `qualitative · r1`
 

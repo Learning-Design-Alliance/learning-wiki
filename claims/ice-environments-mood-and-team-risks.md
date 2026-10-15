@@ -43,6 +43,6 @@ Narrative review attribution: the review reports, citing Antarctic and Mars-anal
 
 
 ## Related Claims
-- [Persons with high self esteem and high social interest sustain extended exchange under conflict, while low self esteem persons withdraw prematurely](high-self-esteem-sustains-exchange-under-conflict.md) — related
-- [Conflict devolves to aggression toward self or other under reduced self esteem and social interest](conflict-devolves-to-aggression-low-self-esteem.md) — related
-- [Open groups are proposed to incur and sustain conflict more easily than closed groups](open-groups-incur-conflict-more-easily-than-closed.md) — related
+- Persons with high self esteem and high social interest sustain extended exchange under conflict, while low self esteem persons withdraw prematurely — related
+- Conflict devolves to aggression toward self or other under reduced self esteem and social interest — related
+- Open groups are proposed to incur and sustain conflict more easily than closed groups — related

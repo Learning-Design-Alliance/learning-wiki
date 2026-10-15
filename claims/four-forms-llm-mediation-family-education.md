@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lan-luo-2026
-    resource: "https://arxiv.org/abs/2609.28886"
-    title: "Lan Luo, Yuqi Liang, Jie Cai, Anqi Wang, Dongyijie Primo Pan, Muzhi Zhou, Chun Yu, and Pan Hui. (2026). Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature. arXiv:2609.28886. https://arxiv.org/abs/2609.28886"
+    resource: "https://doi.org/10.48550/arxiv.2609.28886"
+    title: "Lan Luo, Yuqi Liang, Jie Cai, Anqi Wang, Dongyijie Primo Pan, Muzhi Zhou, Chun Yu, and Pan Hui. (2026). Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature. arXiv:2609.28886. https://arxiv.org/abs/2609.28886 [doi:10.48550/arxiv.2609.28886](https://doi.org/10.48550/arxiv.2609.28886)"
     author: Lan Luo, Yuqi Liang, Jie Cai, Anqi Wang, Dongyijie Primo Pan, Muzhi Zhou, Chun Yu, and Pan Hui
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lan Luo 2026
 
-Lan Luo, Yuqi Liang, Jie Cai, Anqi Wang, Dongyijie Primo Pan, Muzhi Zhou, Chun Yu, and Pan Hui. (2026). Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature. arXiv:2609.28886. https://arxiv.org/abs/2609.28886
+Lan Luo, Yuqi Liang, Jie Cai, Anqi Wang, Dongyijie Primo Pan, Muzhi Zhou, Chun Yu, and Pan Hui. (2026). Characterizing LLM-Based Family Education through the Lens of Activity Theory: A Scoping Review of the HCI Literature. arXiv:2609.28886. https://arxiv.org/abs/2609.28886 [doi:10.48550/arxiv.2609.28886](https://doi.org/10.48550/arxiv.2609.28886)
 
 `q2 · i?` · `review · r2`
 

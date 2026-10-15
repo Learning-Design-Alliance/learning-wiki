@@ -46,6 +46,6 @@ Reported in the discussion of the multilevel gain models, this treatment-by-week
 - [Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes](covariate-effects-pretest-attendance-eb-gains.md) — related
 - [Embedded cognitive flexibility practice showed no overall advantage over phonics alone on growth in decoding, encoding, or cognitive flexibility](embedded-cognitive-flexibility-no-overall-advantage-winter-kindergarten.md) — related
 - [Higher pretest cognitive flexibility predicted greater decoding gains and compensated for lower pretest alphabet knowledge](pretest-cognitive-flexibility-predicts-decoding-gains-compensates-alphabet.md) — related
-- [Higher tutoring attendance rates are associated with greater reading gains](ignite-reading-attendance-associated-gains.md) — related
+- Higher tutoring attendance rates are associated with greater reading gains — related
 - [In a rural district's flexible scheduling program, students used only 19 percent of daily flex-time for academic activities](flex-time-low-academic-use-rural-district.md) — related
 - [During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy](covid-volume-reading-growth-over-control.md) — related

@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` In the authors' earlier report on 20 kindergarteners, students giving a relational definition of the equal sign went from one before to nine after the intervention. [→ Sung 2022](#sung-2022)
@@ -62,10 +63,9 @@ Same earlier single-group study (Sung et al., 2021), summarised in this article:
 
 
 ## Related Claims
-- [Teacher Shifts Equal Sign Language With Kindergarten Lesson Focus](teacher-shifts-equal-sign-language-with-kindergarten-lesson-focus.md)
 - [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) — related
-- [The kindergarten teacher explicitly discussed the forms an equation can take (FORM) with the goal of expanding the range of equations students would accept as valid](teacher-explicitly-discusses-equation-forms-to-widen-kindergarten-acceptance.md) — related
-- [A combined language-gesture move, saying \"is the same as\" while pointing to the sides of an equation (ISA + GSIDES), occurred rather frequently in the kindergarten lessons where students wrote equations](is-the-same-as-with-sides-gesture-combination-in-kindergarten-equation-talk.md) — related
+- The kindergarten teacher explicitly discussed the forms an equation can take (FORM) with the goal of expanding the range of equations students would accept as valid — related
+- A combined language-gesture move, saying \"is the same as\" while pointing to the sides of an equation (ISA + GSIDES), occurred rather frequently in the kindergarten lessons where students wrote equations — related
 - [Across seven kindergarten equivalence lessons, the teacher's sides-of-equation gesture (GSIDES) was coded 38 times, the most of any language or gesture code](gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons.md) — related
 - [A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations](answer-coming-equals-sign-misconception.md) — related
 - [Relational understandings of the equals sign are associated with middle grades mathematics success](relational-equals-sign-understanding-middle-grades-success.md) — related

@@ -17,7 +17,7 @@ sources:
 # Schedule daily 50-minute small-group sessions of three to five students with a bilingual certified teacher
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The implementable delivery recipe the article describes is that “Students meet daily for 50 minutes with a bilingual certified teacher in small groups of three to five students.” This format pairs daily frequency, a 50-minute session length, and very small groups staffed by bilingual certified teachers, and was the format used in the successful evaluations.
@@ -38,7 +38,6 @@ The implementable delivery recipe the article describes is that “Students meet
 
 ## Claims
 
-- [In real-world implementation, TSI students attended on average 25.5 of 50 scheduled tutoring sessions](../claims/tsi-attendance-half-of-scheduled-sessions.md) [~W]
 
 ## Related Strategies
 - 

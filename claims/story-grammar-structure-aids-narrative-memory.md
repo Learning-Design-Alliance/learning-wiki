@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Memory for narratives is superior when content is organized according to the stereotypical story grammar, and altering the structure results in poorer memory and lower comprehensibility ratings. [→ Armbruster 1982](#armbruster-1982)
@@ -64,5 +65,5 @@ The review attributes to Thorndyke (1977) the conclusion that "both rated compre
 ## Related Claims
 - [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related
 - [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related
-- [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
+- Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall — related
 - [Abrupt location or character changes mid-scenario co-occur with the lowest story-content coherence ratings](abrupt-setting-changes-lowest-coherence.md) — a narrower finding that bears on this claim

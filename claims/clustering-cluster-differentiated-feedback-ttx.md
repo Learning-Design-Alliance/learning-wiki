@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: v-švábenský-2026
-    resource: "https://arxiv.org/abs/2607.19209"
-    title: "V. Švábenský, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada. (2026). Assessment in Team Problem-Solving Exercises in Computing Education. Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.19209"
+    resource: "https://doi.org/10.48550/arxiv.2607.19209"
+    title: "V. Švábenský, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada. (2026). Assessment in Team Problem-Solving Exercises in Computing Education. Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.19209 [doi:10.48550/arxiv.2607.19209](https://doi.org/10.48550/arxiv.2607.19209)"
     author: V. Švábenský, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### V. Švábenský 2026
 
-V. Švábenský, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada. (2026). Assessment in Team Problem-Solving Exercises in Computing Education. Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.19209
+V. Švábenský, J. Vykopal, S. Leelaluk, P. Čeleda, F. Okubo, A. Shimada. (2026). Assessment in Team Problem-Solving Exercises in Computing Education. Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.19209 [doi:10.48550/arxiv.2607.19209](https://doi.org/10.48550/arxiv.2607.19209)
 
 `q2 · i?` · `design · r2`
 

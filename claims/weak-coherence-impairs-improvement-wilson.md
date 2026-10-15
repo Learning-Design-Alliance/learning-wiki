@@ -44,4 +44,4 @@ Case study of Wilson school from the 11-school Chicago Annenberg field study, ba
 
 ## Related Claims
 - [High-performing CHSRI schools shared four practices for guiding and sustaining instructional improvement: defining leadership responsibilities, creatively distributing them, institutionalizing routines, and focusing team work on school-wide goals](chsri-four-improvement-practices.md) — related
-- [Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools](disadvantaged-schools-with-supports-improve-equally.md) — related
+- Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools — related

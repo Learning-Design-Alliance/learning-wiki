@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: globerson-2026
-    resource: "https://arxiv.org/abs/2609.15864"
-    title: "Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864"
+    resource: "https://doi.org/10.48550/arxiv.2609.15864"
+    title: "Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864 [doi:10.48550/arxiv.2609.15864](https://doi.org/10.48550/arxiv.2609.15864)"
     author: Globerson, A., Keeling, A., Choudhury, A., et al
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Globerson 2026
 
-Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864
+Globerson, A., Keeling, A., Choudhury, A., et al. (2026). Towards Scalable Measurement of Durable Skills. https://arxiv.org/abs/2609.15864 [doi:10.48550/arxiv.2609.15864](https://doi.org/10.48550/arxiv.2609.15864)
 
 `q1 · i?` · `causal · r2`
 

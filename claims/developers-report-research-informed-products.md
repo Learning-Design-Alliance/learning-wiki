@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In a study of ed tech developers, 90 percent reported that their products are informed by research, yet purchasers often cannot determine what the research was or how to evaluate it. [→ Digital Promise 2015](#digital-promise-2015)
@@ -45,4 +46,4 @@ The guide cites a recent study of ed tech developers in which "90 percent report
 
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — the general claim this finding bears on, with the studies behind it
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related
-- [Technology directors are the least likely to trust evidence from providers, with only 29 percent satisfied with the credibility of provider evidence](technology-directors-distrust-provider-evidence.md) — related
+- Technology directors are the least likely to trust evidence from providers, with only 29 percent satisfied with the credibility of provider evidence — related

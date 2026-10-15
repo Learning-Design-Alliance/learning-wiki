@@ -112,13 +112,13 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
 - [Peer-assisted learning interventions improve achievement for elementary students](peer-assisted-learning-improves-achievement.md) — related
 - [Cross-age peer tutoring by either bilingual or English-only tutors shows no statistically significant effect on oral language proficiency (Serrano, 1987)](cross-level-peer-tutoring-null-oral-proficiency.md) — a narrower finding that bears on this claim
-- [GO Tutor Corps high-impact math tutoring produced significantly greater mathematics achievement gains than no tutoring for matched grade 6-10 students](go-tutor-corps-math-tutoring-positive-gains.md) — a narrower finding that bears on this claim
+- GO Tutor Corps high-impact math tutoring produced significantly greater mathematics achievement gains than no tutoring for matched grade 6-10 students — a narrower finding that bears on this claim
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — related
-- [Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes](meta-analytic-moderate-large-effects-collaborative-learning.md) — related
+- Meta-analytic studies show moderate to large effect sizes for collaborative learning on both achievement and attitudes — related
 - [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on
-- [Tennessee's education department notes tutoring during the school day is more effective than before- or after-school programming](tutoring-during-school-day-more-effective.md) — a narrower finding that bears on this claim
-- [Summary research table reports tutoring impacts of roughly 90 to 222 days of additional learning across five studies](tutoring-impact-days-summary-table.md) — related
-- [A recent meta-analysis of 14 types of educational interventions found high-impact tutoring the most effective at improving student achievement](tutoring-most-effective-intervention-meta-analysis.md) — related
+- Tennessee's education department notes tutoring during the school day is more effective than before- or after-school programming — a narrower finding that bears on this claim
+- Summary research table reports tutoring impacts of roughly 90 to 222 days of additional learning across five studies — related
+- A recent meta-analysis of 14 types of educational interventions found high-impact tutoring the most effective at improving student achievement — related
 - [Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention](its-gradual-trend-not-intervention-effect.md) — related
 - [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — a narrower finding that bears on this claim
 - [Social learning theory](../theories/social-learning-theory.md) — social accountability and modeling explain tutor-side motivation gains

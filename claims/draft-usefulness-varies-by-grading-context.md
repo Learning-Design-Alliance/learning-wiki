@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mahinpei-2026
-    resource: "https://arxiv.org/abs/2606.03095"
-    title: "Mahinpei, R., Dean, V., Fong, R., Liu, L. T., & Ribeiro, M. H. (2026). AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education. arXiv. https://arxiv.org/abs/2606.03095"
+    resource: "https://doi.org/10.48550/arxiv.2606.03095"
+    title: "Mahinpei, R., Dean, V., Fong, R., Liu, L. T., & Ribeiro, M. H. (2026). AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education. arXiv. https://arxiv.org/abs/2606.03095 [doi:10.48550/arxiv.2606.03095](https://doi.org/10.48550/arxiv.2606.03095)"
     author: "Mahinpei, R., Dean, V., Fong, R., Liu, L. T., & Ribeiro, M. H."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mahinpei 2026
 
-Mahinpei, R., Dean, V., Fong, R., Liu, L. T., & Ribeiro, M. H. (2026). AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education. arXiv. https://arxiv.org/abs/2606.03095
+Mahinpei, R., Dean, V., Fong, R., Liu, L. T., & Ribeiro, M. H. (2026). AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education. arXiv. https://arxiv.org/abs/2606.03095 [doi:10.48550/arxiv.2606.03095](https://doi.org/10.48550/arxiv.2606.03095)
 
 `q2 · i?` · `causal · r2`
 

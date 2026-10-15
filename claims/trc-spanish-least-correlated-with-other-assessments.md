@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: allensworth-2026
-    resource: "https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills"
-    title: "Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills"
+    resource: "https://doi.org/10.1080/19345747.2026.2636957"
+    title: "Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills [doi:10.1080/19345747.2026.2636957](https://doi.org/10.1080/19345747.2026.2636957)"
     author: "Allensworth, E., Gordon, A. & Young, C."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Allensworth 2026
 
-Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills
+Allensworth, E., Gordon, A. & Young, C. (2026). Combining early grade assessments to study literacy skills: Addressing the variability in tests taken across schools and students. Journal of Research on Educational Effectiveness, 19(1), 1-26. https://consortium.uchicago.edu/publications/combining-early-grade-assessments-to-study-literacy-skills [doi:10.1080/19345747.2026.2636957](https://doi.org/10.1080/19345747.2026.2636957)
 
 `q2 · i?` · `associational · r2`
 

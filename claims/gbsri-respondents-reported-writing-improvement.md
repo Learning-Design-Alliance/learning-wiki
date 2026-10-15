@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: wiboonwachara-2022
-    resource: "https://so01.tci-thaijo.org/index.php/reflections"
-    title: "Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections"
+    resource: "https://doi.org/10.61508/refl.v29i3.262658"
+    title: "Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections [doi:10.61508/refl.v29i3.262658](https://doi.org/10.61508/refl.v29i3.262658)"
     author: "Wiboonwachara, L., & Charubusp, S."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Wiboonwachara 2022
 
-Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections
+Wiboonwachara, L., & Charubusp, S. (2022). Implementing Genre-Based Self-Regulated Instruction (GBSRI) to Enhance the English Writing Ability of Thai Undergraduate Students. rEFLections, 29(3). https://so01.tci-thaijo.org/index.php/reflections [doi:10.61508/refl.v29i3.262658](https://doi.org/10.61508/refl.v29i3.262658)
 
 `q2 · i?` · `causal · r1`
 
@@ -46,4 +46,4 @@ Open-ended questionnaire content analysis; respondents most preferred "collabora
 - [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related
 - [Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest](gbsri-positive-student-opinions-stage-ratings.md) — related
 - [Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — related
-- [Survey respondents most prefer presenting their information experientially rather than chronologically](experiential-presentation-preferred-chronological.md) — related
+- Survey respondents most prefer presenting their information experientially rather than chronologically — related

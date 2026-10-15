@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Students felt that using passed-around microphones tended to discourage some students from asking questions. [→ Heiliger 1972](#heiliger-1972)
@@ -43,6 +44,6 @@ Observational and student-reaction evidence from the last six lectures, which us
 
 
 ## Related Claims
-- [Students found one-hour telelectures too short and wanted more time for listening and questioning](one-hour-telelectures-too-short.md) — related
-- [Graduate students generally enjoyed a seminar taught through expert telelectures and telediscussion](telelecture-seminar-enjoyed-by-graduate-students.md) — related
-- [Students valued the up-to-dateness of telelectures and the chance to talk back to outstanding field experts](telelecture-up-to-dateness-and-talk-back-valued.md) — related
+- Students found one-hour telelectures too short and wanted more time for listening and questioning — related
+- Graduate students generally enjoyed a seminar taught through expert telelectures and telediscussion — related
+- Students valued the up-to-dateness of telelectures and the chance to talk back to outstanding field experts — related

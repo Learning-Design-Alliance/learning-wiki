@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zwickl-2013
-    resource: "https://arxiv.org/abs/1307.5760"
-    title: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760"
+    resource: "https://doi.org/10.48550/arxiv.1307.5760"
+    title: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760 [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)"
     author: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zwickl 2013
 
-Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
+Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760 [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
@@ -45,7 +45,7 @@ Validation study for the E-CLASS survey described in the design and validation s
 ## Related Claims
 
 - [Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research](asking-questions-key-scientific-practice-expert-consensus.md) — related
-- [Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result](class-descriptive-scores-favour-control-post-test.md) — related
+- Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result — related
 - [Distinguishing classroom and research contexts in survey questions was a key outcome of student validation interviews](context-clarification-validation-interviews.md) — related
 - [Students show a large epistemological split between classroom and research contexts on thinking up their own questions](eclass-epistemological-split-own-questions.md)
 - [Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response](eclass-low-response-rates-half-of-classes.md)

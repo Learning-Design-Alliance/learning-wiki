@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: berry-2019
-    resource: "https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3"
-    title: "Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3"
+    resource: "https://doi.org/10.51388/20.500.12265/104"
+    title: "Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3 [doi:10.51388/20.500.12265/104](https://doi.org/10.51388/20.500.12265/104)"
     author: "Berry, B., & Byrd, P. A."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Berry 2019
 
-Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3
+Berry, B., & Byrd, P. A. (2019). Micro-credentials and Education Policy in the United States: Recognizing Learning and Leadership for Our Nation's Teachers. Digital Promise. https://digitalpromise.dspacedirect.org/items/65a7d0ed-66b1-4d5b-ac51-6bcf25285dd3 [doi:10.51388/20.500.12265/104](https://doi.org/10.51388/20.500.12265/104)
 
 `q2 · i?` · `review · r2`
 
@@ -44,10 +44,10 @@ A document scan and state engagement conducted for the brief identified the name
 
 ## Related Claims
 - [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](micro-credentials-features-of-effective-professional-development.md) — related
-- [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](nine-states-ceus-no-coherent-valuation-framework.md) — related
+- Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials — related
 - [State policy activity toward competency-based and personalized learning is broad but shallow: seventeen states reached advanced adoption while most efforts remain limited to pilots](state-cbl-policy-activity-pilots-limited.md) — a broader claim this one bears on
 - [State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns](state-directors-micro-credential-concerns.md) — related
-- [As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential](dp-ecosystem-2017-submission-uptake.md) — related
-- [In Kettle Moraine School District, about 80 percent of teachers earned at least one pre-approved micro-credential over three years, raising base salaries by $100 to $600](kettle-moraine-salary-linked-micro-credential-adoption.md) — related
+- As of mid-2017 the Digital Promise micro-credential ecosystem had drawn over 5,000 submissions from educators in approximately 550 districts, with about 55 percent of portfolio submitters awarded a micro-credential — related
+- In Kettle Moraine School District, about 80 percent of teachers earned at least one pre-approved micro-credential over three years, raising base salaries by $100 to $600 — related
 - [Potential early adopters of micro-credentials are driven by intrinsic motivations and heavy informal professional learning, while late adopters are more experienced and driven by extrinsic motivations](early-vs-late-adopter-motivation-profiles.md) — related
-- [Micro-credential reflections push educators toward metacognition and self-evaluation](micro-credential-reflections-metacognition.md) — related
+- Micro-credential reflections push educators toward metacognition and self-evaluation — related

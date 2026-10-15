@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: norah-almousa-2026
-    resource: "https://arxiv.org/abs/2609.28026"
-    title: "Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman. (2026). Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing. arXiv preprint. https://arxiv.org/abs/2609.28026"
+    resource: "https://doi.org/10.48550/arxiv.2609.28026"
+    title: "Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman. (2026). Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing. arXiv preprint. https://arxiv.org/abs/2609.28026 [doi:10.48550/arxiv.2609.28026](https://doi.org/10.48550/arxiv.2609.28026)"
     author: Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Norah Almousa 2026
 
-Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman. (2026). Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing. arXiv preprint. https://arxiv.org/abs/2609.28026
+Norah Almousa, Shayan Peyghambari Oskoui, Raquel Coelho, Gayle Rogers, Xiang Lorraine Li, Diane Litman. (2026). Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing. arXiv preprint. https://arxiv.org/abs/2609.28026 [doi:10.48550/arxiv.2609.28026](https://doi.org/10.48550/arxiv.2609.28026)
 
 `q2 · i?` · `design · r2`
 
@@ -45,6 +45,6 @@ Comparison of six LLMs prompted under zero-shot, zero-shot with category names a
 ## Related Claims
 - [LLMs cover most teacher feedback focus types but fail to match teacher feedback focus distributions, with LearnLM closest](llms-cover-types-but-mismatch-teacher-distributions.md) — related
 - [Reasoning-capable model variants and chain-of-thought prompting yield no measurable improvement in either alignment axis for classroom evaluation](reasoning-variants-no-alignment-improvement.md) — related
-- [Zero-shot prompt type has minimal impact on LLM-human coding concordance](prompt-type-minimal-impact-llm-coding.md) — related
+- Zero-shot prompt type has minimal impact on LLM-human coding concordance — related
 - [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets](in-context-examples-improve-bloom-classification.md) — related
-- [GPT-4 classifies self-affirmation essays reasonably in zero-shot mode but below fine-tuned BERT, and few-shot prompting does not appreciably improve it](gpt4-zero-shot-below-finetuned-bert-fewshot-plateau.md) — related
+- GPT-4 classifies self-affirmation essays reasonably in zero-shot mode but below fine-tuned BERT, and few-shot prompting does not appreciably improve it — related

@@ -44,6 +44,6 @@ Dimension-level alignment analysis across five LLMs on 60 essays, reported in Re
 
 ## Related Claims
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — a broader claim this one bears on
-- [LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst](llm-choice-affects-human-ai-coding-correspondence.md) — related
+- LLM choice significantly influences human-AI coding correspondence, with Claude Sonnet 4 performing best and GPT 4.1 Mini worst — related
 - [Combining the revised rubric with rationale-first evaluation yields the highest human–machine alignment, with dimension-specific gains](combined-rubric-rationale-highest-alignment.md) — related
 - [Llama 4 Maverick shows the strongest human-LLM alignment, while Claude Sonnet 4 performs weakest with poor calibration](llama-strongest-human-llm-alignment-claude-weakest.md) — related

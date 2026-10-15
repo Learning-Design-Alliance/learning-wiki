@@ -17,7 +17,7 @@ sources:
 # Five-year open-ended interview study of six desegregated high schools and their graduates
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This book is the study artifact: a five-year investigation of six high schools that had undergone some form of desegregation in the late 1970s, providing "a firsthand account of how desegregation affected students during high school and later in life." It draws on open-ended interviews with graduates, educators, advocates, and local policymakers, situating their stories in social and historical context.
@@ -39,7 +39,6 @@ This book is the study artifact: a five-year investigation of six high schools t
 ## Claims
 
 - [Graduates of desegregated 1970s high schools report both benefits from desegregation and experiences of backlash against it](../claims/desegregation-graduates-report-benefits-and-backlash.md) [+W]
-- [Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns](../claims/neighborhood-based-desegregation-plans-short-term.md) [+W]
 
 ## Related Elements
 - 

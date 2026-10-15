@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Out of two objects with the same signalling, participants focused more on the object cued with an arrow; the change took place in the un-cued object and was detected when participants shifted to it. [→ Mutlu-Bayraktar 2018](#mutlu-bayraktar-2018)
@@ -51,4 +52,4 @@ Eye-tracking finding from the speaker scene, where two parts carried signalling 
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — a broader claim this one bears on
 - [Changes were detected more easily on screens presenting fewer objects (66.66%)](fewer-objects-easier-change-detection.md) — related
 - [Signaling Improves Learning](signaling-improves-learning.md) — a broader claim this one bears on
-- [Eye-tracking results confirm that just before students articulate a new manipulation strategy, their visual attention shifts from figural screen elements to a newly invented attentional-anchor location](eye-tracking-confirms-attentional-anchor-shift.md) — related
+- Eye-tracking results confirm that just before students articulate a new manipulation strategy, their visual attention shifts from figural screen elements to a newly invented attentional-anchor location — related

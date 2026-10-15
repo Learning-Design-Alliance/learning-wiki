@@ -43,6 +43,6 @@ Qualitative landscape study of four rural postsecondary initiatives using focus 
 ## Related Claims
 - [The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent](five-themes-rural-microcredential-initiatives.md) — related
 - [In Kentucky, educators used micro-credentials to advance from Rank II to Rank I, increasing their yearly salaries](kvec-microcredentials-teacher-rank-and-salary-increase.md) — a narrower finding that bears on this claim
-- [Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners](micro-credentials-disrupt-pathways-access-excluded-learners.md) — a broader claim this one bears on
-- [Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials](recognizer-incentives-for-micro-credentials.md) — a narrower finding that bears on this claim
+- Micro-credentials disrupt postsecondary pathways and broaden access for historically and systematically excluded learners — a broader claim this one bears on
+- Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — a narrower finding that bears on this claim
 - [In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice](tcsg-manufacturing-microcredentials-led-to-hiring.md) — a narrower finding that bears on this claim

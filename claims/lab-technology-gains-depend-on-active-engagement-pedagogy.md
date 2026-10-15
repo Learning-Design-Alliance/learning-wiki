@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-15: Technology-supported learning gains depend on the technology being used within student-centered, active-engagement pedagogy -->
 
 ## Subclaims
@@ -48,6 +49,5 @@ Authors' interpretation in the discussion, not a tested result: they state the i
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
 - [In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test](reformed-pedagogy-content-gains-but-no-reasoning-gains.md) — related
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related
-- [MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added](mpex-consistent-pedagogy-across-tech-years.md)
 - [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](students-need-time-learn-technology-first.md) — related
 - [Effectiveness of AI-driven personalized learning is context-dependent, with CS and Mathematics students showing contrasting engagement and performance trajectories](context-sensitive-personalization-disciplinary-backgrounds.md) — a narrower finding that bears on this claim

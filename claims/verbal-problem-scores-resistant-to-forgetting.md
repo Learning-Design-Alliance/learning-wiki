@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-14: Verbal problem solving scores on both criteria are highly resistant to forgetting over four weeks -->
 
 ## Subclaims
@@ -45,4 +46,4 @@ Subscale analysis of the problem solution criterion: no occasion difference on t
 
 ## Related Claims
 - [Polya and Dahmus methods do not differ on the problem solution criterion](no-treatment-difference-problem-solution-criterion.md) — related
-- [Retention differs by type of knowledge tested, with concepts and rules retained best and problem solving worst](retention-varies-by-knowledge-type.md) — related
+- Retention differs by type of knowledge tested, with concepts and rules retained best and problem solving worst — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: üstündağ-algın-2025
-    resource: "https://www.mextesol.net/journal/"
-    title: "Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/"
+    resource: "https://doi.org/10.61871/mj.v49n4-2"
+    title: "Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/ [doi:10.61871/mj.v49n4-2](https://doi.org/10.61871/mj.v49n4-2)"
     author: Üstündağ-Algın, P.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Üstündağ-Algın 2025
 
-Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/
+Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/ [doi:10.61871/mj.v49n4-2](https://doi.org/10.61871/mj.v49n4-2)
 
 `q2 · i?` · `causal · r1`
 

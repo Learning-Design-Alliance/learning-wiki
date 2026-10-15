@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: moore-2011
-    resource: "https://arxiv.org/abs/1110.2764"
-    title: "Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764"
+    resource: "https://doi.org/10.48550/arxiv.1110.2764"
+    title: "Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764 [doi:10.48550/arxiv.1110.2764](https://doi.org/10.48550/arxiv.1110.2764)"
     author: "Moore, J. C., & Rubbo, L. J."
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Moore 2011
 
-Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764
+Moore, J. C., & Rubbo, L. J. (2011). Scientific reasoning abilities of non-science majors in physics-based courses. https://arxiv.org/abs/1110.2764 [doi:10.48550/arxiv.1110.2764](https://doi.org/10.48550/arxiv.1110.2764)
 
 `q2 · i2` · `causal · r1`
 

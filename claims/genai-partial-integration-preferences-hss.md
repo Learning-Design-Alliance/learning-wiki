@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lei-fan-and-fangxue-liu-2026
-    resource: "https://arxiv.org/abs/2606.24104"
-    title: "Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104"
+    resource: "https://doi.org/10.48550/arxiv.2606.24104"
+    title: "Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104 [doi:10.48550/arxiv.2606.24104](https://doi.org/10.48550/arxiv.2606.24104)"
     author: Lei Fan and Fangxue Liu
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Chinese HSS students prefer partial or optional GenAI curricular integration supported by practice-oriented training and clear institutional guidelines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 54.97% preferred partial integration and 27.21% optional embedding, while only 17.16% supported full integration. [→ Lei Fan and Fangxue Liu 2026](#lei-fan-and-fangxue-liu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Lei Fan and Fangxue Liu 2026
 
-Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104
+Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104 [doi:10.48550/arxiv.2606.24104](https://doi.org/10.48550/arxiv.2606.24104)
 
 `q2 · i?` · `associational · r2`
 

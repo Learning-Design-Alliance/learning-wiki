@@ -43,4 +43,4 @@ Case narrative of the ASSISTments team's experience, describing a randomized con
 ## Related Claims
 - [In an IES-funded randomized controlled trial, students with lower prior mathematics achievement gained more from ASSISTments homework support than students with higher prior achievement](assistments-greater-gains-lower-prior-achievement.md) — related
 - [A possible mediating effect of teacher homework review practices was observed in the ASSISTments trial, but the planned mediation analysis failed to show an effect](assistments-teacher-review-mediation-null.md) — related
-- [RPP researchers should explore supportive roles beyond research because research products are not necessarily what practitioners most immediately need or want](rpp-researchers-roles-beyond-research.md) — related
+- RPP researchers should explore supportive roles beyond research because research products are not necessarily what practitioners most immediately need or want — related

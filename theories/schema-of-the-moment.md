@@ -16,7 +16,7 @@ sources:
 # The schema-of-the-moment: cognition as a transient functional organization of simultaneously active neuronal elements
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper's central construct is the schema-of-the-moment, a momentary functional pattern created by the simultaneous activity of distributed neuronal elements, replacing the structural view of stored mental templates. The authors state that "it is in/terms of this 'functioning mass of the 'moment,'asBartlett(1932)andHead '(1920)'. 'calledit,thatallcognitiveactivity(including perception, affection, learning, etc.) takes place". It is assumed to be the only structural cognitive pattern existing in an individual at a given time; everything else is neuroanatomic.
@@ -37,10 +37,7 @@ The paper's central construct is the schema-of-the-moment, a momentary functiona
 
 ### Claims
 
-- [The nervous system is hypothesized to include an all-spreading nondirectional relational medium alongside directional connections](../claims/all-spreading-nondirectional-relational-medium.md) [+W]
 - [Cognition is a transient phenomenon created by the functioning of distributed components of the nervous system](../claims/cognition-transient-distributed-functioning.md) [+W]
-- [Comprehension and recognition need not draw on permanent mental representations: recognition occurs via shared functional elements across schema-of-the-moments](../claims/recognition-without-permanent-representations.md) [+W]
-- [Synaptic connectionism is argued to be implausible for complex cognition because synaptic plasticity has been studied only as an analog of simpler learning forms](../claims/synaptic-connectionism-implausible-complex-cognition.md) [+W]
 
 ## Related Theories
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kai-yao-2026
-    resource: "https://arxiv.org/abs/2607.28041"
-    title: "Kai Yao. (2026). When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution. arXiv. https://arxiv.org/abs/2607.28041"
+    resource: "https://doi.org/10.48550/arxiv.2607.28041"
+    title: "Kai Yao. (2026). When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution. arXiv. https://arxiv.org/abs/2607.28041 [doi:10.48550/arxiv.2607.28041](https://doi.org/10.48550/arxiv.2607.28041)"
     author: Kai Yao
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`
+> **Evidence** · 2 studies · 2 theoretical `r3` · `q1`
 
 ## Subclaims
 `q1 i?` Even a perfectly accurate AI system cannot make a target legitimate, because accuracy concerns means while end-setting concerns which purposes deserve authority. [→ Kai Yao 2026](#kai-yao-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Kai Yao 2026
 
-Kai Yao. (2026). When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution. arXiv. https://arxiv.org/abs/2607.28041
+Kai Yao. (2026). When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution. arXiv. https://arxiv.org/abs/2607.28041 [doi:10.48550/arxiv.2607.28041](https://doi.org/10.48550/arxiv.2607.28041)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -66,7 +66,7 @@ Theoretical argument on the safety/legitimacy distinction. The article holds tha
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](educators-cannot-reliably-detect-genai-reflections.md) — related
-- [Participants articulated four interrelated arguments for preserving human instructor authority in assessment: knowledge of students, dialogue, institutional legitimacy, and safeguarding against AI error](instructor-role-arguments-ai-assessment.md) — a narrower finding that bears on this claim
-- [Transparency about AI involvement appeared to function as an instructional intervention, shifting student reflection from feedback quality toward authority, trust, and assessment legitimacy](transparency-pedagogical-intervention-assessment-reflection.md) — a narrower finding that bears on this claim
+- Participants articulated four interrelated arguments for preserving human instructor authority in assessment: knowledge of students, dialogue, institutional legitimacy, and safeguarding against AI error — a narrower finding that bears on this claim
+- Transparency about AI involvement appeared to function as an instructional intervention, shifting student reflection from feedback quality toward authority, trust, and assessment legitimacy — a narrower finding that bears on this claim
 - [Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch](provenance-paradox-uncritical-trust.md) — a narrower finding that bears on this claim
 - [Oral assessments are recommended as a strategy to maintain academic integrity against AI use](oral-assessments-academic-integrity-ai.md) — related

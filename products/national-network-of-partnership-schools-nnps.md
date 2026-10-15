@@ -18,7 +18,7 @@ sources:
 # National Network of Partnership Schools (NNPS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Johns Hopkins University network that supports schools and districts in developing and sustaining family and community partnership programmes through institutes, workshops, professional-learning series, and facilitation.
@@ -29,7 +29,6 @@ A Johns Hopkins University network that supports schools and districts in develo
 - **NNPS framework of six types of involvement with an action team approach**: The NNPS model is organized around "a framework of six types of involvement and an action team approach." Rather than treating family engagement as isolated events, the framework structures partnership work into distinct types of involvement that a school-based team plans, schedules, and evaluates over the school year. The framework is operationalized through the Action Team for Partnerships, which writes a One-Year Action Plan connecting engagement activities to school improvement goals, and through NNPS-provided coaching, training, and planning materials that support implementation. (Attendance — National Network of Partnership Schools (NNPS) (2001))
 
 ### Claims
-- [NNPS implementation increases elementary school average daily attendance more than matched comparison schools (effect size +0.07)](../claims/nnps-increases-elementary-attendance.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -99,7 +98,6 @@ NNPS, established at Johns Hopkins University in 1996 by Dr. Joyce Epstein, guid
 
 ## Claims
 
-- [NNPS implementation increases elementary school average daily attendance more than matched comparison schools (effect size +0.07)](../claims/nnps-increases-elementary-attendance.md) [+W]
 
 ## Related Elements
 
@@ -139,7 +137,6 @@ The NNPS model is organized around "a framework of six types of involvement and 
 
 ### Claims
 
-- [NNPS implementation increases elementary school average daily attendance more than matched comparison schools (effect size +0.07)](../claims/nnps-increases-elementary-attendance.md) [+W]
 
 ## Related Theories
 - [Nnps Program Model](../products/national-network-of-partnership-schools-nnps.md)

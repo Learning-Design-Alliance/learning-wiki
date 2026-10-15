@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: junyi-yao-2026
-    resource: "https://arxiv.org/abs/2606.16206"
-    title: "Junyi Yao, Zihao Zheng, and Baichuan Li. (2026). Beyond Helpfulness: A Teaching-over-Solving Diagnostic for Measuring Educational Impact in LLM Tutors. arXiv preprint. https://arxiv.org/abs/2606.16206"
+    resource: "https://doi.org/10.48550/arxiv.2606.16206"
+    title: "Junyi Yao, Zihao Zheng, and Baichuan Li. (2026). Beyond Helpfulness: A Teaching-over-Solving Diagnostic for Measuring Educational Impact in LLM Tutors. arXiv preprint. https://arxiv.org/abs/2606.16206 [doi:10.48550/arxiv.2606.16206](https://doi.org/10.48550/arxiv.2606.16206)"
     author: Junyi Yao, Zihao Zheng, and Baichuan Li
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Junyi Yao 2026
 
-Junyi Yao, Zihao Zheng, and Baichuan Li. (2026). Beyond Helpfulness: A Teaching-over-Solving Diagnostic for Measuring Educational Impact in LLM Tutors. arXiv preprint. https://arxiv.org/abs/2606.16206
+Junyi Yao, Zihao Zheng, and Baichuan Li. (2026). Beyond Helpfulness: A Teaching-over-Solving Diagnostic for Measuring Educational Impact in LLM Tutors. arXiv preprint. https://arxiv.org/abs/2606.16206 [doi:10.48550/arxiv.2606.16206](https://doi.org/10.48550/arxiv.2606.16206)
 
 `q2 · i?` · `design · r?`
 

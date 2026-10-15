@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Hearing-impaired students may appear unready and unable and be mistakenly placed in quadrant one, yet they learn quickly through the "showand do" method, often needing only a one-time demonstration before working independently. [→ Carder 1996](#carder-1996)

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: iwai-wataru-2026
-    resource: "https://arxiv.org/abs/2606.10325"
-    title: "Iwai Wataru, Duc V . Nguyen. (2026). Design and Implementation of a Real-Time Multi-Site Immersive Learning System Using Photon Fusion. https://arxiv.org/abs/2606.10325"
+    resource: "https://doi.org/10.48550/arxiv.2606.10325"
+    title: "Iwai Wataru, Duc V . Nguyen. (2026). Design and Implementation of a Real-Time Multi-Site Immersive Learning System Using Photon Fusion. https://arxiv.org/abs/2606.10325 [doi:10.48550/arxiv.2606.10325](https://doi.org/10.48550/arxiv.2606.10325)"
     author: Iwai Wataru, Duc V . Nguyen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Iwai Wataru 2026
 
-Iwai Wataru, Duc V . Nguyen. (2026). Design and Implementation of a Real-Time Multi-Site Immersive Learning System Using Photon Fusion. https://arxiv.org/abs/2606.10325
+Iwai Wataru, Duc V . Nguyen. (2026). Design and Implementation of a Real-Time Multi-Site Immersive Learning System Using Photon Fusion. https://arxiv.org/abs/2606.10325 [doi:10.48550/arxiv.2606.10325](https://doi.org/10.48550/arxiv.2606.10325)
 
 `q2 · i?` · `design · r2`
 

@@ -18,7 +18,7 @@ sources:
 # My Math Academy
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q1` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 My Math Academy is a game-based adaptive mathematics learning platform for pre-K through grade 2, developed and operated by Age of Learning.
@@ -27,10 +27,6 @@ My Math Academy is a game-based adaptive mathematics learning platform for pre-K
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Learning gains are greatest for students starting with moderate math knowledge, and increase with games played](../claims/mma-moderators-baseline-and-usage.md) [+W]
-- [My Math Academy raises kindergarten math scores in a randomized study (ES = +0.23, p = .03)](../claims/mma-rct-tema3-es-023.md) [+W]
-- [Teachers report the program supports student interest, confidence, and enjoyment of math](../claims/mma-teacher-survey-qualitative-findings.md) [+W]
-- [My Math Academy raises pre-K math scores in a matched Texas study (ES = +0.32)](../claims/mma-texas-matched-study-circle-es-032.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,10 +60,6 @@ My Math Academy is a game-based adaptive learning system for pre-K through 2nd g
 
 ## Claims
 
-- [Learning gains are greatest for students starting with moderate math knowledge, and increase with games played](../claims/mma-moderators-baseline-and-usage.md) [+W]
-- [My Math Academy raises kindergarten math scores in a randomized study (ES = +0.23, p = .03)](../claims/mma-rct-tema3-es-023.md) [+W]
-- [Teachers report the program supports student interest, confidence, and enjoyment of math](../claims/mma-teacher-survey-qualitative-findings.md) [+W]
-- [My Math Academy raises pre-K math scores in a matched Texas study (ES = +0.32)](../claims/mma-texas-matched-study-circle-es-032.md) [+W]
 
 ## Related Elements
 

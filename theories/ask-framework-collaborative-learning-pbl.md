@@ -16,7 +16,7 @@ sources:
 # ASK (Attitude, Skills, Knowledge) framework for analysing collaborative learning in PBL
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The ASK framework classifies statements about collaborative learning into three dimensions: Attitudes (dispositions towards group work), Skills (capabilities needed for effective collaboration), and Knowledge (essential concepts and principles, including pedagogical knowledge for teacher education students). The authors developed it and extrapolated it from models such as the Model of Strategic Learning, writing that it "is used to synthesize the dimensions of collaborative learning identified by teacher education students in the context of their problem -based learning". In this study it organised students' reflections into sub-categories within each dimension.
@@ -42,7 +42,6 @@ The ASK framework classifies statements about collaborative learning into three 
 - [Pbl Knowledge Generation Application Dissemination](../claims/pbl-knowledge-generation-application-dissemination.md) [+M]
 - [Approximately half of students' analysed texts showed collaborative learning meeting co-regulation and co-construction descriptors](../claims/half-of-texts-showed-collaborative-learning.md) [+W]
 - [Students made minimal reference to higher-level cognitive or metacognitive processing benefits of group work, departing from prior PBL research](../claims/minimal-reference-higher-level-processing-benefits.md) [+W]
-- [No significant relationship between attitudes toward group work and achievement goal orientation profiles, but attitudes correlate with perceived discussion and active listening behaviors](../claims/attitudes-group-work-not-goal-orientation-but-collaboration-perception.md) [+W]
 
 ## Related Theories
 

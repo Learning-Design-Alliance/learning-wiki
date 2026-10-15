@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: antonio-laverghetta-jr-2024
-    resource: "https://arxiv.org/abs/2409.00202"
-    title: "Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty. (2024). The creative psychometric item generator: a framework for item generation and validation using large language models. CREAI 2024: Workshop on Artificial Intelligence and Creativity. https://arxiv.org/abs/2409.00202"
+    resource: "https://doi.org/10.48550/arxiv.2409.00202"
+    title: "Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty. (2024). The creative psychometric item generator: a framework for item generation and validation using large language models. CREAI 2024: Workshop on Artificial Intelligence and Creativity. https://arxiv.org/abs/2409.00202 [doi:10.48550/arxiv.2409.00202](https://doi.org/10.48550/arxiv.2409.00202)"
     author: Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Human annotators judge later-round CPIG items as improved in complexity but not in difficulty, with modest rater agreement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r?` · `q2`
+> **Evidence** · 2 studies · 2 design `r?` · `q2`
 
 ## Subclaims
 `q2 i?` For complexity, round five shows a much larger fraction of items at the ideal level than round one; trends for difficulty are more static, with quite similar distributions. [→ Antonio Laverghetta Jr. 2024](#antonio-laverghetta-jr-2024)
@@ -40,7 +40,7 @@ sources:
 
 ### Antonio Laverghetta Jr. 2024
 
-Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty. (2024). The creative psychometric item generator: a framework for item generation and validation using large language models. CREAI 2024: Workshop on Artificial Intelligence and Creativity. https://arxiv.org/abs/2409.00202
+Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty. (2024). The creative psychometric item generator: a framework for item generation and validation using large language models. CREAI 2024: Workshop on Artificial Intelligence and Creativity. https://arxiv.org/abs/2409.00202 [doi:10.48550/arxiv.2409.00202](https://doi.org/10.48550/arxiv.2409.00202)
 
 `q2 · i?` · `design · r?`
 

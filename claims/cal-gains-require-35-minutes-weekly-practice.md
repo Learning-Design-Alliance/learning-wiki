@@ -44,5 +44,5 @@ Further analysis of the two field experiments finds the gains are concentrated a
 
 ## Related Claims
 - [A teacher-coaching CAL program produces significant intent-to-treat gains in elementary and middle school math performance of 0.12-0.22 standard deviations](cal-teacher-coaching-itt-math-gains-012-022-sd.md) — a broader claim this one bears on
-- [Results were more robust for students meeting the usage recommendation of 30 minutes per week over a minimum of 18 weeks](iready-usage-recommendation-stronger-results.md) — related
+- Results were more robust for students meeting the usage recommendation of 30 minutes per week over a minimum of 18 weeks — related
 - [Teachers who achieve high-dosage CAL practice show strong initial buy-in, a clear implementation strategy for practice timing, and close monitoring with follow-up](high-dosage-cal-teachers-buy-in-strategy-monitoring.md) — related

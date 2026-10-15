@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2019
-    resource: "https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort/"
-    title: "James Soland. (2019). Are achievement gap estimates biased by differential student test effort? NWEA Research. https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort/"
+    resource: "https://doi.org/10.1177/016146811812001202"
+    title: "James Soland. (2019). Are achievement gap estimates biased by differential student test effort? NWEA Research. https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort/ [doi:10.1177/016146811812001202](https://doi.org/10.1177/016146811812001202)"
     author: James Soland
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2019
 
-James Soland. (2019). Are achievement gap estimates biased by differential student test effort? NWEA Research. https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort/
+James Soland. (2019). Are achievement gap estimates biased by differential student test effort? NWEA Research. https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort/ [doi:10.1177/016146811812001202](https://doi.org/10.1177/016146811812001202)
 
 `q1 · i?` · `associational · r?`
 

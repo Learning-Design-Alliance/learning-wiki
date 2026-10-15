@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Collaborative learning at the computer provided experiences of co-constructions of shared understanding and peer conflicts that led to conceptual change only for cognitively engaged students prepared to reflect on and reconstruct their conceptions. [→ Tao 1997](#tao-1997)

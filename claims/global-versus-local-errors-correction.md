@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Global errors hinder communication and prevent comprehension of the message; local errors affect a single element but do not prevent the message from being heard. [→ XIE Fang 2007](#xie-fang-2007)
@@ -44,6 +45,6 @@ Theoretical review in §4.1 attributing the global/local distinction to Burt (19
 
 
 ## Related Claims
-- [Students agree with and list cognitive responses to unintelligible communications](students-agree-with-unintelligible-messages.md) — related
+- Students agree with and list cognitive responses to unintelligible communications — related
 - [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — related
 - [Skilled EFL writers apply procedural planning strategies of brainstorming, organizing, and outlining before writing, and revising strategies of pause-to-think, reviewing, and local plus global revision.](skilled-writers-planning-revising-strategies.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: nicolas-rodriguez-alvarez-2026
-    resource: "https://arxiv.org/abs/2605.26010"
-    title: "Nicolas Rodriguez-Alvarez, Alan Martin Blanch-Marsolini, Samuel Vara-Gutierrez, Hugo Gil-Garcia, Javier Calzon-Dueñas, and Fernando Rodriguez-Merino. (2026). The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students. arXiv. https://arxiv.org/abs/2605.26010"
+    resource: "https://doi.org/10.48550/arxiv.2605.26010"
+    title: "Nicolas Rodriguez-Alvarez, Alan Martin Blanch-Marsolini, Samuel Vara-Gutierrez, Hugo Gil-Garcia, Javier Calzon-Dueñas, and Fernando Rodriguez-Merino. (2026). The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students. arXiv. https://arxiv.org/abs/2605.26010 [doi:10.48550/arxiv.2605.26010](https://doi.org/10.48550/arxiv.2605.26010)"
     author: Nicolas Rodriguez-Alvarez, Alan Martin Blanch-Marsolini, Samuel Vara-Gutierrez, Hugo Gil-Garcia, Javier Calzon-Dueñas, and Fernando Rodriguez-Merino
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Nicolas Rodriguez-Alvarez 2026
 
-Nicolas Rodriguez-Alvarez, Alan Martin Blanch-Marsolini, Samuel Vara-Gutierrez, Hugo Gil-Garcia, Javier Calzon-Dueñas, and Fernando Rodriguez-Merino. (2026). The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students. arXiv. https://arxiv.org/abs/2605.26010
+Nicolas Rodriguez-Alvarez, Alan Martin Blanch-Marsolini, Samuel Vara-Gutierrez, Hugo Gil-Garcia, Javier Calzon-Dueñas, and Fernando Rodriguez-Merino. (2026). The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students. arXiv. https://arxiv.org/abs/2605.26010 [doi:10.48550/arxiv.2605.26010](https://doi.org/10.48550/arxiv.2605.26010)
 
 `q2 · i?` · `associational · r1`
 
@@ -45,12 +45,12 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 ## Related Claims
 - [Secondary students report near-maximum confidence in passive digital tasks but sharply lower confidence in active creation and algorithmic logic](confidence-competence-divide-passive-vs-active-creation.md) — related
 - [The technological gender gap emerges only within Technology-oriented pathways, with parity in Arts and Sciences](gender-gap-emerges-only-in-technology-pathway.md) — a narrower finding that bears on this claim
-- [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
+- Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
 - [Technology-pathway students report higher active-creation self-efficacy than Arts and Humanities students (p < 0.001)](pathway-difference-active-creation-confidence.md) — related
 - [Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop](both-genders-gain-ai-knowledge-confidence-workshop.md) — related
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — related
 - [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — related
-- [Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster](gender-difference-only-zero-usage-cluster.md) — related
+- Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster — related
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related
 - [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

@@ -11,8 +11,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kenneth-fortson-2015
-    resource: "https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators"
-    title: "Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz. (2015). Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Whether Nonexperimental Estimators are Biased. Economics of Education Review, vol. 44. https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators"
+    resource: "https://doi.org/10.1016/j.econedurev.2014.11.001"
+    title: "Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz. (2015). Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Whether Nonexperimental Estimators are Biased. Economics of Education Review, vol. 44. https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators [doi:10.1016/j.econedurev.2014.11.001](https://doi.org/10.1016/j.econedurev.2014.11.001)"
     author: Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz
     q: 3
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### Kenneth Fortson 2015
 
-Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz. (2015). Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Whether Nonexperimental Estimators are Biased. Economics of Education Review, vol. 44. https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators
+Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz. (2015). Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Whether Nonexperimental Estimators are Biased. Economics of Education Review, vol. 44. https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators [doi:10.1016/j.econedurev.2014.11.001](https://doi.org/10.1016/j.econedurev.2014.11.001)
 
 `q3 · i?` · `causal · r?`
 
@@ -69,7 +69,7 @@ The paper's own summary of its reassessment of nonexperimental estimators: it re
 
 - [Using baseline data strongly predictive of outcome measures considerably reduces bias in nonexperimental estimates of charter school achievement effects](predictive-baseline-data-reduce-nonexperimental-bias.md) — related
 - [Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies](prior-bias-studies-used-weaker-designs.md) — related
-- [The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio](authorizer-type-charter-effectiveness-ohio-study.md) — related
+- The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related
 - [Most prior studies testing nonexperimental designs find they fail to produce unbiased estimates, but those studies examined weaker evaluation designs](prior-tests-nonexperimental-designs-weaker-designs.md) — related
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — a narrower finding that bears on this claim
 - [Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs](nonexperimental-pre-treatment-methods-replicate-itt-under-crossover.md) — related

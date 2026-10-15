@@ -18,7 +18,7 @@ sources:
 # Tough As Nails, Nimble Fingers (TAN) virtual computing PD project
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 An NSF-funded Digital Promise and Bit Source initiative delivering virtual K–8 computational-thinking professional development, including CT Booster sessions and micro-credentials, in rural Kentucky.
@@ -27,9 +27,6 @@ An NSF-funded Digital Promise and Bit Source initiative delivering virtual K–8
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [The TAN project delivered four virtual CT Booster sessions for K-2 and 3-8 teachers on Data & Analysis and Algorithms between November 2020 and January 2021](../claims/tan-four-ct-booster-sessions-rural-ky.md) [+W]
-- [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](../claims/ct-pathway-research-questions.md) [+W]
-- [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](../claims/ky-appalachia-k8-ct-pathway-rpp.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,9 +60,6 @@ Tough As Nails, Nimble Fingers (TAN) is an NSF-funded collaboration between Digi
 
 ## Claims
 
-- [The TAN project delivered four virtual CT Booster sessions for K-2 and 3-8 teachers on Data & Analysis and Algorithms between November 2020 and January 2021](../claims/tan-four-ct-booster-sessions-rural-ky.md) [+W]
-- [The partnership's research plan studies pathway creation, grade-band competencies, and whether a competency-based PD framework assists instructors in demonstrating teaching proficiency](../claims/ct-pathway-research-questions.md) [+W]
-- [A research-practice partnership is creating a K-8 computational thinking pathway in two rural Kentucky districts by applying South Fayette School District's model and training 75+ teachers over three years](../claims/ky-appalachia-k8-ct-pathway-rpp.md) [+W]
 
 ## Related Elements
 

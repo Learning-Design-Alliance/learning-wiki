@@ -41,5 +41,5 @@ The review's own synthesis of the three RT studies (Tsou 2011; Young & Rasinski 
 
 
 ## Related Claims
-- [Reader's Theater improves oral reading fluency and motivation among Thai EFL university students](readers-theater-improves-efl-reading-fluency.md) — reports the opposite
-- [Chinese EFL learners hold positive perceptions of Reader's Theater for spoken English improvement](efl-learners-positive-perceptions-readers-theater.md) — related
+- Reader's Theater improves oral reading fluency and motivation among Thai EFL university students — reports the opposite
+- Chinese EFL learners hold positive perceptions of Reader's Theater for spoken English improvement — related

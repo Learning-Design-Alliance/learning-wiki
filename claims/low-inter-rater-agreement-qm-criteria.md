@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jiayi-wang-2025
-    resource: "https://arxiv.org/abs/2508.16659"
-    title: "Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659"
+    resource: "https://doi.org/10.48550/arxiv.2508.16659"
+    title: "Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659 [doi:10.48550/arxiv.2508.16659](https://doi.org/10.48550/arxiv.2508.16659)"
     author: Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jiayi Wang 2025
 
-Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659
+Jiayi Wang, Ruiwei Xiao, Xinying Hou, John Stamper. (2025). Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design. https://arxiv.org/abs/2508.16659 [doi:10.48550/arxiv.2508.16659](https://doi.org/10.48550/arxiv.2508.16659)
 
 `q3 · i?` · `design · r2`
 
@@ -47,7 +47,7 @@ Reliability analysis of the human expert ratings: the article reports Fleiss' κ
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
-- [The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives](rjm-high-interrater-reliability-teacher-educators.md) — related
+- The Reflective Judgment Model coding rubric achieves high inter-rater reliability (alpha .93) when applied to teacher educators' interview narratives — related
 - [Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus](moderate-kappa-versus-perceived-consensus-gap.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [Human inter-rater agreement on the writing rubric is imperfect: no rubric item reaches full agreement and the most discrepant rater generally falls below 80%](human-inter-rater-agreement-imperfect-upper-bound.md) — related

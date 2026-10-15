@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: eric-isenberg-2015
-    resource: "https://www.mathematica.org/publications/journal-article-accounting-for-coteachng-a-guide-for-policymakers-and-developers-of-valueadded"
-    title: "Eric Isenberg, Elias Walsh. (2015). Accounting for Co-Teaching: A Guide for Policymakers and Developers of Value-Added Models. Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/journal-article-accounting-for-coteachng-a-guide-for-policymakers-and-developers-of-valueadded"
+    resource: "https://doi.org/10.1080/19345747.2014.974232"
+    title: "Eric Isenberg, Elias Walsh. (2015). Accounting for Co-Teaching: A Guide for Policymakers and Developers of Value-Added Models. Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/journal-article-accounting-for-coteachng-a-guide-for-policymakers-and-developers-of-valueadded [doi:10.1080/19345747.2014.974232](https://doi.org/10.1080/19345747.2014.974232)"
     author: Eric Isenberg, Elias Walsh
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eric Isenberg 2015
 
-Eric Isenberg, Elias Walsh. (2015). Accounting for Co-Teaching: A Guide for Policymakers and Developers of Value-Added Models. Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/journal-article-accounting-for-coteachng-a-guide-for-policymakers-and-developers-of-valueadded
+Eric Isenberg, Elias Walsh. (2015). Accounting for Co-Teaching: A Guide for Policymakers and Developers of Value-Added Models. Journal of Research on Educational Effectiveness, vol. 8, issue 1. https://www.mathematica.org/publications/journal-article-accounting-for-coteachng-a-guide-for-policymakers-and-developers-of-valueadded [doi:10.1080/19345747.2014.974232](https://doi.org/10.1080/19345747.2014.974232)
 
 `q2 · i?` · `associational · r?`
 

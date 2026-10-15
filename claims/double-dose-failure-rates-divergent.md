@@ -62,7 +62,7 @@ Model 2 of the failure regressions. Interactive pedagogy related to lower failur
 
 
 ## Related Claims
-- [Chicago's algebra-for-all policy led schools to create more mixed-ability math classrooms when eliminating remedial classes](algebra-for-all-created-mixed-ability-classrooms.md) — related
+- Chicago's algebra-for-all policy led schools to create more mixed-ability math classrooms when eliminating remedial classes — related
 - [Below-norm students' pass rates improved post-policy because their skills relative to classroom peers improved under sorting](below-norm-pass-rates-improved-relative-skills.md) — related
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — related
@@ -77,9 +77,9 @@ Model 2 of the failure regressions. Interactive pedagogy related to lower failur
 - [For targeted students overall, the policy produced only negligible changes in algebra grades and failure rates despite test-score gains](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related
 - [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related
 - [Pre-policy, classroom average ability related positively to test scores but positively to failure, with effects strongest for high-ability students](pre-policy-composition-test-scores-failure-opposite.md) — related
-- [The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined](double-dose-spillover-high-ability-scores-up-grades-down.md) — related
+- The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related
 - [When classes are sorted by skill level, low-skilled students are at higher risk of being in disruptive classrooms, weakening their instructional environment](sorting-puts-low-skilled-in-disruptive-classrooms.md) — related
 - [Average test scores are higher when classes are sorted by skill, driven by large learning gains for high-skilled students and slightly lower scores for low-skilled students](sorting-raises-test-scores-via-high-skill-gains.md) — related
-- [Only 64% of Black Michigan students passed Algebra I by 10th grade in 2021-22, below the 74% statewide average, while white students were the sole group above it at 78%](michigan-algebra-i-pass-rate-gaps.md) — related
+- Only 64% of Black Michigan students passed Algebra I by 10th grade in 2021-22, below the 74% statewide average, while white students were the sole group above it at 78% — related
 - [In a 700-student open-ended systems programming project graded by specification document rather than code, in-person test failure rates rose and inspected code failed to meet specifications](open-ended-spec-project-rising-test-failure.md) — related

@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In a seven-week study of 75 second-grade students randomly assigned to Reading While Listening, Listening Only, and Reading Only conditions, the Listening Only group achieved the largest oral reading fluency gain (24 words per minute), ahead of Reading Only (19) and Reading While Listening (18). [→ Salarvand 2022](#salarvand-2022)
@@ -66,5 +67,5 @@ Same Jablonski (2019) experiment, EasyCBM comprehension posttest. The review rep
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](er-peer-interaction-greater-achievement-gains.md) — related
-- [Students using Renzulli Learning for 16 weeks show significantly higher oral reading fluency growth than business-as-usual peers (effect size +0.10)](renzulli-learning-oral-reading-fluency-growth.md) — related
+- Students using Renzulli Learning for 16 weeks show significantly higher oral reading fluency growth than business-as-usual peers (effect size +0.10) — related
 - [During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy](covid-volume-reading-growth-over-control.md) — related

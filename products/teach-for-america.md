@@ -26,7 +26,7 @@ sources:
 # Teach For America
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 17 claims (11 for, 6 mixed) · 6 studies (4 causal, 2 quant-synthesis), `q3` · 1 of 6 report an effect size · 17 claims rest on one study
+> **Evidence** · 16 claims (11 for, 5 mixed) · 5 studies (3 causal, 2 quant-synthesis), `q3` · 1 of 5 report an effect size · 16 claims rest on one study
 
 ## Description
 Teach For America runs a nationwide alternate-route teacher-preparation and teacher-placement programme that recruits and prepares corps members to teach in low-income K–12 schools.
@@ -47,7 +47,6 @@ Teach For America runs a nationwide alternate-route teacher-preparation and teac
 - [In some cases, Teach For America and Teaching Fellows secondary math teachers are more effective than traditionally certified math teachers](../claims/tfa-teaching-fellows-math-teachers-sometimes-more-effective.md) [+W]
 - [Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification](../claims/tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification.md) [+W]
 - [TFA secondary math teachers increase student math achievement by 0.07 standard deviations over one school year relative to other math teachers in the same schools](../claims/tfa-math-teachers-raise-achievement-007-sd.md) [+W]
-- [The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts](../claims/ogap-trial-high-poverty-urban-sample.md) [~W]
 - [A randomized controlled trial found TFA secondary math teachers outperformed non-TFA comparison teachers in mathematics achievement](../claims/clark-2013-tfa-secondary-math-rct-positive.md) [+W]
 - [An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement](../claims/clark-2015-elementary-tfa-indeterminate.md) [~W]
 - [TFA teachers show no discernible effects on English language arts achievement for students in grades pre-K-12](../claims/tfa-no-discernible-ela-effects.md) [~W]
@@ -105,7 +104,6 @@ Teach For America is a nation-wide alternate route teacher preparation program d
 - [In some cases, Teach For America and Teaching Fellows secondary math teachers are more effective than traditionally certified math teachers](../claims/tfa-teaching-fellows-math-teachers-sometimes-more-effective.md) [+W]
 - [Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification](../claims/tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification.md) [+W]
 - [TFA secondary math teachers increase student math achievement by 0.07 standard deviations over one school year relative to other math teachers in the same schools](../claims/tfa-math-teachers-raise-achievement-007-sd.md) [+W]
-- [The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts](../claims/ogap-trial-high-poverty-urban-sample.md) [~W]
 
 ## Related Elements
 

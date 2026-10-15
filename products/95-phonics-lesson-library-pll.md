@@ -18,7 +18,7 @@ sources:
 # 95 Phonics Lesson Library (PLL)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A phonics curriculum from 95 Percent Group providing tiered small-group lesson plans and teacher and student materials organized around 75 phonics subskills.
@@ -27,9 +27,7 @@ A phonics curriculum from 95 Percent Group providing tiered small-group lesson p
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Grade 1 students in California schools using 95 Phonics Lesson Library showed significantly higher Acadience Reading composite scores than comparison schools (ES +0.23)](../claims/pll-california-grade1-acadience-es-023.md) [+W]
 - [In a full-year subset analysis, 95 PLL students showed significant reading gains relative to comparison on Acadience (+0.19), MAP (+0.30), and the Ohio State Test (+0.54, fifth grade)](../claims/pll-full-year-subset-gains.md) [+W]
-- [Fourth and fifth grade students using 95 PLL as Tier 2 and Tier 3 intervention demonstrated significantly greater mid-year growth on Acadience Reading than comparison students (ES +0.18)](../claims/pll-ohio-grades45-acadience-es-018.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,9 +64,7 @@ The 95 Phonics Lesson Library is a comprehensive phonics program for Tier 2, sma
 
 ## Claims
 
-- [Grade 1 students in California schools using 95 Phonics Lesson Library showed significantly higher Acadience Reading composite scores than comparison schools (ES +0.23)](../claims/pll-california-grade1-acadience-es-023.md) [+W]
 - [In a full-year subset analysis, 95 PLL students showed significant reading gains relative to comparison on Acadience (+0.19), MAP (+0.30), and the Ohio State Test (+0.54, fifth grade)](../claims/pll-full-year-subset-gains.md) [+W]
-- [Fourth and fifth grade students using 95 PLL as Tier 2 and Tier 3 intervention demonstrated significantly greater mid-year growth on Acadience Reading than comparison students (ES +0.18)](../claims/pll-ohio-grades45-acadience-es-018.md) [+W]
 
 ## Related Elements
 

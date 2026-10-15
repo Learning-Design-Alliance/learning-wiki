@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: elizabeth-woodburn-cavadel-2017
-    resource: "https://www.mathematica.org/publications/not-just-numeracy-and-literacy-theory-of-mind-development-and-school-readiness-among-low-income"
-    title: "Elizabeth Woodburn Cavadel, Douglas A. Frye. (2017). Not Just Numeracy and Literacy: Theory of Mind Development and School Readiness among Low-Income Children. Developmental Psychology, vol. 53, issue 12. https://www.mathematica.org/publications/not-just-numeracy-and-literacy-theory-of-mind-development-and-school-readiness-among-low-income"
+    resource: "https://doi.org/10.1037/dev0000409"
+    title: "Elizabeth Woodburn Cavadel, Douglas A. Frye. (2017). Not Just Numeracy and Literacy: Theory of Mind Development and School Readiness among Low-Income Children. Developmental Psychology, vol. 53, issue 12. https://www.mathematica.org/publications/not-just-numeracy-and-literacy-theory-of-mind-development-and-school-readiness-among-low-income [doi:10.1037/dev0000409](https://doi.org/10.1037/dev0000409)"
     author: Elizabeth Woodburn Cavadel, Douglas A. Frye
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Elizabeth Woodburn Cavadel 2017
 
-Elizabeth Woodburn Cavadel, Douglas A. Frye. (2017). Not Just Numeracy and Literacy: Theory of Mind Development and School Readiness among Low-Income Children. Developmental Psychology, vol. 53, issue 12. https://www.mathematica.org/publications/not-just-numeracy-and-literacy-theory-of-mind-development-and-school-readiness-among-low-income
+Elizabeth Woodburn Cavadel, Douglas A. Frye. (2017). Not Just Numeracy and Literacy: Theory of Mind Development and School Readiness among Low-Income Children. Developmental Psychology, vol. 53, issue 12. https://www.mathematica.org/publications/not-just-numeracy-and-literacy-theory-of-mind-development-and-school-readiness-among-low-income [doi:10.1037/dev0000409](https://doi.org/10.1037/dev0000409)
 
 `q3 · i?` · `associational · r?`
 

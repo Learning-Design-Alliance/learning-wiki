@@ -15,7 +15,7 @@ sources:
 # Research Practice Partnerships (RPPs) as long-term partnerships focused on problems of practice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 3 studies (1 review, 1 design, 1 theoretical), `q1` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 design), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 RPPs bring researchers and practitioners together to study problems of practice from the field. The report traces their emergence in the No Child Left Behind era as a way to close the research-to-practice gap, citing Coburn, Penuel, and Geil (2013), where they were defined as "intentionally fostered, long-term partnerships focused on problems of practice and committed to mutual benefit." A more recent definition (Farrell et al., 2021) adds emphasis on equity, harnessing diverse forms of expertise, and intentionally shifting power dynamics so both researcher and practitioner have a voice.
@@ -38,7 +38,6 @@ RPPs bring researchers and practitioners together to study problems of practice 
 
 - [Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making](../claims/research-questions-rarely-designed-with-practitioners.md) [~W]
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](../claims/rpp-adaptive-practices-sustain-partnerships-during-disruption.md) [+W]
-- [RPP researchers should explore supportive roles beyond research because research products are not necessarily what practitioners most immediately need or want](../claims/rpp-researchers-roles-beyond-research.md) [~W]
 
 ## Related Theories
 

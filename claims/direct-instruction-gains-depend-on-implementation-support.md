@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` All 21 Direct Instruction schools improved .06 per year, significant only at the 90% level, while the 10 fully-supported schools improved .14 per year with increased statistical significance. [→ Bruce Thompson 2006](#bruce-thompson-2006)
@@ -63,5 +64,5 @@ Same ratings analysis comparing the 10 fully-supported Direct Instruction school
 ## Related Claims
 
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
-- [Simulation estimates that regression-to-the-mean selection bias inflates apparent Target Teach improvement by about .03 per year, leaving a smaller but still significant gain](selection-bias-simulation-inflates-target-teach-gain.md) — related
-- [SAGE class-size reduction schools showed no statistically significant change in poverty-adjusted effectiveness ratings](sage-schools-no-significant-rating-change.md) — related
+- Simulation estimates that regression-to-the-mean selection bias inflates apparent Target Teach improvement by about .03 per year, leaving a smaller but still significant gain — related
+- SAGE class-size reduction schools showed no statistically significant change in poverty-adjusted effectiveness ratings — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: carver-thomas-2021
-    resource: "https://learningpolicyinstitute.org/product/california-covid-19-teacher-workforce"
-    title: "Carver-Thomas, D., Leung, M., & Burns, D. (2021). California teachers and COVID-19: How the pandemic is impacting the teacher workforce. Learning Policy Institute. https://learningpolicyinstitute.org/product/california-covid-19-teacher-workforce"
+    resource: "https://doi.org/10.54300/987.779"
+    title: "Carver-Thomas, D., Leung, M., & Burns, D. (2021). California teachers and COVID-19: How the pandemic is impacting the teacher workforce. Learning Policy Institute. https://learningpolicyinstitute.org/product/california-covid-19-teacher-workforce [doi:10.54300/987.779](https://doi.org/10.54300/987.779)"
     author: "Carver-Thomas, D., Leung, M., & Burns, D."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Carver-Thomas 2021
 
-Carver-Thomas, D., Leung, M., & Burns, D. (2021). California teachers and COVID-19: How the pandemic is impacting the teacher workforce. Learning Policy Institute. https://learningpolicyinstitute.org/product/california-covid-19-teacher-workforce
+Carver-Thomas, D., Leung, M., & Burns, D. (2021). California teachers and COVID-19: How the pandemic is impacting the teacher workforce. Learning Policy Institute. https://learningpolicyinstitute.org/product/california-covid-19-teacher-workforce [doi:10.54300/987.779](https://doi.org/10.54300/987.779)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -43,5 +43,5 @@ Interview study of California district leaders. Long Beach Unified reported its 
 
 
 ## Related Claims
-- [77% of school principals and district leaders reported challenges hiring enough substitute teachers during the pandemic, more than for any other staffing position](77-percent-principals-substitute-hiring-challenges.md) — possibly the same claim (merge candidate)
+- 77% of school principals and district leaders reported challenges hiring enough substitute teachers during the pandemic, more than for any other staffing position — possibly the same claim (merge candidate)
 - [Shortage districts fill vacancies with substandard-credential teachers (55%), substitutes (24%), and out-of-field assignments (22%), with high-poverty districts using substandard credentials most](districts-staff-vacancies-substandard-credentials-substitutes.md) — related

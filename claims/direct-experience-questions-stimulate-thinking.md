@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking -->
 
 ## Subclaims
@@ -47,4 +48,4 @@ The only source is a programme document's assertion; it reports no comparison of
 ## Related Claims
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)](somatic-return-revisions-thinking.md) — related
-- [Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning](student-lab-presentations-central-activity.md) — related
+- Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning — related

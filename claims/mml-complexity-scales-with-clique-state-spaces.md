@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rijmen-2009
-    resource: "http://www.ets.org/research/contact.html"
-    title: "Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html"
+    resource: "https://doi.org/10.1002/j.2333-8504.2009.tb02160.x"
+    title: "Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)"
     author: Rijmen, F.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` The computational complexity of a full information MML procedure exploiting the model's conditional independence relations scales with the number of latent variables within a subset, which may be substantially lower than the total number of latent variables. [→ Rijmen 2009](#rijmen-2009)
@@ -40,7 +40,7 @@ sources:
 
 ### Rijmen 2009
 
-Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html
+Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -63,9 +63,9 @@ Boundary-condition statement from the Discussion, grounding the earlier observat
 
 ## Related Claims
 - [Full information MML estimation of the bi-factor model requires only two-dimensional integrations under more general conditions than the probit-link, multivariate-normal derivation of Gibbons and Hedeker](mml-bifactor-two-dimensional-integrals-general-conditions.md) — a narrower finding that bears on this claim
-- [Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions](junction-tree-em-linear-complexity-occasions.md) — a narrower finding that bears on this claim
-- [Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable](bifactor-within-occasion-tractable-cliques.md) — a narrower finding that bears on this claim
+- Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions — a narrower finding that bears on this claim
+- Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable — a narrower finding that bears on this claim
 - [Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals](mml-second-order-dimension-two-dimensional-integrals.md) — a narrower finding that bears on this claim
-- [Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions](markov-all-dimensions-poor-scaling.md) — related
+- Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions — related
 - [Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches](multidimensional-irt-covariance-scores-better-growth-recovery.md) — related
 - [The integrated G4L approach combining graph-based modeling, database-driven tracking, and generative content creation successfully supported learner navigation and domain comprehension](g4l-integrated-approach-supports-navigation.md) — related

@@ -16,7 +16,7 @@ sources:
 # Multisite randomized trials as a design for estimating both average effects and cross-site variation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (7 for) · 5 studies (4 causal, 1 theoretical), `q2`–`q4` · 2 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 causal, 1 theoretical), `q2`–`q4` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The article presents multisite randomized controlled trials, in which "individuals are randomly assigned to alternative treatment arms within sites", as a design that can estimate both the cross-site average effect of treatment assignment (intent to treat) and the amount that impact varies across sites. It argues both statistics are substantively and methodologically important, but that only the average has been well studied, motivating its empirical contribution.
@@ -40,9 +40,7 @@ The article presents multisite randomized controlled trials, in which "individua
 - [Cross Site Itt Effect Variation 16 Multisite Rcts](../claims/cross-site-itt-effect-variation-16-multisite-rcts.md) [+M]
 - [Cross-site impact variation has implications for the statistical precision of multisite trials](../claims/cross-site-variation-implications-trial-precision.md) [+W]
 - [The study explores hypotheses about factors that predict the magnitude of cross-site impact variation](../claims/hypotheses-predicting-cross-site-impact-variation.md) [+W]
-- [Literacy First tutoring significantly improved grade 2 ITBS passage comprehension in a multisite randomized controlled trial (effect size +0.19)](../claims/literacy-first-grade2-itbs-comprehension-effect.md) [+W]
 - [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](../claims/barr-multisite-rct-map-math-es-008.md) [+W]
-- [A large multi-site cluster randomized study found a positive PSAT/NMSQT reading effect in one cohort (+0.13) but a smaller effect in a second cohort (+0.03)](../claims/barr-multisite-cluster-psat-cohort-variation.md) [+W]
 - [In multi-armed trials seeking the most effective treatments, each pairwise contrast sample is representative of the full set of randomized units](../claims/pairwise-contrast-samples-represent-full-randomized-set.md) [+W]
 
 ## Related Theories

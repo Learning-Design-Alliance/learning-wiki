@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: longwei-cong-2026
-    resource: "https://arxiv.org/abs/2605.00200"
-    title: "Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, and Ulf Kroehne. (2026). Confidence Estimation in Automatic Short Answer Grading with LLMs. https://arxiv.org/abs/2605.00200"
+    resource: "https://doi.org/10.48550/arxiv.2605.00200"
+    title: "Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, and Ulf Kroehne. (2026). Confidence Estimation in Automatic Short Answer Grading with LLMs. https://arxiv.org/abs/2605.00200 [doi:10.48550/arxiv.2605.00200](https://doi.org/10.48550/arxiv.2605.00200)"
     author: Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, and Ulf Kroehne
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Longwei Cong 2026
 
-Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, and Ulf Kroehne. (2026). Confidence Estimation in Automatic Short Answer Grading with LLMs. https://arxiv.org/abs/2605.00200
+Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, and Ulf Kroehne. (2026). Confidence Estimation in Automatic Short Answer Grading with LLMs. https://arxiv.org/abs/2605.00200 [doi:10.48550/arxiv.2605.00200](https://doi.org/10.48550/arxiv.2605.00200)
 
 `q2 · i?` · `design · r2`
 

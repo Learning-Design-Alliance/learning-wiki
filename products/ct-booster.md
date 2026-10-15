@@ -22,7 +22,7 @@ sources:
 # CT Booster
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 CT Boosters is a professional-learning programme described by the Computational Thinking Boosters project that provides short algorithmic-thinking sessions for teachers of grades 3–8.
@@ -33,7 +33,6 @@ CT Boosters is a professional-learning programme described by the Computational 
 - **CT Booster session structure: timed segments for vocabulary, examples, micro-credentials, and Q&A**: Each CT Booster session follows a repeating timed structure: a short introduction and vocabulary segment, a set of worked examples anchored by guiding questions, a pointer to a related micro-credential, and a closing question-and-answer period. The deck prints the structure as "5-10 minutes: Introduction & Vocabulary" followed by "15-20 minutes: 3-4 Examples" and "2-5 minutes: Question & Answer Session". Guiding questions frame the examples, for example how teachers collect, analyze, and store data to understand relationships in intermediate and middle grades. (Iwatani et al. (2021))
 
 ### Claims
-- [The TAN project delivered four virtual CT Booster sessions for K-2 and 3-8 teachers on Data & Analysis and Algorithms between November 2020 and January 2021](../claims/tan-four-ct-booster-sessions-rural-ky.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -109,7 +108,6 @@ Each CT Booster session follows a repeating timed structure: a short introductio
 - Computational thinking: data analysis and algorithms
 
 ### Claims
-- [Tan Four Ct Booster Sessions Rural Ky](../claims/tan-four-ct-booster-sessions-rural-ky.md) [+M]
 
 ## Related Designs
 - 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jingwei-yi-2026
-    resource: "https://arxiv.org/abs/2607.10101"
-    title: "Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101"
+    resource: "https://doi.org/10.48550/arxiv.2607.10101"
+    title: "Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101 [doi:10.48550/arxiv.2607.10101](https://doi.org/10.48550/arxiv.2607.10101)"
     author: Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Post-study attitudes and self-reports align with annotated behavior patterns: limited-engagement users show rising overreliance concern and less selective AI use
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Concerns about overreliance increased more among limited engagement participants than among proactive and critical participants, and inaccurate-response concerns declined among experimental participants. [→ Jingwei Yi 2026](#jingwei-yi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jingwei Yi 2026
 
-Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101
+Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101 [doi:10.48550/arxiv.2607.10101](https://doi.org/10.48550/arxiv.2607.10101)
 
 `q2 · i?` · `causal · r2`
 
@@ -63,5 +63,5 @@ Self-reported AI integration methods among experimental participants (Figure 4c,
 
 ## Related Claims
 - [Among GPT-assisted students, proactive and critical engagement patterns are associated with higher exam scores while limited engagement shows little benefit relative to control](proactive-critical-ai-engagement-higher-exam-scores.md) — related
-- [Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts](ai-concerns-overreliance-integrity-arab-el2.md) — related
+- Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related

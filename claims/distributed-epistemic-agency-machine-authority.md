@@ -46,7 +46,7 @@ Third macro-transformation reported in Section 4.3, drawing on distributed cogni
 - [AI methodologies may redistribute epistemic agency, moving researchers from primary analyst to interpreter and validator of AI-generated outputs](ai-redistributes-researcher-epistemic-agency.md) — related
 - [LEARN reconceptualises scaffolding for GAI contexts as interactive, dialogic, and epistemically regulated interrogation of AI outputs](gai-scaffolding-reconceptualised-epistemic-regulation.md) — related
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
-- [Human epistemic accountability operates as a boundary condition with three tests: contestability, provenance, and non-delegation of moral and intellectual credit](human-epistemic-accountability-boundary-conditions.md) — related
+- Human epistemic accountability operates as a boundary condition with three tests: contestability, provenance, and non-delegation of moral and intellectual credit — related
 - [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — related
 - [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — related
 - [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](genai-reconfigures-group-knowledge-development.md) — a broader claim this one bears on

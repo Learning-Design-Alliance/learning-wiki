@@ -52,7 +52,7 @@ Narrative review of implementation barriers: the article reports, citing Vingsle
 | [anchor-formative](https://doi.org/10.51388/20.500.12265/309) | q2 · qualitative · r1 | i? | [Educators see AI as having potential to increase capacity for high-quality formative asses](ai-formative-assessment-capacity-demand.md) (supports) |
 | [Cynthia J. Miller 2015](https://doi.org/10.5430/wje.v5n4p1) | q2 · causal · r1 | i? | [Dental students in a revised low-stress TBL format scored higher on the individual summati](low-stress-tbl-higher-isat-scores.md) (qualifies) |
 | [Rwitajit Majumdar 2026](https://doi.org/10.1016/j.caeo.2026.100405) | q2 · associational · r1 | i? | [Automated formative assessment and feedback with AI agents ranks second-highest in impact ](automated-ai-assessment-high-impact-moderate-challenge.md) (qualifies) |
-| Cohn 2026 | q1 · qualitative · r? | i? | [Teacher and student feedback indicates LLM-based formative assessment can reduce grading b](stakeholder-feedback-llm-formative-assessment.md) (qualifies) |
+| [Cohn 2026](https://doi.org/10.48550/arxiv.2504.02323) | q1 · qualitative · r? | i? | [Teacher and student feedback indicates LLM-based formative assessment can reduce grading b](stakeholder-feedback-llm-formative-assessment.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

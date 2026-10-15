@@ -62,7 +62,7 @@ The review reports Chen's (2013) examination of Tablet PC use for informal Engli
 
 
 ## Related Claims
-- [Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning](mobile-independent-work-initiative-actors.md) — related
+- Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning — related
 - [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](microblogging-promotes-interaction-community-language-learners.md) — related
 - [SMS use improved both vocabulary retention and reading comprehension among Iranian EFL learners relative to a control group](sms-vocabulary-retention-reading-comprehension-efl.md) — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related

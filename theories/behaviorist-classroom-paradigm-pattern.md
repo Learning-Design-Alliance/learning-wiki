@@ -17,7 +17,7 @@ sources:
 # The behaviorist classroom paradigm: teacher as enforcer, passive learner, reward and punishment, predetermined knowledge
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's Table 1 lays out the behaviorist paradigm across objectives, teaching theory, and the student's role. Objectives are to "Control student's behavior"; teaching relies on "Reward and punishment" and "Experimentation"; the teacher is an "Enforcer behavioral modifier" who provides materials and creates the study environment; the learner is "passive," waits for an order, follows instruction, and shows "No critical thinking."
@@ -39,7 +39,6 @@ The review's Table 1 lays out the behaviorist paradigm across objectives, teachi
 ### Claims
 
 - [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W]
-- [The review reports that behaviorism cannot deal with complex human behavior and fails to explain linguistic generativity](../claims/behaviorism-fails-linguistic-generativity.md) [-W]
 
 ## Related Patterns
 - 

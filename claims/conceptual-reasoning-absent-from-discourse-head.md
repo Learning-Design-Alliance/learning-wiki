@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: syed-furqan-abbas-hashmi-and-n-sanjay-rebello-2026
-    resource: "https://arxiv.org/abs/2608.07373"
-    title: "Syed Furqan Abbas Hashmi and N. Sanjay Rebello. (2026). A bottom-up taxonomy of student discourse with a Socratic AI physics tutor. https://arxiv.org/abs/2608.07373"
+    resource: "https://doi.org/10.48550/arxiv.2608.07373"
+    title: "Syed Furqan Abbas Hashmi and N. Sanjay Rebello. (2026). A bottom-up taxonomy of student discourse with a Socratic AI physics tutor. https://arxiv.org/abs/2608.07373 [doi:10.48550/arxiv.2608.07373](https://doi.org/10.48550/arxiv.2608.07373)"
     author: Syed Furqan Abbas Hashmi and N. Sanjay Rebello
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Syed Furqan Abbas Hashmi and N. Sanjay Rebello 2026
 
-Syed Furqan Abbas Hashmi and N. Sanjay Rebello. (2026). A bottom-up taxonomy of student discourse with a Socratic AI physics tutor. https://arxiv.org/abs/2608.07373
+Syed Furqan Abbas Hashmi and N. Sanjay Rebello. (2026). A bottom-up taxonomy of student discourse with a Socratic AI physics tutor. https://arxiv.org/abs/2608.07373 [doi:10.48550/arxiv.2608.07373](https://doi.org/10.48550/arxiv.2608.07373)
 
 `q2 · i?` · `qualitative · r2`
 

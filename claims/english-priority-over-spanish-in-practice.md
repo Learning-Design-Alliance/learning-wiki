@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Despite guidelines requiring equal representation of both languages, the program prioritized English acquisition, and an English teacher's remarks revealed English as her instructional priority. [→ Amrein 2000](#amrein-2000)
@@ -43,6 +44,6 @@ Observation and informal interview with an English-speaking teacher during a mix
 
 
 ## Related Claims
-- [In a two-way immersion program, code-switching asymmetry arose because Spanish teachers were bilingual while English teachers were monolingual](code-switching-asymmetry-bilingual-teacher-imbalance.md) — related
+- In a two-way immersion program, code-switching asymmetry arose because Spanish teachers were bilingual while English teachers were monolingual — related
 - [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) — related
 - [Early-exit transitional bilingual programs that provide minimal early-grade English literacy and then transition students to all-English classrooms with no support are inappropriate](early-exit-transitional-transition-unsupported-inappropriate.md) — related

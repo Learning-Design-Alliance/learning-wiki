@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bates-2013
-    resource: "https://arxiv.org/abs/1308.2202"
-    title: "Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202"
+    resource: "https://doi.org/10.48550/arxiv.1308.2202"
+    title: "Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202 [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)"
     author: Bates, S. P., Galloway, R. K., Riise, J., and Homer, D.
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Bates 2013
 
-Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202
+Bates, S. P., Galloway, R. K., Riise, J., and Homer, D. (2013). Assessing the quality of a student-generated question repository. https://arxiv.org/abs/1308.2202 [doi:10.48550/arxiv.1308.2202](https://doi.org/10.48550/arxiv.1308.2202)
 
 `q3 · i? · the article prints category percentages, no effect size` · `design · r2`
 
@@ -47,4 +47,4 @@ Categorization of sampled Physics 1A questions (N=150 in 2010, N=200 in 2011) on
 - [Students answer lower-taxonomy-category questions more frequently, but only by a factor of about 2](lower-taxonomy-questions-answered-more.md) — related
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
 - Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A — related
-- [Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy](teacher-questions-low-bloom-levels-cooperative-dialogue.md) — related
+- Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy — related

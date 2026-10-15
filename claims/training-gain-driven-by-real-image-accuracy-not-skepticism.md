@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: negar-kamali-2026
-    resource: "https://arxiv.org/abs/2606.28510"
-    title: "Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510"
+    resource: "https://doi.org/10.48550/arxiv.2606.28510"
+    title: "Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510 [doi:10.48550/arxiv.2606.28510](https://doi.org/10.48550/arxiv.2606.28510)"
     author: Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The training gain was driven by a 14.2-percentage-point improvement in accuracy on real images, while the gain on AI-generated images was not statistically significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Accuracy on real images increased by 14.2 percentage points (95% CI: [0.7, 27.7]) after training, a corresponding reduction in false-positive errors on real images. [→ Negar Kamali 2026](#negar-kamali-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Negar Kamali 2026
 
-Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510
+Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510 [doi:10.48550/arxiv.2606.28510](https://doi.org/10.48550/arxiv.2606.28510)
 
 `q3 · i?` · `causal · r2`
 

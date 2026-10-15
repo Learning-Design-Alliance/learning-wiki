@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: eicher-2026
-    resource: "https://arxiv.org/abs/2609.27939"
-    title: "Eicher, J., & da Silva, R. (2026). From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026. arXiv. https://arxiv.org/abs/2609.27939"
+    resource: "https://doi.org/10.48550/arxiv.2609.27939"
+    title: "Eicher, J., & da Silva, R. (2026). From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026. arXiv. https://arxiv.org/abs/2609.27939 [doi:10.48550/arxiv.2609.27939](https://doi.org/10.48550/arxiv.2609.27939)"
     author: "Eicher, J., & da Silva, R."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eicher 2026
 
-Eicher, J., & da Silva, R. (2026). From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026. arXiv. https://arxiv.org/abs/2609.27939
+Eicher, J., & da Silva, R. (2026). From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026. arXiv. https://arxiv.org/abs/2609.27939 [doi:10.48550/arxiv.2609.27939](https://doi.org/10.48550/arxiv.2609.27939)
 
 `q2 · i?` · `review · r2`
 

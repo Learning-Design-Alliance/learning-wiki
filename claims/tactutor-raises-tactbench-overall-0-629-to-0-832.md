@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dongjie-yang-2026
-    resource: "https://arxiv.org/abs/2608.03952"
-    title: "Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952"
+    resource: "https://doi.org/10.48550/arxiv.2608.03952"
+    title: "Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952 [doi:10.48550/arxiv.2608.03952](https://doi.org/10.48550/arxiv.2608.03952)"
     author: Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Taxonomy-guided post-training raises TACTutor's TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Post-training with SFT and taxonomy-grounded GRPO raises TACT_Overall from 0.629 for the Qwen3.5-4B backbone to 0.832 on the 78-context TACTBench diagnostic. [→ Dongjie Yang 2026](#dongjie-yang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Dongjie Yang 2026
 
-Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952
+Dongjie Yang, Siyan Lin, Leixian Shen, Rui Sheng, Huamin Qu, and Zixin Chen. (2026). TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring. https://arxiv.org/abs/2608.03952 [doi:10.48550/arxiv.2608.03952](https://doi.org/10.48550/arxiv.2608.03952)
 
 `q2 · i?` · `design · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: ashish-gurung-2026
-    resource: "https://arxiv.org/abs/2605.11155"
-    title: "Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger. (2026). Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs. arXiv preprint. https://arxiv.org/abs/2605.11155"
+    resource: "https://doi.org/10.48550/arxiv.2605.11155"
+    title: "Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger. (2026). Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs. arXiv preprint. https://arxiv.org/abs/2605.11155 [doi:10.48550/arxiv.2605.11155](https://doi.org/10.48550/arxiv.2605.11155)"
     author: Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 <!-- title before 2026-10-15: Human-AI tutoring increases IXL skill proficiency by 36%, but the proficiency gap widens in favor of reactively tutored students -->
 
 ## Subclaims
@@ -41,7 +41,7 @@ sources:
 
 ### Ashish Gurung 2026
 
-Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger. (2026). Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs. arXiv preprint. https://arxiv.org/abs/2605.11155
+Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger. (2026). Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs. arXiv preprint. https://arxiv.org/abs/2605.11155 [doi:10.48550/arxiv.2605.11155](https://doi.org/10.48550/arxiv.2605.11155)
 
 `q2 · i?` · `causal · r2`
 

@@ -65,7 +65,7 @@ The report's profile of the University of Illinois at Chicago's Ed.D. in Urban E
 - [No differences in student learning gains found between LAUNCH or NLNS principals and comparable or veteran principals](no-learning-gains-differences-launch-nlns-principals.md) — reports the opposite
 - [Elementary schools led by LAUNCH principals show higher teacher-parent interaction and more reformed literacy practices](launch-elementary-teacher-parent-interaction-reformed-literacy.md) — related
 - [Elementary LAUNCH principals' schools rated significantly lower on 5 of 12 measures compared to schools led by non-program principals](launch-elementary-schools-rated-lower.md) — related
-- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — related
+- Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — related
 - [Elementary LAUNCH principals report significantly more data-driven decision making than comparable or veteran principals](launch-elementary-principals-more-data-driven-decision-making.md) — related
 - [NLNS and UIC elementary schools rated more positively than non-program principal schools on several measures](nlns-uic-elementary-rated-positively.md) — related
 - [NISL-trained principals' schools outperformed comparable non-NISL schools in student achievement over a 4-year period](nisl-principals-student-achievement-gains.md) — related

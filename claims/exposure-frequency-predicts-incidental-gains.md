@@ -85,7 +85,7 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 Uchihara et al. (2019) support the direction of this claim for second-language learners, with a medium mean correlation (r = .34) between encounters and incidental learning across 26 studies, but do not test the claim's "strongest predictor": the meta-analysis pooled frequency–learning correlations only. The title overstates what either entry on this page shows.
 
 ## Related Claims
-- [The 5000-word frequency level is the strongest single predictor of advanced listening comprehension variance](5000-word-level-strongest-listening-predictor.md) — related
+- The 5000-word frequency level is the strongest single predictor of advanced listening comprehension variance — related
 - [Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning](marginal-glosses-dictionary-recurrence-improve-incidental-learning.md) — possibly the same claim (merge candidate)
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — a broader claim this one bears on

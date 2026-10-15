@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: yubo-li-2026
-    resource: "https://arxiv.org/abs/2607.22606"
-    title: "Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606"
+    resource: "https://doi.org/10.48550/arxiv.2607.22606"
+    title: "Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606 [doi:10.48550/arxiv.2607.22606](https://doi.org/10.48550/arxiv.2607.22606)"
     author: Yubo Li, Rema Padman, Ramayya Krishnan
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Same-center cross-organ handbook agreement exceeds different-center same-organ agreement by 0.024, but the institution contrast is sensitive to coverage thresholds and document selection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Same-center cross-organ agreement exceeds different-center same-organ agreement by 0.024 (Holm-adjusted p = 0.011) in the primary analysis of handbook pairs. [→ Yubo Li 2026](#yubo-li-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yubo Li 2026
 
-Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606
+Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606 [doi:10.48550/arxiv.2607.22606](https://doi.org/10.48550/arxiv.2607.22606)
 
 `q2 · i?` · `associational · r2`
 
@@ -62,5 +62,5 @@ Sensitivity analysis on answers generated from complete short-handbook text, whi
 
 
 ## Related Claims
-- [Multimodal LLMs show moderate cross-model agreement on which image-Required items are solvable, with within-family agreement exceeding cross-family agreement](moderate-cross-model-agreement-solvability.md) — related
+- Multimodal LLMs show moderate cross-model agreement on which image-Required items are solvable, with within-family agreement exceeding cross-family agreement — related
 - [Reproductive health shows the highest coverage gap (82.1% absence) and the highest judge-rated significance among divergent pairs (86%), making it a priority content area](reproductive-health-highest-absence-and-significance.md) — related

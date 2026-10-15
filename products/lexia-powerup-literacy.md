@@ -18,7 +18,7 @@ sources:
 # Lexia PowerUp Literacy
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Lexia Learning's blended literacy program for struggling and non-proficient readers in grades 6–12 combines adaptive online instruction with teacher-delivered lessons and activities.
@@ -27,7 +27,6 @@ Lexia Learning's blended literacy program for struggling and non-proficient read
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [One semester of PowerUp use raised STAR Reading scores by +0.36 among grade 6-8 struggling readers](../claims/powerup-star-reading-gain-036.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,7 +63,6 @@ PowerUp is a literacy program for struggling and non-proficient readers in grade
 
 ## Claims
 
-- [One semester of PowerUp use raised STAR Reading scores by +0.36 among grade 6-8 struggling readers](../claims/powerup-star-reading-gain-036.md) [+W]
 
 ## Related Elements
 

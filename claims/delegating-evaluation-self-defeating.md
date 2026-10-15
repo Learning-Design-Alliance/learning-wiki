@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: marcus-kubsch-2026
-    resource: "https://arxiv.org/abs/2606.16822"
-    title: "Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822"
+    resource: "https://doi.org/10.48550/arxiv.2606.16822"
+    title: "Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822 [doi:10.48550/arxiv.2606.16822](https://doi.org/10.48550/arxiv.2606.16822)"
     author: Marcus Kubsch
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Marcus Kubsch 2026
 
-Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822
+Marcus Kubsch. (2026). AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation. https://arxiv.org/abs/2606.16822 [doi:10.48550/arxiv.2606.16822](https://doi.org/10.48550/arxiv.2606.16822)
 
 `q1 · i?` · `theoretical · r2`
 

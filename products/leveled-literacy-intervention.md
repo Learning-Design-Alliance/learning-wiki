@@ -22,7 +22,7 @@ sources:
 # Leveled Literacy Intervention
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (8 for, 1 mixed) · 2 studies (2 quant-synthesis), `q3` · 2 of 2 report an effect size · 9 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Leveled Literacy Intervention is a Fountas & Pinnell literacy intervention programme providing daily small-group tutoring for struggling readers, typically in kindergarten through grade 2.
@@ -34,9 +34,6 @@ Leveled Literacy Intervention is a Fountas & Pinnell literacy intervention progr
 - **Alternating independent-level and instructional-level texts across tutoring lessons**: Within LLI, lessons alternate between "independent level" texts and more challenging "instructional level" texts. The instructional-level texts may also be taken back to students' classrooms or homes, extending the tutoring texts into classroom and home reading. (Leveled Literacy Intervention (LLI) evidence summary (2010))
 
 ### Claims
-- [LLI improves reading outcomes for struggling K-2 readers with an average effect size of +0.13 across two studies](../claims/lli-average-effect-size-013-two-studies.md) [+W]
-- [In a Denver study, LLI showed very positive outcomes on the DRA2 in kindergarten but not in first or second grade, for an effect size of +0.10](../claims/lli-denver-dra2-kindergarten-only-010.md) [+W]
-- [In a randomized study in rural and suburban Georgia and New York, LLI produced an average effect size of +0.17 across five DIBELS scales with significant differences on Non-Word Fluency and Oral Reading Fluency](../claims/lli-georgia-new-york-rct-dibels-017.md) [+W]
 - [Leveled Literacy Intervention has positive effects on general reading achievement, potentially positive effects on reading fluency, and no discernible effects on alphabetics for beginning readers in grades K–2](../claims/lli-positive-effects-general-reading-achievement-k-2.md) [+M]
 - [In the 2010 RCT, LLI produced a statistically significant positive effect on reading fluency for grades 1–2 (effect size 0.27, improvement index +11)](../claims/lli-2010-positive-reading-fluency.md) [+M]
 - [In a 2010 RCT in Georgia and New York, LLI produced a statistically significant positive effect on general reading achievement (effect size 0.35, improvement index +14)](../claims/lli-2010-rct-positive-general-reading-achievement.md) [+M]
@@ -84,9 +81,6 @@ LLI is a one-to-three small-group tutoring model taught by literacy specialists 
 
 ## Claims
 
-- [LLI improves reading outcomes for struggling K-2 readers with an average effect size of +0.13 across two studies](../claims/lli-average-effect-size-013-two-studies.md) [+W]
-- [In a Denver study, LLI showed very positive outcomes on the DRA2 in kindergarten but not in first or second grade, for an effect size of +0.10](../claims/lli-denver-dra2-kindergarten-only-010.md) [+W]
-- [In a randomized study in rural and suburban Georgia and New York, LLI produced an average effect size of +0.17 across five DIBELS scales with significant differences on Non-Word Fluency and Oral Reading Fluency](../claims/lli-georgia-new-york-rct-dibels-017.md) [+W]
 - [Leveled Literacy Intervention has positive effects on general reading achievement, potentially positive effects on reading fluency, and no discernible effects on alphabetics for beginning readers in grades K–2](../claims/lli-positive-effects-general-reading-achievement-k-2.md) [+W]
 - [In the 2010 RCT, LLI produced a statistically significant positive effect on reading fluency for grades 1–2 (effect size 0.27, improvement index +11)](../claims/lli-2010-positive-reading-fluency.md) [+M]
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: stewart-williams-2020
-    resource: "https://ojed.org/jise"
-    title: "Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise"
+    resource: "https://doi.org/10.32674/jise.v9isi.1877"
+    title: "Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise [doi:10.32674/jise.v9isi.1877](https://doi.org/10.32674/jise.v9isi.1877)"
     author: Stewart Williams, J. E.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Stewart Williams 2020
 
-Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise
+Stewart Williams, J. E. (2020). Daisaku Ikeda's Philosophy of Value-Creating Global Citizenship Education and Africana Humanism: Africa as the Continent of the 21st Century. Journal of Interdisciplinary Studies in Education, 9(SI). https://ojed.org/jise [doi:10.32674/jise.v9isi.1877](https://doi.org/10.32674/jise.v9isi.1877)
 
 `q1 · i?` · `theoretical · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: perkins-2026
-    resource: "https://arxiv.org/abs/2606.26729"
-    title: "Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729"
+    resource: "https://doi.org/10.48550/arxiv.2606.26729"
+    title: "Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729 [doi:10.48550/arxiv.2606.26729](https://doi.org/10.48550/arxiv.2606.26729)"
     author: "Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Perkins 2026
 
-Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729
+Perkins, M., Postma, D., Roe, J., Sisay, S., & Holdcroft, C. (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. Preprint. https://arxiv.org/abs/2606.26729 [doi:10.48550/arxiv.2606.26729](https://doi.org/10.48550/arxiv.2606.26729)
 
 `q2 · i?` · `qualitative · r3`
 

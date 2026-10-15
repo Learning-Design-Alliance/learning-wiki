@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 10 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Immersion and intensive communicative programs supplying plentiful comprehensible input produced good listening/reading skills but low grammatical competence, indicating comprehensible input is not by itself sufficient for grammatical acquisition. [→ Ellis 1991](#ellis-1991)
@@ -43,15 +44,15 @@ The review reports, citing Hammerly (1987), Swain (1985), and Spada and Lightbow
 
 
 ## Related Claims
-- [Adult ESL learners in a planned informal total-immersion program made significantly greater communication-skill progress than a control group, with structural-skill progress not significantly different](immersion-esl-greater-communication-progress.md) — a narrower finding that bears on this claim
-- [Extensive reading improves grammatical knowledge and writing style](extensive-reading-improves-grammar-and-writing-style.md) — reports the opposite
+- Adult ESL learners in a planned informal total-immersion program made significantly greater communication-skill progress than a control group, with structural-skill progress not significantly different — a narrower finding that bears on this claim
+- Extensive reading improves grammatical knowledge and writing style — reports the opposite
 - [Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods](grammar-not-focus-of-sla-synthesis.md) — reports the opposite
-- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — related
+- There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related
 - [Dialogue journals inherently meet conditions deemed necessary for second language acquisition](dialogue-journals-meet-sla-conditions.md) — related
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](form-focused-input-manipulation-illusory-for-competence.md) — related
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — related
 - [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](instruction-little-effect-on-route-of-acquisition.md) — related
-- [In Spada's study, classes with less form-based listening practice improved listening significantly more than the class with the most](spada-listening-practice-paradox.md) — related
+- In Spada's study, classes with less form-based listening practice improved listening significantly more than the class with the most — related
 - [A 1999 conference paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), that explicit negative evidence on English adverb placement produced only superficial change in French learners](white-adverb-placement-negative-evidence-failed.md) — related
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](cooperative-learning-language-class-outcomes.md) — related
 - [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related

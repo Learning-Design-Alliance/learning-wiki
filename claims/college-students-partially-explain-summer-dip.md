@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: nick-huntington-klein-2026
-    resource: "https://arxiv.org/abs/2605.08812"
-    title: "Nick Huntington-Klein. (2026). Little Impact of ChatGPT on High School Test Scores. arXiv. https://arxiv.org/abs/2605.08812"
+    resource: "https://doi.org/10.48550/arxiv.2605.08812"
+    title: "Nick Huntington-Klein. (2026). Little Impact of ChatGPT on High School Test Scores. arXiv. https://arxiv.org/abs/2605.08812 [doi:10.48550/arxiv.2605.08812](https://doi.org/10.48550/arxiv.2605.08812)"
     author: Nick Huntington-Klein
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # College students contribute to but cannot fully explain the summer dip in ChatGPT activity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
+> **Evidence** · 2 studies · 2 associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The in-session response rises with an area's college student share, with an interaction of 0.122 (0.040) in the fall window. [→ Nick Huntington-Klein 2026](#nick-huntington-klein-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Nick Huntington-Klein 2026
 
-Nick Huntington-Klein. (2026). Little Impact of ChatGPT on High School Test Scores. arXiv. https://arxiv.org/abs/2605.08812
+Nick Huntington-Klein. (2026). Little Impact of ChatGPT on High School Test Scores. arXiv. https://arxiv.org/abs/2605.08812 [doi:10.48550/arxiv.2605.08812](https://doi.org/10.48550/arxiv.2605.08812)
 
 `q2 · i?` · `associational · r3`
 

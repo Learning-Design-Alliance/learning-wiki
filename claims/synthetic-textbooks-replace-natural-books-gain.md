@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jiawen-tao-2026
-    resource: "https://arxiv.org/abs/2607.28109"
-    title: "Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109"
+    resource: "https://doi.org/10.48550/arxiv.2607.28109"
+    title: "Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109 [doi:10.48550/arxiv.2607.28109](https://doi.org/10.48550/arxiv.2607.28109)"
     author: Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Replacing natural books with synthetic textbooks improves the 28-benchmark mean by +1.09, with gains spanning all four categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Full improves 19 of 28 benchmarks over Natural Books with a +1.09 overall mean, improving all four category means. [→ Jiawen Tao 2026](#jiawen-tao-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jiawen Tao 2026
 
-Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109
+Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu, Wenhan Yu, Guoan Wang, Nuo Chen, Tong Yang, Maxm Pan. (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv preprint. https://arxiv.org/abs/2607.28109 [doi:10.48550/arxiv.2607.28109](https://doi.org/10.48550/arxiv.2607.28109)
 
 `q2 · i?` · `causal · r2`
 

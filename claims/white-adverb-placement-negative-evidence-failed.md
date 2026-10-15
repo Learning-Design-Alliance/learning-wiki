@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-15: Explicit negative evidence failed to induce grammar reorganization in French learners of English adverb placement -->
 
 ## Subclaims
@@ -46,6 +47,6 @@ The paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), tha
 ## Related Claims
 - [Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance](form-focused-input-manipulation-illusory-for-competence.md) — a broader claim this one bears on
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](mental-representation-not-directly-instructable.md) — a broader claim this one bears on
-- [The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope](learners-acquire-adverb-positions-and-scope.md) — related
-- [Adult L2 learners can generally judge which English adverb placements are acceptable, based on true/false judgment data from ten college students](adult-l2-learners-judge-adverb-positions-acceptability.md) — related
+- The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope — related
+- Adult L2 learners can generally judge which English adverb placements are acceptable, based on true/false judgment data from ten college students — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: luke-2017
-    resource: "https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661"
-    title: "Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661"
+    resource: "https://doi.org/10.51388/20.500.12265/26"
+    title: "Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661 [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)"
     author: Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Luke 2017
 
-Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661
+Luke, Christina C.; Gibson, Sierra; Francisco, Aubrey T. (2017). Rapid Cycle Pilots: Using Edtech to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/383e02ba-587a-4192-be68-175543798661 [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)
 
 `q2 · i?` · `design · r2`
 
@@ -47,4 +47,4 @@ ANCOVA on Cajon Valley fifth graders (pilot N = 89, comparison N = 109 per Figur
 - [Hill and Lenard (2016): LevelSet Lexile effects were negative in spring 2014 and positive in spring 2015](kidbiz-levelset-year-contrast.md) — related
 - [Newcomer EL students using BrainPOP ESL showed no statistically significant Lexile growth, and results lacked a comparison group](brainpop-esl-no-significant-lexile-growth.md) — related
 - [Across three studies of Achieve3000 (35,070 students), the average effect size was 0.00](achieve3000-average-effect-size-zero.md) — related
-- [Achieve3000 use shows significant positive effects on Total Reading Scores for sixth and ninth graders, with a weighted average effect size of +0.29](achieve3000-total-reading-positive-effects.md) — related
+- Achieve3000 use shows significant positive effects on Total Reading Scores for sixth and ninth graders, with a weighted average effect size of +0.29 — related

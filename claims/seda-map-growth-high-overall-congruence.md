@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: megan-kuhfeld-2019
-    resource: "https://www.nwea.org/research/publication/validating-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment/"
-    title: "Megan Kuhfeld, Thurston Domina, Paul Hanselman. (2019). Validating the SEDA measures of district educational opportunities via a common assessment. AERA Open 5(2). https://www.nwea.org/research/publication/validating-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment/"
+    resource: "https://doi.org/10.1177/2332858419858324"
+    title: "Megan Kuhfeld, Thurston Domina, Paul Hanselman. (2019). Validating the SEDA measures of district educational opportunities via a common assessment. AERA Open 5(2). https://www.nwea.org/research/publication/validating-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment/ [doi:10.1177/2332858419858324](https://doi.org/10.1177/2332858419858324)"
     author: Megan Kuhfeld, Thurston Domina, Paul Hanselman
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Megan Kuhfeld 2019
 
-Megan Kuhfeld, Thurston Domina, Paul Hanselman. (2019). Validating the SEDA measures of district educational opportunities via a common assessment. AERA Open 5(2). https://www.nwea.org/research/publication/validating-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment/
+Megan Kuhfeld, Thurston Domina, Paul Hanselman. (2019). Validating the SEDA measures of district educational opportunities via a common assessment. AERA Open 5(2). https://www.nwea.org/research/publication/validating-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment/ [doi:10.1177/2332858419858324](https://doi.org/10.1177/2332858419858324)
 
 `q3 · i?` · `associational · r?`
 

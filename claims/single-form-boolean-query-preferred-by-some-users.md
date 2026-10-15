@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Some users stated they prefer the WWW Entrez FORMS-based query interface, which allows Boolean composition of several terms on one form, to the Entrez/Network Entrez interface. [→ Epstein 1994](#epstein-1994)

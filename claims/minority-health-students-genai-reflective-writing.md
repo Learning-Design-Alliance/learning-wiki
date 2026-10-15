@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rajan-kadel-2026
-    resource: "https://arxiv.org/abs/2609.03413"
-    title: "Rajan Kadel, Samar Shailendra, Islam Mohammad Tahidul, Urvashi Rahul Saxena, Aakanksha Sharma, and Sabitra Kaphle. (2026). The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era. Pre-print submitted to IEEE Transactions on Education. https://arxiv.org/abs/2609.03413"
+    resource: "https://doi.org/10.48550/arxiv.2609.03413"
+    title: "Rajan Kadel, Samar Shailendra, Islam Mohammad Tahidul, Urvashi Rahul Saxena, Aakanksha Sharma, and Sabitra Kaphle. (2026). The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era. Pre-print submitted to IEEE Transactions on Education. https://arxiv.org/abs/2609.03413 [doi:10.48550/arxiv.2609.03413](https://doi.org/10.48550/arxiv.2609.03413)"
     author: Rajan Kadel, Samar Shailendra, Islam Mohammad Tahidul, Urvashi Rahul Saxena, Aakanksha Sharma, and Sabitra Kaphle
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rajan Kadel 2026
 
-Rajan Kadel, Samar Shailendra, Islam Mohammad Tahidul, Urvashi Rahul Saxena, Aakanksha Sharma, and Sabitra Kaphle. (2026). The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era. Pre-print submitted to IEEE Transactions on Education. https://arxiv.org/abs/2609.03413
+Rajan Kadel, Samar Shailendra, Islam Mohammad Tahidul, Urvashi Rahul Saxena, Aakanksha Sharma, and Sabitra Kaphle. (2026). The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era. Pre-print submitted to IEEE Transactions on Education. https://arxiv.org/abs/2609.03413 [doi:10.48550/arxiv.2609.03413](https://doi.org/10.48550/arxiv.2609.03413)
 
 `q2 · i?` · `design · r1`
 

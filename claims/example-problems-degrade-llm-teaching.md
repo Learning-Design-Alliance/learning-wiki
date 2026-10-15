@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zheng-li-2026
-    resource: "https://arxiv.org/abs/2601.21375"
-    title: "Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375"
+    resource: "https://doi.org/10.48550/arxiv.2601.21375"
+    title: "Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375 [doi:10.48550/arxiv.2601.21375](https://doi.org/10.48550/arxiv.2601.21375)"
     author: Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Incorporating example problems does not necessarily improve LLM teaching and can degrade it via a shift to example-specific error correction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q1`–`q2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r2` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Adding example problems to knowledge-point instruction often reduces measured teaching effectiveness at Pass@1 (e.g., Gemini-2.5-Pro drops from 7.60 to 3.33 points improvement). [→ Zheng Li 2026](#zheng-li-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Zheng Li 2026
 
-Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375
+Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375 [doi:10.48550/arxiv.2601.21375](https://doi.org/10.48550/arxiv.2601.21375)
 
 `q2 · i?` · `causal · r1`
 

@@ -48,4 +48,3 @@ Cumulative link mixed modeling of degree attainment found 'Black TECTA participa
 - [Lack of childcare support, language barriers, unrecognized international degrees, and stigma shaped providers' educational pathways](identity-barriers-learning-while-parenting-language-credentials.md) — related
 - [Rural and urban TECTA participants showed no statistically significant differences in credential attainment or time to completion](rural-urban-no-significant-difference-tecta-credential-outcomes.md) — related
 - [TECTA credential attainment concentrated below the bachelor's level, with only 1.8% of participants completing a bachelor's degree or higher](tecta-credential-attainment-concentrated-below-bachelors.md) — related
-- [White respondents were more likely than other respondents to use Glassdoor to keep track of skills and credentials](white-respondents-more-likely-glassdoor.md)

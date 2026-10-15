@@ -43,10 +43,10 @@ Descriptive engagement outcome from the Results section of the single-school rep
 
 
 ## Related Claims
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — a broader claim this one bears on
 - [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](pbis-suspensions-decreased-41-percent.md) — related
 - [Student mastery increased modestly from 17.5% to 19.2% during TEAM Student implementation](student-mastery-increase-team-student.md) — related
-- [READY4K! improves teacher-reported parental involvement at school](ready4k-improves-teacher-reported-involvement.md) — related
+- READY4K! improves teacher-reported parental involvement at school — related
 - [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](all-staff-family-communication-channels.md) — related
 - [Inclusive, family-focused co-curricular events deepened relationships between educators and parents](family-focused-co-curricular-events-relationships.md) — related

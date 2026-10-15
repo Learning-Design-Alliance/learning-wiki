@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dawei-xie-2026
-    resource: "https://arxiv.org/abs/2605.17259"
-    title: "Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259"
+    resource: "https://doi.org/10.48550/arxiv.2605.17259"
+    title: "Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259 [doi:10.48550/arxiv.2605.17259](https://doi.org/10.48550/arxiv.2605.17259)"
     author: Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Artifact-grounded agent responses are rated significantly higher than transcript-only responses on groundedness, analytical depth, helpfulness, relevance, and overall quality
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across 21 matched query pairs rated by four blind expert raters, the full agent outperformed the transcript-only baseline overall (r=.792, p=.001; means 4.24 vs 3.67 on a 5-point scale), with the largest effects on helpfulness (r=.737), analytical depth (r=.723), and groundedness (r=.693). [→ Dawei Xie 2026](#dawei-xie-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Dawei Xie 2026
 
-Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259
+Dawei Xie, Khalil Anderson, Tochukwu Eze, Chenghong Lin, Bookyung Shin, and Marcelo Worsley. (2026). CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy. https://arxiv.org/abs/2605.17259 [doi:10.48550/arxiv.2605.17259](https://doi.org/10.48550/arxiv.2605.17259)
 
 `q2 · i?` · `causal · r1`
 

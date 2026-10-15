@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In teacher preparation programs, technology instruction integrated into methods and curriculum courses correlates more positively with technology skills and integration ability than stand-alone information technology courses. [→ CEO Forum on Education and Technology 1999](#ceo-forum-on-education-and-technology-1999)

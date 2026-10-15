@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kenneth-fortson-2015
-    resource: "https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators"
-    title: "Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz. (2015). Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Whether Nonexperimental Estimators are Biased. Economics of Education Review, vol. 44. https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators"
+    resource: "https://doi.org/10.1016/j.econedurev.2014.11.001"
+    title: "Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz. (2015). Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Whether Nonexperimental Estimators are Biased. Economics of Education Review, vol. 44. https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators [doi:10.1016/j.econedurev.2014.11.001](https://doi.org/10.1016/j.econedurev.2014.11.001)"
     author: Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kenneth Fortson 2015
 
-Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz. (2015). Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Whether Nonexperimental Estimators are Biased. Economics of Education Review, vol. 44. https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators
+Kenneth Fortson, Philip Gleason, Emma Kopa, Natalya Verbitsky-Savitz. (2015). Horseshoes, Hand Grenades, and Treatment Effects? Reassessing Whether Nonexperimental Estimators are Biased. Economics of Education Review, vol. 44. https://www.mathematica.org/publications/horseshoes-hand-grenades-and-treatment-effects-reassessing-whether-nonexperimental-estimators [doi:10.1016/j.econedurev.2014.11.001](https://doi.org/10.1016/j.econedurev.2014.11.001)
 
 `q3 · i?` · `causal · r?`
 
@@ -47,7 +47,7 @@ The study benchmarks nonexperimental regression and propensity score estimators 
 - A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools. — a broader claim this one bears on
 - [Some bias may remain in nonexperimental estimates even when rich pre-intervention data are used](residual-bias-nonexperimental-estimators.md) — related
 - [Prior studies finding nonexperimental estimators biased examined weaker evaluation designs than RCT-benchmark studies](prior-bias-studies-used-weaker-designs.md) — related
-- [The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio](authorizer-type-charter-effectiveness-ohio-study.md) — related
+- The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related
 - [Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations](propensity-stratification-multilevel-reduces-selection-bias.md) — a narrower finding that bears on this claim
 - [Propensity score analysis estimated a Texas generalizability index of 0.91, and post-stratification yielded a population average treatment effect of 1.47 versus a conventional estimate of 1.44](propensity-score-population-treatment-effect.md) — related
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — a narrower finding that bears on this claim

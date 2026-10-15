@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: fumie-watanabe-2026
-    resource: "https://arxiv.org/abs/2608.20822"
-    title: "Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi. (2026). Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons. https://arxiv.org/abs/2608.20822"
+    resource: "https://doi.org/10.48550/arxiv.2608.20822"
+    title: "Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi. (2026). Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons. https://arxiv.org/abs/2608.20822 [doi:10.48550/arxiv.2608.20822](https://doi.org/10.48550/arxiv.2608.20822)"
     author: Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Fumie Watanabe 2026
 
-Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi. (2026). Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons. https://arxiv.org/abs/2608.20822
+Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, Shigeichi Hirasawa, and Gendo Kumoi. (2026). Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons. https://arxiv.org/abs/2608.20822 [doi:10.48550/arxiv.2608.20822](https://doi.org/10.48550/arxiv.2608.20822)
 
 `q2 · i?` · `causal · r1`
 

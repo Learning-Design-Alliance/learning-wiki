@@ -13,7 +13,7 @@ generated:
 # Reinforcement
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 5 studies (2 theoretical, 1 causal, 1 quant-synthesis, 1 review), `q1`–`q4` · 1 of 5 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 mixed, 1 against) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Reinforcement is the contingent delivery of a consequence following a target behavior, making that behavior more likely to recur. Rooted in operant conditioning [Behaviorism](../theories/behaviorism.md), it encompasses positive reinforcement (adding a desirable outcome — points, praise, privileges), negative reinforcement (removing an undesirable condition), and the scheduling of these consequences (continuous vs. intermittent). In learning design, reinforcement overlaps with but is distinct from [Feedback](feedback.md): reinforcement strengthens behavior; feedback supplies information about performance quality.
@@ -53,7 +53,6 @@ Reinforcement reliably increases the frequency and persistence of the behaviors 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Stimulus change can selectively reinforce behaviors that produce change and elicit exploratory behavior](../claims/stimulus-change-reinforces-exploratory-behavior.md) [+W]
 - [An effort-based reward did not significantly reduce answer offloading or improve unaided performance](../claims/effort-based-reward-no-effect-offloading-or-unaided-performance.md) [-W]
 
 ## Related Elements

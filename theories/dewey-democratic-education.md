@@ -17,7 +17,7 @@ sources:
 # Dewey's democratic education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article grounds its egalitarian program-design argument in Dewey's democratic education, quoting Democracy and Education on "that type of education which gives individuals a personal interest in social relationships and" shared inquiry. The framework holds that "An open exchange of information and ideas is both a hallmark of a democratic society" and a driver of institutional readjustment. The authors use it to justify permeating egalitarianism through graduate leadership program design.
@@ -39,8 +39,6 @@ The article grounds its egalitarian program-design argument in Dewey's democrati
 
 ### Claims
 
-- [Egalitarian Program Design Supports Culturally Responsive Leadership](../claims/egalitarian-program-design-supports-culturally-responsive-leadership.md) [+M]
-- [The article concludes there is an irreconcilable conflict between the values of Turkish modernization and the libertarian and democratic values Dewey advocates](../claims/irreconcilable-conflict-turkish-modernization-dewey-values.md) [~W]
 
 ## Related Theories
 

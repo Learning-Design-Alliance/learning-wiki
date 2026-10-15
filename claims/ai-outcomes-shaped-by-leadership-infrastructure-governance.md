@@ -46,7 +46,7 @@ Cross-case comparison within the thematic synthesis of 155 studies, identifying 
 - [Governance model shaped AIAS adoption: rapid central rollout generated momentum but curtailed reflection, while department-led adoption built ownership but fragmented strategy](governance-models-shape-aias-adoption.md) — a narrower finding that bears on this claim
 - [Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education](ethical-financial-infrastructural-barriers-constrain-ai-sustainability.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
-- [Boards of distressed charter schools lacked governance capacity and long-term sustainability strategy](board-distress-indicators-charter-schools.md) — related
+- Boards of distressed charter schools lacked governance capacity and long-term sustainability strategy — related
 - [AI-enabled service delivery improves responsiveness, personalisation, and student satisfaction in higher education, but remains uneven globally](ai-service-delivery-improves-responsiveness-satisfaction.md) — related
 - [Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness](strong-technical-awareness-limited-ethical-governance-readiness.md) — related
 - [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: anna-maria-velentza-2026
-    resource: "https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22"
-    title: "Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis. (2026). What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI. https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22"
+    resource: "https://doi.org/10.1109/ro-man72286.2026.11714558"
+    title: "Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis. (2026). What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI. https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22 [doi:10.1109/ro-man72286.2026.11714558](https://doi.org/10.1109/ro-man72286.2026.11714558)"
     author: Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis
     q: 3
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Anna-Maria Velentza 2026
 
-Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis. (2026). What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI. https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22
+Anna-Maria Velentza, Konstantina Nikou, Anne-Gwenn Bosser, Nikolaos Fachantidis. (2026). What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI. https://www.google.com/search?q=%22What+Robots+Do+Matters+More+Than+What+They+Look+Like%22 [doi:10.1109/ro-man72286.2026.11714558](https://doi.org/10.1109/ro-man72286.2026.11714558)
 
 `q3 · i1` · `causal · r2`
 

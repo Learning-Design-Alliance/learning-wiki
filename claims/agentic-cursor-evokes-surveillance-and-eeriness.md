@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: michael-yin-2026
-    resource: "https://arxiv.org/abs/2605.24729"
-    title: "Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao. (2026). \"It Felt a Bit Eerie\": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent. arXiv. https://arxiv.org/abs/2605.24729"
+    resource: "https://doi.org/10.48550/arxiv.2605.24729"
+    title: "Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao. (2026). \"It Felt a Bit Eerie\": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent. arXiv. https://arxiv.org/abs/2605.24729 [doi:10.48550/arxiv.2605.24729](https://doi.org/10.48550/arxiv.2605.24729)"
     author: Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Humanlike cursor behaviour made participants feel watched and judged while writing. [→ Michael Yin 2026](#michael-yin-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Michael Yin 2026
 
-Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao. (2026). "It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent. arXiv. https://arxiv.org/abs/2605.24729
+Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao. (2026). "It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent. arXiv. https://arxiv.org/abs/2605.24729 [doi:10.48550/arxiv.2605.24729](https://doi.org/10.48550/arxiv.2605.24729)
 
 `q2 · i?` · `causal · r1`
 

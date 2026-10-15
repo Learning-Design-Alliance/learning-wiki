@@ -47,7 +47,7 @@ The abstract frames the article's contribution against the long-standing view th
 
 ## Related Claims
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related
-- [Summer reading loss disproportionately widens academic gaps for low-income children](summer-reading-loss-widens-gaps.md) — related
+- Summer reading loss disproportionately widens academic gaps for low-income children — related
 - [A well-implemented summer learning program (BELL) improves low-income children's reading test scores](bell-summer-program-improves-reading-scores.md) — related
 - [Summer learning loss is common but not inevitable among K-12 students](summer-slide-common-but-not-inevitable.md) — related
 - [The research program includes related work on summer learning loss and the relationship between school-year gains and summer loss](related-work-summer-loss-and-gain-loss-relationship.md) — a narrower finding that bears on this claim

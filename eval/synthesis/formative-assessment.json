@@ -7,10 +7,6 @@
       "question": "Does using assessment evidence during instruction raise achievement compared with the usual teaching?",
       "members": [
         [
-          "formative-assessment-produces-substantial-learning-gains-cited",
-          "+"
-        ],
-        [
           "teacher-feedback-moves-learning-forward",
           "+"
         ],
@@ -136,10 +132,6 @@
         ],
         [
           "apca-improves-self-assessment-accuracy-overconfidence",
-          "~"
-        ],
-        [
-          "guided-llm-self-assessment-calibration-alignment",
           "~"
         ],
         [

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kirk-vanacore-2026
-    resource: "https://arxiv.org/abs/2602.19303"
-    title: "Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle. (2026). The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents. arXiv preprint. https://arxiv.org/abs/2602.19303"
+    resource: "https://doi.org/10.48550/arxiv.2602.19303"
+    title: "Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle. (2026). The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents. arXiv preprint. https://arxiv.org/abs/2602.19303 [doi:10.48550/arxiv.2602.19303](https://doi.org/10.48550/arxiv.2602.19303)"
     author: Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kirk Vanacore 2026
 
-Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle. (2026). The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents. arXiv preprint. https://arxiv.org/abs/2602.19303
+Kirk Vanacore, Ryan S. Baker, Avery H. Closser, and Jeremy Roschelle. (2026). The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents. arXiv preprint. https://arxiv.org/abs/2602.19303 [doi:10.48550/arxiv.2602.19303](https://doi.org/10.48550/arxiv.2602.19303)
 
 `q2 · i?` · `review · r2`
 

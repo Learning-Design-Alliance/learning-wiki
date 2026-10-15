@@ -10,7 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ehrenfeld-2020
-    title: "Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA."
+    resource: "https://doi.org/10.51272/pmena.42.2020-295"
+    title: "Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA. [doi:10.51272/pmena.42.2020-295](https://doi.org/10.51272/pmena.42.2020-295)"
     author: "Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B."
     q: 2
     i: "?"
@@ -30,7 +31,7 @@ sources:
 
 ### Ehrenfeld 2020
 
-Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA.
+Ehrenfeld, N., McGugan, K. S., Marshall, S. A., & Garner, B. (2020). Reconciling local contexts and external conceptual resources in mathematics teachers' collaborative sensemaking. In Mathematics Education Across Cultures: Proceedings of the 42nd Meeting of the North American Chapter of PME-NA. [doi:10.51272/pmena.42.2020-295](https://doi.org/10.51272/pmena.42.2020-295)
 
 `q2 · i?` · `qualitative · r2`
 

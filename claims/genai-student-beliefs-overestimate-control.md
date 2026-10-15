@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: zara-contractor-and-germán-reyes-2026
-    resource: "https://arxiv.org/abs/2607.08849"
-    title: "Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849"
+    resource: "https://doi.org/10.48550/arxiv.2607.08849"
+    title: "Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849 [doi:10.48550/arxiv.2607.08849](https://doi.org/10.48550/arxiv.2607.08849)"
     author: Zara Contractor and Germán Reyes
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zara Contractor and Germán Reyes 2026
 
-Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849
+Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849 [doi:10.48550/arxiv.2607.08849](https://doi.org/10.48550/arxiv.2607.08849)
 
 `q2 · i?` · `causal · r3`
 

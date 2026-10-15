@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2019
-    resource: "https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/"
-    title: "James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi. (2019). Examining the state-trait composition of social-emotional learning constructs: Implications for practice, policy, and evaluation. Journal of Research on Educational Effectiveness 12(3), 550-557. https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/"
+    resource: "https://doi.org/10.1080/19345747.2019.1615158"
+    title: "James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi. (2019). Examining the state-trait composition of social-emotional learning constructs: Implications for practice, policy, and evaluation. Journal of Research on Educational Effectiveness 12(3), 550-557. https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/ [doi:10.1080/19345747.2019.1615158](https://doi.org/10.1080/19345747.2019.1615158)"
     author: James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2019
 
-James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi. (2019). Examining the state-trait composition of social-emotional learning constructs: Implications for practice, policy, and evaluation. Journal of Research on Educational Effectiveness 12(3), 550-557. https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/
+James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi. (2019). Examining the state-trait composition of social-emotional learning constructs: Implications for practice, policy, and evaluation. Journal of Research on Educational Effectiveness 12(3), 550-557. https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/ [doi:10.1080/19345747.2019.1615158](https://doi.org/10.1080/19345747.2019.1615158)
 
 `q2 · i?` · `associational · r?`
 
@@ -43,8 +43,8 @@ The study's abstract reports a comparison of stability of academic achievement r
 
 
 ## Related Claims
-- [Students were less likely to meet target math and reading growth goals in schools with greater NSLP participation](nslp-participation-associated-lower-growth-goal-attainment.md) — related
-- [Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment](contextual-factors-influence-reflective-judgment-demonstration.md) — related
+- Students were less likely to meet target math and reading growth goals in schools with greater NSLP participation — related
+- Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment — related
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [Little is known about how much variance in SEL constructs is stable over time versus specific to a given time or context](sel-stability-variance-unknown.md) — related
@@ -52,4 +52,4 @@ The study's abstract reports a comparison of stability of academic achievement r
 - [SEL-related constructs are strongly predictive of long-term academic achievement and attainment](sel-constructs-predict-long-term-achievement-attainment.md) — related
 - [Whether students' SEL skills are stable over time, and whether initial level or change better flags later academic risk, was largely unknown before this study](sel-stability-and-predictive-value-largely-unknown.md) — related
 - [Within-person deviations from math and self-efficacy growth trajectories at a given time point are not related across constructs](within-person-deviations-unrelated-across-constructs.md) — related
-- [Quantitative inter-skill influence analysis shows conceptually similar skills exert the strongest mutual influence in CLST predictions](clst-inter-skill-influence-conceptual-similarity.md) — related
+- Quantitative inter-skill influence analysis shows conceptually similar skills exert the strongest mutual influence in CLST predictions — related

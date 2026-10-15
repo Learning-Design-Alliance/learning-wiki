@@ -46,7 +46,7 @@ The article's interpretive claim, stated in the abstract, that its seasonal-loss
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Summer reading loss disproportionately widens academic gaps for low-income children](summer-reading-loss-widens-gaps.md) — related
+- Summer reading loss disproportionately widens academic gaps for low-income children — related
 - [A well-implemented summer learning program (BELL) improves low-income children's reading test scores](bell-summer-program-improves-reading-scores.md) — related
 - [Summer Bridge gains were relatively uniform across demographic and achievement groups, with highest-risk third graders benefiting most](summer-bridge-uniform-gains-across-groups.md) — related
 - [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related

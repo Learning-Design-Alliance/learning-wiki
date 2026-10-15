@@ -17,7 +17,7 @@ sources:
 # Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The project's guiding hypothesis is that computational thinking should be taught not just as essential computing skills but in ways relating it to "the maker, tinkerer, innovator, problem-solver heritage that exists in Eastern KY." The presenters hypothesize that highlighting these connections will support students more holistically and powerfully, and might have positive ripple effects to parents and the broader community.
@@ -43,7 +43,6 @@ The project's guiding hypothesis is that computational thinking should be taught
 
 ## Claims
 
-- [Appalachia's problem-solving heritage may be getting lost or forgotten as the coal industry collapses](../claims/appalachian-problem-solving-heritage-lost.md) [~W]
 
 ## Related Strategies
 

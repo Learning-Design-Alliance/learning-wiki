@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: heejin-do-2026
-    resource: "https://arxiv.org/abs/2609.03215"
-    title: "Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215"
+    resource: "https://doi.org/10.48550/arxiv.2609.03215"
+    title: "Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215 [doi:10.48550/arxiv.2609.03215](https://doi.org/10.48550/arxiv.2609.03215)"
     author: Heejin Do, Jakub Kontak, Mrinmaya Sachan
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Models reproduce high-proficiency writing more faithfully than authentic low-proficiency linguistic form, with distinct failure modes by method
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` At low proficiency targets, prompting (Claude CTP) simulates low proficiency mainly through excessive casing and spelling errors with overly simple syntax, while SFT and GRPO recover lexical and structural properties but generate unrealistically few grammatical and spelling errors. [→ Heejin Do 2026](#heejin-do-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Heejin Do 2026
 
-Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215
+Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215 [doi:10.48550/arxiv.2609.03215](https://doi.org/10.48550/arxiv.2609.03215)
 
 `q2 · i?` · `design · r2`
 

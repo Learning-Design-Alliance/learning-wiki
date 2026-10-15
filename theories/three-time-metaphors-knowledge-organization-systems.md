@@ -16,7 +16,7 @@ sources:
 # Three metaphors of time in knowledge organization systems: architectonic, ouroboric, and lachesic
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper names and substantively describes three metaphors governing views of time and change in knowledge organization systems. The architectonic metaphor treats meaning as systematic and edition-based; the ouroboric treats meaning as constantly renewed from the old, like 'the serpent eating its own tail'; the lachesic treats time as an allotted amount that is additive, allowing new subjects to be added without revising old ones. The paper states: 'Each of these metaphors, the architectonic, ouroboric, and lachesic, govern our views on time and change knowledge organization system.' These metaphors serve as lenses for evaluating extant or newly designed systems.
@@ -38,8 +38,6 @@ The paper names and substantively describes three metaphors governing views of t
 
 ### Claims
 
-- [Evaluating knowledge organization systems by correctness alone is atemporal and must account for change over time](../claims/kos-evaluation-must-account-for-change-over-time.md) [+W]
-- [Boydens and van Hooland's three-strata model of change recommends matching database update rhythm to layered timescales](../claims/three-strata-database-change-model.md) [+W]
 
 ## Related Theories
 

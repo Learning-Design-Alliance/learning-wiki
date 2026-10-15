@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zekun-wu-2026
-    resource: "https://arxiv.org/abs/2607.00445"
-    title: "Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, and Anna Maria Feit. (2026). Gaze-Informed Proactive AI Assistance for Children Exploring Picture Books. https://arxiv.org/abs/2607.00445"
+    resource: "https://doi.org/10.48550/arxiv.2607.00445"
+    title: "Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, and Anna Maria Feit. (2026). Gaze-Informed Proactive AI Assistance for Children Exploring Picture Books. https://arxiv.org/abs/2607.00445 [doi:10.48550/arxiv.2607.00445](https://doi.org/10.48550/arxiv.2607.00445)"
     author: Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, and Anna Maria Feit
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Most children and parents preferred gaze-based assistance over the LLM baseline
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` 15 of 22 children preferred the gaze-based condition, 4 preferred the baseline, and 3 reported no preference. [→ Zekun Wu 2026](#zekun-wu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Zekun Wu 2026
 
-Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, and Anna Maria Feit. (2026). Gaze-Informed Proactive AI Assistance for Children Exploring Picture Books. https://arxiv.org/abs/2607.00445
+Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, and Anna Maria Feit. (2026). Gaze-Informed Proactive AI Assistance for Children Exploring Picture Books. https://arxiv.org/abs/2607.00445 [doi:10.48550/arxiv.2607.00445](https://doi.org/10.48550/arxiv.2607.00445)
 
 `q3 · i?` · `causal · r2`
 

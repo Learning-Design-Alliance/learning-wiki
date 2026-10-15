@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: md-zarzees-uddin-shah-chowdhury-and-samin-rahman-khan-2026
-    resource: "https://arxiv.org/abs/2608.22660"
-    title: "Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan. (2026). Evaluation in the Age of AI: Output as Evidence of Learning. https://arxiv.org/abs/2608.22660"
+    resource: "https://doi.org/10.48550/arxiv.2608.22660"
+    title: "Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan. (2026). Evaluation in the Age of AI: Output as Evidence of Learning. https://arxiv.org/abs/2608.22660 [doi:10.48550/arxiv.2608.22660](https://doi.org/10.48550/arxiv.2608.22660)"
     author: Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan 2026
 
-Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan. (2026). Evaluation in the Age of AI: Output as Evidence of Learning. https://arxiv.org/abs/2608.22660
+Md Zarzees Uddin Shah Chowdhury and Samin Rahman Khan. (2026). Evaluation in the Age of AI: Output as Evidence of Learning. https://arxiv.org/abs/2608.22660 [doi:10.48550/arxiv.2608.22660](https://doi.org/10.48550/arxiv.2608.22660)
 
 `q2 · i?` · `associational · r1`
 

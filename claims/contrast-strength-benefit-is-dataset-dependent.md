@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: peng-cui-2026
-    resource: "https://arxiv.org/abs/2610.01627"
-    title: "Peng Cui, Qiaoyuan Zheng, Rudolf Debelak, Mrinmaya Sachan. (2026). What Makes Something Hard(er)? Explaining Question Difficulty in Natural Language. Preprint. https://arxiv.org/abs/2610.01627"
+    resource: "https://doi.org/10.48550/arxiv.2610.01627"
+    title: "Peng Cui, Qiaoyuan Zheng, Rudolf Debelak, Mrinmaya Sachan. (2026). What Makes Something Hard(er)? Explaining Question Difficulty in Natural Language. Preprint. https://arxiv.org/abs/2610.01627 [doi:10.48550/arxiv.2610.01627](https://doi.org/10.48550/arxiv.2610.01627)"
     author: Peng Cui, Qiaoyuan Zheng, Rudolf Debelak, Mrinmaya Sachan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Peng Cui 2026
 
-Peng Cui, Qiaoyuan Zheng, Rudolf Debelak, Mrinmaya Sachan. (2026). What Makes Something Hard(er)? Explaining Question Difficulty in Natural Language. Preprint. https://arxiv.org/abs/2610.01627
+Peng Cui, Qiaoyuan Zheng, Rudolf Debelak, Mrinmaya Sachan. (2026). What Makes Something Hard(er)? Explaining Question Difficulty in Natural Language. Preprint. https://arxiv.org/abs/2610.01627 [doi:10.48550/arxiv.2610.01627](https://doi.org/10.48550/arxiv.2610.01627)
 
 `q2 · i?` · `causal · r2`
 

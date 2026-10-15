@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: wang-2013
+    resource: "https://doi.org/10.1504/ijqre.2013.058307"
     title: Wang 2013
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### Wang 2013
 
-Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/
+Wang, S., Jiao, H. and Zhang, L. (2013) 'Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach', Int. J. Quantitative Research in Education, Vol. 1, No. 4, pp.383–407. https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/ [doi:10.1504/ijqre.2013.058307](https://doi.org/10.1504/ijqre.2013.058307)
 
 `q2 · i?` · `associational · r2`
 

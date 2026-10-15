@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: enkelejda-kasneci-and-gjergji-kasneci-2026
-    resource: "https://arxiv.org/abs/2605.14604"
-    title: "Enkelejda Kasneci and Gjergji Kasneci. (2026). Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks. Preprint. https://arxiv.org/abs/2605.14604"
+    resource: "https://doi.org/10.48550/arxiv.2605.14604"
+    title: "Enkelejda Kasneci and Gjergji Kasneci. (2026). Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks. Preprint. https://arxiv.org/abs/2605.14604 [doi:10.48550/arxiv.2605.14604](https://doi.org/10.48550/arxiv.2605.14604)"
     author: Enkelejda Kasneci and Gjergji Kasneci
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Enkelejda Kasneci and Gjergji Kasneci 2026
 
-Enkelejda Kasneci and Gjergji Kasneci. (2026). Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks. Preprint. https://arxiv.org/abs/2605.14604
+Enkelejda Kasneci and Gjergji Kasneci. (2026). Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks. Preprint. https://arxiv.org/abs/2605.14604 [doi:10.48550/arxiv.2605.14604](https://doi.org/10.48550/arxiv.2605.14604)
 
 `q2 · i?` · `design · r2`
 

@@ -12,7 +12,7 @@ generated:
 # Sociocultural Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 9 claims (5 for, 2 mixed, 2 against) · 12 studies (4 review, 2 quant-synthesis, 2 associational, 2 qualitative, 1 causal, 1 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 11 studies (4 review, 2 quant-synthesis, 2 associational, 1 causal, 1 qualitative, 1 theoretical), `q2`–`q4` · 1 of 11 report an effect size · 6 claims rest on one study
 
 ## Description
 Sociocultural theory originates in the work of Russian psychologist Lev Vygotsky (1924–1934) and holds that human development and higher-order thinking originate in social, historical, and cultural interaction rather than inside an isolated individual mind. Vygotsky summarized this as a developmental law: "Every function in the child's cultural development appears twice: first, on the social level, and later, on the individual level; first between people (interpsychological) and then inside the child (intrapsychological)" (Vygotsky, 1978, p. 57). Development is a transformation of participation in shared social activity, not a transmission of discrete facts or skills (Polly et al., 2018).
@@ -67,7 +67,6 @@ A related developmental mechanism is **private speech**: children's habit of tal
 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — articulation in social settings often improves understanding beyond passive exposure alone
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — comparing one’s thinking with others can improve judgment about current understanding and next steps
-- [Dynamic systems theory and sociocultural theory are incommensurable because language is a complex adaptable, not adaptive, system](../claims/dst-sct-incommensurable-language-adaptable-system.md) [-W]
 - [Positive learning communities and collaborative social interaction drive learning](../claims/social-connection-and-collaboration-drive-learning.md) [+W]
 - [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](../claims/prior-practices-mediate-class-interaction-appropriation.md) [+W]
 - [The relationship between scaffolding level and students' subsequent provide-context turns is not monotonic](../claims/provide-context-rate-nonmonotonic.md) [~W]

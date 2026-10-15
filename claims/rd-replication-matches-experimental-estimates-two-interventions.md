@@ -43,7 +43,7 @@ The report compares RD-based impact estimates with experimental impact estimates
 
 
 ## Related Claims
-- [A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth](future-forward-rd-nonsignificant-positive-effect.md) — related
+- A regression discontinuity study found a positive but non-significant effect of +0.16 on standardized literacy growth — related
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — related
 - The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger — related
 - [Author-reported RD findings count toward effectiveness ratings only if standard errors account for clustering of students at unique forcing variable values](rd-clustering-and-discreteness-requirement.md) — related

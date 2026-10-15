@@ -63,6 +63,6 @@ Attendance log data comparing reasons for absence across racial/ethnic groups; t
 
 ## Related Claims
 - [Family circumstances pile up to worsen preschool attendance, and parent beliefs about attendance importance are related to absence rates](family-circumstances-and-parent-beliefs-relate-to-preschool-attendance.md) — related
-- [Health is the most commonly reported reason preschool children miss school, with more than half of all days missed due to sickness, and logistical obstacles accounting for another 18 percent](health-primary-reason-preschool-absences.md) — possibly the same claim (merge candidate)
-- [As family circumstances that strain attendance pile up, preschool attendance gets worse, with children facing no obstacles missing 5.6 percent of school and those facing three or more missing 12.9 percent](family-circumstances-cumulative-absence-burden.md) — related
+- Health is the most commonly reported reason preschool children miss school, with more than half of all days missed due to sickness, and logistical obstacles accounting for another 18 percent — possibly the same claim (merge candidate)
+- As family circumstances that strain attendance pile up, preschool attendance gets worse, with children facing no obstacles missing 5.6 percent of school and those facing three or more missing 12.9 percent — related
 - [Race is more strongly associated with preschool chronic absenteeism than neighborhood poverty; African American students are about twice as likely to be chronically absent](race-stronger-than-poverty-preschool-chronic-absence.md) — related

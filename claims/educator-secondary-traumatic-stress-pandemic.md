@@ -62,7 +62,7 @@ The brief asserts that community trauma, including "grief and collective hardshi
 
 
 ## Related Claims
-- [Among 171 educators interviewed, more than one-third met the threshold for a diagnosis of depression or anxiety and one in five exhibited significant PTSD symptoms](educator-depression-anxiety-ptsd-171-study.md) — a narrower finding that bears on this claim
+- Among 171 educators interviewed, more than one-third met the threshold for a diagnosis of depression or anxiety and one in five exhibited significant PTSD symptoms — a narrower finding that bears on this claim
 - [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — related
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](mindfulness-positive-effects-educator-wellbeing.md) — related
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related

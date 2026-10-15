@@ -48,5 +48,5 @@ Narrative review synthesis in the brief: asthma attacks are more likely triggere
 ## Related Claims
 - [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](poor-iaq-harms-student-health-and-learning.md) — related
 - [Chronic absenteeism is studied as a factor in student achievement over two years, with the 10 percent absence threshold questioned as a trigger point for action](chronic-absenteeism-achievement-two-year-impact.md) — related
-- [Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention](multiyear-chronic-absenteeism-lower-second-grade-reading.md) — a narrower finding that bears on this claim
+- Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention — a narrower finding that bears on this claim
 - [California school facilities are chronically underfunded, with stark facility-condition and spending disparities](california-facilities-underfunded-disparities.md) — related

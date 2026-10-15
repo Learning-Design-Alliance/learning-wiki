@@ -49,4 +49,4 @@ The publication's own abstract describes it as a fact sheet for districts and sc
 - [The article asserts that the Go-Learn-Grow materials can help districts, schools, and early childhood providers improve pre-K and kindergarten attendance](go-learn-grow-materials-support-attendance-improvement.md) — related
 - [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](kindergarten-transition-difficulty-academic-risk.md) — related
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
-- [Chronically absent pre-kindergarten students are more likely to be chronically absent in subsequent grades](prek-chronic-absence-predicts-later-chronic-absence.md) — related
+- Chronically absent pre-kindergarten students are more likely to be chronically absent in subsequent grades — related

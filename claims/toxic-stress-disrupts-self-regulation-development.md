@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Ongoing high intensity stress that overwhelms existing skills and support can create toxic effects, physically changing the brain's wiring to rely more heavily on emotional reactions than on reflection, reasoning, and decision-making. [→ Murray 2017](#murray-2017)
@@ -44,12 +45,12 @@ The brief states this as a finding from the research literature on stress and se
 
 ## Related Claims
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
-- [Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition](unsafe-environments-trigger-stress-response-impeding-cognition.md) — related
+- Physically or emotionally unsafe environments activate the adolescent stress-response system, which can impede cognition — related
 - [Urban living is associated with higher activity in stress-related brain regions and reduced grey matter in dorsolateral prefrontal and pregenual anterior cingulate cortex after urban exposure during upbringing](urban-living-linked-to-stress-brain-activity-and-grey-matter-deficits.md) — related
 - [Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts](sleep-deprivation-impairst-astronaut-performance.md) — related
 - [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — related
 - [Experiences and environments in a baby's first three years significantly shape brain structure and functioning](first-three-years-shape-brain-structure-functioning.md) — a broader claim this one bears on
-- [Regulate-relate-reason sequence: students reason once regulated and feeling supported](regulate-relate-reason-sequence.md) — related
+- Regulate-relate-reason sequence: students reason once regulated and feeling supported — related
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — possibly the same claim (merge candidate)
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — a narrower finding that bears on this claim

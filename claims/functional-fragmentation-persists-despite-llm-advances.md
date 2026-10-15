@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sudarshan-vk-2025
-    resource: "https://arxiv.org/abs/2605.14266"
-    title: "Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266"
+    resource: "https://doi.org/10.48550/arxiv.2605.14266"
+    title: "Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)"
     author: Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sudarshan VK 2025
 
-Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266
+Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)
 
 `q2 · i?` · `review · r1`
 
@@ -46,7 +46,7 @@ Theme 1 of the article's thematic analysis of studies in its Tables 2 and 3, an 
 - [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — related
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
 - Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact — related
-- [The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers](frontline-ecosystem-siloed-data-flow.md) — related
+- The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers — related
 - [The review identifies three pathways of AI-empowered STEM education: technological leap to generative AI, integration into instructional systems, and value shift toward competency cultivation](three-pathways-ai-empowered-stem-education.md) — related
 - [Inclusion of learners with special educational needs is typically implicit rather than explicitly designed even in advanced agentic AI systems](inclusion-implicit-not-designed-in-agentic-systems.md) — related
 - Most published studies of AI agents in higher education concern task-specific tools or single-agent systems, with only about 8% covering agentic multi-agent systems — related

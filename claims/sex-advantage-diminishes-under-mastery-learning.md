@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Female students expressed greater academic self-confidence and more positive attitudes about education, attained higher final test scores and course grades, and were absent less often than male students. [→ Guskey 1982](#guskey-1982)
@@ -66,6 +67,6 @@ Authors' interpretation of the treatment-group correlation comparisons (Table 4)
 - [Mastery and control groups show no significant differences in entry knowledge, academic self-concept, or affect toward education](mastery-control-no-entry-differences.md) — related
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
-- [Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures](males-more-work-avoidant-than-females-pbl.md) — related
+- Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures — related
 - [Gamified security training showed stronger confidence and format-preference effects among female students than male students](gender-differences-gamified-security-training.md) — related
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related

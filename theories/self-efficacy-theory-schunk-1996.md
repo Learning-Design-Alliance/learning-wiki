@@ -16,7 +16,7 @@ sources:
 # Self-efficacy theory: beliefs about one's capabilities to learn or perform behaviors at designated levels
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper presents self-efficacy theory as beliefs concerning one's capabilities to learn or perform behaviors at designated levels. Self-efficacy affects choice of activities, effort, and persistence, and is appraised from four information sources: performances, vicarious experiences, persuasion, and physiological reactions. The article argues the theory needs revision for learning settings where students lack skills.
@@ -36,7 +36,6 @@ The paper presents self-efficacy theory as beliefs concerning one's capabilities
 - academic skill learning and performance of learned behaviors
 
 ### Claims
-- [Self Efficacy For Learning Distinct From Performance](../claims/self-efficacy-for-learning-distinct-from-performance.md) [+M]
 
 ## Related Theories
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md)

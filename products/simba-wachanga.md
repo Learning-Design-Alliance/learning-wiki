@@ -18,7 +18,7 @@ sources:
 # Simba Wachanga
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A year-long interdisciplinary rites-of-passage programme for African-American boys, implemented by the East End Neighborhood House in Cleveland through Elders, resource people, and Big Brothers.
@@ -29,9 +29,6 @@ A year-long interdisciplinary rites-of-passage programme for African-American bo
 - **Nguzo Saba seven principles as the value foundation of the Simba Wachanga guidance system**: The Simba Wachanga program is predicated on the Nguzo Saba, the Seven Principles drawn from Dr. Ron Karenga's Kawaida Theory: unity, self-determination, collective work and responsibility, cooperative economics, purpose, creativity, and faith. The paper states "Simba Wachanga functions as a guidance system incorporating the following principles: (1) unity; (2) self-determination; (3) collective work and responsibility; (4) cooperative economics; (5) purpose; (6) creativity; and (7) faith." Each principle is defined as a commitment to a principle and practice, e.g., Kujichagulia as defining, defending, and developing ourselves instead of being defined by others. (Hill et al. (1987))
 
 ### Claims
-- [Traditional initiation rites differ from formal schooling in immediacy of status change, locus of control, and mode of engagement](../claims/old-rites-versus-new-school-rites-contrasts.md) [+W]
-- [Coming-of-age rituals socialize youth outwardly into new roles and transform them inwardly by molding moral and mental disposition](../claims/rites-of-passage-socialize-and-transform-youth.md) [+W]
-- [Schools do not fulfill the requirements of a true rite of passage, so families and communities must provide coming-of-age ceremonies](../claims/schools-cannot-fulfill-rite-of-passage-function.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -108,9 +105,6 @@ The Simba Wachanga program is predicated on the Nguzo Saba, the Seven Principles
 
 ### Claims
 
-- [Traditional initiation rites differ from formal schooling in immediacy of status change, locus of control, and mode of engagement](../claims/old-rites-versus-new-school-rites-contrasts.md) [+W]
-- [Coming-of-age rituals socialize youth outwardly into new roles and transform them inwardly by molding moral and mental disposition](../claims/rites-of-passage-socialize-and-transform-youth.md) [+W]
-- [Schools do not fulfill the requirements of a true rite of passage, so families and communities must provide coming-of-age ceremonies](../claims/schools-cannot-fulfill-rite-of-passage-function.md) [+W]
 
 ## Related Patterns
 - [Simba Wachanga Rites Of Passage Program](../products/simba-wachanga.md)

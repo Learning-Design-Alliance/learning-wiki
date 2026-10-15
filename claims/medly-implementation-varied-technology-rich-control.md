@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: wayne-harrison-2026
-    resource: "https://arxiv.org/abs/2609.14789"
-    title: "Wayne Harrison, Rahil Khowaja, Emma Dobson, Germaine Uwimpuhwe, and Steve Higgins. (2026). Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science. https://arxiv.org/abs/2609.14789"
+    resource: "https://doi.org/10.48550/arxiv.2609.14789"
+    title: "Wayne Harrison, Rahil Khowaja, Emma Dobson, Germaine Uwimpuhwe, and Steve Higgins. (2026). Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science. https://arxiv.org/abs/2609.14789 [doi:10.48550/arxiv.2609.14789](https://doi.org/10.48550/arxiv.2609.14789)"
     author: Wayne Harrison, Rahil Khowaja, Emma Dobson, Germaine Uwimpuhwe, and Steve Higgins
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Wayne Harrison 2026
 
-Wayne Harrison, Rahil Khowaja, Emma Dobson, Germaine Uwimpuhwe, and Steve Higgins. (2026). Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science. https://arxiv.org/abs/2609.14789
+Wayne Harrison, Rahil Khowaja, Emma Dobson, Germaine Uwimpuhwe, and Steve Higgins. (2026). Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science. https://arxiv.org/abs/2609.14789 [doi:10.48550/arxiv.2609.14789](https://doi.org/10.48550/arxiv.2609.14789)
 
 `q2 · i?` · `causal · r2`
 

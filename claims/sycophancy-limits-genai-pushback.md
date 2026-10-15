@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mutlu-cukurova-2025
-    resource: "https://arxiv.org/abs/2511.19580"
-    title: "Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580"
+    resource: "https://doi.org/10.48550/arxiv.2511.19580"
+    title: "Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580 [doi:10.48550/arxiv.2511.19580](https://doi.org/10.48550/arxiv.2511.19580)"
     author: Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mutlu Cukurova 2025
 
-Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580
+Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580 [doi:10.48550/arxiv.2511.19580](https://doi.org/10.48550/arxiv.2511.19580)
 
 `q1 · i?` · `theoretical · r3`
 

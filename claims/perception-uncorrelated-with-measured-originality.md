@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: léonard-boussioux-2026
-    resource: "https://arxiv.org/abs/2609.38183"
-    title: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183"
+    resource: "https://doi.org/10.48550/arxiv.2609.38183"
+    title: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183 [doi:10.48550/arxiv.2609.38183](https://doi.org/10.48550/arxiv.2609.38183)"
     author: "Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Léonard Boussioux* 2026
 
-Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183
+Léonard Boussioux*, Ziyi Zhao*, and Kanghyun Cho*. (2026). One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity. arXiv. https://arxiv.org/abs/2609.38183 [doi:10.48550/arxiv.2609.38183](https://doi.org/10.48550/arxiv.2609.38183)
 
 `q2 · i?` · `associational · r1`
 

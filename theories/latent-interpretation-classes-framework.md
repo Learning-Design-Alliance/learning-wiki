@@ -16,7 +16,7 @@ sources:
 # Latent interpretation classes as a representation of differential interpretation of vague quantifiers
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 This framework represents individual differences in how respondents interpret vague quantifiers of behavioral frequency as variability between latent interpretation classes, rather than as continuous individual differences. In the article, the framework is applied to data from an experiment embedded in the 2006 National Survey of Student Engagement, where the study "finds that differential interpretation may be best represented as variability between latent interpretation classes." The framework treats interpretation differences as a class-level latent structure that can be separated from substantive measurement.
@@ -36,7 +36,6 @@ This framework represents individual differences in how respondents interpret va
 - Accurate measurement of self-reported behavioral frequency in educational survey research
 
 ### Claims
-- [Differential Interpretation Latent Classes Finding](../claims/differential-interpretation-latent-classes-finding.md) [+M]
 
 ## Related Theories
 - 

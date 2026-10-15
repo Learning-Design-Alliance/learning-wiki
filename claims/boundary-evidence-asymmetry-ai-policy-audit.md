@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kai-yao-2026
-    resource: "https://arxiv.org/abs/2607.19988"
-    title: "Kai Yao. (2026). What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education. arXiv preprint. https://arxiv.org/abs/2607.19988"
+    resource: "https://doi.org/10.48550/arxiv.2607.19988"
+    title: "Kai Yao. (2026). What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education. arXiv preprint. https://arxiv.org/abs/2607.19988 [doi:10.48550/arxiv.2607.19988](https://doi.org/10.48550/arxiv.2607.19988)"
     author: Kai Yao
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kai Yao 2026
 
-Kai Yao. (2026). What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education. arXiv preprint. https://arxiv.org/abs/2607.19988
+Kai Yao. (2026). What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education. arXiv preprint. https://arxiv.org/abs/2607.19988 [doi:10.48550/arxiv.2607.19988](https://doi.org/10.48550/arxiv.2607.19988)
 
 `q2 · i?` · `associational · r1`
 

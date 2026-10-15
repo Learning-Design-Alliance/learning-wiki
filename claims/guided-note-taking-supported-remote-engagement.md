@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Focus group students in courses incorporating guided note-taking or other active learning activities during lectures did not report the same level of difficulty with motivation or staying engaged as other students. [→ Means 2020](#means-2020)
@@ -43,8 +44,8 @@ Qualitative case studies of 28 STEM courses at nine institutions; interviews and
 
 
 ## Related Claims
-- [Prior use of adaptive courseware in blended STEM courses eased the transition to fully remote instruction for instructors and students](adaptive-courseware-eased-covid-transition.md) — related
-- [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](covid-stem-collaboration-reduced-remote.md) — reports the opposite
+- Prior use of adaptive courseware in blended STEM courses eased the transition to fully remote instruction for instructors and students — related
+- Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online — reports the opposite
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related

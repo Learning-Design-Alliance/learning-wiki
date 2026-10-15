@@ -17,7 +17,7 @@ sources:
 # Community-area data tables and maps of Chicago child and family descriptors for 1990 and 2000
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief's core artifact is a set of community-area data tables and maps covering Chicago and its 77 community areas. The article states that it 'calculated the number of residents in Chicago and its 77 community areas who possess each descriptor' for 1990, 2000, and the ten-year change, with percentages 'when relevant.' 'Each calculation is described in community-area data tables, and each descriptor is displayed in community-area maps,' typically including 1990 and 2000 counts and percentages and their changes.
@@ -38,8 +38,6 @@ The brief's core artifact is a set of community-area data tables and maps coveri
 
 ## Claims
 
-- [Neighborhood groupings reveal variation within Chicago's 77 community areas that typical analyses miss](../claims/groupings-finer-grained-than-77-community-areas.md) [+W]
-- [A neighborhood-centered analysis of Chicago census data yields a parsimonious set of five neighborhood groupings](../claims/neighborhood-centered-analysis-five-chicago-groupings.md) [+W]
 
 ## Related Elements
 - 

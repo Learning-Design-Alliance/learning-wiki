@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): All learners, regardless of condition, showed a floor effect on far-transfer problems, and instructional time did not differ between treatment groups -->
 
 ## Subclaims
@@ -68,6 +69,6 @@ This page records two separate results from one experiment (Reisslein, Atkinson 
 - [Learning techniques have much smaller effects on deep learning and far transfer than on surface learning and near transfer](learning-techniques-smaller-effects-on-deep-learning-and-far-transfer.md) — the general claim this finding bears on, with the studies behind it
 
 - [Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners](textual-prompts-better-near-transfer-than-pictorial.md) — the general claim this finding bears on, with the studies behind it
-- [Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training](limited-transfer-from-discrepant-training.md) — related
-- [Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level](discrepant-training-facilitates-map-drawing-advance.md) — related
+- Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training — related
+- Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level — related
 - [Easy tasks showed a floor effect across all participants and were excluded from hypothesis testing](easy-task-floor-effect-excluded.md) — related

@@ -43,4 +43,4 @@ Theoretical argument in Section 3.2 of this conceptual paper. The five principle
 
 
 ## Related Claims
-- [Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements](conditional-trust-feedback-utility-versus-evaluative-authority.md) — related
+- Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements — related

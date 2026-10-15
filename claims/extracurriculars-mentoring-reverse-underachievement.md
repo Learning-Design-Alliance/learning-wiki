@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Gifted students involved in extracurricular activities typically are not underachievers, and students who reversed underachievement often cite an adult's influence. [→ Gifted and talented students at risk for underachievement 2008](#gifted-and-talented-students-at-risk-for-underachievement-2008)
@@ -44,5 +45,5 @@ The brief reports, citing prior studies, that "Gifted students who have reversed
 
 ## Related Claims
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
-- [Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases](mentorship-timing-divergent-persistence-effects.md) — related
+- Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases — related
 - [Contextual themes (extracurricular activities, environmental/school safety) are associated with school belonging](contextual-themes-school-belonging.md) — related

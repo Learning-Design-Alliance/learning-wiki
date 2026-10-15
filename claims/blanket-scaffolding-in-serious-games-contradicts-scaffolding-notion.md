@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In current classroom application of serious games, all learners receive the same scaffolding ('blanket scaffolding') regardless of changing expertise, which the authors argue contradicts the very notion of scaffolding. [→ Obikwelu 2013](#obikwelu-2013)

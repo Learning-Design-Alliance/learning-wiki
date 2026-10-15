@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The embedded figures test correlated relatively highly with an intelligence test, suggesting intellectual capacity might influence results. [→ Tamaoka 1985](#tamaoka-1985)
@@ -43,7 +44,7 @@ The review reports that, unlike the three orientation tests, "a relatively high 
 
 
 ## Related Claims
-- [Academic achievement is significantly correlated with locus of control for normal adolescents but not for delinquent adolescents](achievement-locus-correlation-only-normal-adolescents.md) — related
-- [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — a broader claim this one bears on
-- [Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents](intelligence-locus-correlation-both-groups.md) — related
+- Academic achievement is significantly correlated with locus of control for normal adolescents but not for delinquent adolescents — related
+- A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for — a broader claim this one bears on
+- Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents — related
 - [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related

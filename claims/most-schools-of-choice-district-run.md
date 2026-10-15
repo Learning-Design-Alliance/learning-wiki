@@ -46,4 +46,3 @@ Descriptive analysis of National Center for Education Statistics data presented 
 
 - [Most schools of choice in the United States are district-operated public options, and the neighborhood school is the preferred option for the vast majority of parents](district-run-choice-majority-neighborhood-preferred.md) — possibly the same claim (merge candidate)
 - [The charter-school sector has grown to nearly 7,000 schools serving nearly 3 million students since 1992](charter-sector-growth-nearly-7000-schools.md)
-- [Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01](minnesota-choice-participation-grew-1-to-17-percent.md)

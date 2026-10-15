@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: liévin-2026
-    resource: "https://arxiv.org/abs/2608.07418"
-    title: "Liévin, V., Schmidgall, S., Strother, T., Bijamov, A., Goel, A., Palepu, A., Park, C., Balazadeh, V., Sun, M. W., Guerard, M., Chen, J., Steiner, D., Dhillon, V., Azar, I., Mehta, A., Spetsieris, N., Shah, S., Abdelrahim, M., Dahiya, A., Liu, Y., Chou, K., Matias, Y., Hassidim, A., Webster, D. R., Le, Q. V., Hadsell, R., Barral, J., Radebaugh, C., Faust, A., Azizi, S., Schaekermann, M., Chen, P.-H. C., Tu, T., Racz, D., & Yang, L. (2026). ResidencyRL: Reinforcement Learning in Simulated Clinical Environments. arXiv. https://arxiv.org/abs/2608.07418"
+    resource: "https://doi.org/10.48550/arxiv.2608.07418"
+    title: "Liévin, V., Schmidgall, S., Strother, T., Bijamov, A., Goel, A., Palepu, A., Park, C., Balazadeh, V., Sun, M. W., Guerard, M., Chen, J., Steiner, D., Dhillon, V., Azar, I., Mehta, A., Spetsieris, N., Shah, S., Abdelrahim, M., Dahiya, A., Liu, Y., Chou, K., Matias, Y., Hassidim, A., Webster, D. R., Le, Q. V., Hadsell, R., Barral, J., Radebaugh, C., Faust, A., Azizi, S., Schaekermann, M., Chen, P.-H. C., Tu, T., Racz, D., & Yang, L. (2026). ResidencyRL: Reinforcement Learning in Simulated Clinical Environments. arXiv. https://arxiv.org/abs/2608.07418 [doi:10.48550/arxiv.2608.07418](https://doi.org/10.48550/arxiv.2608.07418)"
     author: "Liévin, V., Schmidgall, S., Strother, T., Bijamov, A., Goel, A., Palepu, A., Park, C., Balazadeh, V., Sun, M. W., Guerard, M., Chen, J., Steiner, D., Dhillon, V., Azar, I., Mehta, A., Spetsieris, N., Shah, S., Abdelrahim, M., Dahiya, A., Liu, Y., Chou, K., Matias, Y., Hassidim, A., Webster, D. R., Le, Q. V., Hadsell, R., Barral, J., Radebaugh, C., Faust, A., Azizi, S., Schaekermann, M., Chen, P.-H. C., Tu, T., Racz, D., & Yang, L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Liévin 2026
 
-Liévin, V., Schmidgall, S., Strother, T., Bijamov, A., Goel, A., Palepu, A., Park, C., Balazadeh, V., Sun, M. W., Guerard, M., Chen, J., Steiner, D., Dhillon, V., Azar, I., Mehta, A., Spetsieris, N., Shah, S., Abdelrahim, M., Dahiya, A., Liu, Y., Chou, K., Matias, Y., Hassidim, A., Webster, D. R., Le, Q. V., Hadsell, R., Barral, J., Radebaugh, C., Faust, A., Azizi, S., Schaekermann, M., Chen, P.-H. C., Tu, T., Racz, D., & Yang, L. (2026). ResidencyRL: Reinforcement Learning in Simulated Clinical Environments. arXiv. https://arxiv.org/abs/2608.07418
+Liévin, V., Schmidgall, S., Strother, T., Bijamov, A., Goel, A., Palepu, A., Park, C., Balazadeh, V., Sun, M. W., Guerard, M., Chen, J., Steiner, D., Dhillon, V., Azar, I., Mehta, A., Spetsieris, N., Shah, S., Abdelrahim, M., Dahiya, A., Liu, Y., Chou, K., Matias, Y., Hassidim, A., Webster, D. R., Le, Q. V., Hadsell, R., Barral, J., Radebaugh, C., Faust, A., Azizi, S., Schaekermann, M., Chen, P.-H. C., Tu, T., Racz, D., & Yang, L. (2026). ResidencyRL: Reinforcement Learning in Simulated Clinical Environments. arXiv. https://arxiv.org/abs/2608.07418 [doi:10.48550/arxiv.2608.07418](https://doi.org/10.48550/arxiv.2608.07418)
 
 `q2 · i?` · `causal · r2`
 

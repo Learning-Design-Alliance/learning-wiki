@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: beth-tarasawa-2015
-    resource: "https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/"
-    title: "Beth Tarasawa, Yun Xiang. (2015). Propensity score stratification using multilevel models to examine charter school achievement effects. Journal of School Choice, 9(2), 179–196. https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/"
+    resource: "https://doi.org/10.1080/15582159.2015.1028862"
+    title: "Beth Tarasawa, Yun Xiang. (2015). Propensity score stratification using multilevel models to examine charter school achievement effects. Journal of School Choice, 9(2), 179–196. https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/ [doi:10.1080/15582159.2015.1028862](https://doi.org/10.1080/15582159.2015.1028862)"
     author: Beth Tarasawa, Yun Xiang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Beth Tarasawa 2015
 
-Beth Tarasawa, Yun Xiang. (2015). Propensity score stratification using multilevel models to examine charter school achievement effects. Journal of School Choice, 9(2), 179–196. https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/
+Beth Tarasawa, Yun Xiang. (2015). Propensity score stratification using multilevel models to examine charter school achievement effects. Journal of School Choice, 9(2), 179–196. https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/ [doi:10.1080/15582159.2015.1028862](https://doi.org/10.1080/15582159.2015.1028862)
 
 `q2 · i?` · `causal · r2`
 
@@ -46,7 +46,7 @@ Growth analysis within the same quasi-experimental, propensity-stratified multil
 - [Charter school students perform consistently better on standardized mathematics achievement measures than traditional public school peers, with modest differences](charter-math-achievement-consistently-better-modest.md) — related
 - [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — a narrower finding that bears on this claim
 - [More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages](gap-busting-charter-schools-exceed-state-averages.md) — related
-- [Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls](ri-charter-gains-black-hispanic-students.md) — a narrower finding that bears on this claim
+- Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls — a narrower finding that bears on this claim
 - [Black students in poverty attending charter schools gain about 35 additional days of learning in reading compared to their Black TPS peers in poverty, with no math difference](pa-charter-black-poverty-students-reading-gain.md) — a narrower finding that bears on this claim
 - [Black charter students outperform their Black TPS peers in reading (about 24 additional days) but both groups lag the average White TPS student substantially](pa-charter-black-students-reading-gain.md) — a narrower finding that bears on this claim
 - [Black, Hispanic, and poverty students enrolled in charter schools show stronger growth trends than the same subgroups citywide in several cities](credo-cohort1-charter-subgroup-stronger-growth.md) — a narrower finding that bears on this claim

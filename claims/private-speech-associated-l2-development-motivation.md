@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In a small-scale study at an American university, students motivated to learn the language reported frequently producing L2 private speech, while requirement-enrolled students reported little PS. [→ Karimi-Aghdam 2020](#karimi-aghdam-2020)
@@ -46,5 +47,5 @@ Lantolf describes a small-scale self-report study of language students at an Ame
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](authentic-tasks-meaningful-l2-learning.md) — related
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](motivation-correlates-with-l2-wtc-turkish-efl.md) — related
 - [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — related
-- [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](affective-variables-facilitate-l2-acquisition.md) — a broader claim this one bears on
-- [The ZPD is falsely equated with Krashen's i+1 and with scaffolding in second language studies](zpd-not-equivalent-i-plus-one-or-scaffolding.md) — related
+- Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition — a broader claim this one bears on
+- The ZPD is falsely equated with Krashen's i+1 and with scaffolding in second language studies — related

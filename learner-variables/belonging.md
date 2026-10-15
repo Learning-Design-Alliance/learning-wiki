@@ -12,7 +12,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 60 claims (52 for, 7 mixed, 1 against) · 53 studies (14 review, 11 qualitative, 10 causal, 6 design, 5 associational, 5 theoretical, 2 quant-synthesis), `q1`–`q4` · 1 of 53 report an effect size · 56 claims rest on one study
+> **Evidence** · 56 claims (48 for, 7 mixed, 1 against) · 49 studies (13 review, 11 qualitative, 10 causal, 5 associational, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 1 of 49 report an effect size · 52 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -62,7 +62,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers](../claims/transgender-students-report-fewer-school-supports-lower-safety.md) [+M] — learners who differ on it differ in outcomes
 - [Adjusting for perceived school supports and safety eliminates the transgender/non-transgender school connectedness gap and halves mental health, motivation, and middle school performance gaps](../claims/supports-safety-account-transgender-disparities.md) [+M] — learners who differ on it differ in outcomes
 - [Evidence suggests RJ improves school climate, including student connectedness and staff-perceived climate gains](../claims/rj-improves-school-climate-evidence-limited.md) [+M] — instruction changes it
-- [Supporting well-being and connection is a prerequisite to academic excellence](../claims/well-being-prerequisite-academic-excellence.md) [+W] — learners who differ on it differ in outcomes
+- Supporting well-being and connection is a prerequisite to academic excellence [+W] — learners who differ on it differ in outcomes
 - [Transgender, gay/lesbian, bisexual, and 'something else' students report significantly poorer outcomes than non-transgender and straight peers on all 14 measures](../claims/lgbtq-subgroups-poorer-all-14-measures.md) [+M] — learners who differ on it differ in outcomes
 - [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](../claims/aptt-spring-multilingual-parents-felt-more-connected.md) [+W] — instruction changes it
 - [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](../claims/family-engagement-appreciation-governance-dissatisfaction.md) [~M] — instruction changes it
@@ -72,9 +72,9 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](../claims/mathematics-belonging-predicts-algebra-learning.md) [+M] — learners who differ on it differ in outcomes
 - [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](../claims/los-padillas-student-belonging-above-district.md) [+M] — instruction changes it
 - [Getting-to-know-you surveys that surface student-teacher commonalities improved relationships and grades, and closed achievement gaps for Black and Latinx students by more than 60% in one study](../claims/getting-to-know-you-surveys-commonalities-gap-closure.md) [+M] — instruction changes it
-- [Oakland 11th graders reported improved school connectedness and safety after discipline reform](../claims/oakland-school-connectedness-improved-after-reform.md) [+M] — instruction changes it
-- [Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care](../claims/redwood-city-family-engagement-gains-attendance-care.md) [+M] — instruction changes it
-- [Students are more likely to feel welcome in AP courses when they see themselves reflected in the curriculum and classmates](../claims/curriculum-reflection-increases-ap-belonging.md) [+W] — instruction changes it
+- Oakland 11th graders reported improved school connectedness and safety after discipline reform [+M] — instruction changes it
+- Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care [+M] — instruction changes it
+- Students are more likely to feel welcome in AP courses when they see themselves reflected in the curriculum and classmates [+W] — instruction changes it
 - [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](../claims/baseline-relatedness-diminishes-perceived-ai-relatedness.md) [+M] — learners who differ on it differ in outcomes
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](../claims/chatgpt-perceived-relatedness-support.md) [+M] — instruction changes it
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](../claims/chatgpt-negative-experiences-inaccuracy-overreliance.md) [~M] — instruction changes it

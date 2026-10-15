@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` HLLs perceived listening as the easiest skill among listening, speaking, reading and writing; NHLLs rated listening as challenging as writing and almost as demanding as speaking. [→ Denise Santos & Gláucia Silva 2015](#denise-santos-glaucia-silva-2015)
@@ -46,5 +47,5 @@ Questionnaire ratings on a 4-point difficulty scale from 12 HLLs and 11 NHLLs in
 - [Heritage and non-heritage learners perceive textbook listening activities in reversed ways: no HLL found them difficult and no NHLL found them easy](reversed-perceptions-textbook-listening-activities.md) — related
 - [Heritage learners scored only slightly higher than non-heritage learners on listening tasks, with no statistically significant group difference](hll-nhll-listening-scores-not-significant.md) — related
 - [Successful and unsuccessful listening performance in this study is associated with learners' strategic behaviour rather than with heritage or non-heritage status](strategy-use-not-group-status-explains-listening-success.md) — related
-- [Listening is the most frequently used of the four language skills, consuming the largest share of communication time](listening-most-used-language-skill.md) — related
+- Listening is the most frequently used of the four language skills, consuming the largest share of communication time — related
 - [All participants believed heritage learners perform better in classroom listening, but dialectal differences posed difficulties for HLLs that NHLLs did not notice](perceived-hll-advantage-and-dialect-difficulty.md) — related

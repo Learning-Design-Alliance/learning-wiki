@@ -18,7 +18,7 @@ sources:
 # SaferSanerSchools™ Whole-School Change
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A whole-school restorative-practices programme disseminated through the International Institute of Restorative Practices that trains school staff and teams to improve relationships, responsibility, restoration, and school climate.
@@ -27,10 +27,6 @@ A whole-school restorative-practices programme disseminated through the Internat
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Whole-school restorative practices program significantly improves average daily attendance at the student level](../claims/safersanschools-improves-daily-attendance-student-level.md) [+W]
-- [Participating schools report more positive teacher and staff perceptions of teaching and learning conditions](../claims/safersanschools-improves-teacher-perceptions-conditions.md) [+W]
-- [Whole-school restorative practices program significantly reduces chronic absenteeism at the student level](../claims/safersanschools-reduces-chronic-absence-student-level.md) [+W]
-- [School-level outcomes of the whole-school restorative practices program were not significant](../claims/safersanschools-school-level-results-not-significant.md) [-W]
 
 ## Related Products and Programmes
 -
@@ -68,10 +64,6 @@ A whole-school change program disseminated through the International Institute f
 
 ## Claims
 
-- [Whole-school restorative practices program significantly improves average daily attendance at the student level](../claims/safersanschools-improves-daily-attendance-student-level.md) [+W]
-- [Participating schools report more positive teacher and staff perceptions of teaching and learning conditions](../claims/safersanschools-improves-teacher-perceptions-conditions.md) [+W]
-- [Whole-school restorative practices program significantly reduces chronic absenteeism at the student level](../claims/safersanschools-reduces-chronic-absence-student-level.md) [+W]
-- [School-level outcomes of the whole-school restorative practices program were not significant](../claims/safersanschools-school-level-results-not-significant.md) [-W]
 
 ## Related Elements
 - 

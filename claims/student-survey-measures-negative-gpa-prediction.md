@@ -62,7 +62,7 @@ Results overview on the rarity of negative associations beyond the GPA pattern: 
 
 
 ## Related Claims
-- [Work-avoidant orientation correlates negatively with GPA in the project-based course](gpa-negative-correlation-work-avoidant.md) — a narrower finding that bears on this claim
+- Work-avoidant orientation correlates negatively with GPA in the project-based course — a narrower finding that bears on this claim
 - [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](no-significant-predictors-tertiary-gpa.md) — related
 - [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — related
 - [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) — related

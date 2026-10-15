@@ -42,15 +42,14 @@ The key findings state that "Grades are lower both for the course taken online a
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do learners do as well, and stay as long, in a fully online course as in the same course face to face?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **5 distinct studies** (2 causal, 2 associational, 1 quant-synthesis), `q2`–`q3`, 1 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do learners do as well, and stay as long, in a fully online course as in the same course face to face?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **4 distinct studies** (2 associational, 1 causal, 1 quant-synthesis), `q2`–`q3`, 1 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Eric P. Bettinger 2017 | q3 · causal · r? | i? | this claim |
-| Online and Face-to-Face Algebra I Credit Recovery: A Randomized Trial in Chicago Public High Schools 2017 | q3 · causal · r? | i? | [Online Algebra I credit recovery students were less likely to recover credit and scored lo](online-credit-recovery-lower-credit-and-posttest.md) (supports); [Online and face-to-face Algebra I credit recovery showed no statistically significant diff](credit-recovery-no-second-year-differences.md) (qualifies) |
 | Jia Frydenberg 2007 | q2 · associational · r1 | i? | [Online continuing education courses show lower persistence than comparable onground course](online-continuing-education-persistence-lower-than-onground.md) (supports); [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) (qualifies); [After instruction has begun, drop rates are essentially the same in online and onground co](no-drop-rate-difference-after-instruction-starts.md) (qualifies); [Self-reported withdrawal reasons are largely similar online and onground, led by no/other ](withdrawal-reasons-similar-across-modalities.md) (qualifies); [Expressed dissatisfaction with online technology, instruction, or content is not the prima](dissatisfaction-not-primary-drop-reason.md) (qualifies) |
 | [Means et al. 2013](https://doi.org/10.1177/016146811311500307) | q3 · quant-synthesis · r? | i2 · medium effect, g+=0.35, p<.0001 | [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) (qualifies) |
-| Steven S. Christensen & Jonathan S. Spackman 2016 | q2 · associational · r1 | i? | [A single Tipping Point explains dropout patterns in only about a quarter of online courses](tipping-point-hypothesis-insufficient-online-dropout.md) (qualifies) |
+| [Steven S. Christensen & Jonathan S. Spackman 2016](https://doi.org/10.9743/jeo.2017.14.2.7) | q2 · associational · r1 | i? | [A single Tipping Point explains dropout patterns in only about a quarter of online courses](tipping-point-hypothesis-insufficient-online-dropout.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -59,7 +58,7 @@ The key findings state that "Grades are lower both for the course taken online a
 ## Related Claims
 - [The estimated online-course effects are local to students with access to both online and in-person options](online-course-effects-local-to-dual-option-students.md) — related
 - [Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects](online-courses-expanding-little-research.md) — a broader claim this one bears on
-- [Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses](online-credit-recovery-evidence-gap.md) — a broader claim this one bears on
+- Before this trial, online credit recovery was widely used despite no rigorous evidence on its relative efficacy versus face-to-face courses — a broader claim this one bears on
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related
 - [Taking a course online instead of in person reduces student success and progress in college](online-course-taking-reduces-college-success.md) — possibly the same claim (merge candidate)
 - [Students taking courses online are less likely to remain enrolled at the university](online-course-taking-reduces-reenrollment.md) — related

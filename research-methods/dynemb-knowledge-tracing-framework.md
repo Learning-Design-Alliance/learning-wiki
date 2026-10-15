@@ -17,7 +17,7 @@ sources:
 # DynEmb knowledge tracing framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 DynEmb is a knowledge tracing framework with two independently trained components: QuestionEmb, which learns a static d-dimensional question embedding via regularized biased matrix factorization from student-question interactions, and StudentDyn, an RNN (an LSTM by default) whose hidden state serves as a dynamic student embedding. The predicted probability of a correct response combines the question embedding and the dynamic student embedding through an inner product with a per-question bias and sigmoid activation. The article argues this hybrid "can harness the advantages from both static and sequential models in a way that outperforms both", and that the framework is flexible, accommodatin
@@ -28,10 +28,6 @@ DynEmb is a knowledge tracing framework with two independently trained component
 
 ### Claims
 
-- [DynEmb outperforms BMF and DKT baselines in future response prediction across five tutoring datasets, with AUC improvement up to 5.43% in the New User setting](../claims/dynemb-outperforms-dkt-and-bmf-baselines.md) [+M]
-- [Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVMN performance, while DynEmb tracks knowledge using pretrained question embeddings instead of tags](../claims/dynemb-tracks-knowledge-without-skill-tags.md) [+M]
-- [Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits](../claims/embedding-pretraining-beats-end-to-end-training-dynemb.md) [+W]
-- [DynEmb's response-prediction AUC is stable over a wide range of question-embedding dimensionalities](../claims/dynemb-performance-stable-across-embedding-dimensionality.md) [~W]
 
 ## Related Research Methods
 -
@@ -64,8 +60,6 @@ DynEmb is a knowledge tracing framework with two independently trained component
 - estimating and tracking student knowledge or proficiency over time to enable personalized learning
 
 ### Claims
-- [Dynemb Outperforms Dkt And Bmf Baselines](../claims/dynemb-outperforms-dkt-and-bmf-baselines.md) [+M]
-- [Dynemb Tracks Knowledge Without Skill Tags](../claims/dynemb-tracks-knowledge-without-skill-tags.md) [+M]
 
 ## Related Theories
 - 

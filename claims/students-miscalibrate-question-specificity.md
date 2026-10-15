@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hyoungwook-jin-2026
-    resource: "https://arxiv.org/abs/2609.28918"
-    title: "Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang. (2026). HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving. arXiv. https://arxiv.org/abs/2609.28918"
+    resource: "https://doi.org/10.48550/arxiv.2609.28918"
+    title: "Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang. (2026). HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving. arXiv. https://arxiv.org/abs/2609.28918 [doi:10.48550/arxiv.2609.28918](https://doi.org/10.48550/arxiv.2609.28918)"
     author: Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hyoungwook Jin 2026
 
-Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang. (2026). HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving. arXiv. https://arxiv.org/abs/2609.28918
+Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang. (2026). HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving. arXiv. https://arxiv.org/abs/2609.28918 [doi:10.48550/arxiv.2609.28918](https://doi.org/10.48550/arxiv.2609.28918)
 
 `q2 · i?` · `causal · r1`
 

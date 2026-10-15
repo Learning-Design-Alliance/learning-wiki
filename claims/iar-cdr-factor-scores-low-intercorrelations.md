@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Of 100 possible intercorrelations of IAR and CDR factor scores, only thirteen were significant at the .05 level, leading the author to question whether the instruments measure the same construct. [→ Thomas 1975](#thomas-1975)
@@ -43,8 +44,8 @@ Correlational analysis of factor scores from 188 ninth-graders (17% black, 83% w
 
 
 ## Related Claims
-- [Canonical analysis of IAR and CDR factor scores yields two nontrivial canonical functions (R = .644 and .463)](canonical-two-functions-locus-control.md) — related
+- Canonical analysis of IAR and CDR factor scores yields two nontrivial canonical functions (R = .644 and .463) — related
 - [Principal components analyses of both the IAR and CDR yield eleven components with eigenvalues of one or greater](eleven-components-iar-cdr.md) — related
-- [Locus of control instruments measuring domains beyond academic achievement increase the number of dimensions obtained](nonacademic-domains-increase-dimensions.md) — a broader claim this one bears on
-- [Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents](intelligence-locus-correlation-both-groups.md) — related
-- [Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex](no-group-or-sex-effect-on-locus-of-control.md) — related
+- Locus of control instruments measuring domains beyond academic achievement increase the number of dimensions obtained — a broader claim this one bears on
+- Intelligence test scores are significantly correlated with locus of control for both normal and delinquent adolescents — related
+- Locus of control scores show no significant main effects of behavioral condition (normal vs. delinquent) or sex — related

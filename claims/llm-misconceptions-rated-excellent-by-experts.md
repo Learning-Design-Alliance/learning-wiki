@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: parker-2025
-    resource: "https://arxiv.org/abs/2605.00294"
-    title: "Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294"
+    resource: "https://doi.org/10.48550/arxiv.2605.00294"
+    title: "Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)"
     author: "Parker, M. J., & Zavala-Cerna, M. G."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Parker 2025
 
-Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294
+Parker, M. J., & Zavala-Cerna, M. G. (2025). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. https://arxiv.org/abs/2605.00294 [doi:10.48550/arxiv.2605.00294](https://doi.org/10.48550/arxiv.2605.00294)
 
 `q3 · i?` · `design · r2`
 

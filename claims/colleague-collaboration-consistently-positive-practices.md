@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Collaboration with colleagues around instruction was consistently positively related to teachers' standards-aligned instructional practices in both math and science. [→ District supports for teachers' standards-aligned instructional practices in the Chicago Public Schools 2015](#district-supports-for-teachers-standards-aligned-instructional-practices-in-the-chicago-public-schools-2015)
@@ -44,8 +45,8 @@ Survey-based analysis of Chicago Public Schools teachers' reports of supports an
 ## Related Claims
 
 - [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
-- [Positive relationships between colleague collaboration and instructional practices hold equally for teachers who perceive many barriers to standards implementation](collaboration-benefits-teachers-perceiving-barriers.md) — a narrower finding that bears on this claim
-- [Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science](professional-learning-strongly-related-standards-aligned-practices.md) — related
-- [In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores](ccssm-professional-learning-greater-improvements-chicago-middle-grades.md) — related
-- [Schools with strong teacher collaboration are more effective at improving learning than schools with strong individuals but little collaboration](collaboration-beats-individual-teacher-quality.md) — related
+- Positive relationships between colleague collaboration and instructional practices hold equally for teachers who perceive many barriers to standards implementation — a narrower finding that bears on this claim
+- Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science — related
+- In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores — related
+- Schools with strong teacher collaboration are more effective at improving learning than schools with strong individuals but little collaboration — related
 - [More experienced teachers confer benefits to their colleagues and to the school as a whole, as well as to their own students](experienced-teachers-spillover-colleagues-school.md) — related

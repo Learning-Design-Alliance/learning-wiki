@@ -43,4 +43,4 @@ Case-report description of the district's development process: a Development Gro
 
 
 ## Related Claims
-- [Talladega County Schools narrowed a broad CT framework to five core competencies embedded across the curriculum](core-five-ct-competencies-talladega.md) — related
+- Talladega County Schools narrowed a broad CT framework to five core competencies embedded across the curriculum — related

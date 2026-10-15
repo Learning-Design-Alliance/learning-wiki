@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: unggi-lee-2026
-    resource: "https://arxiv.org/abs/2605.30670"
-    title: "Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang. (2026). Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training. https://arxiv.org/abs/2605.30670"
+    resource: "https://doi.org/10.48550/arxiv.2605.30670"
+    title: "Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang. (2026). Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training. https://arxiv.org/abs/2605.30670 [doi:10.48550/arxiv.2605.30670](https://doi.org/10.48550/arxiv.2605.30670)"
     author: Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Prompt style is the largest driver of disability-aware Fit gains, and the Thinking Reward becomes effective only in combination with adaptive prompting
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Switching the prompt from Normal to SPED-static adds +1.08 on persona-aware Fit (the single largest effect), adaptivity adds +0.45, and activating the Thinking Reward in the adaptive condition adds a further +0.09 on Fit. [→ Unggi Lee 2026](#unggi-lee-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Unggi Lee 2026
 
-Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang. (2026). Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training. https://arxiv.org/abs/2605.30670
+Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang. (2026). Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training. https://arxiv.org/abs/2605.30670 [doi:10.48550/arxiv.2605.30670](https://doi.org/10.48550/arxiv.2605.30670)
 
 `q2 · i?` · `causal · r1`
 

@@ -44,11 +44,11 @@ MANOVA by gender (831 female, 578 male). Table 9 shows PGO F=5,76, p=,01, while 
 
 ## Related Claims
 - [Incremental theory and performance goal orientation differ across university departments, but entity and learning goal orientation do not](department-differences-mindset-goal-orientation.md) — related
-- [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
+- Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
 - [Entity theory correlates positively with performance goal orientation and incremental theory with learning goal orientation among student teachers](mindset-goal-orientation-correlation-student-teachers.md) — related
-- [Female physical education teachers endorse progressivism and existentialist education more, and male teachers endorse perennialism and essentialism more, with no significant gender difference for reconstructivism](pe-teacher-educational-philosophy-beliefs-differ-by-gender.md) — related
+- Female physical education teachers endorse progressivism and existentialist education more, and male teachers endorse perennialism and essentialism more, with no significant gender difference for reconstructivism — related
 - [Turkish student teachers score higher on entity theory than incremental theory and on performance goal orientation than learning goal orientation](turkish-student-teachers-entity-performance-higher.md) — related
-- [Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures](males-more-work-avoidant-than-females-pbl.md) — related
+- Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures — related
 - [Female elementary students rated their teacher more positively over time than male students](female-students-rate-teachers-more-positively-over-time.md) — related
 - [Gamified security training showed stronger confidence and format-preference effects among female students than male students](gender-differences-gamified-security-training.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related

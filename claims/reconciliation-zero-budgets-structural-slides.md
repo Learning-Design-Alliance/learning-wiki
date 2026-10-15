@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: salsman-2026
-    resource: "https://arxiv.org/abs/2605.26428"
-    title: "Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428"
+    resource: "https://doi.org/10.48550/arxiv.2605.26428"
+    title: "Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428 [doi:10.48550/arxiv.2605.26428](https://doi.org/10.48550/arxiv.2605.26428)"
     author: Salsman, J.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Salsman 2026
 
-Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428
+Salsman, J. (2026). Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation. https://arxiv.org/abs/2605.26428 [doi:10.48550/arxiv.2605.26428](https://doi.org/10.48550/arxiv.2605.26428)
 
 `q1 · i?` · `design · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: melissa-roderick-2009
-    resource: "https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools"
-    title: "Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools"
+    resource: "https://doi.org/10.1353/foc.0.0024"
+    title: "Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools [doi:10.1353/foc.0.0024](https://doi.org/10.1353/foc.0.0024)"
     author: Melissa Roderick, Jenny Nagaoka, and Vanessa Coca
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence** · 2 studies · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The share of tenth graders hoping to earn a bachelor's degree or higher doubled, from 40 percent in 1980 to 80 percent in 2002, with the greatest increases among low-income students. [→ Melissa Roderick 2009](#melissa-roderick-2009)
@@ -40,7 +40,7 @@ sources:
 
 ### Melissa Roderick 2009
 
-Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools
+Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools [doi:10.1353/foc.0.0024](https://doi.org/10.1353/foc.0.0024)
 
 `q2 · i?` · `review · r2`
 
@@ -71,4 +71,4 @@ The review's synthesis of national attainment trends (table 1, ages 25-29) finds
 - [If current rates hold, 27 percent of current CPS ninth-graders will complete any college credential within 10 years (2019 PAI)](cps-2019-pai-27-percent-any-credential.md) — related
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
 - [Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations](urban-suburban-college-application-steps-gap.md) — related
-- [High school curricular rigor is the number one indicator of college completion, more influential than race, family income, or parent education](curricular-rigor-top-predictor-college-completion.md) — related
+- High school curricular rigor is the number one indicator of college completion, more influential than race, family income, or parent education — related

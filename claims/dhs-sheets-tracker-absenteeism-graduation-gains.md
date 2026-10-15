@@ -44,10 +44,10 @@ Case report of Demopolis High School's in-house Google Sheets tracker monitoring
 
 ## Related Claims
 - [ALAS increases the likelihood that high-risk students stay on track to graduate on time at the end of the intervention](alas-progressing-in-school-positive-end-of-intervention.md) — related
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
+- BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — related
 - [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — a broader claim this one bears on
 - [Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year](lynwood-dfi-decrease-intervention-tracking.md) — related
-- [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](ewims-reduces-chronic-absenteeism.md) — related
+- EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Check & Connect has statistically significant positive effects on staying in school for high school students with disabilities](check-and-connect-reduces-dropout-staying-in-school.md) — related
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — related

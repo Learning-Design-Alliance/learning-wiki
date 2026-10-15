@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: pennings-2017
-    resource: "https://complicityjournal.org"
-    title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org"
+    resource: "https://doi.org/10.29173/cmplct29338"
+    title: "Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)"
     author: Pennings, H. J. M.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pennings 2017
 
-Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org
+Pennings, H. J. M. (2017). Using a Complexity Approach to Study the Interpersonal Dynamics in Teacher-Student Interactions: A Case Study of Two Teachers. Complicity: An International Journal of Complexity and Education, 14(2). https://complicityjournal.org [doi:10.29173/cmplct29338](https://doi.org/10.29173/cmplct29338)
 
 `q2 · i?` · `associational · r1`
 
@@ -43,8 +43,8 @@ Ordinary least squares regression trend analysis of the two classrooms' time-ser
 
 
 ## Related Claims
-- [Fuzzy time series forecasting beats nonlinear regression when only a quadratic term is included, but loses when a cubic term is included](ftm-versus-nonlinear-regression-quadratic-cubic.md) — related
-- [A first-order time-invariant fuzzy time series model produces more precise university enrollment forecasts than linear regression with time as predictor](fuzzy-time-series-more-precise-than-linear-regression-enrollment.md) — related
+- Fuzzy time series forecasting beats nonlinear regression when only a quadratic term is included, but loses when a cubic term is included — related
+- A first-order time-invariant fuzzy time series model produces more precise university enrollment forecasts than linear regression with time as predictor — related
 - [Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency](phase-lead-lag-differs-between-teachers.md) — related
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) — related
 - [The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed](refraining-from-complementarity-hypothesis-not-confirmed.md) — related

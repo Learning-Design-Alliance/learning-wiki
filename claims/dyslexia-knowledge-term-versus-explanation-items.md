@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: erin-k-washburn-2022
-    resource: "https://www.nwea.org/research/publication/what-do-teachers-know-about-dyslexia-its-complicated/"
-    title: "Erin K. Washburn, Benjamin C. Heddy, Emily Binks-Cantrell, Tiffany Peltier. (2022). What do teachers know about dyslexia? It’s complicated! The State Education Standard. https://www.nwea.org/research/publication/what-do-teachers-know-about-dyslexia-its-complicated/"
+    resource: "https://doi.org/10.1007/s11145-022-10264-8"
+    title: "Erin K. Washburn, Benjamin C. Heddy, Emily Binks-Cantrell, Tiffany Peltier. (2022). What do teachers know about dyslexia? It’s complicated! The State Education Standard. https://www.nwea.org/research/publication/what-do-teachers-know-about-dyslexia-its-complicated/ [doi:10.1007/s11145-022-10264-8](https://doi.org/10.1007/s11145-022-10264-8)"
     author: Erin K. Washburn, Benjamin C. Heddy, Emily Binks-Cantrell, Tiffany Peltier
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Erin K. Washburn 2022
 
-Erin K. Washburn, Benjamin C. Heddy, Emily Binks-Cantrell, Tiffany Peltier. (2022). What do teachers know about dyslexia? It’s complicated! The State Education Standard. https://www.nwea.org/research/publication/what-do-teachers-know-about-dyslexia-its-complicated/
+Erin K. Washburn, Benjamin C. Heddy, Emily Binks-Cantrell, Tiffany Peltier. (2022). What do teachers know about dyslexia? It’s complicated! The State Education Standard. https://www.nwea.org/research/publication/what-do-teachers-know-about-dyslexia-its-complicated/ [doi:10.1007/s11145-022-10264-8](https://doi.org/10.1007/s11145-022-10264-8)
 
 `q2 · i?` · `associational · r2`
 

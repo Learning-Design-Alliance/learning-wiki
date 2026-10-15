@@ -18,7 +18,7 @@ sources:
 # Early Warning Intervention and Monitoring System (EWIMS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q4` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A school-based programme developed for schools to use staff teams, student indicators, targeted interventions, and progress monitoring to support students at risk of not graduating on time.
@@ -27,8 +27,6 @@ A school-based programme developed for schools to use staff teams, student indic
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [EWIMS shows positive effects on course failures](../claims/ewims-positive-effects-course-failures.md) [+W]
-- [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](../claims/ewims-reduces-chronic-absenteeism.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,8 +61,6 @@ EWIMS is "a systematic approach used by dedicated teams of school staff to ident
 
 ## Claims
 
-- [EWIMS shows positive effects on course failures](../claims/ewims-positive-effects-course-failures.md) [+W]
-- [EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation](../claims/ewims-reduces-chronic-absenteeism.md) [+W]
 
 ## Related Elements
 

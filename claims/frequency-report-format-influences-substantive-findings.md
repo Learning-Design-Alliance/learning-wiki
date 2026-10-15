@@ -43,6 +43,6 @@ The working paper's stated conclusion from its NSSE-embedded experiment is that 
 
 
 ## Related Claims
-- [Differential interpretation of vague quantifiers is best represented as variability between latent interpretation classes](differential-interpretation-latent-classes-finding.md) — related
+- Differential interpretation of vague quantifiers is best represented as variability between latent interpretation classes — related
 - [Measurement models based on vaguely quantified behavioral frequency reports differ in structure from those based on numerically quantified reports](vague-vs-numeric-frequency-measurement-models-differ.md) — related
-- [Latent variable models can be used to detect individual variability in the interpretation of vague quantifiers of behavioral frequency](latent-variable-models-detect-vague-quantifier-interpretation-variability.md) — related
+- Latent variable models can be used to detect individual variability in the interpretation of vague quantifiers of behavioral frequency — related

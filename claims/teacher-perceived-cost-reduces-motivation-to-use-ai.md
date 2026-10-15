@@ -39,6 +39,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The paper argues that when teachers perceive the challenges and barriers of using AI technologies as high, they may be less motivated to use them. [→ Yurt 2024](#yurt-2024)
@@ -89,10 +90,10 @@ Theoretical argument about risk and uncertainty in the cost section, with no dat
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do](dhh-systemic-barriers-low-expectations.md) — related
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
-- [Teachers in the Eastern KY project reported in a 2022 survey that they no longer perceive barriers to integrating computational thinking into their classrooms](eky-teachers-no-longer-perceive-ct-barriers-2022.md) — related
+- Teachers in the Eastern KY project reported in a 2022 survey that they no longer perceive barriers to integrating computational thinking into their classrooms — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
 - [Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers](four-challenges-ai-literacy-implementation.md) — related
-- [Teachers face many barriers to integrating CT, but training can help](teacher-barriers-ct-integration-training-helps.md) — related
+- Teachers face many barriers to integrating CT, but training can help — related
 - [Educators moved from awareness to interest in integrating the studio's technology into their coursework](educators-awareness-to-interest-technology-integration.md) — related
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related

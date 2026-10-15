@@ -13,7 +13,7 @@ generated:
 # Metacognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (1 quant-synthesis, 1 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning. This element captures concrete supports for self-regulation such as confidence checks, self-questioning, and strategy review.
@@ -42,7 +42,6 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+W]
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [+W]
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](../claims/genai-ethics-reflection-versus-copying-boundaries.md) [+W]
 
 ## Related Elements

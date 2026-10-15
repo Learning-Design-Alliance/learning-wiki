@@ -16,7 +16,7 @@ sources:
 # Civic imagination as a guiding framework for rural computing education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Civic imagination is an organizing framework the project borrows from Sam Ford's three-sentence summary, adapted for educators. Its key ideas are that "Educators can't work towards a future if they can't see it first", that educators must see themselves as part of that future, and that "educators need to feel a sense of agency or permission to help shape that future." The project uses it to remind participants that a shared future for Eastern KY is the driver of efforts, with computational thinking in a supplementary role.
@@ -37,7 +37,6 @@ Civic imagination is an organizing framework the project borrows from Sam Ford's
 - Envisioning and shaping a shared regional future
 
 ### Claims
-- [Eky Teachers No Longer Perceive Ct Barriers 2022](../claims/eky-teachers-no-longer-perceive-ct-barriers-2022.md) [+W]
 
 ## Related Theories
 

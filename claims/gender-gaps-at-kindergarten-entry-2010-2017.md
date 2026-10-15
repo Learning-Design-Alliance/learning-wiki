@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kuhfeld-2019
-    resource: "http://www.edworkingpapers.com/ai19-137"
-    title: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137"
+    resource: "https://doi.org/10.3102/0013189x20931078"
+    title: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137 [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)"
     author: "Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kuhfeld 2019
 
-Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137
+Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic Skills at School Entry: 2010 to 2017. EdWorkingPaper No. 19-137, Annenberg Institute at Brown University. http://www.edworkingpapers.com/ai19-137 [doi:10.3102/0013189x20931078](https://doi.org/10.3102/0013189x20931078)
 
 `q2 · i?` · `associational · r2`
 
@@ -44,7 +44,7 @@ Gender gap models estimated within each year and subject on the weighted MAP Gro
 
 ## Related Claims
 - [Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading](racial-ethnic-entry-gaps-narrowed-2010-2017.md) — related
-- [Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades](gender-gap-reverses-male-favored-elementary-math.md) — related
+- Early female-favored mean math differences reverse to male-favored differences that widen across elementary grades — related
 - [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — related
 - [Gaps in academic skills between children narrowed at kindergarten entry, per the article's abstract](shrinking-gaps-kindergarten-entry.md) — a broader claim this one bears on
 - [Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017](kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md) — related

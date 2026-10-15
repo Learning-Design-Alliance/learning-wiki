@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jean-pierre-briot-2026
-    resource: "https://arxiv.org/abs/2608.05176"
-    title: "Jean-Pierre Briot. (2026). Challenges for Musical Education in the Age of AI and Digital Transformation. https://arxiv.org/abs/2608.05176"
+    resource: "https://doi.org/10.48550/arxiv.2608.05176"
+    title: "Jean-Pierre Briot. (2026). Challenges for Musical Education in the Age of AI and Digital Transformation. https://arxiv.org/abs/2608.05176 [doi:10.48550/arxiv.2608.05176](https://doi.org/10.48550/arxiv.2608.05176)"
     author: Jean-Pierre Briot
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jean-Pierre Briot 2026
 
-Jean-Pierre Briot. (2026). Challenges for Musical Education in the Age of AI and Digital Transformation. https://arxiv.org/abs/2608.05176
+Jean-Pierre Briot. (2026). Challenges for Musical Education in the Age of AI and Digital Transformation. https://arxiv.org/abs/2608.05176 [doi:10.48550/arxiv.2608.05176](https://doi.org/10.48550/arxiv.2608.05176)
 
 `q1 · i?` · `theoretical · r2`
 

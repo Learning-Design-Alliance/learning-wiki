@@ -18,7 +18,7 @@ sources:
 # A2i
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Learning Ovations-partnered system that uses online assessments, instructional recommendations, lesson-planning support, and professional development to help Pre-K through Grade 3 teachers individualize literacy instruction.
@@ -29,8 +29,6 @@ A Learning Ovations-partnered system that uses online assessments, instructional
 - **A2i Software Platform**: The A2i Software Platform is described as "a key component of the A2i Professional Support System". It can be accessed on any device with a screen wider than 768 pixels (any full-sized screen). The online assessments are the only student-facing component and can be taken on most up-to-date tablets, Chromebooks, or laptops, while teacher-facing supports run on full-sized screens. (A2i Professional Support System (2013))
 
 ### Claims
-- [A2i-informed differentiated literacy instruction improves reading outcomes with an average effect size of +0.23 across three randomized-controlled studies](../claims/a2i-average-effect-size-023-strong-rating.md) [+W]
-- [Benefits of A2i-informed literacy instruction accumulate over multiple years, with students receiving it in grades 1-3 showing the highest growth (cumulative effect size 0.60)](../claims/a2i-cumulative-multiyear-effect-060.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,8 +63,6 @@ The A2i Professional Support System is a systems-level approach intended to impr
 
 ## Claims
 
-- [A2i-informed differentiated literacy instruction improves reading outcomes with an average effect size of +0.23 across three randomized-controlled studies](../claims/a2i-average-effect-size-023-strong-rating.md) [+W]
-- [Benefits of A2i-informed literacy instruction accumulate over multiple years, with students receiving it in grades 1-3 showing the highest growth (cumulative effect size 0.60)](../claims/a2i-cumulative-multiyear-effect-060.md) [+W]
 
 ## Related Elements
 
@@ -110,8 +106,6 @@ The A2i Software Platform is described as "a key component of the A2i Profession
 
 ## Claims
 
-- [A2i-informed differentiated literacy instruction improves reading outcomes with an average effect size of +0.23 across three randomized-controlled studies](../claims/a2i-average-effect-size-023-strong-rating.md) [+W]
-- [Benefits of A2i-informed literacy instruction accumulate over multiple years, with students receiving it in grades 1-3 showing the highest growth (cumulative effect size 0.60)](../claims/a2i-cumulative-multiyear-effect-060.md) [+W]
 
 ## Related Elements
 - [A2I Professional Support System](../products/a2i.md)

@@ -46,6 +46,6 @@ Findings from the CLT section of the thematic analysis. Teachers reported the au
 ## Related Claims
 - [AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed](ai-risks-when-reflective-inquiry-bypassed.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
-- [Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask](khanmigo-positive-impact-not-supported.md) — related
+- Khanmigo does not support the positive impact criterion: metacognitive scaffolding is tacit and pragmatic competence is not addressed unless learners ask — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
 - [Teachers perceive 20 distinct ethical tensions across five online language-teaching methods in AI-driven classes](twenty-ethical-tensions-five-methods.md) — a broader claim this one bears on

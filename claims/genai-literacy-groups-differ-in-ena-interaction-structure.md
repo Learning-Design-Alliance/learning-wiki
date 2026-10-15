@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: angxuan-chen-2026
-    resource: "https://arxiv.org/abs/2606.00040"
-    title: "Angxuan Chen, Jiyou Jia. (2026). Tracing GenAI Literacy: Uncovering Student-AI Interaction Patterns in Academic Writing through Epistemic Network Analysis. First International Workshop on Advancing AI Literacy with Learning Analytics (AI-LIT) @ LAK26, April 2026. https://arxiv.org/abs/2606.00040"
+    resource: "https://doi.org/10.48550/arxiv.2606.00040"
+    title: "Angxuan Chen, Jiyou Jia. (2026). Tracing GenAI Literacy: Uncovering Student-AI Interaction Patterns in Academic Writing through Epistemic Network Analysis. First International Workshop on Advancing AI Literacy with Learning Analytics (AI-LIT) @ LAK26, April 2026. https://arxiv.org/abs/2606.00040 [doi:10.48550/arxiv.2606.00040](https://doi.org/10.48550/arxiv.2606.00040)"
     author: Angxuan Chen, Jiyou Jia
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Angxuan Chen 2026
 
-Angxuan Chen, Jiyou Jia. (2026). Tracing GenAI Literacy: Uncovering Student-AI Interaction Patterns in Academic Writing through Epistemic Network Analysis. First International Workshop on Advancing AI Literacy with Learning Analytics (AI-LIT) @ LAK26, April 2026. https://arxiv.org/abs/2606.00040
+Angxuan Chen, Jiyou Jia. (2026). Tracing GenAI Literacy: Uncovering Student-AI Interaction Patterns in Academic Writing through Epistemic Network Analysis. First International Workshop on Advancing AI Literacy with Learning Analytics (AI-LIT) @ LAK26, April 2026. https://arxiv.org/abs/2606.00040 [doi:10.48550/arxiv.2606.00040](https://doi.org/10.48550/arxiv.2606.00040)
 
 `q2 · i2` · `associational · r1`
 

@@ -18,7 +18,7 @@ sources:
 # Equatio and Mathspace
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (5 for, 2 against) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Equatio is Texthelp's digital mathematics equation editor and accessibility tool, while Mathspace is a digital workspace for working with equations, shapes, and freehand drawings; teachers and students use them in mathematics instruction.
@@ -33,8 +33,6 @@ Equatio is Texthelp's digital mathematics equation editor and accessibility tool
 - [Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same](../claims/mathspace-dynamic-representations-fractions.md) [+W]
 - [After focus-group professional learning, all nine teacher partners committed to trying Mathspace and reported broader, more integrated uses of Equatio](../claims/professional-learning-expanded-equatio-use.md) [+W]
 - [When all of a teacher's students had access to Equatio, teachers leveraged it in more robust workflows such as assessments, digital submissions, and timely feedback](../claims/universal-student-access-enables-robust-equatio-use.md) [+W]
-- [At the end of the pilots, three-quarters of Mathspace teachers and all Ratio Rancher teachers said they would recommend the tool to a colleague](../claims/teachers-would-recommend-piloted-math-tools.md) [+W]
-- [Mathspace classroom use was limited, with 90% of teachers using it two hours or less weekly and two-thirds reporting technical challenges](../claims/mathspace-limited-classroom-use-technical-challenges.md) [-W]
 
 ## Related Products and Programmes
 -
@@ -76,8 +74,6 @@ Equatio is Texthelp's advanced equation editor for digital mathematics environme
 - [Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same](../claims/mathspace-dynamic-representations-fractions.md) [+W]
 - [After focus-group professional learning, all nine teacher partners committed to trying Mathspace and reported broader, more integrated uses of Equatio](../claims/professional-learning-expanded-equatio-use.md) [+W]
 - [When all of a teacher's students had access to Equatio, teachers leveraged it in more robust workflows such as assessments, digital submissions, and timely feedback](../claims/universal-student-access-enables-robust-equatio-use.md) [+W]
-- [At the end of the pilots, three-quarters of Mathspace teachers and all Ratio Rancher teachers said they would recommend the tool to a colleague](../claims/teachers-would-recommend-piloted-math-tools.md) [+W]
-- [Mathspace classroom use was limited, with 90% of teachers using it two hours or less weekly and two-thirds reporting technical challenges](../claims/mathspace-limited-classroom-use-technical-challenges.md) [-W]
 
 ## Related Elements
 - 

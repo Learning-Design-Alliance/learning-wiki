@@ -64,5 +64,5 @@ Logistic regression Model 11 in Table 5b. The report describes faculty decision-
 ## Related Claims
 - [Less positive school organizational conditions account for the higher minority teacher turnover rate; once conditions are controlled, the minority-nonminority turnover difference becomes statistically insignificant](organizational-conditions-account-for-minority-turnover-gap.md) — related
 - [After controlling for teacher and school background, school demographic characteristics were not significantly related to minority teacher turnover](school-demographics-not-related-to-minority-teacher-turnover.md) — related
-- [Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader](work-environment-predicts-teacher-retention-chicago.md) — a broader claim this one bears on
+- Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — a broader claim this one bears on
 - [Teachers who find their administrators unsupportive are more than twice as likely to leave as those who feel well-supported](administrative-support-double-attrition-odds.md) — related

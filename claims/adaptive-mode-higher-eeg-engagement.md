@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alexandre-clin-deffarges-2026
-    resource: "https://arxiv.org/abs/2609.00584"
-    title: "Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes. (2026). Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing. arXiv preprint arXiv:2609.00584. https://arxiv.org/abs/2609.00584"
+    resource: "https://doi.org/10.48550/arxiv.2609.00584"
+    title: "Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes. (2026). Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing. arXiv preprint arXiv:2609.00584. https://arxiv.org/abs/2609.00584 [doi:10.48550/arxiv.2609.00584](https://doi.org/10.48550/arxiv.2609.00584)"
     author: Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alexandre Clin Deffarges 2026
 
-Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes. (2026). Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing. arXiv preprint arXiv:2609.00584. https://arxiv.org/abs/2609.00584
+Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes. (2026). Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing. arXiv preprint arXiv:2609.00584. https://arxiv.org/abs/2609.00584 [doi:10.48550/arxiv.2609.00584](https://doi.org/10.48550/arxiv.2609.00584)
 
 `q2 · i?` · `causal · r2`
 

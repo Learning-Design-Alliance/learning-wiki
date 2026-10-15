@@ -43,6 +43,6 @@ Focus group interviews with 3 staff members who supervised the project. Staff no
 
 
 ## Related Claims
-- [AI interaction mode (Tutor, Collaborator, Solver) significantly influences high school students' observed behavior during problem-solving](ai-interaction-mode-significantly-influences-observed-behavior.md) — related
+- AI interaction mode (Tutor, Collaborator, Solver) significantly influences high school students' observed behavior during problem-solving — related
 - [Three recurring AI failure modes arose in this project-based learning context: plausible-but-incorrect code, missing specialized knowledge, and limited long-term context](three-ai-failure-modes-project-based-learning.md) — related
 - [AI tools can enhance short-term task performance while undermining durable learning (the learning-performance paradox)](gpt4-access-harms-learning-after-withdrawal.md) — related

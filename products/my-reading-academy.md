@@ -18,7 +18,7 @@ sources:
 # My Reading Academy
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 My Reading Academy is an adaptive game-based foundational reading curriculum for pre-K through grade 2, providing phonemic-awareness, phonics, vocabulary, fluency, and comprehension instruction.
@@ -27,11 +27,6 @@ My Reading Academy is an adaptive game-based foundational reading curriculum for
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [My Reading Academy kindergarteners showed significantly greater gains on the Alphabetic Knowledge strand (ES +0.32)](../claims/mra-alphabetic-knowledge-gains-es-032.md) [+W]
-- [My Reading Academy impacts were greater for students starting with lower literacy skills and for those who used the program more](../claims/mra-impacts-greater-lower-starting-skills-more-usage.md) [+W]
-- [Kindergarten students using My Reading Academy outperformed comparison students on end-of-year state literacy assessments (ES +0.17)](../claims/mra-kindergarten-literacy-es-017.md) [+W]
-- [Prekindergarten results for My Reading Academy were not positive, yielding an average effect size of +0.04 across grades](../claims/mra-prekindergarten-results-not-positive.md) [-W]
-- [Teachers surveyed about My Reading Academy reported highly positive responses, perceived phonological-awareness gains, and found the program easy to use](../claims/mra-teacher-survey-positive-perceptions.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,11 +60,6 @@ My Reading Academy is an adaptive game-based curriculum for pre-K through 2nd gr
 
 ## Claims
 
-- [My Reading Academy kindergarteners showed significantly greater gains on the Alphabetic Knowledge strand (ES +0.32)](../claims/mra-alphabetic-knowledge-gains-es-032.md) [+W]
-- [My Reading Academy impacts were greater for students starting with lower literacy skills and for those who used the program more](../claims/mra-impacts-greater-lower-starting-skills-more-usage.md) [+W]
-- [Kindergarten students using My Reading Academy outperformed comparison students on end-of-year state literacy assessments (ES +0.17)](../claims/mra-kindergarten-literacy-es-017.md) [+W]
-- [Prekindergarten results for My Reading Academy were not positive, yielding an average effect size of +0.04 across grades](../claims/mra-prekindergarten-results-not-positive.md) [-W]
-- [Teachers surveyed about My Reading Academy reported highly positive responses, perceived phonological-awareness gains, and found the program easy to use](../claims/mra-teacher-survey-positive-perceptions.md) [+W]
 
 ## Related Elements
 

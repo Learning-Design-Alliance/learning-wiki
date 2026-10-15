@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hulsey-2006
-    resource: "https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative"
-    title: "Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative"
+    resource: "https://doi.org/10.2139/ssrn.981057"
+    title: "Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative [doi:10.2139/ssrn.981057](https://doi.org/10.2139/ssrn.981057)"
     author: "Hulsey, L., Rosenberg, L., & Kim, B."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hulsey 2006
 
-Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative
+Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative [doi:10.2139/ssrn.981057](https://doi.org/10.2139/ssrn.981057)
 
 `q2 · i?` · `associational · r?`
 

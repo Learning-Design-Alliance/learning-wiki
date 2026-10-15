@@ -13,7 +13,7 @@ generated:
 # LearnAI Framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A university-developed two-layer framework combining wide-scale AI-readiness exposure with customized co-creation support for mixed-ability learners.

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` School change efforts can be classified into two types: systemic or unfocused. [→ Chicago Elementary School Decentralization Reform: The First Four Years 1989](#chicago-elementary-school-decentralization-reform-the-first-four-years-1989)
@@ -44,4 +45,4 @@ Classification derived from the study's combined case study and survey data on C
 
 ## Related Claims
 - [The indicator system correctly classifies 96 percent of case-study schools' politics and 92 percent of their improvement approach](indicator-system-validity-96-92-percent.md) — related
-- [The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis](politics-of-local-control-joined-to-school-change.md) — a broader claim this one bears on
+- The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis — a broader claim this one bears on

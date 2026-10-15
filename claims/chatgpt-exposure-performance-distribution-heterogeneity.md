@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: nick-huntington-klein-2026
-    resource: "https://arxiv.org/abs/2605.08812"
-    title: "Nick Huntington-Klein. (2026). Little Impact of ChatGPT on High School Test Scores. arXiv. https://arxiv.org/abs/2605.08812"
+    resource: "https://doi.org/10.48550/arxiv.2605.08812"
+    title: "Nick Huntington-Klein. (2026). Little Impact of ChatGPT on High School Test Scores. arXiv. https://arxiv.org/abs/2605.08812 [doi:10.48550/arxiv.2605.08812](https://doi.org/10.48550/arxiv.2605.08812)"
     author: Nick Huntington-Klein
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # ChatGPT exposure effects vary across the school performance distribution, with positive estimates for lower-performing schools and negative for top-performing schools, but this pattern is not robust
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
+> **Evidence** · 2 studies · 1 causal `r?`, 1 associational `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Bottom-tercile schools show 0.0237 (0.0108), middle 0.0233 (0.0126), and top-tercile schools -0.0313 (0.0100), with the bottom-minus-top difference significant. [→ Nick Huntington-Klein 2026](#nick-huntington-klein-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Nick Huntington-Klein 2026
 
-Nick Huntington-Klein. (2026). Little Impact of ChatGPT on High School Test Scores. arXiv. https://arxiv.org/abs/2605.08812
+Nick Huntington-Klein. (2026). Little Impact of ChatGPT on High School Test Scores. arXiv. https://arxiv.org/abs/2605.08812 [doi:10.48550/arxiv.2605.08812](https://doi.org/10.48550/arxiv.2605.08812)
 
 `q2 · i?` · `causal · r?`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kyle-dunbar-2025
-    resource: "https://digitalpromise.dspacedirect.org/items/0a2c7a9e-634b-4ec1-ba5d-3c8bfa19e696"
-    title: "Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell. (2025). Portraits in Progress: Emerging Future-Ready Skills Assessment Strategies. Digital Promise and Pearson. https://digitalpromise.dspacedirect.org/items/0a2c7a9e-634b-4ec1-ba5d-3c8bfa19e696"
+    resource: "https://doi.org/10.51388/20.500.12265/266"
+    title: "Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell. (2025). Portraits in Progress: Emerging Future-Ready Skills Assessment Strategies. Digital Promise and Pearson. https://digitalpromise.dspacedirect.org/items/0a2c7a9e-634b-4ec1-ba5d-3c8bfa19e696 [doi:10.51388/20.500.12265/266](https://doi.org/10.51388/20.500.12265/266)"
     author: Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kyle Dunbar 2025
 
-Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell. (2025). Portraits in Progress: Emerging Future-Ready Skills Assessment Strategies. Digital Promise and Pearson. https://digitalpromise.dspacedirect.org/items/0a2c7a9e-634b-4ec1-ba5d-3c8bfa19e696
+Kyle Dunbar, Katie Wilczak, Kelly Mills, Nick Mireles, and Alison Shell. (2025). Portraits in Progress: Emerging Future-Ready Skills Assessment Strategies. Digital Promise and Pearson. https://digitalpromise.dspacedirect.org/items/0a2c7a9e-634b-4ec1-ba5d-3c8bfa19e696 [doi:10.51388/20.500.12265/266](https://doi.org/10.51388/20.500.12265/266)
 
 `q2 · i?` · `qualitative · r1`
 
@@ -45,6 +45,6 @@ Landscape scan of interviews with 16 districts, seven of which had assessments i
 ## Related Claims
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
 - [Fewer than one fifth of districts with Portraits have taken the step of identifying actionable Practices within their Skill Sets](fewer-than-one-fifth-districts-identify-practices.md) — related
-- [Student portfolios are reported to be a useful method for noticing student growth on Portrait of a Graduate competencies](portfolios-notice-portrait-of-graduate-growth.md) — related
+- Student portfolios are reported to be a useful method for noticing student growth on Portrait of a Graduate competencies — related
 - [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — related
 - [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Green and Tabor (1978) argue that experiential learning's problems weaken the reflective observation phase, diminishing students' ability to develop abstract concepts and generalise; the authors respond that trainers bear responsibility for developing observation skills and critical reflection. [→ Torkington 1996](#torkington-1996)

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: melissa-roderick-2009
-    resource: "https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools"
-    title: "Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools"
+    resource: "https://doi.org/10.1353/foc.0.0024"
+    title: "Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools [doi:10.1353/foc.0.0024](https://doi.org/10.1353/foc.0.0024)"
     author: Melissa Roderick, Jenny Nagaoka, and Vanessa Coca
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence** · 2 studies · 2 review `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Among Boston seniors planning four-year college, slightly more than half had obtained an application by fall of senior year versus 91 percent of suburban peers, and 18 percent versus 41 percent had applied. [→ Melissa Roderick 2009](#melissa-roderick-2009)
@@ -40,7 +40,7 @@ sources:
 
 ### Melissa Roderick 2009
 
-Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools
+Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools [doi:10.1353/foc.0.0024](https://doi.org/10.1353/foc.0.0024)
 
 `q2 · i?` · `review · r2`
 

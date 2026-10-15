@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tsvetomila-mihaylova-2026
-    resource: "https://arxiv.org/abs/2605.16933"
-    title: "Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen. (2026). The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance. https://arxiv.org/abs/2605.16933"
+    resource: "https://doi.org/10.48550/arxiv.2605.16933"
+    title: "Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen. (2026). The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance. https://arxiv.org/abs/2605.16933 [doi:10.48550/arxiv.2605.16933](https://doi.org/10.48550/arxiv.2605.16933)"
     author: Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tsvetomila Mihaylova 2026
 
-Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen. (2026). The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance. https://arxiv.org/abs/2605.16933
+Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen. (2026). The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance. https://arxiv.org/abs/2605.16933 [doi:10.48550/arxiv.2605.16933](https://doi.org/10.48550/arxiv.2605.16933)
 
 `q2 · i?` · `causal · r2`
 
@@ -44,4 +44,4 @@ Descriptive comparison of solved percentages per feedback type (Table 8): No Fee
 
 ## Related Claims
 - [All three LLM-generated feedback types are associated with faster time to solution than a compiler-errors-only baseline, with Single-Issue Feedback showing the largest reduction](llm-feedback-faster-time-to-solution.md) — related
-- [MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments](mab-assignment-higher-average-student-rewards.md) — related
+- MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments — related

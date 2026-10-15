@@ -43,4 +43,4 @@ Descriptive statement from the Mathematica site profile of the CVPromise program
 
 
 ## Related Claims
-- [Parental support for a neighborhood single-gender middle school varied across elementary attendance zones](parental-support-single-gender-middle-school-varies-by-attendance-zone.md) — related
+- Parental support for a neighborhood single-gender middle school varied across elementary attendance zones — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: estefany-castillo-ventura-2026
-    resource: "https://arxiv.org/abs/2606.20934"
-    title: "Estefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão. (2026). WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators. https://arxiv.org/abs/2606.20934"
+    resource: "https://doi.org/10.48550/arxiv.2606.20934"
+    title: "Estefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão. (2026). WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators. https://arxiv.org/abs/2606.20934 [doi:10.48550/arxiv.2606.20934](https://doi.org/10.48550/arxiv.2606.20934)"
     author: Estefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Estefany Castillo Ventura 2026
 
-Estefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão. (2026). WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators. https://arxiv.org/abs/2606.20934
+Estefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão. (2026). WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators. https://arxiv.org/abs/2606.20934 [doi:10.48550/arxiv.2606.20934](https://doi.org/10.48550/arxiv.2606.20934)
 
 `q1 · i?` · `theoretical · r2`
 

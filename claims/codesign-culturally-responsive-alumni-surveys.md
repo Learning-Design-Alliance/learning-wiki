@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Across five Early College High School program partner schools, iterative co-design was used as a culturally responsive methodology to design alumni surveys, with each school community designing its survey for its own purposes with researcher support. [→ Shelton Daal 2024](#shelton-daal-2024)

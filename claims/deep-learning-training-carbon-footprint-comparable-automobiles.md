@@ -43,4 +43,4 @@ A synthesis-stage finding the review attributes to the literature it surveyed. T
 
 
 ## Related Claims
-- [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — possibly the same claim (merge candidate)
+- Training large AI models carries substantial environmental and human labor costs — possibly the same claim (merge candidate)

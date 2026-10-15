@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: johanna-lacoe-2018
-    resource: "https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student"
-    title: "Johanna Lacoe, Matthew P. Steinberg. (2018). Rolling Back Zero Tolerance: The Effect of Discipline Policy Reform on Suspension Usage and Student Outcomes. Peabody Journal of Education, vol. 93, issue 2. https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student"
+    resource: "https://doi.org/10.1080/0161956x.2018.1435047"
+    title: "Johanna Lacoe, Matthew P. Steinberg. (2018). Rolling Back Zero Tolerance: The Effect of Discipline Policy Reform on Suspension Usage and Student Outcomes. Peabody Journal of Education, vol. 93, issue 2. https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student [doi:10.1080/0161956x.2018.1435047](https://doi.org/10.1080/0161956x.2018.1435047)"
     author: Johanna Lacoe, Matthew P. Steinberg
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Johanna Lacoe 2018
 
-Johanna Lacoe, Matthew P. Steinberg. (2018). Rolling Back Zero Tolerance: The Effect of Discipline Policy Reform on Suspension Usage and Student Outcomes. Peabody Journal of Education, vol. 93, issue 2. https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student
+Johanna Lacoe, Matthew P. Steinberg. (2018). Rolling Back Zero Tolerance: The Effect of Discipline Policy Reform on Suspension Usage and Student Outcomes. Peabody Journal of Education, vol. 93, issue 2. https://www.mathematica.org/publications/rolling-back-zero-tolerance-the-effect-of-discipline-policy-reform-on-suspension-usage-and-student [doi:10.1080/0161956x.2018.1435047](https://doi.org/10.1080/0161956x.2018.1435047)
 
 `q3 · i?` · `causal · r?`
 
@@ -52,4 +52,4 @@ Difference-in-differences analysis of Philadelphia's discipline reform reports t
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related
 - [Negative achievement effects of suspension are robust to instrumental variable estimates leveraging a district-wide suspension policy change](suspension-effects-robust-to-iv-policy-change.md) — related
 - [Exposure to suspensions for serious misconduct has very small negative spillovers onto peer achievement](suspension-spillovers-small-negative-peer-achievement.md) — related
-- [High-skill students' math test scores declined as a consequence of the composition change](algebra-for-all-high-skill-scores-declined.md) — related
+- High-skill students' math test scores declined as a consequence of the composition change — related

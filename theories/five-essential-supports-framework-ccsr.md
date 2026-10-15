@@ -17,7 +17,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 47 claims (31 for, 16 mixed) · 35 studies (18 associational, 6 review, 6 qualitative, 3 design, 1 causal, 1 theoretical), `q1`–`q3` · 2 of 35 report an effect size · 47 claims rest on one study
+> **Evidence** · 42 claims (28 for, 14 mixed) · 31 studies (17 associational, 6 qualitative, 4 review, 3 design, 1 causal), `q1`–`q3` · 2 of 31 report an effect size · 42 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -57,11 +57,8 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Schools with strong professional community show faster instructional pacing than schools with weak professional community, including among high-poverty schools](../claims/professional-community-faster-pacing.md) [+W]
 - [Schools small by design showed significantly higher teacher influence and all four professional capacity measures](../claims/small-by-design-schools-higher-teacher-influence-and-capacity.md) [~W]
 - [Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community](../claims/teacher-collaboration-time-scarce-contract.md) [~W]
-- [Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates](../claims/subject-centered-reform-dropout-risk.md) [+W]
 - [A school's School Climate Index is more strongly associated with its probability of beating the achievement odds than its personnel resources](../claims/sci-stronger-than-personnel-resources-for-bto.md) [~W]
-- [In a contrasting case study of Chicago schools with teacher-reported strong principal instructional leadership, half showed continuously growing test scores while half did not](../claims/strong-leadership-schools-split-test-score-growth.md) [~W]
 - [School climate is more strongly associated with the likelihood of beating the odds than student demographics or personnel resources](../claims/climate-stronger-association-than-resources.md) [+W]
-- [Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains](../claims/five-essential-supports-ten-times-substantial-gains.md) [+W]
 - [Racial composition, student mobility, limited-English percentage, and low-income concentration are not independently related to reform implementation once school size is accounted for](../claims/demographics-not-independent-reform-predictors.md) [~W]
 - [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](../claims/instructional-leadership-linked-student-outcomes.md) [+W]
 - [As principals' professional development in instructional leadership increases, mathematics gains are significantly more pronounced for historically underserved students of color than for white and Asian students](../claims/instructional-leadership-pd-underserved-students.md) [+W]
@@ -74,10 +71,8 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [In one case-study school, a principal's lack of Framework knowledge and inability to rate practice led teachers to perceive the new evaluation as subjective, undermining buy-in](../claims/principal-framework-knowledge-subjectivity-perception.md) [~W]
 - [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](../claims/california-principal-preparation-pd-outcomes.md) [+W]
 - [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](../claims/effective-principals-positive-student-outcomes.md) [+W]
-- [The study asked whether schools that already have a safe learning environment benefit from further improvements, and whether schools starting with weak leadership show larger test-score gains when leadership improves](../claims/leadership-improvement-key-questions.md) [~W]
 - [A more positive school climate is related to improved academic achievement beyond socioeconomic status](../claims/positive-school-climate-linked-achievement.md) [+W]
 - [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](../claims/school-climate-associated-higher-teacher-evaluation-scores.md) [+W]
-- [Teachers' verbal and math skills, measured by teacher test scores, are significantly related to student achievement](../claims/teacher-test-scores-predict-student-achievement.md) [+W]
 - [AI/AN students have comparatively low access to well-prepared teachers: 27 percent were taught mathematics by teachers with a mathematics degree, significantly lower than any comparison group](../claims/ai-an-teacher-quality-access-gap.md) [~W]
 - [Middle grades principals have lasting effects on students' high school outcomes and young-adult life outcomes, beyond contemporaneous achievement effects](../claims/middle-grades-principals-lasting-effects-student-outcomes.md) [+W]
 - [Parental support for student learning is substantially higher in top-quartile schools than in bottom-quartile schools](../claims/parental-support-higher-top-quartile-schools.md) [~W]

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: edpuzzle-evidence-summary-2025
-    resource: "https://www.edpuzzle.com"
-    title: "Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com"
+    resource: "https://doi.org/10.2139/ssrn.5265891"
+    title: "Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com [doi:10.2139/ssrn.5265891](https://doi.org/10.2139/ssrn.5265891)"
     author: Edpuzzle evidence summary
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Edpuzzle evidence summary 2025
 
-Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com
+Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com [doi:10.2139/ssrn.5265891](https://doi.org/10.2139/ssrn.5265891)
 
 `q3 · i?` · `causal · r?`
 
@@ -46,4 +46,4 @@ A randomized study with school-level assignment examined Edpuzzle Original math 
 - [Edpuzzle Original math videos raise Renaissance Star Math scores and fall-to-spring growth (effect size +0.11)](edpuzzle-star-math-effect-011.md) — related
 - [Dosage relationship: more assigned Edpuzzle videos associated with larger gains](edpuzzle-dosage-more-videos-larger-gains.md) — related
 - [Edpuzzle qualifies for a Promising evidence rating based on one school-level randomized study](edpuzzle-promising-evidence-rating.md) — related
-- [JUMP Math raised math achievement with an effect size of +0.23 on Woodcock math tests in rural Ontario schools](jump-math-effect-023-woodcock-ontario.md) — related
+- JUMP Math raised math achievement with an effect size of +0.23 on Woodcock math tests in rural Ontario schools — related

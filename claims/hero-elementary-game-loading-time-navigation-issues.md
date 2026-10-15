@@ -43,7 +43,7 @@ Teacher report on the digital game during in-school implementation, where most t
 
 
 ## Related Claims
-- [Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning](notebook-ebook-engagement-dropped-distance-learning.md) — related
+- Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning — related
 - [Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.](hero-elementary-in-school-student-engagement-increased.md) — related
 - [Digital notebooks presented technical difficulties with projection and loading during in-school implementation.](hero-elementary-notebook-technical-difficulties-projection-loading.md) — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — a broader claim this one bears on

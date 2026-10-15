@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hillary-greene-nolan-2024
-    resource: "https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7"
-    title: "Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D. (2024). Teaching Partner, Grading Assistant, Substitute Teacher: Three Ways Teachers Positioned an Artificial Intelligence Tool in Writing Instruction. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7"
+    resource: "https://doi.org/10.51388/20.500.12265/226"
+    title: "Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D. (2024). Teaching Partner, Grading Assistant, Substitute Teacher: Three Ways Teachers Positioned an Artificial Intelligence Tool in Writing Instruction. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7 [doi:10.51388/20.500.12265/226](https://doi.org/10.51388/20.500.12265/226)"
     author: Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hillary Greene Nolan 2024
 
-Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D. (2024). Teaching Partner, Grading Assistant, Substitute Teacher: Three Ways Teachers Positioned an Artificial Intelligence Tool in Writing Instruction. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7
+Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D. (2024). Teaching Partner, Grading Assistant, Substitute Teacher: Three Ways Teachers Positioned an Artificial Intelligence Tool in Writing Instruction. Digital Promise, Center for Inclusive Innovation. https://digitalpromise.dspacedirect.org/items/4f2d86a3-9b66-4538-a5ad-977bb8fbacf7 [doi:10.51388/20.500.12265/226](https://doi.org/10.51388/20.500.12265/226)
 
 `q2 · i?` · `qualitative · r3`
 

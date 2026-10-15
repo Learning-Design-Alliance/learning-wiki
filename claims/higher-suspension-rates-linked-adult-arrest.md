@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: trout-2022
-    resource: "https://eric.ed.gov/?id=ED628885"
-    title: "Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885"
+    resource: "https://doi.org/10.3102/1882099"
+    title: "Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885 [doi:10.3102/1882099](https://doi.org/10.3102/1882099)"
     author: "Trout, L., Pate, C., Wu, K., & McKenna, J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Trout 2022
 
-Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885
+Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885 [doi:10.3102/1882099](https://doi.org/10.3102/1882099)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -51,4 +51,4 @@ The guide reports, citing Bacher-Hicks et al. (2019), that "students who attend 
 - [Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14](cps-high-school-oss-rates-declined-2009-2014.md) — related
 - [Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict](defiance-drives-most-high-school-suspensions.md) — related
 - [Student perceptions of safety and teacher perceptions of order improved in CPS high schools during the same period that OSS rates declined](safety-perceptions-improved-as-oss-declined.md) — related
-- [Attending schools with higher suspension rates predicts future interaction with the criminal legal system](higher-suspension-rates-predict-criminal-legal-system-interaction.md) — possibly the same claim (merge candidate)
+- Attending schools with higher suspension rates predicts future interaction with the criminal legal system — possibly the same claim (merge candidate)

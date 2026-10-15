@@ -14,7 +14,7 @@ grain_size: course
 # Successive Approximation Model (SAM)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 9 studies (4 quant-synthesis, 2 theoretical, 1 causal, 1 review, 1 design), `q1`–`q4` · 4 of 9 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 8 studies (4 quant-synthesis, 1 causal, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 4 of 8 report an effect size · 1 claim rests on one study
 
 ## Description
 SAM is an iterative design process for courses, formulated by Michael Allen as an explicit alternative to running [ADDIE](systematic-instructional-design.md) as a waterfall. Its argument is empirical rather than philosophical: the phases of a systematic process are all sound, but performing each one *completely* before starting the next means the first real evidence about whether the design works arrives after the budget is spent.
@@ -64,7 +64,6 @@ Where the scope itself is unsettled, SAM is the wrong tool and [Design Thinking]
 
 ### Claims
 
-- [Early objective and subjective feedback helps evaluate program effectiveness and prevents small problems from growing](../claims/early-objective-subjective-feedback-program-effectiveness.md) [+W]
 - [Participant feedback in macro cycle one prompted renaming the Administrator standard to Coordinator and reordering the standards](../claims/administrator-renamed-coordinator-feedback.md) [+W]
 
 #### Supporting

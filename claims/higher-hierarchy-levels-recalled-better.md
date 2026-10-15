@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In Experiment 2 free-recall summaries, recall scores declined from highest to lowest hierarchy levels, with the steepest drop for information placed low by the acquired organization. [→ Eylon 1979](#eylon-1979)
@@ -63,7 +64,7 @@ Experiment 3: eight paid volunteers from an introductory college physics course,
 
 ## Related Claims
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
-- [The g-factor's relationship to the higher taxonomy levels declines across grade levels](g-factor-relationship-declines-with-grade-level.md) — related
+- The g-factor's relationship to the higher taxonomy levels declines across grade levels — related
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — a broader claim this one bears on
 - [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
 - [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related

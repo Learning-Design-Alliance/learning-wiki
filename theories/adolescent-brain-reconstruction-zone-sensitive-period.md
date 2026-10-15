@@ -16,7 +16,7 @@ sources:
 # Adolescence as a neurobiological 'reconstruction zone' — a sensitive period in which experiential input shapes executive function and social cognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review presents an emergent neurobiological model in which "the brain undergoes dynamic changes throughout adolescence" and structural and behavioral changes interact. Synaptic reorganization creates a sensitive period, likened to infancy's sensorimotor period, during which "experiential input is critical to the development of both executive function and social cognition." Siegel's term "reconstruction zone" names this period. The review uses the model to argue counselors and educators should supply stimulating, adolescent-centered experiences during these years.
@@ -38,7 +38,6 @@ The review presents an emergent neurobiological model in which "the brain underg
 - emotional regulation
 
 ### Claims
-- [Adolescent Second Wave Brain Development Pruning](../claims/adolescent-second-wave-brain-development-pruning.md) [+M]
 
 ## Related Theories
 - 

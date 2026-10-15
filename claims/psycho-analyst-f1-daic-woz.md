@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jinwen-tang-2026
-    resource: "https://arxiv.org/abs/2605.10804"
-    title: "Jinwen Tang. (2026). NEW AI-DRIVEN TOOLS FOR ENHANCING CAMPUS WELL-BEING: A PREVENTION AND INTERVENTION APPROACH. Doctoral dissertation, University of Missouri-Columbia. https://arxiv.org/abs/2605.10804"
+    resource: "https://doi.org/10.48550/arxiv.2605.10804"
+    title: "Jinwen Tang. (2026). NEW AI-DRIVEN TOOLS FOR ENHANCING CAMPUS WELL-BEING: A PREVENTION AND INTERVENTION APPROACH. Doctoral dissertation, University of Missouri-Columbia. https://arxiv.org/abs/2605.10804 [doi:10.48550/arxiv.2605.10804](https://doi.org/10.48550/arxiv.2605.10804)"
     author: Jinwen Tang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jinwen Tang 2026
 
-Jinwen Tang. (2026). NEW AI-DRIVEN TOOLS FOR ENHANCING CAMPUS WELL-BEING: A PREVENTION AND INTERVENTION APPROACH. Doctoral dissertation, University of Missouri-Columbia. https://arxiv.org/abs/2605.10804
+Jinwen Tang. (2026). NEW AI-DRIVEN TOOLS FOR ENHANCING CAMPUS WELL-BEING: A PREVENTION AND INTERVENTION APPROACH. Doctoral dissertation, University of Missouri-Columbia. https://arxiv.org/abs/2605.10804 [doi:10.48550/arxiv.2605.10804](https://doi.org/10.48550/arxiv.2605.10804)
 
 `q2 · i?` · `design · r2`
 

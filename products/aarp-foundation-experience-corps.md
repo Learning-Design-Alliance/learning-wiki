@@ -18,7 +18,7 @@ sources:
 # AARP Foundation Experience Corps
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 2 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 AARP Foundation Experience Corps is a volunteer-based literacy tutoring programme run by AARP Foundation in which trained adults aged 50 and older tutor struggling K–3 readers individually or in small groups.
@@ -28,10 +28,6 @@ AARP Foundation Experience Corps is a volunteer-based literacy tutoring programm
 - **AARP Foundation Experience Corps volunteer tutoring program for struggling K-3 readers**: Experience Corps engages "volunteer tutors ages 50 or older to work with struggling readers in grades K-3". Tutors work one-to-one or in small groups of up to four students at least twice weekly for an average of 30 minutes per session, committing up to 15 hours a week, with or without a stipend. Tutors receive extensive training (usually about 25 hours) and structured materials to support their tutoring. (AARP Foundation Experience Corps (2021))
 
 ### Claims
-- [Experience Corps tutoring improves reading outcomes for struggling K-3 readers, with an average effect size of +0.13 across two qualifying studies](../claims/experience-corps-average-effect-0-13.md) [+W]
-- [Experience Corps showed significant differences on ECLAS in one study and on Woodcock Johnson Passage Comprehension in the other](../claims/experience-corps-significant-eclas-wj-passage.md) [+W]
-- [Among third graders, Education Corps tutoring showed a positive but non-significant effect on the state End-of-Grade reading assessment (+0.13)](../claims/education-corps-eog-reading-non-significant.md) [+W]
-- [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](../claims/education-corps-tutoring-improves-dibels-composite.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,10 +63,6 @@ Experience Corps engages "volunteer tutors ages 50 or older to work with struggl
 
 ## Claims
 
-- [Experience Corps tutoring improves reading outcomes for struggling K-3 readers, with an average effect size of +0.13 across two qualifying studies](../claims/experience-corps-average-effect-0-13.md) [+W]
-- [Experience Corps showed significant differences on ECLAS in one study and on Woodcock Johnson Passage Comprehension in the other](../claims/experience-corps-significant-eclas-wj-passage.md) [+W]
-- [Among third graders, Education Corps tutoring showed a positive but non-significant effect on the state End-of-Grade reading assessment (+0.13)](../claims/education-corps-eog-reading-non-significant.md) [+W]
-- [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](../claims/education-corps-tutoring-improves-dibels-composite.md) [+W]
 
 ## Related Elements
 

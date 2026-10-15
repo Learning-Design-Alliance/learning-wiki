@@ -13,7 +13,7 @@ generated:
 # Assess performance
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 8 studies (3 theoretical, 2 review, 1 causal, 1 associational, 1 qualitative), `q2`–`q3` · 0 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (3 theoretical, 1 causal, 1 review, 1 associational, 1 qualitative), `q2`–`q3` · 0 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Assessing performance is the instructional event in which learners demonstrate what they can do and the instructor or system evaluates that demonstration against criteria. It functions both as a measurement of mastery and as a learning event in its own right — the act of retrieving and producing performance strengthens memory and reveals gaps that instruction has not closed.
@@ -54,7 +54,6 @@ Performance assessment is most effective when criteria are transparent and feedb
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [+W]
-- [PARCC and Smarter Balanced assessments measure higher-order skills more fully than prior tests](../claims/parcc-sbac-measure-higher-order-more-fully.md) [+W]
 - [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](../claims/numeracy-measurable-54-months-three-competencies.md) [~W]
 
 ## Related Elements

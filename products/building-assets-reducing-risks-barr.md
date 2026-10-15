@@ -22,7 +22,7 @@ sources:
 # Building Assets, Reducing Risks (BARR)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A schoolwide K–12 training and coaching program run by the BARR Center that integrates relationship-building, coordinated staff practices, and systematic academic and non-academic data use to improve student outcomes.
@@ -33,12 +33,7 @@ A schoolwide K–12 training and coaching program run by the BARR Center that in
 - **BARR program: a K–12 training and coaching model built on Relationships and Data pillars**: BARR is "a training and coaching model that serves K–12 schools with a structured system and tools to improve student outcomes." It is "Grounded in two core pillars – Relationships and Data," strengthening staff-student, staff-staff, and student-student relationships while embedding consistent use of academic and non-academic data into daily practice. Core strategies include teacher teams meeting regularly to discuss each student's strengths and progress, Community Connect meetings linking students to out-of-school resources, extensive professional development and coaching, and family engagement. (Building Assets Reducing Risks (BARR) — Evidence Rating (2024))
 
 ### Claims
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](../claims/barr-reduces-ninth-grade-chronic-absenteeism.md) [+M]
-- [BARR is rated Strong for Math, Reading, and SEL impacts in addition to Attendance](../claims/barr-strong-math-reading-sel-ratings.md) [+M]
-- [A large multi-site cluster randomized study found a positive PSAT/NMSQT reading effect in one cohort (+0.13) but a smaller effect in a second cohort (+0.03)](../claims/barr-multisite-cluster-psat-cohort-variation.md) [+W]
-- [BARR improves reading achievement across grades 7–12 with an average effect size of +0.08 across three randomized studies](../claims/barr-reading-achievement-average-effect-008.md) [+W]
 - [Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)](../claims/barr-student-level-rcts-nwea-map-reading-009.md) [+W]
-- [In a large suburban southern California high school, BARR produced a significant positive reading effect (+0.14), larger for struggling readers (+0.21)](../claims/barr-suburban-high-school-reading-014-struggling-021.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -76,8 +71,6 @@ BARR is "a training and coaching model that serves K–12 schools with a structu
 
 ## Claims
 
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](../claims/barr-reduces-ninth-grade-chronic-absenteeism.md) [+M]
-- [BARR is rated Strong for Math, Reading, and SEL impacts in addition to Attendance](../claims/barr-strong-math-reading-sel-ratings.md) [+M]
 
 ## Related Elements
 - 
@@ -122,10 +115,7 @@ BARR is "a training and coaching model that serves K–12 schools with a structu
 
 ## Claims
 
-- [A large multi-site cluster randomized study found a positive PSAT/NMSQT reading effect in one cohort (+0.13) but a smaller effect in a second cohort (+0.03)](../claims/barr-multisite-cluster-psat-cohort-variation.md) [+W]
-- [BARR improves reading achievement across grades 7–12 with an average effect size of +0.08 across three randomized studies](../claims/barr-reading-achievement-average-effect-008.md) [+W]
 - [Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)](../claims/barr-student-level-rcts-nwea-map-reading-009.md) [+W]
-- [In a large suburban southern California high school, BARR produced a significant positive reading effect (+0.14), larger for struggling readers (+0.21)](../claims/barr-suburban-high-school-reading-014-struggling-021.md) [+W]
 
 ## Related Elements
 - 

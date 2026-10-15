@@ -43,10 +43,10 @@ The brief attributes this comparison to an Urban Institute report on reshaping P
 
 
 ## Related Claims
-- [As of May 2025, 5.3 million borrowers were in default and another 4 million were in severe delinquency](5-3-million-borrowers-in-default-may-2025.md) — related
-- [Black parent borrowers struggle more with repayment and sacrifice retirement savings more than White parent borrowers](black-parent-borrowers-repayment-and-retirement-struggles.md) — related
-- [Parent PLUS loans take up a larger share of typical Black family income than of typical White family income](parent-plus-loans-larger-share-black-family-income.md) — related
-- [Black parents take out Parent PLUS loans at a higher rate than any other racial or ethnic group, and low-income Black PLUS borrowing is growing](black-parents-highest-parent-plus-take-up-rate.md) — related
-- [Black students default on federal student loans at far higher rates than White peers even within the same income group](loan-default-gaps-within-income-groups.md) — related
+- As of May 2025, 5.3 million borrowers were in default and another 4 million were in severe delinquency — related
+- Black parent borrowers struggle more with repayment and sacrifice retirement savings more than White parent borrowers — related
+- Parent PLUS loans take up a larger share of typical Black family income than of typical White family income — related
+- Black parents take out Parent PLUS loans at a higher rate than any other racial or ethnic group, and low-income Black PLUS borrowing is growing — related
+- Black students default on federal student loans at far higher rates than White peers even within the same income group — related
 - [The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million](plus-credit-tightening-cut-hbcu-access-and-revenue.md) — related
-- [Black borrowers, and Black women in particular, are less likely to receive family or financial help with college costs or loan payments](black-women-least-family-help-repaying-loans.md) — related
+- Black borrowers, and Black women in particular, are less likely to receive family or financial help with college costs or loan payments — related

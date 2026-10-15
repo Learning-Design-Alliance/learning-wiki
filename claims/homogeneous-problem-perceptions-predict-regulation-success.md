@@ -48,7 +48,7 @@ This is a single-session collaborative task in one academic context (pre-service
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](self-monitoring-improves-self-regulation.md) — this claim extends the self-monitoring mechanism to the shared/group level: groups need aligned perception of the problem before individual self-monitoring translates into coordinated regulation
 - [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](awareness-of-heterogeneity-does-not-predict-regulation-success.md) — from the same study; shows that simply recognizing disagreement is not enough to produce the coordination benefits homogeneity provides
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
-- [Strong feelings about a community problem positively influence group growth](strong-feelings-about-problem-influence-group-growth.md) — related
+- Strong feelings about a community problem positively influence group growth — related
 - [Students segregated into language cliques whenever allowed to choose peer interactions, despite the 50-50 enrollment design](language-clique-segregation-peer-choice.md) — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — reports the opposite
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](students-report-peer-collaboration-supports-learning.md) — related

@@ -80,7 +80,7 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 · large effect, median d = 0.85 | [Pretraining principle: pre-lessons on names, locations, and characteristics of key compone](pretraining-principle-mayer-2008.md) (supports) |
 | [Kalyuga 2003](https://doi.org/10.1207/s15326985ep3801_4) | q2 · review · r2 | i? | [The review reports that the isolated-elements mixed instructional method benefits novices ](expertise-reversal-isolated-elements-and-imagination-review.md) (qualifies) |
 | [van Merriënboer et al. 2006](https://doi.org/10.1002/acp.1250) | q2 · theoretical · r? | i? | [A training-design argument, not tested by any study recorded here, holds that practising w](whole-task-performance-improves-transfer.md) (qualifies) |
-| Bill VanPatten 2010 | q1 · theoretical · r3 | i? | [Skill develops through engaging in the target activity itself, not through mechanistic dri](skill-develops-through-engagement-not-drill.md) (counts against) |
+| [Bill VanPatten 2010](https://doi.org/10.6018/ijes/2010/1/113951) | q1 · theoretical · r3 | i? | [Skill develops through engaging in the target activity itself, not through mechanistic dri](skill-develops-through-engagement-not-drill.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -101,11 +101,11 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — the working-memory constraint pretraining addresses
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — the failure mode pretraining is designed to prevent
 - [Analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md) — another route to transfer via well-structured prior knowledge
-- [Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits](embedding-pretraining-beats-end-to-end-training-dynemb.md) — related
+- Embedding pretraining outperforms end-to-end training in DynEmb, avoiding the overfitting that end-to-end training exhibits — related
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](whole-task-performance-improves-transfer.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
 - [Errorless discrimination training avoids emotional responses and yields more effective transfer than errorful training (Terrace's pigeon studies)](errorless-discrimination-learning-transfer-advantage.md) — related
-- [Transfer from instructional media is empirically possible but its probability under heavy real-world exposure remains unestablished](media-transfer-possible-but-probability-unestablished.md) — related
+- Transfer from instructional media is empirically possible but its probability under heavy real-world exposure remains unestablished — related
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work](ai-enables-authentic-contextualized-science-experiences.md) — related
 - [Four interrelated components are essential in blueprints for complex learning](four-components-essential-complex-learning-blueprints.md) — related

@@ -44,8 +44,8 @@ Interview data show teams initially relied on state test scores, then interim an
 
 ## Related Claims
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related
-- [A university–district partnership in Multnomah County, Oregon, delivered district-driven research support while practitioner-scholars learned to perform rigorous evaluation work firsthand](multnomah-university-district-partnership-dual-benefit.md) — related
+- A university–district partnership in Multnomah County, Oregon, delivered district-driven research support while practitioner-scholars learned to perform rigorous evaluation work firsthand — related
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
-- [Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection](edtech-product-information-scarce-untrustworthy.md) — related
+- Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection — related
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related
 - University–district research partnership models vary widely and many struggle to develop collaboratively designed research that assists districts and improves the profession — related

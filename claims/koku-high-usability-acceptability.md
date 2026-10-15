@@ -47,7 +47,7 @@ Descriptive summarisation of usability and acceptability questionnaires complete
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](koku-qualitative-acceptability-themes.md) — related
 - [The KOKU digital programme improves balance function at 12 weeks compared with standard care in community-dwelling older adults, with the effect increasing over time](koku-improves-balance-12-weeks-older-adults.md) — related
 - [KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate](koku-secondary-outcomes-mixed.md) — related
-- [Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams](high-student-satisfaction-concept-diagrams.md) — related
+- Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams — related
 - [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](thermos-lad-sus-good-excellent-usability.md) — related
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
 - [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related

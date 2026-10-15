@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: veronika-hackl-2025
-    resource: "https://arxiv.org/abs/2509.18900"
-    title: "Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer. (2025). The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education. https://arxiv.org/abs/2509.18900"
+    resource: "https://doi.org/10.48550/arxiv.2509.18900"
+    title: "Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer. (2025). The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education. https://arxiv.org/abs/2509.18900 [doi:10.48550/arxiv.2509.18900](https://doi.org/10.48550/arxiv.2509.18900)"
     author: Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Veronika Hackl 2025
 
-Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer. (2025). The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education. https://arxiv.org/abs/2509.18900
+Veronika Hackl, Alexandra Elena Müller, Maximilian Sailer. (2025). The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education. https://arxiv.org/abs/2509.18900 [doi:10.48550/arxiv.2509.18900](https://doi.org/10.48550/arxiv.2509.18900)
 
 `q1 · i?` · `design · r2`
 
@@ -45,4 +45,4 @@ Authors' interpretation from the Discussion, drawing on the curriculum mapping a
 ## Related Claims
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
-- [Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes](academy-influence-not-major-factor.md) — related
+- Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes — related

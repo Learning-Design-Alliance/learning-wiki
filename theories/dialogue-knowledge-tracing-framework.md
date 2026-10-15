@@ -17,7 +17,7 @@ sources:
 # Dialogue Knowledge Tracing (dialogueKT) Framework
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 3 studies (3 design), `q2` · 1 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 2 studies (2 design), `q2` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 DialogueKT is the task the article proposes, which "analyzes student discourse within the knowledge tracing (KT) framework". It treats tutor turns as posing tasks tied to knowledge components (KCs) and student turns as correct or incorrect responses, so that "A pair of tutor-student dialogue turns corresponds to a time step in KT". The framework has three stages: identify the KCs in each turn, classify student correctness, then apply KT methods. Because most turns involve several KCs, it adopts "a compensatory model rather than a conjunctive model", predicting correctness as average KC mastery.
@@ -46,7 +46,6 @@ DialogueKT is the task the article proposes, which "analyzes student discourse w
 - [An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial](../claims/irt-difficulty-aware-kt-beats-llmkt-auc.md) [+W] — attached 2026-10-11 from Shuyan Huang et al. (2026), which proposed "Interpretable difficulty-aware conversational knowledge tracing framework (knowledge estimator + difficulty estimator + IRT-based predictor)".
 - [Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k](../claims/learned-difficulty-correlates-empirical-difficulty.md) [+M] — attached 2026-10-11 from Shuyan Huang et al. (2026), which proposed "Interpretable difficulty-aware conversational knowledge tracing framework (knowledge estimator + difficulty estimator + IRT-based predictor)".
 - [Separating ability estimation from correctness prediction yields smoother, more stable learning trajectories than probability-based mastery estimation](../claims/ability-difficulty-separation-stable-learning-trajectories.md) [+W] — attached 2026-10-11 from Shuyan Huang et al. (2026), which proposed "Interpretable difficulty-aware conversational knowledge tracing framework (knowledge estimator + difficulty estimator + IRT-based predictor)".
-- [Automatic skill discovery identifies more knowledge components than domain experts on both tutoring datasets](../claims/skill-discovery-finds-more-kcs-than-experts.md) [+W]
 
 ## Related Theories
 - Formative Assessment

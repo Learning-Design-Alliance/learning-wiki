@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dietzel-1974
-    resource: "https://eric.ed.gov/?id=ED091646"
-    title: "Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646"
+    resource: "https://doi.org/10.1037/h0076731"
+    title: "Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646 [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)"
     author: Dietzel, C. S.; Abeles, Norman
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dietzel 1974
 
-Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646
+Dietzel, C. S.; Abeles, Norman. (1974). Client-Therapist Complementarity and Therapeutic Outcome. https://eric.ed.gov/?id=ED091646 [doi:10.1037/h0076731](https://doi.org/10.1037/h0076731)
 
 `q2 · i?` · `associational · r1`
 
@@ -47,5 +47,5 @@ Behavioral analysis of 120 rated tape segments from 20 late-adolescent clients (
 - [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
 - [Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells](interaction-frequencies-support-matrix-weightings.md) — related
 - [During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists](middle-stage-lower-complementarity-successful-therapists.md) — reports the opposite
-- [Therapy relationships do not show a transition from relational incongruence to congruence across sessions](no-incongruence-to-congruence-transition-across-therapy-sessions.md) — related
-- [Response redundancy (relational congruence) is not related to working alliance ratings](redundancy-unrelated-to-working-alliance.md) — related
+- Therapy relationships do not show a transition from relational incongruence to congruence across sessions — related
+- Response redundancy (relational congruence) is not related to working alliance ratings — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Initial research showed that different classes of statistics are differentially sensitive to segmentation boundary shifts: absolute values of statistics for individual SKIVE elements are more strongly affected than relative weights of the SKIVE elements, which appear reasonably robust. [→ Rupp 2010](#rupp-2010)

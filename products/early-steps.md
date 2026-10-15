@@ -18,7 +18,7 @@ sources:
 # Early Steps
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Early Steps is a structured one-to-one tutoring programme for first-grade pupils, delivered by tutors according to its named instructional schedule.
@@ -28,7 +28,6 @@ Early Steps is a structured one-to-one tutoring programme for first-grade pupils
 - **Early Steps one-to-one first-grade tutoring program**: Early Steps, based on an earlier version called Howard Street Tutoring, is a one-to-one tutoring model delivered in 30-minute sessions five days a week across the entire first grade year. Tutors follow "a daily schedule of re-reading familiar books, systematic word study, sentence writing, and introducing new books" using leveled, non-phonetic books. No technology is required. (Early Steps (2024))
 
 ### Claims
-- [Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86)](../claims/early-steps-tutoring-improves-word-attack-passage-comprehension.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -62,7 +61,6 @@ Early Steps, based on an earlier version called Howard Street Tutoring, is a one
 
 ## Claims
 
-- [Early Steps one-to-one tutoring substantially raises first graders' Word Attack and Passage Comprehension scores (average effect size +0.86)](../claims/early-steps-tutoring-improves-word-attack-passage-comprehension.md) [+M]
 
 ## Related Elements
 

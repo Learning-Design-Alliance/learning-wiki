@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: smith-2026
-    resource: "https://arxiv.org/abs/2608.11540"
-    title: "Smith, Dalton Ross; Whittington, Wilburn; Martinez, Alejandro; Duncan, Aidan; Li, Gang. (2026). A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era. https://arxiv.org/abs/2608.11540"
+    resource: "https://doi.org/10.48550/arxiv.2608.11540"
+    title: "Smith, Dalton Ross; Whittington, Wilburn; Martinez, Alejandro; Duncan, Aidan; Li, Gang. (2026). A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era. https://arxiv.org/abs/2608.11540 [doi:10.48550/arxiv.2608.11540](https://doi.org/10.48550/arxiv.2608.11540)"
     author: Smith, Dalton Ross; Whittington, Wilburn; Martinez, Alejandro; Duncan, Aidan; Li, Gang
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Smith 2026
 
-Smith, Dalton Ross; Whittington, Wilburn; Martinez, Alejandro; Duncan, Aidan; Li, Gang. (2026). A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era. https://arxiv.org/abs/2608.11540
+Smith, Dalton Ross; Whittington, Wilburn; Martinez, Alejandro; Duncan, Aidan; Li, Gang. (2026). A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era. https://arxiv.org/abs/2608.11540 [doi:10.48550/arxiv.2608.11540](https://doi.org/10.48550/arxiv.2608.11540)
 
 `q1 · i?` · `design · r2`
 

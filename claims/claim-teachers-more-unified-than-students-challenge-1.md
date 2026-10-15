@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kexin-bella-yang-2026
-    resource: "https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing"
-    title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing"
+    resource: "https://doi.org/10.1145/3816902"
+    title: "Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing [doi:10.1145/3816902](https://doi.org/10.1145/3816902)"
     author: Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kexin Bella Yang 2026
 
-Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing
+Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, and Vincent Aleven. (2026). Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing. https://scholar.google.com/scholar?q=Balancing+Teacher+and+Student+Agency+Co-Orchestration+Tool+Design+Supporting+Real-Time+Dynamic+Pairing [doi:10.1145/3816902](https://doi.org/10.1145/3816902)
 
 `q2 · i?` · `design · r2`
 
@@ -46,4 +46,3 @@ Mixed-method ranking study with 30 participants evaluating design ideas for Chal
 
 - [After pairing, both groups favored saving progress over abrupt transitions and trusted data-informed future pairing over student-only ratings.](claim-post-pairing-progress-and-data-informed-pairing.md)
 - [During pairing, both teachers and students favored shared decision-making over full student control for roles, partners, and collaboration content.](claim-shared-control-roles-and-content.md)
-- [Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses](interaction-priority-skill-vs-knowledge-orientation.md)

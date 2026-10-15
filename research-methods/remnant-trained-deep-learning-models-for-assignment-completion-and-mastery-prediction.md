@@ -17,7 +17,7 @@ sources:
 # Remnant-trained deep-learning models for assignment-completion and mastery prediction
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article trained four neural networks on remnant data to predict assignment completion and problems to mastery: a feed-forward network on prior student statistics, LSTM networks on the last 20 started assignments and the last 60 days of tutor actions, and an ensemble. The combined model "takes the three models above and couples their predictions such that the prediction is a function of all three models' weights and the loss is backpropagated through each model during training." Hyperparameters (dropout frequency, layer depth, node counts) were chosen by grid search on a held-out subset, with 5-fold cross-validation used to measure model quality.
@@ -27,8 +27,6 @@ The article trained four neural networks on remnant data to predict assignment c
 - **Four remnant-trained deep-learning imputation models (prior student statistics, prior assignments, prior daily actions, and a combined ensemble)**: The article trained four neural networks on remnant data to predict assignment completion and problems to mastery: a feed-forward network on prior student statistics, LSTM networks on the last 20 started assignments and the last 60 days of tutor actions, and an ensemble. The combined model "takes the three models above and couples their predictions such that the prediction is a function of all three models' weights and the loss is backpropagated through each model during training." Hyperparameters (dropout frequency, layer depth, node counts) were chosen by grid search on a held-out subset, with 5-fold cross-validation used to measure model quality. (Adam C. Sales et al. (2023))
 
 ### Claims
-- [Prior assignment statistics were the most predictive remnant data type for assignment performance, followed by prior student statistics, with daily action history least predictive; combining datasets improved predictions over any single dataset](../claims/prior-assignment-statistics-most-predictive.md) [+W]
-- [Among remnant data types, the combined ensemble model reduced sampling variance most, the action-level model least, and the assignment-level model performed nearly as well as the combined model](../claims/remnant-data-type-contribution-variance.md) [+W]
 
 ## Related Research Methods
 -
@@ -65,8 +63,6 @@ The article trained four neural networks on remnant data to predict assignment c
 
 ## Claims
 
-- [Prior assignment statistics were the most predictive remnant data type for assignment performance, followed by prior student statistics, with daily action history least predictive; combining datasets improved predictions over any single dataset](../claims/prior-assignment-statistics-most-predictive.md) [+W]
-- [Among remnant data types, the combined ensemble model reduced sampling variance most, the action-level model least, and the assignment-level model performed nearly as well as the combined model](../claims/remnant-data-type-contribution-variance.md) [+W]
 
 ## Related Elements
 

@@ -17,7 +17,7 @@ sources:
 # Maker Learning Self-assessment Rubric
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A self-evaluation instrument (Appendix B) that maker champions used to rate their district's maker learning program in six categories: Faculty and Staff Support; Administration Support; Resources and Budget; Tools, Materials, and Spaces; Assessment and Documentation; and Curricular Integration. In each category respondents rate their district as "beginning," "exploring," "integrating," or "embedded," where at the embedded level making is "a regular part of the day-to-day learning for all students in the school." The rubric was designed from leadership interview goals with curricular integration as the guiding principle.
@@ -38,8 +38,6 @@ A self-evaluation instrument (Appendix B) that maker champions used to rate thei
 
 ## Claims
 
-- [Maker champions rate their programs highest in Tools, Materials, and Spaces, while curricular integration lags behind independent spaces](../claims/maker-self-assessment-tools-high-curricular-integration-lags.md) [+W]
-- [School leaders developing maker learning programs cite lack of unity around goals, a small research base, lack of academic integration models, and no planning frameworks as key challenges](../claims/maker-program-development-challenges.md) [+W]
 
 ## Related Elements
 

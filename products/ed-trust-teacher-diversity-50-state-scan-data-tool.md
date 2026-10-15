@@ -13,7 +13,7 @@ generated:
 # Ed Trust Teacher Diversity 50-State Scan data tool
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (3 review), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A publicly available Ed Trust data and rating tool that compares states' progress on educator-diversity policies using evidence-based criteria and three-level ratings.
@@ -24,10 +24,6 @@ A publicly available Ed Trust data and rating tool that compares states' progres
 
 ### Claims
 
-- [Ohio partially meets criteria for public educator diversity data: state-level data posted but school-level, completer, and retention data missing](../claims/ohio-partial-educator-diversity-data-transparency.md) [+W]
-- [North Carolina's educator-diversity policy record is mixed, with strongest performance on data, GYO programs, and induction and weakest on financial and leadership supports](../claims/nc-mixed-educator-diversity-policies.md) [+W]
-- [Ohio meets criteria on high-retention teaching pathways and early-career induction with mentoring](../claims/ohio-resident-educator-induction-mentoring-meets-criteria.md) [+W]
-- [Pennsylvania's policy scan shows strong Grow Your Own, residency, and induction investments but weak data transparency, scholarships, and program approval standards for diversity](../claims/pa-policy-scan-strengths-gaps-educator-diversity.md) [+W]
 
 ## Related Products and Programmes
 

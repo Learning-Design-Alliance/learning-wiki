@@ -16,7 +16,7 @@ sources:
 # Self-regulated learning as a motivational, cyclical process of goal setting, monitoring, and control
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review frames self-regulated learning as a cognitive-motivational approach in which learners actively manage their own learning. Quoting Pintrich (2000), it defines SRL as "an active, constructive process whereby learners set goals for their learning and then attempt to monitor, regulate, and control their cognition, motivation, and behaviour, guided and constrained by their goals and the contextual features in the environment". The review uses this framework to organize variables (self-efficacy, goal orientation, task value, strategy use, metacognition) and mathematics outcomes.
@@ -38,8 +38,6 @@ The review frames self-regulated learning as a cognitive-motivational approach i
 - metacognitive strategy use
 
 ### Claims
-- [Srl Strategies Account Up To 51 Percent Variance Academic Performance](../claims/srl-strategies-account-up-to-51-percent-variance-academic-performance.md) [+S]
-- [Self Efficacy For Srl Predicts Achievement Beyond Traits](../claims/self-efficacy-for-srl-predicts-achievement-beyond-traits.md) [+S]
 
 ## Related Theories
 

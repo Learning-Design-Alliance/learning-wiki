@@ -17,7 +17,7 @@ sources:
 # Twelve common TA set-aside activities supporting quality authorizing, led by contracting providers and evaluating current practices
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report identifies 12 common activities SE grantees funded to improve authorizer quality, ranging from contracting external providers and evaluating current authorizing practices to individualized TA, professional development, and purchasing software such as Epicenter. It states "Sixteen grantees reported contracting (or planning to contract) with the National Association of Charter School Authorizers (NACSA), SchoolWorks, the National Charter Schools Institute, or similar organizations to support quality authorizing practices." Fifteen grantees reported evaluating current authorizing practices using internal and external evaluators.
@@ -37,7 +37,6 @@ The report identifies 12 common activities SE grantees funded to improve authori
 - Improving the quality of charter school authorizing practices
 
 ### Claims
-- [Se Grantees More Ta Funds Applicants Than Authorizing](../claims/se-grantees-more-ta-funds-applicants-than-authorizing.md) [+M]
 
 ## Related Designs
 

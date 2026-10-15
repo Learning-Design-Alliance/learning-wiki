@@ -17,7 +17,7 @@ sources:
 # Tough's list of twelve common self-teaching tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In constructing his 1967 study, Tough derived from pedagogic literature, his own self-education experience, colleague conversations and pilot interviews "a list of twelve 'common' self teaching tasks", including choosing the learning goal, deciding how to achieve it, obtaining resources, dealing with doubts about success, estimating current knowledge or skill, and deciding whether to continue after reaching a goal. The review notes a majority of these tasks are rational in character, relating to choosing, deciding, considering, estimating or dealing with.
@@ -38,7 +38,6 @@ In constructing his 1967 study, Tough derived from pedagogic literature, his own
 
 ## Claims
 
-- [Tough's 1967 study found all forty sampled graduates engaged in self-teaching, assisted on average by 10.6 helpers each](../claims/tough-1967-adults-self-teach-with-helpers.md) [+W]
 - [Tough's 1971 study found nearly all adults had undertaken a learning project in the past year, 68% self-planned and under 1% for credit, with women's categories logging fewer hours](../claims/tough-1971-learning-projects-prevalence-self-planned.md) [+W]
 
 ## Related Elements

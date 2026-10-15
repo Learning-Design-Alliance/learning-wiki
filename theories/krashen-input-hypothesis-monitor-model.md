@@ -12,7 +12,7 @@ generated:
 # Krashen's input hypothesis and Monitor Model of second language acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (7 for, 1 mixed, 4 against) · 7 studies (3 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q2` · 1 of 7 report an effect size · 12 claims rest on one study
+> **Evidence** · 7 claims (4 for, 1 mixed, 2 against) · 6 studies (2 review, 1 causal, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 1 of 6 report an effect size · 7 claims rest on one study
 
 <!-- Hub page (2026-09-30). The Description is compiled from the fetched articles that discuss this theory: eric-ed226607, eric-ed294203, eric-ed242194, eric-ej1071042, eric-ed338037, eric-ed367161, eric-ej1095572, eric-ej420159, eric-ej912917, eric-ed512082, eric-ej1051487. The primary works in Key Sources were verified against Crossref but not read. -->
 
@@ -41,15 +41,10 @@ The critiques are sharper than the defences. Adamson argues that the absolute sp
 
 ## Claims
 
-- [Comprehensible input in natural language contexts is presented as essential to second language acquisition](../claims/comprehensible-input-essential-l2-acquisition.md) [+W]
-- [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](../claims/affective-variables-facilitate-l2-acquisition.md) [+W]
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
-- [Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition](../claims/morpheme-order-similarity-across-l1-backgrounds.md) [+W]
 - [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](../claims/monitoring-improves-learnable-rule-accuracy.md) [+W]
 - [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](../claims/monitoring-lowers-preposition-accuracy.md) [~W]
 - [A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice](../claims/listening-first-outperforms-intensive-oral-practice.md) [+W]
-- [Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles](../claims/monitoring-variable-not-all-or-nothing.md) [-W]
-- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](../claims/no-direct-evidence-input-hypothesis.md) [-W]
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](../claims/comprehensible-input-insufficient-grammar-acquisition.md) [-M]
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](../claims/mere-exposure-insufficient-advanced-l2-communicative-competence.md) [-W]
 - [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](../claims/incidental-acquisition-rate-3-of-20-words.md) [+W]

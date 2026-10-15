@@ -47,7 +47,7 @@ In the results section of the interview study with 46 kindergartners, "The resul
 - [Few kindergartners hold synthetic (18%) or scientific (13%) models of the day and night cycle despite no formal instruction](few-kindergartners-synthetic-scientific-models.md) — related
 - [DIF was found for four items but could not be anticipated from differential response times between boys and girls alone](dif-not-predictable-from-differential-response-times.md) — related
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
-- [The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04)](rt-likelihood-trend-boys-not-girls.md) — related
-- [Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls](likelihood-variance-greater-for-girls.md) — related
-- [No significant interaction between gender and CREACT on pretest or posttest creative performance](creact-no-gender-interaction.md) — related
-- [No significant difference between boys and girls in the degree of animistic or anthropomorphic explanation](no-gender-difference-animistic-explanations.md) — related
+- The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04) — related
+- Mean response likelihood does not differ significantly between boys and girls, but its variance is 1.46 times greater for girls — related
+- No significant interaction between gender and CREACT on pretest or posttest creative performance — related
+- No significant difference between boys and girls in the degree of animistic or anthropomorphic explanation — related

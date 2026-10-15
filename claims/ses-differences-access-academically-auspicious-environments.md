@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: oscar-a-barbarin-2015
-    resource: "https://www.mathematica.org/publications/overcoming-the-educational-disadvantages-of-poor-children-how-much-do-teacher-preparation-workload"
-    title: "Oscar A. Barbarin, Nikki Aikens. (2015). Overcoming the Educational Disadvantages of Poor Children: How Much do Teacher Preparation, Workload, and Expectations Matter. American Journal of Orthopsychiatry, vol. 85, no. 2. https://www.mathematica.org/publications/overcoming-the-educational-disadvantages-of-poor-children-how-much-do-teacher-preparation-workload"
+    resource: "https://doi.org/10.1037/ort0000060"
+    title: "Oscar A. Barbarin, Nikki Aikens. (2015). Overcoming the Educational Disadvantages of Poor Children: How Much do Teacher Preparation, Workload, and Expectations Matter. American Journal of Orthopsychiatry, vol. 85, no. 2. https://www.mathematica.org/publications/overcoming-the-educational-disadvantages-of-poor-children-how-much-do-teacher-preparation-workload [doi:10.1037/ort0000060](https://doi.org/10.1037/ort0000060)"
     author: Oscar A. Barbarin, Nikki Aikens
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Oscar A. Barbarin 2015
 
-Oscar A. Barbarin, Nikki Aikens. (2015). Overcoming the Educational Disadvantages of Poor Children: How Much do Teacher Preparation, Workload, and Expectations Matter. American Journal of Orthopsychiatry, vol. 85, no. 2. https://www.mathematica.org/publications/overcoming-the-educational-disadvantages-of-poor-children-how-much-do-teacher-preparation-workload
+Oscar A. Barbarin, Nikki Aikens. (2015). Overcoming the Educational Disadvantages of Poor Children: How Much do Teacher Preparation, Workload, and Expectations Matter. American Journal of Orthopsychiatry, vol. 85, no. 2. https://www.mathematica.org/publications/overcoming-the-educational-disadvantages-of-poor-children-how-much-do-teacher-preparation-workload [doi:10.1037/ort0000060](https://doi.org/10.1037/ort0000060)
 
 `q2 · i?` · `review · r?`
 
@@ -47,7 +47,7 @@ A review article synthesizing data on learning environments and early academic c
 
 ## Related Claims
 - [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
-- [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](title-i-preschools-no-increase-social-pretense.md) — related
+- Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms — related
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Children's language and math outcomes improve as average classroom income and socioeconomic diversity increase](classroom-income-composition-language-math.md) — a narrower finding that bears on this claim
 - [A more positive school climate is related to improved academic achievement beyond socioeconomic status](positive-school-climate-linked-achievement.md) — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Peers can benefit ER as models of enthusiasm, sources of ideas about materials, creators of materials, tutors, and as audience and interlocutors for sharing about reading. [→ Jacobs 2000](#jacobs-2000)

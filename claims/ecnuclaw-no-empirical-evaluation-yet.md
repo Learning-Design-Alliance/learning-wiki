@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yizhou-zhou-2026
-    resource: "https://arxiv.org/abs/2605.08040"
-    title: "Yizhou Zhou, Jiayin Li, and Zhi Zhang. (2026). ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education. arXiv preprint. https://arxiv.org/abs/2605.08040"
+    resource: "https://doi.org/10.48550/arxiv.2605.08040"
+    title: "Yizhou Zhou, Jiayin Li, and Zhi Zhang. (2026). ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education. arXiv preprint. https://arxiv.org/abs/2605.08040 [doi:10.48550/arxiv.2605.08040](https://doi.org/10.48550/arxiv.2605.08040)"
     author: Yizhou Zhou, Jiayin Li, and Zhi Zhang
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yizhou Zhou 2026
 
-Yizhou Zhou, Jiayin Li, and Zhi Zhang. (2026). ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education. arXiv preprint. https://arxiv.org/abs/2605.08040
+Yizhou Zhou, Jiayin Li, and Zhi Zhang. (2026). ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education. arXiv preprint. https://arxiv.org/abs/2605.08040 [doi:10.48550/arxiv.2605.08040](https://doi.org/10.48550/arxiv.2605.08040)
 
 `q1 · i?` · `design · r1`
 
@@ -45,5 +45,5 @@ Authors' stated limitations in the paper's discussion section (§9.3). The paper
 ## Related Claims
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
-- [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
+- The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained — related
 - [The interaction taxonomy's effectiveness within Memdora has not been empirically evaluated](memdora-taxonomy-not-empirically-evaluated.md) — possibly the same claim (merge candidate)

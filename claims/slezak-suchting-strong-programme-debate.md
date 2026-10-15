@@ -46,4 +46,4 @@ The preface summarizes the Slezak–Suchting exchange. Suchting, in a second con
 - [Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism](grandy-cognitive-vs-metaphysical-constructivism.md) — related
 - [Kragh argues social constructivist analyses of the history of science face difficulties that do not confront realist interpretations, without entailing rejection of social studies of science](kragh-social-constructivism-history-difficulties.md) — related
 - [Phillips criticises social constructivism for advancing strong but untenable claims that are then qualified to the level of triteness](phillips-untenable-social-constructivist-claims.md) — related
-- [Constructivist responses to Objectivist criticism have redirected rather than addressed the specific questions raised](constructivist-responses-redirect-objectivist-criticisms.md) — related
+- Constructivist responses to Objectivist criticism have redirected rather than addressed the specific questions raised — related

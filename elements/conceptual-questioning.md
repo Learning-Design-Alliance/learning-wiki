@@ -18,7 +18,7 @@ sources:
 # Conceptual Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (2 quant-synthesis, 1 causal, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 5 studies (2 quant-synthesis, 1 causal, 1 associational, 1 design), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Conceptual questioning poses open, "why" and "what-if" questions that target learners' underlying conceptions rather than recall of facts. The goal is to surface assumptions, create productive cognitive conflict, and prompt learners to explain, justify, and revise their mental models.
@@ -64,7 +64,6 @@ Conceptual questions work because generating an answer requires learners to elab
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](../claims/critical-questions-competency-based-science-assessment.md) [+W]
 - [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](../claims/ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) [+M]
 
 ## Related Elements

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: matthew-keenan-2026
-    resource: "https://arxiv.org/abs/2608.23309"
-    title: "Matthew Keenan, Nishant Kheterpal, Jean-Baptiste Jeannin, Cyrus Omar. (2026). Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction. https://arxiv.org/abs/2608.23309"
+    resource: "https://doi.org/10.48550/arxiv.2608.23309"
+    title: "Matthew Keenan, Nishant Kheterpal, Jean-Baptiste Jeannin, Cyrus Omar. (2026). Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction. https://arxiv.org/abs/2608.23309 [doi:10.48550/arxiv.2608.23309](https://doi.org/10.48550/arxiv.2608.23309)"
     author: Matthew Keenan, Nishant Kheterpal, Jean-Baptiste Jeannin, Cyrus Omar
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Matthew Keenan 2026
 
-Matthew Keenan, Nishant Kheterpal, Jean-Baptiste Jeannin, Cyrus Omar. (2026). Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction. https://arxiv.org/abs/2608.23309
+Matthew Keenan, Nishant Kheterpal, Jean-Baptiste Jeannin, Cyrus Omar. (2026). Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction. https://arxiv.org/abs/2608.23309 [doi:10.48550/arxiv.2608.23309](https://doi.org/10.48550/arxiv.2608.23309)
 
 `q2 · i?` · `design · r3`
 

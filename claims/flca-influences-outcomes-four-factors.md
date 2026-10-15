@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The study's findings indicated that sociocultural factors, learner motivation, self-efficacy and learners' perceptions of their classroom learning environments influence learning outcomes and oral performance. [→ Andrew Leichsenring 2010](#andrew-leichsenring-2010)

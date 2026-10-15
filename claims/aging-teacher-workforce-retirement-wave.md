@@ -44,5 +44,5 @@ Analysis of CDE staffing data (Figure 9) shows district-level age distributions;
 
 ## Related Claims
 - [Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce](california-ece-workforce-low-compensation-turnover.md) — related
-- [Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning](aging-does-not-reduce-informal-learning.md) — related
+- Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning — related
 - [Increased retirements and resignations contributed to shortages in most large districts surveyed](retirements-resignations-contributed-shortages.md) — related

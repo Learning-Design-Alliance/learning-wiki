@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: xiao-2026
-    resource: "https://arxiv.org/abs/2609.13494"
-    title: "Xiao, Y., Chen, M., Li, Y., Powers, N., Wiesenfeld, M., Smith, G., Farzin, S., Liu, S. (2026). Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study. arXiv preprint arXiv:2609.13494. https://arxiv.org/abs/2609.13494"
+    resource: "https://doi.org/10.48550/arxiv.2609.13494"
+    title: "Xiao, Y., Chen, M., Li, Y., Powers, N., Wiesenfeld, M., Smith, G., Farzin, S., Liu, S. (2026). Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study. arXiv preprint arXiv:2609.13494. https://arxiv.org/abs/2609.13494 [doi:10.48550/arxiv.2609.13494](https://doi.org/10.48550/arxiv.2609.13494)"
     author: Xiao, Y., Chen, M., Li, Y., Powers, N., Wiesenfeld, M., Smith, G., Farzin, S., Liu, S.
     q: 1
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Xiao 2026
 
-Xiao, Y., Chen, M., Li, Y., Powers, N., Wiesenfeld, M., Smith, G., Farzin, S., Liu, S. (2026). Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study. arXiv preprint arXiv:2609.13494. https://arxiv.org/abs/2609.13494
+Xiao, Y., Chen, M., Li, Y., Powers, N., Wiesenfeld, M., Smith, G., Farzin, S., Liu, S. (2026). Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study. arXiv preprint arXiv:2609.13494. https://arxiv.org/abs/2609.13494 [doi:10.48550/arxiv.2609.13494](https://doi.org/10.48550/arxiv.2609.13494)
 
 `q1 · i3` · `causal · r2`
 

@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The +1 versus +2 comparison on adjusted posttest Map Drawing Mean revealed no significant difference. [→ Snyder 1975](#snyder-1975)
@@ -61,18 +62,18 @@ Among the 63 subjects, "All subjects advancingin.Modal Level after treatmentdid 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How far beyond the learner's current level should the discrepancy be?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **1 distinct studies** (1 causal), `q2`, 1 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How far beyond the learner's current level should the discrepancy be?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **1 distinct studies** (1 causal), `q2`, 1 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Snyder 1975 | q2 · causal · r2 | i?; i1 | this claim; [External disequilibrium level systematically influences subsequent changes in internal dis](external-disequilibrium-shapes-internal-mixture-changes.md) (qualifies); [Higher internal disequilibrium is associated with more regressive (minus) changes as well ](high-mixture-increases-regressive-changes.md) (qualifies); [Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to re](limited-transfer-from-discrepant-training.md) (qualifies) |
+| Snyder 1975 | q2 · causal · r2 | i?; i1 | this claim; [External disequilibrium level systematically influences subsequent changes in internal dis](external-disequilibrium-shapes-internal-mixture-changes.md) (qualifies); [Higher internal disequilibrium is associated with more regressive (minus) changes as well ](high-mixture-increases-regressive-changes.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
 
 
 ## Related Claims
-- [Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level](discrepant-training-facilitates-map-drawing-advance.md) — related
+- Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level — related
 - [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](external-disequilibrium-shapes-internal-mixture-changes.md) — related
-- [Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement](level-mixture-predicts-modal-level-advance.md) — related
-- [Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training](limited-transfer-from-discrepant-training.md) — related
+- Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement — related
+- Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training — related

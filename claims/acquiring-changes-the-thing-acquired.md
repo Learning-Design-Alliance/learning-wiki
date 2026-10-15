@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Because getting meaning is a process of social interaction rather than imitation, Mead argues that the very process of acquiring changes the thing acquired, so the subject matter of education changes as it is transmitted. [→ Biesta 1997](#biesta-1997)
@@ -47,5 +48,5 @@ Reconstruction from lecture XXVIII of Mead's Course 50, reported in the article'
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — a broader claim this one bears on
 - [Mead observed that rapid change makes yesterday's knowledge useless, requiring education to teach coping with change rather than fixed content](mead-rapid-change-obsoletes-knowledge.md) — related
 - [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](method-of-thought-cannot-be-transferred.md) — related
-- [Mead holds that social interaction precedes and produces reflective self-consciousness](social-interaction-precedes-self-consciousness.md) — related
+- Mead holds that social interaction precedes and produces reflective self-consciousness — related
 - [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) — related

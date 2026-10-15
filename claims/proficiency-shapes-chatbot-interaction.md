@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: steve-woollaston-2026
-    resource: "https://arxiv.org/abs/2607.14575"
-    title: "Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata. (2026). Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing. Preprint, accepted at the 1st Workshop on Transition Network Analysis (TNA) at LAK '26. https://arxiv.org/abs/2607.14575"
+    resource: "https://doi.org/10.48550/arxiv.2607.14575"
+    title: "Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata. (2026). Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing. Preprint, accepted at the 1st Workshop on Transition Network Analysis (TNA) at LAK '26. https://arxiv.org/abs/2607.14575 [doi:10.48550/arxiv.2607.14575](https://doi.org/10.48550/arxiv.2607.14575)"
     author: Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Behavioural state frequencies differed significantly by proficiency (χ2 = 25.4, p < .003), with high-proficiency learners over-represented in user_chat and low-proficiency learners over-represented in check_button. [→ Steve Woollaston 2026](#steve-woollaston-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Steve Woollaston 2026
 
-Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata. (2026). Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing. Preprint, accepted at the 1st Workshop on Transition Network Analysis (TNA) at LAK '26. https://arxiv.org/abs/2607.14575
+Steve Woollaston, Brendan Flanagan, Yuko Toyokawa and Hiroaki Ogata. (2026). Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing. Preprint, accepted at the 1st Workshop on Transition Network Analysis (TNA) at LAK '26. https://arxiv.org/abs/2607.14575 [doi:10.48550/arxiv.2607.14575](https://doi.org/10.48550/arxiv.2607.14575)
 
 `q2 · i?` · `associational · r1`
 

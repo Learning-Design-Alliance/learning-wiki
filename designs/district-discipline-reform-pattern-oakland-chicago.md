@@ -17,7 +17,7 @@ sources:
 # District-level reform pattern: data transparency, defiance-suspension bans, and restorative infrastructure
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The guide identifies a reusable district-level pattern of policy changes: "Oakland has implemented a few practices that other districts across the country can adopt or adapt to improve schools for Latina and Black girls." The pattern includes making discipline data by race and gender publicly available, banning suspensions for willful defiance, prohibiting suspension or police referral for dress code violations, requiring community input, maintaining centrally supported restorative justice programs, providing professional development on classroom management, and investing in school-based health centers. Chicago implements a parallel set including student-led disciplinary proceedings and ending early-grade suspensions.
@@ -41,8 +41,6 @@ The guide identifies a reusable district-level pattern of policy changes: "Oakla
 - Reduced lost instructional time
 
 ### Claims
-- [Oakland Reduced Girls Suspension Rates Over Time](../claims/oakland-reduced-girls-suspension-rates-over-time.md) [+M]
-- [Chicago Policy Changes Reduced Suspensions Expulsions](../claims/chicago-policy-changes-reduced-suspensions-expulsions.md) [+M]
 
 ## Related Designs
 - 

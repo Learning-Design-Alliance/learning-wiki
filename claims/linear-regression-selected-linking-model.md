@@ -44,10 +44,10 @@ Model comparison on the common student sample using Root-Mean-Square Error (Tabl
 
 ## Related Claims
 - [EISA-based MAP Growth testing produced slightly lower fall Mathematics scores but higher winter and spring Mathematics scores than traditional MAP Growth, and equipercentile linking was used to align the two versions for norming](eisa-fall-math-dip-winter-spring-higher-equipercentile-linking.md) — related
-- [Regression analysis shows the MTCS method significantly degrades dilation-parameter precision relative to the Ratio of Eigenvalues method, while simulation factors explain most RMSE variation](regression-mtcs-significant-k-precision.md) — related
-- [Least Squares procedures consistently outperform the MTCS method for estimating MIRT translation parameters m1 and m2](least-squares-beats-mtcs-translation-estimates.md) — related
-- [The developed MIRT equating methods behave as unbiased, effective, and consistent estimators of transformation parameters](mirt-equating-methods-unbiased-effective-consistent.md) — related
-- [The Ratio of Trace method consistently yields the most precise estimates of the MIRT dilation parameter k across all simulated equating situations](ratio-of-trace-best-dilation-estimate-mirt-equating.md) — related
-- [A linear regression on skill variables (n, dim, pc) predicts the minimum RSS value for BKT-BF training with high predictive ability](linear-regression-predicts-minimum-rss-bkt-bf.md) — related
+- Regression analysis shows the MTCS method significantly degrades dilation-parameter precision relative to the Ratio of Eigenvalues method, while simulation factors explain most RMSE variation — related
+- Least Squares procedures consistently outperform the MTCS method for estimating MIRT translation parameters m1 and m2 — related
+- The developed MIRT equating methods behave as unbiased, effective, and consistent estimators of transformation parameters — related
+- The Ratio of Trace method consistently yields the most precise estimates of the MIRT dilation parameter k across all simulated equating situations — related
+- A linear regression on skill variables (n, dim, pc) predicts the minimum RSS value for BKT-BF training with high predictive ability — related
 - [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](swcpm-arm-high-correlation-grades-1-5.md) — related
 - [BFpack handles common statistical analyses with default priors and data missing at random](bfpack-default-priors-missing-data.md) — related

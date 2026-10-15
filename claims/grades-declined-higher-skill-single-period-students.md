@@ -43,11 +43,11 @@ In the CCSR cohort study, students with slightly above-average skills "were now 
 
 
 ## Related Claims
-- [Peer skill levels declined for high-skill students in algebra classrooms after the policy](algebra-for-all-peer-skill-declined-high-skill.md) — related
+- Peer skill levels declined for high-skill students in algebra classrooms after the policy — related
 - [Double-dose algebra improved test scores but did not reduce algebra failure rates](double-dose-did-not-improve-failure-rates.md) — related
 - [Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined](double-dose-effects-vary-by-initial-ability.md) — related
 - [The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy](double-dose-policy-harmed-above-norm-grades.md) — related
 - [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related
 - [Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related
-- [The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined](double-dose-spillover-high-ability-scores-up-grades-down.md) — related
+- The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related

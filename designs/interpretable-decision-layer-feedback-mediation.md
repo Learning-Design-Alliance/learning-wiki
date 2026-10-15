@@ -17,7 +17,7 @@ sources:
 # Interpretable decision layer for outcome-independent coordination of teacher and student feedback
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A transparent mechanism that combines teacher and student feedback to rank course topics needing attention without grades or outcome labels. It integrates three signals — gap prevalence, survey disagreement, and teacher friction — into a topic priority score with a per-topic decision record explaining each ranking. The article states it "organizes teacher, student, and researcher roles around this shared decision process," positioning the layer as supporting human–AI co-agency rather than replacing instructor judgment.
@@ -37,10 +37,6 @@ A transparent mechanism that combines teacher and student feedback to rank cours
 - timely identification of course topics requiring instructional attention before graded outcomes are available
 
 ### Claims
-- [Mediation Layer Priorities Align Instructor Concerns](../claims/mediation-layer-priorities-align-instructor-concerns.md) [+M]
-- [Topic Priority Aligns Self Reported Difficulty](../claims/topic-priority-aligns-self-reported-difficulty.md) [+M]
-- [Multi Signal Integration Surfaces Isolated Learners](../claims/multi-signal-integration-surfaces-isolated-learners.md) [+M]
-- [Topic Priorities Stable Across Weights](../claims/topic-priorities-stable-across-weights.md) [+M]
 
 ## Related Designs
 - 

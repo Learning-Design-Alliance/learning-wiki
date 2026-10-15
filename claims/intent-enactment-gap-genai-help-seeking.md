@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rania-abdelghani-2026
-    resource: "https://arxiv.org/abs/2606.08568"
-    title: "Rania Abdelghani, Peter Kaiser, and Kou Murayama. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. Accepted at the NextGen Learning Interfaces Workshop, AIED 2026. https://arxiv.org/abs/2606.08568"
+    resource: "https://doi.org/10.48550/arxiv.2606.08568"
+    title: "Rania Abdelghani, Peter Kaiser, and Kou Murayama. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. Accepted at the NextGen Learning Interfaces Workshop, AIED 2026. https://arxiv.org/abs/2606.08568 [doi:10.48550/arxiv.2606.08568](https://doi.org/10.48550/arxiv.2606.08568)"
     author: Rania Abdelghani, Peter Kaiser, and Kou Murayama
     q: 2
     i: 2
@@ -30,7 +30,7 @@ sources:
 # Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2` medium
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Students selecting 'just give me the final answers' showed higher executive REQUEST rates (46.4% vs. 19.2%, r=.33, p<.01) and higher answer-seeking content (39.9% vs. 16.0%, r=.33, p<.01). [→ Rania Abdelghani 2026](#rania-abdelghani-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Rania Abdelghani 2026
 
-Rania Abdelghani, Peter Kaiser, and Kou Murayama. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. Accepted at the NextGen Learning Interfaces Workshop, AIED 2026. https://arxiv.org/abs/2606.08568
+Rania Abdelghani, Peter Kaiser, and Kou Murayama. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. Accepted at the NextGen Learning Interfaces Workshop, AIED 2026. https://arxiv.org/abs/2606.08568 [doi:10.48550/arxiv.2606.08568](https://doi.org/10.48550/arxiv.2606.08568)
 
 `q2 · i2` · `associational · r1`
 

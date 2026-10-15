@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lala-yamazaki-and-ramchandra-rimal-2026
-    resource: "https://arxiv.org/abs/2606.14960"
-    title: "Lala Yamazaki and Ramchandra Rimal. (2026). Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning. https://arxiv.org/abs/2606.14960"
+    resource: "https://doi.org/10.48550/arxiv.2606.14960"
+    title: "Lala Yamazaki and Ramchandra Rimal. (2026). Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning. https://arxiv.org/abs/2606.14960 [doi:10.48550/arxiv.2606.14960](https://doi.org/10.48550/arxiv.2606.14960)"
     author: Lala Yamazaki and Ramchandra Rimal
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lala Yamazaki and Ramchandra Rimal 2026
 
-Lala Yamazaki and Ramchandra Rimal. (2026). Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning. https://arxiv.org/abs/2606.14960
+Lala Yamazaki and Ramchandra Rimal. (2026). Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning. https://arxiv.org/abs/2606.14960 [doi:10.48550/arxiv.2606.14960](https://doi.org/10.48550/arxiv.2606.14960)
 
 `q2 · i?` · `associational · r1`
 

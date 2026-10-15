@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` A research review the monograph attributes to Showers, Joyce, and Bennett identified four techniques as effective for training teachers to improve instructional skills. [→ Gall 1994](#gall-1994)
@@ -45,7 +46,7 @@ The monograph reports an extensive review by Showers, Joyce, and Bennett (1987) 
 ## Related Claims
 - [Experimental staff development programs mostly raised student achievement relative to control teachers (review attribution)](experimental-staff-development-raises-student-achievement.md) — related
 - [Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of improved student achievement](itip-lacks-empirical-evidence-achievement.md) — related
-- [Reflective coaching and technical coaching rest on different relationships, goals and epistemologies of practice despite sharing the coaching label](reflective-versus-technical-coaching-comparison.md) — related
+- Reflective coaching and technical coaching rest on different relationships, goals and epistemologies of practice despite sharing the coaching label — related
 - [The expert-presenter model is the most prevalent staff development model, with most activities brief](expert-presenter-model-most-prevalent.md) — related
 - [Learners receiving both form- and meaning-focused instruction improved more than a form-focused group (attributed to Park, 2000)](form-and-meaning-focus-beats-form-only.md) — related
 - [Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality](coaching-focus-instructional-delivery-versus-behavior-management.md) — related

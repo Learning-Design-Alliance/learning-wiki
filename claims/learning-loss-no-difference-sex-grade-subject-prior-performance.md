@@ -44,4 +44,4 @@ Heterogeneity analyses in the baseline difference-in-differences specification, 
 
 ## Related Claims
 - [Median achievement losses from spring 2020 school closures were similar for mathematics (−0.10 SD) and reading (−0.09 SD), though individual studies found subject-specific differences](covid-closures-subject-specific-effects.md) — related
-- [COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic](covid-losses-concentrated-early-grades-struggling-students.md) — reports the opposite
+- COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic — reports the opposite

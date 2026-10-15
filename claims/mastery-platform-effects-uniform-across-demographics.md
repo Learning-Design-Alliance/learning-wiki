@@ -44,6 +44,6 @@ Moderation analysis within the same longitudinal panel study examined treatment 
 
 ## Related Claims
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
-- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](wraparound-ses-subgroup-gains.md) — related
+- Wraparound SES math gains are notable for Hispanic, female, and Title I students — related
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related
 - [Longitudinal within-student analysis of a mathematics mastery learning platform replicates positive effects on standardized math test scores](mastery-platform-longitudinal-positive-effects.md) — related

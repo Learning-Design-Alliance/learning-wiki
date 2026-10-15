@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` With a true effect size of 0.2, prior-between simulations measured an average effect size of 0.30 at sample size m; a true effect of 0.8 was measured as 0.93. [→ Rafferty 2019](#rafferty-2019)
@@ -43,9 +44,9 @@ Simulation measurement of effect sizes from MAB-collected data for normally dist
 
 
 ## Related Claims
-- [MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments](mab-assignment-higher-average-student-rewards.md) — related
+- MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments — related
 - MAB (Thompson sampling) assignment reduces statistical power relative to uniform random assignment, requiring roughly doubled sample sizes — related
-- [Over long horizons, MAB assignment places fewer total students in the less effective condition than a shorter uniform experiment followed by committing to one condition](mab-fewer-students-in-worse-condition-long-horizon.md) — related
-- [An optimistic prior distribution partially mitigates MAB power loss without substantially reducing student benefits](optimistic-prior-mitigates-mab-power-loss.md) — related
-- [MAB assignment increases the Type I (false positive) error rate above the nominal alpha level](mab-assignment-increases-type-i-error-rate.md) — related
+- Over long horizons, MAB assignment places fewer total students in the less effective condition than a shorter uniform experiment followed by committing to one condition — related
+- An optimistic prior distribution partially mitigates MAB power loss without substantially reducing student benefits — related
+- MAB assignment increases the Type I (false positive) error rate above the nominal alpha level — related
 - Type S errors (significant findings in the wrong direction) are rare under both MAB and uniform assignment — related

@@ -16,7 +16,7 @@ sources:
 # Henrick, Cobb, Penuel, Jackson and Clark's Dimension 3: RPPs should support the practitioner side in achieving its goals
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 This framework dimension holds that a primary goal of research-practice partnerships is to support the improvement efforts of the partner practice organization. The presentation cites Henrick, Cobb, Penuel, Jackson and Clark (2017, p.11), reporting that "Interviewees across partnership types reported that a primary goal of RPPs is to support the improvement efforts of the partner practice organization." It is used as the anchor for arguing that researcher roles beyond research still serve partnership goals.
@@ -36,7 +36,6 @@ This framework dimension holds that a primary goal of research-practice partners
 - improvement of practice-organization goals through research-practice partnership work
 
 ### Claims
-- [Rpp Researchers Roles Beyond Research](../claims/rpp-researchers-roles-beyond-research.md) [+M]
 
 ## Related Theories
 

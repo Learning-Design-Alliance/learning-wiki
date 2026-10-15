@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: goodson-1994
-    resource: "https://eric.ed.gov/?id=ED376160"
-    title: "Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160"
+    resource: "https://doi.org/10.1080/0951839950080109"
+    title: "Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160 [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)"
     author: Goodson, Ivor F.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Goodson 1994
 
-Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160
+Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160 [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -43,9 +43,9 @@ Interpretive argument drawing on the paper's media analysis, including the New Y
 
 
 ## Related Claims
-- [Treating students' personal histories as sources of knowledge makes them part of the classroom curriculum](personal-histories-as-curriculum-sources-of-knowledge.md) — related
+- Treating students' personal histories as sources of knowledge makes them part of the classroom curriculum — related
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — related
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
-- [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related
+- Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries — related
 - [The storied format of personal experience research can transcend the specialties of the immediate research field to influence a larger research community](storied-format-transcends-field-specialties.md) — related
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related

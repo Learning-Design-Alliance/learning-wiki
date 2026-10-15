@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: marques-2026
-    resource: "https://arxiv.org/abs/2610.07205"
-    title: "Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205"
+    resource: "https://doi.org/10.48550/arxiv.2610.07205"
+    title: "Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205 [doi:10.48550/arxiv.2610.07205](https://doi.org/10.48550/arxiv.2610.07205)"
     author: "Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D."
     q: 2
     i: 3
@@ -38,7 +38,7 @@ sources:
 # A FACTRIA-aware chatbot increases the number of biasing sub-factors stakeholders consider when interpreting institutional analytics visualizations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · qualitative `r2`–`r3` · `q2` · `i3` large
+> **Evidence** · 2 studies (3 entries) · 1 causal `r1`, 1 qualitative `r2`–`r3` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` Across all collected data (n = 22 case observations), using the FACTRIA-aware chatbot significantly increased the average number of sub-factors addressed per case, with a very large effect size (d = 2.1530). [→ Marques 2026](#marques-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Marques 2026
 
-Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205
+Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205 [doi:10.48550/arxiv.2610.07205](https://doi.org/10.48550/arxiv.2610.07205)
 
 `q2 · i3` · `causal · r1`
 

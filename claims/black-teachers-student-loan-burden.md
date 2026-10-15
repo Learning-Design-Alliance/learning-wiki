@@ -45,18 +45,18 @@ Descriptive analysis of national teacher survey data on student loan borrowing, 
 ## Related Claims
 - [Other types of federal financial aid did not fully make up for the decline in PLUS borrowing at HBCUs](other-federal-aid-did-not-offset-plus-decline.md) — related
 - [A dynamic model of education, borrowing, and work decisions is used to assess how raising government-sponsored loan limits would affect educational attainment and college entry timing](dynamic-model-borrowing-constraints-college-entry.md) — related
-- [Applicants' enrollment decisions depend most on 'other financing sources' (typically loans), with feature importance 0.712, far exceeding federal and institutional aid features](other-financing-sources-dominant-enrollment-feature.md) — related
+- Applicants' enrollment decisions depend most on 'other financing sources' (typically loans), with feature importance 0.712, far exceeding federal and institutional aid features — related
 - [After the tightening of PLUS credit standards, both the share of PLUS participants and PLUS loan dollar amounts declined substantially at HBCUs](plus-decline-hbcus-after-credit-standard-tightening.md) — related
 - [The 2024 reduction of the maximum GSTG award from $20,000 to $10,000 left recipients with more unmet need, greater loan reliance, and more work during preparation](gstg-reduced-award-lessens-impact.md) — related
 - [The larger enrollment decline at HBCUs corresponded to the larger decline in PLUS recipients at those institutions](enrollment-decline-corresponds-to-plus-recipient-decline.md) — related
 - [HBCU enrollment continued to decline in 2013-14 despite the partial rebound in PLUS loans](hbcu-enrollment-continued-declining-2013-14.md) — related
-- [Low-income students and students of color disproportionately rely on Grad PLUS loans](grad-plus-reliance-disproportionate-low-income-students-color.md) — related
+- Low-income students and students of color disproportionately rely on Grad PLUS loans — related
 - [Black teachers have the highest borrowing and repayment rates of all subgroups studied, with 31.4% still owing their entire balance — nearly 3 times the share of all teachers](black-teachers-disproportionate-loan-debt.md) — possibly the same claim (merge candidate)
-- [Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt](black-women-owe-more-twelve-years-after-college.md) — related
-- [IDR enrollees report worse mental health and financial stress from loans than repaying borrowers not enrolled in IDR](idr-enrollees-worse-mental-health-financial-stress.md) — related
+- Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt — related
+- IDR enrollees report worse mental health and financial stress from loans than repaying borrowers not enrolled in IDR — related
 - [Over a third (36.7%) of borrowing teachers have worked multiple jobs because of student loans, and the share rises with monthly repayment amounts](loan-debt-multiple-jobs-teachers.md) — related
 - [About 60% of teachers repaying student loans report high or very high loan-related stress, which is correlated with overall job-related stress](loan-stress-teacher-wellbeing.md) — related
-- [Median debt loads of Black borrowers are near or above the $50,000 cancellation mark at every income level, challenging means-tested cancellation](median-debt-above-50k-every-income-level.md) — related
+- Median debt loads of Black borrowers are near or above the $50,000 cancellation mark at every income level, challenging means-tested cancellation — related
 - [Beginning teachers borrow at much higher rates than experienced teachers, with about 65% of teachers in their first 10 years having ever borrowed versus 41.4% of those with more than 30 years](novice-teachers-higher-borrowing-rates.md) — related
 - [Special education teachers are the most likely of all subject-area teachers to have borrowed (65.2%) and to owe their entire balance (15.4%)](special-education-teachers-highest-loan-burdens.md) — related
-- [Student loan debt exceeds $1 trillion, with Pell Grant graduates averaging more than $24,000 in loans and for-profit-college bachelor's recipients most likely to exceed $30,500](student-debt-concentrated-among-pell-and-forprofit-students.md) — related
+- Student loan debt exceeds $1 trillion, with Pell Grant graduates averaging more than $24,000 in loans and for-profit-college bachelor's recipients most likely to exceed $30,500 — related

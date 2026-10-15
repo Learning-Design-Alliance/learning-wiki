@@ -45,4 +45,4 @@ Fixed-effects estimates from the CP growth model fit to MAP Growth data, math ce
 ## Related Claims
 - [Within-year (fall-to-spring) achievement gains decelerate linearly as students move through school, at roughly 1.4 to 4 RIT per year depending on subject and centering grade](fall-to-spring-gains-decelerate-across-grades.md) — related
 - [In the study data, mean spring grade-2 math RIT was 190.6 with linear spring-to-spring growth of 14.5 RIT, and mean fall-to-spring gain in grade-2 math was 13.4 RIT](grade2-math-growth-descriptives-cp-model.md) — related
-- [Mathematics growth in Grades 1-3 is nonlinear with deceleration, so more growth occurs in the first half of the school year, and average growth rates decline across grade levels](early-math-growth-decelerates-first-half-year.md) — related
+- Mathematics growth in Grades 1-3 is nonlinear with deceleration, so more growth occurs in the first half of the school year, and average growth rates decline across grade levels — related

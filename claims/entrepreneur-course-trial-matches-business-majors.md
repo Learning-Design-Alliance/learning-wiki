@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Students in one trial of the Entrepreneur course performed as well on analyzing the fifth business as students who had completed a business major comprised of several topic-centered courses. [→ M. David Merrill 2007](#m-david-merrill-2007)

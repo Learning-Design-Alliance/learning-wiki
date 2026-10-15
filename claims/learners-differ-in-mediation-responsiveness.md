@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In DA1, Sarah was more responsive to mediation for modals than Dena and could take responsibility for her performance with less explicit help. [→ Ebadi 2016](#ebadi-2016)
@@ -45,4 +46,4 @@ LRE analysis from DA1 shows Sarah noticed and corrected a modal error after red 
 ## Related Claims
 - [Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture](dialang-cefr-levels-miss-zpd-differences.md) — possibly the same claim (merge candidate)
 - [Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD](scmc-da-mediation-reveals-microgenetic-development.md) — a broader claim this one bears on
-- [The ZPD is falsely equated with Krashen's i+1 and with scaffolding in second language studies](zpd-not-equivalent-i-plus-one-or-scaffolding.md) — related
+- The ZPD is falsely equated with Krashen's i+1 and with scaffolding in second language studies — related

@@ -62,7 +62,7 @@ The report describes a correlation between loan-related and job-related stress: 
 
 
 ## Related Claims
-- [IDR enrollees report worse mental health and financial stress from loans than repaying borrowers not enrolled in IDR](idr-enrollees-worse-mental-health-financial-stress.md) — related
+- IDR enrollees report worse mental health and financial stress from loans than repaying borrowers not enrolled in IDR — related
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
 - [Black teachers have the highest borrowing and repayment rates of all subgroups studied, with 31.4% still owing their entire balance — nearly 3 times the share of all teachers](black-teachers-disproportionate-loan-debt.md) — related
 - [Over a third (36.7%) of borrowing teachers have worked multiple jobs because of student loans, and the share rises with monthly repayment amounts](loan-debt-multiple-jobs-teachers.md) — related

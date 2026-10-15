@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 9 studies (3 causal, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 3 of 9 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 8 studies (3 causal, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 3 of 8 report an effect size · 2 claims rest on one study
 
 ## Description
 Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions. It is useful when the instructional goal is not only recall, but reasoned action in the face of constraints.
@@ -38,7 +38,6 @@ Problem solving is the element in which learners identify, analyze, and respond 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](../claims/functional-fixedness-limits-problem-solving.md) [+M]
 - [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+W]
-- [A Flexible problem-solving approach within a Fixed-Cooperative course appeared to support cooperative learning](../claims/flexible-problem-solving-supports-cooperative-learning.md) [+W]
 - [Example–problem sequences reduce cognitive load and improve learning outcomes](../claims/worked-example-problem-sequences.md) [+W]
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](../claims/usability-test-strengths-and-limits.md) [+W]
 

@@ -88,13 +88,13 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](confidence-obstacles-math-communication.md) — a narrower finding that bears on this claim
 - [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — related
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related
-- [Learning goals and self-evaluation raise task orientation and lower ego orientation, and self-efficacy correlates positively with task orientation](learning-goals-raise-task-orientation.md) — related
+- Learning goals and self-evaluation raise task orientation and lower ego orientation, and self-efficacy correlates positively with task orientation — related
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — a narrower finding that bears on this claim
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
 - [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
-- [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — a broader claim this one bears on
-- [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related
+- Both SDT and IE hold that people's actions are based on their perceptions of their contexts — a broader claim this one bears on
+- Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it — related
 - [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — a narrower finding that bears on this claim
 - [Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge](teacher-efficacy-pck-underpin-differentiation.md) — a narrower finding that bears on this claim
 - [Education researchers have not isolated cost-effective, reliable predictors of teacher performance, motivating exam-based certification](no-reliable-cost-effective-teacher-performance-predictors.md) — related
@@ -103,9 +103,9 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — a narrower finding that bears on this claim
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related
 - [Academic self-efficacy is associated with high school graduation rates and mathematics achievement](self-efficacy-associated-graduation-and-math.md) — related
-- [Educators grew more confident supporting student autonomy and leading media production through the program](360-filmmakers-challenge-educator-confidence-autonomy.md) — related
-- [Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning](productive-difficulty-edge-of-mastery.md) — related
-- [EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration](edm-infers-broader-student-attributes.md) — related
+- Educators grew more confident supporting student autonomy and leading media production through the program — related
+- Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning — related
+- EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration — related
 - [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — related
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — a narrower finding that bears on this claim
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related

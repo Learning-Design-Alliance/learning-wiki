@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: julian-bernado-2026
-    resource: "https://arxiv.org/abs/2609.27043"
-    title: "Julian Bernado, Ana Trindade Ribeiro, Xander Beberman, and Susanna Loeb. (2026). EduBehaviors: Assertion-Based Schemas for Auditable Coding of Educational Dialogues. https://arxiv.org/abs/2609.27043"
+    resource: "https://doi.org/10.48550/arxiv.2609.27043"
+    title: "Julian Bernado, Ana Trindade Ribeiro, Xander Beberman, and Susanna Loeb. (2026). EduBehaviors: Assertion-Based Schemas for Auditable Coding of Educational Dialogues. https://arxiv.org/abs/2609.27043 [doi:10.48550/arxiv.2609.27043](https://doi.org/10.48550/arxiv.2609.27043)"
     author: Julian Bernado, Ana Trindade Ribeiro, Xander Beberman, and Susanna Loeb
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Julian Bernado 2026
 
-Julian Bernado, Ana Trindade Ribeiro, Xander Beberman, and Susanna Loeb. (2026). EduBehaviors: Assertion-Based Schemas for Auditable Coding of Educational Dialogues. https://arxiv.org/abs/2609.27043
+Julian Bernado, Ana Trindade Ribeiro, Xander Beberman, and Susanna Loeb. (2026). EduBehaviors: Assertion-Based Schemas for Auditable Coding of Educational Dialogues. https://arxiv.org/abs/2609.27043 [doi:10.48550/arxiv.2609.27043](https://doi.org/10.48550/arxiv.2609.27043)
 
 `q2 · i?` · `design · r2`
 

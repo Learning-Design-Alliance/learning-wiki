@@ -22,7 +22,7 @@ sources:
 # Six state-level strategies for increasing the racial diversity of the educator workforce
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief enumerates six strategies states should pursue to "create the right policy conditions to support educator preparation programs, districts, and schools in their efforts to prepare, recruit, and retain teachers of color": making educator diversity data visible and actionable, setting clear state and district goals, investing in educator preparation programs, targeting resources to districts and schools for diverse hiring, investing in retention of teachers of color, and using federal COVID-related relief funds for workforce diversity. The brief rates Louisiana against each strategy.
@@ -49,7 +49,6 @@ The brief enumerates six strategies states should pursue to "create the right po
 
 ## Claims
 
-- [Only 20% of the U.S. national teacher workforce is comprised of teachers of color while most P-12 public school students are children of color](../claims/teacher-workforce-diversity-disparity-20-percent.md) [+W]
 
 ## Related Strategies
 

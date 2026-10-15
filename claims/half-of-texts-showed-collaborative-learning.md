@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Using Summers and Volet's co-regulation and co-construction descriptors, roughly half of the analysed texts provided evidence of collaborative learning rather than mere group work. [→ Murray-Harvey 2013](#murray-harvey-2013)

@@ -42,5 +42,5 @@ Quantitative validation study reported in the abstract: a questionnaire survey o
 
 ## Related Claims
 - [Grounded theory analysis of professor interviews identifies five functional domains of graduate students' generative AI literacy](five-functional-domains-genai-literacy-graduate.md) — related
-- [The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis](thinking-styles-scale-cfa-structural-validity.md) — related
-- [Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions](thinking-styles-scale-reliability-nrm.md) — related
+- The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis — related
+- Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions — related

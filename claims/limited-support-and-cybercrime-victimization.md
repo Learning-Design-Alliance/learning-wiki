@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: adama-2026
-    resource: "https://arxiv.org/abs/2606.18541"
-    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541"
+    resource: "https://doi.org/10.48550/arxiv.2606.18541"
+    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541 [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)"
     author: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Computing students report limited cybersecurity assistance and substantial personal victimization, with 61% lacking a trusted person and 21% having fallen victim
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most participants (61%) had no trusted person to turn to for cybersecurity help or advice, and only 13% had a go-to person with IT expertise. [→ Adama 2026](#adama-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Adama 2026
 
-Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541
+Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541 [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)
 
 `q2 · i?` · `associational · r2`
 
@@ -63,4 +63,4 @@ Self-reported cybercrime experiences in the same survey. The article states "21%
 
 ## Related Claims
 - [Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common](cybersecurity-knowledge-informal-sources-dominate.md) — related
-- [Victimized students reported negative school conditions at higher rates than nonvictims](victims-report-negative-school-conditions-higher-rates.md) — related
+- Victimized students reported negative school conditions at higher rates than nonvictims — related

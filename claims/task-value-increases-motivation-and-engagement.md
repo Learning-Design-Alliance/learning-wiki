@@ -103,10 +103,10 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — a narrower finding that bears on this claim
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — related
 - [A 1977 theoretical paper on writing asserts, citing unspecified experiments, that stating tasks and standards for success explicitly strongly raises student motivation](explicit-tasks-standards-boost-writing-motivation.md) — related
-- [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related
+- Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it — related
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](authentic-tasks-meaningful-l2-learning.md) — related
-- [Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety](extensive-reading-affective-benefits-anxiety-moderator.md) — related
-- [Integrative motivation sustains long-term language-learning motivation better than instrumental motivation](integrative-motivation-sustains-long-term.md) — related
+- Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety — related
+- Integrative motivation sustains long-term language-learning motivation better than instrumental motivation — related
 - [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related
 - [Employers value social and emotional development alongside content knowledge for workforce preparation](employers-value-social-emotional-skills.md) — related
 - [Education researchers have not isolated cost-effective, reliable predictors of teacher performance, motivating exam-based certification](no-reliable-cost-effective-teacher-performance-predictors.md) — related
@@ -115,7 +115,7 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do](dhh-systemic-barriers-low-expectations.md) — related
 - [Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them](students-report-prerequisites-block-course-access.md) — related
 - [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — a narrower finding that bears on this claim
-- [Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence](360-filmmakers-challenge-personal-meaning-motivation.md) — a narrower finding that bears on this claim
+- Students found personal meaning and pride in their films, which appeared to fuel intrinsic motivation and persistence — a narrower finding that bears on this claim
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
 - [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — a narrower finding that bears on this claim

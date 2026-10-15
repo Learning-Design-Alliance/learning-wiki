@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: meriem-zerkouk-2025
-    resource: "https://arxiv.org/abs/2507.18882"
-    title: "Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. https://arxiv.org/abs/2507.18882"
+    resource: "https://doi.org/10.48550/arxiv.2507.18882"
+    title: "Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. https://arxiv.org/abs/2507.18882 [doi:10.48550/arxiv.2507.18882](https://doi.org/10.48550/arxiv.2507.18882)"
     author: Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Meriem Zerkouk 2025
 
-Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. https://arxiv.org/abs/2507.18882
+Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. https://arxiv.org/abs/2507.18882 [doi:10.48550/arxiv.2507.18882](https://doi.org/10.48550/arxiv.2507.18882)
 
 `q2 · i?` · `review · r2`
 
@@ -44,6 +44,6 @@ The review's synthesis of empirical evidence on ML/NLP-based ITS: "small perturb
 
 ## Related Claims
 - [DysLexLens is moderately robust to paraphrased queries (Answer Relevancy 0.58) but sensitive to keyword-perturbed queries (0.34)](query-robustness-paraphrase-keyword-perturbation.md) — related
-- [Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign](rubric-structure-part-of-assessment-construct.md) — related
+- Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign — related
 - [Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs](minor-position-bias-and-partial-guessing-in-small-llms.md) — related
 - [LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays](llm-overrate-short-essays-overpenalize-errors.md) — related

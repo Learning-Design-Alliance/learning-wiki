@@ -16,7 +16,7 @@ sources:
 # Schema theory as a theory of knowledge: networks of a superordinate concept with supporting information that interface with incoming information
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Schema theory, in its broadest sense, is "a theory of knowledge" (Rumelhart, 1980) concerning how material is organized, encoded and retrieved from memory. A schema comprises a superordinate concept with supporting information — defining features, characteristics, associations, functions and propositions — clustered in networks that can be interwoven, subsumed, or enveloped by other schema. In reading comprehension, schema provide ideational scaffolding and contain slots that interface with text; the better the match between schema and text, the more the reader comprehends while allocating less attention to encoding, activation and retrieval. The essay reviews competing structural accounts, including Just and Carpenter's hierarchical Reader model and propositional networks.
@@ -39,8 +39,6 @@ Schema theory, in its broadest sense, is "a theory of knowledge" (Rumelhart, 198
 
 - [Schema Perspective Improves Text Recall](../claims/schema-perspective-improves-text-recall.md) [+M]
 - [Developed Schema Higher Recall](../claims/developed-schema-higher-recall.md) [+M]
-- [Semantic integration findings are constrained: integration occurs even with nonsense syllables, limiting schema-based interpretation](../claims/semantic-integration-findings-constrained.md) [-W]
-- [Spreading activation's semantic distance effect is inconsistent: a cow is verified faster as an animal than as a mammal despite semantic distance](../claims/spreading-activation-semantic-distance-inconsistency.md) [-W]
 
 ## Related Theories
 

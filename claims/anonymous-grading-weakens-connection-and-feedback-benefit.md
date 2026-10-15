@@ -46,5 +46,5 @@ The review reports, citing Pitt and Winstone (2018), that "when such connection 
 - [Belonging](../learner-variables/belonging.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Students reported a weaker sense of belonging than staff perceived, indicating staff overestimate their impact on students' belonging and respect](staff-overestimate-student-belonging.md) — related
+- Students reported a weaker sense of belonging than staff perceived, indicating staff overestimate their impact on students' belonging and respect — related
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related

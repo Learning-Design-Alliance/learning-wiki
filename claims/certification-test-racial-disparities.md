@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gold-2020
-    resource: "https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
-    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
+    resource: "https://doi.org/10.51388/20.500.12265/96"
+    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/ [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)"
     author: Gold, T.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # African American and Latinx teacher candidates fail state certification assessments (Praxis I and II) at much higher rates than white candidates, while performance assessments show smaller disparities.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 1 review `r2`, 1 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` On the Praxis I between 2005 and 2009, white candidates passed at 82 percent vs. 41 percent for African American candidates in reading, with similar gaps in writing and math. [→ Gold 2020](#gold-2020)
@@ -40,7 +40,7 @@ sources:
 
 ### Gold 2020
 
-Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/
+Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/ [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)
 
 `q2 · i?` · `associational · r1`
 
@@ -66,4 +66,4 @@ Secondhand report of edTPA (2015) results, which the review says "demonstrated a
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
 - [Teacher licensure exams disproportionately fail teacher candidates of color without predicting teaching effectiveness](licensure-exams-disparate-fail-rates-no-effectiveness-prediction.md) — possibly the same claim (merge candidate)
 - [Racial disparities in TPA pass rates appear in low-performing programs but not in programs with passing rates above 90%](racial-disparities-vary-with-program-performance.md) — related
-- [New York City teachers fail state certification examinations at far higher rates than teachers elsewhere in New York State](nyc-teachers-fail-licensure-exams-higher-rates.md) — related
+- New York City teachers fail state certification examinations at far higher rates than teachers elsewhere in New York State — related

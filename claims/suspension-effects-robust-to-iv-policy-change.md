@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lacoe-2019
-    resource: "https://www.mathematica.org/publications/do-suspensions-affect-student-outcomes"
-    title: "Lacoe, J., & Steinberg, M. P. (2019). Do Suspensions Affect Student Outcomes? Educational Evaluation and Policy Analysis, vol. 41, issue 1. https://www.mathematica.org/publications/do-suspensions-affect-student-outcomes"
+    resource: "https://doi.org/10.3102/0162373718794897"
+    title: "Lacoe, J., & Steinberg, M. P. (2019). Do Suspensions Affect Student Outcomes? Educational Evaluation and Policy Analysis, vol. 41, issue 1. https://www.mathematica.org/publications/do-suspensions-affect-student-outcomes [doi:10.3102/0162373718794897](https://doi.org/10.3102/0162373718794897)"
     author: "Lacoe, J., & Steinberg, M. P."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lacoe 2019
 
-Lacoe, J., & Steinberg, M. P. (2019). Do Suspensions Affect Student Outcomes? Educational Evaluation and Policy Analysis, vol. 41, issue 1. https://www.mathematica.org/publications/do-suspensions-affect-student-outcomes
+Lacoe, J., & Steinberg, M. P. (2019). Do Suspensions Affect Student Outcomes? Educational Evaluation and Policy Analysis, vol. 41, issue 1. https://www.mathematica.org/publications/do-suspensions-affect-student-outcomes [doi:10.3102/0162373718794897](https://doi.org/10.3102/0162373718794897)
 
 `q3 · i?` · `causal · r2`
 
@@ -45,4 +45,4 @@ Instrumental variable analysis leveraging a district-wide policy change in suspe
 ## Related Claims
 - [A suspension decreases math and reading achievement for suspended students](suspension-decreases-suspended-student-achievement.md) — related
 - [District math and English language arts achievement declined in Philadelphia following the discipline policy reform](philadelphia-reform-math-ela-achievement-declined.md) — related
-- [Referrals showed significant negative associations with math growth in grades 2 and 4, but weaker and less consistent effects in reading](referrals-negative-math-growth-inconsistent-reading.md) — related
+- Referrals showed significant negative associations with math growth in grades 2 and 4, but weaker and less consistent effects in reading — related

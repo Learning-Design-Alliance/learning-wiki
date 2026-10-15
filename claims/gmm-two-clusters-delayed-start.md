@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jordan-gutterman-2026
-    resource: "https://arxiv.org/abs/2606.25308"
-    title: "Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven. (2026). Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior. https://arxiv.org/abs/2606.25308"
+    resource: "https://doi.org/10.48550/arxiv.2606.25308"
+    title: "Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven. (2026). Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior. https://arxiv.org/abs/2606.25308 [doi:10.48550/arxiv.2606.25308](https://doi.org/10.48550/arxiv.2606.25308)"
     author: Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jordan Gutterman 2026
 
-Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven. (2026). Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior. https://arxiv.org/abs/2606.25308
+Jordan Gutterman, Ashish Gurung, Lee Branstetter, Kenneth Koedinger, and Vincent Aleven. (2026). Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior. https://arxiv.org/abs/2606.25308 [doi:10.48550/arxiv.2606.25308](https://doi.org/10.48550/arxiv.2606.25308)
 
 `q2 · i?` · `associational · r2`
 
@@ -43,7 +43,7 @@ Mixture modeling of the delayed start distribution (mean 8.96 minutes, tail to 2
 
 
 ## Related Claims
-- [LCF outperformed k-means, RPMM, and SS-RPMM on cluster validity indices in the same PSY 101 data](lcf-outperforms-comparison-methods-validity-indices.md) — related
+- LCF outperformed k-means, RPMM, and SS-RPMM on cluster validity indices in the same PSY 101 data — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Classroom-relativized delayed start shows stronger predictive power and model fit than raw minutes, especially for ELA outcomes](relative-delayed-start-stronger-fit.md) — related

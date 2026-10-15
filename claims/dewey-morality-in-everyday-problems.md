@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Dewey holds that separating morals from the common problems of living creates social ills, and that administrative practice is chiefly a matter of reflective appraisal of the values served by decision options. [→ Willower 1992](#willower-1992)
@@ -43,7 +44,7 @@ Theoretical exposition of Dewey's naturalistic, empirical ethics as presented in
 
 
 ## Related Claims
-- [The limited empirical literature on administrative decisionmaking supports the utility of reflective procedures](decisionmaking-literature-supports-reflective-procedures.md) — related
+- The limited empirical literature on administrative decisionmaking supports the utility of reflective procedures — related
 - [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
 - [For Dewey, moral knowledge is a product of moral inquiry, so character education should add moral problem solving rather than teach fixed principles through example, reward, or punishment](moral-knowledge-product-of-moral-inquiry.md) — related
 - [Dewey rejects Kohlberg's fixed stage hierarchy: moral inquiry happens only in problematic situations where no single action seems morally justified, and must be repeated as concrete situations arise](dewey-rejects-fixed-moral-stages.md) — related

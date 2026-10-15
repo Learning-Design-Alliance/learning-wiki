@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dang-2026
-    resource: "https://arxiv.org/abs/2610.07097"
-    title: "Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097"
+    resource: "https://doi.org/10.48550/arxiv.2610.07097"
+    title: "Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097 [doi:10.48550/arxiv.2610.07097](https://doi.org/10.48550/arxiv.2610.07097)"
     author: "Dang, C. T., & Nguyen, A."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Gains from verified AI materials are concentrated in the bottom quintile, which accounts for roughly three-quarters of the average effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Quantile difference-in-differences shows a gain of 11.0 marks at the 10th percentile (95% interval 5.0 to 13.0), 5.0 marks at the 20th, and estimates near zero from the 30th percentile upward. [→ Dang 2026](#dang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Dang 2026
 
-Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
+Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097 [doi:10.48550/arxiv.2610.07097](https://doi.org/10.48550/arxiv.2610.07097)
 
 `q2 · i?` · `causal · r2`
 

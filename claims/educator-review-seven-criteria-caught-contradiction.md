@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: gendo-kumoi-2026
-    resource: "https://arxiv.org/abs/2607.12235"
-    title: "Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, and Shigeichi Hirasawa. (2026). A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential. Preprint, under review at IEEE Access. https://arxiv.org/abs/2607.12235"
+    resource: "https://doi.org/10.48550/arxiv.2607.12235"
+    title: "Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, and Shigeichi Hirasawa. (2026). A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential. Preprint, under review at IEEE Access. https://arxiv.org/abs/2607.12235 [doi:10.48550/arxiv.2607.12235](https://doi.org/10.48550/arxiv.2607.12235)"
     author: Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, and Shigeichi Hirasawa
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Educator review of LLM-generated lesson material addressed seven criteria derived from generation records and caught a self-contradictory worked example before delivery
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Across two lessons the educator issued twelve revision instructions over five rounds, organized into seven criteria including completeness, technical viability, factual accuracy, provenance, fit to delivery mode, fit to the learner, and audio continuity. [→ Gendo Kumoi 2026](#gendo-kumoi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Gendo Kumoi 2026
 
-Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, and Shigeichi Hirasawa. (2026). A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential. Preprint, under review at IEEE Access. https://arxiv.org/abs/2607.12235
+Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, Yuko Kuma, Manabu Kobayashi, and Shigeichi Hirasawa. (2026). A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential. Preprint, under review at IEEE Access. https://arxiv.org/abs/2607.12235 [doi:10.48550/arxiv.2607.12235](https://doi.org/10.48550/arxiv.2607.12235)
 
 `q2 · i?` · `qualitative · r2`
 

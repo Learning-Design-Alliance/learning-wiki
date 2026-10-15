@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system-2015
-    resource: "https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/"
-    title: "The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system. (2015). Value Added Modeling and Growth Modeling with Particular Application to Teacher and School Effectiveness, 237–269. https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/"
+    resource: "https://doi.org/10.1108/978-1-62396-776-5"
+    title: "The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system. (2015). Value Added Modeling and Growth Modeling with Particular Application to Teacher and School Effectiveness, 237–269. https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/ [doi:10.1108/978-1-62396-776-5](https://doi.org/10.1108/978-1-62396-776-5)"
     author: "The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system"
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system 2015
 
-The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system. (2015). Value Added Modeling and Growth Modeling with Particular Application to Teacher and School Effectiveness, 237–269. https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/
+The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system. (2015). Value Added Modeling and Growth Modeling with Particular Application to Teacher and School Effectiveness, 237–269. https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/ [doi:10.1108/978-1-62396-776-5](https://doi.org/10.1108/978-1-62396-776-5)
 
 `q1 · i?` · `theoretical · r?`
 

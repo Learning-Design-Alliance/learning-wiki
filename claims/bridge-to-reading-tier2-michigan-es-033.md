@@ -43,4 +43,4 @@ Second study evaluating Bridge to Reading as a Tier 2 intervention during 2024-2
 
 
 ## Related Claims
-- [First graders using Bridge to Reading significantly outperformed control-school peers on MAP Growth Reading (ES +0.16) after one semester](bridge-to-reading-grade1-map-es-016.md) — related
+- First graders using Bridge to Reading significantly outperformed control-school peers on MAP Growth Reading (ES +0.16) after one semester — related

@@ -46,7 +46,7 @@ In the same RCT, survey data from 139 students with complete survey data measure
 - [Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant](breakthrough-tutoring-confidence-gain-not-significant.md) — related
 - [Virtual group tutoring with Cignition improved 5th-grade students' fractions knowledge by 9 percentage points (ES = 0.44 SD) in an RCT](cignition-group-tutoring-fractions-gain-0-44.md) — related
 - [Tutored students reported positive relationships with Cignition tutors, with little variation in relationship quality across tutors](cignition-tutor-relationships-positive-uniform.md) — related
-- [Teachers report the program supports student interest, confidence, and enjoyment of math](mma-teacher-survey-qualitative-findings.md) — related
+- Teachers report the program supports student interest, confidence, and enjoyment of math — related
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related

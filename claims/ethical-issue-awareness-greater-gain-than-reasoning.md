@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: seo-2026
-    resource: "https://arxiv.org/abs/2609.11529"
-    title: "Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529"
+    resource: "https://doi.org/10.48550/arxiv.2609.11529"
+    title: "Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529 [doi:10.48550/arxiv.2609.11529](https://doi.org/10.48550/arxiv.2609.11529)"
     author: "Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Seo 2026
 
-Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529
+Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529 [doi:10.48550/arxiv.2609.11529](https://doi.org/10.48550/arxiv.2609.11529)
 
 `q2 · i?` · `design · r2`
 

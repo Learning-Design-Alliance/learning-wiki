@@ -62,7 +62,7 @@ Theoretical argument stated in the introduction: the literature on education "sh
 
 
 ## Related Claims
-- [Contact between societies does not by itself produce cross-cultural understanding](contact-does-not-yield-understanding.md) — related
+- Contact between societies does not by itself produce cross-cultural understanding — related
 - [In the analyzed school ethnography, stereotyping operates as a rationalization process that constructs uniformities, and the ghetto label privileges white culture's standards and evaluation networks](stereotyping-operates-as-rationalization-producing-inequality-in-school.md) — a narrower finding that bears on this claim
 - [In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences](teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students.md) — a narrower finding that bears on this claim
 - [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — a narrower finding that bears on this claim

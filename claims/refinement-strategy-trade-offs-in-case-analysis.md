@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: fareya-ikram-2026
-    resource: "https://arxiv.org/abs/2604.05160"
-    title: "Fareya Ikram, Nischal Ashok Kumar, Junyang Lu, Hunter McNichols, Candace Walkington, Neil Heffernan, and Andrew S. Lan. (2026). A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems. arXiv preprint. https://arxiv.org/abs/2604.05160"
+    resource: "https://doi.org/10.48550/arxiv.2604.05160"
+    title: "Fareya Ikram, Nischal Ashok Kumar, Junyang Lu, Hunter McNichols, Candace Walkington, Neil Heffernan, and Andrew S. Lan. (2026). A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems. arXiv preprint. https://arxiv.org/abs/2604.05160 [doi:10.48550/arxiv.2604.05160](https://doi.org/10.48550/arxiv.2604.05160)"
     author: Fareya Ikram, Nischal Ashok Kumar, Junyang Lu, Hunter McNichols, Candace Walkington, Neil Heffernan, and Andrew S. Lan
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Fareya Ikram 2026
 
-Fareya Ikram, Nischal Ashok Kumar, Junyang Lu, Hunter McNichols, Candace Walkington, Neil Heffernan, and Andrew S. Lan. (2026). A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems. arXiv preprint. https://arxiv.org/abs/2604.05160
+Fareya Ikram, Nischal Ashok Kumar, Junyang Lu, Hunter McNichols, Candace Walkington, Neil Heffernan, and Andrew S. Lan. (2026). A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems. arXiv preprint. https://arxiv.org/abs/2604.05160 [doi:10.48550/arxiv.2604.05160](https://doi.org/10.48550/arxiv.2604.05160)
 
 `q1 · i?` · `design · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lei-fan-and-fangxue-liu-2026
-    resource: "https://arxiv.org/abs/2606.24104"
-    title: "Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104"
+    resource: "https://doi.org/10.48550/arxiv.2606.24104"
+    title: "Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104 [doi:10.48550/arxiv.2606.24104](https://doi.org/10.48550/arxiv.2606.24104)"
     author: Lei Fan and Fangxue Liu
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Perceived effects of GenAI on independent thinking and creativity are polarized among Chinese HSS students, with substantial minorities reporting declines
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q1`–`q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q1`–`q2`
 
 ## Subclaims
 `q2 i?` Over half of students perceived gains in independent thinking and creativity, but 26.12% perceived a decline in independent thinking and 19.67% a decline in creativity. [→ Lei Fan and Fangxue Liu 2026](#lei-fan-and-fangxue-liu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Lei Fan and Fangxue Liu 2026
 
-Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104
+Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104 [doi:10.48550/arxiv.2606.24104](https://doi.org/10.48550/arxiv.2606.24104)
 
 `q2 · i?` · `associational · r2`
 

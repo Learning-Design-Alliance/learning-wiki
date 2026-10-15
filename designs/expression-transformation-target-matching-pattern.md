@@ -17,7 +17,7 @@ sources:
 # Expression-transformation puzzle: match a starting expression to an equivalent target form via valid operations
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The core design pattern of FH2T is a transformation puzzle: "The program presents a starting expression and a mathematically equivalent target expression. Students manipulate the original expression to match the target form." Because moves must be "mathematically valid operations," students practice algebraic manipulation by direct interaction with notation rather than by answering discrete items. The pattern embeds practice of distribution, factoring, inverse operations, and order of operations inside the game's goal structure.
@@ -38,7 +38,6 @@ The core design pattern of FH2T is a transformation puzzle: "The program present
 - Fluency with algebraic manipulation operations, including distribution, factoring, inverse operations, and order of operations
 
 ### Claims
-- [Fh2T Rct Algebraic Understanding G 014](../claims/fh2t-rct-algebraic-understanding-g-014.md) [+M]
 
 ## Related Designs
 - 

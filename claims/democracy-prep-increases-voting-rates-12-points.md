@@ -11,8 +11,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: brian-gill-2020
-    resource: "https://www.mathematica.org/publications/can-charter-schools-boost-civic-participation-the-impact-of-democracy-prep-public-schools-on-voting"
-    title: "Brian Gill, Emilyn Rubel Whitesell, Sean P. Corcoran, Charles Tilley, Mariel Finucane, Liz Potamites. (2020). Can Charter Schools Boost Civic Participation? The Impact of Democracy Prep Public Schools on Voting Behavior. American Political Science Review, vol. 114, issue 4. https://www.mathematica.org/publications/can-charter-schools-boost-civic-participation-the-impact-of-democracy-prep-public-schools-on-voting"
+    resource: "https://doi.org/10.1017/s000305542000057x"
+    title: "Brian Gill, Emilyn Rubel Whitesell, Sean P. Corcoran, Charles Tilley, Mariel Finucane, Liz Potamites. (2020). Can Charter Schools Boost Civic Participation? The Impact of Democracy Prep Public Schools on Voting Behavior. American Political Science Review, vol. 114, issue 4. https://www.mathematica.org/publications/can-charter-schools-boost-civic-participation-the-impact-of-democracy-prep-public-schools-on-voting [doi:10.1017/s000305542000057x](https://doi.org/10.1017/s000305542000057x)"
     author: Brian Gill, Emilyn Rubel Whitesell, Sean P. Corcoran, Charles Tilley, Mariel Finucane, Liz Potamites
     q: 3
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### Brian Gill 2020
 
-Brian Gill, Emilyn Rubel Whitesell, Sean P. Corcoran, Charles Tilley, Mariel Finucane, Liz Potamites. (2020). Can Charter Schools Boost Civic Participation? The Impact of Democracy Prep Public Schools on Voting Behavior. American Political Science Review, vol. 114, issue 4. https://www.mathematica.org/publications/can-charter-schools-boost-civic-participation-the-impact-of-democracy-prep-public-schools-on-voting
+Brian Gill, Emilyn Rubel Whitesell, Sean P. Corcoran, Charles Tilley, Mariel Finucane, Liz Potamites. (2020). Can Charter Schools Boost Civic Participation? The Impact of Democracy Prep Public Schools on Voting Behavior. American Political Science Review, vol. 114, issue 4. https://www.mathematica.org/publications/can-charter-schools-boost-civic-participation-the-impact-of-democracy-prep-public-schools-on-voting [doi:10.1017/s000305542000057x](https://doi.org/10.1017/s000305542000057x)
 
 `q3 · i?` · `causal · r?`
 

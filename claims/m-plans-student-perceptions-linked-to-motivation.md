@@ -44,4 +44,4 @@ Development-phase correlational analysis using end-of-class self-reports, pre- a
 
 ## Related Claims
 - [Instructional practices aligned to the Belonging MDP were associated with significant declines in students' perceptions that science required too much effort or threatened self-esteem](belonging-mdp-reduces-effort-and-threat-perceptions.md) — related
-- [Both SDT and IE hold that people's actions are based on their perceptions of their contexts](perception-determines-behavior-ie-sdt.md) — a broader claim this one bears on
+- Both SDT and IE hold that people's actions are based on their perceptions of their contexts — a broader claim this one bears on

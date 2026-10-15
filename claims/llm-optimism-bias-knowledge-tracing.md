@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: eamon-worden-2026
-    resource: "https://arxiv.org/abs/2602.00070"
-    title: "Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070"
+    resource: "https://doi.org/10.48550/arxiv.2602.00070"
+    title: "Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070 [doi:10.48550/arxiv.2602.00070](https://doi.org/10.48550/arxiv.2602.00070)"
     author: Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eamon Worden 2026
 
-Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070
+Eamon Worden, Cristina Heffernan, Neil Heffernan, and Shashank Sonkar. (2026). FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs. https://arxiv.org/abs/2602.00070 [doi:10.48550/arxiv.2602.00070](https://doi.org/10.48550/arxiv.2602.00070)
 
 `q2 · i?` · `design · r2`
 
@@ -43,7 +43,7 @@ Breakdown of knowledge tracing accuracy by actual correctness (Table 7), reporte
 
 
 ## Related Claims
-- [CLST's predicted mastery levels track response correctness and move similarly for related knowledge components](clst-mastery-tracks-correctness-and-related-kcs.md) — related
-- [DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets](dkt-input-output-representation-affects-performance.md) — related
+- CLST's predicted mastery levels track response correctness and move similarly for related knowledge components — related
+- DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets — related
 - [Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss](stealth-assessment-accuracy-and-bias-audits.md) — related
-- [ConcepTests with roughly 35% to 70% of students answering correctly before discussion appear to produce the highest engagement and most effective discussions](conceptest-35-70-initial-correct-window.md) — related
+- ConcepTests with roughly 35% to 70% of students answering correctly before discussion appear to produce the highest engagement and most effective discussions — related

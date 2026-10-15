@@ -63,9 +63,9 @@ A national U.S. Department of Education survey found "1 in 4 public school teach
 
 ## Related Claims
 - [Golden State Teacher Grant recipients reported the scholarship made teaching financially feasible and led them to plan longer stays in high-need schools](gstg-made-teaching-financially-feasible.md) — a narrower finding that bears on this claim
-- [Ohio does not invest in scholarships or loan forgiveness programs targeting students of color for teaching](ohio-no-targeted-scholarship-loan-forgiveness.md) — a narrower finding that bears on this claim
+- Ohio does not invest in scholarships or loan forgiveness programs targeting students of color for teaching — a narrower finding that bears on this claim
 - [The report recommends four policy strategies: competitive equitable compensation, targeted supply in shortage fields, improved retention, and a national teacher labor market](four-policy-strategies-teacher-shortages.md) — related
 - [The 2024 reduction of the maximum GSTG award from $20,000 to $10,000 left recipients with more unmet need, greater loan reliance, and more work during preparation](gstg-reduced-award-lessens-impact.md) — related
-- [North Carolina's educator-diversity policy record is mixed, with strongest performance on data, GYO programs, and induction and weakest on financial and leadership supports](nc-mixed-educator-diversity-policies.md) — related
+- North Carolina's educator-diversity policy record is mixed, with strongest performance on data, GYO programs, and induction and weakest on financial and leadership supports — related
 - [NIH Undergraduate Scholarship Program scholars progress toward biomedical research careers at substantially higher rates than finalists who were not awarded scholarships](nih-ugsp-scholars-outpace-non-awarded-finalists.md) — a narrower finding that bears on this claim
 - [Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers](loan-repayment-participation-longer-research-stays.md) — a narrower finding that bears on this claim

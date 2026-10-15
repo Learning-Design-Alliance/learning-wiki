@@ -14,7 +14,7 @@ grain_size: course
 # Design-Based Research
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Design-based research (DBR) develops an educational intervention and a theory together. The designer-researcher builds the intervention in a real teaching and learning setting, tests it, revises it, and tests it again. Each revision is a small experiment, and what is learned is meant to improve the design and contribute to theory about learning. Christensen and West's review trace it to Brown (1992) and Collins (1990, 1992), who took Herbert Simon's call in *The Sciences of the Artificial* for a rigorous science of designed things and applied it to classrooms.
@@ -37,7 +37,7 @@ Borrowing from interdisciplinary design research, Christensen and West recommend
 - **Coordination of an interdisciplinary team**: researchers, designers, practitioners and developers
 
 #### Constraints
-- **Competing roles.** One person is often researcher, project manager, theorist and designer at once. The authors note that researchers can focus on only one role at a time, so over-investing in one puts the others at risk. See [the claim on competing roles](../claims/design-based-research-roles-compete-and-threaten-credible-claims.md) [~W]
+- **Competing roles.** One person is often researcher, project manager, theorist and designer at once. The authors note that researchers can focus on only one role at a time, so over-investing in one puts the others at risk. See the claim on competing roles [~W]
 - **Credibility of claims.** A researcher who designed, built, implemented and studied an approach is exposed to bias in analysis (Barab & Squire, 2004; Anderson & Shattuck, 2012)
 - **Fidelity to theory is suspect.** In an iterating, multi-tasking project, the design as built may not embody the theory it claims to test (Hoadley, 2004)
 - **Hard to control variables in real settings**, and the qualitative data many studies produce are heavy to collect and analyse
@@ -71,7 +71,6 @@ Borrowing from interdisciplinary design research, Christensen and West recommend
 - None yet recorded in the wiki from a DBR study's own evidence
 
 #### Contradicting
-- [Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete.](../claims/design-based-research-roles-compete-and-threaten-credible-claims.md) [~W]
 
 ## Design
 

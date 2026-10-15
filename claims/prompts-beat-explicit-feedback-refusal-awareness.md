@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` After a 10-week treatment, the prompts group showed a significant increase in pragmatic awareness of unconventional refusal expressions over the explicit feedback and control groups. [→ Yousefi 2021](#yousefi-2021)
@@ -43,6 +44,6 @@ The review reports Nipaspong and Chinokul's (2010) three-group study (explicit f
 
 
 ## Related Claims
-- [Metapragmatic written feedback outperformed direct feedback on recognizing appropriate email requests, while both treatments beat control on production](metapragmatic-feedback-email-request-recognition.md) — related
-- [Instruction in L2 pragmatics produces large gains, with effectiveness moderated by learner gender and treatment type](l2-pragmatics-instruction-large-effect-moderated.md) — a broader claim this one bears on
+- Metapragmatic written feedback outperformed direct feedback on recognizing appropriate email requests, while both treatments beat control on production — related
+- Instruction in L2 pragmatics produces large gains, with effectiveness moderated by learner gender and treatment type — a broader claim this one bears on
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related

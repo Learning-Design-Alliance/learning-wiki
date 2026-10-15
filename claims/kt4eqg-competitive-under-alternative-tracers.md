@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: xinyi-gao-2026
-    resource: "https://arxiv.org/abs/2605.23933"
-    title: "Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang. (2026). KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing. Preprint. Under review. https://arxiv.org/abs/2605.23933"
+    resource: "https://doi.org/10.48550/arxiv.2605.23933"
+    title: "Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang. (2026). KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing. Preprint. Under review. https://arxiv.org/abs/2605.23933 [doi:10.48550/arxiv.2605.23933](https://doi.org/10.48550/arxiv.2605.23933)"
     author: Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xinyi Gao 2026
 
-Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang. (2026). KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing. Preprint. Under review. https://arxiv.org/abs/2605.23933
+Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang, Yang Zhang. (2026). KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing. Preprint. Under review. https://arxiv.org/abs/2605.23933 [doi:10.48550/arxiv.2605.23933](https://doi.org/10.48550/arxiv.2605.23933)
 
 `q2 · i?` · `design · r2`
 

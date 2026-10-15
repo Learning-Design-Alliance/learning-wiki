@@ -13,7 +13,7 @@ generated:
 # Seven categories of charter school core functions for organizing distress indicators
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A charter-school authorizer toolkit framework that organizes longitudinal review of school distress indicators across leadership, governing board, operations, financial management, talent, culture, and instruction.
@@ -23,13 +23,6 @@ A charter-school authorizer toolkit framework that organizes longitudinal review
 
 ### Claims
 
-- [Declining enrollment serves as an early quantitative indicator of distress and can signal harder-to-detect problems in culture, leadership, and instruction](../claims/declining-enrollment-early-distress-indicator.md) [+W]
-- [Patterns of teacher turnover and declining staff capacity were talent-domain indicators of charter school distress](../claims/teacher-turnover-talent-distress-indicator.md) [+W]
-- [Boards of distressed charter schools lacked governance capacity and long-term sustainability strategy](../claims/board-distress-indicators-charter-schools.md) [+W]
-- [Distressed charter schools showed leadership indicators including inability to execute systems, overextension, and defensiveness toward outside support](../claims/leadership-distress-indicators-charter-schools.md) [+W]
-- [Frequent or midyear leadership turnover is one of the earliest and most prevalent indicators of charter school distress](../claims/leadership-turnover-early-distress-indicator.md) [+W]
-- [Culture indicators of distress included chaotic student culture, discontented staff culture, and weak family and community connection](../claims/culture-distress-indicators-charter-schools.md) [+W]
-- [Lack of curriculum alignment with standards and across grade levels compounded student academic decline in distressed charter schools](../claims/curriculum-alignment-distress-indicator-instruction.md) [+W]
 
 ## Related Products and Programmes
 

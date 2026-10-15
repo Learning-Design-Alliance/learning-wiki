@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lee-2026
-    resource: "https://arxiv.org/abs/2608.03206"
-    title: "Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206"
+    resource: "https://doi.org/10.48550/arxiv.2608.03206"
+    title: "Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206 [doi:10.48550/arxiv.2608.03206](https://doi.org/10.48550/arxiv.2608.03206)"
     author: Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lee 2026
 
-Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206
+Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206 [doi:10.48550/arxiv.2608.03206](https://doi.org/10.48550/arxiv.2608.03206)
 
 `q2 · i?` · `design · r2`
 

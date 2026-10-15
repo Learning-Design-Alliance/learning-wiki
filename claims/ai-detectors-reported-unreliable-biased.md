@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: pelin-yüce-2026
-    resource: "https://arxiv.org/abs/2605.17712"
-    title: "Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712"
+    resource: "https://doi.org/10.48550/arxiv.2605.17712"
+    title: "Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712 [doi:10.48550/arxiv.2605.17712](https://doi.org/10.48550/arxiv.2605.17712)"
     author: Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pelin Yüce 2026
 
-Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712
+Pelin Yüce, Xiangruo Dai, Rebecca Owens, Tuğrulcan Elmas. (2026). ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit. arXiv. https://arxiv.org/abs/2605.17712 [doi:10.48550/arxiv.2605.17712](https://doi.org/10.48550/arxiv.2605.17712)
 
 `q2 · i?` · `associational · r1`
 
@@ -44,7 +44,7 @@ Qualitative sample inspection of the AI Detection & False Accusations theme (10.
 
 ## Related Claims
 - [AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation](ai-detectors-misscore-human-written-text.md) — related
-- [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](gpt-detectors-biased-against-nonnative-english-writers.md) — related
+- GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy — related
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related
 - [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — related
 - [AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%](ai-detection-only-marginally-better-than-humans.md) — related

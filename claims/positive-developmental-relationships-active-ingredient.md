@@ -44,6 +44,6 @@ Narrative synthesis section of the playbook ("Why Positive Developmental Relatio
 
 ## Related Claims
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
-- [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](secure-base-enables-exploration.md) — related
+- In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship — related
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related
-- [The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration](bowlby-separation-sequence-to-exploration.md) — related
+- The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration — related

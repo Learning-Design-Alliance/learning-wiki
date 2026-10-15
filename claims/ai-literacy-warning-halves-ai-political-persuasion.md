@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: reed-orchinik-2026
-    resource: "https://arxiv.org/abs/2609.16432"
-    title: "Reed Orchinik, David Rand. (2026). A light-touch AI literacy intervention helps protect against AI political persuasion. https://arxiv.org/abs/2609.16432"
+    resource: "https://doi.org/10.48550/arxiv.2609.16432"
+    title: "Reed Orchinik, David Rand. (2026). A light-touch AI literacy intervention helps protect against AI political persuasion. https://arxiv.org/abs/2609.16432 [doi:10.48550/arxiv.2609.16432](https://doi.org/10.48550/arxiv.2609.16432)"
     author: Reed Orchinik, David Rand
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Reed Orchinik 2026
 
-Reed Orchinik, David Rand. (2026). A light-touch AI literacy intervention helps protect against AI political persuasion. https://arxiv.org/abs/2609.16432
+Reed Orchinik, David Rand. (2026). A light-touch AI literacy intervention helps protect against AI political persuasion. https://arxiv.org/abs/2609.16432 [doi:10.48550/arxiv.2609.16432](https://doi.org/10.48550/arxiv.2609.16432)
 
 `q3 · i?` · `causal · r3`
 

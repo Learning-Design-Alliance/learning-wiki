@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` 87% of teachers in China's middle schools used the traditional method in the late 1980s, focusing on grammar and structure. [→ Yang Xu 2010](#yang-xu-2010)
@@ -43,7 +44,7 @@ The article cites a 1990 investigation by Zuo reporting that "87% of teachers in
 
 
 ## Related Claims
-- [Secondary school teachers in 1980s China had low formal English qualifications](china-1980s-secondary-teachers-low-qualifications.md) — related
+- Secondary school teachers in 1980s China had low formal English qualifications — related
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
 - [Communicative Approach introduced to China in the 1990s was initially not very communicative](clt-china-1990s-initial-weak-adoption.md) — related
 - [Students most often attributed their grammar-learning beliefs to their use of English outside the classroom, followed by high-school teachers and classmates](factors-shaping-grammar-beliefs-outside-use-top.md) — related

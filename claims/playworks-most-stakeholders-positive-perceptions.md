@@ -45,7 +45,7 @@ Implementation and perception findings from the cohort 1 randomized evaluation a
 ## Related Claims
 - [Playworks improved teachers' perceptions of students' safety and feeling included during recess in a randomized experiment](playworks-improved-teacher-perceived-recess-safety-inclusion.md) — related
 - [Playworks showed significant impact on some measures of girls' physical activity but no significant impact on measures of boys' physical activity](playworks-gender-differential-impact.md) — related
-- [Teachers, principals, and students in the Floyd County trial responded positively to Pathblazer and would recommend it](pathblazer-positive-stakeholder-perceptions-floyd-county.md) — related
+- Teachers, principals, and students in the Floyd County trial responded positively to Pathblazer and would recommend it — related
 - [Teachers and principals reported satisfaction with READ 180 implementation and positive perceptions of its impacts, while recommending additional professional development](read-180-implementation-satisfaction-and-pd-recommendations.md) — related
-- [Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced](lli-teacher-perceptions-positive-with-pacing-concerns.md) — related
-- [Principals, site coordinators, and teachers reported strongly positive reactions to the program](lightning-squad-stakeholder-survey-positive.md) — related
+- Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced — related
+- Principals, site coordinators, and teachers reported strongly positive reactions to the program — related

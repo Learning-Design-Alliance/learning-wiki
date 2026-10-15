@@ -45,7 +45,7 @@ The brief reports that as families with greater means opt for private school or 
 ## Related Claims
 - [Strict class size caps raise per-student staffing costs as enrollment shrinks—a worked example shows a 44 percent cost increase when 1st grade enrollment falls from 75 to 52 students](class-size-caps-raise-costs-enrollment-decline.md) — related
 - [The primary driver of declining enrollment is a sustained drop in birth rates, with slowed immigration and expanded school choice as additional drivers](enrollment-decline-drivers-birth-rates-choice.md) — related
-- [Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch](plc-at-work-underserved-subgroup-growth.md) — related
+- Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch — related
 - [Remote learning exacerbated pre-pandemic disparities in no-credit grades for low-income students and students of color in grades 4-8, but within-school differences were small](cps-nocredit-disparities-exacerbated-remote-learning.md) — related
 - [Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization](four-equity-schools-rising-achievement-all-subgroups.md) — related
 - [Federal IDEA funding has provided only about 15 percent of the national average per-pupil expenditure, versus the 40 percent originally promised](idea-funding-15-percent-versus-40-promise.md) — related

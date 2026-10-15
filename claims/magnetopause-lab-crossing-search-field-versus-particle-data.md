@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: crumley-2015
-    resource: "https://arxiv.org/abs/0706.1985"
-    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985"
+    resource: "https://doi.org/10.48550/arxiv.0706.1985"
+    title: "Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)"
     author: Crumley, Palczewski, and Kaster
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students find magnetopause crossings well in magnetic field data but have more difficulty with particle data, and some data sets contain no crossings at all
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students do a good job finding crossings in magnetic field data but have more difficulty with particle data. [→ Crumley 2015](#crumley-2015)
@@ -40,7 +40,7 @@ sources:
 
 ### Crumley 2015
 
-Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985
+Crumley, Palczewski, and Kaster. (2015). Examining the Location of the Magnetopause in an Undergraduate Lab. https://arxiv.org/abs/0706.1985 [doi:10.48550/arxiv.0706.1985](https://doi.org/10.48550/arxiv.0706.1985)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 

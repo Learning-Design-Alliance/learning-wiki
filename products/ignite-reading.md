@@ -18,7 +18,7 @@ sources:
 # Ignite Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Ignite Reading is a virtual literacy tutoring programme that provides daily one-to-one foundational-reading sessions for young learners through trained tutors and a structured instructional sequence.
@@ -28,10 +28,6 @@ Ignite Reading is a virtual literacy tutoring programme that provides daily one-
 - **Ignite Reading one-to-one virtual literacy tutoring program**: Ignite Reading pairs young learners with "highly-trained reading tutors for daily 15-minute sessions focused on foundational literacy skills, including phonemic awareness, phonics, decoding, and fluency, using a structured and research-based instructional sequence." It is 100% virtual on a FERPA-compliant video platform with an interactive whiteboard, integrates with MTSS, and aligns with Science of Reading principles. Literacy specialists monitor progress and provide monthly data reports to educators. (Ignite Reading program description (2024))
 
 ### Claims
-- [Higher tutoring attendance rates are associated with greater reading gains](../claims/ignite-reading-attendance-associated-gains.md) [+W]
-- [Black students show stronger reading gains from the tutoring program (ES = +0.24)](../claims/ignite-reading-black-students-subgroup-gains.md) [+W]
-- [Daily 15-minute one-to-one virtual tutoring improves first-grade foundational reading outcomes more than standard classroom instruction (ES = +0.21)](../claims/ignite-reading-dibels-gain-first-grade.md) [+W]
-- [English learners show particularly strong reading gains from the tutoring program (ES = +0.31)](../claims/ignite-reading-english-learner-subgroup-gains.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -69,10 +65,6 @@ Ignite Reading pairs young learners with "highly-trained reading tutors for dail
 
 ## Claims
 
-- [Higher tutoring attendance rates are associated with greater reading gains](../claims/ignite-reading-attendance-associated-gains.md) [+W]
-- [Black students show stronger reading gains from the tutoring program (ES = +0.24)](../claims/ignite-reading-black-students-subgroup-gains.md) [+W]
-- [Daily 15-minute one-to-one virtual tutoring improves first-grade foundational reading outcomes more than standard classroom instruction (ES = +0.21)](../claims/ignite-reading-dibels-gain-first-grade.md) [+W]
-- [English learners show particularly strong reading gains from the tutoring program (ES = +0.31)](../claims/ignite-reading-english-learner-subgroup-gains.md) [+W]
 
 ## Related Elements
 

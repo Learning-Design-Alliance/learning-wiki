@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2018
-    resource: "https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/"
-    title: "James Soland. (2018). The achievement gap or the engagement gap? Investigating the sensitivity of gaps estimates to test motivation. Applied Measurement in Education 31(4), 312-323. https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/"
+    resource: "https://doi.org/10.1080/08957347.2018.1495213"
+    title: "James Soland. (2018). The achievement gap or the engagement gap? Investigating the sensitivity of gaps estimates to test motivation. Applied Measurement in Education 31(4), 312-323. https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/ [doi:10.1080/08957347.2018.1495213](https://doi.org/10.1080/08957347.2018.1495213)"
     author: James Soland
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### James Soland 2018
 
-James Soland. (2018). The achievement gap or the engagement gap? Investigating the sensitivity of gaps estimates to test motivation. Applied Measurement in Education 31(4), 312-323. https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/
+James Soland. (2018). The achievement gap or the engagement gap? Investigating the sensitivity of gaps estimates to test motivation. Applied Measurement in Education 31(4), 312-323. https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/ [doi:10.1080/08957347.2018.1495213](https://doi.org/10.1080/08957347.2018.1495213)
 
 `q1 · i?` · `associational · r?`
 

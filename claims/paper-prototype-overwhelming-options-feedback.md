@@ -44,5 +44,5 @@ Interview sessions with five university participants (two master's students, two
 
 ## Related Claims
 - [High-fidelity prototype evaluation found the form-like structure frustrating; a guided progressive-disclosure design replaced it](form-like-structure-frustration-guided-progression.md) — related
-- [Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early.](rapid-prototyping-can-amplify-novice-designers-premature-commitment-to-solutions.md) — related
+- Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
 - [AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment](ai-compression-frees-human-led-alignment.md) — related

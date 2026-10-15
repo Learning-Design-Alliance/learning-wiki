@@ -24,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · n=236
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Students at four universities in Tokyo and Taipei could rank the three interaction elements (teacher, student and content) by importance without hesitation, and the ranking appeared to change with learning mode and subject; the authors say this seems to confirm Thesis 1 and confirms Thesis 2, but the survey measured perceived priorities, not learning or satisfaction, which is what the theses are about. [→ Miyazoe 2010](#miyazoe-2010)
@@ -45,11 +46,11 @@ Authors' conclusion drawn from the full survey of 236 students, in which student
 The survey measured students' stated priorities among three kinds of interaction. It did not measure learning or satisfaction, which is what the Interaction Equivalency Theorem's two theses are about, so the confirmation is the authors' reading of preference data, not a test of either thesis. The slug's "confirmed" is kept only so that links resolve.
 
 ## Related Claims
-- [Open-ended responses rank the review section and practice questions as the most-liked lesson features](open-ended-likes-review-and-practice-top.md) — related
+- Open-ended responses rank the review section and practice questions as the most-liked lesson features — related
 - [Students prioritize teacher interaction for face-to-face learning but content interaction for online learning](interaction-priority-f2f-teacher-online-content.md) — a narrower finding that bears on this claim
-- [Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses](interaction-priority-skill-vs-knowledge-orientation.md) — a narrower finding that bears on this claim
-- [Students' general expectations of interaction for learning quality show no single priority order common to all](no-universal-interaction-priority-order.md) — a broader claim this one bears on
-- [In online learning, the perceived importance of teacher and student interaction decreases with student age](online-interaction-priority-decreases-with-age.md) — related
-- [Experience of blended course design shifts students' interaction priorities from teacher toward student interaction](blended-experience-shifts-priority-to-student-interaction.md) — related
+- Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses — a narrower finding that bears on this claim
+- Students' general expectations of interaction for learning quality show no single priority order common to all — a broader claim this one bears on
+- In online learning, the perceived importance of teacher and student interaction decreases with student age — related
+- Experience of blended course design shifts students' interaction priorities from teacher toward student interaction — related
 - [Both educator groups rank research to inform best practices in teaching and learning as the most important research goal](best-practices-research-top-goal-educators.md) — related
 - [A meta-analysis quantitatively verified the importance of three types of interaction in distance and online learning: among students, between instructor and students, and between students and content](three-interaction-types-verified-meta-analysis-distance-learning.md) — related

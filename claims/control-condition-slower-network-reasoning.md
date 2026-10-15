@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dawid-ratajczyk-2026
-    resource: "https://osf.io/59qtm/"
-    title: "Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/"
+    resource: "https://doi.org/10.31234/osf.io/83jum_v1"
+    title: "Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/ [doi:10.31234/osf.io/83jum_v1](https://doi.org/10.31234/osf.io/83jum_v1)"
     author: Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek
     q: 3
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Dawid Ratajczyk 2026
 
-Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/
+Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/ [doi:10.31234/osf.io/83jum_v1](https://doi.org/10.31234/osf.io/83jum_v1)
 
 `q3 · i3` · `causal · r3`
 
@@ -47,4 +47,4 @@ Stage 2 completion-time comparison between the control condition (different Stag
 - [Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition](prior-genai-use-poorer-unaided-reasoning.md) — related
 - [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](genai-weakens-effort-adjustment-to-incentives.md) — related
 - [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
-- [Adaptive-condition students complete the posttest in significantly less time than Control students](adaptive-proactive-hints-less-posttest-time.md) — related
+- Adaptive-condition students complete the posttest in significantly less time than Control students — related

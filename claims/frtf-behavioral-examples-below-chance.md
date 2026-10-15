@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Five behavioral examples failed to exceed chance sorting: Actively listens to others (18.2%, t = -1.65, p = .103), Pays attention when others are speaking (10.2%, t = -4.55, p < .001), Asks relevant questions about important issues (11.9%, t = -3.68, p = .001), and Explores implications of proposed solutions (9.4%, t = -4.89, p < .001). [→ Pretti 2021](#pretti-2021)

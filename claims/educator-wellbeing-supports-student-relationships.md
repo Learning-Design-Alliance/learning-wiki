@@ -45,8 +45,8 @@ The brief asserts, citing prior work (endnote 2), that educator wellbeing contri
 ## Related Claims
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](mindfulness-positive-effects-educator-wellbeing.md) — related
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
-- [Teachers' well-being predicted their emotion regulation skills, even accounting for school climate and NSLP percentage](wellbeing-predicts-emotion-regulation.md) — related
-- [Educators' emotion regulation, relationship management, well-being, and school climate perceptions did not predict whether students met i-Ready math or reading growth goals](adult-sel-measures-not-predicting-student-growth.md) — related
+- Teachers' well-being predicted their emotion regulation skills, even accounting for school climate and NSLP percentage — related
+- Educators' emotion regulation, relationship management, well-being, and school climate perceptions did not predict whether students met i-Ready math or reading growth goals — related
 - [Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma](educator-secondary-traumatic-stress-pandemic.md) — related
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — related
 - [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](positive-relationships-support-secondary-learning-wellbeing.md) — related

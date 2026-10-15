@@ -16,7 +16,7 @@ sources:
 # Behaviorism as a learning theory: learning is the acquisition of new observable behavior, not a mental process
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review presents behaviorism, associated with B.F. Skinner, as a theory in which learning is defined by observable behavior change rather than mental activity. It states that "learning occurs with the acquisition of new behavior" and that behaviorists "rely only on observable behavior in order to learn," treating environmental conditions and incentives as the drivers of learning.
@@ -37,7 +37,6 @@ The review presents behaviorism, associated with B.F. Skinner, as a theory in wh
 
 ### Claims
 
-- [The review reports that behaviorism cannot deal with complex human behavior and fails to explain linguistic generativity](../claims/behaviorism-fails-linguistic-generativity.md) [-W]
 - [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+M]
 
 ## Related Theories

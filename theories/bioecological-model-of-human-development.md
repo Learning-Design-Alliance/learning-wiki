@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 5 studies (2 review, 2 associational, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 review, 2 associational), `q2` · 0 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -42,7 +42,6 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 
 ## Claims
 
-- [Nature and nurture interact dynamically: children's experiences shape their biology as much as biology shapes development](../claims/dynamic-nature-nurture-brain-plasticity.md) [+W]
 - [Motor development milestone timing varies by cultural childcare practice, but functional motor competence equalizes by middle childhood.](../claims/motor-milestones-vary-by-cultural-childcare-practices.md) [+W]
 - [College readiness is best understood as a property of interactions between students and the college context, not only individual skills](../claims/college-readiness-as-student-college-interaction.md) [+W]
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](../claims/positive-developmental-relationships-active-ingredient.md) [+W]

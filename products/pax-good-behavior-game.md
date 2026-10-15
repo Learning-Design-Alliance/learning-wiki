@@ -22,7 +22,7 @@ sources:
 # PAX Good Behavior Game
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2` · 3 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 PAX Good Behavior Game is a branded classroom behavior-management programme run by PAXIS Institute that uses team-based behavior monitoring, rewards, teacher training, manuals, timers, and parent materials.
@@ -32,12 +32,7 @@ PAX Good Behavior Game is a branded classroom behavior-management programme run 
 - **PAX Good Behavior Game program package (team-based behavior management with training, manuals, timers, and parent materials)**: PAX Good Behavior Game is a commercial version of the long-standing Good Behavior Game, described as "a commercial version that is very widely used in the U.S. and elsewhere". Students are divided into teams; teachers monitor behavior and teams violating agreed class rules receive checkmarks, with the team receiving the fewest checkmarks earning a small privilege. The package includes onsite training by experienced therapists, plus manuals, timers, and auxiliary materials, and parents receive manuals to use similar methods at home. (PAX Good Behavior Game (2021))
 
 ### Claims
-- [PAX Good Behavior Game improves elementary math achievement relative to matched control classes (ES +0.32)](../claims/pax-gbg-math-effect-032.md) [+M]
-- [PAX Good Behavior Game also shows positive effects on reading outcomes](../claims/pax-gbg-positive-reading-effects.md) [+W]
 - [Good Behavior Game shows uncertain effects on literacy achievement, with a pooled effect size of 0.07 that is not statistically significant](../claims/gbg-uncertain-literacy-effects.md) [~W]
-- [PAX Good Behavior Game is rated in the Promising evidence category based on one qualifying study of 949 students](../claims/pax-gbg-promising-rating-one-study.md) [+W]
-- [PAX Good Behavior Game classes achieved higher reading scores than matched control classes, with an effect size of +0.19](../claims/pax-gbg-reading-effect-019.md) [+W]
-- [Positive effects of PAX Good Behavior Game were also found in math](../claims/pax-gbg-positive-math-effects.md) [+W]
 - [Good Behavior Game shows uncertain effects on mathematics achievement, with an effect size of 0.26 that is not statistically significant](../claims/gbg-uncertain-math-effects.md) [~W]
 
 ## Related Products and Programmes
@@ -74,12 +69,7 @@ PAX Good Behavior Game is a commercial version of the long-standing Good Behavio
 
 ## Claims
 
-- [PAX Good Behavior Game improves elementary math achievement relative to matched control classes (ES +0.32)](../claims/pax-gbg-math-effect-032.md) [+M]
-- [PAX Good Behavior Game also shows positive effects on reading outcomes](../claims/pax-gbg-positive-reading-effects.md) [+W]
 - [Good Behavior Game shows uncertain effects on literacy achievement, with a pooled effect size of 0.07 that is not statistically significant](../claims/gbg-uncertain-literacy-effects.md) [~W]
-- [PAX Good Behavior Game is rated in the Promising evidence category based on one qualifying study of 949 students](../claims/pax-gbg-promising-rating-one-study.md) [+W]
-- [PAX Good Behavior Game classes achieved higher reading scores than matched control classes, with an effect size of +0.19](../claims/pax-gbg-reading-effect-019.md) [+W]
-- [Positive effects of PAX Good Behavior Game were also found in math](../claims/pax-gbg-positive-math-effects.md) [+W]
 
 ## Related Elements
 
@@ -123,9 +113,6 @@ PAX Good Behavior Game is a commercial version of the long-standing Good Behavio
 
 ## Claims
 
-- [Positive effects of PAX Good Behavior Game were also found in math](../claims/pax-gbg-positive-math-effects.md) [+W]
-- [PAX Good Behavior Game is rated in the Promising evidence category based on one qualifying study of 949 students](../claims/pax-gbg-promising-rating-one-study.md) [+W]
-- [PAX Good Behavior Game classes achieved higher reading scores than matched control classes, with an effect size of +0.19](../claims/pax-gbg-reading-effect-019.md) [+W]
 - [Good Behavior Game shows uncertain effects on literacy achievement, with a pooled effect size of 0.07 that is not statistically significant](../claims/gbg-uncertain-literacy-effects.md) [~W]
 - [Good Behavior Game shows uncertain effects on mathematics achievement, with an effect size of 0.26 that is not statistically significant](../claims/gbg-uncertain-math-effects.md) [~W]
 

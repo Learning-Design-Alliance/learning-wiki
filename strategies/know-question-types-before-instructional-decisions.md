@@ -17,7 +17,7 @@ sources:
 # Teachers and publishers should know question types and their cognitive demands before deciding how to teach about and use questions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report argues that decisions about teaching students to handle questions and about using questions in classrooms and materials require prior knowledge of the question landscape: "We think teachers and publishers need to know what types of questions exist and the cognitive demands of answering those questions before they can make reasonable decisions about how to teach students about questions and how to use questions in the classroom and in instructional materials." The taxonomy is offered as the tool for gaining that knowledge, with each category specifying the information a question type provides and requires.
@@ -38,7 +38,6 @@ The report argues that decisions about teaching students to handle questions and
 
 ### Claims
 
-- [Little Instruction In Answering Questions](../claims/little-instruction-in-answering-questions.md) [+M]
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](../claims/causal-links-implicit-in-history-textbooks.md) [+W]
 
 ## Related Principles

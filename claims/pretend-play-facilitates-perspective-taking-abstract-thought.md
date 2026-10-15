@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The research on pretense and theory of mind suggests that high-quality pretend play facilitates perspective taking and later abstract thought. [→ Bergen 2002](#bergen-2002)
@@ -64,10 +65,10 @@ The review reports, citing Jenkins and Astington, a longitudinal study in which 
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — the general claim this finding bears on, with the studies behind it
 - [False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills](false-belief-training-no-language-effect.md) — related
 - [In pretend play the child behaves beyond her average age and daily behaviour](pretend-play-child-head-taller.md) — related
-- [Pretend play and divergent problem solving show a reciprocal relationship, with cooperative play broadly and thematic play specifically influential](pretend-play-divergent-problem-solving-reciprocal.md) — related
-- [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
-- [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](title-i-preschools-no-increase-social-pretense.md) — related
-- [Pretense play training improves conservation of quantity in nonconserving preschoolers](pretense-play-training-improves-conservation.md) — a narrower finding that bears on this claim
-- [Pretense play training improves gender constancy on the first posttest but not the second](pretense-play-training-improves-gender-constancy-posttest-1.md) — a narrower finding that bears on this claim
-- [Play's most important role, per Piaget, is developing representational language and thought through ludic symbolism](play-develops-representational-thought.md) — related
+- Pretend play and divergent problem solving show a reciprocal relationship, with cooperative play broadly and thematic play specifically influential — related
+- Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall — related
+- Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms — related
+- Pretense play training improves conservation of quantity in nonconserving preschoolers — a narrower finding that bears on this claim
+- Pretense play training improves gender constancy on the first posttest but not the second — a narrower finding that bears on this claim
+- Play's most important role, per Piaget, is developing representational language and thought through ludic symbolism — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related

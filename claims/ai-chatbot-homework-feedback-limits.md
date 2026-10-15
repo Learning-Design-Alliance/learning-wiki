@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: perl-nussbaum-2026
-    resource: "https://arxiv.org/abs/2609.23887"
-    title: "Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887"
+    resource: "https://doi.org/10.48550/arxiv.2609.23887"
+    title: "Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887 [doi:10.48550/arxiv.2609.23887](https://doi.org/10.48550/arxiv.2609.23887)"
     author: "Perl-Nussbaum, D., & Finkelstein, N. D."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Perl-Nussbaum 2026
 
-Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887
+Perl-Nussbaum, D., & Finkelstein, N. D. (2026). A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community. https://arxiv.org/abs/2609.23887 [doi:10.48550/arxiv.2609.23887](https://doi.org/10.48550/arxiv.2609.23887)
 
 `q1 · i?` · `design · r2`
 
@@ -44,6 +44,6 @@ Small-group hands-on testing during Session 3, in which faculty tried prompts on
 
 ## Related Claims
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related
-- [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — a broader claim this one bears on
+- Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation — a broader claim this one bears on
 - [Feedback prompted with ELL status narrows to surface-level grammar and mechanics corrections, assuming limited language competency rather than addressing argument and reasoning](ell-feedback-language-inadequacy-pedagogy.md) — a broader claim this one bears on
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related

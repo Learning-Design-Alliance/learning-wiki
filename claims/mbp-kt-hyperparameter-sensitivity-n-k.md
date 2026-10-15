@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yuhao-jia-2026
-    resource: "https://arxiv.org/abs/2605.08697"
-    title: "Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697"
+    resource: "https://doi.org/10.48550/arxiv.2605.08697"
+    title: "Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697 [doi:10.48550/arxiv.2605.08697](https://doi.org/10.48550/arxiv.2605.08697)"
     author: Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yuhao Jia 2026
 
-Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697
+Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697 [doi:10.48550/arxiv.2605.08697](https://doi.org/10.48550/arxiv.2605.08697)
 
 `q2 · i?` · `design · r2`
 
@@ -47,4 +47,3 @@ Sensitivity analysis (Figure 4) varying N in {2,3,4,5} and K in {10,20,30,40,50,
 - [Injecting MBP-KT's global collaborative information consistently improves KT models across RNN, memory-network, Transformer and state-based backbones](mbp-kt-consistently-improves-kt-backbones.md) — related
 - [Performance is best at moderate difficulty granularity and a limited recent window for domain transitions](moderate-difficulty-granularity-window-optimal.md) — related
 - [Hyperparameter sensitivity in PKT is an inherent characteristic of programming interaction data, varying across models and across assignments within the same model](pkt-hyperparameter-sensitivity-varies-by-model-and-assignment.md) — reports the opposite
-- [Larger error windows improve SET ranking performance, with a window of 30 errors yielding the highest MAP regardless of edge-weight transformation](larger-error-windows-improve-set-ranking.md)

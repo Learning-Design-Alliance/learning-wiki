@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: matey-yordanov-2026
-    resource: "https://arxiv.org/abs/2607.23566"
-    title: "Matey Yordanov, Mikhail Bychkov, and Andrei Kuchma. (2026). The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences. https://arxiv.org/abs/2607.23566"
+    resource: "https://doi.org/10.48550/arxiv.2607.23566"
+    title: "Matey Yordanov, Mikhail Bychkov, and Andrei Kuchma. (2026). The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences. https://arxiv.org/abs/2607.23566 [doi:10.48550/arxiv.2607.23566](https://doi.org/10.48550/arxiv.2607.23566)"
     author: Matey Yordanov, Mikhail Bychkov, and Andrei Kuchma
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Matey Yordanov 2026
 
-Matey Yordanov, Mikhail Bychkov, and Andrei Kuchma. (2026). The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences. https://arxiv.org/abs/2607.23566
+Matey Yordanov, Mikhail Bychkov, and Andrei Kuchma. (2026). The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences. https://arxiv.org/abs/2607.23566 [doi:10.48550/arxiv.2607.23566](https://doi.org/10.48550/arxiv.2607.23566)
 
 `q2 · i?` · `causal · r1`
 

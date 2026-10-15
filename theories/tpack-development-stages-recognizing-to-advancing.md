@@ -16,7 +16,7 @@ sources:
 # Five-stage TPACK development trajectory from recognizing to advancing
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Niess, Sadri and Lee (2007), building on Rogers' innovation-decision process, describe TPACK development as five stages: recognizing (knowledge), accepting (persuasion), adapting (decision), exploring (implementation), and advancing (confirmation). The article uses these stages to characterize where teachers are in transforming their TPACK, illustrated with contrasting spreadsheet cases (Mr. D at recognizing, Mrs. A at exploring). The stages were "proposed as an iterative process in the development of TPACK rather than a strictly linear process."
@@ -38,7 +38,6 @@ Niess, Sadri and Lee (2007), building on Rogers' innovation-decision process, de
 ### Claims
 
 - [In-service mathematics teachers in the online TPACK program shifted from teacher-centered to valuing student-centered instructional strategies for teaching with technologies](../claims/online-tpack-program-shift-student-centered-strategies.md) [+W]
-- [Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways](../claims/overarching-conceptions-expanded-multiple-technologies.md) [+W]
 
 ## Related Theories
 

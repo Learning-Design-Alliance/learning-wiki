@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: engagement
+    resource: "https://doi.org/10.48550/arxiv.2609.06095"
     title: engagement
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### engagement
 
-Seth Bernstein and Naaz Sibia. 2026. Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education. Koli Calling '26. https://arxiv.org/abs/2609.06095
+Seth Bernstein and Naaz Sibia. 2026. Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education. Koli Calling '26. https://arxiv.org/abs/2609.06095 [doi:10.48550/arxiv.2609.06095](https://doi.org/10.48550/arxiv.2609.06095)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -40,12 +41,11 @@ RQ3 interview findings from ten CS2-completing participants. The article reports
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How do learners receive an explanatory analogy from a familiar source domain?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **2 distinct studies** (2 qualitative), `q2`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How do learners receive an explanatory analogy from a familiar source domain?* This table gathers the studies behind this claim and the 1 narrower claims that bear on it: **1 distinct studies** (1 qualitative), `q2`, 0 of 1 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| engagement | q2 · qualitative · r3 | i? | this claim |
-| structural-audit | q2 · qualitative · r3 | i? | [Undergraduate computing students evaluate GenAI analogies by structural correspondence bet](students-audit-genai-analogy-structural-correspondence.md) (qualifies) |
+| [engagement](https://doi.org/10.48550/arxiv.2609.06095) | q2 · qualitative · r3 | i? | this claim; [Undergraduate computing students evaluate GenAI analogies by structural correspondence bet](students-audit-genai-analogy-structural-correspondence.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

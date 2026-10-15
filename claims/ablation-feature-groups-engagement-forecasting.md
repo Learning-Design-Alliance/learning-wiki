@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: eric-s-qiu-2026
-    resource: "https://arxiv.org/abs/2605.12788"
-    title: "Eric S. Qiu, Danielle R. Thomas, Boyuan Guo, Vincent Aleven, Conrad Borchers. (2026). From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning. https://arxiv.org/abs/2605.12788"
+    resource: "https://doi.org/10.48550/arxiv.2605.12788"
+    title: "Eric S. Qiu, Danielle R. Thomas, Boyuan Guo, Vincent Aleven, Conrad Borchers. (2026). From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning. https://arxiv.org/abs/2605.12788 [doi:10.48550/arxiv.2605.12788](https://doi.org/10.48550/arxiv.2605.12788)"
     author: Eric S. Qiu, Danielle R. Thomas, Boyuan Guo, Vincent Aleven, Conrad Borchers
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eric S. Qiu 2026
 
-Eric S. Qiu, Danielle R. Thomas, Boyuan Guo, Vincent Aleven, Conrad Borchers. (2026). From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning. https://arxiv.org/abs/2605.12788
+Eric S. Qiu, Danielle R. Thomas, Boyuan Guo, Vincent Aleven, Conrad Borchers. (2026). From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning. https://arxiv.org/abs/2605.12788 [doi:10.48550/arxiv.2605.12788](https://doi.org/10.48550/arxiv.2605.12788)
 
 `q2 · i?` · `associational · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: brady-d-lund-and-zoë-abbie-teel-2026
-    resource: "https://arxiv.org/abs/2607.27547"
-    title: "Brady D. Lund and Zoë Abbie Teel. (2026). AI Literacy: An Exercise in Power-Knowledge. University of North Texas. https://arxiv.org/abs/2607.27547"
+    resource: "https://doi.org/10.48550/arxiv.2607.27547"
+    title: "Brady D. Lund and Zoë Abbie Teel. (2026). AI Literacy: An Exercise in Power-Knowledge. University of North Texas. https://arxiv.org/abs/2607.27547 [doi:10.48550/arxiv.2607.27547](https://doi.org/10.48550/arxiv.2607.27547)"
     author: Brady D. Lund and Zoë Abbie Teel
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Brady D. Lund and Zoë Abbie Teel 2026
 
-Brady D. Lund and Zoë Abbie Teel. (2026). AI Literacy: An Exercise in Power-Knowledge. University of North Texas. https://arxiv.org/abs/2607.27547
+Brady D. Lund and Zoë Abbie Teel. (2026). AI Literacy: An Exercise in Power-Knowledge. University of North Texas. https://arxiv.org/abs/2607.27547 [doi:10.48550/arxiv.2607.27547](https://doi.org/10.48550/arxiv.2607.27547)
 
 `q1 · i?` · `theoretical · r3`
 

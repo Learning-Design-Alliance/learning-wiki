@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: gabelmann-2026
-    resource: "https://arxiv.org/abs/2605.30187"
-    title: "Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187"
+    resource: "https://doi.org/10.48550/arxiv.2605.30187"
+    title: "Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187 [doi:10.48550/arxiv.2605.30187](https://doi.org/10.48550/arxiv.2605.30187)"
     author: Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Gabelmann 2026
 
-Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187
+Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187 [doi:10.48550/arxiv.2605.30187](https://doi.org/10.48550/arxiv.2605.30187)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -44,6 +44,6 @@ Theoretical argument in Section 2.3 about monolithic architectures: the authors 
 
 ## Related Claims
 - [GenAI consolidates multiple core pedagogical functions within a single technological interface, a scaling effect qualitatively distinct from prior educational tools](genai-consolidates-pedagogical-functions-single-interface.md) — a broader claim this one bears on
-- [Without cognitive profiles, LLM-simulated response patterns collapse toward a single pattern; profile conditioning multiplies response-pattern diversity](profile-conditioning-increases-response-diversity.md) — related
+- Without cognitive profiles, LLM-simulated response patterns collapse toward a single pattern; profile conditioning multiplies response-pattern diversity — related
 - [Single-LLM writing assistance increased idea-level homogenization across writers, while a role-specialized duo of architecturally distinct LLMs preserved baseline diversity](role-specialized-duo-preserves-idea-diversity.md) — related
 - [A deployed reflection agent followed its prompt's countable rules but broke its dispositional rules about manner](agent-followed-countable-not-dispositional-rules.md) — related

@@ -17,7 +17,7 @@ sources:
 # Support successful coaching implementation by assigning coaches fewer classes, securing school leader commitment, and building teacher enthusiasm
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report identifies conditions that supported successful coaching implementation in the Puerto Rico pilot: "Fewer classes assigned to the coach", "Commitment from school leaders to the coaching work", and "Enthusiasm from teachers about the coaching work". These conditions emerged from the pilot's evaluation of coaches, teachers, and leaders and informed leaders' proposals for new academic structures giving participating educators fewer classes for professional development time.
@@ -38,7 +38,6 @@ The report identifies conditions that supported successful coaching implementati
 - Successful implementation of instructional coaching for technology integration
 
 ### Claims
-- [Pr Coaching Pilot Relationships Systems Impact](../claims/pr-coaching-pilot-relationships-systems-impact.md) [+M]
 
 ## Related Designs
 - 

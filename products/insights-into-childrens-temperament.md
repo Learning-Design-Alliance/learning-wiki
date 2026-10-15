@@ -18,7 +18,7 @@ sources:
 # INSIGHTS into Children's Temperament
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 INSIGHTS into Children's Temperament is an evidence-based intervention programme that equips educators, parents, and young children to understand and respond to children's temperament through professional development, classroom sessions, and facilitated parent lessons.
@@ -27,10 +27,6 @@ INSIGHTS into Children's Temperament is an evidence-based intervention programme
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [INSIGHTS reduced behavior problems relative to control (effect size +0.54)](../claims/insights-behavior-problems-reduction-es-054.md) [+M]
-- [INSIGHTS students grew significantly faster than control students in math achievement (effect size +0.31)](../claims/insights-math-growth-es-031.md) [+W]
-- [INSIGHTS students grew significantly faster than attention-control students in reading achievement (effect size +0.55)](../claims/insights-reading-growth-es-055.md) [+M]
-- [INSIGHTS improved sustained attention relative to control (effect size +0.39)](../claims/insights-sustained-attention-es-039.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,10 +64,6 @@ INSIGHTS is "an evidence-based intervention that helps families, educators and y
 
 ## Claims
 
-- [INSIGHTS reduced behavior problems relative to control (effect size +0.54)](../claims/insights-behavior-problems-reduction-es-054.md) [+M]
-- [INSIGHTS students grew significantly faster than control students in math achievement (effect size +0.31)](../claims/insights-math-growth-es-031.md) [+W]
-- [INSIGHTS students grew significantly faster than attention-control students in reading achievement (effect size +0.55)](../claims/insights-reading-growth-es-055.md) [+M]
-- [INSIGHTS improved sustained attention relative to control (effect size +0.39)](../claims/insights-sustained-attention-es-039.md) [+W]
 
 ## Related Elements
 - 

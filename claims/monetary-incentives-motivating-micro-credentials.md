@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: christina-luke-and-viki-m-young-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884"
-    title: "Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884"
+    resource: "https://doi.org/10.51388/20.500.12265/103"
+    title: "Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884 [doi:10.51388/20.500.12265/103](https://doi.org/10.51388/20.500.12265/103)"
     author: Christina Luke and Viki M. Young
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Christina Luke and Viki M. Young 2020
 
-Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884
+Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884 [doi:10.51388/20.500.12265/103](https://doi.org/10.51388/20.500.12265/103)
 
 `q2 · i?` · `associational · r1`
 
@@ -44,6 +44,6 @@ Teacher survey on sustaining micro-credentials through incentive structures. The
 
 ## Related Claims
 - [Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning](micro-credential-teacher-receptivity-positive.md) — related
-- [In Kettle Moraine School District, about 80 percent of teachers earned at least one pre-approved micro-credential over three years, raising base salaries by $100 to $600](kettle-moraine-salary-linked-micro-credential-adoption.md) — related
+- In Kettle Moraine School District, about 80 percent of teachers earned at least one pre-approved micro-credential over three years, raising base salaries by $100 to $600 — related
 - [State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns](state-directors-micro-credential-concerns.md) — related
-- [Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials](nine-states-ceus-no-coherent-valuation-framework.md) — related
+- Nine states offered CEUs for Digital Promise micro-credentials by 2017, but no coherent framework existed for valuing micro-credentials — related

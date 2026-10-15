@@ -62,5 +62,5 @@ Analysis of math course grades from hierarchical linear models across the three 
 
 
 ## Related Claims
-- [In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores](ccssm-professional-learning-greater-improvements-chicago-middle-grades.md) — related
+- In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores — related
 - [In elementary grades, students in schools with extensive standards-related professional development reported significantly larger improvements in academic demand, rigor, instructional clarity, and teacher support than students in schools with limited professional development](extensive-pd-larger-instructional-improvements-elementary.md) — related

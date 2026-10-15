@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: john-deke-2016
-    resource: "https://www.mathematica.org/publications/design-and-analysis-considerations-for-cluster-randomized-controlled-trials-that-have-a-small-number"
-    title: "John Deke. (2016). Design and Analysis Considerations for Cluster Randomized Controlled Trials That Have a Small Number of Clusters. Evaluation Review, vol. 40, issue 5. https://www.mathematica.org/publications/design-and-analysis-considerations-for-cluster-randomized-controlled-trials-that-have-a-small-number"
+    resource: "https://doi.org/10.1177/0193841x16671680"
+    title: "John Deke. (2016). Design and Analysis Considerations for Cluster Randomized Controlled Trials That Have a Small Number of Clusters. Evaluation Review, vol. 40, issue 5. https://www.mathematica.org/publications/design-and-analysis-considerations-for-cluster-randomized-controlled-trials-that-have-a-small-number [doi:10.1177/0193841x16671680](https://doi.org/10.1177/0193841x16671680)"
     author: John Deke
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### John Deke 2016
 
-John Deke. (2016). Design and Analysis Considerations for Cluster Randomized Controlled Trials That Have a Small Number of Clusters. Evaluation Review, vol. 40, issue 5. https://www.mathematica.org/publications/design-and-analysis-considerations-for-cluster-randomized-controlled-trials-that-have-a-small-number
+John Deke. (2016). Design and Analysis Considerations for Cluster Randomized Controlled Trials That Have a Small Number of Clusters. Evaluation Review, vol. 40, issue 5. https://www.mathematica.org/publications/design-and-analysis-considerations-for-cluster-randomized-controlled-trials-that-have-a-small-number [doi:10.1177/0193841x16671680](https://doi.org/10.1177/0193841x16671680)
 
 `q2 · i?` · `theoretical · r3`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: po-chin-chang-2026
-    resource: "https://arxiv.org/abs/2606.20138"
-    title: "Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer. (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. https://arxiv.org/abs/2606.20138"
+    resource: "https://doi.org/10.48550/arxiv.2606.20138"
+    title: "Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer. (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. https://arxiv.org/abs/2606.20138 [doi:10.48550/arxiv.2606.20138](https://doi.org/10.48550/arxiv.2606.20138)"
     author: Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In simulation the router matches the empirically optimal subject strategy in 8 of 13 subjects, but retreats to a safe strategy where gains are marginal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In 8 of 13 evaluated subjects the router's predicted prompt exactly matched the empirically optimal prompt (Gap = 0.000), with an overall alignment rate (Gap≤0.01) of 69.2%. [→ Po-Chin Chang 2026](#po-chin-chang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Po-Chin Chang 2026
 
-Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer. (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. https://arxiv.org/abs/2606.20138
+Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer. (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. https://arxiv.org/abs/2606.20138 [doi:10.48550/arxiv.2606.20138](https://doi.org/10.48550/arxiv.2606.20138)
 
 `q2 · i?` · `causal · r2`
 

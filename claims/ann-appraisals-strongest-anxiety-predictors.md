@@ -44,5 +44,5 @@ Supplementary ANN (5–3–1 network, repeated 10-fold cross-validation with 10 
 
 
 ## Related Claims
-- [Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential](ann-utaut-predictors-lms-acceptance-vocational.md) — related
+- Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential — related
 - [Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress](perceived-usefulness-moderates-efficacy-stress.md) — related

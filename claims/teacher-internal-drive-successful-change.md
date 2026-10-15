@@ -45,4 +45,4 @@ An authorial assertion in the section on teacher images, presented without cited
 
 ## Related Claims
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
-- [The Republic's top-down education method contradicts Dewey's pedagogical principles and his understanding of democracy](top-down-education-method-contradicts-dewey.md) — related
+- The Republic's top-down education method contradicts Dewey's pedagogical principles and his understanding of democracy — related

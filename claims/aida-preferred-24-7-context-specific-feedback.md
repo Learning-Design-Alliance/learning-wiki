@@ -48,5 +48,5 @@ Perception studies 1-3, in which 315 distance students reacted to prototypes and
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
 - [Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful](students-prefer-combined-peer-and-ai-feedback.md) — related
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
-- [EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy](ai-feedback-perceived-expertise-efl-writing.md) — related
+- EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
 - [At pre-test most distance students were positive about an institutional AIDA, but a majority saw challenges, and prior GenAI experience correlated with more positive perceptions](aida-pretest-positivity-and-challenges.md) — related

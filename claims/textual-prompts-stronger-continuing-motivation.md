@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i2` Across the three continuing-motivation items, text-based prompts scored significantly higher (M = 3.83 vs. 3.36), F(1,47) = 6.36, p = .02, Cohen's f = .37. [→ Reisslein 2004](#reisslein-2004)

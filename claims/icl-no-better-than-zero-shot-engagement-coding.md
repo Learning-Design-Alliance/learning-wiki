@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lan-anh-do-2026
-    resource: "https://arxiv.org/abs/2607.28651"
-    title: "Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas. (2026). Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents. https://arxiv.org/abs/2607.28651"
+    resource: "https://doi.org/10.48550/arxiv.2607.28651"
+    title: "Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas. (2026). Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents. https://arxiv.org/abs/2607.28651 [doi:10.48550/arxiv.2607.28651](https://doi.org/10.48550/arxiv.2607.28651)"
     author: Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lan Anh Do 2026
 
-Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas. (2026). Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents. https://arxiv.org/abs/2607.28651
+Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas. (2026). Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents. https://arxiv.org/abs/2607.28651 [doi:10.48550/arxiv.2607.28651](https://doi.org/10.48550/arxiv.2607.28651)
 
 `q2 · i?` · `causal · r2`
 
@@ -46,7 +46,7 @@ Null comparison within the same annotation study: for GPT-5.2 and GPT-4o under h
 - [Agent-refined frameworks improved cross-model agreement but remained below the human-refined framework and varied across foundation models](agent-refined-frameworks-below-human-refined.md) — related
 - [Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance](curricular-cot-improves-accuracy-larger-models.md) — related
 - [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)](regex-rules-improve-fewshot-llm-labeling-accuracy.md) — related
-- [Zero-shot prompt type has minimal impact on LLM-human coding concordance](prompt-type-minimal-impact-llm-coding.md) — related
+- Zero-shot prompt type has minimal impact on LLM-human coding concordance — related
 - [Machine–machine agreement exceeds human–machine agreement but remains below human–human agreement](machine-machine-above-human-machine-below-human-human.md) — related
 - [Few-shot prompting does not improve diagnostic F1 or accuracy but reduces evidence over-attribution and false-attribution](few-shot-prompting-no-f1-gain-reduces-overattribution.md) — related
 - [Gemini 2.0 Flash validated as a reliable LLM annotator of feedback focus types](gemini-flash-reliable-feedback-focus-annotator.md) — related

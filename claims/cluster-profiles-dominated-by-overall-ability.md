@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: benjamin-mawdsley-2026
-    resource: "https://arxiv.org/abs/2607.26063"
-    title: "Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, and Paul Edwards. (2026). Archetypes or ability? Clustering for modelling student mathematical competence. https://arxiv.org/abs/2607.26063"
+    resource: "https://doi.org/10.48550/arxiv.2607.26063"
+    title: "Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, and Paul Edwards. (2026). Archetypes or ability? Clustering for modelling student mathematical competence. https://arxiv.org/abs/2607.26063 [doi:10.48550/arxiv.2607.26063](https://doi.org/10.48550/arxiv.2607.26063)"
     author: Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, and Paul Edwards
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Cluster profiles of student mathematics performance are dominated by overall ability, with most clusters being linear rescalings of average exam performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Most BMM clusters are strongly linearly correlated with each other and with average exam score, indicating overall ability rather than distinct skill profiles drives cluster shape. [→ Benjamin Mawdsley 2026](#benjamin-mawdsley-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Benjamin Mawdsley 2026
 
-Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, and Paul Edwards. (2026). Archetypes or ability? Clustering for modelling student mathematical competence. https://arxiv.org/abs/2607.26063
+Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, and Paul Edwards. (2026). Archetypes or ability? Clustering for modelling student mathematical competence. https://arxiv.org/abs/2607.26063 [doi:10.48550/arxiv.2607.26063](https://doi.org/10.48550/arxiv.2607.26063)
 
 `q2 · i?` · `associational · r2`
 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Psychometric critics contend Gardner has conducted no empirical research testing that his intelligences are autonomous faculties, and Carson notes relatively few serious empirical theory-testing publications of MI theory exist. [→ Peariso 2008](#peariso-2008)
@@ -43,8 +44,8 @@ The review attributes this to Carson (2003), who gives five points explaining MI
 
 
 ## Related Claims
-- [A large psychometric data review supports a hierarchical model of intelligence headed by g, which MI theory does not fit](carroll-data-support-hierarchical-g-model.md) — related
-- [Gardner never laid down a detailed plan for applying MI theory in schools, and classroom implementations operate independently of him](gardner-no-detailed-classroom-application-plan.md) — related
-- [A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for](intellectual-test-performances-correlated.md) — related
+- A large psychometric data review supports a hierarchical model of intelligence headed by g, which MI theory does not fit — related
+- Gardner never laid down a detailed plan for applying MI theory in schools, and classroom implementations operate independently of him — related
+- A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for — related
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
 - [The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents](multiple-intelligences-weak-on-science-talent.md) — related

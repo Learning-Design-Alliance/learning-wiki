@@ -45,4 +45,4 @@ Director interview findings on collaboration types across 29 states. The report 
 ## Related Claims
 - [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related
 - [Nearly all responding SSSCs conducted trainings in 2021, with reporting centers documenting over a thousand training events reaching tens of thousands of participants](sssc-training-volume-2021.md) — related
-- [Communication, cooperation, and coordination were the most critical factors in successful CLASP programming](clasp-critical-success-factors-communication.md) — related
+- Communication, cooperation, and coordination were the most critical factors in successful CLASP programming — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` During the online Orientation Week, before instruction began, the attrition rate was twice that of onground classes, marking this period as the locus of the modality difference. [→ Jia Frydenberg 2007](#jia-frydenberg-2007)
@@ -50,4 +51,4 @@ Analysis of drop timing across the two-year data set (Table 5): 8 percent of onl
 - [After instruction has begun, drop rates are essentially the same in online and onground continuing education classes](no-drop-rate-difference-after-instruction-starts.md) — related
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - [Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict](withdrawal-reasons-similar-across-modalities.md) — related
-- [Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration](modality-moderates-courseware-experience.md) — related
+- Course modality moderated student experience: instructor responsiveness was more prevalent in face-to-face classes and online students reported more frustration — related

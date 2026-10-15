@@ -17,7 +17,7 @@ sources:
 # Graphical model framework for junction-tree estimation of multidimensional IRT growth models
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article presents a framework in which a statistical model is represented as a directed acyclic graph, moralized, triangulated, and converted into a junction tree whose cliques define conditionally independent subsets of latent variables. The author states that "the computational complexity of a multidimensional model is inversely related to the number of conditional independence relations one is willing to assume." The framework provides algorithms to partition the joint latent space so that brute force integration can be replaced by local computations on cliques, applied to a family of multidimensional IRT growth models.
@@ -27,7 +27,6 @@ The article presents a framework in which a statistical model is represented as 
 - **Graphical model framework for exploiting conditional independence to make multidimensional IRT estimation tractable**: The article presents a framework in which a statistical model is represented as a directed acyclic graph, moralized, triangulated, and converted into a junction tree whose cliques define conditionally independent subsets of latent variables. The author states that "the computational complexity of a multidimensional model is inversely related to the number of conditional independence relations one is willing to assume." The framework provides algorithms to partition the joint latent space so that brute force integration can be replaced by local computations on cliques, applied to a family of multidimensional IRT growth models. (Rijmen (2010))
 
 ### Claims
-- [Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions](../claims/junction-tree-em-linear-complexity-occasions.md) [+W]
 
 ## Related Research Methods
 -
@@ -61,7 +60,6 @@ The article presents a framework in which a statistical model is represented as 
 
 ### Claims
 
-- [Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions](../claims/junction-tree-em-linear-complexity-occasions.md) [+W]
 
 ## Related Theories
 

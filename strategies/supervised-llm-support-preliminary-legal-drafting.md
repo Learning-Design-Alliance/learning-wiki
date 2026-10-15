@@ -17,7 +17,7 @@ sources:
 # Use current LLMs in the notary domain only as supervised support tools in preliminary drafting or educational contexts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends deploying out-of-the-box LLMs in notarial work only in supporting roles, given their failure to produce valid deeds independently. "These suggests that current LLMs may be useful in the notary domain as support tools in preliminary drafting stages or in educational contexts, provided that their outputs remain subject to strict human supervision." The recommendation rests on the observed residual strengths: most models identified some relevant legal institutes, recognised basic parties' interests, and maintained acceptable linguistic clarity.
@@ -40,7 +40,6 @@ The article recommends deploying out-of-the-box LLMs in notarial work only in su
 
 ## Claims
 
-- [All four tested LLMs fell significantly below the human benchmark on both notary-exam assignments, failing mandatory formal requirements and substantive legal quality.](../claims/all-llms-fail-notary-exam-goal-directed-planning.md) [+W]
 
 ## Related Strategies
 

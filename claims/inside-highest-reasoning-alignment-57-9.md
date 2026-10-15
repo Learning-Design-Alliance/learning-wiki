@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rose-niousha-2026
-    resource: "https://arxiv.org/abs/2608.10492"
-    title: "Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492"
+    resource: "https://doi.org/10.48550/arxiv.2608.10492"
+    title: "Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492 [doi:10.48550/arxiv.2608.10492](https://doi.org/10.48550/arxiv.2608.10492)"
     author: Rose Niousha, Minwoo Kang, Narges Norouzi
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # INSIDE fine-tuning achieves the highest alignment between generated internal dialogue and ground-truth student code edits, up to 57.9%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On test_NP, Qwen3-8B-INSIDE reaches 57.9% alignment versus 56.0% for the strongest BloomCoT prompting model; on test_OP, Qwen2.5-7B-INSIDE reaches 51.8% versus 49.6% for the best prompting baseline. [→ Rose Niousha 2026](#rose-niousha-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Rose Niousha 2026
 
-Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492
+Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492 [doi:10.48550/arxiv.2608.10492](https://doi.org/10.48550/arxiv.2608.10492)
 
 `q2 · i?` · `design · r2`
 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Differences in suspension rates are a result of policies and adult biases, not differences in behavior; Black and Native girls are not more likely to misbehave but are more likely to be disciplined. [→ “...and they cared”: How to create better 2020](#and-they-cared-how-to-create-better-2020)

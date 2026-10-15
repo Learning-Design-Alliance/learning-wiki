@@ -43,9 +43,9 @@ Study-level frequency analysis across the 54 included studies identifies infrast
 ## Related Claims
 - [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](remote-covid-technology-access-problems-widespread.md) — related
 - [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](adult-ed-out-of-class-use-mobile-gap.md) — related
-- [In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary](technology-access-most-significant-barrier-informal-virtual.md) — related
-- [Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction](covid-stem-connectivity-problems-prevalence.md) — related
-- [Teachers' technology use increased during COVID-19 remote learning, but infrastructure and device barriers hindered effective integration](pr-teacher-tech-use-increased-infrastructure-barriers.md) — related
+- In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary — related
+- Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction — related
+- Teachers' technology use increased during COVID-19 remote learning, but infrastructure and device barriers hindered effective integration — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Unreliable AI-generated output is the most frequently reported technical limitation of AI-supported undergraduate EFL instruction, appearing in 22 of 54 studies (41%)](unreliable-ai-output-most-frequent-technical-limitation-efl.md) — related
 - [Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education](infrastructure-access-main-barrier-digitally-supported-teacher-education.md) — related

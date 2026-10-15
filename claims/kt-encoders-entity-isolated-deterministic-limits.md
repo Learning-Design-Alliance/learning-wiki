@@ -47,4 +47,4 @@ The authors' interpretive framing of the field: they state that despite question
 - [Adaptive G-UKT reportedly establishes competitive state-of-the-art knowledge tracing performance, particularly under sparse observation regimes](adaptive-g-ukt-competitive-performance-sparse-regimes.md) — related
 - [Collaborative representations from meta-behavioral sequences are far less sparse than KC-based representations, which reach up to 99.3% sparsity](meta-behavioral-representations-reduce-sparsity.md) — related
 - [Current AI tutoring systems misinterpret complex STEM engineering diagrams, omitting edges, misclassifying component connections, and flattening hierarchical topologies](ai-systems-misinterpret-stem-diagrams.md) — related
-- [DKT influence graphs recover latent concept structure from unlabeled interaction data](dkt-influence-graphs-exercise-structure.md) — related
+- DKT influence graphs recover latent concept structure from unlabeled interaction data — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: gennie-mansi-2026
-    resource: "https://arxiv.org/abs/2606.30590"
-    title: "Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590"
+    resource: "https://doi.org/10.48550/arxiv.2606.30590"
+    title: "Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590 [doi:10.48550/arxiv.2606.30590](https://doi.org/10.48550/arxiv.2606.30590)"
     author: Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Reading AI-generated scaffolds prompted teachers to reflect on and revise their classroom practices, and shifted initial AI hesitancy toward wanting students to use the tool
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 1 qualitative `r2`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Several teachers reported the AI-written scaffolds helped them think of new classroom content, activities, and updates to assessments. [→ Gennie Mansi 2026](#gennie-mansi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Gennie Mansi 2026
 
-Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590
+Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590 [doi:10.48550/arxiv.2606.30590](https://doi.org/10.48550/arxiv.2606.30590)
 
 `q2 · i?` · `qualitative · r2`
 

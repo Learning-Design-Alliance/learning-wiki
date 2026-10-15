@@ -17,7 +17,7 @@ sources:
 # Embedded high-dosage tutoring pattern: small ratios, in-schedule sessions, and classroom-aligned sequencing
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The Saga approach instantiates a high-dosage tutoring design in which tutoring is "embedded in students' regular school schedules", occurs at least three times weekly for 90 minutes, uses small tutor-to-student ratios (1:2 to 1:4 traditional; up to 1:8 blended with ALEKS), and trails classroom instruction by 2-3 days to reinforce learning and address gaps. Program strategies are adjusted using assessment data, observations, survey feedback, and progress-monitoring tools.
@@ -39,7 +39,6 @@ The Saga approach instantiates a high-dosage tutoring design in which tutoring i
 - Mathematics achievement, course grades, and course passing
 
 ### Claims
-- [Saga Average Effect Size 014](../claims/saga-average-effect-size-014.md) [+M]
 
 ## Related Designs
 

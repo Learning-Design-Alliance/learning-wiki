@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: nathan-e-sanders-2013
-    resource: "https://arxiv.org/abs/1308.1908"
-    title: "Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908"
+    resource: "https://doi.org/10.48550/arxiv.1308.1908"
+    title: "Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908 [doi:10.48550/arxiv.1308.1908](https://doi.org/10.48550/arxiv.1308.1908)"
     author: Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Nathan E. Sanders 2013
 
-Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908
+Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908 [doi:10.48550/arxiv.1308.1908](https://doi.org/10.48550/arxiv.1308.1908)
 
 `q1 · i?` · `design · r2`
 

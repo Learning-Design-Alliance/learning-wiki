@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: looney-2026
-    resource: "https://arxiv.org/abs/2608.20733"
-    title: "Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733"
+    resource: "https://doi.org/10.48550/arxiv.2608.20733"
+    title: "Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733 [doi:10.48550/arxiv.2608.20733](https://doi.org/10.48550/arxiv.2608.20733)"
     author: "Looney, C. W., & Duston, C. L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Looney 2026
 
-Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733
+Looney, C. W., & Duston, C. L. (2026). Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs. https://arxiv.org/abs/2608.20733 [doi:10.48550/arxiv.2608.20733](https://doi.org/10.48550/arxiv.2608.20733)
 
 `q2 · i?` · `design · r3`
 

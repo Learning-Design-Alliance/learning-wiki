@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chenguang-pan-2026
-    resource: "https://arxiv.org/abs/2608.21165"
-    title: "Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165"
+    resource: "https://doi.org/10.48550/arxiv.2608.21165"
+    title: "Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165 [doi:10.48550/arxiv.2608.21165](https://doi.org/10.48550/arxiv.2608.21165)"
     author: Chenguang Pan, Airui Meng, and Youmi Suk
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Chenguang Pan 2026
 
-Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165
+Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165 [doi:10.48550/arxiv.2608.21165](https://doi.org/10.48550/arxiv.2608.21165)
 
 `q2 · i3` · `design · r2`
 

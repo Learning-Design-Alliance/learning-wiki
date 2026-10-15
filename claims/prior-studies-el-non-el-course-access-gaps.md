@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: angela-johnson-2019
-    resource: "https://www.nwea.org/research/publication/a-matter-of-time-variations-in-high-school-course-taking-by-years-as-el-subgroup/"
-    title: "Angela Johnson. (2019). A matter of time: variations in high school course-taking by years-as-EL subgroup. Educational Evaluation and Policy Analysis 41 (4), 461-482. https://www.nwea.org/research/publication/a-matter-of-time-variations-in-high-school-course-taking-by-years-as-el-subgroup/"
+    resource: "https://doi.org/10.3102/0162373719867087"
+    title: "Angela Johnson. (2019). A matter of time: variations in high school course-taking by years-as-EL subgroup. Educational Evaluation and Policy Analysis 41 (4), 461-482. https://www.nwea.org/research/publication/a-matter-of-time-variations-in-high-school-course-taking-by-years-as-el-subgroup/ [doi:10.3102/0162373719867087](https://doi.org/10.3102/0162373719867087)"
     author: Angela Johnson
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Angela Johnson 2019
 
-Angela Johnson. (2019). A matter of time: variations in high school course-taking by years-as-EL subgroup. Educational Evaluation and Policy Analysis 41 (4), 461-482. https://www.nwea.org/research/publication/a-matter-of-time-variations-in-high-school-course-taking-by-years-as-el-subgroup/
+Angela Johnson. (2019). A matter of time: variations in high school course-taking by years-as-EL subgroup. Educational Evaluation and Policy Analysis 41 (4), 461-482. https://www.nwea.org/research/publication/a-matter-of-time-variations-in-high-school-course-taking-by-years-as-el-subgroup/ [doi:10.3102/0162373719867087](https://doi.org/10.3102/0162373719867087)
 
 `q2 · i?` · `associational · r2`
 

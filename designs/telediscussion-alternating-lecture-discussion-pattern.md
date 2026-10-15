@@ -17,7 +17,7 @@ sources:
 # Telediscussion course pattern alternating telelectures with discussion sessions
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The seminar's structure paired each expert telelecture with a discussion session about it. Of twenty class sessions, "Eight of these class sessions were devoted to telelectures, eight were discussionperiods about the telelecture, one was an introductorylecture," plus a site visit and examinations. Pre-lecture literature sent by each telelecturer gave the eleven students time to peruse it before the lecture, and Tuesday sessions discussed that literature before Thursday telelectures.
@@ -38,9 +38,6 @@ The seminar's structure paired each expert telelecture with a discussion session
 
 ### Claims
 
-- [Telelecture Seminar Enjoyed By Graduate Students](../claims/telelecture-seminar-enjoyed-by-graduate-students.md) [+M]
-- [Students found one-hour telelectures too short and wanted more time for listening and questioning](../claims/one-hour-telelectures-too-short.md) [~W]
-- [Students valued the up-to-dateness of telelectures and the chance to talk back to outstanding field experts](../claims/telelecture-up-to-dateness-and-talk-back-valued.md) [+W]
 
 ## Related Patterns
 - 

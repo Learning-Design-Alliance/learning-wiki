@@ -17,7 +17,7 @@ sources:
 # Three-principle framework for ethical GenAI integration in writing assessment: transparency, human mediation, reflective practice
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper proposes "a three-principle framework (transparency, human mediation, reflective practice) for ethical GenAI integration in writing assessment." Transparency functions not merely as disclosure but as a pedagogical strategy that surfaces learners' assumptions, concerns, and values regarding GenAI. Human mediation reflects participants' positioning of the instructor as the appropriate authority over grading decisions and a safeguard against AI error. Reflective practice reflects the post-assessment reflective design in which students examined the evaluation itself.
@@ -37,8 +37,6 @@ The paper proposes "a three-principle framework (transparency, human mediation, 
 - critical engagement with AI-mediated feedback and assessment
 
 ### Claims
-- [Conditional Trust Feedback Utility Versus Evaluative Authority](../claims/conditional-trust-feedback-utility-versus-evaluative-authority.md) [+M]
-- [Transparency Pedagogical Intervention Assessment Reflection](../claims/transparency-pedagogical-intervention-assessment-reflection.md) [+M]
 
 ## Related Designs
 

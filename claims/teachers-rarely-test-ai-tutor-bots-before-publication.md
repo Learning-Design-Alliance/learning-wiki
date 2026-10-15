@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: miina-koyama-2026
-    resource: "https://arxiv.org/abs/2605.16605"
-    title: "Miina Koyama, Ruiwei Xiao, and John Stamper. (2026). PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions. https://arxiv.org/abs/2605.16605"
+    resource: "https://doi.org/10.48550/arxiv.2605.16605"
+    title: "Miina Koyama, Ruiwei Xiao, and John Stamper. (2026). PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions. https://arxiv.org/abs/2605.16605 [doi:10.48550/arxiv.2605.16605](https://doi.org/10.48550/arxiv.2605.16605)"
     author: Miina Koyama, Ruiwei Xiao, and John Stamper
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Miina Koyama 2026
 
-Miina Koyama, Ruiwei Xiao, and John Stamper. (2026). PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions. https://arxiv.org/abs/2605.16605
+Miina Koyama, Ruiwei Xiao, and John Stamper. (2026). PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions. https://arxiv.org/abs/2605.16605 [doi:10.48550/arxiv.2605.16605](https://doi.org/10.48550/arxiv.2605.16605)
 
 `q2 · i?` · `associational · r1`
 

@@ -64,4 +64,4 @@ Interview evidence from staff at six designated welcoming schools. Staff request
 ## Related Claims
 - [Staff in welcoming schools said the planning process for merging closed schools into welcoming schools was insufficient, leaving them unprepared](school-closing-planning-insufficient-staff-unprepared.md) — related
 - [School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year](closures-severed-connections-grief-us-them-dynamics.md) — possibly the same claim (merge candidate)
-- [Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options](chicago-closings-families-chose-welcoming-schools-priorities-and-barriers.md) — related
+- Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options — related

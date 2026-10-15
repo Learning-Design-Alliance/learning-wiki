@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: freyaa-chawla-2026
-    resource: "https://arxiv.org/abs/2605.05144"
-    title: "Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii. (2026). Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting. arXiv preprint. https://arxiv.org/abs/2605.05144"
+    resource: "https://doi.org/10.48550/arxiv.2605.05144"
+    title: "Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii. (2026). Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting. arXiv preprint. https://arxiv.org/abs/2605.05144 [doi:10.48550/arxiv.2605.05144](https://doi.org/10.48550/arxiv.2605.05144)"
     author: Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Freyaa Chawla 2026
 
-Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii. (2026). Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting. arXiv preprint. https://arxiv.org/abs/2605.05144
+Freyaa Chawla, Ahan Chawla, Rishi Singh, Joe Germino, Grigorii Khvatskii. (2026). Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting. arXiv preprint. https://arxiv.org/abs/2605.05144 [doi:10.48550/arxiv.2605.05144](https://doi.org/10.48550/arxiv.2605.05144)
 
 `q1 · i?` · `qualitative · r1`
 

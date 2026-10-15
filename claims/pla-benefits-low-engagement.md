@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: zohal-shah-2024
-    resource: "https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8"
-    title: "Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8"
+    resource: "https://doi.org/10.51388/20.500.12265/224"
+    title: "Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8 [doi:10.51388/20.500.12265/224](https://doi.org/10.51388/20.500.12265/224)"
     author: Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Zohal Shah 2024
 
-Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8
+Zohal Shah, Marilys Galindo, Chioma Aso-Hernandez, Christina Luke Luna, Keun-woo Lee, Josh Weisgrau, Teresa Solorzano, Britney Jacobs. (2024). The Promise of Micro-credentials and Learning and Employment Record Technologies for Youth and K-12 Schools. Digital Promise. https://digitalpromise.dspacedirect.org/items/2a854754-2233-4d09-9112-5b2f668321e8 [doi:10.51388/20.500.12265/224](https://doi.org/10.51388/20.500.12265/224)
 
 `q2 · i?` · `design · r2`
 
@@ -44,5 +44,5 @@ Landscape review reporting on prior learning assessment, citing Brookings Instit
 
 
 ## Related Claims
-- [Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay](faculty-contact-part-time-and-interaction-retention.md) — related
+- Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay — related
 - [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — related

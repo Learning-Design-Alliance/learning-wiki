@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Teachers reflected that the curriculum needed to expand to include teaching about the technology before expecting students to automatically gain mathematics understanding from working with it. [→ Niess 2018](#niess-2018)
@@ -43,6 +44,6 @@ Teacher reflection from Janis's fraction unit case in the curriculum-and-materia
 
 
 ## Related Claims
-- [Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways](overarching-conceptions-expanded-multiple-technologies.md) — related
+- Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways — related
 - [The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within](lab-technology-gains-depend-on-active-engagement-pedagogy.md) — related
-- [Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking](technology-group-work-engagement-student-thinking.md) — related
+- Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking — related

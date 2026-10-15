@@ -45,9 +45,9 @@ Theoretical assertion in the discussion, attributed by the article to Coeckelber
 ## Related Claims
 - [Existing institutional AI literacy frameworks converge on a consumer model with no substantive treatment of training data politics or governance participation](existing-ai-literacy-frameworks-consumer-model.md) — related
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
-- [Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries](literacy-learning-conceptions-culturally-shaped.md) — related
+- Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries — related
 - [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](agent-consumer-distinction-epistemic-agency.md) — related
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
 - [Deepseek's justification scores vary by student socio-economic profile, with Top Tier students averaging 9.60 versus 6.90 for Low Tier students](elite-hermeneutics-justification-gap.md) — a narrower finding that bears on this claim
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — a narrower finding that bears on this claim
-- [Cultural mediation has four implications, including that artifacts fundamentally transform mental functioning and the mind is distributed in artifacts](cultural-mediation-four-implications-artifacts-transform-mind.md) — a broader claim this one bears on
+- Cultural mediation has four implications, including that artifacts fundamentally transform mental functioning and the mind is distributed in artifacts — a broader claim this one bears on

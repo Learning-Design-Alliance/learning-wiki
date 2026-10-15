@@ -47,8 +47,8 @@ Differential item and test functioning analyses across seven teacher characteris
 - [Content experts and practitioner reviews supported the content and face validity of the CT–PCK Survey](ct-pck-content-face-validity.md) — related
 - [Teachers who were White, female, or had five or more years of experience scored about 14 percentage points higher; emergency-certified teachers scored 14 points lower](ct-pck-group-score-differences.md) — related
 - [Some items positioned close together across booklets were also flagged as DIF, possibly due to Type I error from sampling](close-positioned-items-also-flagged-dif-possible-type-i-error.md) — related
-- [ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates](icc-identifies-seven-largest-dif-items.md) — related
-- [Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands](ldf-identifies-seven-absolute-dif-items.md) — related
+- ICC method flags seven items with the largest DIF indices, two of which show slight nonuniform DIF that the unsigned-area measure understates — related
+- Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands — related
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance](ct-pck-score-range-distribution.md) — related
 - [Cultivate survey items function without systematic bias across student groups by race/ethnicity, gender, economic disadvantage, learning differences, or EL status](cultivate-items-no-bias-across-student-groups.md) — related

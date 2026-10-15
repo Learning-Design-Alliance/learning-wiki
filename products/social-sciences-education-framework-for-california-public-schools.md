@@ -18,7 +18,7 @@ sources:
 # Social Sciences Education Framework for California Public Schools
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A California state education framework that organizes K–12 social sciences curricula around disciplinary understanding, skills, diversity, values, and civic participation.
@@ -28,9 +28,7 @@ A California state education framework that organizes K–12 social sciences cur
 - **Five-goal framework for K-12 social sciences education directed toward civic competence**: The California framework organizes all K-12 social sciences programs around five goals: disciplinary understanding, skills, diversity, values, and social participation. It states that programs 'will be directed toward the achievement of civic competence' and that the central purpose is to 'develop responsible citizens who will preserve and continue to advance progress toward a just society.' Each goal is elaborated in a dedicated section with discussion and illustrative objectives. (Social Sciences Education Framework for California Public Schools et al. (1975))
 
 ### Claims
-- [The framework directs social sciences programs toward five stated student outcomes including understandings, skills, respect for diversity, values clarification, and participation](../claims/five-social-science-program-goals.md) [+W]
 - [The framework's first Goal I program goal is helping students understand interdisciplinary concepts through studies of human experience, with the remaining goals implicit in the illustrative objectives](../claims/goal-i-program-goals-explication.md) [+W]
-- [Social sciences instruction is drawn from seven disciplines: anthropology, economics, geography, history, political science, psychology, and sociology](../claims/seven-disciplines-social-sciences-instruction.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,9 +65,7 @@ The California framework organizes all K-12 social sciences programs around five
 
 ### Claims
 
-- [The framework directs social sciences programs toward five stated student outcomes including understandings, skills, respect for diversity, values clarification, and participation](../claims/five-social-science-program-goals.md) [+W]
 - [The framework's first Goal I program goal is helping students understand interdisciplinary concepts through studies of human experience, with the remaining goals implicit in the illustrative objectives](../claims/goal-i-program-goals-explication.md) [+W]
-- [Social sciences instruction is drawn from seven disciplines: anthropology, economics, geography, history, political science, psychology, and sociology](../claims/seven-disciplines-social-sciences-instruction.md) [+W]
 
 ## Related Theories
 

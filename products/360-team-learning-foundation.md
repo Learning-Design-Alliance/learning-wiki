@@ -18,7 +18,7 @@ sources:
 # 360 Team Learning Foundation
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A six-component curricular platform created by Breitkreuz et al. to facilitate shared dialogue and socially responsible collaboration among diverse student groups in interdisciplinary international service-learning courses.
@@ -27,7 +27,6 @@ A six-component curricular platform created by Breitkreuz et al. to facilitate s
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Six iterations of the 360 Global Ed Model since 2013 are reported by the authors to demonstrate effectiveness for educating socially responsible global citizens](../claims/six-iterations-360-model-effectiveness.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,7 +62,6 @@ The 360 Team Learning Foundation is a curricular platform the authors created to
 
 ### Claims
 
-- [Six iterations of the 360 Global Ed Model since 2013 are reported by the authors to demonstrate effectiveness for educating socially responsible global citizens](../claims/six-iterations-360-model-effectiveness.md) [+W]
 
 ## Related Theories
 

@@ -16,7 +16,7 @@ sources:
 # Goal-directed coaching process staged as joint planning, action/practice, observation, individual reflection, feedback, and reflective discussion in a loop
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article adapts Hanft, Rush, and Shelden's (2004) coaching stages framework and adds a stage to produce its own process model. "Successful coaching requires the progression through specific stages of the process; as such, the stages of coaching are also considered active ingredients within our framework." The stages are joint planning, action/practice, observation, individual reflection, feedback, and a newly added reflective discussion stage emphasizing the partnership's bidirectional nature, looping back to joint planning until goals are internalized. Coaches were provided a coaching protocol that gave structure as they went through the coaching.
@@ -38,7 +38,6 @@ The article adapts Hanft, Rush, and Shelden's (2004) coaching stages framework a
 
 ### Claims
 
-- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](../claims/coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) [+M]
 - [Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching](../claims/four-relational-components-coaching-partnership.md) [+W]
 - [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](../claims/teacher-buy-in-mediates-coaching-benefit.md) [~W]
 

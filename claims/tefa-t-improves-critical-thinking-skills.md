@@ -45,9 +45,9 @@ Per-indicator comparison plotted in Figure 5 from the quasi-experimental study (
 ## Related Claims
 - [The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses](tefa-t-higher-achievement-than-teacher-based.md) — related
 - [The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction](tefa-t-improves-metacognitive-skills.md) — related
-- [Emancipating problem solvers tend toward skeptical, inductive, critical thinking while technical solvers tend toward pre-determined, deductive methods](cone-geometry-maps-thinking-dispositions.md) — related
+- Emancipating problem solvers tend toward skeptical, inductive, critical thinking while technical solvers tend toward pre-determined, deductive methods — related
 - [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](tefa-t-very-practical-rating.md) — related
 - [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related
-- [Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic](teachers-adapt-tefa-to-own-terms.md) — related
+- Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic — related
 - [After one year of TEFA professional development, videotaped lessons showed increased discussion time, more student-student interactions, less IRE interaction, and more varied discussion formats](tefa-pd-year-one-observable-practice-changes.md) — related
 - [Significantly more TPP teachers encouraged students' higher-order thinking skills than district-supported comparison teachers](tpp-teachers-encouraged-higher-order-thinking.md) — related

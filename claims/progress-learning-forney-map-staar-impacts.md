@@ -63,9 +63,9 @@ The same Forney ISD quasi-experimental study also reported statistically signifi
 
 ## Related Claims
 - [Progress Learning showed a statistically significant positive impact on NWEA MAP reading scores for Grades 3-6 in Forney ISD, Texas](progress-learning-forney-nwea-map-reading.md) — related
-- [Progress Learning showed a directionally positive but not statistically significant impact on STAAR ELA scores in Forney ISD](progress-learning-staar-ela-null.md) — related
-- [Progress Learning shows a directionally positive effect on STAAR science scores](progress-learning-staar-science-positive.md) — related
+- Progress Learning showed a directionally positive but not statistically significant impact on STAAR ELA scores in Forney ISD — related
+- Progress Learning shows a directionally positive effect on STAAR science scores — related
 - [Progress Learning shows a statistically significant positive effect on Grade 5 NWEA MAP science scores](progress-learning-map-science-grade5-effect.md) — related
-- [Progress Learning qualifies for a Promising evidence rating based on one quasi-experimental study](progress-learning-promising-rating-one-study.md) — a broader claim this one bears on
-- [Across two retrospective quasi-experimental studies involving 8,806 students, Progress Learning averaged an effect size of +0.08, earning a Promising evidence rating](progress-learning-promising-rating-average-effect.md) — related
-- [TalkingPoints use is associated with significant math score improvements in grades 3-8](talkingpoints-significant-math-gains-grades-3-8.md) — related
+- Progress Learning qualifies for a Promising evidence rating based on one quasi-experimental study — a broader claim this one bears on
+- Across two retrospective quasi-experimental studies involving 8,806 students, Progress Learning averaged an effect size of +0.08, earning a Promising evidence rating — related
+- TalkingPoints use is associated with significant math score improvements in grades 3-8 — related

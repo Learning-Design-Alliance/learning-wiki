@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: paul-a-jewsbury-and-steven-w-nydick-and-manqian-liao-and-siyuan-marco-chen-2026
-    resource: "https://arxiv.org/abs/2609.13590"
-    title: "Paul A. Jewsbury and Steven W. Nydick and Manqian Liao and Siyuan (Marco) Chen. (2026). Bayesian Consensus Calibration of Continuously Evolving IRT Item Banks. https://arxiv.org/abs/2609.13590"
+    resource: "https://doi.org/10.48550/arxiv.2609.13590"
+    title: "Paul A. Jewsbury and Steven W. Nydick and Manqian Liao and Siyuan (Marco) Chen. (2026). Bayesian Consensus Calibration of Continuously Evolving IRT Item Banks. https://arxiv.org/abs/2609.13590 [doi:10.48550/arxiv.2609.13590](https://doi.org/10.48550/arxiv.2609.13590)"
     author: Paul A. Jewsbury and Steven W. Nydick and Manqian Liao and Siyuan (Marco) Chen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Paul A. Jewsbury and Steven W. Nydick and Manqian Liao and Siyuan (Marco) Chen 2026
 
-Paul A. Jewsbury and Steven W. Nydick and Manqian Liao and Siyuan (Marco) Chen. (2026). Bayesian Consensus Calibration of Continuously Evolving IRT Item Banks. https://arxiv.org/abs/2609.13590
+Paul A. Jewsbury and Steven W. Nydick and Manqian Liao and Siyuan (Marco) Chen. (2026). Bayesian Consensus Calibration of Continuously Evolving IRT Item Banks. https://arxiv.org/abs/2609.13590 [doi:10.48550/arxiv.2609.13590](https://doi.org/10.48550/arxiv.2609.13590)
 
 `q2 · i?` · `design · r2`
 

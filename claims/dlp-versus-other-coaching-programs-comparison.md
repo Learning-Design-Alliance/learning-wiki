@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: bakhshaei-2019
-    resource: "https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c"
-    title: "Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c"
+    resource: "https://doi.org/10.51388/20.500.12265/82"
+    title: "Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c [doi:10.51388/20.500.12265/82](https://doi.org/10.51388/20.500.12265/82)"
     author: "Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` 61 percent of DLP teachers said a coach modeled an activity in their classroom at least a few times a year, compared with 42 percent of participants in other coaching programs. [→ Bakhshaei 2019](#bakhshaei-2019)
@@ -40,7 +40,7 @@ sources:
 
 ### Bakhshaei 2019
 
-Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c
+Bakhshaei, M., Hardy, A., Ravitz, J., & Seylar, J. (2019). Scaling Up Classroom Coaching for Impactful Technology Use: Results from Year 2 of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/79337f05-0795-4bac-b1d7-f4758c23285c [doi:10.51388/20.500.12265/82](https://doi.org/10.51388/20.500.12265/82)
 
 `q2 · i?` · `associational · r1`
 
@@ -63,4 +63,4 @@ Same comparison survey; the report suggests the DLP "may want to provide more op
 
 ## Related Claims
 - [Meta-analytic evidence finds large positive effects of coaching on teachers' instructional practice and a meaningful positive impact on student achievement, with mixed results on model features](coaching-meta-analysis-positive-effects-instruction-achievement.md) — related
-- [Teachers who find coaching valuable spend more time and meet more frequently with their coaches](coaching-time-frequency-linked-to-perceived-value.md) — related
+- Teachers who find coaching valuable spend more time and meet more frequently with their coaches — related

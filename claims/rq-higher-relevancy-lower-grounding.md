@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dana-rezazadegan-2026
-    resource: "https://arxiv.org/abs/2606.27619"
-    title: "Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619"
+    resource: "https://doi.org/10.48550/arxiv.2606.27619"
+    title: "Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619 [doi:10.48550/arxiv.2606.27619](https://doi.org/10.48550/arxiv.2606.27619)"
     author: Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Research-question responses achieve stronger Answer Relevancy than follow-up responses (mean 0.87 vs 0.72), but mean Faithfulness is 0.52, Context Relevancy 0.40, and Response Groundedness 0.43 across all 30 queries. [→ Dana Rezazadegan 2026](#dana-rezazadegan-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Dana Rezazadegan 2026
 
-Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619
+Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen, Abhik Banerjee, James Marshall, Anthony McCosker, Yong-Bin Kang. (2026). DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners' Insights from Online Forums. https://arxiv.org/abs/2606.27619 [doi:10.48550/arxiv.2606.27619](https://doi.org/10.48550/arxiv.2606.27619)
 
 `q2 · i?` · `design · r2`
 

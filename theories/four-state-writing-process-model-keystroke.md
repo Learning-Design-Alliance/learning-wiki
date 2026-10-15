@@ -16,7 +16,7 @@ sources:
 # Four-state keystroke-log operationalization of cognitive writing processes (planning, text production, local editing, jump editing)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article operationalizes cognitive writing theory into four observable states classified automatically from keystroke logs: “A Long Pause state (P) generally associated with planning”; a Text Production state (T) combining translation and transcription as fluent bursts; a Local Editing state (E) of small fixes or typo corrections; and a Jump Editing state (J) of moves to a new text location implying global reviewing and revision. A semi-Markov model with duration distributions is fit to state sequences so states and their durations can be compared across assessment designs. The J state is presented as a theoretically significant addition representing more sophisticated self-monitoring.
@@ -38,9 +38,6 @@ The article operationalizes cognitive writing theory into four observable states
 
 ### Claims
 
-- [Four State Semimarkov Beats Three State](../claims/four-state-semimarkov-beats-three-state.md) [+M]
-- [Semimarkov Preferred Over Ctmc](../claims/semimarkov-preferred-over-ctmc.md) [+M]
-- [In the mixed-scenario comparison, the single-scenario essay-last group spent longer time in local-editing and jump-editing states than the mixed-scenario essay-last group](../claims/single-vs-mixed-scenario-editing-durations.md) [+W]
 
 ## Related Theories
 - 

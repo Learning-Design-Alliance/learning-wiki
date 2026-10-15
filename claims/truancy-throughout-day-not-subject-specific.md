@@ -66,7 +66,7 @@ Same period-by-period and subject-by-subject analysis of class absences. The bri
 - [Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester](schools-vary-extreme-truancy-worst-ten.md) — related
 - [Ninth grade attendance problems begin early in the year and generally worsen, with 89 percent of first-semester extreme truants ending the year at similar or worse levels](truancy-begins-early-and-worsens.md) — related
 - [CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting](two-truancy-problems-full-day-and-class-cutting.md) — related
-- [Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often](strong-sel-value-added-schools-on-track-absenteeism.md) — related
-- [Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason](chronic-absence-hidden-by-average-daily-attendance.md) — related
-- [Punitive responses to absence do not improve attendance and can worsen it](punitive-responses-ineffective-attendance.md) — related
+- Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often — related
+- Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason — related
+- Punitive responses to absence do not improve attendance and can worsen it — related
 - [The school refusal-truancy dichotomy shows extensive overlap and heterogeneity](school-refusal-truancy-dichotomy-overlap.md) — a broader claim this one bears on

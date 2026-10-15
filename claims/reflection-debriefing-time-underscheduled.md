@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: j-vykopal-2026
-    resource: "https://arxiv.org/abs/2607.28179"
-    title: "J. Vykopal, P. Čeleda, M. Horák, V. Švábenský. (2026). Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned. In Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.28179"
+    resource: "https://doi.org/10.48550/arxiv.2607.28179"
+    title: "J. Vykopal, P. Čeleda, M. Horák, V. Švábenský. (2026). Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned. In Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.28179 [doi:10.48550/arxiv.2607.28179](https://doi.org/10.48550/arxiv.2607.28179)"
     author: J. Vykopal, P. Čeleda, M. Horák, V. Švábenský
     q: 1
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### J. Vykopal 2026
 
-J. Vykopal, P. Čeleda, M. Horák, V. Švábenský. (2026). Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned. In Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.28179
+J. Vykopal, P. Čeleda, M. Horák, V. Švábenský. (2026). Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned. In Proceedings of the 56th IEEE Frontiers in Education Conference (FIE '26). https://arxiv.org/abs/2607.28179 [doi:10.48550/arxiv.2607.28179](https://doi.org/10.48550/arxiv.2607.28179)
 
 `q1 · i?` · `design · r2`
 

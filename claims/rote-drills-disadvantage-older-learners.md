@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Methods relying on auditory discrimination, short-term memory, and speed put older learners at a disadvantage, because the adult learns best by integrating new material into existing cognitive structures rather than by rote. [→ Schleppegrell 1987](#schleppegrell-1987)
@@ -45,6 +46,6 @@ In its classroom practices section, the digest states that oral drills and memor
 ## Related Claims
 - [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](older-beginners-excluded-from-standard-adl-esl.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
-- [A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains](oral-language-emphasis-program-led-cognitive-gains.md) — related
+- A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains — related
 - [No evidence found that particular student groups are disadvantaged in oral versus written assessments](no-group-disadvantage-oral-assessments.md) — related
 - [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related

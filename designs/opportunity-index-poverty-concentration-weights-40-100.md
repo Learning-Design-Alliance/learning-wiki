@@ -17,7 +17,7 @@ sources:
 # Weight school funding toward districts with the highest concentrations of poverty using an Opportunity Index with weights of 40%-100%
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief recommends Michigan replace its flat 11.5% At-Risk weight with a Massachusetts-style Opportunity Index in which "districts with the most students living in poverty receive the highest additional funding." Massachusetts's 2019 Student Opportunity Act used funding weights of 40% to 100% for students experiencing poverty. The brief argues targeted funding maximizes learning gains relative to across-the-board increases.
@@ -38,8 +38,6 @@ The brief recommends Michigan replace its flat 11.5% At-Risk weight with a Massa
 - equitable access to educational resources needed for academic success
 
 ### Claims
-- [Michigan Underfunds Underserved Students 5 1 Billion](../claims/michigan-underfunds-underserved-students-5-1-billion.md) [+M]
-- [Concentrated Poverty Tipping Point Achievement Declines](../claims/concentrated-poverty-tipping-point-achievement-declines.md) [+M]
 
 ## Related Designs
 - 

@@ -17,7 +17,7 @@ sources:
 # Center student, family, and community voice in policy and practice decisions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief holds that strong partnerships between educators, students, families, and communities are essential for social, emotional, and academic development. It explains that "When educators engage the communities they serve, they gain a deeper understanding of their students, including their strengths, identities, and needs," which fortifies relationships and increases academic success. It further stresses centering the voices of students of color, their families, and marginalized communities in decisions. Washington's practices include engagement in teacher evaluation rubrics, multilingual family toolkits, a Family Engagement Framework Workgroup, and a student representative on the state board of education.
@@ -38,7 +38,6 @@ The brief holds that strong partnerships between educators, students, families, 
 
 ## Claims
 
-- [Students and families of color define success as encompassing social-emotional well-being and competence, not just academic or career outcomes](../claims/sead-success-includes-sel-wellbeing.md) [+W]
 
 ## Related Strategies
 

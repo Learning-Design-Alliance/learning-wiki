@@ -64,7 +64,7 @@ The report describes early research on the two-generation approach, quoting a 20
 |---|---|---|---|
 | DeSchryver 2015 | q2 · theoretical · r2 | i? | this claim |
 | [supports-used-1](https://doi.org/10.51388/20.500.12265/185) | q2 · qualitative · r? | i? | [People and connections were the most-used learning transition supports among HSE participa](people-connections-top-transition-support.md) (supports); [HSE learners and workers most wanted more information, skills translation services, job tr](top-wanted-transition-supports.md) (supports) |
-| Bria Carter 2024 | q2 · qualitative · r3 | i? | [Participants report career transitions, certifications, networking gains, financial and so](tech-program-accomplishments-gains.md) (supports) |
+| [Bria Carter 2024](https://doi.org/10.51388/20.500.12265/219) | q2 · qualitative · r3 | i? | [Participants report career transitions, certifications, networking gains, financial and so](tech-program-accomplishments-gains.md) (supports) |
 | [Darder 2015](https://doi.org/10.7821/naer.2015.4.110) | q2 · design · r2 | i? | [The student-tutor relationship alone is judged insufficient: peer mixing and virtual commu](virtual-communities-counter-supervision-isolation.md) (supports) |
 <!-- synthesis:end -->
 
@@ -76,5 +76,5 @@ The report describes early research on the two-generation approach, quoting a 20
 - [Many practices in adult literacy programs violate principles of learning for adults, including short-timeframe funding, isolated individualized learning, ignored learner experience, and non-meaningful materials](adult-literacy-programs-violate-adult-learning-principles.md) — related
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — a broader claim this one bears on
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related
-- [Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose](group-membership-alone-does-not-produce-cooperation.md) — related
+- Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose — related
 - [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lixiang-yan-2026
-    resource: "https://arxiv.org/abs/2605.23426"
-    title: "Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic. (2026). Socially fluent AI decouples conversational signals from source identity in online interaction. https://arxiv.org/abs/2605.23426"
+    resource: "https://doi.org/10.48550/arxiv.2605.23426"
+    title: "Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic. (2026). Socially fluent AI decouples conversational signals from source identity in online interaction. https://arxiv.org/abs/2605.23426 [doi:10.48550/arxiv.2605.23426](https://doi.org/10.48550/arxiv.2605.23426)"
     author: Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` BERTopic analysis of 1,568 impression texts found a dominant generic humanness topic (59.6% of texts) and low mutual information between topic membership and identity judgment (MI = 0.089). [→ Lixiang Yan 2026](#lixiang-yan-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Lixiang Yan 2026
 
-Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic. (2026). Socially fluent AI decouples conversational signals from source identity in online interaction. https://arxiv.org/abs/2605.23426
+Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic. (2026). Socially fluent AI decouples conversational signals from source identity in online interaction. https://arxiv.org/abs/2605.23426 [doi:10.48550/arxiv.2605.23426](https://doi.org/10.48550/arxiv.2605.23426)
 
 `q3 · i?` · `causal · r2`
 

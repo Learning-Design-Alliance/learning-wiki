@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mohamed-abdalla-2026
-    resource: "https://arxiv.org/abs/2605.09680"
-    title: "Mohamed Abdalla, Sahar Abdalla, Alicia Cappello, Kyrie Dowling, Danaé Metaxa, David G. Widder, Catherine Stinson. (2026). Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States. https://arxiv.org/abs/2605.09680"
+    resource: "https://doi.org/10.48550/arxiv.2605.09680"
+    title: "Mohamed Abdalla, Sahar Abdalla, Alicia Cappello, Kyrie Dowling, Danaé Metaxa, David G. Widder, Catherine Stinson. (2026). Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States. https://arxiv.org/abs/2605.09680 [doi:10.48550/arxiv.2605.09680](https://doi.org/10.48550/arxiv.2605.09680)"
     author: Mohamed Abdalla, Sahar Abdalla, Alicia Cappello, Kyrie Dowling, Danaé Metaxa, David G. Widder, Catherine Stinson
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mohamed Abdalla 2026
 
-Mohamed Abdalla, Sahar Abdalla, Alicia Cappello, Kyrie Dowling, Danaé Metaxa, David G. Widder, Catherine Stinson. (2026). Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States. https://arxiv.org/abs/2605.09680
+Mohamed Abdalla, Sahar Abdalla, Alicia Cappello, Kyrie Dowling, Danaé Metaxa, David G. Widder, Catherine Stinson. (2026). Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States. https://arxiv.org/abs/2605.09680 [doi:10.48550/arxiv.2605.09680](https://doi.org/10.48550/arxiv.2605.09680)
 
 `q2 · i?` · `associational · r1`
 

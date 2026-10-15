@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: meyer-2026
-    resource: "https://edworkingpapers.com/ai22-564"
-    title: "Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564"
+    resource: "https://doi.org/10.3386/w35397"
+    title: "Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564 [doi:10.3386/w35397](https://doi.org/10.3386/w35397)"
     author: Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Meyer 2026
 
-Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564
+Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564 [doi:10.3386/w35397](https://doi.org/10.3386/w35397)
 
 `q3 · i?` · `causal · r3`
 
@@ -43,4 +43,4 @@ ITT analysis of term GPA (including and excluding the focal course) and next-ter
 
 
 ## Related Claims
-- [Chatbot outreach showed no statistically significant effect on credits enrolled, earned, accumulated, or on term and cumulative GPA](chatbot-null-gpa-and-credits.md) — related
+- Chatbot outreach showed no statistically significant effect on credits enrolled, earned, accumulated, or on term and cumulative GPA — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Only 11 of 39 teachers (28%) showed an impact concern in the final interview, up from 3 (8%) in the first; many teachers progressed and retreated through the stages rather than ending at impact, supporting a progression-and-retreat characterization. [→ Olsen 1990](#olsen-1990)
@@ -44,9 +45,9 @@ Concern-pattern analysis across the three interviews (Table 7), where only two t
 ## Related Claims
 
 - [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](stages-of-concern-developmental-trend.md) — the general claim this finding bears on, with the studies behind it
-- [Discipline concerns declined for all four teacher groups over the school year](discipline-concern-declines-all-groups.md) — a narrower finding that bears on this claim
-- [First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year](mentored-first-year-teachers-follow-fuller-progression.md) — a narrower finding that bears on this claim
+- Discipline concerns declined for all four teacher groups over the school year — a narrower finding that bears on this claim
+- First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year — a narrower finding that bears on this claim
 - [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — related
-- [Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly](reentry-without-mentors-greatest-fuller-progress.md) — related
+- Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly — related
 - [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related
 - [Progress in evidence-based solution development is not always linear; evidence determines phase movement](evidence-determines-nonlinear-phase-movement.md) — related

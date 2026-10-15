@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Results from 60 studies of intervention with high schoolers and young adults show strong and consistent improvement in cognitive regulation, and small but significant improvements in health, mental health, and delinquency. [→ Murray 2017](#murray-2017)
@@ -46,5 +47,5 @@ The brief summarizes its OPRE comprehensive review of self-regulation interventi
 - [A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — a narrower finding that bears on this claim
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — reports the opposite
-- [Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor](childhood-poverty-impairs-adult-working-memory.md) — related
+- Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor — related
 - [Mindfulness interventions in schools show the largest between-group effects for cognitive performance (g = 0.80) and smaller significant effects for stress (g = 0.39) and resilience (g = 0.36)](mindfulness-domain-effects-cognitive-stress-resilience.md) — related

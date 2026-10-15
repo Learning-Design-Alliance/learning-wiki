@@ -107,7 +107,7 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Dale argued learning becomes more meaningful when abstract learning and concrete experience are related, not that more realism is better](dale-related-concrete-and-abstract-not-realism.md) — related
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — related
 - [Hands-on learning improves achievement](manipulatives-improve-math-learning.md) — related
-- [Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage](individualized-instruction-relational-domain.md) — related
+- Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — a narrower finding that bears on this claim
 - [A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so](affordance-does-not-guarantee-cognitive-effect.md) — related

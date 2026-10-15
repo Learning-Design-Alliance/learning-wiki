@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: haoyang-wang-2026
-    resource: "https://arxiv.org/abs/2605.27404"
-    title: "Haoyang Wang, Mingze Zhang, Yi Bu, Star Xing Zhao, Meijun Liu. (2026). Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams. https://arxiv.org/abs/2605.27404"
+    resource: "https://doi.org/10.48550/arxiv.2605.27404"
+    title: "Haoyang Wang, Mingze Zhang, Yi Bu, Star Xing Zhao, Meijun Liu. (2026). Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams. https://arxiv.org/abs/2605.27404 [doi:10.48550/arxiv.2605.27404](https://doi.org/10.48550/arxiv.2605.27404)"
     author: Haoyang Wang, Mingze Zhang, Yi Bu, Star Xing Zhao, Meijun Liu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Haoyang Wang 2026
 
-Haoyang Wang, Mingze Zhang, Yi Bu, Star Xing Zhao, Meijun Liu. (2026). Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams. https://arxiv.org/abs/2605.27404
+Haoyang Wang, Mingze Zhang, Yi Bu, Star Xing Zhao, Meijun Liu. (2026). Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams. https://arxiv.org/abs/2605.27404 [doi:10.48550/arxiv.2605.27404](https://doi.org/10.48550/arxiv.2605.27404)
 
 `q2 · i?` · `associational · r2`
 

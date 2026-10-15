@@ -62,7 +62,7 @@ Same Texas quasi-experiment: Coursemojo users "showed positive differences on th
 
 
 ## Related Claims
-- [Stronger Coursemojo outcomes were associated with more consistent use of 2.5 or more days per week](coursemojo-consistent-use-stronger-outcomes.md) — related
-- [Coursemojo qualifies for a Moderate evidence rating based on positive ELA impacts across two studies](coursemojo-moderate-evidence-rating.md) — a broader claim this one bears on
-- [Coursemojo use was associated with higher sixth-grade ELA performance in a Tennessee quasi-experiment](coursemojo-tn-ela-gains.md) — related
-- [Istation users scored significantly higher on STAAR Reading than non-using schoolmates in a large urban Texas district (ES +0.10)](istation-tx-staar-reading-010.md) — related
+- Stronger Coursemojo outcomes were associated with more consistent use of 2.5 or more days per week — related
+- Coursemojo qualifies for a Moderate evidence rating based on positive ELA impacts across two studies — a broader claim this one bears on
+- Coursemojo use was associated with higher sixth-grade ELA performance in a Tennessee quasi-experiment — related
+- Istation users scored significantly higher on STAAR Reading than non-using schoolmates in a large urban Texas district (ES +0.10) — related

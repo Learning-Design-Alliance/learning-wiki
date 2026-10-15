@@ -16,7 +16,7 @@ sources:
 # Relational trust in schools
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 2 studies (1 review, 1 associational), `q1`–`q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Relational trust is the construct the article uses to organize trust relationships in schools: it "involves respecting, caring for, and believing in the honesty and competence of one's colleagues." The article treats it as operating among teachers, between teachers and principals, between students and teachers, and between teachers and parents, and as "a vital force for school improvement." It was measured with similar empirical data collected from teachers and students in Valparaíso, Chile and Illinois, US.
@@ -39,11 +39,6 @@ Relational trust is the construct the article uses to organize trust relationshi
 
 ### Claims
 
-- [Relational Trust Similar Positive Valparaiso Illinois](../claims/relational-trust-similar-positive-valparaiso-illinois.md) [+M]
-- [Teacher Parent Trust Lower Valparaiso](../claims/teacher-parent-trust-lower-valparaiso.md) [~M]
-- [Relational trust correlates with school leadership and with collaboration among teachers in both contexts](../claims/relational-trust-correlates-leadership-collaboration.md) [+W]
-- [Relational trust appears to materialize in schools regardless of vast differences in environments](../claims/relational-trust-materializes-regardless-of-environments.md) [+W]
-- [School size and student socioeconomic status conditioned trust levels differently in the two contexts](../claims/school-size-ses-condition-trust-differently.md) [~W]
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](../claims/rpp-adaptive-practices-sustain-partnerships-during-disruption.md) [+W]
 
 ## Related Theories

@@ -18,7 +18,7 @@ sources:
 # Environmental Education Efficacy Belief Instrument (EEEBI)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Developed by Sia (1992), the EEEBI is a 23-item Likert-type assessment of preservice teachers’ personal environmental-education teaching efficacy and outcome expectancy beliefs.
@@ -27,7 +27,6 @@ Developed by Sia (1992), the EEEBI is a 23-item Likert-type assessment of preser
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established](../claims/eeebi-instrument-preliminary-promise.md) [+W]
 
 ## Related Products and Programmes
 
@@ -65,7 +64,6 @@ The EEEBI is a 5-choice Likert-type instrument ranging from strongly agree to st
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [The EEEBI shows promise in assessing preservice teachers' EE belief efficacy, though its reliability and validity are not yet established](../claims/eeebi-instrument-preliminary-promise.md) [+W]
 
 ## Related Elements
 - 

@@ -44,9 +44,9 @@ The report cites the IES evaluation of Alabama's Math, Science, and Technology I
 ## Related Claims
 
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — the general claim this finding bears on, with the studies behind it
-- [Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies](amsti-teacher-survey-positive-perceptions.md) — related
-- [AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05](amsti-math-problem-solving-effect-0-05.md) — related
-- [AMSTI qualifies for the Promising evidence rating based on one study of 9343 students](amsti-promising-evidence-rating.md) — related
+- Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies — related
+- AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05 — related
+- AMSTI qualifies for the Promising evidence rating based on one study of 9343 students — related
 - [AMSTI science teachers reported statistically significantly higher levels of student engagement than control group science teachers](amsti-teachers-higher-student-engagement.md) — related
 - [The review reports, citing Karamustafaoğlu and Pektaş (2023), that inquiry-based STEM activities significantly enhance students' problem-solving skills and STEM awareness](inquiry-based-stem-activities-enhance-problem-solving-reported.md) — related
 - [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](simulations-adaptive-feedback-support-engagement.md) — related

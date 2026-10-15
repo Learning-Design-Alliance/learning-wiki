@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Separate principal components analyses of the IAR and CDR each yielded eleven components with eigenvalues equal to or greater than one, accounting for 65.66% and 63.22% of variance respectively. [→ Thomas 1975](#thomas-1975)
@@ -43,7 +44,7 @@ Principal components analyses computed separately from the item intercorrelation
 
 
 ## Related Claims
-- [Canonical analysis of IAR and CDR factor scores yields two nontrivial canonical functions (R = .644 and .463)](canonical-two-functions-locus-control.md) — related
-- [Locus of control instruments measuring domains beyond academic achievement increase the number of dimensions obtained](nonacademic-domains-increase-dimensions.md) — a broader claim this one bears on
+- Canonical analysis of IAR and CDR factor scores yields two nontrivial canonical functions (R = .644 and .463) — related
+- Locus of control instruments measuring domains beyond academic achievement increase the number of dimensions obtained — a broader claim this one bears on
 - [IAR and CDR factor scores intercorrelate too weakly to confirm the two instruments measure the same locus of control construct](iar-cdr-factor-scores-low-intercorrelations.md) — related
 - [A 2012 landscape analysis project collected and analyzed information on instruments measuring learning strategies and student mindsets in middle childhood](landscape-analysis-collected-instruments-learning-strategies-mindsets.md) — related

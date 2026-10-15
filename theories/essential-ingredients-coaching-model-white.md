@@ -16,7 +16,7 @@ sources:
 # White et al.'s coherent model of coaching's essential ingredients: coach factors, teacher factors, and coach-teacher interaction factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper presents White et al.'s (2015) organization of research findings on coaching's "essential ingredients" into a coherent model with three factor groups. Coach factors include content expertise, classroom experience, technology proficiency, and interpersonal skills, plus co-planning goals and video-reflection cycles. Teacher factors include willingness to collaborate and an asset lens believing students can succeed. Interaction factors include rapport, mutual respect, trust, and positive non-evaluative feedback.
@@ -37,8 +37,6 @@ The paper presents White et al.'s (2015) organization of research findings on co
 
 ### Claims
 
-- [Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills](../claims/requisite-coach-characteristics-qualitative-findings.md) [+W]
-- [Framework identifies teacher prerequisites: basic content knowledge, willingness to engage, and genuine concern for improving student learning](../claims/requisite-teacher-characteristics-qualitative-findings.md) [+W]
 - [Teacher buy-in and willingness to engage are viewed as strong mediators of coaching benefits](../claims/teacher-buy-in-mediates-coaching-benefit.md) [+W]
 - [Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching](../claims/four-relational-components-coaching-partnership.md) [+W]
 

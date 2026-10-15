@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: eric-p-bettinger-2017
-    resource: "https://www.mathematica.org/publications/virtual-classrooms-how-online-college-courses-affect-student-success"
-    title: "Eric P. Bettinger, Lindsay Fox, Susanna Loeb, Eric S. Taylor. (2017). Virtual Classrooms: How Online College Courses Affect Student Success. American Economic Review, vol. 107, no. 9. https://www.mathematica.org/publications/virtual-classrooms-how-online-college-courses-affect-student-success"
+    resource: "https://doi.org/10.1257/aer.20151193"
+    title: "Eric P. Bettinger, Lindsay Fox, Susanna Loeb, Eric S. Taylor. (2017). Virtual Classrooms: How Online College Courses Affect Student Success. American Economic Review, vol. 107, no. 9. https://www.mathematica.org/publications/virtual-classrooms-how-online-college-courses-affect-student-success [doi:10.1257/aer.20151193](https://doi.org/10.1257/aer.20151193)"
     author: Eric P. Bettinger, Lindsay Fox, Susanna Loeb, Eric S. Taylor
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eric P. Bettinger 2017
 
-Eric P. Bettinger, Lindsay Fox, Susanna Loeb, Eric S. Taylor. (2017). Virtual Classrooms: How Online College Courses Affect Student Success. American Economic Review, vol. 107, no. 9. https://www.mathematica.org/publications/virtual-classrooms-how-online-college-courses-affect-student-success
+Eric P. Bettinger, Lindsay Fox, Susanna Loeb, Eric S. Taylor. (2017). Virtual Classrooms: How Online College Courses Affect Student Success. American Economic Review, vol. 107, no. 9. https://www.mathematica.org/publications/virtual-classrooms-how-online-college-courses-affect-student-success [doi:10.1257/aer.20151193](https://doi.org/10.1257/aer.20151193)
 
 `q3 · i?` · `causal · r?`
 

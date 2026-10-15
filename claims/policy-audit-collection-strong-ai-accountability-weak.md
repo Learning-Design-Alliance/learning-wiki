@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: meghna-manoj-nair-2026
-    resource: "https://arxiv.org/abs/2609.28137"
-    title: "Meghna Manoj Nair, Rachel Greenstadt. (2026). \"We'll Fix It Later\": Education, AI, and the Deferral of Student Privacy in EdTech. New York University. https://arxiv.org/abs/2609.28137"
+    resource: "https://doi.org/10.48550/arxiv.2609.28137"
+    title: "Meghna Manoj Nair, Rachel Greenstadt. (2026). \"We'll Fix It Later\": Education, AI, and the Deferral of Student Privacy in EdTech. New York University. https://arxiv.org/abs/2609.28137 [doi:10.48550/arxiv.2609.28137](https://doi.org/10.48550/arxiv.2609.28137)"
     author: Meghna Manoj Nair, Rachel Greenstadt
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · qualitative `r3` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Thirty-three percent of platforms (16/48) made no meaningful AI disclosure despite visible AI features. [→ Meghna Manoj Nair 2026](#meghna-manoj-nair-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Meghna Manoj Nair 2026
 
-Meghna Manoj Nair, Rachel Greenstadt. (2026). "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech. New York University. https://arxiv.org/abs/2609.28137
+Meghna Manoj Nair, Rachel Greenstadt. (2026). "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech. New York University. https://arxiv.org/abs/2609.28137 [doi:10.48550/arxiv.2609.28137](https://doi.org/10.48550/arxiv.2609.28137)
 
 `q2 · i?` · `qualitative · r3`
 

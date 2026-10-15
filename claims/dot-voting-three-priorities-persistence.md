@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: conrad-borchers-2026
-    resource: "https://arxiv.org/abs/2606.22294"
-    title: "Conrad Borchers. (2026). Framing the 5% Problem: Teachers’ Perspectives on Persistence in Educational Technology. https://arxiv.org/abs/2606.22294"
+    resource: "https://doi.org/10.48550/arxiv.2606.22294"
+    title: "Conrad Borchers. (2026). Framing the 5% Problem: Teachers’ Perspectives on Persistence in Educational Technology. https://arxiv.org/abs/2606.22294 [doi:10.48550/arxiv.2606.22294](https://doi.org/10.48550/arxiv.2606.22294)"
     author: Conrad Borchers
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Conrad Borchers 2026
 
-Conrad Borchers. (2026). Framing the 5% Problem: Teachers’ Perspectives on Persistence in Educational Technology. https://arxiv.org/abs/2606.22294
+Conrad Borchers. (2026). Framing the 5% Problem: Teachers’ Perspectives on Persistence in Educational Technology. https://arxiv.org/abs/2606.22294 [doi:10.48550/arxiv.2606.22294](https://doi.org/10.48550/arxiv.2606.22294)
 
 `q2 · i?` · `qualitative · r3`
 

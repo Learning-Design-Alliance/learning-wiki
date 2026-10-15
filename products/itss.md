@@ -21,7 +21,7 @@ sources:
 # ITSS
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 6 studies (4 causal, 2 quant-synthesis), `q2`–`q3` · 5 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 5 studies (3 causal, 2 quant-synthesis), `q2`–`q3` · 4 of 5 report an effect size · 3 claims rest on one study
 
 ## Description
 ITSS is a web-based intelligent tutoring system for grades K–8 that teaches students to recognize and use factual-text structures through animated modeling, self-paced practice, and immediate feedback.
@@ -35,10 +35,7 @@ ITSS is a web-based intelligent tutoring system for grades K–8 that teaches st
 - [In the grades 4-5 cluster RCT, ITSS produced statistically significant positive effects on all six comprehension outcomes (average effect size 0.24)](../claims/itss-grade45-rct-comprehension-gains.md) [+S]
 - [In the grade 7 cluster RCT, ITSS produced statistically significant positive effects on all eight comprehension outcomes (average effect size 0.23)](../claims/itss-grade7-rct-comprehension-gains.md) [+M]
 - [ITSS has positive effects on reading comprehension, based on two studies meeting WWC standards covering 6,724 students](../claims/itss-positive-effects-comprehension.md) [+M]
-- [ITSS significantly improves Grade 7 reading comprehension in rural and suburban schools (effect size +0.18)](../claims/itss-grade7-significant-reading-gain.md) [+W]
-- [ITSS significantly improves Grade 5 reading comprehension after 6 to 7 months of implementation (effect size +0.20)](../claims/itss-grade5-significant-reading-gain.md) [+W]
-- [ITSS qualifies for a Strong evidence rating based on multiple randomized studies with average effect sizes of +0.15 (elementary) and +0.18 (secondary)](../claims/itss-strong-evidence-rating.md) [+W]
-- [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](../claims/itss-grade4-positive-nonsignificant.md) [~W] — (also cited [+W])
+- ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10) [~W] — (also cited [+W])
 
 ## Related Products and Programmes
 -
@@ -78,10 +75,6 @@ ITSS is a supplemental web-based program for students in grades K-8 that teaches
 - [In the grades 4-5 cluster RCT, ITSS produced statistically significant positive effects on all six comprehension outcomes (average effect size 0.24)](../claims/itss-grade45-rct-comprehension-gains.md) [+S]
 - [In the grade 7 cluster RCT, ITSS produced statistically significant positive effects on all eight comprehension outcomes (average effect size 0.23)](../claims/itss-grade7-rct-comprehension-gains.md) [+M]
 - [ITSS has positive effects on reading comprehension, based on two studies meeting WWC standards covering 6,724 students](../claims/itss-positive-effects-comprehension.md) [+M]
-- [ITSS significantly improves Grade 7 reading comprehension in rural and suburban schools (effect size +0.18)](../claims/itss-grade7-significant-reading-gain.md) [+W]
-- [ITSS significantly improves Grade 5 reading comprehension after 6 to 7 months of implementation (effect size +0.20)](../claims/itss-grade5-significant-reading-gain.md) [+W]
-- [ITSS qualifies for a Strong evidence rating based on multiple randomized studies with average effect sizes of +0.15 (elementary) and +0.18 (secondary)](../claims/itss-strong-evidence-rating.md) [+W]
-- [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](../claims/itss-grade4-positive-nonsignificant.md) [~W]
 
 ## Related Elements
 
@@ -123,10 +116,6 @@ ITSS is a web-based reading comprehension program that "teaches students to use 
 
 ## Claims
 
-- [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](../claims/itss-grade4-positive-nonsignificant.md) [+W]
-- [ITSS significantly improves Grade 5 reading comprehension after 6 to 7 months of implementation (effect size +0.20)](../claims/itss-grade5-significant-reading-gain.md) [+W]
-- [ITSS significantly improves Grade 7 reading comprehension in rural and suburban schools (effect size +0.18)](../claims/itss-grade7-significant-reading-gain.md) [+W]
-- [ITSS qualifies for a Strong evidence rating based on multiple randomized studies with average effect sizes of +0.15 (elementary) and +0.18 (secondary)](../claims/itss-strong-evidence-rating.md) [+W]
 
 ## Related Elements
 

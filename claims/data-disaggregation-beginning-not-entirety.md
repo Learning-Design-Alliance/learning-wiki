@@ -49,4 +49,4 @@ In the promising-practice account of disaggregating data by student identity cha
 - [Barriers to using equity visualizations included lack of classroom diversity and teachers' own equity beliefs](barriers-to-equity-visualization-use.md) — related
 - [Only equity visualizations disaggregated by race/ethnicity and gender prompted teachers to reflect on how race/ethnicity or gender may impact student classroom experiences](equity-visualizations-prompt-equity-reflections.md) — related
 - [Continuous improvement can fall short when it becomes a compliance-based checklist activity detached from purpose and equity](ci-compliance-activity-undermines-equity.md) — related
-- [Utah's LQ indicator shifted school data conversations toward disaggregated growth of struggling students](utah-lq-indicator-shifted-data-conversations.md) — related
+- Utah's LQ indicator shifted school data conversations toward disaggregated growth of struggling students — related

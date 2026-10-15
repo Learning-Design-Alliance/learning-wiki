@@ -18,7 +18,7 @@ sources:
 # Daily Before-and-After SRL Learning Diary
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 mixed, 1 against) · 2 studies (1 causal, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 mixed, 1 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A daily online learning diary with two sections per learning day. "Before learning, open-ended questions triggered goal-setting, planning, and self-motivation", asking which chapters, goals, strategies and time were planned. The evening section "triggered reflection and goal-setting for the following day", comparing goals to achievement and naming obstacles. Participants averaged 12.58 entries; used alone, it produced no significant gains in this study.
@@ -45,7 +45,6 @@ A daily online learning diary with two sections per learning day. "Before learni
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](../claims/learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) [-W]
 - [SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction](../claims/srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course.md) [~W]
-- [The Self-Reflection and Insight Scale comprises two factors, self-reflection and insight, with distinct correlational profiles; diary keepers show higher self-reflection but lower insight.](../claims/sris-two-factors-self-reflection-insight.md) [~W]
 
 ## Related Elements
 - [Journal_Reflections](../strategies/journal_reflections.md)

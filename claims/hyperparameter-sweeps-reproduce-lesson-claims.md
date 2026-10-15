@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jueng-2026
-    resource: "https://arxiv.org/abs/2607.10802"
-    title: "Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802"
+    resource: "https://doi.org/10.48550/arxiv.2607.10802"
+    title: "Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802 [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)"
     author: Jueng, Ekkachai
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In the exploration and learning-rate sweeps, all tested ε values including ε = 1 eventually reach the optimal return, and all tested α values converge on this small problem. [→ Jueng 2026](#jueng-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jueng 2026
 
-Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802
+Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802 [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)
 
 `q2 · i?` · `causal · r2`
 
@@ -62,5 +62,5 @@ Same 600-episode, 10-seed sweep experiment, discount factor arm. The article rep
 
 
 ## Related Claims
-- [OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT](optimnn-hyperparameter-insensitivity.md) — related
+- OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT — related
 - [The tool's Q-learning matches a value-iteration ground truth in 98.5% of non-terminal states on average](q-learning-matches-value-iteration-ground-truth.md) — related

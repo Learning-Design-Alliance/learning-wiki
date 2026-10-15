@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` In frame-based evaluations of three fifth-grade social studies excerpts about the transcontinental railroad, the first two answered little beyond the Action question, the third answered three of the four frame slot questions, and none answered the Outcome question. [→ Armbruster 1982](#armbruster-1982)

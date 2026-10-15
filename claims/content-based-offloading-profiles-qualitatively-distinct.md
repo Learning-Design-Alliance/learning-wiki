@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: poquet-2026
-    resource: "https://arxiv.org/abs/2606.10434"
-    title: "Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434"
+    resource: "https://doi.org/10.48550/arxiv.2606.10434"
+    title: "Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434 [doi:10.48550/arxiv.2606.10434](https://doi.org/10.48550/arxiv.2606.10434)"
     author: Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Content-based offloading profiles (k=5) reveal qualitatively distinct offloading patterns with significant differences in learning strategies, behavioural markers, and essay authorship
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Content-based clustering of the same 97 students' prompts (active/passive by local/global comprehension plus prior knowledge) produced five profiles representing qualitatively distinct patterns of distributed cognitive activity with significant differences in learning strategies. [→ Poquet 2026](#poquet-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Poquet 2026
 
-Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434
+Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434 [doi:10.48550/arxiv.2606.10434](https://doi.org/10.48550/arxiv.2606.10434)
 
 `q2 · i?` · `associational · r1`
 

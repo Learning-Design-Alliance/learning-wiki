@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sijing-yin-2026
-    resource: "https://arxiv.org/abs/2610.05783"
-    title: "Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783"
+    resource: "https://doi.org/10.48550/arxiv.2610.05783"
+    title: "Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783 [doi:10.48550/arxiv.2610.05783](https://doi.org/10.48550/arxiv.2610.05783)"
     author: Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sijing Yin 2026
 
-Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783
+Sijing Yin, Zirui Wang, Qian Liu, Jiamou Liu. (2026). CLARA: Can AI Assess Developmental Appropriateness in Children's Stories?. https://arxiv.org/abs/2610.05783 [doi:10.48550/arxiv.2610.05783](https://doi.org/10.48550/arxiv.2610.05783)
 
 `q2 · i?` · `design · r2`
 

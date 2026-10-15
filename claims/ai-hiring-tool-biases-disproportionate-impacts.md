@@ -44,4 +44,4 @@ The brief states, without printed statistics or cited study designs, that AI hir
 
 ## Related Claims
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — a narrower finding that bears on this claim
-- [Generative AI systems carry strong potential for introduced and inherited bias](generative-ai-bias-potential.md) — a broader claim this one bears on
+- Generative AI systems carry strong potential for introduced and inherited bias — a broader claim this one bears on

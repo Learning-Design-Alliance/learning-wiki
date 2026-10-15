@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: learnlm-team-2024
-    resource: "https://arxiv.org/abs/2412.16429"
-    title: "LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429"
+    resource: "https://doi.org/10.48550/arxiv.2412.16429"
+    title: "LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429 [doi:10.48550/arxiv.2412.16429](https://doi.org/10.48550/arxiv.2412.16429)"
     author: LearnLM Team, Google
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### LearnLM Team 2024
 
-LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429
+LearnLM Team, Google. (2024). LearnLM: Improving Gemini for Learning. arXiv. https://arxiv.org/abs/2412.16429 [doi:10.48550/arxiv.2412.16429](https://doi.org/10.48550/arxiv.2412.16429)
 
 `q3 · i?` · `design · r2`
 

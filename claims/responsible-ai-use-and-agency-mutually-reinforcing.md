@@ -46,4 +46,4 @@ This is the paper's central conceptual thesis, argued from literature on AI ethi
 - [Pseudo-agency: students may appear engaged without understanding the epistemic purpose of their actions](pseudo-agency-surface-engagement-without-purpose.md) — related
 - [AI introduced without pedagogical scaffolding can replace rather than reinforce learners' self-regulatory processes](unscaffolded-ai-replaces-self-regulation.md) — related
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
-- [The article argues that GAI systems' adaptive functionality inherently encourages over-reliance rather than fostering learner-centric data collection for SDL](gai-adaptive-functionality-encourages-overreliance.md) — related
+- The article argues that GAI systems' adaptive functionality inherently encourages over-reliance rather than fostering learner-centric data collection for SDL — related

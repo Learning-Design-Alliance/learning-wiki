@@ -13,7 +13,7 @@ generated:
 # Tool for Representational Balance in Books
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A 10-criterion rubric created by The Education Trust that guides readers in assessing how people, cultures, and topics are represented in books.
@@ -23,10 +23,6 @@ A 10-criterion rubric created by The Education Trust that guides readers in asse
 
 ### Claims
 
-- [Just over half of centered people of color receive complex representation, while more than 40% receive limited representation, most often lacking agency](../claims/people-of-color-limited-representation.md) [+M]
-- [Fewer than one-third of sampled books including groups or cultures of color provide complex representation; over half provide limited representation](../claims/groups-of-color-limited-representation.md) [+M]
-- [Most books including historical or social topics give them limited representation: only 16% are complex while 80% are limited](../claims/historical-social-topics-limited-representation.md) [+M]
-- [Intersecting marginalized identities are nearly absent from the sampled books, with gender identity, sexual orientation, disability, and justice-system representation extremely rare](../claims/intersecting-identities-nearly-absent-sample.md) [+W]
 
 ## Related Products and Programmes
 -

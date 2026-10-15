@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: digital-promise-2025
-    resource: "https://digitalpromise.dspacedirect.org/items/19fd2afb-0811-4e48-90d9-0ad6c9887a1a"
-    title: "Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.dspacedirect.org/items/19fd2afb-0811-4e48-90d9-0ad6c9887a1a"
+    resource: "https://doi.org/10.51388/20.500.12265/269"
+    title: "Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.dspacedirect.org/items/19fd2afb-0811-4e48-90d9-0ad6c9887a1a [doi:10.51388/20.500.12265/269](https://doi.org/10.51388/20.500.12265/269)"
     author: Digital Promise
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r1` · `q2`
+> **Evidence** · 2 studies · 2 review `r1` · `q2`
 
 ## Subclaims
 `q2 i?` As of fall 2024, only about half of teachers reported being trained on using AI, a two-fold increase from the previous year. [→ Digital Promise 2025](#digital-promise-2025)
@@ -41,7 +41,7 @@ sources:
 
 ### Digital Promise 2025
 
-Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.dspacedirect.org/items/19fd2afb-0811-4e48-90d9-0ad6c9887a1a
+Digital Promise. (2025). AI Literacy in PK-12 Education. https://digitalpromise.dspacedirect.org/items/19fd2afb-0811-4e48-90d9-0ad6c9887a1a [doi:10.51388/20.500.12265/269](https://doi.org/10.51388/20.500.12265/269)
 
 `q2 · i?` · `review · r?`
 
@@ -64,4 +64,4 @@ A recent survey cited in the learner-gaps section reports that "88% of computer 
 
 ## Related Claims
 - [Partner-positioned teachers built students' AI literacy, while assistant and substitute teachers' transparency centered on gaming scores](partner-positioning-builds-student-ai-literacy.md) — related
-- [Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice](situated-learning-three-barrier-categories.md) — related
+- Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice — related

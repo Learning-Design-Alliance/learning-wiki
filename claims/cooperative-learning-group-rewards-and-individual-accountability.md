@@ -84,7 +84,7 @@ Sixty-four 4th and 5th graders at high risk of academic failure were randomly se
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How should team work be graded so every member is accountable?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **9 distinct studies** (3 review, 2 causal, 2 design, 1 quant-synthesis, 1 theoretical), `q1`–`q3`, 2 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How should team work be graded so every member is accountable?* This table gathers the studies behind this claim and the 8 narrower claims that bear on it: **7 distinct studies** (3 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -93,8 +93,6 @@ Sixty-four 4th and 5th graders at high risk of academic failure were randomly se
 | [Fantuzzo et al. 1992](https://doi.org/10.1037/0022-0663.84.3.331) | q3 · causal · r? | i? | this claim |
 | Brewer 2003 | q3 · causal · r2 | i? | [Structuring positive interdependence (role, reward, or both) did not affect posttest achie](interdependence-type-no-achievement-effect-asynchronous.md) (qualifies); [Type of interdependence shifts the nature of interactions: no-structure groups show the mo](interdependence-type-shifts-interaction-nature.md) (qualifies); [In one experiment with undergraduate business majors in asynchronous online small groups, ](reward-interdependence-benefit-attitudes.md) (qualifies); [All three structured interdependence conditions produce higher agreement that team members](structured-interdependence-contribution-obligation-attitude.md) (qualifies); [Higher numbers of interactions are associated with higher posttest scores in asynchronous ](interaction-quantity-correlates-posttest-online-groups.md) (qualifies) |
 | Brian P. Gill 2015 | q2 · theoretical · r2 | i? | [Accountability can produce positive or negative effects depending on type, decision contex](accountability-effects-depend-on-type-context-task.md) (qualifies) |
-| Peterson 2015 | q2 · design · r2 | i? | [Students report significantly higher accountability, preference for TBL, satisfaction, and](tbl-survey-above-neutral.md) (qualifies) |
-| You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners 1993 | q1 · design · r1 | i? | [Being placed in a group does not by itself produce cooperation; structure must be present ](group-membership-alone-does-not-produce-cooperation.md) (supports) |
 | [Slavin 2014](https://doi.org/10.6018/analesps.30.3.201201) | q2 · review · r? | i? | [Classroom research primarily supports the motivational perspective on cooperative learning](classroom-research-supports-motivational-perspective.md) (supports) |
 | Blosser 1993 | q3 · review · r3 | i? | [In secondary-school research, cooperative learning beat frontal teaching in 68% of compari](secondary-cooperative-learning-newmann-thompson.md) (qualifies) |
 <!-- synthesis:end -->
@@ -125,8 +123,8 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Social learning theory](../theories/social-learning-theory.md) — theoretical grounding for peer modeling and reinforcement within groups
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — improvement-based team scoring is a form of assessment for learning applied at the group level
 - [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](anonymity-mitigates-evaluation-apprehension.md) — related
-- [PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs](assess-pjbl-outcomes-across-quadrants.md) — related
-- [Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons](cooperative-learning-achievement-synthesis-slavin.md) — related
+- PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs — related
+- Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons — related
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a broader claim this one bears on
@@ -140,7 +138,7 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related
 - [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related
 - [Collaborative learning](../principles/collaborative-learning.md) — principle-level guidance on structuring group interaction
-- [Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies](lazarowitz-cooperative-biology-achievement.md) — related
+- Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies — related
 - [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](collaborative-group-work-beats-competitive-classrooms-k12.md) — a broader claim this one bears on
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — a narrower finding that bears on this claim
 - [Peer programs, including cooperative learning strategies, were concluded to be the single most effective school-based approach for reducing youth alcohol and drug use](peer-programs-most-effective-drug-use-prevention.md) — related

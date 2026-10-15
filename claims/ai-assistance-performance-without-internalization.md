@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hyunwoo-kim-2026
-    resource: "https://arxiv.org/abs/2604.14807"
-    title: "Hyunwoo Kim, Harin Yu, Hanau Yi. (2026). The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows. https://arxiv.org/abs/2604.14807"
+    resource: "https://doi.org/10.48550/arxiv.2604.14807"
+    title: "Hyunwoo Kim, Harin Yu, Hanau Yi. (2026). The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows. https://arxiv.org/abs/2604.14807 [doi:10.48550/arxiv.2604.14807](https://doi.org/10.48550/arxiv.2604.14807)"
     author: Hyunwoo Kim, Harin Yu, Hanau Yi
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hyunwoo Kim 2026
 
-Hyunwoo Kim, Harin Yu, Hanau Yi. (2026). The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows. https://arxiv.org/abs/2604.14807
+Hyunwoo Kim, Harin Yu, Hanau Yi. (2026). The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows. https://arxiv.org/abs/2604.14807 [doi:10.48550/arxiv.2604.14807](https://doi.org/10.48550/arxiv.2604.14807)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -49,7 +49,7 @@ Cross-contextual observational synthesis (Section 6), explicitly framed as conce
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — a broader claim this one bears on
 - [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](ai-assistance-persistence-costs-direct-solutions.md) — a narrower finding that bears on this claim
 - [Among GPT-assisted students, proactive and critical engagement patterns are associated with higher exam scores while limited engagement shows little benefit relative to control](proactive-critical-ai-engagement-higher-exam-scores.md) — related
-- [Engagement-index EEG metrics show no significant differences across AI modes, and a possible short-term AI carryover effect remains unconfirmed](engagement-index-null-and-unconfirmed-carryover.md) — related
+- Engagement-index EEG metrics show no significant differences across AI modes, and a possible short-term AI carryover effect remains unconfirmed — related
 - [GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands](genai-disrupts-evidence-rules-asymmetrically.md) — related
 - [Aggregate interaction volume did not demonstrate reduced human input; the strongest observed pattern was capacity expansion rather than proven labor substitution](capacity-expansion-not-labor-substitution.md) — related
 - [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](ai-performance-metacognition-dissociation.md) — a narrower finding that bears on this claim

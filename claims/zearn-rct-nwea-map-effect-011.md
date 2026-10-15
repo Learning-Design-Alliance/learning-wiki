@@ -43,5 +43,5 @@ A school-level randomized controlled trial in a large urban Texas district acros
 
 
 ## Related Claims
-- [An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students](zearn-pilot-no-significant-differences.md) — related
-- [In the Texas RCT, Zearn Math effects on the Texas STAAR assessment were directionally positive but not statistically significant](zearn-rct-staar-not-significant.md) — related
+- An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students — related
+- In the Texas RCT, Zearn Math effects on the Texas STAAR assessment were directionally positive but not statistically significant — related

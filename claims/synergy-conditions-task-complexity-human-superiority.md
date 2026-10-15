@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mutlu-cukurova-2025
-    resource: "https://arxiv.org/abs/2511.19580"
-    title: "Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580"
+    resource: "https://doi.org/10.48550/arxiv.2511.19580"
+    title: "Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580 [doi:10.48550/arxiv.2511.19580](https://doi.org/10.48550/arxiv.2511.19580)"
     author: Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mutlu Cukurova 2025
 
-Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580
+Mutlu Cukurova, Wannapon Suraworachet, Qi Zhou, and Sahan Bulathwela. (2025). Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence. https://arxiv.org/abs/2511.19580 [doi:10.48550/arxiv.2511.19580](https://doi.org/10.48550/arxiv.2511.19580)
 
 `q2 · i?` · `review · r2`
 
@@ -43,6 +43,6 @@ The chapter attributes this contextual factor to Vaccaro et al.'s meta-analysis,
 
 
 ## Related Claims
-- [Human-AI combinations on average performed worse than the best of humans or AI alone, with losses in decision-making but gains in content creation tasks](human-ai-combinations-worse-than-best-alone.md) — possibly the same claim (merge candidate)
-- [Meta-analysis finds human–AI combinations perform worse than the best of human or AI alone, moderated by relative competence](human-ai-combinations-underperform-best-alone.md) — possibly the same claim (merge candidate)
+- Human-AI combinations on average performed worse than the best of humans or AI alone, with losses in decision-making but gains in content creation tasks — possibly the same claim (merge candidate)
+- Meta-analysis finds human–AI combinations perform worse than the best of human or AI alone, moderated by relative competence — possibly the same claim (merge candidate)
 - [Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation](genai-accelerates-routine-sysadmin-tasks.md) — related

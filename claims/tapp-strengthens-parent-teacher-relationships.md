@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-15: TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial -->
 
 ## Subclaims
@@ -47,4 +48,4 @@ Second randomized controlled trial in 45 rural schools (267 K–3 students, 152 
 ## Related Claims
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](getting-ready-replication-relationships.md) — related
 - [TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)](tapp-rural-trial-behavior-problems-improvement.md) — related
-- [TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools)](tapp-teacher-reported-adaptive-behavior-social-skills-gains.md) — related
+- TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools) — related

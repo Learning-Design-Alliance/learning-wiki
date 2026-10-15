@@ -42,7 +42,7 @@ The white paper reports the ManyClasses 2 study by Motz et al. (2024), conducted
 
 
 ## Related Claims
-- [In a teacher-run classroom survey, students most preferred practice test questions among three retrieval-practice strategies, and about three-quarters reported feeling well prepared after using retrieval strategies versus about a quarter without them](nmsa-survey-preference-practice-testing.md) — related
+- In a teacher-run classroom survey, students most preferred practice test questions among three retrieval-practice strategies, and about three-quarters reported feeling well prepared after using retrieval strategies versus about a quarter without them — related
 - [Working a research scenario against a DLP surfaced concrete platform needs: adding measures, linking observational data, and enabling districtwide studies](scenario-terracotta-platform-capability-lessons.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related

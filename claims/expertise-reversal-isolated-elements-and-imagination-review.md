@@ -47,5 +47,5 @@ The review attributes this to Cooper, Tindall-Ford, Chandler, and Sweller (2001)
 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — the general claim this finding bears on, with the studies behind it
 -
-- [Experiment 5 showed superior performance for learners who had previously studied isolated elements followed by interacting elements instruction, supporting expertise as the key factor in the technique's benefits](experiment5-expertise-factor-isolated-interacting-benefit.md) — related
-- [For novice learners of complex information, the isolated-interacting elements instructional method produces superior learning compared with conventional instruction presenting all interacting information throughout](isolated-interacting-elements-superior-for-novices.md) — related
+- Experiment 5 showed superior performance for learners who had previously studied isolated elements followed by interacting elements instruction, supporting expertise as the key factor in the technique's benefits — related
+- For novice learners of complex information, the isolated-interacting elements instructional method produces superior learning compared with conventional instruction presenting all interacting information throughout — related

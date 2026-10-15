@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: edpuzzle-evidence-summary-2025
-    resource: "https://www.edpuzzle.com"
-    title: "Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com"
+    resource: "https://doi.org/10.2139/ssrn.5265891"
+    title: "Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com [doi:10.2139/ssrn.5265891](https://doi.org/10.2139/ssrn.5265891)"
     author: Edpuzzle evidence summary
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Edpuzzle evidence summary 2025
 
-Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com
+Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com [doi:10.2139/ssrn.5265891](https://doi.org/10.2139/ssrn.5265891)
 
 `q2 · i?` · `causal · r?`
 

@@ -17,7 +17,7 @@ sources:
 # Six-part state and local policy strategy for reducing exclusionary discipline and suspension gaps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 15 claims (12 for, 2 mixed, 1 against) · 11 studies (3 causal, 3 review, 3 associational, 2 qualitative), `q2`–`q3` · 0 of 11 report an effect size · 15 claims rest on one study
+> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 9 studies (3 causal, 3 associational, 2 review, 1 qualitative), `q2`–`q3` · 0 of 9 report an effect size · 12 claims rest on one study
 
 ## Description
 The report recommends that states and districts eliminate zero-tolerance policies and restrict suspensions for minor offenses; support evidence-based alternatives such as "schoolwide restorative practices and teaching social and emotional skills"; collect and publicly report disaggregated discipline data and use it for equity reviews; develop educator preparation standards for positive climates and restorative practices; fund professional learning on implicit bias, empathy, and culturally responsive environments; and invest in support services and staff such as counselors and restorative justice coordinators.
@@ -42,16 +42,13 @@ The report recommends that states and districts eliminate zero-tolerance policie
 - [Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap](../claims/denver-restorative-justice-suspension-gap-narrowed.md) [+W]
 - [Exclusionary discipline harms students and disproportionately affects students of color, so tracking suspension data can promote positive interventions](../claims/exclusionary-discipline-harms-and-disproportionality.md) [+W]
 - [Black secondary students lost 103 days of instruction per 100 enrolled, 82 more days than their White peers](../claims/black-secondary-students-82-more-days-lost.md) [+W]
-- [Black students lose five times as many instructional days to suspension as White students](../claims/black-students-lose-five-times-instructional-days.md) [+W]
 - [Black and poor students are suspended from US schools at higher rates than White and nonpoor students](../claims/black-poor-students-suspended-higher-rates.md) [+W]
 - [Secondary students lose instruction due to out-of-school suspensions at more than five times the rate of elementary students (37 vs. 7 days per 100 enrolled)](../claims/secondary-suspension-lost-instruction-five-times-elementary.md) [+W]
-- [Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100](../claims/massachusetts-chapter-222-reduced-black-girls-suspensions.md) [+W]
 - [Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform](../claims/philadelphia-reform-modest-decline-nonviolent-suspensions.md) [+W]
 - [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](../claims/same-infractions-black-disabilities-more-suspensions.md) [+W]
 - [Intersecting identities compound suspension risk: 0.1% of Asian girls without special education services in elementary schools were suspended versus 27% of Black boys with disabilities in secondary schools](../claims/intersectional-suspension-risk.md) [+W]
 - [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](../claims/partial-implementation-schools-peer-outcomes-declined.md) [~W]
 - [Truancy rates increased in Philadelphia following the discipline policy reform](../claims/philadelphia-reform-truancy-increased.md) [-W]
-- [Black students and students with disabilities are disproportionately subjected to exclusionary discipline relative to their enrollment shares](../claims/discipline-disparities-black-students-disabilities-crdc.md) [+W]
 - [Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions](../claims/suspension-declines-48-states-substitution.md) [~W]
 
 ## Related Strategies

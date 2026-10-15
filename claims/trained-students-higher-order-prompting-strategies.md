@@ -44,4 +44,4 @@ Qualitative content analysis of chat logs coded by two researchers (Krippendorff
 
 ## Related Claims
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — a broader claim this one bears on
-- [Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization](critical-questions-competency-based-science-assessment.md) — related
+- Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization — related

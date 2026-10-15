@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: stark-2026
-    resource: "https://askludia.com/en"
-    title: "Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en"
+    resource: "https://doi.org/10.35542/osf.io/3nmgp_v1"
+    title: "Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en [doi:10.35542/osf.io/3nmgp_v1](https://doi.org/10.35542/osf.io/3nmgp_v1)"
     author: "Stark, B., & Rostan, J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Stark 2026
 
-Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en
+Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en [doi:10.35542/osf.io/3nmgp_v1](https://doi.org/10.35542/osf.io/3nmgp_v1)
 
 `q2 · i?` · `design · r1`
 

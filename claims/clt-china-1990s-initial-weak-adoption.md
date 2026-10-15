@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Communicative Approach was introduced to China in the 1990s with a 1992 functional syllabus and textbook series, but early ELT in China was described as not very communicative. [→ Yang Xu 2010](#yang-xu-2010)
@@ -44,4 +45,4 @@ The article's historical account states that in 1992 the SEDC introduced a funct
 
 ## Related Claims
 - [Most teachers in China's middle schools used traditional grammar-focused methods in the late 1980s](china-middle-school-teachers-used-traditional-methods-late-1980s.md) — related
-- [China's Matriculation English Test ignores speaking skills despite adding communicative components after 1992](met-ignores-speaking-skills.md) — related
+- China's Matriculation English Test ignores speaking skills despite adding communicative components after 1992 — related

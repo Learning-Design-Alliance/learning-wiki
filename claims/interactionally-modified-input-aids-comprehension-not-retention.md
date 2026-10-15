@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Loschky (1989) found a clear comprehension advantage for interactionally modified input over baseline and premodified input in L2 Japanese beginners, but no advantage for retention of locative structures. [→ Ellis 1991](#ellis-1991)
@@ -45,6 +46,6 @@ The review reports Loschky's (1989) three-group study of L2 Japanese beginner le
 
 - [Linguistic simplification of math word problems can improve performance, particularly among English language learners and students from low-socioeconomic backgrounds](linguistic-simplification-improves-math-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Interactionally adjusted and premodified input yield statistically comparable comprehension overall, with negotiation benefiting lower-ability learners](negotiation-benefit-limited-lower-ability-learners.md) — related
-- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](no-direct-evidence-input-hypothesis.md) — related
+- There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related
 - [Differences in moment-to-moment comprehension do not correlate with gains in vocabulary recognition or acquisition of Japanese locative structures](no-comprehension-acquisition-correlation.md) — related
 - [All three input/interaction conditions produced significant gains in vocabulary recognition and acquisition of Japanese locative structures](significant-gains-all-three-input-conditions.md) — related

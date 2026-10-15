@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The taxonomy of conflicts between the six value areas is applied to the concrete evaluation process of student rating of teaching at the University of Salzburg, where conflicts such as bandwidth vs. fidelity and student ratings vs. evaluation are discussed. [→ Patry 2004](#patry-2004)
@@ -48,4 +49,4 @@ The article applies the taxonomy to the Salzburg student-rating project (Task Fo
 
 
 ## Related Claims
-- [The article concludes there is an irreconcilable conflict between the values of Turkish modernization and the libertarian and democratic values Dewey advocates](irreconcilable-conflict-turkish-modernization-dewey-values.md) — related
+- The article concludes there is an irreconcilable conflict between the values of Turkish modernization and the libertarian and democratic values Dewey advocates — related

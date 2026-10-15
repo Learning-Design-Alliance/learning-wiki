@@ -63,8 +63,8 @@ Characteristics of the Type 3 knowledge source as printed in the knowledge-sourc
 
 ## Related Claims
 - [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](stem-plc-teacher-knowledge-attitude-gains.md) — related
-- [Students of teachers in STEM learning communities learn mathematics better, but published evidence covers only mathematics and remains emerging](stem-plcs-improve-student-math-achievement.md) — related
+- Students of teachers in STEM learning communities learn mathematics better, but published evidence covers only mathematics and remains emerging — related
 - [STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it](stem-plcs-deepen-teacher-content-knowledge.md) — related
-- [Online tools are extending STEM PLCs, with skilled facilitators, collaborative tools, and stable platforms identified as key components](online-stem-plcs-growing-phenomenon.md) — related
+- Online tools are extending STEM PLCs, with skilled facilitators, collaborative tools, and stable platforms identified as key components — related
 - [Existing STEM PLC research is methodologically weak by Standards of Evidence review, with no studies rated adequate, but collectively builds a supportive case for valued PLC effects](stem-plc-research-methodological-rigor-weak.md) — related
 - [Research on professional community faces conceptual and methodological difficulties: no universal definition exists and operationalization varies across studies](professional-community-definition-operationalization-difficulties.md) — related

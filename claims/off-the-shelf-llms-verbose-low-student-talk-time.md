@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: janos-perczel-2025
-    resource: "https://arxiv.org/abs/2510.05087"
-    title: "Janos Perczel, Jin Chow, and Dorottya Demszky. (2025). TeachLM: Post-Training LLMs for Education Using Authentic Learning Data. https://arxiv.org/abs/2510.05087"
+    resource: "https://doi.org/10.48550/arxiv.2510.05087"
+    title: "Janos Perczel, Jin Chow, and Dorottya Demszky. (2025). TeachLM: Post-Training LLMs for Education Using Authentic Learning Data. https://arxiv.org/abs/2510.05087 [doi:10.48550/arxiv.2510.05087](https://doi.org/10.48550/arxiv.2510.05087)"
     author: Janos Perczel, Jin Chow, and Dorottya Demszky
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Janos Perczel 2025
 
-Janos Perczel, Jin Chow, and Dorottya Demszky. (2025). TeachLM: Post-Training LLMs for Education Using Authentic Learning Data. https://arxiv.org/abs/2510.05087
+Janos Perczel, Jin Chow, and Dorottya Demszky. (2025). TeachLM: Post-Training LLMs for Education Using Authentic Learning Data. https://arxiv.org/abs/2510.05087 [doi:10.48550/arxiv.2510.05087](https://doi.org/10.48550/arxiv.2510.05087)
 
 `q2 · i?` · `design · r2`
 

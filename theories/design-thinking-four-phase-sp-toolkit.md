@@ -16,7 +16,7 @@ sources:
 # Design Thinking four-phase process (Singapore Polytechnic toolkit)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article adopts the Singapore Polytechnic Department of Educational Development (2011) account of Design Thinking as a four-phase cycle: "sense and sensibility, empathy, ideation, and prototype." Sense and sensibility uses all the senses to search information; empathy involves understanding users by feeling like them, using ethnography, interview, observation and insight generation; ideation generates various ideas and theories with ideation tools until one concept is selected; prototype makes concepts tangible and examines the concept-user experience relationship. The study focuses on the ideation phase as the most challenging one.
@@ -38,11 +38,6 @@ The article adopts the Singapore Polytechnic Department of Educational Developme
 
 ### Claims
 
-- [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](../claims/high-survey-agreement-ideation-discussion.md) [+W]
-- [Critical thinking gains were significant for creative critical thought but not for logic and reasoning](../claims/ideation-discussion-creative-thought-gains-not-logic.md) [+W]
-- [Ideation discussion activities in Design Thinking significantly improved EFL students' overall critical thinking test scores from pre-test to post-test](../claims/ideation-discussion-improves-efl-critical-thinking-scores.md) [+W]
-- [Ideation discussion activities in Design Thinking significantly improved EFL students' overall English-speaking test scores from pre-test to post-test](../claims/ideation-discussion-improves-efl-speaking-scores.md) [+W]
-- [Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar](../claims/ideation-discussion-speaking-gains-not-grammar.md) [+W]
 
 ## Related Theories
 - 

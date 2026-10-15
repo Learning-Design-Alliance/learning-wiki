@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: enghauser-2007
-    resource: "https://eric.ed.gov/?id=EJ795590"
-    title: "Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590"
+    resource: "https://doi.org/10.1080/07303084.2007.10598039"
+    title: "Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590 [doi:10.1080/07303084.2007.10598039](https://doi.org/10.1080/07303084.2007.10598039)"
     author: Enghauser, R.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Enghauser 2007
 
-Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590
+Enghauser, R. (2007). Developing Listening Bodies in the Dance Technique Class. JOPERD, 78(6). https://eric.ed.gov/?id=EJ795590 [doi:10.1080/07303084.2007.10598039](https://doi.org/10.1080/07303084.2007.10598039)
 
 `q2 · i?` · `design · r1`
 

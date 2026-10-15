@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bakhshaei-2018
-    resource: "https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd"
-    title: "Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd"
+    resource: "https://doi.org/10.51388/20.500.12265/48"
+    title: "Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd [doi:10.51388/20.500.12265/48](https://doi.org/10.51388/20.500.12265/48)"
     author: "Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # DLP teachers reported significant increases in using technology for both content and pedagogy, but no significant difference from non-DLP teachers in basic technology skills
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 1 associational `r1`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` DLP teachers reported statistically significant increases in using technology to teach content and improve pedagogy. [→ Bakhshaei 2018](#bakhshaei-2018)
@@ -40,7 +40,7 @@ sources:
 
 ### Bakhshaei 2018
 
-Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd
+Bakhshaei, M., Hardy, A., Francisco, A., Noakes, S., & Fusco, J. (2018). Fostering Powerful Use of Technology Through Instructional Coaching: Results from the Pilot Year of the Dynamic Learning Project. Digital Promise. https://digitalpromise.dspacedirect.org/items/540c3325-fd5f-408e-a347-2409f57848dd [doi:10.51388/20.500.12265/48](https://doi.org/10.51388/20.500.12265/48)
 
 `q2 · i?` · `design · r2`
 

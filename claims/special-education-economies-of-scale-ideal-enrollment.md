@@ -45,7 +45,7 @@ The cost function analysis found that as entity size increased "up to an ideal p
 
 ## Related Claims
 - [Strict class size caps raise per-student staffing costs as enrollment shrinks—a worked example shows a 44 percent cost increase when 1st grade enrollment falls from 75 to 52 students](class-size-caps-raise-costs-enrollment-decline.md) — related
-- [Estimated economic costs for English Learner program personnel range from $1,670 to $5,000 per English Learner student annually across interviewed LEAs](sv-el-program-personnel-economic-costs-1670-to-5000.md) — related
+- Estimated economic costs for English Learner program personnel range from $1,670 to $5,000 per English Learner student annually across interviewed LEAs — related
 - [Census funding is viewed as a cost-containment approach for special education finance](census-funding-viewed-as-cost-containment.md) — related
 - [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
 - [California serves more than 725,000 K-12 students with disabilities and invests roughly $12 billion annually in special education, with LEA unrestricted funds covering the majority of spending](california-725000-swd-12-billion-special-education-spending.md) — related

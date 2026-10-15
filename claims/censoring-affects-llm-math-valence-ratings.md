@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: esposito-2026
-    resource: "https://arxiv.org/abs/2604.27618"
-    title: "Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618"
+    resource: "https://doi.org/10.48550/arxiv.2604.27618"
+    title: "Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618 [doi:10.48550/arxiv.2604.27618](https://doi.org/10.48550/arxiv.2604.27618)"
     author: "Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Esposito 2026
 
-Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618
+Esposito, N., Tricarico, A., Porzio, L., Aghazadeh Ardebili, A., & Stella, M. (2026). Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs. arXiv preprint. https://arxiv.org/abs/2604.27618 [doi:10.48550/arxiv.2604.27618](https://doi.org/10.48550/arxiv.2604.27618)
 
 `q2 · i?` · `associational · r1`
 

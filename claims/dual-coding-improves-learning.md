@@ -153,7 +153,7 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — added representations can become redundant for advanced learners
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
 - [Dual coding elucidation raises adolescent EFL learners' awareness of lexical errors and correct usage more than verbal-only elucidation](dual-coding-elucidation-improves-lexical-error-awareness.md) — a narrower finding that bears on this claim
-- [Viewers seek visual complexity as well as its reduction, so immediate perceptual closure is not needed in all graphic images](viewers-seek-complexity-not-immediate-closure.md) — related
+- Viewers seek visual complexity as well as its reduction, so immediate perceptual closure is not needed in all graphic images — related
 - [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](multimodal-valued-complex-visualizations-hinder.md) — related
 - [Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue](rag-top-k-10-sweet-spot-context-precision.md) — related

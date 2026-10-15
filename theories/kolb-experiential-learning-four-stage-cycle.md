@@ -16,7 +16,7 @@ sources:
 # Kolb's experiential learning theory: knowledge created through transformation of experience via a four-stage cycle
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper adopts Kolb's (1984) definition of experiential learning as "the process whereby knowledge is created through the transformation of the experience of the /earner who is at the centre of the learning process". Kolb's theory frames learning as a four-stage cycle of adaptive modes — concrete experience, reflective observation, abstract conceptualisation, active experimentation — which combine into different learning processes, kinds of knowledge, and individual learning styles with no hierarchical ranking among styles. The paper uses this framework as the theoretical backbone for its argument that training should be experiential and participatory.
@@ -39,8 +39,6 @@ The paper adopts Kolb's (1984) definition of experiential learning as "the proce
 
 ### Claims
 
-- [Adults learn better when learning content and methods link to their previous experience](../claims/adult-learning-linked-to-previous-experience.md) [+W]
-- [Coleman describes experiential learning steps as almost the reverse of traditional learning steps](../claims/coleman-experiential-steps-reverse-of-traditional.md) [+W]
 - [Critics argue experiential learning's weaknesses lie in the reflective observation phase; the authors counter that trainers can develop observation skills](../claims/critics-weak-reflective-observation-phase.md) [+W]
 - [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](../claims/experiential-training-ecd-workers-better-child-outcomes.md) [+W]
 - [Evaluations of parent education initiatives using experiential methods found positive results for parents](../claims/parent-education-experiential-evaluations-positive.md) [+W]

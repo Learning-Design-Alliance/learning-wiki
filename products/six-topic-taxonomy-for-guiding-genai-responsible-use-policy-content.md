@@ -18,7 +18,7 @@ sources:
 # Six-topic taxonomy for guiding GenAI responsible use policy content
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A RAPID GenAI Working Group framework that organizes responsible generative-AI policy guidance into AI literacy, safety, ethics, transparency, implementation guidelines, and evaluation and impact.
@@ -27,9 +27,6 @@ A RAPID GenAI Working Group framework that organizes responsible generative-AI p
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](../claims/gpt-detectors-biased-against-nonnative-english-writers.md) [+W]
-- [Language models exhibit dialect prejudice against speakers of African American English](../claims/language-models-dialect-prejudice-aae.md) [+W]
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](../claims/teacher-big-picture-genai-concerns.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,9 +63,6 @@ The RAPID GenAI Working Group identified six topics for creating responsible/acc
 
 ### Claims
 
-- [GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy](../claims/gpt-detectors-biased-against-nonnative-english-writers.md) [+W]
-- [Language models exhibit dialect prejudice against speakers of African American English](../claims/language-models-dialect-prejudice-aae.md) [+W]
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](../claims/teacher-big-picture-genai-concerns.md) [+W]
 
 ## Related Theories
 

@@ -43,4 +43,4 @@ Baseline difference-in-differences heterogeneity analysis interacting parental e
 
 
 ## Related Claims
-- [COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic](covid-losses-concentrated-early-grades-struggling-students.md) — a broader claim this one bears on
+- COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic — a broader claim this one bears on

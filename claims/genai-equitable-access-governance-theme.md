@@ -50,7 +50,7 @@ Grounded-coding finding from the Delphi panel: "Panelists voiced concern that wi
 - [AI in education poses challenges across three interrelated domains: knowledge itself, the process of knowing, and the socio-environmental impact of knowledge production](ai-education-three-challenge-domains.md) — related
 - [Over one-third of PGR participants emphasised financial support for paid AI tools as necessary institutional support for responsible GenAI use](financial-support-paid-ai-tools-institutional.md) — related
 - [Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals](educational-innovations-exacerbate-learning-gaps-without-attention.md) — related
-- [The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience](gen-aitecture-modest-equalising-mechanism.md) — related
+- The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience — related
 - [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related
 - [First-generation status is a significant predictor of reliance intensity, indicating a compensatory dynamic at minority-serving institutions](first-generation-status-predicts-reliance-intensity.md) — related
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — related

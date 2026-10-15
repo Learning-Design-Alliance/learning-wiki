@@ -50,6 +50,6 @@ LPI analysis of CDE staff demographic and credential records (Figure 2) shows di
 - [Estimated teacher hires increased 43% between 2013–14 and 2017–18, outpacing growth in credential issuance](teacher-hire-demand-increased-43-percent.md) — related
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
 - [California issued more than 13,000 intern credentials, permits, and waivers in 2017–18, nearly triple the 2012–13 number](california-substandard-credentials-tripled-2012-2018.md) — related
-- [California's K-3 class size reduction policy sharply increased the proportion of teachers without full credentials, with low-income students most affected](class-size-reduction-reduced-teacher-credentials.md) — related
+- California's K-3 class size reduction policy sharply increased the proportion of teachers without full credentials, with low-income students most affected — related
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
 - [Schools with high teacher turnover and large proportions of underprepared teachers are associated with lower achievement for all students and for students experiencing homelessness, after accounting for other factors](teacher-turnover-underprepared-teachers-lower-achievement-homeless.md) — related

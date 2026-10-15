@@ -43,7 +43,7 @@ Semi-structured surveys in the third semester (Case-III) with third-year archite
 
 
 ## Related Claims
-- [A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions](gen-aitecture-expanded-creative-search-space.md) — related
+- A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions — related
 - [After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases](genai-use-concentrates-in-uncertain-design-phases.md) — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
 - [Functions metaphors framing GenAI as an efficient tool for routine and creative tasks were the most agreed-upon in the workshops](functions-metaphors-most-agreed-genai-tools.md) — related

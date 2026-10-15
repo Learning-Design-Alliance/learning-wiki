@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: julián-méndez-2026
-    resource: "https://arxiv.org/abs/2607.18864"
-    title: "Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt. (2026). Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming. arXiv preprint. https://arxiv.org/abs/2607.18864"
+    resource: "https://doi.org/10.48550/arxiv.2607.18864"
+    title: "Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt. (2026). Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming. arXiv preprint. https://arxiv.org/abs/2607.18864 [doi:10.48550/arxiv.2607.18864](https://doi.org/10.48550/arxiv.2607.18864)"
     author: Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Julián Méndez 2026
 
-Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt. (2026). Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming. arXiv preprint. https://arxiv.org/abs/2607.18864
+Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, Markus Krötzsch, Raimund Dachselt. (2026). Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming. arXiv preprint. https://arxiv.org/abs/2607.18864 [doi:10.48550/arxiv.2607.18864](https://doi.org/10.48550/arxiv.2607.18864)
 
 `q2 · i?` · `qualitative · r2`
 

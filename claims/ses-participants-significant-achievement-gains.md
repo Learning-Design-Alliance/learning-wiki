@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ron-zimmer-2007
-    resource: "https://www.mathematica.org/publications/title-i-school-choice-supplemental-educational-services-and-student-achievement"
-    title: "Ron Zimmer, Brian Gill, Paula Razquin, Kevin Booker, J.R. Lockwood, III. (2007). Title I School Choice, Supplemental Educational Services, and Student Achievement. State and Local Implementation of the No Child Left Behind Act: Volume I. https://www.mathematica.org/publications/title-i-school-choice-supplemental-educational-services-and-student-achievement"
+    resource: "https://doi.org/10.7249/rp1265"
+    title: "Ron Zimmer, Brian Gill, Paula Razquin, Kevin Booker, J.R. Lockwood, III. (2007). Title I School Choice, Supplemental Educational Services, and Student Achievement. State and Local Implementation of the No Child Left Behind Act: Volume I. https://www.mathematica.org/publications/title-i-school-choice-supplemental-educational-services-and-student-achievement [doi:10.7249/rp1265](https://doi.org/10.7249/rp1265)"
     author: Ron Zimmer, Brian Gill, Paula Razquin, Kevin Booker, J.R. Lockwood, III
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ron Zimmer 2007
 
-Ron Zimmer, Brian Gill, Paula Razquin, Kevin Booker, J.R. Lockwood, III. (2007). Title I School Choice, Supplemental Educational Services, and Student Achievement. State and Local Implementation of the No Child Left Behind Act: Volume I. https://www.mathematica.org/publications/title-i-school-choice-supplemental-educational-services-and-student-achievement
+Ron Zimmer, Brian Gill, Paula Razquin, Kevin Booker, J.R. Lockwood, III. (2007). Title I School Choice, Supplemental Educational Services, and Student Achievement. State and Local Implementation of the No Child Left Behind Act: Volume I. https://www.mathematica.org/publications/title-i-school-choice-supplemental-educational-services-and-student-achievement [doi:10.7249/rp1265](https://doi.org/10.7249/rp1265)
 
 `q3 · i?` · `associational · r?`
 

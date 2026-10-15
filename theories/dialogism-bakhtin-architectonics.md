@@ -16,7 +16,7 @@ sources:
 # Dialogism: Bakhtin's dialogic reconceptualization of architectonics as a philosophy of interrelations mediated by language and texts
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents dialogism as Bakhtin's appropriation and reinterpretation of Kantian architectonics. Holquist is quoted describing dialogism as "a form of architectonics, a general science of ordering parts into a whole." For Bakhtin, the space between minds and the world is dialogic rather than technical and systematized; dialogue is the interrelation of utterances that integrates continuously across differences, and texts are foundational for the disciplines. The article uses dialogism as its theoretical framework for reexamining integration in interdisciplinary education.
@@ -39,7 +39,6 @@ The article presents dialogism as Bakhtin's appropriation and reinterpretation o
 ### Claims
 
 - [Kantian architectonics is an early articulation of constructivism, with knowledge constructed into a system](../claims/kantian-architectonics-early-constructivism.md) [+W]
-- [Interdisciplinarity is almost impossible to practice without the integrative power of texts, which are foundational to the disciplines](../claims/texts-foundational-interdisciplinarity.md) [+W]
 
 ## Related Theories
 

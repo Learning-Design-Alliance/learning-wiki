@@ -48,7 +48,7 @@ The exploratory design (n=31, single urban school, no control condition) limits 
 
 ## Related Claims
 - (none yet linked)
-- [Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues](conceptual-factors-beyond-memory-underlie-sld-mdc-challenges.md) — related
+- Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues — related
 - [The anticipation of where to stop the unit-rate count remained inconsistent and prompt-dependent across subsequent episodes with harder numbers](mdc-stop-anticipation-remains-prompt-dependent.md) — related
 - [A student with learning difficulties independently anticipated where to start a coordinated count but failed to anticipate where to stop the unit-rate count with harder numbers](sld-anticipates-start-but-not-stop-in-mdc-hard-numbers.md) — related
-- [Qualitative observations indicate Fraction Division transfer difficulty stemmed from weak connections between multiplicative/additive strategies and division, while Fraction Generalization difficulty stemmed from varied variable notation experience](transfer-difficulty-qualitative-observations.md) — related
+- Qualitative observations indicate Fraction Division transfer difficulty stemmed from weak connections between multiplicative/additive strategies and division, while Fraction Generalization difficulty stemmed from varied variable notation experience — related

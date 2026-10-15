@@ -44,5 +44,5 @@ The report cites survey data from NCTR network mentors in 2014-15, in which the 
 
 ## Related Claims
 - [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related
-- [Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning](mentor-program-concepts-support-student-teacher-learning.md) — related
+- Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning — related
 - [Mentor teachers' own evaluation ratings were positively related to their student teachers' first-year effectiveness as teachers-of-record](cps-mentor-evaluation-ratings-related-to-student-teachers-first-year-effectiveness.md) — related

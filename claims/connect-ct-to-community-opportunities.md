@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Teachers reported that talks from local figures like Sam and Rusty were emotionally powerful and inspired them to use Appalachian people as examples of scientists to show students their birthplace does not hinder them. [→ Finding kinship in a far away land: The relevance of Japanese cultural perspectives to education research in Eastern Kentucky 2022](#finding-kinship-in-a-far-away-land-the-relevance-of-japanese-cultural-perspectives-to-education-research-in-eastern-kentucky-2022)
@@ -45,5 +46,5 @@ A 2022 research discovery drawn from teacher reflections: a teacher wrote about 
 ## Related Claims
 - [Appalachian culture carries aspirational, resistance, and familial capital that connect to problem-solving and CT](appalachian-cultural-capital-connects-ct.md) — related
 - [Aspirational capital and kinship sustained the Tough As Nails CT initiative through the COVID-19 pandemic](appalachian-cultural-wealth-sustained-ct-project-covid.md) — related
-- [Appalachia's problem-solving heritage may be getting lost or forgotten as the coal industry collapses](appalachian-problem-solving-heritage-lost.md) — related
+- Appalachia's problem-solving heritage may be getting lost or forgotten as the coal industry collapses — related
 - [Eastern Kentucky educators and organizations have focused attention on CS and CT education for K-16 students as part of regional revitalization](eastern-ky-educators-invest-in-k16-cs-ct.md) — related

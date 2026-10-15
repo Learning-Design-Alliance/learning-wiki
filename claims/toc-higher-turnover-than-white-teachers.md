@@ -11,16 +11,16 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gold-2020
-    resource: "https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
-    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/"
+    resource: "https://doi.org/10.51388/20.500.12265/96"
+    title: "Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/ [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)"
     author: Gold, T.
     q: 2
     i: "?"
     kind: review
     rigour: 2
   - id: davis-dixon-2019
-    resource: "https://eric.ed.gov/?id=ED603193"
-    title: "Davis Dixon, Ashley Griffin, and Mark Teoh. (2019). If You Listen, We Will Stay: Why Teachers of Color Leave and How to Disrupt Teacher Turnover. The Education Trust & Teach Plus. https://eric.ed.gov/?id=ED603193"
+    resource: "https://doi.org/10.3102/1445541"
+    title: "Davis Dixon, Ashley Griffin, and Mark Teoh. (2019). If You Listen, We Will Stay: Why Teachers of Color Leave and How to Disrupt Teacher Turnover. The Education Trust & Teach Plus. https://eric.ed.gov/?id=ED603193 [doi:10.3102/1445541](https://doi.org/10.3102/1445541)"
     author: Davis Dixon, Ashley Griffin, and Mark Teoh
     q: 1
     i: "?"
@@ -43,7 +43,7 @@ sources:
 
 ### Gold 2020
 
-Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/
+Gold, T. (2020). Pipeline and Retention of Teachers of Color: Systems and Structures Impeding Growth and Sustainability in the United States. Digital Promise. https://digitalpromise.org/2020/03/24/pipeline-and-retention-of-teachers-of-color-systems-and-structures-impeding-growth-and-sustainability-in-the-united-states/ [doi:10.51388/20.500.12265/96](https://doi.org/10.51388/20.500.12265/96)
 
 `q2 · i?` · `review · r2`
 
@@ -53,7 +53,7 @@ Narrative review citing Carver-Thomas & Darling-Hammond (2017) on turnover: "The
 
 ### Davis Dixon 2019
 
-Davis Dixon, Ashley Griffin, and Mark Teoh. (2019). If You Listen, We Will Stay: Why Teachers of Color Leave and How to Disrupt Teacher Turnover. The Education Trust & Teach Plus. https://eric.ed.gov/?id=ED603193
+Davis Dixon, Ashley Griffin, and Mark Teoh. (2019). If You Listen, We Will Stay: Why Teachers of Color Leave and How to Disrupt Teacher Turnover. The Education Trust & Teach Plus. https://eric.ed.gov/?id=ED603193 [doi:10.3102/1445541](https://doi.org/10.3102/1445541)
 
 `q1 · i?` · `qualitative · r2`
 

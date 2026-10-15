@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jorge-fábrega-2026
-    resource: "https://arxiv.org/abs/2610.02731"
-    title: "Jorge Fábrega. (2026). Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education. Preprint. https://arxiv.org/abs/2610.02731"
+    resource: "https://doi.org/10.48550/arxiv.2610.02731"
+    title: "Jorge Fábrega. (2026). Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education. Preprint. https://arxiv.org/abs/2610.02731 [doi:10.48550/arxiv.2610.02731](https://doi.org/10.48550/arxiv.2610.02731)"
     author: Jorge Fábrega
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Direction is observable in nearly all AI-mediated conversations, while Integration and Evaluation become progressively more observable as conversation length increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Direction is visible in 146 of 150 sampled conversations (97.3%) and in every conversation with at least five student turns. [→ Jorge Fábrega 2026](#jorge-fabrega-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jorge Fábrega 2026
 
-Jorge Fábrega. (2026). Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education. Preprint. https://arxiv.org/abs/2610.02731
+Jorge Fábrega. (2026). Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education. Preprint. https://arxiv.org/abs/2610.02731 [doi:10.48550/arxiv.2610.02731](https://doi.org/10.48550/arxiv.2610.02731)
 
 `q2 · i?` · `associational · r1`
 

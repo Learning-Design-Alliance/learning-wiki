@@ -18,7 +18,7 @@ sources:
 # Classworks
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Classworks is an online, assessment-driven tiered intervention platform that generates individualized learning paths and units for students, used by schools and educators.
@@ -28,8 +28,6 @@ Classworks is an online, assessment-driven tiered intervention platform that gen
 - **Classworks Individualized Learning: assessment-driven online intervention units**: Classworks Individualized Learning is a component of Classworks tiered intervention support composed of online units matched to student learning needs. As the summary states, "An Individualized Learning Path (ILP) is generated from student assessment data and instructional units include direct instruction, activities to apply learning, and a short formative test focused on strengthening a specific skill." Units use media-rich activities with voice, text, video, graphics, photographs, and animation, and are typically implemented by classroom teachers, interventionists, and special educators with no additional staffing. (Classworks Individualized Learning (2022))
 
 ### Claims
-- [Classworks students used the program an average of 11 minutes per week over 30 weeks](../claims/classworks-il-low-weekly-dosage.md) [~W]
-- [Classworks Individualized Learning users scored six points higher on spring math assessment than non-users](../claims/classworks-il-six-point-math-advantage.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,8 +61,6 @@ Classworks Individualized Learning is a component of Classworks tiered intervent
 
 ## Claims
 
-- [Classworks students used the program an average of 11 minutes per week over 30 weeks](../claims/classworks-il-low-weekly-dosage.md) [~W]
-- [Classworks Individualized Learning users scored six points higher on spring math assessment than non-users](../claims/classworks-il-six-point-math-advantage.md) [+W]
 
 ## Related Elements
 - 

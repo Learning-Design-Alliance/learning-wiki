@@ -45,4 +45,4 @@ The webinar description states the research design as "following the academic gr
 ## Related Claims
 - [Students who are deaf or hard of hearing continue to grow and acquire literacy skills well into middle school when tracked across grades 2-8](dhh-students-continue-literacy-growth-into-middle-school.md) — related
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](dhh-students-continue-building-skills-no-elementary-plateau.md) — related
-- [Deaf students plateau at fourth-grade reading skill despite prolonged schooling](deaf-students-reading-plateau-fourth-grade.md) — related
+- Deaf students plateau at fourth-grade reading skill despite prolonged schooling — related

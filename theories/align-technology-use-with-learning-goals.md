@@ -16,7 +16,7 @@ sources:
 # Align technology use with specific learning goals rather than adopting technology for its own sake
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The guide's overarching framework holds that the value of educational technology lies in how it is used, not in the technology itself, because technologies evolve rapidly. Every recommendation rests on one idea: "any use of technology suggested in this guide must be aligned with learning goals or objectives." Instructors should explore available technologies and select those that best align with the pedagogical approach of their courses, using technology to engage students more deeply in content, activate learning processes, and build social connections.
@@ -38,7 +38,6 @@ The guide's overarching framework holds that the value of educational technology
 
 ### Claims
 
-- [Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways](../claims/overarching-conceptions-expanded-multiple-technologies.md) [+W]
 
 ## Related Theories
 

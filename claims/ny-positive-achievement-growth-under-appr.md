@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: nwea-research-2016
-    resource: "https://www.nwea.org/research/publication/students-improve-even-amid-evaluation-controversy/"
-    title: "NWEA Research. (2016). Students improve even amid evaluation controversy. Phi Delta Kappan 98 (2), 58-65. https://www.nwea.org/research/publication/students-improve-even-amid-evaluation-controversy/"
+    resource: "https://doi.org/10.1177/0031721716671910"
+    title: "NWEA Research. (2016). Students improve even amid evaluation controversy. Phi Delta Kappan 98 (2), 58-65. https://www.nwea.org/research/publication/students-improve-even-amid-evaluation-controversy/ [doi:10.1177/0031721716671910](https://doi.org/10.1177/0031721716671910)"
     author: NWEA Research
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### NWEA Research 2016
 
-NWEA Research. (2016). Students improve even amid evaluation controversy. Phi Delta Kappan 98 (2), 58-65. https://www.nwea.org/research/publication/students-improve-even-amid-evaluation-controversy/
+NWEA Research. (2016). Students improve even amid evaluation controversy. Phi Delta Kappan 98 (2), 58-65. https://www.nwea.org/research/publication/students-improve-even-amid-evaluation-controversy/ [doi:10.1177/0031721716671910](https://doi.org/10.1177/0031721716671910)
 
 `q2 · i?` · `associational · r?`
 

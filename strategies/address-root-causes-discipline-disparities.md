@@ -17,7 +17,7 @@ sources:
 # Identify and address the root causes of discipline disparities in schools flagged as disproportionate
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The report recommends that, given persistent disproportionality in exclusionary discipline, educators and policymakers work to "identify and address the root causes of these discipline disparities". It supports this by applying the MSDE definition of disproportionality to administrative data to identify and describe disproportionate schools, giving practitioners a way to locate schools where disparities concentrate before intervening.
@@ -39,7 +39,6 @@ The report recommends that, given persistent disproportionality in exclusionary 
 ## Claims
 
 - [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](../claims/black-students-highest-suspension-rate-persistent.md) [+W]
-- [Black students and students with disabilities are disproportionately subjected to exclusionary discipline relative to their enrollment shares](../claims/discipline-disparities-black-students-disabilities-crdc.md) [+W]
 - [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](../claims/maryland-black-disabilities-twice-discipline-rates.md) [+W]
 - [For the same types of infractions, Black students and students with disabilities were significantly more likely to receive out-of-school suspensions than other subgroups](../claims/same-infractions-black-disabilities-more-suspensions.md) [+W]
 

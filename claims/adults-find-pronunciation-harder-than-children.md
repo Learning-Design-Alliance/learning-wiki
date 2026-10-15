@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Most researchers agree adults find pronunciation more difficult than children and probably will not achieve native-like pronunciation, but language learning experience and self-monitoring ability can offset these limitations to some degree. [→ Florez 1998](#florez-1998)
@@ -49,4 +50,4 @@ Narrative review of research on age effects in pronunciation acquisition, citing
 - [Adults learn languages more quickly than children in the early stages of second language acquisition](adults-faster-early-stage-language-learning.md) — related
 - [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
 - [A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related
-- [The article reports, citing Graham (1985), that teenagers' superiority in language acquisition over adults is due to social factors and peer group influence rather than physiological limits or a critical period](teenage-language-advantage-social-not-physiological.md) — related
+- The article reports, citing Graham (1985), that teenagers' superiority in language acquisition over adults is due to social factors and peer group influence rather than physiological limits or a critical period — related

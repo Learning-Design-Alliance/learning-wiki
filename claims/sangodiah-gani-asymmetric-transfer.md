@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: abdolali-faraji-2026
-    resource: "https://arxiv.org/abs/2606.13684"
-    title: "Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684"
+    resource: "https://doi.org/10.48550/arxiv.2606.13684"
+    title: "Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684 [doi:10.48550/arxiv.2606.13684](https://doi.org/10.48550/arxiv.2606.13684)"
     author: Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Transfer between two specific datasets is asymmetric: Sangodiah-trained models transfer unusually well to Gani questions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` TFPOSIDF+SVM trained on Sangodiah and tested on Gani showed a small weighted F1 increase of 0.02, the only such increase observed. [→ Abdolali Faraji 2026](#abdolali-faraji-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Abdolali Faraji 2026
 
-Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684
+Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684 [doi:10.48550/arxiv.2606.13684](https://doi.org/10.48550/arxiv.2606.13684)
 
 `q2 · i?` · `design · r2`
 

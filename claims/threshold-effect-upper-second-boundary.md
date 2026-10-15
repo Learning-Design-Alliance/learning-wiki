@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dang-2026
-    resource: "https://arxiv.org/abs/2610.07097"
-    title: "Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097"
+    resource: "https://doi.org/10.48550/arxiv.2610.07097"
+    title: "Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097 [doi:10.48550/arxiv.2610.07097](https://doi.org/10.48550/arxiv.2610.07097)"
     author: "Dang, C. T., & Nguyen, A."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dang 2026
 
-Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097
+Dang, C. T., & Nguyen, A. (2026). Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course. https://arxiv.org/abs/2610.07097 [doi:10.48550/arxiv.2610.07097](https://doi.org/10.48550/arxiv.2610.07097)
 
 `q2 · i?` · `causal · r2`
 

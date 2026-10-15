@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Because coaches are pulled in many directions at once, the complexity of the role may fragment coaching and reduce its impact on classroom practice and student learning. [→ Smith 2009](#smith-2009)
@@ -43,5 +44,5 @@ An author interpretation offered in the introduction as motivation for the frame
 
 
 ## Related Claims
-- [Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete.](design-based-research-roles-compete-and-threaten-credible-claims.md) — related
-- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) — reports the opposite
+- Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete. — related
+- Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes — reports the opposite

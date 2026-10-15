@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: paul-savala-2026
-    resource: "https://arxiv.org/abs/2608.13409"
-    title: "Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409"
+    resource: "https://doi.org/10.48550/arxiv.2608.13409"
+    title: "Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409 [doi:10.48550/arxiv.2608.13409](https://doi.org/10.48550/arxiv.2608.13409)"
     author: Paul Savala
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Paul Savala 2026
 
-Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409
+Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409 [doi:10.48550/arxiv.2608.13409](https://doi.org/10.48550/arxiv.2608.13409)
 
 `q2 · i?` · `design · r2`
 
@@ -46,7 +46,7 @@ Comparison experiment on the same institutional dataset (Table 1: TRACE MSE 0.03
 - [Jointly predicting courses and grades reduces grade-prediction MAE by 46.4% versus an identical Transformer that predicts grades only](joint-course-grade-prediction-halves-mae.md) — related
 - [KL-divergence and binary cross-entropy losses for course prediction yield grade prediction within 1-2% of each other](kl-versus-bce-loss-ablation.md) — related
 - [Removing student major from the input marginally improves TRACE performance, suggesting major is recoverable from course history](major-ablation-no-predictive-signal.md) — related
-- [LSTM and LSTM+SK outperform the Bayesian models on predicting quantized learning gains](lstm-best-learning-gain-prediction.md) — related
+- LSTM and LSTM+SK outperform the Bayesian models on predicting quantized learning gains — related
 - [Feature-based ML models reduce next-week forecasting MAE by 22-33% over heuristic baselines for weekly minutes practiced and new skills mastered](ml-outperforms-heuristics-week-ahead-engagement-forecasting.md) — related
 - [The DMO-GRU model achieves the best classification results among the compared models, with 91.2% accuracy, 90.8% F1-score, 90.1% precision and 92.5% recall](dmo-gru-best-classification-results.md) — related
 - [DMO-GRU attains the lowest MAE and RMSE and the highest R2 score among the compared regression models for forecasting student success](dmo-gru-lowest-regression-error-highest-r2.md) — related

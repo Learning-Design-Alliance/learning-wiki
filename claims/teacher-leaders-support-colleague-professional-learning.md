@@ -52,8 +52,8 @@ The brief's opening statement of the teacher-leader role, offered as the authors
 - [Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits](dual-evaluator-coach-role-undermines-learning.md) — related
 - [Each toolkit PLC requires one facilitator who leads sessions and supports educators between them](algebra-toolkit-facilitator-role-requirements.md) — a narrower finding that bears on this claim
 - [District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed](district-leaders-active-role-coaching-success.md) — related
-- [More than three-quarters of educator respondents find coaching valuable and impactful on their practice](educators-find-coaching-valuable-and-impactful.md) — related
-- [The coaching pilot strengthened school leaders' relationships with coaches and led leaders to advocate for full-time dedicated coaches to scale the model](pr-coaching-pilot-relationships-systems-impact.md) — a narrower finding that bears on this claim
+- More than three-quarters of educator respondents find coaching valuable and impactful on their practice — related
+- The coaching pilot strengthened school leaders' relationships with coaches and led leaders to advocate for full-time dedicated coaches to scale the model — a narrower finding that bears on this claim
 - [Creating and leading professional learning for colleagues enhances teacher leaders' sense of professionalism and efficacy](ilc-membership-enhances-teacher-leader-efficacy.md) — related
 - [Creating and leading professional learning for colleagues increases teacher leaders' sense of professional efficacy](leading-colleague-learning-builds-teacher-efficacy.md) — a narrower finding that bears on this claim
 - [More experienced teachers confer benefits to their colleagues and to the school as a whole, as well as to their own students](experienced-teachers-spillover-colleagues-school.md) — related

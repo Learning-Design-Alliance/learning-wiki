@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jin-guo-liu-2026
-    resource: "https://arxiv.org/abs/2606.23315"
-    title: "Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315"
+    resource: "https://doi.org/10.48550/arxiv.2606.23315"
+    title: "Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315 [doi:10.48550/arxiv.2606.23315](https://doi.org/10.48550/arxiv.2606.23315)"
     author: Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The design strained on later proof-heavy topics, and students asked for better artifacts rather than fewer tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Free-text complaints concentrated on reductions, NP-completeness, PSPACE, and an overloaded week, described as too terse. [→ Jin-Guo Liu 2026](#jin-guo-liu-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jin-Guo Liu 2026
 
-Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315
+Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang. (2026). Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests. https://arxiv.org/abs/2606.23315 [doi:10.48550/arxiv.2606.23315](https://doi.org/10.48550/arxiv.2606.23315)
 
 `q2 · i?` · `design · r2`
 

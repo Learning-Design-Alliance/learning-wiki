@@ -18,7 +18,7 @@ sources:
 # Fueling Brains
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Fueling Brains early-childhood program that integrates executive-function development, guided and open-ended play, hands-on learning, and ongoing assessment into pre-kindergarten instruction.
@@ -28,9 +28,6 @@ A Fueling Brains early-childhood program that integrates executive-function deve
 - **Fueling Brains pre-kindergarten executive function program**: Fueling Brains is an early childhood program that "integrates executive function development into pre-kindergarten instruction," grounded in research on neuroplasticity and whole-child development. It "blends guided and open-ended play with hands-on, interactive learning" and targets working memory, cognitive flexibility, and inhibitory control. Instruction is designed to be ecologically authentic, letting children apply skills in real-world contexts, and the program emphasizes data-informed instruction using ongoing assessments. (Fueling Brains (2024))
 
 ### Claims
-- [Fueling Brains pre-kindergarten gains persist to end of kindergarten on six of seven TX-KEA literacy and math subtests](../claims/fueling-brains-gains-persist-kindergarten.md) [+M]
-- [Fueling Brains students significantly outperform matched controls on CIRCLE phonological awareness at end of pre-kindergarten (ES +0.26)](../claims/fueling-brains-phonological-awareness-advantage.md) [+W]
-- [Fueling Brains students significantly outperform matched controls on CIRCLE rapid vocabulary at end of pre-kindergarten (ES +0.18)](../claims/fueling-brains-rapid-vocabulary-advantage.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,9 +61,6 @@ Fueling Brains is an early childhood program that "integrates executive function
 
 ## Claims
 
-- [Fueling Brains pre-kindergarten gains persist to end of kindergarten on six of seven TX-KEA literacy and math subtests](../claims/fueling-brains-gains-persist-kindergarten.md) [+M]
-- [Fueling Brains students significantly outperform matched controls on CIRCLE phonological awareness at end of pre-kindergarten (ES +0.26)](../claims/fueling-brains-phonological-awareness-advantage.md) [+W]
-- [Fueling Brains students significantly outperform matched controls on CIRCLE rapid vocabulary at end of pre-kindergarten (ES +0.18)](../claims/fueling-brains-rapid-vocabulary-advantage.md) [+W]
 
 ## Related Elements
 - 

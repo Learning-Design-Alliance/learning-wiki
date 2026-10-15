@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: viki-m-young-2026
-    resource: "https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30"
-    title: "Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30"
+    resource: "https://doi.org/10.51388/20.500.12265/286"
+    title: "Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30 [doi:10.51388/20.500.12265/286](https://doi.org/10.51388/20.500.12265/286)"
     author: Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Viki M. Young 2026
 
-Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30
+Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30 [doi:10.51388/20.500.12265/286](https://doi.org/10.51388/20.500.12265/286)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -44,4 +44,4 @@ Focus-group findings on assessment and feedback. Students said they know what th
 
 ## Related Claims
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
-- [Students wanted more detailed feedback explaining why answers were incorrect and linking to relevant course content](students-want-detailed-explanatory-feedback.md) — possibly the same claim (merge candidate)
+- Students wanted more detailed feedback explaining why answers were incorrect and linking to relevant course content — possibly the same claim (merge candidate)

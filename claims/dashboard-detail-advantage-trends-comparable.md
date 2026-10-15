@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: huyen-n-nguyen-2026
-    resource: "https://arxiv.org/abs/2606.18692"
-    title: "Huyen N. Nguyen, Kathleen A. Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo. (2026). Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics. arXiv preprint. https://arxiv.org/abs/2606.18692"
+    resource: "https://doi.org/10.48550/arxiv.2606.18692"
+    title: "Huyen N. Nguyen, Kathleen A. Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo. (2026). Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics. arXiv preprint. https://arxiv.org/abs/2606.18692 [doi:10.48550/arxiv.2606.18692](https://doi.org/10.48550/arxiv.2606.18692)"
     author: Huyen N. Nguyen, Kathleen A. Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Huyen N. Nguyen 2026
 
-Huyen N. Nguyen, Kathleen A. Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo. (2026). Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics. arXiv preprint. https://arxiv.org/abs/2606.18692
+Huyen N. Nguyen, Kathleen A. Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo. (2026). Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics. arXiv preprint. https://arxiv.org/abs/2606.18692 [doi:10.48550/arxiv.2606.18692](https://doi.org/10.48550/arxiv.2606.18692)
 
 `q2 · i?` · `design · r2`
 

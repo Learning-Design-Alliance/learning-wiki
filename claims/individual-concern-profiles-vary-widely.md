@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Case profiles show one teacher whose concerns decreased in intensity over the year without ever beginning to use SCIS, and another whose concerns followed the expected wave motion from informational and personal to management to higher-stage concerns. [→ Loucks 1977](#loucks-1977)

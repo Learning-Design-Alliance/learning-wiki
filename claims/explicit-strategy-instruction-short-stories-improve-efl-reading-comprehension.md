@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: üstündağ-algın-2025
-    resource: "https://www.mextesol.net/journal/"
-    title: "Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/"
+    resource: "https://doi.org/10.61871/mj.v49n4-2"
+    title: "Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/ [doi:10.61871/mj.v49n4-2](https://doi.org/10.61871/mj.v49n4-2)"
     author: Üstündağ-Algın, P.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Üstündağ-Algın 2025
 
-Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/
+Üstündağ-Algın, P. (2025). Explicit Instruction of Reading Comprehension Strategies Using Short Stories with EFL Students. MEXTESOL Journal, 49(4). https://www.mextesol.net/journal/ [doi:10.61871/mj.v49n4-2](https://doi.org/10.61871/mj.v49n4-2)
 
 `q2 · i?` · `causal · r1`
 
@@ -49,7 +49,7 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 - [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
-- [Sixth-grade students taught with Direct Instruction showed no statistically significant difference in ITBS reading scores compared with students taught in the regular classroom](direct-instruction-no-significant-reading-difference-sixth-grade.md) — related
+- Sixth-grade students taught with Direct Instruction showed no statistically significant difference in ITBS reading scores compared with students taught in the regular classroom — related
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](efl-students-positive-views-explicit-strategy-instruction.md) — related
 - [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — related
 - [Short stories as classroom tools improved motivation toward L2 reading for most but not all EFL students](short-stories-mixed-motivation-efl-reading.md) — related

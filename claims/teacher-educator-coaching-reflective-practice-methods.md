@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Ojanen's 1993 study of student teachers during field experiences explored the teacher educator's role as coach, finding that personal histories, dialogue journals, and small and large-group discussions help students reflect upon and improve their practices. [→ Ferraro 2000](#ferraro-2000)
@@ -43,6 +44,6 @@ The digest reports a 1993 study by Ojanen of how student teachers develop reflec
 
 
 ## Related Claims
-- [Treating students' personal histories as sources of knowledge makes them part of the classroom curriculum](personal-histories-as-curriculum-sources-of-knowledge.md) — related
-- [Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers](guided-reflection-increases-reflective-judgment-sophistication.md) — related
-- [Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment](contextual-factors-influence-reflective-judgment-demonstration.md) — related
+- Treating students' personal histories as sources of knowledge makes them part of the classroom curriculum — related
+- Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers — related
+- Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment — related

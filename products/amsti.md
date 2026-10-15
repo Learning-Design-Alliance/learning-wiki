@@ -18,7 +18,7 @@ sources:
 # AMSTI
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2` · 0 of 2 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The Alabama Math, Science, and Technology Initiative is a state-run programme that combines summer teacher training, school-year coaching, and rotating instructional materials kits to support hands-on, inquiry-based mathematics and science instruction.
@@ -27,9 +27,6 @@ The Alabama Math, Science, and Technology Initiative is a state-run programme th
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05](../claims/amsti-math-problem-solving-effect-0-05.md) [+M]
-- [AMSTI qualifies for the Promising evidence rating based on one study of 9343 students](../claims/amsti-promising-evidence-rating.md) [+M]
-- [Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies](../claims/amsti-teacher-survey-positive-perceptions.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,9 +62,6 @@ AMSTI is a professional development strategy for elementary and middle school te
 
 ## Claims
 
-- [AMSTI schools scored significantly higher than control schools on math problem solving at the student level, with an average effect size of +0.05](../claims/amsti-math-problem-solving-effect-0-05.md) [+M]
-- [AMSTI qualifies for the Promising evidence rating based on one study of 9343 students](../claims/amsti-promising-evidence-rating.md) [+M]
-- [Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies](../claims/amsti-teacher-survey-positive-perceptions.md) [+W]
 
 ## Related Elements
 

@@ -16,7 +16,7 @@ sources:
 # Catalyst Framework for ePortfolio Practice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A framework asserting three value propositions: ePortfolio initiatives advance student success; making student learning visible, they support reflection, social pedagogy, and deepen learning; and they catalyze learning-centered institutional change. It contains a learning core inscribed by five interlocking sectors — pedagogy, professional development, technology, scaling up, and outcomes assessment — brought together by three design principles: "inquiry, reflection, and integration." The study situates its ePortfolio practice within the pedagogy and outcomes assessment sectors.
@@ -39,10 +39,6 @@ A framework asserting three value propositions: ePortfolio initiatives advance s
 
 ### Claims
 
-- [Eportfolio Effective Self Assessment Information Literacy](../claims/eportfolio-effective-self-assessment-information-literacy.md) [+M]
-- [Evidence of research-as-inquiry knowledge practices and dispositions was not consistent across the three ePortfolio presentation modes, with all three students showing greater evidence in their final in-class presentations](../claims/eportfolio-mode-evidence-inconsistent-across-modes.md) [+W]
-- [Specific research-as-inquiry knowledge practices and dispositions showed gaps in evidence across modes, informing future information literacy instruction](../claims/knowledge-practice-disposition-evidence-gaps.md) [+W]
-- [Two participants showed more research-as-inquiry evidence in webinar and in-class presentations than in their written ePortfolios, while one participant showed more in his written ePortfolio and final presentation than in his webinar](../claims/mode-specific-evidence-patterns-three-teachers.md) [+W]
 
 ## Related Theories
 

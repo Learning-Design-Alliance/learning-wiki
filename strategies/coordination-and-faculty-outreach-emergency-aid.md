@@ -17,7 +17,7 @@ sources:
 # Reduce institutional barriers through cross-department coordination, low-barrier review models, and faculty-based outreach
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Practitioners recommended cross-department coordination and administrative streamlining, citing "low-barrier review models, clearer internal protocols, and shared ownership across financial aid, basic needs, and student support offices as ways to reduce delays and confusion." On the access side, faculty are crucial partners because they are often among the first to notice struggling students, so faculty training and awareness-building can connect students to resources before crises escalate.
@@ -38,7 +38,6 @@ Practitioners recommended cross-department coordination and administrative strea
 
 ## Claims
 
-- [Awareness gaps, stigma, and complex campus systems prevent students from accessing available emergency aid](../claims/student-barriers-emergency-aid-access.md) [+W]
 
 ## Related Strategies
 

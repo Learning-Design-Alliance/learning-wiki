@@ -44,7 +44,7 @@ Descriptive analysis of school size and politics type. The report states "advers
 
 ## Related Claims
 - [The indicator system correctly classifies 96 percent of case-study schools' politics and 92 percent of their improvement approach](indicator-system-validity-96-92-percent.md) — related
-- [The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis](politics-of-local-control-joined-to-school-change.md) — a broader claim this one bears on
+- The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis — a broader claim this one bears on
 - [An estimated 39-46% of Chicago elementary schools show consolidated principal power while 23-32% show strong democracy](prevalence-four-politics-types-chicago-elementary.md) — related
 - [School size is the characteristic most related to teachers' reform and school-quality ratings, with small schools (350 students or fewer) rated most positively](small-schools-more-positive-reform-quality.md) — related
 - Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools — related

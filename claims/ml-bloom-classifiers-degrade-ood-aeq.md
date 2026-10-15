@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: michael-lawrence-castanares-2026
-    resource: "https://arxiv.org/abs/2609.27749"
-    title: "Michael Lawrence Castanares, Princess Ventures, and Allan Tan. (2026). Evaluation of Pre-trained Models for Pedagogical Assessment of NovelAI-Assisted Educational Questions. Preprint. https://arxiv.org/abs/2609.27749"
+    resource: "https://doi.org/10.48550/arxiv.2609.27749"
+    title: "Michael Lawrence Castanares, Princess Ventures, and Allan Tan. (2026). Evaluation of Pre-trained Models for Pedagogical Assessment of NovelAI-Assisted Educational Questions. Preprint. https://arxiv.org/abs/2609.27749 [doi:10.48550/arxiv.2609.27749](https://doi.org/10.48550/arxiv.2609.27749)"
     author: Michael Lawrence Castanares, Princess Ventures, and Allan Tan
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Michael Lawrence Castanares 2026
 
-Michael Lawrence Castanares, Princess Ventures, and Allan Tan. (2026). Evaluation of Pre-trained Models for Pedagogical Assessment of NovelAI-Assisted Educational Questions. Preprint. https://arxiv.org/abs/2609.27749
+Michael Lawrence Castanares, Princess Ventures, and Allan Tan. (2026). Evaluation of Pre-trained Models for Pedagogical Assessment of NovelAI-Assisted Educational Questions. Preprint. https://arxiv.org/abs/2609.27749 [doi:10.48550/arxiv.2609.27749](https://doi.org/10.48550/arxiv.2609.27749)
 
 `q2 · i?` · `design · r2`
 

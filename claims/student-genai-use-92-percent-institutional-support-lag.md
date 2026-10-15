@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: gabelmann-2026
-    resource: "https://arxiv.org/abs/2605.30187"
-    title: "Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187"
+    resource: "https://doi.org/10.48550/arxiv.2605.30187"
+    title: "Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187 [doi:10.48550/arxiv.2605.30187](https://doi.org/10.48550/arxiv.2605.30187)"
     author: Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Gabelmann 2026
 
-Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187
+Gabelmann, J., Jahn, F., Baum, K., van Rossum, S., Wuenscher, E., Gros, T. P., Wolf, V. (2026). Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance. https://arxiv.org/abs/2605.30187 [doi:10.48550/arxiv.2605.30187](https://doi.org/10.48550/arxiv.2605.30187)
 
 `q1 · i?` · `design · r2`
 

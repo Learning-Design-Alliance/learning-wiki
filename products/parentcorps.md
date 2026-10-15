@@ -18,7 +18,7 @@ sources:
 # ParentCorps
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 ParentCorps is a family-engagement and social-emotional learning program that equips early-childhood educators and families through structured professional development, materials, and facilitator support, including the ParentCorps Portal.
@@ -30,9 +30,6 @@ ParentCorps is a family-engagement and social-emotional learning program that eq
 
 ### Claims
 - [ParentCorps improves family engagement measures (Inclusive Leadership, Trust in School Leader, Communication and Trust in Teacher) in a 61-school trial](../claims/parentcorps-family-engagement-school-survey.md) [+W]
-- [ParentCorps improves pre-K students' standardized achievement at the end of kindergarten, with the largest effect in reading](../claims/parentcorps-ktea-achievement-gains.md) [+W]
-- [ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report](../claims/parentcorps-parent-involvement-rater-mixed.md) [+W]
-- [ParentCorps reduces disruptive and antisocial behavior problems among pre-K students](../claims/parentcorps-reduces-behavior-problems.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -105,9 +102,6 @@ ParentCorps, developed by New York University Langone Health's Center for Early 
 ## Claims
 
 - [ParentCorps improves family engagement measures (Inclusive Leadership, Trust in School Leader, Communication and Trust in Teacher) in a 61-school trial](../claims/parentcorps-family-engagement-school-survey.md) [+W]
-- [ParentCorps improves pre-K students' standardized achievement at the end of kindergarten, with the largest effect in reading](../claims/parentcorps-ktea-achievement-gains.md) [+W]
-- [ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report](../claims/parentcorps-parent-involvement-rater-mixed.md) [+W]
-- [ParentCorps reduces disruptive and antisocial behavior problems among pre-K students](../claims/parentcorps-reduces-behavior-problems.md) [+W]
 
 ## Related Elements
 

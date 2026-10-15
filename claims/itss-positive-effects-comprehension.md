@@ -43,5 +43,5 @@ WWC synthesis of two cluster randomized controlled trials (Wijekumar et al., 201
 ## Related Claims
 - [In the grades 4-5 cluster RCT, ITSS produced statistically significant positive effects on all six comprehension outcomes (average effect size 0.24)](itss-grade45-rct-comprehension-gains.md) — a narrower finding that bears on this claim
 - [In the grade 7 cluster RCT, ITSS produced statistically significant positive effects on all eight comprehension outcomes (average effect size 0.23)](itss-grade7-rct-comprehension-gains.md) — a narrower finding that bears on this claim
-- [ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10)](itss-grade4-positive-nonsignificant.md) — related
-- [ITSS qualifies for a Strong evidence rating based on multiple randomized studies with average effect sizes of +0.15 (elementary) and +0.18 (secondary)](itss-strong-evidence-rating.md) — a broader claim this one bears on
+- ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10) — related
+- ITSS qualifies for a Strong evidence rating based on multiple randomized studies with average effect sizes of +0.15 (elementary) and +0.18 (secondary) — a broader claim this one bears on

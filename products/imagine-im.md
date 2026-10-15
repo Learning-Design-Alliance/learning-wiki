@@ -18,7 +18,7 @@ sources:
 # Imagine IM
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Imagine IM is a print and digital K–12 core mathematics curriculum developed by Imagine Learning and certified by Illustrative Mathematics for problem-based, student-centered instruction.
@@ -27,11 +27,7 @@ Imagine IM is a print and digital K–12 core mathematics curriculum developed b
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Imagine IM shows consistent positive impacts on student math achievement across three prospective quasi-experimental studies, with an average effect size of +0.11 across four studies](../claims/imagine-im-average-effect-size-011-moderate-rating.md) [+W]
-- [In a small urban district in Iowa with over 4,400 students in grades K-5, Imagine IM showed directionally positive impacts on FastBridge earlyMath (+0.10) and aMath (+0.04), with significant subgroup effects and no meaningful differences on the state math assessment](../claims/imagine-im-iowa-study-fastbridge-subgroups.md) [+W]
 - [In a Maryland rural fringe district study of over 700 students in grades K-5, Imagine IM showed significant impacts on Acadience Math (+0.26) and Grade 2 NWEA MAP Growth Math (+0.39), with positive but non-significant effects on the state MCAP assessment](../claims/imagine-im-maryland-study-acadience-nwea.md) [+W]
-- [A small retrospective matched study of 502 students in grades K-4 found positive impacts on Acadience (+0.13) and Grade 2 MAP Growth (+0.42), with no differences for 4th grade students on a state math assessment](../claims/imagine-im-retrospective-matched-study-502.md) [+W]
-- [In a matched suburban-district study, Imagine IM showed no differences on GCAS for grades 3-5 but significant positive impacts on the MAP (effect size = +0.38), strongest for students with disabilities and economically disadvantaged students](../claims/imagine-im-suburban-matched-study-map-038.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,11 +61,7 @@ Imagine IM is "an Illustrative Mathematics–certified print and digital math pr
 
 ## Claims
 
-- [Imagine IM shows consistent positive impacts on student math achievement across three prospective quasi-experimental studies, with an average effect size of +0.11 across four studies](../claims/imagine-im-average-effect-size-011-moderate-rating.md) [+W]
-- [In a small urban district in Iowa with over 4,400 students in grades K-5, Imagine IM showed directionally positive impacts on FastBridge earlyMath (+0.10) and aMath (+0.04), with significant subgroup effects and no meaningful differences on the state math assessment](../claims/imagine-im-iowa-study-fastbridge-subgroups.md) [+W]
 - [In a Maryland rural fringe district study of over 700 students in grades K-5, Imagine IM showed significant impacts on Acadience Math (+0.26) and Grade 2 NWEA MAP Growth Math (+0.39), with positive but non-significant effects on the state MCAP assessment](../claims/imagine-im-maryland-study-acadience-nwea.md) [+W]
-- [A small retrospective matched study of 502 students in grades K-4 found positive impacts on Acadience (+0.13) and Grade 2 MAP Growth (+0.42), with no differences for 4th grade students on a state math assessment](../claims/imagine-im-retrospective-matched-study-502.md) [+W]
-- [In a matched suburban-district study, Imagine IM showed no differences on GCAS for grades 3-5 but significant positive impacts on the MAP (effect size = +0.38), strongest for students with disabilities and economically disadvantaged students](../claims/imagine-im-suburban-matched-study-map-038.md) [+W]
 
 ## Related Elements
 - 

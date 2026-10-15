@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: minsun-kim-2026
-    resource: "https://arxiv.org/abs/2607.21257"
-    title: "Minsun Kim, S. Moonwara A. Monisha, Zihan Wu, David H. Smith IV. (2026). Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance. https://arxiv.org/abs/2607.21257"
+    resource: "https://doi.org/10.48550/arxiv.2607.21257"
+    title: "Minsun Kim, S. Moonwara A. Monisha, Zihan Wu, David H. Smith IV. (2026). Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance. https://arxiv.org/abs/2607.21257 [doi:10.48550/arxiv.2607.21257](https://doi.org/10.48550/arxiv.2607.21257)"
     author: Minsun Kim, S. Moonwara A. Monisha, Zihan Wu, David H. Smith IV
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Minsun Kim 2026
 
-Minsun Kim, S. Moonwara A. Monisha, Zihan Wu, David H. Smith IV. (2026). Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance. https://arxiv.org/abs/2607.21257
+Minsun Kim, S. Moonwara A. Monisha, Zihan Wu, David H. Smith IV. (2026). Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance. https://arxiv.org/abs/2607.21257 [doi:10.48550/arxiv.2607.21257](https://doi.org/10.48550/arxiv.2607.21257)
 
 `q2 · i?` · `review · r2`
 

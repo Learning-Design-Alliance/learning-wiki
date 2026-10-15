@@ -63,5 +63,5 @@ A further measurement caveat: self-determination is typically assessed via self-
 - [Belonging interventions improve outcomes.](belonging-interventions-improve-outcomes.md) — like SDLMI, a brief structured intervention whose effects depend on fidelity and population fit
 - [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](self-determination-instruction-improves-outcomes.md) — a broader claim this one bears on
 - [Self Directed IEP Increases Student Participation](self-directed-iep-increases-student-participation.md) — related
-- [Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms](three-options-setting-iep-goals-cbm.md) — related
+- Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms — related
 - [More effective programs targeted teachers, trainees, and individuals with an autonomy causality orientation](recipient-moderators-teachers-trainees-autonomy-orientation.md) — related

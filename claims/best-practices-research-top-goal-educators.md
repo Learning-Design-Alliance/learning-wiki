@@ -43,4 +43,4 @@ Descriptive survey results on ranked research goals (Figure 5). The report asked
 ## Related Claims
 - [Students and tutors rated predetermined LAD constructs similarly in importance but differed in suggesting and ranking new constructs](lad-stakeholders-agree-predetermined-differ-new-constructs.md) — related
 - [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](theorem-theses-confirmed-by-survey.md) — related
-- [In online learning, the perceived importance of teacher and student interaction decreases with student age](online-interaction-priority-decreases-with-age.md) — related
+- In online learning, the perceived importance of teacher and student interaction decreases with student age — related

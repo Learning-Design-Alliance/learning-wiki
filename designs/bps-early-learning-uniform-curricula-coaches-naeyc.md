@@ -17,7 +17,7 @@ sources:
 # Boston Public Schools early learning strategy: uniform early math and literacy curricula, teacher training, coaches, and NAEYC accreditation support
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Boston Public Schools enlists early childhood programming in its achievement acceleration agenda by "implementing uniform mathematics and literacy programs across early learning programs and including teacher training and coaches." Under early childhood director Jason Sachs, BPS expanded full-day kindergarten to every five year old, moved 35 schools toward NAEYC accreditation, and supported Orchard Gardens, which attained accreditation for its preschool and kindergarten classrooms in 2011 with the highest scores in the district. Internal and independent studies reveal positive effects on student performance in both the short and long terms.
@@ -37,7 +37,6 @@ Boston Public Schools enlists early childhood programming in its achievement acc
 - Improved early literacy and mathematics learning supporting short- and long-term achievement
 
 ### Claims
-- [Orchard Gardens Level4 To Level1 Turnaround](../claims/orchard-gardens-level4-to-level1-turnaround.md) [+M]
 
 ## Related Designs
 - 

@@ -18,7 +18,7 @@ sources:
 # TalkingPoints
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 TalkingPoints is an education technology nonprofit's platform that provides universally designed, auto-translated two-way communication and guidance for family-school partnerships.
@@ -28,9 +28,6 @@ TalkingPoints is an education technology nonprofit's platform that provides univ
 - **TalkingPoints Universal Family Engagement platform**: TalkingPoints is an education technology nonprofit platform that "drives student outcomes by facilitating effective family-school partnerships". It removes barriers to engaging with families such as technology, language, capacity, mindsets, and time, providing educators with embedded research-based guidance, data-informed insights, and "universally designed auto-translated two-way communication in families' preferred languages". (Academic Performance (2024))
 
 ### Claims
-- [ELA score gains under TalkingPoints were positive but not statistically significant](../claims/talkingpoints-ela-gains-not-significant.md) [+W]
-- [TalkingPoints use is associated with significant math score improvements in grades 3-8](../claims/talkingpoints-significant-math-gains-grades-3-8.md) [+W]
-- [TalkingPoints holds a Tier 3 (Promising Evidence) rating based on one study of about 30,000 students with an average effect size of +0.06](../claims/talkingpoints-tier3-promising-evidence-rating.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,9 +62,6 @@ TalkingPoints is an education technology nonprofit platform that "drives student
 
 ## Claims
 
-- [ELA score gains under TalkingPoints were positive but not statistically significant](../claims/talkingpoints-ela-gains-not-significant.md) [+W]
-- [TalkingPoints use is associated with significant math score improvements in grades 3-8](../claims/talkingpoints-significant-math-gains-grades-3-8.md) [+W]
-- [TalkingPoints holds a Tier 3 (Promising Evidence) rating based on one study of about 30,000 students with an average effect size of +0.06](../claims/talkingpoints-tier3-promising-evidence-rating.md) [+W]
 
 ## Related Elements
 - 

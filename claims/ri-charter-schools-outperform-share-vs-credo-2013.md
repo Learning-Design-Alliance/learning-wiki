@@ -45,5 +45,5 @@ School-level quality curve analysis of the 31 RI charter schools reports the sha
 ## Related Claims
 - [Demand for Rhode Island charter seats surged, with 30,000 applications submitted for 2,500 available seats in 2024–2025](ri-charter-demand-30000-applications-2500-seats.md) — related
 - [National studies cited in the report found Rhode Island charter students outperformed traditional public school peers in reading and math](ri-charter-students-outperformed-tps-national-studies.md) — related
-- [Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls](ri-charter-positive-gains-reading-math.md) — related
+- Charter attendance in Rhode Island is associated with positive, significant one-year growth gains in reading (0.16 SD) and math (0.15 SD) relative to matched TPS controls — related
 - [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related

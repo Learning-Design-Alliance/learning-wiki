@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ka-yan-fung-2025
-    resource: "https://arxiv.org/abs/2601.01218"
-    title: "Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN. (2025). MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation through Self-Determination Theory. https://arxiv.org/abs/2601.01218"
+    resource: "https://doi.org/10.48550/arxiv.2601.01218"
+    title: "Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN. (2025). MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation through Self-Determination Theory. https://arxiv.org/abs/2601.01218 [doi:10.48550/arxiv.2601.01218](https://doi.org/10.48550/arxiv.2601.01218)"
     author: Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ka Yan Fung 2025
 
-Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN. (2025). MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation through Self-Determination Theory. https://arxiv.org/abs/2601.01218
+Ka Yan Fung, Tze Leung Rick Lui, Yuxing Tao and Kuen Fung SIN. (2025). MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation through Self-Determination Theory. https://arxiv.org/abs/2601.01218 [doi:10.48550/arxiv.2601.01218](https://doi.org/10.48550/arxiv.2601.01218)
 
 `q2 · i?` · `causal · r1`
 

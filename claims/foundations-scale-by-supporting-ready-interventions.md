@@ -43,7 +43,7 @@ The article's stated key finding, offered as an expert assertion about how found
 
 
 ## Related Claims
-- [Magnetic Reading Foundations has a positive and statistically significant effect of +0.15 on second-grade spring i-Ready Diagnostic scores](magnetic-reading-foundations-positive-i-ready-effect.md) — related
+- Magnetic Reading Foundations has a positive and statistically significant effect of +0.15 on second-grade spring i-Ready Diagnostic scores — related
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related
 - [Randomized A/B tests of interventions encouraging higher-level study increased lessons completed per level by more than 10% and increased overall studying activity](ab-tests-level-interventions-increase-lessons.md) — related
-- [Magnetic Reading use had a positive, statistically significant effect on spring i-Ready Diagnostic scores (ES = +0.23) in a 2021-2022 Iowa quasi-experiment](magnetic-reading-iowa-quasi-experiment-023.md) — related
+- Magnetic Reading use had a positive, statistically significant effect on spring i-Ready Diagnostic scores (ES = +0.23) in a 2021-2022 Iowa quasi-experiment — related

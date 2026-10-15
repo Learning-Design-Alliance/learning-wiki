@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mcglonn-nelson-2005
-    resource: "https://eric.ed.gov/?id=EJ746045"
-    title: "McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045"
+    resource: "https://doi.org/10.4219/jsge-2005-391"
+    title: "McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045 [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)"
     author: McGlonn-Nelson, K.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### McGlonn-Nelson 2005
 
-McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045
+McGlonn-Nelson, K. (2005). Looking Outward: Exploring the Intersections of Sociocultural Theory and Gifted Education. The Journal of Secondary Gifted Education, 17(1), 48-55. https://eric.ed.gov/?id=EJ746045 [doi:10.4219/jsge-2005-391](https://doi.org/10.4219/jsge-2005-391)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -46,7 +46,7 @@ Literature review section reporting, citing Johnsen (1997) and Kanevsky (1995), 
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| McGlonn-Nelson 2005 | q2 · theoretical · r2 | i? | this claim |
+| [McGlonn-Nelson 2005](https://doi.org/10.4219/jsge-2005-391) | q2 · theoretical · r2 | i? | this claim |
 | Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989 | q2 · theoretical · r1 | i? | [SAT scores underpredict the academic performance of high school girls, who average lower s](sat-underpredicts-girls-performance.md) (supports); [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math c](mit-lower-sat-math-scores-equal-performance.md) (supports); [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, w](test-scores-gate-gifted-program-entry.md) (qualifies) |
 | Gifted and talented students at risk for underachievement 2008 | q2 · review · r1 | i? | [Culturally and linguistically diverse students are underrepresented in gifted identificati](gifted-underrepresentation-diverse-students.md) (qualifies) |
 <!-- synthesis:end -->

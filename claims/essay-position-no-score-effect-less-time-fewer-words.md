@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Essay scores did not differ between essay-last (Group 1) and essay-first (Group 24) students, but Group 1 had significantly shorter total essay writing time and fewer words. [→ Hongwen Guo 2020](#hongwen-guo-2020)
@@ -43,5 +44,5 @@ Two-sample Wilcoxon rank tests comparing Group 1 and Group 24 on box-plot summar
 
 
 ## Related Claims
-- [The mixed-scenario essay-last design lowered essay scores and reduced essay writing time and word count relative to the single-scenario essay-last design](mixed-scenario-lower-scores-less-writing.md) — related
-- [In the mixed-scenario comparison, the single-scenario essay-last group spent longer time in local-editing and jump-editing states than the mixed-scenario essay-last group](single-vs-mixed-scenario-editing-durations.md) — related
+- The mixed-scenario essay-last design lowered essay scores and reduced essay writing time and word count relative to the single-scenario essay-last design — related
+- In the mixed-scenario comparison, the single-scenario essay-last group spent longer time in local-editing and jump-editing states than the mixed-scenario essay-last group — related

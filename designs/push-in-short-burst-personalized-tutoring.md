@@ -17,7 +17,7 @@ sources:
 # Push-in short-burst tutoring with personalized dosage
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The program's instructional pattern places tutors inside the regular classroom rather than pulling students out: tutors "work with individual students in 5-10 minute increment sessions during blocks of reading instruction or other opportune moments." Session length and frequency vary by student need and rate of progress, with students needing more support meeting daily for periods of time. A student-relay handoff minimizes interruptions to classroom instruction.
@@ -38,8 +38,6 @@ The program's instructional pattern places tutors inside the regular classroom r
 - reading fluency
 
 ### Claims
-- [Chapter One Improves Orf Kindergarten](../claims/chapter-one-improves-orf-kindergarten.md) [+M]
-- [Chapter One Fountas Pinnell Gain Ohio](../claims/chapter-one-fountas-pinnell-gain-ohio.md) [+M]
 
 ## Related Designs
 - 

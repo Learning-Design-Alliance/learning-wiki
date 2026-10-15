@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: andy-gray-2026
-    resource: "https://arxiv.org/abs/2609.21600"
-    title: "Andy Gray, Jake Hobbs. (2026). Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education. arXiv. https://arxiv.org/abs/2609.21600"
+    resource: "https://doi.org/10.48550/arxiv.2609.21600"
+    title: "Andy Gray, Jake Hobbs. (2026). Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education. arXiv. https://arxiv.org/abs/2609.21600 [doi:10.48550/arxiv.2609.21600](https://doi.org/10.48550/arxiv.2609.21600)"
     author: Andy Gray, Jake Hobbs
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Andy Gray 2026
 
-Andy Gray, Jake Hobbs. (2026). Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education. arXiv. https://arxiv.org/abs/2609.21600
+Andy Gray, Jake Hobbs. (2026). Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education. arXiv. https://arxiv.org/abs/2609.21600 [doi:10.48550/arxiv.2609.21600](https://doi.org/10.48550/arxiv.2609.21600)
 
 `q2 · i?` · `design · r2`
 

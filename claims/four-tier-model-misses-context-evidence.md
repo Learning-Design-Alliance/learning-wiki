@@ -58,4 +58,4 @@ The brief reports, citing Ginsburg & Smith (2016), that interventions recognized
 
 
 ## Related Claims
-- [Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards](springboard-summer-outperforms-matched-comparison.md) — related
+- Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards — related

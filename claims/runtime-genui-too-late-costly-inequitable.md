@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: seyed-parsa-neshaei-2026
-    resource: "https://arxiv.org/abs/2606.15902"
-    title: "Seyed Parsa Neshaei, Abhinand Shibu, and Fatma Betül Güres. (2026). The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization. https://arxiv.org/abs/2606.15902"
+    resource: "https://doi.org/10.48550/arxiv.2606.15902"
+    title: "Seyed Parsa Neshaei, Abhinand Shibu, and Fatma Betül Güres. (2026). The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization. https://arxiv.org/abs/2606.15902 [doi:10.48550/arxiv.2606.15902](https://doi.org/10.48550/arxiv.2606.15902)"
     author: Seyed Parsa Neshaei, Abhinand Shibu, and Fatma Betül Güres
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Seyed Parsa Neshaei 2026
 
-Seyed Parsa Neshaei, Abhinand Shibu, and Fatma Betül Güres. (2026). The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization. https://arxiv.org/abs/2606.15902
+Seyed Parsa Neshaei, Abhinand Shibu, and Fatma Betül Güres. (2026). The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization. https://arxiv.org/abs/2606.15902 [doi:10.48550/arxiv.2606.15902](https://doi.org/10.48550/arxiv.2606.15902)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -45,5 +45,5 @@ Theoretical argument in the abstract and introduction of this position paper: co
 ## Related Claims
 - [Instructor verification of AI-generated content before delivery is feasible and crucial for quality, per prior systems reviewed](instructor-verification-feasible-crucial.md) — related
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
-- [Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks](hardening-intervenes-too-late-pathway-violence.md) — related
+- Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks — related
 - [The xOrder fairness method proved inapplicable at institutional scale, with runtime scaling of approximately n^2.36](xorder-intractable-institutional-scale.md) — related

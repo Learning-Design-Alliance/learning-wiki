@@ -72,8 +72,8 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 | [Wong et al. 2019](https://doi.org/10.1080/10447318.2018.1543084) | q3 · review · r2 | i? | this claim |
 | Lallé 2017 | q2 / q3 · associational · r1 | i3; i? | [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportio](review-notes-compliance-predicts-learning-gains.md) (supports); [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proport](revise-summary-compliance-predicts-learning-gains.md) (supports); [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger propor](suggest-subgoal-compliance-predicts-learning-gains.md) (supports); [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-dia](no-learning-effect-for-four-explicit-srl-prompts.md) (qualifies); [No behavioral measure of compliance with MetaTutor's stay-on-page and move-to-next-page pr](no-learning-effect-for-metacognitive-monitoring-prompts.md) (qualifies) |
 | [Belle Dang 2024](https://doi.org/10.18608/jla.2024.8393) | q2 · causal · r1 | i? | [Metacognitive activity alone does not equate to effective regulation; unaccompanied metaco](metacognitive-alone-not-effective-regulation.md) (qualifies) |
-| Abdelghani 2026 | q2 · associational · r? | i? | [Within-session SRL change shows no detectable association with unaided post-test performan](srl-change-no-posttest-association.md) (qualifies) |
-| Sander de Jong 2026 | q1 · theoretical · r2 | i? | [Repeated reflective prompts may habituate, so scaffolding can replace rather than strength](reflective-scaffolding-habituation-deskilling.md) (qualifies) |
+| [Abdelghani 2026](https://doi.org/10.48550/arxiv.2606.28472) | q2 · associational · r? | i? | [Within-session SRL change shows no detectable association with unaided post-test performan](srl-change-no-posttest-association.md) (qualifies) |
+| [Sander de Jong 2026](https://doi.org/10.48550/arxiv.2609.27726) | q1 · theoretical · r2 | i? | [Repeated reflective prompts may habituate, so scaffolding can replace rather than strength](reflective-scaffolding-habituation-deskilling.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -101,7 +101,7 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](students-deficient-monitoring-maintaining-plan.md) — related
+- Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition — related
 - [Metacognitive activity alone does not equate to effective regulation; unaccompanied metacognitive processes may be counterproductive](metacognitive-alone-not-effective-regulation.md) — related
 - [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](metacognition-efficiency-effectiveness-outcomes-claim.md) — a broader claim this one bears on
 - [AI feedback supports or undermines self-regulated practice depending on whether it supports or substitutes for internal monitoring](ai-feedback-support-or-dependence-self-regulation.md) — related

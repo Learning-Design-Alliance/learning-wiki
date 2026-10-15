@@ -18,7 +18,7 @@ sources:
 # CAPIT Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 CAPIT Reading is a blended supplemental PK–3 phonics programme providing explicit, systematic Sound-to-Print instruction through individualized digital learning, immediate feedback, and educator data.
@@ -28,8 +28,6 @@ CAPIT Reading is a blended supplemental PK–3 phonics programme providing expli
 - **CAPIT Reading blended supplemental phonics program**: CAPIT Reading is "a blended supplemental phonics program designed for all three tiers of instruction in PK-3 classrooms." It provides "explicit, systematic phonics instruction through a Sound-to-Print approach," beginning with decoding, encoding, and handwriting and advancing to vocabulary, fluency, and comprehension. Its "competency-based digital platform provides students with individualized instruction and immediate feedback, while equipping educators with actionable data." (CAPIT Reading: Evidence Rating (Moderate) (2024))
 
 ### Claims
-- [CAPIT pre-kindergarten students are more than twice as likely to meet the district's kindergarten readiness benchmark](../claims/capit-reading-kindergarten-readiness-benchmark.md) [+W]
-- [Pre-kindergarten students receiving CAPIT Reading instruction score higher on early literacy assessment than matched peers (effect size +0.19)](../claims/capit-reading-prek-literacy-es-019.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,8 +62,6 @@ CAPIT Reading is "a blended supplemental phonics program designed for all three 
 
 ## Claims
 
-- [CAPIT pre-kindergarten students are more than twice as likely to meet the district's kindergarten readiness benchmark](../claims/capit-reading-kindergarten-readiness-benchmark.md) [+W]
-- [Pre-kindergarten students receiving CAPIT Reading instruction score higher on early literacy assessment than matched peers (effect size +0.19)](../claims/capit-reading-prek-literacy-es-019.md) [+W]
 
 ## Related Elements
 - 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: thang-doan-viet-2026
-    resource: "https://arxiv.org/abs/2607.28647"
-    title: "Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647"
+    resource: "https://doi.org/10.48550/arxiv.2607.28647"
+    title: "Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647 [doi:10.48550/arxiv.2607.28647](https://doi.org/10.48550/arxiv.2607.28647)"
     author: Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # VietEduQwen improves over its base model across all eight exam subjects, with the largest gains in STEM disciplines, and its residual errors concentrate in multi-step computation and cross-concept integration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` VietEduQwen consistently improves over Qwen3-8B across all eight subjects, with the largest gains in Mathematics, Physics, and Chemistry. [→ Thang Doan Viet 2026](#thang-doan-viet-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Thang Doan Viet 2026
 
-Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647
+Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647 [doi:10.48550/arxiv.2607.28647](https://doi.org/10.48550/arxiv.2607.28647)
 
 `q2 · i?` · `design · r2`
 

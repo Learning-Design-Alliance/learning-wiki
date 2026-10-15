@@ -16,7 +16,7 @@ sources:
 # OptimNN: neural-network parameter generation (hypernetwork) for optimizing BKT
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 OptimNN replaces random initialization and direct SGD training of BKT's four per-skill parameters with a feedforward "parameter generation network" f that maps a skill ID to the four BKT parameters, so gradients update the network rather than the parameters themselves. The paper describes it as "similar to hypernetworks (Ha et al., 2017) or black-box adaptation meta learning", an equivalent re-expression of the BKT optimization problem. It reports benefits including improved numerical stability, vastly reduced hyperparameter tuning, flexibility in preventing parameter degeneracy, and empirical performance improvements over SGD and existing optimization methods.
@@ -36,7 +36,6 @@ OptimNN replaces random initialization and direct SGD training of BKT's four per
 - estimating student skill mastery and predicting response correctness in knowledge tracing
 
 ### Claims
-- [Optimnn Lower Rmse Than Em Cgd Sgd](../claims/optimnn-lower-rmse-than-em-cgd-sgd.md) [+M]
 - Optimnn Reg Minimizes Degenerate Parameters [+M]
 
 ## Related Theories

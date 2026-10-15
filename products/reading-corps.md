@@ -18,7 +18,7 @@ sources:
 # Reading Corps
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Reading Corps is an AmeriCorps programme operated through school and community partners that places trained tutors with K–3 students for supplemental evidence-based literacy instruction and assessment.
@@ -28,10 +28,6 @@ Reading Corps is an AmeriCorps programme operated through school and community p
 - **Reading Corps supplemental tutoring program**: Reading Corps is an AmeriCorps program that provides schools with trained literacy tutors for students in Kindergarten through grade 3. Full-time tutors "work with approximately 15-18 students for 20 minutes each day", implementing "evidence-based literacy instruction and assessment protocols" that are "supplemental to the core reading instruction provided at each school". The goal is to raise individual students' literacy levels so they are on track to meet or exceed the next program-specified literacy benchmark. (Reading Corps program description et al. (2024))
 
 ### Claims
-- [In the Minnesota evaluation, second and third graders in Reading Corps scored significantly higher on Oral Reading Fluency at year end](../claims/reading-corps-minnesota-grades-2-3-orf.md) [+W]
-- [In a randomized Minnesota evaluation, K-1 Reading Corps students scored significantly higher on Letter Sound Fluency, Nonsense Word Fluency, and Oral Reading Fluency](../claims/reading-corps-minnesota-k-1-fluency-gains.md) [+W]
-- [Averaging across the two randomized studies, weighted by sample size, Reading Corps produced a mean effect size of +0.36](../claims/reading-corps-pooled-effect-0-36.md) [+W]
-- [In a randomized Wisconsin evaluation, K-1 Reading Corps students significantly outperformed controls on Letter Sound Fluency and Nonsense Word Fluency but not on Oral Reading Fluency](../claims/reading-corps-wisconsin-k-1-outcomes.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,10 +62,6 @@ Reading Corps is an AmeriCorps program that provides schools with trained litera
 
 ## Claims
 
-- [In the Minnesota evaluation, second and third graders in Reading Corps scored significantly higher on Oral Reading Fluency at year end](../claims/reading-corps-minnesota-grades-2-3-orf.md) [+W]
-- [In a randomized Minnesota evaluation, K-1 Reading Corps students scored significantly higher on Letter Sound Fluency, Nonsense Word Fluency, and Oral Reading Fluency](../claims/reading-corps-minnesota-k-1-fluency-gains.md) [+W]
-- [Averaging across the two randomized studies, weighted by sample size, Reading Corps produced a mean effect size of +0.36](../claims/reading-corps-pooled-effect-0-36.md) [+W]
-- [In a randomized Wisconsin evaluation, K-1 Reading Corps students significantly outperformed controls on Letter Sound Fluency and Nonsense Word Fluency but not on Oral Reading Fluency](../claims/reading-corps-wisconsin-k-1-outcomes.md) [+W]
 
 ## Related Elements
 

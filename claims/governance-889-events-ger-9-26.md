@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: anas-h-alzahrani-2026
-    resource: "https://arxiv.org/abs/2605.26870"
-    title: "Anas H. Alzahrani, MD, PhD, MPH. (2026). Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study. arXiv preprint. https://arxiv.org/abs/2605.26870"
+    resource: "https://doi.org/10.48550/arxiv.2605.26870"
+    title: "Anas H. Alzahrani, MD, PhD, MPH. (2026). Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study. arXiv preprint. https://arxiv.org/abs/2605.26870 [doi:10.48550/arxiv.2605.26870](https://doi.org/10.48550/arxiv.2605.26870)"
     author: Anas H. Alzahrani, MD, PhD, MPH
     q: 1
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The memory layer recorded 889 failure, verification, correction, or protocol-proxy events (9.26 per active day), making governance part of the operating environment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q1`
+> **Evidence** · 2 studies · 1 qualitative `r2`, 1 design `r2` · `q1`
 
 ## Subclaims
 `q1 i?` 889 failure, verification, correction, or protocol-proxy events were recorded, a governance-event rate of 9.26 events per active day. [→ Anas H. Alzahrani 2026](#anas-h-alzahrani-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Anas H. Alzahrani 2026
 
-Anas H. Alzahrani, MD, PhD, MPH. (2026). Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study. arXiv preprint. https://arxiv.org/abs/2605.26870
+Anas H. Alzahrani, MD, PhD, MPH. (2026). Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study. arXiv preprint. https://arxiv.org/abs/2605.26870 [doi:10.48550/arxiv.2605.26870](https://doi.org/10.48550/arxiv.2605.26870)
 
 `q1 · i?` · `qualitative · r2`
 

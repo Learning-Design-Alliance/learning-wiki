@@ -64,6 +64,6 @@ Authors' interpretation of the Experiment B follow-up data: even high-quality de
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive prompts activating deep learning strategies produce a marginally significant immediate exam advantage over prompts activating shallow strategies in a real psychology course](deep-prompts-marginal-immediate-exam-advantage.md) — related
 - [Spaced Repetition Improves Retention](spaced-practice-improves-retention.md) — related
-- [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
+- Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall — related
 - [Sporadic, disconnected professional learning does not change practice long term, whereas well-structured programs can build differentiation skills with positive student outcomes](structured-professional-learning-builds-differentiation-skills.md) — related
 - [Shifting away from traditional IRE recitation toward student participation in discussion improves student learning](ire-shift-toward-discussion-improves-learning.md) — related

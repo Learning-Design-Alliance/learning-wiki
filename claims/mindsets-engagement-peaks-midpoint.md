@@ -43,5 +43,5 @@ Three-time-point CLMM on the engagement dataset with ordered time (beginning, mi
 
 
 ## Related Claims
-- [Retrieval latencies increase across successive retrievals from semantic categories, with a significant linear trend and no quadratic trend](retrieval-latency-increases-across-positions.md) — related
+- Retrieval latencies increase across successive retrievals from semantic categories, with a significant linear trend and no quadratic trend — related
 - [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — a broader claim this one bears on

@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The author submits that acting on the recommendations will yield active student writers who focus attentively on peers' responses to prepared problems. [→ DeCiccio 1988](#deciccio-1988)
@@ -63,6 +64,6 @@ A further predicted benefit stated in the conclusion, with no data and no argume
 
 ## Related Claims
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md)
-- [Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing](student-writing-only-as-good-as-conversation-about-writing.md) — related
+- Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing — related
 - [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — a broader claim this one bears on
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related

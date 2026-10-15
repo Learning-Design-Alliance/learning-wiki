@@ -18,7 +18,7 @@ sources:
 # iRCL
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 i-Ready Classroom Mathematics is Curriculum Associates’ core K–8 mathematics curriculum integrating print and digital instructional materials, practice tools, hands-on resources, and professional learning supports.
@@ -30,9 +30,6 @@ i-Ready Classroom Mathematics is Curriculum Associates’ core K–8 mathematics
 - **Lessons grounded in NCTM Effective Mathematics Teaching Practices emphasizing discourse, reasoning, and real-world connections**: iRCL lessons are designed around the Effective Mathematics Teaching Practices from the National Council of Teachers of Mathematics. The page states lessons "emphasize discourse, reasoning, and real-world connections," and the program is closely aligned with grade-level standards and designed to support all learners, including those needing additional scaffolding. (i-Ready Classroom Mathematics (2024))
 
 ### Claims
-- [iRCL effects were consistent across grades, especially pronounced in Grades 4 and 5, with significant benefits for Hispanic, Black, economically disadvantaged, English learner, and disability subgroups](../claims/irecl-grade-and-subgroup-effects.md) [+W]
-- [iRCL students were significantly more likely to meet Typical Growth (+0.17) and Stretch Growth (+0.16) targets](../claims/irecl-growth-targets-017-016.md) [+W]
-- [Students in schools implementing i-Ready Classroom Mathematics outperformed matched comparison peers on the spring i-Ready Diagnostic for Mathematics (average ES +0.10)](../claims/irecl-outperformed-comparison-diagnostic-es-010.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,9 +65,6 @@ iRCL is described as "a core K–8 math curriculum designed to build conceptual 
 
 ## Claims
 
-- [iRCL effects were consistent across grades, especially pronounced in Grades 4 and 5, with significant benefits for Hispanic, Black, economically disadvantaged, English learner, and disability subgroups](../claims/irecl-grade-and-subgroup-effects.md) [+W]
-- [iRCL students were significantly more likely to meet Typical Growth (+0.17) and Stretch Growth (+0.16) targets](../claims/irecl-growth-targets-017-016.md) [+W]
-- [Students in schools implementing i-Ready Classroom Mathematics outperformed matched comparison peers on the spring i-Ready Diagnostic for Mathematics (average ES +0.10)](../claims/irecl-outperformed-comparison-diagnostic-es-010.md) [+W]
 
 ## Related Elements
 
@@ -112,9 +106,6 @@ Curriculum Associates offers "research-driven professional development for a var
 
 ## Claims
 
-- [iRCL effects were consistent across grades, especially pronounced in Grades 4 and 5, with significant benefits for Hispanic, Black, economically disadvantaged, English learner, and disability subgroups](../claims/irecl-grade-and-subgroup-effects.md) [+W]
-- [iRCL students were significantly more likely to meet Typical Growth (+0.17) and Stretch Growth (+0.16) targets](../claims/irecl-growth-targets-017-016.md) [+W]
-- [Students in schools implementing i-Ready Classroom Mathematics outperformed matched comparison peers on the spring i-Ready Diagnostic for Mathematics (average ES +0.10)](../claims/irecl-outperformed-comparison-diagnostic-es-010.md) [+W]
 
 ## Related Elements
 

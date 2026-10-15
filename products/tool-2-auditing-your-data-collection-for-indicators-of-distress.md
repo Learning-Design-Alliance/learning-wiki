@@ -17,7 +17,7 @@ sources:
 # Tool #2: Auditing Your Data Collection for Indicators of Distress
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A structured worksheet for school authorizers to audit how they collect data on indicators of school distress and identify gaps in those processes.
@@ -28,7 +28,6 @@ A structured worksheet for school authorizers to audit how they collect data on 
 
 ### Claims
 
-- [Authorizers can identify distress indicators through existing formal and informal monitoring activities](../claims/existing-monitoring-yields-distress-indicators.md) [+W]
 
 ## Related Products and Programmes
 

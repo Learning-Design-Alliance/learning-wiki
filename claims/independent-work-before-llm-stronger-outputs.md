@@ -45,5 +45,5 @@ The article reports, citing Kosmyna et al. (2025), that independent first engage
 ## Related Claims
 - [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](ai-assistance-performance-without-internalization.md) — related
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
-- [GPT-4 access raised consultant output quality inside the model's frontier but reduced correct solutions just outside it](jagged-frontier-gains-and-losses-consultants.md) — related
+- GPT-4 access raised consultant output quality inside the model's frontier but reduced correct solutions just outside it — related
 - [Merely having access to AI advice nearly eliminates people's willingness to suspend judgment under uncertainty, even when the advice is wrong](ai-access-nearly-eliminates-judgment-suspension.md) — related

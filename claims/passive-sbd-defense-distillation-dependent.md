@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yongli-xiang-2026
-    resource: "https://arxiv.org/abs/2608.03700"
-    title: "Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, Tongliang Liu. (2026). When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills. arXiv. https://arxiv.org/abs/2608.03700"
+    resource: "https://doi.org/10.48550/arxiv.2608.03700"
+    title: "Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, Tongliang Liu. (2026). When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills. arXiv. https://arxiv.org/abs/2608.03700 [doi:10.48550/arxiv.2608.03700](https://doi.org/10.48550/arxiv.2608.03700)"
     author: Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, Tongliang Liu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yongli Xiang 2026
 
-Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, Tongliang Liu. (2026). When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills. arXiv. https://arxiv.org/abs/2608.03700
+Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, Tongliang Liu. (2026). When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills. arXiv. https://arxiv.org/abs/2608.03700 [doi:10.48550/arxiv.2608.03700](https://doi.org/10.48550/arxiv.2608.03700)
 
 `q2 · i?` · `design · r2`
 

@@ -16,7 +16,7 @@ sources:
 # The body as discursive surface: somatic rhetoric as the speaking of the unspoken
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Drawing on postmodern body theorists (Butler, Bell, Irigaray, Raschke), the paper treats the body not as a passive biological agent but as a discursive surface that culture writes upon. When verbal response to conflict is blocked, the body speaks rhetorically through illness, hysteria, self-mutilation, or disordered eating. The paper applies this account to the WPA body, reading illness as a semio-text on which conflict is inscribed, and cites Lyotard's differend and Raschke's "writhing articulation" as its theoretical anchors.
@@ -36,7 +36,6 @@ Drawing on postmodern body theorists (Butler, Bell, Irigaray, Raschke), the pape
 - Understanding and responding constructively to professional conflict in writing program administration
 
 ### Claims
-- [Wpa Conflict Responses Somatic Physical Trope](../claims/wpa-conflict-responses-somatic-physical-trope.md) [+M]
 
 ## Related Theories
 - 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: matthew-p-steinberg-2018
-    resource: "https://www.mathematica.org/publications/reforming-school-discipline-school-level-policy-implementation-and-the-consequences-for-suspended"
-    title: "Matthew P. Steinberg, Johanna Lacoe. (2018). Reforming School Discipline: School-Level Policy Implementation and the Consequences for Suspended Students and Their Peers. American Journal of Education, vol. 125, issue 1. https://www.mathematica.org/publications/reforming-school-discipline-school-level-policy-implementation-and-the-consequences-for-suspended"
+    resource: "https://doi.org/10.1086/699811"
+    title: "Matthew P. Steinberg, Johanna Lacoe. (2018). Reforming School Discipline: School-Level Policy Implementation and the Consequences for Suspended Students and Their Peers. American Journal of Education, vol. 125, issue 1. https://www.mathematica.org/publications/reforming-school-discipline-school-level-policy-implementation-and-the-consequences-for-suspended [doi:10.1086/699811](https://doi.org/10.1086/699811)"
     author: Matthew P. Steinberg, Johanna Lacoe
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Matthew P. Steinberg 2018
 
-Matthew P. Steinberg, Johanna Lacoe. (2018). Reforming School Discipline: School-Level Policy Implementation and the Consequences for Suspended Students and Their Peers. American Journal of Education, vol. 125, issue 1. https://www.mathematica.org/publications/reforming-school-discipline-school-level-policy-implementation-and-the-consequences-for-suspended
+Matthew P. Steinberg, Johanna Lacoe. (2018). Reforming School Discipline: School-Level Policy Implementation and the Consequences for Suspended Students and Their Peers. American Journal of Education, vol. 125, issue 1. https://www.mathematica.org/publications/reforming-school-discipline-school-level-policy-implementation-and-the-consequences-for-suspended [doi:10.1086/699811](https://doi.org/10.1086/699811)
 
 `q3 · i?` · `causal · r?`
 
@@ -50,4 +50,4 @@ Difference-in-differences analysis of a Philadelphia district reform prohibiting
 - [The School District of Philadelphia reformed its student code of conduct in 2012-2013 to prohibit suspensions and expulsions for two types of non-violent student conduct](philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses.md) — related
 - [Many Philadelphia schools did not comply with the policy change prohibiting out-of-school suspension for low-level offenses](many-philadelphia-schools-noncompliant-suspension-ban-low-level-offenses.md) — related
 - [School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions](perry-street-suspension-reduction-culture-turnaround.md) — related
-- [Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100](massachusetts-chapter-222-reduced-black-girls-suspensions.md) — related
+- Massachusetts Chapter 222 coincided with out-of-school suspensions for Black girls falling from 16 to 9 per 100 — related

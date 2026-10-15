@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: muntasir-hoq-2026
-    resource: "https://arxiv.org/abs/2607.05409"
-    title: "Muntasir Hoq, Griffin Pitts, Zhangqi Duan, Arun Balajiee Lekshmi Narayanan, Mohammad Hassany, Andrew Lan, Peter Brusilovsky and Bita Akram. (2026). Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components. CSEDM'26: 10th Educational Data Mining in Computer Science Education Workshop. https://arxiv.org/abs/2607.05409"
+    resource: "https://doi.org/10.48550/arxiv.2607.05409"
+    title: "Muntasir Hoq, Griffin Pitts, Zhangqi Duan, Arun Balajiee Lekshmi Narayanan, Mohammad Hassany, Andrew Lan, Peter Brusilovsky and Bita Akram. (2026). Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components. CSEDM'26: 10th Educational Data Mining in Computer Science Education Workshop. https://arxiv.org/abs/2607.05409 [doi:10.48550/arxiv.2607.05409](https://doi.org/10.48550/arxiv.2607.05409)"
     author: Muntasir Hoq, Griffin Pitts, Zhangqi Duan, Arun Balajiee Lekshmi Narayanan, Mohammad Hassany, Andrew Lan, Peter Brusilovsky and Bita Akram
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Unsupervised hierarchical clustering of knowledge vectors recovers expert bundle structure without bundle labels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Agglomerative clustering reached a best bundle-level ARI of 0.605 with V-measure 0.933, and 76.4% of nearest-neighbor matches were same-bundle. [→ Muntasir Hoq 2026](#muntasir-hoq-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Muntasir Hoq 2026
 
-Muntasir Hoq, Griffin Pitts, Zhangqi Duan, Arun Balajiee Lekshmi Narayanan, Mohammad Hassany, Andrew Lan, Peter Brusilovsky and Bita Akram. (2026). Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components. CSEDM'26: 10th Educational Data Mining in Computer Science Education Workshop. https://arxiv.org/abs/2607.05409
+Muntasir Hoq, Griffin Pitts, Zhangqi Duan, Arun Balajiee Lekshmi Narayanan, Mohammad Hassany, Andrew Lan, Peter Brusilovsky and Bita Akram. (2026). Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components. CSEDM'26: 10th Educational Data Mining in Computer Science Education Workshop. https://arxiv.org/abs/2607.05409 [doi:10.48550/arxiv.2607.05409](https://doi.org/10.48550/arxiv.2607.05409)
 
 `q2 · i?` · `design · r2`
 

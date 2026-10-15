@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The authors' research found that a district-level culture of coaching, framed as non-evaluative partnership, makes teachers more comfortable participating in coaching and owning the change process. [→ Hardy 2021](#hardy-2021)
@@ -45,6 +46,6 @@ Qualitative finding from the authors' three-year coaching study: district encour
 ## Related Claims
 - [District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed](district-leaders-active-role-coaching-success.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - [Teachers reported increasing encouragement of risk-taking while coaches were less confident teachers actually took risks](dlp-risk-taking-perception-gap.md) — related
 - [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](coaching-partnership-voluntary-non-evaluative.md) — related

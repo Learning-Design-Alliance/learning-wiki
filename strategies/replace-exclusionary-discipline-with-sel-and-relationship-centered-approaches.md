@@ -17,7 +17,7 @@ sources:
 # Replace exclusionary discipline for low-level offenses with social-emotional skill teaching, educator supports, implicit-bias training, and relationship-centered schools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (1 associational, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The report recommends a package of evidence-based alternatives to zero-tolerance discipline: "Replacing zero-tolerance policies and the use of suspensions and expulsions for low-level offenses with strategies that teach social-emotional skills," targeted educator supports including caring teacher-student relationships and proactive classroom management, implicit-bias training for all adults working with youth, memoranda of understanding separating educator from law-enforcement discipline, and relationship-centered schools with family and community engagement. States such as California, Michigan, Ohio, and Colorado are presented as implementing these approaches.
@@ -42,7 +42,6 @@ The report recommends a package of evidence-based alternatives to zero-tolerance
 
 ## Claims
 
-- [Exclusionary discipline disproportionately removes students of color and students with disabilities from school](../claims/exclusionary-discipline-disproportionate-students-of-color-disabilities.md) [+W]
 - [Experts attribute their focus on RJ in schools to the failure of zero-tolerance discipline, disciplinary disparities, school climate concerns, holistic community approaches, and connections to youth development models](../claims/expert-motivations-restorative-justice-schools.md) [+W]
 - [The authors interpret the same-offense discipline gap as suggesting possible implicit bias against Black students and students with disabilities](../claims/implicit-bias-possible-discipline-disparities.md) [+W]
 

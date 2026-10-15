@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: thao-m-t-nguyen-and-lap-q-trinh-2011
-    resource: "https://eric.ed.gov/?id=EJ1071083"
-    title: "Thao M. T. Nguyen and Lap Q. Trinh. (2011). Learners' Metacognitive Strategy Use and Reading Comprehension: Insights from a Vietnamese Context. i-manager's Journal of English Language Teaching, Vol. 1 No. 1, January - March 2011. https://eric.ed.gov/?id=EJ1071083"
+    resource: "https://doi.org/10.26634/jelt.1.1.1348"
+    title: "Thao M. T. Nguyen and Lap Q. Trinh. (2011). Learners' Metacognitive Strategy Use and Reading Comprehension: Insights from a Vietnamese Context. i-manager's Journal of English Language Teaching, Vol. 1 No. 1, January - March 2011. https://eric.ed.gov/?id=EJ1071083 [doi:10.26634/jelt.1.1.1348](https://doi.org/10.26634/jelt.1.1.1348)"
     author: Thao M. T. Nguyen and Lap Q. Trinh
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Thao M. T. Nguyen and Lap Q. Trinh 2011
 
-Thao M. T. Nguyen and Lap Q. Trinh. (2011). Learners' Metacognitive Strategy Use and Reading Comprehension: Insights from a Vietnamese Context. i-manager's Journal of English Language Teaching, Vol. 1 No. 1, January - March 2011. https://eric.ed.gov/?id=EJ1071083
+Thao M. T. Nguyen and Lap Q. Trinh. (2011). Learners' Metacognitive Strategy Use and Reading Comprehension: Insights from a Vietnamese Context. i-manager's Journal of English Language Teaching, Vol. 1 No. 1, January - March 2011. https://eric.ed.gov/?id=EJ1071083 [doi:10.26634/jelt.1.1.1348](https://doi.org/10.26634/jelt.1.1.1348)
 
 `q1 · i?` · `qualitative · r2`
 

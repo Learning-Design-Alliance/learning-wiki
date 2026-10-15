@@ -42,5 +42,5 @@ MCMC estimation of the Bayesian DINA model on a filtered EdNet KT1 sample of 5,0
 
 ## Related Claims
 - [A convergence screen excluding non-converged (item, parameter) pairs removed 1.9% of pairs from the benchmark comparison](convergence-screen-removed-1-9-percent-pairs.md) — related
-- [BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima](bkt-bf-cost-identifiability-em-local-minima.md) — related
-- [The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin](em-beats-sgd-fitting-spectral-bkt.md) — related
+- BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima — related
+- The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin — related

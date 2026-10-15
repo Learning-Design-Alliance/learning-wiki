@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: christina-luke-and-viki-m-young-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884"
-    title: "Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884"
+    resource: "https://doi.org/10.51388/20.500.12265/103"
+    title: "Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884 [doi:10.51388/20.500.12265/103](https://doi.org/10.51388/20.500.12265/103)"
     author: Christina Luke and Viki M. Young
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Christina Luke and Viki M. Young 2020
 
-Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884
+Christina Luke and Viki M. Young. (2020). Integrating Micro-credentials into Professional Learning: Lessons from Five Districts. Digital Promise. https://digitalpromise.dspacedirect.org/items/8960df64-de36-4121-8af2-651b343b0884 [doi:10.51388/20.500.12265/103](https://doi.org/10.51388/20.500.12265/103)
 
 `q2 · i?` · `design · r2`
 
@@ -44,6 +44,6 @@ Survey of participating teachers (Figure 2 reports n=49) in the five-district Ch
 
 ## Related Claims
 - [Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers](ct-pd-top-integration-support-54-percent.md) — related
-- [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
+- About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested — related
 - [More than 90 percent of teachers reported monetary bonuses and stipends for time spent would be definitely or very motivating for completing another micro-credential](monetary-incentives-motivating-micro-credentials.md) — related
 - [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related

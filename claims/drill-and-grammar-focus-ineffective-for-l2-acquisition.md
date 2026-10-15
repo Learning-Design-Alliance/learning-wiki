@@ -24,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 11 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-14: Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition -->
 
 ## Subclaims
@@ -62,14 +63,14 @@ The packet's rationale section asserts, citing Krashen (1981a), that "repetitive
 
 ## Related Claims
 
-- [Comprehensible input in natural language contexts is presented as essential to second language acquisition](comprehensible-input-essential-l2-acquisition.md) — related
+- Comprehensible input in natural language contexts is presented as essential to second language acquisition — related
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
 - [Monitoring significantly improves a second language learner's accuracy on learnable rules (subject-verb agreement, regular past tense) in the most monitored style](monitoring-improves-learnable-rule-accuracy.md) — reports the opposite
 - [Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus](error-analysis-limitations.md) — related
 - [Most teachers in China's middle schools used traditional grammar-focused methods in the late 1980s](china-middle-school-teachers-used-traditional-methods-late-1980s.md) — related
 - [Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods](grammar-not-focus-of-sla-synthesis.md) — related
 - [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](mental-representation-not-directly-instructable.md) — a narrower finding that bears on this claim
-- [The ZPD is falsely equated with Krashen's i+1 and with scaffolding in second language studies](zpd-not-equivalent-i-plus-one-or-scaffolding.md) — related
+- The ZPD is falsely equated with Krashen's i+1 and with scaffolding in second language studies — related
 - [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — reports the opposite
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — reports the opposite
 - [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — reports the opposite
@@ -77,7 +78,7 @@ The packet's rationale section asserts, citing Krashen (1981a), that "repetitive
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — reports the opposite
 - [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](instruction-little-effect-on-route-of-acquisition.md) — related
 - [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related
-- [Grammar instruction and skill drills show little carryover to composition success](grammar-drills-little-carryover-composition.md) — related
+- Grammar instruction and skill drills show little carryover to composition success — related
 - [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related
 - [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — reports the opposite
 - [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — reports the opposite

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chao-wen-2026
-    resource: "https://arxiv.org/abs/2606.03626"
-    title: "Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626"
+    resource: "https://doi.org/10.48550/arxiv.2606.03626"
+    title: "Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626 [doi:10.48550/arxiv.2606.03626](https://doi.org/10.48550/arxiv.2606.03626)"
     author: Chao Wen, Jacqueline Staub, and Adish Singla
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Chao Wen 2026
 
-Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626
+Chao Wen, Jacqueline Staub, and Adish Singla. (2026). TURTLEAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics. https://arxiv.org/abs/2606.03626 [doi:10.48550/arxiv.2606.03626](https://doi.org/10.48550/arxiv.2606.03626)
 
 `q2 · i?` · `design · r2`
 

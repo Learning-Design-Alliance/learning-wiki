@@ -18,7 +18,7 @@ sources:
 # Once Early-Reading Program
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Once Early-Reading Program is a school-embedded early-literacy tutoring programme that provides scripted, laptop-delivered one-to-one structured-literacy sessions by trained paraprofessionals for PreK through first-grade students.
@@ -27,10 +27,6 @@ Once Early-Reading Program is a school-embedded early-literacy tutoring programm
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Students who completed 80 or more Once sessions showed meaningfully larger literacy gains, suggesting dosage drives outcomes](../claims/once-dosage-80-sessions-larger-gains.md) [+W]
-- [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](../claims/once-program-improves-fastbridge-kindergarten-reading.md) [+W]
-- [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](../claims/once-rct-no-significant-dibels-effect-low-dosage.md) [-W]
-- [Across two studies, the weighted average effect size of the Once program on early literacy outcomes is +0.14, supporting a Promising evidence rating](../claims/once-weighted-average-effect-size-0-14-promising.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -64,10 +60,6 @@ Once is a school-embedded early literacy tutoring program serving PreK through f
 
 ## Claims
 
-- [Students who completed 80 or more Once sessions showed meaningfully larger literacy gains, suggesting dosage drives outcomes](../claims/once-dosage-80-sessions-larger-gains.md) [+W]
-- [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](../claims/once-program-improves-fastbridge-kindergarten-reading.md) [+W]
-- [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](../claims/once-rct-no-significant-dibels-effect-low-dosage.md) [-W]
-- [Across two studies, the weighted average effect size of the Once program on early literacy outcomes is +0.14, supporting a Promising evidence rating](../claims/once-weighted-average-effect-size-0-14-promising.md) [+W]
 
 ## Related Elements
 

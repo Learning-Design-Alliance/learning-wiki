@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hanchen-david-wang-2026
-    resource: "https://arxiv.org/abs/2602.13280"
-    title: "Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280"
+    resource: "https://doi.org/10.48550/arxiv.2602.13280"
+    title: "Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280 [doi:10.48550/arxiv.2602.13280](https://doi.org/10.48550/arxiv.2602.13280)"
     author: Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma
     q: 2
     i: 0
@@ -30,7 +30,7 @@ sources:
 # In a human Turing test, participants could not reliably distinguish BEAGLE traces from real student data (52.8% accuracy; d′ = 0.15 within the ±0.3 equivalence bound, pTOST = 0.038)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i0` negligible
+> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Turing test classification accuracy was statistically equivalent to chance, with discriminability d′ = 0.15 falling significantly within the equivalence bound of ±0.3. [→ Hanchen David Wang 2026](#hanchen-david-wang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Hanchen David Wang 2026
 
-Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280
+Hanchen David Wang, Clayton Cohn, Zifan Xu, Siyuan Guo, Gautam Biswas, Meiyi Ma. (2026). BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation. Preprint. https://arxiv.org/abs/2602.13280 [doi:10.48550/arxiv.2602.13280](https://doi.org/10.48550/arxiv.2602.13280)
 
 `q2 · i0` · `design · r2`
 

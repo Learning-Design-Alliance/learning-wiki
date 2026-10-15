@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: amogh-sirnoorkar-and-omkar-mamidpalliwar-2026
-    resource: "https://arxiv.org/abs/2607.29385"
-    title: "Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385"
+    resource: "https://doi.org/10.48550/arxiv.2607.29385"
+    title: "Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385 [doi:10.48550/arxiv.2607.29385](https://doi.org/10.48550/arxiv.2607.29385)"
     author: Amogh Sirnoorkar and Omkar Mamidpalliwar
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Amogh Sirnoorkar and Omkar Mamidpalliwar 2026
 
-Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385
+Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385 [doi:10.48550/arxiv.2607.29385](https://doi.org/10.48550/arxiv.2607.29385)
 
 `q2 · i?` · `associational · r1`
 

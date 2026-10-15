@@ -43,4 +43,4 @@ A post-hoc analysis, conducted at a reviewer's request, used timing data reconst
 
 
 ## Related Claims
-- [Longer exposure time (9 sec vs 3 sec per word) improves free recall, with no arousal-by-exposure interaction](longer-exposure-improves-free-recall-no-interaction.md) — related
+- Longer exposure time (9 sec vs 3 sec per word) improves free recall, with no arousal-by-exposure interaction — related

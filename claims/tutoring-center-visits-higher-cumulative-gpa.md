@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cooper-2010
-    resource: "https://eric.ed.gov/?id=EJ887303"
-    title: "Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303"
+    resource: "https://doi.org/10.1080/10790195.2010.10850328"
+    title: "Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303 [doi:10.1080/10790195.2010.10850328](https://doi.org/10.1080/10790195.2010.10850328)"
     author: Cooper, E.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Cooper 2010
 
-Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303
+Cooper, E. (2010). Tutoring Center Effectiveness: The Effect of Drop-In Tutoring. Journal of College Reading and Learning, 40(2). https://eric.ed.gov/?id=EJ887303 [doi:10.1080/10790195.2010.10850328](https://doi.org/10.1080/10790195.2010.10850328)
 
 `q2 · i?` · `associational · r1`
 

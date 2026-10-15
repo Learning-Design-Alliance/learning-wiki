@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: soland-2017
-    resource: "https://www.nwea.org/research/publication/is-teacher-value-added-a-matter-of-scale-the-practical-consequences-of-treating-an-ordinal-scale-as-interval-for-estimation-of-teacher-effects/"
-    title: "Soland, J. (2017). Is teacher value added a matter of scale? The practical consequences of treating an ordinal scale as interval for estimation of teacher effects. Applied Measurement in Education, 30(1), 52–70. https://www.nwea.org/research/publication/is-teacher-value-added-a-matter-of-scale-the-practical-consequences-of-treating-an-ordinal-scale-as-interval-for-estimation-of-teacher-effects/"
+    resource: "https://doi.org/10.1080/08957347.2016.1247844"
+    title: "Soland, J. (2017). Is teacher value added a matter of scale? The practical consequences of treating an ordinal scale as interval for estimation of teacher effects. Applied Measurement in Education, 30(1), 52–70. https://www.nwea.org/research/publication/is-teacher-value-added-a-matter-of-scale-the-practical-consequences-of-treating-an-ordinal-scale-as-interval-for-estimation-of-teacher-effects/ [doi:10.1080/08957347.2016.1247844](https://doi.org/10.1080/08957347.2016.1247844)"
     author: Soland, J.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Soland 2017
 
-Soland, J. (2017). Is teacher value added a matter of scale? The practical consequences of treating an ordinal scale as interval for estimation of teacher effects. Applied Measurement in Education, 30(1), 52–70. https://www.nwea.org/research/publication/is-teacher-value-added-a-matter-of-scale-the-practical-consequences-of-treating-an-ordinal-scale-as-interval-for-estimation-of-teacher-effects/
+Soland, J. (2017). Is teacher value added a matter of scale? The practical consequences of treating an ordinal scale as interval for estimation of teacher effects. Applied Measurement in Education, 30(1), 52–70. https://www.nwea.org/research/publication/is-teacher-value-added-a-matter-of-scale-the-practical-consequences-of-treating-an-ordinal-scale-as-interval-for-estimation-of-teacher-effects/ [doi:10.1080/08957347.2016.1247844](https://doi.org/10.1080/08957347.2016.1247844)
 
 `q2 · i?` · `associational · r?`
 

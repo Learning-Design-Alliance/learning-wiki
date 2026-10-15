@@ -17,7 +17,7 @@ sources:
 # New revenues must be paired with system improvements and accountability, including strengthened fiscal transparency so stakeholders understand how money is being used
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report's Finding 5 holds that "New Revenues Must be Paired With System Improvements and Accountability," reflecting stakeholder views that more resources are necessary only if the public and policymakers are offered assurances that funds will be spent well. Its fourth recommendation operationalizes this: "The state should strengthen fiscal transparency and analysis so that stakeholders understand how money is being used and see the results of that spending." Several interview participants emphasized efficiency, saying how money is used matters as much as or more than total spending level.
@@ -37,7 +37,6 @@ The report's Finding 5 holds that "New Revenues Must be Paired With System Impro
 - Ensuring additional education funding is used effectively to improve student outcomes
 
 ### Claims
-- [Stakeholders Agree Underinvestment Disagree Goals](../claims/stakeholders-agree-underinvestment-disagree-goals.md) [+M]
 
 ## Related Designs
 - 

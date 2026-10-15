@@ -16,7 +16,7 @@ sources:
 # Bartholomew and Horowitz four-category model of adult attachment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article adopts Bartholomew and Horowitz's (1991) model, in which adult attachment is classified into four categories based on combinations of positive and negative models of self and others. "Secure individuals have both a positive self-view and a positive view of others", preoccupied individuals hold a negative self-view with a positive view of others, fearful individuals hold negative views of both, and dismissing individuals hold a positive self-view with a negative view of others. The study uses these four categories, measured with the Relationships Questionnaire, to predict shame, guilt, and loneliness.
@@ -37,10 +37,6 @@ The article adopts Bartholomew and Horowitz's (1991) model, in which adult attac
 
 ### Claims
 
-- [Secure Dismissing Attachment Predict Shame](../claims/secure-dismissing-attachment-predict-shame.md) [+M]
-- [Dismissing Attachment Predicts Lower Guilt](../claims/dismissing-attachment-predicts-lower-guilt.md) [+M]
-- [All Attachment Styles Predict Loneliness](../claims/all-attachment-styles-predict-loneliness.md) [+M]
-- [Gender predicts shame, but not guilt or loneliness, among Turkish university students](../claims/gender-predicts-shame-only-turkish-university-students.md) [+W]
 
 ## Related Theories
 

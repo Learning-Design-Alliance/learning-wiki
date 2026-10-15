@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: oluseyi-olukolaa-2026
-    resource: "https://arxiv.org/abs/2604.04237"
-    title: "Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237"
+    resource: "https://doi.org/10.48550/arxiv.2604.04237"
+    title: "Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237 [doi:10.48550/arxiv.2604.04237](https://doi.org/10.48550/arxiv.2604.04237)"
     author: Oluseyi Olukolaa, Nick Rahimia
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Without the C3 action filter, single actions account for 85–93% of interactions in some seeds, C3 violation rises to 68.3%, and pedagogical appropriateness drops from 1.000 to 0.899. [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Oluseyi Olukolaa 2026
 
-Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237
+Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237 [doi:10.48550/arxiv.2604.04237](https://doi.org/10.48550/arxiv.2604.04237)
 
 `q2 · i?` · `causal · r2`
 

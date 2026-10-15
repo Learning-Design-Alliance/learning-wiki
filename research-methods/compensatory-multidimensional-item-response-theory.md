@@ -17,7 +17,7 @@ sources:
 # Compensatory multidimensional item response theory
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 2 studies (1 causal, 1 associational), `q1`–`q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article presents compensatory multidimensional IRT (MIRT), estimated via the BMIRT program with MCMC (Metropolis-Hastings), as an explanatory framework for combining subtests measuring distinct but overlapping abilities into a composite. Under this framework "having a higher ability on one dimension can potentially compensate for lower ability on a second dimension." The study applied an exploratory two-dimensional compensatory model, with items free to load on either dimension, to Speaking and Listening items scored with 2PPC and 3PL formulations, and used the resulting EAP estimates as multidimensional composite scores.
@@ -28,10 +28,6 @@ The article presents compensatory multidimensional IRT (MIRT), estimated via the
 
 ### Claims
 
-- [Exploratory factor analysis indicates the Oral composite domain is possibly two-dimensional while each single subtest appears one-dimensional, with mixed MIRT model-fit evidence on the two-dimensional structure](../claims/oral-composite-domain-two-dimensional-english-proficiency.md) [+M]
-- [Model-fit statistics disagree on the best calibration for the Oral scale in the lower elementary population but agree on a two-dimensional model for the upper elementary population](../claims/mirt-model-fit-inconsistent-lower-elementary.md) [~M]
-- [The three composite scoring methods yield differently related ability estimates, with the UIRT oral composite correlating far more with Speaking than Listening estimates](../claims/composite-score-estimates-correlation-patterns.md) [~W]
-- [Applying a MIRT model to unidimensional data yields larger difficulty-parameter error but smaller first-dimension discrimination error than multidimensional data](../claims/mirt-recovers-unidimensional-parameters.md) [~W]
 
 ## Related Research Methods
 -
@@ -65,8 +61,6 @@ The article presents compensatory multidimensional IRT (MIRT), estimated via the
 - Measuring oral English language proficiency (speaking and listening) for proficiency determination under No Child Left Behind
 
 ### Claims
-- [Oral Composite Domain Two Dimensional English Proficiency](../claims/oral-composite-domain-two-dimensional-english-proficiency.md) [+M]
-- [Mirt Model Fit Inconsistent Lower Elementary](../claims/mirt-model-fit-inconsistent-lower-elementary.md) [~M]
 
 ## Related Theories
 

@@ -16,7 +16,7 @@ sources:
 # Education 4.0 paradigm
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review describes Education 4.0 as the educational expression of the fourth industrial revolution, in which education takes place amid disrupted technologies such as the Internet of Things, 3D printing, advanced cloud computing, robotics and mainly artificial intelligence. It is "a new paradigm characterized by a shift away from traditional classroom teaching towards more personalized, technology-driven learning experiences". The review identifies three drivers of change: loss of some educational products and processes, transformation of existing ones, and incorporation of new AI-based products, processes, services and structures.
@@ -40,8 +40,6 @@ The review describes Education 4.0 as the educational expression of the fourth i
 - interdisciplinary preparation for complex real-world problems
 
 ### Claims
-- [Ai Four Solution Types Situated Learning](../claims/ai-four-solution-types-situated-learning.md) [+M]
-- [Ai Authenticity Evaluation Reshaping](../claims/ai-authenticity-evaluation-reshaping.md) [+M]
 
 ## Related Theories
 - 

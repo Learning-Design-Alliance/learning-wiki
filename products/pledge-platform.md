@@ -18,7 +18,7 @@ sources:
 # PLEDGE platform
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 PLEDGE is Greenfield Learning's online professional-learning platform, where participating educators complete screeners, set goals, access personalized content, and upload application artifacts.
@@ -28,9 +28,6 @@ PLEDGE is Greenfield Learning's online professional-learning platform, where par
 - **PLEDGE platform for professional learning participants**: The PLEDGE platform is an online professional learning platform that program participants access independently. Participants use it to "complete screeners, set goals, access additional content to personalize and deepen their knowledge, and upload artifacts of application of learning." It was added by Greenfield Learning after the study's completion, together with additional course sessions, to support customized depth and ongoing learning for all educators. (Greenfield Learning's Comprehensive Literacy: Making the Connections (2025))
 
 ### Claims
-- [Students eligible for free or reduced-price lunch showed larger gains (+0.39) from Greenfield-trained teachers on the CAASPP ELA assessment](../claims/greenfield-literacy-frl-larger-gains.md) [+W]
-- [Students receiving special education services showed larger gains (+0.33) from Greenfield-trained teachers on the CAASPP ELA assessment](../claims/greenfield-literacy-sped-larger-gains.md) [+W]
-- [Third graders taught by Greenfield-trained teachers scored higher on the CAASPP ELA assessment than students taught by untrained teachers (effect size +0.23)](../claims/greenfield-literacy-training-caaspp-ela-gain.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,9 +62,6 @@ The PLEDGE platform is an online professional learning platform that program par
 
 ## Claims
 
-- [Students eligible for free or reduced-price lunch showed larger gains (+0.39) from Greenfield-trained teachers on the CAASPP ELA assessment](../claims/greenfield-literacy-frl-larger-gains.md) [+W]
-- [Students receiving special education services showed larger gains (+0.33) from Greenfield-trained teachers on the CAASPP ELA assessment](../claims/greenfield-literacy-sped-larger-gains.md) [+W]
-- [Third graders taught by Greenfield-trained teachers scored higher on the CAASPP ELA assessment than students taught by untrained teachers (effect size +0.23)](../claims/greenfield-literacy-training-caaspp-ela-gain.md) [+W]
 
 ## Related Elements
 

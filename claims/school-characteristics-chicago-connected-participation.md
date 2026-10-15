@@ -62,8 +62,8 @@ School-level descriptive analysis (Figure 7, 649 schools). The report notes nota
 
 
 ## Related Claims
-- [CPS schools are most likely to be strong in effective leaders, collaborative teachers, and ambitious instruction, but least likely to be strong in involved families](cps-individual-essentials-community-patterns.md) — related
+- CPS schools are most likely to be strong in effective leaders, collaborative teachers, and ambitious instruction, but least likely to be strong in involved families — related
 - [Students with greater economic need participated at higher rates in Chicago Connected](economic-need-higher-chicago-connected-participation.md) — related
 - [Teachers' ability to deliver strong instruction depends substantially on the school context, family resources and challenges, and the larger community](instruction-delivery-depends-on-school-context.md) — related
-- [Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01](minnesota-choice-participation-grew-1-to-17-percent.md) — related
+- Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01 — related
 - [Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it](professional-development-individual-initiative-pattern.md) — related

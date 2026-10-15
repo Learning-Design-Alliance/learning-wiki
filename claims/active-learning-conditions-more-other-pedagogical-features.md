@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Quizzes appeared in 36.4% of active learning conditions versus 5.8% of lecture conditions, homework in 59.8% versus 25.0%, and learning/exam preparation in 18.2% versus 3.8%. [→ Martella 2021](#martella-2021)

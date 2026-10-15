@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yilin-jiang-2026
-    resource: "https://arxiv.org/abs/2608.09548"
-    title: "Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548"
+    resource: "https://doi.org/10.48550/arxiv.2608.09548"
+    title: "Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548 [doi:10.48550/arxiv.2608.09548](https://doi.org/10.48550/arxiv.2608.09548)"
     author: Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Chinese-developed models lead the safety module, with the refusal gap concentrated on region-specific normative content (difference-in-differences of 28.9 points)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 1 associational `r1`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` U.S.-developed systems decline 39.5–50.4% of refusable requests while three of four Chinese-developed general models decline 94.7–99.0% and the safety-specialized variant declines 99.7%. [→ Yilin Jiang 2026](#yilin-jiang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yilin Jiang 2026
 
-Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548
+Yilin Jiang, Xiaorong Zhu, Fei Tan, Zicheng Zhang, Kaiyi Huang, Yang Yu, Zexuan Fei, Yiming Luo, Keqian Li, Hao Hao, Guangtao Zhai, Aimin Zhou. (2026). ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models. https://arxiv.org/abs/2608.09548 [doi:10.48550/arxiv.2608.09548](https://doi.org/10.48550/arxiv.2608.09548)
 
 `q2 · i?` · `design · r2`
 
@@ -62,5 +62,5 @@ Refusal-category analysis in the results section. The article prints a differenc
 
 
 ## Related Claims
-- [Family-level permutation tests do not detect reliable reasoning-versus-non-reasoning differences in accuracy, refusal, or consistency](family-permutation-tests-null-differences.md) — related
-- [Without required figures, multimodal LLMs overwhelmingly refuse rather than guess on image-Required math items](mllms-refuse-without-required-figures.md) — related
+- Family-level permutation tests do not detect reliable reasoning-versus-non-reasoning differences in accuracy, refusal, or consistency — related
+- Without required figures, multimodal LLMs overwhelmingly refuse rather than guess on image-Required math items — related

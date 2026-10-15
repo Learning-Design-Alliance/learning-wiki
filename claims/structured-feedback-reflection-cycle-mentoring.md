@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sempowicz-2011
-    resource: "https://ro.ecu.edu.au/ajte/vol36/iss8/1"
-    title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1"
+    resource: "https://doi.org/10.14221/ajte.2011v36n8.4"
+    title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1 [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)"
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The mentor established a structure for reflection and feedback comprising open-ended questions, listening to responses, and providing suggestions and encouragement for future action. [→ Sempowicz 2011](#sempowicz-2011)
@@ -40,7 +40,7 @@ sources:
 
 ### Sempowicz 2011
 
-Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
+Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1 [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -67,8 +67,8 @@ Analysis of the mentee's 15 written reflections showed she internalised a three-
 - [Mentee participation in a school-wide positive behaviour support program (Program Achieve) enabled confident implementation of learned strategies in other lessons](program-achieve-participation-builds-mentee-behaviour-management-confidence.md) — related
 - [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](repeated-short-lessons-scaffold-mentee-behaviour-management.md) — a narrower finding that bears on this claim
 - [Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time](mentor-mentee-talk-time-classroom-management-dialogues.md) — related
-- [Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment](contextual-factors-influence-reflective-judgment-demonstration.md) — related
-- [Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers](guided-reflection-increases-reflective-judgment-sophistication.md) — related
+- Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment — related
+- Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers — related
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related
 - [LO assessment supported by CA tools prompted faculty toward more authentic, participatory, and reflective teaching practices](ca-assessment-prompts-authentic-reflective-teaching.md) — related
 - [Hattie's synthesis identifies lesson study, formative evaluation of teaching, discussion of learning, and feedback as instructional factors with high effect sizes on student learning](hattie-high-effect-size-instructional-factors.md) — related

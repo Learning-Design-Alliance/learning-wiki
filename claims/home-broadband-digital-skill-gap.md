@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: weaver-2022
-    resource: "https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d"
-    title: "Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d"
+    resource: "https://doi.org/10.51388/20.500.12265/166"
+    title: "Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)"
     author: "Weaver, D'Andre J., Ph.D."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Weaver 2022
 
-Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d
+Weaver, D'Andre J., Ph.D. (2022). Delivering on the Promise of Digital Equity. Digital Promise. https://digitalpromise.dspacedirect.org/items/38939984-18ea-4af0-8081-c787ac30d48d [doi:10.51388/20.500.12265/166](https://doi.org/10.51388/20.500.12265/166)
 
 `q2 · i?` · `associational · r?`
 
@@ -50,5 +50,5 @@ The report cites a study of rural Michigan school districts: "students with no h
 - [Implementation data show teachers shifted independent practice toward in-class ASSISTments assignments, a change the study links to more equitable access for rural students with limited home connectivity](assistments-classwork-shift-rural-equity.md) — related
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related
-- [Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas](technology-access-barriers-fafsa-implementation.md) — related
+- Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas — related
 - [Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related

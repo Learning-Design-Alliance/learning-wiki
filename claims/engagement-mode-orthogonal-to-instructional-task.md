@@ -44,7 +44,7 @@ A definitional statement in Section 1, illustrated with Table 1: while reading, 
 
 ## Related Claims
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
-- [Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight](icap-modes-across-ai-literacy-studies.md) — related
+- Included AI literacy activities spanned all four ICAP modes, with passive modes in nine studies, active in five, constructive in seven, and interactive in eight — related
 - [Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive](uneven-icap-mode-distribution-across-units.md) — related
 - [Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing](passive-engagement-aid-subzone-mis-skilling.md) — related
 - [Teachers had minimal success designing Constructive and Interactive activities after ICAP professional development](teachers-struggle-designing-interactive-activities.md) — related

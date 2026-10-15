@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gregorio-orlando-2026
-    resource: "https://arxiv.org/abs/2609.38737"
-    title: "Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737"
+    resource: "https://doi.org/10.48550/arxiv.2609.38737"
+    title: "Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737 [doi:10.48550/arxiv.2609.38737](https://doi.org/10.48550/arxiv.2609.38737)"
     author: Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 2 causal `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Perceived learning support was higher for AIfred (4.5/5 vs. 3.4/5, p<.001), as were innovation (4.5 vs. 3.5, p<.001) and user satisfaction (4.2 vs. 3.5, p=.04). [→ Gregorio Orlando 2026](#gregorio-orlando-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Gregorio Orlando 2026
 
-Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737
+Gregorio Orlando, Milan Groshev, Eduardo Castelló Ferrer. (2026). AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk. https://arxiv.org/abs/2609.38737 [doi:10.48550/arxiv.2609.38737](https://doi.org/10.48550/arxiv.2609.38737)
 
 `q2 · i?` · `causal · r1`
 

@@ -67,7 +67,7 @@ Replication RCT with 144 ninth-graders with emotional or behavioral disabilities
 - [Check & Connect shows no discernible effect on on-time high school completion](check-and-connect-no-effect-on-time-completion.md) — related
 - [Check & Connect increases the percentage still enrolled at end of fourth year (supplemental finding)](check-and-connect-still-enrolled-supplemental.md) — a narrower finding that bears on this claim
 - [ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention](alas-staying-in-school-positive-end-of-intervention.md) — related
-- [BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study](barr-reduces-ninth-grade-chronic-absenteeism.md) — related
+- BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — related
 - [Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63](dropout-programs-or-163-completion.md) — a broader claim this one bears on
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related

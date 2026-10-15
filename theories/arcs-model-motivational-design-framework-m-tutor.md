@@ -16,7 +16,7 @@ sources:
 # ARCS Motivational Design Model as a diagnostic framework for computer-based learning motivation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article adopts Keller's ARCS model as both theoretical framework and measurement basis, holding that "learning motivation is influenced by four components: Attention, Relevance, Confidence, and Satisfaction". Each IMMS survey item maps to one component, allowing diagnosis of which component is deficient and prescription of targeted motivational strategies, with pre- and post-surveys evaluating effectiveness. The study applied this to diagnose low Satisfaction among students using the M-Tutor MATLAB tutorial.
@@ -36,8 +36,6 @@ The article adopts Keller's ARCS model as both theoretical framework and measure
 - learning MATLAB syntax with a computer-based tutorial
 
 ### Claims
-- [Pre Survey Satisfaction Lowest Arcs Component](../claims/pre-survey-satisfaction-lowest-arcs-component.md) [+M]
-- [Glossary Intervention Lowered Satisfaction M Tutor](../claims/glossary-intervention-lowered-satisfaction-m-tutor.md) [~M]
 
 ## Related Theories
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: thomas-2026
-    resource: "https://arxiv.org/abs/2603.29141"
-    title: "Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141"
+    resource: "https://doi.org/10.48550/arxiv.2603.29141"
+    title: "Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141 [doi:10.48550/arxiv.2603.29141](https://doi.org/10.48550/arxiv.2603.29141)"
     author: "Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Thomas 2026
 
-Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141
+Thomas, D.R., Borchers, C., Vanacore, K.P., Koedinger, K.R., & Kizilcec, R.F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. https://arxiv.org/abs/2603.29141 [doi:10.48550/arxiv.2603.29141](https://doi.org/10.48550/arxiv.2603.29141)
 
 `q2 · i?` · `theoretical · r2`
 

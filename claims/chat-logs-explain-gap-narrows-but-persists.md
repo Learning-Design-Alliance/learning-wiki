@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: guillermo-cruces-2026
-    resource: "https://www.socialscienceregistry.org/trials/16607"
-    title: "Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607"
+    resource: "https://doi.org/10.2139/ssrn.6246347"
+    title: "Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607 [doi:10.2139/ssrn.6246347](https://doi.org/10.2139/ssrn.6246347)"
     author: Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Guillermo Cruces 2026
 
-Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607
+Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607 [doi:10.2139/ssrn.6246347](https://doi.org/10.2139/ssrn.6246347)
 
 `q2 · i?` · `causal · r3`
 

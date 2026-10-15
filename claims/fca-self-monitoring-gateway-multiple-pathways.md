@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: gibson-2025
-    resource: "https://arxiv.org/abs/2605.24142"
-    title: "Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2025). A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints. https://arxiv.org/abs/2605.24142"
+    resource: "https://doi.org/10.48550/arxiv.2605.24142"
+    title: "Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2025). A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints. https://arxiv.org/abs/2605.24142 [doi:10.48550/arxiv.2605.24142](https://doi.org/10.48550/arxiv.2605.24142)"
     author: "Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Formal concept analysis identifies self-monitoring as the primary developmental gateway and multiple viable pathways to expertise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Formal concept analysis of the scenario taxonomy found self-monitoring present in all scenarios beyond foundational novice, and that bidirectional integration and bottom-up specialization represent viable alternative routes to expertise. [→ Gibson 2025](#gibson-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Gibson 2025
 
-Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2025). A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints. https://arxiv.org/abs/2605.24142
+Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2025). A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints. https://arxiv.org/abs/2605.24142 [doi:10.48550/arxiv.2605.24142](https://doi.org/10.48550/arxiv.2605.24142)
 
 `q2 · i?` · `theoretical · r2`
 

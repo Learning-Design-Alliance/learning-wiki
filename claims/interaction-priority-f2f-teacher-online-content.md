@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Across four university contexts, students ranked teacher interaction first for face-to-face instruction and content interaction first for online instruction. [→ Miyazoe 2010](#miyazoe-2010)
@@ -44,6 +45,6 @@ Survey of 236 students across four universities using the Interaction Equivalenc
 
 ## Related Claims
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
-- [Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses](interaction-priority-skill-vs-knowledge-orientation.md) — related
-- [Students' general expectations of interaction for learning quality show no single priority order common to all](no-universal-interaction-priority-order.md) — related
+- Students prioritize teacher interaction in skill-oriented language courses but show no unified preference in knowledge-oriented general education courses — related
+- Students' general expectations of interaction for learning quality show no single priority order common to all — related
 - [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](theorem-theses-confirmed-by-survey.md) — a broader claim this one bears on

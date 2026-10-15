@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: digital-promise-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8"
-    title: "Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8"
+    resource: "https://doi.org/10.51388/20.500.12265/99"
+    title: "Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8 [doi:10.51388/20.500.12265/99](https://doi.org/10.51388/20.500.12265/99)"
     author: Digital Promise
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Digital Promise 2020
 
-Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8
+Digital Promise. (2020). Every Learner Everywhere and Lighthouse Institutions: First-Year Experiences. https://digitalpromise.dspacedirect.org/items/abf8db78-dc7a-4f4f-b06a-b00d1bda63e8 [doi:10.51388/20.500.12265/99](https://doi.org/10.51388/20.500.12265/99)
 
 `q2 · i?` · `associational · r1`
 
@@ -44,6 +44,6 @@ Online survey of instructors at nine of 10 piloting institutions; 39 courseware-
 
 ## Related Claims
 - [Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns](student-focus-group-perceptions-courseware.md) — related
-- [About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness](instructor-involvement-supports-courseware-use.md) — related
+- About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness — related
 - [Adaptive courseware in a corequisite statistics course was associated with improved course outcomes, particularly for Pell-eligible and corequisite students, but effects are confounded with instructor practices](wileyplus-adaptive-courseware-statistics-outcomes.md) — related
-- [Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience](interviews-undergrad-stats-lumen-one-perceptions.md) — related
+- Digital Promise and Achieving the Dream interviewed undergraduate statistics students about their Lumen One courseware experience — related

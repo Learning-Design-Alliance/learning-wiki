@@ -44,4 +44,4 @@ The authors characterize the state of the aided AAC evidence base for individual
 
 ## Related Claims
 - [Aided AAC interventions had large effects on targeted behavioral outcomes in individuals with ASD, per a meta-analysis of 24 single-case studies](aided-aac-large-effects-asd-single-case-meta-analysis.md) — related
-- [Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses](heterogeneity-limits-aac-reviews.md) — related
+- Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` On average only about half of MOOC registrants ever viewed a lecture and only about four percent ever finished a course entirely, per a late-2013 University of Pennsylvania study. [→ Karen Cator 2014](#karen-cator-2014)

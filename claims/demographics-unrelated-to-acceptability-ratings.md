@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Point biserial correlations showed only one demographic variable (currently receiving counseling for anxiety) significantly related to acceptability, correlated with BRT ratings (r = .25, p = .01). [→ Lundervold 2013](#lundervold-2013)
@@ -49,5 +50,5 @@ Point biserial correlations (Table 2) related demographic and anxiety/PD history
 - [No significant interaction between age group and treatment type in acceptability ratings](no-age-by-treatment-interaction-acceptability.md) — related
 - [Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices](demographics-trivial-effects-conceptions.md)
 - [Younger and older adults do not differ in treatment acceptability ratings for GAD with Parkinson's disease](no-age-cohort-difference-treatment-acceptability.md)
-- [Training outcomes were unrelated to tenure: no relationships were established with years employed in DCPS or years in the field of education](sdm-training-outcomes-unrelated-to-tenure.md) — related
-- [Family demographics were largely unrelated to goal setting, with child gender the only associated variable](demographics-unrelated-to-goal-activity.md) — related
+- Training outcomes were unrelated to tenure: no relationships were established with years employed in DCPS or years in the field of education — related
+- Family demographics were largely unrelated to goal setting, with child gender the only associated variable — related

@@ -63,4 +63,4 @@ Weighted and unweighted mean absolute deviation computed per task for both halve
 
 ## Related Claims
 - [CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495](ccm-external-validation-correlations-pre-post-tests.md) — related
-- [Standard BKT fits Raging Skies pilot process data with acceptable RMSE and good accuracy under 10-fold cross-validation](bkt-fits-raging-skies-process-data.md) — related
+- Standard BKT fits Raging Skies pilot process data with acceptable RMSE and good accuracy under 10-fold cross-validation — related

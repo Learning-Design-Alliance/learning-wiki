@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zhengxu-li-2026
-    resource: "https://arxiv.org/abs/2605.10672"
-    title: "Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672"
+    resource: "https://doi.org/10.48550/arxiv.2605.10672"
+    title: "Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672 [doi:10.48550/arxiv.2605.10672](https://doi.org/10.48550/arxiv.2605.10672)"
     author: Zhengxu Li, Junling Wang, and April Yi Wang
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zhengxu Li 2026
 
-Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672
+Zhengxu Li, Junling Wang, and April Yi Wang. (2026). When Should Teachers Control AI Generation for Mathematics Visuals? arXiv preprint. https://arxiv.org/abs/2605.10672 [doi:10.48550/arxiv.2605.10672](https://doi.org/10.48550/arxiv.2605.10672)
 
 `q3 · i?` · `causal · r2`
 

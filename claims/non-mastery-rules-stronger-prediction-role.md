@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hooshyar-2026
-    resource: "https://arxiv.org/abs/2604.08263"
-    title: "Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263"
+    resource: "https://doi.org/10.48550/arxiv.2604.08263"
+    title: "Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263 [doi:10.48550/arxiv.2604.08263](https://doi.org/10.48550/arxiv.2604.08263)"
     author: Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hooshyar 2026
 
-Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263
+Hooshyar, D.; Šír, G.; Yang, Y.; Kärkkäinen, T.; Hämäläinen, R.; Krivich, E.; Cukurova, M.; Gašević, D.; Azevedo, R. (2026). Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling. arXiv preprint. https://arxiv.org/abs/2604.08263 [doi:10.48550/arxiv.2604.08263](https://doi.org/10.48550/arxiv.2604.08263)
 
 `q1 · i?` · `design · r2`
 
@@ -44,6 +44,6 @@ The abstract reports a global-explanation analysis of the learnable rule weights
 
 ## Related Claims
 - [Symbolic knowledge injection improves temporal reliability of predictions, yielding lower early- and mid-sequence errors and the lowest prediction inconsistency rates across sequence lengths](responsible-dkt-temporal-reliability.md) — related
-- [Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses](bkt-mastery-floor-above-learn-rate.md) — related
-- [BKTransformer's generated parameters evolve intuitively with student response sequences, supporting interpretability of mastery and correctness predictions](bkt-parameter-evolution-interpretability.md) — related
+- Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses — related
+- BKTransformer's generated parameters evolve intuitively with student response sequences, supporting interpretability of mastery and correctness predictions — related
 - [Responsible-DKT outperforms a neural-symbolic baseline without knowledge injection and a fully data-driven PyTorch DKT in predictive accuracy across training ratios and sequence lengths](responsible-dkt-outperforms-baselines-predictive-accuracy.md) — related

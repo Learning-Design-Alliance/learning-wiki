@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Both immediate and delayed penny-per-idea reward produced significantly more ideas than control conditions on creativity tasks. [→ Ward 1970](#ward-1970)
@@ -46,7 +47,7 @@ Experiment with 191 fifth-grade children randomly assigned to Control, Immediate
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Rewarding only 'good' ideas in a final task produced no incentive effect, but this condition was confounded and excluded from the main analysis](good-idea-reward-no-incentive-effect.md) — related
 - [Reward effects hold across individual creativity tasks, with immediate reward significant on all four tasks and delayed reward on three](reward-effects-hold-across-individual-tasks.md) — a narrower finding that bears on this claim
-- [Reward does not reduce the relation between baseline and rewarded creativity performance, supporting a capacity rather than motivational interpretation of individual differences](reward-leaves-creativity-individual-differences-unchanged.md) — related
-- [Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged](baseline-group-effect-no-sex-order-effects.md) — related
-- [The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ](creativity-dimension-present-in-lower-ses-children.md) — related
+- Reward does not reduce the relation between baseline and rewarded creativity performance, supporting a capacity rather than motivational interpretation of individual differences — related
+- Baseline performance differed by later treatment group for two tasks, with the delayed-reward group giving fewer baseline responses, while no sex or order effects emerged — related
+- The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ — related
 - [Peer response groups increase the number of idea units in English learners' writing but show no significant effect on composition quality or sentences written (Prater & Bermudez, 1993)](peer-response-groups-writing-idea-units.md) — related

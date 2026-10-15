@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: structural-audit
+    resource: "https://doi.org/10.48550/arxiv.2609.06095"
     title: structural-audit
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### structural-audit
 
-Seth Bernstein and Naaz Sibia. 2026. Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education. Koli Calling '26. https://arxiv.org/abs/2609.06095
+Seth Bernstein and Naaz Sibia. 2026. Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education. Koli Calling '26. https://arxiv.org/abs/2609.06095 [doi:10.48550/arxiv.2609.06095](https://doi.org/10.48550/arxiv.2609.06095)
 
 `q2 · i?` · `qualitative · r3`
 

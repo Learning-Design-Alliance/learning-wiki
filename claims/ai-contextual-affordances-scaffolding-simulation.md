@@ -58,11 +58,11 @@ Thematic synthesis codes 14 studies to authentic interaction simulation, reporti
 
 
 ## Related Claims
-- [AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support](ai-four-solution-types-situated-learning.md) — a broader claim this one bears on
+- AI presents four solution types for overcoming situated learning barriers: adaptive systems, intelligent tutoring in authentic scenarios, administrative automation, and data-driven teacher support — a broader claim this one bears on
 - [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — related
-- [Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners](khanmigo-meaning-focus-partially-supported.md) — related
+- Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners — related
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
-- [Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning](khanmigo-language-learning-potential-fully-supported.md) — related
+- Khanmigo fully supports the language learning potential criterion through abundant input, extended output, adaptive feedback, and negotiation of meaning — related
 - [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](ai-improves-speaking-proficiency-feedback-practice.md) — related
 - [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](ai-adaptive-pathways-support-engagement.md) — related
 - [A systematic review identifies four overarching themes of factors affecting student engagement in adaptive learning platforms: system quality, information quality, learner characteristics and preferences, and affordances that mimic real-life social interactions](four-themes-engagement-adaptive-platforms.md) — a broader claim this one bears on

@@ -16,7 +16,7 @@ sources:
 # Instructional coaching frameworks: Knight's four forms and the multidisciplinary skills-process-development framework
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 review, 1 qualitative), `q2`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The paper organizes coaching models in education, distinguishing coaching's "partnership-type relationship" from hierarchical mentorship. It presents Knight's (2007) four common forms — executive, coactive, Cognitive Coaching, and instructional coaching, the last helping teachers "incorporate research-based instructional practices" — and Kurz et al.'s (2017) multidisciplinary framework focusing coaching on skills, process, and development, where how teachers do something matters as much as what they do.
@@ -40,8 +40,6 @@ The paper organizes coaching models in education, distinguishing coaching's "par
 - [Coaching Meta Analysis Positive Effects Instruction Achievement](../claims/coaching-meta-analysis-positive-effects-instruction-achievement.md) [+M]
 - [Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality](../claims/coaching-focus-instructional-delivery-versus-behavior-management.md) [+W]
 - [Video-based analysis of teacher-student interactions mediates positive coaching outcomes, and challenging teachers supports reflection but is uncommon](../claims/video-analysis-mediation-coaching-outcomes.md) [+W]
-- [Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills](../claims/requisite-coach-characteristics-qualitative-findings.md) [+W]
-- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](../claims/coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) [+W]
 
 ## Related Theories
 

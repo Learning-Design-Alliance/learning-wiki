@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: heejin-do-2026
-    resource: "https://arxiv.org/abs/2609.03215"
-    title: "Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215"
+    resource: "https://doi.org/10.48550/arxiv.2609.03215"
+    title: "Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215 [doi:10.48550/arxiv.2609.03215](https://doi.org/10.48550/arxiv.2609.03215)"
     author: Heejin Do, Jakub Kontak, Mrinmaya Sachan
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Zero-shot prompting collapses proficiency variation toward an idealized high-scoring student population, while SFT and GRPO match the human score and length distributions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Zero-shot prompting shows a strong bias toward high-scoring essays (mean normalized score 0.74, 25% at the cap) versus a human mean of 0.58; SFT (0.57) and GRPO (0.53) closely match the human distribution. [→ Heejin Do 2026](#heejin-do-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Heejin Do 2026
 
-Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215
+Heejin Do, Jakub Kontak, Mrinmaya Sachan. (2026). SWIM: Student Writing Simulation via Proficiency-Conditioned Generation. arXiv preprint arXiv:2609.03215. https://arxiv.org/abs/2609.03215 [doi:10.48550/arxiv.2609.03215](https://doi.org/10.48550/arxiv.2609.03215)
 
 `q2 · i?` · `causal · r2`
 

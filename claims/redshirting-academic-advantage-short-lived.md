@@ -47,7 +47,7 @@ The fact sheet summarizes multiple studies comparing redshirted students with st
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Kindergarten redshirting: What families should know 2026 | q2 · review · r? | i? | this claim |
-| Angela Johnson 2020 | q3 · causal · r? | i? | [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd](entry-age-growth-rate-tradeoff.md) (supports) |
+| [Angela Johnson 2020](https://doi.org/10.1080/19345747.2021.1894519) | q3 · causal · r? | i? | [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd](entry-age-growth-rate-tradeoff.md) (supports) |
 | Megan Kuhfeld 2026 | q2 · associational · r2 | i? | [Redshirting kindergartners likely carries costs that outweigh its academic benefits](redshirting-costs-outweigh-academic-benefits.md) (supports) |
 | Malone 2006 | q3 · associational · r? | i? | [At the end of first grade, children whose kindergarten entry was delayed were behind their](delayed-entrants-behind-in-math-first-grade.md) (supports); [At the end of first grade, children whose kindergarten entry was delayed demonstrated slig](delayed-entrants-slightly-higher-reading-first-grade.md) (qualifies); [At the end of first grade, children who repeated kindergarten had lower reading and math k](repeaters-lower-reading-math-end-first-grade.md) (qualifies) |
 <!-- synthesis:end -->

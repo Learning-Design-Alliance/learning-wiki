@@ -16,7 +16,7 @@ sources:
 # Universal Grammar parameter-setting account of L2 adverb-position acquisition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article adopts the generative view that Universal Grammar is available in second language acquisition, so that syntactic positions of adverbs are "universally determined and what people have to do is the work of parameter setting". Under this account, adjuncts can be left- or right-adjoined depending on language parameter settings, and learners need only set the parameter value for the target language, which "can be achieved easily through little learning". The author applies this to English versus Chinese adverb placement within TP and VP.
@@ -38,9 +38,7 @@ The article adopts the generative view that Universal Grammar is available in se
 
 ### Claims
 
-- [Adult L2 Learners Judge Adverb Positions Acceptability](../claims/adult-l2-learners-judge-adverb-positions-acceptability.md) [+M]
 - [No L1 Transfer Manner Adverb Positions](../claims/no-l1-transfer-manner-adverb-positions.md) [+M]
-- [The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope](../claims/learners-acquire-adverb-positions-and-scope.md) [+W]
 
 ## Related Theories
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: dennis-2022
-    resource: "https://www.cjlt.ca"
-    title: "Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca"
+    resource: "https://doi.org/10.21432/cjlt28123"
+    title: "Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca [doi:10.21432/cjlt28123](https://doi.org/10.21432/cjlt28123)"
     author: Dennis, J.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dennis 2022
 
-Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca
+Dennis, J. (2022). (Re)Framing Our Frames: Architectonics, Intertextuality, and the Scholarship of Integration in Online Education. Canadian Journal of Learning and Technology, 48(2). https://www.cjlt.ca [doi:10.21432/cjlt28123](https://doi.org/10.21432/cjlt28123)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -43,6 +43,6 @@ Theoretical synthesis section reporting Bransford et al.'s learning-science acco
 
 
 ## Related Claims
-- [Review identifies gaps: CDST studies isolate learner from environment and define what constitutes a system vaguely](cdst-research-gaps-learner-environment-system-definition.md) — related
-- [Traditional cognitive and CHAT paradigms differ on six dimensions of learning research (definition of learning, technology's role, assessment focus, context, evaluator role, data collection)](chat-versus-cognitive-paradigm-comparison.md) — related
+- Review identifies gaps: CDST studies isolate learner from environment and define what constitutes a system vaguely — related
+- Traditional cognitive and CHAT paradigms differ on six dimensions of learning research (definition of learning, technology's role, assessment focus, context, evaluator role, data collection) — related
 - The scholarship of integration is the least examined frame in Boyer's model of scholarship — related

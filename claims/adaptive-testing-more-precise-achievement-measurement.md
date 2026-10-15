@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` In a general biology course, an adaptive test provided substantially more precise estimates of achievement level than conventional tests across the entire achievement range while reducing test length. [→ Weiss 1980](#weiss-1980)
@@ -44,8 +45,8 @@ Information comparison study (Research Report 77-7) administering conventional a
 
 ## Related Claims
 - [An adaptive mastery testing strategy reduces test length by 30% to 81% while reaching the same mastery decision as the conventional test for 96% of trainees](adaptive-mastery-testing-reduces-length-preserves-decisions.md) — related
-- [One- and two-parameter ICC scoring yields highly similar achievement estimates, while the three-parameter model reduces similarity, especially for adaptive test data](icc-scoring-methods-estimate-similarity.md) — related
-- [Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items](adaptive-tests-equal-validity-fewer-items.md) — related
-- [An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality](inter-subtest-branching-halves-battery-length.md) — related
+- One- and two-parameter ICC scoring yields highly similar achievement estimates, while the three-parameter model reduces similarity, especially for adaptive test data — related
+- Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items — related
+- An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality — related
 - [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](cmi-ela-test-precision-declines-above-40th-percentile.md) — related
 - [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tripathi-2026
-    resource: "https://arxiv.org/abs/2605.21962"
-    title: "Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962"
+    resource: "https://doi.org/10.48550/arxiv.2605.21962"
+    title: "Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962 [doi:10.48550/arxiv.2605.21962](https://doi.org/10.48550/arxiv.2605.21962)"
     author: "Tripathi, P., & Kapralos, B."
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tripathi 2026
 
-Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962
+Tripathi, P., & Kapralos, B. (2026). AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems. arXiv. https://arxiv.org/abs/2605.21962 [doi:10.48550/arxiv.2605.21962](https://doi.org/10.48550/arxiv.2605.21962)
 
 `q1 · i?` · `review · r2`
 
@@ -43,8 +43,8 @@ The chapter identifies six challenges for Phase VI systems, citing prior work. N
 
 
 ## Related Claims
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
-- [Training large AI models carries substantial environmental and human labor costs](ai-training-environmental-labor-costs.md) — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
+- Training large AI models carries substantial environmental and human labor costs — related
 - [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - Few AIED 2025 papers report computational costs or discuss environmental impacts, and reporting is non-standardized — related

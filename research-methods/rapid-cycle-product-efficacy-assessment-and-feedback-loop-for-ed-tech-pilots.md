@@ -17,7 +17,7 @@ sources:
 # Rapid cycle product efficacy assessment and feedback loop for ed-tech pilots
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 design), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 design), `q2`–`q3` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A district-centric, practitioner-focused process in which university researchers help districts pilot ed-tech products, gather mixed-methods efficacy data across five dimensions (student learning, student engagement, teacher support, teacher satisfaction, administrator satisfaction), and feed synthesized findings back to developers. The team "provided feedback via phone or face-to-face meetings to engage the product developers in open and frank discussions about the positives as well as the problems teachers and students encountered using the product." Feedback led to concrete design-change proposals for some products and pilot-process improvements for others.
@@ -30,7 +30,6 @@ A district-centric, practitioner-focused process in which university researchers
 ### Claims
 - [After eight months of eSpark usage in first-grade ELA classrooms, NWEA reading percentile scores showed no pattern of increasing achievement](../claims/espark-no-nwea-achievement-gains-first-grade.md) [+M]
 - [In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time](../claims/espark-post-quiz-mastery-failure-rate.md) [+M]
-- [K-2 students showed sustained high engagement with Puzzlets, choosing it as their first station choice 27 out of 36 times](../claims/puzzlets-high-engagement-station-choice.md) [+M]
 - [Allocation to Medly improved post-test GCSE science attainment relative to business-as-usual self-directed revision (Hedges' g = 0.33)](../claims/medly-micro-rct-improves-gcse-science-attainment.md) [+M]
 
 ## Related Research Methods
@@ -69,7 +68,6 @@ A district-centric, practitioner-focused process in which university researchers
 ### Claims
 - [Espark No Nwea Achievement Gains First Grade](../claims/espark-no-nwea-achievement-gains-first-grade.md) [+M]
 - [Espark Post Quiz Mastery Failure Rate](../claims/espark-post-quiz-mastery-failure-rate.md) [+M]
-- [Puzzlets High Engagement Station Choice](../claims/puzzlets-high-engagement-station-choice.md) [+M]
 
 ## Related Theories
 - 

@@ -73,8 +73,8 @@ some configurations.
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — phonemic sensitivity as a predictor, in first-language reading
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general principle this instantiates
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
-- [Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition](morpheme-order-similarity-across-l1-backgrounds.md) — related
-- [Adults may have superior language learning capabilities in vocabulary and language structure](adults-superior-vocabulary-structure-learning.md) — related
+- Morpheme difficulty orders were similar across first-language backgrounds, suggesting universals in language acquisition — related
+- Adults may have superior language learning capabilities in vocabulary and language structure — related
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](mother-tongue-affects-sla-production.md) — related
 - [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
 - [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](cross-linguistic-transfer-skill-specific.md) — related

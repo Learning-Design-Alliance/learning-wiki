@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: chenguang-pan-2026
-    resource: "https://arxiv.org/abs/2608.21165"
-    title: "Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165"
+    resource: "https://doi.org/10.48550/arxiv.2608.21165"
+    title: "Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165 [doi:10.48550/arxiv.2608.21165](https://doi.org/10.48550/arxiv.2608.21165)"
     author: Chenguang Pan, Airui Meng, and Youmi Suk
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Decision quality collapses toward the majority action in severely imbalanced settings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Under severe imbalance with an X-learner, the mentee recommends treatment for every harmed student (UnsafeTreat = 1.000), where the mentor already recommends treatment for 0.926 of them. [→ Chenguang Pan 2026](#chenguang-pan-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Chenguang Pan 2026
 
-Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165
+Chenguang Pan, Airui Meng, and Youmi Suk. (2026). Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics. arXiv. https://arxiv.org/abs/2608.21165 [doi:10.48550/arxiv.2608.21165](https://doi.org/10.48550/arxiv.2608.21165)
 
 `q2 · i?` · `design · r2`
 

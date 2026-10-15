@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: perry-2026
-    resource: "https://eric.ed.gov/?id=ED681340"
-    title: "Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://eric.ed.gov/?id=ED681340"
+    resource: "https://doi.org/10.36315/2026inpact105"
+    title: "Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://eric.ed.gov/?id=ED681340 [doi:10.36315/2026inpact105](https://doi.org/10.36315/2026inpact105)"
     author: "Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Perry 2026
 
-Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://eric.ed.gov/?id=ED681340
+Perry, R., Nucci, D., Walters, K., McKinney, D., Nielsen, S., & Hannan, M. (2026). Measuring what matters: Considerations for measuring the implementation of high-quality instructional materials in mathematics. WestEd. https://eric.ed.gov/?id=ED681340 [doi:10.36315/2026inpact105](https://doi.org/10.36315/2026inpact105)
 
 `q2 · i?` · `design · r1`
 

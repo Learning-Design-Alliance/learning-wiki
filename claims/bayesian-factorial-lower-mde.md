@@ -19,8 +19,8 @@ sources:
     kind: theoretical
     rigour: 2
   - id: daniel-kassler-2019
-    resource: "https://www.mathematica.org/publications/ja-beyond-treatment-versus-control-how-bayesian-analysis-makes-factorial-experiments-feasible"
-    title: "Daniel Kassler, Ira Nichols-Barrer, Mariel Finucane. (2019). Beyond “Treatment Versus Control”: How Bayesian Analysis Makes Factorial Experiments Feasible in Education Research. Evaluation Review (online ahead of print). https://www.mathematica.org/publications/ja-beyond-treatment-versus-control-how-bayesian-analysis-makes-factorial-experiments-feasible"
+    resource: "https://doi.org/10.1177/0193841x18818903"
+    title: "Daniel Kassler, Ira Nichols-Barrer, Mariel Finucane. (2019). Beyond “Treatment Versus Control”: How Bayesian Analysis Makes Factorial Experiments Feasible in Education Research. Evaluation Review (online ahead of print). https://www.mathematica.org/publications/ja-beyond-treatment-versus-control-how-bayesian-analysis-makes-factorial-experiments-feasible [doi:10.1177/0193841x18818903](https://doi.org/10.1177/0193841x18818903)"
     author: Daniel Kassler, Ira Nichols-Barrer, Mariel Finucane
     q: 2
     i: "?"
@@ -53,7 +53,7 @@ Simulation study: the authors "repeatedly simulate factorial experiments with a 
 
 ### Daniel Kassler 2019
 
-Daniel Kassler, Ira Nichols-Barrer, Mariel Finucane. (2019). Beyond “Treatment Versus Control”: How Bayesian Analysis Makes Factorial Experiments Feasible in Education Research. Evaluation Review (online ahead of print). https://www.mathematica.org/publications/ja-beyond-treatment-versus-control-how-bayesian-analysis-makes-factorial-experiments-feasible
+Daniel Kassler, Ira Nichols-Barrer, Mariel Finucane. (2019). Beyond “Treatment Versus Control”: How Bayesian Analysis Makes Factorial Experiments Feasible in Education Research. Evaluation Review (online ahead of print). https://www.mathematica.org/publications/ja-beyond-treatment-versus-control-how-bayesian-analysis-makes-factorial-experiments-feasible [doi:10.1177/0193841x18818903](https://doi.org/10.1177/0193841x18818903)
 
 `q2 · i?` · `theoretical · r2`
 

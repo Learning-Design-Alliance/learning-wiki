@@ -16,7 +16,7 @@ sources:
 # Dewey's theory of inquiry: reflection as the instrument that resolves problematic situations
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Dewey's theory of inquiry, which the paper calls the centerpiece of his philosophy and often equated with scientific method, holds that much behavior is automatic, driven by habit and impulse. When these are blocked, activity becomes problematic, and inquiry begins with the recognition of the problematic. Alternative actions are tried out in thought—what Dewey calls deliberation or reflection—and are assessed as hypotheses for their likely consequences, then evaluated against actual outcomes. The paper presents this as the study of thought as an instrumentality in inquiry, Dewey's own term for it being instrumentalism.
@@ -39,7 +39,6 @@ Dewey's theory of inquiry, which the paper calls the centerpiece of his philosop
 
 ### Claims
 
-- [The limited empirical literature on administrative decisionmaking supports the utility of reflective procedures](../claims/decisionmaking-literature-supports-reflective-procedures.md) [+M]
 
 ## Related Theories
 

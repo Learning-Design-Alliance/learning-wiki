@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: luis-p-prieto-2026
-    resource: "https://arxiv.org/abs/2609.07715"
-    title: "Luis P. Prieto, Yannis Dimitriadis. (2026). An emancipatory vision for designing (generative) AI for learner flourishing. International Workshop on Critical and More-than-human Perspectives on AI in Education (at EC-TEL 2026). https://arxiv.org/abs/2609.07715"
+    resource: "https://doi.org/10.48550/arxiv.2609.07715"
+    title: "Luis P. Prieto, Yannis Dimitriadis. (2026). An emancipatory vision for designing (generative) AI for learner flourishing. International Workshop on Critical and More-than-human Perspectives on AI in Education (at EC-TEL 2026). https://arxiv.org/abs/2609.07715 [doi:10.48550/arxiv.2609.07715](https://doi.org/10.48550/arxiv.2609.07715)"
     author: Luis P. Prieto, Yannis Dimitriadis
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Luis P. Prieto 2026
 
-Luis P. Prieto, Yannis Dimitriadis. (2026). An emancipatory vision for designing (generative) AI for learner flourishing. International Workshop on Critical and More-than-human Perspectives on AI in Education (at EC-TEL 2026). https://arxiv.org/abs/2609.07715
+Luis P. Prieto, Yannis Dimitriadis. (2026). An emancipatory vision for designing (generative) AI for learner flourishing. International Workshop on Critical and More-than-human Perspectives on AI in Education (at EC-TEL 2026). https://arxiv.org/abs/2609.07715 [doi:10.48550/arxiv.2609.07715](https://doi.org/10.48550/arxiv.2609.07715)
 
 `q1 · i?` · `theoretical · r3`
 

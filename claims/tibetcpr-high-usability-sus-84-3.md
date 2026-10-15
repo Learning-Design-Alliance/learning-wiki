@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yibo-meng-2026
-    resource: "https://arxiv.org/abs/2606.07765"
-    title: "Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding. (2026). TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet. arXiv. https://arxiv.org/abs/2606.07765"
+    resource: "https://doi.org/10.48550/arxiv.2606.07765"
+    title: "Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding. (2026). TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet. arXiv. https://arxiv.org/abs/2606.07765 [doi:10.48550/arxiv.2606.07765](https://doi.org/10.48550/arxiv.2606.07765)"
     author: Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yibo Meng 2026
 
-Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding. (2026). TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet. arXiv. https://arxiv.org/abs/2606.07765
+Yibo Meng, Ruiqi Chen, Zhiming Liu, and Xiaolan Ding. (2026). TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet. arXiv. https://arxiv.org/abs/2606.07765 [doi:10.48550/arxiv.2606.07765](https://doi.org/10.48550/arxiv.2606.07765)
 
 `q3 · i?` · `causal · r2`
 

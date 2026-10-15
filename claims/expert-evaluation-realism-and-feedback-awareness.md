@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: pascal-riachi-2026
-    resource: "https://arxiv.org/abs/2606.17786"
-    title: "Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler. (2026). Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars. https://arxiv.org/abs/2606.17786"
+    resource: "https://doi.org/10.48550/arxiv.2606.17786"
+    title: "Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler. (2026). Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars. https://arxiv.org/abs/2606.17786 [doi:10.48550/arxiv.2606.17786](https://doi.org/10.48550/arxiv.2606.17786)"
     author: Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pascal Riachi 2026
 
-Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler. (2026). Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars. https://arxiv.org/abs/2606.17786
+Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler. (2026). Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars. https://arxiv.org/abs/2606.17786 [doi:10.48550/arxiv.2606.17786](https://doi.org/10.48550/arxiv.2606.17786)
 
 `q2 · i?` · `design · r2`
 

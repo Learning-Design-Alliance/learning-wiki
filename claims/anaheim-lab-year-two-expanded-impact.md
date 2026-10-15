@@ -44,4 +44,4 @@ Qualitative follow-up documented in the report's addendum on year two at Anaheim
 
 ## Related Claims
 - [Lab supervision, staffing, scheduling, and sustainability are key challenges for school AI labs](ai-lab-staffing-supervision-challenges.md) — related
-- [Students who experienced the technology-enhanced class were far more favorable toward technology (76.0%) than no-technology students (20.4%)](student-survey-favorable-toward-lab-technology.md) — related
+- Students who experienced the technology-enhanced class were far more favorable toward technology (76.0%) than no-technology students (20.4%) — related

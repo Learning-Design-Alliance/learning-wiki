@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In online instructional design, peer assessment has become widely used, producing a shift from teacher-controlled assessment to combined teacher and peer assessment, with learners revising work based on peer feedback before teacher evaluation. [→ Online peer assisted learning community model and its application in ZJNU 2008](#online-peer-assisted-learning-community-model-and-its-application-in-zjnu-2008)

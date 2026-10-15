@@ -16,7 +16,7 @@ sources:
 # Berliner's stages of pedagogical expertise development as a grouping framework for teacher expertise research
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article applies Berliner's (1988) proposed model of pedagogical expertise development as a cross-sectional framework for grouping teachers by expertise stage. As printed, "The three groups included Novice/Advanced Beginner teachers (1-2years of experience), Competent teachers (3-4 years), and Proficient/Expertteachers (5-8 years)." The study used this framework to test whether differing expertise levels would be reflected in selected indicators of effective teaching, and found they were not behaviorally distinct on those indicators.
@@ -36,7 +36,6 @@ The article applies Berliner's (1988) proposed model of pedagogical expertise de
 - development of pedagogical expertise and effective teaching performance
 
 ### Claims
-- [Expertise Levels No Difference Teaching Indicators](../claims/expertise-levels-no-difference-teaching-indicators.md) [~M]
 
 ## Related Theories
 

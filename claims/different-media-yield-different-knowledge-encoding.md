@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Learning from a map yields global spatial-relation images, while learning through navigation yields route knowledge. [→ Shavelson 1986](#shavelson-1986)
@@ -45,5 +46,5 @@ The review reports, citing Thorndyke and Hayes-Roth's (1982) map-learning study,
 
 - [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](proposition-4-distinct-evidence-demands.md) — the general claim this finding bears on, with the studies behind it
 - [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
-- [The direct-to-vicarious and purely symbolic experience continuum remains valid while the cone's description of media is dated](cone-continuum-valid-media-description-dated.md) — related
+- The direct-to-vicarious and purely symbolic experience continuum remains valid while the cone's description of media is dated — related
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related

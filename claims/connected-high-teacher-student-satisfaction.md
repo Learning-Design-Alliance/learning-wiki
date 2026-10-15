@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: thang-doan-viet-2026
-    resource: "https://arxiv.org/abs/2607.28647"
-    title: "Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647"
+    resource: "https://doi.org/10.48550/arxiv.2607.28647"
+    title: "Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647 [doi:10.48550/arxiv.2607.28647](https://doi.org/10.48550/arxiv.2607.28647)"
     author: Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Thang Doan Viet 2026
 
-Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647
+Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy. (2026). ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning. arXiv. https://arxiv.org/abs/2607.28647 [doi:10.48550/arxiv.2607.28647](https://doi.org/10.48550/arxiv.2607.28647)
 
 `q2 · i?` · `design · r2`
 
@@ -44,5 +44,5 @@ Structured post-task surveys with 18 teachers and 214 students in grades 6–12 
 
 ## Related Claims
 - [Removing teacher-in-the-loop review or the curriculum checker significantly lowers teacher satisfaction, and replacing ADDIE orchestration with unstructured prompting yields the lowest satisfaction and longest preparation time](system-ablation-teacher-oversight-and-addie-orchestration-value.md) — related
-- [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](high-survey-agreement-ideation-discussion.md) — related
+- Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking — related
 - [In a 16-rater usability survey after a session, CoLearn scores an overall mean of 4.0/5 with no dimension below ≈3.7, and 75% (12/16) would reuse it; Responsiveness is the lowest dimension](collearn-usability-survey-4-of-5.md) — related

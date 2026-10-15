@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: patrick-phuoc-do-2026
-    resource: "https://arxiv.org/abs/2607.15176"
-    title: "Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176"
+    resource: "https://doi.org/10.48550/arxiv.2607.15176"
+    title: "Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176 [doi:10.48550/arxiv.2607.15176](https://doi.org/10.48550/arxiv.2607.15176)"
     author: Patrick Phuoc Do, Chau M. Ta, Chaoli Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Patrick Phuoc Do 2026
 
-Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176
+Patrick Phuoc Do, Chau M. Ta, Chaoli Wang. (2026). Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy. https://arxiv.org/abs/2607.15176 [doi:10.48550/arxiv.2607.15176](https://doi.org/10.48550/arxiv.2607.15176)
 
 `q2 · i?` · `design · r2`
 
@@ -44,5 +44,5 @@ Benchmark evaluation of six MLLMs on SVLAT, each model run 10 times with tempera
 
 ## Related Claims
 - [On animation items, GPT via frame extraction matches human-level accuracy while Claude scores lowest of all models and humans at 59.3%](animation-items-gpt-matches-human-claude-lowest.md) — related
-- [In the blind judicial-exam evaluation, Gemini 2.5 Pro scored 21/24, above the top human benchmark of 18/24, while the other LLMs scored substantially lower.](gemini-exceeds-human-judicial-exam-doctrinal-analysis.md) — related
+- In the blind judicial-exam evaluation, Gemini 2.5 Pro scored 21/24, above the top human benchmark of 18/24, while the other LLMs scored substantially lower. — related
 - [MLLM performance on SVLAT is highly uneven across SciVis techniques, with Scientific Illustration most accessible and texture-based and integration-based visualizations revealing human-model gaps](mllm-accuracy-uneven-across-scivis-techniques.md) — related

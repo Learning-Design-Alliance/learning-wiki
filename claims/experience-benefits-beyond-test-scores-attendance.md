@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kini-2016
-    resource: "https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research"
-    title: "Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research"
+    resource: "https://doi.org/10.54300/625.642"
+    title: "Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research [doi:10.54300/625.642](https://doi.org/10.54300/625.642)"
     author: "Kini, T., & Podolsky, A."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kini 2016
 
-Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research
+Kini, T., & Podolsky, A. (2016). Does Teaching Experience Increase Teacher Effectiveness? A Review of the Research. Learning Policy Institute. https://learningpolicyinstitute.org/our-work/publications-resources/does-teaching-experience-increase-teacher-effectiveness-review-research [doi:10.54300/625.642](https://doi.org/10.54300/625.642)
 
 `q2 · i?` · `review · r2`
 
@@ -44,4 +44,4 @@ The review's executive summary states that as teachers gain experience, students
 
 ## Related Claims
 
-- [More experienced teachers improve non-test outcomes including attendance, behavior, and college enrollment](experienced-teachers-nontest-benefits.md) — possibly the same claim (merge candidate)
+- More experienced teachers improve non-test outcomes including attendance, behavior, and college enrollment — possibly the same claim (merge candidate)

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: praveen-pathak-2026
-    resource: "https://arxiv.org/abs/2608.20521"
-    title: "Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521"
+    resource: "https://doi.org/10.48550/arxiv.2608.20521"
+    title: "Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521 [doi:10.48550/arxiv.2608.20521](https://doi.org/10.48550/arxiv.2608.20521)"
     author: Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Round II raised exact question-part agreement from about 63% to about 70% and cut parts differing by more than one point from about 13% to 7%, while exact partial-credit scoring remained hardest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Across 7058 official question parts, exact agreement rose from about 63% (RI) to about 70% (RII), and parts differing by more than one point fell from about 13% to 7%. [→ Praveen Pathak 2026](#praveen-pathak-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Praveen Pathak 2026
 
-Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521
+Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521 [doi:10.48550/arxiv.2608.20521](https://doi.org/10.48550/arxiv.2608.20521)
 
 `q2 · i?` · `causal · r1`
 

@@ -62,4 +62,4 @@ The article's assessment of fuzzy DL tooling and scalability in its fuzzy DL sec
 
 
 ## Related Claims
-- [Fuzzy time series forecasting beats nonlinear regression when only a quadratic term is included, but loses when a cubic term is included](ftm-versus-nonlinear-regression-quadratic-cubic.md) — related
+- Fuzzy time series forecasting beats nonlinear regression when only a quadratic term is included, but loses when a cubic term is included — related

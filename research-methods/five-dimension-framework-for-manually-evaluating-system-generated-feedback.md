@@ -17,7 +17,7 @@ sources:
 # Five-dimension framework for manually evaluating system-generated feedback
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes a human-centered evaluation framework for generated feedback, stating "we manually evaluate generated feedback in five dimensions: Readability, Suggestions, Problems, Positive Tone, and Factuality". Readability uses a five-point fluency-and-coherence scale; Suggestions and Problems are binary indicators of at least one valid suggestion or identified issue; Positive Tone is scored 1, 0.5, or 0; and Factuality is the ratio of factually correct statements to total statements. Human evaluation is treated as the gold standard, with ROUGE and BERTScore used to validate it.
@@ -27,8 +27,6 @@ The article proposes a human-centered evaluation framework for generated feedbac
 - **Five-dimension framework for manually evaluating system-generated feedback**: The article proposes a human-centered evaluation framework for generated feedback, stating "we manually evaluate generated feedback in five dimensions: Readability, Suggestions, Problems, Positive Tone, and Factuality". Readability uses a five-point fluency-and-coherence scale; Suggestions and Problems are binary indicators of at least one valid suggestion or identified issue; Positive Tone is scored 1, 0.5, or 0; and Factuality is the ratio of factually correct statements to total statements. Human evaluation is treated as the gold standard, with ROUGE and BERTScore used to validate it. (Qinjin Jia et al. (2022))
 
 ### Claims
-- [Insta-Reviewer generates near-human-quality feedback on student project reports, outperforming expert feedback on Problems and Positive Tone but trailing it on Readability, Suggestions, and Factuality](../claims/insta-reviewer-near-human-project-report-feedback.md) [+M]
-- [Manual inspection of all system-generated feedback reveals four deficiencies: non-factual statements, frequent repeated text, lack of project-specific problem or suggestion statements, and inability to give feedback on images](../claims/insta-reviewer-four-feedback-deficiencies.md) [~W]
 
 ## Related Research Methods
 -
@@ -63,8 +61,6 @@ The article proposes a human-centered evaluation framework for generated feedbac
 
 ### Claims
 
-- [Insta Reviewer Near Human Project Report Feedback](../claims/insta-reviewer-near-human-project-report-feedback.md) [+M]
-- [Manual inspection of all system-generated feedback reveals four deficiencies: non-factual statements, frequent repeated text, lack of project-specific problem or suggestion statements, and inability to give feedback on images](../claims/insta-reviewer-four-feedback-deficiencies.md) [~W]
 
 ## Related Theories
 - 

@@ -18,7 +18,7 @@ sources:
 # MoFaCTS
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 MoFaCTS is an online drill-trial problem-authoring and deployment platform that administers instructional and assessment activities, scores responses, and delivers corrective feedback.
@@ -30,9 +30,6 @@ MoFaCTS is an online drill-trial problem-authoring and deployment platform that 
 ### Claims
 - [Higher self-reported confusion predicts a much larger negative effect on future performance when learners answer more questions incorrectly](../claims/confusion-amplifies-negative-effect-of-incorrect-trials.md) [~W]
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](../claims/frustration-boredom-no-significant-impact.md) [~W]
-- [Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition](../claims/multiple-choice-higher-practice-performance-than-short-answer.md) [+W]
-- [Practice condition (format/depth) showed no significant differences on posttest performance for either practiced or unpracticed concepts](../claims/no-posttest-differences-between-practice-conditions.md) [~W]
-- [Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual)](../claims/successful-difficult-retrieval-greater-future-success.md) [+W]
 - [Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty](../claims/unsuccessful-retrieval-smaller-benefit-than-successful.md) [+W]
 
 ## Related Products and Programmes
@@ -69,9 +66,6 @@ MoFaCTS is the online drill-trial problem authoring and deployment platform thro
 
 - [Higher self-reported confusion predicts a much larger negative effect on future performance when learners answer more questions incorrectly](../claims/confusion-amplifies-negative-effect-of-incorrect-trials.md) [~W]
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](../claims/frustration-boredom-no-significant-impact.md) [~W]
-- [Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition](../claims/multiple-choice-higher-practice-performance-than-short-answer.md) [+W]
-- [Practice condition (format/depth) showed no significant differences on posttest performance for either practiced or unpracticed concepts](../claims/no-posttest-differences-between-practice-conditions.md) [~W]
-- [Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual)](../claims/successful-difficult-retrieval-greater-future-success.md) [+W]
 - [Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty](../claims/unsuccessful-retrieval-smaller-benefit-than-successful.md) [+W]
 
 ## Related Elements

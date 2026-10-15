@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: zaki-kurdya-2026
-    resource: "https://arxiv.org/abs/2605.05842"
-    title: "Zaki Kurdya, Mohammed Zuqlam, Salem Amassi, Shady Telbany, Motaz Saad. (2026). Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments. https://arxiv.org/abs/2605.05842"
+    resource: "https://doi.org/10.48550/arxiv.2605.05842"
+    title: "Zaki Kurdya, Mohammed Zuqlam, Salem Amassi, Shady Telbany, Motaz Saad. (2026). Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments. https://arxiv.org/abs/2605.05842 [doi:10.48550/arxiv.2605.05842](https://doi.org/10.48550/arxiv.2605.05842)"
     author: Zaki Kurdya, Mohammed Zuqlam, Salem Amassi, Shady Telbany, Motaz Saad
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Zaki Kurdya 2026
 
-Zaki Kurdya, Mohammed Zuqlam, Salem Amassi, Shady Telbany, Motaz Saad. (2026). Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments. https://arxiv.org/abs/2605.05842
+Zaki Kurdya, Mohammed Zuqlam, Salem Amassi, Shady Telbany, Motaz Saad. (2026). Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments. https://arxiv.org/abs/2605.05842 [doi:10.48550/arxiv.2605.05842](https://doi.org/10.48550/arxiv.2605.05842)
 
 `q2 · i?` · `design · r2`
 

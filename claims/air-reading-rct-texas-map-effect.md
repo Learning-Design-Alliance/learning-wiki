@@ -46,9 +46,9 @@ A randomized study of nearly 400 grade 1-6 students in six rural Texas elementar
 - [Students receiving 40 or more Air Reading tutoring sessions showed stronger reading impacts (effect size +0.17)](air-reading-dosage-40-sessions-effect.md) — related
 - [A second randomized study in Louisiana and Texas found Air Reading students scored significantly higher on combined reading assessments (effect size +0.29)](air-reading-rct-2024-25-combined-assessments.md) — related
 - [Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students](booknook-small-positive-map-reading-growth.md) — related
-- [Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18)](lightning-squad-word-attack-significant-itt.md) — related
-- [Chapter One tutoring significantly improves kindergarten students' oral reading fluency (ES = +0.23)](chapter-one-improves-orf-kindergarten.md) — related
-- [Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control](onyourmark-virtual-tutoring-improves-dibels.md) — related
-- [Students using Renzulli Learning for 16 weeks show significantly higher oral reading fluency growth than business-as-usual peers (effect size +0.10)](renzulli-learning-oral-reading-fluency-growth.md) — related
-- [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](education-corps-tutoring-improves-dibels-composite.md) — related
+- Tutoring with the Lightning Squad significantly improves Word Attack scores versus control in a cluster randomized study (ES = +0.18) — related
+- Chapter One tutoring significantly improves kindergarten students' oral reading fluency (ES = +0.23) — related
+- Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control — related
+- Students using Renzulli Learning for 16 weeks show significantly higher oral reading fluency growth than business-as-usual peers (effect size +0.10) — related
+- Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students — related
 - [Adequate-dose tutoring showed marginally significant effects for third graders on the NWEA MAP (ES = +0.27)](lightning-squad-adequate-dose-map-grade3.md) — related

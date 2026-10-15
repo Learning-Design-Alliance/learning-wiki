@@ -46,7 +46,7 @@ Descriptive analysis of a binary tool-usage checklist item in the survey of 395 
 - [Only 11% of surveyed educators can recommend specialized AI services, with ChatGPT dominating recommendations at 44%](chatgpt-dominance-specialized-service-awareness-11-percent.md) — related
 - [Czech secondary students' generative AI tool use is dominated by ChatGPT, with Gemini and Copilot holding only a secondary presence](chatgpt-monoculture-secondary-stem-students.md) — related
 - [ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use](chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers.md) — related
-- [ChatGPT is the only LLM found in use in Arab university EL2 classrooms in the reviewed 2023–2025 studies, despite the review's aim to capture Gemini and DeepSeek](chatgpt-only-llm-in-arab-el2-studies.md) — related
+- ChatGPT is the only LLM found in use in Arab university EL2 classrooms in the reviewed 2023–2025 studies, despite the review's aim to capture Gemini and DeepSeek — related
 - [Ukrainian educators show high AI adoption (84%) but only 11% can identify specialized AI services beyond ChatGPT](educators-high-ai-adoption-low-specialized-awareness.md) — related
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [Ukrainian education managers' personal AI readiness significantly exceeds their perceived system readiness (d = 0.73)](personal-exceeds-system-ai-readiness-gap-managers.md) — related

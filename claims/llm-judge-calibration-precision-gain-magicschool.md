@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chris-rohlfs-2026
-    resource: "https://arxiv.org/abs/2609.28478"
-    title: "Chris Rohlfs, Rodrigo Vergara Bosse, Priscilla Hopper, Keanon O'Keefe, Patrick J. Russell. (2026). When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI. https://arxiv.org/abs/2609.28478"
+    resource: "https://doi.org/10.48550/arxiv.2609.28478"
+    title: "Chris Rohlfs, Rodrigo Vergara Bosse, Priscilla Hopper, Keanon O'Keefe, Patrick J. Russell. (2026). When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI. https://arxiv.org/abs/2609.28478 [doi:10.48550/arxiv.2609.28478](https://doi.org/10.48550/arxiv.2609.28478)"
     author: "Chris Rohlfs, Rodrigo Vergara Bosse, Priscilla Hopper, Keanon O'Keefe, Patrick J. Russell"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Chris Rohlfs 2026
 
-Chris Rohlfs, Rodrigo Vergara Bosse, Priscilla Hopper, Keanon O'Keefe, Patrick J. Russell. (2026). When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI. https://arxiv.org/abs/2609.28478
+Chris Rohlfs, Rodrigo Vergara Bosse, Priscilla Hopper, Keanon O'Keefe, Patrick J. Russell. (2026). When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI. https://arxiv.org/abs/2609.28478 [doi:10.48550/arxiv.2609.28478](https://doi.org/10.48550/arxiv.2609.28478)
 
 `q2 · i?` · `design · r3`
 

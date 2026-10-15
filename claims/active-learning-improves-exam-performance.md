@@ -144,6 +144,6 @@ The article reports this as a summary of a recent National Academies consensus s
 - [Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students](active-learning-strongest-small-classes.md) — possibly the same claim (merge candidate)
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
-- [The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam](formative-assessment-produces-substantial-learning-gains-cited.md) — related
+- The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%](jitt-newtons-third-law-question-gains.md) — a narrower finding that bears on this claim

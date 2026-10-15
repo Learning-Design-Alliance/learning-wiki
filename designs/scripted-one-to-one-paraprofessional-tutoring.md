@@ -17,7 +17,7 @@ sources:
 # Scripted one-to-one tutoring with fixed dosage and paraprofessional tutors
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Galaxy Math operationalizes tutoring as a scripted, fixed-dosage, one-to-one delivery model: "The program is scripted, and tutors are expected to follow the scripts without reading them or memorizing them." Sessions are "30-minute sessions 3 times a week for 16 weeks" delivered by paraprofessionals, standardizing implementation across tutors.
@@ -38,7 +38,6 @@ Galaxy Math operationalizes tutoring as a scripted, fixed-dosage, one-to-one del
 - addition and subtraction understanding and proficiency
 
 ### Claims
-- [Galaxy Math Strong Evidence 024](../claims/galaxy-math-strong-evidence-024.md) [+M]
 
 ## Related Designs
 - 

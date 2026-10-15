@@ -45,4 +45,4 @@ Analysis of usage trace data from students' in-semester use of the GenAI-powered
 ## Related Claims
 - [Student perceptions of GenAI feedback functionalities diverged, with some finding them redundant when feedback was perceived as clear](divergent-perceptions-genai-feedback-redundancy.md) — related
 - [Reduced engagement with GenAI feedback functionalities was attributed to a mismatch between GenAI outputs and student expectations](mismatch-genai-outputs-student-expectations-reduced-engagement.md) — related
-- [In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement](genai-practice-platform-uptake-230-submissions.md) — related
+- In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related

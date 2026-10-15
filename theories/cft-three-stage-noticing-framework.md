@@ -16,7 +16,7 @@ sources:
 # A three-stage framework for promoting noticing through collaborative feedback tasks (pre-noticing, while-noticing, post-noticing)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes a framework in which noticing in EFL writing is promoted through three sequenced, interrelated collaborative feedback task (CFT) stages. The pre-noticing stage trains students on how the feedback task functions; the while-noticing stage uses two interrelated tasks, contrastive-critical framing and transformed practice; the post-noticing stage has students reflect on what they learned. As the author states, "this paper provides a framework for promoting noticing through CFTs based on three sequenced and interrelated stages: pre-noticing, while-noticing, and post-noticing stages." The framework targets awareness of form, content, and organization in writing.
@@ -39,8 +39,6 @@ The article proposes a framework in which noticing in EFL writing is promoted th
 ### Claims
 
 - [Cft While Noticing Tasks Pattern](../designs/cft-while-noticing-tasks-pattern.md) [+M]
-- [Review reports that collaborative feedback tasks promoted noticing and peer dialogs enhanced meta-cognitive processing in a university ESL writing class (Riddiford)](../claims/cfts-promoted-noticing-peer-dialogs-metacognition.md) [+W]
-- [Review reports that noticing correct versions with understanding helps students improve their L2 writing (Qi & Lapkin)](../claims/noticing-with-understanding-improves-l2-writing.md) [+W]
 
 ## Related Theories
 - [Schmidt's noticing hypothesis](schmidt-noticing-hypothesis.md) — the canonical page for this theory

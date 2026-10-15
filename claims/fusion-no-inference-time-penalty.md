@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jordan-j-bird-2024
-    resource: "https://arxiv.org/abs/2411.17593"
-    title: "Jordan J. Bird. (2024). What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics. arXiv preprint. https://arxiv.org/abs/2411.17593"
+    resource: "https://doi.org/10.48550/arxiv.2411.17593"
+    title: "Jordan J. Bird. (2024). What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics. arXiv preprint. https://arxiv.org/abs/2411.17593 [doi:10.48550/arxiv.2411.17593](https://doi.org/10.48550/arxiv.2411.17593)"
     author: Jordan J. Bird
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jordan J. Bird 2024
 
-Jordan J. Bird. (2024). What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics. arXiv preprint. https://arxiv.org/abs/2411.17593
+Jordan J. Bird. (2024). What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics. arXiv preprint. https://arxiv.org/abs/2411.17593 [doi:10.48550/arxiv.2411.17593](https://doi.org/10.48550/arxiv.2411.17593)
 
 `q2 · i?` · `design · r2`
 
@@ -46,4 +46,4 @@ Paired t-test across the five validation metrics including inference time; only 
 - [Fusing transformer text classifiers with a linguistic-feature neural network significantly outperforms unimodal models for UK Key Stage classification, with ELECTRA + ANN reaching F1 = 0.996](multimodal-fusion-outperforms-unimodal-key-stage-classification.md) — related
 - [Neural networks on linguistic features classify Key Stages poorly, with deeper networks performing worse; the best (one hidden layer, 175 ReLU) reached F1 = 0.392](linguistic-ann-weak-deeper-worse.md) — related
 - [BERT was the best unimodal text classifier for Key Stage classification with an F1 score of 0.75](bert-best-unimodal-f1-075.md) — related
-- [Frontal EEG spectral activity shows no statistically significant differences across AI interaction modes or between with-AI and no-AI conditions](no-significant-eeg-differences-across-ai-modes.md) — related
+- Frontal EEG spectral activity shows no statistically significant differences across AI interaction modes or between with-AI and no-AI conditions — related

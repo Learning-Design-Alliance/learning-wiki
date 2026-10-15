@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xinchen-ma-2026
-    resource: "https://arxiv.org/abs/2609.24083"
-    title: "Xinchen Ma, Shuimu Wang, Gaole He, Yanbin Zhang, Chunyang Wang, Yunshi Lan, Weining Qian. (2026). From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning. https://arxiv.org/abs/2609.24083"
+    resource: "https://doi.org/10.48550/arxiv.2609.24083"
+    title: "Xinchen Ma, Shuimu Wang, Gaole He, Yanbin Zhang, Chunyang Wang, Yunshi Lan, Weining Qian. (2026). From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning. https://arxiv.org/abs/2609.24083 [doi:10.48550/arxiv.2609.24083](https://doi.org/10.48550/arxiv.2609.24083)"
     author: Xinchen Ma, Shuimu Wang, Gaole He, Yanbin Zhang, Chunyang Wang, Yunshi Lan, Weining Qian
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Expert evaluators rate PIVOT higher than TheoremExplainAgent across nearly all instructional dimensions, with the largest gains in Physics and Computer Science
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In a questionnaire-based expert evaluation with 32 STEM instructors, PIVOT consistently outperforms the baseline across nearly all evaluation dimensions, with an average gain of +1.67 points in Physics and +0.76 in Computer Science. [→ Xinchen Ma 2026](#xinchen-ma-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Xinchen Ma 2026
 
-Xinchen Ma, Shuimu Wang, Gaole He, Yanbin Zhang, Chunyang Wang, Yunshi Lan, Weining Qian. (2026). From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning. https://arxiv.org/abs/2609.24083
+Xinchen Ma, Shuimu Wang, Gaole He, Yanbin Zhang, Chunyang Wang, Yunshi Lan, Weining Qian. (2026). From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning. https://arxiv.org/abs/2609.24083 [doi:10.48550/arxiv.2609.24083](https://doi.org/10.48550/arxiv.2609.24083)
 
 `q2 · i?` · `design · r2`
 

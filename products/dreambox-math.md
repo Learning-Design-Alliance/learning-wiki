@@ -18,7 +18,7 @@ sources:
 # DreamBox Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 DreamBox Learning's adaptive online mathematics program for K–8 learners, designed to supplement classroom instruction through personalized, standards-aligned practice and instruction.
@@ -28,9 +28,7 @@ DreamBox Learning's adaptive online mathematics program for K–8 learners, desi
 - **DreamBox Math adaptive online K-8 mathematics program**: DreamBox Math is "an adaptive, online program designed to complement classroom instruction". It "personalizes K-8 learning with a supplemental curriculum beyond instructional support software", combining "a motivating, game-like environment with a rigorous, standards-aligned curriculum" and continuously adapting to learners' actions to build competency with math concepts and fluency strategies. It runs on Mac, PC, ChromeBooks, or iPad. (DreamBox Math evidence summary (2024))
 
 ### Claims
-- [Averaging across the two randomized DreamBox studies and measures, the effect size is +0.10, supporting a Strong rating with a badge for two randomized studies with significant positive results](../claims/dreambox-average-effect-010-strong-rating.md) [+M]
 - [In a randomized study in three high-poverty Bay Area charter schools, K-1 students using DreamBox gained significantly more than control students on the NWEA MAP Measurement and Geometry subtest (ES +0.16) and scored higher overall (ES +0.11)](../claims/dreambox-bay-area-k1-map-gains.md) [+W]
-- [In a 24-school North Carolina randomized study, K-2 students using DreamBox significantly outperformed controls on the Number Knowledge Test (ES +0.12), while 4th-5th grade effects on the state End-of-Grade assessment were not meaningfully higher (ES +0.03)](../claims/dreambox-north-carolina-grade-varying-effects.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -68,9 +66,7 @@ DreamBox Math is "an adaptive, online program designed to complement classroom i
 
 ## Claims
 
-- [Averaging across the two randomized DreamBox studies and measures, the effect size is +0.10, supporting a Strong rating with a badge for two randomized studies with significant positive results](../claims/dreambox-average-effect-010-strong-rating.md) [+M]
 - [In a randomized study in three high-poverty Bay Area charter schools, K-1 students using DreamBox gained significantly more than control students on the NWEA MAP Measurement and Geometry subtest (ES +0.16) and scored higher overall (ES +0.11)](../claims/dreambox-bay-area-k1-map-gains.md) [+W]
-- [In a 24-school North Carolina randomized study, K-2 students using DreamBox significantly outperformed controls on the Number Knowledge Test (ES +0.12), while 4th-5th grade effects on the state End-of-Grade assessment were not meaningfully higher (ES +0.03)](../claims/dreambox-north-carolina-grade-varying-effects.md) [~W]
 
 ## Related Elements
 

@@ -43,6 +43,6 @@ The issue brief's framing statement, offered as an expert assertion with no supp
 
 
 ## Related Claims
-- [Decision makers face research summaries whose findings point in different directions, raising questions about study quality and comparability](decision-makers-face-conflicting-research-findings.md) — related
+- Decision makers face research summaries whose findings point in different directions, raising questions about study quality and comparability — related
 - [A literature review identifies misalignment between conducted research and needed evidence, contextual factors, and rarely used bridging frameworks as challenges to evidence use in policy decisions](literature-review-challenges-evidence-use-policy.md) — related
 - [Systematic reviews are designed to answer a question and prevent information overload for decision makers](systematic-reviews-prevent-information-overload.md) — related

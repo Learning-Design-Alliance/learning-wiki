@@ -44,6 +44,6 @@ A simulation study (not a human experiment) evaluated the proposed effort-guided
 
 ## Related Claims
 - [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) — related
-- [An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting](effort-guided-cat-reduces-mis-targeting.md) — possibly the same claim (merge candidate)
-- [Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking](solution-accuracy-no-decreasing-effort.md) — related
-- [Rapid-guessing behavior on an adaptive achievement test is inconsistent with an absorbing state model of unmotivated test taking](rapid-guessing-inconsistent-absorbing-state-model.md) — related
+- An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting — possibly the same claim (merge candidate)
+- Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking — related
+- Rapid-guessing behavior on an adaptive achievement test is inconsistent with an absorbing state model of unmotivated test taking — related

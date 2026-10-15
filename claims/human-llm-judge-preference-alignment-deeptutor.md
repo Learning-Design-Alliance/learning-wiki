@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: bingxi-zhao-2026
-    resource: "https://arxiv.org/abs/2604.26962"
-    title: "Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang. (2026). DeepTutor: Towards Agentic Personalized Tutoring. Technical Report, The University of Hong Kong. https://arxiv.org/abs/2604.26962"
+    resource: "https://doi.org/10.48550/arxiv.2604.26962"
+    title: "Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang. (2026). DeepTutor: Towards Agentic Personalized Tutoring. Technical Report, The University of Hong Kong. https://arxiv.org/abs/2604.26962 [doi:10.48550/arxiv.2604.26962](https://doi.org/10.48550/arxiv.2604.26962)"
     author: Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Bingxi Zhao 2026
 
-Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang. (2026). DeepTutor: Towards Agentic Personalized Tutoring. Technical Report, The University of Hong Kong. https://arxiv.org/abs/2604.26962
+Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang. (2026). DeepTutor: Towards Agentic Personalized Tutoring. Technical Report, The University of Hong Kong. https://arxiv.org/abs/2604.26962 [doi:10.48550/arxiv.2604.26962](https://doi.org/10.48550/arxiv.2604.26962)
 
 `q2 · i3` · `design · r2`
 

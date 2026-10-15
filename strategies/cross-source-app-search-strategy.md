@@ -17,7 +17,7 @@ sources:
 # Parents and educators should search multiple sources — app stores, expert review sites, and producers' websites — when selecting literacy apps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Because information posted about apps is inconsistent and different sites promote different apps, the report advises that "parents and educators need to do some extra legwork to identify quality language- and literacy-focused apps." The concrete strategy is to look for information about apps of interest across app stores and expert review sites, and to check producers' websites. It also recommends giving developers positive and negative feedback to influence app features.
@@ -38,8 +38,6 @@ Because information posted about apps is inconsistent and different sites promot
 
 ## Claims
 
-- [Only 17% of expert-awarded literacy apps also appear among app stores' Top 50 educational lists, so parents searching different sources encounter largely different apps](../claims/top50-expert-awarded-app-overlap-17-percent.md) [+W]
-- [Few literacy apps disclose educational-quality benchmarks: expert involvement (20-36%), guiding curriculum (29%), or research testing (24%)](../claims/apps-rarely-disclose-quality-benchmarks.md) [+W]
 
 ## Related Strategies
 - 

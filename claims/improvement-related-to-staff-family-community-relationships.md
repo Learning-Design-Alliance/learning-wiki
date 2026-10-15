@@ -45,6 +45,6 @@ The chapter poses this as its key guiding question, framing staff interaction, f
 ## Related Claims
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](parent-to-parent-forums-community-support.md) — related
 - [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](all-staff-family-communication-channels.md) — related
-- [Female principals empowered others through shared ownership, committee involvement, and staff development](female-principals-empower-others-shared-ownership.md) — a narrower finding that bears on this claim
-- [Data tools that make on-track information easy to act on changed how teachers and school staff interact with students and parents](ontrack-data-tools-changed-staff-interactions.md) — related
+- Female principals empowered others through shared ownership, committee involvement, and staff development — a narrower finding that bears on this claim
+- Data tools that make on-track information easy to act on changed how teachers and school staff interact with students and parents — related
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — a narrower finding that bears on this claim

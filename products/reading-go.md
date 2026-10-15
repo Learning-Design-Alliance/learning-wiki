@@ -18,7 +18,7 @@ sources:
 # Reading Go!
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Reading Go! (formerly Reading Rescue) is a school-based programme run by its provider that trains staff to deliver daily one-to-one early-literacy tutoring to low-performing first- and second-grade students.
@@ -28,9 +28,6 @@ Reading Go! (formerly Reading Rescue) is a school-based programme run by its pro
 - **Reading Go! (formerly Reading Rescue) one-on-one early literacy tutoring program**: Reading Go! (formerly Reading Rescue) prepares school staff to "accelerate literacy among low performing first and second graders" through professional training that includes "a clinical experience in reading." Trained tutors work with individual students one on one for 30 minutes per day, typically for one semester, delivering a balanced literacy block of fluency building, daily assessments, phonological awareness and word study, sentence writing, and vocabulary development. (Reading Go! (formerly Reading Rescue) (2021))
 
 ### Claims
-- [Reading Go! showed positive but not statistically significant effects on reading comprehension](../claims/reading-go-comprehension-positive-not-significant.md) [+W]
-- [Reading Go! outcomes were similar whether the tutor was a certified teacher or a paraprofessional](../claims/reading-go-outcomes-similar-teacher-paraprofessional.md) [+W]
-- [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](../claims/reading-go-positive-decoding-word-reading-outcomes.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -71,9 +68,6 @@ Reading Go! (formerly Reading Rescue) prepares school staff to "accelerate liter
 
 ## Claims
 
-- [Reading Go! showed positive but not statistically significant effects on reading comprehension](../claims/reading-go-comprehension-positive-not-significant.md) [+W]
-- [Reading Go! outcomes were similar whether the tutor was a certified teacher or a paraprofessional](../claims/reading-go-outcomes-similar-teacher-paraprofessional.md) [+W]
-- [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](../claims/reading-go-positive-decoding-word-reading-outcomes.md) [+W]
 
 ## Related Elements
 

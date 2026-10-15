@@ -16,7 +16,7 @@ sources:
 # Reasoning-Centered Product Loop: Orient, Visualize, Repair, Retrieve, Verify
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 6 studies (6 design), `q2` · 0 of 6 report an effect size
+> **Evidence** · 3 claims (3 for) · 4 studies (4 design), `q2` · 0 of 4 report an effect size
 
 ## Description
 A five-part design framework the authors propose for educational AI, moving beyond answer delivery. It holds that educational AI "should not hide answers under the guise of preventing cheating" but make answer access an entry point into reasoning; treat text and diagrams as one synchronized reasoning object; use contextual step-specific repair buttons; shift similar-problem recommendations into delayed spaced-retrieval workflows; and expose curriculum-fit signals before asking students to trust output. It emerged from the AITutor field deployment.

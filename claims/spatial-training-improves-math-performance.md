@@ -60,7 +60,7 @@ This meta-analysis pooled 29 controlled pre-post studies (N = 3,765, k = 89 effe
 - [Analogical reasoning improves transfer](comparing-contrasting-cases-improves-learning.md) — transfer from spatial training to math depends on structural alignment between the trained skill and the target content.
 - [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](geometry-software-model-helped-informal-educator-understand-spatial-relations.md) — a narrower finding that bears on this claim
 - [Hands-on learning improves achievement](manipulatives-improve-math-learning.md) — related
-- [Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training](limited-transfer-from-discrepant-training.md) — a narrower finding that bears on this claim
+- Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training — a narrower finding that bears on this claim
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Spatial Skills Improve Through Block Building](spatial-skills-improve-through-block-building.md) — related
 - [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](alignment-trained-skill-larger-effects-phonological-awareness.md) — a narrower finding that bears on this claim

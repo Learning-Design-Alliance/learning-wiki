@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: christina-luke-2016
-    resource: "https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d"
-    title: "Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d"
+    resource: "https://doi.org/10.51388/20.500.12265/26"
+    title: "Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)"
     author: Christina Luke, Christa M. Simone, Aubrey T. Francisco
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Christina Luke 2016
 
-Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d
+Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)
 
 `q2 · i?` · `design · r2`
 
@@ -44,5 +44,5 @@ Mathspace pilot study brief for Vista Unified, a pre-post benchmark analysis of 
 
 ## Related Claims
 - [A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores](tenmarks-summer-no-effect-map.md) — related
-- [In the Onslow Mathspace pilot, student benchmark scores decreased over the pilot period, a change that was not statistically significant](onslow-mathspace-scores-decreased-not-significant.md) — related
+- In the Onslow Mathspace pilot, student benchmark scores decreased over the pilot period, a change that was not statistically significant — related
 - [Students in the TEC Summer Learning Program showed a 20% pre-to-post gain in numeracy skills](tec-summer-20-percent-numeracy-gain.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: farnaz-baksh-2026
-    resource: "https://arxiv.org/abs/2606.15239"
-    title: "Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239"
+    resource: "https://doi.org/10.48550/arxiv.2606.15239"
+    title: "Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239 [doi:10.48550/arxiv.2606.15239](https://doi.org/10.48550/arxiv.2606.15239)"
     author: Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The v4.1 redesign achieved tool-free serviceability, with disassembly workload reduction consistent across all measures and disassembly rated near-perfectly easy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Print-in-place latches gave tool-free access to the SD card and USB ports, tasks deemed impossible on v4 without full disassembly. [→ Farnaz Baksh 2026](#farnaz-baksh-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Farnaz Baksh 2026
 
-Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239
+Farnaz Baksh, Matevž B. Zorec, Feiazie Baksh, and Karl Kruusamäe. (2026). Co-Creating Buildable and Open Social Robot Study Companions with University Students. https://arxiv.org/abs/2606.15239 [doi:10.48550/arxiv.2606.15239](https://doi.org/10.48550/arxiv.2606.15239)
 
 `q2 · i?` · `design · r3`
 

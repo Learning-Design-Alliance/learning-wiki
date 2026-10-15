@@ -43,8 +43,8 @@ The review reports, citing Rutter's Fifteen Thousand Hours study of London schoo
 
 
 ## Related Claims
-- [Conflict devolves to aggression toward self or other under reduced self esteem and social interest](conflict-devolves-to-aggression-low-self-esteem.md) — related
+- Conflict devolves to aggression toward self or other under reduced self esteem and social interest — related
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related
-- [Persons with high self esteem and high social interest sustain extended exchange under conflict, while low self esteem persons withdraw prematurely](high-self-esteem-sustains-exchange-under-conflict.md) — related
+- Persons with high self esteem and high social interest sustain extended exchange under conflict, while low self esteem persons withdraw prematurely — related

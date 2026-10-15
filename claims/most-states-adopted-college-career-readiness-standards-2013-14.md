@@ -45,4 +45,4 @@ Nationally representative survey data collected during the 2013-14 school year f
 ## Related Claims
 - [Many state assessments incorporated more sophisticated response formats to better assess college- and career-readiness](state-assessments-sophisticated-response-formats.md) — related
 - [Almost all states adopted new educator evaluation laws or regulations between 2009 and 2014, and 60 percent of districts reported full or partial implementation in 2013-14](state-educator-evaluation-laws-district-implementation.md) — related
-- [Adopting Wisconsin's Model Academic Standards is voluntary, and districts may use them as guides for local curriculum.](standards-adoption-voluntary-local-guides.md) — related
+- Adopting Wisconsin's Model Academic Standards is voluntary, and districts may use them as guides for local curriculum. — related

@@ -17,7 +17,7 @@ sources:
 # Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 This strategy packages the eight best practices Digital Promise identified for district ed-tech pilots: articulate the instructional need, use clear criteria to review products, involve educators in planning, support educators throughout, gather data from all users, make decisions based on data, discuss purchasing options with developers, and share results. The article states, "we identified the following best practices for conducting ed-tech pilots," and recommends districts "use these recommendations to generate meaningful evidence to support decision making." Each practice is illustrated with a district example, such as Mineola starting small to verify infrastructure.
@@ -40,7 +40,6 @@ This strategy packages the eight best practices Digital Promise identified for d
 
 ## Claims
 
-- [Pilots conducted by one's own school or district are the most frequently cited evidence type for program adoption decisions, followed by colleague recommendations](../claims/own-district-pilots-most-common-evidence.md) [+W]
 
 ## Related Strategies
 

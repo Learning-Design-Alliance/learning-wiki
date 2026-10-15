@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: stephan-vonschallen-2026
-    resource: "https://arxiv.org/abs/2607.22345"
-    title: "Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345"
+    resource: "https://doi.org/10.48550/arxiv.2607.22345"
+    title: "Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345 [doi:10.48550/arxiv.2607.22345](https://doi.org/10.48550/arxiv.2607.22345)"
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 3
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Stephan Vonschallen 2026
 
-Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
+Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345 [doi:10.48550/arxiv.2607.22345](https://doi.org/10.48550/arxiv.2607.22345)
 
 `q3 · i3` · `causal · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: luis-marquez-carpintero-2025
-    resource: "https://arxiv.org/abs/2511.06078"
-    title: "Luis Marquez-Carpintero, Alberto Lopez-Sellers, Miguel Cazorla. (2025). Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI. https://arxiv.org/abs/2511.06078"
+    resource: "https://doi.org/10.48550/arxiv.2511.06078"
+    title: "Luis Marquez-Carpintero, Alberto Lopez-Sellers, Miguel Cazorla. (2025). Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI. https://arxiv.org/abs/2511.06078 [doi:10.48550/arxiv.2511.06078](https://doi.org/10.48550/arxiv.2511.06078)"
     author: Luis Marquez-Carpintero, Alberto Lopez-Sellers, Miguel Cazorla
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Luis Marquez-Carpintero 2025
 
-Luis Marquez-Carpintero, Alberto Lopez-Sellers, Miguel Cazorla. (2025). Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI. https://arxiv.org/abs/2511.06078
+Luis Marquez-Carpintero, Alberto Lopez-Sellers, Miguel Cazorla. (2025). Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI. https://arxiv.org/abs/2511.06078 [doi:10.48550/arxiv.2511.06078](https://doi.org/10.48550/arxiv.2511.06078)
 
 `q2 · i?` · `review · r2`
 

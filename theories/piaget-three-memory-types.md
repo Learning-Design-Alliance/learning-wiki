@@ -16,7 +16,7 @@ sources:
 # Piaget's three memory types: recognition, reconstruction, and evocation
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Zaichkowsky's paper presents Piaget's developmental distinction among memory types: 'Piaget uses hts rearth to demonstrate the developmental difference between threetypes of memory, which he callsrecognition, reconstruction and evocation.' Recognition relies on perception and sensorimotor schemes and appears in infancy; evocation requires mental imagery or language and emerges around 1.5-2 years; reconstruction is intermediate, resembling imitation. Piaget also divides memory into figurative and operational components.
@@ -37,8 +37,6 @@ Zaichkowsky's paper presents Piaget's developmental distinction among memory typ
 
 ### Claims
 
-- [Piaget's memory experiments show children's memory for a model improves over retention intervals, attributed to change in the memory code](../claims/piaget-memory-improves-over-time.md) [+W]
-- [Memory performance can decrement over time when a model produces conflict between operational schemes](../claims/memory-decrement-scheme-conflict.md) [~W]
 
 ## Related Theories
 

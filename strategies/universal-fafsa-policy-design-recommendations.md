@@ -17,7 +17,7 @@ sources:
 # Seven state recommendations for designing and implementing universal FAFSA policies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 mixed) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 EdTrust urges state legislators and state boards or departments of education to: publish data on alternative state-specific aid application completion; publish opt-out rates and track disparities; address the submission-completion gap; partner with college access organizations and local colleges; adopt universal FAFSA policies into statute; make FAFSA information accessible to all families; and "Make FAFSA submission a graduation requirement but allow the school staff members closest to students to waive the requirement." The recommendations aim to support students of color and students from low-income backgrounds through the complex FAFSA process.
@@ -38,10 +38,7 @@ EdTrust urges state legislators and state boards or departments of education to:
 
 ## Claims
 
-- [Colorado's grant-conditioned FAFSA/CASFA requirement produced only a small uptick (+0.8% submissions, +0.7% completions) for the class of 2022](../claims/colorado-grant-based-requirement-small-uptick.md) [~W]
-- [Alabama's submission-to-completion gap widened after its universal FAFSA policy, from 3.12% to 4.37%](../claims/alabama-widening-submission-completion-gap.md) [~W]
 - [State accountability systems that rank schools on FAFSA completion are perceived to penalize schools whose students pursue non-college pathways](../claims/fafsa-ranking-penalizes-noncollege-pathways.md) [~W]
-- [California's LEA-based FAFSA/CADAA requirement for the class of 2023 coincided with a 7.8% rise in submissions and 6.7% rise in completions](../claims/california-lea-requirement-fafsa-gains.md) [~W]
 
 ## Related Strategies
 

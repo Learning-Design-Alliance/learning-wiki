@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: andrew-gothro-2022
-    resource: "https://www.mathematica.org/publications/challenges-and-solutions-in-evaluation-technical-assistance-during-design-and-early-implementation"
-    title: "Andrew Gothro, Elías S. Hanno, M. C. Bradley. (2022). Challenges and Solutions in Evaluation Technical Assistance During Design and Early Implementation. Evaluation Review, vol. 46, issue 1. https://www.mathematica.org/publications/challenges-and-solutions-in-evaluation-technical-assistance-during-design-and-early-implementation"
+    resource: "https://doi.org/10.1177/0193841x20911527"
+    title: "Andrew Gothro, Elías S. Hanno, M. C. Bradley. (2022). Challenges and Solutions in Evaluation Technical Assistance During Design and Early Implementation. Evaluation Review, vol. 46, issue 1. https://www.mathematica.org/publications/challenges-and-solutions-in-evaluation-technical-assistance-during-design-and-early-implementation [doi:10.1177/0193841x20911527](https://doi.org/10.1177/0193841x20911527)"
     author: Andrew Gothro, Elías S. Hanno, M. C. Bradley
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Andrew Gothro 2022
 
-Andrew Gothro, Elías S. Hanno, M. C. Bradley. (2022). Challenges and Solutions in Evaluation Technical Assistance During Design and Early Implementation. Evaluation Review, vol. 46, issue 1. https://www.mathematica.org/publications/challenges-and-solutions-in-evaluation-technical-assistance-during-design-and-early-implementation
+Andrew Gothro, Elías S. Hanno, M. C. Bradley. (2022). Challenges and Solutions in Evaluation Technical Assistance During Design and Early Implementation. Evaluation Review, vol. 46, issue 1. https://www.mathematica.org/publications/challenges-and-solutions-in-evaluation-technical-assistance-during-design-and-early-implementation [doi:10.1177/0193841x20911527](https://doi.org/10.1177/0193841x20911527)
 
 `q2 · i?` · `qualitative · r?`
 

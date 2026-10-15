@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rohit-mehra-2026
-    resource: "https://arxiv.org/abs/2607.06074"
-    title: "Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074"
+    resource: "https://doi.org/10.48550/arxiv.2607.06074"
+    title: "Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074 [doi:10.48550/arxiv.2607.06074](https://doi.org/10.48550/arxiv.2607.06074)"
     author: Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rohit Mehra 2026
 
-Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074
+Rohit Mehra, Kapil Singi, Vikrant Kaulgud, Vibhu Saujanya Sharma, Swapnajeet Gon Choudhury, Swati Sharma, Adam P. Burden, Majd Sakr. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. https://arxiv.org/abs/2607.06074 [doi:10.48550/arxiv.2607.06074](https://doi.org/10.48550/arxiv.2607.06074)
 
 `q2 · i?` · `causal · r1`
 
@@ -44,4 +44,4 @@ Post-study 7-point Likert questionnaire from the same 15 developers (Table 3), t
 
 ## Related Claims
 - [NAMI On Campus Club participants reported high confidence in their clubs' impact, with 72–100% agreement across survey items](nami-campus-club-survey-outcomes.md) — related
-- [Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking](high-survey-agreement-ideation-discussion.md) — related
+- Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking — related

@@ -13,7 +13,7 @@ generated:
 # Reimagining Excellence blueprint
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A seven-dimension framework from Reimagining Excellence for integrating equity, social-emotional well-being, and academic learning across K–12 in-person, remote, and hybrid programs.
@@ -24,8 +24,6 @@ A seven-dimension framework from Reimagining Excellence for integrating equity, 
 
 ### Claims
 
-- [Supporting well-being and connection is a prerequisite to academic excellence](../claims/well-being-prerequisite-academic-excellence.md) [+W]
-- [Regulate-relate-reason sequence: students reason once regulated and feeling supported](../claims/regulate-relate-reason-sequence.md) [+W]
 
 ## Related Products and Programmes
 

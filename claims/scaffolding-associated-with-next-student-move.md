@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: suhyeon-lee-2026
-    resource: "https://arxiv.org/abs/2608.22993"
-    title: "Suhyeon Lee, Juneha Baek, Jaehyeong Park, Donghyuk Shin. (2026). LLM Pedagogical Behavior in AI Tutoring Interactions. https://arxiv.org/abs/2608.22993"
+    resource: "https://doi.org/10.48550/arxiv.2608.22993"
+    title: "Suhyeon Lee, Juneha Baek, Jaehyeong Park, Donghyuk Shin. (2026). LLM Pedagogical Behavior in AI Tutoring Interactions. https://arxiv.org/abs/2608.22993 [doi:10.48550/arxiv.2608.22993](https://doi.org/10.48550/arxiv.2608.22993)"
     author: Suhyeon Lee, Juneha Baek, Jaehyeong Park, Donghyuk Shin
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The distribution of students' next dialogue acts differed across scaffolding levels (χ2 = 1,092.6, df = 28, p < .001, V = .137): after Solving responses students most often made another writing request (29.7%), after Explaining responses conceptual questions were most common (40.5%). [→ Suhyeon Lee 2026](#suhyeon-lee-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Suhyeon Lee 2026
 
-Suhyeon Lee, Juneha Baek, Jaehyeong Park, Donghyuk Shin. (2026). LLM Pedagogical Behavior in AI Tutoring Interactions. https://arxiv.org/abs/2608.22993
+Suhyeon Lee, Juneha Baek, Jaehyeong Park, Donghyuk Shin. (2026). LLM Pedagogical Behavior in AI Tutoring Interactions. https://arxiv.org/abs/2608.22993 [doi:10.48550/arxiv.2608.22993](https://doi.org/10.48550/arxiv.2608.22993)
 
 `q2 · i?` · `associational · r2`
 

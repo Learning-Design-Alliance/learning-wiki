@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sempowicz-2011
-    resource: "https://ro.ecu.edu.au/ajte/vol36/iss8/1"
-    title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1"
+    resource: "https://doi.org/10.14221/ajte.2011v36n8.4"
+    title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1 [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)"
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In video-recorded dialogue sessions the mentor's talking time ranged from 4 to 14:11 minutes while the mentee's ranged from 1:10 to 4:20 minutes. [→ Sempowicz 2011](#sempowicz-2011)
@@ -40,7 +40,7 @@ sources:
 
 ### Sempowicz 2011
 
-Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
+Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1 [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -62,7 +62,7 @@ Subset analysis of classroom-management talk in the five video sessions (Table 1
 
 
 ## Related Claims
-- [Serious talk about teaching in school-based meetings spans five types of intellectual work beyond classroom management](cochran-smith-five-types-intellectual-work.md) — related
+- Serious talk about teaching in school-based meetings spans five types of intellectual work beyond classroom management — related
 - [Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment](five-factor-mentoring-30-of-34-practices-classroom-management.md) — related
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
-- [Mentor interactions (60.2%) outnumbered teacher interactions (39.8%) in the workshop, with mentor Explanation most frequent and teacher Respond to Questions and Proposing Ideas most frequent](mentor-teacher-interaction-frequency-distribution.md) — related
+- Mentor interactions (60.2%) outnumbered teacher interactions (39.8%) in the workshop, with mentor Explanation most frequent and teacher Respond to Questions and Proposing Ideas most frequent — related

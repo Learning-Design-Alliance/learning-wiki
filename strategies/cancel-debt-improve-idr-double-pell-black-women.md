@@ -17,7 +17,7 @@ sources:
 # Federal policy package to end the student debt crisis for Black women: cancel debt, improve IDR, and double the Pell Grant
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 against) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief recommends that Congress and the Biden administration act on three fronts: cancel federal student debt (The Education Trust supports "canceling at least $50,000 of federal student debt" and opposes income, loan-type, or degree-level eligibility limits), improve income-driven repayment plans to lower monthly payments, reduce negative amortization, and shorten time to forgiveness, and double the Pell Grant with federal-state partnerships to make public college debt free. It frames these as steps toward racial equity in higher education.
@@ -40,8 +40,6 @@ The brief recommends that Congress and the Biden administration act on three fro
 
 ## Claims
 
-- [The Pell Grant's purchasing power fell from covering more than 75% of public four-year college cost in 1975 to about one-third today](../claims/pell-grant-purchasing-power-decline.md) [~W]
-- [IDR enrollees report worse mental health and financial stress from loans than repaying borrowers not enrolled in IDR](../claims/idr-enrollees-worse-mental-health-financial-stress.md) [-W]
 
 ## Related Strategies
 

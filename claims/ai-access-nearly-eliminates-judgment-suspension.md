@@ -10,8 +10,8 @@ generated:
 evidence_strength: strong
 sources:
   - id: chiara-marcoccia-2026
-    resource: "https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6"
-    title: "Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6"
+    resource: "https://doi.org/10.31234/osf.io/5y6m4_v1"
+    title: "Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6 [doi:10.31234/osf.io/5y6m4_v1](https://doi.org/10.31234/osf.io/5y6m4_v1)"
     author: Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Merely having access to AI advice nearly eliminates people's willingness to suspend judgment under uncertainty, even when the advice is wrong
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
+> **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3`
 
 ## Subclaims
 `q3 i?` Participants who could seek AI advice suspended judgment far less often than baseline participants (0.36 vs. 0.06 in Study 1a). [→ Chiara Marcoccia 2026](#chiara-marcoccia-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Chiara Marcoccia 2026
 
-Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say "I don't know", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6
+Chiara Marcoccia, Walter Quattrociocchi, Valerio Capraro. (2026). AI advice suppresses people's willingness to say "I don't know", even when the advice is wrong and accuracy is incentivized. https://osf.io/nwx6r/overview?view_only=a03ae0ca587c4c84a442c44d55ab97b6 [doi:10.31234/osf.io/5y6m4_v1](https://doi.org/10.31234/osf.io/5y6m4_v1)
 
 `q3 · i?` · `causal · r2`
 
@@ -68,5 +68,5 @@ Direct replication (N = 310) replacing live queries with three pre-generated inc
 - [Monetary stakes for accuracy act independently of AI availability on judgment suspension, with no significant AI × stakes interaction](stakes-independent-of-ai-on-suspension.md) — related
 - [Monetary incentives for accuracy improve answer correctness specifically when AI advice is available, by reducing reliance on that advice](stakes-improve-accuracy-specifically-with-ai.md) — related
 - [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — related
-- [GPT-4 access raised consultant output quality inside the model's frontier but reduced correct solutions just outside it](jagged-frontier-gains-and-losses-consultants.md) — related
+- GPT-4 access raised consultant output quality inside the model's frontier but reduced correct solutions just outside it — related
 - [Sequencing independent task engagement before LLM consultation is associated with stronger student outputs](independent-work-before-llm-stronger-outputs.md) — related

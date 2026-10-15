@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: andrew-rice-2018
-    resource: "https://scholar.google.com/scholar?q=The+influence+of+rapidly+guessed+item+responses+on+teacher+value-added+estimates"
-    title: "Andrew Rice. (2018). The influence of rapidly guessed item responses on teacher value-added estimates: Implications for policy and practice. Educational Evaluation and Policy Analysis, 40(2), 267-284. https://scholar.google.com/scholar?q=The+influence+of+rapidly+guessed+item+responses+on+teacher+value-added+estimates"
+    resource: "https://doi.org/10.3102/0162373718759600"
+    title: "Andrew Rice. (2018). The influence of rapidly guessed item responses on teacher value-added estimates: Implications for policy and practice. Educational Evaluation and Policy Analysis, 40(2), 267-284. https://scholar.google.com/scholar?q=The+influence+of+rapidly+guessed+item+responses+on+teacher+value-added+estimates [doi:10.3102/0162373718759600](https://doi.org/10.3102/0162373718759600)"
     author: Andrew Rice
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Andrew Rice 2018
 
-Andrew Rice. (2018). The influence of rapidly guessed item responses on teacher value-added estimates: Implications for policy and practice. Educational Evaluation and Policy Analysis, 40(2), 267-284. https://scholar.google.com/scholar?q=The+influence+of+rapidly+guessed+item+responses+on+teacher+value-added+estimates
+Andrew Rice. (2018). The influence of rapidly guessed item responses on teacher value-added estimates: Implications for policy and practice. Educational Evaluation and Policy Analysis, 40(2), 267-284. https://scholar.google.com/scholar?q=The+influence+of+rapidly+guessed+item+responses+on+teacher+value-added+estimates [doi:10.3102/0162373718759600](https://doi.org/10.3102/0162373718759600)
 
 `q3 · i?` · `associational · r?`
 

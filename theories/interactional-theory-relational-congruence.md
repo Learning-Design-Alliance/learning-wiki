@@ -17,7 +17,7 @@ sources:
 # Interactional theory of therapeutic relationship formation and change
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Interactional theory (attributed to Strong, 1982, and Claiborn & Lichtenberg, 1989) holds that therapeutic change is generated in the process of forming the relationship rather than after a stable relationship is established. Therapist and client each attempt to influence the other to respond consistently with their definition of the relationship; congruence is the mutuality of those definitions and stability is the relationship's continuance. The article states these "concepts combineto form a four-fold classification of relationships" (stable congruent, unstable congruent, stable incongruent, unstable incongruent), and that "Successful psychotherapy, then, evolves from an unstable incongruent relationship into an unstable congruent relationship."
@@ -39,9 +39,7 @@ Interactional theory (attributed to Strong, 1982, and Claiborn & Lichtenberg, 19
 
 ### Claims
 
-- [No Incongruence To Congruence Transition Across Therapy Sessions](../claims/no-incongruence-to-congruence-transition-across-therapy-sessions.md) [-M]
 - Congruence Change Correlates With Immediate Symptom Reduction [+W]
-- [The congruence-change and symptom-reduction relation does not hold at six-month follow-up](../claims/congruence-symptom-relation-absent-at-six-months.md) [~W]
 
 ## Related Theories
 - 

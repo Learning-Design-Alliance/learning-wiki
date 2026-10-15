@@ -17,7 +17,7 @@ sources:
 # Consolidate non-Pell federal aid into a new state education grant tied to five state policy commitments and student responsibility requirements
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The report recommends a new state-federal partnership that "combines existing, non-Pell Grant financial-aid resources into a state grant" worth more than $20 billion a year, funding a debt-free college guarantee for low-income students and no-interest loans with income-based repayment for middle-income students. States qualify by meeting five commitments: a college- and career-ready course of study, stabilized higher-education funding with smaller tuition growth, smooth credit transfer, the debt-free and interest-free guarantees, and a consumer ROI index. Students must complete a rigorous high school course of study, work or serve at least 10 hours weekly, pay a fair share, and complete on time.
@@ -44,7 +44,6 @@ The report recommends a new state-federal partnership that "combines existing, n
 
 ## Claims
 
-- [Federal, state, and institutional financial-aid policies disproportionately benefit middle- and upper-income students over those with greatest need](../claims/financial-aid-policies-benefit-affluent-students.md) [+W]
 
 ## Related Strategies
 

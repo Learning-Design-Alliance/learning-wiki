@@ -43,4 +43,4 @@ The report's review of research context across WWC-reviewed interventions report
 
 
 ## Related Claims
-- [The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students](exact-path-study-diverse-sample.md) — related
+- The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mahsa-bakhshaei-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3"
-    title: "Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3"
+    resource: "https://doi.org/10.51388/20.500.12265/101"
+    title: "Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3 [doi:10.51388/20.500.12265/101](https://doi.org/10.51388/20.500.12265/101)"
     author: Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mahsa Bakhshaei 2020
 
-Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3
+Mahsa Bakhshaei, John Seylar, Pati Ruiz, and Mai Chou Vang. (2020). The Valuable Role of Edtech Coaches during the COVID-19 Pandemic: A National Survey. Digital Promise. https://digitalpromise.dspacedirect.org/items/fd1d2f26-7b23-4dd8-9cd6-35f85e92e0c3 [doi:10.51388/20.500.12265/101](https://doi.org/10.51388/20.500.12265/101)
 
 `q2 · i?` · `associational · r1`
 
@@ -47,6 +47,6 @@ The report attributes this to Digital Promise's prior "Dynamic Learning Project 
 - [DLP teachers reported significant increases in using technology for both content and pedagogy, but no significant difference from non-DLP teachers in basic technology skills](dlp-content-pedagogy-gains-not-basic-skills.md) — related
 - [DLP teachers reported more confidence than non-DLP teachers in using technology to develop students' six 21st-century skill categories](dlp-teachers-confident-21st-century-skill-technology-use.md) — related
 - [Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open](dlp-multiple-cycles-greater-progress.md) — related
-- [Baseline survey found only about 35% of teachers felt all their students were comfortable with technology, while 85% wanted more technology-training](haiti-pilot-baseline-teacher-technology-survey.md) — related
+- Baseline survey found only about 35% of teachers felt all their students were comfortable with technology, while 85% wanted more technology-training — related
 - [Teachers described an ideal technology coach as prepared, patient, observant, and using current research-based methods](pr-ideal-coach-characteristics-teacher-voice.md) — related
 - [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — possibly the same claim (merge candidate)

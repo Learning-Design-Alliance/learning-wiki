@@ -16,7 +16,7 @@ sources:
 # Communicative Approach as a language-teaching framework grounded in language as interaction in context
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Communicative Approach treats language as "it is interpersonal activity and has a clear relationship with society", so language study must examine the use of language in both linguistic and social context. The article describes how lessons replace the presentation-practice-perform model with communicative tasks monitored by the teacher, followed by feedback and post-activity error correction, with tasks repeated for greater linguistic accuracy. It emerged in 1970s Britain from dissatisfaction with audio-lingual and grammar-translation methods.
@@ -40,11 +40,8 @@ The Communicative Approach treats language as "it is interpersonal activity and 
 
 ### Claims
 
-- [Secondary school teachers in 1980s China had low formal English qualifications](../claims/china-1980s-secondary-teachers-low-qualifications.md) [~W]
-- [Typical Chinese classes of about 50 students made group work difficult to organize](../claims/china-class-size-50-students-hinders-group-work.md) [~W]
 - [Most teachers in China's middle schools used traditional grammar-focused methods in the late 1980s](../claims/china-middle-school-teachers-used-traditional-methods-late-1980s.md) [~W]
 - [Communicative Approach introduced to China in the 1990s was initially not very communicative](../claims/clt-china-1990s-initial-weak-adoption.md) [~W]
-- [China's Matriculation English Test ignores speaking skills despite adding communicative components after 1992](../claims/met-ignores-speaking-skills.md) [~W]
 
 ## Related Theories
 - 

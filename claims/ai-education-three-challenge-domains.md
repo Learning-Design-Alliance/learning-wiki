@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: qin-xie-2026
-    resource: "https://arxiv.org/abs/2609.10842"
-    title: "Qin Xie. (2026). Alternative AI Philosophy: Daoism as Method for AI in Education. https://arxiv.org/abs/2609.10842"
+    resource: "https://doi.org/10.48550/arxiv.2609.10842"
+    title: "Qin Xie. (2026). Alternative AI Philosophy: Daoism as Method for AI in Education. https://arxiv.org/abs/2609.10842 [doi:10.48550/arxiv.2609.10842](https://doi.org/10.48550/arxiv.2609.10842)"
     author: Qin Xie
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Qin Xie 2026
 
-Qin Xie. (2026). Alternative AI Philosophy: Daoism as Method for AI in Education. https://arxiv.org/abs/2609.10842
+Qin Xie. (2026). Alternative AI Philosophy: Daoism as Method for AI in Education. https://arxiv.org/abs/2609.10842 [doi:10.48550/arxiv.2609.10842](https://doi.org/10.48550/arxiv.2609.10842)
 
 `q1 · i?` · `theoretical · r3`
 
@@ -44,10 +44,10 @@ The article's conceptual analysis enumerates three challenge domains, citing pri
 
 ## Related Claims
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — a narrower finding that bears on this claim
-- [Six named risks from AI systems span overestimation, data collection, synthetic outputs, invisibility, bias replication, and human and environmental costs](six-risks-from-ai-systems.md) — a broader claim this one bears on
+- Six named risks from AI systems span overestimation, data collection, synthetic outputs, invisibility, bias replication, and human and environmental costs — a broader claim this one bears on
 - [Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing](passive-engagement-aid-subzone-mis-skilling.md) — a narrower finding that bears on this claim
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - Implementing AI methodologies introduces a new layer of epistemic dependence and diffused accountability in science education research — related
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
-- [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](genai-speeds-tasks-not-learning.md) — related
+- Generative AI can help people finish tasks more quickly but does not accelerate learning itself — related
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related

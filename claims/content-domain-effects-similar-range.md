@@ -45,7 +45,7 @@ Subgroup meta-analyses of short-run effects by content domain. The review report
 ## Related Claims
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — a broader claim this one bears on
 - [In the 2010 RCT, LLI showed no discernible effects on alphabetics (domain average effect size 0.13, not statistically significant)](lli-no-discernible-alphabetics-effects.md) — related
-- [In a randomized study in rural and suburban Georgia and New York, LLI produced an average effect size of +0.17 across five DIBELS scales with significant differences on Non-Word Fluency and Oral Reading Fluency](lli-georgia-new-york-rct-dibels-017.md) — related
+- In a randomized study in rural and suburban Georgia and New York, LLI produced an average effect size of +0.17 across five DIBELS scales with significant differences on Non-Word Fluency and Oral Reading Fluency — related
 - [In a 2010 RCT in Georgia and New York, LLI produced a statistically significant positive effect on general reading achievement (effect size 0.35, improvement index +14)](lli-2010-rct-positive-general-reading-achievement.md) — related
 - [SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important](smart-comprehension-nonsignificant-substantive-average.md) — related
 - [Content domain shows little association with effect sizes, except fractions in mathematics](content-domain-little-effect-fractions-exception.md) — related

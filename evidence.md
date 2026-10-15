@@ -8,32 +8,32 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 18,230 |
-| Evidence entries | 21,579 |
-| Distinct studies | 5,197 |
-| Claims resting on one study | 17,768 (97%) |
+| Claims | 15,385 |
+| Evidence entries | 18,325 |
+| Distinct studies | 4,605 |
+| Claims resting on one study | 14,943 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 1,004 of 5,197 (19%) |
+| Studies reporting an effect size | 841 of 4,605 (18%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 68 | 555 | 207 | 384 | 1,214 |
-| quant-synthesis | 52 | 101 | 39 | 118 | 310 |
-| review | 59 | 306 | 113 | 123 | 601 |
-| associational | 30 | 628 | 304 | 258 | 1,220 |
-| qualitative | 112 | 277 | 72 | 91 | 552 |
-| design | 62 | 548 | 165 | 37 | 812 |
-| theoretical | 75 | 286 | 71 | 56 | 488 |
+| causal | 67 | 482 | 176 | 324 | 1,049 |
+| quant-synthesis | 51 | 102 | 34 | 114 | 301 |
+| review | 57 | 283 | 87 | 118 | 545 |
+| associational | 30 | 555 | 259 | 245 | 1,089 |
+| qualitative | 96 | 252 | 66 | 81 | 495 |
+| design | 51 | 489 | 135 | 29 | 704 |
+| theoretical | 69 | 245 | 58 | 50 | 422 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 787 (15%) | 3,290 (63%) | 1,004 (19%) | 116 (2%) |
+| 680 (15%) | 2,898 (63%) | 912 (20%) | 115 (2%) |
 
-**Studies per claim:** 0: 0, 1: 17,768, 2: 384, 3: 63, 4 or more: 15.
+**Studies per claim:** 0: 0, 1: 14,943, 2: 365, 3: 62, 4 or more: 15.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -47,17 +47,17 @@ The studies the most claims rest on. A study that many claims *rest on alone* is
 | [ClassWide Peer Tutoring: WWC Intervention Report. (2007). What Works Clearinghouse, U.S. Department of …](claims/cwpt-ctbs-effect-significance-discrepancy.md) | q3 | 26 | 26 |
 | [John Q. Easton, Stephen Ponisciak, Stuart Luppescu. (2008). From High School to the Future: The Pathway to …](claims/academic-culture-raises-act-scores.md) | q2 | 20 | 20 |
 | [Financial Incentives for Teen Parents to Stay in School. (2006). What Works Clearinghouse Intervention …](claims/cal-learn-evidence-standards-reservations-attrition.md) | q3 | 18 | 17 |
-| [Hiroyuki Yamada. (2024). New Normal in Early Elementary Mathematics Learning: Part III - Learning from …](claims/algebra-domain-strongest-predictor-early-math.md) | q2 | 17 | 17 |
 | [Price, H., Burns, D., Loewe, S., Shields, P., Kaplan, J., & Lee, H. (2024). Long-term English learners in …](claims/boys-disproportionately-represented-ltel7-california.md) | q2 | 15 | 15 |
 | [WWC Intervention Report: ALAS. (2006). What Works Clearinghouse, U.S. Department of Education. …](claims/alas-progressing-completing-null-follow-up.md) | q3 | 14 | 14 |
 | [Dominguez, X., Rood, E., Kamdar, D., Leones, T., & Huynh, K. (2021). Splash and Bubbles for Parents App: …](claims/app-child-initiated-science-conversations-higher.md) | q2 | 14 | 14 |
+| [Allensworth, E., Nomi, T., Montgomery, N., & Lee, V. E. (2009). College Preparatory Curriculum for All: …](claims/algebra-enrollment-effect-increased-credit-raised-failure.md) | q2 | 13 | 13 |
+| [Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make …](claims/achievement-focused-mission-charter-impacts.md) | q2 | 13 | 13 |
 | [Crompton, H., Burke, D., Nickel, C., Bozkurt, A., Miao, F., Sharples, M., Greene, J. A., Parsons, D., …](claims/academic-integrity-paramount-genai-policy-concern.md) | q2 | 13 | 13 |
 | [What Works Clearinghouse, U.S. Department of Education. (2006). WWC Intervention Report: Too Good for Drugs …](claims/tgfdv-intentions-null-results.md) | q3 | 12 | 12 |
 | [Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' …](claims/annotating-improves-learning.md) | q2 | 12 | 8 |
-| [Micro-credentials: Igniting Impact in the Ecosystem. (2016). Digital Promise. …](claims/bcps-stat-pilot-cpd-credit.md) | q1 | 12 | 12 |
+| [Kuhfeld, Megan, Soland, James, Pitts, Christine, & Burchinal, Margaret. (2019). Trends in Children's Academic …](claims/district-level-variance-kindergarten-entry-scores.md) | q2 | 12 | 12 |
 | [Project Cal-Well: Building Sustainable School-Based Mental Health Systems. (2024). WestEd. …](claims/cal-well-13262-students-received-services.md) | q2 | 12 | 12 |
 | [Spanish MAP Reading Fluency Technical Report. (2026). NWEA. …](claims/cross-linguistic-transfer-skill-specific.md) | q2 | 12 | 10 |
-| [Ehrlich, S. B., Gwynne, J. A., Pareja, A. S., & Allensworth, E. M. (2014). Preschool Attendance in Chicago …](claims/attendance-benefits-strongest-low-incoming-skills.md) | q3 | 11 | 11 |
 | [Merging Cognitive Science and Curriculum to Strengthen Middle School Math. (2014). WestEd R&D Alert, Vol. 15, …](claims/decorative-images-distract-from-math-problems.md) | q2 | 11 | 11 |
 | [Reddy, S., Labutov, I., Banerjee, S., & Joachims, T. (2016). Unbounded Human Learning: Optimal Scheduling for …](claims/delay-term-improves-exponential-forgetting-curve-recall-prediction.md) | q1 | 11 | 11 |
 | [Feng, M., Li, L., Brezack, N., & Schneider, M. (2025). Scaling teachers' professional development for …](claims/assistments-classwork-shift-rural-equity.md) | q2 | 11 | 11 |
@@ -102,7 +102,7 @@ Of the 37 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-206 claims are cited both ways.
+186 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 6 | 9 | 4 | 5 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 205 | 18 | 3 | 2 |
 | [Applying skill theory to grammar conflates constructs: pedagogical rules are not what …](claims/grammar-as-skill-is-a-conflation.md) | 1 | 1 | 3 | 1 |
-| [There is no direct evidence that comprehensible input is necessary for L2 acquisition; …](claims/no-direct-evidence-input-hypothesis.md) | 1 | 0 | 3 | 1 |
+| [Retrieval Failure Reduces Benefit](claims/retrieval-failure-reduces-benefit.md) | 2 | 1 | 3 | 1 |
 
 ## Evidence by kind of page
 
@@ -134,16 +134,16 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 213 | 208 | 22 | 0 |
-| [elements](elements/index.md) | 1,080 | 841 | 2 | 0 |
+| [elements](elements/index.md) | 1,080 | 790 | 2 | 0 |
 | [patterns](patterns/index.md) | 65 | 61 | 23 | 0 |
-| [strategies](strategies/index.md) | 5,638 | 2,574 | 5 | 0 |
-| [processes](processes/index.md) | 18 | 17 | 6 | 0 |
-| [methods](methods/index.md) | 38 | 29 | 1 | 0 |
-| [theories](theories/index.md) | 1,372 | 1,156 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 14 | 14 | 66 | 0 |
-| [designs](designs/index.md) | 729 | 480 | 1 | 0 |
-| [products](products/index.md) | 1,593 | 1,273 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 436 | 378 | 1 | 0 |
+| [strategies](strategies/index.md) | 5,638 | 2,512 | 6 | 0 |
+| [processes](processes/index.md) | 18 | 15 | 6 | 0 |
+| [methods](methods/index.md) | 38 | 22 | 1 | 0 |
+| [theories](theories/index.md) | 1,372 | 914 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 14 | 14 | 58.5 | 0 |
+| [designs](designs/index.md) | 729 | 424 | 1 | 0 |
+| [products](products/index.md) | 1,593 | 1,090 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 436 | 348 | 1 | 0 |
 
 ## Toward pooled estimates
 

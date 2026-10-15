@@ -13,7 +13,7 @@ generated:
 # Communication Channels
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 against) · 3 studies (1 qualitative, 1 design, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Communication channels are the element in which learners use designated tools or spaces to coordinate, discuss, ask questions, and share updates during a learning activity. They are useful when collaboration depends on reliable communication pathways.
@@ -41,8 +41,6 @@ Communication channels are the element in which learners use designated tools or
 - [Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion](../claims/sns-learning-unbounded-space-time.md) [+W]
 - [Student-generated Facebook groups constitute a hidden curriculum that supports learning outside the formal design studio](../claims/student-generated-hidden-curriculum-sns.md) [+W]
 - [Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus](../claims/thread-structure-designerly-talk-corpus.md) [+W]
-- [Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory](../claims/social-media-tools-misappropriated-as-social-learning.md) [-W]
-- [Reported use of bridging/conferencing software showed a significant increase (p<0.001), with mean level rising from 1.00 to 2.60](../claims/loa-bridging-conferencing-significant-increase.md) [+W]
 
 ## Related Elements
 - [Collaboration](collaboration.md)

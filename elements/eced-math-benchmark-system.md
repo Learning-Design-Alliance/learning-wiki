@@ -17,7 +17,7 @@ sources:
 # ECED Math daily benchmark assessment system
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2`–`q3` · 2 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 ECED Math is "a system for teachers to deliver instruction and assess student progress targeted to local, state, and national standards." Each day students use "I Can" statements (e.g., "I can solve quadratic equations") for the day's lesson topic. Teachers work in teams and with IRRE members to create and give five-question benchmark tests per topic, and students who do not pass receive additional support.
@@ -38,8 +38,6 @@ ECED Math is "a system for teachers to deliver instruction and assess student pr
 
 ## Claims
 
-- [ECED schools made greater gains on state math tests than control schools (effect size +0.14) in one large two-year study](../claims/eced-greater-math-gains-state-tests.md) [+W]
-- [ECED schools made somewhat greater gains on state tests than control schools (effect size +0.06) in a large two-year study](../claims/eced-somewhat-greater-state-test-gains.md) [+W]
 
 ## Related Elements
 

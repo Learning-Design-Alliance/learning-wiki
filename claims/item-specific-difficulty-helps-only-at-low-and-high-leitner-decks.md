@@ -47,7 +47,7 @@ Observational study of Mnemosyne flashcard log data, comparing memory models by 
 - [In Mnemosyne flashcard log data, adding a delay term improves the recall-prediction performance of exponential forgetting curve memory models.](delay-term-improves-exponential-forgetting-curve-recall-prediction.md) — related
 - [In Mnemosyne log data, setting memory strength equal to an item's Leitner deck position predicts recall better than number of past reviews, which beats constant strength.](leitner-deck-position-predicts-recall-better-than-review-count.md) — related
 - [In Mnemosyne log data, exponential forgetting curve models that include a delay term perform comparably to 1PL-IRT, the best-performing benchmark model.](exponential-forgetting-models-with-delay-perform-comparably-to-1pl-irt.md) — related
-- [Correlation between log response time and response likelihood is negative for almost all items, and its magnitude depends on the item difficulty parameter](log-rt-likelihood-correlation-negative-depends-on-difficulty.md) — related
+- Correlation between log response time and response likelihood is negative for almost all items, and its magnitude depends on the item difficulty parameter — related
 - [A one-parameter IRT model outperforms global and per-pitch baselines on AUC, BCE and Brier score but not on threshold accuracy for held-out singing attempts](irt-outperforms-baselines-discrimination-not-accuracy.md) — related
 - [Item difficulty was best predicted using signal from the item stem](difficulty-best-predicted-from-item-stem.md) — related
 - [All models predict performance worst for students of intermediate overall ability, with best performance for high and low performing students](mid-ability-students-hardest-to-predict.md) — related

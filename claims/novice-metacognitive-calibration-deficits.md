@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tsim-2026
-    resource: "https://arxiv.org/abs/2608.28373"
-    title: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373"
+    resource: "https://doi.org/10.48550/arxiv.2608.28373"
+    title: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373 [doi:10.48550/arxiv.2608.28373](https://doi.org/10.48550/arxiv.2608.28373)"
     author: "Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` In virtual patient simulations, the vast majority of first-year medical students overestimated their own performance, with bias more pronounced for the cognitively demanding subtask. [→ Tsim 2026](#tsim-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Tsim 2026
 
-Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373
+Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinking Task Distribution in Medical Training. Correspondence: fenditsim@gmail.com. https://arxiv.org/abs/2608.28373 [doi:10.48550/arxiv.2608.28373](https://doi.org/10.48550/arxiv.2608.28373)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -63,7 +63,7 @@ The article reports, citing Garbayo et al. (2023), a replication in high-fidelit
 
 ## Related Claims
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — a broader claim this one bears on
-- [The majority of students lacked confidence in their experimental results because they could not solicit the behaviors or obtained unexpected results](students-unconfident-first-inquiry-results.md) — related
+- The majority of students lacked confidence in their experimental results because they could not solicit the behaviors or obtained unexpected results — related
 - [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](verbalizing-overconfidence-consistency-local-failures.md) — related
 - [In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station](anatomage-vr-engagement-34-percent.md) — related
 - [Review-attributed evidence: user confidence in model answers exceeds model internal confidence, and explanation design narrows the gap](calibration-gap-configuration-dependent.md) — related

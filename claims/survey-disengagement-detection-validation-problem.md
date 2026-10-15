@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: soland-2018
-    resource: "https://www.nwea.org/research/publication/identifying-disengaged-survey-responses-new-evidence-using-response-time-metadata/"
-    title: "Soland, J., Wise, S., & Gao, L. (2018). Identifying disengaged survey responses: New evidence using response time metadata. Applied Measurement in Education, 32(2), 151-165. https://www.nwea.org/research/publication/identifying-disengaged-survey-responses-new-evidence-using-response-time-metadata/"
+    resource: "https://doi.org/10.1080/08957347.2019.1577244"
+    title: "Soland, J., Wise, S., & Gao, L. (2018). Identifying disengaged survey responses: New evidence using response time metadata. Applied Measurement in Education, 32(2), 151-165. https://www.nwea.org/research/publication/identifying-disengaged-survey-responses-new-evidence-using-response-time-metadata/ [doi:10.1080/08957347.2019.1577244](https://doi.org/10.1080/08957347.2019.1577244)"
     author: "Soland, J., Wise, S., & Gao, L."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Soland 2018
 
-Soland, J., Wise, S., & Gao, L. (2018). Identifying disengaged survey responses: New evidence using response time metadata. Applied Measurement in Education, 32(2), 151-165. https://www.nwea.org/research/publication/identifying-disengaged-survey-responses-new-evidence-using-response-time-metadata/
+Soland, J., Wise, S., & Gao, L. (2018). Identifying disengaged survey responses: New evidence using response time metadata. Applied Measurement in Education, 32(2), 151-165. https://www.nwea.org/research/publication/identifying-disengaged-survey-responses-new-evidence-using-response-time-metadata/ [doi:10.1080/08957347.2019.1577244](https://doi.org/10.1080/08957347.2019.1577244)
 
 `q2 · i?` · `associational · r?`
 

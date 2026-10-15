@@ -41,11 +41,11 @@ Latent-variable SEM of the 400-student survey. The article reports these negativ
 
 
 ## Related Claims
-- [Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential](ann-utaut-predictors-lms-acceptance-vocational.md) — related
-- [Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use](typology-renders-effort-expectancy-nonsignificant.md) — related
+- Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential — related
+- Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use — related
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - [The competence paradox: creative competence positively supports intention but shows a significant negative direct effect on actual use behavior](competence-paradox-cc-negative-ub.md) — related
-- [Cross-correlation analysis confirms performance expectancy has the highest correlation with LMS acceptance (.890), followed by effort expectancy (.835), facilitating conditions (.774) and social influence (.669)](cross-correlation-confirms-utaut-predictor-ranking.md) — related
+- Cross-correlation analysis confirms performance expectancy has the highest correlation with LMS acceptance (.890), followed by effort expectancy (.835), facilitating conditions (.774) and social influence (.669) — related
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
 - [ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior](arcs-strongest-correlations-intention-use.md) — related
 - [Facilitating conditions showed an asymmetric pattern: no significant effect on behavioral intention but a significant positive effect on use behavior](facilitating-conditions-asymmetric-intention-use.md) — reports the opposite

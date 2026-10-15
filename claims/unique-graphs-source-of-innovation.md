@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: smadar-szekely-2018
-    resource: "https://arxiv.org/abs/2608.08543"
-    title: "Smadar Szekely, Judith Gal-Ezer, and David Harel. (2018). Rethinking Higher Education: From Fixed Curricula to Learnity Graphs. J. ACM 37, 4, Article 111. https://arxiv.org/abs/2608.08543"
+    resource: "https://doi.org/10.48550/arxiv.2608.08543"
+    title: "Smadar Szekely, Judith Gal-Ezer, and David Harel. (2018). Rethinking Higher Education: From Fixed Curricula to Learnity Graphs. J. ACM 37, 4, Article 111. https://arxiv.org/abs/2608.08543 [doi:10.48550/arxiv.2608.08543](https://doi.org/10.48550/arxiv.2608.08543)"
     author: Smadar Szekely, Judith Gal-Ezer, and David Harel
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Smadar Szekely 2018
 
-Smadar Szekely, Judith Gal-Ezer, and David Harel. (2018). Rethinking Higher Education: From Fixed Curricula to Learnity Graphs. J. ACM 37, 4, Article 111. https://arxiv.org/abs/2608.08543
+Smadar Szekely, Judith Gal-Ezer, and David Harel. (2018). Rethinking Higher Education: From Fixed Curricula to Learnity Graphs. J. ACM 37, 4, Article 111. https://arxiv.org/abs/2608.08543 [doi:10.48550/arxiv.2608.08543](https://doi.org/10.48550/arxiv.2608.08543)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -44,5 +44,5 @@ Authors' interpretation in the Implications section (type e). The article argues
 
 ## Related Claims
 - [Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy](learnity-graph-open-questions.md) — related
-- [Stakeholders report that edtech vendors' profit focus incentivizes broad tools designed for a mythical average learner rather than unique learner needs](vendor-incentives-average-learner-design.md) — related
+- Stakeholders report that edtech vendors' profit focus incentivizes broad tools designed for a mythical average learner rather than unique learner needs — related
 - [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](ai-dual-roles-cognitive-partner-recommender.md) — related

@@ -18,7 +18,7 @@ sources:
 # Lectura Proactiva
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Lectura Proactiva, distributed as Intervenciones tempranas de la lectura, is a bilingual one-to-small-group reading intervention for Spanish-speaking early readers, delivered by certified teachers.
@@ -27,8 +27,6 @@ Lectura Proactiva, distributed as Intervenciones tempranas de la lectura, is a b
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Lectura Proactiva's evidence base comes from randomized studies of Spanish-speaking first graders below the 25th percentile in urban Texas schools](../claims/lectura-proactiva-evidence-population-scope.md) [+W]
-- [Lectura Proactiva raises literacy outcomes for Spanish-speaking first-grade struggling readers, with an average effect size of +0.49 across two studies](../claims/lectura-proactiva-improves-literacy-outcomes.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,8 +61,6 @@ Lectura Proactiva, distributed as Intervenciones tempranas de la lectura, is “
 
 ## Claims
 
-- [Lectura Proactiva's evidence base comes from randomized studies of Spanish-speaking first graders below the 25th percentile in urban Texas schools](../claims/lectura-proactiva-evidence-population-scope.md) [+W]
-- [Lectura Proactiva raises literacy outcomes for Spanish-speaking first-grade struggling readers, with an average effect size of +0.49 across two studies](../claims/lectura-proactiva-improves-literacy-outcomes.md) [+W]
 
 ## Related Elements
 

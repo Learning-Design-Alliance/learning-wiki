@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alexandre-clin-deffarges-2026
-    resource: "https://arxiv.org/abs/2609.00584"
-    title: "Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes. (2026). Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing. arXiv preprint arXiv:2609.00584. https://arxiv.org/abs/2609.00584"
+    resource: "https://doi.org/10.48550/arxiv.2609.00584"
+    title: "Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes. (2026). Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing. arXiv preprint arXiv:2609.00584. https://arxiv.org/abs/2609.00584 [doi:10.48550/arxiv.2609.00584](https://doi.org/10.48550/arxiv.2609.00584)"
     author: Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Most unrestricted-mode interactions were direct answer retrieval: 52.9% of exercise interactions were copy-paste of the question, and participant answers were linguistically near-identical to chatbot text in 25.3% of cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` 52.9% of Mode 1 exercise interactions were classified as copy-paste question, versus 21.8% in the Socratic mode. [→ Alexandre Clin Deffarges 2026](#alexandre-clin-deffarges-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Alexandre Clin Deffarges 2026
 
-Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes. (2026). Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing. arXiv preprint arXiv:2609.00584. https://arxiv.org/abs/2609.00584
+Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes. (2026). Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing. arXiv preprint arXiv:2609.00584. https://arxiv.org/abs/2609.00584 [doi:10.48550/arxiv.2609.00584](https://doi.org/10.48550/arxiv.2609.00584)
 
 `q2 · i?` · `causal · r2`
 

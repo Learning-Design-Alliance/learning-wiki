@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` When students could seat themselves or form their own groups, they broke into homogeneous language groups, contradicting the director's claim that everyone mixed. [→ Amrein 2000](#amrein-2000)
@@ -62,7 +63,7 @@ Program director interview: high attrition and student mobility kept numbers in 
 
 
 ## Related Claims
-- [Typical Chinese classes of about 50 students made group work difficult to organize](china-class-size-50-students-hinders-group-work.md) — related
+- Typical Chinese classes of about 50 students made group work difficult to organize — related
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related
-- [Heterogeneous introduction to ID and references nonetheless yield homogeneous practice responses](heterogeneous-backgrounds-homogeneous-id-practice.md) — related
+- Heterogeneous introduction to ID and references nonetheless yield homogeneous practice responses — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rose-niousha-2026
-    resource: "https://arxiv.org/abs/2608.10492"
-    title: "Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492"
+    resource: "https://doi.org/10.48550/arxiv.2608.10492"
+    title: "Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492 [doi:10.48550/arxiv.2608.10492](https://doi.org/10.48550/arxiv.2608.10492)"
     author: Rose Niousha, Minwoo Kang, Narges Norouzi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rose Niousha 2026
 
-Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492
+Rose Niousha, Minwoo Kang, Narges Norouzi. (2026). INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2608.10492 [doi:10.48550/arxiv.2608.10492](https://doi.org/10.48550/arxiv.2608.10492)
 
 `q2 · i?` · `design · r2`
 

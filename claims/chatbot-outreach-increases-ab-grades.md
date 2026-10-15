@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: meyer-2026
-    resource: "https://edworkingpapers.com/ai22-564"
-    title: "Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564"
+    resource: "https://doi.org/10.3386/w35397"
+    title: "Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564 [doi:10.3386/w35397](https://doi.org/10.3386/w35397)"
     author: Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Meyer 2026
 
-Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564
+Meyer, Katharine, Lindsay C. Page, Catherine Mata, Eric N. Smith, B. Tyler Walsh, C. Lindsey Fifield, Michelle Tyson, Amy Eremionkhale, Michael Evans, Shelby Frost, and Eye Eoun Jung. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. (EdWorkingPaper: 22-564). https://edworkingpapers.com/ai22-564 [doi:10.3386/w35397](https://doi.org/10.3386/w35397)
 
 `q3 · i?` · `causal · r3`
 
@@ -48,4 +48,4 @@ Intent-to-treat estimates from randomized controlled trials pooling Government a
 - [Chatbot outreach increased supplemental instruction tutoring attendance by about two percentage points, mediating a small share of the grade effect](chatbot-increases-tutoring-attendance.md) — related
 - [Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men](chatbot-gender-heterogeneity-microeconomics-women.md) — related
 - [End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective](chatbot-student-attitudes-null-survey-selective.md) — related
-- [A targeted chatbot registration reminder increased timely course enrollment, with treated students 34 percentage points more likely to enroll by August 16th than controls](targeted-registration-reminder-enrollment-effect.md) — related
+- A targeted chatbot registration reminder increased timely course enrollment, with treated students 34 percentage points more likely to enroll by August 16th than controls — related

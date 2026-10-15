@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tahreem-yasir-2026
-    resource: "https://arxiv.org/abs/2605.16207"
-    title: "Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes. (2026). Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most. arXiv:2605.16207. https://arxiv.org/abs/2605.16207"
+    resource: "https://doi.org/10.48550/arxiv.2605.16207"
+    title: "Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes. (2026). Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most. arXiv:2605.16207. https://arxiv.org/abs/2605.16207 [doi:10.48550/arxiv.2605.16207](https://doi.org/10.48550/arxiv.2605.16207)"
     author: Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tahreem Yasir 2026
 
-Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes. (2026). Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most. arXiv:2605.16207. https://arxiv.org/abs/2605.16207
+Tahreem Yasir, Wenbo Li, Sam Gilson, Sutapa Dey Tithi, Xiaoyi Tian, Tiffany Barnes. (2026). Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most. arXiv:2605.16207. https://arxiv.org/abs/2605.16207 [doi:10.48550/arxiv.2605.16207](https://doi.org/10.48550/arxiv.2605.16207)
 
 `q2 · i?` · `causal · r2`
 

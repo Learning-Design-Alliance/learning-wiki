@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: favero-2025
-    resource: "https://arxiv.org/abs/2507.06878"
-    title: "Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878"
+    resource: "https://doi.org/10.48550/arxiv.2507.06878"
+    title: "Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878 [doi:10.48550/arxiv.2507.06878](https://doi.org/10.48550/arxiv.2507.06878)"
     author: "Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Favero 2025
 
-Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878
+Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2025). Do AI tutors empower or enslave learners? Toward a critical use of AI in education. Applications of Generative AI to support teaching and learning in Higher Education, co-located with AIED 2025, Palermo, Italy. https://arxiv.org/abs/2507.06878 [doi:10.48550/arxiv.2507.06878](https://doi.org/10.48550/arxiv.2507.06878)
 
 `q2 · i?` · `theoretical · r2`
 

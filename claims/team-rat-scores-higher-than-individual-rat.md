@@ -57,6 +57,6 @@ Quasi-experimental comparison within two sections of a junior/senior-level Behav
 ## Related Claims
 - [Both course sections show the same team-over-individual RAT trend despite a significant difference in scores between the sections](rat-section-difference-same-trend.md) — related
 - [After the TBL module, students were better prepared to design and implement independent final research projects](tbl-module-prepares-independent-projects.md) — related
-- [Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module](tbl-survey-above-neutral.md) — related
+- Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module — related
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
 - [Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts](tbl-formats-similar-irat-trat-performance.md) — related

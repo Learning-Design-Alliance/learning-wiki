@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: adama-2026
-    resource: "https://arxiv.org/abs/2606.18541"
-    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541"
+    resource: "https://doi.org/10.48550/arxiv.2606.18541"
+    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541 [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)"
     author: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D."
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Two attitude clusters differ significantly on preparedness, confidence, and interest (p<.0001), with Cluster 1 lower on Pew and GSE but not SeBIS, and reporting more word-of-mouth learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · associational `r1` · `q2` · `i0` negligible
+> **Evidence** · 2 studies (3 entries) · 2 associational `r1` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i?` K-means analysis identified two clusters of 119 and 117 participants differing significantly on all three attitude factors (p<.0001): one less prepared, quite unconfident, and very interested in learning more; the other prepared, confident, and somewhat interested. [→ Adama 2026](#adama-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Adama 2026
 
-Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541
+Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541 [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)
 
 `q2 · i?` · `associational · r1`
 

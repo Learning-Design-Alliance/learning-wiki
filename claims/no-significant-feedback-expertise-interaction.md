@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tsvetomila-mihaylova-2026
-    resource: "https://arxiv.org/abs/2605.16933"
-    title: "Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen. (2026). The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance. https://arxiv.org/abs/2605.16933"
+    resource: "https://doi.org/10.48550/arxiv.2605.16933"
+    title: "Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen. (2026). The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance. https://arxiv.org/abs/2605.16933 [doi:10.48550/arxiv.2605.16933](https://doi.org/10.48550/arxiv.2605.16933)"
     author: Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tsvetomila Mihaylova 2026
 
-Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen. (2026). The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance. https://arxiv.org/abs/2605.16933
+Tsvetomila Mihaylova, Evanfiya Logacheva, Arto Hellas, Jing Fan, Francisco Castro, Bita Akram, Narges Norouzi, Peter Brusilovsky, Juho Leinonen. (2026). The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance. https://arxiv.org/abs/2605.16933 [doi:10.48550/arxiv.2605.16933](https://doi.org/10.48550/arxiv.2605.16933)
 
 `q2 · i?` · `causal · r2`
 

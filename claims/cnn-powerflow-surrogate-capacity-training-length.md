@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: junjie-yin-2026
-    resource: "https://arxiv.org/abs/2608.02599"
-    title: "Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599"
+    resource: "https://doi.org/10.48550/arxiv.2608.02599"
+    title: "Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599 [doi:10.48550/arxiv.2608.02599](https://doi.org/10.48550/arxiv.2608.02599)"
     author: Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In the CNN 5-bus power-flow surrogate, pairing model capacity with sufficient training length improves voltage accuracy, and line flows are the more demanding test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 200-epoch, 240-filter voltage model achieved test MAE below 10^-3 pu, while both 50-epoch models incurred more than an order-of-magnitude larger error. [→ Junjie Yin 2026](#junjie-yin-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Junjie Yin 2026
 
-Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599
+Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv preprint. https://arxiv.org/abs/2608.02599 [doi:10.48550/arxiv.2608.02599](https://doi.org/10.48550/arxiv.2608.02599)
 
 `q2 · i?` · `design · r2`
 

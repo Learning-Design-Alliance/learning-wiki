@@ -18,7 +18,7 @@ sources:
 # Renzulli Learning
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Renzulli Learning is a cloud-based personalized-learning platform developed and operated by Renzulli Learning to help Pre-K–12 educators differentiate instruction around students’ strengths and interests.
@@ -28,8 +28,6 @@ Renzulli Learning is a cloud-based personalized-learning platform developed and 
 - **Renzulli Learning online personalized-learning platform**: Renzulli Learning is an online platform that helps teachers differentiate instruction and foster student engagement. It focuses on "individual strengths and interests" to cultivate critical thinking, creativity, and 21st-century skills, supporting personalized learning for students from Pre-K to 12th grade. It is a cloud-based SaaS platform with a support team, SSO, rostering, LMS integrations, and device compatibility documented on its technology page. (Renzulli Learning (2024))
 
 ### Claims
-- [Students using Renzulli Learning for 16 weeks show significantly higher oral reading fluency growth than business-as-usual peers (effect size +0.10)](../claims/renzulli-learning-oral-reading-fluency-growth.md) [+W]
-- [The evidence base for Renzulli Learning consists of one cluster-randomized study of 383 students, rated promising](../claims/renzulli-learning-single-study-promising-rating.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,8 +65,6 @@ Renzulli Learning is an online platform that helps teachers differentiate instru
 
 ## Claims
 
-- [Students using Renzulli Learning for 16 weeks show significantly higher oral reading fluency growth than business-as-usual peers (effect size +0.10)](../claims/renzulli-learning-oral-reading-fluency-growth.md) [+W]
-- [The evidence base for Renzulli Learning consists of one cluster-randomized study of 383 students, rated promising](../claims/renzulli-learning-single-study-promising-rating.md) [+W]
 
 ## Related Elements
 - 

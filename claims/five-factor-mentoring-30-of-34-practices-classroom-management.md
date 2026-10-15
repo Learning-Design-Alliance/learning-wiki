@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sempowicz-2011
-    resource: "https://ro.ecu.edu.au/ajte/vol36/iss8/1"
-    title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1"
+    resource: "https://doi.org/10.14221/ajte.2011v36n8.4"
+    title: "Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1 [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)"
     author: "Sempowicz, T., & Hudson, P."
     q: 2
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Sempowicz 2011
 
-Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1
+Sempowicz, T., & Hudson, P. (2011). Analysing mentoring dialogues for developing a preservice teacher's classroom management practices. Australian Journal of Teacher Education, 36(8). https://ro.ecu.edu.au/ajte/vol36/iss8/1 [doi:10.14221/ajte.2011v36n8.4](https://doi.org/10.14221/ajte.2011v36n8.4)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -49,5 +49,5 @@ Qualitative single case study of one mentor-mentee dyad over a four-week first p
 - [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — a narrower finding that bears on this claim
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — a narrower finding that bears on this claim
 - [Mentee participation in a school-wide positive behaviour support program (Program Achieve) enabled confident implementation of learned strategies in other lessons](program-achieve-participation-builds-mentee-behaviour-management-confidence.md) — a narrower finding that bears on this claim
-- [Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning](mentor-program-concepts-support-student-teacher-learning.md) — a broader claim this one bears on
+- Classrooms where mentors understand and model program concepts are more fruitful contexts for student teachers' learning — a broader claim this one bears on
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related

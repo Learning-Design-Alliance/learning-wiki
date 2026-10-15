@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ahana-biswas-2026
-    resource: "https://arxiv.org/abs/2608.19616"
-    title: "Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616"
+    resource: "https://doi.org/10.48550/arxiv.2608.19616"
+    title: "Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616 [doi:10.48550/arxiv.2608.19616](https://doi.org/10.48550/arxiv.2608.19616)"
     author: Ahana Biswas
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In the model, interventions that alter the feedback channel (verification visibility, social-proof damping) reduce overreliance and regret, while lowering verification cost alone does not lower regret
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Strong verification visibility (sV = 1.0) triggers a counter-cascade to near-complete verification (overreliance 0.00, verification 1.00) and lowers regret to 0.07. [→ Ahana Biswas 2026](#ahana-biswas-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ahana Biswas 2026
 
-Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616
+Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616 [doi:10.48550/arxiv.2608.19616](https://doi.org/10.48550/arxiv.2608.19616)
 
 `q2 · i?` · `theoretical · r3`
 

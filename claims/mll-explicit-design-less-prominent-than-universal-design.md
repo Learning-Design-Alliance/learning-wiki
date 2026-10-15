@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: danae-kamdar-2025
-    resource: "https://digitalpromise.dspacedirect.org/items/f37dc670-36a6-4f6e-a6c4-bf312be4fac0"
-    title: "Danae Kamdar, Tiffany Leones, Amanda LaTasha Armstrong, Shelton Daal & Ximena Dominguez. (2025). Unlocking the Potential of Technology Innovations: A Vision for Supporting Multilingual Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/f37dc670-36a6-4f6e-a6c4-bf312be4fac0"
+    resource: "https://doi.org/10.51388/20.500.12265/260"
+    title: "Danae Kamdar, Tiffany Leones, Amanda LaTasha Armstrong, Shelton Daal & Ximena Dominguez. (2025). Unlocking the Potential of Technology Innovations: A Vision for Supporting Multilingual Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/f37dc670-36a6-4f6e-a6c4-bf312be4fac0 [doi:10.51388/20.500.12265/260](https://doi.org/10.51388/20.500.12265/260)"
     author: "Danae Kamdar, Tiffany Leones, Amanda LaTasha Armstrong, Shelton Daal & Ximena Dominguez"
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Danae Kamdar 2025
 
-Danae Kamdar, Tiffany Leones, Amanda LaTasha Armstrong, Shelton Daal & Ximena Dominguez. (2025). Unlocking the Potential of Technology Innovations: A Vision for Supporting Multilingual Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/f37dc670-36a6-4f6e-a6c4-bf312be4fac0
+Danae Kamdar, Tiffany Leones, Amanda LaTasha Armstrong, Shelton Daal & Ximena Dominguez. (2025). Unlocking the Potential of Technology Innovations: A Vision for Supporting Multilingual Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/f37dc670-36a6-4f6e-a6c4-bf312be4fac0 [doi:10.51388/20.500.12265/260](https://doi.org/10.51388/20.500.12265/260)
 
 `q1 · i?` · `qualitative · r2`
 

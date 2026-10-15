@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: cameron-mohne-2026
-    resource: "https://arxiv.org/abs/2603.11444"
-    title: "Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech. (2026). EducaSim: Interactive Simulacra for CS1 Instructional Practice. https://arxiv.org/abs/2603.11444"
+    resource: "https://doi.org/10.48550/arxiv.2603.11444"
+    title: "Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech. (2026). EducaSim: Interactive Simulacra for CS1 Instructional Practice. https://arxiv.org/abs/2603.11444 [doi:10.48550/arxiv.2603.11444](https://doi.org/10.48550/arxiv.2603.11444)"
     author: Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Cameron Mohne 2026
 
-Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech. (2026). EducaSim: Interactive Simulacra for CS1 Instructional Practice. https://arxiv.org/abs/2603.11444
+Cameron Mohne, Nicholas Vo, Dora Demszky, Chris Piech. (2026). EducaSim: Interactive Simulacra for CS1 Instructional Practice. https://arxiv.org/abs/2603.11444 [doi:10.48550/arxiv.2603.11444](https://doi.org/10.48550/arxiv.2603.11444)
 
 `q1 · i?` · `design · r2`
 

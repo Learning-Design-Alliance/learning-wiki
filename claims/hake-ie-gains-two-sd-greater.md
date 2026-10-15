@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lei-bao-2006
-    resource: "https://arxiv.org/abs/0710.1375"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
+    resource: "https://doi.org/10.48550/arxiv.0710.1375"
+    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)"
     author: Lei Bao
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Lei Bao 2006
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
+Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)
 
 `q2 · i2` · `theoretical · r3`
 
@@ -48,13 +48,13 @@ The article reports (Introduction) Hake's large multi-course survey as backgroun
 ## Related Claims
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — a narrower finding that bears on this claim
-- [The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam](formative-assessment-produces-substantial-learning-gains-cited.md) — related
+- The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam — related
 - [When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score](gamma-process-positive-gain-pretest-correlation.md) — related
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
 - [FCI change-score versus pretest-score data from three classes show linear relations at high pretest scores and curving-down at low scores, diagnosable as α- versus γ-process dominance](fci-change-score-curves-diagnose-processes.md) — related
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
-- [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — related
+- Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
 - [Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard](fci-gain-increased-peer-instruction-harvard.md) — a narrower finding that bears on this claim

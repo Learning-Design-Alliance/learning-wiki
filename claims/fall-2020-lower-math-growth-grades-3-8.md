@@ -49,4 +49,4 @@ Growth analysis of fall 2020 MAP Growth data from nearly 4.4 million students in
 - [Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains](covid-closures-projected-math-gains-37-50-percent.md) — related
 - [The visualizations address how students performed in fall 2020 compared to a typical school year](fall-2020-performance-compared-typical-year.md) — related
 - [The visualizations address how student growth changed since school buildings closed in March 2020](student-growth-change-since-march-2020-closures.md) — a broader claim this one bears on
-- [The 2020 COVID-19 school closures caused a decrease in Flemish grade 6 school-average mathematics scores of roughly 0.19 standard deviations relative to previous cohorts](covid-closures-math-loss-019-sd.md) — related
+- The 2020 COVID-19 school closures caused a decrease in Flemish grade 6 school-average mathematics scores of roughly 0.19 standard deviations relative to previous cohorts — related

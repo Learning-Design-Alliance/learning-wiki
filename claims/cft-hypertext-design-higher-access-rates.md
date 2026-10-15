@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: chokri-barhoumi-pier-giuseppe-rossi-2013
-    resource: "https://eric.ed.gov/?id=EJ1105506"
-    title: "Chokri Barhoumi; Pier Giuseppe Rossi. (2013). The Effectiveness of Instruction-Oriented Hypertext Systems Compared to Direct Instruction in e-learning Environments. Contemporary Educational Technology, 4(4), 281-308. https://eric.ed.gov/?id=EJ1105506"
+    resource: "https://doi.org/10.30935/cedtech/6109"
+    title: "Chokri Barhoumi; Pier Giuseppe Rossi. (2013). The Effectiveness of Instruction-Oriented Hypertext Systems Compared to Direct Instruction in e-learning Environments. Contemporary Educational Technology, 4(4), 281-308. https://eric.ed.gov/?id=EJ1105506 [doi:10.30935/cedtech/6109](https://doi.org/10.30935/cedtech/6109)"
     author: Chokri Barhoumi; Pier Giuseppe Rossi
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Experimental-group students accessed the online course and learning activities more frequently (6.38 and 7.92) than control-group students (2.67 and 6.05)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Average rate of access to the online course was 6.38 for the experimental group versus 2.67 for the control group, and access to learning activities was 7.92 versus 6.05. [→ Chokri Barhoumi; Pier Giuseppe Rossi 2013](#chokri-barhoumi-pier-giuseppe-rossi-2013)
@@ -40,7 +40,7 @@ sources:
 
 ### Chokri Barhoumi; Pier Giuseppe Rossi 2013
 
-Chokri Barhoumi; Pier Giuseppe Rossi. (2013). The Effectiveness of Instruction-Oriented Hypertext Systems Compared to Direct Instruction in e-learning Environments. Contemporary Educational Technology, 4(4), 281-308. https://eric.ed.gov/?id=EJ1105506
+Chokri Barhoumi; Pier Giuseppe Rossi. (2013). The Effectiveness of Instruction-Oriented Hypertext Systems Compared to Direct Instruction in e-learning Environments. Contemporary Educational Technology, 4(4), 281-308. https://eric.ed.gov/?id=EJ1105506 [doi:10.30935/cedtech/6109](https://doi.org/10.30935/cedtech/6109)
 
 `q2 · i?` · `causal · r2`
 

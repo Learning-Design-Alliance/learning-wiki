@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: francesca-mangili-2026
-    resource: "https://arxiv.org/abs/2608.24632"
-    title: "Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz. (2026). Causal Modelling of Support Interventions for Student Competency Assessment. arXiv. https://arxiv.org/abs/2608.24632"
+    resource: "https://doi.org/10.48550/arxiv.2608.24632"
+    title: "Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz. (2026). Causal Modelling of Support Interventions for Student Competency Assessment. arXiv. https://arxiv.org/abs/2608.24632 [doi:10.48550/arxiv.2608.24632](https://doi.org/10.48550/arxiv.2608.24632)"
     author: Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Francesca Mangili 2026
 
-Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz. (2026). Causal Modelling of Support Interventions for Student Competency Assessment. arXiv. https://arxiv.org/abs/2608.24632
+Francesca Mangili, Alessandro Antonucci, Rafael Cabañas de Paz. (2026). Causal Modelling of Support Interventions for Student Competency Assessment. arXiv. https://arxiv.org/abs/2608.24632 [doi:10.48550/arxiv.2608.24632](https://doi.org/10.48550/arxiv.2608.24632)
 
 `q2 · i?` · `design · r2`
 
@@ -43,7 +43,7 @@ Group-level marginal inference over the causal EM-derived FSCMs compatible with 
 
 
 ## Related Claims
-- [BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima](bkt-bf-cost-identifiability-em-local-minima.md) — related
+- BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima — related
 - [Counterfactual probabilities of necessity and sufficiency quantify the causal effect of hints and skills on task performance](pn-ps-counterfactuals-help-and-skill-effects.md) — related
 - [Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions](individual-counterfactuals-student-help-conditions.md) — related
 - [Marginal luck probabilities diagnose question calibration, flagging questions 7–9 as prone to over-performance and question 12 as particularly challenging](luck-marginals-question-calibration-diagnostic.md) — related

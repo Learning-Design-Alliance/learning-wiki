@@ -16,7 +16,7 @@ sources:
 # Jagged profile: learner characteristics that guide learning capacity cannot be described by one-dimensional values like IQ or standardized test scores
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q1`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Drawing on Todd Rose's The End of Average (2016), the paper argues there is no such person as the "average" student. "In what Rose describes as a 'jagged profile,' there are a number of unique characteristics that guide our capacity to learn that cannot be described by a one-dimensional value like an IQ score or performance on a standardized test." The paper uses this account to argue the industrial-age system designed for an average student should shift toward equity, defined as providing every learner what he or she needs to be successful.
@@ -38,7 +38,6 @@ Drawing on Todd Rose's The End of Average (2016), the paper argues there is no s
 ### Claims
 
 - [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](../claims/norm-referenced-metrics-hide-structural-development.md) [+W]
-- [The creativity dimension appears strongly in lower-SES urban black fifth-grade children and shows little relation to IQ](../claims/creativity-dimension-present-in-lower-ses-children.md) [+W]
 
 ## Related Theories
 

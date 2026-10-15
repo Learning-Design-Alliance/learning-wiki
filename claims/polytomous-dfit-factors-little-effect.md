@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Across the simulated conditions, test length (20 vs. 40 items), impact, DIF proportion, and DIF direction showed little effect on true- and false-positive rates. [→ Flowers 1996](#flowers-1996)
@@ -44,8 +45,8 @@ Simulation study with five replications per condition; Tables 3 and 5 report tru
 
 ## Related Claims
 - [Type I error rates of all three polytomous DIF indices increase as the number of DIF items and DIF magnitude increase](dif-type-i-error-increases-with-dif-items-and-magnitude.md) — related
-- [NCDIF Type I error rates are unaffected by focal group distribution, unlike SIBTEST and Lord's chi-square](ncdif-type-i-error-robust-to-focal-distribution.md) — related
-- [C-DIF was less stable than NC-DIF across simulated conditions](polytomous-c-dif-less-stable-than-nc-dif.md) — related
-- [The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions](polytomous-dfit-effective-dif-detection-simulation.md) — related
-- [DIF detection rates for all indices are higher with larger samples, equivalent distributions, fewer DIF items, greater DIF magnitude, and larger a-parameters](polytomous-dif-detection-rate-factors.md) — reports the opposite
-- [The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest](polytomous-dfit-type-i-error-near-alpha.md) — related
+- NCDIF Type I error rates are unaffected by focal group distribution, unlike SIBTEST and Lord's chi-square — related
+- C-DIF was less stable than NC-DIF across simulated conditions — related
+- The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions — related
+- DIF detection rates for all indices are higher with larger samples, equivalent distributions, fewer DIF items, greater DIF magnitude, and larger a-parameters — reports the opposite
+- The polytomous DFIT framework shows Type I error rates close to nominal alpha except when the number of DIF items and DIF magnitude are highest — related

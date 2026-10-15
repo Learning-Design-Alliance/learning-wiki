@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jionghao-lin-2025
-    resource: "https://arxiv.org/abs/2506.17356"
-    title: "Jionghao Lin, Jiarui Rao, Sandy Yiyang Zhao, Yuting Wang, Ashish Gurung, Amanda Barany, Jaclyn Ocumpaugh, Ryan S. Baker, and Kenneth R. Koedinger. (2025). Automatic Large Language Models Creation of Interactive Learning Lessons. arXiv preprint. https://arxiv.org/abs/2506.17356"
+    resource: "https://doi.org/10.48550/arxiv.2506.17356"
+    title: "Jionghao Lin, Jiarui Rao, Sandy Yiyang Zhao, Yuting Wang, Ashish Gurung, Amanda Barany, Jaclyn Ocumpaugh, Ryan S. Baker, and Kenneth R. Koedinger. (2025). Automatic Large Language Models Creation of Interactive Learning Lessons. arXiv preprint. https://arxiv.org/abs/2506.17356 [doi:10.48550/arxiv.2506.17356](https://doi.org/10.48550/arxiv.2506.17356)"
     author: Jionghao Lin, Jiarui Rao, Sandy Yiyang Zhao, Yuting Wang, Ashish Gurung, Amanda Barany, Jaclyn Ocumpaugh, Ryan S. Baker, and Kenneth R. Koedinger
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jionghao Lin 2025
 
-Jionghao Lin, Jiarui Rao, Sandy Yiyang Zhao, Yuting Wang, Ashish Gurung, Amanda Barany, Jaclyn Ocumpaugh, Ryan S. Baker, and Kenneth R. Koedinger. (2025). Automatic Large Language Models Creation of Interactive Learning Lessons. arXiv preprint. https://arxiv.org/abs/2506.17356
+Jionghao Lin, Jiarui Rao, Sandy Yiyang Zhao, Yuting Wang, Ashish Gurung, Amanda Barany, Jaclyn Ocumpaugh, Ryan S. Baker, and Kenneth R. Koedinger. (2025). Automatic Large Language Models Creation of Interactive Learning Lessons. arXiv preprint. https://arxiv.org/abs/2506.17356 [doi:10.48550/arxiv.2506.17356](https://doi.org/10.48550/arxiv.2506.17356)
 
 `q1 · i?` · `design · r2`
 

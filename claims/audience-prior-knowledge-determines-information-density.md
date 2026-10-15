@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The article states that the previous knowledge held by the intended audience determines the density of information in the text, the rate at which new information can be introduced, and the amount of background that must accompany it. [→ de Beaugrande 1977](#de-beaugrande-1977)

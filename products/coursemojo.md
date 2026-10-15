@@ -22,7 +22,7 @@ sources:
 # Coursemojo
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 10 claims (9 for, 1 mixed) · 2 studies (1 causal, 1 qualitative), `q2` · 1 of 2 report an effect size · 10 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Coursemojo is an AI-powered, curriculum-aligned ELA instructional assistant for grades 5–8 that provides personalized writing feedback, accessibility and translation supports, and teacher-facing progress and engagement dashboards.
@@ -32,15 +32,6 @@ Coursemojo is an AI-powered, curriculum-aligned ELA instructional assistant for 
 - **Coursemojo AI-powered ELA instructional assistant with data dashboards**: Coursemojo is an AI-powered, curriculum-aligned instructional assistant for fifth through eighth grade students that provides personalized Socratic feedback on student writing in real time, supports instruction in over 50 home languages, and generates actionable reports for teachers on student progress and engagement. Its assistant avatar Mojo integrates pre-programmed content from ELA curricula with generative AI (GPT-4o). The platform includes accessibility features such as read-aloud, speech-to-text, and graphic organizers aligned with UDL principles, plus engagement-dot dashboards and translation features. (Cherise McBride et al. (2026))
 
 ### Claims
-- [Coaches cautioned that AI-generated feedback should be used formatively rather than for summative assessment because of AI's probabilistic nature](../claims/ai-feedback-formative-not-summative-caution.md) [~W]
-- [Instructional coaches co-constructed implementation plans rooted in Kotter's framework to create the climate for change and make the change happen for an AI literacy tool](../claims/coaches-kotter-implementation-plans-coursemojo.md) [+W]
-- [Coaches reported that usage dashboards grounded coaching conversations in evidence rather than perception and prompted reality checks on implementation](../claims/dashboards-evidence-based-coaching-conversations.md) [+W]
-- [Coursemojo's color-coded engagement dots served as a real-time diagnostic that coaches reported enabled in-the-moment scaffolding and small group pulls](../claims/engagement-dots-realtime-diagnostic-small-groups.md) [+W]
-- [In a landscape scan survey, 12 of 13 coaches agreed or strongly agreed that AI ELA products can help personalize learning](../claims/survey-coaches-ai-personalization-benefit.md) [+W]
-- [Stronger Coursemojo outcomes were associated with more consistent use of 2.5 or more days per week](../claims/coursemojo-consistent-use-stronger-outcomes.md) [+M]
-- [Coursemojo use narrowed achievement gaps for students with disabilities and economically disadvantaged students in Tennessee](../claims/coursemojo-gap-narrowing-tn.md) [+M]
-- [Coursemojo qualifies for a Moderate evidence rating based on positive ELA impacts across two studies](../claims/coursemojo-moderate-evidence-rating.md) [+M]
-- [Coursemojo use was associated with higher sixth-grade ELA performance in a Tennessee quasi-experiment](../claims/coursemojo-tn-ela-gains.md) [+M]
 - [Coursemojo use was associated with higher STAAR reading and NWEA MAP scores in a Texas quasi-experiment](../claims/coursemojo-tx-reading-gains.md) [+M]
 
 ## Related Products and Programmes
@@ -81,11 +72,6 @@ Coursemojo is an AI-powered, curriculum-aligned instructional assistant for fift
 
 ## Claims
 
-- [Coaches cautioned that AI-generated feedback should be used formatively rather than for summative assessment because of AI's probabilistic nature](../claims/ai-feedback-formative-not-summative-caution.md) [~W]
-- [Instructional coaches co-constructed implementation plans rooted in Kotter's framework to create the climate for change and make the change happen for an AI literacy tool](../claims/coaches-kotter-implementation-plans-coursemojo.md) [+W]
-- [Coaches reported that usage dashboards grounded coaching conversations in evidence rather than perception and prompted reality checks on implementation](../claims/dashboards-evidence-based-coaching-conversations.md) [+W]
-- [Coursemojo's color-coded engagement dots served as a real-time diagnostic that coaches reported enabled in-the-moment scaffolding and small group pulls](../claims/engagement-dots-realtime-diagnostic-small-groups.md) [+W]
-- [In a landscape scan survey, 12 of 13 coaches agreed or strongly agreed that AI ELA products can help personalize learning](../claims/survey-coaches-ai-personalization-benefit.md) [+W]
 
 ## Related Elements
 
@@ -127,10 +113,6 @@ Coursemojo is an AI-powered teaching and learning platform for English Language 
 
 ## Claims
 
-- [Stronger Coursemojo outcomes were associated with more consistent use of 2.5 or more days per week](../claims/coursemojo-consistent-use-stronger-outcomes.md) [+M]
-- [Coursemojo use narrowed achievement gaps for students with disabilities and economically disadvantaged students in Tennessee](../claims/coursemojo-gap-narrowing-tn.md) [+M]
-- [Coursemojo qualifies for a Moderate evidence rating based on positive ELA impacts across two studies](../claims/coursemojo-moderate-evidence-rating.md) [+M]
-- [Coursemojo use was associated with higher sixth-grade ELA performance in a Tennessee quasi-experiment](../claims/coursemojo-tn-ela-gains.md) [+M]
 - [Coursemojo use was associated with higher STAAR reading and NWEA MAP scores in a Texas quasi-experiment](../claims/coursemojo-tx-reading-gains.md) [+M]
 
 ## Related Elements

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: slepkov-2013
-    resource: "https://arxiv.org/abs/1308.4365"
-    title: "Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365"
+    resource: "https://doi.org/10.48550/arxiv.1308.4365"
+    title: "Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365 [doi:10.48550/arxiv.1308.4365](https://doi.org/10.48550/arxiv.1308.4365)"
     author: Slepkov, A. D.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Slepkov 2013
 
-Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365
+Slepkov, A. D. (2013). Integrated Testlets and the Immediate Feedback Assessment Technique. https://arxiv.org/abs/1308.4365 [doi:10.48550/arxiv.1308.4365](https://doi.org/10.48550/arxiv.1308.4365)
 
 `q2 · i? · the article prints no effect size for this finding` · `design · r2`
 
@@ -45,7 +45,7 @@ Reliability analysis of the two case-study examinations, whose unadjusted Cronba
 ## Related Claims
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
 - [Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)](intra-testlet-items-slightly-more-difficult.md) — related
-- [Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69)](mrbq-scale-reliability-mixed.md) — related
+- Teacher-belief and competence/value scales show high internal consistency (alphas .92 and .89), while the social-activity and excellence scales are weaker (.65 and .69) — related
 - [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) — related
 - [Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons](unreliability-reduces-rct-statistical-power.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related

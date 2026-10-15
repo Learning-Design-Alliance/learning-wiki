@@ -42,4 +42,4 @@ The brief reports secondary analyses of BTOS data by the Federal Reserve Bank of
 
 ## Related Claims
 - [AI adoption across the 19 Heartland states averages 15.3%, below the national rate and uneven across states](heartland-btos-adoption-below-national.md) — related
-- [Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027](ai-workforce-demand-non-technical-sectors.md) — related
+- Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027 — related

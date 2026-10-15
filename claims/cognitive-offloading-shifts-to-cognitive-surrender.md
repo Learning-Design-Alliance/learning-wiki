@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: steve-woollaston-2026
-    resource: "https://arxiv.org/abs/2606.04543"
-    title: "Steve Woollaston, Brendan Flanagan, Isanka Wijerathne, and Hiroaki Ogata. (2026). Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning. https://arxiv.org/abs/2606.04543"
+    resource: "https://doi.org/10.48550/arxiv.2606.04543"
+    title: "Steve Woollaston, Brendan Flanagan, Isanka Wijerathne, and Hiroaki Ogata. (2026). Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning. https://arxiv.org/abs/2606.04543 [doi:10.48550/arxiv.2606.04543](https://doi.org/10.48550/arxiv.2606.04543)"
     author: Steve Woollaston, Brendan Flanagan, Isanka Wijerathne, and Hiroaki Ogata
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Steve Woollaston 2026
 
-Steve Woollaston, Brendan Flanagan, Isanka Wijerathne, and Hiroaki Ogata. (2026). Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning. https://arxiv.org/abs/2606.04543
+Steve Woollaston, Brendan Flanagan, Isanka Wijerathne, and Hiroaki Ogata. (2026). Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning. https://arxiv.org/abs/2606.04543 [doi:10.48550/arxiv.2606.04543](https://doi.org/10.48550/arxiv.2606.04543)
 
 `q1 · i?` · `review · r1`
 

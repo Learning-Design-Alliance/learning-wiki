@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: metric-eval-1
+    resource: "https://doi.org/10.48550/arxiv.2608.19812"
     title: metric-eval-1
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### metric-eval-1
 
-Yearim Kim, Injun Baek, and Nojun Kwak. 2026. When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation. In Proceedings of Understanding and Engaging Critical Resistance to AI in Education (CHI '26 Workshop). ACM, New York, NY, USA. https://arxiv.org/abs/2608.19812
+Yearim Kim, Injun Baek, and Nojun Kwak. 2026. When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation. In Proceedings of Understanding and Engaging Critical Resistance to AI in Education (CHI '26 Workshop). ACM, New York, NY, USA. https://arxiv.org/abs/2608.19812 [doi:10.48550/arxiv.2608.19812](https://doi.org/10.48550/arxiv.2608.19812)
 
 `q2 · i?` · `causal · r1`
 

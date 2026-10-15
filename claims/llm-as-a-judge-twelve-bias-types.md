@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` La revue rapporte, citant Ye et coll. (2024), une analyse systématique identifiant douze types de biais des LLMs-juges, dont les biais de diversité, d'autorité, de verbosité et d'auto-amélioration. [→ Fatiha TALI OTMANI 2025](#fatiha-tali-otmani-2025)
@@ -43,6 +44,6 @@ La revue rapporte l'analyse systématique de Ye et coll. : « douze types de bia
 
 
 ## Related Claims
-- [Les outils d'IA présentent des potentialités réelles pour l'accessibilité de l'enseignement supérieur inclusif, mais leur efficacité reste conditionnée et limitée](ai-potentialities-limits-inclusive-higher-education.md) — a broader claim this one bears on
-- [Les personnes en situation de handicap sont invisibilisées dans les productions d'IA et exclues à trois niveaux (données, architectures, interfaces), selon un processus en spirale](disability-invisibilization-three-level-exclusion-spiral.md) — related
-- [L'entraînement récursif sur des données synthétiques dégrade progressivement la diversité des productions (model collapse) et cristallise les représentations dominantes](model-collapse-stereotypic-amplification-loops.md) — related
+- Les outils d'IA présentent des potentialités réelles pour l'accessibilité de l'enseignement supérieur inclusif, mais leur efficacité reste conditionnée et limitée — a broader claim this one bears on
+- Les personnes en situation de handicap sont invisibilisées dans les productions d'IA et exclues à trois niveaux (données, architectures, interfaces), selon un processus en spirale — related
+- L'entraînement récursif sur des données synthétiques dégrade progressivement la diversité des productions (model collapse) et cristallise les représentations dominantes — related

@@ -16,7 +16,7 @@ sources:
 # Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 BKT models students' changing knowledge states during practice by updating, after each response, the probability that a skill is mastered. It parameterizes initial mastery, transition to mastery after an opportunity, slipping, and guessing, and updates mastery conditional on each correct or incorrect response. The article applies it to Raging Skies by treating each storm-feature measurement as a subskill updated per opportunity, and storm-type identification as evidence for the general interpreting skill. The authors note it "typically models the first attempts of solving a problem".
@@ -36,7 +36,6 @@ BKT models students' changing knowledge states during practice by updating, afte
 - Weather observation and interpretation skills from the Weather Watch unit
 
 ### Claims
-- [Bkt Fits Raging Skies Process Data](../claims/bkt-fits-raging-skies-process-data.md) [+M]
 - [Bkt Mastery Profile Weather Skills](../claims/bkt-mastery-profile-weather-skills.md) [+M]
 
 ## Related Theories

@@ -16,7 +16,7 @@ sources:
 # Framework of 35 metacognitive behaviors for coding reading-strategy use
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The researchers created a coding framework of 35 metacognitive behaviors, skills, and strategies drawn from a literature review, used to judge whether student interview responses demonstrated metacognition. Behaviors range from setting the purpose for reading and understanding the task to predicting, using fix-up strategies, summarizing, testing, revising, evaluating, checking, and rereading. A response matching a listed behavior was counted as metacognitive; otherwise it was considered not metacognitive and ignored.
@@ -38,11 +38,8 @@ The researchers created a coding framework of 35 metacognitive behaviors, skills
 
 ### Claims
 
-- [Students Use 19 Of 35 Metacognitive Behaviors](../claims/students-use-19-of-35-metacognitive-behaviors.md) [+M]
 - [Predicting Contextual Analysis Rereading Most Frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+M]
-- [Percentage of metacognitive interview responses varied by grade band: 66% (grades 2-3), 97% (grade 5), 82% (grade 6), and 41% (grades 7-12)](../claims/metacognitive-response-percentages-by-grade.md) [+M]
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [+W]
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [+W]
 
 ## Related Theories
 - 

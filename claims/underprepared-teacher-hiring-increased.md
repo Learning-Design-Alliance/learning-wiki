@@ -49,8 +49,8 @@ Statewide credential-issuance figures reported in the report's background sectio
 - [Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students](substandard-credentials-unequal-district-distribution.md) — related
 - [Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them](pandemic-increased-teacher-vacancies-california-districts.md) — related
 - [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — related
-- [California's K-3 class size reduction policy sharply increased the proportion of teachers without full credentials, with low-income students most affected](class-size-reduction-reduced-teacher-credentials.md) — related
+- California's K-3 class size reduction policy sharply increased the proportion of teachers without full credentials, with low-income students most affected — related
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
-- [Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22](michigan-vacancy-data-underreporting.md) — related
-- [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related
+- Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22 — related
+- Fresno’s Skillful Leader Project improved teacher retention and hiring — related
 - [California substandard credentials and permits tripled between 2013 and 2023 and made up more than half of new teaching authorizations issued in 2023](california-substandard-credentials-tripled-2013-2023.md) — related

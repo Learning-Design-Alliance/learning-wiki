@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kristina-schaaff-2026
-    resource: "https://arxiv.org/abs/2607.08748"
-    title: "Kristina Schaaff, Quintus Stierstorfer and Valerie Hekkel. (2026). Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis. https://arxiv.org/abs/2607.08748"
+    resource: "https://doi.org/10.48550/arxiv.2607.08748"
+    title: "Kristina Schaaff, Quintus Stierstorfer and Valerie Hekkel. (2026). Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis. https://arxiv.org/abs/2607.08748 [doi:10.48550/arxiv.2607.08748](https://doi.org/10.48550/arxiv.2607.08748)"
     author: Kristina Schaaff, Quintus Stierstorfer and Valerie Hekkel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kristina Schaaff 2026
 
-Kristina Schaaff, Quintus Stierstorfer and Valerie Hekkel. (2026). Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis. https://arxiv.org/abs/2607.08748
+Kristina Schaaff, Quintus Stierstorfer and Valerie Hekkel. (2026). Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis. https://arxiv.org/abs/2607.08748 [doi:10.48550/arxiv.2607.08748](https://doi.org/10.48550/arxiv.2607.08748)
 
 `q2 · i?` · `associational · r2`
 
@@ -50,4 +50,4 @@ Descriptive comparison of usage counts by gender from the same February 2025 log
 - [Full-time students use Syntea slightly more than part-time students (59.49% vs 55.71%)](syntea-usage-study-mode-difference.md) — related
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
-- [Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster](gender-difference-only-zero-usage-cluster.md) — related
+- Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster — related

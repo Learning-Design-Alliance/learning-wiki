@@ -41,4 +41,4 @@ Review synthesis for research question 2 on training structure. The review repor
 
 
 ## Related Claims
-- [In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle](workshop-iterative-ai-creation-process-cordtra.md) — related
+- In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle — related

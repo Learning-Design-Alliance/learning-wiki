@@ -16,7 +16,7 @@ sources:
 # Listening as an active process of constructing meaning from a stream of sounds
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 associational), `q2` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper argues that although listening is classified as a receptive skill, it is not passive: "Listeners do not passively absorb the words, but actively attempt to grasp the facts and feelings in what they hear". It reviews definitions from Chastain, Morley, Postovsky, Goss, James and others who treat listening comprehension as an activity in which listeners employ mental processes to decode meaning from oral texts, and O'Malley, Chamot and Kupper's account of listening as an active, conscious process using contextual cues and existing knowledge.
@@ -38,9 +38,6 @@ The paper argues that although listening is classified as a receptive skill, it 
 ### Claims
 
 - [A 2010 teacher guide reports, citing Postovsky (1974, 1975), that delaying oral production and emphasising aural comprehension early in EFL instruction gives better results than intensive oral practice](../claims/listening-first-outperforms-intensive-oral-practice.md) [+W]
-- [Listening is the most frequently used of the four language skills, consuming the largest share of communication time](../claims/listening-most-used-language-skill.md) [+W]
-- [Listening proficiency transfers to other language skills, including reading and writing, in second language learners](../claims/listening-transfer-to-other-language-skills.md) [+W]
-- [Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners](../claims/receptive-vocabulary-moderately-correlates-advanced-listening.md) [+W]
 
 ## Related Theories
 

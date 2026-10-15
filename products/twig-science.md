@@ -18,7 +18,7 @@ sources:
 # Twig Science
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Twig Science is Twig Education's phenomena-based K–8 science curriculum aligned with the Next Generation Science Standards and built around the 5E instructional model.
@@ -27,7 +27,6 @@ Twig Science is Twig Education's phenomena-based K–8 science curriculum aligne
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Grades 6–8 students using Twig Science showed significantly greater gains on the Imagine Galileo science benchmark than matched non-using peers (effect size +0.15)](../claims/twig-science-greater-galileo-gains-middle-school.md) [+M]
 
 ## Related Products and Programmes
 
@@ -64,7 +63,6 @@ Twig Science is "a comprehensive, phenomena-based science curriculum for Grades 
 
 ## Claims
 
-- [Grades 6–8 students using Twig Science showed significantly greater gains on the Imagine Galileo science benchmark than matched non-using peers (effect size +0.15)](../claims/twig-science-greater-galileo-gains-middle-school.md) [+M]
 
 ## Related Elements
 

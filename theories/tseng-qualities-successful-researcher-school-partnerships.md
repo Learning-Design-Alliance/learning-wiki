@@ -16,7 +16,7 @@ sources:
 # Tseng's (2012) qualities of successful researcher-school partnerships: trust, shared commitments, and open dialogue to improve research and its use
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 This framework defines what makes researcher-school partnerships successful. The article cites Tseng (2012), who "lists the qualities of successful researcher-school partnerships as a strong relationship built on trust, shared commitments, and open dialogue to improve research and its use." The Santa Clara case is presented as aligning with these emerging definitions, with both sides feeling they are important partners who both benefit.
@@ -36,7 +36,6 @@ This framework defines what makes researcher-school partnerships successful. The
 - improving research and its use in educational practice
 
 ### Claims
-- [Rpp Trust Reciprocity Mutual Respect Benefits](../claims/rpp-trust-reciprocity-mutual-respect-benefits.md) [+M]
 
 ## Related Theories
 

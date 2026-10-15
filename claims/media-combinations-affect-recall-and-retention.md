@@ -23,6 +23,7 @@ evidence_strength: moderate
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=37
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 89 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-15: Different media combinations significantly affect the recall and retention of information -->
 
 How information is distributed across media channels (e.g., text, images, narration) changes how well learners recall and retain it, in line with the predictions of [Dual Coding Theory](../theories/dual-coding-theory.md).

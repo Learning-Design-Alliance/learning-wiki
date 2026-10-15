@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: holster-2026
-    resource: "https://www.oecd.org/en/data/datasets/talis-2024-database.html"
-    title: "Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html"
+    resource: "https://doi.org/10.35542/osf.io/a39rp_v1"
+    title: "Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html [doi:10.35542/osf.io/a39rp_v1](https://doi.org/10.35542/osf.io/a39rp_v1)"
     author: Holster, J.
     q: 2
     i: 1
@@ -30,7 +30,7 @@ sources:
 # Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1` small
+> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i1` A focal task one point above the same teacher's mean demand has higher odds of corresponding AI use (OR = 1.163). [→ Holster 2026](#holster-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Holster 2026
 
-Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html
+Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html [doi:10.35542/osf.io/a39rp_v1](https://doi.org/10.35542/osf.io/a39rp_v1)
 
 `q2 · i1` · `associational · r2`
 

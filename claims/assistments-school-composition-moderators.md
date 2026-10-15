@@ -67,6 +67,6 @@ Companion school-level moderator analysis using average percentage of White stud
 ## Related Claims
 - [ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap](assistments-close-ethnic-achievement-gaps.md) — related
 - [ASSISTments benefited Hispanic students more than non-Hispanic students](assistments-hispanic-students-benefit-more.md) — related
-- [The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students](exact-path-study-diverse-sample.md) — related
+- The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students — related
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
-- [Coursemojo use narrowed achievement gaps for students with disabilities and economically disadvantaged students in Tennessee](coursemojo-gap-narrowing-tn.md) — related
+- Coursemojo use narrowed achievement gaps for students with disabilities and economically disadvantaged students in Tennessee — related

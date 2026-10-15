@@ -49,7 +49,7 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [Attending a selective exam-entry high school yields no significant academic benefits and lowers 11th-grade GPA relative to observationally similar peers elsewhere](selective-schools-no-academic-benefit-lower-gpa.md) — related
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related
 - [Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness](attendance-effort-drive-grades-graduation.md) — related
-- [Prior GPA was the best predictor of students' course grade, whether or not students used courseware.](prior-gpa-best-grade-predictor.md) — a narrower finding that bears on this claim
+- Prior GPA was the best predictor of students' course grade, whether or not students used courseware. — a narrower finding that bears on this claim
 - [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related
 - The College Experiences Survey was conducted as part of an evaluation of factors associated with college persistence and attrition — related
 - [High school GPA is a better predictor of college graduation than standardized test scores, yet districts continue to rely on test-based readiness benchmarks](gpa-better-predictor-than-test-scores.md) — a narrower finding that bears on this claim
@@ -62,5 +62,5 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [Increasing selectivity of teacher preparation entrance exams is not mutually exclusive with increasing diversity — nine states that raised selectivity saw education student diversity increase.](selectivity-and-diversity-compatible.md) — related
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — a narrower finding that bears on this claim
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related
-- [The quality and intensity of the high school curriculum is reported to be the single most important factor in college success](curriculum-quality-intensity-most-important-college-success.md) — reports the opposite
+- The quality and intensity of the high school curriculum is reported to be the single most important factor in college success — reports the opposite
 - [Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change](prediction-versus-causal-intervention-distinction.md) — related

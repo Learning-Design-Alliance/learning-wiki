@@ -45,5 +45,5 @@ The brief's own description states it examines Kindergarten test scores from "mo
 ## Related Claims
 - [Kindergarten test scores from more than 400,000 U.S. students contain patterns that can predict academic success or identify students at risk of falling further behind by third grade](kindergarten-scores-predict-third-grade-trajectories-400000-students.md) — possibly the same claim (merge candidate)
 - [Neither promotion nor retention significantly closed the achievement gap of low-achieving students close to the cutoff, and the lowest achievers deteriorated further](retention-social-promotion-no-gap-closing.md) — related
-- [Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention](multiyear-chronic-absenteeism-lower-second-grade-reading.md) — related
+- Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention — related
 - [Rural students start kindergarten slightly ahead of nonrural students but fall behind by middle school](rural-students-start-ahead-fall-behind-middle-school.md) — related

@@ -47,9 +47,9 @@ RQ2 thematic analysis of focus groups reports this tension in participants' ethi
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not](delegating-evaluation-self-defeating.md) — related
 - [Nearly all postgraduate research students in the study used GenAI across multiple research stages, positioning it as a supportive assistant with human oversight retained](pgr-genai-supportive-assistant-human-oversight.md) — related
-- [Generic binary GenAI declarations fail to capture the diversity of ways students use GenAI in academic work](binary-genai-declarations-fail-to-capture-use-diversity.md) — related
+- Generic binary GenAI declarations fail to capture the diversity of ways students use GenAI in academic work — related
 - [Students express profound confusion about whether GenAI-assisted coursework is original work and whether they can claim authorship](student-confusion-genai-originality-authorship.md) — related
-- [Human epistemic accountability operates as a boundary condition with three tests: contestability, provenance, and non-delegation of moral and intellectual credit](human-epistemic-accountability-boundary-conditions.md) — a broader claim this one bears on
+- Human epistemic accountability operates as a boundary condition with three tests: contestability, provenance, and non-delegation of moral and intellectual credit — a broader claim this one bears on
 - [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](teachers-retain-ultimate-control-responsibility-not-delegable.md) — a narrower finding that bears on this claim
 - [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — related
 - [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](genai-self-scaffold-versus-outsourcing.md) — related

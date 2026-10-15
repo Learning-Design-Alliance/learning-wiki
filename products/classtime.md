@@ -18,7 +18,7 @@ sources:
 # Classtime
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Classtime is a web-based formative-assessment platform made by Classtime that lets educators deliver interactive question sets, view responses and dashboards in real time, and provide feedback across subjects.
@@ -28,9 +28,6 @@ Classtime is a web-based formative-assessment platform made by Classtime that le
 - **Classtime digital formative assessment platform**: Classtime is a web-based digital formative assessment platform supporting mathematics, English Language Arts, and science instruction through interactive practice and real-time feedback. Teachers assign problem sets aligned with state standards and use dashboards that display student responses instantly, allowing them to identify misconceptions and adjust instruction during or after lessons. It runs in any modern web browser on any device, requires reliable internet connectivity, and supports two-way synchronization and SSO with tools like Google Classroom and Clever. (Classtime (2024))
 
 ### Claims
-- [Classtime effects were strongest among sixth-grade students and larger in schools with a second year of implementation](../claims/classtime-grade-and-duration-moderators.md) [+W]
-- [Students in Classtime schools scored significantly higher on CAASPP mathematics than comparison-school students (effect size +0.05)](../claims/classtime-higher-caaspp-math-scores.md) [+W]
-- [The Classtime evidence base qualifies for a Promising rating based on one quasi-experimental study of 6,853 students](../claims/classtime-promising-rating-single-quasi-experiment.md) [+W]
 
 ## Related Products and Programmes
 
@@ -70,9 +67,6 @@ Classtime is a web-based digital formative assessment platform supporting mathem
 
 ## Claims
 
-- [Classtime effects were strongest among sixth-grade students and larger in schools with a second year of implementation](../claims/classtime-grade-and-duration-moderators.md) [+W]
-- [Students in Classtime schools scored significantly higher on CAASPP mathematics than comparison-school students (effect size +0.05)](../claims/classtime-higher-caaspp-math-scores.md) [+W]
-- [The Classtime evidence base qualifies for a Promising rating based on one quasi-experimental study of 6,853 students](../claims/classtime-promising-rating-single-quasi-experiment.md) [+W]
 
 ## Related Elements
 

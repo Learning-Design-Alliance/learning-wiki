@@ -29,7 +29,7 @@ sources:
 # Reading Recovery
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 15 claims (13 for, 2 mixed) · 9 studies (5 causal, 3 quant-synthesis, 1 review), `q2`–`q3` · 4 of 9 report an effect size · 15 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 7 studies (4 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 7 report an effect size · 11 claims rest on one study
 
 ## Description
 Reading Recovery is a one-to-one early-literacy tutoring programme for low-achieving first-grade readers, delivered by specially trained teachers through daily individual lessons and progress monitoring.
@@ -44,9 +44,6 @@ Reading Recovery is a one-to-one early-literacy tutoring programme for low-achie
 - **Reading Recovery training cascade: university-affiliated teacher training sites, teacher leaders, and certified teachers**: Reading Recovery® sustains implementation through a three-level training infrastructure. Teacher training sites in public schools, affiliated with partnering universities, house teacher leaders who train teachers. Teacher leaders complete a yearlong training of graduate coursework and supervised practicums, and are expected to "provide initial training for up to 15 teacher candidates and provide ongoing support for 40 to 60 Reading Recovery® teachers or teachers in training annually." Teachers complete a yearlong graduate-credit training and must maintain registration by teaching at least eight students per year and participating in ongoing professional development. (page:designs/reading-recovery-training-cascade)
 
 ### Claims
-- [Reading Recovery shows an average effect size of +0.43 across four qualifying studies, earning a Strong evidence rating](../claims/reading-recovery-average-effect-043-strong.md) [+M]
-- [Reading Recovery produces two positive outcomes: reaching average levels within 20 weeks or reliable referral for further testing](../claims/reading-recovery-dual-positive-outcomes.md) [+W]
-- [Reading Recovery targets first-graders in the lowest 20-30% of their cohort after one year of formal schooling](../claims/reading-recovery-targets-lowest-20-30-percent.md) [+W]
 - [Reading Recovery positively impacts grade 1 literacy achievement immediately after the intervention, with moderate evidence from one randomized controlled trial](../claims/reading-recovery-improves-grade1-literacy.md) [+M]
 - [Reading Recovery improves receptive communication skills immediately after the intervention, with promising evidence from one small quasi-experimental study](../claims/reading-recovery-improves-receptive-communication.md) [+W]
 - [Reading Recovery improves writing conventions three years after the intervention, but the effect is significant only against one of the two comparison groups](../claims/reading-recovery-improves-writing-conventions-mixed.md) [+W]
@@ -58,7 +55,6 @@ Reading Recovery is a one-to-one early-literacy tutoring programme for low-achie
 - [Reading Recovery has potentially positive effects on alphabetics for beginning readers](../claims/reading-recovery-potentially-positive-alphabetics.md) [+W]
 - [Reading Recovery has potentially positive effects on comprehension, with mixed findings across two trials](../claims/reading-recovery-potentially-positive-comprehension.md) [+W]
 - [Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial](../claims/reading-recovery-potentially-positive-reading-fluency.md) [+W]
-- [Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program](../claims/reading-go-positive-decoding-word-reading-outcomes.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -102,9 +98,6 @@ Reading Recovery provides the lowest-achieving first-grade students "daily 30-mi
 
 ## Claims
 
-- [Reading Recovery shows an average effect size of +0.43 across four qualifying studies, earning a Strong evidence rating](../claims/reading-recovery-average-effect-043-strong.md) [+M]
-- [Reading Recovery produces two positive outcomes: reaching average levels within 20 weeks or reliable referral for further testing](../claims/reading-recovery-dual-positive-outcomes.md) [+W]
-- [Reading Recovery targets first-graders in the lowest 20-30% of their cohort after one year of formal schooling](../claims/reading-recovery-targets-lowest-20-30-percent.md) [+W]
 
 ## Related Elements
 
@@ -257,7 +250,6 @@ Each daily 30-minute one-on-one session provides a balanced literacy block inclu
 - writing sentences
 
 ### Claims
-- [Reading Go Positive Decoding Word Reading Outcomes](../claims/reading-go-positive-decoding-word-reading-outcomes.md) [+M]
 
 ## Related Designs
 - 

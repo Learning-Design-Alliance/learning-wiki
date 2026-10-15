@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Cross-cultural studies found each cultural group tends toward a dominant cognitive style, with non-Native samples most analytical and Metis samples tending toward a relational style. [→ Tamaoka 1985](#tamaoka-1985)
@@ -63,6 +64,6 @@ The review reports Kaulback's review of studies using the Illinois Test of Psych
 
 ## Related Claims
 - [Teachers underrefer culturally and linguistically diverse students for gifted identification](teacher-underreferral-diverse-gifted.md) — related
-- [Grade is related to sixth graders' thinking styles in the function, form, level and leaning dimensions](grade-related-to-thinking-styles-dimensions.md) — related
-- [Gender is related to sixth graders' thinking styles in the function, form and scope dimensions](gender-related-to-thinking-styles-dimensions.md) — related
+- Grade is related to sixth graders' thinking styles in the function, form, level and leaning dimensions — related
+- Gender is related to sixth graders' thinking styles in the function, form and scope dimensions — related
 - [Cross-cultural measurement problems may bias psychosocial instruments translated across cultures](cross-cultural-measurement-bias-in-translated-psychosocial-instruments.md) — related

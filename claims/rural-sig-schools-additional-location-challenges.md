@@ -54,7 +54,7 @@ Case study analysis of nine rural SIG schools using spring 2012 site visits and 
 - [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related
 - [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related
 - [Rural schools were far more likely than nonrural schools to offer Project On-Track tutoring during school only](ontrack-rural-schools-during-school-tutoring.md) — related
-- [Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities](local-leaders-learning-supports-across-modalities.md) — related
+- Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities — related
 - [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](rural-childcare-structural-barriers-tecta-participation.md) — related
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — a narrower finding that bears on this claim
 - [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — related

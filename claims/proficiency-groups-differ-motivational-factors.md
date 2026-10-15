@@ -46,8 +46,8 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 ## Related Claims
 - [High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners](high-proficiency-learners-use-more-strategies.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
-- [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
-- [Connectivism-based training produced higher academic self-efficacy and task value than CLT in an EFL experiment](connectivism-raises-motivational-beliefs-vs-clt.md) — related
+- Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
+- Connectivism-based training produced higher academic self-efficacy and task value than CLT in an EFL experiment — related
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Language proficiency, beliefs, feedback literacy and learning objectives moderate students' engagement with and uptake of WCF](student-factors-moderate-wcf-engagement.md) — related

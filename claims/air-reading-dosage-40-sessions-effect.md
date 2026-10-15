@@ -45,4 +45,4 @@ Dosage analysis within the 2023-2024 Texas randomized study (nearly 400 grade 1-
 ## Related Claims
 - [A second randomized study in Louisiana and Texas found Air Reading students scored significantly higher on combined reading assessments (effect size +0.29)](air-reading-rct-2024-25-combined-assessments.md) — related
 - [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related
-- [Math Corps effects are larger for students receiving the optimal dosage](math-corps-optimal-dosage-larger-effect.md) — related
+- Math Corps effects are larger for students receiving the optimal dosage — related

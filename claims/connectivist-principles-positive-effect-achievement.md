@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` A structural model evaluation found that autonomy, diversity, interactivity, openness and Web 2.0 had a positive significant effect on students' achievement in independent learning through connectivism. [→ Downes 2019](#downes-2019)
@@ -45,5 +46,5 @@ The survey reports, citing Zulkifley, Nor, and Siti (2018), an evaluation of a s
 ## Related Claims
 - [In surveyed recent literature, no evaluative study found evidence against connectivism; outcomes were positive or at worst neutral](connectivism-evaluations-no-negative-evidence.md) — a broader claim this one bears on
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — reports the opposite
-- [Critics argue connectivism cannot explain concept formation or development, invoking the learning paradox](connectivism-cannot-explain-concept-development.md) — related
-- [A connectivism instructional method was significantly more effective than the grammar-translation method for EFL academic engagement](connectivism-method-beats-grammar-translation.md) — related
+- Critics argue connectivism cannot explain concept formation or development, invoking the learning paradox — related
+- A connectivism instructional method was significantly more effective than the grammar-translation method for EFL academic engagement — related

@@ -43,5 +43,5 @@ The report's synthesis of recent voucher research notes that for many years stud
 
 
 ## Related Claims
-- [After one year, DC's voucher program had no statistically significant effect, positive or negative, on public school test-score gains](dc-voucher-competition-no-public-school-effect-year-one.md) — related
+- After one year, DC's voucher program had no statistically significant effect, positive or negative, on public school test-score gains — related
 - [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — a broader claim this one bears on

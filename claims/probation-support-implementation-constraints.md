@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kara-finnigan-and-jennifer-oday-2003
-    resource: "https://eric.ed.gov/?id=ED474395"
-    title: "Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395"
+    resource: "https://doi.org/10.1037/e565292006-001"
+    title: "Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395 [doi:10.1037/e565292006-001](https://doi.org/10.1037/e565292006-001)"
     author: "Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn"
     q: 2
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Provider assistance to probation schools suffered from low intensity, poor communication among providers, and weak organizational change strategies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · qualitative `r2` · `q2`
+> **Evidence** · 2 studies (3 entries) · 2 qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The intensity of assistance delivered to probation schools was inadequate to address the needs of the individuals and organizations concerned, varying among providers. [→ Kara Finnigan and Jennifer O'Day 2003](#kara-finnigan-and-jennifer-oday-2003)
@@ -49,7 +49,7 @@ sources:
 
 ### Kara Finnigan and Jennifer O'Day 2003
 
-Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395
+Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395 [doi:10.1037/e565292006-001](https://doi.org/10.1037/e565292006-001)
 
 `q2 · i?` · `qualitative · r2`
 

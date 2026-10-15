@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sudarshan-vk-2025
-    resource: "https://arxiv.org/abs/2605.14266"
-    title: "Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266"
+    resource: "https://doi.org/10.48550/arxiv.2605.14266"
+    title: "Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)"
     author: Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sudarshan VK 2025
 
-Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266
+Sudarshan VK, Sisodia A, Ramachandra RA, Sia B, Chong Leng Leng J. (2025). Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence. https://arxiv.org/abs/2605.14266 [doi:10.48550/arxiv.2605.14266](https://doi.org/10.48550/arxiv.2605.14266)
 
 `q2 · i?` · `review · r1`
 

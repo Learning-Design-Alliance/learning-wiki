@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: keith-tran-2026
-    resource: "https://arxiv.org/abs/2606.30547"
-    title: "Keith Tran, Samiha Marwan, and Thomas Price. (2026). Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers. https://arxiv.org/abs/2606.30547"
+    resource: "https://doi.org/10.48550/arxiv.2606.30547"
+    title: "Keith Tran, Samiha Marwan, and Thomas Price. (2026). Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers. https://arxiv.org/abs/2606.30547 [doi:10.48550/arxiv.2606.30547](https://doi.org/10.48550/arxiv.2606.30547)"
     author: Keith Tran, Samiha Marwan, and Thomas Price
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Keith Tran 2026
 
-Keith Tran, Samiha Marwan, and Thomas Price. (2026). Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers. https://arxiv.org/abs/2606.30547
+Keith Tran, Samiha Marwan, and Thomas Price. (2026). Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers. https://arxiv.org/abs/2606.30547 [doi:10.48550/arxiv.2606.30547](https://doi.org/10.48550/arxiv.2606.30547)
 
 `q3 · i?` · `causal · r2`
 

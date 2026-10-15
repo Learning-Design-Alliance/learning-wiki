@@ -22,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The article reports implementing Kolb-cycle four-quadrant activities with FEA software for steady state heat transfer, transient heat transfer and thermal stress, but no formal assessment of the module was employed. [→ Widiastuti 2018](#widiastuti-2018)
@@ -43,5 +44,5 @@ Descriptive design report of a module for a first-year Heat Transfer course with
 
 ## Related Claims
 - [Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course](graduate-students-develop-interactive-modules-as-course-project.md) — related
-- [PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs](assess-pjbl-outcomes-across-quadrants.md) — related
+- PjBL assessment research should evaluate outcomes across all four quadrants, not only Flexible-Cooperative designs — related
 - [Learning styles measured by Kolb's inventory showed no significant change over one year of varied instruction](kolb-learning-style-stable-over-one-year.md) — related

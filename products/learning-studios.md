@@ -18,7 +18,7 @@ sources:
 # Learning Studios
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Learning Studios is a network of technology-equipped classrooms operated through HP and Microsoft's Reinvent the Classroom initiative, providing hardware, design-project guides, teacher training, professional development, and an online learning community.
@@ -28,12 +28,6 @@ Learning Studios is a network of technology-equipped classrooms operated through
 - **NCTAF STEM learning studios with cross-curricular teams and STEM professional volunteers**: NCTAF's STEM learning teams work in "STEM learning studios": intentionally cross-curricular teams of science, math, and technology teachers joined by scientists and engineers from government, business, and industry who co-design and implement project-based learning activities addressing learning challenges the teachers identify. Implementation begins with a three-day summer workshop and quarterly design sessions, typically teaching one inquiry-based project module per quarter. Launched in 2009 with a NASA grant, the model reached eight high schools in three Maryland districts as of Spring 2011. (Kathleen Fulton et al. (2011))
 
 ### Claims
-- [Learning Studio participation was associated with indicators of student agency and ownership of learning](../claims/learning-studios-agency-ownership-indicators.md) [+W]
-- [Evidence for collaboration and communication growth was positive but limited by ceiling effects, while design-thinking growth was mixed](../claims/learning-studios-collaboration-design-thinking-mixed.md) [~W]
-- [Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students](../claims/learning-studios-engagement-persistence-indicators.md) [+W]
-- [Student outcomes strengthened with more implemented project guides and differed between emergent and established Learning Studio contexts](../claims/learning-studios-implementation-context-outcomes.md) [+W]
-- [Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport](../claims/learning-studios-ldd-students-expertise-confidence.md) [+W]
-- [Learning Studio participation was associated with stronger maker/designer identity and design-related confidence](../claims/learning-studios-maker-identity-confidence-gains.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,12 +61,6 @@ Learning Studios are a global network of 60 classrooms under HP and Microsoft's 
 
 ## Claims
 
-- [Learning Studio participation was associated with indicators of student agency and ownership of learning](../claims/learning-studios-agency-ownership-indicators.md) [+W]
-- [Evidence for collaboration and communication growth was positive but limited by ceiling effects, while design-thinking growth was mixed](../claims/learning-studios-collaboration-design-thinking-mixed.md) [~W]
-- [Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students](../claims/learning-studios-engagement-persistence-indicators.md) [+W]
-- [Student outcomes strengthened with more implemented project guides and differed between emergent and established Learning Studio contexts](../claims/learning-studios-implementation-context-outcomes.md) [+W]
-- [Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport](../claims/learning-studios-ldd-students-expertise-confidence.md) [+W]
-- [Learning Studio participation was associated with stronger maker/designer identity and design-related confidence](../claims/learning-studios-maker-identity-confidence-gains.md) [+W]
 
 ## Related Elements
 - 

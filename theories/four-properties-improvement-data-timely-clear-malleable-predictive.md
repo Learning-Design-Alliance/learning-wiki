@@ -16,7 +16,7 @@ sources:
 # Four-property framework for effective school improvement data: timely, clear, malleable, and predictive
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes that data useful for school improvement must satisfy four properties: it must be "timely, clear, malleable, and predictive". These properties are contrasted with annual standardized accountability metrics, which the article says frequently lack them. The framework is offered to help decision-makers deepen their holistic understanding of indicators of student progress and to distinguish improvement data from public accountability data.
@@ -37,9 +37,6 @@ The article proposes that data useful for school improvement must satisfy four p
 
 ### Claims
 
-- [Public accountability pressure on school-level improvement data can suppress honest inquiry and incentivize superficial fixes](../claims/accountability-pressure-suppresses-honest-inquiry.md) [~W]
-- [High-level outcome measures like graduation rates offer little actionable guidance for educators within a school year](../claims/graduation-rates-little-actionable-guidance.md) [+W]
-- [Standardized test scores change so slowly that even schools making exceptional gains may appear stagnant](../claims/test-scores-change-slowly-schools-appear-stagnant.md) [+W]
 
 ## Related Theories
 

@@ -42,14 +42,12 @@ Moderator analysis of the 15 included studies under the random effects model, us
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For whom, at which school level and in which subjects?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 qualitative), `q2`–`q3`, 0 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For whom, at which school level and in which subjects?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (2 quant-synthesis), `q3`, 0 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Guntur 2024](https://doi.org/10.24059/olj.v28i3.4025) | q3 · quant-synthesis · r2 | i? | this claim |
 | [Ergen 2017](https://doi.org/10.14689/ejer.2017.69.4) | q3 · quant-synthesis · r2 | i? | [The pooled effect of self-regulated learning does not differ significantly by school level](srl-effect-no-school-level-difference.md) (supports); [The pooled effect of self-regulated learning does not differ significantly by course type,](srl-effect-no-course-type-difference.md) (supports) |
-| Abdul Gafoor. K. 2016 | q2 · review · r1 | i? | [Self-regulated learning is domain specific, with greater cognitive strategy use in social ](srl-is-domain-specific-strategy-use-varies-by-subject.md) (qualifies) |
-| Gil-Garcia 2001 | q2 · qualitative · r1 | i? | [The authors conclude that bilingual students can benefit from instruction in metacognitive](bilingual-students-benefit-metacognitive-strategy-instruction.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -65,7 +65,7 @@ Implementation interviews in the Massachusetts study (Sprague et al., 2012) foun
 ## Related Claims
 - [Two READ 180 studies found statistically significant positive effects over control groups (Western Massachusetts +0.18; Milwaukee +0.14)](read-180-significant-positive-effects-two-studies.md) — related
 - [READ 180® has positive effects on general literacy achievement for adolescent readers](read-180-positive-effects-general-literacy.md) — related
-- [Principals, site coordinators, and teachers reported strongly positive reactions to the program](lightning-squad-stakeholder-survey-positive.md) — related
+- Principals, site coordinators, and teachers reported strongly positive reactions to the program — related
 - [READ 180 studies in Newark (NJ) and Memphis found no differences from control](read-180-newark-memphis-no-differences.md) — related
 - [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related
-- [Teachers at SFA schools report positive perceptions of the reading program, including benefits for English learners and special education students](sfa-teacher-survey-positive-perceptions.md) — related
+- Teachers at SFA schools report positive perceptions of the reading program, including benefits for English learners and special education students — related

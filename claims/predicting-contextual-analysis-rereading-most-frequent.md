@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Across all 1,570 students, predicting (721), using contextual analysis (618), rereading (532), and modeling and discussing one's own reading process (316) were the most frequently manifested behaviors. [→ Gil 2001](#gil-2001)
@@ -63,6 +64,6 @@ Results section, Table 10 discussion: least frequent behaviors across the sample
 
 ## Related Claims
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](secondary-students-top-metacognitive-behaviors.md) — related
-- [Students in grades 2-12 whose teachers received STRP training used 19 of 35 framework metacognitive behaviors in reading](students-use-19-of-35-metacognitive-behaviors.md) — related
+- Students in grades 2-12 whose teachers received STRP training used 19 of 35 framework metacognitive behaviors in reading — related
 - [Learners Misjudge Retrieval Benefit](learners-misjudge-effective-learning-strategies.md) — related
 - [Metacognitive strategies and products of metacognitive processes were more diverse and frequent in reading strategy instruction groups than in the no-instruction group](strategy-instruction-increases-metacognitive-strategy-use.md) — related

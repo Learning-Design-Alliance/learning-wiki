@@ -44,7 +44,7 @@ Survey-indicator analysis applying the three-sites-of-power indicator sets to Ch
 
 
 ## Related Claims
-- [The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis](politics-of-local-control-joined-to-school-change.md) — a broader claim this one bears on
+- The Chicago reform study joins the politics of local control to school change through intertwined narrative and quantitative analysis — a broader claim this one bears on
 - [An estimated 46 percent of Chicago elementary principals display inclusive leadership](principals-inclusive-leadership-46-percent.md) — related
 - [The indicator system correctly classifies 96 percent of case-study schools' politics and 92 percent of their improvement approach](indicator-system-validity-96-92-percent.md) — related
 - [School characteristics relate to politics type: Hispanic schools show a marked tendency toward strong democracy and small schools less adversarial politics](school-characteristics-relate-politics-type.md) — related

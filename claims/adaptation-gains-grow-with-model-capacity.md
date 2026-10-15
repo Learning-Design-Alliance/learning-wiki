@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: rashid-azraf-jahin-2026
-    resource: "https://arxiv.org/abs/2610.00664"
-    title: "Rashid Azraf Jahin, Saadman Sajid, Khan Raiyan Ibne Reza, Sumaiya Tabassum Nimi. (2026). PhysicsMate: A Curriculum-Grounded Bengali Benchmark for Secondary Physics QA with Small-Model Adaptation. IEEE CSDE 2026. https://arxiv.org/abs/2610.00664"
+    resource: "https://doi.org/10.48550/arxiv.2610.00664"
+    title: "Rashid Azraf Jahin, Saadman Sajid, Khan Raiyan Ibne Reza, Sumaiya Tabassum Nimi. (2026). PhysicsMate: A Curriculum-Grounded Bengali Benchmark for Secondary Physics QA with Small-Model Adaptation. IEEE CSDE 2026. https://arxiv.org/abs/2610.00664 [doi:10.48550/arxiv.2610.00664](https://doi.org/10.48550/arxiv.2610.00664)"
     author: Rashid Azraf Jahin, Saadman Sajid, Khan Raiyan Ibne Reza, Sumaiya Tabassum Nimi
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rashid Azraf Jahin 2026
 
-Rashid Azraf Jahin, Saadman Sajid, Khan Raiyan Ibne Reza, Sumaiya Tabassum Nimi. (2026). PhysicsMate: A Curriculum-Grounded Bengali Benchmark for Secondary Physics QA with Small-Model Adaptation. IEEE CSDE 2026. https://arxiv.org/abs/2610.00664
+Rashid Azraf Jahin, Saadman Sajid, Khan Raiyan Ibne Reza, Sumaiya Tabassum Nimi. (2026). PhysicsMate: A Curriculum-Grounded Bengali Benchmark for Secondary Physics QA with Small-Model Adaptation. IEEE CSDE 2026. https://arxiv.org/abs/2610.00664 [doi:10.48550/arxiv.2610.00664](https://doi.org/10.48550/arxiv.2610.00664)
 
 `q2 · i?` · `causal · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: patel-2025
-    resource: "https://arxiv.org/abs/2509.02998"
-    title: "Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998"
+    resource: "https://doi.org/10.48550/arxiv.2509.02998"
+    title: "Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998 [doi:10.48550/arxiv.2509.02998](https://doi.org/10.48550/arxiv.2509.02998)"
     author: "Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Patel 2025
 
-Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998
+Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., & Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998 [doi:10.48550/arxiv.2509.02998](https://doi.org/10.48550/arxiv.2509.02998)
 
 `q2 · i?` · `design · r2`
 

@@ -13,7 +13,7 @@ generated:
 # Metacognitive Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (2 associational, 2 qualitative), `q1`–`q2` · 1 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 associational, 1 qualitative), `q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Metacognitive reflection is the element in which learners examine how they thought, what strategies they used, where they were confused, and what they should do next. It is useful when the goal is to make reflection more explicitly about thinking and strategy, not just about feelings or outcomes.
@@ -36,8 +36,6 @@ Metacognitive reflection is the element in which learners examine how they thoug
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [In a qualitative study of 32 EFL teacher-education students, participants described deeper, more reflective thinking after metacognitive and critical-thinking instruction, and one reported applying it in other disciplines](../claims/ct-metacog-upper-level-thought.md) [+W]
-- [Students showed deficiencies in maintaining and monitoring their reading plan within the three-element view of metacognition](../claims/students-deficient-monitoring-maintaining-plan.md) [+W]
 - [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](../claims/plc-metacognition-lower-and-higher-levels.md) [~W]
 - [The indirect effect of GenAI use on critical thinking via feedback literacy is conditional on reflective thinking, strengthening as reflectivity rises](../claims/moderated-mediation-indirect-effect-conditional-reflective-thinking.md) [~W]
 

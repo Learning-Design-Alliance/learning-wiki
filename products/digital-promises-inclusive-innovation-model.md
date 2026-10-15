@@ -38,7 +38,7 @@ sources:
 # Digital Promise's Inclusive Innovation model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 18 claims (17 for, 1 mixed) · 8 studies (5 qualitative, 2 design, 1 associational), `q2` · 0 of 8 report an effect size · 18 claims rest on one study
+> **Evidence** · 17 claims (16 for, 1 mixed) · 7 studies (5 qualitative, 2 design), `q2` · 0 of 7 report an effect size · 17 claims rest on one study
 
 ## Description
 An equity-centered research-and-development framework created by Digital Promise that places historically marginalized communities at the center of identifying, designing, developing, and implementing educational and workforce technologies.
@@ -59,7 +59,6 @@ An equity-centered research-and-development framework created by Digital Promise
 - **Inclusive Innovation R&D model: six core tenets for equity-centered education research and development**: The Inclusive Innovation R&D model is an equity-centered education research and development framework organized around six core tenets that Digital Promise developed and refined over three years with over 30 school districts. Four practice tenets (Collective Ownership, Student Voice and Leadership, Context Expertise and Proximity, Continuity of Equity) describe how the R&D process is conducted, and two impact tenets (Reimagine Progress, Build Capacity) describe the outcomes it targets. The model is premised on the understanding that "practice informs product" so that solutions enabling historically and systematically excluded students to thrive must reflect inclusive practices. It defines hi (Smith et al. (2024))
 
 ### Claims
-- [BIPOC survey respondents were more likely than White respondents to report experiencing racial discrimination at work](../claims/bipoc-more-likely-report-workplace-racial-discrimination.md) [+M]
 - [Cross-sector committee members report that an organizing intermediary's structure made collaboration generative and productive](../claims/intermediary-structure-supports-cross-sector-codesign.md) [+M]
 - [Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback](../claims/active-community-engagement-over-passive-feedback.md) [+M]
 - [Staff reflections identify partner skills, knowledge, and dispositions that support full participation in Collaborative Innovation](../claims/staff-reflections-capacities-collaborative-innovation.md) [+M]

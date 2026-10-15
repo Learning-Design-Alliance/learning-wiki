@@ -16,7 +16,7 @@ sources:
 # Piaget's stages as an ordinal hierarchy of schemes for coping with the environment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Humm's overview paper presents Piaget's framework for physical educators: two functional invariants, adaptation and structure, operate from birth, with adaptation accomplished by assimilation and accommodation. Development proceeds through the sensori-motor, preoperational, concrete operational, and formal operational periods. The paper stresses that 'Piaget's stages are ordinal, being a description of a progressive hierarchy of schemes for coping with the environment,' so skills built on prerequisites must appear in order.
@@ -37,10 +37,6 @@ Humm's overview paper presents Piaget's framework for physical educators: two fu
 
 ### Claims
 
-- [Both Baldwin and Piaget explained development through the complementary processes of assimilation and accommodation, with accommodation arising from conflict with habit](../claims/assimilation-accommodation-baldwin-piaget-shared.md) [+W]
-- [Baldwin, not Piaget, first proposed progressive stage-by-stage development and a genetic epistemology founded on assimilation and accommodation](../claims/baldwin-first-genetic-epistemology-stage-synthesis.md) [~W]
-- [Scholarly views differ on whether Piaget appropriated Baldwin's ideas or extended them with empirical support](../claims/piaget-appropriation-versus-extension-debate.md) [~W]
-- [Piaget denied Baldwin's influence, calling the theoretical similarities simple convergences, yet his mentor Janet had been strongly influenced by Baldwin](../claims/piaget-denial-janet-transmission-baldwin.md) [~W]
 
 ## Related Theories
 

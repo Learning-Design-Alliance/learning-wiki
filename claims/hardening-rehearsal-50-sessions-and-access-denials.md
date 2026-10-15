@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: nizam-kadir-2026
-    resource: "https://arxiv.org/abs/2610.00085"
-    title: "Nizam Kadir. (2026). Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based Readiness Study for Design Education. https://arxiv.org/abs/2610.00085"
+    resource: "https://doi.org/10.48550/arxiv.2610.00085"
+    title: "Nizam Kadir. (2026). Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based Readiness Study for Design Education. https://arxiv.org/abs/2610.00085 [doi:10.48550/arxiv.2610.00085](https://doi.org/10.48550/arxiv.2610.00085)"
     author: Nizam Kadir
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Nizam Kadir 2026
 
-Nizam Kadir. (2026). Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based Readiness Study for Design Education. https://arxiv.org/abs/2610.00085
+Nizam Kadir. (2026). Critsly and StudioCrit: An Artefact-Aware AI Critique Workspace and Simulation-Based Readiness Study for Design Education. https://arxiv.org/abs/2610.00085 [doi:10.48550/arxiv.2610.00085](https://doi.org/10.48550/arxiv.2610.00085)
 
 `q1 · i?` · `design · r2`
 

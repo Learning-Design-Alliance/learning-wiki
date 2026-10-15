@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: buyankhishig-enkhjargal-2026
-    resource: "https://arxiv.org/abs/2609.24245"
-    title: "Buyankhishig Enkhjargal, Himanshi Lalwani, Hanan Salam. (2026). AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories. arXiv preprint. https://arxiv.org/abs/2609.24245"
+    resource: "https://doi.org/10.48550/arxiv.2609.24245"
+    title: "Buyankhishig Enkhjargal, Himanshi Lalwani, Hanan Salam. (2026). AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories. arXiv preprint. https://arxiv.org/abs/2609.24245 [doi:10.48550/arxiv.2609.24245](https://doi.org/10.48550/arxiv.2609.24245)"
     author: Buyankhishig Enkhjargal, Himanshi Lalwani, Hanan Salam
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Buyankhishig Enkhjargal 2026
 
-Buyankhishig Enkhjargal, Himanshi Lalwani, Hanan Salam. (2026). AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories. arXiv preprint. https://arxiv.org/abs/2609.24245
+Buyankhishig Enkhjargal, Himanshi Lalwani, Hanan Salam. (2026). AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories. arXiv preprint. https://arxiv.org/abs/2609.24245 [doi:10.48550/arxiv.2609.24245](https://doi.org/10.48550/arxiv.2609.24245)
 
 `q2 · i?` · `design · r3`
 

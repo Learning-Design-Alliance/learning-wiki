@@ -41,5 +41,5 @@ Executive-summary finding from the 15-month RPP, drawing on team check-in record
 
 
 ## Related Claims
-- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
+- Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content — related
 - [Launching RPP work with disaggregated student data highlighted equity issues without assigning blame](student-data-first-launch-highlighted-equity-without-blame.md) — related

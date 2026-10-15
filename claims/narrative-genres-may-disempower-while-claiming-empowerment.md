@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: goodson-1994
-    resource: "https://eric.ed.gov/?id=ED376160"
-    title: "Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160"
+    resource: "https://doi.org/10.1080/0951839950080109"
+    title: "Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160 [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)"
     author: Goodson, Ivor F.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Goodson 1994
 
-Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160
+Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160 [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)
 
 `q1 · i?` · `theoretical · r3`
 

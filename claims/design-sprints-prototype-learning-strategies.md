@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The school planned to partner with Stanford University researchers to analyze data and determine whether the changes improve student learning. [→ Digital Promise 2017](#digital-promise-2017)
@@ -43,4 +44,4 @@ The report states the evaluation partnership as a plan for the coming year, mean
 
 
 ## Related Claims
-- [Design Tech High School partnered with a neuroscientist to apply learning sciences research across school and classroom levels](dtech-researcher-partnership-learning-sciences.md) — related
+- Design Tech High School partnered with a neuroscientist to apply learning sciences research across school and classroom levels — related

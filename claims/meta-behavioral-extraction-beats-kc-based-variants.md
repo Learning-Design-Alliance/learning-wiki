@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yuhao-jia-2026
-    resource: "https://arxiv.org/abs/2605.08697"
-    title: "Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697"
+    resource: "https://doi.org/10.48550/arxiv.2605.08697"
+    title: "Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697 [doi:10.48550/arxiv.2605.08697](https://doi.org/10.48550/arxiv.2605.08697)"
     author: Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yuhao Jia 2026
 
-Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697
+Yuhao Jia, Duantengchuan Li, Jinsong Chen, Zhongjie Mao, Mingwen Tong, Yue Li, Xiaoguang Wang. (2026). MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing. Preprint. https://arxiv.org/abs/2605.08697 [doi:10.48550/arxiv.2605.08697](https://doi.org/10.48550/arxiv.2605.08697)
 
 `q2 · i?` · `design · r2`
 
@@ -46,5 +46,5 @@ Ablation on ASSISTments2009 across six architectures (DKT, DKVMN, AKT, SAINT, Re
 - [Injecting MBP-KT's global collaborative information consistently improves KT models across RNN, memory-network, Transformer and state-based backbones](mbp-kt-consistently-improves-kt-backbones.md) — related
 - [MBP-KT yields significantly greater improvements for learners with fewer interaction records than for learners with more records](mbp-kt-greater-gains-sparse-learners.md) — related
 - [Collaborative representations from meta-behavioral sequences are far less sparse than KC-based representations, which reach up to 99.3% sparsity](meta-behavioral-representations-reduce-sparsity.md) — a narrower finding that bears on this claim
-- [The expert-designed KC model adds little predictive power on most datasets, with significant contributions only on the two KDD Cup 2010 datasets](expert-kc-model-adds-little-predictive-power.md) — related
+- The expert-designed KC model adds little predictive power on most datasets, with significant contributions only on the two KDD Cup 2010 datasets — related
 - [In ablations, temporal smoothness works best on the imputation branch, and the full TSDR variant achieves the best AUC and ACC on all six backbones](tsdr-ablation-smoothness-on-imputation-branch.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sherman-2020
-    resource: "https://eric.ed.gov/?id=EJ1272497"
-    title: "Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497"
+    resource: "https://doi.org/10.22492/ije.8.3.05"
+    title: "Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497 [doi:10.22492/ije.8.3.05](https://doi.org/10.22492/ije.8.3.05)"
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sherman 2020
 
-Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
+Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497 [doi:10.22492/ije.8.3.05](https://doi.org/10.22492/ije.8.3.05)
 
 `q2 · i?` · `qualitative · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: potter-2018
-    resource: "https://arxiv.org/abs/1205.6970"
-    title: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970"
+    resource: "https://doi.org/10.48550/arxiv.1205.6970"
+    title: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970 [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)"
     author: "Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Potter 2018
 
-Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970
+Potter, W., Webb, D., West, E., Paul, C., Bowen, M., Weiss, B., Coleman, L., & De Leone, C. (2018). Sixteen years of Collaborative Learning through Active Sense-making in Physics (CLASP) at UC Davis. https://arxiv.org/abs/1205.6970 [doi:10.48550/arxiv.1205.6970](https://doi.org/10.48550/arxiv.1205.6970)
 
 `q2 · i?` · `design · r2`
 
@@ -43,8 +43,8 @@ MPEX-II survey administered in Fall 2008 to about 600 students in two CLASP A co
 
 
 ## Related Claims
-- [Under the life-science curriculum, MPEX attitudes showed no meaningful change in five of six clusters, avoiding the reality-link decline seen in previous semesters, while the effort cluster declined significantly](mpex-attitudes-stable-reality-link.md) — related
-- [Enrollment in the reformed physics sequence rose 61% year-over-year, though the article treats alternative explanations as equally possible](enrollment-increase-after-reform.md) — related
-- [MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added](mpex-consistent-pedagogy-across-tech-years.md) — related
+- Under the life-science curriculum, MPEX attitudes showed no meaningful change in five of six clusters, avoiding the reality-link decline seen in previous semesters, while the effort cluster declined significantly — related
+- Enrollment in the reformed physics sequence rose 61% year-over-year, though the article treats alternative explanations as equally possible — related
+- MPEX profiles were similar across both years, indicating the pedagogy and class structure remained consistent when technology was added — related
 - [Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year](structural-similarity-unsupported-ai-motivation-profiles.md) — related
-- [Student attitudes showed little change over a Peer Instruction semester, and course satisfaction dropped in the algebra-based course despite high learning gains](pi-student-attitudes-little-change.md) — related
+- Student attitudes showed little change over a Peer Instruction semester, and course satisfaction dropped in the algebra-based course despite high learning gains — related

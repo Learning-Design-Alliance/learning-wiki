@@ -82,6 +82,6 @@ Analysis of credential-type distribution among inexperienced (2 or fewer years) 
 
 ## Related Claims
 - [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — a broader claim this one bears on
-- [In Michigan districts where most students are Black, students are far more likely than peers in majority-white districts to have inexperienced or out-of-field teachers](majority-black-districts-teacher-quality-gap.md) — related
+- In Michigan districts where most students are Black, students are far more likely than peers in majority-white districts to have inexperienced or out-of-field teachers — related
 - [Most survey respondents said the GSTG influenced their decision to pursue teaching, complete preparation, and teach in a priority school, with strongest perceived impacts among candidates of color](gstg-perceived-impact-career-decisions.md) — related
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related

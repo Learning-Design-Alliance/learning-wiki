@@ -45,6 +45,6 @@ A 2024 sample survey of Miami-Dade County coaches reports pre-program satisfacti
 - [A majority of surveyed teachers (61%) reported that participating in the Verizon Innovative Learning Schools program improved their job satisfaction](vils-teachers-61-percent-improved-job-satisfaction.md) — related
 - [Most teachers and principals reported satisfaction with professional opportunities, school environment, and the TIF program](tif-most-educators-satisfied.md) — related
 - [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](educators-receptive-to-feedback-and-compensation-strategies.md) — related
-- [Coaches in the pilot expressed commitment to helping peers integrate technology and reported satisfaction with the coaching pilot experience and support from GEEO and the professional learning community](pr-coaching-pilot-coach-satisfaction.md) — related
-- [Charlotte-Mecklenburg’s Strategic Staffing Initiative improved leadership satisfaction and student achievement in struggling schools](strategic-staffing-initiative-outcomes.md) — related
+- Coaches in the pilot expressed commitment to helping peers integrate technology and reported satisfaction with the coaching pilot experience and support from GEEO and the professional learning community — related
+- Charlotte-Mecklenburg’s Strategic Staffing Initiative improved leadership satisfaction and student achievement in struggling schools — related
 - [In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys](tigergpt-pilot-usability-satisfaction.md) — related

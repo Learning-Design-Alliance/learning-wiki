@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sutcher-2016
-    resource: "https://learningpolicyinstitute.org/product/coming-crisis-teaching"
-    title: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching"
+    resource: "https://doi.org/10.54300/247.242"
+    title: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching [doi:10.54300/247.242](https://doi.org/10.54300/247.242)"
     author: "Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In 2013–14, schools in the top quartile of minority enrollment had four times as many uncertified teachers as schools in the bottom quartile. [→ Sutcher 2016](#sutcher-2016)
@@ -40,7 +40,7 @@ sources:
 
 ### Sutcher 2016
 
-Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching
+Sutcher, L., Darling-Hammond, L., & Carver-Thomas, D. (2016). A coming crisis in teaching? Teacher supply, demand, and shortages in the U.S. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/coming-crisis-teaching [doi:10.54300/247.242](https://doi.org/10.54300/247.242)
 
 `q2 · i?` · `associational · r2`
 
@@ -65,6 +65,6 @@ Nationally representative Schools and Staffing Survey (2011–12) analysis: "und
 - [In 2016, schools with high enrollment of students of color were four times as likely to employ uncertified teachers as schools with low enrollment of students of color](high-student-of-color-schools-four-times-uncertified-teachers.md) — related
 - [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](state-variation-teacher-access-inequity.md) — related
 - [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — related
-- [Black students in Louisiana are disproportionately in schools with high percentages of novice and uncertified teachers](black-students-novice-uncertified-teacher-disparities-louisiana.md) — related
-- [California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers](california-low-ses-uncertified-teachers-tenfold.md) — related
+- Black students in Louisiana are disproportionately in schools with high percentages of novice and uncertified teachers — related
+- California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers — related
 - [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related

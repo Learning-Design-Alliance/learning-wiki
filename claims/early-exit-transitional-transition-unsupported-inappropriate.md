@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Minimal English literacy instruction in the early grades followed by grade-3 transition into an all-English classroom with no language support is inappropriate; students require strong literacy programs in both languages. [→ Cummins 1999](#cummins-1999)
@@ -49,4 +50,4 @@ This is the author's program-design argument in an opinion paper: in early-exit 
 - [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — related
 - [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — related
 - [Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice](english-priority-over-spanish-in-practice.md) — related
-- [Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator](meta-analyses-validate-extensive-reading-benefits-length-moderates.md) — related
+- Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator — related

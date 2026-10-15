@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jahangir-alam-sm-2026
-    resource: "https://arxiv.org/abs/2608.22346"
-    title: "Jahangir Alam SM, Md Khalid Syfullaha, Saad Ahmed, Munira Akter Mou, A K Z Rasel Rahman, A.K.M. Masudur Rahman, Mohammed Sowket Ali. (2026). Multimodal examination answer data with expert-designed Outcome-Based Education rubrics for criterion-level assessment. arXiv. https://arxiv.org/abs/2608.22346"
+    resource: "https://doi.org/10.48550/arxiv.2608.22346"
+    title: "Jahangir Alam SM, Md Khalid Syfullaha, Saad Ahmed, Munira Akter Mou, A K Z Rasel Rahman, A.K.M. Masudur Rahman, Mohammed Sowket Ali. (2026). Multimodal examination answer data with expert-designed Outcome-Based Education rubrics for criterion-level assessment. arXiv. https://arxiv.org/abs/2608.22346 [doi:10.48550/arxiv.2608.22346](https://doi.org/10.48550/arxiv.2608.22346)"
     author: Jahangir Alam SM, Md Khalid Syfullaha, Saad Ahmed, Munira Akter Mou, A K Z Rasel Rahman, A.K.M. Masudur Rahman, Mohammed Sowket Ali
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jahangir Alam SM 2026
 
-Jahangir Alam SM, Md Khalid Syfullaha, Saad Ahmed, Munira Akter Mou, A K Z Rasel Rahman, A.K.M. Masudur Rahman, Mohammed Sowket Ali. (2026). Multimodal examination answer data with expert-designed Outcome-Based Education rubrics for criterion-level assessment. arXiv. https://arxiv.org/abs/2608.22346
+Jahangir Alam SM, Md Khalid Syfullaha, Saad Ahmed, Munira Akter Mou, A K Z Rasel Rahman, A.K.M. Masudur Rahman, Mohammed Sowket Ali. (2026). Multimodal examination answer data with expert-designed Outcome-Based Education rubrics for criterion-level assessment. arXiv. https://arxiv.org/abs/2608.22346 [doi:10.48550/arxiv.2608.22346](https://doi.org/10.48550/arxiv.2608.22346)
 
 `q2 · i?` · `design · r2`
 

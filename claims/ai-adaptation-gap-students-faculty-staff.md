@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: braun-2026
-    resource: "https://arxiv.org/abs/2608.25063"
-    title: "Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063"
+    resource: "https://doi.org/10.48550/arxiv.2608.25063"
+    title: "Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063 [doi:10.48550/arxiv.2608.25063](https://doi.org/10.48550/arxiv.2608.25063)"
     author: "Braun, Y. S., & Khafizov, S. M."
     q: 3
     i: 2
@@ -30,7 +30,7 @@ sources:
 # A pronounced AI adaptation gap exists across university groups: students report higher current AI-use intensity and perceived usefulness than faculty and administrative staff, whereas staff report stronger academic integrity concerns and greater endorsement of responsible-use norms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2`–`i3`
+> **Evidence** · 2 studies · 2 associational `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
 `q3 i2` Students had significantly higher current AI-use intensity than faculty (g = 0.79) and administrative staff (g = 0.98), and higher perceived usefulness than both groups. [→ Braun 2026](#braun-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Braun 2026
 
-Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063
+Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063 [doi:10.48550/arxiv.2608.25063](https://doi.org/10.48550/arxiv.2608.25063)
 
 `q3 · i2` · `associational · r2`
 

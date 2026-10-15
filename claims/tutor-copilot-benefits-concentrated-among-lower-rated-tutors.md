@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rose-e-wang-2025
-    resource: "https://arxiv.org/abs/2410.03017"
-    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017"
+    resource: "https://doi.org/10.48550/arxiv.2410.03017"
+    title: "Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)"
     author: Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky
     q: 4
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Tutor CoPilot's benefit is largest for lower-rated and less-experienced tutors (9 p.p. and 7 p.p.), diminishing as tutor effectiveness increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q4`
+> **Evidence** · 2 studies · 2 causal `r3` · `q4`
 
 ## Subclaims
 `q4 i?` Lower-rated tutors' students gained 9 p.p. in exit-ticket passing (56%→65%) and lower-experienced tutors' students gained 7 p.p. (61%→68%). [→ Rose E. Wang 2025](#rose-e-wang-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Rose E. Wang 2025
 
-Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017
+Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 [doi:10.48550/arxiv.2410.03017](https://doi.org/10.48550/arxiv.2410.03017)
 
 `q4 · i?` · `causal · r3`
 

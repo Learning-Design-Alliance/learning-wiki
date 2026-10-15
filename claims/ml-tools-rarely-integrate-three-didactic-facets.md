@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: pierre-haritz-2026
-    resource: "https://arxiv.org/abs/2609.02453"
-    title: "Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453"
+    resource: "https://doi.org/10.48550/arxiv.2609.02453"
+    title: "Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453 [doi:10.48550/arxiv.2609.02453](https://doi.org/10.48550/arxiv.2609.02453)"
     author: Pierre Haritz, Hendrik Krone, and Thomas Liebig
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pierre Haritz 2026
 
-Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453
+Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453 [doi:10.48550/arxiv.2609.02453](https://doi.org/10.48550/arxiv.2609.02453)
 
 `q2 · i?` · `qualitative · r1`
 

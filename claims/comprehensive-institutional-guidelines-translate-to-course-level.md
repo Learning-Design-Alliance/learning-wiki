@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: amrita-ganguly-2026
-    resource: "https://arxiv.org/abs/2607.12296"
-    title: "Amrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, Umama Dewan, and Aayushi Hingle Collier. (2026). A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education. https://arxiv.org/abs/2607.12296"
+    resource: "https://doi.org/10.48550/arxiv.2607.12296"
+    title: "Amrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, Umama Dewan, and Aayushi Hingle Collier. (2026). A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education. https://arxiv.org/abs/2607.12296 [doi:10.48550/arxiv.2607.12296](https://doi.org/10.48550/arxiv.2607.12296)"
     author: Amrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, Umama Dewan, and Aayushi Hingle Collier
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Amrita Ganguly 2026
 
-Amrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, Umama Dewan, and Aayushi Hingle Collier. (2026). A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education. https://arxiv.org/abs/2607.12296
+Amrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, Umama Dewan, and Aayushi Hingle Collier. (2026). A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education. https://arxiv.org/abs/2607.12296 [doi:10.48550/arxiv.2607.12296](https://doi.org/10.48550/arxiv.2607.12296)
 
 `q2 · i?` · `associational · r2`
 

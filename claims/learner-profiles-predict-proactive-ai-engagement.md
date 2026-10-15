@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jingwei-yi-2026
-    resource: "https://arxiv.org/abs/2607.10101"
-    title: "Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101"
+    resource: "https://doi.org/10.48550/arxiv.2607.10101"
+    title: "Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101 [doi:10.48550/arxiv.2607.10101](https://doi.org/10.48550/arxiv.2607.10101)"
     author: Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students from higher-ranked universities and with stronger prior knowledge are more likely to adopt proactive and critical AI engagement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In game theory, university ranking (auniv = +0.171, P=0.010) and prior knowledge (aprior = +0.161, P=0.002) were positively associated with proactive and critical engagement. [→ Jingwei Yi 2026](#jingwei-yi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Jingwei Yi 2026
 
-Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101
+Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, and Fangzhao Wu. (2026). Learning behavior accounts for background-related advantage in AI-assisted education. https://arxiv.org/abs/2607.10101 [doi:10.48550/arxiv.2607.10101](https://doi.org/10.48550/arxiv.2607.10101)
 
 `q2 · i?` · `causal · r2`
 

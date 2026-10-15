@@ -47,5 +47,5 @@ Conceptual analysis within Dialogical Self Theory: because the synthetic positio
 - [Installing the synthetic position as promoter can raise self-narrative coherence while lowering authorship of it (authorship-coherence dissociation)](authorship-coherence-dissociation-prediction.md) — a narrower finding that bears on this claim
 - [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](reflective-scaffolding-habituation-deskilling.md) — possibly the same claim (merge candidate)
 - [Outcome turns on the structural location the synthetic position occupies, not the volume of use; population-level studies indexing use alone should record a washed-out average effect](structural-location-moderates-not-volume.md) — related
-- [People may absorb bias from AI and carry it beyond their interactions with the algorithm](humans-absorb-bias-from-ai.md) — related
+- People may absorb bias from AI and carry it beyond their interactions with the algorithm — related
 - [Authorial suspension is marked by a fluency-ownership gap, deferral of commitment despite exhausted deliberation, and an overview unavailable on withdrawal](authorial-suspension-three-markers.md)

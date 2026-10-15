@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Across the four reviewed studies, explicit teaching shows advantages for complex rules and durability limits, while learners often view both approaches as equally useful. [→ Raafat Gabriel 2009](#raafat-gabriel-2009)

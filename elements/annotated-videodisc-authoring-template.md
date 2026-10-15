@@ -17,7 +17,7 @@ sources:
 # Annotated videodisc authoring template (Marario)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An authoring template developed at the McKay Institute that permitted annotating an existing film (Marario) transferred to videodisc. The movie runs continuously unless the student stops it; touching the space bar stops the disc player and displays a screen of comments or questions in Spanish, which the student selects by number to receive answers or further commentary on cultural aspects, vocabulary, linguistic usage, and symbolism. On-screen banners give the student control over the information flow: backing up the scene, continuing, calling English text files, or calling a dictionary. The approach was extended to discs such as Klavier im Haus, Midway, Raiders of the Lost Ark, and Waldo Pepper for elementary math, history, and ESL.
@@ -46,7 +46,6 @@ An authoring template developed at the McKay Institute that permitted annotating
 ## Claims
 
 - [Students using an annotated interactive videodisc of a film outperformed students who saw the same film on videotape with a lecture, in retention and recall of information](../claims/annotated-videodisc-beats-videotape-retention-recall.md) [+W]
-- [The interactive videodisc combines the capabilities of books, movies, and computer-assisted instruction in one delivery medium](../claims/videodisc-combines-books-movies-cai-capabilities.md) [+W]
 
 ## Related Elements
 

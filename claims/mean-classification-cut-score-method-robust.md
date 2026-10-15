@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Method two, based on mean classification per portfolio, performed better than the category-mean method because it was more robust to outliers. [→ Olson 2002](#olson-2002)
@@ -44,6 +45,6 @@ Two cut-score computation methods were applied to panelist ratings of 15 portfol
 ## Related Claims
 
 - [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
-- [Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment](alternate-portfolio-classification-varies-across-grades.md) — related
+- Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment — related
 - [A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment](body-of-work-agreement-rates-71-97.md) — related
-- [Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification](ordered-portfolio-presentation-contamination.md) — related
+- Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification — related

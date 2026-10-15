@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: amogh-sirnoorkar-and-omkar-mamidpalliwar-2026
-    resource: "https://arxiv.org/abs/2607.29385"
-    title: "Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385"
+    resource: "https://doi.org/10.48550/arxiv.2607.29385"
+    title: "Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385 [doi:10.48550/arxiv.2607.29385](https://doi.org/10.48550/arxiv.2607.29385)"
     author: Amogh Sirnoorkar and Omkar Mamidpalliwar
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # No statistically significant EBAPS differences were observed for Axes 1–3 or between guided-inquiry and answer-oriented chatbot preferrers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Kruskal-Wallis tests found no statistically significant differences among preference groups on Axis 1 (structure of knowledge), Axis 2 (nature of knowing and learning), or Axis 3 (real-life applicability). [→ Amogh Sirnoorkar and Omkar Mamidpalliwar 2026](#amogh-sirnoorkar-and-omkar-mamidpalliwar-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Amogh Sirnoorkar and Omkar Mamidpalliwar 2026
 
-Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385
+Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385 [doi:10.48550/arxiv.2607.29385](https://doi.org/10.48550/arxiv.2607.29385)
 
 `q2 · i?` · `associational · r1`
 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Students who never request hints in at least one problem within a problem set are more likely to wheel-spin. [→ Kai 2018](#kai-2018)
@@ -44,11 +45,11 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 ## Related Claims
 
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — the general claim this finding bears on, with the studies behind it
-- [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](adaptive-hint-seeking-behavior-differences.md) — related
-- [The relationship between bottom-out hint use and wheel-spinning is nuanced, depending on whether students avoid hints entirely](bottom-out-hint-use-nuanced-wheel-spinning.md) — related
-- [Two distinct feature combinations identify two types of wheel-spinning students in ASSISTments Skill Builders](two-types-wheel-spinning-students-assistments.md) — a narrower finding that bears on this claim
-- [Consistently short delays between problems of the same skill are associated with greater wheel-spinning](short-consistent-delays-associated-wheel-spinning.md) — related
-- [A 15-feature J48 decision tree model distinguishes wheel-spinning from productive persistence in ASSISTments Skill Builders at AUC ROC 0.684 under student-skill-level cross-validation](j48-model-distinguishes-wheel-spinning-productive-persistence.md) — related
-- [A retention-based definition of wheel-spinning classifies a much lower proportion of students as wheel-spinning than Beck and Gong's opportunity-count definition](retention-based-wheel-spinning-definition-lower-proportion.md) — related
+- Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students — related
+- The relationship between bottom-out hint use and wheel-spinning is nuanced, depending on whether students avoid hints entirely — related
+- Two distinct feature combinations identify two types of wheel-spinning students in ASSISTments Skill Builders — a narrower finding that bears on this claim
+- Consistently short delays between problems of the same skill are associated with greater wheel-spinning — related
+- A 15-feature J48 decision tree model distinguishes wheel-spinning from productive persistence in ASSISTments Skill Builders at AUC ROC 0.684 under student-skill-level cross-validation — related
+- A retention-based definition of wheel-spinning classifies a much lower proportion of students as wheel-spinning than Beck and Gong's opportunity-count definition — related
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
 - [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% sometimes avoiding asking for help even when needed and 75% reporting anxiety when not understanding a topic](students-avoid-help-seeking-despite-need.md) — related

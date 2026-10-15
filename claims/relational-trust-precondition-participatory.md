@@ -44,7 +44,7 @@ Researcher reflection quoted in the Conditions Shaping Engagement section. The r
 
 ## Related Claims
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
-- [A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function](rpp-trust-reciprocity-mutual-respect-benefits.md) — related
+- A collaborative research-practice partnership built on trust, reciprocity, and mutual respect benefited both researchers and school staff in a district study of executive function — related
 - [Social trust predicts which urban schools improve, and trust is built by reducing staff vulnerability](social-trust-vulnerability-school-change.md) — related
 - [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related
 - [Relational elements — trust, voice and agency, and equity — are preconditions for restorative practices to work](relational-elements-precede-technical-restorative-results.md) — a narrower finding that bears on this claim

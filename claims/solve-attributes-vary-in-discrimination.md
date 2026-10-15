@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: katz-1993
-    resource: "https://eric.ed.gov/?id=ED366652"
-    title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652"
+    resource: "https://doi.org/10.21236/ada273789"
+    title: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652 [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)"
     author: "Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Katz 1993
 
-Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652
+Katz, I. R., Martinez, M. E., Sheehan, K. M., & Tatsuoka, K. K. (1993). Extending the Rule Space Model to a Semantically-Rich Domain: Diagnostic Assessment in Architecture. Educational Testing Service. https://eric.ed.gov/?id=ED366652 [doi:10.21236/ada273789](https://doi.org/10.21236/ada273789)
 
 `q2 · i?` · `associational · r2`
 

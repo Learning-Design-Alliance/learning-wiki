@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alexandre-cristovão-maiorano-2026
-    resource: "https://arxiv.org/abs/2605.06669"
-    title: "Alexandre Cristovão Maiorano. (2026). Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs. https://arxiv.org/abs/2605.06669"
+    resource: "https://doi.org/10.48550/arxiv.2605.06669"
+    title: "Alexandre Cristovão Maiorano. (2026). Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs. https://arxiv.org/abs/2605.06669 [doi:10.48550/arxiv.2605.06669](https://doi.org/10.48550/arxiv.2605.06669)"
     author: Alexandre Cristovão Maiorano
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alexandre Cristovão Maiorano 2026
 
-Alexandre Cristovão Maiorano. (2026). Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs. https://arxiv.org/abs/2605.06669
+Alexandre Cristovão Maiorano. (2026). Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs. https://arxiv.org/abs/2605.06669 [doi:10.48550/arxiv.2605.06669](https://doi.org/10.48550/arxiv.2605.06669)
 
 `q2 · i?` · `design · r2`
 

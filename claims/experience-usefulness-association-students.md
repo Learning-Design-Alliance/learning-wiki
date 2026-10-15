@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: braun-2026
-    resource: "https://arxiv.org/abs/2608.25063"
-    title: "Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063"
+    resource: "https://doi.org/10.48550/arxiv.2608.25063"
+    title: "Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063 [doi:10.48550/arxiv.2608.25063](https://doi.org/10.48550/arxiv.2608.25063)"
     author: "Braun, Y. S., & Khafizov, S. M."
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Braun 2026
 
-Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063
+Braun, Y. S., & Khafizov, S. M. (2026). The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff: AI Use, Trust, and Institutional Policy at a University Specializing in Teacher Education. https://arxiv.org/abs/2608.25063 [doi:10.48550/arxiv.2608.25063](https://doi.org/10.48550/arxiv.2608.25063)
 
 `q2 · i2` · `associational · r2`
 
@@ -43,7 +43,7 @@ Descriptive monotonic trend analysis across student experience categories (n = 1
 
 
 ## Related Claims
-- [Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use](typology-renders-effort-expectancy-nonsignificant.md) — related
+- Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use — related
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — related
 - [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related
 - [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](genai-duration-related-cognitive-gains.md) — related

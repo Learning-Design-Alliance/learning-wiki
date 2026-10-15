@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: anna-ostrowska-2026
-    resource: "https://tinyurl.com/mrytc2dr"
-    title: "Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr"
+    resource: "https://doi.org/10.24963/ijcai.2026/984"
+    title: "Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr [doi:10.24963/ijcai.2026/984](https://doi.org/10.24963/ijcai.2026/984)"
     author: Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Anna Ostrowska 2026
 
-Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr
+Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr [doi:10.24963/ijcai.2026/984](https://doi.org/10.24963/ijcai.2026/984)
 
 `q2 · i?` · `design · r2`
 

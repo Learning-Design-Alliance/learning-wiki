@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The package asserts that workers with minimal technical English face lack of comprehension, lack of confidence, and difficulty with the written form in training. [→ Dyer 1992](#dyer-1992)
@@ -44,6 +45,6 @@ A stated position in Module 6's performance criteria, offered without empirical 
 ## Related Claims
 
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
-- [Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English](limited-english-use-opportunities-after-training.md) — related
+- Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English — related
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related
-- [The package argues the workplace provides experiences that give meaning to new language](workplace-context-gives-meaning-to-new-language.md) — related
+- The package argues the workplace provides experiences that give meaning to new language — related

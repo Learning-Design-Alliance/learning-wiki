@@ -17,7 +17,7 @@ sources:
 # Graphical model framework for MML estimation of multidimensional IRT models
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article presents a framework in which a multidimensional IRT model is represented as a directed acyclic graph whose nodes are random variables and whose edges encode conditional (in)dependence relations. The DAG is moralized, triangulated, and transformed into a junction tree, and the E-step of the EM algorithm is carried out via local computations on the tree. A stated advantage is that "these subsets of variables can be derived in a fully automatic way by applying algorithms to the graphical representation of the model", making the approach generally applicable and rendering hand derivations obsolete.
@@ -30,9 +30,6 @@ The article presents a framework in which a multidimensional IRT model is repres
 - [Full information MML estimation of the bi-factor model requires only two-dimensional integrations under more general conditions than the probit-link, multivariate-normal derivation of Gibbons and Hedeker](../claims/mml-bifactor-two-dimensional-integrals-general-conditions.md) [+M]
 - [Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality](../claims/mml-complexity-scales-with-clique-state-spaces.md) [+M]
 - [Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals](../claims/mml-second-order-dimension-two-dimensional-integrals.md) [+W]
-- [Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable](../claims/bifactor-within-occasion-tractable-cliques.md) [+M]
-- [Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions](../claims/junction-tree-em-linear-complexity-occasions.md) [+W]
-- [Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions](../claims/markov-all-dimensions-poor-scaling.md) [-W]
 
 ## Related Research Methods
 -
@@ -71,9 +68,6 @@ The article presents a framework in which a multidimensional IRT model is repres
 - [Mml Bifactor Two Dimensional Integrals General Conditions](../claims/mml-bifactor-two-dimensional-integrals-general-conditions.md) [+S]
 - [Mml Complexity Scales With Clique State Spaces](../claims/mml-complexity-scales-with-clique-state-spaces.md) [+S]
 - [Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals](../claims/mml-second-order-dimension-two-dimensional-integrals.md) [+W]
-- [Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable](../claims/bifactor-within-occasion-tractable-cliques.md) [+M]
-- [Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions](../claims/junction-tree-em-linear-complexity-occasions.md) [+W]
-- [Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions](../claims/markov-all-dimensions-poor-scaling.md) [-W]
 
 ## Related Theories
 

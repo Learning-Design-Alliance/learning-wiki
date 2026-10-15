@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: danxuan-liang-2026
-    resource: "https://arxiv.org/abs/2609.17335"
-    title: "Danxuan Liang, Chun Yin Li, Zheng Wei, Xian Xu, Meng Xia, Huamin Qu, Wai Tong. (2026). LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education. https://arxiv.org/abs/2609.17335"
+    resource: "https://doi.org/10.48550/arxiv.2609.17335"
+    title: "Danxuan Liang, Chun Yin Li, Zheng Wei, Xian Xu, Meng Xia, Huamin Qu, Wai Tong. (2026). LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education. https://arxiv.org/abs/2609.17335 [doi:10.48550/arxiv.2609.17335](https://doi.org/10.48550/arxiv.2609.17335)"
     author: Danxuan Liang, Chun Yin Li, Zheng Wei, Xian Xu, Meng Xia, Huamin Qu, Wai Tong
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Danxuan Liang 2026
 
-Danxuan Liang, Chun Yin Li, Zheng Wei, Xian Xu, Meng Xia, Huamin Qu, Wai Tong. (2026). LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education. https://arxiv.org/abs/2609.17335
+Danxuan Liang, Chun Yin Li, Zheng Wei, Xian Xu, Meng Xia, Huamin Qu, Wai Tong. (2026). LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education. https://arxiv.org/abs/2609.17335 [doi:10.48550/arxiv.2609.17335](https://doi.org/10.48550/arxiv.2609.17335)
 
 `q2 · i?` · `design · r2`
 
@@ -47,6 +47,6 @@ Two-phase exploratory study comparing instructor interviews and teaching observa
 
 ## Related Claims
 - [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related
-- [The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities](multiplatform-activity-range-engaged-diverse-learners.md) — related
+- The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related

@@ -124,8 +124,8 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — generation helps only when working memory is not overwhelmed
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Students who generate their own research question are apt to be more invested and more engaged](ur-student-generated-question-engagement.md) — related
-- [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](controlled-interaction-patterns-higher-self-explanation-quality.md) — a narrower finding that bears on this claim
-- [Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it](learner-beliefs-influence-mental-effort-media-processing.md) — related
+- Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns — a narrower finding that bears on this claim
+- Learners' beliefs about a medium and its processing demands influence the mental effort they invest in processing it — related
 - [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — a narrower finding that bears on this claim
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](causal-links-implicit-in-history-textbooks.md) — related
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related

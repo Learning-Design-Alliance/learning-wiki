@@ -44,12 +44,12 @@ A series of simulation and empirical studies compared growth parameter recovery 
 
 ## Related Claims
 - [The multi-rater growth model shows promise relative to cruder approaches like estimating growth from a single rater](multi-rater-lgcm-promising-versus-single-rater.md) — related
-- [Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions](junction-tree-em-linear-complexity-occasions.md) — related
+- Junction-tree factorization reduces EM algorithm complexity for latent growth IRT models from exponential to linear in the number of measurement occasions — related
 - [Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality](mml-complexity-scales-with-clique-state-spaces.md) — related
 - Longitudinal survey growth is typically measured with sum scores or IRT scale scores from a consistent item set administered across multiple school years — related
-- [Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable](bifactor-within-occasion-tractable-cliques.md) — related
+- Bifactor and second-order structures within measurement occasions keep multidimensional growth IRT models computationally tractable — related
 - [The effect of response styles on growth estimates varies by psychological construct, response style, and IRT model used](response-style-growth-effects-vary-by-construct-and-model.md) — related
-- [In the empirical growth mindset study, MIRT scoring yields substantively higher intercept and slope means and variances, including an intercept-slope covariance of .13 that is indistinguishable from zero under other approaches](empirical-mindset-mirt-higher-means-variances-covariance.md) — a narrower finding that bears on this claim
+- In the empirical growth mindset study, MIRT scoring yields substantively higher intercept and slope means and variances, including an intercept-slope covariance of .13 that is indistinguishable from zero under other approaches — a narrower finding that bears on this claim
 - [Student growth modeling and teacher value-added modeling are complex due to non-random assignment, measurement error, multidimensionality, and covariates](growth-value-added-modeling-complexity-sources.md) — related
-- [In a three-timepoint simulation, MIRT-based scores recover true linear growth slope parameters better than sum scores and unidimensional IRT approaches, which understate the slope](mirt-recovers-growth-slope-better-than-sum-scores.md) — a narrower finding that bears on this claim
+- In a three-timepoint simulation, MIRT-based scores recover true linear growth slope parameters better than sum scores and unidimensional IRT approaches, which understate the slope — a narrower finding that bears on this claim
 - [Self-management and self-efficacy show highly collinear growth during middle school, with slopes correlated .95 and intercepts .74](sel-growth-construct-collinearity.md) — related

@@ -43,7 +43,7 @@ Prospective quasi-experimental study in a Maryland rural fringe district with ov
 
 
 ## Related Claims
-- [Imagine IM shows consistent positive impacts on student math achievement across three prospective quasi-experimental studies, with an average effect size of +0.11 across four studies](imagine-im-average-effect-size-011-moderate-rating.md) — a broader claim this one bears on
-- [In a small urban district in Iowa with over 4,400 students in grades K-5, Imagine IM showed directionally positive impacts on FastBridge earlyMath (+0.10) and aMath (+0.04), with significant subgroup effects and no meaningful differences on the state math assessment](imagine-im-iowa-study-fastbridge-subgroups.md) — related
-- [A small retrospective matched study of 502 students in grades K-4 found positive impacts on Acadience (+0.13) and Grade 2 MAP Growth (+0.42), with no differences for 4th grade students on a state math assessment](imagine-im-retrospective-matched-study-502.md) — related
-- [In a matched suburban-district study, Imagine IM showed no differences on GCAS for grades 3-5 but significant positive impacts on the MAP (effect size = +0.38), strongest for students with disabilities and economically disadvantaged students](imagine-im-suburban-matched-study-map-038.md) — related
+- Imagine IM shows consistent positive impacts on student math achievement across three prospective quasi-experimental studies, with an average effect size of +0.11 across four studies — a broader claim this one bears on
+- In a small urban district in Iowa with over 4,400 students in grades K-5, Imagine IM showed directionally positive impacts on FastBridge earlyMath (+0.10) and aMath (+0.04), with significant subgroup effects and no meaningful differences on the state math assessment — related
+- A small retrospective matched study of 502 students in grades K-4 found positive impacts on Acadience (+0.13) and Grade 2 MAP Growth (+0.42), with no differences for 4th grade students on a state math assessment — related
+- In a matched suburban-district study, Imagine IM showed no differences on GCAS for grades 3-5 but significant positive impacts on the MAP (effect size = +0.38), strongest for students with disabilities and economically disadvantaged students — related

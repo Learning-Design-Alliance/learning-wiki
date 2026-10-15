@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Among 8 first-year teachers without mentors, self concerns fell from 50% to 25% and impact concerns rose from 0% to 25%, but task concerns remained at 50% from the first to third interviews, so the Fuller theory fit them less well. [→ Olsen 1990](#olsen-1990)
@@ -43,9 +44,9 @@ Panel data from the same longitudinal study, for the 8 first-year teachers witho
 
 
 ## Related Claims
-- [Discipline concerns declined for all four teacher groups over the school year](discipline-concern-declines-all-groups.md) — related
-- [First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year](mentored-first-year-teachers-follow-fuller-progression.md) — related
+- Discipline concerns declined for all four teacher groups over the school year — related
+- First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year — related
 - [Not all educators develop impact concerns even when colleagues do; concern change cannot be forced by an outside agent](not-all-educators-develop-impact-concerns.md) — related
 - [Teacher concern development is better characterized as progression and retreat than linear stage movement](teacher-concern-progression-and-retreat.md) — related
 - [Teachers without mentors reached the impact level more often than mentored teachers, raising the question that mentoring may inhibit development](mentors-may-inhibit-concern-development.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related

@@ -17,7 +17,7 @@ sources:
 # Daily individualized tutoring sessions with response-to-intervention progress monitoring
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The program's instructional design combines daily one-to-one tutoring with continuous data use. Tutors "work with their students daily in 30 minutes sessions that are tailored to address individual literacy/language needs," and the program is "data driven, with tutors using a response-to-intervention model that involves benchmark assessments and weekly progress monitoring." Attendance, fidelity, and implementation data are collected to inform both individualization and programmatic impact.
@@ -38,7 +38,6 @@ The program's instructional design combines daily one-to-one tutoring with conti
 - Individualized literacy skill development
 
 ### Claims
-- [Literacy First Grade2 Itbs Comprehension Effect](../claims/literacy-first-grade2-itbs-comprehension-effect.md) [+M]
 
 ## Related Designs
 - 

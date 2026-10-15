@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: viki-m-young-2026
-    resource: "https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30"
-    title: "Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30"
+    resource: "https://doi.org/10.51388/20.500.12265/286"
+    title: "Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30 [doi:10.51388/20.500.12265/286](https://doi.org/10.51388/20.500.12265/286)"
     author: Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students perceive prerequisites, core course requirements, and master schedule constraints as barriers to accessing courses that interest them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Students view prerequisites and core course requirements as barriers to accessing courses they are interested in, especially freshmen whose schedules are filled by requirements. [→ Viki M. Young 2026](#viki-m-young-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Viki M. Young 2026
 
-Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30
+Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30 [doi:10.51388/20.500.12265/286](https://doi.org/10.51388/20.500.12265/286)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -63,5 +63,5 @@ Same section: students suggest options like a journalism English course fulfilli
 
 ## Related Claims
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
-- [Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence](qualitative-experience-themes-lc101-persistence.md) — related
+- Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related

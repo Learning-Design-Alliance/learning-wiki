@@ -68,8 +68,8 @@ A design assertion in the assessment-design section of the white paper, not an e
 ## Related Claims
 
 - [Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items](adaptive-testing-more-precise-achievement-measurement.md) — related
-- [Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items](adaptive-tests-equal-validity-fewer-items.md) — related
+- Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items — related
 - [Simulations of adaptive, multistage, and fixed form tests show the adaptation measures can be used operationally to identify difficulties with adaptation](simulation-shows-adaptation-measures-identify-difficulties.md) — related
 - [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](spanish-map-reading-adaptive-lower-sem.md) — possibly the same claim (merge candidate)
-- [An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality](inter-subtest-branching-halves-battery-length.md) — related
+- An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality — related
 - [An adaptive mastery testing strategy reduces test length by 30% to 81% while reaching the same mastery decision as the conventional test for 96% of trainees](adaptive-mastery-testing-reduces-length-preserves-decisions.md) — related

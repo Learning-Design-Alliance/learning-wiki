@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jiajia-song-2026
-    resource: "https://arxiv.org/abs/2603.26142"
-    title: "Jiajia Song, Zhihan Guo, and Jionghao Lin. (2026). Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models. https://arxiv.org/abs/2603.26142"
+    resource: "https://doi.org/10.48550/arxiv.2603.26142"
+    title: "Jiajia Song, Zhihan Guo, and Jionghao Lin. (2026). Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models. https://arxiv.org/abs/2603.26142 [doi:10.48550/arxiv.2603.26142](https://doi.org/10.48550/arxiv.2603.26142)"
     author: Jiajia Song, Zhihan Guo, and Jionghao Lin
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jiajia Song 2026
 
-Jiajia Song, Zhihan Guo, and Jionghao Lin. (2026). Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models. https://arxiv.org/abs/2603.26142
+Jiajia Song, Zhihan Guo, and Jionghao Lin. (2026). Simulating Novice Students Using Machine Unlearning and Relearning in Large Language Models. https://arxiv.org/abs/2603.26142 [doi:10.48550/arxiv.2603.26142](https://doi.org/10.48550/arxiv.2603.26142)
 
 `q2 · i?` · `design · r2`
 

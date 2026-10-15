@@ -18,7 +18,7 @@ sources:
 # ELLM/Plus curriculum
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 ELLM/Plus is a literacy-focused comprehensive curriculum for young children from low-income families, comprising theme-based instructional packets, children’s books, support materials, and home/school activities.
@@ -27,9 +27,6 @@ ELLM/Plus is a literacy-focused comprehensive curriculum for young children from
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Kindergarten follow-ups after ELLM/Plus found significant TERA-3 effects in the first study and significant PPVT (+0.34) and TOLD (+0.44) effects in the second](../claims/ellm-plus-kindergarten-follow-up-significant-effects.md) [+W]
-- [In the second PCER study, ELLM/Plus showed a positive but not statistically significant difference of +0.12 across TERA-3, Woodcock, PPVT and TOLD tests](../claims/ellm-plus-study2-positive-nonsignificant.md) [+W]
-- [ELLM/Plus produced statistically significant positive effects on four TERA-3 scales in the first randomized study, with an average effect size of +0.26](../claims/ellm-plus-tera3-study1-significant-positive-outcomes.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,9 +62,6 @@ ELLM/Plus is a literacy-focused comprehensive curriculum designed to help young 
 
 ## Claims
 
-- [Kindergarten follow-ups after ELLM/Plus found significant TERA-3 effects in the first study and significant PPVT (+0.34) and TOLD (+0.44) effects in the second](../claims/ellm-plus-kindergarten-follow-up-significant-effects.md) [+W]
-- [In the second PCER study, ELLM/Plus showed a positive but not statistically significant difference of +0.12 across TERA-3, Woodcock, PPVT and TOLD tests](../claims/ellm-plus-study2-positive-nonsignificant.md) [+W]
-- [ELLM/Plus produced statistically significant positive effects on four TERA-3 scales in the first randomized study, with an average effect size of +0.26](../claims/ellm-plus-tera3-study1-significant-positive-outcomes.md) [+W]
 
 ## Related Elements
 - 

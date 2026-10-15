@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: sherman-2020
-    resource: "https://eric.ed.gov/?id=EJ1272497"
-    title: "Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497"
+    resource: "https://doi.org/10.22492/ije.8.3.05"
+    title: "Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497 [doi:10.22492/ije.8.3.05](https://doi.org/10.22492/ije.8.3.05)"
     author: "Sherman, P., & Boukydis, O."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Sherman 2020
 
-Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497
+Sherman, P., & Boukydis, O. (2020). Framing Undergraduate Perspectives on Experiential Learning Within Soka Education Theory. IAFOR Journal of Education: Undergraduate Education, 8(3). https://eric.ed.gov/?id=EJ1272497 [doi:10.22492/ije.8.3.05](https://doi.org/10.22492/ije.8.3.05)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -50,7 +50,7 @@ Study 1 thematic network analysis (Attride-Stirling method) of instructor interv
 - [Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment](societal-good-instructor-student-contrast.md) — related
 - [Cognitive apprenticeship students became more anxious about mathematics but reported gains in self-confidence, rapport, and enjoyment](cognitive-apprenticeship-attitude-anxiety-confidence-effects.md) — related
 - [YOUmedia cultivates a sense of community among participating teens that drives engagement with digital media](youmedia-sense-of-community-drives-digital-media-engagement.md) — related
-- [Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport](learning-studios-ldd-students-expertise-confidence.md) — related
+- Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport — related
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
 - [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md) — related
 - [Students at Oakland International High School report a strong sense of community, close relationships, and happiness at school](oakland-international-students-report-sense-of-community.md) — related

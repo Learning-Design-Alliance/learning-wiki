@@ -45,10 +45,10 @@ The chapter's abstract states the authors "discuss the pedagogical challenges in
 ## Related Claims
 - [Research on distance and online learning has methodological issues that need to be addressed](methodological-issues-distance-education-research.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — a narrower finding that bears on this claim
-- [Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%)](problems-attributed-unplanned-move-not-online-learning.md) — related
+- Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%) — related
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — a narrower finding that bears on this claim
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — a narrower finding that bears on this claim
-- [The article argues that GAI systems' adaptive functionality inherently encourages over-reliance rather than fostering learner-centric data collection for SDL](gai-adaptive-functionality-encourages-overreliance.md) — related
+- The article argues that GAI systems' adaptive functionality inherently encourages over-reliance rather than fostering learner-centric data collection for SDL — related
 - [The article argues traditional learning formats have six limitations that make them ill-suited for interactive, evolving skills like prompt engineering](traditional-learning-formats-six-limitations-prompt-engineering.md) — related
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — a narrower finding that bears on this claim
 - [A meta-analysis quantitatively verified the importance of three types of interaction in distance and online learning: among students, between instructor and students, and between students and content](three-interaction-types-verified-meta-analysis-distance-learning.md) — related

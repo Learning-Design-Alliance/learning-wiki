@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yuanzhe-dong-2026
-    resource: "https://arxiv.org/abs/2609.25674"
-    title: "Yuanzhe Dong, Jie Cao, Shuman Wang. (2026). Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform. arXiv. https://arxiv.org/abs/2609.25674"
+    resource: "https://doi.org/10.48550/arxiv.2609.25674"
+    title: "Yuanzhe Dong, Jie Cao, Shuman Wang. (2026). Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform. arXiv. https://arxiv.org/abs/2609.25674 [doi:10.48550/arxiv.2609.25674](https://doi.org/10.48550/arxiv.2609.25674)"
     author: Yuanzhe Dong, Jie Cao, Shuman Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yuanzhe Dong 2026
 
-Yuanzhe Dong, Jie Cao, Shuman Wang. (2026). Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform. arXiv. https://arxiv.org/abs/2609.25674
+Yuanzhe Dong, Jie Cao, Shuman Wang. (2026). Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform. arXiv. https://arxiv.org/abs/2609.25674 [doi:10.48550/arxiv.2609.25674](https://doi.org/10.48550/arxiv.2609.25674)
 
 `q2 · i?` · `design · r2`
 
@@ -43,5 +43,5 @@ Iterative qualitative coding of structured interviews with five purposively sele
 
 
 ## Related Claims
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [Two case studies and expert interviews with six experts demonstrated SAVVY's effectiveness and usability for identifying attention variations and supporting video optimization](savvy-case-studies-expert-interviews-effectiveness.md) — related

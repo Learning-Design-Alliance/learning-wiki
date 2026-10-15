@@ -18,7 +18,7 @@ sources:
 # Six skill-tagged response datasets from ASSISTments and Mindspark used for model comparison
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Agarwal et al. assembled six skill-tagged correct/incorrect response datasets from the ASSISTments and Mindspark tutoring platforms for comparing learner-modeling algorithms.
@@ -27,7 +27,6 @@ Agarwal et al. assembled six skill-tagged correct/incorrect response datasets fr
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [MS-BKT performs similarly to classic BKT on held-out data, with classic BKT better on most of six datasets but differences not very large](../claims/ms-bkt-performs-similarly-to-classic-bkt-on-holdout-data.md) [+W]
 - [No single learner model was best across the six datasets, justifying a broad multi-model approach](../claims/no-single-learner-model-best-across-datasets.md) [+W]
 
 ## Related Products and Programmes
@@ -63,7 +62,6 @@ The study used "6 datasets across 2 different ITS" — ASSISTments (G6_207, G7_2
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [MS-BKT performs similarly to classic BKT on held-out data, with classic BKT better on most of six datasets but differences not very large](../claims/ms-bkt-performs-similarly-to-classic-bkt-on-holdout-data.md) [+W]
 - [No single learner model was best across the six datasets, justifying a broad multi-model approach](../claims/no-single-learner-model-best-across-datasets.md) [+W]
 
 ## Related Elements

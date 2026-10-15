@@ -24,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 source · `q1` expert account · no effect size
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 The claim is about the evidence behind design *models*: ADDIE-based models, Dick and Carey, ASSURE and the rest. It is not about the learning principles those models draw on, which have their own evidence.
 
@@ -50,9 +51,9 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 **Open question.** The chapter does not survey the evaluation studies that do exist. A systematic review of design-model evaluations would test the claim directly, and would move it off `q1`.
 
 ## Related Claims
-- [Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete.](design-based-research-roles-compete-and-threaten-credible-claims.md) — another limit on how design knowledge is established
+- Design-based research asks one person to be researcher, designer, project manager and theorist, and those roles compete. — another limit on how design knowledge is established
 - The claim that computer simulation necessarily enforces clearer, more rigorous psychological theory specification does not hold up — related
-- [Mainstream American linguistics can state formal alternatives but cannot derive workable criteria for deciding among them](linguistics-lacks-workable-decision-criteria.md) — related
+- Mainstream American linguistics can state formal alternatives but cannot derive workable criteria for deciding among them — related
 - [Open education is asserted to lack a solid theoretical or philosophical foundation](open-education-lacks-theoretical-foundation.md) — related
 - [There is not yet much rigorous evidence to guide decision making around instructional and support strategies for adult learners](little-rigorous-evidence-adult-learner-strategies.md) — related
 - [Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution](arts-sel-evidence-base-rigor-gap.md) — related

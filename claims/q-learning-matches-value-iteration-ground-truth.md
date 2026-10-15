@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jueng-2026
-    resource: "https://arxiv.org/abs/2607.10802"
-    title: "Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802"
+    resource: "https://doi.org/10.48550/arxiv.2607.10802"
+    title: "Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802 [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)"
     author: Jueng, Ekkachai
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jueng 2026
 
-Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802
+Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802 [doi:10.48550/arxiv.2607.10802](https://doi.org/10.48550/arxiv.2607.10802)
 
 `q2 · i?` · `design · r2`
 

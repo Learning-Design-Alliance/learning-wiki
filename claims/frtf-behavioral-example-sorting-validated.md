@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` In the second sorting task matching behavioral examples to talents, 54 of 59 examples were sorted better than chance into their proposed talent and 48 of 59 were sorted correctly by more than half of participants. [→ Pretti 2021](#pretti-2021)

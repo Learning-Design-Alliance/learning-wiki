@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: survey-1
+    resource: "https://doi.org/10.48550/arxiv.2608.19164"
     title: survey-1
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### survey-1
 
-Weihao Qu, Ling Zheng, Chris Buzaid, and Daniel Crawford. 2026. LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University. https://arxiv.org/abs/2608.19164
+Weihao Qu, Ling Zheng, Chris Buzaid, and Daniel Crawford. 2026. LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University. https://arxiv.org/abs/2608.19164 [doi:10.48550/arxiv.2608.19164](https://doi.org/10.48550/arxiv.2608.19164)
 
 `q2 · i?` · `design · r2`
 
@@ -43,7 +44,7 @@ Post-session survey in the Wide-Exposure Layer, administered in 7 of 18 courses 
 ## Related Claims
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
 - [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [Over two semesters the LearnAI deployment reached 18 courses (293 enrolled students) and 35 co-creation clients who produced 36 portfolio websites and over 20 deployed applications](learnai-reach-artifacts-two-semesters.md) — related
 - [Student surveys show widespread weekly AI use, requests for instructor guidance, and a substantial minority using AI to produce entire solutions](physics-student-ai-use-survey-findings.md) — related

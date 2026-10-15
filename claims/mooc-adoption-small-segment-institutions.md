@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The percent of institutions with a MOOC rose from 2.6% in 2012 to 11.3% in 2015, while 58.7% report no plans for a MOOC. [→ I. Elaine Allen and Jeff Seaman with Russell Poulin and Terri Taylor Straut 2016](#i-elaine-allen-and-jeff-seaman-with-russell-poulin-and-terri-taylor-straut-2016)

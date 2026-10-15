@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: means-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471"
-    title: "Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471"
+    resource: "https://doi.org/10.51388/20.500.12265/102"
+    title: "Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471 [doi:10.51388/20.500.12265/102](https://doi.org/10.51388/20.500.12265/102)"
     author: "Means, B., & Neisler, J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Means 2020
 
-Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471
+Means, B., & Neisler, J. (2020). Unmasking Inequality: STEM Course Experiences During the COVID-19 Pandemic. Digital Promise Global. https://digitalpromise.dspacedirect.org/items/c978880f-6afe-4778-9df2-dac931a9c471 [doi:10.51388/20.500.12265/102](https://doi.org/10.51388/20.500.12265/102)
 
 `q2 · i?` · `associational · r2`
 
@@ -48,8 +48,8 @@ Survey item comparing six course-experience facets before and after going online
 ## Related Claims
 
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
-- [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](covid-stem-collaboration-reduced-remote.md) — related
+- Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online — related
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
-- [Online peer assisted learning communities foster informal learning and spontaneous interest-based groups](online-peer-assisted-learning-fosters-informal-learning.md) — related
+- Online peer assisted learning communities foster informal learning and spontaneous interest-based groups — related
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related
 - [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](icebreaker-collaboration-top-learner-learner-strategies.md) — related

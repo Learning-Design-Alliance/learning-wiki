@@ -57,10 +57,10 @@ The consensus statement enumerates social, emotional, and academic capacities to
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — related
 - [An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence](cohort-support-improves-adult-persistence.md) — a narrower finding that bears on this claim
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — related
-- [Decades of research show SEL benefits student well-being, academic performance, attendance, graduation rates, and future success](sel-decades-of-research-benefits.md) — related
+- Decades of research show SEL benefits student well-being, academic performance, attendance, graduation rates, and future success — related
 - [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
-- [Supporting well-being and connection is a prerequisite to academic excellence](well-being-prerequisite-academic-excellence.md) — related
+- Supporting well-being and connection is a prerequisite to academic excellence — related
 - [Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers](belonging-reduces-cognitive-barriers.md) — related
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — a narrower finding that bears on this claim

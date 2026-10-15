@@ -17,7 +17,7 @@ sources:
 # Multimediatizing: express didactized content directly in multimedia form rather than digitizing pre-edited media
 
 > **Design Method** · [All design methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The principle of multimediatizing "consists in the direct expression of a didactized content into a multimedia form". The author argues that courseware design should build on what the machine can do best — real-time sound processing and automatic segmenting — rather than on exercises, and that teachers must rethink pedagogical practice rather than merely digitize discretely edited media. With LAVAC, no storyboard is needed because for language teaching the privileged medium is SOUND: automatic segmenting produces numbered sequences to which text, images and exercises are attached by a simple mouse click.
@@ -38,7 +38,6 @@ The principle of multimediatizing "consists in the direct expression of a didact
 
 ### Claims
 
-- [Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed](../claims/sound-wave-display-prompts-louder-speech-and-sound-noticing.md) [+W]
 - [Students are more attentive to the teacher's model track when they hear their own recording first](../claims/student-recording-first-increases-attention-to-model.md) [+W]
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](../claims/students-pause-video-to-view-segment-menu.md) [+W]
 

@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Keys, links, frames, focusing moves, and examples each had positive significant correlations with application achievement (e.g., keys r(57)=.58). [→ Snyder 1991](#snyder-1991)
@@ -66,4 +67,4 @@ Correlational analysis for the definition measure. The article reports positive 
 - [Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance](clarity-concept-structure-interaction.md) — related
 - [Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures](instructional-clarity-main-effect-concept-achievement.md) — related
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
-- [Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning](structure-variables-correlated-learning.md) — a broader claim this one bears on
+- Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning — a broader claim this one bears on

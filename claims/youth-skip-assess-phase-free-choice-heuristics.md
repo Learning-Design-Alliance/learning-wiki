@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` All the youth used problem-solving heuristics consistent with Reif's framework, but not necessarily the assess phase, which opens opportunities to learn new information even when the solution fails. [→ Gitari 2016](#gitari-2016)
@@ -45,6 +46,6 @@ Authors' interpretation of the focus group narratives: youth relied on trial and
 
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — the general claim this finding bears on, with the studies behind it
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
-- [Urban high school youth report applying school science in non-guided everyday problem-solving, occurring mainly in home-and-family and play-and-recreation settings](youth-apply-school-science-everyday-home-recreation-problems.md) — related
-- [Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems](youth-problems-personal-relevance-not-societal.md) — related
-- [Youth possess sociocultural and cognitive know-how for knowledge application, but indigenous knowledge was not integrated and mobilization is lacking](youth-knowhow-springboard-indigenous-knowledge-gap.md) — related
+- Urban high school youth report applying school science in non-guided everyday problem-solving, occurring mainly in home-and-family and play-and-recreation settings — related
+- Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems — related
+- Youth possess sociocultural and cognitive know-how for knowledge application, but indigenous knowledge was not integrated and mobilization is lacking — related

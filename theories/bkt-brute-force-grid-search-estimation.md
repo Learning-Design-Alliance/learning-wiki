@@ -16,7 +16,7 @@ sources:
 # BKT Brute Force (BKT-BF): grid-search parameter estimation minimizing Residual Sum of Squares
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 BKT-BF is an algorithm to estimate BKT parameter values by brute force: a grid of possible parameter values is set, and for each combination a Residual Sum of Squares (RSS) value is obtained; "the combination of values resulting in the lowest Residual Sum of Squares (RSS) value for a skill is the one that will be used in BKT." The RSS is computed from observed answers Oi,t and the BKT-derived likelihood of a correct answer Ci,j, normalized by students and dim. In this study, grids used values 0.05–0.95 (step 0.15) for L0 and T, and bounded 0.05–0.30 (step 0.05) for G and S to avoid model degeneracy, yielding 1764 RSS values per skill.
@@ -41,10 +41,6 @@ BKT-BF is an algorithm to estimate BKT parameter values by brute force: a grid o
 
 ### Claims
 
-- [BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima](../claims/bkt-bf-cost-identifiability-em-local-minima.md) [+W]
-- [The very high adjusted R² of the RSS-estimation model may indicate BKT works better when percent correct is very high, leaving little room for T and G](../claims/high-pc-bkt-little-room-t-g.md) [~W]
-- [A linear regression on skill variables (n, dim, pc) predicts the minimum RSS value for BKT-BF training with high predictive ability](../claims/linear-regression-predicts-minimum-rss-bkt-bf.md) [+W]
-- [In a preliminary PCA, RMSE is highly correlated with the slip parameter S, while T and G appear orthogonal to RMSE](../claims/pca-rmse-correlates-slip-orthogonal-t-g.md) [~W]
 
 ## Related Theories
 

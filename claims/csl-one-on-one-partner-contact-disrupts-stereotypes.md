@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` A community partner reports that direct student access to him lets students get to know him and community members as people rather than stereotypes. [→ Warren-Gordon 2019](#warren-gordon-2019)
@@ -46,5 +47,5 @@ Autoethnographic narrative from the community partner describing direct email an
 - [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — the general claim this finding bears on, with the studies behind it
 - [Community partners report that co-planning under the CSL model gives them a voice in what the service project will be and how it is implemented](csl-co-planning-gives-community-partners-voice-in-project.md) — related
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related
-- [The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value](csl-co-established-projects-secure-partner-buy-in.md) — related
+- The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value — related
 - [Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback](active-community-engagement-over-passive-feedback.md) — related

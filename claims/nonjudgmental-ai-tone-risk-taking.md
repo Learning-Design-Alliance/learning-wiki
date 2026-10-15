@@ -44,9 +44,9 @@ Interview and log data across cases; teachers described the adaptive prompting s
 
 ## Related Claims
 - [In an AI-guided PD program, rural teachers engaged with mathematical creativity, content knowledge, and PCK as interconnected forms of reasoning rather than isolated domains](ai-guided-pd-integrated-mc-ck-pck-engagement.md) — related
-- [Attributing repeated failure to lack of ability fosters learned helplessness, while external, unstable, specific attributions are adaptive](ability-attributions-foster-learned-helplessness-in-sport.md) — related
+- Attributing repeated failure to lack of ability fosters learned helplessness, while external, unstable, specific attributions are adaptive — related
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — related
-- [Effortful learning strategies posed a student motivation challenge at d.tech, which teachers addressed by explaining the underlying science directly to students](productive-struggle-motivation-explaining-brain-rules.md) — related
+- Effortful learning strategies posed a student motivation challenge at d.tech, which teachers addressed by explaining the underlying science directly to students — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
 - [Emerging evidence indicates generative AI tutors currently struggle to accurately infer student knowledge at the outset of an interaction or as the activity progresses](genai-tutors-struggle-infer-student-knowledge.md) — related
 - [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related

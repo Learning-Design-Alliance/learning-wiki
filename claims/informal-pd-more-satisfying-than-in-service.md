@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the Digital Promise and Grunwald Associates survey, 84 percent of teachers reported participating in in-service days but only 20 percent were satisfied with them, while 72 percent reported participating in informal professional development activities that generated more satisfaction. [→ Barnett Berry and Karen Cator 2016](#barnett-berry-and-karen-cator-2016)
@@ -44,13 +45,13 @@ A Digital Promise and Grunwald Associates (2015) survey of teachers, presented a
 
 ## Related Claims
 - [Over 90 percent of Bristol teachers who participated in student-led mental health PD reported being more conscious of the experiences of students of color in school](bristol-pd-consciousness-over-90-percent.md) — related
-- [American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities](pd-spending-18b-low-satisfaction.md) — related
+- American public education spends $18 billion annually on professional development, yet only 29 percent of teachers are highly satisfied with formal learning opportunities — related
 - [A majority of surveyed teachers (61%) reported that participating in the Verizon Innovative Learning Schools program improved their job satisfaction](vils-teachers-61-percent-improved-job-satisfaction.md) — related
-- [Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less](minimal-formal-training-sdm-staff.md) — related
+- Schools provided staff minimal formal SDM training: only 54.6% of staff participated, 58.8% of classroom teachers were non-participants, and most trainees received 8 hours or less — related
 - [Micro-credentials incorporate prominent features of effective professional development: they are content-focused, job-embedded, and incorporate active learning](micro-credentials-features-of-effective-professional-development.md) — related
-- [About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested](teachers-intent-try-micro-credentials-survey.md) — related
-- [Educators perceive formal professional development as a compliance exercise over which they have limited choice](educators-view-pd-as-compliance-with-limited-choice.md) — related
+- About 31 percent of surveyed teachers report being extremely or very likely to try micro-credentials once introduced to the idea, with another 34 percent somewhat interested — related
+- Educators perceive formal professional development as a compliance exercise over which they have limited choice — related
 - [Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation](formal-pd-high-participation-low-satisfaction.md) — a broader claim this one bears on
-- [Seventy-two percent of teachers engage in informal, non-required professional development and are more satisfied with it, driven by intrinsic reasons such as enjoyment of learning](informal-pd-engagement-and-intrinsic-reasons.md) — possibly the same claim (merge candidate)
-- [In a National Staff Development Council survey, over 90 percent of teachers reported recent PD but only 59 percent found content-related PD useful](nsdc-pd-usefulness-survey.md) — related
-- [Most parents of first and second graders report general satisfaction with their school's family engagement, but teachers want more time and professional development](parents-satisfied-family-engagement-teachers-want-support.md) — related
+- Seventy-two percent of teachers engage in informal, non-required professional development and are more satisfied with it, driven by intrinsic reasons such as enjoyment of learning — possibly the same claim (merge candidate)
+- In a National Staff Development Council survey, over 90 percent of teachers reported recent PD but only 59 percent found content-related PD useful — related
+- Most parents of first and second graders report general satisfaction with their school's family engagement, but teachers want more time and professional development — related

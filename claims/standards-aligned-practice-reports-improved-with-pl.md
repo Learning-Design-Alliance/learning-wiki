@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Student-reported instructional practices aligned to the standards improved significantly more post-implementation in schools with more extensive professional learning. [→ Key Questions: How did students' reports of instructional practices 2018](#key-questions-how-did-students-reports-of-instructional-practices-2018)
@@ -43,9 +44,9 @@ This outcome measure, student reports of standards-aligned instructional practic
 
 
 ## Related Claims
-- [Benefits of CCSS-M professional learning in Chicago middle grades were concentrated among students with low and average prior math achievement, and were largely not significant for high achievers](ccssm-pl-benefits-low-average-achievers-not-high.md) — related
-- [In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores](ccssm-professional-learning-greater-improvements-chicago-middle-grades.md) — possibly the same claim (merge candidate)
+- Benefits of CCSS-M professional learning in Chicago middle grades were concentrated among students with low and average prior math achievement, and were largely not significant for high achievers — related
+- In Chicago middle grades, schools with more extensive CCSS-M professional learning showed significantly greater post-implementation improvements in instructional practices, math grades, pass rates, and test scores — possibly the same claim (merge candidate)
 - [In elementary grades, students in schools with extensive standards-related professional development reported significantly larger improvements in academic demand, rigor, instructional clarity, and teacher support than students in schools with limited professional development](extensive-pd-larger-instructional-improvements-elementary.md) — related
-- [Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science](professional-learning-strongly-related-standards-aligned-practices.md) — related
+- Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science — related
 - [In high schools, extensive-PD schools started with significantly lower rigor and teacher support but closed the gap by early implementation, while academic demand and clarity improved at rates comparable to limited-PD schools](hs-extensive-pd-closed-rigor-support-gap.md) — related
 - [Frequency, content, and quality of professional development are each positively related to elementary teachers' use of interactive instruction](pd-elements-related-interactive-instruction.md) — related

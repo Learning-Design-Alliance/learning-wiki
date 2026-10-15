@@ -17,7 +17,7 @@ sources:
 # English cognate constructions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Cognate constructions are sentences in which the object and verb share meaning, such as 'sing a song,' 'drink a drink,' and 'think a thought.' The paper defines them as those "in which theobject bolo the same meaning as the verb," noting that cognate verbs govern a class of objects whose generic noun is based on the same morpheme as the verb. They serve as the underlying source for dissimilated sentences in English.
@@ -39,10 +39,6 @@ Cognate constructions are sentences in which the object and verb share meaning, 
 
 ## Claims
 
-- [Dissimilation is stated as a two-step rule: delete the generic cognate noun, then replace the verb with a pro-verb](../claims/two-step-dissimilation-rules.md) [+W]
-- [Subject case category governs pro-verb selection and passivization in dissimilated sentences](../claims/subject-category-governs-pro-verb-selection.md) [+W]
-- [Spanish and French show the same dissimilation pattern for reflexive-type verbs as English](../claims/cross-linguistic-dissimilation-spanish-french.md) [+W]
-- [Object clauses of verbs like know, think, believe and recommend presuppose factitive objects](../claims/object-clauses-presuppose-factitive-objects.md) [+W]
 
 ## Related Elements
 - 

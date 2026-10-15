@@ -17,7 +17,7 @@ sources:
 # Kamkwamba documentary plus writing prompt as memory-priming preparation for focus group discussions
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Before the focus group discussions, participants watched a brief documentary of William Kamkwamba's windmill-building problem-solving and completed a 20-minute writing prompt recalling everyday problems and how one was solved. The article states this preparation "was intended to help, by remembering, to activate knowledge schemas, as discussed by Marshall (1995)," with writing as a memory tool consistent with school curriculum use. Imaginary problems recorded during the prompt were excluded from the findings.
@@ -41,8 +41,6 @@ Before the focus group discussions, participants watched a brief documentary of 
 
 ## Claims
 
-- [Urban high school youth report applying school science in non-guided everyday problem-solving, occurring mainly in home-and-family and play-and-recreation settings](../claims/youth-apply-school-science-everyday-home-recreation-problems.md) [+W]
-- [Youth problem-solving situations show affinity for personal relevance but absence of initiative for societal problems](../claims/youth-problems-personal-relevance-not-societal.md) [+W]
 
 ## Related Elements
 - 

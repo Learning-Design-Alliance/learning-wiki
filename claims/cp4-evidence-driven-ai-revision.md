@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: amin-jalali-2026
-    resource: "https://arxiv.org/abs/2610.06207"
-    title: "Amin Jalali. (2026). AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation. https://arxiv.org/abs/2610.06207"
+    resource: "https://doi.org/10.48550/arxiv.2610.06207"
+    title: "Amin Jalali. (2026). AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation. https://arxiv.org/abs/2610.06207 [doi:10.48550/arxiv.2610.06207](https://doi.org/10.48550/arxiv.2610.06207)"
     author: Amin Jalali
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Amin Jalali 2026
 
-Amin Jalali. (2026). AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation. https://arxiv.org/abs/2610.06207
+Amin Jalali. (2026). AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation. https://arxiv.org/abs/2610.06207 [doi:10.48550/arxiv.2610.06207](https://doi.org/10.48550/arxiv.2610.06207)
 
 `q2 · i?` · `design · r2`
 

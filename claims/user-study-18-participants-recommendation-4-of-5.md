@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: anna-ostrowska-2026
-    resource: "https://tinyurl.com/mrytc2dr"
-    title: "Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr"
+    resource: "https://doi.org/10.24963/ijcai.2026/984"
+    title: "Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr [doi:10.24963/ijcai.2026/984](https://doi.org/10.24963/ijcai.2026/984)"
     author: Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In an 18-participant user study, the system received a 4.00/5 overall recommendation, with hallucination resistance rated 4.44/5 and highest ratings for ease of starting a conversation (4.39/5) and response relevance and accuracy (4.06/5)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants rated resistance to hallucinations high (Mean = 4.44/5), confirming RAG was effectively limited to teacher-provided sources. [→ Anna Ostrowska 2026](#anna-ostrowska-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Anna Ostrowska 2026
 
-Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr
+Anna Ostrowska, Michał Kukla, Gabriela Majstrak, Jan Opala, Sebastian Pergała, Jan Skwarek, Anna Wróblewska. (2026). From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle. https://tinyurl.com/mrytc2dr [doi:10.24963/ijcai.2026/984](https://doi.org/10.24963/ijcai.2026/984)
 
 `q2 · i?` · `design · r2`
 

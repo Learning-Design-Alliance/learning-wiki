@@ -16,7 +16,7 @@ sources:
 # Two-dimensional model of group growth (community problems and group problems, with growth, regression, and plateaus)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The study defines group growth operationally as developing the capacity to solve increasingly complex problems, both the community problem a group attempts and problems of group operations. Growth is a continuing process requiring progressively more difficult problems; regression involves degeneration of existing capacities; plateaus are temporary pauses that may help consolidate capacities. The article states "The two-dimensions of group growth, then, corresponded to community problems and group problems," each examinable separately though interrelated.
@@ -37,11 +37,6 @@ The study defines group growth operationally as developing the capacity to solve
 
 ### Claims
 
-- [Educator functions of encouraging, linking with knowledge, and linking with human resources positively influence group growth, while enlisting support negatively influences it](../claims/educator-functions-influence-community-group-growth.md) [+W]
-- [Trust between the adult educator and the group positively influences group growth](../claims/educator-group-trust-influences-group-growth.md) [+W]
-- [Educator activity style should match the group's leadership capacity: low activity style with well-developed leadership, high activity style without it](../claims/educator-style-matches-leadership-capacity.md) [+W]
-- [Group growth in leadership positively influences additional group growth](../claims/leadership-growth-drives-additional-group-growth.md) [+W]
-- [Strong feelings about a community problem positively influence group growth](../claims/strong-feelings-about-problem-influence-group-growth.md) [+W]
 
 ## Related Theories
 

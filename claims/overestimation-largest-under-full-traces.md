@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: fernandes-2026
-    resource: "https://arxiv.org/abs/2605.25856"
-    title: "Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856"
+    resource: "https://doi.org/10.48550/arxiv.2605.25856"
+    title: "Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856 [doi:10.48550/arxiv.2605.25856](https://doi.org/10.48550/arxiv.2605.25856)"
     author: "Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R."
     q: 3
     i: 3
@@ -30,7 +30,7 @@ sources:
 # Participants substantially overestimated their performance in all trace conditions, with the largest overestimation under full traces
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i3`
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1`–`i3`
 
 ## Subclaims
 `q3 i3` Perceived performance significantly exceeded actual performance in every condition (Answer-only d = .85; Full-trace d = 1.21; Summary-trace d = .97). [→ Fernandes 2026](#fernandes-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Fernandes 2026
 
-Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856
+Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856 [doi:10.48550/arxiv.2605.25856](https://doi.org/10.48550/arxiv.2605.25856)
 
 `q3 · i3` · `causal · r2`
 

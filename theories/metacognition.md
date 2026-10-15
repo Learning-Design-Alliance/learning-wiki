@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 46 claims (24 for, 19 mixed, 3 against) · 40 studies (16 causal, 8 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 5 of 40 report an effect size · 44 claims rest on one study
+> **Evidence** · 45 claims (23 for, 19 mixed, 3 against) · 39 studies (16 causal, 7 review, 7 theoretical, 5 qualitative, 2 associational, 2 design), `q1`–`q4` · 5 of 39 report an effect size · 43 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -62,7 +62,6 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metacognitive confidence about credit correlates with financial behaviors and advice giving, but knowledge performance does not correlate with behavior](../claims/confidence-correlates-with-financial-behaviors-not-knowledge.md) [~W]
 - [Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance](../claims/checking-ai-claims-predicts-gains.md) [~W]
 - [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](../claims/confidence-predicts-offloading-no-feedback-only.md) [~W]
-- [Mastery-approach goals predict metacognitive strategies while fear of failure is negatively associated with metacognitive self-regulation](../claims/mastery-goals-predict-metacognitive-strategies-fear-of-failure-negative.md) [+W]
 - [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](../claims/developmental-shift-cognitive-offloading.md) [~W]
 - [Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop](../claims/reliance-awareness-most-valued-outcome.md) [+W]
 - [People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated](../claims/offloading-illusion-ai-effort-savings.md) [+W]

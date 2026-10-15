@@ -87,11 +87,11 @@ This paper synthesizes meta-analytic evidence on learning strategies into a mode
 - [Active learning improves exam performance](active-learning-improves-exam-performance.md) — question prompts are one of the cheapest ways to make instruction active.
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — poorly timed or overly demanding prompts can add load for novices.
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — prompt benefits may shrink or reverse as learner expertise grows.
-- [Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall](pretend-play-enactment-narrative-recall-short-term.md) — related
+- Pretend play enactment of stories facilitates narrative recall and expression over shorter time periods but not later unprompted recall — related
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
-- [Students typically receive little or no instruction in how to analyze, answer, and write answers to questions](little-instruction-in-answering-questions.md) — related
+- Students typically receive little or no instruction in how to analyze, answer, and write answers to questions — related
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related
 - [Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth](higher-order-thinking-questions-related-to-growth.md) — related
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related

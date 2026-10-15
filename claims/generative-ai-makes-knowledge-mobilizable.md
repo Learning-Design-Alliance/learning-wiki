@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lixiang-yan-and-dragan-gašević-2026
-    resource: "https://arxiv.org/abs/2604.07813"
-    title: "Lixiang Yan and Dragan Gašević. (2026). Agentivism: a learning theory for the age of artificial intelligence. https://arxiv.org/abs/2604.07813"
+    resource: "https://doi.org/10.48550/arxiv.2604.07813"
+    title: "Lixiang Yan and Dragan Gašević. (2026). Agentivism: a learning theory for the age of artificial intelligence. https://arxiv.org/abs/2604.07813 [doi:10.48550/arxiv.2604.07813](https://doi.org/10.48550/arxiv.2604.07813)"
     author: Lixiang Yan and Dragan Gašević
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lixiang Yan and Dragan Gašević 2026
 
-Lixiang Yan and Dragan Gašević. (2026). Agentivism: a learning theory for the age of artificial intelligence. https://arxiv.org/abs/2604.07813
+Lixiang Yan and Dragan Gašević. (2026). Agentivism: a learning theory for the age of artificial intelligence. https://arxiv.org/abs/2604.07813 [doi:10.48550/arxiv.2604.07813](https://doi.org/10.48550/arxiv.2604.07813)
 
 `q1 · i?` · `theoretical · r3`
 

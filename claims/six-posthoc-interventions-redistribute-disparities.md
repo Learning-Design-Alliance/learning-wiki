@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mcconvey-2026
-    resource: "https://arxiv.org/abs/2609.38552"
-    title: "McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems. arXiv. https://arxiv.org/abs/2609.38552"
+    resource: "https://doi.org/10.48550/arxiv.2609.38552"
+    title: "McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems. arXiv. https://arxiv.org/abs/2609.38552 [doi:10.48550/arxiv.2609.38552](https://doi.org/10.48550/arxiv.2609.38552)"
     author: "McConvey, K., Zhai, A., Li, R., & Guha, S."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### McConvey 2026
 
-McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems. arXiv. https://arxiv.org/abs/2609.38552
+McConvey, K., Zhai, A., Li, R., & Guha, S. (2026). Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems. arXiv. https://arxiv.org/abs/2609.38552 [doi:10.48550/arxiv.2609.38552](https://doi.org/10.48550/arxiv.2609.38552)
 
 `q2 · i?` · `causal · r?`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: megan-kuhfeld-2019
-    resource: "https://www.nwea.org/research/publication/a-posterior-predictive-model-checking-method-assuming-posterior-normality-for-item-response-theory/"
-    title: "Megan Kuhfeld. (2019). A posterior predictive model checking method assuming posterior normality for item response theory. Applied Psychology Measurement 43(2). https://www.nwea.org/research/publication/a-posterior-predictive-model-checking-method-assuming-posterior-normality-for-item-response-theory/"
+    resource: "https://doi.org/10.1177/0146621618779985"
+    title: "Megan Kuhfeld. (2019). A posterior predictive model checking method assuming posterior normality for item response theory. Applied Psychology Measurement 43(2). https://www.nwea.org/research/publication/a-posterior-predictive-model-checking-method-assuming-posterior-normality-for-item-response-theory/ [doi:10.1177/0146621618779985](https://doi.org/10.1177/0146621618779985)"
     author: Megan Kuhfeld
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Megan Kuhfeld 2019
 
-Megan Kuhfeld. (2019). A posterior predictive model checking method assuming posterior normality for item response theory. Applied Psychology Measurement 43(2). https://www.nwea.org/research/publication/a-posterior-predictive-model-checking-method-assuming-posterior-normality-for-item-response-theory/
+Megan Kuhfeld. (2019). A posterior predictive model checking method assuming posterior normality for item response theory. Applied Psychology Measurement 43(2). https://www.nwea.org/research/publication/a-posterior-predictive-model-checking-method-assuming-posterior-normality-for-item-response-theory/ [doi:10.1177/0146621618779985](https://doi.org/10.1177/0146621618779985)
 
 `q2 · i?` · `design · r2`
 

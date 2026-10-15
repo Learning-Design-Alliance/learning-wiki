@@ -43,7 +43,7 @@ Cross-study thematic synthesis of studies of AI-mediated design learning process
 
 
 ## Related Claims
-- [Interviewed students adopted an iterative upload–review–revise workflow and perceived the AI feedback as fair and highly useful, though some disregarded recommendations conflicting with their design intent](aissa-students-iterative-use-selective-uptake.md) — a narrower finding that bears on this claim
+- Interviewed students adopted an iterative upload–review–revise workflow and perceived the AI feedback as fair and highly useful, though some disregarded recommendations conflicting with their design intent — a narrower finding that bears on this claim
 - [Teachers treated AI as a provisional thinking partner whose outputs required iterative adaptation rather than automatic adoption](ai-provisional-thinking-partner-iterative-design.md) — possibly the same claim (merge candidate)
 - [AI-supported project-based learning at YCHS produced authentic student-designed products through iterative prompting and refinement](ai-supported-pbl-authentic-student-products.md) — a narrower finding that bears on this claim
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — related

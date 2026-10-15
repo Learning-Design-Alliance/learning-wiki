@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: westbrook-2017
-    resource: "https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence"
-    title: "Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil. (2017). Reviewing the Reviews: Examining Similarities and Differences Between Federally Funded Evidence Reviews. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence"
+    resource: "https://doi.org/10.1177/0193841x16666463"
+    title: "Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil. (2017). Reviewing the Reviews: Examining Similarities and Differences Between Federally Funded Evidence Reviews. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence [doi:10.1177/0193841x16666463](https://doi.org/10.1177/0193841x16666463)"
     author: "Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Westbrook 2017
 
-Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil. (2017). Reviewing the Reviews: Examining Similarities and Differences Between Federally Funded Evidence Reviews. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence
+Westbrook, T'Pring R.; Avellar, Sarah A.; Seftor, Neil. (2017). Reviewing the Reviews: Examining Similarities and Differences Between Federally Funded Evidence Reviews. Evaluation Review, vol. 41, no. 3. https://www.mathematica.org/publications/reviewing-the-reviews-examining-similarities-and-differences-between-federally-funded-evidence [doi:10.1177/0193841x16666463](https://doi.org/10.1177/0193841x16666463)
 
 `q2 · i?` · `review · r?`
 

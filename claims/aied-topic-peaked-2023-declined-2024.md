@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: bagale-2025
-    resource: "https://arxiv.org/abs/2607.12295"
-    title: "Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295"
+    resource: "https://doi.org/10.48550/arxiv.2607.12295"
+    title: "Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)"
     author: Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Bagale 2025
 
-Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295
+Bagale, A.; Mehjabin, N.; Ünlü, A.; Johri, A. (2025). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. https://arxiv.org/abs/2607.12295 [doi:10.48550/arxiv.2607.12295](https://doi.org/10.48550/arxiv.2607.12295)
 
 `q2 · i?` · `associational · r1`
 

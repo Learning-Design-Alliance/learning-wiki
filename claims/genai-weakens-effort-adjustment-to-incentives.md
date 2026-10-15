@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dawid-ratajczyk-2026
-    resource: "https://osf.io/59qtm/"
-    title: "Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/"
+    resource: "https://doi.org/10.31234/osf.io/83jum_v1"
+    title: "Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/ [doi:10.31234/osf.io/83jum_v1](https://doi.org/10.31234/osf.io/83jum_v1)"
     author: Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek
     q: 3
     i: 1
@@ -30,7 +30,7 @@ sources:
 # GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
+> **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1` small
 
 ## Subclaims
 `q3 i1` On Stage 2 completion time, the effect of incentives depended on prior genAI access: incentives slowed participants without prior genAI access but did not differ among those with prior genAI access. [→ Dawid Ratajczyk 2026](#dawid-ratajczyk-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Dawid Ratajczyk 2026
 
-Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/
+Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/ [doi:10.31234/osf.io/83jum_v1](https://doi.org/10.31234/osf.io/83jum_v1)
 
 `q3 · i1` · `causal · r?`
 

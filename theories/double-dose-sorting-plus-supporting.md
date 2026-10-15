@@ -16,7 +16,7 @@ sources:
 # Double-dose algebra as a sorting-plus-supporting alternative to tracking and detracking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 5 studies (5 causal), `q2`–`q3` · 0 of 5 report an effect size · 11 claims rest on one study
+> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 4 studies (4 causal), `q2`–`q3` · 0 of 4 report an effect size · 9 claims rest on one study
 
 ## Description
 The double-dose strategy created homogeneous algebra classes for organizational reasons but ensured that low-track students received challenging coursework and high-quality instruction through extended time, curricular resources, and professional development. "the policy created homogeneous algebra classes for organizational reasons but ensured that low-track students received challenging coursework and high-quality instruction." This approach differs from traditional tracking (which provided low-level content and low expectations) and from detracking (which mixed abilities without additional support). The policy operated through three mechanisms: expanded instructional time, improved instruction from resources and professional development, and ability grouping into more homogeneous classes.
@@ -51,8 +51,6 @@ The double-dose strategy created homogeneous algebra classes for organizational 
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](../claims/double-dose-failure-rates-divergent.md) [~W]
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](../claims/double-dose-algebra-increased-academic-demand-both-groups.md) [+W]
 - [Tracking intensified concentration of behavioral and absentee problems in double-dose algebra classes, explained by declines in peer ability](../claims/double-dose-concentrated-behavioral-problems.md) [-W]
-- [Chicago's algebra-for-all policy led schools to create more mixed-ability math classrooms when eliminating remedial classes](../claims/algebra-for-all-created-mixed-ability-classrooms.md) [+W]
-- [Peer skill levels declined for high-skill students in algebra classrooms after the policy](../claims/algebra-for-all-peer-skill-declined-high-skill.md) [~W]
 
 ## Related Theories
 

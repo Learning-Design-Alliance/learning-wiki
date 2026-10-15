@@ -43,5 +43,5 @@ Report on data sets submitted by NGCC projects to SRI: "77impact data sets" were
 
 
 ## Related Claims
-- [NGCC adaptive courseware had a small positive, statistically significant average impact on course grades, with the top 25% of implementations showing impacts equivalent to 12 percentile points.](ngcc-courseware-small-positive-grade-impact.md) — related
+- NGCC adaptive courseware had a small positive, statistically significant average impact on course grades, with the top 25% of implementations showing impacts equivalent to 12 percentile points. — related
 - [Courseware impact varied by context: positive on average in 4-year institutions but insignificant in 2-year colleges, more positive in biology, psychology, and math/statistics, and positive when the comparison course was face-to-face rather than the same modality.](ngcc-impact-moderators-context.md) — related

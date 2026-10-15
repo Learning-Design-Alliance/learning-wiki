@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yuchen-liu-2026
-    resource: "https://arxiv.org/abs/2606.09831"
-    title: "Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, and Sadia Nawaz. (2026). AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design. https://arxiv.org/abs/2606.09831"
+    resource: "https://doi.org/10.48550/arxiv.2606.09831"
+    title: "Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, and Sadia Nawaz. (2026). AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design. https://arxiv.org/abs/2606.09831 [doi:10.48550/arxiv.2606.09831](https://doi.org/10.48550/arxiv.2606.09831)"
     author: Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, and Sadia Nawaz
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yuchen Liu 2026
 
-Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, and Sadia Nawaz. (2026). AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design. https://arxiv.org/abs/2606.09831
+Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, and Sadia Nawaz. (2026). AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design. https://arxiv.org/abs/2606.09831 [doi:10.48550/arxiv.2606.09831](https://doi.org/10.48550/arxiv.2606.09831)
 
 `q2 · i?` · `associational · r1`
 

@@ -13,7 +13,7 @@ generated:
 # Reference implementation of the classroom feedback mediation layer
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A lightweight GitHub-hosted demonstration implementation by Junsoo Park et al. that accepts classroom-level observations and returns topic priorities, decision records, and recommendations.
@@ -24,9 +24,6 @@ A lightweight GitHub-hosted demonstration implementation by Junsoo Park et al. t
 
 ### Claims
 
-- [In a graduate CS course offering, mediated topic priorities aligned with instructor concerns (top-5 overlap 3/5; Spearman ρ = 0.80)](../claims/mediation-layer-priorities-align-instructor-concerns.md) [+W]
-- [Topic priorities remained relatively stable across reasonable researcher-defined weighting choices (top-10 overlap 10/10; removing disagreement left top five unchanged, ρ = 0.96)](../claims/topic-priorities-stable-across-weights.md) [+W]
-- [Topic priority was moderately associated with student self-reported difficulty (ρ = 0.46, p = .048), more strongly than gap prevalence alone (ρ = 0.29)](../claims/topic-priority-aligns-self-reported-difficulty.md) [+W]
 
 ## Related Products and Programmes
 

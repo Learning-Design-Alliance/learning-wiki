@@ -44,4 +44,4 @@ The review's synthesis reports that "a formal curriculum that includes citizensh
 
 ## Related Claims
 - [An open and democratic classroom climate with discussion and dialogue appears to effectively promote citizenship development among secondary school students](open-democratic-classroom-climate-promotes-citizenship.md) — related
-- [Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes](lre-reduces-delinquent-tendencies.md) — related
+- Properly conducted LRE programs can reduce delinquent tendencies and improve citizenship attitudes — related

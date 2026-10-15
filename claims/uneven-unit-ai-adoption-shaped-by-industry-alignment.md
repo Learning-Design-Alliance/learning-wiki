@@ -45,9 +45,9 @@ Survey-based case study findings section; Table 2 summarizes unit adoption level
 ## Related Claims
 - [AI implementation increases the invisible emotional and relational labor of associate deans, which remains unquantified in leadership evaluations](ai-increases-invisible-labor-of-associate-deans.md) — related
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
-- [A policy inventory framework enables states to audit and compare teacher-quality policies](cl-state-teacher-policy-audit-inventory-enables-cross-state-comparison.md) — related
+- A policy inventory framework enables states to audit and compare teacher-quality policies — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
-- [Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027](ai-workforce-demand-non-technical-sectors.md) — related
+- Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027 — related
 - The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines — related
 - [Most U.S. colleges had adopted written generative AI policies by late 2024, with 69% defining appropriate versus inappropriate AI use in coursework](review-69-percent-colleges-genai-policies.md) — related
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related

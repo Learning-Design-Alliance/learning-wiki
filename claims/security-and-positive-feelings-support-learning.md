@@ -48,7 +48,7 @@ Design Principle 1 section, a narrative research synthesis, states that "childre
 ## Related Claims
 - [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — related
 - [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — related
-- [In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship](secure-base-enables-exploration.md) — a narrower finding that bears on this claim
-- [Attachment (communion) contains the fear and anxiety associated with individual action (agency)](communion-contains-agentic-distress.md) — a narrower finding that bears on this claim
-- [Regulate-relate-reason sequence: students reason once regulated and feeling supported](regulate-relate-reason-sequence.md) — related
+- In attachment theory, the child's exploration is the direct outcome of security from an effective attachment relationship — a narrower finding that bears on this claim
+- Attachment (communion) contains the fear and anxiety associated with individual action (agency) — a narrower finding that bears on this claim
+- Regulate-relate-reason sequence: students reason once regulated and feeling supported — related
 - [Teachers' attitudes towards oral corrective feedback are guided mainly by considerations of students' feelings, which override cognitive and other components](student-feelings-guide-ocf-attitudes.md) — related

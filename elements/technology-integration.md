@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 28 claims (11 for, 14 mixed, 3 against) · 28 studies (10 associational, 5 qualitative, 5 design, 4 review, 2 theoretical, 1 causal, 1 quant-synthesis), `q1`–`q3` · 2 of 28 report an effect size · 27 claims rest on one study
+> **Evidence** · 25 claims (8 for, 14 mixed, 3 against) · 26 studies (9 associational, 5 design, 4 review, 4 qualitative, 2 theoretical, 1 causal, 1 quant-synthesis), `q1`–`q3` · 2 of 26 report an effect size · 24 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -27,15 +27,12 @@ Technology integration is the element in which digital tools are used in direct 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers](../claims/pd-integration-training-doubles-reliance.md) [+W]
-- [A one-to-one wireless laptop initiative in Hiawassee, Georgia was accompanied by improved test scores, a 24 percent rise in adult education enrollment and a 71 percent rise in G.E.D. completions](../claims/hiawassee-laptop-outcomes.md) [+W]
 - [Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses](../claims/integrated-hours-beat-standalone-tech-courses.md) [+W]
-- [Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project](../claims/increased-web-technology-use-over-project.md) [+W]
 - [PLI students digitally collaborated significantly more than non-PLI students with the same technology access, and digital collaboration had a small significant association with SBAC scores](../claims/pli-digital-collaboration-associated-with-scores.md) [+W]
 - [Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs](../claims/ai-collaborative-learning-challenges-bias-overreliance.md) [~W]
 - [Students' overall AI knowledge improved significantly after four integrated AI-biology lessons](../claims/ai-knowledge-significant-gain-integrated-biology-lessons.md) [+W]
 - [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](../claims/ai-reliance-correlated-lower-critical-thinking-offloading.md) [~W]
 - [The most critical challenge in integrating AI into instructional design is pedagogical alignment (14 of 28 studies, 50.0%)](../claims/ai-id-challenge-pedagogical-alignment.md) [~W]
-- [Coached teachers report significantly higher confidence in their ability to implement impactful technology use](../claims/coaching-raises-teacher-itu-confidence.md) [+W]
 - [A rural district that closed device and connectivity divides and trained teachers saw graduation rates rise from 67 percent to over 94 percent and college enrollment double](../claims/lindsay-usd-digital-equity-outcomes.md) [~W]
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](../claims/structured-ai-tutor-raises-post-test-scores-field-experiment.md) [+M]
 - [Teachers' practical use of AI in science and green energy learning significantly predicts their AI integration ability (β = 0.391, p < 0.01, f² = 0.180)](../claims/ai-use-in-green-energy-teaching-predicts-integration-ability.md) [+W]

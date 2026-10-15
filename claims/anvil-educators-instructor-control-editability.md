@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: noviello-2026
-    resource: "https://arxiv.org/abs/2605.16295"
-    title: "Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295"
+    resource: "https://doi.org/10.48550/arxiv.2605.16295"
+    title: "Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295 [doi:10.48550/arxiv.2605.16295](https://doi.org/10.48550/arxiv.2605.16295)"
     author: Noviello, Y., Birillo, A., Migut, G.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Noviello 2026
 
-Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295
+Noviello, Y., Birillo, A., Migut, G. (2026). ANVIL: Analogies and Videos for Lecturers. https://arxiv.org/abs/2605.16295 [doi:10.48550/arxiv.2605.16295](https://doi.org/10.48550/arxiv.2605.16295)
 
 `q2 · i?` · `qualitative · r2`
 

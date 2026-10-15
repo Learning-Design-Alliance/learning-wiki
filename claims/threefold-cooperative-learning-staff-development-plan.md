@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` The project's three-part staff development plan — immersion in cooperative learning activities, peer monitoring and review, and contributing to a cooperative learning manual — was reported as essential for instructional staff to follow through and implement cooperative learning structures and techniques. [→ Rood 1998](#rood-1998)
@@ -43,5 +44,5 @@ Project report describing a 353 staff development project in which nine instruct
 
 
 ## Related Claims
-- [In a systems approach to staff development, felt needs must be legitimized by data before planning proceeds](felt-needs-require-data-verification.md) — related
+- In a systems approach to staff development, felt needs must be legitimized by data before planning proceeds — related
 - [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related

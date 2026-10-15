@@ -17,7 +17,7 @@ sources:
 # Distinguish what a medium feature teaches typically from what it can be made to teach
 
 > **Design Method** · [All design methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper argues that research questions like 'What does feature x teach?' are vague because they fail to distinguish "what a feature teaches typically, and what it can be made to teach". Typical-use questions treat the person-technology interaction as a natural given and reveal how children ordinarily handle a technology; potential questions ask what specific technological elements can be made to do if particular conditions are met, e.g. specially designed TV segments using zooms and point-of-view changes to cultivate skills as 'mental tools'. The two answers differ, and conflating them makes effect questions unilluminatingly vague.
@@ -39,7 +39,6 @@ The paper argues that research questions like 'What does feature x teach?' are v
 ### Claims
 
 - [Affordance Does Not Guarantee Cognitive Effect](../claims/affordance-does-not-guarantee-cognitive-effect.md) [+M]
-- [Transfer from instructional media is empirically possible but its probability under heavy real-world exposure remains unestablished](../claims/media-transfer-possible-but-probability-unestablished.md) [+W]
 
 ## Related Principles
 - 

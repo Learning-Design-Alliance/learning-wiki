@@ -17,7 +17,7 @@ sources:
 # Content Literacy Continuum
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A schoolwide literacy framework developed by the University of Kansas Center for Research on Learning that organizes universal content-area instruction and targeted reading interventions into tiers.
@@ -26,7 +26,6 @@ A schoolwide literacy framework developed by the University of Kansas Center for
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Five of six qualifying SIM studies evaluated targeted forms and one evaluated the whole-school Content Literacy Continuum](../claims/sim-five-targeted-one-clc.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -63,7 +62,6 @@ The Content Literacy Continuum (CLC) organizes schoolwide literacy efforts into 
 - decoding
 
 ### Claims
-- [Sim Five Targeted One Clc](../claims/sim-five-targeted-one-clc.md) [+M]
 
 ## Related Designs
 - [Strategic Instruction Model Sim Element](../products/strategic-instruction-model.md)

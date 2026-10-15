@@ -53,7 +53,7 @@ The authors coded each outcome for depth (surface, content-specific, against dee
 | [Donoghue & Hattie 2021](https://doi.org/10.3389/feduc.2021.581216) | q3 · quant-synthesis · r? | i1 · small effect on deep outcomes, d = 0.26 (0.60 surface); far transfer d = 0.39 | this claim |
 | Reisslein 2004 | q2 · causal · r2 | i? | [In one 51-learner experiment on help formats in computer-based electrical engineering inst](far-transfer-floor-effect-and-equal-time.md) (supports) |
 | Miwa et al. 2017 | q2 · causal · r1 | i? | [Test-score increases occurred only for identical and near-transfer problems; no increases ](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) (supports) |
-| Kelly McNeil 2026 | q2 · review · r2 | i? | [The review reports that simulation games support near transfer of knowledge but evidence f](simulation-near-transfer-robust-far-transfer-weak.md) (supports) |
+| [Kelly McNeil 2026](https://doi.org/10.51388/20.500.12265/284) | q2 · review · r2 | i? | [The review reports that simulation games support near transfer of knowledge but evidence f](simulation-near-transfer-robust-far-transfer-weak.md) (supports) |
 | [Dunlosky 2013](https://doi.org/10.1177/1529100612453266) | q2 · causal · r? | i? | [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometr](self-explanation-far-transfer-geometry-classroom.md) (counts against) |
 <!-- synthesis:end -->
 

@@ -18,7 +18,7 @@ sources:
 # Carnegie Learning High School Math Solution Algebra I
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A Carnegie Learning first-year Algebra I curriculum that combines textbook and workbook materials with self-paced individualized instruction through automated tutoring software.
@@ -30,7 +30,6 @@ A Carnegie Learning first-year Algebra I curriculum that combines textbook and w
 
 ### Claims
 - [In a cluster randomized study across 73 high schools, Carnegie Learning students scored higher on the Algebra Proficiency Exam, with cohort effect sizes of +0.07 and +0.21](../claims/carnegie-learning-algebra-i-cluster-randomized-cohorts.md) [+W]
-- [Carnegie Learning High School Math Solution Algebra I shows a weighted average effect size of +0.04 across three qualifying studies](../claims/carnegie-learning-algebra-i-weighted-effect-0-04.md) [+W]
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](../claims/ability-level-differences-verbal-problem-solving.md) [~W]
 
 ## Related Products and Programmes
@@ -67,7 +66,6 @@ A first-year algebra course designed for students ranging in ability and grade l
 ## Claims
 
 - [In a cluster randomized study across 73 high schools, Carnegie Learning students scored higher on the Algebra Proficiency Exam, with cohort effect sizes of +0.07 and +0.21](../claims/carnegie-learning-algebra-i-cluster-randomized-cohorts.md) [+W]
-- [Carnegie Learning High School Math Solution Algebra I shows a weighted average effect size of +0.04 across three qualifying studies](../claims/carnegie-learning-algebra-i-weighted-effect-0-04.md) [+W]
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](../claims/ability-level-differences-verbal-problem-solving.md) [~W]
 
 ## Related Elements
@@ -111,7 +109,6 @@ MATHia is "the technology component of Carnegie Learning High School Math Soluti
 ## Claims
 
 - [In a cluster randomized study across 73 high schools, Carnegie Learning students scored higher on the Algebra Proficiency Exam, with cohort effect sizes of +0.07 and +0.21](../claims/carnegie-learning-algebra-i-cluster-randomized-cohorts.md) [+W]
-- [Carnegie Learning High School Math Solution Algebra I shows a weighted average effect size of +0.04 across three qualifying studies](../claims/carnegie-learning-algebra-i-weighted-effect-0-04.md) [+W]
 
 ## Related Elements
 

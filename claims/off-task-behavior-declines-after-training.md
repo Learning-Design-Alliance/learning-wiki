@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-15: Student off-task behavior declined markedly in trained teachers' classrooms, with adjusted post means differing significantly beyond the .001 level -->
 
 ## Subclaims
@@ -44,6 +45,6 @@ Off-task behavior was recorded at five-minute intervals in the 21 treatment and 
 
 
 ## Related Claims
-- [Greatest declines in off-task behavior occurred in classrooms whose teachers initially faced the highest off-task rates](largest-off-task-declines-in-high-baseline-classrooms.md) — related
-- [Trained teachers reallocated time unevenly: significantly more to presenting/developing lessons and quizzes, less to homework review, independent practice, and transitions](time-reallocated-across-instructional-functions.md) — related
-- [Direct classroom observations in the rural trial showed TAPP students exhibited more on-task and prosocial behavior and less off-task behavior](tapp-observation-on-task-prosocial-behavior-gains.md) — related
+- Greatest declines in off-task behavior occurred in classrooms whose teachers initially faced the highest off-task rates — related
+- Trained teachers reallocated time unevenly: significantly more to presenting/developing lessons and quizzes, less to homework review, independent practice, and transitions — related
+- Direct classroom observations in the rural trial showed TAPP students exhibited more on-task and prosocial behavior and less off-task behavior — related

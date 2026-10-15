@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: youjie-chen-2026
-    resource: "https://arxiv.org/abs/2602.00447"
-    title: "Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević. (2026). Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use. arXiv preprint. https://arxiv.org/abs/2602.00447"
+    resource: "https://doi.org/10.48550/arxiv.2602.00447"
+    title: "Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević. (2026). Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use. arXiv preprint. https://arxiv.org/abs/2602.00447 [doi:10.48550/arxiv.2602.00447](https://doi.org/10.48550/arxiv.2602.00447)"
     author: Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Youjie Chen 2026
 
-Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević. (2026). Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use. arXiv preprint. https://arxiv.org/abs/2602.00447
+Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević. (2026). Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use. arXiv preprint. https://arxiv.org/abs/2602.00447 [doi:10.48550/arxiv.2602.00447](https://doi.org/10.48550/arxiv.2602.00447)
 
 `q2 · i?` · `associational · r2`
 
@@ -43,6 +43,6 @@ Descriptive analysis of Spring 2025 interaction logs from the ten institutions a
 
 
 ## Related Claims
-- [In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement](genai-practice-platform-uptake-230-submissions.md) — related
+- In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
 - [GenAI use is widespread among higher education students in reviewed studies, with some studies reporting over 95% of participants had used GenAI tools](genai-use-widespread-higher-education-students.md) — a broader claim this one bears on
 - [Tutoring activity mix shifts dynamically across a ten-session project, with rapport building highest early and artifact review rising over time](tutoring-activity-mix-shifts-across-project-sessions.md) — related

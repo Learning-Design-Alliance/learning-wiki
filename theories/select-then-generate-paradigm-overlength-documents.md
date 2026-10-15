@@ -16,7 +16,7 @@ sources:
 # Select-then-generate paradigm for feedback generation on overlength documents
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The select-then-generate paradigm decomposes feedback generation for long documents into two sequential sub-problems. As the article states, it resolves "the issue of overlength input documents: 1) an unsupervised sentence-level extractive summarization task, and 2) a supervised PLM-based text-to-text generation task". An extractive summarizer (cross-entropy extraction optimizing vocabulary diversity plus a length term) produces a summarized report that becomes the input to the generation function implemented by a pre-trained language model (BART).
@@ -38,9 +38,6 @@ The select-then-generate paradigm decomposes feedback generation for long docume
 
 ### Claims
 
-- [Project Reports Exceed Bart Token Limit](../claims/project-reports-exceed-bart-token-limit.md) [+M]
-- [Insta-Reviewer generates near-human-quality feedback on student project reports, outperforming expert feedback on Problems and Positive Tone but trailing it on Readability, Suggestions, and Factuality](../claims/insta-reviewer-near-human-project-report-feedback.md) [+W]
-- [Manual inspection of all system-generated feedback reveals four deficiencies: non-factual statements, frequent repeated text, lack of project-specific problem or suggestion statements, and inability to give feedback on images](../claims/insta-reviewer-four-feedback-deficiencies.md) [-W]
 
 ## Related Theories
 - 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` There was no difference between age groups in treatment type ratings; no effect size beyond η² = .000 was reported for this contrast. [→ Lundervold 2013](#lundervold-2013)
@@ -47,4 +48,4 @@ The same mixed factorial ANOVA tested age cohort as the between-subjects factor.
 - [Behavioral Relaxation Training is rated more acceptable than medication for GAD comorbid with Parkinson's disease by both younger and older adults](brt-more-acceptable-than-medication-gad-pd.md) — related
 - [No significant interaction between age group and treatment type in acceptability ratings](no-age-by-treatment-interaction-acceptability.md) — related
 - [Demographic and psychiatric-history variables are largely unrelated to treatment acceptability, with counseling history the exception](demographics-unrelated-to-acceptability-ratings.md)
-- [Training outcomes were unrelated to tenure: no relationships were established with years employed in DCPS or years in the field of education](sdm-training-outcomes-unrelated-to-tenure.md) — related
+- Training outcomes were unrelated to tenure: no relationships were established with years employed in DCPS or years in the field of education — related

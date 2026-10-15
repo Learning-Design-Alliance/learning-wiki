@@ -49,7 +49,7 @@ Survey finding from the 120-respondent instrument: about half of faculty disagre
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - The University of Florida's AI Across the Curriculum framework lacks proficiency levels and guidance for non-technical disciplines — related
 - [Seven state AI guidance documents share seven major themes, including human-centered use, AI literacy, equity, and data privacy, though not all themes appear in all documents](seven-state-ai-guidance-seven-common-themes.md) — related
-- [Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027](ai-workforce-demand-non-technical-sectors.md) — related
+- Demand for AI skills spans non-technical sectors, with 75% of companies planning AI adoption by 2027 — related
 - [Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation](implementation-depends-on-individual-initiative-not-systems.md) — related
 - [Professional learning on emerging technologies is widely available but misaligned with faculty workload, time, and incentives](professional-learning-misaligned-faculty-workload.md) — related
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related

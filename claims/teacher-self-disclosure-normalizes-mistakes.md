@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: angelica-paz-ortiz-2019
-    resource: "https://www.nwea.org/research/publication/positionality-in-teaching-implications-for-advancing-social-justice/"
-    title: "Angelica Paz Ortiz, Beth Tarasawa, Jack Straton, Noelle Al-Mustaifry, Anmarie Trimble. (2019). Positionality in teaching: Implications for advancing social justice. Journal of General Education 67(1), 109-121. https://www.nwea.org/research/publication/positionality-in-teaching-implications-for-advancing-social-justice/"
+    resource: "https://doi.org/10.5325/jgeneeduc.67.1-2.0109"
+    title: "Angelica Paz Ortiz, Beth Tarasawa, Jack Straton, Noelle Al-Mustaifry, Anmarie Trimble. (2019). Positionality in teaching: Implications for advancing social justice. Journal of General Education 67(1), 109-121. https://www.nwea.org/research/publication/positionality-in-teaching-implications-for-advancing-social-justice/ [doi:10.5325/jgeneeduc.67.1-2.0109](https://doi.org/10.5325/jgeneeduc.67.1-2.0109)"
     author: Angelica Paz Ortiz, Beth Tarasawa, Jack Straton, Noelle Al-Mustaifry, Anmarie Trimble
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Angelica Paz Ortiz 2019
 
-Angelica Paz Ortiz, Beth Tarasawa, Jack Straton, Noelle Al-Mustaifry, Anmarie Trimble. (2019). Positionality in teaching: Implications for advancing social justice. Journal of General Education 67(1), 109-121. https://www.nwea.org/research/publication/positionality-in-teaching-implications-for-advancing-social-justice/
+Angelica Paz Ortiz, Beth Tarasawa, Jack Straton, Noelle Al-Mustaifry, Anmarie Trimble. (2019). Positionality in teaching: Implications for advancing social justice. Journal of General Education 67(1), 109-121. https://www.nwea.org/research/publication/positionality-in-teaching-implications-for-advancing-social-justice/ [doi:10.5325/jgeneeduc.67.1-2.0109](https://doi.org/10.5325/jgeneeduc.67.1-2.0109)
 
 `q1 · i?` · `theoretical · r1`
 

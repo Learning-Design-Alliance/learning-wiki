@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: peter-z-schochet-2009
-    resource: "https://www.mathematica.org/publications/an-approach-for-addressing-the-multiple-testing-problem-in-social-policy-impact-evaluations"
-    title: "Peter Z. Schochet. (2009). An Approach for Addressing the Multiple Testing Problem in Social Policy Impact Evaluations. Education Review, vol. 33, no. 6. https://www.mathematica.org/publications/an-approach-for-addressing-the-multiple-testing-problem-in-social-policy-impact-evaluations"
+    resource: "https://doi.org/10.1177/0193841x09350590"
+    title: "Peter Z. Schochet. (2009). An Approach for Addressing the Multiple Testing Problem in Social Policy Impact Evaluations. Education Review, vol. 33, no. 6. https://www.mathematica.org/publications/an-approach-for-addressing-the-multiple-testing-problem-in-social-policy-impact-evaluations [doi:10.1177/0193841x09350590](https://doi.org/10.1177/0193841x09350590)"
     author: Peter Z. Schochet
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Peter Z. Schochet 2009
 
-Peter Z. Schochet. (2009). An Approach for Addressing the Multiple Testing Problem in Social Policy Impact Evaluations. Education Review, vol. 33, no. 6. https://www.mathematica.org/publications/an-approach-for-addressing-the-multiple-testing-problem-in-social-policy-impact-evaluations
+Peter Z. Schochet. (2009). An Approach for Addressing the Multiple Testing Problem in Social Policy Impact Evaluations. Education Review, vol. 33, no. 6. https://www.mathematica.org/publications/an-approach-for-addressing-the-multiple-testing-problem-in-social-policy-impact-evaluations [doi:10.1177/0193841x09350590](https://doi.org/10.1177/0193841x09350590)
 
 `q1 · i?` · `theoretical · r1`
 

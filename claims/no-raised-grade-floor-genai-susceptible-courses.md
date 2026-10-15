@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: dumlao-2026
-    resource: "https://arxiv.org/abs/2607.21534"
-    title: "Dumlao, J. M. Z., Wang, M., Xie, Z., Hu, J., Bar, I., Chaney, G., III, Gold, H., & Teplitskiy, M. (2026). Generative AI Availability, Grades, and Student Satisfaction at a Large University. arXiv. https://arxiv.org/abs/2607.21534"
+    resource: "https://doi.org/10.48550/arxiv.2607.21534"
+    title: "Dumlao, J. M. Z., Wang, M., Xie, Z., Hu, J., Bar, I., Chaney, G., III, Gold, H., & Teplitskiy, M. (2026). Generative AI Availability, Grades, and Student Satisfaction at a Large University. arXiv. https://arxiv.org/abs/2607.21534 [doi:10.48550/arxiv.2607.21534](https://doi.org/10.48550/arxiv.2607.21534)"
     author: "Dumlao, J. M. Z., Wang, M., Xie, Z., Hu, J., Bar, I., Chaney, G., III, Gold, H., & Teplitskiy, M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Dumlao 2026
 
-Dumlao, J. M. Z., Wang, M., Xie, Z., Hu, J., Bar, I., Chaney, G., III, Gold, H., & Teplitskiy, M. (2026). Generative AI Availability, Grades, and Student Satisfaction at a Large University. arXiv. https://arxiv.org/abs/2607.21534
+Dumlao, J. M. Z., Wang, M., Xie, Z., Hu, J., Bar, I., Chaney, G., III, Gold, H., & Teplitskiy, M. (2026). Generative AI Availability, Grades, and Student Satisfaction at a Large University. arXiv. https://arxiv.org/abs/2607.21534 [doi:10.48550/arxiv.2607.21534](https://doi.org/10.48550/arxiv.2607.21534)
 
 `q2 · i?` · `causal · r2`
 

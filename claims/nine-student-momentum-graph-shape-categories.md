@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: steven-s-christensen-jonathan-s-spackman-2016
-    resource: "https://eric.ed.gov/?id=EJ1150708"
-    title: "Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708"
+    resource: "https://doi.org/10.9743/jeo.2017.14.2.7"
+    title: "Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)"
     author: "Steven S. Christensen & Jonathan S. Spackman"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Graphing the Student Momentum Indicator across lessons yields nine dropout-behavior shape categories, with steep wall shapes the most common (25.5%) and flat slope shapes rare (2.6%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 1 qualitative `r2`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Constant comparison of M graphs from 196 courses produced nine categories: steep wall, back-to-back wall, steady slope, convex slope, three wall, early and late wall, flat slope, spanning wall, and other shapes. [→ Steven S. Christensen & Jonathan S. Spackman 2016](#steven-s-christensen-jonathan-s-spackman-2016)
@@ -40,7 +40,7 @@ sources:
 
 ### Steven S. Christensen & Jonathan S. Spackman 2016
 
-Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708
+Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)
 
 `q2 · i?` · `qualitative · r2`
 

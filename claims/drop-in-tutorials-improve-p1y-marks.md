@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mm-casey-and-s-mcvitie-2009
-    resource: "https://arxiv.org/abs/0911.2733"
-    title: "MM Casey and S McVitie. (2009). Academic performance & student engagement in level 1 physics undergraduates. https://arxiv.org/abs/0911.2733"
+    resource: "https://doi.org/10.48550/arxiv.0911.2733"
+    title: "MM Casey and S McVitie. (2009). Academic performance & student engagement in level 1 physics undergraduates. https://arxiv.org/abs/0911.2733 [doi:10.48550/arxiv.0911.2733](https://doi.org/10.48550/arxiv.0911.2733)"
     author: MM Casey and S McVitie
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### MM Casey and S McVitie 2009
 
-MM Casey and S McVitie. (2009). Academic performance & student engagement in level 1 physics undergraduates. https://arxiv.org/abs/0911.2733
+MM Casey and S McVitie. (2009). Academic performance & student engagement in level 1 physics undergraduates. https://arxiv.org/abs/0911.2733 [doi:10.48550/arxiv.0911.2733](https://doi.org/10.48550/arxiv.0911.2733)
 
 `q2 · i? · no effect size: the entry prints raw mean mark changes (+2.9% for attendees, −1.6% for the class) with no SD` · `design · r2`
 
@@ -46,9 +46,9 @@ Observational comparison in the 2007-08 class: only ~10% of the class attended t
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| MM Casey and S McVitie 2009 | q2 · design · r2 | i? | this claim |
-| Cooper 2010 | q2 · associational · r2 | i?; i1 | [Freshmen who visited the tutoring center more than 10 times per quarter had statistically ](high-use-tutoring-center-visits-higher-persistence.md) (supports); [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitor](tutoring-center-visits-higher-cumulative-gpa.md) (supports); [Tutoring center visits showed a delayed significant correlation with cumulative GPA in sub](delayed-correlation-visits-cumulative-gpa.md) (supports); [In one university's records, minority students visit a drop-in tutoring center more often ](minority-students-more-tutoring-visits-lower-gpas.md) (qualifies) |
-| Andy Gray 2026 | q2 · associational · r1 | i? | [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% som](students-avoid-help-seeking-despite-need.md) (qualifies) |
+| [MM Casey and S McVitie 2009](https://doi.org/10.48550/arxiv.0911.2733) | q2 · design · r2 | i? | this claim |
+| [Cooper 2010](https://doi.org/10.1080/10790195.2010.10850328) | q2 · associational · r2 | i?; i1 | [Freshmen who visited the tutoring center more than 10 times per quarter had statistically ](high-use-tutoring-center-visits-higher-persistence.md) (supports); [High-use tutoring center visitors had significantly higher cumulative GPA than non-visitor](tutoring-center-visits-higher-cumulative-gpa.md) (supports); [Tutoring center visits showed a delayed significant correlation with cumulative GPA in sub](delayed-correlation-visits-cumulative-gpa.md) (supports); [In one university's records, minority students visit a drop-in tutoring center more often ](minority-students-more-tutoring-visits-lower-gpas.md) (qualifies) |
+| [Andy Gray 2026](https://doi.org/10.48550/arxiv.2609.21600) | q2 · associational · r1 | i? | [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% som](students-avoid-help-seeking-despite-need.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

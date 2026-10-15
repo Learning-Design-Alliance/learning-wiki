@@ -17,7 +17,7 @@ sources:
 # Bootstrapping adjustment (BA) method for item parameter bias reduction
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 BA is one of two item parameter adjustment methods proposed in the article, reducing biases in both item difficulty and item discrimination parameters using statistical bootstrapping. In four steps it repeatedly samples anchor students based on the unbiased ability estimates to form standard-normal-distributed samples of the same size, applies 2PL-IRT to each sample, and averages the resulting difficulty and discrimination estimates over K repetitions. The article states "The BA method relies on less constraint and could reduce the biases contained in both item discrimination and diﬃculty estimates", and that it "has the potential for applying on more complicated IRT models, such as 3PL-IRT"
@@ -27,7 +27,6 @@ BA is one of two item parameter adjustment methods proposed in the article, redu
 - **Bootstrapping adjustment (BA) method for item parameter bias reduction**: BA is one of two item parameter adjustment methods proposed in the article, reducing biases in both item difficulty and item discrimination parameters using statistical bootstrapping. In four steps it repeatedly samples anchor students based on the unbiased ability estimates to form standard-normal-distributed samples of the same size, applies 2PL-IRT to each sample, and averages the resulting difficulty and discrimination estimates over K repetitions. The article states "The BA method relies on less constraint and could reduce the biases contained in both item discrimination and diﬃculty estimates", and that it "has the potential for applying on more complicated IRT models, such as 3PL-IRT" (Xue et al. (2020))
 
 ### Claims
-- [Both proposed adjustment methods (IEA and BA) reduce RMSE of item difficulty estimates from direct 2PL-IRT fitting, with BA yielding more consistent (lower-variance) estimates in simulation](../claims/iea-ba-reduce-difficulty-estimate-bias.md) [+W]
 - [A semi-supervised deep learning architecture recovers the ability distribution of anchor students more accurately than direct 2PL-IRT fitting under simulated nonignorable missingness](../claims/semi-supervised-deep-learning-unbiased-ability-estimates.md) [+W]
 
 ## Related Research Methods
@@ -66,7 +65,6 @@ BA is one of two item parameter adjustment methods proposed in the article, redu
 
 ## Claims
 
-- [Both proposed adjustment methods (IEA and BA) reduce RMSE of item difficulty estimates from direct 2PL-IRT fitting, with BA yielding more consistent (lower-variance) estimates in simulation](../claims/iea-ba-reduce-difficulty-estimate-bias.md) [+W]
 - [A semi-supervised deep learning architecture recovers the ability distribution of anchor students more accurately than direct 2PL-IRT fitting under simulated nonignorable missingness](../claims/semi-supervised-deep-learning-unbiased-ability-estimates.md) [+W]
 
 ## Related Elements

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zwickl-2013
-    resource: "https://arxiv.org/abs/1307.5760"
-    title: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760"
+    resource: "https://doi.org/10.48550/arxiv.1307.5760"
+    title: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760 [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)"
     author: "Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J."
     q: 2
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Zwickl 2013
 
-Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760
+Zwickl, B. M., Hirokawa, T., Finkelstein, N., & Lewandowski, H. J. (2013). Development and results from a survey on students views of experiments in lab classes and research. https://arxiv.org/abs/1307.5760 [doi:10.48550/arxiv.1307.5760](https://doi.org/10.48550/arxiv.1307.5760)
 
 `q2 · i1` · `design · r2`
 
@@ -44,5 +44,5 @@ Participation and administration data from online delivery during Fall 2012 and 
 
 ## Related Claims
 
-- [Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result](class-descriptive-scores-favour-control-post-test.md) — related
+- Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result — related
 - [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md)

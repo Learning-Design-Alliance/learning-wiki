@@ -41,5 +41,5 @@ The authors state this caution in their considerations section, reporting that t
 
 
 ## Related Claims
-- [The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles](personal-ethic-of-care-transferred-from-motherhood.md) — related
+- The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles — related
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related

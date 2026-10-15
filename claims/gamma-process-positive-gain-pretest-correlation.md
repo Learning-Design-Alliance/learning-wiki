@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lei-bao-2006
-    resource: "https://arxiv.org/abs/0710.1375"
-    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375"
+    resource: "https://doi.org/10.48550/arxiv.0710.1375"
+    title: "Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)"
     author: Lei Bao
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2` · `i1` small
+> **Evidence** · 2 studies · 2 theoretical `r3` · `q2` · `i1` small
 
 ## Subclaims
 `q2 i?` With both α and γ processes, the normalized gain always has explicit pretest-score terms and a positive correlation with pretest score is expected. [→ Lei Bao 2006](#lei-bao-2006)
@@ -40,7 +40,7 @@ sources:
 
 ### Lei Bao 2006
 
-Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375
+Lei Bao. (2006). Dynamic Models of Learning and Education Measurement. https://arxiv.org/abs/0710.1375 [doi:10.48550/arxiv.0710.1375](https://doi.org/10.48550/arxiv.0710.1375)
 
 `q2 · i? · the article prints no effect size for this finding` · `theoretical · r3`
 
@@ -71,4 +71,4 @@ The article's summary of existing experimental studies (Section IV) documenting 
 - [Random measurement noise in pretest scores produces a negative contribution to the correlation between normalized gain and pretest score](measurement-noise-negative-gain-pretest-correlation.md) — related
 - [Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score](normalized-gain-pretest-uncorrelated-alpha-process.md) — related
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
-- [Pre-test scores strongly predict post-test scores but not normalized learning gains](pretest-predicts-posttest-not-learning-gain.md) — reports the opposite
+- Pre-test scores strongly predict post-test scores but not normalized learning gains — reports the opposite

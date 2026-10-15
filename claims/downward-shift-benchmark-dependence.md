@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yi-zhang-julia-rayz-2026
-    resource: "https://arxiv.org/abs/2607.08009"
-    title: "Yi Zhang & Julia Rayz. (2026). From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs. Preprint. https://arxiv.org/abs/2607.08009"
+    resource: "https://doi.org/10.48550/arxiv.2607.08009"
+    title: "Yi Zhang & Julia Rayz. (2026). From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs. Preprint. https://arxiv.org/abs/2607.08009 [doi:10.48550/arxiv.2607.08009](https://doi.org/10.48550/arxiv.2607.08009)"
     author: "Yi Zhang & Julia Rayz"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yi Zhang & Julia Rayz 2026
 
-Yi Zhang & Julia Rayz. (2026). From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs. Preprint. https://arxiv.org/abs/2607.08009
+Yi Zhang & Julia Rayz. (2026). From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs. Preprint. https://arxiv.org/abs/2607.08009 [doi:10.48550/arxiv.2607.08009](https://doi.org/10.48550/arxiv.2607.08009)
 
 `q2 · i?` · `causal · r2`
 

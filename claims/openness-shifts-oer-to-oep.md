@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: markus-deimann-and-robert-farrow-2013
-    resource: "https://eric.ed.gov/?id=EJ1017477"
-    title: "Markus Deimann and Robert Farrow. (2013). Rethinking OER and their Use: Open Education as Bildung. International Review of Research in Open and Distance Learning, Vol 14 No 3. https://eric.ed.gov/?id=EJ1017477"
+    resource: "https://doi.org/10.19173/irrodl.v14i3.1370"
+    title: "Markus Deimann and Robert Farrow. (2013). Rethinking OER and their Use: Open Education as Bildung. International Review of Research in Open and Distance Learning, Vol 14 No 3. https://eric.ed.gov/?id=EJ1017477 [doi:10.19173/irrodl.v14i3.1370](https://doi.org/10.19173/irrodl.v14i3.1370)"
     author: Markus Deimann and Robert Farrow
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Markus Deimann and Robert Farrow 2013
 
-Markus Deimann and Robert Farrow. (2013). Rethinking OER and their Use: Open Education as Bildung. International Review of Research in Open and Distance Learning, Vol 14 No 3. https://eric.ed.gov/?id=EJ1017477
+Markus Deimann and Robert Farrow. (2013). Rethinking OER and their Use: Open Education as Bildung. International Review of Research in Open and Distance Learning, Vol 14 No 3. https://eric.ed.gov/?id=EJ1017477 [doi:10.19173/irrodl.v14i3.1370](https://doi.org/10.19173/irrodl.v14i3.1370)
 
 `q1 · i?` · `theoretical · r3`
 

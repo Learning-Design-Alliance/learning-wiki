@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: guillermo-cruces-2026
-    resource: "https://www.socialscienceregistry.org/trials/16607"
-    title: "Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607"
+    resource: "https://doi.org/10.2139/ssrn.6246347"
+    title: "Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607 [doi:10.2139/ssrn.6246347](https://doi.org/10.2139/ssrn.6246347)"
     author: Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r3` · `q3`
+> **Evidence** · 2 studies · 2 causal `r3` · `q3`
 
 ## Subclaims
 `q3 i?` Prior AI access raises low-education follow-up scores by 0.171 SD (significant at 5%); the high-education effect of 0.071 SD is not significant. [→ Guillermo Cruces 2026](#guillermo-cruces-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Guillermo Cruces 2026
 
-Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607
+Guillermo Cruces, Diego Fernández Meĳide, Sebastian Galiani, Ramiro H. Gálvez, María Lombardi. (2026). Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment. https://www.socialscienceregistry.org/trials/16607 [doi:10.2139/ssrn.6246347](https://doi.org/10.2139/ssrn.6246347)
 
 `q3 · i?` · `causal · r3`
 

@@ -43,6 +43,6 @@ The review's synthesis concludes that "Developing professional learning communit
 
 
 ## Related Claims
-- [The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building](face-collaborative-fostered-collaborative-leadership-behaviors.md) — related
+- The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](coherence-alignment-student-experience-supports.md) — related
 - [Participating in scoring performance assessments builds teacher capacity in several ways](scoring-activities-build-teacher-capacity.md) — related

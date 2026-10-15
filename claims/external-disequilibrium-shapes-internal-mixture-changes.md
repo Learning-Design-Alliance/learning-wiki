@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Among low internal disequilibrium subjects in +1 and +2 conditions, Level Mixture increased from pretest to posttest and delayed posttest. [→ Snyder 1975](#snyder-1975)
@@ -63,9 +64,9 @@ Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of In
 
 ## Related Claims
 - [Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes](high-mixture-increases-regressive-changes.md) — related
-- [Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement](level-mixture-predicts-modal-level-advance.md) — related
+- Higher internal disequilibrium (Level Mixture) predicts Modal Level advance but not Map Drawing Mean improvement — related
 - [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](one-step-advance-regardless-of-discrepancy-size.md) — related
-- [Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level](discrepant-training-facilitates-map-drawing-advance.md) — related
-- [Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training](limited-transfer-from-discrepant-training.md) — related
-- [Positive Bias (more non-modal responses above than below the mode) distinguishes subjects likely to advance in Modal Level from those likely to consolidate](positive-bias-predicts-modal-level-advance.md) — related
-- [Conservation training stressing identity and reversibility improves conservation of quantity in nonconserving preschoolers](conservation-training-improves-conservation-preschoolers.md) — related
+- Training with maps one or two levels above the child's current level produces greater map drawing advance than training with maps at the child's own level — related
+- Discrepant training conditions (+1/+2) provided limited evidence of greater transfer to related spatial reasoning tasks than own-level training — related
+- Positive Bias (more non-modal responses above than below the mode) distinguishes subjects likely to advance in Modal Level from those likely to consolidate — related
+- Conservation training stressing identity and reversibility improves conservation of quantity in nonconserving preschoolers — related

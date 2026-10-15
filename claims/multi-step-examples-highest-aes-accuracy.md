@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: olga-manakina-2026
-    resource: "https://arxiv.org/abs/2608.23814"
-    title: "Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814"
+    resource: "https://doi.org/10.48550/arxiv.2608.23814"
+    title: "Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814 [doi:10.48550/arxiv.2608.23814](https://doi.org/10.48550/arxiv.2608.23814)"
     author: Olga Manakina, Igor Bogdanov
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Olga Manakina 2026
 
-Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814
+Olga Manakina, Igor Bogdanov. (2026). Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring. https://arxiv.org/abs/2608.23814 [doi:10.48550/arxiv.2608.23814](https://doi.org/10.48550/arxiv.2608.23814)
 
 `q2 · i?` · `causal · r1`
 

@@ -43,4 +43,4 @@ Quasi-experimental study during the 2023-24 academic year in a large parochial s
 
 
 ## Related Claims
-- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](wraparound-ses-subgroup-gains.md) — a narrower finding that bears on this claim
+- Wraparound SES math gains are notable for Hispanic, female, and Title I students — a narrower finding that bears on this claim

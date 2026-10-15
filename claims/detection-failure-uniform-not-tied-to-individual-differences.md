@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lixiang-yan-2026
-    resource: "https://arxiv.org/abs/2605.23426"
-    title: "Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic. (2026). Socially fluent AI decouples conversational signals from source identity in online interaction. https://arxiv.org/abs/2605.23426"
+    resource: "https://doi.org/10.48550/arxiv.2605.23426"
+    title: "Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic. (2026). Socially fluent AI decouples conversational signals from source identity in online interaction. https://arxiv.org/abs/2605.23426 [doi:10.48550/arxiv.2605.23426](https://doi.org/10.48550/arxiv.2605.23426)"
     author: Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lixiang Yan 2026
 
-Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic. (2026). Socially fluent AI decouples conversational signals from source identity in online interaction. https://arxiv.org/abs/2605.23426
+Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic. (2026). Socially fluent AI decouples conversational signals from source identity in online interaction. https://arxiv.org/abs/2605.23426 [doi:10.48550/arxiv.2605.23426](https://doi.org/10.48550/arxiv.2605.23426)
 
 `q3 · i?` · `causal · r2`
 
@@ -45,4 +45,4 @@ Participant-level d' estimates clustered near zero (mean d' = −0.012, SD = 0.6
 ## Related Claims
 - [Participants fail to distinguish undisclosed AI teammates from human teammates above chance in synchronous text-based group interaction](chance-level-ai-identity-detection-undisclosed-teammates.md) — a broader claim this one bears on
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
-- [Simulations show L* values at chance stay centered at zero even when one affective state's base rate is disproportionately high](l-star-chance-zero-nonuniform-base-rates-simulation.md) — related
+- Simulations show L* values at chance stay centered at zero even when one affective state's base rate is disproportionately high — related

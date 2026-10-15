@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: edpuzzle-evidence-summary-2025
-    resource: "https://www.edpuzzle.com"
-    title: "Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com"
+    resource: "https://doi.org/10.2139/ssrn.5265891"
+    title: "Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com [doi:10.2139/ssrn.5265891](https://doi.org/10.2139/ssrn.5265891)"
     author: Edpuzzle evidence summary
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Edpuzzle evidence summary 2025
 
-Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com
+Edpuzzle evidence summary. (2025). Edpuzzle. https://www.edpuzzle.com [doi:10.2139/ssrn.5265891](https://doi.org/10.2139/ssrn.5265891)
 
 `q2 · i?` · `causal · r?`
 
@@ -46,7 +46,7 @@ Additional analyses of the randomized study indicated "a positive dosage relatio
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Students who completed 80 or more Once sessions showed meaningfully larger literacy gains, suggesting dosage drives outcomes](once-dosage-80-sessions-larger-gains.md) — related
-- [Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample](booknook-dosage-20-sessions-stronger-effect.md) — related
+- Students who completed 80 or more Once sessions showed meaningfully larger literacy gains, suggesting dosage drives outcomes — related
+- Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample — related
 - [Edpuzzle Original math videos raise grades 3–5 mathematics achievement on the CAASPP (effect size +0.09)](edpuzzle-caaspp-math-effect-009.md) — related
 - [Edpuzzle qualifies for a Promising evidence rating based on one school-level randomized study](edpuzzle-promising-evidence-rating.md) — related

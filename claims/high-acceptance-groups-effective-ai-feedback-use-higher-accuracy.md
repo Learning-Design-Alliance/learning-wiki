@@ -43,7 +43,7 @@ Quantitative finding from the mixed methods study: overall acceptance of both so
 
 
 ## Related Claims
-- [Students in initial deployment perceived AI-assisted feedback as highly coherent and useful, with excellent usability acceptance](aicofe-initial-deployment-positive-perceptions.md) — related
+- Students in initial deployment perceived AI-assisted feedback as highly coherent and useful, with excellent usability acceptance — related
 - [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles](diagnostic-review-higher-process-indicators.md) — related
 - [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — related
 - [Group-by-cycle interactions were significant for diagnostic accuracy, comprehension, revision quality, and self-assessment accuracy, but not for actionability](group-cycle-interactions-formative-outcomes.md) — related

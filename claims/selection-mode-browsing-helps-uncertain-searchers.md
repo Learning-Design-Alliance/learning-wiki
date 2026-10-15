@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Continuous scrolling through alphabetical term lists is valuable because users do not always know the exact query term or author name. [→ Epstein 1994](#epstein-1994)
@@ -45,4 +46,4 @@ The authors' ergonomic analysis of the Entrez interface reports, from experience
 ## Related Claims
 - [Internet-based Entrez use grew dramatically in 1994 while CD-ROM subscriptions plateaued](internet-entrez-use-grew-cd-rom-plateaued.md) — related
 - [Some users prefer a single-form Boolean query interface to the original Entrez interface](single-form-boolean-query-preferred-by-some-users.md) — related
-- [Some users prefer to search by people groups, contexts and institutions rather than by subject categories, and some will not explore complex structures or long lists](some-users-prefer-people-contexts-institutions-over-subject-browsing.md) — related
+- Some users prefer to search by people groups, contexts and institutions rather than by subject categories, and some will not explore complex structures or long lists — related

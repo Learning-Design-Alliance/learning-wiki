@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yijun-liu-2026
-    resource: "https://arxiv.org/abs/2606.06271"
-    title: "Yijun Liu, Yifan Song, John Gallagher, Sarah Sterman, Tal August. (2026). FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays. https://arxiv.org/abs/2606.06271"
+    resource: "https://doi.org/10.48550/arxiv.2606.06271"
+    title: "Yijun Liu, Yifan Song, John Gallagher, Sarah Sterman, Tal August. (2026). FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays. https://arxiv.org/abs/2606.06271 [doi:10.48550/arxiv.2606.06271](https://doi.org/10.48550/arxiv.2606.06271)"
     author: Yijun Liu, Yifan Song, John Gallagher, Sarah Sterman, Tal August
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yijun Liu 2026
 
-Yijun Liu, Yifan Song, John Gallagher, Sarah Sterman, Tal August. (2026). FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays. https://arxiv.org/abs/2606.06271
+Yijun Liu, Yifan Song, John Gallagher, Sarah Sterman, Tal August. (2026). FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays. https://arxiv.org/abs/2606.06271 [doi:10.48550/arxiv.2606.06271](https://doi.org/10.48550/arxiv.2606.06271)
 
 `q2 · i?` · `associational · r2`
 

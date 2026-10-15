@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: siddhanth-sridhar-2026
-    resource: "https://arxiv.org/abs/2609.14408"
-    title: "Siddhanth Sridhar, Shreya Chaurasia, Baddela Sai Yaswantha Reddy, Deepak Parmar, and Dr. Shylaja S S. (2026). Dynamic Learning Solutions: A System for Personalized Educational Video Generation. arXiv preprint. https://arxiv.org/abs/2609.14408"
+    resource: "https://doi.org/10.48550/arxiv.2609.14408"
+    title: "Siddhanth Sridhar, Shreya Chaurasia, Baddela Sai Yaswantha Reddy, Deepak Parmar, and Dr. Shylaja S S. (2026). Dynamic Learning Solutions: A System for Personalized Educational Video Generation. arXiv preprint. https://arxiv.org/abs/2609.14408 [doi:10.48550/arxiv.2609.14408](https://doi.org/10.48550/arxiv.2609.14408)"
     author: Siddhanth Sridhar, Shreya Chaurasia, Baddela Sai Yaswantha Reddy, Deepak Parmar, and Dr. Shylaja S S.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Siddhanth Sridhar 2026
 
-Siddhanth Sridhar, Shreya Chaurasia, Baddela Sai Yaswantha Reddy, Deepak Parmar, and Dr. Shylaja S S. (2026). Dynamic Learning Solutions: A System for Personalized Educational Video Generation. arXiv preprint. https://arxiv.org/abs/2609.14408
+Siddhanth Sridhar, Shreya Chaurasia, Baddela Sai Yaswantha Reddy, Deepak Parmar, and Dr. Shylaja S S. (2026). Dynamic Learning Solutions: A System for Personalized Educational Video Generation. arXiv preprint. https://arxiv.org/abs/2609.14408 [doi:10.48550/arxiv.2609.14408](https://doi.org/10.48550/arxiv.2609.14408)
 
 `q1 · i?` · `design · r1`
 

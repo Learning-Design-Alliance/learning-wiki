@@ -49,4 +49,4 @@ The page describes a technical appendix documenting the "methodology behind the 
 - [Projections indicate students may return in fall 2020 with 37-50% of typical math learning gains](covid-closures-projected-math-gains-37-50-percent.md) — a narrower finding that bears on this claim
 - [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — related
 - [Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures](summer-learning-loss-insights-covid-closures.md) — possibly the same claim (merge candidate)
-- [Thirty-seven percent of the Elevate Math program effect is attributable to avoidance of summer learning loss through the first half of the summer](elevate-math-effect-third-summer-learning-loss-avoidance.md) — related
+- Thirty-seven percent of the Elevate Math program effect is attributable to avoidance of summer learning loss through the first half of the summer — related

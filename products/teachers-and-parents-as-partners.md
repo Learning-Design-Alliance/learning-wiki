@@ -18,7 +18,7 @@ sources:
 # Teachers and Parents as Partners
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A University of Nebraska–Lincoln family-school partnership intervention in which a school specialist, teacher, and parent jointly identify needs, set goals, implement an individualized plan, and monitor student progress.
@@ -28,10 +28,8 @@ A University of Nebraska–Lincoln family-school partnership intervention in whi
 - **Teachers and Parents as Partners (TAPP / Conjoint Behavioral Consultation)**: TAPP is a family-school partnership intervention developed at the University of Nebraska-Lincoln that addresses children's behavioral and academic challenges through an individualized approach. "Implementation of TAPP involves three meetings between an identified school specialist, teacher and parent with each meeting averaging 45-50 minutes," in which the specialist leads needs identification, goal setting, joint plan implementation, and progress monitoring. It has been extensively studied and implemented in rural communities where specialized support services are hard to access. (Teachers et al. (2012))
 
 ### Claims
-- [Direct classroom observations in the rural trial showed TAPP students exhibited more on-task and prosocial behavior and less off-task behavior](../claims/tapp-observation-on-task-prosocial-behavior-gains.md) [+W]
 - [TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)](../claims/tapp-rural-trial-behavior-problems-improvement.md) [+W]
 - [In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships](../claims/tapp-strengthens-parent-teacher-relationships.md) [+W]
-- [TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools)](../claims/tapp-teacher-reported-adaptive-behavior-social-skills-gains.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,10 +64,8 @@ TAPP is a family-school partnership intervention developed at the University of 
 
 ## Claims
 
-- [Direct classroom observations in the rural trial showed TAPP students exhibited more on-task and prosocial behavior and less off-task behavior](../claims/tapp-observation-on-task-prosocial-behavior-gains.md) [+W]
 - [TAPP improves school-related behavioral problems per teacher ratings in the rural trial (effect size = +0.45)](../claims/tapp-rural-trial-behavior-problems-improvement.md) [+W]
 - [TAPP strengthens teacher-reported family-school relationships in both trials, with parent-reported gains appearing in the rural trial](../claims/tapp-strengthens-parent-teacher-relationships.md) [+W]
-- [TAPP improves teacher-reported student adaptive behavior and social skills in K–3 students with disruptive behaviors (RCT, 21 elementary schools)](../claims/tapp-teacher-reported-adaptive-behavior-social-skills-gains.md) [+W]
 
 ## Related Elements
 

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Relaxing and fun were the most frequent codes in students' general views on using games to develop speaking skills. [→ Ismayilli 2025](#ismayilli-2025)
@@ -43,7 +44,7 @@ Content analysis of general views on games (Table 1) found relaxing and fun were
 
 
 ## Related Claims
-- [Class mood and peer participation moderated one learner's willingness to speak in class](class-mood-moderates-willingness-to-speak.md) — related
-- [Students most frequently attribute fluency and pronunciation gains to games](games-fluency-pronunciation-perceived-gains.md) — related
+- Class mood and peer participation moderated one learner's willingness to speak in class — related
+- Students most frequently attribute fluency and pronunciation gains to games — related
 - [Students report games make the classroom atmosphere fun and increase participation](games-fun-atmosphere-participation.md) — related
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related

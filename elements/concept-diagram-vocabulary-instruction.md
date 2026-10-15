@@ -17,7 +17,7 @@ sources:
 # Concept diagram for vocabulary instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A graphic organizer used as the study's independent variable. The concept model "utilized a diagram encompassing the vocabulary word, the definition and characteristics, and examples and non-examples." During intervention the teacher presented a blank diagram, wrote the word and its definition, then elicited and listed characteristics that were always, sometimes, and never present, followed by examples and non-examples linked to those characteristics. Paper copies and overhead transparencies of the diagrams were the core materials.
@@ -40,8 +40,6 @@ A graphic organizer used as the study's independent variable. The concept model 
 ## Claims
 
 - [The concept model of vocabulary instruction produced larger gains in content-area vocabulary test performance than the definition/sentence-writing model for all six middle school students with learning disabilities](../claims/concept-model-beats-definition-model-vocabulary-ld.md) [+W]
-- [Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams](../claims/high-student-satisfaction-concept-diagrams.md) [+W]
-- [After concept-model instruction, students' posttest vocabulary scores ranged from 57.78% to 82.22% correct, compared with pretest scores of 0% to 8.89%](../claims/posttest-gains-pretest-to-posttest-concept-model.md) [+W]
 
 ## Related Elements
 - 

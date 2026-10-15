@@ -62,5 +62,5 @@ The brief reports workforce diversification as a program outcome: 67% of TK–3 
 
 
 ## Related Claims
-- [Fresno’s Skillful Leader Project improved teacher retention and hiring](skillful-leader-project-retention-hiring.md) — related
+- Fresno’s Skillful Leader Project improved teacher retention and hiring — related
 - [UCLA's IMPACT early childhood pathway prepared 50 fully licensed teachers across four cohorts, with 87% retained in the district for at least 3 years](ucla-impact-ece-50-teachers-87-percent-retained.md) — related

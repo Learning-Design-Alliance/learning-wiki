@@ -17,7 +17,7 @@ sources:
 # Welcome new students in foster care with buddy support and quick, low-burden informal assessments, while treating late records with caution
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 associational, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because students in foster care experience many mid-year "first days," teachers adapt ordinary new-student practices (assigning a buddy, extra one-on-one time, learning interests) and use quick assessments to gauge level and progress. Teachers used a wide variety of assessments, from district-wide formal tools to informal ones such as having a new student read aloud or write a paragraph about herself; the report lists tools in Appendix B that shared the characteristics of being "timely, quick, and placing a relatively low burden on both teacher and student."
@@ -39,7 +39,6 @@ Because students in foster care experience many mid-year "first days," teachers 
 
 ## Claims
 
-- [Teachers report that students in foster care arrive with fragmented academic histories, late records, and — in high school — no partial credits after mid-semester school changes](../claims/academic-gaps-late-records-partial-credits.md) [+W]
 - [Arizona students in foster care changed schools during the school year at about four times the rate of other students](../claims/foster-care-high-school-mobility-arizona.md) [+W]
 
 ## Related Strategies

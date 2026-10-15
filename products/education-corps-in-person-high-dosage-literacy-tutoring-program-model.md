@@ -18,7 +18,7 @@ sources:
 # Education Corps in-person high-dosage literacy tutoring program model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Education Corps runs an in-person, high-dosage literacy tutoring programme that trains community tutors and supports them with Learning Coaches to provide small-group instruction for below-benchmark K–5 students, especially in grades K–3.
@@ -27,11 +27,6 @@ Education Corps runs an in-person, high-dosage literacy tutoring programme that 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction](../claims/education-corps-boys-gains-girls-near-zero.md) [~M]
-- [Education Corps tutoring effects are stronger for students who were not chronically absent (+0.21)](../claims/education-corps-effects-stronger-non-chronically-absent.md) [~W]
-- [Among third graders, Education Corps tutoring showed a positive but non-significant effect on the state End-of-Grade reading assessment (+0.13)](../claims/education-corps-eog-reading-non-significant.md) [+W]
-- [Education Corps tutoring gains appeared early, with a mid-year effect size of +0.17](../claims/education-corps-mid-year-gains-positive.md) [+W]
-- [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](../claims/education-corps-tutoring-improves-dibels-composite.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,11 +61,6 @@ Education Corps partners with school districts to deliver "in-person high-dosage
 
 ## Claims
 
-- [Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction](../claims/education-corps-boys-gains-girls-near-zero.md) [~M]
-- [Education Corps tutoring effects are stronger for students who were not chronically absent (+0.21)](../claims/education-corps-effects-stronger-non-chronically-absent.md) [~W]
-- [Among third graders, Education Corps tutoring showed a positive but non-significant effect on the state End-of-Grade reading assessment (+0.13)](../claims/education-corps-eog-reading-non-significant.md) [+W]
-- [Education Corps tutoring gains appeared early, with a mid-year effect size of +0.17](../claims/education-corps-mid-year-gains-positive.md) [+W]
-- [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](../claims/education-corps-tutoring-improves-dibels-composite.md) [+W]
 
 ## Related Elements
 

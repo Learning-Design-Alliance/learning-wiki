@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: jie-cao-2026
-    resource: "https://arxiv.org/abs/2604.07469"
-    title: "Jie Cao, Chloe Qianhui Zhao, Christian Schunn, Elizabeth A. McLaughlin, Jionghao Lin, Kenneth R. Koedinger. (2026). Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning. arXiv. https://arxiv.org/abs/2604.07469"
+    resource: "https://doi.org/10.48550/arxiv.2604.07469"
+    title: "Jie Cao, Chloe Qianhui Zhao, Christian Schunn, Elizabeth A. McLaughlin, Jionghao Lin, Kenneth R. Koedinger. (2026). Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning. arXiv. https://arxiv.org/abs/2604.07469 [doi:10.48550/arxiv.2604.07469](https://doi.org/10.48550/arxiv.2604.07469)"
     author: Jie Cao, Chloe Qianhui Zhao, Christian Schunn, Elizabeth A. McLaughlin, Jionghao Lin, Kenneth R. Koedinger
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jie Cao 2026
 
-Jie Cao, Chloe Qianhui Zhao, Christian Schunn, Elizabeth A. McLaughlin, Jionghao Lin, Kenneth R. Koedinger. (2026). Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning. arXiv. https://arxiv.org/abs/2604.07469
+Jie Cao, Chloe Qianhui Zhao, Christian Schunn, Elizabeth A. McLaughlin, Jionghao Lin, Kenneth R. Koedinger. (2026). Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning. arXiv. https://arxiv.org/abs/2604.07469 [doi:10.48550/arxiv.2604.07469](https://doi.org/10.48550/arxiv.2604.07469)
 
 `q3 · i?` · `causal · r2`
 

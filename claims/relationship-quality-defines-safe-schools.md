@@ -63,7 +63,7 @@ The report finds that "disadvantaged schools with high-quality relationships act
 
 ## Related Claims
 - [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](adult-supervision-safety-gradient.md) — related
-- [Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately](parent-partnerships-and-climate-predict-teacher-staying.md) — related
+- Teachers are more likely to stay in schools where parents support their work and where students feel safe and peers behave appropriately — related
 - [Parents of students with IEPs share a common vision of an ideal school that is safe, supportive, academically strong, and inclusive with needed supports](iep-parents-shared-ideal-school-vision.md) — related
 - [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](all-staff-family-communication-channels.md) — related
 - [Social trust predicts which urban schools improve, and trust is built by reducing staff vulnerability](social-trust-vulnerability-school-change.md) — related
@@ -74,4 +74,4 @@ The report finds that "disadvantaged schools with high-quality relationships act
 - [Compass Care participants reported trusting relationships with staff that improved students' comfort, safety, and emotional expression at school](compass-care-trusting-relationships-wellbeing.md) — a narrower finding that bears on this claim
 - [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — related
 - [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — related
-- [Students and families of color define success as encompassing social-emotional well-being and competence, not just academic or career outcomes](sead-success-includes-sel-wellbeing.md) — related
+- Students and families of color define success as encompassing social-emotional well-being and competence, not just academic or career outcomes — related

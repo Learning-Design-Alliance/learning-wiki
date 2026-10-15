@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: dawid-ratajczyk-2026
-    resource: "https://osf.io/59qtm/"
-    title: "Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/"
+    resource: "https://doi.org/10.31234/osf.io/83jum_v1"
+    title: "Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/ [doi:10.31234/osf.io/83jum_v1](https://doi.org/10.31234/osf.io/83jum_v1)"
     author: Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek
     q: 3
     i: 1
@@ -31,7 +31,7 @@ sources:
 
 ### Dawid Ratajczyk 2026
 
-Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/
+Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wiącek. (2026). Thinking With AI, Reasoning Without It: Cognitive Offloading to Generative AI Weakens Effort Regulation. Preprint. https://osf.io/59qtm/ [doi:10.31234/osf.io/83jum_v1](https://doi.org/10.31234/osf.io/83jum_v1)
 
 `q3 · i1` · `causal · r3`
 
@@ -45,6 +45,6 @@ Two-way robust ANOVA on perceived difficulty of the Stage 3 memory test in the l
 ## Related Claims
 - [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](chatgpt-flatter-mental-effort-trajectory.md) — related
 - [GenAI access reduces perceived difficulty of the assisted reasoning task](genai-reduces-perceived-task-difficulty.md) — related
-- [Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code](genai-usage-clusters-perceptions-difficulty-trust.md) — related
+- Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code — related
 - [Prior genAI use and incentives show no clear effects on later memory retention](genai-no-clear-memory-effect.md) — related
 - [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](genai-weakens-effort-adjustment-to-incentives.md) — related

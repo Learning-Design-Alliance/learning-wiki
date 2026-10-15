@@ -18,7 +18,7 @@ sources:
 # PECAS Mediator
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A research-prototype remote-instruction tool developed by Chang et al. that uses AI to identify unproductive online teamwork and alert instructors with intervention hints.
@@ -27,7 +27,6 @@ A research-prototype remote-instruction tool developed by Chang et al. that uses
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](../claims/covid-stem-collaboration-reduced-remote.md) [+W]
 - [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](../claims/collaboration-interest-belonging-worse-online.md) [+W]
 
 ## Related Products and Programmes
@@ -65,7 +64,6 @@ The Productive Engagement through Collaborative Action and Sociology (PECAS) Med
 
 ## Claims
 
-- [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](../claims/covid-stem-collaboration-reduced-remote.md) [+W]
 - [Students most often rated collaboration opportunities, content interest, and class belonging as worse online](../claims/collaboration-interest-belonging-worse-online.md) [+W]
 
 ## Related Elements

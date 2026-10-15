@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: carver-thomas-2018
-    resource: "https://learningpolicyinstitute.org/product/diversifying-teaching-profession"
-    title: "Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession"
+    resource: "https://doi.org/10.54300/559.310"
+    title: "Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession [doi:10.54300/559.310](https://doi.org/10.54300/559.310)"
     author: Carver-Thomas, D.
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Students of color show fewer absences and less exclusionary discipline when taught by race-matched teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Evidence** · 2 studies · 2 associational `r?` · `q2`
 
 ## Subclaims
 `q2 i?` North Carolina k–5 data (2006–2010) showed students with teachers of another race had more unexcused absences and greater likelihood of chronic absenteeism than race-matched students, with boys of color taught by White teachers most affected. [→ Carver-Thomas 2018](#carver-thomas-2018)
@@ -40,7 +40,7 @@ sources:
 
 ### Carver-Thomas 2018
 
-Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession
+Carver-Thomas, D. (2018). Diversifying the teaching profession: How to recruit and retain teachers of color. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/diversifying-teaching-profession [doi:10.54300/559.310](https://doi.org/10.54300/559.310)
 
 `q2 · i?` · `associational · r?`
 
@@ -63,4 +63,4 @@ The review reports a study of North Carolina elementary, middle, and high school
 
 ## Related Claims
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — possibly the same claim (merge candidate)
-- [North Carolina's teacher workforce is far less racially diverse than its student population](nc-teacher-student-diversity-gap.md) — related
+- North Carolina's teacher workforce is far less racially diverse than its student population — related

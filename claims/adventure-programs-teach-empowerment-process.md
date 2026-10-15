@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The paper proposes that adventure-based programs may be designed both to realise group objectives and to teach participants a process they can apply to a wide range of areas in their lives. [→ Hyde-Hills 1998](#hyde-hills-1998)

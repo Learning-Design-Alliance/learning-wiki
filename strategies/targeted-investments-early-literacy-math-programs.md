@@ -17,7 +17,7 @@ sources:
 # Targeted investments in early literacy and math programs for the youngest students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The brief closes by recommending targeted investment in early-grade literacy and math programming in response to pandemic-era achievement losses. It states: "These results highlight the need for targeted investments in early literacy and math programs to ensure that our youngest students can develop these essential skills." The recommendation rests on the brief's findings that grades 1–2 achievement remains substantially below historical levels and that marginalized and economically disadvantaged students lost the most ground.
@@ -39,7 +39,6 @@ The brief closes by recommending targeted investment in early-grade literacy and
 
 ## Claims
 
-- [COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic](../claims/covid-losses-concentrated-early-grades-struggling-students.md) [+W]
 
 ## Related Strategies
 

@@ -45,5 +45,5 @@ The review reports that across prior reviews and recent studies, "students and t
 
 ## Related Claims
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — related
-- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — a broader claim this one bears on
+- The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — a broader claim this one bears on
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related

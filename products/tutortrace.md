@@ -13,7 +13,7 @@ generated:
 # TutorTrace
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 TutorTrace is a dataset and taxonomy developed by its authors that uses IDE telemetry to classify introductory Python learners' behavioral states around AI help-seeking and support tutor interventions.

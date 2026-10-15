@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Seven of nineteen teachers without mentors (37%) reached the impact level in the third interview versus four of twenty teachers with mentors (20%), leading the authors to question whether mentors inhibited mentee development. [→ Olsen 1990](#olsen-1990)
@@ -44,13 +45,13 @@ Discussion-section comparison across the study's four volunteer groups, contrast
 ## Related Claims
 
 - [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](stages-of-concern-developmental-trend.md) — the general claim this finding bears on, with the studies behind it
-- [Discipline concerns declined for all four teacher groups over the school year](discipline-concern-declines-all-groups.md) — related
-- [Mentors' roles and practices differ by program context: local guides versus educational companions](mentor-context-shapes-local-guide-or-educational-companion.md) — related
-- [First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year](mentored-first-year-teachers-follow-fuller-progression.md) — related
-- [Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly](reentry-without-mentors-greatest-fuller-progress.md) — a narrower finding that bears on this claim
+- Discipline concerns declined for all four teacher groups over the school year — related
+- Mentors' roles and practices differ by program context: local guides versus educational companions — related
+- First-year teachers with mentors declined in self and task concerns and increased impact concerns over the school year — related
+- Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly — a narrower finding that bears on this claim
 - [Teacher concern development is better characterized as progression and retreat than linear stage movement](teacher-concern-progression-and-retreat.md) — related
-- [Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models](prior-experience-barriers-to-new-management-models.md) — related
+- Previous knowledge and management experiences can inhibit new teachers' learning of new classroom management models — related
 - [First-year teachers without mentors declined in self and impact concerns but task concerns stayed at 50%](unmentored-first-year-task-concerns-flat.md) — related
-- [People come first: places, policies, and programs should be altered when they inhibit people's development](people-come-first-invitational-schools.md) — related
-- [Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs](teacher-big-picture-genai-concerns.md) — related
+- People come first: places, policies, and programs should be altered when they inhibit people's development — related
+- Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [The New Teacher Support Program reaches fewer than 10 percent of beginning teachers, far below the statewide mentoring program that reached all beginning teachers in the 1990s](nc-new-teacher-support-reaches-under-ten-percent.md) — related

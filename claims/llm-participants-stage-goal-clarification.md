@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: seo-2026
-    resource: "https://arxiv.org/abs/2609.11529"
-    title: "Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529"
+    resource: "https://doi.org/10.48550/arxiv.2609.11529"
+    title: "Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529 [doi:10.48550/arxiv.2609.11529](https://doi.org/10.48550/arxiv.2609.11529)"
     author: "Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 1 qualitative `r?`, 1 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Participants reported that LLM participant agents were helpful in clarifying the purpose of each discussion stage, maintaining focus when conversations went off-topic, and prompting deeper ethical reflection through their questions. [→ Seo 2026](#seo-2026)
@@ -39,7 +39,7 @@ sources:
 
 ### Seo 2026
 
-Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529
+Seo, Y., Jang, S., Park, H., Gutierrez, R. S., Seering, J., & Lee, U. (2026). Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration. https://arxiv.org/abs/2609.11529 [doi:10.48550/arxiv.2609.11529](https://doi.org/10.48550/arxiv.2609.11529)
 
 `q2 · i?` · `qualitative · r?`
 

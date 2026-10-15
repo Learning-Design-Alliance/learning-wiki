@@ -18,7 +18,7 @@ sources:
 # Digital Promise Product Certifications Pilot
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 qualitative, 1 design), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Digital Promise pilot initiative that certifies education technology products designed and developed using learning-sciences research to support more informed product selection.
@@ -28,8 +28,6 @@ A Digital Promise pilot initiative that certifies education technology products 
 - **Digital Promise Product Certifications Pilot and Learning Sciences Research-Based Design certification**: The Product Certifications Pilot is a third-party market signal intended to help education leaders, educators, and product investors quickly determine whether an edtech product was designed and developed with learning sciences research. The report announces that in fall 2019 Digital Promise will "pilot our first product certification, Learning Sciences Research-Based Design," aimed at disrupting how edtech is chosen by certifying products grounded in learning sciences research. (Sierra Noakes (2019))
 
 ### Claims
-- [Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection](../claims/edtech-product-information-scarce-untrustworthy.md) [+W]
-- [Stakeholders report that education leaders, educators, and investors lack common language or indicators to assess edtech quality, hindering evidence-based decisions](../claims/no-common-standards-edtech-quality-assessment.md) [+W]
 - [The report calls for reframing edtech certification applications to help developers identify equity gaps in the research they use](../claims/certification-equity-gap-reframing.md) [+W]
 
 ## Related Products and Programmes
@@ -66,8 +64,6 @@ The Product Certifications Pilot is a third-party market signal intended to help
 
 ## Claims
 
-- [Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection](../claims/edtech-product-information-scarce-untrustworthy.md) [+W]
-- [Stakeholders report that education leaders, educators, and investors lack common language or indicators to assess edtech quality, hindering evidence-based decisions](../claims/no-common-standards-edtech-quality-assessment.md) [+W]
 - [The report calls for reframing edtech certification applications to help developers identify equity gaps in the research they use](../claims/certification-equity-gap-reframing.md) [+W]
 
 ## Related Elements

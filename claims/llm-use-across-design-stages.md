@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tseng-2026
-    resource: "https://arxiv.org/abs/2607.06721"
-    title: "Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721"
+    resource: "https://doi.org/10.48550/arxiv.2607.06721"
+    title: "Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721 [doi:10.48550/arxiv.2607.06721](https://doi.org/10.48550/arxiv.2607.06721)"
     author: Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tseng 2026
 
-Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721
+Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721 [doi:10.48550/arxiv.2607.06721](https://doi.org/10.48550/arxiv.2607.06721)
 
 `q2 · i?` · `design · r2`
 
@@ -48,6 +48,6 @@ Log analysis from the lab study (n=9). The article concludes "participants used 
 - [Novice creative coders exhibited three distinct initial interaction patterns with Flowcode: flowchart-first, code-first, and prompt-first](three-interaction-patterns-flowcode.md) — related
 - [In the pilot workshop, the LLM unreliably produced fill-in-the-blank snippets, often returning complete code solutions instead](pilot-llm-unreliable-fill-in-blank.md) — related
 - [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — related
-- [Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use](cs1-ai-usage-shift-debugging.md) — related
+- Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related
 - [Secondary students most frequently use generative AI for step-by-step theoretical explanation and for checking their own solutions, more than for calculations](ai-as-explanation-scaffold-verification-secondary-stem.md) — related
 - [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related

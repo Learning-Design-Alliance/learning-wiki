@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The major functional assumption distinguishing the functional from the structural perspective is that cognition is transient and created by distributed neural functioning, an assumption the authors say is supported by neurophysiological evidence. [→ Iran-Nejad 1982](#iran-nejad-1982)
@@ -44,6 +45,5 @@ Theoretical argument in the paper's introductory section, citing neuroscientific
 
 ## Related Claims
 
-- [The nervous system is hypothesized to include an all-spreading nondirectional relational medium alongside directional connections](all-spreading-nondirectional-relational-medium.md) — related
+- The nervous system is hypothesized to include an all-spreading nondirectional relational medium alongside directional connections — related
 - [Early training produces neural and physiological adaptations that can be misattributed to innate talent](early-training-adaptations-misread-as-talent.md) — related
-- [Comprehension and recognition need not draw on permanent mental representations: recognition occurs via shared functional elements across schema-of-the-moments](recognition-without-permanent-representations.md)

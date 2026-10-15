@@ -42,12 +42,14 @@ Thematic analysis of semi-structured interviews conducted in spring 2023 with 21
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What keeps a co-created arrangement going after the pilot: handing facilitation over, embedding it in standing structures, or the people who championed it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **5 distinct studies** (4 qualitative, 1 theoretical), `q1`–`q2`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*What keeps a co-created arrangement going after the pilot: handing facilitation over, embedding it in standing structures, or the people who championed it?* This table gathers the studies behind this claim and the 6 narrower claims that bear on it: **7 distinct studies** (6 qualitative, 1 theoretical), `q1`–`q2`, 0 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Viki M. Young 2024 | q2 · qualitative · r2 | i? | this claim; [Educators sustained the student voice and leadership tenet by incorporating student input ](student-voice-tenet-sustained-educator-practice.md) (supports); [Participants identified staff turnover as a critical factor threatening sustainability of ](turnover-threatens-sustainability-inclusive-innovation.md) (qualifies) |
-| Latia P. White 2026 | q2 · qualitative · r2 | i? | [Deeper co-leadership emerges when staff support lets partners progressively take on respon](calibrated-support-co-leadership.md) (supports) |
+| Viki M. Young 2024 | q2 · qualitative · r2 | i? | this claim |
+| [Latia P. White 2026](https://doi.org/10.51388/20.500.12265/315) | q2 · qualitative · r2 | i? | [Deeper co-leadership emerges when staff support lets partners progressively take on respon](calibrated-support-co-leadership.md) (supports) |
+| Latia P. White 2026 (2) | q2 · qualitative · r2 | i? | [Deeper co-leadership emerges when staff support lets partners progressively take on respon](calibrated-support-co-leadership.md) (supports) |
+| [Viki M. Young 2024](https://doi.org/10.51388/20.500.12265/213) | q2 · qualitative · r2 | i? | [Educators sustained the student voice and leadership tenet by incorporating student input ](student-voice-tenet-sustained-educator-practice.md) (supports); [Participants identified staff turnover as a critical factor threatening sustainability of ](turnover-threatens-sustainability-inclusive-innovation.md) (qualifies) |
 | Wiles 1986 | q1 · theoretical · r2 | i? | [A standing committee structure sustains middle school change despite personnel turnover](committee-structure-sustains-change-despite-turnover.md) (supports) |
 | Johnson 2026 | q1 · qualitative · r3 | i? | [The article argues the durability of the WSS co-design approach depends on institutionaliz](wss-sustainability-requires-institutionalization.md) (supports) |
 | [barrier-themes](https://doi.org/10.51388/20.500.12265/214) | q2 · qualitative · r2 | i? | [Core Teams identified communication challenges, school and district leadership turnover, a](inclusive-innovation-implementation-barriers.md) (qualifies) |

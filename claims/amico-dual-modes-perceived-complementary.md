@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: pier-paolo-benedetti-2026
-    resource: "https://arxiv.org/abs/2605.20665"
-    title: "Pier Paolo Benedetti. (2026). Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China. Accepted at the 2026 International Conference on Artificial Intelligence and Education (ICAIE 2026), IEEE. https://arxiv.org/abs/2605.20665"
+    resource: "https://doi.org/10.48550/arxiv.2605.20665"
+    title: "Pier Paolo Benedetti. (2026). Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China. Accepted at the 2026 International Conference on Artificial Intelligence and Education (ICAIE 2026), IEEE. https://arxiv.org/abs/2605.20665 [doi:10.48550/arxiv.2605.20665](https://doi.org/10.48550/arxiv.2605.20665)"
     author: Pier Paolo Benedetti
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Pier Paolo Benedetti 2026
 
-Pier Paolo Benedetti. (2026). Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China. Accepted at the 2026 International Conference on Artificial Intelligence and Education (ICAIE 2026), IEEE. https://arxiv.org/abs/2605.20665
+Pier Paolo Benedetti. (2026). Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China. Accepted at the 2026 International Conference on Artificial Intelligence and Education (ICAIE 2026), IEEE. https://arxiv.org/abs/2605.20665 [doi:10.48550/arxiv.2605.20665](https://doi.org/10.48550/arxiv.2605.20665)
 
 `q2 · i?` · `design · r2`
 
@@ -45,7 +45,7 @@ Descriptive analysis of post-interaction questionnaires and qualitative feedback
 ## Related Claims
 - [Preferred emphasis between the two Amico modes differed by context: Italian participants emphasized reflective dialogue while Chinese participants emphasized relational harmony, with AmicoMio valued for technical reliability](amico-cross-context-mode-preferences-differ.md) — related
 - [Observable indicators showed micro-action completion was higher with structured task-clarity prompts and communicative autonomy improved particularly after AmicoTuo sessions, while transition-to-human follow-through was not quantified](amico-indicator-patterns-micro-actions-autonomy.md) — related
-- [Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning](structure-variables-correlated-learning.md) — a broader claim this one bears on
+- Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning — a broader claim this one bears on
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
 - [In an exploratory Italy–China pilot, participants engaged with the Amico system as a bounded supportive mediation and no major misunderstandings of system identity were observed](amico-pilot-identity-transparency-accepted.md) — related
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related

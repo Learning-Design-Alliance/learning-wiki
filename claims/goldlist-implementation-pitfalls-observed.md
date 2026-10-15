@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: john-duplice-2022
-    resource: "https://iafor.org/journal/iafor-journal-of-education/"
-    title: "John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/"
+    resource: "https://doi.org/10.22492/ije.10.1.05"
+    title: "John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/ [doi:10.22492/ije.10.1.05](https://doi.org/10.22492/ije.10.1.05)"
     author: John Duplice
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### John Duplice 2022
 
-John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/
+John Duplice. (2022). The GoldList Notebook Method: A Study on L2 Vocabulary Learning. IAFOR Journal of Education: Language Learning in Education, Volume 10 – Issue 1. https://iafor.org/journal/iafor-journal-of-education/ [doi:10.22492/ije.10.1.05](https://doi.org/10.22492/ije.10.1.05)
 
 `q2 · i?` · `causal · r1`
 

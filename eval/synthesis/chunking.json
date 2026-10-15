@@ -141,14 +141,6 @@
           "+"
         ],
         [
-          "chunking-method-high-retention",
-          "~"
-        ],
-        [
-          "cpc-correlation-nonsignificant-chunking",
-          "~"
-        ],
-        [
           "cpc-difference-delayed-posttest-only",
           "~"
         ]

@@ -63,7 +63,7 @@ Spotlight interview: Willow's data-based learning cycle paired teacher action pl
 
 ## Related Claims
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related
-- [Coursemojo's color-coded engagement dots served as a real-time diagnostic that coaches reported enabled in-the-moment scaffolding and small group pulls](engagement-dots-realtime-diagnostic-small-groups.md) — related
+- Coursemojo's color-coded engagement dots served as a real-time diagnostic that coaches reported enabled in-the-moment scaffolding and small group pulls — related
 - [Interviewees most frequently cited the absence of coaching and professional learning support after initial installation as the source of implementation variation](coaching-absence-undermines-hqim-implementation.md) — related
-- [Coaches reported that usage dashboards grounded coaching conversations in evidence rather than perception and prompted reality checks on implementation](dashboards-evidence-based-coaching-conversations.md) — a broader claim this one bears on
+- Coaches reported that usage dashboards grounded coaching conversations in evidence rather than perception and prompted reality checks on implementation — a broader claim this one bears on
 - [Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement](ri-charter-dashboards-reduced-surprise-stress.md) — related

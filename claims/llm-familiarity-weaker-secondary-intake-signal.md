@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yongkyung-oh-2026
-    resource: "https://arxiv.org/abs/2606.18548"
-    title: "Yongkyung Oh, Lynn Talton, Alex Bui. (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. KDD 2026 AI for Education Day, at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26). https://arxiv.org/abs/2606.18548"
+    resource: "https://doi.org/10.48550/arxiv.2606.18548"
+    title: "Yongkyung Oh, Lynn Talton, Alex Bui. (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. KDD 2026 AI for Education Day, at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26). https://arxiv.org/abs/2606.18548 [doi:10.48550/arxiv.2606.18548](https://doi.org/10.48550/arxiv.2606.18548)"
     author: Yongkyung Oh, Lynn Talton, Alex Bui
     q: 2
     i: 2
@@ -30,7 +30,7 @@ sources:
 # Self-rated LLM familiarity is a weaker secondary intake signal, surviving Holm correction for three of five outcomes with a bottom-anchored pattern
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2` medium
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2` · `i2` medium
 
 ## Subclaims
 `q2 i2` Self-rated familiarity survives Holm correction for distinguishing capability (ρ=.294), complex-task trust (ρ=.278), and critical-thinking risk (ρ=−.254), but not for accuracy trust or training interest. [→ Yongkyung Oh 2026](#yongkyung-oh-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yongkyung Oh 2026
 
-Yongkyung Oh, Lynn Talton, Alex Bui. (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. KDD 2026 AI for Education Day, at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26). https://arxiv.org/abs/2606.18548
+Yongkyung Oh, Lynn Talton, Alex Bui. (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. KDD 2026 AI for Education Day, at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26). https://arxiv.org/abs/2606.18548 [doi:10.48550/arxiv.2606.18548](https://doi.org/10.48550/arxiv.2606.18548)
 
 `q2 · i2` · `associational · r2`
 

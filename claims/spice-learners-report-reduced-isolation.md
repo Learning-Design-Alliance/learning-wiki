@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Learners say they no longer feel isolated despite being at home far from other learners, and some describe the Center as fun and socially rewarding. [→ Technology and Family Literacy Case Study: SPICE 2012](#technology-and-family-literacy-case-study-spice-2012)
@@ -46,4 +47,4 @@ Qualitative case-study reporting of learner experience, illustrated with student
 - [Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities](online-communities-must-be-designed-and-scaffolded.md) — the general claim this finding bears on, with the studies behind it
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — a broader claim this one bears on
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
-- [Since the RSU 3 Virtual Learning Center went live in 2012, SPICE has seen an increase of more than 1,000 percent in learner hours and more than 254 percent in students served](spice-virtual-center-growth-hours-students.md) — related
+- Since the RSU 3 Virtual Learning Center went live in 2012, SPICE has seen an increase of more than 1,000 percent in learner hours and more than 254 percent in students served — related

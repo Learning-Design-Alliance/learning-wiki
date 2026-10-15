@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: emily-wolk-2018
-    resource: "https://www.nwea.org/research-publications/"
-    title: "Emily Wolk, Sharon Bi, Tran Keys. (2018). Are test and academic disengagement related? Implications for measurement and practice. Educational Assessment 24(2), 119-134. https://www.nwea.org/research-publications/"
+    resource: "https://doi.org/10.1080/10627197.2019.1575723"
+    title: "Emily Wolk, Sharon Bi, Tran Keys. (2018). Are test and academic disengagement related? Implications for measurement and practice. Educational Assessment 24(2), 119-134. https://www.nwea.org/research-publications/ [doi:10.1080/10627197.2019.1575723](https://doi.org/10.1080/10627197.2019.1575723)"
     author: Emily Wolk, Sharon Bi, Tran Keys
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Emily Wolk 2018
 
-Emily Wolk, Sharon Bi, Tran Keys. (2018). Are test and academic disengagement related? Implications for measurement and practice. Educational Assessment 24(2), 119-134. https://www.nwea.org/research-publications/
+Emily Wolk, Sharon Bi, Tran Keys. (2018). Are test and academic disengagement related? Implications for measurement and practice. Educational Assessment 24(2), 119-134. https://www.nwea.org/research-publications/ [doi:10.1080/10627197.2019.1575723](https://doi.org/10.1080/10627197.2019.1575723)
 
 `q2 · i?` · `associational · r?`
 
@@ -58,4 +58,4 @@ The study analyzed whether academic disengagement indicators (chronic absenteeis
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related
 - [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — related
 - [Test effort differs substantially by student subgroup, with males rapidly guessing nearly twice as often as females in later grades and Black students rapidly guessing more often than White students](test-effort-differs-by-subgroup-rapid-guessing.md) — related
-- [Students who have experienced three or more ACEs are more likely to experience chronic absenteeism, behavioral problems, and academic failure](three-or-more-aces-absenteeism-behavior-failure.md) — related
+- Students who have experienced three or more ACEs are more likely to experience chronic absenteeism, behavioral problems, and academic failure — related

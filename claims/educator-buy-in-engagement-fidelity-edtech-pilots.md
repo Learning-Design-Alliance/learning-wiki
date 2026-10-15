@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In Onslow, teachers' limited voice in tool selection and implementation contributed to low usage and negative feelings about the tool. [→ Luke 2016](#luke-2016)
@@ -63,9 +64,9 @@ Discussion section example: Highline teachers who reviewed and recommended Ratio
 ## Related Claims
 
 - [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](magic-bullet-risk-selection-without-needs-assessment.md) — the general claim this finding bears on, with the studies behind it
-- [In the Onslow Mathspace pilot, student benchmark scores decreased over the pilot period, a change that was not statistically significant](onslow-mathspace-scores-decreased-not-significant.md) — related
+- In the Onslow Mathspace pilot, student benchmark scores decreased over the pilot period, a change that was not statistically significant — related
 - [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related
-- [Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners](student-pace-and-engagement-varies-by-skill-level.md) — related
-- [At the end of the pilots, three-quarters of Mathspace teachers and all Ratio Rancher teachers said they would recommend the tool to a colleague](teachers-would-recommend-piloted-math-tools.md) — related
+- Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners — related
+- At the end of the pilots, three-quarters of Mathspace teachers and all Ratio Rancher teachers said they would recommend the tool to a colleague — related
 - [Limited device access and a six-month engagement constrained some Board members' contributions, with one member reporting expectations were not met](pab-device-access-limitations.md) — related
 - [Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools](assistments-sole-tool-early-trends.md) — related

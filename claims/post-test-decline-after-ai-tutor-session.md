@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rania-abdelghani-2026
-    resource: "https://arxiv.org/abs/2606.08568"
-    title: "Rania Abdelghani, Peter Kaiser, and Kou Murayama. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. Accepted at the NextGen Learning Interfaces Workshop, AIED 2026. https://arxiv.org/abs/2606.08568"
+    resource: "https://doi.org/10.48550/arxiv.2606.08568"
+    title: "Rania Abdelghani, Peter Kaiser, and Kou Murayama. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. Accepted at the NextGen Learning Interfaces Workshop, AIED 2026. https://arxiv.org/abs/2606.08568 [doi:10.48550/arxiv.2606.08568](https://doi.org/10.48550/arxiv.2606.08568)"
     author: Rania Abdelghani, Peter Kaiser, and Kou Murayama
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Rania Abdelghani 2026
 
-Rania Abdelghani, Peter Kaiser, and Kou Murayama. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. Accepted at the NextGen Learning Interfaces Workshop, AIED 2026. https://arxiv.org/abs/2606.08568
+Rania Abdelghani, Peter Kaiser, and Kou Murayama. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. Accepted at the NextGen Learning Interfaces Workshop, AIED 2026. https://arxiv.org/abs/2606.08568 [doi:10.48550/arxiv.2606.08568](https://doi.org/10.48550/arxiv.2606.08568)
 
 `q2 · i?` · `associational · r2`
 

@@ -45,7 +45,7 @@ Revalidation item-functioning analyses of Cultivate responses in CPS. The articl
 ## Related Claims
 - [DIF analyses indicate the vast majority of MAP Growth items show negligible differential item functioning across gender and racial/ethnic groups](map-growth-negligible-dif-gender-race-ethnicity.md) — related
 - [The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits](ct-pck-dif-dtf-findings.md) — related
-- [Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands](ldf-identifies-seven-absolute-dif-items.md) — related
-- [Differential item functioning was found in four items across the function, form and level dimensions](thinking-styles-scale-dif-items.md) — related
-- [Courseware use did not disadvantage any student group and appeared especially promising for under-represented minority students, with grades independent of Pell, enrollment, age, gender, and first-gen status in 75% or more of analyses.](ngcc-courseware-equity-findings.md) — related
+- Seven items exhibit absolute gender DIF by the LDF method, flagged when the total-score line falls outside .95 confidence bands — related
+- Differential item functioning was found in four items across the function, form and level dimensions — related
+- Courseware use did not disadvantage any student group and appeared especially promising for under-represented minority students, with grades independent of Pell, enrollment, age, gender, and first-gen status in 75% or more of analyses. — related
 - [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](dif-one-item-moderate-large-rest-negligible.md) — a narrower finding that bears on this claim

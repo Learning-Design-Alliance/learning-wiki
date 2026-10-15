@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Design elements giving a visual stand-in for the levels system and a pop-up redirect prompting the next level produced >10% increases in lessons completed at each level beyond the foundational level. [→ Lucy Portnoff 2021](#lucy-portnoff-2021)

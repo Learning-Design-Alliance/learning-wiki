@@ -18,7 +18,7 @@ sources:
 # Learning Genie
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Learning Genie is an AI-supported platform made by Learning Genie for preschool through grade 12 instructional planning, documentation, assessment, portfolios, differentiation, and family communication.
@@ -27,10 +27,6 @@ Learning Genie is an AI-supported platform made by Learning Genie for preschool 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Learning Genie use is associated with greater DRDP language and literacy growth (effect size +0.12) in prekindergarten/kindergarten students](../claims/learning-genie-drdp-language-literacy-growth.md) [+W]
-- [Learning Genie use is associated with greater DRDP math growth (effect size +0.12) in prekindergarten/kindergarten students](../claims/learning-genie-drdp-math-growth.md) [+W]
-- [Learning Genie effects on SEL outcomes were mixed, with Social and Emotional Development scores showing the greatest gains](../claims/learning-genie-sel-outcomes-mixed.md) [~W]
-- [Learning Genie showed significant positive effects at the student level but not at the classroom level](../claims/learning-genie-student-level-significant-classroom-level-not.md) [~W]
 
 ## Related Products and Programmes
 -
@@ -70,10 +66,6 @@ Learning Genie is "an AI-supported instructional planning and documentation plat
 
 ## Claims
 
-- [Learning Genie use is associated with greater DRDP language and literacy growth (effect size +0.12) in prekindergarten/kindergarten students](../claims/learning-genie-drdp-language-literacy-growth.md) [+W]
-- [Learning Genie use is associated with greater DRDP math growth (effect size +0.12) in prekindergarten/kindergarten students](../claims/learning-genie-drdp-math-growth.md) [+W]
-- [Learning Genie effects on SEL outcomes were mixed, with Social and Emotional Development scores showing the greatest gains](../claims/learning-genie-sel-outcomes-mixed.md) [~W]
-- [Learning Genie showed significant positive effects at the student level but not at the classroom level](../claims/learning-genie-student-level-significant-classroom-level-not.md) [~W]
 
 ## Related Elements
 
@@ -115,8 +107,6 @@ Learning Genie is an AI-supported instructional planning and documentation platf
 
 ## Claims
 
-- [Learning Genie use is associated with greater DRDP math growth (effect size +0.12) in prekindergarten/kindergarten students](../claims/learning-genie-drdp-math-growth.md) [+W]
-- [Learning Genie use is associated with greater DRDP language and literacy growth (effect size +0.12) in prekindergarten/kindergarten students](../claims/learning-genie-drdp-language-literacy-growth.md) [+W]
 
 ## Related Elements
 

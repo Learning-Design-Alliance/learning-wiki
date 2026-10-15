@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: praveen-pathak-2026
-    resource: "https://arxiv.org/abs/2608.20521"
-    title: "Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521"
+    resource: "https://doi.org/10.48550/arxiv.2608.20521"
+    title: "Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521 [doi:10.48550/arxiv.2608.20521](https://doi.org/10.48550/arxiv.2608.20521)"
     author: Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Praveen Pathak 2026
 
-Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521
+Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521 [doi:10.48550/arxiv.2608.20521](https://doi.org/10.48550/arxiv.2608.20521)
 
 `q2 · i3` · `design · r3`
 

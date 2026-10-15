@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Traditional individual psychological testing uncovers only matured functions, while functions still developing remain beyond its methodological purview; assisted performance reveals them. [→ Seng 1997](#seng-1997)
@@ -45,7 +46,7 @@ Theoretical argument in this review paper, attributed to Vygotsky, that static i
 
 - [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](proposition-4-distinct-evidence-demands.md) — the general claim this finding bears on, with the studies behind it
 - [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
-- [Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks](chat-knowledge-development-social-collaborative-csl.md) — a broader claim this one bears on
+- Knowledge development as social collaboration: ZPD and collective activity systems support CSL learning networks — a broader claim this one bears on
 - [Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment](funds-of-knowledge-tasks-reveal-computational-thinking.md) — related
 - [Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD](scmc-da-mediation-reveals-microgenetic-development.md) — a narrower finding that bears on this claim
 - [Learning pitched at the edge of students' current abilities — the ZPD — is more effective than learning that is too easy or too frustrating](zpd-edge-learning-english-learners.md) — related

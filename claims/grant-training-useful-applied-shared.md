@@ -43,4 +43,4 @@ Educator survey from the District-Charter Collaboration Grant evaluation. Respon
 
 
 ## Related Claims
-- [ADK program teachers rated the four September 1992 inservice meetings very positively, averaging 4.7 on a 5-point scale](adk-inservice-rated-4-7-of-5.md) — related
+- ADK program teachers rated the four September 1992 inservice meetings very positively, averaging 4.7 on a 5-point scale — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: vinicius-santana-gomes-2026
-    resource: "https://arxiv.org/abs/2606.01517"
-    title: "Vinicius Santana Gomes. (2026). The Main Barrier to AI Adoption in the Public Sector Is Lack of Training: How a Structured Method Accompanied Productivity Gains in Two Brazilian Government Cases. arXiv. https://arxiv.org/abs/2606.01517"
+    resource: "https://doi.org/10.48550/arxiv.2606.01517"
+    title: "Vinicius Santana Gomes. (2026). The Main Barrier to AI Adoption in the Public Sector Is Lack of Training: How a Structured Method Accompanied Productivity Gains in Two Brazilian Government Cases. arXiv. https://arxiv.org/abs/2606.01517 [doi:10.48550/arxiv.2606.01517](https://doi.org/10.48550/arxiv.2606.01517)"
     author: Vinicius Santana Gomes
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # UCI/SEDET's 122 technical reports in 2025 yielded 286 formal recommendations and concerned cases and matters totaling US$ 94.8 million, with an August peak of US$ 19.1 million absorbed without bottlenecks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The 122 technical reports consolidated in the signed 2025 management report resulted in 286 formal recommendations to public managers, which the authors read as deepened analysis per case. [→ Vinicius Santana Gomes 2026](#vinicius-santana-gomes-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Vinicius Santana Gomes 2026
 
-Vinicius Santana Gomes. (2026). The Main Barrier to AI Adoption in the Public Sector Is Lack of Training: How a Structured Method Accompanied Productivity Gains in Two Brazilian Government Cases. arXiv. https://arxiv.org/abs/2606.01517
+Vinicius Santana Gomes. (2026). The Main Barrier to AI Adoption in the Public Sector Is Lack of Training: How a Structured Method Accompanied Productivity Gains in Two Brazilian Government Cases. arXiv. https://arxiv.org/abs/2606.01517 [doi:10.48550/arxiv.2606.01517](https://doi.org/10.48550/arxiv.2606.01517)
 
 `q2 · i?` · `design · r2`
 

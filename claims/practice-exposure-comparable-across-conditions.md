@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: mahir-akgun-and-sacip-toker-2026
-    resource: "https://arxiv.org/abs/2606.22328"
-    title: "Mahir Akgun and Sacip Toker. (2026). Do Gains from Generative AI–Enabled Adaptive Pretesting Persist? Evidence from a Retention Study. https://arxiv.org/abs/2606.22328"
+    resource: "https://doi.org/10.48550/arxiv.2606.22328"
+    title: "Mahir Akgun and Sacip Toker. (2026). Do Gains from Generative AI–Enabled Adaptive Pretesting Persist? Evidence from a Retention Study. https://arxiv.org/abs/2606.22328 [doi:10.48550/arxiv.2606.22328](https://doi.org/10.48550/arxiv.2606.22328)"
     author: Mahir Akgun and Sacip Toker
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Mahir Akgun and Sacip Toker 2026
 
-Mahir Akgun and Sacip Toker. (2026). Do Gains from Generative AI–Enabled Adaptive Pretesting Persist? Evidence from a Retention Study. https://arxiv.org/abs/2606.22328
+Mahir Akgun and Sacip Toker. (2026). Do Gains from Generative AI–Enabled Adaptive Pretesting Persist? Evidence from a Retention Study. https://arxiv.org/abs/2606.22328 [doi:10.48550/arxiv.2606.22328](https://doi.org/10.48550/arxiv.2606.22328)
 
 `q2 · i?` · `causal · r2`
 

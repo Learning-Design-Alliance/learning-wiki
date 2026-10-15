@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: philip-m-gleason-2017
-    resource: "https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools"
-    title: "Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools"
+    resource: "https://doi.org/10.1080/15582159.2017.1395620"
+    title: "Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools [doi:10.1080/15582159.2017.1395620](https://doi.org/10.1080/15582159.2017.1395620)"
     author: Philip M. Gleason
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Philip M. Gleason 2017
 
-Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools
+Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools [doi:10.1080/15582159.2017.1395620](https://doi.org/10.1080/15582159.2017.1395620)
 
 `q2 · i?` · `review · r?`
 
@@ -48,5 +48,5 @@ The summary states the sector "has grown steadily since the first charter school
 - [About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades](online-charter-schools-200-schools-200000-students.md) — related
 - [The National Study of Online Charter Schools provides the first nationwide data and analysis of online charter schools' operations and instructional approaches, based on a survey of 127 principals](first-nationwide-online-charter-operations-survey-127-principals.md) — related
 - [The charter school sector grew to more than 6,800 schools serving nearly 3 million students across forty states and DC by 2015–16](charter-sector-scale-2015-16.md) — possibly the same claim (merge candidate)
-- [One-size-fits-all school systems under-serve nearly all of their students](one-size-fits-all-underserves-students.md) — related
+- One-size-fits-all school systems under-serve nearly all of their students — related
 - [Most U.S. schools of choice are operated by public school districts, with about 6.5 million students enrolled in a chosen public school](most-schools-of-choice-district-run.md)

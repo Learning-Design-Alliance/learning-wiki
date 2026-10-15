@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: means-2020
-    resource: "https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
-    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e"
+    resource: "https://doi.org/10.51388/20.500.12265/98"
+    title: "Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)"
     author: Means, B., and Neisler, J., with Langer Research Associates
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Means 2020
 
-Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e
+Means, B., and Neisler, J., with Langer Research Associates. (2020). Suddenly Online: A National Survey of Undergraduates During the COVID-19 Pandemic. San Mateo, CA: Digital Promise. https://digitalpromise.dspacedirect.org/items/32aee7c4-5363-4d50-bc9c-a338e7dfac7e [doi:10.51388/20.500.12265/98](https://doi.org/10.51388/20.500.12265/98)
 
 `q3 · i?` · `associational · r2`
 
@@ -48,5 +48,5 @@ National random-sample survey of 1,008 undergraduates whose in-person courses mo
 - [The number of research-recommended online instructional practices used predicted student satisfaction, rising from 43 percent net satisfaction with 0–2 practices to 74 percent with 6–8](recommended-practices-count-predict-satisfaction.md) — related
 - [Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping](dissatisfaction-not-primary-drop-reason.md) — related
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](stem-satisfaction-dropped-after-remote-shift-covid.md) — a narrower finding that bears on this claim
-- [Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%)](problems-attributed-unplanned-move-not-online-learning.md) — related
+- Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%) — related
 - [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — related

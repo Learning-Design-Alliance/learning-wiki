@@ -16,7 +16,7 @@ sources:
 # Self-Other Orientation Theory of interpersonal conflict
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes that conflict arises from the interrelationship of the self and significant others: 'A condition of conflict exists when the relationship between self and Other is such that the theory of behavior of the self is perceived as incompatible with the theory of behavior of the Other and the continuity of the self system is threatened.' The self system comprises self esteem, social interest, and self centrality, and resolution involves restructuring these self-other perceptions. The framework treats conflict as a necessary process of adaptation, renewed through exchanges with others holding different theories of behavior.
@@ -38,12 +38,6 @@ The article proposes that conflict arises from the interrelationship of the self
 
 ### Claims
 
-- [Aggressive potential is hypothesized to be highest when separation follows initial high social interest and low self esteem of both parties](../claims/aggressive-potential-highest-after-high-social-interest-separation.md) [+W]
-- [Conflict devolves to aggression toward self or other under reduced self esteem and social interest](../claims/conflict-devolves-to-aggression-low-self-esteem.md) [+W]
-- [Persons with high self esteem and high social interest sustain extended exchange under conflict, while low self esteem persons withdraw prematurely](../claims/high-self-esteem-sustains-exchange-under-conflict.md) [+W]
-- [Informal agreements are proposed to be less subject to group-disintegrating challenges than formal agreements](../claims/informal-agreements-less-disintegrating-than-formal.md) [+W]
-- [Open groups are proposed to incur and sustain conflict more easily than closed groups](../claims/open-groups-incur-conflict-more-easily-than-closed.md) [+W]
-- [Complexity of task outcomes is proposed to protect the self systems of both disputing parties](../claims/task-outcome-complexity-protects-self-system.md) [+W]
 
 ## Related Theories
 - 

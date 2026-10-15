@@ -64,10 +64,10 @@ The report describes teacher residency programs in high-need districts, in which
 ## Related Claims
 - [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related
 - [New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners](mentoring-halves-new-teacher-attrition.md) — possibly the same claim (merge candidate)
-- [Comprehensive preparation and quality mentoring reduce early-career teacher attrition](preparation-mentoring-reduce-attrition.md) — related
+- Comprehensive preparation and quality mentoring reduce early-career teacher attrition — related
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
 - [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — related
-- [A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching](teacher-residency-study-gains.md) — related
+- A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching — related
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
 - [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — related
 - [Teachers with little preparation leave teaching at two to three times the rates of comprehensively prepared teachers](underprepared-teachers-leave-at-2-3-times-rate.md) — possibly the same claim (merge candidate)
@@ -76,7 +76,7 @@ The report describes teacher residency programs in high-need districts, in which
 - [University of Houston residency completers retain in teaching at rates above state averages (93% after year one; 3- and 5-year retention 10 and 7 points above state averages for the 2019 cohort)](uh-residency-completers-retention-above-state-average.md) — a narrower finding that bears on this claim
 - [Underprepared teachers are two to three times more likely to leave than prepared teachers, driving a revolving door in high-poverty schools](underprepared-teachers-leave-two-to-three-times-more.md) — possibly the same claim (merge candidate)
 - [Grow Your Own program graduates remain in teaching longer than typical beginning teachers and teach in high-need schools at high rates](grow-your-own-graduates-retain-in-high-need-schools.md) — a narrower finding that bears on this claim
-- [Ohio meets criteria on high-retention teaching pathways and early-career induction with mentoring](ohio-resident-educator-induction-mentoring-meets-criteria.md) — a narrower finding that bears on this claim
+- Ohio meets criteria on high-retention teaching pathways and early-career induction with mentoring — a narrower finding that bears on this claim
 - [Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation](residency-completers-more-effective-and-retained.md) — a narrower finding that bears on this claim
 - [Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts](teacher-residencies-retain-diverse-candidates.md) — a narrower finding that bears on this claim
 - [UCLA's IMPACT early childhood pathway prepared 50 fully licensed teachers across four cohorts, with 87% retained in the district for at least 3 years](ucla-impact-ece-50-teachers-87-percent-retained.md) — a narrower finding that bears on this claim

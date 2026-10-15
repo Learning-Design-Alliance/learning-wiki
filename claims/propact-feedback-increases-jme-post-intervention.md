@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: anahita-golrang-2026
-    resource: "https://arxiv.org/abs/2605.02703"
-    title: "Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg. (2026). ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming. https://arxiv.org/abs/2605.02703"
+    resource: "https://doi.org/10.48550/arxiv.2605.02703"
+    title: "Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg. (2026). ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming. https://arxiv.org/abs/2605.02703 [doi:10.48550/arxiv.2605.02703](https://doi.org/10.48550/arxiv.2605.02703)"
     author: Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Anahita Golrang 2026
 
-Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg. (2026). ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming. https://arxiv.org/abs/2605.02703
+Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg. (2026). ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming. https://arxiv.org/abs/2605.02703 [doi:10.48550/arxiv.2605.02703](https://doi.org/10.48550/arxiv.2605.02703)
 
 `q3 · i?` · `causal · r2`
 

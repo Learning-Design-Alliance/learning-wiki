@@ -67,4 +67,4 @@ Same quasi-experimental spending analysis, reading outcome (Figure 10); printed 
 - [Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years](lcff-dosage-cohort-exposure-effect.md) — related
 - [Spending effects varied across schools but were positive for every school that experienced the LCFF funding infusion](lcff-spending-effects-positive-for-every-school-despite-heterogeneity.md) — related
 - [LCFF-induced spending increases reduced suspensions and expulsions, with larger effects for boys and the most pronounced effects for Black students](lcff-spending-reduces-suspension-expulsion-disparities.md) — related
-- [Increases in per-pupil spending improve educational attainment, wages, and adult poverty outcomes, with stronger effects for low-income children](school-spending-increases-improve-attainment-wages-poverty.md) — related
+- Increases in per-pupil spending improve educational attainment, wages, and adult poverty outcomes, with stronger effects for low-income children — related

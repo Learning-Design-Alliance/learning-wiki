@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the skewed simulated dataset, the greatest difference in DC estimates (0.101) occurred at the mode (score 30), where LL-DC estimated 0.825, PS-DC 0.844, and W-DC 0.743. [→ Wolkowitz 2024](#wolkowitz-2024)

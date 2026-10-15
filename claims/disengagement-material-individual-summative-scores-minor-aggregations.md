@@ -11,8 +11,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: steven-wise-2021
-    resource: "https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/"
-    title: "Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im. (2021). The impact of disengaged test taking on a state's accountability test results. Educational Assessment, 26(3), 163-174. https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/"
+    resource: "https://doi.org/10.1080/10627197.2021.1956897"
+    title: "Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im. (2021). The impact of disengaged test taking on a state's accountability test results. Educational Assessment, 26(3), 163-174. https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/ [doi:10.1080/10627197.2021.1956897](https://doi.org/10.1080/10627197.2021.1956897)"
     author: Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Steven Wise 2021
 
-Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im. (2021). The impact of disengaged test taking on a state's accountability test results. Educational Assessment, 26(3), 163-174. https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/
+Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im. (2021). The impact of disengaged test taking on a state's accountability test results. Educational Assessment, 26(3), 163-174. https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/ [doi:10.1080/10627197.2021.1956897](https://doi.org/10.1080/10627197.2021.1956897)
 
 `q2 · i?` · `associational · r2`
 

@@ -17,7 +17,7 @@ sources:
 # Blended off-the-job and on-the-job module structure for supervisor training
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The package organises learning as six free-standing modules sequenced so learning integrates with the workplace. Each module pairs classroom instruction with workplace application: "the first 3 hours is 'off the job' followed by practical workplace activities to be undertaken during 2 hours 'on the job'". On-the-job tasks (interviewing an NESB worker, collecting workplace documents, building festival calendars) feed into the next session.
@@ -40,7 +40,6 @@ The package organises learning as six free-standing modules sequenced so learnin
 ### Claims
 
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
-- [The package argues the workplace provides experiences that give meaning to new language](../claims/workplace-context-gives-meaning-to-new-language.md) [+W]
 
 ## Related Patterns
 

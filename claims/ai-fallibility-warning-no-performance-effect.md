@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tomohiro-nagashima-2026
-    resource: "https://arxiv.org/abs/2606.03822"
-    title: "Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822"
+    resource: "https://doi.org/10.48550/arxiv.2606.03822"
+    title: "Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822 [doi:10.48550/arxiv.2606.03822](https://doi.org/10.48550/arxiv.2606.03822)"
     author: Tomohiro Nagashima, Mirella Hladký, and Vera Rief
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tomohiro Nagashima 2026
 
-Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822
+Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822 [doi:10.48550/arxiv.2606.03822](https://doi.org/10.48550/arxiv.2606.03822)
 
 `q3 · i?` · `causal · r2`
 
@@ -45,6 +45,6 @@ Same classroom regression analysis of problem-solving log data: "The groups did 
 ## Related Claims
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
 - [Users alter expectations and behavior based on perceived AI capabilities even when actual AI performance is unchanged (the placebo effect of AI)](placebo-effect-of-ai-perceived-capabilities.md) — a broader claim this one bears on
-- [Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students](adaptive-hint-seeking-behavior-differences.md) — related
+- Adaptive students request significantly fewer on-demand hints and spend longer on a step before requesting help than Control students — related
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — possibly the same claim (merge candidate)
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — possibly the same claim (merge candidate)

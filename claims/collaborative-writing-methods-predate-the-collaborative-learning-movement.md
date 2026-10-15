@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` The paper's historical review of composition antecedents argues that teachers were already experimenting with peer criticism, group writing and revision, and teacher-student collaboration before Bruffee. [→ DeCiccio 1988](#deciccio-1988)
@@ -44,4 +45,4 @@ Historical argument drawing on an appended bibliography of composition anteceden
 
 ## Related Claims
 - [If writing and thinking are forms of conversation, collaborative learning is an extension of social constructionism into the composition classroom](collaborative-learning-is-an-extension-of-social-constructionism-into-composition.md) — related
-- [Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing](student-writing-only-as-good-as-conversation-about-writing.md) — related
+- Students' writing is argued, citing Bruffee, to be only as good as their conversation about writing — related

@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` After campus protests, students used Williams's ideas about language to critically analyze the style of President Garland's letter, examining word choice, imitating sentence structure, and translating his words into their own vernacular. [→ Pace 2001](#pace-2001)

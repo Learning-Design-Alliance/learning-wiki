@@ -43,6 +43,6 @@ A districtwide analysis of survey and interview data on Chicago's standards impl
 
 
 ## Related Claims
-- [Curriculum and instructional resources show more modest and mixed relationships with standards-aligned instructional practices](curriculum-resources-modest-mixed-relationships.md) — a broader claim this one bears on
-- [Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science](professional-learning-strongly-related-standards-aligned-practices.md) — related
+- Curriculum and instructional resources show more modest and mixed relationships with standards-aligned instructional practices — a broader claim this one bears on
+- Professional learning opportunities are strongly related to teachers' use of standards-aligned instructional practices in math and science — related
 - [One year of Teacher Potential Project participation improved teachers' overall English language arts instructional practices relative to district curriculum and professional development](tpp-one-year-improves-ela-instructional-practices.md) — related

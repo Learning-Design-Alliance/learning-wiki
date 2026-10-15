@@ -44,4 +44,4 @@ The report's student-achievement section summarizes the UTR study, reporting stu
 
 ## Related Claims
 - [The few studies of student outcomes suggest residency graduates perform as well as or better than other novice teachers on student outcome measures](residency-graduates-student-outcomes.md) — possibly the same claim (merge candidate)
-- [A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching](teacher-residency-study-gains.md) — related
+- A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching — related

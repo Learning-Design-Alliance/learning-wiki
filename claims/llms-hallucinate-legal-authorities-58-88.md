@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: łucja-biel-2026
-    resource: "https://arxiv.org/abs/2608.04641"
-    title: "Łucja Biel. (2026). AI Literacy for Legal Translation: Developing Digital Resilience. University of Warsaw. https://arxiv.org/abs/2608.04641"
+    resource: "https://doi.org/10.48550/arxiv.2608.04641"
+    title: "Łucja Biel. (2026). AI Literacy for Legal Translation: Developing Digital Resilience. University of Warsaw. https://arxiv.org/abs/2608.04641 [doi:10.48550/arxiv.2608.04641](https://doi.org/10.48550/arxiv.2608.04641)"
     author: Łucja Biel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Łucja Biel 2026
 
-Łucja Biel. (2026). AI Literacy for Legal Translation: Developing Digital Resilience. University of Warsaw. https://arxiv.org/abs/2608.04641
+Łucja Biel. (2026). AI Literacy for Legal Translation: Developing Digital Resilience. University of Warsaw. https://arxiv.org/abs/2608.04641 [doi:10.48550/arxiv.2608.04641](https://doi.org/10.48550/arxiv.2608.04641)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -43,5 +43,5 @@ The chapter reports, citing Dahl et al. (2024), that leading LLMs "hallucinated 
 
 
 ## Related Claims
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
-- [Existing information retrieval systems fail to support users' constructive process in complex tasks](ir-systems-unsupportive-of-construction.md) — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
+- Existing information retrieval systems fail to support users' constructive process in complex tasks — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: satoshi-takahashi-2026
-    resource: "https://arxiv.org/abs/2609.25790"
-    title: "Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790"
+    resource: "https://doi.org/10.48550/arxiv.2609.25790"
+    title: "Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790 [doi:10.48550/arxiv.2609.25790](https://doi.org/10.48550/arxiv.2609.25790)"
     author: Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 2 studies · 1 causal `r2`, 1 design `r2` · `q3`
 
 ## Subclaims
 `q3 i?` Under the hint condition, agreement of 98% or higher was achieved for all questions, with perfect agreement (100%) for Q1 and Q2; under the no-hint condition results varied, with Q2 precision only 0.42. [→ Satoshi Takahashi 2026](#satoshi-takahashi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Satoshi Takahashi 2026
 
-Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790
+Satoshi Takahashi, Atsushi Yoshikawa, Megumi Kose, Kenichi Suzuki, Chieko Inoue, Yumi Watanabe, and Mari Sawada. (2026). Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence. arXiv. https://arxiv.org/abs/2609.25790 [doi:10.48550/arxiv.2609.25790](https://doi.org/10.48550/arxiv.2609.25790)
 
 `q3 · i?` · `causal · r2`
 

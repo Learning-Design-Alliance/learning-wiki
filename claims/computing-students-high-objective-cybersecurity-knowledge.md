@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: adama-2026
-    resource: "https://arxiv.org/abs/2606.18541"
-    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541"
+    resource: "https://doi.org/10.48550/arxiv.2606.18541"
+    title: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541 [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)"
     author: "Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Adama 2026
 
-Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541
+Adama, V., Biddle, R., Arachchilage, N., & Lottridge, D. (2026). Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity. https://arxiv.org/abs/2606.18541 [doi:10.48550/arxiv.2606.18541](https://doi.org/10.48550/arxiv.2606.18541)
 
 `q2 · i?` · `associational · r2`
 

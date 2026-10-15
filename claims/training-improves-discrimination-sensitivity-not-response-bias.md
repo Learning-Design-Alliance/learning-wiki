@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: negar-kamali-2026
-    resource: "https://arxiv.org/abs/2606.28510"
-    title: "Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510"
+    resource: "https://doi.org/10.48550/arxiv.2606.28510"
+    title: "Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510 [doi:10.48550/arxiv.2606.28510](https://doi.org/10.48550/arxiv.2606.28510)"
     author: Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh
     q: 3
     i: "?"
@@ -32,7 +32,7 @@ sources:
 
 ### Negar Kamali 2026
 
-Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510
+Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh. (2026). Generative AI Literacy Training Improves Intelligence Analysts' Discrimination of Real and AI-Generated Images. https://arxiv.org/abs/2606.28510 [doi:10.48550/arxiv.2606.28510](https://doi.org/10.48550/arxiv.2606.28510)
 
 `q3 · i?` · `causal · r2`
 

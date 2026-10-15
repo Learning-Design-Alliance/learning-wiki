@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Early-stage errors stem largely from interlingual transfer from the native language, while intermediate-level errors stem from negative intralingual transfer or overgeneralization (developmental errors). [→ XIE Fang 2007](#xie-fang-2007)
@@ -46,12 +47,12 @@ Theoretical review section (§3) categorizing error sources. The article states 
 
 ## Related Claims
 - [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](confidence-obstacles-math-communication.md) — related
-- [Contrastive rhetoric overgeneralizes shared culture and ignores individual differences among L2 writers](contrastive-rhetoric-overgeneralizes-culture.md) — related
+- Contrastive rhetoric overgeneralizes shared culture and ignores individual differences among L2 writers — related
 - [Error analysis has stated limitations: overattention to errors, overstressing production data, failure to account for avoidance, and language-specific focus](error-analysis-limitations.md) — related
-- [Children follow a similar four-stage sequence in acquiring specific syntactic forms, from no usage through error-filled production to correct usage](four-stage-syntax-acquisition-sequence.md) — related
+- Children follow a similar four-stage sequence in acquiring specific syntactic forms, from no usage through error-filled production to correct usage — related
 - [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related
-- [Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English](morphological-interference-unidirectional-polish-to-english.md) — a narrower finding that bears on this claim
-- [Children produce overgeneralized forms they have not heard, indicating they use rules rather than imitation](overgeneralization-errors-indicate-rule-use.md) — related
+- Morphological and derivational interference in Polish-English deceptive pairs is unidirectional, operating only in translation from Polish into English — a narrower finding that bears on this claim
+- Children produce overgeneralized forms they have not heard, indicating they use rules rather than imitation — related
 - [Global errors hinder communication while local errors affect only a single sentence element, informing which errors to correct](global-versus-local-errors-correction.md) — related
 - [The learner's first language influences target-language pronunciation and is a significant factor in foreign accents, causing errors in aspiration, intonation, and rhythm](native-language-interference-shapes-pronunciation-errors.md) — a narrower finding that bears on this claim
 - [Instruction-tuning a student model on a single misconception overgeneralizes the error across problems and degrades correct-solving accuracy](student-model-misconception-overgeneralization-degrades-accuracy.md) — related

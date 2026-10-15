@@ -17,7 +17,7 @@ sources:
 # Use meta-analytic benchmarks (.4-.6 overall; .3-.5 for ages 9-17; .5-.7 for 18+) to evaluate adventure therapy program effectiveness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend using their meta-analytic results as comparative benchmarks in adventure therapy program evaluation: a program's relative efficacy is determined by comparing its outcomes with the meta-analytic findings. Programs with "an overall effect size between approximately .4 and .6 are within the expected range", with values below indicating weaker and above stronger-than-expected effects. Benchmarks should be age-adjusted, and detailed comparisons made with specific outcome categories or outcomes with caution because sub-samples may be small and heterogeneous.
@@ -42,11 +42,6 @@ The authors recommend using their meta-analytic results as comparative benchmark
 
 ## Claims
 
-- [Adventure therapy produces a moderate, significant short-term improvement (g = .47) that is larger than alternative treatment (.14) and no treatment (.08) comparison groups](../claims/adventure-therapy-short-term-g-47-exceeds-comparisons.md) [+M]
-- [Short-term adventure therapy effects are significant for seven of eight outcome categories, strongest for clinical (g = .50) and self-concept (g = .43) and non-significant for morality/spirituality (g = .17)](../claims/adventure-therapy-outcome-category-effects.md) [+M]
-- [Participant age is the only significant moderator of short-term adventure therapy outcomes, with larger effects for older participants (6.8% of variance)](../claims/participant-age-moderates-adventure-therapy-effects.md) [+W]
-- [Adventure therapy effect sizes have increased over time, doubling from .24 in the 1960s to over .50 since 2000](../claims/adventure-therapy-effects-increased-over-time.md) [+W]
-- [Trim and Fill publication bias analysis suggests the pooled short-term adventure therapy effect (.47) slightly underestimates the true effect (adjusted .52)](../claims/publication-bias-adventure-therapy-underestimate.md) [+W]
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](../claims/srl-meta-analysis-publication-bias-absent.md) [+M]
 
 ## Related Strategies

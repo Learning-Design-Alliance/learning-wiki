@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tseng-2026
-    resource: "https://arxiv.org/abs/2607.06721"
-    title: "Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721"
+    resource: "https://doi.org/10.48550/arxiv.2607.06721"
+    title: "Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721 [doi:10.48550/arxiv.2607.06721](https://doi.org/10.48550/arxiv.2607.06721)"
     author: Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tseng 2026
 
-Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721
+Tseng, T., Seoror, L.H., Adda, J., Factor, M., Darabi, R., Matschke, K.R., Fu, T., Lin, A., Maram, A., Sinha, A. (2026). Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education. https://arxiv.org/abs/2607.06721 [doi:10.48550/arxiv.2607.06721](https://doi.org/10.48550/arxiv.2607.06721)
 
 `q2 · i?` · `design · r2`
 

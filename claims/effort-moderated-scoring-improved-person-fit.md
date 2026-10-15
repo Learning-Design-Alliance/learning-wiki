@@ -43,7 +43,7 @@ In the same scoring comparison on adaptive achievement test data, effort-moderat
 
 
 ## Related Claims
-- [Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present](effort-moderated-scoring-more-accurate-better-fit.md) — related
-- [In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring](effort-moderated-cat-negligible-bias-simulation.md) — related
+- Effort-moderated scoring yields more accurate achievement scores and better person fit than traditional MLE scoring when rapid guessing is present — related
+- In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring — related
 - [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](effort-moderated-scoring-more-accurate-than-traditional.md) — related
 - [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — related

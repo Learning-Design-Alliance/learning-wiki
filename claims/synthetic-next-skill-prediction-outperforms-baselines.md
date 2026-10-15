@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ryosuke-nagai-2026
-    resource: "https://arxiv.org/abs/2606.20611"
-    title: "Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, and Hisashi Kashima. (2026). Estimating Learners' Skill Acquisition Without Temporal Information. https://arxiv.org/abs/2606.20611"
+    resource: "https://doi.org/10.48550/arxiv.2606.20611"
+    title: "Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, and Hisashi Kashima. (2026). Estimating Learners' Skill Acquisition Without Temporal Information. https://arxiv.org/abs/2606.20611 [doi:10.48550/arxiv.2606.20611](https://doi.org/10.48550/arxiv.2606.20611)"
     author: Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, and Hisashi Kashima
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ryosuke Nagai 2026
 
-Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, and Hisashi Kashima. (2026). Estimating Learners' Skill Acquisition Without Temporal Information. https://arxiv.org/abs/2606.20611
+Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, and Hisashi Kashima. (2026). Estimating Learners' Skill Acquisition Without Temporal Information. https://arxiv.org/abs/2606.20611 [doi:10.48550/arxiv.2606.20611](https://doi.org/10.48550/arxiv.2606.20611)
 
 `q2 · i?` · `design · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gupta-2026
-    resource: "https://arxiv.org/abs/2609.38967"
-    title: "Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967"
+    resource: "https://doi.org/10.48550/arxiv.2609.38967"
+    title: "Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967 [doi:10.48550/arxiv.2609.38967](https://doi.org/10.48550/arxiv.2609.38967)"
     author: Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Gupta 2026
 
-Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967
+Gupta, J., Ayinampudi, P., Aditya B.M.V., Hegade, P., Sharma, R., Sharma, S., Meenakshi, V., Iyengar, S.R.S. (2026). What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System. arXiv:2609.38967. https://arxiv.org/abs/2609.38967 [doi:10.48550/arxiv.2609.38967](https://doi.org/10.48550/arxiv.2609.38967)
 
 `q2 · i?` · `design · r2`
 

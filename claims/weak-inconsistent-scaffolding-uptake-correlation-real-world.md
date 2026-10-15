@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: neagu-2026
-    resource: "https://arxiv.org/abs/2606.15766"
-    title: "Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766"
+    resource: "https://doi.org/10.48550/arxiv.2606.15766"
+    title: "Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766 [doi:10.48550/arxiv.2606.15766](https://doi.org/10.48550/arxiv.2606.15766)"
     author: "Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Neagu 2026
 
-Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766
+Neagu, A., Wong, J. T. H., Messer, M., Nelson, R., & Johnson, P. B. (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. Pluralistic Alignment Workshop @ ICML 2026. https://arxiv.org/abs/2606.15766 [doi:10.48550/arxiv.2606.15766](https://doi.org/10.48550/arxiv.2606.15766)
 
 `q2 · i?` · `associational · r2`
 

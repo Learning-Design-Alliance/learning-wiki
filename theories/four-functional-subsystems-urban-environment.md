@@ -16,7 +16,7 @@ sources:
 # Four functional subsystems of the urban environment
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 In the conference's general session address, sociologist H. Wentworth Eldredge proposes that the urban environment be analyzed as a national system broken into four interdependent parts. He states there are "four convenient functional subsystems, interpenetrated and symbiotic (linked and depending on each other), which can be fruitfully examined": the natural environment, the man-made physical environment, the societal environment, and the cultural (internal) environment. The framework serves as an analytical device offering "graspable intellectual handles" for understanding and guiding urban society, and it frames the conference's argument that industrial arts education must address the whole urban condition rather than isolated problems.
@@ -37,8 +37,6 @@ In the conference's general session address, sociologist H. Wentworth Eldredge p
 
 ### Claims
 
-- [Seventy Percent Population In Metropolitan Areas](../claims/seventy-percent-population-in-metropolitan-areas.md) [+M]
-- [New York City lost nearly one million white residents from 1960 to 1970 while blacks and Puerto Ricans grew to nearly 35% of the population](../claims/nyc-white-exodus-and-minority-population-share.md) [+W]
 
 ## Related Theories
 - 

@@ -12,7 +12,7 @@ generated:
 # Psychosocial Theory of Identity Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Erik Erikson took the psychoanalytic foundation laid by Freud and extended it across the full lifespan rather than stopping at adolescence, shifting emphasis from purely biological drives toward social and cultural forces, and toward human strength and constructive potential rather than pathology. Each of Erikson's eight stages is defined by a **psychosocial crisis** between two opposing forces; resolving a stage in favor of its positive pole yields a corresponding **virtue** carried into later stages. Mastery of a stage is not required to advance — "the outcome of one stage is not permanent and can be modified by later experiences" — but unresolved crises tend to resurface as problems later. All eight crises are present from birth, but each becomes most prominent according to both a maturational schedule and a person's ecological and cultural upbringing.
@@ -60,7 +60,6 @@ Joan M. Erikson, Erik's wife and collaborator, later added a **ninth stage** (Er
 
 ## Claims
 
-- [Female Korean immigrants showed better psychosocial adjustment than males on diffusion, isolation, and intimacy resolution](../claims/female-korean-immigrants-better-adjustment-than-males.md) [~W]
 
 ## Related Theories
 - [Sociocultural Theory](sociocultural-theory.md) — the theory explicitly frames each stage as a negotiation of biological and sociocultural forces, paralleling sociocultural theory's emphasis on social and cultural shaping of development

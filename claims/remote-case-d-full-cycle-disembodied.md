@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: eugenio-tufino-2026
-    resource: "https://arxiv.org/abs/2607.21349"
-    title: "Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349"
+    resource: "https://doi.org/10.48550/arxiv.2607.21349"
+    title: "Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349 [doi:10.48550/arxiv.2607.21349](https://doi.org/10.48550/arxiv.2607.21349)"
     author: Eugenio Tufino, Paola Damiani
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Eugenio Tufino 2026
 
-Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349
+Eugenio Tufino, Paola Damiani. (2026). Embodied inquiry with AI as facilitator: an exploratory case study. https://arxiv.org/abs/2607.21349 [doi:10.48550/arxiv.2607.21349](https://doi.org/10.48550/arxiv.2607.21349)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -46,6 +46,6 @@ Contrasting single case: one participant, working remotely on a different day fr
 - [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](language-facilitator-verbal-channel-limit.md) — related
 - [A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems](pedagogical-gap-4e-vs-ai-design.md) — a broader claim this one bears on
 - [An AI assistant configured on the ISLE approach can scaffold the epistemic core of inquiry, at the level of feasibility](ai-gem-scaffolds-isle-epistemic-core.md) — related
-- [Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online](covid-stem-collaboration-reduced-remote.md) — related
+- Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online — related
 - [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](remote-shift-reduced-collaborative-learning.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related

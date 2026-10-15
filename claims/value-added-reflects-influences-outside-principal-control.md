@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: hanley-chiang-2016
-    resource: "https://www.mathematica.org/publications/is-school-value-added-indicative-of-principal-quality"
-    title: "Hanley Chiang, Stephen Lipscomb, Brian Gill. (2016). Is School Value Added Indicative of Principal Quality? Education Finance and Policy, vol. 11, no. 3. https://www.mathematica.org/publications/is-school-value-added-indicative-of-principal-quality"
+    resource: "https://doi.org/10.1162/edfp_a_00184"
+    title: "Hanley Chiang, Stephen Lipscomb, Brian Gill. (2016). Is School Value Added Indicative of Principal Quality? Education Finance and Policy, vol. 11, no. 3. https://www.mathematica.org/publications/is-school-value-added-indicative-of-principal-quality [doi:10.1162/edfp_a_00184](https://doi.org/10.1162/edfp_a_00184)"
     author: Hanley Chiang, Stephen Lipscomb, Brian Gill
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Hanley Chiang 2016
 
-Hanley Chiang, Stephen Lipscomb, Brian Gill. (2016). Is School Value Added Indicative of Principal Quality? Education Finance and Policy, vol. 11, no. 3. https://www.mathematica.org/publications/is-school-value-added-indicative-of-principal-quality
+Hanley Chiang, Stephen Lipscomb, Brian Gill. (2016). Is School Value Added Indicative of Principal Quality? Education Finance and Policy, vol. 11, no. 3. https://www.mathematica.org/publications/is-school-value-added-indicative-of-principal-quality [doi:10.1162/edfp_a_00184](https://doi.org/10.1162/edfp_a_00184)
 
 `q1 · i?` · `associational · r?`
 

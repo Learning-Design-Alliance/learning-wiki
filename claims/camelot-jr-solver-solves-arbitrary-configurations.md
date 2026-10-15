@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: abhishek-jaiswal-2026
-    resource: "https://arxiv.org/abs/2609.20349"
-    title: "Abhishek Jaiswal, Zoe Falomir. (2026). A Qualitative Model for Reasoning about Path and Support. arXiv preprint. https://arxiv.org/abs/2609.20349"
+    resource: "https://doi.org/10.48550/arxiv.2609.20349"
+    title: "Abhishek Jaiswal, Zoe Falomir. (2026). A Qualitative Model for Reasoning about Path and Support. arXiv preprint. https://arxiv.org/abs/2609.20349 [doi:10.48550/arxiv.2609.20349](https://doi.org/10.48550/arxiv.2609.20349)"
     author: Abhishek Jaiswal, Zoe Falomir
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Abhishek Jaiswal 2026
 
-Abhishek Jaiswal, Zoe Falomir. (2026). A Qualitative Model for Reasoning about Path and Support. arXiv preprint. https://arxiv.org/abs/2609.20349
+Abhishek Jaiswal, Zoe Falomir. (2026). A Qualitative Model for Reasoning about Path and Support. arXiv preprint. https://arxiv.org/abs/2609.20349 [doi:10.48550/arxiv.2609.20349](https://doi.org/10.48550/arxiv.2609.20349)
 
 `q1 · i?` · `design · r1`
 

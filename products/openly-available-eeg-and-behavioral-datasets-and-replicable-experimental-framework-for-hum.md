@@ -13,7 +13,7 @@ generated:
 # Openly available EEG and behavioral datasets and replicable experimental framework for human-AI interaction studies
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Khurana et al.'s openly released Kaggle datasets contain raw EEG recordings and behavioral ratings from high-school students who completed AI-assisted problem-solving tasks, supporting reuse in human-AI interaction research.
@@ -23,7 +23,6 @@ Khurana et al.'s openly released Kaggle datasets contain raw EEG recordings and 
 
 ### Claims
 
-- [AI interaction mode (Tutor, Collaborator, Solver) significantly influences high school students' observed behavior during problem-solving](../claims/ai-interaction-mode-significantly-influences-observed-behavior.md) [+W]
 
 ## Related Products and Programmes
 -

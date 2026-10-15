@@ -16,7 +16,7 @@ sources:
 # Learning-environment aspects framework for early academic competence
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article organizes its review around aspects of the learning environment that it identifies as most closely tied to early academic success. It states that it "reviews data on aspects of the learning environment most closely associated with successful development of early academic competence," treating these environmental aspects as the organizing axis for comparing low-SES and higher-SES children's access to academically supportive conditions.
@@ -39,7 +39,6 @@ The article organizes its review around aspects of the learning environment that
 ### Claims
 
 - [Ses Differences Access Academically Auspicious Environments](../claims/ses-differences-access-academically-auspicious-environments.md) [+M]
-- [Title I preschool classrooms showed no typical increase in social pretense and verbal interaction over time, most evident in lowest-SES classrooms](../claims/title-i-preschools-no-increase-social-pretense.md) [+W]
 
 ## Related Theories
 - 

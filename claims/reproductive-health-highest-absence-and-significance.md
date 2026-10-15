@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yubo-li-2026
-    resource: "https://arxiv.org/abs/2607.22606"
-    title: "Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606"
+    resource: "https://doi.org/10.48550/arxiv.2607.22606"
+    title: "Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606 [doi:10.48550/arxiv.2607.22606](https://doi.org/10.48550/arxiv.2607.22606)"
     author: Yubo Li, Rema Padman, Ramayya Krishnan
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Reproductive health shows the highest coverage gap (82.1% absence) and the highest judge-rated significance among divergent pairs (86%), making it a priority content area
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Reproductive health has the highest absence rate of the 13 benchmark topics at 82.1% of question–handbook answers, despite being the second-largest topic (291 questions). [→ Yubo Li 2026](#yubo-li-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Yubo Li 2026
 
-Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606
+Yubo Li, Rema Padman, Ramayya Krishnan. (2026). Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks. arXiv preprint. https://arxiv.org/abs/2607.22606 [doi:10.48550/arxiv.2607.22606](https://doi.org/10.48550/arxiv.2607.22606)
 
 `q2 · i?` · `associational · r2`
 

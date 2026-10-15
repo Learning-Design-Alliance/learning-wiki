@@ -43,5 +43,5 @@ Theoretical argument in the comment, citing prior work on loneliness. The author
 
 
 ## Related Claims
-- [Gender predicts shame, but not guilt or loneliness, among Turkish university students](gender-predicts-shame-only-turkish-university-students.md) — related
+- Gender predicts shame, but not guilt or loneliness, among Turkish university students — related
 - [Teachers describe AI companions as a low-stakes rehearsal space for students who struggle socially, including autistic students](ai-companion-rehearsal-space-struggling-students.md) — related

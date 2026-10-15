@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: kara-finnigan-and-jennifer-oday-2003
-    resource: "https://eric.ed.gov/?id=ED474395"
-    title: "Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395"
+    resource: "https://doi.org/10.1037/e565292006-001"
+    title: "Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395 [doi:10.1037/e565292006-001](https://doi.org/10.1037/e565292006-001)"
     author: "Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kara Finnigan and Jennifer O'Day 2003
 
-Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395
+Kara Finnigan and Jennifer O'Day, with the assistance of David Wakelyn. (2003). External Support to Schools on Probation: Getting a Leg Up? https://eric.ed.gov/?id=ED474395 [doi:10.1037/e565292006-001](https://doi.org/10.1037/e565292006-001)
 
 `q2 · i?` · `qualitative · r2`
 

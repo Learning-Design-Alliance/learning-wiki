@@ -62,6 +62,6 @@ Variance-explained estimate from the same SEM (N = 102). The quote fragment "R2 
 
 
 ## Related Claims
-- [Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479)](behavioral-signals-associated-topic-understanding.md) — related
+- Self-efficacy, reflective thinking, and help-seeking were associated with topic understanding at the cohort level (r = 0.427, 0.369, 0.168; d = 0.479) — related
 - [Teaching self-efficacy, professional identity, and AI literacy are each significantly associated with AI teaching innovation behavior, with additional links among the mediators](mediators-associated-with-ai-teaching-innovation-behavior.md) — related
 - [Pedagogical AI competence is positively associated with teachers' AI use](pedagogical-ai-competence-associated-with-ai-use.md) — related

@@ -17,7 +17,7 @@ sources:
 # Ten fundamental prerequisites for a multimedia language authoring system
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The author, as a cognitive scientist and linguist, designed "the implementation of ten fundamental prerequisites for a multimedia language authoring system". They span multimediatizing from didactized content, a coherent semiological code, easy-to-use authoring for non-programming teachers, adaptation to cognitive and personality types, metalinguistic deduction-based hints, "automatic segmenting with answering time and segment visualization", personalized access to the solution tied to metacognitive performance, teacher presence for personalized tutoring, and real-time modification of answering times, hints and questions.
@@ -38,7 +38,6 @@ The author, as a cognitive scientist and linguist, designed "the implementation 
 
 ### Claims
 
-- [Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed](../claims/sound-wave-display-prompts-louder-speech-and-sound-noticing.md) [+W]
 - [Students are more attentive to the teacher's model track when they hear their own recording first](../claims/student-recording-first-increases-attention-to-model.md) [+W]
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](../claims/students-pause-video-to-view-segment-menu.md) [+W]
 

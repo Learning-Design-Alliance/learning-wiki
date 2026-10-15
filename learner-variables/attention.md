@@ -12,7 +12,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 50 claims (39 for, 6 mixed, 5 against) · 52 studies (15 causal, 11 review, 10 quant-synthesis, 6 design, 4 associational, 4 qualitative, 2 theoretical), `q1`–`q4` · 11 of 52 report an effect size · 45 claims rest on one study
+> **Evidence** · 46 claims (35 for, 6 mixed, 5 against) · 48 studies (14 causal, 10 quant-synthesis, 10 review, 4 associational, 4 qualitative, 4 design, 2 theoretical), `q1`–`q4` · 10 of 48 report an effect size · 41 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -40,8 +40,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](../claims/attention-shift-meaning-to-form-over-cycles.md) [+M] — instruction changes it
 - [Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention](../claims/attention-builds-task-relevant-knowledge-base.md) [+M] — learners who differ on it differ in outcomes
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](../claims/co-construction-scribe-teacher-fosters-composition-autonomy.md) [+W] — instruction changes it
-- [Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning](../claims/mobile-independent-work-initiative-actors.md) [+W] — instruction changes it
-- [INSIGHTS improved sustained attention relative to control (effect size +0.39)](../claims/insights-sustained-attention-es-039.md) [+W] — instruction changes it
+- Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning [+W] — instruction changes it
+- INSIGHTS improved sustained attention relative to control (effect size +0.39) [+W] — instruction changes it
 - [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](../claims/modeling-training-improves-imaginative-play.md) [+W] — instruction changes it
 - [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](../claims/enhancing-features-increase-attention-single-language-e-books.md) [+M] — instruction changes it
 - [Self Monitoring Improves On Task Behavior](../claims/self-monitoring-improves-on-task-behavior.md) [+S] — instruction changes it
@@ -49,7 +49,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Split Attention Effect Degrades Learning](../claims/split-attention-effect-degrades-learning.md) [+M] — learners who differ on it differ in outcomes
 - [Students are more attentive to the teacher's model track when they hear their own recording first](../claims/student-recording-first-increases-attention-to-model.md) [+M] — instruction changes it
 - [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](../claims/playworks-students-reported-better-behavior-attention-after-play.md) [+W] — instruction changes it
-- [Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding](../claims/low-attention-hinders-alphabet-knowledge-phonological-awareness.md) [+M] — learners who differ on it differ in outcomes
+- Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding [+M] — learners who differ on it differ in outcomes
 - [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](../claims/animation-phase-dependent-attention-to-print.md) [+W] — instruction changes it
 - [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](../claims/material-artifact-stability-stabilizes-thinking.md) [+M] — instruction changes it
 - [Unfamiliar problem contexts and vocabulary distract students from the mathematics and reasoning a problem requires](../claims/unfamiliar-contexts-distract-from-mathematics.md) [+W] — instruction changes it
@@ -74,7 +74,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](../claims/propact-feedback-increases-jva-post-intervention.md) [+M] — instruction changes it
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](../claims/synchronous-suggestions-efficiency-and-distraction.md) [+M] — instruction changes it
 - [The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers](../claims/agentic-cursor-evokes-surveillance-and-eeriness.md) [+M] — instruction changes it
-- [Participant attention gravitated towards the agent embodying the intuitive-error hazard, exceeding the uniform baseline](../claims/attention-gravitates-to-legible-intuitive-error.md) [+M] — instruction changes it
+- Participant attention gravitated towards the agent embodying the intuitive-error hazard, exceeding the uniform baseline [+M] — instruction changes it
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](../claims/elaborate-feedback-raises-engagement-perceptions.md) [+M] — instruction changes it
 - [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](../claims/mbis-small-positive-effects-all-rcts-youth.md) [+M] — instruction changes it
 - [Age significantly moderates MBI effects on executive functions across all RCTs (larger benefits with older age) and on negative behaviour in active-control RCTs (larger benefits with younger age)](../claims/age-moderates-mbi-outcomes.md) [~W] — an instructional effect differs with it

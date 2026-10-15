@@ -17,7 +17,7 @@ sources:
 # Open Procurement concept: transparent district purchasing data creating smarter demand
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 3 studies (2 qualitative, 1 associational), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Open Procurement proposes that districts make their technology spending transparent so that all stakeholders benefit: the public sees where tax dollars go, faculty understand the process, and the market becomes more inclusive and competitive. The report argues that "unlocked information (including vendor, price, quantity, product details, and common core compliance) drastically improves what procurement officers and district leaders know about technology vendors and their product offerings, creating smarter demand." It addresses the theme that proof points for ed-tech solutions are unclear.
@@ -41,8 +41,6 @@ Open Procurement proposes that districts make their technology spending transpar
 
 ## Claims
 
-- [District leaders report that public scrutiny produces fear and risk aversion that favors the status quo over innovation in ed-tech decisions](../claims/public-scrutiny-risk-aversion-edtech-procurement.md) [-W]
-- [Students, teachers, and principals are perceived to have limited involvement in ed-tech procurement decisions, and providers are far less satisfied with end-user involvement than district stakeholders](../claims/limited-end-user-involvement-edtech-procurement.md) [+W]
 - [Cohort purchasing through consolidated edtech procurement produced savings of nearly $200,000 and roughly 50 percent per-license discounts in Denver Public Schools](../claims/dps-cohort-purchasing-savings-200000.md) [+W]
 
 ## Related Elements

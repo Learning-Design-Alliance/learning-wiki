@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: paritosh-parmar-2026
-    resource: "https://arxiv.org/abs/2608.05115"
-    title: "Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay. (2026). Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition. arXiv preprint. https://arxiv.org/abs/2608.05115"
+    resource: "https://doi.org/10.48550/arxiv.2608.05115"
+    title: "Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay. (2026). Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition. arXiv preprint. https://arxiv.org/abs/2608.05115 [doi:10.48550/arxiv.2608.05115](https://doi.org/10.48550/arxiv.2608.05115)"
     author: Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Models trained on synthetic classroom incident data transfer zero-shot to real-world footage, with the proposed method best at 63.41% though a synthetic-to-real domain gap remains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In zero-shot synthetic-to-real transfer, the proposed method obtains the best real-world accuracy of 63.41%, outperforming MSG3D by 4.18 percentage points and other baselines by larger margins. [→ Paritosh Parmar 2026](#paritosh-parmar-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Paritosh Parmar 2026
 
-Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay. (2026). Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition. arXiv preprint. https://arxiv.org/abs/2608.05115
+Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay. (2026). Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition. arXiv preprint. https://arxiv.org/abs/2608.05115 [doi:10.48550/arxiv.2608.05115](https://doi.org/10.48550/arxiv.2608.05115)
 
 `q2 · i?` · `design · r2`
 

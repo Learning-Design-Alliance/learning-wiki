@@ -17,7 +17,7 @@ sources:
 # Demo game rendering Blackboard course elements as 3D school environments
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A standalone Universal Windows Platform demo game serving as the practical use case for the integration package. After logging in through the Blackboard page, students see portals for each course leading to a classroom scene with a board displaying announcements, assignments, and grades, and cabinets for weekly material folders. The paper describes that "There is a row of tall cabinets under the big board, each representing a weekly materials folder" and that clicking a material downloads it automatically.
@@ -38,7 +38,6 @@ A standalone Universal Windows Platform demo game serving as the practical use c
 
 ### Claims
 
-- [A pilot implementation produced a working Unity package and demo game integrating Unity with Blackboard via Learn APIs](../claims/pilot-unity-blackboard-working-prototype.md) [+W]
 
 ## Related Designs
 

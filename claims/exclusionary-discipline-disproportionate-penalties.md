@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: darling-hammond-2018
-    resource: "https://learningpolicyinstitute.org/product/educating-whole-child"
-    title: "Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child"
+    resource: "https://doi.org/10.54300/145.655"
+    title: "Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child [doi:10.54300/145.655](https://doi.org/10.54300/145.655)"
     author: "Darling-Hammond, L., & Cook-Harvey, C. M."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Darling-Hammond 2018
 
-Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child
+Darling-Hammond, L., & Cook-Harvey, C. M. (2018). Educating the whole child: Improving school climate to support student success. Palo Alto, CA: Learning Policy Institute. https://learningpolicyinstitute.org/product/educating-whole-child [doi:10.54300/145.655](https://doi.org/10.54300/145.655)
 
 `q2 · i?` · `review · r1`
 
@@ -54,6 +54,6 @@ The report's research synthesis states that "exclusionary responses, such as sus
 - [In Maryland, disciplinary removals (out-of-school suspensions and expulsions) declined over the past 10 years while discipline disparities persisted](maryland-disciplinary-removals-declined-disparities-persist.md) — related
 - [Exclusionary discipline rates declined for all student subgroups in Maryland from 2009/10 to 2017/18](maryland-exclusionary-discipline-declined-all-subgroups.md) — related
 - [Schools using the CSTAG model show fewer disciplinary infractions, suspensions, expulsions, and law enforcement actions than schools using general threat assessment approaches](cstag-fewer-exclusionary-discipline-than-general-approach.md) — related
-- [Low-income students, students of color, multilingual families' students, and students with disabilities are more likely to be chronically absent](chronic-absence-inequities-disaggregation.md) — related
+- Low-income students, students of color, multilingual families' students, and students with disabilities are more likely to be chronically absent — related
 - [Students with disabilities are overrepresented in school discipline: 16 percent of enrollment but 25–28 percent of suspensions and expulsions](disability-discipline-overrepresentation-suspension-expulsion.md) — a narrower finding that bears on this claim
-- [Exclusionary discipline disproportionately removes students of color and students with disabilities from school](exclusionary-discipline-disproportionate-students-of-color-disabilities.md) — related
+- Exclusionary discipline disproportionately removes students of color and students with disabilities from school — related

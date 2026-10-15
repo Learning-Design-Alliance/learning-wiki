@@ -18,7 +18,7 @@ sources:
 # Title I Supplemental Educational Services (SES)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (2 for, 3 against) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (1 for, 3 against) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A federally mandated Title I programme administered through states and school districts in which approved public or private providers offer free tutoring and academic support outside the regular school day to eligible students.
@@ -32,7 +32,6 @@ A federally mandated Title I programme administered through states and school di
 - [Participating in SES (averaging about 21 hours) shows no statistically significant impact on reading or math achievement for students near the cutoff](../claims/ses-participation-no-significant-impact-tot.md) [-M]
 - [Intensity of SES services and other provider characteristics are not significantly related to estimated impacts](../claims/ses-provider-characteristics-not-related-to-impacts.md) [-M]
 - [Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)](../claims/wraparound-ses-improves-math-achievement.md) [+W]
-- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](../claims/wraparound-ses-subgroup-gains.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -71,7 +70,6 @@ SES are "tutoring or other academic support services offered outside the regular
 - [Participating in SES (averaging about 21 hours) shows no statistically significant impact on reading or math achievement for students near the cutoff](../claims/ses-participation-no-significant-impact-tot.md) [-M]
 - [Intensity of SES services and other provider characteristics are not significantly related to estimated impacts](../claims/ses-provider-characteristics-not-related-to-impacts.md) [-M]
 - [Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)](../claims/wraparound-ses-improves-math-achievement.md) [+W]
-- [Wraparound SES math gains are notable for Hispanic, female, and Title I students](../claims/wraparound-ses-subgroup-gains.md) [+W]
 
 ## Related Elements
 

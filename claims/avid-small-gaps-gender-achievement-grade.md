@@ -45,5 +45,5 @@ Summary of measures by student type from the 2007 CPS AVID survey, comparing sta
 ## Related Claims
 - [Students in high and highest rated AVID schools are overwhelmingly positive about the program's impact on them](avid-high-schools-students-overwhelmingly-positive.md) — related
 - [Even students in lowest-rated AVID schools are fairly positive, though only half would recommend AVID to friends](avid-lowest-schools-students-fairly-positive.md) — related
-- [Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction](education-corps-boys-gains-girls-near-zero.md) — related
+- Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction — related
 - [AVID students in CPS report extremely high satisfaction with the program](avid-students-extremely-satisfied-cps-2007.md) — related

@@ -46,6 +46,6 @@ The brief reports, citing research, that unprepared entrants to teaching are far
 - [Teachers with little preparation leave teaching at two to three times the rates of comprehensively prepared teachers](underprepared-teachers-leave-at-2-3-times-rate.md) — possibly the same claim (merge candidate)
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
 - [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related
-- [Comprehensive preparation and quality mentoring reduce early-career teacher attrition](preparation-mentoring-reduce-attrition.md) — possibly the same claim (merge candidate)
+- Comprehensive preparation and quality mentoring reduce early-career teacher attrition — possibly the same claim (merge candidate)
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — possibly the same claim (merge candidate)

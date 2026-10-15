@@ -18,7 +18,7 @@ sources:
 # Digital Promise COVID-19 Student Survey (May-June 2020 topline dataset)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (9 for) · 3 studies (3 associational), `q2`–`q3` · 0 of 3 report an effect size · 9 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 2 studies (2 associational), `q2`–`q3` · 0 of 2 report an effect size · 8 claims rest on one study
 
 ## Description
 A national survey dataset and topline report produced for Digital Promise by Langer Research Associates with Ipsos Public Affairs, documenting college students' experiences of courses moved fully online during COVID-19.
@@ -27,7 +27,6 @@ A national survey dataset and topline report produced for Digital Promise by Lan
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%)](../claims/problems-attributed-unplanned-move-not-online-learning.md) [+W]
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](../claims/satisfaction-drop-sudden-online-covid.md) [+W]
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](../claims/stem-satisfaction-dropped-after-remote-shift-covid.md) [+W]
 - [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation](../claims/personal-messages-largest-satisfaction-effect.md) [+W]
@@ -69,7 +68,6 @@ A topline survey report of college students whose in-person courses moved comple
 
 ## Claims
 
-- [Students attributed online-course problems more to the unplanned move online (45%) than to inherent limitations of online learning (37%)](../claims/problems-attributed-unplanned-move-not-online-learning.md) [+W]
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](../claims/satisfaction-drop-sudden-online-covid.md) [+W]
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](../claims/stem-satisfaction-dropped-after-remote-shift-covid.md) [+W]
 - [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation](../claims/personal-messages-largest-satisfaction-effect.md) [+W]

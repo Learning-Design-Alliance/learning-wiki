@@ -104,7 +104,7 @@ A meta-analysis of 22 studies (17 universal, 5 targeted programs; 2011–2021) o
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **7 distinct studies** (4 review, 3 quant-synthesis), `q2`–`q4`, 3 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do SEL programmes also improve conduct, distress and academic achievement, and by how much?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 3 review), `q2`–`q4`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -114,7 +114,6 @@ A meta-analysis of 22 studies (17 universal, 5 targeted programs; 2011–2021) o
 | [Greenberg 2023](https://doi.org/10.54300/928.269) | q3 · review · r2 | i1; i? | [SEL programs reduce disruptive behavior problems and emotional distress and foster prosoci](sel-programs-reduce-behavior-problems-distress.md) (supports); [SEL programs improve students' engagement and academic performance, with an 11-percentile-](sel-programs-improve-academic-performance.md) (supports) |
 | Melnick 2017 | q3 · review · r2 | i? | [SEL programs improve students' engagement and academic performance, with an 11-percentile-](sel-programs-improve-academic-performance.md) (supports) |
 | National Charter School Resource Center 2022 | q2 · review · r1 | i? | [Schoolwide SEL programs are associated with long-term achievement gains, with multiple met](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) (supports) |
-| Sheppard 2015 | q2 · review · r1 | i? | [Implementing specific SEL curricula can improve academic performance, including learning t](sel-curricula-improve-academic-performance.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -173,7 +172,7 @@ Open questions include the durability of achievement effects after programs end,
 - [A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
-- [The affective component is suggested to contribute at least as much to language learning as cognitive skills](affective-component-contributes-as-much-as-cognitive.md) — related
+- The affective component is suggested to contribute at least as much to language learning as cognitive skills — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
 - The SACD Research Program is an IES-CDC collaboration funding seven teams to evaluate universal elementary programs experimentally — related
@@ -185,12 +184,12 @@ Open questions include the durability of achievement effects after programs end,
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [Research on summer programs addresses their implementation, design, and efficacy for literacy, math, and social-emotional learning outcomes](summer-programs-research-implementation-design-efficacy.md) — related
 - [Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice](forms-sel-checkins-anonymity.md) — a narrower finding that bears on this claim
-- [Implementing specific SEL curricula can improve academic performance, including learning to read](sel-curricula-improve-academic-performance.md) — related
+- Implementing specific SEL curricula can improve academic performance, including learning to read — related
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](getting-ready-replication-relationships.md) — related
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — related
-- [Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning](emotions-critical-to-learning-leverage-in-design.md) — related
+- Emotions form a critical piece of how, what, when, and why people learn, so education should leverage the emotional aspects of learning — related
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related
-- [Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress](schoolwide-sel-prosocial-distress-24-percent.md) — related
+- Compared with non-participants, nearly 24% more students who participated in schoolwide SEL programs exhibited increased pro-social behaviors and reported decreased distress — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related

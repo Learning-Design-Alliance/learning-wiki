@@ -85,12 +85,12 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — related
-- [Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone](combined-semantic-syntactic-context-expedites-word-recognition.md) — related
+- Combined semantic and syntactic contextual information expedites word recognition compared with syntactic information alone — related
 - [Lower-level phonological processing efficiency contributes significantly to individual differences in adult ESL reading measures](phonological-orthographic-efficiency-predicts-esl-reading.md) — related
 - [Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text](disadvantaged-students-lack-vocabulary-and-comprehension-strategies.md) — related
-- [Multisensory literacy strategies help students with low working memory become better at decoding](multisensory-strategies-low-working-memory-decoding.md) — related
-- [Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding](low-attention-hinders-alphabet-knowledge-phonological-awareness.md) — related
-- [Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process](reading-development-interwoven-lattice-not-linear.md) — related
+- Multisensory literacy strategies help students with low working memory become better at decoding — related
+- Students with lower Attention skills struggle to learn Alphabet Knowledge and Phonological Awareness, both important for Decoding — related
+- Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process — related
 - [Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation](asr-tutoring-supports-word-identification-attention-motivation.md) — related
 - [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](word-recognition-fluency-predicts-comprehension-grades-1-3.md) — related
 - [In a reservation-school literacy assessment study, fourth-grade AI/AN students were average or above in phonemic awareness, word recognition, vocabulary, and reading rate but low in comprehension](ai-an-fourth-grade-skills-comprehension-split.md) — related

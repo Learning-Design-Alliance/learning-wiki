@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: steven-wise-2015
-    resource: "https://www.nwea.org/research/publication/response-time-as-an-indicator-of-test-taker-speed-assumptions-meet-reality"
-    title: "Steven Wise. (2015). Response time as an indicator of test taker speed: assumptions meet reality. Measurement: Interdisciplinary Research and Perspectives, 13(3–4), 186–188. https://www.nwea.org/research/publication/response-time-as-an-indicator-of-test-taker-speed-assumptions-meet-reality"
+    resource: "https://doi.org/10.1080/15366367.2015.1105062"
+    title: "Steven Wise. (2015). Response time as an indicator of test taker speed: assumptions meet reality. Measurement: Interdisciplinary Research and Perspectives, 13(3–4), 186–188. https://www.nwea.org/research/publication/response-time-as-an-indicator-of-test-taker-speed-assumptions-meet-reality [doi:10.1080/15366367.2015.1105062](https://doi.org/10.1080/15366367.2015.1105062)"
     author: Steven Wise
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Steven Wise 2015
 
-Steven Wise. (2015). Response time as an indicator of test taker speed: assumptions meet reality. Measurement: Interdisciplinary Research and Perspectives, 13(3–4), 186–188. https://www.nwea.org/research/publication/response-time-as-an-indicator-of-test-taker-speed-assumptions-meet-reality
+Steven Wise. (2015). Response time as an indicator of test taker speed: assumptions meet reality. Measurement: Interdisciplinary Research and Perspectives, 13(3–4), 186–188. https://www.nwea.org/research/publication/response-time-as-an-indicator-of-test-taker-speed-assumptions-meet-reality [doi:10.1080/15366367.2015.1105062](https://doi.org/10.1080/15366367.2015.1105062)
 
 `q1 · i?` · `associational · r1`
 

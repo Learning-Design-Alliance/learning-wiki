@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2`–`r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Across the school groups, with one exception, observation revealed a culture of rule-following, helpful vocal girls alongside a culture of disruptive boys who received a disproportionate amount of teacher time and space. [→ Norberg 2003](#norberg-2003)
@@ -64,7 +65,7 @@ From the strong girls section: in the one group where boys did not dominate the 
 ## Related Claims
 - [Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise](pragmatic-values-counteract-democratic-values.md) — related
 - [In the ethnography the article analyzes, black girls bussed to an affluent suburban school were unpopular and socially excluded for being seen as loud and ghetto, while black boys were classified as incapable of academic achievement](gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school.md) — related
-- [More than 60% of clinic attendees were boys in every period, with no significant gender time trend](cap-clinic-male-predominance-constant.md) — related
-- [Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction](education-corps-boys-gains-girls-near-zero.md) — related
+- More than 60% of clinic attendees were boys in every period, with no significant gender time trend — related
+- Education Corps tutoring effects are stronger for boys (+0.33) than for girls (near zero), attributed to girls benefiting more from Tier 1 instruction — related
 - [Mathematics education acts as a gatekeeper to academic opportunity that disproportionately affects students from historically marginalized communities](mathematics-education-gatekeeper-marginalized-students.md) — related
 - [EQUIP data reports surfaced participation inequities that teachers were unaware of and motivated instructional change](equip-data-surfaces-unseen-participation-inequities.md) — related

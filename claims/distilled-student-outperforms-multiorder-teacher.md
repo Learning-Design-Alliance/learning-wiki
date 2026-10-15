@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: paritosh-parmar-2026
-    resource: "https://arxiv.org/abs/2608.05115"
-    title: "Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay. (2026). Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition. arXiv preprint. https://arxiv.org/abs/2608.05115"
+    resource: "https://doi.org/10.48550/arxiv.2608.05115"
+    title: "Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay. (2026). Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition. arXiv preprint. https://arxiv.org/abs/2608.05115 [doi:10.48550/arxiv.2608.05115](https://doi.org/10.48550/arxiv.2608.05115)"
     author: Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Distilling a multi-order hierarchical teacher into a smaller zeroth-order student lets the student outperform the teacher, and improves 4.1 percentage points in accuracy over STGCN++
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In ablations, distilling the multi-order hierarchical teacher into a single zeroth-order student allows the student to outperform the teacher, and imposing the smaller-student condition further enables it to outperform the much larger hierarchical teacher. [→ Paritosh Parmar 2026](#paritosh-parmar-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Paritosh Parmar 2026
 
-Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay. (2026). Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition. arXiv preprint. https://arxiv.org/abs/2608.05115
+Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, Chiat Pin Tay. (2026). Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition. arXiv preprint. https://arxiv.org/abs/2608.05115 [doi:10.48550/arxiv.2608.05115](https://doi.org/10.48550/arxiv.2608.05115)
 
 `q2 · i?` · `design · r2`
 

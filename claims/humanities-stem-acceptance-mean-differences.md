@@ -44,4 +44,4 @@ One-way ANOVA on behavioral intention by discipline shows Humanities students hi
 - [Low- and intermediate-proficiency students report higher perceived usefulness, ease of use, and satisfaction for AI-assisted English tools than high-proficiency students](proficiency-group-acceptance-differences.md) — related
 - [Learning motivation is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](learning-motivation-positive-ai-english-acceptance.md) — related
 - [Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app](peou-non-significant-bi-contextual-app.md) — related
-- [Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use](typology-renders-effort-expectancy-nonsignificant.md) — related
+- Adding mobile user typology to the UTAUT predictors renders effort expectancy non-significant, suggesting the typology accounts for ease of use — related

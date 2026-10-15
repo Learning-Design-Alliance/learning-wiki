@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: praveen-pathak-2026
-    resource: "https://arxiv.org/abs/2608.20521"
-    title: "Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521"
+    resource: "https://doi.org/10.48550/arxiv.2608.20521"
+    title: "Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521 [doi:10.48550/arxiv.2608.20521](https://doi.org/10.48550/arxiv.2608.20521)"
     author: Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # AI self-reported confidence flags identify parts with smaller grading differences, but some high-confidence parts still differ from official scores by more than one point
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` In every available comparison, high-confidence question parts had much lower MAD than medium- or low-confidence parts (e.g., OE1 RII 6.0% vs 17.0%; QM RII 9.8% vs 28.2%). [→ Praveen Pathak 2026](#praveen-pathak-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Praveen Pathak 2026
 
-Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521
+Praveen Pathak, Siddharth Tiwary, Charudatt Kadolkar, Vijay Singh, David Rakestraw, Shirish Pathare, and Anwesh Mazumdar. (2026). Large-scale AI grading of handwritten physics assessments: Score agreement and Olympiad team selection outcomes. https://arxiv.org/abs/2608.20521 [doi:10.48550/arxiv.2608.20521](https://doi.org/10.48550/arxiv.2608.20521)
 
 `q2 · i?` · `design · r3`
 

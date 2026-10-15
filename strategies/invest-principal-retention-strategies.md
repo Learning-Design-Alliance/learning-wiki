@@ -17,7 +17,7 @@ sources:
 # Invest in principal retention strategies that address the invisible tax on leaders of color
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (1 review, 1 associational, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief recommends retention investments so that teachers of color can grow into school leaders who have autonomy and support. It advises ensuring leaders of color are not pigeonholed into disciplinarian roles, since the uncompensated "invisible tax" burden may push educators of color to leave; establishing affinity groups for problem-solving; and creating focus groups and exit surveys to hear leaders' specific needs.
@@ -41,9 +41,7 @@ The brief recommends retention investments so that teachers of color can grow in
 
 ## Claims
 
-- [Teachers of color leave at higher rates than their White peers, partly due to the uncompensated 'invisible tax' of extra work](../claims/invisible-tax-teachers-of-color-leave-at-higher-rates.md) [+W]
 - [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](../claims/toc-retention-hostile-conditions.md) [+W]
-- [Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties](../claims/toc-workplace-racism-invisible-tax.md) [+W]
 
 ## Related Strategies
 

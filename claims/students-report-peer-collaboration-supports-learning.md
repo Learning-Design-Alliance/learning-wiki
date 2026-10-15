@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: viki-m-young-2026
-    resource: "https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30"
-    title: "Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30"
+    resource: "https://doi.org/10.51388/20.500.12265/286"
+    title: "Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30 [doi:10.51388/20.500.12265/286](https://doi.org/10.51388/20.500.12265/286)"
     author: Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Viki M. Young 2026
 
-Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30
+Viki M. Young, Ph.D., Mai Chou Vang, Zareen Kasad, Isabelle Acosta, and Alicia Frausto with Cassie Graves. (2026). Reimagining High School: Student Experiences Today, Hopes for Tomorrow. Digital Promise, Center for Learner Pathway Innovations. https://digitalpromise.dspacedirect.org/items/22bd5fad-ec7b-4ec7-a86f-0bed0800ba30 [doi:10.51388/20.500.12265/286](https://doi.org/10.51388/20.500.12265/286)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -45,5 +45,5 @@ Focus-group findings on Learning and Engagement. One 11th-grade student said "wo
 
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related
-- [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
+- The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained — related
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — related

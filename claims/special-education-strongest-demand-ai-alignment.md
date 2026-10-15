@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: holster-2026
-    resource: "https://www.oecd.org/en/data/datasets/talis-2024-database.html"
-    title: "Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html"
+    resource: "https://doi.org/10.35542/osf.io/a39rp_v1"
+    title: "Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html [doi:10.35542/osf.io/a39rp_v1](https://doi.org/10.35542/osf.io/a39rp_v1)"
     author: Holster, J.
     q: 2
     i: 2
@@ -31,7 +31,7 @@ sources:
 
 ### Holster 2026
 
-Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html
+Holster, J. (2026). Where Artificial Intelligence Enters Teacher Work. https://www.oecd.org/en/data/datasets/talis-2024-database.html [doi:10.35542/osf.io/a39rp_v1](https://doi.org/10.35542/osf.io/a39rp_v1)
 
 `q2 · i2` · `associational · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: melissa-roderick-2009
-    resource: "https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools"
-    title: "Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools"
+    resource: "https://doi.org/10.1353/foc.0.0024"
+    title: "Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools [doi:10.1353/foc.0.0024](https://doi.org/10.1353/foc.0.0024)"
     author: Melissa Roderick, Jenny Nagaoka, and Vanessa Coca
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
+> **Evidence** · 2 studies · 1 review `r2`, 1 associational `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A one standard deviation increase in unweighted high school GPA, controlling for test scores and advanced coursework, was associated with a 15 percentage point increase in four-year college graduation, versus 7 percentage points for test scores. [→ Melissa Roderick 2009](#melissa-roderick-2009)
@@ -40,7 +40,7 @@ sources:
 
 ### Melissa Roderick 2009
 
-Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools
+Melissa Roderick, Jenny Nagaoka, and Vanessa Coca. (2009). College Readiness for All: The Challenge for Urban High Schools. The Future of Children. https://consortium.uchicago.edu/publications/college-readiness-all-challenge-urban-high-schools [doi:10.1353/foc.0.0024](https://doi.org/10.1353/foc.0.0024)
 
 `q2 · i?` · `associational · r2`
 

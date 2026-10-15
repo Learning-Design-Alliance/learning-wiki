@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: antonio-laverghetta-jr-2024
-    resource: "https://arxiv.org/abs/2409.00202"
-    title: "Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty. (2024). The creative psychometric item generator: a framework for item generation and validation using large language models. CREAI 2024: Workshop on Artificial Intelligence and Creativity. https://arxiv.org/abs/2409.00202"
+    resource: "https://doi.org/10.48550/arxiv.2409.00202"
+    title: "Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty. (2024). The creative psychometric item generator: a framework for item generation and validation using large language models. CREAI 2024: Workshop on Artificial Intelligence and Creativity. https://arxiv.org/abs/2409.00202 [doi:10.48550/arxiv.2409.00202](https://doi.org/10.48550/arxiv.2409.00202)"
     author: Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Antonio Laverghetta Jr. 2024
 
-Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty. (2024). The creative psychometric item generator: a framework for item generation and validation using large language models. CREAI 2024: Workshop on Artificial Intelligence and Creativity. https://arxiv.org/abs/2409.00202
+Antonio Laverghetta Jr., Simone Luchini, Averie Linell, Roni Reiter-Palmon and Roger Beaty. (2024). The creative psychometric item generator: a framework for item generation and validation using large language models. CREAI 2024: Workshop on Artificial Intelligence and Creativity. https://arxiv.org/abs/2409.00202 [doi:10.48550/arxiv.2409.00202](https://doi.org/10.48550/arxiv.2409.00202)
 
 `q2 · i?` · `design · r?`
 
@@ -45,6 +45,6 @@ Distributional comparison of originality scores by item response prompting strat
 ## Related Claims
 - [CPIG's iterative exemplar selection consistently improves the originality of LLM responses to generated CPS items by the last round of item generation](cpig-improves-response-originality-over-iterations.md) — related
 - [Human-shadow prompting generates broad psychometric variance while AI-assistant responses are uniform](human-shadow-prompting-generates-psychometric-variance.md) — related
-- [Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts](interview-prompts-increase-llm-response-diversity.md) — related
-- [LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses](llm-survey-responses-extreme-low-variability.md) — related
+- Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts — related
+- LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses — related
 - [AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported anxiety](ai-assistant-mode-inflates-math-self-efficacy.md) — related

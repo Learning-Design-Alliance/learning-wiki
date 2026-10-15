@@ -18,7 +18,7 @@ sources:
 # GO Tutor Corps
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 GO Tutor Corps is a school-based high-impact mathematics tutoring programme that provides individualized or small-group tutoring, structured sessions, and progress monitoring for students needing additional academic support.
@@ -28,8 +28,6 @@ GO Tutor Corps is a school-based high-impact mathematics tutoring programme that
 - **GO Tutor Corps high-impact in-school math tutoring program**: GO Tutor Corps "provides high-impact tutoring during the school day that is designed to accelerate student learning through targeted academic support." It offers individualized or small-group tutoring in mathematics to students needing additional help, supplementing regular classroom instruction across the school year with consistent sessions and progress monitoring, delivered within participating schools with structured delivery and use of student performance data to guide instruction. (GO Tutor Corps (Evidence Rating: Promising) (2024))
 
 ### Claims
-- [The GO Tutor Corps evaluation matched tutored students to comparison peers on prior achievement, grade level, gender, special education status, English learner status, and race/ethnicity](../claims/go-tutor-corps-matched-comparison-design.md) [+W]
-- [GO Tutor Corps high-impact math tutoring produced significantly greater mathematics achievement gains than no tutoring for matched grade 6-10 students](../claims/go-tutor-corps-math-tutoring-positive-gains.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,8 +61,6 @@ GO Tutor Corps "provides high-impact tutoring during the school day that is desi
 
 ## Claims
 
-- [The GO Tutor Corps evaluation matched tutored students to comparison peers on prior achievement, grade level, gender, special education status, English learner status, and race/ethnicity](../claims/go-tutor-corps-matched-comparison-design.md) [+W]
-- [GO Tutor Corps high-impact math tutoring produced significantly greater mathematics achievement gains than no tutoring for matched grade 6-10 students](../claims/go-tutor-corps-math-tutoring-positive-gains.md) [+W]
 
 ## Related Elements
 - 

@@ -65,6 +65,6 @@ The experience breakdown (Figure 6) shows the Black–all-teacher disparity pers
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — possibly the same claim (merge candidate)
 - [Special education teachers are the most likely of all subject-area teachers to have borrowed (65.2%) and to owe their entire balance (15.4%)](special-education-teachers-highest-loan-burdens.md) — related
 - [Beginning teachers borrow at much higher rates than experienced teachers, with about 65% of teachers in their first 10 years having ever borrowed versus 41.4% of those with more than 30 years](novice-teachers-higher-borrowing-rates.md) — related
-- [Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt](black-women-owe-more-twelve-years-after-college.md) — related
+- Twelve years after starting college, Black women owe 13% more than they borrowed while White men have paid off 44% of their debt — related
 - [Over a third (36.7%) of borrowing teachers have worked multiple jobs because of student loans, and the share rises with monthly repayment amounts](loan-debt-multiple-jobs-teachers.md) — related
 - [About 60% of teachers repaying student loans report high or very high loan-related stress, which is correlated with overall job-related stress](loan-stress-teacher-wellbeing.md) — related

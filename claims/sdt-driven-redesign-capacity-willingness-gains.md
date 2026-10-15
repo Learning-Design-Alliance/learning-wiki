@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: haiyang-xin-2026
-    resource: "https://arxiv.org/abs/2605.12934"
-    title: "Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934"
+    resource: "https://doi.org/10.48550/arxiv.2605.12934"
+    title: "Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934 [doi:10.48550/arxiv.2605.12934](https://doi.org/10.48550/arxiv.2605.12934)"
     author: Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Haiyang Xin 2026
 
-Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934
+Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934 [doi:10.48550/arxiv.2605.12934](https://doi.org/10.48550/arxiv.2605.12934)
 
 `q2 · i3` · `design · r3`
 
@@ -49,7 +49,7 @@ Paired-sample t-tests comparing pre- and post-intervention scores for 26 Cycle 2
 - [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](genai-pd-significant-ethical-awareness-gains.md) — related
 - [Five-day no-code AI agent creation improves students' CT self-perception, with large gains in abstract and algorithmic thinking and a medium gain in pattern recognition and generalization](ai-agent-creation-ct-self-perception-gains.md) — related
 - [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related
-- [In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle](workshop-iterative-ai-creation-process-cordtra.md) — related
+- In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle — related
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) — related
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related

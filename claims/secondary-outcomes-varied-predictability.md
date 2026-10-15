@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shihao-wang-2026
-    resource: "https://arxiv.org/abs/2609.29874"
-    title: "Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874"
+    resource: "https://doi.org/10.48550/arxiv.2609.29874"
+    title: "Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874 [doi:10.48550/arxiv.2609.29874](https://doi.org/10.48550/arxiv.2609.29874)"
     author: Shihao Wang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
+> **Evidence** · 2 studies · 2 associational `r1`–`r2` · `q2`
 
 ## Subclaims
 `q2 i?` Near-term related-task performance was the most challenging prediction target, with test ROC-AUC of 0.303 for the dedicated fusion GRU, 0.433 for logistic regression, and 0.383 for gradient boosting. [→ Shihao Wang 2026](#shihao-wang-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Shihao Wang 2026
 
-Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874
+Shihao Wang. (2026). A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education. https://arxiv.org/abs/2609.29874 [doi:10.48550/arxiv.2609.29874](https://doi.org/10.48550/arxiv.2609.29874)
 
 `q2 · i?` · `associational · r2`
 

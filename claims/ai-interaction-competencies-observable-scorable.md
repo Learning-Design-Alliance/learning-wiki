@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: gao-2026
-    resource: "https://arxiv.org/abs/2605.24837"
-    title: "Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. https://arxiv.org/abs/2605.24837"
+    resource: "https://doi.org/10.48550/arxiv.2605.24837"
+    title: "Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. https://arxiv.org/abs/2605.24837 [doi:10.48550/arxiv.2605.24837](https://doi.org/10.48550/arxiv.2605.24837)"
     author: "Gao, Y., Chen, Z., Li, M., & Zhai, X."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Gao 2026
 
-Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. https://arxiv.org/abs/2605.24837
+Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment. https://arxiv.org/abs/2605.24837 [doi:10.48550/arxiv.2605.24837](https://doi.org/10.48550/arxiv.2605.24837)
 
 `q2 · i?` · `design · r2`
 

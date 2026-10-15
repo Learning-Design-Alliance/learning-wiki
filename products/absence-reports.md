@@ -18,7 +18,7 @@ sources:
 # Absence Reports
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 2 of 2 report an effect size
+> **Evidence** · no claims cited
 
 ## Description
 Absence Reports is an attendance-focused intervention delivered by school districts to provide absence information and support improved student attendance.
@@ -28,7 +28,6 @@ Absence Reports is an attendance-focused intervention delivered by school distri
 - **Attendance interventions can be delivered at scale with minimal staffing, training, and technology**: The page specifies that the Absence Reports intervention requires minimal staffing — one district staff member supporting implementation at approximately 30 minutes per week and one district-level data staff member supporting data transfer in under 3 hours total — and that professional development is minimal, with "none required aside from the staffing requirements described above," and no technology required. This shows a low-burden delivery model can accompany a statistically significant attendance effect, making district adoption feasible without extensive training infrastructure. (Attendance (2018))
 
 ### Claims
-- [Across two randomized studies totaling 38,584 students, the weighted mean effect of Absence Reports on absences is +0.16, qualifying for a Strong evidence rating](../claims/absence-reports-weighted-mean-strong-rating.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -61,7 +60,6 @@ The page specifies that the Absence Reports intervention requires minimal staffi
 - Reducing student absences through feasible district-level implementation
 
 ### Claims
-- [Absence Reports Weighted Mean Strong Rating](../claims/absence-reports-weighted-mean-strong-rating.md) [+M]
 
 ## Related Designs
 - [Everyday Intervention Absence Reports](../products/everyday-intervention.md)

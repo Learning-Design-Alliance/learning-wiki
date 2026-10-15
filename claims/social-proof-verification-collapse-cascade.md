@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ahana-biswas-2026
-    resource: "https://arxiv.org/abs/2608.19616"
-    title: "Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616"
+    resource: "https://doi.org/10.48550/arxiv.2608.19616"
+    title: "Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616 [doi:10.48550/arxiv.2608.19616](https://doi.org/10.48550/arxiv.2608.19616)"
     author: Ahana Biswas
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r3` · `q2`
 
 ## Subclaims
 `q2 i?` As social proof strength s rises from 0 to 0.6, verification falls from 0.29 to 0.002 and overreliance rises from 0.30 to 0.52, with hub and random networks coinciding. [→ Ahana Biswas 2026](#ahana-biswas-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ahana Biswas 2026
 
-Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616
+Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616 [doi:10.48550/arxiv.2608.19616](https://doi.org/10.48550/arxiv.2608.19616)
 
 `q2 · i?` · `theoretical · r3`
 

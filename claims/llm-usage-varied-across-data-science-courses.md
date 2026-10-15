@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: yuan-an-2026
-    resource: "https://arxiv.org/abs/2609.27063"
-    title: "Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063"
+    resource: "https://doi.org/10.48550/arxiv.2609.27063"
+    title: "Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063 [doi:10.48550/arxiv.2609.27063](https://doi.org/10.48550/arxiv.2609.27063)"
     author: Yuan An, Lei Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Yuan An 2026
 
-Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063
+Yuan An, Lei Wang. (2026). Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses. https://arxiv.org/abs/2609.27063 [doi:10.48550/arxiv.2609.27063](https://doi.org/10.48550/arxiv.2609.27063)
 
 `q2 · i?` · `associational · r1`
 
@@ -46,5 +46,4 @@ Descriptive cross-course comparison on the final survey wave (Course-BD n=7, Cou
 
 - [LLM usage varied across assignments and tasks, increasing for later assignments (especially discussion points), while Low-Reliance students concentrated use early and reduced it after Midterm 2](llm-usage-trends-across-assignments.md)
 - [LLM adoption varies substantially across CS subfield assignments under a shared instructional intervention, with highest use in Algorithms (89.6%) and Web Development (80.6%) and lowest in Software Engineering (15.2%)](llm-adoption-varies-by-cs-assignment.md)
-- [Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code](genai-usage-clusters-perceptions-difficulty-trust.md)
 - [Students' perceived deep-learning benefits of LLMs declined over the term while satisfaction and time savings remained high](perceived-deep-learning-benefits-declined-over-term.md)

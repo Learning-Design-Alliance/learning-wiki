@@ -78,8 +78,8 @@ Renkl and Atkinson argue that instructional design should not stop at example st
 | [van Gog 2011](https://doi.org/10.1016/j.compedu.2011.03.019) | q3 · causal · r? | i? | [Identical example–problem pairs showed an early order advantage but no detected final-test](identical-example-problem-order-advantage-not-detected-at-final-test.md) (qualifies) |
 | [Atkinson 2000](https://doi.org/10.3102/00346543070002181) | q2 · review · r3 | i? | [Alternating example-practice pairs produce faster and more accurate near-transfer solution](alternating-example-problem-pairs.md) (supports) |
 | Third Invitational Interdisciplinary Seminar: Piagetian Theory and Its Implications for the Helping Professions 1973 | q2 · causal · r? | i? | [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in](modeling-training-improves-imaginative-play.md) (supports) |
-| Üstündağ-Algın 2025 | q1 · qualitative · r? | i? | [Teacher modeling with worked examples helped EFL students internalize reading comprehensio](teacher-modeling-internalizes-reading-strategies.md) (supports) |
-| Sempowicz 2011 | q2 · qualitative · r3 | i? | [Mentor modelling and a school-wide behaviour program's strategies transferred to the mente](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) (supports) |
+| [Üstündağ-Algın 2025](https://doi.org/10.61871/mj.v49n4-2) | q1 · qualitative · r? | i? | [Teacher modeling with worked examples helped EFL students internalize reading comprehensio](teacher-modeling-internalizes-reading-strategies.md) (supports) |
+| [Sempowicz 2011](https://doi.org/10.14221/ajte.2011v36n8.4) | q2 · qualitative · r3 | i? | [Mentor modelling and a school-wide behaviour program's strategies transferred to the mente](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

@@ -42,4 +42,4 @@ Thematic analysis of 178 submissions by project type (Figure 4). The report caut
 
 ## Related Claims
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
-- [In a landscape scan survey, 12 of 13 coaches agreed or strongly agreed that AI ELA products can help personalize learning](survey-coaches-ai-personalization-benefit.md) — related
+- In a landscape scan survey, 12 of 13 coaches agreed or strongly agreed that AI ELA products can help personalize learning — related

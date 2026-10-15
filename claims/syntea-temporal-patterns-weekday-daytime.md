@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kristina-schaaff-2026
-    resource: "https://arxiv.org/abs/2607.08748"
-    title: "Kristina Schaaff, Quintus Stierstorfer and Valerie Hekkel. (2026). Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis. https://arxiv.org/abs/2607.08748"
+    resource: "https://doi.org/10.48550/arxiv.2607.08748"
+    title: "Kristina Schaaff, Quintus Stierstorfer and Valerie Hekkel. (2026). Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis. https://arxiv.org/abs/2607.08748 [doi:10.48550/arxiv.2607.08748](https://doi.org/10.48550/arxiv.2607.08748)"
     author: Kristina Schaaff, Quintus Stierstorfer and Valerie Hekkel
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kristina Schaaff 2026
 
-Kristina Schaaff, Quintus Stierstorfer and Valerie Hekkel. (2026). Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis. https://arxiv.org/abs/2607.08748
+Kristina Schaaff, Quintus Stierstorfer and Valerie Hekkel. (2026). Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis. https://arxiv.org/abs/2607.08748 [doi:10.48550/arxiv.2607.08748](https://doi.org/10.48550/arxiv.2607.08748)
 
 `q2 · i?` · `associational · r2`
 

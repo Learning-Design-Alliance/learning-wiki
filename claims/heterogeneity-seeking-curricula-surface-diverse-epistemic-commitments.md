@@ -50,7 +50,7 @@ This is a qualitative, non-experimental design study without a comparison condit
 - [Creating computational literature develops computational literacy even when code modification is minor](creating-computational-literature-develops-computational-literacy.md) — related
 - [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](dialogic-teacher-support-cultivates-statistical-modeling-practice.md) — related
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related
-- [The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools](ethic-of-care-found-in-three-female-principals.md) — related
+- The ethic of care was found in all three female principals studied, expressed in teaching, learning, dedication to students, and child-centered schools — related
 - [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md) — related
-- [Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics](real-world-examples-aid-comprehension-and-relevance.md) — related
+- Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics — related
 - [Models can only be understood with respect to the aims and intentions of a cognitive agent, not solely in terms of representation](models-understood-via-agent-aims-and-intentions.md) — related

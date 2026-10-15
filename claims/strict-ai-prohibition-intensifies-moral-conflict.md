@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: kim-2026
-    resource: "https://arxiv.org/abs/2605.29090"
-    title: "Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John. (2026). \"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing. https://arxiv.org/abs/2605.29090"
+    resource: "https://doi.org/10.48550/arxiv.2605.29090"
+    title: "Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John. (2026). \"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing. https://arxiv.org/abs/2605.29090 [doi:10.48550/arxiv.2605.29090](https://doi.org/10.48550/arxiv.2605.29090)"
     author: Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Kim 2026
 
-Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John. (2026). "It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing. https://arxiv.org/abs/2605.29090
+Kim, Jiyoon; Toyama, Kentaro; Kim, Sangmi; Carroll, John. (2026). "It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing. https://arxiv.org/abs/2605.29090 [doi:10.48550/arxiv.2605.29090](https://doi.org/10.48550/arxiv.2605.29090)
 
 `q2 · i?` · `qualitative · r3`
 
@@ -45,5 +45,5 @@ Interview case from the belief-versus-behavior analysis: participant P16 express
 ## Related Claims
 - [Students' moral rationalizations of AI use are typically post hoc and often internally inconsistent](ai-rationalizations-post-hoc-inconsistent.md) — related
 - [By the 2025 admissions cycle, a majority of applicants to the studied public policy master's program submitted at least one primarily AI-generated essay despite an explicit prohibition](majority-applicants-submitted-ai-generated-essays-2025.md) — related
-- [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](genai-policy-vignettes-mostly-restrictive-indeterminate.md) — related
+- Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted — related
 - [Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright](institutional-pro-use-course-guarded-genai-policies.md) — related

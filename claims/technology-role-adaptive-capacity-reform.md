@@ -44,5 +44,5 @@ The editors' synthesis of the volume's chapters states that "Technology can play
 
 ## Related Claims
 - [Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond](decentralization-accountability-sorting-mechanisms-school-capacity.md) — related
-- [Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear](six-restructuring-schools-case-findings.md) — related
+- Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear — related
 - [Building capacity is critical for educational reform](reform-progress-depends-on-teacher-and-school-capacity.md) — related

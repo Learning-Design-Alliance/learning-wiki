@@ -17,7 +17,7 @@ sources:
 # Shift state monitoring from compliance enforcement to technical assistance built on trust
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 State leaders reported revamping monitoring processes by redirecting resources toward targeted technical assistance and support for evidence-based practices. One state leader described the shift as moving "from 'Gotcha!' to 'How can I help you?' monitoring," which "both fosters and requires a level of trust between the SEA and the LEA." One SEA transformed its monitoring team into a "program improvement team," analyzed statewide data to identify monitoring activities that would lead to improvement, and collected stakeholder feedback annually to refine the process.
@@ -38,8 +38,6 @@ State leaders reported revamping monitoring processes by redirecting resources t
 
 ## Claims
 
-- [Use of data to guide and refine SEA school improvement supports is nascent, with additional work needed to assess whether supports have impact](../claims/sea-data-use-for-support-refinement-nascent.md) [~W]
-- [SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools](../claims/sea-shift-compliance-to-support-capacity-building.md) [+W]
 
 ## Related Strategies
 

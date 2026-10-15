@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jacob-levine-2026
-    resource: "https://arxiv.org/abs/2605.19043"
-    title: "Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, and Mariana Silva. (2026). Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs. https://arxiv.org/abs/2605.19043"
+    resource: "https://doi.org/10.48550/arxiv.2605.19043"
+    title: "Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, and Mariana Silva. (2026). Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs. https://arxiv.org/abs/2605.19043 [doi:10.48550/arxiv.2605.19043](https://doi.org/10.48550/arxiv.2605.19043)"
     author: Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, and Mariana Silva
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jacob Levine 2026
 
-Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, and Mariana Silva. (2026). Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs. https://arxiv.org/abs/2605.19043
+Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, and Mariana Silva. (2026). Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs. https://arxiv.org/abs/2605.19043 [doi:10.48550/arxiv.2605.19043](https://doi.org/10.48550/arxiv.2605.19043)
 
 `q2 · i?` · `design · r2`
 

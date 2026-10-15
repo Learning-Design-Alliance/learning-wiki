@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: megan-kuhfeld-2021
-    resource: "https://www.nwea.org/research/publication/35099/"
-    title: "Megan Kuhfeld, James Soland. (2021). The learning curve: Revisiting within-year linear growth assumptions. Journal of Research on Educational Effectiveness, 14:1, 143-171. https://www.nwea.org/research/publication/35099/"
+    resource: "https://doi.org/10.1080/19345747.2020.1839990"
+    title: "Megan Kuhfeld, James Soland. (2021). The learning curve: Revisiting within-year linear growth assumptions. Journal of Research on Educational Effectiveness, 14:1, 143-171. https://www.nwea.org/research/publication/35099/ [doi:10.1080/19345747.2020.1839990](https://doi.org/10.1080/19345747.2020.1839990)"
     author: Megan Kuhfeld, James Soland
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Megan Kuhfeld 2021
 
-Megan Kuhfeld, James Soland. (2021). The learning curve: Revisiting within-year linear growth assumptions. Journal of Research on Educational Effectiveness, 14:1, 143-171. https://www.nwea.org/research/publication/35099/
+Megan Kuhfeld, James Soland. (2021). The learning curve: Revisiting within-year linear growth assumptions. Journal of Research on Educational Effectiveness, 14:1, 143-171. https://www.nwea.org/research/publication/35099/ [doi:10.1080/19345747.2020.1839990](https://doi.org/10.1080/19345747.2020.1839990)
 
 `q1 · i?` · `associational · r?`
 

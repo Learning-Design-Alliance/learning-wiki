@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Qualitative content analysis of interviews identified two categories of voluntary individual adoption activities: investigation of new computer resources for students, and experimentation with altered teaching methods, student work, and classroom arrangements. [→ Wesley 1996](#wesley-1996)

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: tahmid-al-hannan-2026
-    resource: "https://arxiv.org/abs/2607.10647"
-    title: "Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini. (2026). Knowledge Distillation for Automated AI Tutor Evaluation. https://arxiv.org/abs/2607.10647"
+    resource: "https://doi.org/10.48550/arxiv.2607.10647"
+    title: "Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini. (2026). Knowledge Distillation for Automated AI Tutor Evaluation. https://arxiv.org/abs/2607.10647 [doi:10.48550/arxiv.2607.10647](https://doi.org/10.48550/arxiv.2607.10647)"
     author: Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tahmid Al Hannan 2026
 
-Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini. (2026). Knowledge Distillation for Automated AI Tutor Evaluation. https://arxiv.org/abs/2607.10647
+Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini. (2026). Knowledge Distillation for Automated AI Tutor Evaluation. https://arxiv.org/abs/2607.10647 [doi:10.48550/arxiv.2607.10647](https://doi.org/10.48550/arxiv.2607.10647)
 
 `q2 · i?` · `design · r2`
 

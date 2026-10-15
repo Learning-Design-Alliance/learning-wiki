@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: poquet-2026
-    resource: "https://arxiv.org/abs/2606.10434"
-    title: "Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434"
+    resource: "https://doi.org/10.48550/arxiv.2606.10434"
+    title: "Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434 [doi:10.48550/arxiv.2606.10434](https://doi.org/10.48550/arxiv.2606.10434)"
     author: Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Poquet 2026
 
-Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434
+Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., Jovanovic, J. (2026). Profiling Cognitive Offloading in LLM-mediated Synthesis Writing: Volume vs. Content. https://arxiv.org/abs/2606.10434 [doi:10.48550/arxiv.2606.10434](https://doi.org/10.48550/arxiv.2606.10434)
 
 `q2 · i?` · `associational · r1`
 

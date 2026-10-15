@@ -17,7 +17,7 @@ sources:
 # Dynamical-systems analysis of intelligent tutoring system process data
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes dynamical systems theory and associated analysis techniques as tools for examining behavioral patterns and variations within ITSs. It treats time as a critical variable, focusing on "the complex and fluid interactions that occur within a given environment rather than treating behavior as static (i.e., set or unchanging), as is customary in many statistical approaches." The author hypothesizes these methodologies can quantify changes in students' interactions across time and inform user models about optimal and non-optimal learning behaviors.
@@ -27,9 +27,6 @@ The article proposes dynamical systems theory and associated analysis techniques
 - **Dynamical systems theory as a framework for quantifying learning behavior patterns within intelligent tutoring systems**: The article proposes dynamical systems theory and associated analysis techniques as tools for examining behavioral patterns and variations within ITSs. It treats time as a critical variable, focusing on "the complex and fluid interactions that occur within a given environment rather than treating behavior as static (i.e., set or unchanging), as is customary in many statistical approaches." The author hypothesizes these methodologies can quantify changes in students' interactions across time and inform user models about optimal and non-optimal learning behaviors. (Erica L. Snow (2015))
 
 ### Claims
-- [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](../claims/controlled-interaction-patterns-higher-self-explanation-quality.md) [+W]
-- [Hurst exponent calculation requires multiple data points (e.g., over 100), which may make real-time computation impractical in some situations such as single-session studies](../claims/hurst-exponent-data-requirement-limits-real-time-use.md) [~W]
-- [Real-time dynamic analyses (Hurst exponents, Entropy) are hypothesized to inform user models about optimal and non-optimal learning behaviors within a game-based ITS](../claims/real-time-dynamic-analyses-inform-user-models.md) [+W]
 
 ## Related Research Methods
 -
@@ -63,9 +60,6 @@ The article proposes dynamical systems theory and associated analysis techniques
 
 ### Claims
 
-- [Students with more controlled interaction patterns in iSTART-2 generated higher-quality self-explanations than students with more random patterns](../claims/controlled-interaction-patterns-higher-self-explanation-quality.md) [+W]
-- [Hurst exponent calculation requires multiple data points (e.g., over 100), which may make real-time computation impractical in some situations such as single-session studies](../claims/hurst-exponent-data-requirement-limits-real-time-use.md) [~W]
-- [Real-time dynamic analyses (Hurst exponents, Entropy) are hypothesized to inform user models about optimal and non-optimal learning behaviors within a game-based ITS](../claims/real-time-dynamic-analyses-inform-user-models.md) [+W]
 
 ## Related Theories
 - 

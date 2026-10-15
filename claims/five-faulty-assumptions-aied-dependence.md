@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: luis-p-prieto-2026
-    resource: "https://arxiv.org/abs/2609.07715"
-    title: "Luis P. Prieto, Yannis Dimitriadis. (2026). An emancipatory vision for designing (generative) AI for learner flourishing. International Workshop on Critical and More-than-human Perspectives on AI in Education (at EC-TEL 2026). https://arxiv.org/abs/2609.07715"
+    resource: "https://doi.org/10.48550/arxiv.2609.07715"
+    title: "Luis P. Prieto, Yannis Dimitriadis. (2026). An emancipatory vision for designing (generative) AI for learner flourishing. International Workshop on Critical and More-than-human Perspectives on AI in Education (at EC-TEL 2026). https://arxiv.org/abs/2609.07715 [doi:10.48550/arxiv.2609.07715](https://doi.org/10.48550/arxiv.2609.07715)"
     author: Luis P. Prieto, Yannis Dimitriadis
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Luis P. Prieto 2026
 
-Luis P. Prieto, Yannis Dimitriadis. (2026). An emancipatory vision for designing (generative) AI for learner flourishing. International Workshop on Critical and More-than-human Perspectives on AI in Education (at EC-TEL 2026). https://arxiv.org/abs/2609.07715
+Luis P. Prieto, Yannis Dimitriadis. (2026). An emancipatory vision for designing (generative) AI for learner flourishing. International Workshop on Critical and More-than-human Perspectives on AI in Education (at EC-TEL 2026). https://arxiv.org/abs/2609.07715 [doi:10.48550/arxiv.2609.07715](https://doi.org/10.48550/arxiv.2609.07715)
 
 `q1 · i?` · `theoretical · r2`
 
@@ -47,7 +47,7 @@ This is a theoretical argument in a position paper, not an empirical test. The a
 - [The debt is incurred by deploying organizations but paid by users, patients, and citizens, making it an AI ethics problem](literacy-debt-incurred-deployers-paid-by-users.md) — related
 - [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — related
 - [The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months](structural-mismatch-curriculum-pace-vs-agent-product-cycles.md) — related
-- [Agency develops only within an intensely communal (attachment) relationship](agency-evolves-within-communal-relationship.md) — related
+- Agency develops only within an intensely communal (attachment) relationship — related
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related
 - [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](genai-communication-benefits-depend-on-integration.md) — related

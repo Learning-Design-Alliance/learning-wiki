@@ -48,4 +48,4 @@ Between-group post-test comparison (Table 5) of the quasi-experimental pre-test�
 - [Within the experimental group, AI-supported instruction produced statistically significant pre-to-post gains on media reading, media writing, and total media literacy](experimental-group-within-group-gains-all-subscales.md) — related
 - [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
 - [Structured AI-supported writing instruction produced a very large posttest advantage in digital critical thinking/AI literacy (DCTS) over traditional instruction](structured-ai-workflow-dcts-gains-efl.md) — related
-- [Students using Imagine Language & Literacy in Texas grades 4-5 showed significantly greater improvement in reading skills than non-using students (ES +0.18)](imagine-ll-texas-reading-gain.md) — related
+- Students using Imagine Language & Literacy in Texas grades 4-5 showed significantly greater improvement in reading skills than non-using students (ES +0.18) — related

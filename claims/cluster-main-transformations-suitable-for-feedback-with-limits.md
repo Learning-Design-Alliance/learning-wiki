@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lilian-killich-2026
-    resource: "https://arxiv.org/abs/2609.17111"
-    title: "Lilian Killich, Marko Schmellenkamp, Fabian Vehlken, Thomas Zeume. (2026). Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs. https://arxiv.org/abs/2609.17111"
+    resource: "https://doi.org/10.48550/arxiv.2609.17111"
+    title: "Lilian Killich, Marko Schmellenkamp, Fabian Vehlken, Thomas Zeume. (2026). Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs. https://arxiv.org/abs/2609.17111 [doi:10.48550/arxiv.2609.17111](https://doi.org/10.48550/arxiv.2609.17111)"
     author: Lilian Killich, Marko Schmellenkamp, Fabian Vehlken, Thomas Zeume
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lilian Killich 2026
 
-Lilian Killich, Marko Schmellenkamp, Fabian Vehlken, Thomas Zeume. (2026). Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs. https://arxiv.org/abs/2609.17111
+Lilian Killich, Marko Schmellenkamp, Fabian Vehlken, Thomas Zeume. (2026). Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs. https://arxiv.org/abs/2609.17111 [doi:10.48550/arxiv.2609.17111](https://doi.org/10.48550/arxiv.2609.17111)
 
 `q1 · i?` · `design · r2`
 

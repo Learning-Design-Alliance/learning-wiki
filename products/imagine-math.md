@@ -18,7 +18,7 @@ sources:
 # Imagine Math
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Imagine Math is Imagine Learning's adaptive digital supplemental mathematics learning platform for Pre-Kindergarten through Geometry, offering scaffolded instruction and on-demand support from certified teachers.
@@ -29,7 +29,6 @@ Imagine Math is Imagine Learning's adaptive digital supplemental mathematics lea
 ### Claims
 - [K–8 students using Imagine Math in a charter network scored significantly higher than matched non-users on NWEA MAP Growth Math (ES +0.08)](../claims/imagine-math-charter-network-study-positive-effect.md) [+W]
 - [Imagine Math effects were statistically significant for Indiana grades 3–5 (ES +0.13) but not for other grade bands or for Texas students](../claims/imagine-math-indiana-grades-3-5-significant-texas-null.md) [~W]
-- [Across two studies, the weighted average effect size of Imagine Math was +0.06](../claims/imagine-math-weighted-average-effect-0-06.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -65,7 +64,6 @@ Imagine Math by Imagine Learning is "a digital supplemental mathematics learning
 
 - [K–8 students using Imagine Math in a charter network scored significantly higher than matched non-users on NWEA MAP Growth Math (ES +0.08)](../claims/imagine-math-charter-network-study-positive-effect.md) [+W]
 - [Imagine Math effects were statistically significant for Indiana grades 3–5 (ES +0.13) but not for other grade bands or for Texas students](../claims/imagine-math-indiana-grades-3-5-significant-texas-null.md) [~W]
-- [Across two studies, the weighted average effect size of Imagine Math was +0.06](../claims/imagine-math-weighted-average-effect-0-06.md) [+W]
 
 ## Related Elements
 

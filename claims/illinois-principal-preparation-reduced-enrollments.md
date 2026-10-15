@@ -46,4 +46,4 @@ Challenge identified in the I-PREP statewide scan interviews. New admission requ
 - [Illinois' shift to selective, principal-specific preparation programs caused substantial but anticipated enrollment declines](illinois-principal-preparation-enrollment-declines.md) — related
 - [A widespread concern is that lower enrollment will constrict the principal pipeline and lead to shortages of qualified candidates](illinois-principal-preparation-pipeline-shortage-concern.md) — related
 - [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — related
-- [Recovery from decline was linked to the presence of paradoxical strategies, while linearity was not](paradoxical-strategies-linked-to-recovery-from-decline.md) — related
+- Recovery from decline was linked to the presence of paradoxical strategies, while linearity was not — related

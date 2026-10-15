@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Compared with a conventional mastery test in real-data simulation, the adaptive mastery testing strategy reduced average test length from 30% to 81% with modal reductions up to 92%, agreeing with the conventional decision for 96% of trainees. [→ Weiss 1980](#weiss-1980)
@@ -44,8 +45,8 @@ Real-data simulation in a military training environment (Research Report 79-5) c
 ## Related Claims
 
 - [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — the general claim this finding bears on, with the studies behind it
-- [An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality](inter-subtest-branching-halves-battery-length.md) — related
+- An adaptive strategy combining intra-subtest item selection with inter-subtest branching halves achievement test battery length with no loss in measurement quality — related
 - [Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items](adaptive-testing-more-precise-achievement-measurement.md) — related
-- [Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items](adaptive-tests-equal-validity-fewer-items.md) — related
+- Adaptive achievement tests achieve effectively higher validity than conventional tests by reaching equal validity with 25% to 35% fewer items — related
 - [Bayesian adaptive design benefits evaluators by allowing smaller and more informative studies](bayesian-adaptive-smaller-informative-studies.md) — related
 - [Adaptive testing yields better measurement precision than a fixed-form test of the same length](adaptive-testing-beats-fixed-form-precision-same-length.md) — related

@@ -47,9 +47,9 @@ Observational comparison of course completion data across fall 2019 (N = 102) an
 
 ## Related Claims
 - [Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty](disaggregated-data-dives-surface-equity-gaps.md) — related
-- [Courseware use did not disadvantage any student group and appeared especially promising for under-represented minority students, with grades independent of Pell, enrollment, age, gender, and first-gen status in 75% or more of analyses.](ngcc-courseware-equity-findings.md) — related
-- [NGCC adaptive courseware had a small positive, statistically significant average impact on course grades, with the top 25% of implementations showing impacts equivalent to 12 percentile points.](ngcc-courseware-small-positive-grade-impact.md) — a broader claim this one bears on
+- Courseware use did not disadvantage any student group and appeared especially promising for under-represented minority students, with grades independent of Pell, enrollment, age, gender, and first-gen status in 75% or more of analyses. — related
+- NGCC adaptive courseware had a small positive, statistically significant average impact on course grades, with the top 25% of implementations showing impacts equivalent to 12 percentile points. — a broader claim this one bears on
 - [Instructors in their second or subsequent term using Lumen One made greater use of six of seven instructor-facing courseware components than first-term users.](instructor-facing-use-increases-repeated-terms.md) — related
-- [About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness](instructor-involvement-supports-courseware-use.md) — related
+- About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness — related
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related
 - [Courseware can bridge gateway math learning gaps through tailored tutorials, study tools, diagnostics, and targeted practice](courseware-bridges-learning-gaps-gateway-math.md) — related

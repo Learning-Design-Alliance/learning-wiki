@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: thomas-2026
-    resource: "https://arxiv.org/abs/2606.18617"
-    title: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617"
+    resource: "https://doi.org/10.48550/arxiv.2606.18617"
+    title: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617 [doi:10.48550/arxiv.2606.18617](https://doi.org/10.48550/arxiv.2606.18617)"
     author: "Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R."
     q: 3
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # After training, tutors were significantly more likely to encounter pedagogical opportunities (61.1% to 68.9%) and showed higher execution quality within those opportunities (65.5% to 68.1%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
+> **Evidence** · 2 studies · 2 causal `r1` · `q3`
 
 ## Subclaims
 `q3 i?` The probability of having an opportunity to execute a target tutor move rose from 61.1% pre-training to 68.9% post-training (binomial test, p<.001). [→ Thomas 2026](#thomas-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Thomas 2026
 
-Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617
+Thomas, D. R., Kamikazi, M. C. A., Brandt, C., Borchers, C., & Koedinger, K. R. (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. https://arxiv.org/abs/2606.18617 [doi:10.48550/arxiv.2606.18617](https://doi.org/10.48550/arxiv.2606.18617)
 
 `q3 · i?` · `causal · r1`
 

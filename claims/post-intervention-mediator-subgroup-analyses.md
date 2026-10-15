@@ -45,6 +45,6 @@ The report identifies post-implementation experiences, mediators, and outcomes a
 ## Related Claims
 - [Quantitative methods exist for assessing how impacts of educational interventions on instructional practices and student learning differ across students, educators, and schools](methods-assess-impact-variation-across-students-educators-schools.md) — a broader claim this one bears on
 - [Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented](pre-intervention-moderator-analyses.md) — related
-- [The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance](future-forward-differential-impact-subgroups.md) — related
+- The attendance impact of Future Forward is larger for Black students, male students, and students with low baseline attendance — related
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related

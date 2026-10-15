@@ -48,5 +48,5 @@ The webinar description reports new research following the academic growth traje
 ## Related Claims
 - [New research tracked academic growth trajectories of students who are deaf or hard of hearing across grades 2-8](dhh-growth-trajectories-grades-2-8-study.md) — related
 - [DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades](dhh-students-continue-building-skills-no-elementary-plateau.md) — possibly the same claim (merge candidate)
-- [Deaf students plateau at fourth-grade reading skill despite prolonged schooling](deaf-students-reading-plateau-fourth-grade.md) — reports the opposite
+- Deaf students plateau at fourth-grade reading skill despite prolonged schooling — reports the opposite
 - [DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do](dhh-systemic-barriers-low-expectations.md) — related

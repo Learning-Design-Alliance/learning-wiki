@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: lei-fan-and-fangxue-liu-2026
-    resource: "https://arxiv.org/abs/2606.24104"
-    title: "Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104"
+    resource: "https://doi.org/10.48550/arxiv.2606.24104"
+    title: "Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104 [doi:10.48550/arxiv.2606.24104](https://doi.org/10.48550/arxiv.2606.24104)"
     author: Lei Fan and Fangxue Liu
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lei Fan and Fangxue Liu 2026
 
-Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104
+Lei Fan and Fangxue Liu. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. https://arxiv.org/abs/2606.24104 [doi:10.48550/arxiv.2606.24104](https://doi.org/10.48550/arxiv.2606.24104)
 
 `q2 · i?` · `associational · r2`
 
@@ -48,4 +48,4 @@ Gender comparison (Figure 4a) in a sample that was 80.44% female. The article st
 - [Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations](genai-performance-gains-assessment-caution.md) — related
 - [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
-- [Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster](gender-difference-only-zero-usage-cluster.md) — related
+- Gender differences in GenAI usage clusters are minimal, confined to a male-dominated Zero usage cluster — related

@@ -45,5 +45,5 @@ ITS-characteristics moderator analysis (Table 2). Under both fixed- and random-e
 ## Related Claims
 - [MisconceptionTutor achieves higher pedagogical quality (DAMR) than BaselineTutor on nearly all dimensions, with small-to-moderate effect sizes](misconception-tutor-higher-damr-pedagogical-quality.md) — related
 - [Pedagogically desired feedback is engaged with more (higher RelScore), but pedagogical quality shows little relation to whether actions are applied correctly (SuccScore)](pedagogy-drives-relevance-not-correct-application.md) — related
-- [Six of thirteen coded moderators significantly influence the effect of CALL feedback: educational level, intervention provider, mother tongue, research context, subject domain, and target language](six-significant-moderators-call-feedback.md) — related
-- [Feedback in CALL has a significant moderate positive effect on student language learning outcomes (RE g = 0.56) across 21 studies](call-feedback-medium-positive-effect.md) — related
+- Six of thirteen coded moderators significantly influence the effect of CALL feedback: educational level, intervention provider, mother tongue, research context, subject domain, and target language — related
+- Feedback in CALL has a significant moderate positive effect on student language learning outcomes (RE g = 0.56) across 21 studies — related

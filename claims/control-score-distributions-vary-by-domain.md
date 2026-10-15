@@ -61,7 +61,7 @@ Same box-plot analysis of the four domains: HR shows the largest range (0–1) o
 
 
 ## Related Claims
-- [Ability-distribution mismatch with the TESTFACT default does not significantly affect item difficulty estimates but slightly improves discrimination estimates](ability-distribution-mismatch-mirt-estimates.md) — related
+- Ability-distribution mismatch with the TESTFACT default does not significantly affect item difficulty estimates but slightly improves discrimination estimates — related
 - [Country classifications of control type differ sharply by domain: mixed control dominates assessment, internal control dominates curriculum](control-type-classification-counts-by-domain.md) — related
 - [Across 38 countries, external control is highest in assessment and lowest in curriculum and budget](external-control-highest-assessment-lowest-curriculum.md) — related
 - [Extreme country cases: Spain reports universal external control of hiring while the Netherlands reports universal internal control of HR, curriculum, and budget](extreme-country-control-cases-spain-netherlands.md) — related

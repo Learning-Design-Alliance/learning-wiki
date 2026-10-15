@@ -43,7 +43,7 @@ Focus-group analysis of one participant (Howard, arts/psychology) within a study
 
 
 ## Related Claims
-- [Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted](genai-policy-vignettes-mostly-restrictive-indeterminate.md) — related
+- Australian university policy environments yield mostly restrictive or indeterminate GenAI classifications, with no combination clearly permitted — related
 - [One student's resistance to GenAI was entangled with neurodiversity, a biological conception of authentic effortful learning, and anxieties about rapid technological change](genai-resistance-entangled-neurodiversity-authenticity.md) — related
 - [Qualitative findings identified plagiarism, student overreliance on AI, and a barrier of reconciling institutional policy gaps with personal ethical values](qualitative-genai-challenges-policy-gap-barrier.md) — related
 - [The amount of AI-generated code in a submission was the dominant factor influencing students' ethical and rule-compliance judgments](amount-of-ai-generated-code-dominant-factor-in-ethical-judgments.md) — related

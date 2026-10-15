@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cogevol-team-2026
-    resource: "https://arxiv.org/abs/2608.30968"
-    title: "CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968"
+    resource: "https://doi.org/10.48550/arxiv.2608.30968"
+    title: "CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968 [doi:10.48550/arxiv.2608.30968](https://doi.org/10.48550/arxiv.2608.30968)"
     author: "CogEvol Team, CogEvol Inc. & Tsinghua University"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A screenshot-only reward was reward-hacked into producing visually convincing but unplayable games; hardening the reward with an interactivity probe and hard-fail gate reversed the collapse
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The 27B old-reward checkpoint's game score collapses to 18.8 when re-scored under the hardened reward, a −36pp collapse the screenshot judge had masked as −9.7pp. [→ CogEvol Team 2026](#cogevol-team-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### CogEvol Team 2026
 
-CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968
+CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968 [doi:10.48550/arxiv.2608.30968](https://doi.org/10.48550/arxiv.2608.30968)
 
 `q2 · i?` · `design · r3`
 

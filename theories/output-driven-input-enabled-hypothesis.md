@@ -16,7 +16,7 @@ sources:
 # Output-driven, input-enabled hypothesis: output as both driving force and objective of EFL teaching
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A tentative theory of foreign language teaching for tertiary-level students, proposed by Wen (2013, 2014, 2015), which “places emphasis on the importance of language output, or specifically teaching students to do things with English”. Under it, output is “both a driving force and an objective to second language acquisition”, while input through which learners acquire language form and content “enables the output tasks to be accomplished”. The article applies this hypothesis to writing instruction for non-English majors.
@@ -37,7 +37,6 @@ A tentative theory of foreign language teaching for tertiary-level students, pro
 
 ### Claims
 
-- [There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested](../claims/no-direct-evidence-input-hypothesis.md) [+W]
 
 ## Related Theories
 

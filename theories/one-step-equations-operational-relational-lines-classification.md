@@ -16,7 +16,7 @@ sources:
 # A cognitive load based classification of one-step equations into Type 1 and Type 2 by operational and relational lines
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes a framework that classifies one-step equations by counting operational lines (steps that alter the problem state while preserving equality) and relational lines (lines showing a quantitative relation between elements). Type 1 equations have one operational and two relational lines; Type 2 equations have two operational and three relational lines. The number of these lines indexes element interactivity, which determines intrinsic load and thus equation complexity, paralleling Mayer's classification of algebra story problems.
@@ -38,10 +38,6 @@ The article proposes a framework that classifies one-step equations by counting 
 
 ### Claims
 
-- [The complexity of one-step equations increases with the number of operational and relational lines](../claims/operational-relational-lines-determine-equation-complexity.md) [+W]
-- [Special features (negative numbers, decimals, percentages, fraction solutions, pronumeral on the right) increase difficulty of one-step equations at constant element interactivity](../claims/special-features-increase-one-step-equation-difficulty.md) [+W]
-- [Reliance on trial-and-error or substitution for one-step equations undermines later learning of multi-step equations where those methods become infeasible](../claims/trial-and-error-one-step-undermines-multistep-learning.md) [+W]
-- [Type 1 one-step equations (1 operational, 2 relational lines) are argued to be easier to learn than Type 2 (2 operational, 3 relational lines) due to lower cognitive load](../claims/type1-easier-than-type2-one-step-equations.md) [+W]
 
 ## Related Theories
 - 

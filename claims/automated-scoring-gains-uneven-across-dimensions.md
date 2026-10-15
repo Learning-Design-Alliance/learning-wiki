@@ -42,8 +42,8 @@ Four dimension-level ANOVAs on pre/post sub-scores found significant interaction
 
 ## Related Claims
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related
-- [Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation](surface-gains-mixed-higher-order-outcomes.md) — a broader claim this one bears on
+- Empirical gains from AI tools in Arab EL2 classrooms are most consistent for surface-level outcomes, while higher-order writing quality and speaking proficiency show mixed results contingent on teacher mediation — a broader claim this one bears on
 - [AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion](ai-peer-feedback-writing-gains-differential.md) — related
 - [Automated scoring practice produced a significant time × group interaction on total interpreting scores](automated-scoring-time-group-interaction-total-scores.md) — a broader claim this one bears on
-- [Gains concentrated in proposed-question scores rather than diagnosis scores, with the largest improvement on Hazard C diagnosis](question-formulation-gains-exceed-diagnosis-gains.md) — a narrower finding that bears on this claim
+- Gains concentrated in proposed-question scores rather than diagnosis scores, with the largest improvement on Hazard C diagnosis — a narrower finding that bears on this claim
 - [Higher education students' interactions with an AI automated feedback tool can support the development of their feedback literacy capabilities](ai-feedback-tool-supports-feedback-literacy-development.md) — related

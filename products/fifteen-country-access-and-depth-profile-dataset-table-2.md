@@ -13,7 +13,7 @@ generated:
 # Fifteen-country access and depth profile dataset (Table 2)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A dataset compiled by Adrian-Marius Dumitran that codes programming-language policy and AI-literacy access across fifteen national upper-secondary education systems for comparative curriculum and governance analysis.
@@ -22,8 +22,6 @@ A dataset compiled by Adrian-Marius Dumitran that codes programming-language pol
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [A Syntax Ceiling concentrates algorithmic depth in elite STEM tracks while Python-based instruction reaches most students](../claims/syntax-ceiling-python-cpp-stratification.md) [+M]
-- [In several national systems a significant portion of students completes secondary education without any formal programming exposure](../claims/access-gap-secondary-programming-exposure.md) [+M]
 
 ## Related Products and Programmes
 -

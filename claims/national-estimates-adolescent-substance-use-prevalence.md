@@ -43,4 +43,4 @@ The executive summary's framing paragraph reports national prevalence figures, a
 
 
 ## Related Claims
-- [The 2013 SCS report also covers gangs, weapons, drugs, alcohol, bullying, cyberbullying, and avoidance behaviors at school](scs-2013-report-scope-gangs-weapons-drugs-bullying-avoidance.md) — related
+- The 2013 SCS report also covers gangs, weapons, drugs, alcohol, bullying, cyberbullying, and avoidance behaviors at school — related

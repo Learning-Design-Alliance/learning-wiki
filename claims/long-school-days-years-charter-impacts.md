@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: philip-m-gleason-2017
-    resource: "https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools"
-    title: "Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools"
+    resource: "https://doi.org/10.1080/15582159.2017.1395620"
+    title: "Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools [doi:10.1080/15582159.2017.1395620](https://doi.org/10.1080/15582159.2017.1395620)"
     author: Philip M. Gleason
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Philip M. Gleason 2017
 
-Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools
+Philip M. Gleason. (2017). What's the Secret Ingredient? Searching for Policies and Practices That Make Charter Schools Successful. Journal of School Choice. https://www.mathematica.org/publications/ja-whats-the-secret-ingredient-searching-for-policies-and-practices-that-make-charter-schools [doi:10.1080/15582159.2017.1395620](https://doi.org/10.1080/15582159.2017.1395620)
 
 `q2 · i?` · `review · r?`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: larsen-2022
-    resource: "https://ro.uow.edu.au/jutlp/vol19/iss4/05"
-    title: "Larsen, A., & James, T. (2022). A sense of belonging in Australian higher education: the significance of self-efficacy and the student-educator relationship. Journal of University Teaching & Learning Practice, 19(4). https://ro.uow.edu.au/jutlp/vol19/iss4/05"
+    resource: "https://doi.org/10.53761/1.19.4.5"
+    title: "Larsen, A., & James, T. (2022). A sense of belonging in Australian higher education: the significance of self-efficacy and the student-educator relationship. Journal of University Teaching & Learning Practice, 19(4). https://ro.uow.edu.au/jutlp/vol19/iss4/05 [doi:10.53761/1.19.4.5](https://doi.org/10.53761/1.19.4.5)"
     author: "Larsen, A., & James, T."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Larsen 2022
 
-Larsen, A., & James, T. (2022). A sense of belonging in Australian higher education: the significance of self-efficacy and the student-educator relationship. Journal of University Teaching & Learning Practice, 19(4). https://ro.uow.edu.au/jutlp/vol19/iss4/05
+Larsen, A., & James, T. (2022). A sense of belonging in Australian higher education: the significance of self-efficacy and the student-educator relationship. Journal of University Teaching & Learning Practice, 19(4). https://ro.uow.edu.au/jutlp/vol19/iss4/05 [doi:10.53761/1.19.4.5](https://doi.org/10.53761/1.19.4.5)
 
 `q2 · i?` · `theoretical · r3`
 

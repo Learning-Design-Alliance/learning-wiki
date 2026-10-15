@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ganganath-2026
-    resource: "https://arxiv.org/abs/2606.22349"
-    title: "Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T. (2026). Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior. https://arxiv.org/abs/2606.22349"
+    resource: "https://doi.org/10.48550/arxiv.2606.22349"
+    title: "Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T. (2026). Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior. https://arxiv.org/abs/2606.22349 [doi:10.48550/arxiv.2606.22349](https://doi.org/10.48550/arxiv.2606.22349)"
     author: "Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ganganath 2026
 
-Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T. (2026). Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior. https://arxiv.org/abs/2606.22349
+Ganganath, G., Bolonghege, P., Lyu, Q., Varakantham, P., & Kandappu, T. (2026). Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior. https://arxiv.org/abs/2606.22349 [doi:10.48550/arxiv.2606.22349](https://doi.org/10.48550/arxiv.2606.22349)
 
 `q2 · i?` · `causal · r2`
 

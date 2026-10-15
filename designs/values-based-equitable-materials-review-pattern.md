@@ -17,7 +17,7 @@ sources:
 # State instructional materials review designed around statewide core values of equity, access, inclusivity, community, and transparency
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The refined Nevada process organizes materials adoption around the SEA strategic plan's core values — "equity, access to quality, success, inclusivity, community, and transparency" — and defines high-quality curricula as standards-aligned and culturally engaging: accurate, content-rich, free from bias, and supportive of students' linguistic and cultural lenses. The design responds to prior review inequities, especially for rural districts, by standardizing rubrics, training, and public participation opportunities.
@@ -38,7 +38,6 @@ The refined Nevada process organizes materials adoption around the SEA strategic
 
 ### Claims
 - [Nevada Refined Im Review Process Addresses Clarity And Rural Equity](../claims/nevada-refined-im-review-process-addresses-clarity-and-rural-equity.md) [+W]
-- [Rpdp Representation Rural Districts Review Panels](../claims/rpdp-representation-rural-districts-review-panels.md) [+W]
 
 ## Related Designs
 - 

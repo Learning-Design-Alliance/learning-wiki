@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ross-2025
-    resource: "https://orcid.org/0000-0002-5092-6798"
-    title: "Ross, M., & Kaspar, K. (2025). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). https://orcid.org/0000-0002-5092-6798"
+    resource: "https://doi.org/10.31234/osf.io/e6smh_v1"
+    title: "Ross, M., & Kaspar, K. (2025). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). https://orcid.org/0000-0002-5092-6798 [doi:10.31234/osf.io/e6smh_v1](https://doi.org/10.31234/osf.io/e6smh_v1)"
     author: "Ross, M., & Kaspar, K."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Cybersickness remains a persistent practical challenge, affecting approximately 42% of VR users, and can occur in AR where symptoms may exceed those in VR
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r?` · `q2`
+> **Evidence** · 2 studies · 1 review `r?`, 1 theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Recent studies still report substantial prevalence rates of cybersickness symptoms, with approximately 42% of participants affected when using VR headsets. [→ Ross 2025](#ross-2025)
@@ -40,7 +40,7 @@ sources:
 
 ### Ross 2025
 
-Ross, M., & Kaspar, K. (2025). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). https://orcid.org/0000-0002-5092-6798
+Ross, M., & Kaspar, K. (2025). Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME). https://orcid.org/0000-0002-5092-6798 [doi:10.31234/osf.io/e6smh_v1](https://doi.org/10.31234/osf.io/e6smh_v1)
 
 `q2 · i?` · `review · r?`
 

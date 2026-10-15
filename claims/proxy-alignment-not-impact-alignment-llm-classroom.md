@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: michael-hardy-2026
-    resource: "https://arxiv.org/abs/2603.00883"
-    title: "Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883"
+    resource: "https://doi.org/10.48550/arxiv.2603.00883"
+    title: "Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883 [doi:10.48550/arxiv.2603.00883](https://doi.org/10.48550/arxiv.2603.00883)"
     author: Michael Hardy, Yunsung Kim
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Michael Hardy 2026
 
-Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883
+Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883 [doi:10.48550/arxiv.2603.00883](https://doi.org/10.48550/arxiv.2603.00883)
 
 `q2 · i?` · `associational · r3`
 
@@ -43,7 +43,7 @@ Kendall's tau concordance analysis juxtaposing each LLM's alignment with expert 
 
 
 ## Related Claims
-- [ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them](ml-overestimates-llm-underestimates-pattern.md) — related
+- ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — reports the opposite
 - [Confidence-aware selective test-time scoring achieves the best average agreement with expert rubric scoring across six NGSS drawing items](ca-selective-best-average-agreement-drawings.md) — reports the opposite

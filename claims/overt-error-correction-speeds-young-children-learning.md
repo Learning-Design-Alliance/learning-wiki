@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` For young children, overt correction of errors produced faster learning than mere knowledge of whether responses were correct; for adults, overt correction did not increase learning rate or asymptotic performance. [→ Glaser 1966](#glaser-1966)
@@ -44,4 +45,4 @@ The review attributes this finding to Suppes and Ginsberg (1962) on children's c
 
 ## Related Claims
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
-- [Children's language is highly resistant to alteration by adult intervention, challenging a simple imitation theory](child-language-resistant-to-adult-correction.md) — related
+- Children's language is highly resistant to alteration by adult intervention, challenging a simple imitation theory — related

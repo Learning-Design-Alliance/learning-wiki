@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` A majority (57.1%) of Instructor A's respondents attributed improved understanding to discussing the mathematics content and thinking about it. [→ Miller 2013](#miller-2013)
@@ -43,7 +44,7 @@ Of the 63 students in Instructor A's classes, 55 (87.3%) responded favorably tha
 
 
 ## Related Claims
-- [Pre-service elementary teachers overwhelmingly liked a modified peer instruction clicker implementation in their mathematics content course](clicker-mpi-liked-by-preservice-teachers.md) — related
+- Pre-service elementary teachers overwhelmingly liked a modified peer instruction clicker implementation in their mathematics content course — related
 - [Most pre-service elementary teachers believed clicker use assisted their learning and understanding of course material](clickers-perceived-learning-benefit.md) — related
 - [Students perceived clickers' greatest course impact as lesson variation and fun, with learning influence a distant second](clickers-fun-variation-over-learning.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — a broader claim this one bears on

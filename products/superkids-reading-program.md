@@ -18,7 +18,7 @@ sources:
 # Superkids Reading Program
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The Superkids Reading Program is a K–2 beginning-reading curriculum developed and provided by the Rowland Reading Foundation, covering phonemic awareness, phonics, vocabulary, comprehension, writing, and spelling.
@@ -27,9 +27,6 @@ The Superkids Reading Program is a K–2 beginning-reading curriculum developed 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls](../claims/superkids-kindergarten-effect-size-023.md) [+W]
-- [Superkids teachers report satisfaction, perceived effectiveness, and ease of implementation significantly above control teachers (Borman & Dowling, 2009)](../claims/superkids-teacher-satisfaction-borman-dowling-2009.md) [+W]
-- [Superkids teachers report higher satisfaction, ease of use, and more core-program time than comparison teachers (D'Agostino, 2009)](../claims/superkids-teacher-satisfaction-dagostino-2009.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,9 +60,6 @@ The Superkids Reading Program is a beginning reading program for grades K-2, alt
 
 ## Claims
 
-- [Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls](../claims/superkids-kindergarten-effect-size-023.md) [+W]
-- [Superkids teachers report satisfaction, perceived effectiveness, and ease of implementation significantly above control teachers (Borman & Dowling, 2009)](../claims/superkids-teacher-satisfaction-borman-dowling-2009.md) [+W]
-- [Superkids teachers report higher satisfaction, ease of use, and more core-program time than comparison teachers (D'Agostino, 2009)](../claims/superkids-teacher-satisfaction-dagostino-2009.md) [+W]
 
 ## Related Elements
 - 

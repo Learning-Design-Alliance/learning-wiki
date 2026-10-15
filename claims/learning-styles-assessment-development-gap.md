@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: deborah-adkins-2018
-    resource: "https://www.nwea.org/research/publication/learning-styles-considerations-for-technology-enhanced-item-design-learning-styles/"
-    title: "Deborah Adkins, Meg Guerreiro. (2018). Learning styles: Considerations for technology enhanced item design: Learning styles. British Journal of Educational Technology 49(10). https://www.nwea.org/research/publication/learning-styles-considerations-for-technology-enhanced-item-design-learning-styles/"
+    resource: "https://doi.org/10.1111/bjet.12556"
+    title: "Deborah Adkins, Meg Guerreiro. (2018). Learning styles: Considerations for technology enhanced item design: Learning styles. British Journal of Educational Technology 49(10). https://www.nwea.org/research/publication/learning-styles-considerations-for-technology-enhanced-item-design-learning-styles/ [doi:10.1111/bjet.12556](https://doi.org/10.1111/bjet.12556)"
     author: Deborah Adkins, Meg Guerreiro
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Deborah Adkins 2018
 
-Deborah Adkins, Meg Guerreiro. (2018). Learning styles: Considerations for technology enhanced item design: Learning styles. British Journal of Educational Technology 49(10). https://www.nwea.org/research/publication/learning-styles-considerations-for-technology-enhanced-item-design-learning-styles/
+Deborah Adkins, Meg Guerreiro. (2018). Learning styles: Considerations for technology enhanced item design: Learning styles. British Journal of Educational Technology 49(10). https://www.nwea.org/research/publication/learning-styles-considerations-for-technology-enhanced-item-design-learning-styles/ [doi:10.1111/bjet.12556](https://doi.org/10.1111/bjet.12556)
 
 `q1 · i?` · `review · r?`
 

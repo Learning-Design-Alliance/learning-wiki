@@ -22,7 +22,7 @@ sources:
 # Corrective Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 7 claims (2 for, 3 mixed, 2 against) · 2 studies (2 causal), `q3` · 2 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 5 claims (1 for, 3 mixed, 1 against) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Corrective Reading is a scripted, structured reading intervention curriculum for upper-elementary struggling readers, focused on phonics, fluency, and comprehension.
@@ -32,8 +32,6 @@ Corrective Reading is a scripted, structured reading intervention curriculum for
 - **Deliver Corrective Reading in small groups with sessions 4-5 days per week for optimal achievement gains**: The article states the program "is most effective when taught in small groups" and that "Sessions should occur 4-5 days per week for optimal achievement gains". Delivery can occur inside or outside the regular classroom, and instructors may teach multiple groups across the school day. (Corrective Reading (2021))
 
 ### Claims
-- [Most outcomes of Corrective Reading, including state reading tests, did not show positive effects, yielding an average effect size of only +0.06](../claims/corrective-reading-most-outcomes-null-average-es-006.md) [-W]
-- [Corrective Reading produced a significant positive effect on Woodcock Word Attack (effect size = +0.15) in its only qualifying evaluation](../claims/corrective-reading-word-attack-positive-effect.md) [+W]
 - [Corrective Reading showed statistically significant positive effects on two of four alphabetics outcomes, but the alphabetics domain average effect was neither significant nor substantively important](../claims/corrective-reading-alphabetics-mixed-outcomes.md) [~W]
 - [Corrective Reading showed no statistically significant effects on reading comprehension outcomes](../claims/corrective-reading-no-comprehension-effects.md) [-W]
 - [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](../claims/corrective-reading-significant-fluency-effect.md) [+W]
@@ -76,8 +74,6 @@ Corrective Reading is "a program for upper-elementary struggling readers that us
 
 ## Claims
 
-- [Most outcomes of Corrective Reading, including state reading tests, did not show positive effects, yielding an average effect size of only +0.06](../claims/corrective-reading-most-outcomes-null-average-es-006.md) [-W]
-- [Corrective Reading produced a significant positive effect on Woodcock Word Attack (effect size = +0.15) in its only qualifying evaluation](../claims/corrective-reading-word-attack-positive-effect.md) [+W]
 
 ## Related Elements
 

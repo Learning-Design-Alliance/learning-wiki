@@ -47,9 +47,9 @@ Review synthesis across the eleven included studies. The review reports medians 
 
 ## Related Claims
 - [Low-performing students were more affected by closures in mathematics while high-performing students were more affected in reading, and low-performing students benefited more from systematic online learning](covid-closures-achieving-level-differential-effects.md) — related
-- [Dutch (language) learning losses from the 2020 school closures were larger than mathematics losses, at about 0.26-0.29 standard deviations](covid-closures-dutch-loss-larger-than-math.md) — related
+- Dutch (language) learning losses from the 2020 school closures were larger than mathematics losses, at about 0.26-0.29 standard deviations — related
 - [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — a broader claim this one bears on
 - [Remote learning implemented during the spring 2020 closures achieved effects similar to no teaching at all during summer vacation](covid-remote-learning-comparable-to-summer-loss.md) — related
-- [The learning-loss estimates are robust to restricting the sample to constant schools, adding school fixed effects, and coarsened exact matching](covid-closures-losses-robust-to-robustness-checks.md) — related
+- The learning-loss estimates are robust to restricting the sample to constant schools, adding school fixed effects, and coarsened exact matching — related
 - [Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs. −0.10 SD)](covid-closures-younger-students-more-affected.md) — related
 - [Learning loss showed little evidence of differing by sex, school grade, subject, or prior performance](learning-loss-no-difference-sex-grade-subject-prior-performance.md) — related

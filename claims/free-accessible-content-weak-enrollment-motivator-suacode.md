@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: michael-addo-2026
-    resource: "https://arxiv.org/abs/2607.22940"
-    title: "Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, and George Boateng. (2026). “Why SuaCode?”: Understanding African Students’ Motivations for Taking a Smartphone-Based Online Coding Course. arXiv. https://arxiv.org/abs/2607.22940"
+    resource: "https://doi.org/10.48550/arxiv.2607.22940"
+    title: "Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, and George Boateng. (2026). “Why SuaCode?”: Understanding African Students’ Motivations for Taking a Smartphone-Based Online Coding Course. arXiv. https://arxiv.org/abs/2607.22940 [doi:10.48550/arxiv.2607.22940](https://doi.org/10.48550/arxiv.2607.22940)"
     author: Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, and George Boateng
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Michael Addo 2026
 
-Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, and George Boateng. (2026). “Why SuaCode?”: Understanding African Students’ Motivations for Taking a Smartphone-Based Online Coding Course. arXiv. https://arxiv.org/abs/2607.22940
+Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, and George Boateng. (2026). “Why SuaCode?”: Understanding African Students’ Motivations for Taking a Smartphone-Based Online Coding Course. arXiv. https://arxiv.org/abs/2607.22940 [doi:10.48550/arxiv.2607.22940](https://doi.org/10.48550/arxiv.2607.22940)
 
 `q2 · i?` · `qualitative · r2`
 

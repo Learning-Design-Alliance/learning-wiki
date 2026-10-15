@@ -27,6 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 design `r2` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 6 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` After capstone instructors began inviting departmental and campus audiences to ePortfolio presentations, students reported high satisfaction, and knowing they would have an actual audience influenced their approach to assignments earlier in the course. [→ showcase](#showcase)
@@ -60,4 +61,4 @@ Description of the COVID-pivot virtual showcase in spring 2020: instructors crea
 ## Related Claims
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](philanthropic-studies-epportfolio-curricular-integration.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — a broader claim this one bears on
-- [The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment](eportfolio-effective-self-assessment-information-literacy.md) — related
+- The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment — related

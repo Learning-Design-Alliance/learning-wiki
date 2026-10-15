@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: gennie-mansi-2026
-    resource: "https://arxiv.org/abs/2606.30590"
-    title: "Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590"
+    resource: "https://doi.org/10.48550/arxiv.2606.30590"
+    title: "Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590 [doi:10.48550/arxiv.2606.30590](https://doi.org/10.48550/arxiv.2606.30590)"
     author: Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` All teachers agreed Concept Catalyst would reduce their cognitive load because the AI could generate questions for them. [→ Gennie Mansi 2026](#gennie-mansi-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Gennie Mansi 2026
 
-Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590
+Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl. (2026). Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI. https://arxiv.org/abs/2606.30590 [doi:10.48550/arxiv.2606.30590](https://doi.org/10.48550/arxiv.2606.30590)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -70,6 +70,6 @@ Findings from the same WoZ interview study, in the diversity/efficiency results 
 - [Building the concept map supported teachers' reflection, helping them synthesize what students should learn and iterate on their plans](concept-catalyst-concept-map-supports-teacher-reflection.md) — related
 - [Teachers judged the AI-generated scaffolds relevant and of similar quality to their own questions, though some felt the wording was too fancy or long and needed modification](concept-catalyst-scaffold-quality-relevant-but-needs-editing.md) — related
 - [In a prior Wizard-of-Oz study, K-12 engineering teachers reported positive feedback on the efficiency, quality, and diversity of scaffold content produced with the Concept Catalyst framework](woz-study-positive-teacher-feedback-concept-catalyst-framework.md) — related
-- [Generative AI can help people finish tasks more quickly but does not accelerate learning itself](genai-speeds-tasks-not-learning.md) — related
+- Generative AI can help people finish tasks more quickly but does not accelerate learning itself — related
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
 - [Teachers perceive that AI tools lower cognitive barriers and deepen students' conceptual understanding of abstract science content](ai-lowers-cognitive-barriers-conceptual-understanding.md) — related

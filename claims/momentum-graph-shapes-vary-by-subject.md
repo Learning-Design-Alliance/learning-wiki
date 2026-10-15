@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: steven-s-christensen-jonathan-s-spackman-2016
-    resource: "https://eric.ed.gov/?id=EJ1150708"
-    title: "Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708"
+    resource: "https://doi.org/10.9743/jeo.2017.14.2.7"
+    title: "Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)"
     author: "Steven S. Christensen & Jonathan S. Spackman"
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Steven S. Christensen & Jonathan S. Spackman 2016
 
-Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708
+Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)
 
 `q2 · i?` · `design · r2`
 

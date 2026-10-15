@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: yueqiao-jin-2024
-    resource: "https://arxiv.org/abs/2411.00283"
-    title: "Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283"
+    resource: "https://doi.org/10.48550/arxiv.2411.00283"
+    title: "Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283 [doi:10.48550/arxiv.2411.00283](https://doi.org/10.48550/arxiv.2411.00283)"
     author: Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r3` · `q2`
 
 ## Subclaims
 `q2 i?` Five items with discrimination indices below 0.3 were excluded from the GLAT. [→ Yueqiao Jin 2024](#yueqiao-jin-2024)
@@ -40,7 +40,7 @@ sources:
 
 ### Yueqiao Jin 2024
 
-Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283
+Yueqiao Jin, Roberto Martinez-Maldonado, Dragan Gašević and Lixiang Yan. (2024). GLAT: The Generative AI Literacy Assessment Test. https://arxiv.org/abs/2411.00283 [doi:10.48550/arxiv.2411.00283](https://doi.org/10.48550/arxiv.2411.00283)
 
 `q2 · i?` · `design · r3`
 

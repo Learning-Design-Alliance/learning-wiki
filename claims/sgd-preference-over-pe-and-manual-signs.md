@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the studies comparing SGD vs. PE, 50% of participants showed high preference for SGD versus 30% for PE; across three options, 67% preferred SGDs. [→ Nam 2018](#nam-2018)
@@ -66,6 +67,6 @@ Overview of the Lorah et al. (2015) review of 17 empirical studies on handheld c
 
 ## Related Claims
 - [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](aided-systems-advantage-over-manual-signs.md) — related
-- [Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses](heterogeneity-limits-aac-reviews.md) — related
-- [Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes](no-consistent-pe-vs-sgd-effectiveness-differences.md) — related
+- Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses — related
+- Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes — related
 - [Included qualitative studies find smaller special education class sizes are the preferred option because they allow more individualised instruction time and increased teacher attention](small-special-education-classes-preferred-individualised-instruction.md) — related

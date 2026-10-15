@@ -47,4 +47,4 @@ Theoretical argument in this Perspective: unlike specialised, temporally bounded
 - [Excessive GenAI reliance risks undermining foundational ICT knowledge, supporting supervised in-person assessment of foundational content](excessive-genai-reliance-hinders-foundational-knowledge.md) — related
 - [LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction](llm-generated-support-unfolding-interaction.md) — related
 - [Monolithic single-prompt LLM architectures hinder responsible educational deployment by collapsing distinct pedagogical functions](monolithic-llm-architectures-hinder-responsible-educational-design.md) — a narrower finding that bears on this claim
-- [Students' GenAI mental models split between technical-architecture and educational-tool orientations that are only moderately associated](technical-versus-educational-cluster-disconnect.md) — related
+- Students' GenAI mental models split between technical-architecture and educational-tool orientations that are only moderately associated — related

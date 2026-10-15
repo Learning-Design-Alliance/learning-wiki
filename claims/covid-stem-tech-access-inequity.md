@@ -68,11 +68,11 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 
 ## Related Claims
 
-- [Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction](covid-stem-connectivity-problems-prevalence.md) — related
+- Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — possibly the same claim (merge candidate)
 - [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](remote-covid-technology-access-problems-widespread.md) — a broader claim this one bears on
 - [High-poverty schools were overrepresented among New York charter schools that had not provided devices to students before building closure (86.8% of non-providers vs 79.3% of the sample)](device-provision-equity-high-poverty.md) — related
-- [Students in low-income or minoritized settings are more likely to receive low-quality technology uses such as drill-and-practice](systemic-bias-low-quality-technology-uses.md) — related
+- Students in low-income or minoritized settings are more likely to receive low-quality technology uses such as drill-and-practice — related
 - [Hispanic students reported higher frequencies of six of the seven non-technology challenges measured in the survey](hispanic-students-six-of-seven-challenges-higher.md) — related
 - [Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students](major-challenges-more-prevalent-women-minoritized-low-income.md) — related
 - [Despite more challenges, minoritized, female, and lower-income students were more likely to rate their online STEM experience as good as or better than in person](minoritized-female-low-income-rated-online-experience-equal-or-better.md) — related
@@ -80,8 +80,8 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
 - [Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection](ccc-students-concrete-edtech-quality-criteria.md) — related
 - [AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers](ai-an-dropout-and-college-retention-rates.md) — related
-- [Low-income and multilingual parents report less welcoming school staff and more negative school experiences than higher-income and English-speaking parents](unwelcoming-staff-barrier-low-income-multilingual-parents.md) — related
-- [Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive](students-of-color-receive-belonging-signals.md) — related
+- Low-income and multilingual parents report less welcoming school staff and more negative school experiences than higher-income and English-speaking parents — related
+- Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related

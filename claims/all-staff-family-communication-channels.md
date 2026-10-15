@@ -43,7 +43,7 @@ Focus-group finding describing a shift in typical school procedures during remot
 
 
 ## Related Claims
-- [Educator functions of encouraging, linking with knowledge, and linking with human resources positively influence group growth, while enlisting support negatively influences it](educator-functions-influence-community-group-growth.md) — related
+- Educator functions of encouraging, linking with knowledge, and linking with human resources positively influence group growth, while enlisting support negatively influences it — related
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — related
 - [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
 - [Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families](family-community-knowledge-reach-families.md) — related

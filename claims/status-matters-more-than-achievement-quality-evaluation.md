@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: shira-haderlein-2021
-    resource: "https://www.mathematica.org/publications/how-do-parents-evaluate-and-select-schools-evidence-from-a-survey-experiment"
-    title: "Shira Haderlein. (2021). How Do Parents Evaluate and Select Schools? Evidence From a Survey Experiment. American Educational Research Journal (online ahead of print). https://www.mathematica.org/publications/how-do-parents-evaluate-and-select-schools-evidence-from-a-survey-experiment"
+    resource: "https://doi.org/10.3102/00028312211046360"
+    title: "Shira Haderlein. (2021). How Do Parents Evaluate and Select Schools? Evidence From a Survey Experiment. American Educational Research Journal (online ahead of print). https://www.mathematica.org/publications/how-do-parents-evaluate-and-select-schools-evidence-from-a-survey-experiment [doi:10.3102/00028312211046360](https://doi.org/10.3102/00028312211046360)"
     author: Shira Haderlein
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Shira Haderlein 2021
 
-Shira Haderlein. (2021). How Do Parents Evaluate and Select Schools? Evidence From a Survey Experiment. American Educational Research Journal (online ahead of print). https://www.mathematica.org/publications/how-do-parents-evaluate-and-select-schools-evidence-from-a-survey-experiment
+Shira Haderlein. (2021). How Do Parents Evaluate and Select Schools? Evidence From a Survey Experiment. American Educational Research Journal (online ahead of print). https://www.mathematica.org/publications/how-do-parents-evaluate-and-select-schools-evidence-from-a-survey-experiment [doi:10.3102/00028312211046360](https://doi.org/10.3102/00028312211046360)
 
 `q2 · i?` · `causal · r2`
 

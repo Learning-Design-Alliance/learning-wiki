@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Research has shown that social and emotional competence can be enhanced using classroom-based approaches including explicit instruction, teaching practices such as cooperative and project-based learning, and integration of SEL with academic curriculum. [→ Collaborative for Academic 2020](#collaborative-for-academic-2020)
@@ -45,6 +46,6 @@ The page summarizes classroom-approach research on the Classrooms section, asser
 ## Related Claims
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — a broader claim this one bears on
-- [Implementing specific SEL curricula can improve academic performance, including learning to read](sel-curricula-improve-academic-performance.md) — a narrower finding that bears on this claim
+- Implementing specific SEL curricula can improve academic performance, including learning to read — a narrower finding that bears on this claim
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [School-based SEL programs promote the development of social and emotional competencies across grade levels](sel-programs-promote-social-emotional-competencies.md) — related

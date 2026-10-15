@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: jacobson-2026
-    resource: "https://arxiv.org/abs/2609.18072"
-    title: "Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072"
+    resource: "https://doi.org/10.48550/arxiv.2609.18072"
+    title: "Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072 [doi:10.48550/arxiv.2609.18072](https://doi.org/10.48550/arxiv.2609.18072)"
     author: Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Jacobson 2026
 
-Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072
+Jacobson, M. J.; Rodriguez-Rivera, G.; Drineas, P.; and Xue, Y. (2026). Teaching AI, Robotics, & Community: A Hubs-Based K–12 Education Framework for Reaching Rural Schools. https://arxiv.org/abs/2609.18072 [doi:10.48550/arxiv.2609.18072](https://doi.org/10.48550/arxiv.2609.18072)
 
 `q1 · i?` · `design · r2`
 

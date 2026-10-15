@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Before the 1975 workshop, participants anticipating it had higher Stages 0, 1, and 2 concerns, while teachers who had attended the previous year's workshop had higher Stages 4, 5, and 6 concerns. [→ Loucks 1977](#loucks-1977)

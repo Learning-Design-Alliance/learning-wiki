@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 sources:
   - id: evolution-1
+    resource: "https://doi.org/10.48550/arxiv.2605.17857"
     title: evolution-1
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### evolution-1
 
-Cassandra Lucas, Anshul Bihani, Rohini Kukka, Chun-Hua Tsai, Jaydeb Sarker, and Mia Mohammad Imran. 2026. TowardsSocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study. https://arxiv.org/abs/2605.17857
+Cassandra Lucas, Anshul Bihani, Rohini Kukka, Chun-Hua Tsai, Jaydeb Sarker, and Mia Mohammad Imran. 2026. TowardsSocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study. https://arxiv.org/abs/2605.17857 [doi:10.48550/arxiv.2605.17857](https://doi.org/10.48550/arxiv.2605.17857)
 
 `q2 · i?` · `design · r?`
 

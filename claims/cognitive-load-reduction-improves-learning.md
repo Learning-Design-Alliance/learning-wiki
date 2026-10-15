@@ -118,7 +118,7 @@ Concrete load-reduction levers documented elsewhere in this wiki include [chunki
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — possibly the same claim (merge candidate)
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
-- [Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other](contiguity-alone-fails-in-cognitive-learning.md) — related
+- Pure contiguity fails to explain cognitive learning: repeated contiguity between cognitions does not make one evoke the other — related
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](teachers-use-clt-principles-despite-ignorance.md) — related

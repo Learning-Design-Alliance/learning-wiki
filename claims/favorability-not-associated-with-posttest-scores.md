@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: xinfei-cen-2026
-    resource: "https://arxiv.org/abs/2606.17470"
-    title: "Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470"
+    resource: "https://doi.org/10.48550/arxiv.2606.17470"
+    title: "Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470 [doi:10.48550/arxiv.2606.17470](https://doi.org/10.48550/arxiv.2606.17470)"
     author: Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xinfei Cen 2026
 
-Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470
+Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. Carvalho. (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. https://arxiv.org/abs/2606.17470 [doi:10.48550/arxiv.2606.17470](https://doi.org/10.48550/arxiv.2606.17470)
 
 `q2 · i?` · `causal · r2`
 

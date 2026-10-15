@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: alexandru-radu-moraru-2026
-    resource: "https://arxiv.org/abs/2608.20896"
-    title: "Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896"
+    resource: "https://doi.org/10.48550/arxiv.2608.20896"
+    title: "Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896 [doi:10.48550/arxiv.2608.20896](https://doi.org/10.48550/arxiv.2608.20896)"
     author: Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Alexandru-Radu Moraru 2026
 
-Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896
+Alexandru-Radu Moraru, Shreyan Biswas, Ujwal Gadiraju. (2026). Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors. https://arxiv.org/abs/2608.20896 [doi:10.48550/arxiv.2608.20896](https://doi.org/10.48550/arxiv.2608.20896)
 
 `q2 · i?` · `causal · r2`
 

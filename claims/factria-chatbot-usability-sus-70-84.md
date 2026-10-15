@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: marques-2026
-    resource: "https://arxiv.org/abs/2610.07205"
-    title: "Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205"
+    resource: "https://doi.org/10.48550/arxiv.2610.07205"
+    title: "Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205 [doi:10.48550/arxiv.2610.07205](https://doi.org/10.48550/arxiv.2610.07205)"
     author: "Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D."
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
 
 ## Subclaims
 `q2 i?` The overall SUS score was 70.84 ± 16.39, above the conventional threshold for good usability. [→ Marques 2026](#marques-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Marques 2026
 
-Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205
+Marques, F., Ortiz-Beltrán, A., Amarasinghe, I., & Hernández-Leo, D. (2026). Responsible Institutional Analytics: Interpreting Bias with AI Support. Journal of Universal Computer Science, 33(6). https://arxiv.org/abs/2610.07205 [doi:10.48550/arxiv.2610.07205](https://doi.org/10.48550/arxiv.2610.07205)
 
 `q2 · i?` · `qualitative · r3`
 

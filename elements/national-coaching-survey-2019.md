@@ -17,7 +17,7 @@ sources:
 # National coaching survey of coaches, teachers, and administrators
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (10 for) · 3 studies (3 associational), `q2` · 0 of 3 report an effect size · 10 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 A 2019 national online survey designed by Digital Promise and Learning Forward "using validated survey questions from the Dynamic Learning Project," distributed via email on October 2, 2019 and closed October 22, 2019 after 1,246 responses. Data were cleaned and analyzed in Qualtrics by Digital Promise research staff, analyzed by role (educator, coach, school leader, district leader) and site type (school- or district-based). It measured coach workload, coach-teacher relationships, technology use, professional support, and funding.
@@ -38,12 +38,6 @@ A 2019 national online survey designed by Digital Promise and Learning Forward "
 
 ## Claims
 
-- [Most U.S. educators surveyed report being engaged in coaching, with respondents across all 50 states](../claims/83-percent-survey-respondents-engaged-in-coaching.md) [+M]
-- [Fewer than half of coaches are funded at consistent multi-year rates, primarily through Title II federal funds](../claims/coach-funding-inconsistent-title-ii.md) [+M]
-- [Most coaches rate their professional development as effective, and administrators describe it as tailored, timely, and multi-year](../claims/coach-professional-development-perceived-effective.md) [+M]
-- [Coaches report using technology with teachers far more than teachers report receiving it, especially for supporting student technology use](../claims/coach-teacher-technology-use-perception-gap.md) [+M]
-- [Coaches carry heavy workloads, often holding other roles and supporting large caseloads of teachers](../claims/coach-workload-multiple-roles-large-caseloads.md) [+M]
-- [Teachers who find coaching valuable spend more time and meet more frequently with their coaches](../claims/coaching-time-frequency-linked-to-perceived-value.md) [+M]
 - [Edtech coaches significantly supported administrators by providing teacher PD and implementing LMS tools during closures](../claims/coach-support-to-administrators-closures.md) [+M]
 - [Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not](../claims/dlp-coaching-technology-use-confidence.md) [+M]
 - [DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers](../claims/dlp-versus-other-coaching-programs-comparison.md) [+M]

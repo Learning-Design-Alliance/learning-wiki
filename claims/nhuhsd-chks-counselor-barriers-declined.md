@@ -45,5 +45,5 @@ Descriptive trend in district California Healthy Kids Survey data cited in the T
 ## Related Claims
 - [Secondary students in PUSD reported declining rates of chronic sadness/hopelessness and suicidal ideation from 2020/21 to 2022/23](pusd-chks-declining-sadness-suicidal-ideation.md) — related
 - [The percentage of secondary students reporting high school connectedness on the CHKS increased from 32 percent to 36 percent](cal-well-dnusd-student-school-connectedness-increase.md) — related
-- [School health center users report more access to counseling and emotional support conversations than nonusers in the same schools](shc-users-more-counseling-access-than-nonusers.md) — related
+- School health center users report more access to counseling and emotional support conversations than nonusers in the same schools — related
 - [Secondary students in PUSD increasingly reported open mental health conversations at school and knowing where to go for help from 2020/21 to 2022/23](pusd-chks-open-talk-help-seeking-increase.md) — related

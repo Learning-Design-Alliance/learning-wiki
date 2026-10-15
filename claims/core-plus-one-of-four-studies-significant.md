@@ -43,8 +43,8 @@ Evidence review of the qualifying studies, in which students were tested each ye
 
 
 ## Related Claims
-- [Core-Plus Mathematics produces a small positive weighted mean effect on standardized math achievement](core-plus-weighted-mean-effect-008.md) — related
+- Core-Plus Mathematics produces a small positive weighted mean effect on standardized math achievement — related
 - [The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)](core-plus-sat-math-substantively-important.md) — related
 - [Core-Plus Mathematics showed positive, statistically significant effects on ninth-grade ITED math and CPMP Course 1 and 2 posttest subtests after WWC adjustments](core-plus-significant-subtest-effects.md) — possibly the same claim (merge candidate)
-- [Qualifying Core-Plus studies used within-school matching because participation was by student choice](core-plus-studies-matched-within-schools.md) — related
+- Qualifying Core-Plus studies used within-school matching because participation was by student choice — related
 - [Core-Plus Mathematics has potentially positive effects on mathematics achievement for high school students, with an average improvement index of +15 percentile points](core-plus-math-potentially-positive-effects.md) — related

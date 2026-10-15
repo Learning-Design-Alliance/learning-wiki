@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: c-cosentino-2014
-    resource: "https://www.mathematica.org/publications/black-engineering-transfer-students-what-explains-their-success"
-    title: "C. Cosentino, M.D. Sulivan, N.T. Gahlawat, M.W. Ohland, R.A. Long. (2014). Black Engineering Transfer Students: What Explains Their Success? IEEE Frontiers in Education Conference. https://www.mathematica.org/publications/black-engineering-transfer-students-what-explains-their-success"
+    resource: "https://doi.org/10.1109/fie.2014.7044270"
+    title: "C. Cosentino, M.D. Sulivan, N.T. Gahlawat, M.W. Ohland, R.A. Long. (2014). Black Engineering Transfer Students: What Explains Their Success? IEEE Frontiers in Education Conference. https://www.mathematica.org/publications/black-engineering-transfer-students-what-explains-their-success [doi:10.1109/fie.2014.7044270](https://doi.org/10.1109/fie.2014.7044270)"
     author: C. Cosentino, M.D. Sulivan, N.T. Gahlawat, M.W. Ohland, R.A. Long
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### C. Cosentino 2014
 
-C. Cosentino, M.D. Sulivan, N.T. Gahlawat, M.W. Ohland, R.A. Long. (2014). Black Engineering Transfer Students: What Explains Their Success? IEEE Frontiers in Education Conference. https://www.mathematica.org/publications/black-engineering-transfer-students-what-explains-their-success
+C. Cosentino, M.D. Sulivan, N.T. Gahlawat, M.W. Ohland, R.A. Long. (2014). Black Engineering Transfer Students: What Explains Their Success? IEEE Frontiers in Education Conference. https://www.mathematica.org/publications/black-engineering-transfer-students-what-explains-their-success [doi:10.1109/fie.2014.7044270](https://doi.org/10.1109/fie.2014.7044270)
 
 `q2 · i?` · `associational · r?`
 

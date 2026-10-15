@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: john-hu-and-andrew-j-ash-2026
-    resource: "https://arxiv.org/abs/2608.02955"
-    title: "John Hu and Andrew J. Ash. (2026). Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits. https://arxiv.org/abs/2608.02955"
+    resource: "https://doi.org/10.48550/arxiv.2608.02955"
+    title: "John Hu and Andrew J. Ash. (2026). Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits. https://arxiv.org/abs/2608.02955 [doi:10.48550/arxiv.2608.02955](https://doi.org/10.48550/arxiv.2608.02955)"
     author: John Hu and Andrew J. Ash
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### John Hu and Andrew J. Ash 2026
 
-John Hu and Andrew J. Ash. (2026). Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits. https://arxiv.org/abs/2608.02955
+John Hu and Andrew J. Ash. (2026). Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits. https://arxiv.org/abs/2608.02955 [doi:10.48550/arxiv.2608.02955](https://doi.org/10.48550/arxiv.2608.02955)
 
 `q2 · i?` · `qualitative · r2`
 

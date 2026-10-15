@@ -13,7 +13,7 @@ generated:
 # NCLB eleven-component comprehensive school reform framework
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 review), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A framework specified by the No Child Left Behind Act that organizes comprehensive K–12 school reform around eleven coordinated components, including evidence-based methods, professional development, measurable goals, family and community involvement, external assistance, evaluation, and resource coordination.
@@ -23,7 +23,6 @@ A framework specified by the No Child Left Behind Act that organizes comprehensi
 
 ### Claims
 
-- [CSR and non-CSR schools implemented a similar number of legislatively specified components in both 2003 and 2007](../claims/csr-noncsr-similar-component-implementation.md) [+M]
 - [The NCLB era's focus on targets and sanctions without educator capacity-building or component alignment was a key barrier to implementing new standards](../claims/nclb-targets-sanctions-without-capacity-barrier.md) [+W]
 
 ## Related Products and Programmes

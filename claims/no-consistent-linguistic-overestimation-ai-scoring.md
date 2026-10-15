@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Linguistic quality was unrelated to overestimation in nine of the eleven examined scoring approaches; significant positive associations appeared only for two ML-based approaches using the science-education-specific embedding model. [→ Markus S. Feser & Paul L. Tschisgale 2026](#markus-s-feser-paul-l-tschisgale-2026)
@@ -44,5 +45,5 @@ Multinomial logistic regression of overestimation (Δ > 0) versus agreement for 
 
 ## Related Claims
 - [Lower linguistic quality of physics explanations is associated with higher odds that AI-based scoring underestimates conceptual understanding, across all eleven examined AI-based scoring approaches](ai-scoring-underestimates-linguistically-weak-physics-explanations.md) — related
-- [Expert-assigned conceptual understanding and linguistic quality scores are moderately correlated (r = .50) in the student explanation dataset](conceptual-linguistic-scores-correlated-r50.md) — related
-- [ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them](ml-overestimates-llm-underestimates-pattern.md) — related
+- Expert-assigned conceptual understanding and linguistic quality scores are moderately correlated (r = .50) in the student explanation dataset — related
+- ML-based scoring approaches more often overestimated expert-assigned scores, whereas LLM-based approaches more often underestimated them — related

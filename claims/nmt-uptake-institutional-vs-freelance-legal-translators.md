@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: łucja-biel-2026
-    resource: "https://arxiv.org/abs/2608.04641"
-    title: "Łucja Biel. (2026). AI Literacy for Legal Translation: Developing Digital Resilience. University of Warsaw. https://arxiv.org/abs/2608.04641"
+    resource: "https://doi.org/10.48550/arxiv.2608.04641"
+    title: "Łucja Biel. (2026). AI Literacy for Legal Translation: Developing Digital Resilience. University of Warsaw. https://arxiv.org/abs/2608.04641 [doi:10.48550/arxiv.2608.04641](https://doi.org/10.48550/arxiv.2608.04641)"
     author: Łucja Biel
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # NMT uptake in institutional legal translation is high (ca. 80%) but much lower among UK-based freelance translators (41%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` A 2023 survey of 474 respondents from 24 institutions reports NMT uptake of ca. 80% for legal translation, while a much lower uptake of 41% was reported among UK-based freelance translators. [→ Łucja Biel 2026](#ucja-biel-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Łucja Biel 2026
 
-Łucja Biel. (2026). AI Literacy for Legal Translation: Developing Digital Resilience. University of Warsaw. https://arxiv.org/abs/2608.04641
+Łucja Biel. (2026). AI Literacy for Legal Translation: Developing Digital Resilience. University of Warsaw. https://arxiv.org/abs/2608.04641 [doi:10.48550/arxiv.2608.04641](https://doi.org/10.48550/arxiv.2608.04641)
 
 `q2 · i?` · `theoretical · r2`
 

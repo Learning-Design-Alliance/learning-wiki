@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: lindsay-dawson-2026
-    resource: "https://arxiv.org/abs/2608.12523"
-    title: "Lindsay Dawson, N. Sanjay Rebello. (2026). Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing. https://arxiv.org/abs/2608.12523"
+    resource: "https://doi.org/10.48550/arxiv.2608.12523"
+    title: "Lindsay Dawson, N. Sanjay Rebello. (2026). Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing. https://arxiv.org/abs/2608.12523 [doi:10.48550/arxiv.2608.12523](https://doi.org/10.48550/arxiv.2608.12523)"
     author: Lindsay Dawson, N. Sanjay Rebello
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Lindsay Dawson 2026
 
-Lindsay Dawson, N. Sanjay Rebello. (2026). Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing. https://arxiv.org/abs/2608.12523
+Lindsay Dawson, N. Sanjay Rebello. (2026). Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing. https://arxiv.org/abs/2608.12523 [doi:10.48550/arxiv.2608.12523](https://doi.org/10.48550/arxiv.2608.12523)
 
 `q2 · i?` · `qualitative · r2`
 

@@ -44,4 +44,4 @@ A 2024 Digital Promise survey sample of teachers in Jefferson County, Kentucky, 
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Majorities of surveyed teachers and coaches reported the program enhanced career advancement and leadership opportunities](vils-career-advancement-survey-majorities.md) — related
 - [71% of surveyed Miami-Dade coaches reported the program improved their job satisfaction, up from a pre-program baseline where none reported being completely satisfied](vils-coaches-71-percent-improved-job-satisfaction.md) — related
-- [Participating schools report more positive teacher and staff perceptions of teaching and learning conditions](safersanschools-improves-teacher-perceptions-conditions.md) — related
+- Participating schools report more positive teacher and staff perceptions of teaching and learning conditions — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: rima-hazra-2026
-    resource: "https://arxiv.org/abs/2603.17373"
-    title: "Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy. (2026). SAFETUTORS: Benchmarking Pedagogical Safety in AI Tutoring Systems. arXiv preprint. https://arxiv.org/abs/2603.17373"
+    resource: "https://doi.org/10.48550/arxiv.2603.17373"
+    title: "Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy. (2026). SAFETUTORS: Benchmarking Pedagogical Safety in AI Tutoring Systems. arXiv preprint. https://arxiv.org/abs/2603.17373 [doi:10.48550/arxiv.2603.17373](https://doi.org/10.48550/arxiv.2603.17373)"
     author: Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Multi-turn interaction amplifies pedagogical harm: mean harm rises 6-11 percentage points across subjects and pedagogical-relationship harm surges from 17.7% to 77.8%
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Averaged across models and dimensions, mean harm increases from single-turn to multi-turn by 6.16% in Physics, 6.26% in Chemistry, and 11.13% in Mathematics. [→ Rima Hazra 2026](#rima-hazra-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Rima Hazra 2026
 
-Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy. (2026). SAFETUTORS: Benchmarking Pedagogical Safety in AI Tutoring Systems. arXiv preprint. https://arxiv.org/abs/2603.17373
+Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy. (2026). SAFETUTORS: Benchmarking Pedagogical Safety in AI Tutoring Systems. arXiv preprint. https://arxiv.org/abs/2603.17373 [doi:10.48550/arxiv.2603.17373](https://doi.org/10.48550/arxiv.2603.17373)
 
 `q2 · i?` · `design · r2`
 

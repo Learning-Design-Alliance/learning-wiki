@@ -44,11 +44,11 @@ Within-school component of the multilevel SEM partitioning teacher-level variati
 
 ## Related Claims
 - [Between schools, principal leadership has small positive indirect relationships with test-score gains and GPA through the learning climate and classroom instruction](leadership-achievement-between-schools-via-climate.md) — related
-- [School learning climate is the only process through which high school leadership accounts for differences across schools in instructional quality and achievement](learning-climate-only-cross-school-pathway.md) — related
+- School learning climate is the only process through which high school leadership accounts for differences across schools in instructional quality and achievement — related
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — a broader claim this one bears on
-- [High school principals influence student achievement most strongly through school culture and climate](principal-leadership-strongest-through-school-climate.md) — related
-- [Teachers reporting better professional development and curricular coherence have better instructional practices than other teachers in their school](pd-coherence-benefit-individual-teachers.md) — related
-- [Principals' strongest impact on student learning comes through building a positive, measurable, and malleable school climate](principal-impact-through-school-climate.md) — related
+- High school principals influence student achievement most strongly through school culture and climate — related
+- Teachers reporting better professional development and curricular coherence have better instructional practices than other teachers in their school — related
+- Principals' strongest impact on student learning comes through building a positive, measurable, and malleable school climate — related
 - [Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors](within-school-direct-negative-leadership-academic-demand.md) — related
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
 - [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](principal-program-content-instruction-collegial-data.md) — related

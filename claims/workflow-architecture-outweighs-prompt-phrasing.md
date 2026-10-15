@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: henrique-mohallem-paiva-2026
-    resource: "https://arxiv.org/abs/2608.07364"
-    title: "Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364"
+    resource: "https://doi.org/10.48550/arxiv.2608.07364"
+    title: "Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364 [doi:10.48550/arxiv.2608.07364](https://doi.org/10.48550/arxiv.2608.07364)"
     author: Henrique Mohallem Paiva
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Henrique Mohallem Paiva 2026
 
-Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364
+Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364 [doi:10.48550/arxiv.2608.07364](https://doi.org/10.48550/arxiv.2608.07364)
 
 `q1 · i?` · `design · r2`
 
@@ -43,7 +43,7 @@ This is the author's interpretive observation from the validation phase, not a t
 
 
 ## Related Claims
-- [At the test level, only Claude with interview or demographic prompts improved alignment on the relative autonomy index](test-level-rai-only-claude-improved.md) — related
-- [Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts](interview-prompts-increase-llm-response-diversity.md) — related
-- [Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts](claude-highest-human-alignment-interview-prompts.md) — related
-- [Prompt settings and temperature settings have significant main effects on correlations among the three LLM chatbots](anova-prompt-temperature-effects-llm-llm-alignment.md) — related
+- At the test level, only Claude with interview or demographic prompts improved alignment on the relative autonomy index — related
+- Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts — related
+- Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts — related
+- Prompt settings and temperature settings have significant main effects on correlations among the three LLM chatbots — related

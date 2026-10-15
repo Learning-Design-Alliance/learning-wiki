@@ -20,16 +20,7 @@ provenance:
   extraction_method: ingest-pipeline-v130 (claude-code-agent/opus-5.5)
   verification: unverified
 appears_in:
-- claim: informal-stem-club-mathematics-tension-between-interest-and-not-like-school
-  bearing: supports
-  anchor: lili-zhou-2023
 - claim: contextualized-real-life-task-reverted-to-pure-mathematics-and-felt-too-school
-  bearing: supports
-  anchor: lili-zhou-2023-2
-- claim: integrated-stem-quilt-project-judged-to-offer-multiple-entry-points
-  bearing: supports
-  anchor: lili-zhou-2023-2
-- claim: boundary-crossing-collaboration-with-informal-educators-reframes-mathematics-as-human-practice
   bearing: supports
   anchor: lili-zhou-2023-2
 evidence_base:

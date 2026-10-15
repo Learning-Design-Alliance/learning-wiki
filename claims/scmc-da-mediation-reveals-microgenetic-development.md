@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In illustrative episodes across DA and transcendence sessions, each of the two learners moved toward higher levels of internalization of assistance and responded to less explicit mediation, though the article also reports backsliding and regression and says the target structure was not fully internalized. [→ Ebadi 2016](#ebadi-2016)

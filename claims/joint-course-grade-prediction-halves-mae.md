@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: paul-savala-2026
-    resource: "https://arxiv.org/abs/2608.13409"
-    title: "Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409"
+    resource: "https://doi.org/10.48550/arxiv.2608.13409"
+    title: "Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409 [doi:10.48550/arxiv.2608.13409](https://doi.org/10.48550/arxiv.2608.13409)"
     author: Paul Savala
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Paul Savala 2026
 
-Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409
+Paul Savala. (2026). Jointly Predicting Courses and Grades Using a Transformer-Based Model. arXiv. https://arxiv.org/abs/2608.13409 [doi:10.48550/arxiv.2608.13409](https://doi.org/10.48550/arxiv.2608.13409)
 
 `q2 · i?` · `design · r2`
 

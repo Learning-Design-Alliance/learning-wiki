@@ -17,7 +17,7 @@ sources:
 # ECED technology requirements
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 ECED implementation requires specific technology: "Projector and computer for PowerPoint presentations, access to internet," web-based content-specific instructional programs, and a virtual file management system for sharing curricular materials such as Google Docs or Dropbox. These tools support daily lesson delivery, benchmark assessment, and collaborative curriculum development across teacher teams.
@@ -38,7 +38,6 @@ ECED implementation requires specific technology: "Projector and computer for Po
 
 ## Claims
 
-- [ECED schools made greater gains on state math tests than control schools (effect size +0.14) in one large two-year study](../claims/eced-greater-math-gains-state-tests.md) [+W]
 
 ## Related Elements
 

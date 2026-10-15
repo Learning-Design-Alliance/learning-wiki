@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` SIMS attitude results indicated apprenticeship students became more anxious about mathematics and problem solving than controls. [→ Johnson 1992](#johnson-1992)
@@ -66,12 +67,12 @@ Same SIMS and interview data: the article reports apprenticeship students "gaine
 ## Related Claims
 
 - [The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills](ca-methods-more-effective-than-traditional-writing-college.md) — the general claim this finding bears on, with the studies behind it
-- [Teacher-by-method interaction was significant on the standardized MPE posttest, with control-group performance dependent on the teacher](teacher-method-interaction-significant-mpe-posttest.md) — related
+- Teacher-by-method interaction was significant on the standardized MPE posttest, with control-group performance dependent on the teacher — related
 - [Cognitive apprenticeship instruction produced no significant differences from traditional instruction on post-treatment problem-solving, final, and standardized mathematics exams in community college technical mathematics](cognitive-apprenticeship-no-significant-exam-differences-technical-math.md) — related
-- [The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety](learning-is-natural-enjoyable-process-argument.md) — related
+- The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [A preservice teacher's self-perceived confidence and success with traditional mathematics inhibited reinterpreting his understanding of mathematics](math-confidence-inhibits-philosophy-reinterpretation.md) — related
-- [Teachers report the program supports student interest, confidence, and enjoyment of math](mma-teacher-survey-qualitative-findings.md) — related
+- Teachers report the program supports student interest, confidence, and enjoyment of math — related
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related
-- [Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport](learning-studios-ldd-students-expertise-confidence.md) — related
+- Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport — related
 - [Early studies of the relationship between anxiety and achievement produced mixed and confusing results](early-anxiety-achievement-studies-mixed-results.md) — related

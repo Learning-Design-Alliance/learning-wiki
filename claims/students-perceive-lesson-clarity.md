@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i2` On both clarity questionnaires, students discriminated clear from unclear lessons for all three concept structures. [→ Snyder 1991](#snyder-1991)
@@ -49,5 +50,5 @@ ANOVA on the 20-item Clarity of Teaching questionnaire (Cronbach alpha .96) in t
 - [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](unclear-presentation-complex-structure-penalty.md) — related
 - [A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures](clear-variable-coordinate-beats-unclear.md) — related
 - [Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure](positive-clarity-moves-correlate-achievement.md) — related
-- [Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning](structure-variables-correlated-learning.md) — related
+- Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning — related
 - [Pilot participants perceived AmicoMio and AmicoTuo as complementary modes serving different educational purposes rather than alternatives](amico-dual-modes-perceived-complementary.md) — related

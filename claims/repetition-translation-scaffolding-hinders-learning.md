@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In Cypriot after-school language programs, teachers' tendency to employ repetition and translation as scaffolding hindered learning. [→ Dean 2014](#dean-2014)
@@ -44,5 +45,5 @@ The forum reports Tsagari's (2014) empirical study of teacher-student exchanges 
 ## Related Claims
 
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
-- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — a broader claim this one bears on
+- Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content — a broader claim this one bears on
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related

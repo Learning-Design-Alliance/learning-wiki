@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ngoc-luyen-le-2026
-    resource: "https://arxiv.org/abs/2608.17618"
-    title: "Ngoc Luyen Le, Marie-Hélène Abel, Bertrand Laforge. (2026). From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support. arXiv preprint. https://arxiv.org/abs/2608.17618"
+    resource: "https://doi.org/10.48550/arxiv.2608.17618"
+    title: "Ngoc Luyen Le, Marie-Hélène Abel, Bertrand Laforge. (2026). From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support. arXiv preprint. https://arxiv.org/abs/2608.17618 [doi:10.48550/arxiv.2608.17618](https://doi.org/10.48550/arxiv.2608.17618)"
     author: Ngoc Luyen Le, Marie-Hélène Abel, Bertrand Laforge
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ngoc Luyen Le 2026
 
-Ngoc Luyen Le, Marie-Hélène Abel, Bertrand Laforge. (2026). From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support. arXiv preprint. https://arxiv.org/abs/2608.17618
+Ngoc Luyen Le, Marie-Hélène Abel, Bertrand Laforge. (2026). From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support. arXiv preprint. https://arxiv.org/abs/2608.17618 [doi:10.48550/arxiv.2608.17618](https://doi.org/10.48550/arxiv.2608.17618)
 
 `q2 · i?` · `design · r2`
 

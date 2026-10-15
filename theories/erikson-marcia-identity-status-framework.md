@@ -16,7 +16,7 @@ sources:
 # Erikson-Marcia psychosocial development and ego identity status framework
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The paper organizes its study around Erikson's lifespan psychosocial development theory, in which identity involves sameness and continuity and can be destabilized by later life changes such as immigration, and Marcia's operationalization of the fifth stage into four ego identity statuses: "identity diffusion, moratorium, foreclosure, and achievement". Each stage is a dialectic between bipolar issues resolved within a sociocultural context. The study applies this framework to adult immigrants, focusing on stages 5-7 (identity, intimacy, generativity) measured by the MPD.
@@ -36,7 +36,6 @@ The paper organizes its study around Erikson's lifespan psychosocial development
 - psychosocial identity development and redefinition after major life transitions
 
 ### Claims
-- [Korean Immigrants Lower Resolution Than Norm Group](../claims/korean-immigrants-lower-resolution-than-norm-group.md) [~M]
 
 ## Related Theories
 - 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: habibullah-2026
-    resource: "https://arxiv.org/abs/2609.29333"
-    title: "Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). Where LLM graders succeed and break: Evidence from two computer-science exams. arXiv. https://arxiv.org/abs/2609.29333"
+    resource: "https://doi.org/10.48550/arxiv.2609.29333"
+    title: "Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). Where LLM graders succeed and break: Evidence from two computer-science exams. arXiv. https://arxiv.org/abs/2609.29333 [doi:10.48550/arxiv.2609.29333](https://doi.org/10.48550/arxiv.2609.29333)"
     author: "Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N."
     q: 2
     i: 3
@@ -30,7 +30,7 @@ sources:
 # One LoRA adapter fine-tuned on the two exams' pooled ~3,900 dual-graded examples brings five small open models to parity or better with a human grader and makes them insensitive to harsh personas
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i3` With the pooled marks adapter, every fine-tuned model grades as well as a human or better on both exams; the pooled adapter is significantly better in 9 of 10 model×exam cells (d from −0.94 to −1.13 on the ML exam). [→ Habibullah 2026](#habibullah-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Habibullah 2026
 
-Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). Where LLM graders succeed and break: Evidence from two computer-science exams. arXiv. https://arxiv.org/abs/2609.29333
+Habibullah, A., Alshoibi, Y., Alshiekh, M., Khan, S., & Khan, N. (2026). Where LLM graders succeed and break: Evidence from two computer-science exams. arXiv. https://arxiv.org/abs/2609.29333 [doi:10.48550/arxiv.2609.29333](https://doi.org/10.48550/arxiv.2609.29333)
 
 `q2 · i3` · `causal · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: meg-guerreiro-2018
-    resource: "https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/"
-    title: "Meg Guerreiro, Chase Nordengren. (2018). “No fun games”: Engagement effects of two gameful assessment prototypes. Journal of Research on Technology in Education, 50(2), 134-148. https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/"
+    resource: "https://doi.org/10.1080/15391523.2018.1426063"
+    title: "Meg Guerreiro, Chase Nordengren. (2018). “No fun games”: Engagement effects of two gameful assessment prototypes. Journal of Research on Technology in Education, 50(2), 134-148. https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/ [doi:10.1080/15391523.2018.1426063](https://doi.org/10.1080/15391523.2018.1426063)"
     author: Meg Guerreiro, Chase Nordengren
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Meg Guerreiro 2018
 
-Meg Guerreiro, Chase Nordengren. (2018). “No fun games”: Engagement effects of two gameful assessment prototypes. Journal of Research on Technology in Education, 50(2), 134-148. https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/
+Meg Guerreiro, Chase Nordengren. (2018). “No fun games”: Engagement effects of two gameful assessment prototypes. Journal of Research on Technology in Education, 50(2), 134-148. https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/ [doi:10.1080/15391523.2018.1426063](https://doi.org/10.1080/15391523.2018.1426063)
 
 `q1 · i?` · `design · r?`
 
@@ -44,4 +44,4 @@ The article’s framing statement asserts that "student motivation deficits" are
 
 ## Related Claims
 - [Students taking gameful assessments report higher satisfaction than students taking traditional assessments in a Grades 3–7 mixed-methods study](gameful-assessments-higher-student-satisfaction.md) — related
-- [The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained](fts-fading-threshold-peer-tutoring-expected-gains.md) — related
+- The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained — related

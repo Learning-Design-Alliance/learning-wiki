@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: trout-2022
-    resource: "https://eric.ed.gov/?id=ED628885"
-    title: "Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885"
+    resource: "https://doi.org/10.3102/1882099"
+    title: "Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885 [doi:10.3102/1882099](https://doi.org/10.3102/1882099)"
     author: "Trout, L., Pate, C., Wu, K., & McKenna, J."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Trout 2022
 
-Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885
+Trout, L., Pate, C., Wu, K., & McKenna, J. (2022). Reimagining school safety: A guide for schools and communities. WestEd. https://eric.ed.gov/?id=ED628885 [doi:10.3102/1882099](https://doi.org/10.3102/1882099)
 
 `q2 · i?` · `theoretical · r2`
 
@@ -47,8 +47,8 @@ The guide reports, citing Lacoe (2015) and Nakamoto et al. (2019), that "Black a
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls](condensed-eot-race-gender-equity-gaps.md) — related
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
-- [Poor White students consistently outperformed poor Black and poor Hispanic students in achievement, with gaps widening around ages 7-8](poor-white-students-outperform-poor-black-hispanic-gaps-widen-ages-7-8.md) — related
+- Poor White students consistently outperformed poor Black and poor Hispanic students in achievement, with gaps widening around ages 7-8 — related
 - [American Indian and Alaska Native, Black, and Latinx students and students in high-poverty schools were disproportionately impacted by pandemic-era achievement declines, particularly in elementary grades](covid-2020-21-disproportionate-impacts-racialized-high-poverty.md) — related
 - [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — a broader claim this one bears on
 - [Getting-to-know-you surveys that surface student-teacher commonalities improved relationships and grades, and closed achievement gaps for Black and Latinx students by more than 60% in one study](getting-to-know-you-surveys-commonalities-gap-closure.md) — related
-- [Providers reported racial and gender bias within their local business communities, with many feeling less supported than other businesses due to their race](providers-report-racial-gender-bias-in-business-community.md) — related
+- Providers reported racial and gender bias within their local business communities, with many feeling less supported than other businesses due to their race — related

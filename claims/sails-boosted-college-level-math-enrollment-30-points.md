@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: thomas-j-kane-2021
-    resource: "https://www.mathematica.org/publications/is-college-remediation-a-barrier-or-a-boost-evidence-from-the-tennessee-sails-program"
-    title: "Thomas J. Kane, Angela Boatman, Whitney Kozakowski, Christopher Bennett, Rachel Hitch, Dana Weisenfeld. (2021). Is College Remediation a Barrier or a Boost? Evidence from the Tennessee SAILS Program. Journal of Policy Analysis and Management, vol. 40, issue 3. https://www.mathematica.org/publications/is-college-remediation-a-barrier-or-a-boost-evidence-from-the-tennessee-sails-program"
+    resource: "https://doi.org/10.1002/pam.22306"
+    title: "Thomas J. Kane, Angela Boatman, Whitney Kozakowski, Christopher Bennett, Rachel Hitch, Dana Weisenfeld. (2021). Is College Remediation a Barrier or a Boost? Evidence from the Tennessee SAILS Program. Journal of Policy Analysis and Management, vol. 40, issue 3. https://www.mathematica.org/publications/is-college-remediation-a-barrier-or-a-boost-evidence-from-the-tennessee-sails-program [doi:10.1002/pam.22306](https://doi.org/10.1002/pam.22306)"
     author: Thomas J. Kane, Angela Boatman, Whitney Kozakowski, Christopher Bennett, Rachel Hitch, Dana Weisenfeld
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Thomas J. Kane 2021
 
-Thomas J. Kane, Angela Boatman, Whitney Kozakowski, Christopher Bennett, Rachel Hitch, Dana Weisenfeld. (2021). Is College Remediation a Barrier or a Boost? Evidence from the Tennessee SAILS Program. Journal of Policy Analysis and Management, vol. 40, issue 3. https://www.mathematica.org/publications/is-college-remediation-a-barrier-or-a-boost-evidence-from-the-tennessee-sails-program
+Thomas J. Kane, Angela Boatman, Whitney Kozakowski, Christopher Bennett, Rachel Hitch, Dana Weisenfeld. (2021). Is College Remediation a Barrier or a Boost? Evidence from the Tennessee SAILS Program. Journal of Policy Analysis and Management, vol. 40, issue 3. https://www.mathematica.org/publications/is-college-remediation-a-barrier-or-a-boost-evidence-from-the-tennessee-sails-program [doi:10.1002/pam.22306](https://doi.org/10.1002/pam.22306)
 
 `q3 · i?` · `causal · r2`
 

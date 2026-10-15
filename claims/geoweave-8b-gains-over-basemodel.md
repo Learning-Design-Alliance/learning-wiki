@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: zhitong-dong-2026
-    resource: "https://arxiv.org/abs/2609.12606"
-    title: "Zhitong Dong, Jicai Pan, Yingguo Gao, Jingting Ding, Hao Chen, Jinjie Gu. (2026). Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving. arXiv preprint. https://arxiv.org/abs/2609.12606"
+    resource: "https://doi.org/10.48550/arxiv.2609.12606"
+    title: "Zhitong Dong, Jicai Pan, Yingguo Gao, Jingting Ding, Hao Chen, Jinjie Gu. (2026). Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving. arXiv preprint. https://arxiv.org/abs/2609.12606 [doi:10.48550/arxiv.2609.12606](https://doi.org/10.48550/arxiv.2609.12606)"
     author: Zhitong Dong, Jicai Pan, Yingguo Gao, Jingting Ding, Hao Chen, Jinjie Gu
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # GeoWeave-8B achieves the highest open-source final-answer accuracy and process average on GeoVAD-Bench, gaining 25.3 and 30.4 percentage points over its base model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` GeoWeave-8B reaches 62.6% answer accuracy and 82.9% process average, improving over SenseNova-U1-8B by 25.3 and 30.4 percentage points, with coordinated gains across all four process metrics. [→ Zhitong Dong 2026](#zhitong-dong-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Zhitong Dong 2026
 
-Zhitong Dong, Jicai Pan, Yingguo Gao, Jingting Ding, Hao Chen, Jinjie Gu. (2026). Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving. arXiv preprint. https://arxiv.org/abs/2609.12606
+Zhitong Dong, Jicai Pan, Yingguo Gao, Jingting Ding, Hao Chen, Jinjie Gu. (2026). Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving. arXiv preprint. https://arxiv.org/abs/2609.12606 [doi:10.48550/arxiv.2609.12606](https://doi.org/10.48550/arxiv.2609.12606)
 
 `q2 · i?` · `design · r2`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: stephan-vonschallen-2026
-    resource: "https://arxiv.org/abs/2607.22345"
-    title: "Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345"
+    resource: "https://doi.org/10.48550/arxiv.2607.22345"
+    title: "Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345 [doi:10.48550/arxiv.2607.22345](https://doi.org/10.48550/arxiv.2607.22345)"
     author: Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel
     q: 3
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · causal `r1`–`r2` · `q2`–`q3`
+> **Evidence** · 2 studies (3 entries) · 2 causal `r1`–`r2` · `q2`–`q3`
 
 ## Subclaims
 `q3 i?` In the ANCOVA with pretest as covariate, the KBD group's mean learning gain (0.75 points) versus the control group's (0 points) was not significant. [→ Stephan Vonschallen 2026](#stephan-vonschallen-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Stephan Vonschallen 2026
 
-Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345
+Stephan Vonschallen, Karim Kaufmann, Dominique Oberle, Friederike Eyssel, Theresa Schmiedel. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345 [doi:10.48550/arxiv.2607.22345](https://doi.org/10.48550/arxiv.2607.22345)
 
 `q3 · i?` · `causal · r2`
 

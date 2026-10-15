@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: codebook-shift-1
+    resource: "https://doi.org/10.48550/arxiv.2605.30666"
     title: codebook-shift-1
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### codebook-shift-1
 
-Shim Jaechang and Unggi Lee. 2026. The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals. In Proceedings of The 35th ACM International Conference on Information and Knowledge Management (CIKM '26). https://arxiv.org/abs/2605.30666
+Shim Jaechang and Unggi Lee. 2026. The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals. In Proceedings of The 35th ACM International Conference on Information and Knowledge Management (CIKM '26). https://arxiv.org/abs/2605.30666 [doi:10.48550/arxiv.2605.30666](https://doi.org/10.48550/arxiv.2605.30666)
 
 `q2 · i?` · `causal · r1`
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: xiaojing-duan-2026
-    resource: "https://arxiv.org/abs/2604.03926"
-    title: "Xiaojing Duan, Frederick Nwanganga, and Chaoli Wang. (2026). CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation. https://arxiv.org/abs/2604.03926"
+    resource: "https://doi.org/10.48550/arxiv.2604.03926"
+    title: "Xiaojing Duan, Frederick Nwanganga, and Chaoli Wang. (2026). CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation. https://arxiv.org/abs/2604.03926 [doi:10.48550/arxiv.2604.03926](https://doi.org/10.48550/arxiv.2604.03926)"
     author: Xiaojing Duan, Frederick Nwanganga, and Chaoli Wang
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xiaojing Duan 2026
 
-Xiaojing Duan, Frederick Nwanganga, and Chaoli Wang. (2026). CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation. https://arxiv.org/abs/2604.03926
+Xiaojing Duan, Frederick Nwanganga, and Chaoli Wang. (2026). CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation. https://arxiv.org/abs/2604.03926 [doi:10.48550/arxiv.2604.03926](https://doi.org/10.48550/arxiv.2604.03926)
 
 `q2 · i?` · `design · r2`
 

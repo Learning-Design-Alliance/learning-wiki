@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` PB learners' knowledge-section gains significantly exceeded PS learners' (T = -3.664, p = .00), and PS students made no knowledge gains over the four weeks. [→ Newell 2008](#newell-2008)

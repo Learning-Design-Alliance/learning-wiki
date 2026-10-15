@@ -18,7 +18,7 @@ sources:
 # Chicago Public Schools elementary teacher stability dataset, 2003-2006
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Chicago Public Schools data table reporting one-year teacher stability percentages for elementary schools across fall snapshots from 2003 through 2006.
@@ -27,9 +27,6 @@ A Chicago Public Schools data table reporting one-year teacher stability percent
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Some Chicago elementary schools sustained very high teacher stability, at or near 100%, across the 2003-2006 period](../claims/cps-teacher-stability-high-stability-schools.md) [+W]
-- [Some Chicago elementary schools experienced sharp single-year drops in teacher stability, such as Ashburn falling from 86.7% to 20.0%](../claims/cps-teacher-stability-sharp-single-year-drops.md) [+W]
-- [One-year teacher stability varies widely across Chicago elementary schools and years, with some schools below 50% and others at or near 100%](../claims/cps-teacher-stability-varies-widely-across-schools.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -63,9 +60,6 @@ This element is a published data table of one-year teacher stability rates for C
 
 ## Claims
 
-- [Some Chicago elementary schools sustained very high teacher stability, at or near 100%, across the 2003-2006 period](../claims/cps-teacher-stability-high-stability-schools.md) [+W]
-- [Some Chicago elementary schools experienced sharp single-year drops in teacher stability, such as Ashburn falling from 86.7% to 20.0%](../claims/cps-teacher-stability-sharp-single-year-drops.md) [+W]
-- [One-year teacher stability varies widely across Chicago elementary schools and years, with some schools below 50% and others at or near 100%](../claims/cps-teacher-stability-varies-widely-across-schools.md) [+W]
 
 ## Related Elements
 - 

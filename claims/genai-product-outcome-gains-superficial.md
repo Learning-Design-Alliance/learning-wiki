@@ -42,12 +42,12 @@ Narrative review attribution: the article reports, citing Mariñoso et al. (2025
 
 ## Related Claims
 - [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
-- [genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma)](performance-metacognition-dilemma-genai.md) — a broader claim this one bears on
+- genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma) — a broader claim this one bears on
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — related
 - [Learning outcomes differ by how students use AI: augmentation and mixed users show gains in both sessions, while automation users' Session One essay advantage is absent from their unaided essays](genai-outcomes-differ-by-use-type.md) — related
-- [The GenAI session strengthened immediate AI-handling confidence and workflow literacy, but students remained hesitant about transferring these skills to employment](gen-aitecture-ai-handling-confidence-transfer-hesitation.md) — related
-- [GenAI systems achieved consistently high scores on programming assessments written entirely in Estonian](genai-high-performance-estonian-language-tasks.md) — related
+- The GenAI session strengthened immediate AI-handling confidence and workflow literacy, but students remained hesitant about transferring these skills to employment — related
+- GenAI systems achieved consistently high scores on programming assessments written entirely in Estonian — related
 - [A meta-analysis of 69 studies reports generative AI improves academic performance with g = 0.7, but the article argues this likely reflects immediate task success rather than learning](genai-meta-analysis-g-0-7-performance-not-learning.md) — a narrower finding that bears on this claim
 - [ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration](chatgpt-support-or-superficial-completion.md) — related
 - [FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn](frac-transfer-retention-after-ai-removal.md) — related

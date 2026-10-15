@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: guo-2026
-    resource: "https://arxiv.org/abs/2609.29672"
-    title: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672"
+    resource: "https://doi.org/10.48550/arxiv.2609.29672"
+    title: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672 [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)"
     author: "Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X."
     q: 1
     i: "?"
@@ -38,7 +38,7 @@ sources:
 # A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · design `r1` · `q1`
+> **Evidence** · 2 studies (3 entries) · 2 design `r1` · `q1`
 
 ## Subclaims
 `q1 i?` The complete four-skill stack totals under 4 GB, inside the 8-16 GB of the cheapest new laptops. [→ Guo 2026](#guo-2026)
@@ -49,7 +49,7 @@ sources:
 
 ### Guo 2026
 
-Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672
+Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity. https://arxiv.org/abs/2609.29672 [doi:10.48550/arxiv.2609.29672](https://doi.org/10.48550/arxiv.2609.29672)
 
 `q1 · i?` · `design · r1`
 
@@ -82,7 +82,7 @@ The article's cost derivation at the 2024 average US residential electricity pri
 
 ## Related Claims
 
-- [Fine-tuning and running CLST is feasible on a single workstation GPU, with measured training cost of about 6.8 hours and 19 GB peak memory on Algebra05](clst-finetuning-compute-cost.md) — related
+- Fine-tuning and running CLST is feasible on a single workstation GPU, with measured training cost of about 6.8 hours and 19 GB peak memory on Algebra05 — related
 - [The ELEVATE server pipeline runs locally on two heterogeneous consumer machines, keeping LLM and TTS models fully resident in memory for low-latency inference](elevate-local-two-machine-low-latency-deployment.md) — related
 - [The linearity bias heuristic enables robust alignment with low-dimensional embeddings on standard CPUs, lowering computational prerequisites](linearity-bias-lowers-computational-prerequisites.md) — related
 - [Households pay substantial recurring sums for private supplementary language education, with Korea at 29.2 trillion won in 2024 and English the leading subject](shadow-education-household-spending-scale.md)

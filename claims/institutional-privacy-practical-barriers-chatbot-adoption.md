@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: riahi-2026
-    resource: "https://arxiv.org/abs/2609.29993"
-    title: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993"
+    resource: "https://doi.org/10.48550/arxiv.2609.29993"
+    title: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993 [doi:10.48550/arxiv.2609.29993](https://doi.org/10.48550/arxiv.2609.29993)"
     author: "Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Riahi 2026
 
-Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993
+Riahi, B., Ozturk, D., Guth, A., Li, J., Singh, D. P., Tian, X., Chiu, J., Lytle, N., Barnes, T., & Cateté, V. (2026). Will It Teach as Intended? How Teachers Configure Educational AI Chatbots. https://arxiv.org/abs/2609.29993 [doi:10.48550/arxiv.2609.29993](https://doi.org/10.48550/arxiv.2609.29993)
 
 `q2 · i?` · `qualitative · r?`
 

@@ -11,8 +11,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: james-soland-2020
-    resource: "https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores/"
-    title: "James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. NWEA Research Working Paper. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores/"
+    resource: "https://doi.org/10.1080/00273171.2020.1778440"
+    title: "James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. NWEA Research Working Paper. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores/ [doi:10.1080/00273171.2020.1778440](https://doi.org/10.1080/00273171.2020.1778440)"
     author: James Soland, Megan Kuhfeld
     q: 1
     i: "?"
@@ -35,7 +35,7 @@ sources:
 
 ### James Soland 2020
 
-James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. NWEA Research Working Paper. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores/
+James Soland, Megan Kuhfeld. (2020). Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores. NWEA Research Working Paper. https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores/ [doi:10.1080/00273171.2020.1778440](https://doi.org/10.1080/00273171.2020.1778440)
 
 `q1 · i?` · `associational · r?`
 

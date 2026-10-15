@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q1 i?` Because styles are partly socialized constructs shaped by culture, gender, age, parenting, and schooling, they are modifiable to at least some degree. [→ Presseisen 1990](#presseisen-1990)
@@ -45,4 +46,4 @@ Theoretical argument in the development section of Sternberg's chapter, which li
 ## Related Claims
 - [Schools overwhelmingly reward executive styles and confuse style with level of intellect](schools-reward-executive-styles.md) — related
 - [Intellectual style is a way of directing intelligence, not a level of it](style-distinct-from-intelligence-level.md) — related
-- [Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples](gender-effects-on-srl-mediated-by-culture-discipline-age.md) — related
+- Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related

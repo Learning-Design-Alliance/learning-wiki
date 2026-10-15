@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: ahana-biswas-2026
-    resource: "https://arxiv.org/abs/2608.19616"
-    title: "Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616"
+    resource: "https://doi.org/10.48550/arxiv.2608.19616"
+    title: "Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616 [doi:10.48550/arxiv.2608.19616](https://doi.org/10.48550/arxiv.2608.19616)"
     author: Ahana Biswas
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Ahana Biswas 2026
 
-Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616
+Ahana Biswas. (2026). Modeling AI Overreliance as a Complex Adaptive System. arXiv. https://arxiv.org/abs/2608.19616 [doi:10.48550/arxiv.2608.19616](https://doi.org/10.48550/arxiv.2608.19616)
 
 `q2 · i?` · `theoretical · r3`
 

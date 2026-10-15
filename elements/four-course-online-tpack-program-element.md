@@ -17,7 +17,7 @@ sources:
 # Four-course online TPACK professional development program (SED 520, 521, 522, 594)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The program comprises three fully online technology education courses (SED 520 multimedia technologies, SED 521 digital images and video, SED 522 dynamic spreadsheets) plus a blended course, SED 594, combining online discussion of reform-based instructional strategies with practical teaching of a five-day unit in teachers' own classrooms. As printed, the program "developed four new university graduate level courses." Teachers act as students learning with technologies, then design, implement, analyze and reflect on their teaching, gathering videos, student products, and extensive critical reflections in electronic portfolios.
@@ -44,9 +44,7 @@ The program comprises three fully online technology education courses (SED 520 m
 ## Claims
 
 - [In-service mathematics teachers in the online TPACK program shifted from teacher-centered to valuing student-centered instructional strategies for teaching with technologies](../claims/online-tpack-program-shift-student-centered-strategies.md) [+W]
-- [Teachers' overarching conceptions expanded to value multiple technologies, including technologies for communication, collaboration, and inquiry, in more student-centered ways](../claims/overarching-conceptions-expanded-multiple-technologies.md) [+W]
 - [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](../claims/students-need-time-learn-technology-first.md) [+W]
-- [Teachers reported that technology-supported group work increased student engagement and helped them access students' thinking](../claims/technology-group-work-engagement-student-thinking.md) [+W]
 
 ## Related Elements
 - 

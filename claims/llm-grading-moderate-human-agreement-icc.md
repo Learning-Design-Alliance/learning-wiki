@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: marcin-jukiewicz-2025
-    resource: "https://arxiv.org/abs/2509.26483"
-    title: "Marcin Jukiewicz. (2025). A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor. arXiv preprint. https://arxiv.org/abs/2509.26483"
+    resource: "https://doi.org/10.48550/arxiv.2509.26483"
+    title: "Marcin Jukiewicz. (2025). A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor. arXiv preprint. https://arxiv.org/abs/2509.26483 [doi:10.48550/arxiv.2509.26483](https://doi.org/10.48550/arxiv.2509.26483)"
     author: Marcin Jukiewicz
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Marcin Jukiewicz 2025
 
-Marcin Jukiewicz. (2025). A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor. arXiv preprint. https://arxiv.org/abs/2509.26483
+Marcin Jukiewicz. (2025). A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor. arXiv preprint. https://arxiv.org/abs/2509.26483 [doi:10.48550/arxiv.2509.26483](https://doi.org/10.48550/arxiv.2509.26483)
 
 `q2 · i?` · `design · r2`
 

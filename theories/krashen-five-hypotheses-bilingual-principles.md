@@ -16,7 +16,7 @@ sources:
 # Krashen's five hypotheses (acquisition-learning, natural order, monitor, input, affective filter) serve as the principles for second language acquisition in bilingual programs
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The packet states principles for second language acquisition are best stated by Krashen's (1981) five hypotheses: acquisition-learning, natural order, monitor, input, and affective filter. The input hypothesis holds that students acquire language by understanding input containing structures "a bit beyond" their current level, and the affective filter hypothesis holds that acquirers in a less than optimal affective state have a mental block preventing full use of input. The packet operationalizes these into three requirements for bilingual education: provide comprehensible input in the weaker language, maintain subject matter, and maintain and develop the child's first language.
@@ -39,7 +39,6 @@ The packet states principles for second language acquisition are best stated by 
 
 ### Claims
 
-- [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](../claims/affective-variables-facilitate-l2-acquisition.md) [+W]
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
 
 ## Related Theories

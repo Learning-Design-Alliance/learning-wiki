@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: amogh-sirnoorkar-and-omkar-mamidpalliwar-2026
-    resource: "https://arxiv.org/abs/2607.29385"
-    title: "Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385"
+    resource: "https://doi.org/10.48550/arxiv.2607.29385"
+    title: "Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385 [doi:10.48550/arxiv.2607.29385](https://doi.org/10.48550/arxiv.2607.29385)"
     author: Amogh Sirnoorkar and Omkar Mamidpalliwar
     q: 2
     i: 0
@@ -30,7 +30,7 @@ sources:
 # Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
+> **Evidence** · 2 studies · 2 associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
 `q2 i0` Kruskal-Wallis tests showed at least one preference group differed on total EBAPS scores and on Axis 4 and Axis 5, with small effect sizes (total 0.004; Axis 4 0.007; Axis 5 0.006). [→ Amogh Sirnoorkar and Omkar Mamidpalliwar 2026](#amogh-sirnoorkar-and-omkar-mamidpalliwar-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Amogh Sirnoorkar and Omkar Mamidpalliwar 2026
 
-Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385
+Amogh Sirnoorkar and Omkar Mamidpalliwar. (2026). Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning. https://arxiv.org/abs/2607.29385 [doi:10.48550/arxiv.2607.29385](https://doi.org/10.48550/arxiv.2607.29385)
 
 `q2 · i0` · `associational · r2`
 

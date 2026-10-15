@@ -18,7 +18,7 @@ sources:
 # Collaborative Strategic Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A structured reading-comprehension program developed by Janette K. Klingner and Sharon Vaughn that combines metacognitive comprehension strategies with small-group cooperative learning during English-language arts or content-area instruction.
@@ -29,7 +29,6 @@ A structured reading-comprehension program developed by Janette K. Klingner and 
 - **Free online CSR teacher support materials**: The article states that "Online teacher support materials are available for free" and enumerates their contents: study modules for each CSR component, a video library featuring teachers using CSR in their classrooms, introductory mini lessons to introduce the CSR strategies to students, and resources to help teachers scaffold instruction for learners from diverse learning and language backgrounds. (Collaborative Strategic Reading (2024))
 
 ### Claims
-- [CSR shows small positive effects on GMRT and TOSREC with an average effect size of +0.04 across three evaluations](../claims/csr-small-positive-effects-gmrt-tosrec.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,7 +65,6 @@ CSR is a reading comprehension program in which students work in small cooperati
 
 ## Claims
 
-- [CSR shows small positive effects on GMRT and TOSREC with an average effect size of +0.04 across three evaluations](../claims/csr-small-positive-effects-gmrt-tosrec.md) [+W]
 
 ## Related Elements
 

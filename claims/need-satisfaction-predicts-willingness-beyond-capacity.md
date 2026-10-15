@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: haiyang-xin-2026
-    resource: "https://arxiv.org/abs/2605.12934"
-    title: "Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934"
+    resource: "https://doi.org/10.48550/arxiv.2605.12934"
+    title: "Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934 [doi:10.48550/arxiv.2605.12934](https://doi.org/10.48550/arxiv.2605.12934)"
     author: Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen
     q: 2
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Haiyang Xin 2026
 
-Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934
+Haiyang Xin, Qiannan Niu, Shuang Li, Yimeng Sun, Ching Sing Chai, Lingyun Huang, Gaowei Chen. (2026). An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design. https://arxiv.org/abs/2605.12934 [doi:10.48550/arxiv.2605.12934](https://doi.org/10.48550/arxiv.2605.12934)
 
 `q2 · i3` · `design · r3`
 

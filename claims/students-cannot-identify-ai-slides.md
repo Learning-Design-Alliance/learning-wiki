@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 sources:
   - id: anchor-guess
+    resource: "https://doi.org/10.48550/arxiv.2605.13532"
     title: anchor-guess
     q: 2
     i: "?"
@@ -29,7 +30,7 @@ sources:
 
 ### anchor-guess
 
-Juho Leinonen, Lisa Zhang, and Arto Hellas. 2026. AI-Generated Slides: Are They Good? Can Students Tell?. In Proceedings of Western Canada Conference on Computing Education 2026 (WCCCE 2026). ACM, New York, NY, USA. https://arxiv.org/abs/2605.13532
+Juho Leinonen, Lisa Zhang, and Arto Hellas. 2026. AI-Generated Slides: Are They Good? Can Students Tell?. In Proceedings of Western Canada Conference on Computing Education 2026 (WCCCE 2026). ACM, New York, NY, USA. https://arxiv.org/abs/2605.13532 [doi:10.48550/arxiv.2605.13532](https://doi.org/10.48550/arxiv.2605.13532)
 
 `q2 · i?` · `causal · r1`
 

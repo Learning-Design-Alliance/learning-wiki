@@ -16,7 +16,7 @@ sources:
 # Kagan's structural approach to cooperative learning (KCLS)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 KCLS is a content-free, step-by-step structural approach to cooperative learning consisting of "contemporary psycho-social behaviours with social interaction sequences which can transform teaching". It organises social interaction in the classroom through simple stepwise structures (e.g., Rally Robin, Round Robin, Mix Pair Share, Inside-Outside Circle, Numbered Head Together) and is designed to increase student engagement and cooperation, usable at all grade levels with any curriculum. Its principles include positive interdependence, individual accountability, equal participation, and simultaneous interaction (PIES).
@@ -39,12 +39,6 @@ KCLS is a content-free, step-by-step structural approach to cooperative learning
 
 ### Claims
 
-- [Teachers Moderate Perception Kcls Teaching Learning](../claims/teachers-moderate-perception-kcls-teaching-learning.md) [+M]
-- [Class Size Space Top Kcls Barrier](../claims/class-size-space-top-kcls-barrier.md) [-M]
-- [High achievers dominate teamwork under KCLS, and some students resist or avoid it](../claims/high-achiever-dominance-student-resistance-kcls.md) [+W]
-- [Both teachers and students report low perceptions of the factors affecting KCLS implementation](../claims/low-perception-factors-affecting-kcls.md) [+W]
-- [Grade 11 and 12 students hold a moderate level of perception towards KCLS in teaching and learning processes](../claims/students-moderate-perception-kcls-teaching-learning.md) [+W]
-- [The vast grade 11 and 12 syllabus and time demands of KCLS are a prominent implementation barrier](../claims/syllabus-coverage-time-kcls-barrier.md) [+W]
 
 ## Related Theories
 

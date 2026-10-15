@@ -68,7 +68,7 @@ The report's synthesis of Florida outcome studies (district data from 90% of dis
 - [BTA implementation data are often partial, inconsistent, or unreliable, hindering accountability at scale](bta-data-collection-inconsistent-texas.md) — related
 - [School resource officers have limited effects on school safety and increase suspensions, expulsions, police referrals, and arrests, with larger negative effects for Black students and students with disabilities](sros-limited-safety-gains-negative-discipline-outcomes.md) — related
 - [Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment](disproportionate-discipline-students-of-color-disabilities.md) — related
-- [Male students received significantly higher rates of suspensions and referrals than female students](male-students-higher-discipline-rates-elementary.md) — related
+- Male students received significantly higher rates of suspensions and referrals than female students — related
 - [Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer](disproportionate-discipline-and-sro-placement.md) — related
 - [In the sole Salem-Keizer study, team recommendations split evenly between social supports and surveillance, with racial differences in recommendation types](salem-keizer-supports-surveillance-racial-differences.md) — related
 - [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](suspension-disparities-reflect-policies-and-adult-biases.md) — related

@@ -13,7 +13,7 @@ generated:
 # Learner-Centered Paradigm of Education
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 13 claims (10 for, 2 mixed, 1 against) · 11 studies (4 causal, 2 quant-synthesis, 2 theoretical, 1 review, 1 associational, 1 qualitative), `q1`–`q4` · 3 of 11 report an effect size · 12 claims rest on one study
+> **Evidence** · 12 claims (9 for, 2 mixed, 1 against) · 10 studies (4 causal, 2 quant-synthesis, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 10 report an effect size · 11 claims rest on one study
 
 ## Description
 Watson and Reigeluth (2008) argue that most school systems are still organized on an Industrial-Age, sorting-based model: time is held constant (a fixed school year, fixed pace), so achievement is forced to vary — some students master the material, others fall behind and accumulate deficits, and the system's implicit function is to sort students into different tracks rather than ensure everyone reaches mastery. The learner-centered paradigm proposes inverting this: hold **attainment** constant (every learner reaches mastery of each standard) and let **time/pace** vary to fit the individual, alongside person-based (rather than group-based) progression, resource-based (rather than purely teacher-based) instruction, and criterion-based (rather than norm-based) assessment.
@@ -53,7 +53,6 @@ Reigeluth (2011) elaborates the roles that shift under this paradigm. **Teachers
 - [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](../claims/rl-sequencing-beats-fixed-oral-curriculum.md) [+M]
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
 - [Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation](../claims/ai-personalization-benefits-performance-motivation.md) [+W] — attached 2026-10-11 from Ikram M et al. (2026), which proposed "Education 5.0: a learner-centered paradigm integrating generative AI with humanistic values and human-AI collaboration"; tests this page's relationship.
-- [One-size-fits-all school systems under-serve nearly all of their students](../claims/one-size-fits-all-underserves-students.md) [+W]
 - [One policy report argues that rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding activities, especially in schools serving learners of color and those experiencing poverty](../claims/pacing-guides-force-teacher-centered-lessons.md) [+W]
 - [How students are sorted into classrooms by skill level can affect their achievement as much as the content they are taught](../claims/sorting-effect-comparable-to-curriculum-content.md) [+W]
 - [Differentiating curriculum for students above grade level is associated with higher math achievement in 2nd grade only](../claims/differentiating-above-grade-level-second-grade-achievement.md) [~W]

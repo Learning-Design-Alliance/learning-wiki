@@ -22,7 +22,7 @@ sources:
 # Dynamic Learning Project
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 16 claims (16 for) · 4 studies (2 associational, 1 qualitative, 1 design), `q2` · 0 of 4 report an effect size · 16 claims rest on one study
+> **Evidence** · 14 claims (14 for) · 4 studies (2 associational, 1 qualitative, 1 design), `q2` · 0 of 4 report an effect size · 14 claims rest on one study
 
 ## Description
 A school-based instructional technology coaching programme run by Digital Promise that places full-time coaches in underserved schools to support teachers through iterative coaching cycles, modeling, co-teaching, and reflection.
@@ -46,9 +46,7 @@ A school-based instructional technology coaching programme run by Digital Promis
 - [More DLP teachers reported strong ability to select and use technology for pedagogy and for their content area than non-DLP teachers](../claims/dlp-coaching-stronger-ability-select-use-technology.md) [+W]
 - [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](../claims/dlp-student-engagement-impactful-technology-use.md) [+W]
 - [DLP teachers reported more confidence than non-DLP teachers in using technology to develop students' six 21st-century skill categories](../claims/dlp-teachers-confident-21st-century-skill-technology-use.md) [+W]
-- [Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills](../claims/requisite-coach-characteristics-qualitative-findings.md) [+W]
 - [Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching](../claims/four-relational-components-coaching-partnership.md) [+W]
-- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](../claims/coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) [+W]
 - Dlp Coaching Improves Teaching Challenges [+M]
 
 ## Related Products and Programmes
@@ -145,10 +143,8 @@ The report proposes that five aspects of the DLP account for its success: partne
 - [More DLP teachers reported strong ability to select and use technology for pedagogy and for their content area than non-DLP teachers](../claims/dlp-coaching-stronger-ability-select-use-technology.md) [+W]
 - [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](../claims/dlp-student-engagement-impactful-technology-use.md) [+W]
 - [DLP teachers reported more confidence than non-DLP teachers in using technology to develop students' six 21st-century skill categories](../claims/dlp-teachers-confident-21st-century-skill-technology-use.md) [+W]
-- [Effective coaches require content expertise, classroom experience, technology proficiency, flexible scheduling, partnership orientation, and interpersonal skills](../claims/requisite-coach-characteristics-qualitative-findings.md) [+W]
 - [Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open](../claims/dlp-multiple-cycles-greater-progress.md) [+W]
 - [Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching](../claims/four-relational-components-coaching-partnership.md) [+W]
-- [Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes](../claims/coaching-outcomes-teacher-knowledge-sustainability-student-learning.md) [+W]
 
 ## Related Theories
 

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: marcos-abreu-2026
-    resource: "https://arxiv.org/abs/2609.22417"
-    title: "Marcos Abreu, Cecilia Stari, Arturo C. Martí. (2026). AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice. arXiv. https://arxiv.org/abs/2609.22417"
+    resource: "https://doi.org/10.48550/arxiv.2609.22417"
+    title: "Marcos Abreu, Cecilia Stari, Arturo C. Martí. (2026). AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice. arXiv. https://arxiv.org/abs/2609.22417 [doi:10.48550/arxiv.2609.22417](https://doi.org/10.48550/arxiv.2609.22417)"
     author: Marcos Abreu, Cecilia Stari, Arturo C. Martí
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Marcos Abreu 2026
 
-Marcos Abreu, Cecilia Stari, Arturo C. Martí. (2026). AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice. arXiv. https://arxiv.org/abs/2609.22417
+Marcos Abreu, Cecilia Stari, Arturo C. Martí. (2026). AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice. arXiv. https://arxiv.org/abs/2609.22417 [doi:10.48550/arxiv.2609.22417](https://doi.org/10.48550/arxiv.2609.22417)
 
 `q2 · i?` · `design · r2`
 

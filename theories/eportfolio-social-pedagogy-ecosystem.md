@@ -16,7 +16,7 @@ sources:
 # ePortfolio Social Pedagogy Ecosystem
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (2 design, 1 qualitative), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 design), `q1` · 0 of 2 report an effect size
 
 ## Description
 A framework in which ePortfolio learning occurs through three interrelated modes of social learning activities: authoring a written ePortfolio on a digital platform, presenting the ePortfolio in a webinar platform, and presenting it in-person. The modes are bound together by a community of participants sharing learning via reflection, integration, and inquiry, and are organized around Bass's social core practices of constructing understanding, communicating understanding, and engaging authentic audiences. The article used this ecosystem to assess science teachers' information literacy competency growth.
@@ -39,10 +39,6 @@ A framework in which ePortfolio learning occurs through three interrelated modes
 
 ### Claims
 
-- [Eportfolio Mode Evidence Inconsistent Across Modes](../claims/eportfolio-mode-evidence-inconsistent-across-modes.md) [+M]
-- [Eportfolio Effective Self Assessment Information Literacy](../claims/eportfolio-effective-self-assessment-information-literacy.md) [+M]
-- [Specific research-as-inquiry knowledge practices and dispositions showed gaps in evidence across modes, informing future information literacy instruction](../claims/knowledge-practice-disposition-evidence-gaps.md) [+W]
-- [Two participants showed more research-as-inquiry evidence in webinar and in-class presentations than in their written ePortfolios, while one participant showed more in his written ePortfolio and final presentation than in his webinar](../claims/mode-specific-evidence-patterns-three-teachers.md) [+W]
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](../claims/public-capstone-epportfolio-showcase-audience-effect.md) [+W]
 
 ## Related Theories

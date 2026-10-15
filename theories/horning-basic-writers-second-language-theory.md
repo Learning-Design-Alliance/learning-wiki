@@ -16,7 +16,7 @@ sources:
 # Horning's theory: for basic writers, academic written English is a second language
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article describes Alice Horning's (1987) theory of writing development for basic writers, formulated around Krashen's hypotheses. Its central hypothesis is that "(B)asic writers learn to write as other learners master a second language because, for them, academic written English is a whole new language" (p.5). The theory holds that the written form of language is a distinct linguistic system, and that basic writers' needs are similar to those of other writers, their differences being a matter of degree.
@@ -39,8 +39,6 @@ The article describes Alice Horning's (1987) theory of writing development for b
 
 ### Claims
 
-- [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](../claims/affective-variables-facilitate-l2-acquisition.md) [+W]
-- [Comprehensible input in natural language contexts is presented as essential to second language acquisition](../claims/comprehensible-input-essential-l2-acquisition.md) [+W]
 - [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](../claims/student-centered-environments-lower-anxiety-increase-confidence.md) [+W]
 - [Writing is presented as uniquely corresponding to the features of successful learning](../claims/writing-uniquely-corresponds-features-successful-learning.md) [+W]
 

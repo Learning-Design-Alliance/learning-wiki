@@ -69,7 +69,7 @@ Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — related
 - [Explicit teaching is more effective for EFL copular be learning but its effect is not durable](explicit-teaching-effective-but-not-durable.md) — related
 - [Majorities of students believed inductive instruction more effective for simple structures and, conversely, for difficult structures](student-beliefs-inductive-effectiveness-structure-complexity.md) — related
-- [ESL learners rate deductive and inductive consciousness-raising tasks equally effective, regardless of proficiency](learners-rate-deductive-inductive-equally-effective.md) — related
+- ESL learners rate deductive and inductive consciousness-raising tasks equally effective, regardless of proficiency — related
 - [All student groups preferred explicit over implicit grammar instruction](efl-students-prefer-explicit-over-implicit-grammar-instruction.md) — related
 - [Prep School and undergraduate students differed significantly on overall beliefs, MFI-FFI and FonF-FonFs, but not on implicit-explicit or inductive-deductive preferences](prep-undergrad-belief-differences-mixed-across-constructs.md) — related
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](grammar-as-skill-is-a-conflation.md) — related

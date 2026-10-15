@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hasnain-heickal-and-andrew-lan-2026
-    resource: "https://arxiv.org/abs/2606.08807"
-    title: "Hasnain Heickal and Andrew Lan. (2026). A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming. https://arxiv.org/abs/2606.08807"
+    resource: "https://doi.org/10.48550/arxiv.2606.08807"
+    title: "Hasnain Heickal and Andrew Lan. (2026). A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming. https://arxiv.org/abs/2606.08807 [doi:10.48550/arxiv.2606.08807](https://doi.org/10.48550/arxiv.2606.08807)"
     author: Hasnain Heickal and Andrew Lan
     q: 3
     i: 3
@@ -31,7 +31,7 @@ sources:
 
 ### Hasnain Heickal and Andrew Lan 2026
 
-Hasnain Heickal and Andrew Lan. (2026). A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming. https://arxiv.org/abs/2606.08807
+Hasnain Heickal and Andrew Lan. (2026). A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming. https://arxiv.org/abs/2606.08807 [doi:10.48550/arxiv.2606.08807](https://doi.org/10.48550/arxiv.2606.08807)
 
 `q3 · i3` · `associational · r1`
 

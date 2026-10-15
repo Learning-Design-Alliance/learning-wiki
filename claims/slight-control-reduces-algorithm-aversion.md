@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: pierre-haritz-2026
-    resource: "https://arxiv.org/abs/2609.02453"
-    title: "Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453"
+    resource: "https://doi.org/10.48550/arxiv.2609.02453"
+    title: "Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453 [doi:10.48550/arxiv.2609.02453](https://doi.org/10.48550/arxiv.2609.02453)"
     author: Pierre Haritz, Hendrik Krone, and Thomas Liebig
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r2` · `q2`
 
 ## Subclaims
 `q2 i?` The article reports, citing Dietvorst et al., that giving users even a slight degree of control over an algorithm's output was sufficient to reduce algorithm aversion substantially. [→ Pierre Haritz 2026](#pierre-haritz-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Pierre Haritz 2026
 
-Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453
+Pierre Haritz, Hendrik Krone, and Thomas Liebig. (2026). Addressing Trust in AI Systems through Education: A Didactic Perspective. https://arxiv.org/abs/2609.02453 [doi:10.48550/arxiv.2609.02453](https://doi.org/10.48550/arxiv.2609.02453)
 
 `q2 · i?` · `theoretical · r2`
 

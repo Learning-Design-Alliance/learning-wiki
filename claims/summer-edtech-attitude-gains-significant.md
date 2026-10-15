@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: christina-luke-2016
-    resource: "https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d"
-    title: "Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d"
+    resource: "https://doi.org/10.51388/20.500.12265/26"
+    title: "Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)"
     author: Christina Luke, Christa M. Simone, Aubrey T. Francisco
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Christina Luke 2016
 
-Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d
+Christina Luke, Christa M. Simone, Aubrey T. Francisco. (2016). Rapid Cycle Pilots: Summer Ed-Tech Programs. Digital Promise. https://digitalpromise.dspacedirect.org/items/8017846c-4099-4af3-92e4-462cd5d6262d [doi:10.51388/20.500.12265/26](https://doi.org/10.51388/20.500.12265/26)
 
 `q2 · i?` · `design · r2`
 

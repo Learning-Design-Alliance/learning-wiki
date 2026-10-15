@@ -29,6 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` ANCOVA shows a significant difference in students' affordance of teleologic and anthropomorphic languages after various classroom pedagogical interventions (F = 9.407, p = .004). [→ Bautista 2015](#bautista-2015)
@@ -64,4 +65,4 @@ ANCOVA grouping factor tests in the same study: age F = .395, p = .676 (not sign
 - [Students who just completed secondary education and those from the English curriculum showed the least teleologic-anthropomorphic affordance](english-curriculum-and-recent-graduates-least-teleologic-anthropomorphic.md) — related
 - [The interaction of interventions with age and curricular undertaking is not significant at the .05 level](intervention-age-curriculum-interaction-not-significant.md) — related
 - [Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking](teleologic-anthropomorphic-language-related-to-age-and-curriculum.md) — reports the opposite
-- [Animistic and anthropomorphic explanations do not diminish with age but survive into adulthood, contrary to the Piagetian stage account](animistic-explanations-persist-beyond-piagetian-stages.md) — reports the opposite
+- Animistic and anthropomorphic explanations do not diminish with age but survive into adulthood, contrary to the Piagetian stage account — reports the opposite

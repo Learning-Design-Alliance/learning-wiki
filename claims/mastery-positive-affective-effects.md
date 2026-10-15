@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q3 i?` Students under mastery conditions liked the subject more, felt more confident, felt it more important, and accepted greater personal responsibility, with affective effect sizes ranging from .11 to .53. [→ Guskey 1985](#guskey-1985)
@@ -65,6 +66,6 @@ In the Denton, Ory, Glassnap, & Poggio (1976) study included in the synthesis, g
 - [Mastery learning improves students' attitudes toward the instruction and toward the subject](mastery-learning-improves-attitudes-toward-instruction.md) — the general claim this finding bears on, with the studies behind it
 - [Successful use of mastery learning has powerful but mixed effects on teacher variables, including more positive attitudes, altered attributions, and reduced teaching confidence](mastery-mixed-teacher-variable-effects.md) — related
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related
-- [Teachers report the program supports student interest, confidence, and enjoyment of math](mma-teacher-survey-qualitative-findings.md) — a narrower finding that bears on this claim
+- Teachers report the program supports student interest, confidence, and enjoyment of math — a narrower finding that bears on this claim
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related
 - [AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related

@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: suleiman-2026
-    resource: "https://arxiv.org/abs/2607.11129"
-    title: "Suleiman, A. D., DeWaters, J., Shepherd, D. C., Korkmaz, T., Hussain, F., Liu, Y., & Hou, D. (2026). Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio. https://arxiv.org/abs/2607.11129"
+    resource: "https://doi.org/10.48550/arxiv.2607.11129"
+    title: "Suleiman, A. D., DeWaters, J., Shepherd, D. C., Korkmaz, T., Hussain, F., Liu, Y., & Hou, D. (2026). Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio. https://arxiv.org/abs/2607.11129 [doi:10.48550/arxiv.2607.11129](https://doi.org/10.48550/arxiv.2607.11129)"
     author: "Suleiman, A. D., DeWaters, J., Shepherd, D. C., Korkmaz, T., Hussain, F., Liu, Y., & Hou, D."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Suleiman 2026
 
-Suleiman, A. D., DeWaters, J., Shepherd, D. C., Korkmaz, T., Hussain, F., Liu, Y., & Hou, D. (2026). Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio. https://arxiv.org/abs/2607.11129
+Suleiman, A. D., DeWaters, J., Shepherd, D. C., Korkmaz, T., Hussain, F., Liu, Y., & Hou, D. (2026). Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio. https://arxiv.org/abs/2607.11129 [doi:10.48550/arxiv.2607.11129](https://doi.org/10.48550/arxiv.2607.11129)
 
 `q2 · i?` · `design · r3`
 

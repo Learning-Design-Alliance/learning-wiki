@@ -17,7 +17,7 @@ sources:
 # Integrated school-based health and social safety net supports addressing out-of-school learning barriers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Sierra and University High stitch together a social safety net through integrated systems of support: monthly food distributions, clothing closets, a school-based rotating therapist with group grief therapy, QR-code sign-ups for therapy sessions, a Sierra school-based health center built with federal funding, free vision screenings with an Albuquerque optometrist, and twice-yearly dental visits. Partners include La Casa Behavioral Health, Emerge, Wings for L.I.F.E., and Casakids. A coordinator described the role: "My main priorities are looking at the gaps and seeing how I could fill them."
@@ -41,7 +41,6 @@ Sierra and University High stitch together a social safety net through integrate
 
 ## Claims
 
-- [Treatable and preventable health issues are barriers to students' academic engagement and contribute to over one million US high school students dropping out each year](../claims/health-issues-barrier-academic-engagement-dropout.md) [+W]
 
 ## Related Strategies
 

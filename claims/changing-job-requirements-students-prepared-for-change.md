@@ -43,5 +43,5 @@ The publication's introductory text asserts, without cited data, that 'Constant 
 
 
 ## Related Claims
-- [Schools must foster education that aids occupational and geographical mobility as job-changing becomes the norm](schools-foster-occupational-geographical-mobility.md) — related
+- Schools must foster education that aids occupational and geographical mobility as job-changing becomes the norm — related
 - [Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise](industrial-arts-teacher-education-technical-and-human-sides.md) — related

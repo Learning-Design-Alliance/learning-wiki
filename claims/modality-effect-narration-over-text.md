@@ -127,7 +127,7 @@ Mousavi et al.'s (1995) geometry-learning experiment, first test of the modality
 | [Sweller 2019](https://doi.org/10.1007/s10648-019-09465-5) | q2 · review · r2 | i? | this claim |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Modality principle: graphics with spoken text beat graphics with printed text for transfer](modality-principle-mayer-2008.md) (supports) |
 | Kutbay 2020 | q2 · causal · r2 | i1; i? | [In one middle-school quasi-experiment on electricity, spoken-text groups outperform writte](modality-effect-holds-middle-school-electricity.md) (supports); [Spoken text modality does not significantly differ from signaled written text modality, or](spoken-versus-signaled-written-null.md) (qualifies) |
-| Guttormsen Schär 2007 | q2 · causal · r2 | i? | [Voice-based multimedia settings (animation+voice and picture+voice) produce better learnin](voice-media-outperform-picture-text-overall.md) (supports) |
+| [Guttormsen Schär 2007](https://doi.org/10.1080/15391523.2007.10782497) | q2 · causal · r2 | i? | [Voice-based multimedia settings (animation+voice and picture+voice) produce better learnin](voice-media-outperform-picture-text-overall.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

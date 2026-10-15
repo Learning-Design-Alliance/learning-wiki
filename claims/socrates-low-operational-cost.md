@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: xinming-yang-2025
-    resource: "https://arxiv.org/abs/2508.05979"
-    title: "Xinming Yang, Haasil Pujara, Jun Li. (2025). Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education. Published as a conference paper at COLM 2025. https://arxiv.org/abs/2508.05979"
+    resource: "https://doi.org/10.48550/arxiv.2508.05979"
+    title: "Xinming Yang, Haasil Pujara, Jun Li. (2025). Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education. Published as a conference paper at COLM 2025. https://arxiv.org/abs/2508.05979 [doi:10.48550/arxiv.2508.05979](https://doi.org/10.48550/arxiv.2508.05979)"
     author: Xinming Yang, Haasil Pujara, Jun Li
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xinming Yang 2025
 
-Xinming Yang, Haasil Pujara, Jun Li. (2025). Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education. Published as a conference paper at COLM 2025. https://arxiv.org/abs/2508.05979
+Xinming Yang, Haasil Pujara, Jun Li. (2025). Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education. Published as a conference paper at COLM 2025. https://arxiv.org/abs/2508.05979 [doi:10.48550/arxiv.2508.05979](https://doi.org/10.48550/arxiv.2508.05979)
 
 `q2 · i?` · `causal · r1`
 

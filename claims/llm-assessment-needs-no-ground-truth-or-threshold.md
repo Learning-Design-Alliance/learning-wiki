@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: arun-balajiee-lekshmi-narayanan-2026
-    resource: "https://arxiv.org/abs/2605.21614"
-    title: "Arun-Balajiee Lekshmi-Narayanan, Mohammad Hassany, Peter Brusilovsky. (2026). Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self–Explanations in Programming Education. https://arxiv.org/abs/2605.21614"
+    resource: "https://doi.org/10.48550/arxiv.2605.21614"
+    title: "Arun-Balajiee Lekshmi-Narayanan, Mohammad Hassany, Peter Brusilovsky. (2026). Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self–Explanations in Programming Education. https://arxiv.org/abs/2605.21614 [doi:10.48550/arxiv.2605.21614](https://doi.org/10.48550/arxiv.2605.21614)"
     author: Arun-Balajiee Lekshmi-Narayanan, Mohammad Hassany, Peter Brusilovsky
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Arun-Balajiee Lekshmi-Narayanan 2026
 
-Arun-Balajiee Lekshmi-Narayanan, Mohammad Hassany, Peter Brusilovsky. (2026). Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self–Explanations in Programming Education. https://arxiv.org/abs/2605.21614
+Arun-Balajiee Lekshmi-Narayanan, Mohammad Hassany, Peter Brusilovsky. (2026). Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self–Explanations in Programming Education. https://arxiv.org/abs/2605.21614 [doi:10.48550/arxiv.2605.21614](https://doi.org/10.48550/arxiv.2605.21614)
 
 `q1 · i?` · `design · r2`
 

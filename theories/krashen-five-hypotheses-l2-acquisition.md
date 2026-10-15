@@ -17,7 +17,7 @@ sources:
 # Krashen's five hypotheses of second language acquisition as principles for bilingual program design
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The packet operationalizes Cummins's and Canale & Swain's theories using Steve Krashen's (1981) five hypotheses: the acquisition-learning hypothesis (two separate processes, acquisition resembling L1 development and learning as explicit rule presentation with error correction), the natural order hypothesis, the monitor hypothesis, the input hypothesis, and the affective filter hypothesis. The monitor hypothesis is summarized as stating that "Acquisition is far more important and develops fluency, but conscipus learning can be used as an editor, a monitor". The packet derives three program requirements from these hypotheses: provide comprehensible input in the weaker language, maintain subject matter, and maintain and develop the child's first language.
@@ -38,7 +38,6 @@ The packet operationalizes Cummins's and Canale & Swain's theories using Steve K
 
 ### Claims
 
-- [Low anxiety, high self-confidence, and motivation are presented as affective variables facilitating L2 acquisition](../claims/affective-variables-facilitate-l2-acquisition.md) [+W]
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
 
 ## Related Theories

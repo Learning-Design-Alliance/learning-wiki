@@ -47,4 +47,4 @@ The review reports Ogata et al.'s (2008) test of a computer-supported mobile lea
 
 ## Related Claims
 - [Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones](ar-qr-codes-context-aware-language-learning.md) — related
-- [Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning](mobile-independent-work-initiative-actors.md) — related
+- Independent work on personal mobile devices mobilized attention, improved perception, and turned students into initiative actors and controllers of their own learning — related

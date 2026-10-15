@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: meg-guerreiro-2018
-    resource: "https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/"
-    title: "Meg Guerreiro, Chase Nordengren. (2018). “No fun games”: Engagement effects of two gameful assessment prototypes. Journal of Research on Technology in Education, 50(2), 134-148. https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/"
+    resource: "https://doi.org/10.1080/15391523.2018.1426063"
+    title: "Meg Guerreiro, Chase Nordengren. (2018). “No fun games”: Engagement effects of two gameful assessment prototypes. Journal of Research on Technology in Education, 50(2), 134-148. https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/ [doi:10.1080/15391523.2018.1426063](https://doi.org/10.1080/15391523.2018.1426063)"
     author: Meg Guerreiro, Chase Nordengren
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Meg Guerreiro 2018
 
-Meg Guerreiro, Chase Nordengren. (2018). “No fun games”: Engagement effects of two gameful assessment prototypes. Journal of Research on Technology in Education, 50(2), 134-148. https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/
+Meg Guerreiro, Chase Nordengren. (2018). “No fun games”: Engagement effects of two gameful assessment prototypes. Journal of Research on Technology in Education, 50(2), 134-148. https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/ [doi:10.1080/15391523.2018.1426063](https://doi.org/10.1080/15391523.2018.1426063)
 
 `q2 · i?` · `causal · r?`
 

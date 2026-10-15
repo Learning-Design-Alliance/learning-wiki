@@ -23,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i1` small
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` 15 of 36 students (42%) reported less difficulty regarding comprehensibility between VT1 and VT3, reaching significance (Z = -2.120, p < .05). [→ Lepore 2014](#lepore-2014)
@@ -46,4 +47,4 @@ Wilcoxon signed-rank tests on Part 3 of the self-assessment form comparing perce
 ## Related Claims
 - [Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability](audio-discussions-increase-perceived-pronunciation-ability.md) — related
 - [Participation in interpersonal audio discussions produced no statistically significant changes in overall willingness to communicate, though most students reported unchanged or increased WTC](audio-discussions-no-significant-wtc-change.md) — related
-- [Self-reported strength and weakness rankings shifted over the semester: comprehensibility remained the most-cited strength, fluency declined as a weakness, and accuracy weakness rankings stayed unchanged](strength-weakness-rankings-shift-over-semester.md) — related
+- Self-reported strength and weakness rankings shifted over the semester: comprehensibility remained the most-cited strength, fluency declined as a weakness, and accuracy weakness rankings stayed unchanged — related

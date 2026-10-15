@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: murphy-2009
-    resource: "https://www.irrodl.org/index.php/irrodl"
-    title: "Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl"
+    resource: "https://doi.org/10.19173/irrodl.v10i3.579"
+    title: "Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl [doi:10.19173/irrodl.v10i3.579](https://doi.org/10.19173/irrodl.v10i3.579)"
     author: "Murphy, E., & Rodriguez-Manzanares, M. A."
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Murphy 2009
 
-Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl
+Murphy, E., & Rodriguez-Manzanares, M. A. (2009). Sage without a Stage: Expanding the Object of Teaching in a Web-Based, High-School Classroom. International Review of Research in Open and Distance Learning, 10(3). https://www.irrodl.org/index.php/irrodl [doi:10.19173/irrodl.v10i3.579](https://doi.org/10.19173/irrodl.v10i3.579)
 
 `q2 · i?` · `qualitative · r2`
 
@@ -47,7 +47,7 @@ In the Findings (Community section) of the interview study, e-teachers reported 
 
 - [Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time](plc-norms-three-categories-trust-prerequisite.md) — the general claim this finding bears on, with the studies behind it
 - [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — related
-- [Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content](interactional-structures-shape-content-processing.md) — related
+- Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content — related
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related
 - [A student-led small-group discussion assessment sustained online participation and produced denser peer interaction than a standard teacher-led discussion board](student-led-discussion-task-sustains-online-participation.md) — related
-- [Online peer assisted learning communities foster informal learning and spontaneous interest-based groups](online-peer-assisted-learning-fosters-informal-learning.md) — reports the opposite
+- Online peer assisted learning communities foster informal learning and spontaneous interest-based groups — reports the opposite

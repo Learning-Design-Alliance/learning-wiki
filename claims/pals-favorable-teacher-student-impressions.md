@@ -31,6 +31,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
+> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` In the Mathes & Babyak (2001) study, teacher surveys showed high mean ratings for program components and outcomes, but teachers were least favorable about team-based structure components such as announcing the winning team and the point structure. [→ Peer-Assisted Learning Strategies (PALS) 2001](#peer-assisted-learning-strategies-pals-2001)
@@ -62,4 +63,4 @@ Implementation notes summarize impressions from a second study, Mathes et al. (2
 
 
 ## Related Claims
-- [Teachers and interventionists gave mostly favorable implementation ratings, with over 90% comfortable implementing and finding it supplemented the core program well](rise-teacher-favorable-implementation-ratings.md) — related
+- Teachers and interventionists gave mostly favorable implementation ratings, with over 90% comfortable implementing and finding it supplemented the core program well — related

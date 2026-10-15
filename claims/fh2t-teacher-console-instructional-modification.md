@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: tarik-buli-2025
-    resource: "https://digitalpromise.dspacedirect.org/items/7dcf9d16-b5ad-4067-be9f-be30319b1185"
-    title: "Tarik Buli, Stefani Pautz Stephenson, Rebecca Banks, and Amanda Wortman. (2025). From Here to There (FH2T): Educator Perceptions of Game-Based Algebraic Learning. Digital Promise white paper. https://digitalpromise.dspacedirect.org/items/7dcf9d16-b5ad-4067-be9f-be30319b1185"
+    resource: "https://doi.org/10.51388/20.500.12265/262"
+    title: "Tarik Buli, Stefani Pautz Stephenson, Rebecca Banks, and Amanda Wortman. (2025). From Here to There (FH2T): Educator Perceptions of Game-Based Algebraic Learning. Digital Promise white paper. https://digitalpromise.dspacedirect.org/items/7dcf9d16-b5ad-4067-be9f-be30319b1185 [doi:10.51388/20.500.12265/262](https://doi.org/10.51388/20.500.12265/262)"
     author: Tarik Buli, Stefani Pautz Stephenson, Rebecca Banks, and Amanda Wortman
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Tarik Buli 2025
 
-Tarik Buli, Stefani Pautz Stephenson, Rebecca Banks, and Amanda Wortman. (2025). From Here to There (FH2T): Educator Perceptions of Game-Based Algebraic Learning. Digital Promise white paper. https://digitalpromise.dspacedirect.org/items/7dcf9d16-b5ad-4067-be9f-be30319b1185
+Tarik Buli, Stefani Pautz Stephenson, Rebecca Banks, and Amanda Wortman. (2025). From Here to There (FH2T): Educator Perceptions of Game-Based Algebraic Learning. Digital Promise white paper. https://digitalpromise.dspacedirect.org/items/7dcf9d16-b5ad-4067-be9f-be30319b1185 [doi:10.51388/20.500.12265/262](https://doi.org/10.51388/20.500.12265/262)
 
 `q2 · i?` · `design · r2`
 
@@ -44,4 +44,4 @@ Semi-structured 1:1 interviews with 11 confirmatory study educators after approx
 
 ## Related Claims
 - [Educators perceived FH2T as strongly connected to Common Core Standards for Mathematical Content and uniquely integrating the Standards for Mathematical Practice](fh2t-common-core-standards-alignment-perception.md) — related
-- [FH2T was evaluated with nine 30-minute sessions spread across one academic year as a supplemental program](fh2t-dosage-nine-30-minute-sessions.md) — related
+- FH2T was evaluated with nine 30-minute sessions spread across one academic year as a supplemental program — related

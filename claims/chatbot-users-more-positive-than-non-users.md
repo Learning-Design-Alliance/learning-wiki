@@ -49,5 +49,5 @@ One-way ANOVA comparing users and non-users on 5-point Likert items (3 neutral) 
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Students in the generative AI-supported condition reported favorable attitudes toward AI-supported geometry learning, with moderate confidence in technology use](genai-geometry-favorable-attitudes.md) — related
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
-- [Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code](genai-usage-clusters-perceptions-difficulty-trust.md) — related
+- Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code — related
 - [Premium-access GenAI users report greater perceived benefits than free-only users, largest for tasks beyond current expertise](premium-access-greater-perceived-benefits.md) — related

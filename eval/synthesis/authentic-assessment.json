@@ -41,10 +41,6 @@
           "~"
         ],
         [
-          "guided-llm-self-assessment-calibration-alignment",
-          "~"
-        ],
-        [
           "self-monitoring-improves-self-regulation",
           "+"
         ],

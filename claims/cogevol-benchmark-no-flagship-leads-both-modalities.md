@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: cogevol-team-2026
-    resource: "https://arxiv.org/abs/2608.30968"
-    title: "CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968"
+    resource: "https://doi.org/10.48550/arxiv.2608.30968"
+    title: "CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968 [doi:10.48550/arxiv.2608.30968](https://doi.org/10.48550/arxiv.2608.30968)"
     author: "CogEvol Team, CogEvol Inc. & Tsinghua University"
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # On the report's internal suites CogEvol-27B scores 83.7 on slides and 63.7 on HTML-500 with zero hard failures, while no external flagship leads both modalities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 design `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` Qwen3.8-Max ties CogEvol-27B's 83.7 slide score only with the full 34 KB specification, but collapses to 35.3 on HTML-500 with 204 of 500 pages dead at the probe. [→ CogEvol Team 2026](#cogevol-team-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### CogEvol Team 2026
 
-CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968
+CogEvol Team, CogEvol Inc. & Tsinghua University. (2026). CogEvol: Towards Efficient and Reliable Learning Environment Generation. arXiv:2608.30968v2. https://arxiv.org/abs/2608.30968 [doi:10.48550/arxiv.2608.30968](https://doi.org/10.48550/arxiv.2608.30968)
 
 `q2 · i?` · `design · r2`
 

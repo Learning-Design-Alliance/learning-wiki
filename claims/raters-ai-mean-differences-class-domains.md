@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: fong-2026
-    resource: "https://arxiv.org/abs/2609.18274"
-    title: "Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H. (2026). I Code or AI Code: A Comparative Evaluation of AI-rated Scores in Classroom Observations. The Education University of Hong Kong. https://arxiv.org/abs/2609.18274"
+    resource: "https://doi.org/10.48550/arxiv.2609.18274"
+    title: "Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H. (2026). I Code or AI Code: A Comparative Evaluation of AI-rated Scores in Classroom Observations. The Education University of Hong Kong. https://arxiv.org/abs/2609.18274 [doi:10.48550/arxiv.2609.18274](https://doi.org/10.48550/arxiv.2609.18274)"
     author: "Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Fong 2026
 
-Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H. (2026). I Code or AI Code: A Comparative Evaluation of AI-rated Scores in Classroom Observations. The Education University of Hong Kong. https://arxiv.org/abs/2609.18274
+Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H. (2026). I Code or AI Code: A Comparative Evaluation of AI-rated Scores in Classroom Observations. The Education University of Hong Kong. https://arxiv.org/abs/2609.18274 [doi:10.48550/arxiv.2609.18274](https://doi.org/10.48550/arxiv.2609.18274)
 
 `q3 · i?` · `design · r2`
 

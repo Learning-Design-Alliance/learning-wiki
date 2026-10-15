@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: ndidi-bianca-ogbo-2026
-    resource: "https://arxiv.org/abs/2605.27400"
-    title: "Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400"
+    resource: "https://doi.org/10.48550/arxiv.2605.27400"
+    title: "Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400 [doi:10.48550/arxiv.2605.27400](https://doi.org/10.48550/arxiv.2605.27400)"
     author: Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # In simulations, responsible AI-use norms emerge only within a constrained design space: when reflection effort is high relative to its reward, opportunistic AI use persists, and near the boundary small changes in reward or effort produce large shifts in responsible-use frequency
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q2`
+> **Evidence** · 2 studies · 2 theoretical `r2`–`r3` · `q2`
 
 ## Subclaims
 `q2 i?` When reflection effort is high relative to the reward assigned to it, responsible AI use remains rare even when reflective incentives are present, and opportunistic AI use is the evolutionarily stable outcome. [→ Ndidi Bianca Ogbo 2026](#ndidi-bianca-ogbo-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Ndidi Bianca Ogbo 2026
 
-Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400
+Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, and The Anh Han. (2026). Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning. https://arxiv.org/abs/2605.27400 [doi:10.48550/arxiv.2605.27400](https://doi.org/10.48550/arxiv.2605.27400)
 
 `q2 · i?` · `theoretical · r3`
 
@@ -66,4 +66,4 @@ Numerical simulation result from the same Figure 3 design-space analysis. The ar
 - [In simulations, increasing the reflection reward produces a sharp threshold-driven transition around r ≈ 1.5, beyond which responsible AI use with meaningful reflection dominates and opportunistic AI use collapses](reflection-reward-threshold-responsible-ai-norms.md) — related
 - [In simulations, superficial reflection stays at consistently low frequency across all reflection-reward levels, and misuse remains negligible, indicating the main governance challenge is normalised opportunistic AI use rather than overt misconduct](superficial-reflection-low-misuse-negligible.md) — related
 - [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
-- [Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs](practitioner-oversight-governance-norms.md) — related
+- Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related

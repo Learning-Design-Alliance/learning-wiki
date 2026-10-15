@@ -10,8 +10,8 @@ generated:
 evidence_strength: mixed
 sources:
   - id: elaheh-sanoubari-2026
-    resource: "https://arxiv.org/abs/2604.00300"
-    title: "Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300"
+    resource: "https://doi.org/10.48550/arxiv.2604.00300"
+    title: "Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300 [doi:10.48550/arxiv.2604.00300](https://doi.org/10.48550/arxiv.2604.00300)"
     author: Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # REMind did not significantly increase measured empathy, but baseline human-directed empathy correlated positively with robot-directed empathy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i3` large
+> **Evidence** · 2 studies · 2 design `r2` · `q2` · `i3` large
 
 ## Subclaims
 `q2 i?` Empathy scores increased by 15.7 points but the change was not statistically significant; H3(a) was not confirmed. [→ Elaheh Sanoubari 2026](#elaheh-sanoubari-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Elaheh Sanoubari 2026
 
-Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300
+Elaheh Sanoubari, Neil Fernandes, Keith Rebello, Alicia Pan, Andrew Houston, and Kerstin Dautenhahn. (2026). Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game. https://arxiv.org/abs/2604.00300 [doi:10.48550/arxiv.2604.00300](https://doi.org/10.48550/arxiv.2604.00300)
 
 `q2 · i?` · `design · r2`
 

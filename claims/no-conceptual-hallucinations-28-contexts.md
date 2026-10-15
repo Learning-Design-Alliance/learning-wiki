@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: henrique-mohallem-paiva-2026
-    resource: "https://arxiv.org/abs/2608.07364"
-    title: "Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364"
+    resource: "https://doi.org/10.48550/arxiv.2608.07364"
+    title: "Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364 [doi:10.48550/arxiv.2608.07364](https://doi.org/10.48550/arxiv.2608.07364)"
     author: Henrique Mohallem Paiva
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # Across 28 project contexts, human-in-the-loop and independent peer review identified no conceptual or mathematical hallucinations, and Python visualization scripts executed without compilation errors on the zero-shot attempt.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
+> **Evidence** · 2 studies · 2 design `r2` · `q2`
 
 ## Subclaims
 `q2 i?` No conceptual or mathematical hallucinations were identified during human-in-the-loop review across the 28 project contexts. [→ Henrique Mohallem Paiva 2026](#henrique-mohallem-paiva-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Henrique Mohallem Paiva 2026
 
-Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364
+Henrique Mohallem Paiva. (2026). Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education. https://arxiv.org/abs/2608.07364 [doi:10.48550/arxiv.2608.07364](https://doi.org/10.48550/arxiv.2608.07364)
 
 `q2 · i?` · `design · r2`
 
@@ -64,6 +64,6 @@ Technical fidelity evaluation within the same one-year validation: constrained b
 ## Related Claims
 - [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
-- [LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers](llm-inductive-coding-risks-require-human-oversight.md) — related
+- LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - [The v6m workflow produced compilations passing PDF/UA-2 and ISO 32005 validation in 16 of 17 successive transcription tests across 16 videos](v6m-workflow-16-of-17-validation-passes.md) — related
 - [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — reports the opposite

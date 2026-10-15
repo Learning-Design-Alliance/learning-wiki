@@ -44,6 +44,6 @@ Two-way ANOVA (Table 7) on reading comprehension with proficiency, material cond
 - [EAP task performance showed the same directional pattern as reading comprehension but with a weaker Proficiency × Material interaction](eap-task-performance-weaker-interaction.md) — related
 - [Differentiated-AI EAP versions showed limited passage-level structural separation, with automated complexity metrics failing to classify intended proficiency labels](limited-structural-separation-differentiated-versions.md) — related
 - [Immediate unsupported application on a new passage showed no material-condition effect and no Proficiency × Material interaction, indicating no short-term dependence cost](no-short-term-dependence-cost-unsupported-application.md) — reports the opposite
-- [Posttest reading comprehension differed significantly across the three semantic mapping conditions overall](posttest-omnibus-anova-semantic-mapping-conditions.md) — related
+- Posttest reading comprehension differed significantly across the three semantic mapping conditions overall — related
 - The three treatment groups were equivalent in reading comprehension at pretest — related
 - [Differentiated-AI materials exceeded unified-AI materials on reading comprehension within each proficiency stratum, most strongly for high-proficiency learners (d = 1.40)](within-stratum-differentiated-advantage-reading-comprehension.md) — related

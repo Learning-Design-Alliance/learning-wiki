@@ -43,10 +43,10 @@ This is the program description's stated long-term outcome, not a measured resul
 
 
 ## Related Claims
-- [Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control](onyourmark-virtual-tutoring-improves-dibels.md) — related
+- Virtual 1:1 and 2:1 high-dosage tutoring improved K-2 students' early literacy performance on DIBELS relative to business-as-usual control — related
 - [IMSE's OG+ improves early literacy outcomes in grades K–3, with effect sizes of +0.33 and +0.21 across two quasi-experimental studies](imse-og-plus-improves-early-literacy.md) — related
-- [Daily 15-minute one-to-one virtual tutoring improves first-grade foundational reading outcomes more than standard classroom instruction (ES = +0.21)](ignite-reading-dibels-gain-first-grade.md) — related
-- [A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage](once-rct-no-significant-dibels-effect-low-dosage.md) — related
-- [Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students](education-corps-tutoring-improves-dibels-composite.md) — related
-- [The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence)](once-program-improves-fastbridge-kindergarten-reading.md) — related
+- Daily 15-minute one-to-one virtual tutoring improves first-grade foundational reading outcomes more than standard classroom instruction (ES = +0.21) — related
+- A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage — related
+- Education Corps high-dosage literacy tutoring raises end-of-year DIBELS Composite scores more than business-as-usual supports for below-benchmark K-3 students — related
+- The Once Early-Reading Program improves end-of-year FastBridge Early Reading Composite scores for below-benchmark kindergarten students (quasi-experimental evidence) — related
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on

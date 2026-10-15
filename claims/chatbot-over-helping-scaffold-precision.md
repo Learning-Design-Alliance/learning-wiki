@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: hyoungwook-jin-2026
-    resource: "https://arxiv.org/abs/2609.28918"
-    title: "Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang. (2026). HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving. arXiv. https://arxiv.org/abs/2609.28918"
+    resource: "https://doi.org/10.48550/arxiv.2609.28918"
+    title: "Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang. (2026). HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving. arXiv. https://arxiv.org/abs/2609.28918 [doi:10.48550/arxiv.2609.28918](https://doi.org/10.48550/arxiv.2609.28918)"
     author: Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang
     q: 2
     i: "?"
@@ -30,7 +30,7 @@ sources:
 # The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 2 studies · 2 causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` In Study 1, scaffold precision was low: in approximately two-thirds of cases the chatbot provided more scaffold types than were asked. [→ Hyoungwook Jin 2026](#hyoungwook-jin-2026)
@@ -40,7 +40,7 @@ sources:
 
 ### Hyoungwook Jin 2026
 
-Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang. (2026). HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving. arXiv. https://arxiv.org/abs/2609.28918
+Hyoungwook Jin, Weirui Peng, Jieun Han, Q. Vera Liao, and Xu Wang. (2026). HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving. arXiv. https://arxiv.org/abs/2609.28918 [doi:10.48550/arxiv.2609.28918](https://doi.org/10.48550/arxiv.2609.28918)
 
 `q2 · i?` · `causal · r2`
 
