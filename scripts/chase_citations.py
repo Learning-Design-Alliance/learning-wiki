@@ -47,6 +47,21 @@ DOI = re.compile(r"10\.\d{4,9}/[^\s)\]>\"]+")
 KEEP_TYPES = {"journal-article", "report", "proceedings-article"}
 SYNTHESIS = re.compile(r"meta-?analy|systematic review|synthesis|research review|review of", re.I)
 TRIAL = re.compile(r"randomi[sz]ed|controlled trial|field experiment|experiment", re.I)
+# Every synthesis cites the meta-analysis methods literature (Egger's test, I-squared, metafor), so it
+# tops a co-citation count without being learning research. Its venues and titles are dropped.
+METHODS_VENUES = {"psychological methods", "bmj", "statistics in medicine", "journal of statistical software",
+                  "research synthesis methods", "biometrics", "multivariate behavioral research",
+                  "behavior research methods", "organizational research methods", "journal of clinical epidemiology",
+                  "annals of internal medicine", "plos medicine", "journal of educational and behavioral statistics",
+                  "educational and psychological measurement", "psychometrika", "the lancet"}
+METHODS_TITLE = re.compile(r"publication bias|heterogeneity|inconsistency in meta|bias in meta|effect sizes? "
+                           r"(estimate|calculation|for)|conducting meta|meta-analytic (review|methods)|writing meta|"
+                           r"random[- ]effects|fixed[- ]effects?|trim and fill|statistical power|prisma|reporting items|"
+                           r"matched groups or repeated|combining effect|meta-analysis in r|practical meta-analysis|"
+                           r"robust variance|dependent effect sizes|small-study|meta-analytic models|tutorial|primary, secondary, and meta|"
+                           r"quantitative synthesis of single|meta-analysis: (a|an) (guide|introduction)|how to (do|conduct)|fail-safe|file-drawer|methodolog|statistical methods|"
+                           r"quantitative methods|complex research designs|confounded moderators|dichotomization|"
+                           r"response ratios|in clinical trials", re.I)
 
 
 def crossref(doi: str):
@@ -113,15 +128,18 @@ def main() -> None:
             if not msg:
                 rows.append({"doi": doi, "kept": False, "why": "no Crossref record"})
                 continue
-            title = (msg.get("title") or [""])[0]
+            title = re.sub(r"<[^>]+>", "", (msg.get("title") or [""])[0])
+            title = re.sub(r"\s+", " ", title).strip()
             kind = msg.get("type")
             year = ((msg.get("issued") or {}).get("date-parts") or [[None]])[0][0]
             authors = [f"{a.get('family', '')}" for a in (msg.get("author") or [])][:3]
             row = {"doi": doi, "title": title, "type": kind, "year": year, "authors": authors,
                    "venue": (msg.get("container-title") or [""])[0], "seeds": len(cited_by[doi]),
                    "synthesis": bool(SYNTHESIS.search(title)), "trial": bool(TRIAL.search(title))}
-            row["kept"] = kind in KEEP_TYPES and bool(title)
-            row["why"] = "kept" if row["kept"] else f"type {kind}"
+            methods = (row["venue"].replace("&amp;", "&").lower() in METHODS_VENUES
+                       or bool(METHODS_TITLE.search(title)))
+            row["kept"] = kind in KEEP_TYPES and bool(title) and not methods
+            row["why"] = ("kept" if row["kept"] else "research-methods literature" if methods else f"type {kind}")
             rows.append(row)
     kept = sorted((r for r in rows if r["kept"]),
                   key=lambda r: (-(2 * r["synthesis"] + r["trial"]), -r["seeds"], -(r["year"] or 0)))
