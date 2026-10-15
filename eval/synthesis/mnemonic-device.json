@@ -1,0 +1,24 @@
+{
+  "principle": "principles/mnemonic-device",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. The hub is the only claim testing mnemonic instruction directly (students with mild disabilities); the members bring general-learner comparisons with other study techniques.",
+  "findings": [
+    {
+      "hub": "mnemonic-instruction-improves-recall-for-students-with-disabilities",
+      "question": "Do mnemonic (cue-based) methods improve recall of facts and vocabulary, and how do they compare with other study techniques such as retrieval practice?",
+      "members": [
+        [
+          "ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest",
+          "~"
+        ],
+        [
+          "five-techniques-low-utility",
+          "-"
+        ],
+        [
+          "retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration",
+          "-"
+        ]
+      ]
+    }
+  ]
+}

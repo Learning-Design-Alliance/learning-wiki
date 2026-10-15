@@ -1,0 +1,106 @@
+{
+  "principle": "principles/learner-control-information-flow-with-on-demand-tools",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. Both hubs already carry tables from other specs (segmenting; glossing); members here join them.",
+  "findings": [
+    {
+      "hub": "learner-paced-beats-system-paced-complex-material",
+      "question": "Does handing learners control over pace, path, help or feedback improve learning, and when?",
+      "members": [
+        [
+          "segmenting-effects-confirmed-system-paced",
+          "~"
+        ],
+        [
+          "design-principle-effects-moderated-by-pacing-and-complexity",
+          "~"
+        ],
+        [
+          "flow-control-unused-no-learning-correlation",
+          "~"
+        ],
+        [
+          "animations-pacify-learners-navigation-imbalance",
+          "~"
+        ],
+        [
+          "students-pause-video-to-view-segment-menu",
+          "~"
+        ],
+        [
+          "forced-pacing-eliminates-aiding-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-retention",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-motor-transfer",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-before-trial-shows-no-benefit-over-yoked",
+          "~"
+        ],
+        [
+          "self-controlled-kr-decided-after-trial-improves-error-estimation-accuracy",
+          "~"
+        ],
+        [
+          "self-paced-mastery-programs-reduce-college-course-completion",
+          "-"
+        ],
+        [
+          "learner-characteristics-moderate-hypermedia-effectiveness",
+          "~"
+        ],
+        [
+          "hint-budget-mismanaged-two-patterns",
+          "~"
+        ],
+        [
+          "annotated-videodisc-beats-videotape-retention-recall",
+          "+"
+        ],
+        [
+          "hint-avoidance-related-greater-wheel-spinning",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "glossing-medium-large-effects-l2-vocabulary",
+      "question": "Do glosses and look-up helps beside second-language material help learners learn its words and understand it, and for whom?",
+      "members": [
+        [
+          "gloss-l2-ex-and-in-text-gloss-beat-control-scheffe",
+          "+"
+        ],
+        [
+          "proficiency-moderates-gloss-vocabulary-effects",
+          "~"
+        ],
+        [
+          "gloss-perceptions-mismatch-performance",
+          "~"
+        ],
+        [
+          "l1-glosses-improve-immediate-vocabulary-recall",
+          "+"
+        ],
+        [
+          "l1-glosses-no-reading-comprehension-gain",
+          "~"
+        ],
+        [
+          "marginal-glosses-dictionary-recurrence-improve-incidental-learning",
+          "+"
+        ],
+        [
+          "involvement-load-tasks-improve-word-retention",
+          "+"
+        ]
+      ]
+    }
+  ]
+}

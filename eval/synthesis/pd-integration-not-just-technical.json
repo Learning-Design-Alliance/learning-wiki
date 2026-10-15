@@ -1,0 +1,40 @@
+{
+  "principle": "principles/pd-integration-not-just-technical",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. No member compares integration-focused with technical-only PD; members are associations and implementation reports of PD or support for technology use and the classroom use that followed.",
+  "findings": [
+    {
+      "hub": "pd-integration-training-doubles-reliance",
+      "question": "Does professional development that shows teachers how to use digital tools in their own teaching go with more classroom use of those tools?",
+      "members": [
+        [
+          "integrated-hours-beat-standalone-tech-courses",
+          "+"
+        ],
+        [
+          "dlp-coaching-increases-teacher-technology-use-frequency",
+          "+"
+        ],
+        [
+          "tech-pd-own-use-influence-grow",
+          "+"
+        ],
+        [
+          "regular-tailored-support-helped-teachers-integrate-tools",
+          "+"
+        ],
+        [
+          "teachers-need-tailored-support-time-ecree-integration",
+          "+"
+        ],
+        [
+          "teachers-used-ecree-less-than-intended-lacking-time",
+          "~"
+        ],
+        [
+          "district-provided-tools-single-tool-training",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

@@ -63,6 +63,14 @@
         [
           "unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates",
           "~"
+        ],
+        [
+          "single-event-removal-no-achievement-effect",
+          "~"
+        ],
+        [
+          "students-notice-missing-practice-and-examples",
+          "+"
         ]
       ]
     },

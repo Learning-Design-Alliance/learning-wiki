@@ -1,0 +1,46 @@
+{
+  "principle": "principles/distributed-cognition",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries, each claim page read in full. Finding 1 rests on Guo & Ye 2026 (review), Ngai & Gilbert 2026 and Lin & Al-Hada 2026 (review attribution); finding 2 on Guo & Ye 2026, Ngai & Gilbert 2026 and Maier et al. 2026.",
+  "findings": [
+    {
+      "hub": "reminder-bias-overuse-external-aids",
+      "question": "Do learners rely on external aids more, or less, than their own performance warrants?",
+      "members": [
+        [
+          "excessive-reminder-bias-both-groups-exp1",
+          "+"
+        ],
+        [
+          "confidence-predicts-offloading-no-feedback-only",
+          "+"
+        ],
+        [
+          "developmental-shift-cognitive-offloading",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "feedback-effects-on-offloading-mixed",
+      "question": "Does feedback on their own performance make learners' decisions to offload better calibrated?",
+      "members": [
+        [
+          "metacognitive-feedback-reduces-reminder-bias",
+          "+"
+        ],
+        [
+          "metacognitive-feedback-reduces-llm-answer-offloading-improves-unaided-performance",
+          "+"
+        ],
+        [
+          "metacognitive-feedback-disrupts-repeated-answer-offloading",
+          "+"
+        ],
+        [
+          "effort-based-reward-no-effect-offloading-or-unaided-performance",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

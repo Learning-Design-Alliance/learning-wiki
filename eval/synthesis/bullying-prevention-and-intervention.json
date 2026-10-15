@@ -1,0 +1,32 @@
+{
+  "principle": "principles/bullying-prevention-and-intervention",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. No general claim on schoolwide bullying prevention exists in the wiki, so the randomised SWPBIS bullying claim is the hub; members come from three distinct studies (Waasdorp 2012, Bleeker 2012, Fronius 2019 reporting Wong et al.).",
+  "findings": [
+    {
+      "hub": "swpbis-reduces-growth-teacher-reported-bullying",
+      "question": "Do schoolwide programmes (a positive behaviour framework, organised recess, a restorative whole-school approach) reduce bullying compared with schools without them?",
+      "members": [
+        [
+          "playworks-reduced-teacher-reported-recess-bullying",
+          "+"
+        ],
+        [
+          "rwsa-hong-kong-less-bullying-empathy-gains",
+          "+"
+        ],
+        [
+          "swpbis-reduces-growth-peer-rejection",
+          "+"
+        ],
+        [
+          "bullying-rejection-increase-approaching-middle-school",
+          "~"
+        ],
+        [
+          "swpbis-main-effects-robust-across-demographics",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

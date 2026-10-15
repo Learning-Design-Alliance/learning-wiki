@@ -7,7 +7,11 @@
       "question": "For associations and recall items, does an error help or hurt once the correct answer follows it, and must it be corrected at once?",
       "members": [
         [
-          "overt-error-correction-speeds-young-children-learning",
+          "feedback-no-significant-moderation",
+          "~"
+        ],
+        [
+          "feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice",
           "+"
         ],
         [
@@ -16,7 +20,19 @@
         ],
         [
           "high-confidence-errors-improve-retention",
+          "+"
+        ],
+        [
+          "outcome-feedback-impedes-complex-task-learning-mcpl",
           "~"
+        ],
+        [
+          "knowledge-of-results-no-effect-achievement-test-dimensionality",
+          "~"
+        ],
+        [
+          "overt-error-correction-speeds-young-children-learning",
+          "+"
         ]
       ]
     }

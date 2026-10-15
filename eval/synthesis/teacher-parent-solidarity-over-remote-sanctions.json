@@ -1,0 +1,54 @@
+{
+  "principle": "principles/teacher-parent-solidarity-over-remote-sanctions",
+  "note": "Wave 12 (2026-10-15). Groupings and directions by an agent from the claims' titles and evidence entries. The second finding reuses the funds-of-knowledge hub already used by developing-your-cultural-awareness; its new member is the PTHV math/ELA claim.",
+  "findings": [
+    {
+      "hub": "parent-involvement-improves-achievement",
+      "question": "Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?",
+      "members": [
+        [
+          "parental-involvement-meta-analyses-effect-sizes",
+          "+"
+        ],
+        [
+          "family-engagement-linked-student-outcomes",
+          "+"
+        ],
+        [
+          "parent-compliance-versus-process-support",
+          "~"
+        ]
+      ]
+    },
+    {
+      "hub": "funds-of-knowledge-research-raises-teacher-expectations",
+      "question": "Do teachers' visits to and learning about students' homes change how educators read their students, and does it reach the students?",
+      "members": [
+        [
+          "home-visits-shift-teacher-views-of-culture-to-dynamic-process",
+          "+"
+        ],
+        [
+          "teacher-researcher-difficulties-eased-by-reflective-labs",
+          "~"
+        ],
+        [
+          "pthv-home-visit-reduces-disciplinary-incidents",
+          "+"
+        ],
+        [
+          "pthv-home-visits-improve-attendance-slightly",
+          "~"
+        ],
+        [
+          "pthv-home-visit-math-gain-no-ela-difference",
+          "~"
+        ],
+        [
+          "home-visits-rare-and-lowest-rated",
+          "~"
+        ]
+      ]
+    }
+  ]
+}

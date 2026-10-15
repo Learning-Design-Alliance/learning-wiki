@@ -59,6 +59,42 @@
       "question": "How much guidance do novices need inside a problem-centred design?",
       "members": [
         [
+          "enhanced-discovery-beats-other-instruction",
+          "+"
+        ],
+        [
+          "age-moderates-discovery-effects",
+          "~"
+        ],
+        [
+          "guidance-advantage-recedes-with-high-prior-knowledge",
+          "~"
+        ],
+        [
+          "minimal-guidance-inquiry-inferior-explicit-instruction",
+          "+"
+        ],
+        [
+          "worked-examples-largest-advantage-over-unassisted-discovery",
+          "+"
+        ],
+        [
+          "guided-discovery-outperformed-both-extremes",
+          "+"
+        ],
+        [
+          "project-based-context-highest-scaffolding-effect",
+          "+"
+        ],
+        [
+          "part-task-practice-reduces-load-for-novices",
+          "+"
+        ],
+        [
+          "initial-guidance-does-not-improve-learning-from-instruction",
+          "~"
+        ],
+        [
           "teachers-struggle-designing-interactive-activities",
           "~"
         ],
@@ -75,10 +111,6 @@
           "+"
         ],
         [
-          "guidance-advantage-recedes-with-high-prior-knowledge",
-          "~"
-        ],
-        [
           "worked-examples-reduce-novice-search",
           "+"
         ],
@@ -87,23 +119,11 @@
           "+"
         ],
         [
-          "minimal-guidance-inquiry-inferior-explicit-instruction",
-          "+"
-        ],
-        [
           "recent-design-models-support-guidance-during-instruction",
           "+"
         ],
         [
-          "worked-examples-largest-advantage-over-unassisted-discovery",
-          "~"
-        ],
-        [
           "domain-moderates-unassisted-discovery-deficit",
-          "~"
-        ],
-        [
-          "age-moderates-discovery-effects",
           "~"
         ],
         [
@@ -113,6 +133,34 @@
         [
           "explicit-instruction-context-dependent-synthesis",
           "~"
+        ],
+        [
+          "process-goals-outperform-outcome-goals-for-novices",
+          "+"
+        ],
+        [
+          "chunking-reduces-working-memory-load",
+          "+"
+        ],
+        [
+          "fading-support-promotes-transfer-of-responsibility",
+          "~"
+        ],
+        [
+          "expertise-reversal-effect",
+          "~"
+        ],
+        [
+          "koku-qualitative-acceptability-themes",
+          "+"
+        ],
+        [
+          "play-based-learning-improves-outcomes",
+          "+"
+        ],
+        [
+          "community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object",
+          "+"
         ]
       ]
     },

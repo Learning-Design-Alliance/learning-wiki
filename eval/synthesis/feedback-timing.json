@@ -37,6 +37,34 @@
       "question": "Does an advantage seen straight after correction last to a delayed test, and does that depend on the form of the correction?",
       "members": [
         [
+          "recasts-supported-but-effectiveness-varies",
+          "~"
+        ],
+        [
+          "cf-type-explicit-short-term-differences",
+          "~"
+        ],
+        [
+          "cf-type-explicit-long-term-benefits",
+          "+"
+        ],
+        [
+          "prompts-beat-explicit-feedback-refusal-awareness",
+          "~"
+        ],
+        [
+          "recasts-facilitate-child-efl-third-person-s-development",
+          "+"
+        ],
+        [
+          "cf-treatment-improves-irregular-past-tense-gjt-eit",
+          "+"
+        ],
+        [
+          "explicit-teaching-effective-but-not-durable",
+          "~"
+        ],
+        [
           "cf-facilitates-l2-grammar-explicit-implicit-durability",
           "~"
         ],

@@ -119,6 +119,14 @@
         [
           "guided-inquiry-computational-model-overcomes-amplitude-misconception",
           "~"
+        ],
+        [
+          "cognitive-disequilibrium-motivates-conceptual-change",
+          "+"
+        ],
+        [
+          "cscl-simulation-conceptual-change-cognitive-engagement",
+          "~"
         ]
       ]
     },
