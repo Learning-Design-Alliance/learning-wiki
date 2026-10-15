@@ -13,7 +13,7 @@ sources:
     title: "Solomon, F., Champion, D., Steele, M., & Wright, T. (2022). Embodied physics: Utilizing dance resources for learning and engagement in STEM. *Journal of the Learning Sciences, 31*(1), 73-106. [https://doi.org/10.1080/10508406.2021.2023543](https://doi.org/10.1080/10508406.2021.2023543)"
     author: "Solomon, F., Champion, D., Steele, M., & Wright, T."
     q: 2
-    i: 2
+    i: "?"
     n: 15 high-school girls from two community-based dance centers
     kind: qualitative
     rigour: 2
@@ -27,13 +27,13 @@ sources:
 Validating culturally specific movement (e.g., krumping, stepping) as legitimate physics expression, and using dance improvisation to explore physics concepts, shifted participating Black girls' emotional relationship to physics content and gave them an embodied vocabulary for reasoning about and critiquing their own scientific models.
 
 ## Subclaims
-`q2 i2` Fifteen high-school girls who initially showed strong verbal and physical rejection of a periodic table (e.g., "Put it away!", turning away, heads down) reported by the end of an 8-week embodied-dance physics program that they enjoyed exploring elements' properties through movement and intended to use movement-based techniques to study. [→ Solomon et al. 2022](#solomon-et-al-2022)
+`q2 i?` Fifteen high-school girls who initially showed strong verbal and physical rejection of a periodic table (e.g., "Put it away!", turning away, heads down) reported by the end of an 8-week embodied-dance physics program that they enjoyed exploring elements' properties through movement and intended to use movement-based techniques to study. [→ Solomon et al. 2022](#solomon-et-al-2022)
 
-`q2 i2` When a facilitator validated a student's spontaneous stomping (representing a dense element) with immediate affirmation, other students introduced culturally specific movement styles (krumping, stepping) that spread through the group via peer imitation, accompanied by increased laughter, rhythmic clapping, and other markers of social cohesion. [→ Solomon et al. 2022](#solomon-et-al-2022)
+`q2 i?` When a facilitator validated a student's spontaneous stomping (representing a dense element) with immediate affirmation, other students introduced culturally specific movement styles (krumping, stepping) that spread through the group via peer imitation, accompanied by increased laughter, rhythmic clapping, and other markers of social cohesion. [→ Solomon et al. 2022](#solomon-et-al-2022)
 
-`q2 i1` During an improvisation in which each student embodied a sodium atom, students identified for themselves that their shared model could not represent a sodium-water reaction (since no one was embodying water) and collaboratively proposed a workaround, indicating the embodied model prompted genuine critical interrogation of its own limits rather than passive enactment. [→ Solomon et al. 2022](#solomon-et-al-2022)
+`q2 i?` During an improvisation in which each student embodied a sodium atom, students identified for themselves that their shared model could not represent a sodium-water reaction (since no one was embodying water) and collaboratively proposed a workaround, indicating the embodied model prompted genuine critical interrogation of its own limits rather than passive enactment. [→ Solomon et al. 2022](#solomon-et-al-2022)
 
-`q2 i2` Black girls received only 0.8% of physics bachelor's degrees nationally versus an 11% average across other subjects (CEOSE Report, 2017–2018), the systemic disparity motivating the intervention. [→ Solomon et al. 2022](#solomon-et-al-2022)
+`q2 i?` Black girls received only 0.8% of physics bachelor's degrees nationally versus an 11% average across other subjects (CEOSE Report, 2017–2018), the systemic disparity motivating the intervention. [→ Solomon et al. 2022](#solomon-et-al-2022)
 
 ## Evidence
 
@@ -41,7 +41,7 @@ Validating culturally specific movement (e.g., krumping, stepping) as legitimate
 
 Solomon, F., Champion, D., Steele, M., & Wright, T. (2022). Embodied physics: Utilizing dance resources for learning and engagement in STEM. *Journal of the Learning Sciences, 31*(1), 73-106. [https://doi.org/10.1080/10508406.2021.2023543](https://doi.org/10.1080/10508406.2021.2023543)
 
-`q2 · qualitative micro-ethnographic video analysis of an 8-week program, supplemented with field notes, participant journals, surveys, and interviews; no comparison condition` · `i2 · clear, well-documented qualitative pattern of shifted engagement and emergent cultural participation, not quantified` · `n=15 high-school girls from two community-based dance centers` · `qualitative · r2`
+`q2 · qualitative micro-ethnographic video analysis of an 8-week program, supplemented with field notes, participant journals, surveys, and interviews; no comparison condition` · `i? · qualitative pattern of shifted engagement and emergent cultural participation; no effect size (not quantified)` · `n=15 high-school girls from two community-based dance centers` · `qualitative · r2`
 
 Fifteen Black (some also Caribbean or Latinx-identifying) high-school girls with prior dance training participated in an 8-week program pairing physics content (gravity, Newton's laws, atomic bonding) with dance improvisation and choreography, designed after 30 hours of observation at each participant's community dance center. [Embodied Physics Inquiry Through Dance Improvisation](../designs/embodied-physics-inquiry-through-dance.md) documents the session structure. Video and journal data show a shift from strong initial rejection of canonical physics materials (the periodic table) to embodied engagement, cultural validation of dance styles broadening participation, and at least one instance of students using their own embodied model to identify and address that model's conceptual limits. The equity context motivating the study (0.8% of physics bachelor's degrees awarded to Black women, versus an 11% average across other fields) is drawn from a national report cited in the paper, not from the study's own data collection.
 

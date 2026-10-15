@@ -22,7 +22,7 @@ sources:
     title: "Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951"
     author: Zhang Beibei et al
     q: 2
-    i: 0
+    i: "?"
     kind: design
     rigour: 2
 ---
@@ -52,7 +52,7 @@ Longitudinal paired comparison of 8 groups' support scores across AV workshops; 
 
 Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951
 
-`q2 · i0` · `design · r2`
+`q2 · i? · only t, z and p printed; no effect size` · `design · r2`
 
 Longitudinal paired comparison of observation dimension scores between Workshops 2 and 4 (themes were similar); Wilcoxon check also non-significant (z = −0.425, p = 0.671). The authors attribute stability to early consolidation of these skills.
 

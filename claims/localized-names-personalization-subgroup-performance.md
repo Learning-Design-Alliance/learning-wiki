@@ -9,8 +9,10 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 sources:
-  - id: xprize-1
-    title: xprize-1
+  - id: murphy-2026
+    resource: "https://doi.org/10.51388/20.500.12265/306"
+    title: "Murphy, A. (2026, July). Classroom-Based experimentation in a digital learning platform. Digital Promise. https://doi.org/10.51388/20.500.12265/306"
+    author: Murphy, A.
     q: 2
     i: "?"
     kind: causal
@@ -23,13 +25,13 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` In schools with majority Black or American Indian/Alaska Native subgroups, students in both Personalization and Notification conditions showed improved MATHia performance compared with Control. [→ xprize-1](#xprize-1)
-`q2 i?` In majority Hispanic/Latino schools, performance improved only in the Notification condition, compared to both Control and Personalization. [→ xprize-1](#xprize-1)
-`q2 i?` The intervention showed no improvement in sense of belonging. [→ xprize-1](#xprize-1)
+`q2 i?` In schools with majority Black or American Indian/Alaska Native subgroups, students in both Personalization and Notification conditions showed improved MATHia performance compared with Control. [→ Murphy 2026](#murphy-2026)
+`q2 i?` In majority Hispanic/Latino schools, performance improved only in the Notification condition, compared to both Control and Personalization. [→ Murphy 2026](#murphy-2026)
+`q2 i?` The intervention showed no improvement in sense of belonging. [→ Murphy 2026](#murphy-2026)
 
 ## Evidence
 
-### xprize-1
+### Murphy 2026
 
 Murphy, A. (2026, July). Classroom-Based experimentation in a digital learning platform. Digital Promise. https://doi.org/10.51388/20.500.12265/306
 

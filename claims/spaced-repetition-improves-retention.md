@@ -38,7 +38,7 @@ sources:
 # Spaced Repetition Improves Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · `q4` two meta-analyses · `i2` medium · gap scales with retention interval
+> **Evidence** · 3 studies · 2 quant-synthesis `r2`, 1 causal `r?` · `q3`–`q4` · `i2` medium
 
 Distributing study of a given item across multiple sessions separated by time produces stronger long-term retention than massing the same amount of study into a single session. The advantage grows as the retention interval lengthens [+S].
 
@@ -54,7 +54,7 @@ Distributing study of a given item across multiple sessions separated by time pr
 
 `q3 i?` In a single study of more than 1,350 people learning facts, the review gap that maximised final-test performance grew as the test delay grew, but shrank as a proportion of it: from about 20–40% of a 1-week delay to about 5–10% of a 1-year delay. [→ Cepeda et al. 2008](#cepeda-et-al-2008)
 
-`q2 i?` Across 271 comparisons, spaced presentations led to better final-test performance than massed presentations, with equivalent total study time. [→ Cepeda 2006](#cepeda-et-al-2006)
+<!-- duplicate subclaim removed 2026-10-15 (repeats the 271-comparison subclaim above; was coded q2 against the entry's q4): `q2 i?` Across 271 comparisons, spaced presentations led to better final-test performance than massed presentations, with equivalent total study time. [→ Cepeda 2006](#cepeda-et-al-2006) -->
 
 ## Evidence
 
@@ -116,7 +116,7 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 
 ## Discussion
 
-**The spacing effect is one of the most robust findings in memory research**, but this page's Evidence section has not yet been populated with specific studies, so no effect sizes or scope claims are asserted here. The canonical literature — beginning with Ebbinghaus's forgetting-curve experiments and extending through modern meta-analyses of verbal learning and classroom studies — consistently favors spaced over massed practice for delayed retention tests, with the advantage growing as the retention interval lengthens [+S].
+**The spacing effect is one of the most robust findings in memory research.** The entries below are two meta-analyses (Cepeda et al. 2006; Donovan & Radosevich 1999) and one large experiment (Cepeda et al. 2008). The wider literature — beginning with Ebbinghaus's forgetting-curve experiments and extending through modern meta-analyses of verbal learning and classroom studies — consistently favors spaced over massed practice for delayed retention tests, with the advantage growing as the retention interval lengthens [+S].
 
 **Optimal gap depends on retention interval.** A recurring moderator in the literature is that the best spacing gap scales with how long the learner needs to remember: gaps that are optimal for a test one week later are too short for a test six months later [~M]. Designers of [adaptive-learning](../principles/adaptive-learning.md) systems and flashcard tools should treat spacing as a parameter to tune, not a fixed rule.
 
@@ -130,11 +130,11 @@ A meta-analysis of distribution-of-practice effects across task types, reporting
 
 *Merged from “Distributed Practice Improves Retention” (distributed-practice-improves-retention):* **Mechanism.** Two complementary accounts dominate. On a trace-strengthening or consolidation view, time between episodes allows memory traces to consolidate and partially decay, so re-encountering material at the point of near-forgetting strengthens it more than immediate repetition — an account consistent with [Information Processing Theory](../theories/information-processing-theory.md). On a study-phase retrieval view, spaced episodes force learners to retrieve the earlier episode from long-term memory, and that retrieval itself strengthens the memory. Both accounts predict the same design implication: the gap should be long enough to make re-encoding effortful, but not so long that the material is fully forgotten. Spacing is thus a form of desirable difficulty, and its benefits are conceptually distinct from the working-memory mechanisms described in [Cognitive Load Theory](../theories/cognitive-load-theory.md) — see [Cognitive load reduction improves learning](../claims/cognitive-load-reduction-improves-learning.md).
 
-**Scope and moderators.** The effect is most robust for verbal, declarative material (vocabulary, facts, definitions) and for delayed retention measures; the benefit on near-immediate tests is uneven rather than absent: Cepeda et al. (2006) found spaced study ahead even at retention intervals under one minute (50.1% vs 41.2% correct), while some short-interval bands showed small, non-significant differences (49.8% vs 48.9% at 1–10 minutes), so evaluations should still use delayed outcomes. The optimal spacing gap is not fixed: it grows with the retention interval, meaning a schedule optimal for a test next week is suboptimal for a test next semester. Spacing also interacts with retrieval practice — spaced retrieval is generally stronger than either spaced re-reading or massed retrieval — though a dedicated claim page does not yet exist in this wiki.
+**Scope and moderators.** The effect is most robust for verbal, declarative material (vocabulary, facts, definitions) and for delayed retention measures; the benefit on near-immediate tests is uneven rather than absent: Cepeda et al. (2006) found spaced study ahead even at retention intervals under one minute (50.1% vs 41.2% correct), while some short-interval bands showed small, non-significant differences (49.8% vs 48.9% at 1–10 minutes), so evaluations should still use delayed outcomes. The optimal spacing gap is not fixed: it grows with the retention interval, meaning a schedule optimal for a test next week is suboptimal for a test next semester. Spacing also interacts with retrieval practice — spaced retrieval is generally stronger than either spaced re-reading or massed retrieval — see [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md).
 
 **Boundary conditions.** Learners systematically misjudge spacing: massed study feels more effective in the moment and is what learners prefer, while spaced study feels harder and its advantage is only visible on a delayed test. This metacognitive illusion means simply offering spacing options is insufficient — see [Self-Regulated Learning](../theories/self-regulated-learning.md). Designers should build spacing into scheduling defaults (spiraled homework, cumulative quizzes, revisit-and-review cycles) and explicitly teach learners why distributed study feels worse but works better. Curriculum pacing that front-loads instruction before a single assessment pushes learners toward cramming and works against spacing.
 
-**Open questions.** The evidence base for this page has not yet been populated — see the TODO above. Open questions for future enrichment include how spacing effects scale from laboratory verbal-learning tasks to authentic classroom content, whether benefits extend to complex skill acquisition and transfer rather than retention, and how to specify optimal gap-to-retention ratios for practical scheduling.
+**Open questions.** Open questions for future enrichment include how spacing effects scale from laboratory verbal-learning tasks to authentic classroom content, whether benefits extend to complex skill acquisition and transfer rather than retention, and how to specify optimal gap-to-retention ratios for practical scheduling.
 
 ## Related Claims
 

@@ -22,7 +22,7 @@ sources:
     title: "Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/"
     author: Chorianopoulos, K.
     q: 2
-    i: 0
+    i: "?"
     kind: review
     rigour: 2
   - id: chorianopoulos-2018-3
@@ -42,7 +42,7 @@ sources:
 
 ## Subclaims
 `q2 i?` The review reports, citing Lyons, Reysen, and Pierce (2012), that students considered the instructor's social presence in video lectures to offer more learning. [→ Chorianopoulos 2018](#chorianopoulos-2018)
-`q2 i0` The review reports, citing Kizilcec, Bailenson, and Gomez (2015), no significant differences in learning performance between constant and moderate talking-head presence, though some students prefer the instructor's face. [→ Chorianopoulos 2018 (2)](#chorianopoulos-2018-2)
+`q2 i?` The review reports, citing Kizilcec, Bailenson, and Gomez (2015), no significant differences in learning performance between constant and moderate talking-head presence, though some students prefer the instructor's face. [→ Chorianopoulos 2018 (2)](#chorianopoulos-2018-2)
 `q2 i?` The review reports, citing Li et al. (2016), that learners preferred real or animated human presenters to real or animated robots, while recall rates were mixed across conditions and genders. [→ Chorianopoulos 2018 (3)](#chorianopoulos-2018-3)
 
 ## Evidence
@@ -61,7 +61,7 @@ Narrative review attributing to Lyons, Reysen, and Pierce (2012) a longitudinal 
 
 Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles. International Review of Research in Open and Distributed Learning, 19(1). https://www.irrodl.org/
 
-`q2 · i0` · `review · r2`
+`q2 · i? · non-significant difference reported second-hand; no effect size printed` · `review · r2`
 
 Narrative review attributing to Kizilcec, Bailenson, and Gomez (2015) a comparison of constant versus moderate inclusion of a talking head in slide-presentation videos. No significant learning-performance difference was found; equivalence was not tested. Preference for the face is the authors' noted observation.
 

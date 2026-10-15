@@ -21,7 +21,7 @@ sources:
     title: "Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [https://psycnet.apa.org/journals/edu](https://psycnet.apa.org/journals/edu). [doi:10.1037/h0049171](https://doi.org/10.1037/h0049171)"
     author: "Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H."
     q: 3
-    i: 2
+    i: "?"
     n: moderate (college classroom samples)
     kind: causal
     rigour: "?"
@@ -38,7 +38,7 @@ sources:
 # Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 review `r?`, 1 causal `r?` · `q2`–`q3` · `i2` medium
+> **Evidence** · 3 studies · 2 review `r?`, 1 causal `r?` · `q2`–`q3`
 
 Lecture is not a uniformly inferior instructional method — reviews find it performs about as well as most alternatives for the specific goal of transmitting information. But for the distinct goal of promoting active thought (problem-solving, synthesis, application), lecture measurably underperforms discussion, plausibly because a lecture's passive listener role leaves little cognitive room for anything beyond selecting information and note-taking.
 
@@ -46,7 +46,7 @@ Lecture is not a uniformly inferior instructional method — reviews find it per
 
 `q2 i?` Across more than ninety comparison studies, lecture was about as effective as other methods for helping learners acquire information, though programmed learning (small self-paced steps with early feedback and mastery-gated progression) showed some promise of being more effective specifically for this goal. [→ Dubin and Taveggia 1968](#dubin-and-taveggia-1968)
 
-`q3 i2` Discussion students spent 8.3% of observed class time on active problem-solving/synthesis versus 1% for lecture students, while lecture students spent far more time in passive thought (36.8% vs. 20.3%) and irrelevant thought (31% vs. 14.5%). [→ Siegel et al 1963](#siegel-et-al-1963)
+`q3 i?` Discussion students spent 8.3% of observed class time on active problem-solving/synthesis versus 1% for lecture students, while lecture students spent far more time in passive thought (36.8% vs. 20.3%) and irrelevant thought (31% vs. 14.5%). [→ Siegel et al 1963](#siegel-et-al-1963)
 
 `q2 i?` Synthesizing this and related literature, lecture is not effective for promoting thought, changing attitudes, or teaching behavioral skills, even though it can be an effective way to transmit information — no single method emerged as superior across all four common instructional objectives (acquiring information, promoting thought, changing attitudes, teaching behavioral skills). [→ Bligh 2000](#bligh-2000)
 
@@ -64,7 +64,7 @@ Reviewing over ninety studies comparing college teaching methods, this analysis 
 
 Siegel, L., Siegel, S., Capretta, P. J., Jones, R. A., & Berkowitz, H. (1963). Students' thoughts during class: A criterion for educational research. *Journal of Educational Psychology, 54*(3), 149-155. [https://psycnet.apa.org/journals/edu](https://psycnet.apa.org/journals/edu). [doi:10.1037/h0049171](https://doi.org/10.1037/h0049171)
 
-`q3 · peer-reviewed classroom observation study · i2 · large, statistically significant difference in active vs. passive thought time between conditions · n=moderate (college classroom samples)` · `causal · r?`
+`q3 · peer-reviewed classroom observation study · i? · no effect size printed; the entry reports only percentages of class time in each kind of thought · n=moderate (college classroom samples)` · `causal · r?`
 
 Directly observing and coding what students reported thinking about during class, this study found discussion-format students spent 8.3% of their time on active problem-solving and synthesis versus only 1% for lecture-format students — and correspondingly, lecture students spent much more time in passive thought (36.8% vs. 20.3%) and off-task, irrelevant thought (31% vs. 14.5%) than discussion students did.
 

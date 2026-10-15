@@ -30,7 +30,7 @@ sources:
 
 ## Subclaims
 `q3 i?` Students framed the activity as learning by diagnosing and recovering from failure, reporting practice in reading, tracing, and repairing plausible programs. [→ rq3-reflections](#rq3-reflections)
-`q3 i?` Roughly two thirds of students agreed or strongly agreed (~64%) that they understand self-written code better than AI-generated code. [→ rq3-likert](#rq3-likert)
+`q3 i?` Roughly two thirds of students agreed or strongly agreed (~64%) that they understand self-written code better than AI-generated code. [→ rq3-reflections](#rq3-reflections)
 
 ## Evidence
 
@@ -44,6 +44,7 @@ Thematic analysis of 204 reconciled free-text reflections from the post-tasks qu
 
 > "Students often framed the activity as learning by diagnos- ing and recovering from failure as opposed to simply producing a solution."
 
+<!-- merged duplicate entry 2026-10-15:
 ### rq3-likert
 
 Victor-Alexandru Pădurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ahana Ghosh, Paul Denny, Juho Leinonen, James Prather, and Adish Singla. 2026. When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code. Proceedings of the ACM Conference on International Computing Education Research Vol. 1 (ICER 2026 Vol. 1). https://doi.org/10.1145/3765964.3811667
@@ -53,9 +54,9 @@ Victor-Alexandru Pădurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ah
 Likert-scale responses (Q2) from the post-tasks reflection questionnaire administered to students after completing the five prompt-based programming tasks.
 
 > "Roughly two thirds agreed or strongly agreed (∼ 64%) that they understand self-written code better than AI-generated code, with very little disagreement (< 6%)."
+-->
 
 ## Discussion
-
 
 ## Related Claims
 - [Injected bugs prompt more direct code edits while natural bugs prompt more reprompting in prompt-based programming tasks](injected-bugs-eliciting-direct-edits-natural-bugs-reprompting.md) — related

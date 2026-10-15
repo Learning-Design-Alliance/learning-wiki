@@ -35,7 +35,7 @@ Weiss, David J. (1980). Final Report: Computerized Adaptive Performance Evaluati
 
 `q2 · i?` · `causal · r?`
 
-Two studies (Research Report 80-1) comparing two groups of students on computer-administered tests, one receiving immediate knowledge of results and one receiving none. The report states there were "essentially no systematic differences iniachievement level eat mates or in the dimensionality of the students' responSeA."
+Two studies (Research Report 80-1) comparing two groups of students on computer-administered tests, one receiving immediate knowledge of results and one receiving none. The report states there were essentially no systematic differences in achievement level estimates or in the dimensionality of the students' responses. The quotation below is OCR text from the ERIC scan, garbled as scanned; this sentence is a reading of it, not checked against a clean copy.
 
 > "The.restl indi- cated essentially no systematic differences iniachievement level eat mates or in the dimensionality of the students' responSeA as_a result of the adminis- tration of immediate knowledge of results."
 

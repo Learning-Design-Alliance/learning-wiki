@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Self Monitoring Comprehension Improves Learning
+title: Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores
 status: draft
 generated:
   by: claude/unspecified
@@ -28,10 +28,11 @@ sources:
     rigour: 1
 ---
 
-# Self Monitoring Comprehension Improves Learning
+# Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i2` medium
+<!-- title before 2026-10-15: Self Monitoring Comprehension Improves Learning -->
 
 Learners who actively monitor their own comprehension — checking whether they understand, detecting gaps, and repairing them — learn more than learners who read or study passively.
 

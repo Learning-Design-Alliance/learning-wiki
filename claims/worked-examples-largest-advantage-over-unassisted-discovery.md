@@ -14,7 +14,7 @@ sources:
     title: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does Discovery-Based Instruction Enhance Learning? Journal of Educational Psychology, 103(1), 1–18. https://doi.org/10.1037/a0021017"
     author: "Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R."
     q: 3
-    i: 1
+    i: 2
     kind: quant-synthesis
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # Worked examples confer a larger advantage over unassisted discovery than direct teaching does
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i1` Participants learning with worked examples (d = -0.63) outperformed unassisted discovery to a greater extent than participants learning from direct teaching (d = -0.29), Q(1) = 18.98, p < .001. [→ Alfieri 2011](#alfieri-2011)
+`q3 i2` Participants learning with worked examples (d = -0.63) outperformed unassisted discovery to a greater extent than participants learning from direct teaching (d = -0.29), Q(1) = 18.98, p < .001. [→ Alfieri 2011](#alfieri-2011)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does Discovery-Based Instruction Enhance Learning? Journal of Educational Psychology, 103(1), 1–18. https://doi.org/10.1037/a0021017
 
-`q3 · i1` · `quant-synthesis · r2`
+`q3 · i2 · medium effect, d=0.63 for worked examples vs unassisted discovery` · `quant-synthesis · r2`
 
 Comparison-condition moderator analysis in the unassisted-discovery meta-analysis, Q(5) = 32.31, p < .001. Unassisted discovery fared worse against direct teaching (d = -0.29), feedback (d = -0.46), worked examples (d = -0.63), and explanations provided (d = -0.28); the quote shows worked examples beat direct teaching in magnitude.
 

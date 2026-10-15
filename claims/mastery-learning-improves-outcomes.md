@@ -28,7 +28,7 @@ When learners must demonstrate mastery of each unit before advancing, achievemen
 
 ## Subclaims
 
-`q4 i2` A meta-analysis of 108 controlled evaluations found mastery learning programs had positive effects on examination performance in college, high-school and upper-elementary settings, apparently stronger for the weaker students in a class, though the synthesis's own abstract reports the direction of effect without a pooled effect-size statistic. [→ Kulik et al. 1990](#kulik-et-al-1990)
+`q4 i2` A meta-analysis of 108 controlled evaluations found mastery learning programs had positive effects on examination performance in college, high-school and upper-elementary settings, apparently stronger for the weaker students in a class (mean effect 0.52 SD across the 103 studies that measured examination performance). [→ Kulik et al. 1990](#kulik-et-al-1990)
 
 ## Evidence
 

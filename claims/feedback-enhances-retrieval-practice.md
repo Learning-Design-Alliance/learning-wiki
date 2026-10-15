@@ -42,7 +42,7 @@ Retrieval practice strengthens long-term retention, and providing feedback after
 
 `q3 i?` In a laboratory word-pair study, giving the correct answer after an incorrect retrieval greatly increased retention one week later. Feedback after correct responses made little difference, even when learners had low confidence in them. [→ Pashler et al. 2005](#pashler-et-al-2005)
 
-`q4 i2` Corrective feedback following class quizzes produces significantly larger testing benefits than no feedback. [→ Yang 2020](#yang-et-al-2021)
+`q4 i2` Corrective feedback following class quizzes produces significantly larger testing benefits than no feedback. [→ Yang et al. 2021](#yang-et-al-2021)
 
 ## Evidence
 
