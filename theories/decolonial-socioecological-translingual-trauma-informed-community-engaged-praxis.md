@@ -48,7 +48,7 @@ The handbook's organizing approach integrates multiple critical traditions into 
 - [SAMHSA-based framework of trauma-informed approaches: four assumptions, six key principles, and three core domains](trauma-informed-approach-framework-samhsa.md)
 - [Decolonial and feminist framework positioning AI leadership as moral and onto-epistemological stewardship](onto-epistemological-stewardship-ai-leadership.md)
 - [Five commitments for an ecologically attuned critical communication pedagogy for the Anthropocene](ecologically-attuned-ccp-five-commitments.md)
-- [Mitchell's critical service-learning framework: redistribution of power, social change, and authentic relationships](mitchell-csl-three-component-framework.md)
+- [Mitchell's critical service-learning framework: redistribution of power, social change, and authentic relationships](critical-service-learning-three-component-model.md)
 
 ## Examples
 -

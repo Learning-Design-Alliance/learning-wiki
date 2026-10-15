@@ -65,4 +65,3 @@ Moderation analysis within the meta-analysis of 56 investigations found that "le
 - [Cognitive Load Management](cognitive-load-management.md) — a broader claim this one bears on
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — related
-- [Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation](segmentation-expertise-reversal-dynamic-visualizations.md) — reports the opposite

@@ -38,8 +38,7 @@ Days of Learning is CREDO's translation device for making statistical growth res
 
 ## Related Elements
 
-- [Days of Learning: CREDO's translation of statistical growth into days of a 180-day school year](credo-days-of-learning-metric.md)
-- [Days of Learning: CREDO's translation of growth in standard deviation units into days of a 180-day school year](credo-days-of-learning-measure.md)
+- [Days of Learning: CREDO's translation of statistical growth into days of a 180-day school year](credo-days-of-learning-measure.md)
 - [CREDO City Studies Project growth-benchmarking analysis approach](credo-city-studies-growth-benchmarking-approach.md)
 
 ## Examples

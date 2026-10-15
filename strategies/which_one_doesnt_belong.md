@@ -58,7 +58,7 @@ Comparison is one of the most robust mechanisms for early concept learning: cont
 
 ## Related Strategies
 
-- [Number Talks](../strategies/number-talks.md) — the same discussion-based routine applied to computation strategies rather than quantity comparison
+- [Number Talks](math-talks-number-talks.md) — the same discussion-based routine applied to computation strategies rather than quantity comparison
 - [Quick Images](../strategies/quick-images.md) — flashed dot arrangements that build subitizing, a prerequisite skill for this activity
 - [Sort and Classify](../strategies/sort-and-classify.md) — the broader classification skill this activity applies to quantity
 - [Teach estimation of coin values and quantities using a 'more than'/'less than' framework rather than counting and rounding](more-than-less-than-estimation-framework.md)

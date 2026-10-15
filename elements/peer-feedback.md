@@ -27,5 +27,4 @@ Peer feedback is the element in which learners respond to one another's work wit
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [+M]
 
 ## Related Elements
-- [Peer Feedback/Peer Review](peer-feedbackpeer-review.md)
-- [Peer Review](peer-review.md)
+- [Peer Feedback/Peer Review](peer-review.md)

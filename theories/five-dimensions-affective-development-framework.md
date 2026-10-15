@@ -41,7 +41,7 @@ The report organizes affective development into five interrelated dimensions cho
 ## Related Theories
 
 - [Five dimensions of affective development in the preschool child](five-dimensions-affective-development-preschool.md)
-- [Control systems view of the infant as a competent, adaptive system](infant-controlled-system-adaptive-fit.md)
+- [Control systems view of the infant as a competent, adaptive system](infant-controlled-system-adaptive-fit-theory.md)
 - [Outcome-domain organization of social and character development measures](sacd-outcome-domain-organization.md)
 
 ## Examples

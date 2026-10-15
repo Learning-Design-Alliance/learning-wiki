@@ -76,7 +76,7 @@ The strategy rests on a well-documented reciprocal relationship: growth in one k
 
 ## Examples
 - **Cognitively Guided Instruction (CGI)** — elementary mathematics teachers elicit children's informal solution strategies and connect standard algorithms to the conceptual operations children already use ([CGI overview](https://www.education.wisc.edu/wwi/about/))
-- **[Number Talks](number-talks.md)** — brief classroom routines where learners solve a computation mentally, share strategies, and the teacher connects each strategy to place-value or operation concepts
+- **[Number Talks](math-talks-number-talks.md)** — brief classroom routines where learners solve a computation mentally, share strategies, and the teacher connects each strategy to place-value or operation concepts
 - **[Khan Academy](https://www.khanacademy.org)** — math lessons pair procedural video demonstrations with "why this works" conceptual explanations and varied practice sets
 - **[Illustrative Mathematics](https://illustrativemathematics.org)** — curriculum explicitly sequenced so conceptual tasks precede and accompany procedural fluency practice
 

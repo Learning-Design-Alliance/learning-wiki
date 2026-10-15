@@ -49,7 +49,7 @@ The report introduces a framework for integrating computational thinking into K-
 - [Inclusive pedagogies taxonomy: accessible instruction, connecting to homes and communities, and combating inequity](inclusive-pedagogies-three-categories.md)
 - [Distinguishing computing, computer science, computational thinking, and programming](computing-family-term-distinctions.md)
 - [4P4CT framework: four learner-centered pedagogies for teaching computational thinking across all subjects](4p4ct-four-pedagogies-for-ct-framework.md)
-- [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-seven-elements.md)
+- [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-teacher-technology-integration.md)
 - [Three powerful ways of using computers that integrate with academic subject matter: data work, automation, and modeling systems](three-powerful-uses-of-computers-ct.md)
 - [Digital Promise defines computational thinking as a set of computational skills and computational practices that teachers can map onto subject-matter learning](digital-promise-ct-skills-and-practices-definition.md)
 
@@ -95,7 +95,7 @@ The guide recommends a framework for integrating computational thinking into K-1
 
 - [Distinguishing computing, computer science, computational thinking, and programming](computing-family-term-distinctions.md)
 - [4P4CT framework: four learner-centered pedagogies for teaching computational thinking across all subjects](4p4ct-four-pedagogies-for-ct-framework.md)
-- [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-seven-elements.md)
+- [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-teacher-technology-integration.md)
 - [Digital Promise defines computational thinking as a set of computational skills and computational practices that teachers can map onto subject-matter learning](digital-promise-ct-skills-and-practices-definition.md)
 - [Inclusive pedagogies taxonomy: accessible instruction, connecting to homes and communities, and combating inequity](inclusive-pedagogies-three-categories.md)
 

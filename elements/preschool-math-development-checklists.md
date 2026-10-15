@@ -48,7 +48,7 @@ Three appended checklists (Appendices I–III) trace staged development of match
 ## Related Elements
 
 - [Selected-Response Assessment Items](selected-response-assessment-items.md)
-- [Building Blocks preschool mathematics curriculum](../products/building-blocks.md)
+- [Building Blocks preschool mathematics curriculum](../products/building-blocks-for-math.md)
 
 ## Examples
 

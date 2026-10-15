@@ -43,5 +43,4 @@ WWC synthesis of three cluster randomized controlled trials using a weighted ave
 ## Related Claims
 - [In a 28-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 1.07 (improvement index +36)](building-blocks-clements-2008-large-effect.md) — a narrower finding that bears on this claim
 - [Building Blocks for Math has positive effects on preschool mathematics achievement according to the WWC](building-blocks-prek-positive-effects-math.md) — related
-- [In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)](building-blocks-hofer-2013-scale-up-effect.md) — a narrower finding that bears on this claim
-- [In a large-scale 106-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 0.48 (improvement index +18)](building-blocks-clements-2011-scale-up-effect.md) — a narrower finding that bears on this claim
+- [In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)](building-blocks-clements-2011-scale-up-effect.md) — a narrower finding that bears on this claim

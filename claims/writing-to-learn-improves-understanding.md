@@ -111,5 +111,4 @@ Open questions the recorded evidence does not settle: how large the effect is re
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — related
 - Extensive reading improves grammatical knowledge and writing style — related
-- [Writing tasks with metacognitive prompts yield larger learning effects than writing tasks without such prompts (d = 0.44 vs. 0.26)](metacognitive-prompts-larger-writing-effects.md) — related
 - [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — related

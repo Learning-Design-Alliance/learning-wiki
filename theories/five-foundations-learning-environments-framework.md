@@ -43,7 +43,7 @@ The paper classifies learning environments by five underlying foundations: psych
 ## Related Theories
 
 - [Assumptions-and-functions framework of student-centered learning environments](student-centered-environments-assumptions-framework.md)
-- [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-seven-elements.md)
+- [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-teacher-technology-integration.md)
 
 ## Examples
 

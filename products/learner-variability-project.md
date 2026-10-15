@@ -1,6 +1,7 @@
 ---
 type: product
 id: learner-variability-project
+aliases: [learner-variability-project-lvp]
 title: Learner Variability Project
 description: The Learner Variability Project, developed by Digital Promise, provides the Learner Variability Navigator web app and related research-based tools to help educators understand learner differences and select strategies.
 product_kind: software
@@ -56,6 +57,7 @@ The Learner Variability Project, developed by Digital Promise, provides the Lear
 - **LPS Learner Factors model for Reading PK-3**: The Learner Positioning Systems (LPS) initiative at Digital Promise Global distills existing research on cognitive, social and emotional, content area, and background Learner Factors that affect learning in domains such as reading and math. Its first Learner Model, Reading PK-3 (Sheppard, 2017), organizes factors including Inhibition, Working Memory, Decoding, Primary Language, Emotion and Motivation, Vision, and Attention, and is used to review edtech products and recommend evidence-based features that support learner variability. (Partnerships that Work: Tapping Research to Address Learner Variability in Young Readers)
 - **LVP model of impact of designing for learner variability in edtech**: The report proposes a theory-of-change model linking implementation of a suite of research-based features on the ReadWorks platform to teacher awareness, student use of features, increased student engagement, and increased student performance. The model treats learner variability as the starting point: because students differ in factors like attention, working memory, vocabulary, and vision, a suite of optional supports lets each student select what they need in the moment rather than all students receiving the same support. The partnership investigated the validity of the model through a mix of qualitative and quantitative research methods at three levels: a national survey, district-level (Tare et al. (2019))
 - **Whole-child learner variability theory of change**: The Learner Variability Project's theory of change holds that synthesizing learning sciences research into factors critical to learner outcomes, connected across the whole child, generates a mental model for educators. As the article states, "Our theory of change proposes that by synthesizing the learning sciences research into factors critical to learner outcomes (see Figure 1) and showing how they are connected across the whole child, we can help generate a mental model for educators." Figure 4 depicts three steps: providing accessible tools and professional learning, shifting educator mindsets to recognize and leverage each student's strengths, and creating safe, supportive, personalized (Medha Tare et al. (2022))
+- **The Learner Variability Project four-pillar framework: Content, Cognition, Social and Emotional Learning, and Student Background**: The Learner Variability Project (LVP) at Digital Promise distills learning sciences research into Learner Factors organized under four pillars: Content, Cognition, Social and Emotional Learning, and Student Background. Each Factor includes an explanation of what it is and how it connects with other Factors, situated in the context of a learning goal, with a robust list of research-based strategies showing how research may be applied in practice and product development. (Pape (2018))
 
 ### Claims
 - [A brief self-guided engagement with the LVN shifted most educators' perception of the importance of learner variability](../claims/lvn-brief-engagement-shifts-variability-perception.md) [+M]
@@ -76,7 +78,6 @@ The Learner Variability Project, developed by Digital Promise, provides the Lear
 
 ## Related Products and Programmes
 
-- [Learner Variability Project (LVP)](learner-variability-project-lvp.md)
 
 ## Key Sources
 - Medha Tare, Alison R. Shell, Jessica Jackson. (2022). Shifting Mindsets: Designing Lessons for Learner Variability. Digital Promise. https://digitalpromise.dspacedirect.org/items/c1921acf-1964-4f4d-8232-1e8af6ad7367
@@ -86,6 +87,7 @@ The Learner Variability Project, developed by Digital Promise, provides the Lear
 - Brizard, J.-C. (2023). Breaking with the past: Embracing digital transformation in education. Digital Promise. https://doi.org/10.51388/20.500.12265/176
 - Lb0
 - Tare, M. & Shell, A. R. (2019). Designing for learner variability: Examining the impact of research-based edtech in the classroom. Washington, DC: Digital Promise Global. https://digitalpromise.dspacedirect.org/items/82839c44-adb1-400c-b422-9bfbbca65985. [doi:10.51388/20.500.12265/81](https://doi.org/10.51388/20.500.12265/81)
+- Pape, B. (2018). Learner Variability Is the Rule, Not the Exception. Digital Promise Global. https://lvp.digitalpromiseglobal.org/
 
 <!-- merged 2026-10-10 from elements/learner-variability-navigator-web-app ("Learner Variability Navigator (LVN) web app"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Sheppard, S. M. (2015). Supporting Research-Based Personalization for Reading Success. Digital Promise Global. https://global.digitalpromise.org
@@ -534,4 +536,30 @@ The Learner Variability Project's theory of change holds that synthesizing learn
 
 ## Key Sources
 - Medha Tare, Alison R. Shell, Jessica Jackson. (2022). Shifting Mindsets: Designing Lessons for Learner Variability. Digital Promise. https://digitalpromise.dspacedirect.org/items/c1921acf-1964-4f4d-8232-1e8af6ad7367
+-->
+
+<!-- merged 2026-10-15 from products/learner-variability-project-lvp ("Learner Variability Project (LVP)"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Learner Variability Project (LVP)
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The Learner Variability Project, operated by Digital Promise, organizes research-based learner factors and instructional strategies into models intended for teachers and edtech developers serving diverse learners.
+
+## Components
+<!- - A programme's own frameworks, tools, indicators and instruments, as its sources describe them - ->
+- **The Learner Variability Project four-pillar framework: Content, Cognition, Social and Emotional Learning, and Student Background**: The Learner Variability Project (LVP) at Digital Promise distills learning sciences research into Learner Factors organized under four pillars: Content, Cognition, Social and Emotional Learning, and Student Background. Each Factor includes an explanation of what it is and how it connects with other Factors, situated in the context of a learning goal, with a robust list of research-based strategies showing how research may be applied in practice and product development. (Pape (2018))
+
+### Claims
+
+- [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](../claims/lvn-generator-feedback-loop-case.md) [+W]
+
+## Related Products and Programmes
+
+- [Learner Variability Project](learner-variability-project.md)
+
+## Key Sources
+- Pape, B. (2018). Learner Variability Is the Rule, Not the Exception. Digital Promise Global. https://lvp.digitalpromiseglobal.org/
 -->

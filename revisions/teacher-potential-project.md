@@ -3,7 +3,7 @@ type: revisions
 page: ../products/teacher-potential-project.md
 ---
 
-# Revision history: [products/teacher-potential-project](../products/teacher-potential-project.md)
+# Revision history: [products/teacher-potential-project](../products/el-educations-teacher-potential-project-tpp.md)
 
 Recorded as elements/teacher-potential-project-curriculum-pd before it was renamed, re-filed or merged.
 

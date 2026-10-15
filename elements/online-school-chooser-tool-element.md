@@ -46,7 +46,7 @@ The article evaluates an online school chooser tool through which low-income par
 ## Related Elements
 
 - [Randomized factorial experiment of school choice website display formats](school-choice-website-factorial-experiment.md)
-- [Evidence-Based Guide on Presenting School Choice Information to Parents (with technical appendix)](evidence-based-guide-school-choice-info-parents.md)
+- [Evidence-Based Guide on Presenting School Choice Information to Parents (with technical appendix)](school-choice-info-presentation-guide.md)
 
 ## Examples
 

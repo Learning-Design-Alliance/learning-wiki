@@ -3,7 +3,7 @@ type: revisions
 page: ../products/a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4.md
 ---
 
-# Revision history: [products/a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4](../products/a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4.md)
+# Revision history: [products/a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4](../products/a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical.md)
 
 Recorded as elements/writing-instruction-toolkit-grades-2-4 before it was renamed, re-filed or merged.
 

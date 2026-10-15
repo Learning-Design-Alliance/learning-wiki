@@ -1,6 +1,7 @@
 ---
 type: product
 id: chicago-high-school-redesign-initiative
+aliases: [chicago-high-school-redesign-initiative-chsri]
 title: Chicago High School Redesign Initiative
 description: A school-redesign initiative that supported the creation and development of small Chicago public high schools through partnerships among Chicago Public Schools, funders, and participating school communities.
 product_kind: programme
@@ -31,6 +32,7 @@ A school-redesign initiative that supported the creation and development of smal
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **CHSRI-supported small high schools in Chicago (11 schools in year two, including conversion and contract schools)**: The Chicago High School Redesign Initiative created new small high schools within converted large high school buildings (Bowen, Orr, South Shore) plus two Big Picture Company contract schools, designed with "no more than 500 students, a cohesive and self-selected faculty, more ﬂexibility and autonomy than traditional high schools." By 2004, 11 schools participated. Students entered substantially below district averages: average eighth-grade ITBS of 229 at conversion schools versus 246 in non-CHSRI schools, and 23.3 percent of freshmen receiving special education services versus 17.7 percent district-wide. (Sporte et al. (2004))
 - **CHSRI theory of action: small schools improve outcomes via student support relationships and teacher professional community**: CHSRI posited that small, intimate schools would improve student outcomes through two mechanisms: students who felt personally and academically supported would attend more regularly and learn more, and teachers in collaborative, innovation-conducive environments would build professional communities that spurred instructional improvement. Prior CCSR work found the relational elements were present—students reported better relationships with adults and teachers reported more collegiality, innovation, and trust—but "these surveys did not indicate a consistent pattern of instructional strength," and teachers reported teaching no differently than before. (Susan Sporte (2010))
+- **CHSRI small schools theory of action**: The report maps the Chicago High School Redesign Initiative's theory of action: district resources and policies create small voluntary schools with limited bureaucratic regulation, which foster a teacher context of "trust, collective responsibility, and teacher influence"; this context supports instructional-improvement activities leading to higher-quality instruction, while smaller personal environments plus shared curricular themes are expected to raise expectations and academic and personal support for students, ultimately improving outcomes. The report quantitatively tests Boxes 6 through 10 of this framework. (Kahne et al. (2006))
 
 ### Claims
 - [Teachers and principals report district inflexibility and insufficient support for teacher-led, shared-decision-making leadership in small-school reform](../claims/chsri-district-inflexibility-teacher-led-reform.md) [-W]
@@ -48,6 +50,9 @@ A school-redesign initiative that supported the creation and development of smal
 - [The CHSRI graduation advantage was concentrated among students least likely to graduate, exceeding six percentage points in the lowest stratum versus about two in the highest](../claims/chsri-graduation-advantage-largest-lowest-stratum.md) [+M]
 - [Classrooms in high-performing CHSRI schools showed positive, mutually respectful student-teacher relationships with emotional and academic support](../claims/chsri-positive-student-teacher-relationships.md) [+M]
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](../claims/teacher-student-relationships-improve-engagement.md) [+M]
+- [Teachers in CHSRI small schools report significantly more supportive contexts for reform than similar teachers in other Chicago high schools](../claims/chsri-teachers-report-supportive-reform-context.md) [+M]
+- [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](../claims/chsri-facilitators-instructional-improvement-null.md) [~M]
+- [CHSRI students did not score differently on the PSAE in reading or math, and freshmen were not significantly more likely to be on-track](../claims/chsri-no-achievement-ontrack-difference.md) [-M]
 
 ## Related Products and Programmes
 -
@@ -55,6 +60,7 @@ A school-redesign initiative that supported the creation and development of smal
 ## Key Sources
 - Sporte, S. E., Kahne, J., & Correa, M. (2004). Notes from the Ground: Teachers, principals, and students' perspectives on the Chicago High School Redesign Initiative, year two. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/notes-ground-teachers-principals-and-students-perspectives-chicago-high-school-redesign
 - Susan Sporte, Marisa de la Torre. (2010). Chicago High School Redesign Initiative: Schools, Students, and Outcomes. Consortium on Chicago School Research at the University of Chicago, Urban Education Institute. https://consortium.uchicago.edu/publications/chicago-high-school-redesign-initiative-schools-students-and-outcomes
+- Kahne, J. E., Sporte, S., de la Torre, M., with Easton, J. Q. (2006). Small High Schools on a Larger Scale: The First Three Years of the Chicago High School Redesign Initiative. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/small-high-schools-larger-scale
 
 <!-- merged 2026-10-10 from elements/chsri-small-high-schools-element ("CHSRI-supported small high schools in Chicago (11 schools in year two, including conversion and contract schools)"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Susan Sporte, Marisa de la Torre. (2010). Chicago High School Redesign Initiative: Schools, Students, and Outcomes. Consortium on Chicago School Research at the University of Chicago, Urban Education Institute. https://consortium.uchicago.edu/publications/chicago-high-school-redesign-initiative-schools-students-and-outcomes
@@ -154,4 +160,30 @@ CHSRI posited that small, intimate schools would improve student outcomes throug
 
 ## Key Sources
 - Susan Sporte, Marisa de la Torre. (2010). Chicago High School Redesign Initiative: Schools, Students, and Outcomes. Consortium on Chicago School Research at the University of Chicago, Urban Education Institute. https://consortium.uchicago.edu/publications/chicago-high-school-redesign-initiative-schools-students-and-outcomes
+-->
+
+<!-- merged 2026-10-15 from products/chicago-high-school-redesign-initiative-chsri ("Chicago High School Redesign Initiative (CHSRI)"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Chicago High School Redesign Initiative (CHSRI)
+
+> **Product or Programme** · [All products and programmes](index.md)
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+
+## Description
+A Chicago Public Schools high-school redesign initiative that created small, voluntary schools with supported autonomy and organizational and instructional reforms for urban students.
+
+## Components
+<!- - A programme's own frameworks, tools, indicators and instruments, as its sources describe them - ->
+- **CHSRI small schools theory of action**: The report maps the Chicago High School Redesign Initiative's theory of action: district resources and policies create small voluntary schools with limited bureaucratic regulation, which foster a teacher context of "trust, collective responsibility, and teacher influence"; this context supports instructional-improvement activities leading to higher-quality instruction, while smaller personal environments plus shared curricular themes are expected to raise expectations and academic and personal support for students, ultimately improving outcomes. The report quantitatively tests Boxes 6 through 10 of this framework. (Kahne et al. (2006))
+
+### Claims
+- [Teachers in CHSRI small schools report significantly more supportive contexts for reform than similar teachers in other Chicago high schools](../claims/chsri-teachers-report-supportive-reform-context.md) [+M]
+- [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](../claims/chsri-facilitators-instructional-improvement-null.md) [~M]
+- [CHSRI students did not score differently on the PSAE in reading or math, and freshmen were not significantly more likely to be on-track](../claims/chsri-no-achievement-ontrack-difference.md) [-M]
+
+## Related Products and Programmes
+-
+
+## Key Sources
+- Kahne, J. E., Sporte, S., de la Torre, M., with Easton, J. Q. (2006). Small High Schools on a Larger Scale: The First Three Years of the Chicago High School Redesign Initiative. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/small-high-schools-larger-scale
 -->

@@ -1,17 +1,17 @@
 {
 "counts":{
-"claim":15855,
+"claim":15844,
 "design":758,
-"element":1080,
+"element":1066,
 "learner-variable":14,
 "method":38,
 "pattern":65,
 "principle":213,
 "process":18,
-"product":1603,
-"research-method":450,
-"strategy":5704,
-"theory":1372
+"product":1586,
+"research-method":449,
+"strategy":5694,
+"theory":1361
 },
 "kinds":[
 "claim",
@@ -16760,6 +16760,7 @@
 "type":"claim"
 },
 {
+"aliases":["building-blocks-hofer-2013-scale-up-effect"],
 "description":"In a large-scale 106-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 0.48 (improvement index +18)",
 "evidence_strength":"moderate",
 "id":"building-blocks-clements-2011-scale-up-effect",
@@ -16775,15 +16776,6 @@
 "path":"claims/building-blocks-evidence-base-small-math-only.md",
 "status":"review",
 "title":"The evidence base for Building Blocks for Math is small and limited to the math domain",
-"type":"claim"
-},
-{
-"description":"In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)",
-"evidence_strength":"moderate",
-"id":"building-blocks-hofer-2013-scale-up-effect",
-"path":"claims/building-blocks-hofer-2013-scale-up-effect.md",
-"status":"review",
-"title":"In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)",
 "type":"claim"
 },
 {
@@ -23656,21 +23648,13 @@
 "type":"claim"
 },
 {
+"aliases":["clustering-effects-typically-large-education-designs"],
 "description":"Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples",
 "evidence_strength":"moderate",
 "id":"clustering-effects-large-school-samples-education-trials",
 "path":"claims/clustering-effects-large-school-samples-education-trials.md",
 "status":"review",
 "title":"Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples",
-"type":"claim"
-},
-{
-"description":"Clustering effects vary by design but are typically large in education random-assignment evaluations",
-"evidence_strength":"moderate",
-"id":"clustering-effects-typically-large-education-designs",
-"path":"claims/clustering-effects-typically-large-education-designs.md",
-"status":"review",
-"title":"Clustering effects vary by design but are typically large in education random-assignment evaluations",
 "type":"claim"
 },
 {
@@ -35895,15 +35879,7 @@
 "type":"claim"
 },
 {
-"description":"Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)",
-"evidence_strength":"moderate",
-"id":"digital-games-beat-nongame-conditions-meta",
-"path":"claims/digital-games-beat-nongame-conditions-meta.md",
-"status":"review",
-"title":"Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)",
-"type":"claim"
-},
-{
+"aliases":["digital-games-beat-nongame-conditions-meta"],
 "description":"Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons",
 "evidence_strength":"moderate",
 "id":"digital-games-outperform-nongame-media-comparisons",
@@ -49397,6 +49373,7 @@
 "type":"claim"
 },
 {
+"aliases":["few-tif-districts-aligned-bonuses-with-grant-guidance"],
 "description":"Few districts structured pay-for-performance bonuses to align well with TIF grant guidance",
 "evidence_strength":"moderate",
 "id":"few-districts-aligned-bonuses-with-tif-guidance",
@@ -49520,15 +49497,6 @@
 "path":"claims/few-student-subgroup-impact-differences-significant.md",
 "status":"review",
 "title":"Student subgroup impact differences were rarely statistically significant: six of 288 differences in the second cohort and eight of 360 subgroup analyses in the follow-up year.",
-"type":"claim"
-},
-{
-"description":"Few TIF districts structured pay-for-performance bonuses to align well with TIF grant guidance",
-"evidence_strength":"moderate",
-"id":"few-tif-districts-aligned-bonuses-with-grant-guidance",
-"path":"claims/few-tif-districts-aligned-bonuses-with-grant-guidance.md",
-"status":"review",
-"title":"Few TIF districts structured pay-for-performance bonuses to align well with TIF grant guidance",
 "type":"claim"
 },
 {
@@ -68147,6 +68115,7 @@
 "type":"claim"
 },
 {
+"aliases":["story-relevance-negative-moderator"],
 "description":"Games with no story or irrelevant story context show larger learning effects than games with relevant story context",
 "evidence_strength":"moderate",
 "id":"irrelevant-story-larger-effects-than-relevant",
@@ -71265,15 +71234,6 @@
 "path":"claims/l2-learning-experience-beats-ideal-l2-self.md",
 "status":"review",
 "title":"In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues",
-"type":"claim"
-},
-{
-"description":"Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill",
-"evidence_strength":"moderate",
-"id":"l2-morphosyntax-learning-highly-skill-specific",
-"path":"claims/l2-morphosyntax-learning-highly-skill-specific.md",
-"status":"review",
-"title":"Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill",
 "type":"claim"
 },
 {
@@ -77316,19 +77276,11 @@
 "type":"claim"
 },
 {
+"aliases":["long-term-memory-schemas-varying-automation"],
 "description":"Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation",
 "evidence_strength":"weak",
 "id":"long-term-memory-schemas-automation",
 "path":"claims/long-term-memory-schemas-automation.md",
-"status":"review",
-"title":"Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation",
-"type":"claim"
-},
-{
-"description":"Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation",
-"evidence_strength":"weak",
-"id":"long-term-memory-schemas-varying-automation",
-"path":"claims/long-term-memory-schemas-varying-automation.md",
 "status":"review",
 "title":"Long-term memory is effectively unlimited and holds schemas that vary in their degree of automation",
 "type":"claim"
@@ -81582,15 +81534,6 @@
 "path":"claims/metacognitive-prompts-improve-learning.md",
 "status":"review",
 "title":"Metacognitive prompts improve learning",
-"type":"claim"
-},
-{
-"description":"Writing tasks with metacognitive prompts yield larger learning effects than writing tasks without such prompts (d = 0.44 vs.",
-"evidence_strength":"moderate",
-"id":"metacognitive-prompts-larger-writing-effects",
-"path":"claims/metacognitive-prompts-larger-writing-effects.md",
-"status":"review",
-"title":"Writing tasks with metacognitive prompts yield larger learning effects than writing tasks without such prompts (d = 0.44 vs. 0.26)",
 "type":"claim"
 },
 {
@@ -107800,6 +107743,7 @@
 "type":"claim"
 },
 {
+"aliases":["metacognitive-prompts-larger-writing-effects"],
 "description":"",
 "evidence_strength":"unrated",
 "id":"reflective-practice-improves-outcomes-when-structured",
@@ -112938,15 +112882,7 @@
 "type":"claim"
 },
 {
-"description":"Schematic visual realism is associated with significantly larger game learning effects than realistic visuals, which show no benefit",
-"evidence_strength":"moderate",
-"id":"schematic-realism-larger-game-effects",
-"path":"claims/schematic-realism-larger-game-effects.md",
-"status":"review",
-"title":"Schematic visual realism is associated with significantly larger game learning effects than realistic visuals, which show no benefit",
-"type":"claim"
-},
-{
+"aliases":["schematic-realism-larger-game-effects"],
 "description":"Schematic visual games show larger learning effects than realistic games, which show no significant benefit over nongame conditions",
 "evidence_strength":"moderate",
 "id":"schematic-visuals-outperform-realistic",
@@ -114859,6 +114795,7 @@
 "type":"claim"
 },
 {
+"aliases":["segmentation-expertise-reversal-dynamic-visualizations"],
 "description":"",
 "evidence_strength":"emerging",
 "id":"segmentation-benefits-shrink-with-expertise",
@@ -114874,15 +114811,6 @@
 "path":"claims/segmentation-boundaries-differentially-affect-statistics.md",
 "status":"review",
 "title":"Segmentation boundary choices differentially affect statistics computed on epistemic-game process data",
-"type":"claim"
-},
-{
-"description":"Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation",
-"evidence_strength":"moderate",
-"id":"segmentation-expertise-reversal-dynamic-visualizations",
-"path":"claims/segmentation-expertise-reversal-dynamic-visualizations.md",
-"status":"review",
-"title":"Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation",
 "type":"claim"
 },
 {
@@ -118636,6 +118564,7 @@
 "type":"claim"
 },
 {
+"aliases":["l2-morphosyntax-learning-highly-skill-specific"],
 "description":"Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization",
 "evidence_strength":"weak",
 "id":"skill-specificity-l2-grammar-practice",
@@ -123165,15 +123094,6 @@
 "path":"claims/story-mine-sensitivity-crisis-exclusion.md",
 "status":"review",
 "title":"Excluding two participants in acute crisis reduced the negative effect estimates to very small or small",
-"type":"claim"
-},
-{
-"description":"Games with irrelevant or no story relevance show larger learning effects than games with relevant narratives",
-"evidence_strength":"moderate",
-"id":"story-relevance-negative-moderator",
-"path":"claims/story-relevance-negative-moderator.md",
-"status":"review",
-"title":"Games with irrelevant or no story relevance show larger learning effects than games with relevant narratives",
 "type":"claim"
 },
 {
@@ -138665,15 +138585,7 @@
 "type":"claim"
 },
 {
-"description":"Theoretically augmented game designs significantly outperform standard versions of the same games (g = 0.34), with enhanced scaffolding designs showing g = 0.41",
-"evidence_strength":"moderate",
-"id":"value-added-augmented-designs-benefit",
-"path":"claims/value-added-augmented-designs-benefit.md",
-"status":"review",
-"title":"Theoretically augmented game designs significantly outperform standard versions of the same games (g = 0.34), with enhanced scaffolding designs showing g = 0.41",
-"type":"claim"
-},
-{
+"aliases":["value-added-augmented-designs-benefit"],
 "description":"Theoretically augmented game designs produce better learning outcomes than standard game versions (g = 0.34), with enhanced scaffolding designs showing g = 0.41",
 "evidence_strength":"moderate",
 "id":"value-added-augmented-designs-benefit-learning",
@@ -150382,6 +150294,7 @@
 "type":"element"
 },
 {
+"aliases":["concept-semantic-map-element"],
 "canonical":true,
 "description":"A concept map is a node-and-link diagram that externalizes relationships among ideas, making the structure of a knowledge domain visible.",
 "id":"concept-map",
@@ -150397,15 +150310,6 @@
 "path":"elements/concept-mapping.md",
 "status":"review",
 "title":"Concept Mapping",
-"type":"element"
-},
-{
-"canonical":true,
-"description":"A graphic organizer in which concepts are represented as nodes and their relationships as labeled or positional links.",
-"id":"concept-semantic-map-element",
-"path":"elements/concept-semantic-map-element.md",
-"status":"review",
-"title":"Concept/semantic map",
 "type":"element"
 },
 {
@@ -150785,19 +150689,12 @@
 "type":"element"
 },
 {
+"aliases":["credo-days-of-learning-metric"],
 "description":"Days of Learning is CREDO's translation device for making statistical growth results accessible to non-technical audiences.",
 "id":"credo-days-of-learning-measure",
 "path":"elements/credo-days-of-learning-measure.md",
 "status":"review",
 "title":"Days of Learning: CREDO's translation of growth in standard deviation units into days of a 180-day school year",
-"type":"element"
-},
-{
-"description":"Days of Learning is CREDO's accessibility translation of its statistical growth estimates.",
-"id":"credo-days-of-learning-metric",
-"path":"elements/credo-days-of-learning-metric.md",
-"status":"review",
-"title":"Days of Learning: CREDO's translation of statistical growth into days of a 180-day school year",
 "type":"element"
 },
 {
@@ -150908,6 +150805,7 @@
 "type":"element"
 },
 {
+"aliases":["student-data-use-coaching-support-schools"],
 "description":"An intervention evaluated in a random assignment study that involved \\\"providing coaching and support to schools to help them use student data to inform teachers’ instruction.\\\" It was examined for effects on \\\"teachers’...",
 "id":"data-driven-instruction-support-intervention",
 "path":"elements/data-driven-instruction-support-intervention.md",
@@ -151816,14 +151714,6 @@
 "type":"element"
 },
 {
-"description":"An evidence-based guide, published October 30, 2018 by the National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S.",
-"id":"evidence-based-guide-school-choice-info-parents",
-"path":"elements/evidence-based-guide-school-choice-info-parents.md",
-"status":"review",
-"title":"Evidence-Based Guide on Presenting School Choice Information to Parents (with technical appendix)",
-"type":"element"
-},
-{
 "description":"The book identifies a sustained public informing agenda as one of the levels at which Chicago's improvement occurred.",
 "id":"evidence-based-public-informing-agenda",
 "path":"elements/evidence-based-public-informing-agenda.md",
@@ -151849,6 +151739,7 @@
 "type":"element"
 },
 {
+"aliases":["ewing-marion-kauffman-school-element"],
 "description":"The Ewing Marion Kauffman School is \\\"a public charter school that serves students from low-income neighborhoods in Kansas City, Missouri\\\".",
 "id":"ewing-marion-kauffman-charter-school",
 "path":"elements/ewing-marion-kauffman-charter-school.md",
@@ -151862,14 +151753,6 @@
 "path":"elements/ewing-marion-kauffman-charter-school-element.md",
 "status":"review",
 "title":"Ewing Marion Kauffman School: a tuition-free charter school serving Kansas City students in grades 5-10",
-"type":"element"
-},
-{
-"description":"The Ewing Marion Kauffman School is a public, tuition-free charter school serving students in Kansas City, Missouri.",
-"id":"ewing-marion-kauffman-school-element",
-"path":"elements/ewing-marion-kauffman-school-element.md",
-"status":"review",
-"title":"Ewing Marion Kauffman School",
 "type":"element"
 },
 {
@@ -152223,6 +152106,7 @@
 "type":"element"
 },
 {
+"aliases":["four-early-elementary-math-curricula-evaluation-set"],
 "description":"The Evaluation of Mathematics Curricula project (time frame 2005-2013) examined four early elementary math programs.",
 "id":"four-early-elementary-math-curricula-evaluated",
 "path":"elements/four-early-elementary-math-curricula-evaluated.md",
@@ -152231,27 +152115,12 @@
 "type":"element"
 },
 {
-"description":"The evaluation compared four early elementary math programs, each a textbook-based curriculum with an associated instructional approach.",
-"id":"four-early-elementary-math-curricula-evaluation-set",
-"path":"elements/four-early-elementary-math-curricula-evaluation-set.md",
-"status":"review",
-"title":"Four early elementary math curricula compared in the federal evaluation: Math Expressions, Saxon Math, Investigations in Number, Data, and Space, and Scott Foresman-Addison Wesley Mathematics",
-"type":"element"
-},
-{
+"aliases":["four-elementary-math-curricula-evaluation-set"],
 "description":"The study compared four published elementary mathematics curricula, enumerated by the brief as \\\"(1) Investigations in Number, Data, and Space; (2) Math Expressions; (3) Saxon Math; and (4) Scott Foresman-Addison Wesle...",
 "id":"four-elementary-math-curricula-compared",
 "path":"elements/four-elementary-math-curricula-compared.md",
 "status":"review",
 "title":"Four elementary math curricula compared in the study",
-"type":"element"
-},
-{
-"description":"The evaluation compares four distinct elementary school math curricula named by the article: \\\"Investigations in Number, Data, and Space®; Math Expressions; Saxon Math™; and Scott Foresman-Addison Wesley Mathematics (S...",
-"id":"four-elementary-math-curricula-evaluation-set",
-"path":"elements/four-elementary-math-curricula-evaluation-set.md",
-"status":"review",
-"title":"Four elementary school math curricula compared in the evaluation",
 "type":"element"
 },
 {
@@ -152279,6 +152148,7 @@
 "type":"element"
 },
 {
+"aliases":["four-test-score-principal-performance-measures"],
 "description":"The report evaluates four principal performance measures based on student test scores: average achievement, adjusted average achievement, school value-added, and adjusted school value-added.",
 "id":"four-principal-test-score-performance-measures",
 "path":"elements/four-principal-test-score-performance-measures.md",
@@ -152316,14 +152186,6 @@
 "path":"elements/four-supplemental-reading-comprehension-curricula-rct.md",
 "status":"review",
 "title":"Four supplemental reading comprehension curricula evaluated in a large-scale RCT",
-"type":"element"
-},
-{
-"description":"The study assessed four principal performance measures based on student test scores: average achievement, adjusted average achievement, school value-added, and adjusted school value-added.",
-"id":"four-test-score-principal-performance-measures",
-"path":"elements/four-test-score-principal-performance-measures.md",
-"status":"review",
-"title":"Four principal performance measures based on student test scores",
 "type":"element"
 },
 {
@@ -153065,21 +152927,13 @@
 "type":"element"
 },
 {
+"aliases":["inquiry-learning"],
 "canonical":true,
 "description":"Inquiry-based learning is the element in which learners investigate questions, evidence, or problems in order to build understanding through guided exploration.",
 "id":"inquiry-based-learning",
 "path":"elements/inquiry-based-learning.md",
 "status":"review",
 "title":"Inquiry-Based Learning",
-"type":"element"
-},
-{
-"canonical":true,
-"description":"Learners investigate questions, generate or test hypotheses, and construct understanding through structured exploration rather than receiving explanations first.",
-"id":"inquiry-learning",
-"path":"elements/inquiry-learning.md",
-"status":"review",
-"title":"Inquiry Learning",
 "type":"element"
 },
 {
@@ -155050,15 +154904,6 @@
 },
 {
 "canonical":true,
-"description":"Peer feedback/peer review is the element in which learners evaluate one another's work against criteria and provide revision-oriented feedback.",
-"id":"peer-feedbackpeer-review",
-"path":"elements/peer-feedbackpeer-review.md",
-"status":"review",
-"title":"Peer Feedback/Peer Review",
-"type":"element"
-},
-{
-"canonical":true,
 "description":"Peer instruction is the element in which learners explain, compare, and revise answers with one another around conceptual questions.",
 "id":"peer-instruction",
 "path":"elements/peer-instruction.md",
@@ -155076,6 +154921,7 @@
 "type":"element"
 },
 {
+"aliases":["peer-feedbackpeer-review"],
 "canonical":true,
 "description":"Peer review is the element in which learners examine and respond to one another's work using shared criteria, prompts, or examples.",
 "id":"peer-review",
@@ -155251,19 +155097,12 @@
 "type":"element"
 },
 {
+"aliases":["phonological-awareness-training-practices-element"],
 "description":"Phonological Awareness Training is a general practice aimed at enhancing young children's phonological awareness, defined as \\\"the ability to detect or manipulate the sounds in words independent of meaning.\\\" It can inv...",
 "id":"phonological-awareness-training-practice",
 "path":"elements/phonological-awareness-training-practice.md",
 "status":"review",
 "title":"Phonological Awareness Training practice (rhyme detection, blending, and segmentation activities for young children)",
-"type":"element"
-},
-{
-"description":"Phonological awareness training is any practice targeting young children's ability to detect or manipulate the sounds in words independent of meaning.",
-"id":"phonological-awareness-training-practices-element",
-"path":"elements/phonological-awareness-training-practices-element.md",
-"status":"review",
-"title":"Phonological awareness training practices: rhyme detection, blending, and segmentation activities",
 "type":"element"
 },
 {
@@ -155591,21 +155430,13 @@
 "type":"element"
 },
 {
+"aliases":["problem-solving-tasks"],
 "canonical":true,
 "description":"Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions.",
 "id":"problem-solving",
 "path":"elements/problem-solving.md",
 "status":"review",
 "title":"Problem Solving",
-"type":"element"
-},
-{
-"canonical":true,
-"description":"Learners complete structured activities that require critical thinking and application.",
-"id":"problem-solving-tasks",
-"path":"elements/problem-solving-tasks.md",
-"status":"review",
-"title":"Problem-Solving Tasks",
 "type":"element"
 },
 {
@@ -156319,6 +156150,7 @@
 "type":"element"
 },
 {
+"aliases":["evidence-based-guide-school-choice-info-parents"],
 "description":"A guide funded by the U.S.",
 "id":"school-choice-info-presentation-guide",
 "path":"elements/school-choice-info-presentation-guide.md",
@@ -156995,14 +156827,6 @@
 "type":"element"
 },
 {
-"description":"This element is the intervention evaluated in the study: providing coaching and support to schools to help them use student data to inform teachers' instruction.",
-"id":"student-data-use-coaching-support-schools",
-"path":"elements/student-data-use-coaching-support-schools.md",
-"status":"review",
-"title":"Coaching and support to schools for using student data to inform teachers' instruction",
-"type":"element"
-},
-{
 "description":"A student-facing learning analytics dashboard designed with and for online and distance learning students, displaying assignment scores, credits passed and studying, last time active on the module, VLE visit graphs, m...",
 "id":"student-facing-dashboard-online-distance-education",
 "path":"elements/student-facing-dashboard-online-distance-education.md",
@@ -157333,14 +157157,7 @@
 "type":"element"
 },
 {
-"description":"The Equity Project Charter School is a New York City charter school whose distinguishing feature, as named in the brief's title, is \\\"High Salaries for Teachers\\\".",
-"id":"tep-charter-school-high-teacher-salaries",
-"path":"elements/tep-charter-school-high-teacher-salaries.md",
-"status":"review",
-"title":"The Equity Project (TEP) Charter School teacher-compensation model",
-"type":"element"
-},
-{
+"aliases":["tep-charter-school-high-teacher-salaries"],
 "description":"TEP is a New York City charter school with what the report calls \\\"a unique approach to rewarding and developing high quality teachers—including salaries of $125,000 and substantial professional responsibility.\\\" The mo...",
 "id":"tep-teacher-compensation-model",
 "path":"elements/tep-teacher-compensation-model.md",
@@ -157382,14 +157199,7 @@
 "type":"element"
 },
 {
-"description":"A set of short audio vocabulary lessons created by the first researcher and delivered to students' mobile phones through the Telegram app.",
-"id":"thematic-bilingual-audio-dictionary",
-"path":"elements/thematic-bilingual-audio-dictionary.md",
-"status":"review",
-"title":"Thematic Bilingual Audio Dictionary delivered via Telegram",
-"type":"element"
-},
-{
+"aliases":["thematic-bilingual-audio-dictionary"],
 "description":"The researchers created seven audio vocabulary lessons covering homes-and-apartments topics such as \\\"materials\\\" and \\\"opinions about housing arrangements\\\", each about 2 to 8 minutes long.",
 "id":"thematic-bilingual-audio-dictionary-telegram",
 "path":"elements/thematic-bilingual-audio-dictionary-telegram.md",
@@ -161471,14 +161281,7 @@
 "type":"product"
 },
 {
-"description":"A free professional-development toolkit providing guided activities and practices for educators to implement evidence-based writing instruction in grades 2 through 4 throughout the school year.",
-"id":"a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4",
-"path":"products/a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4.md",
-"status":"review",
-"title":"A Toolkit to Support Evidence-Based Writing Instruction in Grades 2 Through 4",
-"type":"product"
-},
-{
+"aliases":["a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4"],
 "description":"A historical toolkit providing evidence-based writing-instruction guidance, tip sheets, and professional-development supports for grades 2–4 teachers and school leaders.",
 "id":"a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical",
 "path":"products/a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical.md",
@@ -161927,14 +161730,7 @@
 "type":"product"
 },
 {
-"description":"The Alliance for Resource Equity diagnostic toolkit, developed by Ed Trust and Education Resource Strategies, organizes questions and guidance around ten dimensions of educational equity to help districts and advocates identify and address local resource and student-experience problems.",
-"id":"alliance-for-resource-equity-are-diagnostic-toolkit",
-"path":"products/alliance-for-resource-equity-are-diagnostic-toolkit.md",
-"status":"review",
-"title":"Alliance for Resource Equity (ARE) diagnostic toolkit",
-"type":"product"
-},
-{
+"aliases":["alliance-for-resource-equity-are-diagnostic-toolkit"],
 "description":"A toolkit developed by the Education Trust and Education Resource Strategies that helps district and school leaders diagnose inequities across ten dimensions of student experience and select guidebook actions for improvement.",
 "id":"alliance-for-resource-equity-are-diagnostic-toolkit-organized-around-ten-dimensions-of-equ",
 "path":"products/alliance-for-resource-equity-are-diagnostic-toolkit-organized-around-ten-dimensions-of-equ.md",
@@ -162559,14 +162355,7 @@
 "type":"product"
 },
 {
-"description":"Building Blocks is a preschool mathematics curriculum and intervention developed by Douglas H.",
-"id":"building-blocks",
-"path":"products/building-blocks.md",
-"status":"review",
-"title":"Building Blocks",
-"type":"product"
-},
-{
+"aliases":["building-blocks"],
 "description":"A preschool mathematics curriculum from SRA Real Math that sequences instruction and software tasks along empirically based learning trajectories linking children's informal mathematical knowledge to formal concepts.",
 "id":"building-blocks-for-math",
 "path":"products/building-blocks-for-math.md",
@@ -162943,19 +162732,12 @@
 "type":"product"
 },
 {
+"aliases":["chicago-high-school-redesign-initiative-chsri"],
 "description":"A school-redesign initiative that supported the creation and development of small Chicago public high schools through partnerships among Chicago Public Schools, funders, and participating school communities.",
 "id":"chicago-high-school-redesign-initiative",
 "path":"products/chicago-high-school-redesign-initiative.md",
 "status":"review",
 "title":"Chicago High School Redesign Initiative",
-"type":"product"
-},
-{
-"description":"A Chicago Public Schools high-school redesign initiative that created small, voluntary schools with supported autonomy and organizational and instructional reforms for urban students.",
-"id":"chicago-high-school-redesign-initiative-chsri",
-"path":"products/chicago-high-school-redesign-initiative-chsri.md",
-"status":"review",
-"title":"Chicago High School Redesign Initiative (CHSRI)",
 "type":"product"
 },
 {
@@ -164289,6 +164071,7 @@
 "type":"product"
 },
 {
+"aliases":["powerful-learning-framework"],
 "description":"A framework developed by Digital Promise that describes powerful teaching and learning through agency, purpose, curiosity, and connection.",
 "id":"digital-promises-powerful-learning-framework",
 "path":"products/digital-promises-powerful-learning-framework.md",
@@ -164553,14 +164336,7 @@
 "type":"product"
 },
 {
-"description":"A publicly available Ed Trust web-based data tool that lets state leaders, advocates, and researchers explore educator-diversity indicators by state.",
-"id":"ed-trust-teacher-diversity-50-state-scan",
-"path":"products/ed-trust-teacher-diversity-50-state-scan.md",
-"status":"review",
-"title":"Ed Trust Teacher Diversity 50-State Scan",
-"type":"product"
-},
-{
+"aliases":["ed-trust-teacher-diversity-50-state-scan"],
 "description":"A publicly available Ed Trust data and rating tool that compares states' progress on educator-diversity policies using evidence-based criteria and three-level ratings.",
 "id":"ed-trust-teacher-diversity-50-state-scan-data-tool",
 "path":"products/ed-trust-teacher-diversity-50-state-scan-data-tool.md",
@@ -164593,6 +164369,7 @@
 "type":"product"
 },
 {
+"aliases":["exact-path"],
 "description":"Edmentum Exact Path is a personalized K–12 learning platform that uses diagnostic and adaptive assessments to create individualized Math and English Language Arts learning paths and report student growth.",
 "id":"edmentum-exact-path",
 "path":"products/edmentum-exact-path.md",
@@ -164833,6 +164610,7 @@
 "type":"product"
 },
 {
+"aliases":["teacher-potential-project"],
 "description":"A programme run by EL Education that combines a standards-aligned English language arts curriculum with embedded professional development for teachers.",
 "id":"el-educations-teacher-potential-project-tpp",
 "path":"products/el-educations-teacher-potential-project-tpp.md",
@@ -165105,19 +164883,12 @@
 "type":"product"
 },
 {
+"aliases":["essentials-for-community-schools-transformation-framework"],
 "description":"A Community Schools Forward framework that extends the traditional four community-school pillars with belonging, safety, and care, and rigorous community-connected classroom instruction to guide whole-child school transformation.",
 "id":"essentials-for-community-school-transformation-framework",
 "path":"products/essentials-for-community-school-transformation-framework.md",
 "status":"review",
 "title":"Essentials for Community School Transformation Framework",
-"type":"product"
-},
-{
-"description":"A Community Schools Forward framework that guides K–12 community-school transformation through six site-level practices and enabling conditions.",
-"id":"essentials-for-community-schools-transformation-framework",
-"path":"products/essentials-for-community-schools-transformation-framework.md",
-"status":"review",
-"title":"Essentials for Community Schools Transformation framework",
 "type":"product"
 },
 {
@@ -165193,14 +164964,6 @@
 "type":"product"
 },
 {
-"description":"Exact Path is Edmentum's computer-adaptive supplemental learning platform, using diagnostic data to assign personalized instruction and practice.",
-"id":"exact-path",
-"path":"products/exact-path.md",
-"status":"review",
-"title":"Exact Path",
-"type":"product"
-},
-{
 "description":"A whole-school educational model developed and supported by EL Education that organizes schools around experiential, project-based learning and related schoolwide practices.",
 "id":"expeditionary-learning",
 "path":"products/expeditionary-learning.md",
@@ -165241,19 +165004,12 @@
 "type":"product"
 },
 {
+"aliases":["expository-reading-and-writing-curriculum-erwc"],
 "description":"The Expository Reading and Writing Course is a college-preparatory English language arts curriculum developed by the California State University system for secondary students, with modules that integrate rhetorical reading, writing, revision, and language study.",
 "id":"expository-reading-and-writing-course-erwc",
 "path":"products/expository-reading-and-writing-course-erwc.md",
 "status":"review",
 "title":"Expository Reading and Writing Course (ERWC)",
-"type":"product"
-},
-{
-"description":"A California State University-developed college-preparatory English language arts curriculum that uses rhetorical reading, discussion, and writing practices to prepare high-school students for college-level English.",
-"id":"expository-reading-and-writing-curriculum-erwc",
-"path":"products/expository-reading-and-writing-curriculum-erwc.md",
-"status":"review",
-"title":"Expository Reading and Writing Curriculum (ERWC)",
 "type":"product"
 },
 {
@@ -165609,19 +165365,12 @@
 "type":"product"
 },
 {
+"aliases":["foundations-for-young-adult-success-a-developmental-framework"],
 "description":"A UChicago Consortium framework that organizes developmental conditions and experiences supporting young people's successful transition to adulthood.",
 "id":"foundations-for-young-adult-success",
 "path":"products/foundations-for-young-adult-success.md",
 "status":"review",
 "title":"Foundations for Young Adult Success",
-"type":"product"
-},
-{
-"description":"A conceptual framework developed by Nagaoka and colleagues at the University of Chicago Consortium on Chicago School Research that organizes the knowledge, skills, mindsets, strategies, and behaviors intended to support agency and success from childhood through young adulthood.",
-"id":"foundations-for-young-adult-success-a-developmental-framework",
-"path":"products/foundations-for-young-adult-success-a-developmental-framework.md",
-"status":"review",
-"title":"Foundations for Young Adult Success: A Developmental Framework",
 "type":"product"
 },
 {
@@ -167258,19 +167007,12 @@
 "type":"product"
 },
 {
+"aliases":["learner-variability-project-lvp"],
 "description":"The Learner Variability Project, developed by Digital Promise, provides the Learner Variability Navigator web app and related research-based tools to help educators understand learner differences and select strategies.",
 "id":"learner-variability-project",
 "path":"products/learner-variability-project.md",
 "status":"review",
 "title":"Learner Variability Project",
-"type":"product"
-},
-{
-"description":"The Learner Variability Project, operated by Digital Promise, organizes research-based learner factors and instructional strategies into models intended for teachers and edtech developers serving diverse learners.",
-"id":"learner-variability-project-lvp",
-"path":"products/learner-variability-project-lvp.md",
-"status":"review",
-"title":"Learner Variability Project (LVP)",
 "type":"product"
 },
 {
@@ -167858,6 +167600,7 @@
 "type":"product"
 },
 {
+"aliases":["nwea-map-growth"],
 "description":"MAP Growth is NWEA's computer-adaptive assessment system, with national achievement and growth norms and reporting tools such as the MAP Growth National Dashboard.",
 "id":"map-growth",
 "path":"products/map-growth.md",
@@ -167986,19 +167729,12 @@
 "type":"product"
 },
 {
+"aliases":["massachusetts-dese-grantee-early-literacy-screening-assessment-dataset"],
 "description":"A multi-year dataset of K–3 early literacy screener results collected and maintained by the Massachusetts Department of Elementary and Secondary Education from participating grantee schools and districts.",
 "id":"massachusetts-dese-early-literacy-screening-assessment-dataset",
 "path":"products/massachusetts-dese-early-literacy-screening-assessment-dataset.md",
 "status":"review",
 "title":"Massachusetts DESE early literacy screening assessment dataset",
-"type":"product"
-},
-{
-"description":"A dataset of K–3 literacy screening assessment scores collected by the Massachusetts Department of Elementary and Secondary Education from participating grantee schools and districts to analyze reading-risk patterns and inform intervention and resource targeting.",
-"id":"massachusetts-dese-grantee-early-literacy-screening-assessment-dataset",
-"path":"products/massachusetts-dese-grantee-early-literacy-screening-assessment-dataset.md",
-"status":"review",
-"title":"Massachusetts DESE grantee early literacy screening assessment dataset",
 "type":"product"
 },
 {
@@ -169090,14 +168826,6 @@
 "type":"product"
 },
 {
-"description":"NWEA MAP Growth is a computer-adaptive achievement assessment and associated longitudinal achievement database developed and administered by NWEA.",
-"id":"nwea-map-growth",
-"path":"products/nwea-map-growth.md",
-"status":"review",
-"title":"NWEA MAP Growth",
-"type":"product"
-},
-{
 "description":"A dataset assembled by NWEA from MAP Growth assessments for approximately 6.7 million U.S.",
 "id":"nwea-map-growth-202223-achievement-dataset",
 "path":"products/nwea-map-growth-202223-achievement-dataset.md",
@@ -169896,14 +169624,6 @@
 "path":"products/post-secondary-attainment-index-pai.md",
 "status":"review",
 "title":"Post-secondary Attainment Index (PAI)",
-"type":"product"
-},
-{
-"description":"A Digital Promise framework that organizes a vision of learning around fostering agency, purpose, and curiosity through connection to ideas, self, people, and place.",
-"id":"powerful-learning-framework",
-"path":"products/powerful-learning-framework.md",
-"status":"review",
-"title":"Powerful Learning framework",
 "type":"product"
 },
 {
@@ -170875,19 +170595,12 @@
 "type":"product"
 },
 {
+"aliases":["rhode-island-charter-school-performance-review-system"],
 "description":"A performance-accountability framework created and administered by the Rhode Island Department of Education to evaluate charter schools from initial application through renewal.",
 "id":"rhode-island-charter-school-performance-framework",
 "path":"products/rhode-island-charter-school-performance-framework.md",
 "status":"review",
 "title":"Rhode Island Charter School Performance Framework",
-"type":"product"
-},
-{
-"description":"A framework developed and administered by the Rhode Island Department of Education for approving, renewing, and revoking charter schools through standardized performance reviews, dashboards, and stakeholder processes.",
-"id":"rhode-island-charter-school-performance-review-system",
-"path":"products/rhode-island-charter-school-performance-review-system.md",
-"status":"review",
-"title":"Rhode Island Charter School Performance Review System",
 "type":"product"
 },
 {
@@ -172251,6 +171964,7 @@
 "type":"product"
 },
 {
+"aliases":["title-i-supplemental-educational-services-ses"],
 "description":"A No Child Left Behind programme administered through states and approved public or private providers to offer free out-of-school tutoring and academic support to eligible students in low-performing schools.",
 "id":"supplemental-educational-services",
 "path":"products/supplemental-educational-services.md",
@@ -172504,14 +172218,6 @@
 "path":"products/teacher-moments.md",
 "status":"review",
 "title":"Teacher Moments",
-"type":"product"
-},
-{
-"description":"A professional-learning programme developed by EL Education that combines its Common Core State Standards-aligned language-arts curriculum with intensive professional development for teachers.",
-"id":"teacher-potential-project",
-"path":"products/teacher-potential-project.md",
-"status":"review",
-"title":"Teacher Potential Project",
 "type":"product"
 },
 {
@@ -173019,14 +172725,6 @@
 "type":"product"
 },
 {
-"description":"A federally mandated Title I programme administered through states and school districts in which approved public or private providers offer free tutoring and academic support outside the regular school day to eligible students.",
-"id":"title-i-supplemental-educational-services-ses",
-"path":"products/title-i-supplemental-educational-services-ses.md",
-"status":"review",
-"title":"Title I Supplemental Educational Services (SES)",
-"type":"product"
-},
-{
 "description":"A TNTP school-improvement programme that diagnoses school needs and develops and supports school leadership teams to strengthen leadership, instruction, school culture, and family engagement.",
 "id":"tntp-turnaround-leadership-teams-strategy-tlts",
 "path":"products/tntp-turnaround-leadership-teams-strategy-tlts.md",
@@ -173340,19 +173038,12 @@
 "type":"product"
 },
 {
+"aliases":["unesco-ai-competency-framework-for-students"],
 "description":"A UNESCO framework that organizes 12 AI competencies for school students into four dimensions: human-centred mindset, ethics of AI, AI techniques and applications, and AI system design.",
 "id":"unesco-ai-competency-framework-for-school-students",
 "path":"products/unesco-ai-competency-framework-for-school-students.md",
 "status":"review",
 "title":"UNESCO AI Competency Framework for School Students",
-"type":"product"
-},
-{
-"description":"A UNESCO curricular framework that organizes 12 AI competencies across four dimensions and three progression levels to guide educators in preparing school students for safe, meaningful, and responsible engagement with AI.",
-"id":"unesco-ai-competency-framework-for-students",
-"path":"products/unesco-ai-competency-framework-for-students.md",
-"status":"review",
-"title":"UNESCO AI Competency Framework for Students",
 "type":"product"
 },
 {
@@ -174452,14 +174143,7 @@
 "type":"research-method"
 },
 {
-"description":"The CP model is a multilevel growth model whose design matrix combines a within-year (fall-to-spring) matrix with a between-year (spring-to-spring) polynomial matrix, so that both kinds of growth are estimated in one model.",
-"id":"compound-polynomial-cp-growth-model",
-"path":"research-methods/compound-polynomial-cp-growth-model.md",
-"status":"review",
-"title":"Compound Polynomial (CP) growth model",
-"type":"research-method"
-},
-{
+"aliases":["compound-polynomial-cp-growth-model"],
 "description":"The CP model, developed by Thum and Hauser (2015), is a flexible functional form for describing growth trends with marked seasonal patterns.",
 "id":"compound-polynomial-growth-model",
 "path":"research-methods/compound-polynomial-growth-model.md",
@@ -181087,6 +180771,7 @@
 "type":"strategy"
 },
 {
+"aliases":["maker_spaces_and_fab_labs"],
 "description":"Maker spaces and fab labs provide learners with opportunities to invent, design, and build things.",
 "id":"blocks_and_legos-maker_spaces_and_fab_labs",
 "path":"strategies/blocks_and_legos-maker_spaces_and_fab_labs.md",
@@ -184478,19 +184163,12 @@
 "type":"strategy"
 },
 {
+"aliases":["comparing_cases"],
 "description":"Learners study two or more deliberately varied cases side by side and articulate the differences, making deep structural features visible before instruction.",
 "id":"comparing-contrasting-cases",
 "path":"strategies/comparing-contrasting-cases.md",
 "status":"review",
 "title":"Comparing Contrasting Cases",
-"type":"strategy"
-},
-{
-"description":"Learners study two or more contrasting cases side by side to abstract the deep structure that distinguishes them.",
-"id":"comparing_cases",
-"path":"strategies/comparing_cases.md",
-"status":"review",
-"title":"Comparing Cases",
 "type":"strategy"
 },
 {
@@ -187741,6 +187419,7 @@
 "type":"strategy"
 },
 {
+"aliases":["diagnostic-pre-assessment"],
 "description":"Assessment conducted before or at the start of instruction to identify learners' prior knowledge, misconceptions, and skill gaps so teaching can be targeted accordingly.",
 "id":"diagnostic-assessment",
 "path":"strategies/diagnostic-assessment.md",
@@ -187754,14 +187433,6 @@
 "path":"strategies/diagnostic-generated-modifiable-learning-paths.md",
 "status":"review",
 "title":"Use web-based diagnostic assessment results to generate individualized learning paths that teachers can modify",
-"type":"strategy"
-},
-{
-"description":"Assessing learners' prior knowledge, skills, and misconceptions before instruction to tailor teaching to actual starting points.",
-"id":"diagnostic-pre-assessment",
-"path":"strategies/diagnostic-pre-assessment.md",
-"status":"review",
-"title":"Diagnostic Pre Assessment",
 "type":"strategy"
 },
 {
@@ -191527,20 +191198,12 @@
 "type":"strategy"
 },
 {
-"aliases":["exact-path-implementation-existing-staff-pd","exact-path-implementation-strategy"],
+"aliases":["exact-path-implementation-existing-staff-pd","exact-path-implementation-strategy","exact-path-existing-staff-vendor-pd-implementation"],
 "description":"The program is designed for implementation without new hires or additional technology: districts use their current teachers and leaders with guidance from Edmentum's Customer Success Managers, and the Professional Ser...",
 "id":"exact-path-existing-staff-implementation-strategy",
 "path":"strategies/exact-path-existing-staff-implementation-strategy.md",
 "status":"review",
 "title":"Implement Exact Path with existing district staff supported by vendor professional development and standard technology",
-"type":"strategy"
-},
-{
-"description":"The program is designed for implementation without additional hiring: districts use their current teachers and leaders, supported by Edmentum's Customer Success Managers, and the Professional Services Team offers \\\"ded...",
-"id":"exact-path-existing-staff-vendor-pd-implementation",
-"path":"strategies/exact-path-existing-staff-vendor-pd-implementation.md",
-"status":"review",
-"title":"Implement Exact Path with existing district staff plus vendor-provided professional development",
 "type":"strategy"
 },
 {
@@ -195734,6 +195397,7 @@
 "type":"strategy"
 },
 {
+"aliases":["thinking_tools_with_graphic_organizers"],
 "description":"Students interact with content by organizing chunks of it into graphic organizers in groups, pairs, or individually, then comparing their results.",
 "id":"graphic_organizers_as_thinking_tools",
 "path":"strategies/graphic_organizers_as_thinking_tools.md",
@@ -197527,20 +197191,12 @@
 "type":"strategy"
 },
 {
+"aliases":["indoor_air_quality_improvement","improve_indoor_air_quality"],
 "description":"Poor indoor air quality is a major contributor to absenteeism.",
 "id":"improve_classroom_air_quality",
 "path":"strategies/improve_classroom_air_quality.md",
 "status":"review",
 "title":"Improve Classroom Air Quality",
-"type":"strategy"
-},
-{
-"aliases":["indoor_air_quality_improvement"],
-"description":"Improving ventilation and reducing indoor pollutants in learning spaces to protect health, reduce absenteeism, and support cognitive performance.",
-"id":"improve_indoor_air_quality",
-"path":"strategies/improve_indoor_air_quality.md",
-"status":"review",
-"title":"Improve Indoor Air Quality",
 "type":"strategy"
 },
 {
@@ -198995,6 +198651,7 @@
 "type":"strategy"
 },
 {
+"aliases":["learning_interest_inventories"],
 "description":"Interest inventories are surveys used to assess students' areas of interest.",
 "id":"interest_inventories",
 "path":"strategies/interest_inventories.md",
@@ -200545,14 +200202,6 @@
 "type":"strategy"
 },
 {
-"description":"Learning interest inventories are structured surveys or interviews that surface learners' interests, preferences, and motivations so instruction can be personalized around them.",
-"id":"learning_interest_inventories",
-"path":"strategies/learning_interest_inventories.md",
-"status":"review",
-"title":"Learning Interest Inventories",
-"type":"strategy"
-},
-{
 "description":"A hands-on exploratory event where learners sample a variety of learning strategies and tools, discovering which fit their needs before committing to them.",
 "id":"learning_strategy_&_tool_fair",
 "path":"strategies/learning_strategy_&_tool_fair.md",
@@ -201513,14 +201162,6 @@
 "type":"strategy"
 },
 {
-"description":"Establish physical spaces where learners can invent, design, and build things using a variety of materials and tools, from wood scraps to technology.",
-"id":"maker_spaces_and_fab_labs",
-"path":"strategies/maker_spaces_and_fab_labs.md",
-"status":"review",
-"title":"Maker Spaces and Fab Labs",
-"type":"strategy"
-},
-{
 "description":"A shared physical environment with tools and materials where learners design, build, and iterate on tangible projects through hands-on construction.",
 "id":"makerspaces",
 "path":"strategies/makerspaces.md",
@@ -201827,19 +201468,12 @@
 "type":"strategy"
 },
 {
+"aliases":["matched-comparison-plus-qualitative-mechanisms-charter-evaluation"],
 "description":"The paper's evaluation approach pairs a quantitative impact estimate with qualitative description of school operations.",
 "id":"matched-comparison-group-design-with-qualitative-mechanism-exploration",
 "path":"strategies/matched-comparison-group-design-with-qualitative-mechanism-exploration.md",
 "status":"review",
 "title":"Use a matched comparison group design with qualitative mechanism exploration to evaluate charter school impacts",
-"type":"strategy"
-},
-{
-"description":"The article's evaluation approach combines a quantitative impact estimate with qualitative mechanism exploration: \\\"a matched comparison group design to estimate the impacts of the Kauffman School on student achievemen...",
-"id":"matched-comparison-plus-qualitative-mechanisms-charter-evaluation",
-"path":"strategies/matched-comparison-plus-qualitative-mechanisms-charter-evaluation.md",
-"status":"review",
-"title":"Use a matched comparison group design plus qualitative mechanism exploration to evaluate a new charter school's educational and behavioral impacts",
 "type":"strategy"
 },
 {
@@ -201900,6 +201534,7 @@
 "type":"strategy"
 },
 {
+"aliases":["number_talks","number-talks"],
 "description":"Short, daily classroom routines in which students solve a mathematics problem mentally, then share and compare solution strategies through facilitated whole-class discussion.",
 "id":"math-talks-number-talks",
 "path":"strategies/math-talks-number-talks.md",
@@ -204684,15 +204319,6 @@
 "path":"strategies/nsi-implementation-support-strategies.md",
 "status":"review",
 "title":"Support deep CI implementation through capacity inventories, gradual-release coaching, structured collaboration opportunities, and student voice",
-"type":"strategy"
-},
-{
-"aliases":["number_talks"],
-"description":"A short, routine classroom discourse activity in which students mentally solve a computation problem and discuss their strategies, making arithmetic reasoning visible and comparable.",
-"id":"number-talks",
-"path":"strategies/number-talks.md",
-"status":"review",
-"title":"Number Talks",
 "type":"strategy"
 },
 {
@@ -215306,6 +214932,7 @@
 "type":"strategy"
 },
 {
+"aliases":["spaced_repetition"],
 "description":"Scheduling review of material at increasing intervals over time rather than massing it into a single session, so each review occurs just as forgetting begins.",
 "id":"spaced-repetition-scheduling",
 "path":"strategies/spaced-repetition-scheduling.md",
@@ -215336,14 +214963,6 @@
 "path":"strategies/spaced_learning_through_activity_breaks.md",
 "status":"review",
 "title":"Spaced Learning Through Activity Breaks",
-"type":"strategy"
-},
-{
-"description":"Distributing review of material across multiple sessions separated by increasing time intervals, rather than massing it into one session.",
-"id":"spaced_repetition",
-"path":"strategies/spaced_repetition.md",
-"status":"review",
-"title":"Spaced Repetition",
 "type":"strategy"
 },
 {
@@ -219927,14 +219546,6 @@
 "type":"strategy"
 },
 {
-"description":"When teachers deliver content through lectures, readings, or video, students interact with that content by completing a graphic organizer in groups, pairs, or individually.",
-"id":"thinking_tools_with_graphic_organizers",
-"path":"strategies/thinking_tools_with_graphic_organizers.md",
-"status":"review",
-"title":"Thinking Tools with Graphic Organizers",
-"type":"strategy"
-},
-{
 "description":"The To&Through Project redefined college persistence to count students who immediately enrolled and were \\\"enrolled in college in the fall term of the second year after their graduation\\\".",
 "id":"third-semester-point-in-time-persistence-definition",
 "path":"strategies/third-semester-point-in-time-persistence-definition.md",
@@ -223741,14 +223352,6 @@
 "type":"theory"
 },
 {
-"description":"The guide organizes the adult learning market around two customer segments.",
-"id":"adult-learning-edtech-two-customer-segments",
-"path":"theories/adult-learning-edtech-two-customer-segments.md",
-"status":"review",
-"title":"Two-segment customer taxonomy for the adult learning ed-tech market",
-"type":"theory"
-},
-{
 "description":"The digest presents a neurolinguistic account, citing Walsh and Diller (1978), that replaces the 1960s critical-period hypothesis.",
 "id":"adult-superior-language-learning-capabilities",
 "path":"theories/adult-superior-language-learning-capabilities.md",
@@ -224322,14 +223925,6 @@
 "type":"theory"
 },
 {
-"description":"The packet presents Cummins' theoretical model of bilingualism, in which language proficiency has two dimensions: basic interpersonal communicative skills (BICS) and cognitive/academic language proficiency (CALP).",
-"id":"bics-calph-two-dimensions-proficiency-framework",
-"path":"theories/bics-calph-two-dimensions-proficiency-framework.md",
-"status":"review",
-"title":"Cummins' BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency, developmental along two continuums",
-"type":"theory"
-},
-{
 "description":"The Biglan classification characterizes academic disciplines along three dimensions: pure/applied (degree of concern with application of disciplinary knowledge), hard/soft (degree of paradigm consensus), and life/nonl...",
 "id":"biglan-classification-three-dimensions",
 "path":"theories/biglan-classification-three-dimensions.md",
@@ -224425,14 +224020,6 @@
 "path":"theories/bkt-mastery-updating-model.md",
 "status":"review",
 "title":"Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment",
-"type":"theory"
-},
-{
-"description":"Bayesian Knowledge Tracing (BKT) is a student model used to infer a student's knowledge from their history of responses to skill-tagged problems and to predict future performance.",
-"id":"bkt-two-state-hmm-student-model",
-"path":"theories/bkt-two-state-hmm-student-model.md",
-"status":"review",
-"title":"Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories",
 "type":"theory"
 },
 {
@@ -224563,14 +224150,6 @@
 "path":"theories/canale-swain-four-dimensions-lexical-framework.md",
 "status":"review",
 "title":"Canale and Swain's four dimensions of communicative competence as a lexical exercise framework",
-"type":"theory"
-},
-{
-"description":"The packet presents Canale & Swain's (1980) framework as an integrative theory in which communicative competence is a synthesis of grammatical knowledge, knowledge of how language performs communicative functions in s...",
-"id":"canale-swain-integrative-communicative-competence-framework",
-"path":"theories/canale-swain-integrative-communicative-competence-framework.md",
-"status":"review",
-"title":"Canale and Swain's integrative framework of communicative competence synthesizes grammatical, sociolinguistic, and discourse knowledge",
 "type":"theory"
 },
 {
@@ -224974,14 +224553,6 @@
 "path":"theories/coaching-as-partnership-approach.md",
 "status":"review",
 "title":"Coaching as a partnership among principals, coaches, and teachers",
-"type":"theory"
-},
-{
-"description":"The article defines co-design as \\\"a process in which different stakeholders come together to find a solution to a shared problem through inclusive research and development,\\\" bringing together school communities, edtec...",
-"id":"codesign-core-tenets-framework",
-"path":"theories/codesign-core-tenets-framework.md",
-"status":"review",
-"title":"Co-design framework with core tenets of power sharing, relationships, and capability building",
 "type":"theory"
 },
 {
@@ -227619,24 +227190,6 @@
 "type":"theory"
 },
 {
-"canonical":true,
-"description":"The UChicago Consortium's framework identifies five organizational domains that jointly matter for improving student outcomes in public elementary schools: \\\"school leadership, professional capacity, parent-community t...",
-"id":"five-essential-supports-school-improvement-framework",
-"path":"theories/five-essential-supports-school-improvement-framework.md",
-"status":"review",
-"title":"Five essential supports framework for school improvement",
-"type":"theory"
-},
-{
-"canonical":true,
-"description":"The report builds its measurement system on the five essentials framework developed by Tony Bryk and colleagues, which the report describes as identifying \\\"five organizational features of schools that interact with li...",
-"id":"five-essentials-framework-early-education-adaptation",
-"path":"theories/five-essentials-framework-early-education-adaptation.md",
-"status":"review",
-"title":"Five essentials framework of organizational supports for school improvement",
-"type":"theory"
-},
-{
 "description":"The five-factor mentoring model is an empirically derived framework for describing effective mentoring practices, organised into five factors: \\\"personal attributes, system requirements, pedagogical knowledge, modellin...",
 "id":"five-factor-mentoring-model-hudson",
 "path":"theories/five-factor-mentoring-model-hudson.md",
@@ -228951,14 +228504,6 @@
 "path":"theories/industrial-technology-content-base-industrial-arts.md",
 "status":"review",
 "title":"Industrial technology as the content base for industrial arts",
-"type":"theory"
-},
-{
-"description":"The report adopts a systems-theory viewpoint in which the infant is a \\\"controlled system\\\" in constant interaction with the environment, where mutual adaptation between child and environment establishes conditions for...",
-"id":"infant-controlled-system-adaptive-fit",
-"path":"theories/infant-controlled-system-adaptive-fit.md",
-"status":"review",
-"title":"Control systems view of the infant as a competent, adaptive system",
 "type":"theory"
 },
 {
@@ -230487,14 +230032,6 @@
 "path":"theories/minai-order-disorder-aesthetic-framework.md",
 "status":"review",
 "title":"Minai's order-disorder framework for aesthetic environmental design",
-"type":"theory"
-},
-{
-"description":"The article presents Mitchell's (2008) critical service-learning model as a democratized, social-justice approach to service learning that adds three components to the traditional model.",
-"id":"mitchell-csl-three-component-framework",
-"path":"theories/mitchell-csl-three-component-framework.md",
-"status":"review",
-"title":"Mitchell's critical service-learning framework: redistribution of power, social change, and authentic relationships",
 "type":"theory"
 },
 {
@@ -234015,22 +233552,6 @@
 "type":"theory"
 },
 {
-"description":"TPACK describes teacher knowledge for teaching with technology as the intersection of technological, pedagogical, and content knowledge within contexts.",
-"id":"tpack-framework-intersecting-domains-niess-roschelle",
-"path":"theories/tpack-framework-intersecting-domains-niess-roschelle.md",
-"status":"review",
-"title":"TPACK: technological pedagogical content knowledge as intersecting knowledge domains",
-"type":"theory"
-},
-{
-"description":"TPACK is presented as \\\"an influential foundation theory for teaching with technology integration research\\\", evolved from Shulman's PCK model by Mishra and Koehler (2006).",
-"id":"tpack-framework-seven-elements",
-"path":"theories/tpack-framework-seven-elements.md",
-"status":"review",
-"title":"TPACK framework as a foundation for teacher technology-integration knowledge",
-"type":"theory"
-},
-{
 "description":"The TPACK Framework (Mishra & Koehler, 2006) adds a technology filter to Shulman's pedagogical content knowledge theory.",
 "id":"tpack-framework-teacher-technology-integration",
 "path":"theories/tpack-framework-teacher-technology-integration.md",
@@ -236609,7 +236130,7 @@
 "building-blocks-clements-2008-large-effect":"building-blocks-clements-2008-large-effect",
 "building-blocks-clements-2011-scale-up-effect":"building-blocks-clements-2011-scale-up-effect",
 "building-blocks-evidence-base-small-math-only":"building-blocks-evidence-base-small-math-only",
-"building-blocks-hofer-2013-scale-up-effect":"building-blocks-hofer-2013-scale-up-effect",
+"building-blocks-hofer-2013-scale-up-effect":"building-blocks-clements-2011-scale-up-effect",
 "building-blocks-outperformed-pre-k-mathematics-head-to-head":"building-blocks-outperformed-pre-k-mathematics-head-to-head",
 "building-blocks-potentially-positive-preschool-math-effect":"building-blocks-potentially-positive-preschool-math-effect",
 "building-blocks-prek-positive-effects-math":"building-blocks-prek-positive-effects-math",
@@ -237386,7 +236907,7 @@
 "clustered-rct-estimators-identical-significance-findings":"clustered-rct-estimators-identical-significance-findings",
 "clustering-cluster-differentiated-feedback-ttx":"clustering-cluster-differentiated-feedback-ttx",
 "clustering-effects-large-school-samples-education-trials":"clustering-effects-large-school-samples-education-trials",
-"clustering-effects-typically-large-education-designs":"clustering-effects-typically-large-education-designs",
+"clustering-effects-typically-large-education-designs":"clustering-effects-large-school-samples-education-trials",
 "clustering-recovers-expert-bundles":"clustering-recovers-expert-bundles",
 "clustering-report-writers-lower-exam-scores":"clustering-report-writers-lower-exam-scores",
 "clustering-ttx-team-assessment-aligns-instructor-scores":"clustering-ttx-team-assessment-aligns-instructor-scores",
@@ -238770,7 +238291,7 @@
 "digital-divide-home-not-magnified-by-schools":"digital-divide-home-not-magnified-by-schools",
 "digital-divide-narrowed-schools-partially-compensating":"digital-divide-narrowed-schools-partially-compensating",
 "digital-education-innovation-four-dimension-interplay":"digital-education-innovation-four-dimension-interplay",
-"digital-games-beat-nongame-conditions-meta":"digital-games-beat-nongame-conditions-meta",
+"digital-games-beat-nongame-conditions-meta":"digital-games-outperform-nongame-media-comparisons",
 "digital-games-outperform-nongame-media-comparisons":"digital-games-outperform-nongame-media-comparisons",
 "digital-images-inquiry-student-feedback-ratings":"digital-images-inquiry-student-feedback-ratings",
 "digital-intensity-attenuates-ef-reappraisal-link":"digital-intensity-attenuates-ef-reappraisal-link",
@@ -240313,7 +239834,7 @@
 "few-sig-schools-staffing-strategies-ell-teacher-capacity":"few-sig-schools-staffing-strategies-ell-teacher-capacity",
 "few-splits-identify-high-risk-students":"few-splits-identify-high-risk-students",
 "few-student-subgroup-impact-differences-significant":"few-student-subgroup-impact-differences-significant",
-"few-tif-districts-aligned-bonuses-with-grant-guidance":"few-tif-districts-aligned-bonuses-with-grant-guidance",
+"few-tif-districts-aligned-bonuses-with-grant-guidance":"few-districts-aligned-bonuses-with-tif-guidance",
 "fewer-behavioral-than-academic-indicator-differences":"fewer-behavioral-than-academic-indicator-differences",
 "fewer-objects-easier-change-detection":"fewer-objects-easier-change-detection",
 "fewer-one-fifth-ap-teachers-apsi-every-three-years":"fewer-one-fifth-ap-teachers-apsi-every-three-years",
@@ -242786,7 +242307,7 @@
 "l2-extensive-reading-beats-decontextualized-vocabulary-exercises":"l2-extensive-reading-beats-decontextualized-vocabulary-exercises",
 "l2-fluency-gains-persist-weeks-without-practice":"l2-fluency-gains-persist-weeks-without-practice",
 "l2-learning-experience-beats-ideal-l2-self":"l2-learning-experience-beats-ideal-l2-self",
-"l2-morphosyntax-learning-highly-skill-specific":"l2-morphosyntax-learning-highly-skill-specific",
+"l2-morphosyntax-learning-highly-skill-specific":"skill-specificity-l2-grammar-practice",
 "l2-motivation-predicts-self-efficacy":"l2-motivation-predicts-self-efficacy",
 "l2-overuse-tendency-limited-dc-range":"l2-overuse-tendency-limited-dc-range",
 "l2-proficiency-predicts-incidental-vocabulary-acquisition":"l2-proficiency-predicts-incidental-vocabulary-acquisition",
@@ -243474,7 +242995,7 @@
 "long-term-els-ieps-ontrack-then-fall-behind":"long-term-els-ieps-ontrack-then-fall-behind",
 "long-term-els-no-iep-lowest-ontrack-graduation":"long-term-els-no-iep-lowest-ontrack-graduation",
 "long-term-memory-schemas-automation":"long-term-memory-schemas-automation",
-"long-term-memory-schemas-varying-automation":"long-term-memory-schemas-varying-automation",
+"long-term-memory-schemas-varying-automation":"long-term-memory-schemas-automation",
 "long-term-outcomes-few-benefits":"long-term-outcomes-few-benefits",
 "long-term-study-rasch-scale-stability-almost-40-years":"long-term-study-rasch-scale-stability-almost-40-years",
 "longer-games-sharpen-wd-learner-differentiation":"longer-games-sharpen-wd-learner-differentiation",
@@ -243958,7 +243479,7 @@
 "metacognitive-illusion-blocking-interleaving":"metacognitive-illusion-blocking-interleaving",
 "metacognitive-illusion-pretesting-underrated":"metacognitive-illusion-pretesting-underrated",
 "metacognitive-prompts-improve-learning":"metacognitive-prompts-improve-learning",
-"metacognitive-prompts-larger-writing-effects":"metacognitive-prompts-larger-writing-effects",
+"metacognitive-prompts-larger-writing-effects":"reflective-practice-improves-outcomes-when-structured",
 "metacognitive-strategies-improve-learning":"metacognitive-strategies-improve-learning",
 "metacognitive-strategy-use-reading-achievement-correlation":"metacognitive-strategy-use-reading-achievement-correlation",
 "metal-detector-costs-equipment-personnel-time":"metal-detector-costs-equipment-personnel-time",
@@ -247523,7 +247044,7 @@
 "scenario-type-no-effect-device-count":"scenario-type-no-effect-device-count",
 "scheduling-strategy-no-effect-resolved-requests-wait-time":"scheduling-strategy-no-effect-resolved-requests-wait-time",
 "schema-perspective-improves-text-recall":"schema-perspective-improves-text-recall",
-"schematic-realism-larger-game-effects":"schematic-realism-larger-game-effects",
+"schematic-realism-larger-game-effects":"schematic-visuals-outperform-realistic",
 "schematic-visuals-outperform-realistic":"schematic-visuals-outperform-realistic",
 "school-absence-variation-net-of-students-neighborhoods":"school-absence-variation-net-of-students-neighborhoods",
 "school-accountability-multiple-constituencies":"school-accountability-multiple-constituencies",
@@ -247743,7 +247264,7 @@
 "segmentation-benefit-larger-for-adhd-group":"segmentation-benefit-larger-for-adhd-group",
 "segmentation-benefits-shrink-with-expertise":"segmentation-benefits-shrink-with-expertise",
 "segmentation-boundaries-differentially-affect-statistics":"segmentation-boundaries-differentially-affect-statistics",
-"segmentation-expertise-reversal-dynamic-visualizations":"segmentation-expertise-reversal-dynamic-visualizations",
+"segmentation-expertise-reversal-dynamic-visualizations":"segmentation-benefits-shrink-with-expertise",
 "segmentation-improves-learning-dynamic-visualizations":"segmentation-improves-learning-dynamic-visualizations",
 "segmentation-moderates-verbal-redundancy":"segmentation-moderates-verbal-redundancy",
 "segmentation-only-consistently-confirmed-outcome":"segmentation-only-consistently-confirmed-outcome",
@@ -248705,7 +248226,7 @@
 "story-mine-negative-exploratory-effects":"story-mine-negative-exploratory-effects",
 "story-mine-qualitative-mixed-experiences":"story-mine-qualitative-mixed-experiences",
 "story-mine-sensitivity-crisis-exclusion":"story-mine-sensitivity-crisis-exclusion",
-"story-relevance-negative-moderator":"story-relevance-negative-moderator",
+"story-relevance-negative-moderator":"irrelevant-story-larger-effects-than-relevant",
 "storying-privileges-some-storylines-silences-others":"storying-privileges-some-storylines-silences-others",
 "stp-low-reliability-complex-construct":"stp-low-reliability-complex-construct",
 "strategic-dance-socratic-transactional-switching":"strategic-dance-socratic-transactional-switching",
@@ -250469,7 +249990,7 @@
 "vague-vs-numeric-frequency-measurement-models-differ":"vague-vs-numeric-frequency-measurement-models-differ",
 "valid-test-cases-not-fewer-submissions":"valid-test-cases-not-fewer-submissions",
 "validator-reliability-highest-realism-lowest-authenticity":"validator-reliability-highest-realism-lowest-authenticity",
-"value-added-augmented-designs-benefit":"value-added-augmented-designs-benefit",
+"value-added-augmented-designs-benefit":"value-added-augmented-designs-benefit-learning",
 "value-added-augmented-designs-benefit-learning":"value-added-augmented-designs-benefit-learning",
 "value-added-error-rates-teacher-and-school-upper-elementary":"value-added-error-rates-teacher-and-school-upper-elementary",
 "value-added-estimates-noisy-typical-data":"value-added-estimates-noisy-typical-data",
@@ -251882,7 +251403,7 @@
 "concept-diagram-vocabulary-instruction":"concept-diagram-vocabulary-instruction",
 "concept-map":"concept-map",
 "concept-mapping":"concept-mapping",
-"concept-semantic-map-element":"concept-semantic-map-element",
+"concept-semantic-map-element":"concept-map",
 "conceptest":"conceptest",
 "conceptual-cultural-lenses":"conceptual-cultural-lenses",
 "conceptual-overviews":"conceptual-overviews",
@@ -251929,7 +251450,7 @@
 "creativity-meta-analysis-corpus-20-studies":"creativity-meta-analysis-corpus-20-studies",
 "credo-city-studies-growth-benchmarking-approach":"credo-city-studies-growth-benchmarking-approach",
 "credo-days-of-learning-measure":"credo-days-of-learning-measure",
-"credo-days-of-learning-metric":"credo-days-of-learning-metric",
+"credo-days-of-learning-metric":"credo-days-of-learning-measure",
 "credo-days-of-learning-translation":"credo-days-of-learning-translation",
 "criteria-development":"criteria-development",
 "cross-district-middle-school-math-curricula-study":"cross-district-middle-school-math-curricula-study",
@@ -252053,13 +251574,13 @@
 "evaluation-of-mathematics-curricula-project":"evaluation-of-mathematics-curricula-project",
 "evaluation-of-reading-comprehension-interventions-design":"evaluation-of-reading-comprehension-interventions-design",
 "evaluation-sample-worked-student-work-model":"evaluation-sample-worked-student-work-model",
-"evidence-based-guide-school-choice-info-parents":"evidence-based-guide-school-choice-info-parents",
+"evidence-based-guide-school-choice-info-parents":"school-choice-info-presentation-guide",
 "evidence-based-public-informing-agenda":"evidence-based-public-informing-agenda",
 "evidence-based-reasoning":"evidence-based-reasoning",
 "evidence-synthesis-education-scoping-review-protocol":"evidence-synthesis-education-scoping-review-protocol",
 "ewing-marion-kauffman-charter-school":"ewing-marion-kauffman-charter-school",
 "ewing-marion-kauffman-charter-school-element":"ewing-marion-kauffman-charter-school-element",
-"ewing-marion-kauffman-school-element":"ewing-marion-kauffman-school-element",
+"ewing-marion-kauffman-school-element":"ewing-marion-kauffman-charter-school",
 "example-problem-pairs":"example-problem-pairs",
 "exemplars":"exemplars",
 "exercise-breaks":"exercise-breaks",
@@ -252103,9 +251624,9 @@
 "four-course-online-tpack-program-element":"four-course-online-tpack-program-element",
 "four-day-school-week-schedule":"four-day-school-week-schedule",
 "four-early-elementary-math-curricula-evaluated":"four-early-elementary-math-curricula-evaluated",
-"four-early-elementary-math-curricula-evaluation-set":"four-early-elementary-math-curricula-evaluation-set",
+"four-early-elementary-math-curricula-evaluation-set":"four-early-elementary-math-curricula-evaluated",
 "four-elementary-math-curricula-compared":"four-elementary-math-curricula-compared",
-"four-elementary-math-curricula-evaluation-set":"four-elementary-math-curricula-evaluation-set",
+"four-elementary-math-curricula-evaluation-set":"four-elementary-math-curricula-compared",
 "four-layer-oral-diagnosis-system-architecture":"four-layer-oral-diagnosis-system-architecture",
 "four-level-rubric-math-communication":"four-level-rubric-math-communication",
 "four-levels-feedback-hattie-timperley":"four-levels-feedback-hattie-timperley",
@@ -252114,7 +251635,7 @@
 "four-supplemental-reading-comprehension-curricula":"four-supplemental-reading-comprehension-curricula",
 "four-supplemental-reading-comprehension-curricula-evaluated":"four-supplemental-reading-comprehension-curricula-evaluated",
 "four-supplemental-reading-comprehension-curricula-rct":"four-supplemental-reading-comprehension-curricula-rct",
-"four-test-score-principal-performance-measures":"four-test-score-principal-performance-measures",
+"four-test-score-principal-performance-measures":"four-principal-test-score-performance-measures",
 "four-years-longitudinal-sel-survey-scores-irt-scoring":"four-years-longitudinal-sel-survey-scores-irt-scoring",
 "frazer-eight-guiding-moves":"frazer-eight-guiding-moves",
 "frl-quintile-school-grouping":"frl-quintile-school-grouping",
@@ -252205,7 +251726,7 @@
 "inquiry-and-research":"inquiry-and-research",
 "inquiry-based-exploration":"inquiry-based-exploration",
 "inquiry-based-learning":"inquiry-based-learning",
-"inquiry-learning":"inquiry-learning",
+"inquiry-learning":"inquiry-based-learning",
 "instructional-core-conditions-strategies-tools":"instructional-core-conditions-strategies-tools",
 "instructional-guidance-teacher-measures-language-arts-math":"instructional-guidance-teacher-measures-language-arts-math",
 "instructional-materials-motivation-survey-imms":"instructional-materials-motivation-survey-imms",
@@ -252446,7 +251967,7 @@
 "peer-discussion":"peer-discussion",
 "peer-explanation":"peer-explanation",
 "peer-feedback":"peer-feedback",
-"peer-feedbackpeer-review":"peer-feedbackpeer-review",
+"peer-feedbackpeer-review":"peer-review",
 "peer-instruction":"peer-instruction",
 "peer-interaction":"peer-interaction",
 "peer-review":"peer-review",
@@ -252471,7 +251992,7 @@
 "philadelphia-accelerated-schools-program":"philadelphia-accelerated-schools-program",
 "philippine-adult-education-eight-type-taxonomy":"philippine-adult-education-eight-type-taxonomy",
 "phonological-awareness-training-practice":"phonological-awareness-training-practice",
-"phonological-awareness-training-practices-element":"phonological-awareness-training-practices-element",
+"phonological-awareness-training-practices-element":"phonological-awareness-training-practice",
 "physical-education":"physical-education",
 "physics-of-life-sciences-textbook-mckay":"physics-of-life-sciences-textbook-mckay",
 "pigelleto-summer-school-physics":"pigelleto-summer-school-physics",
@@ -252513,7 +252034,7 @@
 "problem-scenario":"problem-scenario",
 "problem-scenarios":"problem-scenario",
 "problem-solving":"problem-solving",
-"problem-solving-tasks":"problem-solving-tasks",
+"problem-solving-tasks":"problem-solving",
 "procedural-information":"procedural-information",
 "procedural-learning":"procedural-learning",
 "proctor-notification-feature-element":"proctor-notification-feature-element",
@@ -252679,7 +252200,7 @@
 "structured-teacher-home-visits-family-engagement":"structured-teacher-home-visits-family-engagement",
 "student-centered-learning-environments-land-hannafin":"student-centered-learning-environments-land-hannafin",
 "student-data-instructional-coaching-support":"student-data-instructional-coaching-support",
-"student-data-use-coaching-support-schools":"student-data-use-coaching-support-schools",
+"student-data-use-coaching-support-schools":"data-driven-instruction-support-intervention",
 "student-facing-dashboard-online-distance-education":"student-facing-dashboard-online-distance-education",
 "student-learning-climate-survey-measures":"student-learning-climate-survey-measures",
 "student-learning-objectives-teacher-evaluation-measure":"student-learning-objectives-teacher-evaluation-measure",
@@ -252720,13 +252241,13 @@
 "tecnologias-ler-expedientes-aprendizaje-empleo":"tecnologias-ler-expedientes-aprendizaje-empleo",
 "ten-education-rcts-cace-comparison-dataset":"ten-education-rcts-cace-comparison-dataset",
 "ten-rct-cace-variance-comparison":"ten-rct-cace-variance-comparison",
-"tep-charter-school-high-teacher-salaries":"tep-charter-school-high-teacher-salaries",
+"tep-charter-school-high-teacher-salaries":"tep-teacher-compensation-model",
 "tep-teacher-compensation-model":"tep-teacher-compensation-model",
 "test-blueprints-content-constraints":"test-blueprints-content-constraints",
 "text-underlining-and-annotating":"text-underlining-and-annotating",
 "tf-idf-term-weighting-scheme":"tf-idf-term-weighting-scheme",
 "tfa-i3-implementation-study-two-components":"tfa-i3-implementation-study-two-components",
-"thematic-bilingual-audio-dictionary":"thematic-bilingual-audio-dictionary",
+"thematic-bilingual-audio-dictionary":"thematic-bilingual-audio-dictionary-telegram",
 "thematic-bilingual-audio-dictionary-telegram":"thematic-bilingual-audio-dictionary-telegram",
 "therapist-complementarity-index-interaction-matrix":"therapist-complementarity-index-interaction-matrix",
 "think-aloud":"think-aloud",
@@ -253479,7 +253000,7 @@
 "95-phonics-lesson-library-pll":"95-phonics-lesson-library-pll",
 "95-phonics-screener-for-intervention":"95-phonics-screener-for-intervention",
 "a-guide-for-states-on-evaluating-arra-funded-programs-and-other-educational-reforms":"a-guide-for-states-on-evaluating-arra-funded-programs-and-other-educational-reforms",
-"a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4":"a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4",
+"a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4":"a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical",
 "a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical":"a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical",
 "a-wearable-exam-stress-dataset-for-predicting-cognitive-performance-in-real-world-settings":"a-wearable-exam-stress-dataset-for-predicting-cognitive-performance-in-real-world-settings",
 "a2i":"a2i",
@@ -253536,7 +253057,7 @@
 "algorag":"algorag",
 "alharbi-et-al-2026-scenario-rubric-artefact-rubric-and-engagement-index":"alharbi-et-al-2026-scenario-rubric-artefact-rubric-and-engagement-index",
 "alignment-and-coherence-framework-with-six-interrelated-domains-for-system-improvement":"alignment-and-coherence-framework-with-six-interrelated-domains-for-system-improvement",
-"alliance-for-resource-equity-are-diagnostic-toolkit":"alliance-for-resource-equity-are-diagnostic-toolkit",
+"alliance-for-resource-equity-are-diagnostic-toolkit":"alliance-for-resource-equity-are-diagnostic-toolkit-organized-around-ten-dimensions-of-equ",
 "alliance-for-resource-equity-are-diagnostic-toolkit-organized-around-ten-dimensions-of-equ":"alliance-for-resource-equity-are-diagnostic-toolkit-organized-around-ten-dimensions-of-equ",
 "alternative-uses-test-response-dataset-of-over-20000-responses-from-more-than-2000-partici":"alternative-uses-test-response-dataset-of-over-20000-responses-from-more-than-2000-partici",
 "alumni-survey-roadmap":"alumni-survey-roadmap",
@@ -253615,7 +253136,7 @@
 "briya-family-literacy-program":"briya-family-literacy-program",
 "buffalo-promise-neighborhood":"buffalo-promise-neighborhood",
 "building-assets-reducing-risks-barr":"building-assets-reducing-risks-barr",
-"building-blocks":"building-blocks",
+"building-blocks":"building-blocks-for-math",
 "building-blocks-for-math":"building-blocks-for-math",
 "building-decision-skills":"building-decision-skills",
 "building-pathways-for-student-success-bpss":"building-pathways-for-student-success-bpss",
@@ -253664,7 +253185,7 @@
 "check-connect":"check-connect",
 "chicago-annenberg-challenge":"chicago-annenberg-challenge",
 "chicago-high-school-redesign-initiative":"chicago-high-school-redesign-initiative",
-"chicago-high-school-redesign-initiative-chsri":"chicago-high-school-redesign-initiative-chsri",
+"chicago-high-school-redesign-initiative-chsri":"chicago-high-school-redesign-initiative",
 "chicago-public-education-fund":"chicago-public-education-fund",
 "chicago-public-schools-elementary-on-track-indicator":"chicago-public-schools-elementary-on-track-indicator",
 "chicago-public-schools-elementary-teacher-stability-dataset-2003-2006":"chicago-public-schools-elementary-teacher-stability-dataset-2003-2006",
@@ -253867,7 +253388,7 @@
 "ecoach":"ecoach",
 "ecree-automated-writing-feedback-tool":"ecree-automated-writing-feedback-tool",
 "ed-ai-lit-framework":"ed-ai-lit-framework",
-"ed-trust-teacher-diversity-50-state-scan":"ed-trust-teacher-diversity-50-state-scan",
+"ed-trust-teacher-diversity-50-state-scan":"ed-trust-teacher-diversity-50-state-scan-data-tool",
 "ed-trust-teacher-diversity-50-state-scan-data-tool":"ed-trust-teacher-diversity-50-state-scan-data-tool",
 "edcamp":"edcamp",
 "edit-measure":"edit-measure",
@@ -253937,7 +253458,7 @@
 "erwc-30-curriculum":"erwc-30-curriculum",
 "essential-0-5-survey":"essential-0-5-survey",
 "essentials-for-community-school-transformation-framework":"essentials-for-community-school-transformation-framework",
-"essentials-for-community-schools-transformation-framework":"essentials-for-community-schools-transformation-framework",
+"essentials-for-community-schools-transformation-framework":"essentials-for-community-school-transformation-framework",
 "estonian-reflective-writing-ai-feedback-corpus-of-2988-homework-triplets-from-283-students":"estonian-reflective-writing-ai-feedback-corpus-of-2988-homework-triplets-from-283-students",
 "esylvan":"esylvan",
 "ethical-ai-and-workforce-readiness-eawr-micro-credential-framework":"ethical-ai-and-workforce-readiness-eawr-micro-credential-framework",
@@ -253947,14 +253468,14 @@
 "everyday-intervention":"everyday-intervention",
 "everyday-mathematics":"everyday-mathematics",
 "evidence-to-insights-e2i-coach":"evidence-to-insights-e2i-coach",
-"exact-path":"exact-path",
+"exact-path":"edmentum-exact-path",
 "expeditionary-learning":"expeditionary-learning",
 "experience-corps":"experience-corps",
 "expert-annotated-clinical-consultation-corpus-of-207-sessions-and-4815-messages-with-four":"expert-annotated-clinical-consultation-corpus-of-207-sessions-and-4815-messages-with-four",
 "expert-annotated-hungarian-reflective-essay-dataset":"expert-annotated-hungarian-reflective-essay-dataset",
 "expert-vetted-assessment-suite-of-gui-oriented-vibe-coding-tasks-with-scoring-criteria":"expert-vetted-assessment-suite-of-gui-oriented-vibe-coding-tasks-with-scoring-criteria",
 "expository-reading-and-writing-course-erwc":"expository-reading-and-writing-course-erwc",
-"expository-reading-and-writing-curriculum-erwc":"expository-reading-and-writing-curriculum-erwc",
+"expository-reading-and-writing-curriculum-erwc":"expository-reading-and-writing-course-erwc",
 "extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-stude":"extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-stude",
 "facing-history-and-ourselves":"facing-history-and-ourselves",
 "factria-aware-chatbot":"factria-aware-chatbot",
@@ -254000,7 +253521,7 @@
 "force-concept-inventory-fci":"force-concept-inventory-fci",
 "foundationalassist-dataset":"foundationalassist-dataset",
 "foundations-for-young-adult-success":"foundations-for-young-adult-success",
-"foundations-for-young-adult-success-a-developmental-framework":"foundations-for-young-adult-success-a-developmental-framework",
+"foundations-for-young-adult-success-a-developmental-framework":"foundations-for-young-adult-success",
 "four-cornerstones-of-a-fair-and-effective-school-funding-system-adequacy-equity-transparen":"four-cornerstones-of-a-fair-and-effective-school-funding-system-adequacy-equity-transparen",
 "four-domains-comprehensive-assessment-of-leadership-for-learning-call-survey-and-feedback":"four-domains-comprehensive-assessment-of-leadership-for-learning-call-survey-and-feedback",
 "four-domains-for-rapid-school-improvement":"four-domains-for-rapid-school-improvement",
@@ -254208,7 +253729,7 @@
 "learnadapt-praxis":"learnadapt-praxis",
 "learnai-framework":"learnai-framework",
 "learner-variability-project":"learner-variability-project",
-"learner-variability-project-lvp":"learner-variability-project-lvp",
+"learner-variability-project-lvp":"learner-variability-project",
 "learning-college":"learning-college",
 "learning-genie":"learning-genie",
 "learning-knowledge-tracing":"learning-knowledge-tracing",
@@ -254299,7 +253820,7 @@
 "maryland-concentration-of-poverty-cop-entitlement-grant-program":"maryland-concentration-of-poverty-cop-entitlement-grant-program",
 "maryland-teacher-and-principal-evaluation-system":"maryland-teacher-and-principal-evaluation-system",
 "massachusetts-dese-early-literacy-screening-assessment-dataset":"massachusetts-dese-early-literacy-screening-assessment-dataset",
-"massachusetts-dese-grantee-early-literacy-screening-assessment-dataset":"massachusetts-dese-grantee-early-literacy-screening-assessment-dataset",
+"massachusetts-dese-grantee-early-literacy-screening-assessment-dataset":"massachusetts-dese-early-literacy-screening-assessment-dataset",
 "massachusetts-dese-statewide-k3-early-literacy-screening-dataset-202324":"massachusetts-dese-statewide-k3-early-literacy-screening-dataset-202324",
 "massachusetts-early-literacy-screening-assessment-dataset-202223":"massachusetts-early-literacy-screening-assessment-dataset-202223",
 "massachusetts-early-literacy-screening-assessment-dataset-linked-with-mcas-results":"massachusetts-early-literacy-screening-assessment-dataset-linked-with-mcas-results",
@@ -254436,7 +253957,7 @@
 "nsmq-riddles":"nsmq-riddles",
 "number-rockets":"number-rockets",
 "nwea-covid-19-map-growth-data-visualization":"nwea-covid-19-map-growth-data-visualization",
-"nwea-map-growth":"nwea-map-growth",
+"nwea-map-growth":"map-growth",
 "nwea-map-growth-202223-achievement-dataset":"nwea-map-growth-202223-achievement-dataset",
 "nwea-map-growth-assessment-and-longitudinal-achievement-database":"nwea-map-growth-assessment-and-longitudinal-achievement-database",
 "nwea-professional-learning-modules":"nwea-professional-learning-modules",
@@ -254538,7 +254059,7 @@
 "positive-behavioral-interventions-and-supports-pbis":"positive-behavioral-interventions-and-supports-pbis",
 "post-secondary-attainment-index":"post-secondary-attainment-index-pai",
 "post-secondary-attainment-index-pai":"post-secondary-attainment-index-pai",
-"powerful-learning-framework":"powerful-learning-framework",
+"powerful-learning-framework":"digital-promises-powerful-learning-framework",
 "powerschool-attendance-intervention":"powerschool-attendance-intervention",
 "practice-driven-data":"practice-driven-data",
 "pre-k-mathematics":"pre-k-mathematics",
@@ -254661,7 +254182,7 @@
 "revised-ai-literacy-framework-tiecd-dimensions-specified-into-ten-ai-literacy-elements-ail":"revised-ai-literacy-framework-tiecd-dimensions-specified-into-ten-ai-literacy-elements-ail",
 "rhode-island-charter-feeder-tps-and-statewide-tps-demographic-comparison-dataset":"rhode-island-charter-feeder-tps-and-statewide-tps-demographic-comparison-dataset",
 "rhode-island-charter-school-performance-framework":"rhode-island-charter-school-performance-framework",
-"rhode-island-charter-school-performance-review-system":"rhode-island-charter-school-performance-review-system",
+"rhode-island-charter-school-performance-review-system":"rhode-island-charter-school-performance-framework",
 "ripple-recommendation-in-personalised-peer-learning-environments":"ripple-recommendation-in-personalised-peer-learning-environments",
 "rm-cc5":"rm-cc5",
 "rmpw":"rmpw",
@@ -254864,7 +254385,7 @@
 "teacher-facing-chatbot-authoring-platform-with-structured-configuration-components-and-tes":"teacher-facing-chatbot-authoring-platform-with-structured-configuration-components-and-tes",
 "teacher-incentive-fund":"teacher-incentive-fund",
 "teacher-moments":"teacher-moments",
-"teacher-potential-project":"teacher-potential-project",
+"teacher-potential-project":"el-educations-teacher-potential-project-tpp",
 "teacher-quality-partnership":"teacher-quality-partnership",
 "teacher-residency-model":"teacher-residency-model",
 "teacher-student-data-link":"teacher-student-data-link",
@@ -254928,7 +254449,7 @@
 "three-level-rti-prevention-model-for-identifying-learning-disabilities":"three-level-rti-prevention-model-for-identifying-learning-disabilities",
 "three-open-ended-survey-questions-assessing-ct-practices-in-physics-contexts":"three-open-ended-survey-questions-assessing-ct-practices-in-physics-contexts",
 "tibetcpr":"tibetcpr",
-"title-i-supplemental-educational-services-ses":"title-i-supplemental-educational-services-ses",
+"title-i-supplemental-educational-services-ses":"supplemental-educational-services",
 "tntp-turnaround-leadership-teams-strategy-tlts":"tntp-turnaround-leadership-teams-strategy-tlts",
 "too-good-for-drugs":"too-good-for-drugs",
 "too-good-for-drugs-and-violence":"too-good-for-drugs-and-violence",
@@ -254972,7 +254493,7 @@
 "ucla-impact-ecemultiple-subject-program":"ucla-impact-ecemultiple-subject-program",
 "ucsmp-secondary-mathematics-curriculum":"ucsmp-secondary-mathematics-curriculum",
 "unesco-ai-competency-framework-for-school-students":"unesco-ai-competency-framework-for-school-students",
-"unesco-ai-competency-framework-for-students":"unesco-ai-competency-framework-for-students",
+"unesco-ai-competency-framework-for-students":"unesco-ai-competency-framework-for-school-students",
 "unesco-ai-competency-framework-for-teachers":"unesco-ai-competency-framework-for-teachers",
 "unesco-recommendation-on-the-ethics-of-artificial-intelligence":"unesco-recommendation-on-the-ethics-of-artificial-intelligence",
 "unescos-eight-component-genai-framework":"unescos-eight-component-genai-framework",
@@ -255112,7 +254633,7 @@
 "combined-tssna-and-ona-method":"combined-tssna-and-ona-method",
 "compensatory-multidimensional-item-response-theory":"compensatory-multidimensional-item-response-theory",
 "composite-transformation-framework-for-mirt-equating":"composite-transformation-framework-for-mirt-equating",
-"compound-polynomial-cp-growth-model":"compound-polynomial-cp-growth-model",
+"compound-polynomial-cp-growth-model":"compound-polynomial-growth-model",
 "compound-polynomial-growth-model":"compound-polynomial-growth-model",
 "confidence-aware-selective-automated-scoring-framework":"confidence-aware-selective-automated-scoring-framework",
 "consensus-calibration":"consensus-calibration",
@@ -256406,7 +255927,7 @@
 "compare-to-similar-geographic-areas-for-cumulative-reform-impacts":"compare-to-similar-geographic-areas-for-cumulative-reform-impacts",
 "compare_and_contrast_sources":"compare_and_contrast_sources",
 "comparing-contrasting-cases":"comparing-contrasting-cases",
-"comparing_cases":"comparing_cases",
+"comparing_cases":"comparing-contrasting-cases",
 "comparing_multiple_solution_methods":"comparing_multiple_solution_methods",
 "compassionate_curiosity":"compassionate_curiosity",
 "compensated-worker-advisory-councils-co-design":"compensated-worker-advisory-councils-co-design",
@@ -256837,7 +256358,7 @@
 "diagnose-resistance-then-modify-innovation-attributes":"diagnose-resistance-then-modify-innovation-attributes",
 "diagnostic-assessment":"diagnostic-assessment",
 "diagnostic-generated-modifiable-learning-paths":"diagnostic-generated-modifiable-learning-paths",
-"diagnostic-pre-assessment":"diagnostic-pre-assessment",
+"diagnostic-pre-assessment":"diagnostic-assessment",
 "diagram_similarities_and_differences":"diagram_similarities_and_differences",
 "dialogic-facilitation-of-statistical-modeling-practice":"dialogic-facilitation-of-statistical-modeling-practice",
 "dialogic-facilitation-of-student-resources":"dialogic-facilitation-of-student-resources",
@@ -257327,7 +256848,7 @@
 "ewi-team-data-meetings-coordinate-interventions":"ewi-team-data-meetings-coordinate-interventions",
 "ewims-training-and-technical-assistance-strategy":"ewims-training-and-technical-assistance-strategy",
 "exact-path-existing-staff-implementation-strategy":"exact-path-existing-staff-implementation-strategy",
-"exact-path-existing-staff-vendor-pd-implementation":"exact-path-existing-staff-vendor-pd-implementation",
+"exact-path-existing-staff-vendor-pd-implementation":"exact-path-existing-staff-implementation-strategy",
 "exact-path-implementation-existing-staff-pd":"exact-path-existing-staff-implementation-strategy",
 "exact-path-implementation-strategy":"exact-path-existing-staff-implementation-strategy",
 "exam-wrappers":"exam-wrappers",
@@ -258122,7 +257643,7 @@
 "improve-ui-consistency-vr-classroom":"improve-ui-consistency-vr-classroom",
 "improve-voice-usability-native-language-options":"improve-voice-usability-native-language-options",
 "improve_classroom_air_quality":"improve_classroom_air_quality",
-"improve_indoor_air_quality":"improve_indoor_air_quality",
+"improve_indoor_air_quality":"improve_classroom_air_quality",
 "improved-communication-drives-family-involvement-partnerships":"improved-communication-drives-family-involvement-partnerships",
 "improved_air_quality":"improved_air_quality",
 "improvement-science-analytics-partnership-strategy":"improvement-science-analytics-partnership-strategy",
@@ -258191,7 +257712,7 @@
 "individualized_highlighter_tool":"individualized_highlighter_tool",
 "individually-accountable-verification-rubrics":"individually-accountable-verification-rubrics",
 "individually-chosen-reading-group-activities":"individually-chosen-reading-group-activities",
-"indoor_air_quality_improvement":"improve_indoor_air_quality",
+"indoor_air_quality_improvement":"improve_classroom_air_quality",
 "induction-mentoring-retention-teachers-of-color":"induction-mentoring-retention-teachers-of-color",
 "inductive-deductive-npt-analysis-reflexivity":"inductive-deductive-npt-analysis-reflexivity",
 "industry-partners-inform-cbe-competencies":"industry-partners-inform-cbe-competencies",
@@ -258510,7 +258031,7 @@
 "learning_conferences":"learning_conferences",
 "learning_contracts":"learning_contracts",
 "learning_goal_setting":"learning_goal_setting",
-"learning_interest_inventories":"learning_interest_inventories",
+"learning_interest_inventories":"interest_inventories",
 "learning_journals":"learning-journals",
 "learning_logs":"learning-logs",
 "learning_strategy_&_tool_fair":"learning_strategy_&_tool_fair",
@@ -258641,7 +258162,7 @@
 "make-quality-standards-interpretable-with-rationales":"make-quality-standards-interpretable-with-rationales",
 "make-ten":"make-ten",
 "make_learning_relevant":"make_learning_relevant",
-"maker_spaces_and_fab_labs":"maker_spaces_and_fab_labs",
+"maker_spaces_and_fab_labs":"blocks_and_legos-maker_spaces_and_fab_labs",
 "makerspaces":"makerspaces",
 "making-connections-text-to-self-text-to-text-text-to-world":"making-connections-text-to-self-text-to-text-text-to-world",
 "making_and_confirming_predictions":"making_and_confirming_predictions",
@@ -258681,7 +258202,7 @@
 "match-writing-strategies-to-situations-wall-chart":"match-writing-strategies-to-situations-wall-chart",
 "matched-comparison-group-charter-evaluation-strategy":"matched-comparison-group-charter-evaluation-strategy",
 "matched-comparison-group-design-with-qualitative-mechanism-exploration":"matched-comparison-group-design-with-qualitative-mechanism-exploration",
-"matched-comparison-plus-qualitative-mechanisms-charter-evaluation":"matched-comparison-plus-qualitative-mechanisms-charter-evaluation",
+"matched-comparison-plus-qualitative-mechanisms-charter-evaluation":"matched-comparison-group-design-with-qualitative-mechanism-exploration",
 "matched_examples_and_non-examples":"matched_examples_and_non-examples",
 "math-180-blended-rotation-implementation":"math-180-blended-rotation-implementation",
 "math-180-startup-training-coaching-visits":"math-180-startup-training-coaching-visits",
@@ -259059,10 +258580,10 @@
 "novelty_sounds":"novelty_sounds",
 "nsf-for-online-office-hours-scheduling":"nsf-for-online-office-hours-scheduling",
 "nsi-implementation-support-strategies":"nsi-implementation-support-strategies",
-"number-talks":"number-talks",
+"number-talks":"math-talks-number-talks",
 "number_rack_app":"number_rack_app",
 "number_relationships_and_reasoning_strategies":"number_relationships_and_reasoning_strategies",
-"number_talks":"number-talks",
+"number_talks":"math-talks-number-talks",
 "numbered-heads-together":"numbered-heads-together",
 "numbers_to_100":"numbers_to_100",
 "nunan-five-research-design-points":"nunan-five-research-design-points",
@@ -260497,7 +260018,7 @@
 "spaced-scheduling":"spaced-scheduling",
 "spaced_learning_through_activity_breaks":"spaced_learning_through_activity_breaks",
 "spaced_practice":"spaced-practice-scheduling",
-"spaced_repetition":"spaced_repetition",
+"spaced_repetition":"spaced-repetition-scheduling",
 "spaced_retrieval_practice":"spaced-retrieval-practice",
 "spaces_that_foster_creativity":"spaces_that_foster_creativity",
 "spacing-effects-in-drill-and-practice-cai":"spacing-effects-in-drill-and-practice-cai",
@@ -261098,7 +260619,7 @@
 "thinking-math-coaching-pd-strategy":"thinking-math-coaching-pd-strategy",
 "thinking_about_emotions_in_advance":"thinking_about_emotions_in_advance",
 "thinking_critically":"thinking_critically",
-"thinking_tools_with_graphic_organizers":"thinking_tools_with_graphic_organizers",
+"thinking_tools_with_graphic_organizers":"graphic_organizers_as_thinking_tools",
 "third-semester-point-in-time-persistence-definition":"third-semester-point-in-time-persistence-definition",
 "thoughtful-mobile-device-integration-recommendations":"thoughtful-mobile-device-integration-recommendations",
 "thoughtful-tpe-management-requirements":"thoughtful-tpe-management-requirements",
@@ -261611,7 +261132,6 @@
 "adolescent-peer-group-structure":"adolescent-peer-group-structure",
 "adsd-sentiment-fairness-metric":"adsd-sentiment-fairness-metric",
 "adult-edtech-two-segment-customer-taxonomy":"adult-edtech-two-segment-customer-taxonomy",
-"adult-learning-edtech-two-customer-segments":"adult-learning-edtech-two-customer-segments",
 "adult-superior-language-learning-capabilities":"adult-superior-language-learning-capabilities",
 "advocacy-sites-and-tactical-strategic-framework":"advocacy-sites-and-tactical-strategic-framework",
 "affordance-based-language-assessment-framework":"affordance-based-language-assessment-framework",
@@ -261683,7 +261203,6 @@
 "berliner-five-stage-teacher-expertise-theory":"berliner-five-stage-teacher-expertise-theory",
 "berliner-pedagogical-expertise-stages-grouping":"berliner-pedagogical-expertise-stages-grouping",
 "bics-calp-distinction":"bics-calp-distinction",
-"bics-calph-two-dimensions-proficiency-framework":"bics-calph-two-dimensions-proficiency-framework",
 "biglan-classification-three-dimensions":"biglan-classification-three-dimensions",
 "biglan-four-dimension-department-classification":"biglan-four-dimension-department-classification",
 "bildung-framework-open-education":"bildung-framework-open-education",
@@ -261696,7 +261215,6 @@
 "bkt-four-parameter-two-form-model":"bkt-four-parameter-two-form-model",
 "bkt-irt-multidimensional-generalizable-model":"bkt-irt-multidimensional-generalizable-model",
 "bkt-mastery-updating-model":"bkt-mastery-updating-model",
-"bkt-two-state-hmm-student-model":"bkt-two-state-hmm-student-model",
 "bktransformer-temporal-bkt-parameters":"bktransformer-temporal-bkt-parameters",
 "bloom-cognitive-domain-six-levels":"bloom-cognitive-domain-six-levels",
 "bloom-mi-integrated-analysis-grid":"bloom-mi-integrated-analysis-grid",
@@ -261713,7 +261231,6 @@
 "cace-policy-relevant-parameter-education-rcts":"cace-policy-relevant-parameter-education-rcts",
 "canale-swain-communicative-competence-framework":"canale-swain-communicative-competence-framework",
 "canale-swain-four-dimensions-lexical-framework":"canale-swain-four-dimensions-lexical-framework",
-"canale-swain-integrative-communicative-competence-framework":"canale-swain-integrative-communicative-competence-framework",
 "capacity-versus-motivation-accounts-of-creativity":"capacity-versus-motivation-accounts-of-creativity",
 "career-cluster-concept-industrial-arts":"career-cluster-concept-industrial-arts",
 "career-cluster-organizing-framework-industrial-arts":"career-cluster-organizing-framework-industrial-arts",
@@ -261764,7 +261281,6 @@
 "co-regulation-framework-adolescents":"co-regulation-framework-adolescents",
 "co-regulation-framework-three-support-domains":"co-regulation-framework-three-support-domains",
 "coaching-as-partnership-approach":"coaching-as-partnership-approach",
-"codesign-core-tenets-framework":"codesign-core-tenets-framework",
 "cognitive-apprenticeship":"cognitive-apprenticeship",
 "cognitive-apprenticeship-four-dimensions-framework":"cognitive-apprenticeship-four-dimensions-framework",
 "cognitive-apprenticeship-hybrid-model-six-strategies":"cognitive-apprenticeship-hybrid-model-six-strategies",
@@ -262086,8 +261602,6 @@
 "five-essential-supports-framework-ccsr":"five-essential-supports-framework-ccsr",
 "five-essential-supports-framework-illinois":"five-essential-supports-framework-illinois",
 "five-essential-supports-framework-uchicago-consortium":"five-essential-supports-framework-uchicago-consortium",
-"five-essential-supports-school-improvement-framework":"five-essential-supports-school-improvement-framework",
-"five-essentials-framework-early-education-adaptation":"five-essentials-framework-early-education-adaptation",
 "five-factor-mentoring-model-hudson":"five-factor-mentoring-model-hudson",
 "five-factors-breakthrough-innovation-taxonomy":"five-factors-breakthrough-innovation-taxonomy",
 "five-foundations-learning-environments-framework":"five-foundations-learning-environments-framework",
@@ -262250,7 +261764,6 @@
 "inclusive-pedagogies-three-categories":"inclusive-pedagogies-three-categories",
 "indigenous-hl2-motivation-framework-te-huia":"indigenous-hl2-motivation-framework-te-huia",
 "industrial-technology-content-base-industrial-arts":"industrial-technology-content-base-industrial-arts",
-"infant-controlled-system-adaptive-fit":"infant-controlled-system-adaptive-fit",
 "infant-controlled-system-adaptive-fit-theory":"infant-controlled-system-adaptive-fit-theory",
 "informal-learning":"informal-learning",
 "informal-social-learning-networks-coherence":"informal-social-learning-networks-coherence",
@@ -262437,7 +261950,6 @@
 "micro-credentials-adult-learning-alignment-framework":"micro-credentials-adult-learning-alignment-framework",
 "microstructure-experience-macrostructure-general-framework":"microstructure-experience-macrostructure-general-framework",
 "minai-order-disorder-aesthetic-framework":"minai-order-disorder-aesthetic-framework",
-"mitchell-csl-three-component-framework":"mitchell-csl-three-component-framework",
 "mle-theory-human-mediator-cognitive-modifiability":"mle-theory-human-mediator-cognitive-modifiability",
 "mle-three-universal-criteria":"mle-three-universal-criteria",
 "mlgm-longitudinal-construct-validation-framework":"mlgm-longitudinal-construct-validation-framework",
@@ -262871,8 +262383,6 @@
 "tools-themes-competencies-framework":"tools-themes-competencies-framework",
 "tpack":"tpack",
 "tpack-development-stages-recognizing-to-advancing":"tpack-development-stages-recognizing-to-advancing",
-"tpack-framework-intersecting-domains-niess-roschelle":"tpack-framework-intersecting-domains-niess-roschelle",
-"tpack-framework-seven-elements":"tpack-framework-seven-elements",
 "tpack-framework-teacher-technology-integration":"tpack-framework-teacher-technology-integration",
 "tpb-framework-puppetry-ecology":"tpb-framework-puppetry-ecology",
 "tpi-online-research-supervision-tutoring-model":"tpi-online-research-supervision-tutoring-model",

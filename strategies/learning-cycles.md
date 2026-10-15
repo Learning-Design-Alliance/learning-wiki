@@ -53,7 +53,7 @@ Learning cycles embody the "experience before formalization" principle: concepts
 
 ### Instructions
 1. **Engage** — pose a problem, discrepant event, or question that activates relevant prior knowledge and creates a need to know ([Activation](../elements/activation.md), [Cognitive Disequilibrium](../elements/cognitive-conflict.md))
-2. **Explore** — have learners investigate the phenomenon hands-on or through [Case Studies](../elements/case-studies.md), with guiding prompts but not the answer ([Guided Inquiry](../elements/inquiry-learning.md))
+2. **Explore** — have learners investigate the phenomenon hands-on or through [Case Studies](../elements/case-studies.md), with guiding prompts but not the answer ([Guided Inquiry](../elements/inquiry-based-learning.md))
 3. **Explain** — introduce the formal concept, vocabulary, or model, explicitly connecting it to what learners observed ([Explicit Teaching](../patterns/direct-instruction.md), [Advance Organizers](../elements/advance-organizers.md))
 4. **Elaborate** — require application of the concept in a new context ([Application of Knowledge](../elements/application-of-knowledge.md), [Practice](../elements/practice.md))
 5. **Evaluate** — assess understanding against the original learning goals ([Assessment for Learning](../principles/assessment-for-learning.md))

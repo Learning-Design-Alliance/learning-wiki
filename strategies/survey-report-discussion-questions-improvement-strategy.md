@@ -37,7 +37,7 @@ The report recommends using its profiles to "stimulate discussion among your sch
 - identifying strengths and weaknesses in the Five Fundamentals and planning SIPAAA improvement actions
 
 ### Affordances
-- [Five Essential Supports School Improvement Framework](../theories/five-essential-supports-school-improvement-framework.md)
+- [Five Essential Supports School Improvement Framework](../theories/five-essential-supports-framework-ccsr.md)
 
 ## Related Strategies
 

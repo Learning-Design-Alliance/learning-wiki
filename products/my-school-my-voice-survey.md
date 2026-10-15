@@ -60,7 +60,7 @@ In spring 2007 CCSR surveyed all Chicago Public School teachers, principals, and
 - diagnosing school conditions related to instruction, leadership, professional capacity, climate, and family involvement
 
 ### Affordances
-- [Five Essential Supports School Improvement Framework](../theories/five-essential-supports-school-improvement-framework.md)
+- [Five Essential Supports School Improvement Framework](../theories/five-essential-supports-framework-ccsr.md)
 
 ## Related Elements
 

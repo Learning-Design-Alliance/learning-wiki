@@ -42,9 +42,8 @@ The Strategic-Interaction (S-I) Method, designed by Robert J. DiPietro, is a ped
 
 ## Related Theories
 
-- [Canale and Swain's integrative framework of communicative competence synthesizes grammatical, sociolinguistic, and discourse knowledge](canale-swain-integrative-communicative-competence-framework.md)
+- [Canale and Swain's integrative framework of communicative competence synthesizes grammatical, sociolinguistic, and discourse knowledge](canale-swain-communicative-competence-framework.md)
 - [DiPietro's Strategic-Interaction Method: equal weight to form and function across three dimensions of conversational discourse](strategic-interaction-method-dimensions.md)
-- [Canale and Swain's integrative framework of communicative competence: grammatical, sociolinguistic, and discourse components](canale-swain-communicative-competence-framework.md)
 
 ## Examples
 

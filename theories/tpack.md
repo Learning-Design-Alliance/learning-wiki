@@ -8,6 +8,11 @@ status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29
+sources:
+  - id: niess-2018
+    resource: "https://www.pmena.org/proceedings/"
+    title: "Niess, M. L., & Roschelle, J. (2018). Transforming Teachers' Knowledge for Teaching Mathematics with Technologies through Online Knowledge-Building Communities. Proceedings of the 40th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education, Greenville, SC. https://www.pmena.org/proceedings/"
+    author: "Niess, M. L., & Roschelle, J"
 ---
 
 # TPACK (Technological Pedagogical Content Knowledge)
@@ -28,15 +33,20 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 #### Requirements
 - A specific content area, pedagogical approach, and technology considered together, rather than technology adopted as a generic "add-on"
 - Designer or teacher fluency in reasoning about the interactions among the three domains, not just competence in each domain separately
+- Teachers' knowledge for teaching with technologies must integrate pedagogical knowledge with content and technological knowledge, not subject matter alone
 #### Constraints
 - Technology Knowledge is inherently unstable and dates quickly, so TPACK is not a one-time competency but requires ongoing re-integration as tools change
 - Provides a diagnostic lens for why technology integration succeeds or fails, but does not by itself prescribe which technology to choose — see [Technology Integration Levels (SAMR / RAT / PIC-RAT)](technology-integration-levels.md) for frameworks that evaluate the effect of a specific choice
+- The discussion notes TPACK appears best at organizing qualitative observations of what teachers learned into categories, and it is less obvious it gives teachers coherence and direction in their long-term growth
 
 ### Target Learners
 - Teachers and instructional designers making decisions about which technology to use for a specific content area and pedagogical goal
+- in-service mathematics teachers
 
 ### Target Learning Objectives
 - Not a learner-facing objective — a designer/teacher competency: producing technology-integrated instruction that is well-matched to both the content and the pedagogical goal, rather than technology used for its own sake
+- integrating digital technologies as mathematics learning tools
+- transforming teacher knowledge for teaching with technologies
 
 ### Theory
 #### Supporting
@@ -66,12 +76,14 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [AI-TPACK component scores show no significant differences across MTES grades, while self-efficacy and teaching beliefs do differ](../claims/no-grade-differences-in-aick.md) [~W]
 - [Content knowledge is not significantly associated with self-perceived knowledge in any technology-integrated GenAI domain](../claims/content-knowledge-not-associated-genai-integration.md) [~W]
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](../claims/gender-differences-technological-genai-knowledge-small-effects.md) [~W]
+- [Online Tpack Program Shift Student Centered Strategies](../claims/online-tpack-program-shift-student-centered-strategies.md) [+M]
+- [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](../claims/students-need-time-learn-technology-first.md) [~W]
 
 ## Related Theories
 
 - [TPACK framework (Technological, Pedagogical and Content Knowledge) for teacher technology integration](tpack-framework-teacher-technology-integration.md)
-- [TPACK: technological pedagogical content knowledge as intersecting knowledge domains](tpack-framework-intersecting-domains-niess-roschelle.md)
 - [Align technology use with specific learning goals rather than adopting technology for its own sake](align-technology-use-with-learning-goals.md)
+- [Five-stage TPACK development trajectory from recognizing to advancing](tpack-development-stages-recognizing-to-advancing.md)
 
 ## Related Principles
 - [Technology Integration Levels (SAMR / RAT / PIC-RAT)](technology-integration-levels.md) — a complementary framework for judging the effect a specific technology choice is having, once a TPACK-informed choice has been made
@@ -83,8 +95,56 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](../strategies/educator-ai-literacy-and-critical-engagement.md)
 - [AI Certificate Pedagogical Transformation Effectiveness Evaluation Indicator System (20 indicators, S1–S20)](../products/ai-certificate-pedagogical-transformation-effectiveness-evaluation-indicator-system-20-ind.md)
 - [Justify GenAI integration through a when-how-why framework: proven contexts, specific implementation methods, and pedagogical reasoning](../strategies/when-how-why-genai-integration-framework.md)
+- [Four-course online TPACK professional development program (SED 520, 521, 522, 594)](../elements/four-course-online-tpack-program-element.md)
 
 ## Key Sources
 - Koehler, M. J., & Mishra, P. (2009). What is technological pedagogical content knowledge? *Contemporary Issues in Technology and Teacher Education, 9*(1), 60–70. [https://edtechbooks.org/lidtfoundations/tpack](https://edtechbooks.org/lidtfoundations/tpack)
 - Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge: A framework for integrating technology in teacher knowledge. *Teachers College Record, 108*(6), 1017–1054.
 - Shulman, L. S. (1986). Those who understand: Knowledge growth in teaching. *Educational Researcher, 15*(2), 4–14.
+- Niess, M. L., & Roschelle, J. (2018). Transforming Teachers' Knowledge for Teaching Mathematics with Technologies through Online Knowledge-Building Communities. Proceedings of the 40th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education, Greenville, SC. https://www.pmena.org/proceedings/
+
+<!-- merged 2026-10-15 from theories/tpack-framework-intersecting-domains-niess-roschelle ("TPACK: technological pedagogical content knowledge as intersecting knowledge domains"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# TPACK: technological pedagogical content knowledge as intersecting knowledge domains
+
+> **Theory** · [All theories](index.md)
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+
+## Description
+TPACK describes teacher knowledge for teaching with technology as the intersection of technological, pedagogical, and content knowledge within contexts. The article presents it as the composite of intersecting domains (TK, PK, CK, TPK, PCK, TCK, TPACK) and uses it as the organizing framework for the professional development program and for analyzing teachers' knowledge transformation. As quoted, TPACK "describes this teacher knowledge through the intersection of content knowledge, pedagogical knowledge and technological knowledge" guiding strategic thinking about when, where, and how to teach content with technologies.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Teachers' knowledge for teaching with technologies must integrate pedagogical knowledge with content and technological knowledge, not subject matter alone
+#### Constraints
+- The discussion notes TPACK appears best at organizing qualitative observations of what teachers learned into categories, and it is less obvious it gives teachers coherence and direction in their long-term growth
+
+### Target Learners
+- in-service mathematics teachers
+
+### Target Learning Objectives
+- integrating digital technologies as mathematics learning tools
+- transforming teacher knowledge for teaching with technologies
+
+### Claims
+
+- [Online Tpack Program Shift Student Centered Strategies](../claims/online-tpack-program-shift-student-centered-strategies.md) [+M]
+- [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](../claims/students-need-time-learn-technology-first.md) [~W]
+
+## Related Theories
+
+- [Five-stage TPACK development trajectory from recognizing to advancing](tpack-development-stages-recognizing-to-advancing.md)
+- [TPACK (Technological Pedagogical Content Knowledge)](tpack.md)
+- [TPACK framework (Technological, Pedagogical and Content Knowledge) for teacher technology integration](tpack-framework-teacher-technology-integration.md)
+- [TPACK framework as a foundation for teacher technology-integration knowledge](tpack-framework-teacher-technology-integration.md)
+- [Align technology use with specific learning goals rather than adopting technology for its own sake](align-technology-use-with-learning-goals.md)
+
+## Examples
+
+- [Four-course online TPACK professional development program (SED 520, 521, 522, 594)](../elements/four-course-online-tpack-program-element.md)
+
+## Key Sources
+- Niess, M. L., & Roschelle, J. (2018). Transforming Teachers' Knowledge for Teaching Mathematics with Technologies through Online Knowledge-Building Communities. Proceedings of the 40th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education, Greenville, SC. https://www.pmena.org/proceedings/
+-->

@@ -10,7 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: sussman-2022
-    title: "Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute."
+    resource: "https://learningpolicyinstitute.org/product/california-preschool-quality-ratings"
+    title: "Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute. https://learningpolicyinstitute.org/product/california-preschool-quality-ratings"
     author: "Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P."
     q: 3
     i: 1

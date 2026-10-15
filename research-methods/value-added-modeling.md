@@ -152,7 +152,7 @@ Value-added measures quantify a teacher's contribution to students' learning gai
 
 ## Related Elements
 
-- [Four principal performance measures based on student test scores](../elements/four-test-score-principal-performance-measures.md)
+- [Four principal performance measures based on student test scores](../elements/four-principal-test-score-performance-measures.md)
 
 ## Examples
 
@@ -437,7 +437,7 @@ The brief defines value added as a way of quantifying teaching quality: "'Value 
 
 ## Examples
 
-- [Four principal performance measures based on student test scores](../elements/four-test-score-principal-performance-measures.md)
+- [Four principal performance measures based on student test scores](../elements/four-principal-test-score-performance-measures.md)
 - [Summarize emerging value-added evidence in practitioner-accessible briefs](../strategies/summarize-value-added-evidence-for-practitioners.md)
 
 ## Key Sources

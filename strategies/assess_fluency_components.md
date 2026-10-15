@@ -74,7 +74,7 @@ Fluency develops through a progression from counting and derived strategies to a
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — fluency components define the proficiency criteria learners must demonstrate before advancing
 
 ## Examples
-- **[Number Talks](number-talks.md) (Parrish, 2010)** — routine in which learners solve mentally and share strategies; the teacher assesses flexibility and efficiency continuously through observation, with no timed testing.
+- **[Number Talks](math-talks-number-talks.md) (Parrish, 2010)** — routine in which learners solve mentally and share strategies; the teacher assesses flexibility and efficiency continuously through observation, with no timed testing.
 - **Math Running Records (Newton, 2016)** — a structured one-on-one interview protocol that scores accuracy, flexibility, and efficiency across the basic-facts progression.
 - **CBM math probes (e.g., [Intervention Central](https://www.interventioncentral.org))** — curriculum-based measurement used diagnostically; rate data informs instruction rather than serving as a graded timed test.
 

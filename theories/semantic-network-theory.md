@@ -49,7 +49,7 @@ Knowledge is represented as semantic networks of nodes and links; learning consi
 
 ## Examples
 
-- [Concept/semantic map](../elements/concept-semantic-map-element.md)
+- [Concept/semantic map](../elements/concept-map.md)
 - [Student-generated mapping exercise](../strategies/student-generated-mapping-strategy.md)
 - [Teacher-provided graphic map as review](../strategies/teacher-provided-advance-graphic-map.md)
 

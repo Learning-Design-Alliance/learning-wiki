@@ -25,7 +25,7 @@ Arts integration works when the artistic task forces deep processing of the cont
 #### Requirements
 - Genuine conceptual alignment: the art task must require reasoning about the target content, not merely accompany it
 - Instructor fluency in at least the basics of the art form, or co-planning with an arts specialist
-- Time and materials for creation, iteration, and [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md)
+- Time and materials for creation, iteration, and [Peer Feedback/Peer Review](../elements/peer-review.md)
 - Assessment criteria that evaluate content understanding *through* the artistic product, not artistic polish alone
 
 #### Constraints
@@ -57,7 +57,7 @@ Arts integration works when the artistic task forces deep processing of the cont
 2. Choose an art form whose affordances match the concept's structure (process → drama/dance; system → visual design; narrative → fiction writing).
 3. Open with a brief [Demonstration](../elements/demonstration.md) of an exemplar product, making explicit how artistic choices encode content claims.
 4. Have learners plan, then create, applying content knowledge at each decision point ([Application](../elements/application.md)).
-5. Structure [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md) around content accuracy: "Does this dance correctly model the water cycle?" rather than "Is this good art?"
+5. Structure [Peer Feedback/Peer Review](../elements/peer-review.md) around content accuracy: "Does this dance correctly model the water cycle?" rather than "Is this good art?"
 6. Close with [Individual Response](../elements/individual-response.md) — a written or oral reflection in which learners articulate the content-to-art mapping, prompting self-explanation of the concept [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+S].
 
 ## Related Strategies
@@ -68,7 +68,7 @@ Arts integration works when the artistic task forces deep processing of the cont
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — exemplar products show learners how artistic choices carry content meaning
 - [Application](../elements/application.md) — the creation phase is applied practice of the target content
-- [Peer Feedback/Peer Review](../elements/peer-feedbackpeer-review.md) — critique loops keep the focus on content accuracy
+- [Peer Feedback/Peer Review](../elements/peer-review.md) — critique loops keep the focus on content accuracy
 - [Collaboration](../elements/collaboration.md) — most arts-integrated products are group creations, adding collaborative-learning benefits
 
 ## Tools

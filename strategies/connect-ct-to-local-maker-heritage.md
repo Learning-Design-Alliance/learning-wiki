@@ -47,9 +47,8 @@ The project's guiding hypothesis is that computational thinking should be taught
 ## Related Strategies
 
 - [Connect computer science learning to Appalachian ingenuity and community identity to move it from novelty to change](connect-ct-to-appalachian-ingenuity.md)
-- [Maker Spaces and Fab Labs](maker_spaces_and_fab_labs.md)
+- [Maker Spaces and Fab Labs](blocks_and_legos-maker_spaces_and_fab_labs.md)
 - [Makerspaces](makerspaces.md)
-- [Blocks and Legos: Maker Spaces and Fab Labs](blocks_and_legos-maker_spaces_and_fab_labs.md)
 - [Use peer-led, project-based professional development led by teachers in similar contexts](peer-led-project-based-ct-teacher-training.md)
 - [Panel protocol: open with community cultural resources, then moderated discussion connecting community assets to computing education](community-cultural-resources-panel-protocol.md)
 

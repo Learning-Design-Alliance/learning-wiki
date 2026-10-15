@@ -63,10 +63,9 @@ The evaluation is an associated Mathematica project with the stated time frame 2
 
 ## Related Elements
 
-- [Ewing Marion Kauffman School Element](ewing-marion-kauffman-school-element.md)
+- [Ewing Marion Kauffman School Element](ewing-marion-kauffman-charter-school.md)
 - [Ewing Marion Kauffman School: a tuition-free charter school serving Kansas City students in grades 5-10](ewing-marion-kauffman-charter-school-element.md)
 - [Ewing Marion Kauffman charter school in Kansas City, founded by the Kauffman Foundation](kauffman-school-urban-charter-kansas-city.md)
-- [Ewing Marion Kauffman Charter School](ewing-marion-kauffman-charter-school.md)
 
 ## Examples
 

@@ -87,7 +87,7 @@ Spanish MAP Growth Reading is a computer-adaptive reading assessment for Grades 
 - [MAP Growth Spanish Math and Reading assessments](../products/map-growth-spanish-math-and-reading-assessments.md)
 - [Spanish MAP Reading Fluency Foundational Skills assessment](map-reading-fluency.md)
 - [MAP Growth interim computer adaptive assessment system](map-growth.md)
-- [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth.md)
+- [NWEA MAP Growth assessment and longitudinal achievement database](map-growth.md)
 
 ## Examples
 -

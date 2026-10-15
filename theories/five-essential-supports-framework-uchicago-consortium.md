@@ -56,8 +56,7 @@ The agenda describes the Consortium's Five Essential Supports framework, in whic
 - [Five Essential Supports for School Improvement (5Es) framework](../products/5essentials.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](five-essential-supports-early-education-framework.md)
 - [The Five Essential Supports framework identifies five organizational conditions for school improvement](five-essential-supports-framework-illinois.md)
-- [Five essential supports framework for school improvement](five-essential-supports-school-improvement-framework.md)
-- [Five essentials framework of organizational supports for school improvement](five-essentials-framework-early-education-adaptation.md)
+- [Five essential supports framework for school improvement](five-essential-supports-framework-ccsr.md)
 - [The Five Essential Supports framework organizes school development measures](../products/5essentials-survey.md)
 
 ## Examples

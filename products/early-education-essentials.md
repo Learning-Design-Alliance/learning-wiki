@@ -82,7 +82,7 @@ The Early Education Essential Organizational Supports measurement system (Early 
 - diagnosing organizational strengths and weaknesses to design improvement strategies that support effective teaching and children's learning
 
 ### Affordances
-- [Five Essentials Framework Early Education Adaptation](../theories/five-essentials-framework-early-education-adaptation.md)
+- [Five Essentials Framework Early Education Adaptation](../theories/five-essential-supports-framework-ccsr.md)
 
 ## Claims
 

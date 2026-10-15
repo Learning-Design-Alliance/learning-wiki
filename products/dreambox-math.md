@@ -73,7 +73,7 @@ DreamBox Math is "an adaptive, online program designed to complement classroom i
 - [DreamBox Learning adaptive online mathematics program](../products/dreambox-learning.md)
 - [Pathblazer: supplemental online individualized intervention for struggling K–8 learners in mathematics and reading](pathblazer.md)
 - [Imagine Math: adaptive digital supplemental mathematics program with on-demand live certified teacher support](imagine-math.md)
-- [Edmentum Exact Path: computer-adaptive supplemental program supporting instruction and assignment](exact-path.md)
+- [Edmentum Exact Path: computer-adaptive supplemental program supporting instruction and assignment](edmentum-exact-path.md)
 - [My Math Academy: game-based adaptive learning system for early number sense](my-math-academy.md)
 - [Symphony Math K-8 technology intervention program for mathematical concepts](symphony-math.md)
 

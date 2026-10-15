@@ -66,7 +66,6 @@ Sensitivity analysis reported in §4.2 using G*Power 3.1 (two-tailed independent
 - [Large school samples are required to achieve appropriate precision standards in clustered education experiments](large-school-samples-required-precision-standards.md) — a broader claim this one bears on
 - [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](power-limited-to-large-site-subgroups.md) — related
 - [Most education impact studies can rigorously address only broad questions due to power constraints](most-impact-studies-address-broad-questions-only.md) — related
-- [Clustering effects vary by design but are typically large in education random-assignment evaluations](clustering-effects-typically-large-education-designs.md) — a broader claim this one bears on
 - [Required numbers of schools differ across school, classroom, and student random-assignment designs](required-schools-vary-by-assignment-level.md) — related
 - [The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards](bettinger-baker-2014-rct-lottery-design.md) — related
 - [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](gee-sample-size-formulas-clustered-school-rcts.md) — related

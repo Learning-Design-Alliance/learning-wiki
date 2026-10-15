@@ -44,4 +44,4 @@ Two experiments with tenth-graders (social pressure content) manipulating prompt
 
 ## Related Claims
 - [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](combine-cognitive-metacognitive-prompts.md) — related
-- [Writing tasks with metacognitive prompts yield larger learning effects than writing tasks without such prompts (d = 0.44 vs. 0.26)](metacognitive-prompts-larger-writing-effects.md) — related
+- [Writing tasks with metacognitive prompts yield larger learning effects than writing tasks without such prompts (d = 0.44 vs. 0.26)](reflective-practice-improves-outcomes-when-structured.md) — related

@@ -70,7 +70,7 @@ Thinking Math! is a PreK-8 mathematics program "grounded in socio-constructivist
 - [Bridges in Mathematics: comprehensive preK-5 math curriculum blending direct instruction, investigation, and exploration](../products/bridges-in-mathematics.md)
 - [SRA Real Math Building Blocks PreK supplemental preschool mathematics curriculum](../products/sra-real-math-building-blocks-prek.md)
 - [Pre-K Mathematics supplemental preschool curriculum](../products/pre-k-mathematics.md)
-- [Building Blocks preschool mathematics curriculum](../products/building-blocks.md)
+- [Building Blocks preschool mathematics curriculum](building-blocks-for-math.md)
 - [Everyday Mathematics® core curriculum for grades pre-K–6](../products/everyday-mathematics.md)
 
 ## Examples

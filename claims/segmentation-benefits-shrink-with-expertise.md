@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: segmentation-benefits-shrink-with-expertise
+aliases: [segmentation-expertise-reversal-dynamic-visualizations]
 evidence_strength: emerging
 sources:
   - id: spanjers-et-al-2011
@@ -17,12 +18,20 @@ sources:
     n: 75 (37 segmented, 38 continuous)
     kind: causal
     rigour: "?"
+  - id: spanjers-2010
+    resource: "https://doi.org/10.1007/s10648-010-9135-6"
+    title: "Spanjers, I. A. E., van Gog, T., & van Merriënboer, J. J. G. (2010). A Theoretical Analysis of How Segmentation of Dynamic Visualizations Optimizes Students' Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-010-9135-6"
+    author: "Spanjers, I. A. E., van Gog, T., & van Merriënboer, J. J. G."
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Segmentation Benefits Shrink With Expertise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3` · n=75 (37 segmented, 38 continuous)
+> **Evidence** · 2 studies · 1 causal `r?`, 1 review `r2` · `q3` · n=75 (37 segmented, 38 continuous)
 
 The benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into segments) is largest for novices and diminishes as learner expertise increases. In the one experiment recorded here the benefit was in learning efficiency (performance relative to mental effort), and it disappeared at higher prior knowledge rather than reversing.
 <!-- deprecated (2026-10-14, "or reverses" is not shown by the recorded study): The learning benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into learner-paced segments) is largest for novices and diminishes — or reverses — as learner expertise increases. -->
@@ -33,6 +42,10 @@ The claim concerns dynamic, transient media (animation, video, narrated slides) 
 
 `q3 i?` Segmenting animated worked-out examples on probability calculation was more efficient (equal transfer performance, lower mental effort) than continuous animation for lower-prior-knowledge students, but this efficiency advantage disappeared at higher prior-knowledge levels. [→ Spanjers et al. 2011](#spanjers-et-al-2011)
 
+`q3 i?` In a study without learner control, students with lower prior knowledge learned more efficiently from segmented animations, while students with higher prior knowledge learned equally efficiently from both formats. [→ Spanjers 2010](#spanjers-2010)
+
+`q3 i?` In a slideshow study on gearing systems, learner control over slide progression produced larger pretest-to-posttest gains, significant only in the low prior knowledge group. [→ Spanjers 2010 (2)](#spanjers-2010)
+
 ## Evidence
 
 ### Spanjers et al. 2011
@@ -42,6 +55,16 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 `q3 · peer-reviewed experiment (not pre-registered)` · `i? · effect size not reported (regression β/t/p only)` · `n=75 (37 segmented, 38 continuous)` · `causal · r?`
 
 76 Dutch secondary-education students (one excluded for missing data) were randomly assigned to study eight animated, narrated worked-out examples on probability calculation, presented either as one continuous stream per example or divided into 5–7 segments with 2-second pauses. Regression models with prior knowledge (centered), condition, and their interaction predicted near- and far-transfer efficiency (performance combined with invested mental effort). The prior-knowledge × condition interaction was significant for both near (β = −0.35, p = .04) and far transfer efficiency (β = −0.34, p = .05): at one SD below the mean (lower prior knowledge), segmented examples were significantly more efficient than continuous ones (near β = 0.39, p = .01; far β = 0.33, p = .03), but at one SD above the mean (higher prior knowledge) this difference had disappeared (near β = −0.05, p = .72; far β = −0.10, p = .51), driven mainly by continuous-condition mental effort dropping sharply with rising prior knowledge while segmented-condition effort stayed flat. No significant interaction was found on raw transfer performance alone, only on mental effort and the composite efficiency measure.
+
+### Spanjers 2010
+
+Spanjers, I. A. E., van Gog, T., & van Merriënboer, J. J. G. (2010). A Theoretical Analysis of How Segmentation of Dynamic Visualizations Optimizes Students' Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-010-9135-6
+
+`q3 · i?` · `review · r2`
+
+The review reports Spanjers et al.'s (2010) experiment on probability calculation procedures, in which segmented animations automatically paused after each segment and continued after 2 s, with no learner control; a significant interaction between segmentation and prior knowledge was found. No effect size is printed.
+
+> "Students with lower levels of prior knowledge learned more efficiently from segmented animations than from non- segmented animations, while students with higher levels of prior knowledge learned equally efficiently from non-segmented and segmented ones (i.e., an expertise reversal effect; Kalyuga 2007)."
 
 ## Studies bearing on this claim
 
@@ -71,6 +94,7 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 **Open questions.** The expertise level at which segmentation benefits disappear likely varies by domain complexity and segment granularity. Fine-grained segmentation may retain value longer than coarse segmentation, but this has not been firmly established. Studies specifically testing segmentation × expertise interactions are scarcer than for worked examples, so confidence in the precise crossover point is limited.
 
 ## Learner Variables
+
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
@@ -90,8 +114,8 @@ Spanjers, I. A. E., Wouters, P., van Gog, T., & van Merriënboer, J. J. G. (2011
 - [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — reports the opposite
 - [In one meta-regression, the PS-I fidelity benefit tended to shrink for interventions spanning only a few hours, a marginal interaction (p = .055)](psi-fidelity-time-span-interaction.md) — related
 - Experiment 5 showed superior performance for learners who had previously studied isolated elements followed by interacting elements instruction, supporting expertise as the key factor in the technique's benefits — related
-- [Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation](segmentation-expertise-reversal-dynamic-visualizations.md) — possibly the same claim (merge candidate)
 - [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
 - [Video benefits learning only when its interactivity matches or exceeds the comparison condition](video-benefit-depends-on-relative-interactivity.md) — related
 - [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](expertise-reversal-changes-from-expertise-levels.md) — a broader claim this one bears on
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — a broader claim this one bears on
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on

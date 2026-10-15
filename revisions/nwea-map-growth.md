@@ -3,7 +3,7 @@ type: revisions
 page: ../products/nwea-map-growth.md
 ---
 
-# Revision history: [products/nwea-map-growth](../products/nwea-map-growth.md)
+# Revision history: [products/nwea-map-growth](../products/map-growth.md)
 
 Recorded as elements/map-dataset-reading-growth-visual-impairments before it was renamed, re-filed or merged.
 

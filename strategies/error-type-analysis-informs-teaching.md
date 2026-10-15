@@ -38,7 +38,7 @@ The guide's teacher notes treat scoring as a starting point for diagnosis: altho
 
 ## Related Strategies
 
-- [Diagnostic Pre Assessment](diagnostic-pre-assessment.md)
+- [Diagnostic Pre Assessment](diagnostic-assessment.md)
 - [Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words](multiple-strategies-modeling-problems.md)
 - [Confidence Based Quizzing](confidence-based-quizzing.md)
 

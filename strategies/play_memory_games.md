@@ -58,7 +58,7 @@ Memory games reliably improve performance on the trained task and very similar t
 5. Space sessions across days rather than massing them; distributed play supports retention of both the content and the strategy [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
-- [Spaced repetition](../strategies/spaced_repetition.md) — scheduling principle that determines whether game gains persist
+- [Spaced repetition](spaced-repetition-scheduling.md) — scheduling principle that determines whether game gains persist
 - [Retrieval practice games](retrieval-practice-activities.md) — memory games reframed as low-stakes retrieval of curriculum content
 
 ## Examples

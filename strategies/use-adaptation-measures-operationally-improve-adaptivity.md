@@ -42,7 +42,7 @@ The article recommends using its three adaptation measures as operational diagno
 
 ## Related Strategies
 
-- [Diagnostic Pre Assessment](diagnostic-pre-assessment.md)
+- [Diagnostic Pre Assessment](diagnostic-assessment.md)
 - [Use interventional queries to inform support decisions in adaptive assessment](interventional-queries-adaptive-assessment-support.md)
 
 ## Examples

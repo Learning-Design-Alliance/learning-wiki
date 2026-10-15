@@ -61,4 +61,4 @@ The review reports, citing Chen et al. (2018), that game design rather than lear
 - [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — related
 - [Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal](students-progress-through-zones-of-mathematical-play.md) — related
 - [Intervention effects of SRI did not differ by student background or ability variables](sri-no-differential-effects-background-ability.md) — related
-- [Theoretically augmented game designs significantly outperform standard versions of the same games (g = 0.34), with enhanced scaffolding designs showing g = 0.41](value-added-augmented-designs-benefit.md) — related
+- [Theoretically augmented game designs significantly outperform standard versions of the same games (g = 0.34), with enhanced scaffolding designs showing g = 0.41](value-added-augmented-designs-benefit-learning.md) — related

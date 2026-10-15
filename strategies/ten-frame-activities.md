@@ -60,7 +60,7 @@ Ten frames exploit the visual system's capacity to perceive small quantities at 
 5. **Fade**: replace filled frames with empty frames and mental imagery ("picture 8 on a ten frame — what's missing?"), then drop the frame entirely.
 
 ## Related Strategies
-- [Number Talks](number-talks.md) — ten frame flashes are a common warm-up routine within number talks
+- [Number Talks](math-talks-number-talks.md) — ten frame flashes are a common warm-up routine within number talks
 - [Subitizing Activities](subitizing-activities.md) — ten frames are one structured representation used to develop subitizing
 - [Concrete-Representational-Abstract Sequence](concrete-representational-abstract-cra.md) — the frame sits at the representational bridge between counters and symbols
 

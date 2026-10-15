@@ -337,7 +337,7 @@ A set of survey-based diagnostic tools created by designers and researchers buil
 - organizational diagnosis
 
 ### Affordances
-- [Five Essential Supports School Improvement Framework](../theories/five-essential-supports-school-improvement-framework.md)
+- [Five Essential Supports School Improvement Framework](../theories/five-essential-supports-framework-ccsr.md)
 
 ## Claims
 
@@ -791,7 +791,7 @@ The report organizes all survey measures around five essential supports for stud
 - [Framework of five essential supports and contextual resources for school improvement](../theories/five-essential-supports-framework-ccsr.md)
 - [Five essential supports framework for organizing school improvement self-analysis](5essentials.md)
 - [Five Essential Supports framework for improving student learning](../theories/five-essential-supports-framework-uchicago-consortium.md)
-- [Five essentials framework of organizational supports for school improvement](../theories/five-essentials-framework-early-education-adaptation.md)
+- [Five essentials framework of organizational supports for school improvement](../theories/five-essential-supports-framework-ccsr.md)
 - [Cultivate framework of nine classroom learning conditions plus learning strategies and beliefs](../products/cultivate-survey.md)
 
 ## Examples
@@ -936,10 +936,10 @@ The UChicago Consortium groups roughly 25 survey composite measures of school de
 
 - [Five Essential Supports framework for organizing school improvement conditions](../products/5essentials.md)
 - [Model of Essential Supports for Student Learning as framework for assessing school improvement](../products/model-of-essential-supports-for-student-learning.md)
-- [Five essentials framework of organizational supports for school improvement](../theories/five-essentials-framework-early-education-adaptation.md)
+- [Five essentials framework of organizational supports for school improvement](../theories/five-essential-supports-framework-ccsr.md)
 - [Five Essential Supports framework for improving student learning](../theories/five-essential-supports-framework-uchicago-consortium.md)
 - [Framework of five essential supports and contextual resources for school improvement](../theories/five-essential-supports-framework-ccsr.md)
-- [Five essential supports framework for school improvement](../theories/five-essential-supports-school-improvement-framework.md)
+- [Five essential supports framework for school improvement](../theories/five-essential-supports-framework-ccsr.md)
 - [The Early Education Essentials framework: six organizational essential supports for ECE programs](../theories/early-education-essentials-six-essential-supports-framework.md)
 - [The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices](../theories/five-essential-supports-early-education-framework.md)
 - [Model of Essential Supports for Student Learning](model-of-essential-supports-for-student-learning.md)

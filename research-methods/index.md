@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**450 entries** · 0 stable · 450 in review · 0 drafts
+**449 entries** · 0 stable · 449 in review · 0 drafts
 
 ---
 
@@ -74,7 +74,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Combined tSSNA and ONA method](combined-tssna-and-ona-method.md) - This analytic method combines temporal socio-semantic network analysis (tSSNA) and ordered network analysis (ONA) to analyze collaborative knowledge creation.
 * [Compensatory multidimensional item response theory](compensatory-multidimensional-item-response-theory.md) - The article presents compensatory multidimensional IRT (MIRT), estimated via the BMIRT program with MCMC (Metropolis-Hastings), as an explanatory framework for combining subtests measuring distinct but overlapping abilities into a composite.
 * [Composite transformation framework for MIRT equating](composite-transformation-framework-for-mirt-equating.md) - The article frames MIRT equating as transforming the equated group's reference system into the base group's system via a composite transformation: \"an orthogonal procrustes rotation, a translation transformation and a single dilation\".
-* [Compound Polynomial (CP) growth model](compound-polynomial-cp-growth-model.md) - The CP model is a multilevel growth model whose design matrix combines a within-year (fall-to-spring) matrix with a between-year (spring-to-spring) polynomial matrix, so that both kinds of growth are estimated in one model.
 * [Compound Polynomial growth model](compound-polynomial-growth-model.md) - The CP model, developed by Thum and Hauser (2015), is a flexible functional form for describing growth trends with marked seasonal patterns.
 * [Confidence-aware selective automated scoring framework](confidence-aware-selective-automated-scoring-framework.md) - The framework adapts a pretrained ViT with LoRA and derives a response-level confidence score from the stability of predictions under semantic-preserving test-time perturbations (crops, rotations).
 * [Consensus calibration](consensus-calibration.md) - Consensus calibration treats recalibration as a divide-and-conquer Bayesian computation: each time period is calibrated independently and the period posteriors are combined without revisiting earlier data.

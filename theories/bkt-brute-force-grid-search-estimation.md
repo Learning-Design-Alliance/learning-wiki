@@ -44,7 +44,7 @@ BKT-BF is an algorithm to estimate BKT parameter values by brute force: a grid o
 
 ## Related Theories
 
-- [Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories](bkt-two-state-hmm-student-model.md)
+- [Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories](bayesian-knowledge-tracing-two-state-model.md)
 
 ## Examples
 

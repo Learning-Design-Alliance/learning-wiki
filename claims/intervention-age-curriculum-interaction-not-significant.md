@@ -10,7 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: bautista-2015
-    title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40."
+    resource: "https://doi.org/10.3926/jotse.137"
+    title: "Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40. https://doi.org/10.3926/jotse.137"
     author: Bautista, R. G.
     q: 2
     i: "?"

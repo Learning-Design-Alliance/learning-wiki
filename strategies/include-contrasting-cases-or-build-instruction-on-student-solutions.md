@@ -43,7 +43,6 @@ Based on its synthesis, the review supports implementing PS-I with one of two sp
 ## Related Strategies
 
 - [Comparing Contrasting Cases](comparing-contrasting-cases.md)
-- [Comparing Cases](comparing_cases.md)
 - [Productive Failure](productive-failure.md)
 - [Productive Struggle](productive_struggle.md)
 

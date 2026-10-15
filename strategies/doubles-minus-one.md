@@ -64,7 +64,7 @@ Doubles Minus One is a form of derived-fact instruction: rather than rote memori
 
 ## Examples
 - **Investigations in Number, Data, and Space (TERC)** — the "Making Sense of number facts" units explicitly develop near-double strategies with ten-frame models before fluency practice.
-- **[Number Talks](number-talks.md) (Parrish, 2010)** — classroom routines in which teachers pose a fact like 8+7 and elicit multiple strategies, with Doubles Minus One as one expected student explanation.
+- **[Number Talks](math-talks-number-talks.md) (Parrish, 2010)** — classroom routines in which teachers pose a fact like 8+7 and elicit multiple strategies, with Doubles Minus One as one expected student explanation.
 - **[Math Recovery](https://www.mathrecovery.org)** — one-to-one intervention assessments specifically probe whether a child can derive near-double facts, using it as a diagnostic marker of strategy sophistication.
 
 ## Key Sources

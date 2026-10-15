@@ -66,4 +66,3 @@ Single-study interpersonal outcome from the media-comparison set; g = 0.25 with 
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — related
-- [Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)](digital-games-beat-nongame-conditions-meta.md) — a broader claim this one bears on

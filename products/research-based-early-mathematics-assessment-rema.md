@@ -28,7 +28,6 @@ The Research-Based Early Mathematics Assessment (REMA), developed by Clements an
 ### Claims
 - [In a 28-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 1.07 (improvement index +36)](../claims/building-blocks-clements-2008-large-effect.md) [+M]
 - [In a large-scale 106-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 0.48 (improvement index +18)](../claims/building-blocks-clements-2011-scale-up-effect.md) [+M]
-- [In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)](../claims/building-blocks-hofer-2013-scale-up-effect.md) [+M]
 - [Building Blocks has a potentially positive effect on preschool mathematics achievement, with a pooled effect size of 0.58 across three studies meeting WWC standards](../claims/building-blocks-potentially-positive-preschool-math-effect.md) [+M]
 - [In a 2006 randomized trial, Building Blocks for Math significantly outperformed business-as-usual on the Early Mathematics Assessment](../claims/building-blocks-2006-rct-significant-math-gain.md) [+M]
 - [Building Blocks for Math outperformed Pre-K Mathematics with DLM Express in a head-to-head comparison on the Early Mathematics Assessment](../claims/building-blocks-outperformed-pre-k-mathematics-head-to-head.md) [+M]
@@ -68,7 +67,7 @@ The Research-Based Early Mathematics Assessment (REMA) (Clements & Sarama, 2008)
 
 - [In a 28-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 1.07 (improvement index +36)](../claims/building-blocks-clements-2008-large-effect.md) [+M]
 - [In a large-scale 106-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 0.48 (improvement index +18)](../claims/building-blocks-clements-2011-scale-up-effect.md) [+M]
-- [In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)](../claims/building-blocks-hofer-2013-scale-up-effect.md) [+M]
+- [In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)](../claims/building-blocks-clements-2011-scale-up-effect.md) [+M]
 - [Building Blocks has a potentially positive effect on preschool mathematics achievement, with a pooled effect size of 0.58 across three studies meeting WWC standards](../claims/building-blocks-potentially-positive-preschool-math-effect.md) [+M]
 - [In a 2006 randomized trial, Building Blocks for Math significantly outperformed business-as-usual on the Early Mathematics Assessment](../claims/building-blocks-2006-rct-significant-math-gain.md) [+M]
 - [Building Blocks for Math outperformed Pre-K Mathematics with DLM Express in a head-to-head comparison on the Early Mathematics Assessment](../claims/building-blocks-outperformed-pre-k-mathematics-head-to-head.md) [+M]
@@ -76,7 +75,7 @@ The Research-Based Early Mathematics Assessment (REMA) (Clements & Sarama, 2008)
 
 ## Related Elements
 
-- [Building Blocks preschool mathematics curriculum](../products/building-blocks.md)
+- [Building Blocks preschool mathematics curriculum](building-blocks-for-math.md)
 
 ## Examples
 -

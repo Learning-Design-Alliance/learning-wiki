@@ -42,7 +42,6 @@ The guide's overarching framework holds that the value of educational technology
 ## Related Theories
 
 - [TPACK (Technological Pedagogical Content Knowledge)](tpack.md)
-- [TPACK: technological pedagogical content knowledge as intersecting knowledge domains](tpack-framework-intersecting-domains-niess-roschelle.md)
 - [Five-stage TPACK development trajectory from recognizing to advancing](tpack-development-stages-recognizing-to-advancing.md)
 
 ## Examples

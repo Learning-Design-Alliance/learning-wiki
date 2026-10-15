@@ -32,7 +32,6 @@ A Massachusetts Department of Elementary and Secondary Education dataset of K–
 ## Related Products and Programmes
 
 - [Massachusetts DESE early literacy screening assessment dataset](massachusetts-dese-early-literacy-screening-assessment-dataset.md)
-- [Massachusetts DESE grantee early literacy screening assessment dataset](massachusetts-dese-grantee-early-literacy-screening-assessment-dataset.md)
 - [Massachusetts early literacy screening assessment dataset linked with MCAS results](massachusetts-early-literacy-screening-assessment-dataset-linked-with-mcas-results.md)
 
 ## Key Sources

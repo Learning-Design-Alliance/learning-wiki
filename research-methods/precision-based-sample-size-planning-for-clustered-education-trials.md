@@ -55,7 +55,6 @@ The article recommends that evaluators discuss "appropriate precision standards"
 - [Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance](../claims/icc-classroom-effects-gain-scores-15-percent.md) [+W]
 - [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](../claims/power-limited-to-large-site-subgroups.md) [+W]
 - [Required numbers of schools differ across school, classroom, and student random-assignment designs](../claims/required-schools-vary-by-assignment-level.md) [+W]
-- [Clustering effects vary by design but are typically large in education random-assignment evaluations](../claims/clustering-effects-typically-large-education-designs.md) [+W]
 - [Large school samples are required to achieve appropriate precision standards in clustered education experiments](../claims/large-school-samples-required-precision-standards.md) [+W]
 - [Most education impact studies can rigorously address only broad questions due to power constraints](../claims/most-impact-studies-address-broad-questions-only.md) [+W]
 
@@ -235,7 +234,7 @@ The article organizes power analysis for education experiments through a unified
 - [Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites](../claims/power-limited-to-large-site-subgroups.md) [+W]
 - [Required numbers of schools differ across school, classroom, and student random-assignment designs](../claims/required-schools-vary-by-assignment-level.md) [+W]
 - [Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods](../claims/gee-sample-size-formulas-clustered-school-rcts.md) [+W]
-- [Clustering effects vary by design but are typically large in education random-assignment evaluations](../claims/clustering-effects-typically-large-education-designs.md) [+W]
+- [Clustering effects vary by design but are typically large in education random-assignment evaluations](../claims/clustering-effects-large-school-samples-education-trials.md) [+W]
 - [Large school samples are required to achieve appropriate precision standards in clustered education experiments](../claims/large-school-samples-required-precision-standards.md) [+W]
 - [Most education impact studies can rigorously address only broad questions due to power constraints](../claims/most-impact-studies-address-broad-questions-only.md) [+W]
 
@@ -276,7 +275,7 @@ The paper presents "a unified analytic framework based on statistical methods fr
 
 ### Claims
 
-- [Clustering effects vary by design but are typically large in education random-assignment evaluations](../claims/clustering-effects-typically-large-education-designs.md) [+W]
+- [Clustering effects vary by design but are typically large in education random-assignment evaluations](../claims/clustering-effects-large-school-samples-education-trials.md) [+W]
 - [Large school samples are required to achieve appropriate precision standards in clustered education experiments](../claims/large-school-samples-required-precision-standards.md) [+W]
 - [Most education impact studies can rigorously address only broad questions due to power constraints](../claims/most-impact-studies-address-broad-questions-only.md) [+W]
 - [Required numbers of schools differ across school, classroom, and student random-assignment designs](../claims/required-schools-vary-by-assignment-level.md) [+W]

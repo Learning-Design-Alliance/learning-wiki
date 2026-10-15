@@ -59,7 +59,7 @@ Quick Images exploits the perceptual system's capacity to apprehend small quanti
 5. **Repeat with variations** of the same quantity across days so structural recognition generalizes beyond a single arrangement.
 
 ## Related Strategies
-- [Number Talks](number-talks.md) — Quick Images is a common warm-up routine within the broader Number Talks discourse structure
+- [Number Talks](math-talks-number-talks.md) — Quick Images is a common warm-up routine within the broader Number Talks discourse structure
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the routine activates perceptual and quantity knowledge before formal instruction
 
 ## Examples

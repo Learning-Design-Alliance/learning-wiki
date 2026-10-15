@@ -46,7 +46,6 @@ Camera view moderator rows from Table 3 of the media-comparison meta-regression;
 
 
 ## Related Claims
-- [Schematic visual realism is associated with significantly larger game learning effects than realistic visuals, which show no benefit](schematic-realism-larger-game-effects.md) — related
-- [Games with irrelevant or no story relevance show larger learning effects than games with relevant narratives](story-relevance-negative-moderator.md) — related
-- [Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)](digital-games-beat-nongame-conditions-meta.md) — a broader claim this one bears on
-- [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — a broader claim this one bears on
+- [Schematic visual realism is associated with significantly larger game learning effects than realistic visuals, which show no benefit](schematic-visuals-outperform-realistic.md) — related
+- [Games with irrelevant or no story relevance show larger learning effects than games with relevant narratives](irrelevant-story-larger-effects-than-relevant.md) — related
+- [Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)](digital-games-outperform-nongame-media-comparisons.md) — a broader claim this one bears on

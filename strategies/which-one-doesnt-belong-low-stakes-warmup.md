@@ -45,7 +45,7 @@ Teachers opened lessons with warm-up questions projected on the board that "offe
 - [Open Ended Questioning](open-ended-questioning.md)
 - [Estimation Warm Ups](estimation-warm-ups.md)
 - [Retrieval Practice Warm Ups](retrieval-practice-warm-ups.md)
-- [Number Talks](number-talks.md)
+- [Number Talks](math-talks-number-talks.md)
 - [Recognizing the Value of Learning from Mistakes](recognizing_the_value_of_learning_from_mistakes.md)
 
 ## Examples

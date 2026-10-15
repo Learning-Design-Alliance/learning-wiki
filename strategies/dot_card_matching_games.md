@@ -63,7 +63,7 @@ Matching different arrangements of the same quantity is a form of contrasting ca
 ## Related Strategies
 - [Ten-Frame Activities](ten-frame-activities.md) — structured arrangements that extend dot matching toward benchmark-of-5 and benchmark-of-10 reasoning
 - [Counting Collections](counting-collections.md) — complements matching with exact enumeration of larger quantities
-- [Number Talks](number-talks.md) — the discussion format for making dot-card strategies public and comparable
+- [Number Talks](math-talks-number-talks.md) — the discussion format for making dot-card strategies public and comparable
 
 ## Examples
 - **Clements & Sarama's [Building Blocks](https://www.buildingblocksmath.org) curriculum** — includes dot-card and quick-look activities within a research-validated early mathematics learning trajectory; evaluated in a randomized trial with significant gains [doi:10.1126/science.1136898](https://doi.org/10.1126/science.1136898)

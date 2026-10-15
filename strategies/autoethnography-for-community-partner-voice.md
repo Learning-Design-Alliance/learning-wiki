@@ -39,7 +39,7 @@ The article proposes autoethnography as a method for centering community partner
 - equitable participation in collaborative research
 
 ### Affordances
-- [Mitchell Csl Three Component Framework](../theories/mitchell-csl-three-component-framework.md)
+- [Mitchell Csl Three Component Framework](../theories/critical-service-learning-three-component-model.md)
 
 ## Related Strategies
 - 

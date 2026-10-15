@@ -58,7 +58,7 @@ The method of loci converts an unordered list into a spatially organized, retrie
 
 ## Related Strategies
 - [Acronyms and Acrostics](acronyms_and_acrostics.md) — verbal mnemonic alternative when material resists imagery
-- [Spaced Repetition](spaced_repetition.md) — scheduling retrieval practice that consolidates loci-encoded items
+- [Spaced Repetition](spaced-repetition-scheduling.md) — scheduling retrieval practice that consolidates loci-encoded items
 - [Chunking](../principles/chunking.md) — grouping items before placement reduces the number of loci needed
 
 ## Examples

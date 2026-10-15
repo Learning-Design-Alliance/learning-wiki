@@ -37,7 +37,7 @@ A research dataset assembled by Kuhfeld et al. from NWEA MAP Growth reading and 
 
 - [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth-assessment-and-longitudinal-achievement-database.md)
 - [NWEA MAP Growth 2022–23 achievement dataset](nwea-map-growth-202223-achievement-dataset.md)
-- [NWEA MAP Growth](nwea-map-growth.md)
+- [NWEA MAP Growth](map-growth.md)
 - [Fall 2020 MAP Growth remote-versus-in-person comparability dataset](fall-2020-map-growth-remote-versus-in-person-comparability-dataset.md)
 
 ## Key Sources

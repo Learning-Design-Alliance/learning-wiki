@@ -3,7 +3,7 @@ type: revisions
 page: ../products/powerful-learning-framework.md
 ---
 
-# Revision history: [products/powerful-learning-framework](../products/powerful-learning-framework.md)
+# Revision history: [products/powerful-learning-framework](../products/digital-promises-powerful-learning-framework.md)
 
 Recorded as theories/powerful-learning-framework-digital-promise before it was renamed, re-filed or merged.
 

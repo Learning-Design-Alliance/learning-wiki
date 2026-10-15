@@ -94,7 +94,7 @@ The model is anchored in six core tenets that "deﬁne how the work is carried o
 - [Collaborative Innovation: a co-leadership, co-research, and co-design R&D model unfolding through six phases](collaborative-innovation.md)
 - [Inclusive Innovation R&D model: six core tenets for equity-centered education research and development](digital-promises-inclusive-innovation-model.md)
 - [Inclusive Innovation: an equity-centered R&D process with five phases and six Core Tenets](digital-promises-inclusive-innovation-model.md)
-- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/codesign-core-tenets-framework.md)
+- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Inclusive Innovation model with Core Tenets of co-leadership with those most proximate to the challenge](digital-promises-inclusive-innovation-model.md)
 - [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Collaborative Innovation: a six-phase co-research and co-design R&D model](digital-promises-inclusive-innovation-model.md)
@@ -149,7 +149,7 @@ Collaborative Innovation is Digital Promise's structured approach to research an
 
 - [Six core tenets of Collaborative Innovation, organized as Practice and Impact tenets](../products/collaborative-innovation.md)
 - [Collaborative Innovation: a six-phase co-research and co-design R&D model](../products/digital-promises-inclusive-innovation-model.md)
-- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/codesign-core-tenets-framework.md)
+- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Inclusive Innovation: an equity-centered R&D process with five phases and six Core Tenets](digital-promises-inclusive-innovation-model.md)
 - [Inclusive Innovation model with Core Tenets of co-leadership with those most proximate to the challenge](digital-promises-inclusive-innovation-model.md)

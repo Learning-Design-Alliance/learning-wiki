@@ -82,8 +82,8 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - [Teaching for Transfer (Hugging and Bridging)](../strategies/teaching-for-transfer.md) — the Salomon & Perkins framing of this strategy
 - [Use Worked Examples](worked-examples-first.md) — the example-comparison foundation from which transfer tasks diverge
 - [Case-Based Learning](../strategies/case-based-learning.md) — situates principles in realistic contexts requiring application
-- [Spaced Repetition](spaced_repetition.md) — distributed, spaced retrieval strengthens the durable memory that transfer draws on
-- [Comparing Cases](comparing_cases.md) — the core mechanism for supporting abstraction across examples
+- [Spaced Repetition](spaced-repetition-scheduling.md) — distributed, spaced retrieval strengthens the durable memory that transfer draws on
+- [Comparing Cases](comparing-contrasting-cases.md) — the core mechanism for supporting abstraction across examples
 - [Authentic Learning Tasks](authentic_learning_tasks.md) — grounding practice in realistic contexts increases the likelihood of application beyond the classroom
 - [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
 - [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](ai-reflection-context-prompt-assignments.md)
@@ -159,8 +159,8 @@ Transfer depends on learners encoding knowledge in a form that is abstract enoug
 
 ## Related Strategies
 
-- [Spaced Repetition](spaced_repetition.md) — distributed, spaced retrieval strengthens the durable memory that transfer draws on
-- [Comparing Cases](comparing_cases.md) — the core mechanism for supporting abstraction across examples
+- [Spaced Repetition](spaced-repetition-scheduling.md) — distributed, spaced retrieval strengthens the durable memory that transfer draws on
+- [Comparing Cases](comparing-contrasting-cases.md) — the core mechanism for supporting abstraction across examples
 - [Authentic Learning Tasks](authentic_learning_tasks.md) — grounding practice in realistic contexts increases the likelihood of application beyond the classroom
 - [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
 

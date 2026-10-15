@@ -68,5 +68,4 @@ Null moderator result from the same meta-regression models: no association betwe
 - [Schematic visual games show larger learning effects than realistic games, which show no significant benefit over nongame conditions](schematic-visuals-outperform-realistic.md) — related
 - [No evidence that learning effects differ by variety of player actions or by inclusion of additional nongame instruction](variety-actions-and-supplemental-instruction-null.md) — related
 - [Theoretically augmented game designs produce better learning outcomes than standard game versions (g = 0.34), with enhanced scaffolding designs showing g = 0.41](value-added-augmented-designs-benefit-learning.md) — related
-- [Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)](digital-games-beat-nongame-conditions-meta.md) — a broader claim this one bears on
 - [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — possibly the same claim (merge candidate)

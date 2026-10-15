@@ -80,7 +80,7 @@ The constraint-based engine (CBE), originally built for state summative assessme
 
 - [CBE enhancements for MAP Growth delivery (Project Altair)](../products/project-altair.md)
 - [Enhanced CBE simulator in Assessment Integration Management (AIM)](../products/assessment-integration-management-aim.md)
-- [NWEA MAP Growth interim assessments](nwea-map-growth.md)
+- [NWEA MAP Growth interim assessments](map-growth.md)
 
 ## Examples
 -

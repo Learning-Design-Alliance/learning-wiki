@@ -63,7 +63,7 @@ A suite of course-specific interim assessments released by NWEA in 2017 (NWEA- a
 ## Related Elements
 
 - [Course-specific MAP Growth tests (Algebra 1, Geometry, Algebra 2, Integrated Math 1–3, Biology/Life Science)](map-growth-course-specific-assessments.md)
-- [NWEA MAP Growth assessment and longitudinal achievement database](nwea-map-growth.md)
+- [NWEA MAP Growth assessment and longitudinal achievement database](map-growth.md)
 
 ## Examples
 -

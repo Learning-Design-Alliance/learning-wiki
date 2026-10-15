@@ -6,6 +6,7 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: reflective-practice-improves-outcomes-when-structured
+aliases: [metacognitive-prompts-larger-writing-effects]
 evidence_strength: unrated
 sources:
   - id: bangert-drowns-et-al-2004
@@ -26,12 +27,20 @@ sources:
     n: 208
     kind: causal
     rigour: "?"
+  - id: nückles-2020
+    resource: "https://doi.org/10.1007/s10648-020-09541-1"
+    title: "Nückles, M., Roelle, J., Glogger-Frey, I., Waldeyer, J., & Renkl, A. (2020). The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load in Self-Regulated Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09541-1"
+    author: "Nückles, M., Roelle, J., Glogger-Frey, I., Waldeyer, J., & Renkl, A."
+    q: 3
+    i: 2
+    kind: review
+    rigour: 2
 ---
 
 # Reflective Practice Improves Outcomes When Structured
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4`
+> **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q4` · `i2` medium
 
 Reflection improves learning and performance when it is prompted by structure — specific questions, frameworks, or prompts — rather than left as an unguided invitation to "think about your learning."
 
@@ -40,6 +49,8 @@ Reflection improves learning and performance when it is prompted by structure �
 `q4 i?` A meta-analysis of 48 school-based writing-to-learn interventions found metacognitive-reflection prompts were the single strongest predictor of enhanced effects on academic achievement, controlling for other writing content types. [→ Bangert-Drowns et al. 2004](#bangert-drowns-et-al-2004)
 
 `q2 i?` In a quasi-experimental classroom study, engineering students given specific (structured) reflection prompts scored significantly higher on exams, project work and problem sets than students given generic (unstructured) prompts, despite both groups submitting the same number of reflections. [→ Menekse et al. 2022](#menekse-et-al-2022)
+
+`q3 i2` In Bangert-Drowns et al.'s meta-analysis, writing tasks including metacognitive prompts had a significantly larger effect on learning success (d = 0.44) than writing tasks without such prompts, against an overall average effect of 0.26. [→ Nückles 2020](#nuckles-2020)
 
 ## Evidence
 
@@ -58,6 +69,16 @@ Menekse, M., Anwar, S., & Akdemir, Z. G. (2022). How do different reflection pro
 `q2 · quasi-experimental classroom study` · `i? · no effect size reported, described only as "significantly better"` · `n=208` · `causal · r?`
 
 Using a quasi-experimental design across two sections of a required first-year engineering course (N = 208), students were assigned to receive either generic or specific (i.e., more structured, content-targeted) reflection prompts and submitted 52 reflections apiece over a semester. Students in the specific-prompts condition performed significantly better than the generic-prompts condition on exams, total project score, and two of the problem sets, even though the sheer quantity of reflection was held constant between groups. This isolates prompt structure/specificity, rather than amount of reflection, as the active ingredient — directly supporting the claim's conditional framing (structure matters, not just the presence of reflection).
+
+### Nückles 2020
+
+Nückles, M., Roelle, J., Glogger-Frey, I., Waldeyer, J., & Renkl, A. (2020). The Self-Regulation-View in Writing-to-Learn: Using Journal Writing to Optimize Cognitive Load in Self-Regulated Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09541-1
+
+`q3 · i2` · `review · r2`
+
+Meta-analysis of school-based writing-to-learn task assignments including informational writing types. The review reports the meta-analysis obtained an average effect size of 0.26 standard deviations overall, and that tasks "that included metacognitive prompts" had "a significantly larger effect on learning success (Cohen ’s d = 0.44)".
+
+> "writing tasks that included metacognitive prompts encouraging students to reflect on their knowledge, comprehension difficulties, and learning processes had a significantly larger effect on learning success (Cohen ’s d = 0.44) compared with writing tasks without such prompts"
 
 ## Studies bearing on this claim
 
@@ -105,7 +126,7 @@ Using a quasi-experimental design across two sections of a required first-year e
 - [Higher self-assessment, verbosity, reflective processing, and technical abstraction are associated with greater response complexity, and Evaluation and Analysis questions tend to yield more complex responses](ols-complexity-predictors.md) — related
 - [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](reflective-scaffolding-habituation-deskilling.md) — related
 - [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](combine-cognitive-metacognitive-prompts.md) — related
-- [Writing tasks with metacognitive prompts yield larger learning effects than writing tasks without such prompts (d = 0.44 vs. 0.26)](metacognitive-prompts-larger-writing-effects.md) — possibly the same claim (merge candidate)
 - [A personal utility prompt in journal writing improves learning motivation and comprehension](personal-utility-prompt-motivation-comprehension.md) — related
 - [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](prompted-journal-writing-medium-large-effect.md) — related
 - [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](unsupported-journal-writing-low-strategy-use.md) — related
+- [Prompting metacognitive strategies before cognitive strategies improves strategy quality and conceptual knowledge](metacognitive-first-prompt-sequence.md) — related

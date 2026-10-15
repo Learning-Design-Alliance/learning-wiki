@@ -3,6 +3,7 @@ type: claim
 title: Games with no story or irrelevant story context show larger learning effects than games with relevant story context
 description: Games with no story or irrelevant story context show larger learning effects than games with relevant story context
 id: irrelevant-story-larger-effects-than-relevant
+aliases: [story-relevance-negative-moderator]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -25,7 +26,10 @@ sources:
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
 
 ## Subclaims
+
 `q3 i2` Media comparisons showed larger effects for games with no story (g = 0.44) or irrelevant story (g = 0.63) than games with relevant story (g = 0.17, CI including zero), consistent with Moderator Hypothesis 3d. [→ Clark 2016](#clark-2016)
+
+`q3 i2` Games with irrelevant story relevance averaged g = 0.63 and games with no story g = 0.44, versus g = 0.17 for relevant stories, a significant moderator difference. [→ Clark Douglas B. 2016](#clark-2016)
 
 ## Evidence
 
@@ -42,15 +46,32 @@ Moderator analysis from Table 3 of media comparisons, with the asterisk indicati
  Irrelevanti		0.63	[0.33, 0.94]	75 (11)	0.27	
  Relevanti		0.17	[−0.03, 0.37]	88 (29)	0.26"
 
+<!-- merged 2026-10-15 from story-relevance-negative-moderator: that page's entry for this study, which differed from the one above, kept verbatim.
+### Clark Douglas B. 2016
+
+Clark Douglas B., Tanner-Smith Emily E., Killingsworth Stephen S. (2016). Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis. Review of Educational Research. https://doi.org/10.3102/0034654315582065
+
+`q3 · i2` · `quant-synthesis · r3`
+
+Story relevance moderator rows from Table 3 of the media-comparison meta-regression; the asterisk marks a significant difference across categories, with superscripts denoting the irrelevant-versus-relevant pairwise difference. Printed effect sizes are g = 0.63 (irrelevant), g = 0.44 (none), and g = 0.17 (relevant, CI including zero).
+
+> "Story relevance	*			
+	None	0.44	[0.16, 0.71]	46 (17)	0.28	
+	Irrelevanti	0.63	[0.33, 0.94]	75 (11)	0.27	
+	Relevanti	0.17	[−0.03, 0.37]	88 (29)	0.26"
+-->
+
 ## Discussion
 
 
+
 ## Learner Variables
+
 - [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
 - [No evidence that learning effects differ by variety of player actions or by inclusion of additional nongame instruction](variety-actions-and-supplemental-instruction-null.md) — related
 - [Single noncollaborative, noncompetitive play shows the largest learning effects; single competitive play shows no benefit relative to nongame conditions](single-noncompetitive-play-largest-effects.md) — related
 - [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — a broader claim this one bears on
-- [Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)](digital-games-beat-nongame-conditions-meta.md) — a broader claim this one bears on
-- [Games with irrelevant or no story relevance show larger learning effects than games with relevant narratives](story-relevance-negative-moderator.md) — possibly the same claim (merge candidate)
+- [Third-person camera perspective games show significant learning benefits while first-person perspective games show no significant benefit](camera-perspective-moderator-games.md) — related

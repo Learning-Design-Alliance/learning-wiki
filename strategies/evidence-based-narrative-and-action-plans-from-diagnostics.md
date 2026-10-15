@@ -39,7 +39,7 @@ The article recommends that after reviewing 5Essentials diagnostic results, scho
 - strengthening organizational practices
 
 ### Affordances
-- [Five Essential Supports School Improvement Framework](../theories/five-essential-supports-school-improvement-framework.md)
+- [Five Essential Supports School Improvement Framework](../theories/five-essential-supports-framework-ccsr.md)
 
 ## Related Strategies
 

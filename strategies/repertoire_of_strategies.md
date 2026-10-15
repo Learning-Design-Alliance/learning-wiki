@@ -70,7 +70,7 @@ Building a strategy repertoire shifts instruction from single-procedure mastery 
 - [Assess Performance](../elements/assess-performance.md) — assessment must target choice and justification, not just execution
 
 ## Examples
-- **[Number talks](number-talks.md) (K–6 mathematics):** a teacher poses one computation, students solve mentally with different methods, and the class compares strategies (e.g., decomposition vs. standard algorithm), making the repertoire public and evaluated.
+- **[Number talks](math-talks-number-talks.md) (K–6 mathematics):** a teacher poses one computation, students solve mentally with different methods, and the class compares strategies (e.g., decomposition vs. standard algorithm), making the repertoire public and evaluated.
 - **Comparison in algebra (Rittle-Johnson & Star's studies):** students studying two worked examples of the same problem side by side, explaining similarities and differences, showed greater procedural flexibility than students studying the examples sequentially.
 - **[Cognitively Guided Instruction](../principles/responsive-teaching.md)** — teachers elicit and map children's informal strategies (direct modeling, counting, derived facts) rather than imposing a single algorithm.
 

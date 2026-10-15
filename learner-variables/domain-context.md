@@ -73,7 +73,6 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition](../claims/individual-ai-condition-no-significant-relevance-effect.md) [-M] — instruction changes it
 - [Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer](../claims/implicit-strategies-inconclusive-domain-specific-only.md) [~M] — an instructional effect differs with it
 - [Games with no story or irrelevant story context show larger learning effects than games with relevant story context](../claims/irrelevant-story-larger-effects-than-relevant.md) [+M] — an instructional effect differs with it
-- [Games with irrelevant or no story relevance show larger learning effects than games with relevant narratives](../claims/story-relevance-negative-moderator.md) [+M] — an instructional effect differs with it
 
 ## Related Learner Variables
 - Prior knowledge — the domain-specific dimension it is most often confused with: this is setting, that is knowledge.

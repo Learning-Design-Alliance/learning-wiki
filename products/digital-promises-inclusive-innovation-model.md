@@ -161,7 +161,7 @@ Collaborative Innovation is "a structured approach to research and development t
 ## Related Theories
 
 - [Collaborative Innovation: a co-leadership, co-research, and co-design R&D model unfolding through six phases](collaborative-innovation.md)
-- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/codesign-core-tenets-framework.md)
+- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Inclusive Innovation model with Core Tenets of co-leadership with those most proximate to the challenge](digital-promises-inclusive-innovation-model.md)
 - [The Learning Salon five-phase engagement model for district-provider equity collaboration](learning-salon.md)
@@ -261,7 +261,7 @@ Inclusive Innovation is an equity-centered research and development process in w
 - [Inclusive Innovation model with Core Tenets of co-leadership with those most proximate to the challenge](digital-promises-inclusive-innovation-model.md)
 - [Inclusive Innovation R&D model: six core tenets for equity-centered education research and development](digital-promises-inclusive-innovation-model.md)
 - [Inclusive Innovation: a co-research and co-design R&D framework enabling co-leadership among students, teachers, parents, community members, and district leaders](digital-promises-inclusive-innovation-model.md)
-- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/codesign-core-tenets-framework.md)
+- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 
 ## Examples
@@ -350,7 +350,7 @@ Inclusive Innovation is a paradigm for education R&D in which district-community
 
 - [Inclusive Innovation R&D model: six core tenets for equity-centered education research and development](digital-promises-inclusive-innovation-model.md)
 - [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
-- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/codesign-core-tenets-framework.md)
+- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Inclusive Innovation model with Core Tenets of co-leadership with those most proximate to the challenge](digital-promises-inclusive-innovation-model.md)
 - [Collaborative Innovation: a six-phase co-research and co-design R&D model](../products/digital-promises-inclusive-innovation-model.md)
 - [Collaborative Innovation: a co-leadership, co-research, and co-design R&D model unfolding through six phases](../products/collaborative-innovation.md)
@@ -396,7 +396,7 @@ Inclusive Innovation is an education R&D model that brings students, families, a
 ## Related Theories
 
 - [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
-- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/codesign-core-tenets-framework.md)
+- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Inclusive Innovation: a co-research and co-design R&D framework enabling co-leadership among students, teachers, parents, community members, and district leaders](../products/digital-promises-inclusive-innovation-model.md)
 - [Inclusive Innovation R&D model: six core tenets for equity-centered education research and development](digital-promises-inclusive-innovation-model.md)
 - [Six core tenets of Collaborative Innovation, organized as Practice and Impact tenets](../products/collaborative-innovation.md)
@@ -450,7 +450,7 @@ The Inclusive Innovation R&D model is an equity-centered education research and 
 - [Inclusive Innovation: a co-research and co-design R&D framework enabling co-leadership among students, teachers, parents, community members, and district leaders](../products/digital-promises-inclusive-innovation-model.md)
 - [Learner Positioning Systems and Learner Models framework](learner-variability-project.md)
 - [Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
-- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/codesign-core-tenets-framework.md)
+- [Co-design framework with core tenets of power sharing, relationships, and capability building](../theories/co-design-core-tenets-digital-promise.md)
 - [Six core tenets of Collaborative Innovation, organized as Practice and Impact tenets](../products/collaborative-innovation.md)
 
 ## Examples

@@ -286,7 +286,7 @@ The pattern is strongest when the problem is authentic enough to matter and the 
 ### Elements Used
 - [Problem Presentation](../elements/problem-presentation.md)
 - [Inquiry and Research](../elements/inquiry-and-research.md)
-- [Problem-Solving Tasks](../elements/problem-solving-tasks.md)
+- [Problem-Solving Tasks](../elements/problem-solving.md)
 - [Reflection](../elements/reflection.md)
 
 ### Affordances

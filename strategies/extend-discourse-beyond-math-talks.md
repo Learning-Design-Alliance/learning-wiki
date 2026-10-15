@@ -40,7 +40,6 @@ The report's recommendations for teachers and professional development designers
 
 - [Math Talks](math-talks.md)
 - [Math Talks / Number Talks](math-talks-number-talks.md)
-- [Number Talks](number-talks.md)
 
 ## Examples
 -

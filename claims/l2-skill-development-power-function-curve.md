@@ -44,7 +44,7 @@ Fine-grained analysis of extensive empirical data from 61 subjects practicing ta
 
 ## Related Claims
 - [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — related
-- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](l2-morphosyntax-learning-highly-skill-specific.md) — related
+- [Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill](skill-specificity-l2-grammar-practice.md) — related
 - [CogEvolution's simulated learning trajectory fits the human power-law trajectory far better than baselines (R²LC 0.92 vs 0.78 PEERS, 0.45 static agents)](cogevolution-learning-curve-power-law-fit.md) — related
 - [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](low-salience-elements-need-extensive-practice.md) — related
 - [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — related

@@ -83,7 +83,7 @@ Retrieval practice produces substantially stronger long-term retention than rest
 - [Retrieval Practice](retrieval-practice-activities.md) — the underlying mechanism; cumulative quizzes are its most sustainable classroom implementation
 - [Interleaved Practice](interleaved-practice.md) — cumulative review naturally interleaves topics, improving discrimination between problem types
 - [Two-Stage Quizzes](two-stage-quizzes.md) — adds collaborative re-retrieval and peer explanation
-- [Spaced repetition](spaced_repetition.md) — the scheduling algorithm that cumulative quizzing implements manually
+- [Spaced repetition](spaced-repetition-scheduling.md) — the scheduling algorithm that cumulative quizzing implements manually
 - [Frequent low-stakes testing](frequent-low-stakes-quizzes.md) — the assessment structure that makes cumulative quizzing sustainable
 
 ## Examples
@@ -156,7 +156,7 @@ Retrieval practice produces durable, transferable learning that outperforms rest
 5. Model the rationale for learners — explain that forgetting is normal and that effortful retrieval of half-forgotten material is what builds durable memory — since learners otherwise misjudge fluency and undervalue the quizzes.
 
 ## Related Strategies
-- [Spaced repetition](spaced_repetition.md) — the scheduling algorithm that cumulative quizzing implements manually
+- [Spaced repetition](spaced-repetition-scheduling.md) — the scheduling algorithm that cumulative quizzing implements manually
 - [Interleaved practice](interleaved-practice.md) — mixing problem types within a session; cumulative quizzes are interleaving across time
 - [Frequent low-stakes testing](frequent-low-stakes-quizzes.md) — the assessment structure that makes cumulative quizzing sustainable
 

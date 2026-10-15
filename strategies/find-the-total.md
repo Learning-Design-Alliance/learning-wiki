@@ -79,7 +79,7 @@ The strategy exploits the concreteness of dot arrangements to offload counting o
 
 ## Related Strategies
 
-- [Number Talks](../strategies/number-talks.md) — the parent routine; Find the Total is a number-talk task type for early addition
+- [Number Talks](math-talks-number-talks.md) — the parent routine; Find the Total is a number-talk task type for early addition
 - [Quick Look Cards](../strategies/quick-look-cards.md) — same flash-and-subitize structure focused on quantity recognition rather than combining
 - [Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words](multiple-strategies-modeling-problems.md)
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — quick dot flashes at the start of a lesson reactivate counting and part-whole knowledge before new content

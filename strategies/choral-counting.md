@@ -83,7 +83,7 @@ Choral Counting converts a procedural skill (skip counting) into a shared object
 - Number Talks — a companion routine with the same noticing-and-justifying discourse structure applied to computation rather than counting sequences
 - Counting Collections — the individual/small-group counterpart from the same published routine set; students count physical objects and record, deepening cardinality and unitizing
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — a short choral count can serve as a warm-up that surfaces prior knowledge before new content
-- [Number Talks](../strategies/number-talks.md) — the companion discourse routine; Choral Counting builds the shared number relationships that Number Talks then exercise
+- [Number Talks](math-talks-number-talks.md) — the companion discourse routine; Choral Counting builds the shared number relationships that Number Talks then exercise
 - [Notice and Wonder](i-notice-i-wonder.md) — the noticing protocol that structures the discussion phase
 
 ## Examples
@@ -112,7 +112,7 @@ Choral Counting converts a procedural skill (skip counting) into a shared object
 > **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
-Choral Counting is a whole-class mathematics routine in which learners count aloud together by a chosen starting number and increment (e.g., by 6 starting at 15) while the teacher records the count in a deliberate visual arrangement — typically rows of a fixed length on a chart or whiteboard. After counting, the class studies the recorded sequence, noticing and discussing patterns in the numbers, their digits, and their spatial arrangement. The routine is a core practice in Cognitively Guided Instruction classrooms and is usually paired with [Number Talks](../strategies/number-talks.md) as a complementary discussion-based routine.
+Choral Counting is a whole-class mathematics routine in which learners count aloud together by a chosen starting number and increment (e.g., by 6 starting at 15) while the teacher records the count in a deliberate visual arrangement — typically rows of a fixed length on a chart or whiteboard. After counting, the class studies the recorded sequence, noticing and discussing patterns in the numbers, their digits, and their spatial arrangement. The routine is a core practice in Cognitively Guided Instruction classrooms and is usually paired with [Number Talks](math-talks-number-talks.md) as a complementary discussion-based routine.
 
 ## Design Implications
 
@@ -157,7 +157,7 @@ Choral Counting converts a procedural skill (skip counting) into an object of co
 6. Close by naming the generalization (e.g., "counting by 25 lands on 100 every four numbers") and connecting it to place value or multiplication.
 
 ## Related Strategies
-- [Number Talks](../strategies/number-talks.md) — the companion discourse routine; Choral Counting builds the shared number relationships that Number Talks then exercise
+- [Number Talks](math-talks-number-talks.md) — the companion discourse routine; Choral Counting builds the shared number relationships that Number Talks then exercise
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the count surfaces what learners already know about the increment before new instruction
 - [Notice and Wonder](i-notice-i-wonder.md) — the noticing protocol that structures the discussion phase
 

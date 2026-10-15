@@ -69,7 +69,7 @@ An interactive data visualization developed by NWEA Research that, in the articl
 ## Related Elements
 
 - [Interactive data visualizations of COVID-19 reading and math achievement and growth](../elements/covid-learning-data-visualizations-nwea.md)
-- [NWEA MAP Growth interim assessments](nwea-map-growth.md)
+- [NWEA MAP Growth interim assessments](map-growth.md)
 - [NWEA research partnership map visualizing collaborations with universities, foundations, think tanks, and school systems](../elements/nwea-research-partnership-map.md)
 - [NWEA state dashboard for exploring educational impacts of COVID-19](nwea-state-dashboard.md)
 

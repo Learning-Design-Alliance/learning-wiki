@@ -74,8 +74,8 @@ The Algebra Toolkit is a professional development program for middle and high sc
 
 ## Related Elements
 
-- [Facilitator's Guide and PLC slides within the writing toolkit](a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4.md)
-- [Toolkit supporting evidence-based writing instruction in grades 2 through 4](a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4.md)
+- [Facilitator's Guide and PLC slides within the writing toolkit](a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical.md)
+- [Toolkit supporting evidence-based writing instruction in grades 2 through 4](a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical.md)
 - [School Leader's Guide for supporting toolkit completion](a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical.md)
 - [Teacher's Guide with activities, self-reflection, and goal-setting tools](../elements/writing-toolkit-teachers-guide-reflection-tools.md)
 - [Professional Learning Communities at Work (PLC at Work) process](professional-learning-communities-at-work-plc-at-work.md)

@@ -65,7 +65,7 @@ Pair games convert drill into a fast-paced social activity, increasing time-on-t
 - Track fluency gains with brief timed probes before and after a game cycle.
 
 ## Related Strategies
-- [Number Talks](../strategies/number-talks.md) — the discussion-based complement; games build fluency, number talks build reasoning about the same facts
+- [Number Talks](math-talks-number-talks.md) — the discussion-based complement; games build fluency, number talks build reasoning about the same facts
 - [Peer Tutoring](../strategies/peer-tutoring.md) — structured pair work with asymmetric roles; a cooperative alternative to competitive pair games
 - [Retrieval Practice](retrieval-practice-activities.md) — the mechanism pair games exploit; each turn is a retrieval attempt with immediate feedback
 
