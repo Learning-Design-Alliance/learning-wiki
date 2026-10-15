@@ -3,7 +3,7 @@ type: element
 id: social-skills-training-behavioral-approach-element
 title: "Social skills training: a behavioral, practice-based approach to teaching preschool social skills"
 description: "Social skills training is \"not a specific curriculum, but rather a collection of practices that use a behavioral approach for teaching preschool children age-appropriate social skills and competencies, including commu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

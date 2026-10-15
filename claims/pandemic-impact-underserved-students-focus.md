@@ -3,7 +3,7 @@ type: claim
 title: The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty
 description: The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty
 id: pandemic-impact-underserved-students-focus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

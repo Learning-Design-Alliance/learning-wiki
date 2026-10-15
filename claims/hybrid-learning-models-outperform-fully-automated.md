@@ -3,7 +3,7 @@ type: claim
 title: Personalized learning models combining classroom use with student-centered pedagogies (Model C) exert larger effects than fully automated platforms (Model A)
 description: Personalized learning models combining classroom use with student-centered pedagogies (Model C) exert larger effects than fully automated platforms (Model A)
 id: hybrid-learning-models-outperform-fully-automated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

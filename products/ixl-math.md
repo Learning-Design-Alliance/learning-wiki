@@ -4,7 +4,7 @@ id: ixl-math
 title: IXL Math
 description: "IXL Learning's IXL Math is a personalized mathematics learning platform with adaptive skills, tutorials, diagnostics, analytics, and classroom-support tools for learners from PreK through Calculus."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

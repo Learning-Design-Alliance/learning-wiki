@@ -3,7 +3,7 @@ type: element
 id: nwea-brief-school-effectiveness-summer-loss-accountability
 title: NWEA research brief on school effectiveness, summer loss and federal accountability
 description: "A 2019 NWEA research brief, listed under the topics Growth modeling, Seasonal learning patterns & summer loss, and Student growth & accountability policies."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

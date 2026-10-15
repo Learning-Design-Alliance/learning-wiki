@@ -3,7 +3,7 @@ type: claim
 title: "JOBSTART's completion gain came entirely from GED receipt, with a small significant negative effect on earning a high school diploma"
 description: "JOBSTART's completion gain came entirely from GED receipt, with a small significant negative effect on earning a high school diploma"
 id: jobstart-ged-gain-diploma-negative-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

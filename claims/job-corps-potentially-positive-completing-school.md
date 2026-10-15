@@ -3,7 +3,7 @@ type: claim
 title: "Job Corps has potentially positive effects on completing school: more youth without credentials earned a diploma or GED"
 description: "Job Corps has potentially positive effects on completing school: more youth without credentials earned a diploma or GED"
 id: job-corps-potentially-positive-completing-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

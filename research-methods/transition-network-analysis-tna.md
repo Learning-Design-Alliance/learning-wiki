@@ -3,7 +3,7 @@ type: research-method
 id: transition-network-analysis-tna
 title: Transition Network Analysis (TNA)
 description: Transition Network Analysis (TNA) models learning processes as networks of discrete behavioural states connected by directed, probabilistic transitions, computed here with a web-based TNA Shiny app.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

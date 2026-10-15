@@ -3,7 +3,7 @@ type: claim
 title: Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback
 description: Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback
 id: its-improve-learning-outcomes-with-actionable-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

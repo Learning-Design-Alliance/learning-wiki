@@ -4,7 +4,7 @@ title: Teacher experience and credentials relate to evaluation scores, with cred
 description: Teacher experience and credentials relate to evaluation scores, with credential differences appearing only on observations
 id: experience-credentials-teacher-evaluation-scores
 aliases: [credentials-difference-observation-only-not-value-added]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

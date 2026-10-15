@@ -3,7 +3,7 @@ type: claim
 title: Experimental and control groups were equivalent in vocabulary before the glossing treatment
 description: Experimental and control groups were equivalent in vocabulary before the glossing treatment
 id: gloss-study-groups-equivalent-at-pretest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC
 description: Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC
 id: baseline-model-performance-oulad-lr-xgboost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

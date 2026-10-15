@@ -2,7 +2,7 @@
 type: theory
 title: "Three-method taxonomy of child classification: categorical, dimensional, and person-oriented"
 description: The article organizes classification of school-age children into three approaches.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

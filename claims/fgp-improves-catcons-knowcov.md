@@ -3,7 +3,7 @@ type: claim
 title: Fine-grained prompting improves Bloom-level category consistency and knowledge coverage of generated questions in the computer science domain
 description: Fine-grained prompting improves Bloom-level category consistency and knowledge coverage of generated questions in the computer science domain
 id: fgp-improves-catcons-knowcov
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

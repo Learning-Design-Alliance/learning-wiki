@@ -3,7 +3,7 @@ type: claim
 title: American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms
 description: American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts commu...
 id: ai-an-students-question-answer-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

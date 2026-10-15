@@ -4,7 +4,7 @@ id: california-educator-effectiveness-block-grant
 title: California Educator Effectiveness Block Grant
 description: "A California state grant programme that funds local educational agencies' professional learning and related educator-effectiveness, school-climate, social-emotional learning, mental-health, restorative-justice, and equity activities."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

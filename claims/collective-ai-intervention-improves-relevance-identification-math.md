@@ -3,7 +3,7 @@ type: claim
 title: "A collective generative AI relevance intervention significantly improved high school students' relevance as identification with math immediately after the intervention compared with a control group"
 description: "A collective generative AI relevance intervention significantly improved high school students' relevance as identification with math immediately after the intervention compared with a control group"
 id: collective-ai-intervention-improves-relevance-identification-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

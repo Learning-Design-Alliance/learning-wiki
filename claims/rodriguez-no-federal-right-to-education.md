@@ -3,7 +3,7 @@ type: claim
 title: "The U.S. Supreme Court's 1973 Rodriguez decision held that the 14th Amendment neither explicitly nor implicitly guarantees a right to education"
 description: The U.S.
 id: rodriguez-no-federal-right-to-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

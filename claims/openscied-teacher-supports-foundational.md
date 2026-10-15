@@ -3,7 +3,7 @@ type: claim
 title: Professional learning and other teacher supports are perceived as foundational, addressing root causes of many OpenSciEd practitioner challenges across adoption, enactment, and assessment.
 description: Professional learning and other teacher supports are perceived as foundational, addressing root causes of many OpenSciEd practitioner challenges across adoption, enactment, and assessment.
 id: openscied-teacher-supports-foundational
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

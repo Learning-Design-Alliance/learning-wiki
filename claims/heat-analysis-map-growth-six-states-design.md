@@ -3,7 +3,7 @@ type: claim
 title: The heat-achievement analysis links daily temperature data to MAP Growth scores for grades 3–8 in six states
 description: The heat-achievement analysis links daily temperature data to MAP Growth scores for grades 3–8 in six states
 id: heat-analysis-map-growth-six-states-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

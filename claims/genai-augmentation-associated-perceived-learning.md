@@ -3,7 +3,7 @@ type: claim
 title: "Perceived learning benefits are higher when GenAI augments students' capabilities and lower when it hurts critical thinking or causes stress"
 description: "Perceived learning benefits are higher when GenAI augments students' capabilities and lower when it hurts critical thinking or causes stress"
 id: genai-augmentation-associated-perceived-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

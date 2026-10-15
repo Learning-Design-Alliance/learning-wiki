@@ -3,7 +3,7 @@ type: claim
 title: Model performance varies by task category, with Basic Geometry easiest and Spiral consistently the most challenging category
 description: Model performance varies by task category, with Basic Geometry easiest and Spiral consistently the most challenging category
 id: spiral-hardest-basic-geometry-easiest-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

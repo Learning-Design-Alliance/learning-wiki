@@ -3,7 +3,7 @@ type: claim
 title: "Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education"
 description: "Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education"
 id: infrastructure-access-main-barrier-digitally-supported-teacher-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

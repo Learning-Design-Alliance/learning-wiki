@@ -3,7 +3,7 @@ type: strategy
 id: direct-conceptual-assessment-supervised-defense-transfer
 title: Pair AI-permitted take-home assignments with supervised modifications, oral defense, prediction, and transfer tasks to verify understanding
 description: "A concrete response to LLM outsourcing: allow students to use AI for syntax, setup, or debugging while instructors directly assess whether they can explain and adapt the result."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: phased-ai-implementation-nursing-education-strategy
 title: "Phased implementation of AI in nursing education: simulation for emergency care, adaptive platforms for at-risk learners, automated formative feedback, and multi-site pilots"
 description: The review recommends a staged adoption pathway for AI in nursing education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

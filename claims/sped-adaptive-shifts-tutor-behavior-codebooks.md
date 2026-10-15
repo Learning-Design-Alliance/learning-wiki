@@ -3,7 +3,7 @@ type: claim
 title: SPED-adaptive prompting shifts tutor behavior toward We-Do scaffolding, naturalistic language support, and participation-affirming feedback across three codebooks
 description: SPED-adaptive prompting shifts tutor behavior toward We-Do scaffolding, naturalistic language support, and participation-affirming feedback across three codebooks
 id: sped-adaptive-shifts-tutor-behavior-codebooks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

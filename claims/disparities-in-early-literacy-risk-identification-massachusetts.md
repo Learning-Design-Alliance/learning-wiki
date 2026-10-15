@@ -3,7 +3,7 @@ type: claim
 title: Students from low income backgrounds, English learners, students receiving special education services, and Black and Hispanic students were more often identified as at significant risk
 description: Students from low income backgrounds, English learners, students receiving special education services, and Black and Hispanic students were more often identified as at significant risk
 id: disparities-in-early-literacy-risk-identification-massachusetts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

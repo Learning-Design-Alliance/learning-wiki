@@ -3,7 +3,7 @@ type: claim
 title: In Oklahoma A and B schools, FRL students scored lower in reading than Non-FRL students, with the gap widening in 2014
 description: In Oklahoma A and B schools, FRL students scored lower in reading than Non-FRL students, with the gap widening in 2014
 id: frl-reading-gap-a-b-schools-2012-2014
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

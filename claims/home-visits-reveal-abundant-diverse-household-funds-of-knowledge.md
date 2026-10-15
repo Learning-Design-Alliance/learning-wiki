@@ -3,7 +3,7 @@ type: claim
 title: In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.
 description: In the Tucson funds of knowledge project, teachers visiting language minority households found funds of knowledge to be abundant and diverse.
 id: home-visits-reveal-abundant-diverse-household-funds-of-knowledge
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

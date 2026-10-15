@@ -3,7 +3,7 @@ type: claim
 title: Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research
 description: Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research
 id: self-management-strong-mean-effects-with-heterogeneity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

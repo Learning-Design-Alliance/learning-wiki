@@ -3,7 +3,7 @@ type: claim
 title: System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones
 description: System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones
 id: constraints-selectively-affect-inefficient-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

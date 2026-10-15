@@ -3,7 +3,7 @@ type: claim
 title: "At least ten state education agencies have launched official micro-credential pilots, with Tennessee's pilot reaching almost 800 educators"
 description: "At least ten state education agencies have launched official micro-credential pilots, with Tennessee's pilot reaching almost 800 educators"
 id: state-micro-credential-pilots-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

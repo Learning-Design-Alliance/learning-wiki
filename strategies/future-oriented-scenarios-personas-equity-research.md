@@ -3,7 +3,7 @@ type: strategy
 id: future-oriented-scenarios-personas-equity-research
 title: Use future-oriented scenarios and personas to envision and guide equity-relevant research design with digital learning platforms
 description: The article proposes scenarios and personas as design methods for centering equity in research planning on digital learning platforms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

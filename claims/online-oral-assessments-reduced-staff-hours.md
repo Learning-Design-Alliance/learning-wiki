@@ -3,7 +3,7 @@ type: claim
 title: Moving oral assessments online reduced required support staff hours from almost 8 days to 3 days
 description: Moving oral assessments online reduced required support staff hours from almost 8 days to 3 days
 id: online-oral-assessments-reduced-staff-hours
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: federal-strategy-ece-workforce-compensation-preparation
 title: Federal strategy to develop and support a well-qualified ECE workforce through compensation, career-ladder scholarships, preparation programs, and coaching
 description: "The whitepaper's third recommendation area treats well-prepared educators as \"the most important part of an early learning program\" and proposes four steps: improving compensation via CCDBG reimbursement at the true c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

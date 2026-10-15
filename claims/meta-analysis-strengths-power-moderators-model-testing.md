@@ -3,7 +3,7 @@ type: claim
 title: Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing
 description: Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing
 id: meta-analysis-strengths-power-moderators-model-testing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

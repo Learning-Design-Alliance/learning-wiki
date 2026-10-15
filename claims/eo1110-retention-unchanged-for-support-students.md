@@ -3,7 +3,7 @@ type: claim
 title: "Despite gains in credits and B4 completion, retention declines under EO 1110 were similar to baseline: 2018 Category III/IV students retained at the same rates as 2017 'not college ready' students"
 description: "Despite gains in credits and B4 completion, retention declines under EO 1110 were similar to baseline: 2018 Category III/IV students retained at the same rates as 2017 'not college ready' students"
 id: eo1110-retention-unchanged-for-support-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

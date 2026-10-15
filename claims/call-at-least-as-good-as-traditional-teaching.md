@@ -3,7 +3,7 @@ type: claim
 title: "CALL is at least as effective as traditional teaching: the synthesis meets the minimal d=0 (or Hattie's d=.4) expectation"
 description: "CALL is at least as effective as traditional teaching: the synthesis meets the minimal d=0 (or Hattie's d=.4) expectation"
 id: call-at-least-as-good-as-traditional-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

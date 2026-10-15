@@ -3,7 +3,7 @@ type: claim
 title: "The report's dropout and graduate percentages are calculated differently from CPS's and are therefore somewhat smaller than CPS numbers"
 description: "The report's dropout and graduate percentages are calculated differently from CPS's and are therefore somewhat smaller than CPS numbers"
 id: barton-report-method-differs-from-cps-statistics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

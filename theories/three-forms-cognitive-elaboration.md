@@ -2,7 +2,7 @@
 type: theory
 title: Three forms of cognitive elaboration as alternative instructional strategies
 description: "Cognitive elaboration is defined as the generation and integration of new information into one's pre-existing knowledge structure, operationalized as an instructional strategy helping students relate new course materi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

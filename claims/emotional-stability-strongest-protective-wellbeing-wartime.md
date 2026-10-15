@@ -3,7 +3,7 @@ type: claim
 title: "Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law"
 description: "Emotional stability shows the strongest negative association with decline in students' subjective well-being under martial law"
 id: emotional-stability-strongest-protective-wellbeing-wartime
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

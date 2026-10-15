@@ -3,7 +3,7 @@ type: claim
 title: Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training
 description: Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training
 id: qualitative-themes-visualization-versus-operability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

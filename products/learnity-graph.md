@@ -4,7 +4,7 @@ id: learnity-graph
 title: learnity-graph
 description: A prototype web-based learning-graph platform developed by Smadar Szekely and colleagues for representing evolving learning trajectories and exploring personalization, developmental tracking, analytics, and recommendations.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

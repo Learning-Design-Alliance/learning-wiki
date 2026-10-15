@@ -3,7 +3,7 @@ type: claim
 title: Norm shifts can raise achievement percentiles for schools serving struggling students even when RIT gains and projected proficiency do not improve
 description: Norm shifts can raise achievement percentiles for schools serving struggling students even when RIT gains and projected proficiency do not improve
 id: norm-shifts-raise-school-percentiles-struggling-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

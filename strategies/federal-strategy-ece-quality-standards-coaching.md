@@ -3,7 +3,7 @@ type: strategy
 id: federal-strategy-ece-quality-standards-coaching
 title: Federal strategy to raise ECE quality by setting higher CCDBG standards, minimum quality requirements for federally supported preschool, and funding coaching
 description: "The whitepaper's second recommendation area calls for subsidized programs to meet high-quality state standards including low adult-child ratios, high-quality curriculum, well-trained staff, safe facilities, and family..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: nj-early-grades-chronic-absenteeism-fact-sheet
 title: Fact sheet on chronic absenteeism in pre-kindergarten and kindergarten for New Jersey districts and school leaders
 description: "This artifact is a fact sheet publication titled \"Improving the School Attendance of New Jersey's Youngest Learners: Chronic Absenteeism in the Early Grades: A Snapshot of New Jersey\", published November 20, 2019 by R..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

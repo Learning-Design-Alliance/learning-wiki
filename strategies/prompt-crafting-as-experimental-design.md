@@ -3,7 +3,7 @@ type: strategy
 id: prompt-crafting-as-experimental-design
 title: Have students craft physically detailed prompts as a form of experimental design before measuring AI-generated scenarios
 description: A teaching activity in which students write text prompts specifying the visual and physical characteristics of a scenario — without embedding the equations of motion — then track and validate the resulting video again...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

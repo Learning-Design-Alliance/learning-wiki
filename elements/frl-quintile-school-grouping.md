@@ -3,7 +3,7 @@ type: element
 id: frl-quintile-school-grouping
 title: School disadvantage classification by free/reduced-price lunch quintiles within districts
 description: "To measure school disadvantage, the study ranked schools \"by grade span (elementary separate from middle school) within each district based on the percentage of their students eligible for free and reduced price lunch..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

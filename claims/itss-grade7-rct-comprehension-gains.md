@@ -3,7 +3,7 @@ type: claim
 title: In the grade 7 cluster RCT, ITSS produced statistically significant positive effects on all eight comprehension outcomes (average effect size 0.23)
 description: In the grade 7 cluster RCT, ITSS produced statistically significant positive effects on all eight comprehension outcomes (average effect size 0.23)
 id: itss-grade7-rct-comprehension-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: theory
 title: Direct versus Mediated Effects of Retrieval Practice
 description: A distinction the chapter uses to organize retrieval research.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

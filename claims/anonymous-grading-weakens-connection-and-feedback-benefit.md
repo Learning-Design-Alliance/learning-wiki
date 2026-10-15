@@ -3,7 +3,7 @@ type: claim
 title: When connection between student and educator is minimised, as in anonymous grading, students report weaker relationships and perceive feedback as less beneficial
 description: When connection between student and educator is minimised, as in anonymous grading, students report weaker relationships and perceive feedback as less beneficial
 id: anonymous-grading-weakens-connection-and-feedback-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

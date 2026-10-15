@@ -3,7 +3,7 @@ type: claim
 title: "School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning"
 description: "School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning"
 id: covid-pandemic-pooled-learning-deficit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

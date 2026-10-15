@@ -3,7 +3,7 @@ type: claim
 title: "Thoughtless use of generative AI is negatively associated with undergraduates' self-directed learning in a cross-sectional survey model (β = −0.42)"
 description: Thoughtless use of generative AI is negatively associated with undergraduates' self-directed learning in a cross-sectional survey model (β = −0.42)
 id: tuga-negative-direct-effect-sdl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

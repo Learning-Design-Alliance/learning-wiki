@@ -3,7 +3,7 @@ type: claim
 title: "A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)"
 description: A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)
 id: academic-vocabulary-intensive-instruction-strong-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

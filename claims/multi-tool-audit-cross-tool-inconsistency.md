@@ -3,7 +3,7 @@ type: claim
 title: "In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated"
 description: "In a documented exploratory audit, one human-authored manuscript received materially different classifications from five commercial detectors, spanning 0% human to Human Generated"
 id: multi-tool-audit-cross-tool-inconsistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

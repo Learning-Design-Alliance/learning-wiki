@@ -3,7 +3,7 @@ type: research-method
 id: taxonomy-of-test-score-based-school-evaluation-estimators
 title: Taxonomy of test-score-based school evaluation estimators
 description: The paper organizes approaches to using student test scores for school evaluation into distinct estimator families.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

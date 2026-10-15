@@ -3,7 +3,7 @@ type: strategy
 id: strategy-instruction-for-drawing-effectiveness
 title: Strategy instruction may play a role in the effectiveness of the learner-generated drawing strategy
 description: The article concludes with a discussion of how strategy instruction might play a role in the effectiveness of the drawing strategy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

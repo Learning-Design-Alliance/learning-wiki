@@ -3,7 +3,7 @@ type: claim
 title: Emotions may act as extraneous cognitive load by competing for limited working memory resources with task-irrelevant processing
 description: Emotions may act as extraneous cognitive load by competing for limited working memory resources with task-irrelevant processing
 id: emotion-as-extraneous-cognitive-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

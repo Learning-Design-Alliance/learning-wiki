@@ -3,7 +3,7 @@ type: claim
 title: AI-supported examination and construction practices (explanation, creation) qualify only as expanded or transformed epistemic practices because they can be performed without AI
 description: AI-supported examination and construction practices (explanation, creation) qualify only as expanded or transformed epistemic practices because they can be performed without AI
 id: ai-explanation-creation-expanded-not-novel-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

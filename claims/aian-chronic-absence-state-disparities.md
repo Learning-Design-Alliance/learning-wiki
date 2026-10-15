@@ -3,7 +3,7 @@ type: claim
 title: "Chronic absence rates among Native students vary widely across states, with Alaska highest at 60% Native versus 37% White in 2022/23"
 description: "Chronic absence rates among Native students vary widely across states, with Alaska highest at 60% Native versus 37% White in 2022/23"
 id: aian-chronic-absence-state-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

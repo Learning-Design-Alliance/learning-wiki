@@ -3,7 +3,7 @@ type: claim
 title: Reading and writing abilities share substantial overlap, supporting teaching writing based on reading
 description: Reading and writing abilities share substantial overlap, supporting teaching writing based on reading
 id: reading-writing-abilities-overlap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

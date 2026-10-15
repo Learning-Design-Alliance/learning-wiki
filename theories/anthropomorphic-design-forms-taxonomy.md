@@ -2,7 +2,7 @@
 type: theory
 title: DiSalvo et al. taxonomy of four anthropomorphic design forms
 description: The review presents the DiSalvo et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

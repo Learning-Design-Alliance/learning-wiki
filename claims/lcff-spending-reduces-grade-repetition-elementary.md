@@ -3,7 +3,7 @@ type: claim
 title: LCFF-induced spending increases reduced the probability of grade repetition, particularly in elementary school
 description: LCFF-induced spending increases reduced the probability of grade repetition, particularly in elementary school
 id: lcff-spending-reduces-grade-repetition-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

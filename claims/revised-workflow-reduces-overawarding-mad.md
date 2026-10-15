@@ -3,7 +3,7 @@ type: claim
 title: "The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)"
 description: "The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)"
 id: revised-workflow-reduces-overawarding-mad
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

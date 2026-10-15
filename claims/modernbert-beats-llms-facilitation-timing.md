@@ -3,7 +3,7 @@ type: claim
 title: ModernBert classifiers are more consistent than out-of-the-box LLMs at facilitation timing prediction, outperforming them in three of five datasets
 description: ModernBert classifiers are more consistent than out-of-the-box LLMs at facilitation timing prediction, outperforming them in three of five datasets
 id: modernbert-beats-llms-facilitation-timing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

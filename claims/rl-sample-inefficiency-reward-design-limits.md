@@ -3,7 +3,7 @@ type: claim
 title: Reinforcement learning in adaptive educational systems faces sample inefficiency and reward-design instability, motivating hybrid RL-ML approaches
 description: Reinforcement learning in adaptive educational systems faces sample inefficiency and reward-design instability, motivating hybrid RL-ML approaches
 id: rl-sample-inefficiency-reward-design-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

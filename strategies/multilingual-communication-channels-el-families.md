@@ -3,7 +3,7 @@ type: strategy
 id: multilingual-communication-channels-el-families
 title: Remove language and participation barriers by communicating with families in multiple languages through varied channels with interpreters available
 description: "The guide directs states, districts, and schools to allocate resources to \"dismantle barriers to information, participation, and communication for linguistically diverse families.\" It names barriers including language..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

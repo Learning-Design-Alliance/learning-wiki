@@ -3,7 +3,7 @@ type: claim
 title: The brief compares the scale and impact of summer school with other interventions such as tutoring
 description: The brief compares the scale and impact of summer school with other interventions such as tutoring
 id: summer-school-compared-tutoring-scale-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

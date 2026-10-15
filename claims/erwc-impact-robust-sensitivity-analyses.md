@@ -3,7 +3,7 @@ type: claim
 title: The positive ERWC impact on EPT scores is robust to sensitivity analyses varying matching methods and analytic sample composition
 description: The positive ERWC impact on EPT scores is robust to sensitivity analyses varying matching methods and analytic sample composition
 id: erwc-impact-robust-sensitivity-analyses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

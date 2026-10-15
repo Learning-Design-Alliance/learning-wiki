@@ -3,7 +3,7 @@ type: claim
 title: "Overt correction of errors speeds young children's learning compared with knowledge of correctness alone"
 description: "Overt correction of errors speeds young children's learning compared with knowledge of correctness alone"
 id: overt-error-correction-speeds-young-children-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: The nine AI demonstrations drew high attendance but modest engagement, with student feedback sharply split on course utility
 description: The nine AI demonstrations drew high attendance but modest engagement, with student feedback sharply split on course utility
 id: ai-demonstrations-split-on-course-utility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

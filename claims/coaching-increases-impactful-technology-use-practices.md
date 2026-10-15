@@ -3,7 +3,7 @@ type: claim
 title: Coached teachers report more frequent impactful technology use practices developing student skills
 description: Coached teachers report more frequent impactful technology use practices developing student skills
 id: coaching-increases-impactful-technology-use-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

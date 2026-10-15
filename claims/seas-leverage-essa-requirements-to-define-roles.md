@@ -3,7 +3,7 @@ type: claim
 title: SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies.
 description: SEAs are leveraging ESSA requirements and increased flexibility to specify SEA and LEA roles and push evidence-based, locally contextualized improvement strategies.
 id: seas-leverage-essa-requirements-to-define-roles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

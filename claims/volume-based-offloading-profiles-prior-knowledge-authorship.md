@@ -3,7 +3,7 @@ type: claim
 title: Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship
 description: Volume-based offloading profiles differentiate learners primarily by prior knowledge, and offloading volume is negatively associated with essay authorship
 id: volume-based-offloading-profiles-prior-knowledge-authorship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

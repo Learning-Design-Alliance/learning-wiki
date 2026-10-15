@@ -2,7 +2,7 @@
 type: claim
 title: Restorying supports Black girls' identification of and resistance to dominant narratives in computing
 id: restorying-supports-computing-identity-reconstruction
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: claim
 title: "Design factors moderating AI's effect on learning matter only through whether they engage the learner's evaluation"
 description: "Design factors moderating AI's effect on learning matter only through whether they engage the learner's evaluation"
 id: design-factors-work-through-vigilance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

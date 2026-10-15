@@ -3,7 +3,7 @@ type: claim
 title: Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output
 description: Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output
 id: sft-less-effective-than-prompting-for-feedback-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

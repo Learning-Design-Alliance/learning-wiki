@@ -3,7 +3,7 @@ type: claim
 title: Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested
 description: Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested
 id: genai-chemistry-evidence-short-term-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

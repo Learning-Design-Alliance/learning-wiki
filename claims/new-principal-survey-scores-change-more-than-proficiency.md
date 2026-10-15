@@ -3,7 +3,7 @@ type: claim
 title: When a school gets a new principal, Insight survey domain scores change more than student proficiency rates
 description: When a school gets a new principal, Insight survey domain scores change more than student proficiency rates
 id: new-principal-survey-scores-change-more-than-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

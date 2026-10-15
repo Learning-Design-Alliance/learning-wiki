@@ -3,7 +3,7 @@ type: claim
 title: Challenge based lessons scored significantly higher than NGSS practices-aligned lessons on three of six deeper learning dimensions and equivalent on the other three
 description: Challenge based lessons scored significantly higher than NGSS practices-aligned lessons on three of six deeper learning dimensions and equivalent on the other three
 id: cbl-vs-ngss-practices-aligned-three-of-six-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: LLMs and instructors agree broadly on where feedback belongs but diverge on exact sentence spans, with span overlap strongly goal-dependent and LLMs highlighting more of each essay
 description: LLMs and instructors agree broadly on where feedback belongs but diverge on exact sentence spans, with span overlap strongly goal-dependent and LLMs highlighting more of each essay
 id: llm-instructor-span-overlap-goal-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

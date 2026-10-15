@@ -3,7 +3,7 @@ type: strategy
 id: sell-through-adult-education-consortia
 title: Sell to consortia of adult education providers and encourage institutions to buy technology together to lower cost and risk
 description: The guide recommends that entrepreneurs sell to groups of organizations and encourage institutions to work together when possible.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

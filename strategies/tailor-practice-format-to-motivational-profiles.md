@@ -3,7 +3,7 @@ type: strategy
 id: tailor-practice-format-to-motivational-profiles
 title: "Tailor practice format to students' motivational profiles, particularly baseline self-efficacy and format favorability"
 description: The article recommends moving beyond general instructional claims and considering individual motivational differences when choosing between tutor-based and paper-based practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: framework-for-leadership
 title: Framework for Leadership
 description: "Pennsylvania's tool for evaluating the effectiveness of school principals and assistant principals, developed and administered by the Pennsylvania Department of Education."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

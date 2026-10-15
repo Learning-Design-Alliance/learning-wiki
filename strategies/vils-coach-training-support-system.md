@@ -3,7 +3,7 @@ type: strategy
 id: vils-coach-training-support-system
 title: "Multi-layer coach training and support system: coach camp, paired mentoring, ongoing webinars, and coach-the-coach sessions"
 description: "Digital Promise supports program coaches through a layered professional learning system: new coaches attend a four-day in-person coach camp practicing coaching conversations and coaching cycles; first-year coaches are..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

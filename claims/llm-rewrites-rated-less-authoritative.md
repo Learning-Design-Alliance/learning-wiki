@@ -3,7 +3,7 @@ type: claim
 title: Both LLM rewrite styles were rated less authoritative than standard interpreter messages
 description: Both LLM rewrite styles were rated less authoritative than standard interpreter messages
 id: llm-rewrites-rated-less-authoritative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

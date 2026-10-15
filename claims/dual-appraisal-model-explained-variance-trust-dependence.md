@@ -3,7 +3,7 @@ type: claim
 title: "The dual-appraisal model explains 42.7% of variance in trust in AI and 45.9% of variance in GenAI dependence"
 description: "The dual-appraisal model explains 42.7% of variance in trust in AI and 45.9% of variance in GenAI dependence"
 id: dual-appraisal-model-explained-variance-trust-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

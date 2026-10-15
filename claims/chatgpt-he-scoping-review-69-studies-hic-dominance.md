@@ -3,7 +3,7 @@ type: claim
 title: "The global literature on ChatGPT in higher education is concentrated in high-income countries and mostly non-empirical: of 69 included studies, 53 (77%) were from HICs and only 19 (27%) were based on empirical data."
 description: "The global literature on ChatGPT in higher education is concentrated in high-income countries and mostly non-empirical: of 69 included studies, 53 (77%) were from HICs and only 19 (27%) were based on empirical data."
 id: chatgpt-he-scoping-review-69-studies-hic-dominance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

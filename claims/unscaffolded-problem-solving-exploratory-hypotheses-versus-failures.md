@@ -3,7 +3,7 @@ type: claim
 title: Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures
 description: Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures
 id: unscaffolded-problem-solving-exploratory-hypotheses-versus-failures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

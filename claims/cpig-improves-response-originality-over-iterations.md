@@ -3,7 +3,7 @@ type: claim
 title: "CPIG's iterative exemplar selection consistently improves the originality of LLM responses to generated CPS items by the last round of item generation"
 description: "CPIG's iterative exemplar selection consistently improves the originality of LLM responses to generated CPS items by the last round of item generation"
 id: cpig-improves-response-originality-over-iterations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

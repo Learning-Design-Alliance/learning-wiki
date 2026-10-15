@@ -3,7 +3,7 @@ type: claim
 title: ASR usage frequency moderately predicts reflective behavior but does not significantly predict learning motivation
 description: ASR usage frequency moderately predicts reflective behavior but does not significantly predict learning motivation
 id: asr-usage-frequency-reflection-not-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

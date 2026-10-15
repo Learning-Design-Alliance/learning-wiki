@@ -3,7 +3,7 @@ type: claim
 title: The article constructs an educational benchmark of 108 instruction instances grouped into simple, composite, and complex difficulty levels
 description: The article constructs an educational benchmark of 108 instruction instances grouped into simple, composite, and complex difficulty levels
 id: edusim-llm-three-level-instruction-difficulty-benchmark
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

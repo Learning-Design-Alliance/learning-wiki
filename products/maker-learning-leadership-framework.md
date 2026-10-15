@@ -4,7 +4,7 @@ id: maker-learning-leadership-framework
 title: Maker Learning Leadership Framework
 description: A Digital Promise framework that helps K–12 leadership teams establish a maker-learning vision, build a supporting culture, and develop sustainable maker-learning programs.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

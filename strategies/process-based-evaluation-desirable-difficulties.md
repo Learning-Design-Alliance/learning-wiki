@@ -3,7 +3,7 @@ type: strategy
 id: process-based-evaluation-desirable-difficulties
 title: "Process-based evaluation strategies: desirable difficulties, think-aloud protocols, annotated drafts, and iterative revision logs that render reasoning legible"
 description: "Drawing on Bjork and Bjork, the article advocates \"desirable difficulties, such as in-class, resource-restricted problem solving\", making the path to the answer as important as the answer so cognitive labor occurs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

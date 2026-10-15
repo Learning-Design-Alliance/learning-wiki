@@ -3,7 +3,7 @@ type: claim
 title: "Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style"
 description: "Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style"
 id: monitoring-lowers-preposition-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Reading SEMs exceed those in mathematics under all pool types, and only the all-grade reading pool meets the operational SEM stopping rule on average
 description: Reading SEMs exceed those in mathematics under all pool types, and only the all-grade reading pool meets the operational SEM stopping rule on average
 id: reading-sems-higher-all-pools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

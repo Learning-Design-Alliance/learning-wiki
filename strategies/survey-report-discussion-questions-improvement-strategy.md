@@ -3,7 +3,7 @@ type: strategy
 id: survey-report-discussion-questions-improvement-strategy
 title: Use survey profiles, discussion questions, and the Details report to guide school improvement deliberations
 description: "The report recommends using its profiles to \"stimulate discussion among your school's leadership team, teachers and members of the local school council (LSC) about instructional priorities and current performance\", in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

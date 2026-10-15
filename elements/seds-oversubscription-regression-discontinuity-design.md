@@ -3,7 +3,7 @@ type: element
 id: seds-oversubscription-regression-discontinuity-design
 title: Regression discontinuity design exploiting oversubscription rationing of SEdS
 description: "The study's identification strategy exploits a program rule: oversubscribed districts must serve the lowest-achieving eligible applicants first, and districts use \"a continuous measure of prior academic achievement to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

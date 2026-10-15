@@ -2,7 +2,7 @@
 type: theory
 title: "Lowenfeld and Brittain's stages of art development parallel Piaget's stages of cognitive development"
 description: "The article uses Lowenfeld and Brittain's (1987) stages of art development as a framework coinciding with Piaget's cognitive stages."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

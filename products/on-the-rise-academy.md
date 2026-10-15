@@ -4,7 +4,7 @@ id: on-the-rise-academy
 title: On the Rise Academy
 description: A Detroit Public Schools Community District alternative teacher-certification and recruitment programme that prepares local community members and school support staff through coaching, observations, and supported school placements.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Threshold changes in early alert systems can drastically reshape flagged-student volume and advisor workload and should not occur informally
 description: Threshold changes in early alert systems can drastically reshape flagged-student volume and advisor workload and should not occur informally
 id: threshold-change-governance-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

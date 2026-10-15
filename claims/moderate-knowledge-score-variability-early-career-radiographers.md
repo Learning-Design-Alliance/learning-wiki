@@ -3,7 +3,7 @@ type: claim
 title: Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers
 description: Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers
 id: moderate-knowledge-score-variability-early-career-radiographers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

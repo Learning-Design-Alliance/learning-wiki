@@ -3,7 +3,7 @@ type: claim
 title: Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated
 description: Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated
 id: teachers-retain-ultimate-control-responsibility-not-delegable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

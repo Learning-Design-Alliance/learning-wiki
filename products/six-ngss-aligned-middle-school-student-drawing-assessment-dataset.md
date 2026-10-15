@@ -4,7 +4,7 @@ id: six-ngss-aligned-middle-school-student-drawing-assessment-dataset
 title: Six NGSS-aligned middle school student drawing assessment dataset
 description: A dataset of middle school students’ scientific drawings from six NGSS-aligned modeling assessment items, annotated by domain experts across three proficiency levels and released with example drawings.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

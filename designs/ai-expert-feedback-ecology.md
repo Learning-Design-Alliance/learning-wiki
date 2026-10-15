@@ -3,7 +3,7 @@ type: design
 id: ai-expert-feedback-ecology
 title: "AI Expert Feedback Ecology: a closed-loop cognition framework linking AI Twins, AI Tutors, dashboards, and learners"
 description: "The article defines the AI Expert Feedback Ecology as \"a closed-loop educational ecosystem in which AI Twins, AI tutors, dashboards, and learners continuously interact through cognition-aware feedback processes.\" AI T..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

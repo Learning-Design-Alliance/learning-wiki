@@ -3,7 +3,7 @@ type: claim
 title: "Upper-elementary teachers have large effects on students' self-reported behavior in class, self-efficacy in math, and happiness in class that are similar in magnitude to their effects on math test scores"
 description: "Upper-elementary teachers have large effects on students' self-reported behavior in class, self-efficacy in math, and happiness in class that are similar in magnitude to their effects on math test scores"
 id: teachers-large-effects-behaviors-mindsets-similar-to-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

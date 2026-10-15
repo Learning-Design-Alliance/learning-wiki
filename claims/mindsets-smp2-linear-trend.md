@@ -3,7 +3,7 @@ type: claim
 title: Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend
 description: Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend
 id: mindsets-smp2-linear-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: A qualitative case study of 17 GenAI adoption cases in a UK business school identified current integration practices along with associated benefits, challenges and influencing factors
 description: A qualitative case study of 17 GenAI adoption cases in a UK business school identified current integration practices along with associated benefits, challenges and influencing factors
 id: genai-adoption-practices-benefits-challenges-17-cases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

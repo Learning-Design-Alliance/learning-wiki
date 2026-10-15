@@ -3,7 +3,7 @@ type: claim
 title: "Commissioned evaluations found 21CSLA offerings influenced participants' knowledge, skills, and practices related to evidence-based practices, continuous improvement, and equity"
 description: "Commissioned evaluations found 21CSLA offerings influenced participants' knowledge, skills, and practices related to evidence-based practices, continuous improvement, and equity"
 id: 21csla-evaluations-influenced-knowledge-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

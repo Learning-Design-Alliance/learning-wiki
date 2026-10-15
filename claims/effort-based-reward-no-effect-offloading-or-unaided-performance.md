@@ -3,7 +3,7 @@ type: claim
 title: An effort-based reward did not significantly reduce answer offloading or improve unaided performance
 description: An effort-based reward did not significantly reduce answer offloading or improve unaided performance
 id: effort-based-reward-no-effect-offloading-or-unaided-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

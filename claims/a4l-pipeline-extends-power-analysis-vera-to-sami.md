@@ -3,7 +3,7 @@ type: claim
 title: "Statistical power analysis for Welch's t-test originally developed for the VERA domain was extended to the SAMI domain through configuration alone"
 description: "Statistical power analysis for Welch's t-test originally developed for the VERA domain was extended to the SAMI domain through configuration alone"
 id: a4l-pipeline-extends-power-analysis-vera-to-sami
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

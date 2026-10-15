@@ -3,7 +3,7 @@ type: strategy
 id: use-technology-after-effort
 title: Use technology after learner effort to protect productive struggle
 description: The report recommends giving learners space to generate their own thinking and ideas before introducing technology supports.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Prompted self-monitoring is the most frequently used self-management configuration in school-based single-case research
 description: Prompted self-monitoring is the most frequently used self-management configuration in school-based single-case research
 id: prompted-self-monitoring-most-frequent-configuration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

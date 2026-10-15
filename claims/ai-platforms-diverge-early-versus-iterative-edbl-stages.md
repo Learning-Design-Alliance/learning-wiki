@@ -3,7 +3,7 @@ type: claim
 title: The general-purpose platform scored higher in early EDBL stages while the education-focused platform scored higher in feedback-intensive iterative stages
 description: The general-purpose platform scored higher in early EDBL stages while the education-focused platform scored higher in feedback-intensive iterative stages
 id: ai-platforms-diverge-early-versus-iterative-edbl-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

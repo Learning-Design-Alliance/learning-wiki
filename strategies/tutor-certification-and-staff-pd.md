@@ -3,7 +3,7 @@ type: strategy
 id: tutor-certification-and-staff-pd
 title: Certify tutors before tutoring begins and provide professional development to supervising school staff
 description: "The article states that \"BookNook Tutors complete a certification prior to tutoring start date\" and that \"BookNook also provides on-site or virtual professional development for school staff.\" This preparation strategy..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

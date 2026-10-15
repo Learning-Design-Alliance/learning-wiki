@@ -2,7 +2,7 @@
 type: theory
 title: Three patterns of instructional adaptation to individual differences, each with distinct measurement requirements
 description: Drawing on Cronbach (1967), the paper identifies three patterns of adapting instruction to individual differences.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

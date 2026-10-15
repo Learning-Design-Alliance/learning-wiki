@@ -3,7 +3,7 @@ type: claim
 title: Students who preferred human tutor feedback cited face-to-face interaction, engagement, follow-up questions, and speaking practice
 description: Students who preferred human tutor feedback cited face-to-face interaction, engagement, follow-up questions, and speaking practice
 id: human-feedback-preference-face-to-face-reasons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

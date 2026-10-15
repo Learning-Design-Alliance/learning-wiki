@@ -3,7 +3,7 @@ type: strategy
 id: early-parent-communication-open-enrollment-summer-edtech
 title: Recruit early in the spring, communicate clearly with parents, keep enrollment open, and require commitment to clear program expectations
 description: Because most districts waited until school was nearly over to promote the programs, there was not enough time to interest students and families.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

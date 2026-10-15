@@ -3,7 +3,7 @@ type: strategy
 id: justify-and-compare-ai-assisted-solutions
 title: Require students to justify AI-assisted solutions and compare AI-generated with self-developed code
 description: "Because self-directed GenAI use alone did not produce measurable gains on AI-free assessments, the article recommends instructional activities that promote deeper engagement, such as \"requiring students to justify AI-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

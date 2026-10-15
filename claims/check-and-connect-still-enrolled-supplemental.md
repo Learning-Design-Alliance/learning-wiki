@@ -3,7 +3,7 @@ type: claim
 title: "Check & Connect increases the percentage still enrolled at end of fourth year (supplemental finding)"
 description: "Check & Connect increases the percentage still enrolled at end of fourth year (supplemental finding)"
 id: check-and-connect-still-enrolled-supplemental
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

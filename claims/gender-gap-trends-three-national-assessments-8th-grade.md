@@ -3,7 +3,7 @@ type: claim
 title: Gender gap trends in 8th-grade STEM were estimated from five years of TIMSS, NAEP, and MAP Growth data spanning the pandemic
 description: Gender gap trends in 8th-grade STEM were estimated from five years of TIMSS, NAEP, and MAP Growth data spanning the pandemic
 id: gender-gap-trends-three-national-assessments-8th-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

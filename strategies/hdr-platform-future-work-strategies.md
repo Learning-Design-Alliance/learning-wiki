@@ -3,7 +3,7 @@ type: strategy
 id: hdr-platform-future-work-strategies
 title: "Planned extensions: expanded user studies, expert-in-the-loop RLHF, hybrid retrieval, and hand-tracking-based assessment"
 description: The authors lay out four forward-looking directions for the platform.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The best GRPO variant also achieves the highest Conversation Depth (0.722), suggesting stronger scaffolding accompanies deeper semantic progression
 description: The best GRPO variant also achieves the highest Conversation Depth (0.722), suggesting stronger scaffolding accompanies deeper semantic progression
 id: grpo-without-directness-highest-conversation-depth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

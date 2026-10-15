@@ -3,7 +3,7 @@ type: claim
 title: "Combining intensive mentoring with other supports is associated with the largest retention-plan gaps: 48 percentage points for elementary and 55 for high school novices"
 description: "Combining intensive mentoring with other supports is associated with the largest retention-plan gaps: 48 percentage points for elementary and 55 for high school novices"
 id: combined-mentoring-supports-largest-retention-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: scaffolded-practice-oriented-genai-integration-hss
 title: Integrate GenAI into HSS education through scaffolded, practice-oriented training sequences and discipline-responsive, process-focused assessment
 description: The article recommends integrating GenAI in HSS education via training that combines foundational conceptual instruction with hands-on practice, and assessment redesigned to prioritize reasoning and process.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

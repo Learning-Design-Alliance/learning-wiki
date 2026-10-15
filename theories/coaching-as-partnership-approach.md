@@ -2,7 +2,7 @@
 type: theory
 title: Coaching as a partnership among principals, coaches, and teachers
 description: "The report adopts a partnership framing of instructional coaching, attributed to Knight (2007), in which principals, coaches, and teachers all \"define, understand, and engage in coaching as a partnership.\" Under this..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

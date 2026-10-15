@@ -3,7 +3,7 @@ type: claim
 title: High GAI use is not a necessary condition for high learning engagement, and no single condition is strictly necessary
 description: High GAI use is not a necessary condition for high learning engagement, and no single condition is strictly necessary
 id: gai-use-not-necessary-high-engagement-fsqca
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

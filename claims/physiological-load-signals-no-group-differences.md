@@ -3,7 +3,7 @@ type: claim
 title: Confirmatory physiological tests found no significant tool×task interactions for pupil Δ or ln RMSSD, with substantial data loss limiting interpretation
 description: Confirmatory physiological tests found no significant tool×task interactions for pupil Δ or ln RMSSD, with substantial data loss limiting interpretation
 id: physiological-load-signals-no-group-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

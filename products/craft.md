@@ -4,7 +4,7 @@ id: craft
 title: CRAFT
 description: CRAFT is a Stanford Graduate School of Education co-design initiative that develops classroom-ready artificial-intelligence literacy resources for educators.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

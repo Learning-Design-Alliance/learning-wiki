@@ -3,7 +3,7 @@ type: claim
 title: "CoTAL improves GPT-4 scoring agreement with human scorers on the Rules Task, raising average subscore QWK from 0.826 to 0.916 (a 10.9% gain) over a non-prompt-engineered baseline"
 description: "CoTAL improves GPT-4 scoring agreement with human scorers on the Rules Task, raising average subscore QWK from 0.826 to 0.916 (a 10.9% gain) over a non-prompt-engineered baseline"
 id: cotal-rules-task-qwk-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

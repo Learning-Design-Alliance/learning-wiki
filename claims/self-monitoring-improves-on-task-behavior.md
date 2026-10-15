@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Self Monitoring Improves On Task Behavior
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

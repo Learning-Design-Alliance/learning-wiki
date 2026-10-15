@@ -3,7 +3,7 @@ type: strategy
 id: structured-parent-training-and-follow-up-for-aac
 title: Pair AAC introduction with structured parent training, follow-up, and practical guidance for everyday routines
 description: The article recommends that AAC implementation extend beyond introducing the communication system itself.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

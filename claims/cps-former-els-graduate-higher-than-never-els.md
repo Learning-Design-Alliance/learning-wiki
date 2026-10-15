@@ -3,7 +3,7 @@ type: claim
 title: "Former English Learners graduated from CPS high school at a higher rate (89.0%) than students never classified as English Learners (84.1%)"
 description: "Former English Learners graduated from CPS high school at a higher rate (89.0%) than students never classified as English Learners (84.1%)"
 id: cps-former-els-graduate-higher-than-never-els
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

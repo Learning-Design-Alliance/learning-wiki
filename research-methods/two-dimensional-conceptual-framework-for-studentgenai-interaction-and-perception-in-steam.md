@@ -3,7 +3,7 @@ type: research-method
 id: two-dimensional-conceptual-framework-for-studentgenai-interaction-and-perception-in-steam
 title: Two-dimensional conceptual framework for student–GenAI interaction and perception in STEAM learning
 description: "The article proposes a conceptual framework with two dimensions: student–GenAI interaction and students' perceptions of GenAI use."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

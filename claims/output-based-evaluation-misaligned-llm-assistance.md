@@ -3,7 +3,7 @@ type: claim
 title: The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification
 description: The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification
 id: output-based-evaluation-misaligned-llm-assistance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

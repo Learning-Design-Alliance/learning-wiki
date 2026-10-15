@@ -3,7 +3,7 @@ type: claim
 title: Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision
 description: Bayesian factorial analysis controls the risk of false positives from multiple comparisons while increasing precision
 id: bayesian-partial-pooling-precision-false-positive-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

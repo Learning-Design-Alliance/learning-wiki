@@ -3,7 +3,7 @@ type: claim
 title: "KITE's feedback led simulated students to improve revised answers in 24 of 27 non-already-correct interactions (88.89%)"
 description: "KITE's feedback led simulated students to improve revised answers in 24 of 27 non-already-correct interactions (88.89%)"
 id: kite-feedback-improves-simulated-student-revisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

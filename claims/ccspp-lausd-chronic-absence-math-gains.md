@@ -3,7 +3,7 @@ type: claim
 title: "LAUSD CCSPP community schools reduced chronic absence by approximately 9% more and improved math proficiency by approximately 10% more than comparable non-CCSPP high-need schools"
 description: "LAUSD CCSPP community schools reduced chronic absence by approximately 9% more and improved math proficiency by approximately 10% more than comparable non-CCSPP high-need schools"
 id: ccspp-lausd-chronic-absence-math-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

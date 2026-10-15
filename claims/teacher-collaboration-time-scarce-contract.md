@@ -3,7 +3,7 @@ type: claim
 title: Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community
 description: Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community
 id: teacher-collaboration-time-scarce-contract
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: research-method
 id: four-capability-taxonomy-for-organizing-educational-foundation-model-supervision
 title: Four-capability taxonomy for organizing educational foundation-model supervision
 description: "OmniEdu organizes education-specific supervision around four complementary capability categories defined \"according to the behaviors to be learned\" rather than by source or subject."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

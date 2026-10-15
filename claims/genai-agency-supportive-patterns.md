@@ -3,7 +3,7 @@ type: claim
 title: GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions
 description: GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions
 id: genai-agency-supportive-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

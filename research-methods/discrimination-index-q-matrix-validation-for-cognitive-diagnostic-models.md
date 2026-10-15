@@ -3,7 +3,7 @@ type: research-method
 id: discrimination-index-q-matrix-validation-for-cognitive-diagnostic-models
 title: Discrimination-index Q-matrix validation for cognitive diagnostic models
 description: The article supplies the theoretical basis for using its discrimination index as the foundation of a Q-matrix validation method.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

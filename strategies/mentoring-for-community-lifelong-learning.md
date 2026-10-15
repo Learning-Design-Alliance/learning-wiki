@@ -3,7 +3,7 @@ type: strategy
 id: mentoring-for-community-lifelong-learning
 title: Advance community-based lifelong learning through mentoring relationships connecting local expertise with desired learners
 description: The paper recommends mentoring as a major component for effective community-based lifelong learning, describing it as a one-to-one relationship in which mentor and protege experience personal, professional, and intell...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

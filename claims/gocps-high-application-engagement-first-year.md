@@ -3,7 +3,7 @@ type: claim
 title: Almost all CPS eighth-graders (92 percent) used the GoCPS platform to apply to high school in its first year
 description: Almost all CPS eighth-graders (92 percent) used the GoCPS platform to apply to high school in its first year
 id: gocps-high-application-engagement-first-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

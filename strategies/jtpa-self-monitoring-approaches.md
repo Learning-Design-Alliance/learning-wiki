@@ -3,7 +3,7 @@ type: strategy
 id: jtpa-self-monitoring-approaches
 title: "Three adaptable self-monitoring approaches: administrative, peer observation, and eclectic"
 description: "The guide presents three models districts may adapt: an administrative approach in which the coordinator and administrators monitor using the instrument; a peer observation approach using \"a team trained by the JTPA c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

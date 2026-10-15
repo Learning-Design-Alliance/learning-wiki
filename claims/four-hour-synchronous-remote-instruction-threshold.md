@@ -3,7 +3,7 @@ type: claim
 title: During remote learning, students at all grade levels spent about four hours per day in synchronous online instruction regardless of district requirements
 description: During remote learning, students at all grade levels spent about four hours per day in synchronous online instruction regardless of district requirements
 id: four-hour-synchronous-remote-instruction-threshold
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

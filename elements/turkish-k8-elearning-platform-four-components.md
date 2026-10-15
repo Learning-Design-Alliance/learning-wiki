@@ -3,7 +3,7 @@ type: element
 id: turkish-k8-elearning-platform-four-components
 title: Turkish K–8 e-learning platform with four module components (lessons, practices, exams, games)
 description: "The studied platform is a comprehensive online system for Grades 1–8 covering subjects aligned with Turkey's national curriculum, accessible via web browser or mobile application."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

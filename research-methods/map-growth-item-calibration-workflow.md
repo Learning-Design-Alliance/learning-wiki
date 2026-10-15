@@ -3,7 +3,7 @@ type: research-method
 id: map-growth-item-calibration-workflow
 title: MAP Growth item calibration workflow
 description: "The existing tool, built in T-SQL within the Growth Research Database, runs an automated pipeline: data cleaning, item parameter estimation via a brute-force grid search over RIT values 100-350 that minimizes mean square fit with person abilities fixed, and a Model of Man (MoM) procedure that predic"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

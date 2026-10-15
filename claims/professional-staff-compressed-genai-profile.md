@@ -3,7 +3,7 @@ type: claim
 title: Professional staff show a pragmatically compressed GenAI profile with high ethical awareness and the widest span of create-level endorsement of any cohort
 description: Professional staff show a pragmatically compressed GenAI profile with high ethical awareness and the widest span of create-level endorsement of any cohort
 id: professional-staff-compressed-genai-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

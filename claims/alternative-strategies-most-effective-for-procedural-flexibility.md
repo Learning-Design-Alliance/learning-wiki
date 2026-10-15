@@ -3,7 +3,7 @@ type: claim
 title: Alternative-strategy practices are most effective for improving procedural flexibility, with weaker evidence for conceptual and procedural knowledge
 description: Alternative-strategy practices are most effective for improving procedural flexibility, with weaker evidence for conceptual and procedural knowledge
 id: alternative-strategies-most-effective-for-procedural-flexibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

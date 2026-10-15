@@ -3,7 +3,7 @@ type: claim
 title: The L1-L2 distinction in incidental vocabulary acquisition from reading lies in the rate, not the ultimate outcome, of the acquisition process
 description: The L1-L2 distinction in incidental vocabulary acquisition from reading lies in the rate, not the ultimate outcome, of the acquisition process
 id: l1-l2-distinction-rate-not-outcome
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

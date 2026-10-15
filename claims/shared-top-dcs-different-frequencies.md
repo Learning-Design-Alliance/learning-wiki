@@ -3,7 +3,7 @@ type: claim
 title: L1 and L2 writers share a core set of high-frequency connectives but with strikingly different frequencies, and is nearly three times more frequent in L1 essays
 description: L1 and L2 writers share a core set of high-frequency connectives but with strikingly different frequencies, and is nearly three times more frequent in L1 essays
 id: shared-top-dcs-different-frequencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide
 description: AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide
 id: sycophantic-ai-companions-lack-corrective-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

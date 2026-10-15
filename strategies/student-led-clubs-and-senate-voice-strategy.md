@@ -3,7 +3,7 @@ type: strategy
 id: student-led-clubs-and-senate-voice-strategy
 title: Student-led after-school club creation and student senate structures to expand student voice and engagement
 description: "Roswell community schools shifted decision-making to students: at Sierra, all after-school clubs are determined by students, who brainstorm ideas, gather peer interest, recruit a paid teacher host, and seek approval f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

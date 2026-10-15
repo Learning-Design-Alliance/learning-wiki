@@ -3,7 +3,7 @@ type: strategy
 id: time-out-negative-punishment
 title: Time-Out (Negative Punishment)
 description: Time-out is a negative-punishment technique in which a child displaying an undesirable behavior is removed from a desirable activity for a brief, age-scaled duration, then returned without further comment.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

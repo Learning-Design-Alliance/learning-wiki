@@ -3,7 +3,7 @@ type: claim
 title: Linking studies predict proficiency on state summative assessments from MAP Growth scores
 description: Linking studies predict proficiency on state summative assessments from MAP Growth scores
 id: map-growth-linking-studies-predict-state-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: analyze-lecturer-proof-discourse-for-de-ritualization-characteristics
 title: "Analyze lecturers' proof discourse for flexibility, bondedness, applicability, agentivity, objectification, and substantiability to study de-ritualization opportunities"
 description: "The paper proposes a methodological approach: researchers study proof teaching in lectures by identifying in the lecturer's discourse the characteristics that mirror desirable routine changes — the lecturer may \"perfo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

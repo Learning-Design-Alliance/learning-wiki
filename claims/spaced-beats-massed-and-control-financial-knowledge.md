@@ -4,7 +4,7 @@ title: Spaced retrieval practice outperformed both massed retrieval practice and
 description: Spaced retrieval practice outperformed both massed retrieval practice and no-practice control on delayed financial knowledge, while massed and control did not differ
 id: spaced-beats-massed-and-control-financial-knowledge
 aliases: [spaced-retrieval-practice-improves-financial-knowledge-retention]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

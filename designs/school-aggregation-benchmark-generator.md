@@ -3,7 +3,7 @@ type: design
 id: school-aggregation-benchmark-generator
 title: Synthetic benchmark instance generator for school aggregation problems
 description: Because no public benchmark existed, the article developed a structured random instance generator producing synthetic yet realistic regional school networks.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

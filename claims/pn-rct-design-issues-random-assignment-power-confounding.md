@@ -3,7 +3,7 @@ type: claim
 title: PN-RCT design choices include random assignment possibilities, cluster formation, statistical power, and confounding factors
 description: PN-RCT design choices include random assignment possibilities, cluster formation, statistical power, and confounding factors
 id: pn-rct-design-issues-random-assignment-power-confounding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

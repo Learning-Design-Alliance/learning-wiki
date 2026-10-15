@@ -3,7 +3,7 @@ type: claim
 title: Equivalence failures under human evaluators were confined to five assignment-by-question-type cells, four of them on code questions
 description: Equivalence failures under human evaluators were confined to five assignment-by-question-type cells, four of them on code questions
 id: five-cells-exceeded-equivalence-margin
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

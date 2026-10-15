@@ -3,7 +3,7 @@ type: strategy
 id: more-intensive-literacy-supports-later-grades
 title: Provide more intensive literacy interventions and supports for at-risk students in later grades
 description: The brief recommends that supports for older early-grade students be scaled up relative to kindergarten supports, because risk status is more persistent in later grades.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

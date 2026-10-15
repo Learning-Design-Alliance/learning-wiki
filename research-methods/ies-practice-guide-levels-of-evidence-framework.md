@@ -3,7 +3,7 @@ type: research-method
 id: ies-practice-guide-levels-of-evidence-framework
 title: IES practice guide levels-of-evidence framework
 description: "The guide operationalizes the IES levels of evidence for practice guides: strong evidence requires studies with high internal and external validity, such as a systematic review meeting WWC standards or well-designed randomized trials with no contradictory evidence; moderate evidence allows strong ca"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

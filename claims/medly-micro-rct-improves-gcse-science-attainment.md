@@ -3,7 +3,7 @@ type: claim
 title: "Allocation to Medly improved post-test GCSE science attainment relative to business-as-usual self-directed revision (Hedges' g = 0.33)"
 description: "Allocation to Medly improved post-test GCSE science attainment relative to business-as-usual self-directed revision (Hedges' g = 0.33)"
 id: medly-micro-rct-improves-gcse-science-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

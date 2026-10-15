@@ -3,7 +3,7 @@ type: strategy
 id: proctored-exams-as-independent-baseline-for-llm-detection
 title: Use proctored, closed-note in-person examinations as an independent baseline for validating LLM-use detections
 description: "The article validates its detection scores against exams where \"the use of any external assistance is prohibited by course policy\", treating closed-note, written, proctored exams as \"an independent baseline of student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

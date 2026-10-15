@@ -3,7 +3,7 @@ type: claim
 title: Training effects concentrated in portrait images (+39.8 percentage points, significant), with directional non-significant negative estimates for full-body and posed-group images
 description: Training effects concentrated in portrait images (+39.8 percentage points, significant), with directional non-significant negative estimates for full-body and posed-group images
 id: training-effects-largest-for-portrait-images
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

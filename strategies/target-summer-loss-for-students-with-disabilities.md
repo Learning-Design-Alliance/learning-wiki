@@ -3,7 +3,7 @@ type: strategy
 id: target-summer-loss-for-students-with-disabilities
 title: Address summer learning loss for students with disabilities to narrow achievement disparities
 description: "Because the research finds that \"steeper summer learning losses for students with disabilities contribute to widening disparities,\" educators and policymakers should focus intervention on the summer period for this gr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

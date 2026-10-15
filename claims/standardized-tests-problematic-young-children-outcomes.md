@@ -3,7 +3,7 @@ type: claim
 title: Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.
 description: Traditional on-demand standardized tests pose problems when used to assess the achievement of young children in preschool program evaluations.
 id: standardized-tests-problematic-young-children-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

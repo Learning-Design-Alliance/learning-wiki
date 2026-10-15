@@ -3,7 +3,7 @@ type: claim
 title: "LearnLens's modular pipeline outperforms direct-prompt baselines on scoring quality while matching latency and cost on 100 authentic student answers"
 description: "LearnLens's modular pipeline outperforms direct-prompt baselines on scoring quality while matching latency and cost on 100 authentic student answers"
 id: learnlens-modular-pipeline-beats-baselines-scoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

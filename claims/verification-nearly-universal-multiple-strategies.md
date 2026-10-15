@@ -3,7 +3,7 @@ type: claim
 title: Verification is nearly universal among LLM users, and most students combine multiple verification strategies rather than relying on a single one
 description: Verification is nearly universal among LLM users, and most students combine multiple verification strategies rather than relying on a single one
 id: verification-nearly-universal-multiple-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

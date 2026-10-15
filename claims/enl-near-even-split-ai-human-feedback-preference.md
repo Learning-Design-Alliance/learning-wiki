@@ -3,7 +3,7 @@ type: claim
 title: ENL students were near-evenly split in preference between AI-generated and human tutor feedback
 description: ENL students were near-evenly split in preference between AI-generated and human tutor feedback
 id: enl-near-even-split-ai-human-feedback-preference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

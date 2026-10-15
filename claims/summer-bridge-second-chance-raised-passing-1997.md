@@ -3,7 +3,7 @@ type: claim
 title: "Summer Bridge's second chance substantially raised promotion rates: by August 1997, 68% of included third graders, 79% of sixth graders, and 83% of eighth graders had met the cutoff"
 description: "Summer Bridge's second chance substantially raised promotion rates: by August 1997, 68% of included third graders, 79% of sixth graders, and 83% of eighth graders had met the cutoff"
 id: summer-bridge-second-chance-raised-passing-1997
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

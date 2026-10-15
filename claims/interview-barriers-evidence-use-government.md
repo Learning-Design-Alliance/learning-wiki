@@ -3,7 +3,7 @@ type: claim
 title: "Subject matter interviews reveal barriers to evidence use in government: untimely evidence, research not geared to decision-makers, limited understanding of evidence, and organizational influences"
 description: "Subject matter interviews reveal barriers to evidence use in government: untimely evidence, research not geared to decision-makers, limited understanding of evidence, and organizational influences"
 id: interview-barriers-evidence-use-government
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

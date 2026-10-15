@@ -3,7 +3,7 @@ type: claim
 title: "Most GoCPS applicants received an offer from a preferred program: 51 percent from their top-ranked and 81 percent from a top-three ranked choice program"
 description: "Most GoCPS applicants received an offer from a preferred program: 51 percent from their top-ranked and 81 percent from a top-three ranked choice program"
 id: gocps-most-applicants-top-three-offers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade
 description: GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade
 id: non-core-gpa-declines-exceed-core
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

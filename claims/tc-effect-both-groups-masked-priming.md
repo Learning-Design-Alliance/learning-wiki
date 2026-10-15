@@ -3,7 +3,7 @@ type: claim
 title: In a masked-priming lexical decision task, both Chinese and Japanese speakers show a TC effect, with TC primes producing faster responses than control nonword primes
 description: In a masked-priming lexical decision task, both Chinese and Japanese speakers show a TC effect, with TC primes producing faster responses than control nonword primes
 id: tc-effect-both-groups-masked-priming
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

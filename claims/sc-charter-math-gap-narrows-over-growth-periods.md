@@ -3,7 +3,7 @@ type: claim
 title: Charter math disadvantage varies across growth periods and narrows over time, with no significant math difference in 2017-18
 description: Charter math disadvantage varies across growth periods and narrows over time, with no significant math difference in 2017-18
 id: sc-charter-math-gap-narrows-over-growth-periods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

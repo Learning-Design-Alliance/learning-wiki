@@ -3,7 +3,7 @@ type: claim
 title: A district produced an inclusive computational thinking pathway document through a participatory, teacher-represented development process spanning multiple school years.
 description: A district produced an inclusive computational thinking pathway document through a participatory, teacher-represented development process spanning multiple school years.
 id: talladega-participatory-ct-pathway-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

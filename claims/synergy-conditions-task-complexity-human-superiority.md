@@ -3,7 +3,7 @@ type: claim
 title: Synergy is more likely in simpler content generation tasks and when humans exceed AI performance
 description: Synergy is more likely in simpler content generation tasks and when humans exceed AI performance
 id: synergy-conditions-task-complexity-human-superiority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

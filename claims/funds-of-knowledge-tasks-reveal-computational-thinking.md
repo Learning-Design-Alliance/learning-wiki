@@ -2,7 +2,7 @@
 type: claim
 title: "Assessment tasks built on family-identified funds of knowledge elicited computational thinking from K-2 children in a small design-based study that made no comparison with standard assessment"
 id: funds-of-knowledge-tasks-reveal-computational-thinking
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

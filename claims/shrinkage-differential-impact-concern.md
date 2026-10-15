@@ -3,7 +3,7 @@ type: claim
 title: Shrinkage could differentially affect consequences for teachers of fewer students or students with hard-to-predict achievement
 description: Shrinkage could differentially affect consequences for teachers of fewer students or students with hard-to-predict achievement
 id: shrinkage-differential-impact-concern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

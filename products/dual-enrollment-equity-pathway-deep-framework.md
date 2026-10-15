@@ -4,7 +4,7 @@ id: dual-enrollment-equity-pathway-deep-framework
 title: Dual Enrollment Equity Pathway (DEEP) framework
 description: A Community College Research Center framework that organizes four equity-oriented practice areas for designing and supporting dual-enrollment programs, especially for underserved high school students.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

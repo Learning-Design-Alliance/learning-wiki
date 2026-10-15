@@ -3,7 +3,7 @@ type: claim
 title: Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers
 description: Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers
 id: belonging-reduces-cognitive-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

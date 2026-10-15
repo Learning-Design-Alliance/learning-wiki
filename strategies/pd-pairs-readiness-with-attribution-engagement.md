@@ -3,7 +3,7 @@ type: strategy
 id: pd-pairs-readiness-with-attribution-engagement
 title: Teacher AI professional development should pair readiness-building with structured engagement with attribution and pedagogy
 description: Because the study finds positive beliefs and concerns form along separate tracks, the authors recommend PD that goes beyond tool demonstrations and technical confidence.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

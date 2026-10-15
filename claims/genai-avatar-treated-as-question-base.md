@@ -3,7 +3,7 @@ type: claim
 title: Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning
 description: Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning
 id: genai-avatar-treated-as-question-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

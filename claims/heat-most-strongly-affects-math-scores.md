@@ -3,7 +3,7 @@ type: claim
 title: Higher temperatures most strongly affect math scores on test days
 description: Higher temperatures most strongly affect math scores on test days
 id: heat-most-strongly-affects-math-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

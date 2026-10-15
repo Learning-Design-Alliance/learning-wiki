@@ -3,7 +3,7 @@ type: claim
 title: Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction
 description: Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction
 id: error-correction-effort-supports-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

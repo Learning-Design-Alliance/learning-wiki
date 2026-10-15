@@ -3,7 +3,7 @@ type: claim
 title: MiC middle schools outperformed prediction in 2016 and 2017 but the advantage faded by 2018, while non-selected comparison districts improved significantly
 description: MiC middle schools outperformed prediction in 2016 and 2017 but the advantage faded by 2018, while non-selected comparison districts improved significantly
 id: mic-middle-school-advantage-faded-2018
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

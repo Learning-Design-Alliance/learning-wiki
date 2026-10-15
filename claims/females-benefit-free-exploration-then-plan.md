@@ -3,7 +3,7 @@ type: claim
 title: "In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first"
 description: In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first
 id: females-benefit-free-exploration-then-plan
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

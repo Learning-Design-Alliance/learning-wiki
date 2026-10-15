@@ -3,7 +3,7 @@ type: claim
 title: At least 26 states supported ongoing statewide leadership development initiatives for in-service leaders as of 2022–23
 description: At least 26 states supported ongoing statewide leadership development initiatives for in-service leaders as of 2022–23
 id: 26-states-statewide-leadership-initiatives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

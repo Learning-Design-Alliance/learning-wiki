@@ -3,7 +3,7 @@ type: claim
 title: "Teachers of color in focus groups report five workforce challenges: antagonistic culture, feeling undervalued, deprived agency and autonomy, unfavorable working conditions, and high personal costs"
 description: "Teachers of color in focus groups report five workforce challenges: antagonistic culture, feeling undervalued, deprived agency and autonomy, unfavorable working conditions, and high personal costs"
 id: five-challenges-teachers-of-color-face
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation
 description: Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation
 id: districts-lack-blended-learning-evidence-and-implementation-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

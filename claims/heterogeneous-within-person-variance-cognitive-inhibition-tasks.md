@@ -3,7 +3,7 @@ type: claim
 title: Within-person variance in cognitive inhibition tasks is heterogeneous, with person-specific reliability differing up to tenfold
 description: Within-person variance in cognitive inhibition tasks is heterogeneous, with person-specific reliability differing up to tenfold
 id: heterogeneous-within-person-variance-cognitive-inhibition-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

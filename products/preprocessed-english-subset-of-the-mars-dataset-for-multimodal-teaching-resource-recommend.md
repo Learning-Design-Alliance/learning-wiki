@@ -4,7 +4,7 @@ id: preprocessed-english-subset-of-the-mars-dataset-for-multimodal-teaching-reso
 title: Preprocessed English subset of the MARS dataset for multimodal teaching resource recommendation
 description: A preprocessed English-language subset of the MARS multimodal teaching-resource dataset, containing resource metadata and learner interaction logs for evaluating personalized recommendation models.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

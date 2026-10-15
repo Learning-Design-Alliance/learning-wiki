@@ -3,7 +3,7 @@ type: claim
 title: Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task
 description: Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task
 id: extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

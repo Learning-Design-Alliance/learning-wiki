@@ -3,7 +3,7 @@ type: claim
 title: "A teacher's awareness of why a learning object must be treated in accordance with variation theory and embodiment promotes a more constructive and effective way to direct children's learning"
 description: "A teacher's awareness of why a learning object must be treated in accordance with variation theory and embodiment promotes a more constructive and effective way to direct children's learning"
 id: variation-embodiment-awareness-promotes-constructive-teaching-montessori
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

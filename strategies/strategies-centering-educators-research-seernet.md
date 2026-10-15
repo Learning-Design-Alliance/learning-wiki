@@ -3,7 +3,7 @@ type: strategy
 id: strategies-centering-educators-research-seernet
 title: Center educators in research by shifting power dynamics, including diverse educators, and structuring feedback loops
 description: "The presentation enumerates three strategies for centering educators in research: to \"Empower educators and intentionally shift power dynamics so that they have a voice, especially in research questions\", to include e..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

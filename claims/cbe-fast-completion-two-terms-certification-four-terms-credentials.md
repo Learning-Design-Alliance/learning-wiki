@@ -4,7 +4,7 @@ title: CBE participants completed programs quickly, averaging less than two term
 description: CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees
 id: cbe-fast-completion-two-terms-certification-four-terms-credentials
 aliases: [taaccct-cbe-fast-time-to-completion]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

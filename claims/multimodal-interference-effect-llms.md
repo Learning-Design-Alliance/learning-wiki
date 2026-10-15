@@ -3,7 +3,7 @@ type: claim
 title: "The Multimodal Interference Effect: mapping visual representations to physical concepts degrades LLM performance even on non-visual problem aspects"
 description: "The Multimodal Interference Effect: mapping visual representations to physical concepts degrades LLM performance even on non-visual problem aspects"
 id: multimodal-interference-effect-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

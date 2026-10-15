@@ -3,7 +3,7 @@ type: claim
 title: Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.
 description: Teachers doing household ethnography had readier entree to families than anthropologists and were welcomed without suspicion in the Tucson project.
 id: teachers-have-readier-household-entree-than-anthropologists
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

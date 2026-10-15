@@ -3,7 +3,7 @@ type: claim
 title: "Elementary LAUNCH principals' schools rated significantly lower on 5 of 12 measures compared to schools led by non-program principals"
 description: "Elementary LAUNCH principals' schools rated significantly lower on 5 of 12 measures compared to schools led by non-program principals"
 id: launch-elementary-schools-rated-lower
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

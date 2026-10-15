@@ -3,7 +3,7 @@ type: strategy
 id: scaffold-ai-verification-habits-deliberately
 title: Deliberately scaffold AI-output verification habits rather than assume they develop alongside rising AI use
 description: Because increased AI use in this engineering mechanics cohort did not uniformly translate into increased checking of AI outputs, the authors recommend that instructors treat verification as a habit to be explicitly ta...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

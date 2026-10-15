@@ -3,7 +3,7 @@ type: strategy
 id: allocate-special-education-funding-by-child-count-cost-groupings
 title: Allocate base state special education funding by prior-year count of students with disabilities, weighted by disability cost groupings
 description: "The report recommends replacing California's census-based (ADA) allocation with one based on the actual count of students with disabilities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

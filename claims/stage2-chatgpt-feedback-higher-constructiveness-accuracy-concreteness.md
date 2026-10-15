@@ -3,7 +3,7 @@ type: claim
 title: In the second assessment stage, ChatGPT-4o feedback was significantly higher than peer group feedback in constructiveness, accuracy and concreteness
 description: In the second assessment stage, ChatGPT-4o feedback was significantly higher than peer group feedback in constructiveness, accuracy and concreteness
 id: stage2-chatgpt-feedback-higher-constructiveness-accuracy-concreteness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

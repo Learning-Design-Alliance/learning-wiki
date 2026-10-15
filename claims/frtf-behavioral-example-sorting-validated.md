@@ -3,7 +3,7 @@ type: claim
 title: 54 of 59 FRTF behavioral examples were sorted better than chance and 48 by a majority of educator participants
 description: 54 of 59 FRTF behavioral examples were sorted better than chance and 48 by a majority of educator participants
 id: frtf-behavioral-example-sorting-validated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

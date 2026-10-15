@@ -3,7 +3,7 @@ type: claim
 title: "Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive"
 description: "Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive"
 id: llm-logical-inconsistency-scoring-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

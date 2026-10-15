@@ -3,7 +3,7 @@ type: claim
 title: Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences
 description: Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences
 id: school-absence-variation-net-of-students-neighborhoods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

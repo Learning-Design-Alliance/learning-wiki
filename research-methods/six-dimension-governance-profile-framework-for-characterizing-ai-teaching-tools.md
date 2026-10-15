@@ -3,7 +3,7 @@ type: research-method
 id: six-dimension-governance-profile-framework-for-characterizing-ai-teaching-tools
 title: Six-dimension governance profile framework for characterizing AI teaching tools
 description: "A governance profile is \"an explicit account of how an AI-mediated teaching tool distributes pedagogical authority, learner agency, human accountability, contextual boundaries, and evaluation visibility\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

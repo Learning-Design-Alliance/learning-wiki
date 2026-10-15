@@ -3,7 +3,7 @@ type: strategy
 id: pl-strategies-adult-mindset-shift
 title: Professional learning strategies for shifting educator mindsets toward student experience data use
 description: "Participants described a set of professional learning strategies for moving educators from viewing data use as compliance and accountability toward continuous improvement: professional learning that lets educators ref..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

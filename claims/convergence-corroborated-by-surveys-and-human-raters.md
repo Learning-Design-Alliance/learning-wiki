@@ -3,7 +3,7 @@ type: claim
 title: Simulation-response convergence was corroborated by survey-based changes in mindsets and practices and by human rater ratings for Roster Justice
 description: Simulation-response convergence was corroborated by survey-based changes in mindsets and practices and by human rater ratings for Roster Justice
 id: convergence-corroborated-by-surveys-and-human-raters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

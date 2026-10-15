@@ -3,7 +3,7 @@ type: claim
 title: Playworks made transitions from recess to classroom learning less difficult, per teacher reports
 description: Playworks made transitions from recess to classroom learning less difficult, per teacher reports
 id: playworks-easier-recess-to-classroom-transitions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

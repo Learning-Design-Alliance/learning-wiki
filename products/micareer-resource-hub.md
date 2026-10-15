@@ -4,7 +4,7 @@ id: micareer-resource-hub
 title: MiCareer Resource Hub
 description: MiCareer Resource Hub is a Michigan Consortium for Addressing Rural Education Expansion and Retention partnership initiative that connects educator-preparation institutions and rural school districts to help prospective and experienced educators earn teaching credentials and classroom experience.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

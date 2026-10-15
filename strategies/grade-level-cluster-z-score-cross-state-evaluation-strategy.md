@@ -3,7 +3,7 @@ type: strategy
 id: grade-level-cluster-z-score-cross-state-evaluation-strategy
 title: Evaluate ed-tech program effects at the grade-level cluster level with state-z-scored outcomes across states
 description: The evaluation used the grade-level cluster (all classes teaching a given grade in a school) as the unit of analysis rather than classrooms or whole schools, and converted state-specific assessment outcomes to z-score...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: pittsburgh-performance-based-pay-plans
 title: Pittsburgh performance-based pay plans for teachers and principals
 description: As part of the same project, Mathematica assisted Pittsburgh Public Schools in developing performance-based pay plans for teachers and principals, building on the value-added estimates of educator effectiveness.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

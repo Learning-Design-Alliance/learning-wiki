@@ -3,7 +3,7 @@ type: claim
 title: Students using self-created cheat sheets reported greater perceived coverage of needed final exam content than instructor-provided users
 description: Students using self-created cheat sheets reported greater perceived coverage of needed final exam content than instructor-provided users
 id: self-created-sheets-greater-perceived-final-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

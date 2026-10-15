@@ -3,7 +3,7 @@ type: claim
 title: Repeated successful retrieval during learning predicted final recall in both experiments
 description: Repeated successful retrieval during learning predicted final recall in both experiments
 id: repeated-retrieval-success-predicts-final-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

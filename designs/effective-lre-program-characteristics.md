@@ -3,7 +3,7 @@ type: design
 id: effective-lre-program-characteristics
 title: Five characteristics distinguish effective LRE programs
 description: "The digest lists five characteristics of effective LRE programs: extensive interaction among students, realistic content with balanced treatment of issues, use of outside resource persons, strong administrator support..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

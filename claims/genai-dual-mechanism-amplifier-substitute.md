@@ -3,7 +3,7 @@ type: claim
 title: "GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking"
 description: "GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking"
 id: genai-dual-mechanism-amplifier-substitute
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

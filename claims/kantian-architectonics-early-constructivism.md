@@ -3,7 +3,7 @@ type: claim
 title: Kantian architectonics is an early articulation of constructivism, with knowledge constructed into a system
 description: Kantian architectonics is an early articulation of constructivism, with knowledge constructed into a system
 id: kantian-architectonics-early-constructivism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

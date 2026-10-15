@@ -3,7 +3,7 @@ type: element
 id: core-plus-more-tasks
 title: MORE tasks for individual out-of-class work
 description: "In addition to classroom investigations, Core-Plus Mathematics provides sets of MORE tasks, which are designed to engage students in \"Modeling with, Organizing, Reflecting on, and Extending their mathematical understa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: LT-MKT achieves the best performance across all four datasets and all three evaluation metrics against eleven KT baselines
 description: LT-MKT achieves the best performance across all four datasets and all three evaluation metrics against eleven KT baselines
 id: lt-mkt-outperforms-kt-baselines-four-datasets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

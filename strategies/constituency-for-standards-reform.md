@@ -3,7 +3,7 @@ type: strategy
 id: constituency-for-standards-reform
 title: Build a constituency of educator groups and public advocacy to sustain systemic standards-based reform
 description: The paper recommends that states build a constituency to support systemic standards-based reform to ensure sustained progress and patience with the process.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems
 description: A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems
 id: pedagogical-gap-4e-vs-ai-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

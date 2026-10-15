@@ -3,7 +3,7 @@ type: strategy
 id: educator-ai-development-support-programs
 title: Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning
 description: "The brief recommends educator support programs addressing immediate and long-term needs: conducting a needs assessment first, incorporating faculty input (which \"increases acceptance and participation\"), and supportin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

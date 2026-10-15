@@ -3,7 +3,7 @@ type: claim
 title: The same quizzing or concept-mapping activity produces more learning when done without viewing the material, as retrieval, than while viewing it
 description: The same quizzing or concept-mapping activity produces more learning when done without viewing the material, as retrieval, than while viewing it
 id: closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

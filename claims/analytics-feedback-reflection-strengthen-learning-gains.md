@@ -3,7 +3,7 @@ type: claim
 title: The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains
 description: The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains
 id: analytics-feedback-reflection-strengthen-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

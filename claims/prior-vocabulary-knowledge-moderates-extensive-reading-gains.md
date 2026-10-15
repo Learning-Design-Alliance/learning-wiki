@@ -3,7 +3,7 @@ type: claim
 title: Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners
 description: Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners
 id: prior-vocabulary-knowledge-moderates-extensive-reading-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

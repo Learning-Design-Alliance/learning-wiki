@@ -3,7 +3,7 @@ type: claim
 title: Between February 2019 and January 2021, legislative initiatives requiring ethnic studies in K-12 standards or curricula were identified in 19 states and the District of Columbia
 description: Between February 2019 and January 2021, legislative initiatives requiring ethnic studies in K-12 standards or curricula were identified in 19 states and the District of Columbia
 id: nineteen-states-dc-ethnic-studies-initiatives-2019-2021
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Detailed data disclosure statements, in either text or nutrition-label format, increase university students' confidence that specific data points are collected compared to a generic disclosure"
 description: "Detailed data disclosure statements, in either text or nutrition-label format, increase university students' confidence that specific data points are collected compared to a generic disclosure"
 id: detailed-disclosure-increases-confidence-data-collected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

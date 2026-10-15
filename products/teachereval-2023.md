@@ -4,7 +4,7 @@ id: teachereval-2023
 title: TeacherEval-2023
 description: A public corpus of 12,450 classroom-dialogue transcripts annotated with rubric-aligned teacher-performance scores and expert explanations across eight pedagogical dimensions, created by Li et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

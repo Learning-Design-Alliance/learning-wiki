@@ -3,7 +3,7 @@ type: claim
 title: BCIRC has potentially positive effects on reading achievement for Spanish-speaking English language learners (effect size 0.61, not statistically significant after clustering correction)
 description: BCIRC has potentially positive effects on reading achievement for Spanish-speaking English language learners (effect size 0.61, not statistically significant after clustering correction)
 id: bcirc-potentially-positive-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

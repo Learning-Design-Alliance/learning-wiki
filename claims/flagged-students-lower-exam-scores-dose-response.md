@@ -3,7 +3,7 @@ type: claim
 title: Flagged Spring 2026 students scored lower on all three exams than non-flagged peers, with performance declining as flagged assignments increased
 description: Flagged Spring 2026 students scored lower on all three exams than non-flagged peers, with performance declining as flagged assignments increased
 id: flagged-students-lower-exam-scores-dose-response
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

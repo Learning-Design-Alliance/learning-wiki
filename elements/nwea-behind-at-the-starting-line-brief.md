@@ -3,7 +3,7 @@ type: element
 id: nwea-behind-at-the-starting-line-brief
 title: NWEA research brief on Kindergarten scores and third-grade proficiency
 description: "A research brief by NWEA's research team (Megan Kuhfeld, Karyn Lewis, Emily Morton) examining Kindergarten test scores from more than 400,000 U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

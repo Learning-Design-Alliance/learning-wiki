@@ -3,7 +3,7 @@ type: design
 id: word-stress-five-step-lesson-pattern
 title: "Word-stress lesson pattern: model correct and incorrect stress, discriminate, clap stress patterns, peer-mark dialogues, present orally with self-monitoring criteria"
 description: A five-step lesson pattern the digest offers as an instantiation of the communicative-cognitive framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Female students reported higher learning agency than male students after controlling for GenAI literacy and year of study
 description: Female students reported higher learning agency than male students after controlling for GenAI literacy and year of study
 id: female-higher-learning-agency-genai-contexts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

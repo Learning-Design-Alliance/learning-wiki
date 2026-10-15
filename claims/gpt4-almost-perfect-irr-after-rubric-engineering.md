@@ -3,7 +3,7 @@ type: claim
 title: GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions
 description: GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions
 id: gpt4-almost-perfect-irr-after-rubric-engineering
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

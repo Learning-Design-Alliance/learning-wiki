@@ -3,7 +3,7 @@ type: claim
 title: KIPP Pre-K combined with KIPP early elementary school has positive, statistically significant impacts on reading and math achievement after five years
 description: KIPP Pre-K combined with KIPP early elementary school has positive, statistically significant impacts on reading and math achievement after five years
 id: kipp-prek-elementary-five-year-reading-math-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

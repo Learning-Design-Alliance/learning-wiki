@@ -3,7 +3,7 @@ type: research-method
 id: dina-and-dino-cognitive-diagnostic-models
 title: DINA and DINO cognitive diagnostic models
 description: "The article identifies the DINA model and the DINO model as \"two typical theoretical diagnostic classification models\"."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading
 description: L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading
 id: l2-proficiency-predicts-incidental-vocabulary-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Principals and trained external observers gave aggregate-consistent Danielson Framework ratings in matched observations
 description: Principals and trained external observers gave aggregate-consistent Danielson Framework ratings in matched observations
 id: danielson-framework-aggregate-rating-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

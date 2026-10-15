@@ -3,7 +3,7 @@ type: claim
 title: By the second year of implementation, TIF performance bonuses improved reading and math achievement by 1 to 2 percentile points, equivalent to about four weeks of additional learning
 description: By the second year of implementation, TIF performance bonuses improved reading and math achievement by 1 to 2 percentile points, equivalent to about four weeks of additional learning
 id: tif-bonuses-improved-achievement-1-2-percentile-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

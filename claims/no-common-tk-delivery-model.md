@@ -3,7 +3,7 @@ type: claim
 title: There was no common model for how LEAs planned to structure TK classes, with many planning stand-alone classes and many others combination classes
 description: There was no common model for how LEAs planned to structure TK classes, with many planning stand-alone classes and many others combination classes
 id: no-common-tk-delivery-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

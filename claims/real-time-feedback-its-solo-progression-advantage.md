@@ -3,7 +3,7 @@ type: claim
 title: Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback
 description: Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback
 id: real-time-feedback-its-solo-progression-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

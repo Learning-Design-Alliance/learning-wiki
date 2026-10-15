@@ -3,7 +3,7 @@ type: claim
 title: Adding more learning activity data beyond Stage 1 did not significantly improve predictive performance of at-risk identification models
 description: Adding more learning activity data beyond Stage 1 did not significantly improve predictive performance of at-risk identification models
 id: no-significant-performance-gain-later-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

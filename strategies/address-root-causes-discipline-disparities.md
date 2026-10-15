@@ -3,7 +3,7 @@ type: strategy
 id: address-root-causes-discipline-disparities
 title: Identify and address the root causes of discipline disparities in schools flagged as disproportionate
 description: "The report recommends that, given persistent disproportionality in exclusionary discipline, educators and policymakers work to \"identify and address the root causes of these discipline disparities\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Registered apprenticeship had strong ninth-quarter employment and earnings impacts for IT, healthcare, and advanced manufacturing sectors
 description: Registered apprenticeship had strong ninth-quarter employment and earnings impacts for IT, healthcare, and advanced manufacturing sectors
 id: registered-apprenticeship-sector-impacts-it-healthcare-manufacturing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

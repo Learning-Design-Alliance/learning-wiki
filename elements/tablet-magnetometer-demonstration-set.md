@@ -3,7 +3,7 @@ type: element
 id: tablet-magnetometer-demonstration-set
 title: Tablet-based magnetic-field demonstration set (coil circuit, ruler, book, MagnetMeter app)
 description: "A low-cost experimental kit for physics demonstrations in which a tablet's magnetometer measures the magnetic field of a current-carrying coil or a magnet."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

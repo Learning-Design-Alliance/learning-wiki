@@ -3,7 +3,7 @@ type: claim
 title: HelpCoach led to greater knowledge retention one week later than pre-task help-seeking training alone
 description: HelpCoach led to greater knowledge retention one week later than pre-task help-seeking training alone
 id: helpcoach-greater-knowledge-retention-one-week
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

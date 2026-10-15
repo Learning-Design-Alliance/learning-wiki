@@ -3,7 +3,7 @@ type: claim
 title: Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI
 description: Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI
 id: nfc-correlates-critical-use-and-skeptical-usefulness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

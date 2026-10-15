@@ -4,7 +4,7 @@ id: bachelors-degree-attainment-index-bachelors-dai-and-direct-bachelors-dai
 title: "Bachelor's Degree Attainment Index (Bachelor's DAI) and Direct Bachelor's DAI"
 description: "These are UChicago Consortium measurement metrics estimating the proportion of a ninth-grade cohort that earns a bachelor's degree, distinguishing direct four-year pathways from pathways involving delayed entry or two-year colleges."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

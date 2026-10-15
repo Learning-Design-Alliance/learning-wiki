@@ -2,7 +2,7 @@
 type: theory
 title: "Tennyson and Cocchiarella's concept-teaching model: structure choice follows generalization/discrimination needs and dimension stability"
 description: "The article tests Tennyson and Cocchiarella's (1986) empirically based model of concept instruction, which holds that \"the instructor who is effective at teaching concepts needs to determine if the concept being addre..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

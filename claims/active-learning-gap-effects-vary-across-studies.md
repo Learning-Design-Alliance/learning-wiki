@@ -3,7 +3,7 @@ type: claim
 title: Effects of active learning on achievement gaps vary widely across studies, with a minority of studies showing larger benefits for non-minoritized students
 description: Effects of active learning on achievement gaps vary widely across studies, with a minority of studies showing larger benefits for non-minoritized students
 id: active-learning-gap-effects-vary-across-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

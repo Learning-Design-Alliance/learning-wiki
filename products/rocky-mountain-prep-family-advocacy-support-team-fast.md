@@ -4,7 +4,7 @@ id: rocky-mountain-prep-family-advocacy-support-team-fast
 title: Rocky Mountain Prep Family Advocacy Support Team (FAST)
 description: "Rocky Mountain Prep's Family Advocacy Support Team (FAST) is a referral-based family-support programme providing emergency basic-needs assistance and connections to longer-term resources for students' families."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

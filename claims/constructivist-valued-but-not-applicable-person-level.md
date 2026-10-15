@@ -3,7 +3,7 @@ type: claim
 title: Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable
 description: Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable
 id: constructivist-valued-but-not-applicable-person-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

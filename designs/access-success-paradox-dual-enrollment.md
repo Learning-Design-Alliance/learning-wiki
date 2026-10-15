@@ -3,7 +3,7 @@ type: design
 id: access-success-paradox-dual-enrollment
 title: The access–success paradox and its resolution through embedded support infrastructure
 description: "The report names the access–success paradox: the assumption \"that expanding access to more students who do not typically participate in advanced coursework must necessarily be accompanied by declining success, particu..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: institutional-genai-policy-and-awareness-strategy
 title: Develop clear institutional GenAI policies, communicate them, raise awareness, and promote digital literacy
 description: The article recommends that institutions respond to student confusion about GenAI by developing clear institutional policies, communicating and adhering to them, creating awareness, and promoting digital literacy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

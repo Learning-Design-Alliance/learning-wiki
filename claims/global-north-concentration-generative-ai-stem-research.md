@@ -3,7 +3,7 @@ type: claim
 title: "Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications"
 description: "Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications"
 id: global-north-concentration-generative-ai-stem-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

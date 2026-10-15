@@ -3,7 +3,7 @@ type: claim
 title: Students in three summer math programs showed large improvements in grades the semester after the program
 description: Students in three summer math programs showed large improvements in grades the semester after the program
 id: summer-math-programs-large-grade-improvements-next-semester
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

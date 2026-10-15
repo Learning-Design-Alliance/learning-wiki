@@ -3,7 +3,7 @@ type: strategy
 id: ca-future-design-recommendations
 title: "Recommendations for future CA development: educator design templates, multilingual support, and theory-informed pedagogical integration"
 description: The review proposes actionable strategies for future CA development in programming education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

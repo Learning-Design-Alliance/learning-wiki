@@ -3,7 +3,7 @@ type: claim
 title: Publication output on WCF in L2 writing grew over 2014–2024, with a small early phase (2014–2018) and a surge after 2019 peaking in 2023
 description: Publication output on WCF in L2 writing grew over 2014–2024, with a small early phase (2014–2018) and a surge after 2019 peaking in 2023
 id: wcf-l2-writing-publications-grew-2014-2024
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

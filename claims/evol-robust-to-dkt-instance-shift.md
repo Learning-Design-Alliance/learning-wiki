@@ -3,7 +3,7 @@ type: claim
 title: EVOL variants remain the strongest methods when recommended paths are executed on alternative DKT simulator instances
 description: EVOL variants remain the strongest methods when recommended paths are executed on alternative DKT simulator instances
 id: evol-robust-to-dkt-instance-shift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

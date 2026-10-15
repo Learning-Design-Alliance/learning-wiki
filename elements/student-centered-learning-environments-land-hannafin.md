@@ -3,7 +3,7 @@ type: element
 id: student-centered-learning-environments-land-hannafin
 title: Student-centered learning environments
 description: "Student-centered learning environments provide \"interactive, complimentary activities that enable individuals to address their unique learning interests and needs, examine content at multiple levels of complexity, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024"
 description: "Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024"
 id: twitter-aied-discourse-predominantly-positive-sentiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

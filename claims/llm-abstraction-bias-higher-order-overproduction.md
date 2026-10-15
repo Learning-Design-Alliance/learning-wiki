@@ -3,7 +3,7 @@ type: claim
 title: LLMs exhibit an inherent abstraction bias, consistently generating questions at higher-than-intended cognitive levels regardless of prompting strategy
 description: LLMs exhibit an inherent abstraction bias, consistently generating questions at higher-than-intended cognitive levels regardless of prompting strategy
 id: llm-abstraction-bias-higher-order-overproduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

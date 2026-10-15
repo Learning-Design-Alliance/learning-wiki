@@ -3,7 +3,7 @@ type: claim
 title: Differences in AI-supported instruction effects across STEM disciplines are not statistically significant
 description: Differences in AI-supported instruction effects across STEM disciplines are not statistically significant
 id: ai-effect-discipline-differences-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

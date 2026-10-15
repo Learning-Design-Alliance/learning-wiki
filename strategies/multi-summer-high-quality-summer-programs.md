@@ -3,7 +3,7 @@ type: strategy
 id: multi-summer-high-quality-summer-programs
 title: Design summer programs with purposeful curriculum, stable staff, and cultural relevance, sustained over multiple summers
 description: The report recommends that states and districts provide expanded learning time through summer programs beginning in summer 2021, when learning loss typically occurs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

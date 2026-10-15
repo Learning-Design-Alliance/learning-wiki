@@ -3,7 +3,7 @@ type: strategy
 id: error-management-training-negative-knowledge-diaries
 title: Vocational education programs should let trainees experience and reflect on authentic errors, e.g. via error management training and negative knowledge-diaries
 description: "The article recommends that \"vocational education programs should give trainees opportunities to experience authentic, complex and challenging errors, to learn from them and to thus build up negative knowledge\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

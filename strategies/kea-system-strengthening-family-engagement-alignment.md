@@ -3,7 +3,7 @@ type: strategy
 id: kea-system-strengthening-family-engagement-alignment
 title: "Use KEAs to strengthen early learning systems: family engagement, p–3 alignment, and aggregated data for equitable investment"
 description: The report recommends that states and districts use KEAs to promote family engagement, align preschool, kindergarten, and 1st grade, and inform strategic initiatives.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The review reports that worked examples benefit inexperienced learners but become redundant with increased experience, when problem solving proves superior
 description: The review reports that worked examples benefit inexperienced learners but become redundant with increased experience, when problem solving proves superior
 id: expertise-reversal-worked-examples-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

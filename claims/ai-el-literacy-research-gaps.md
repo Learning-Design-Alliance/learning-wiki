@@ -3,7 +3,7 @@ type: claim
 title: Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups
 description: Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups
 id: ai-el-literacy-research-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: cogmath-948
 title: CogMath-948
 description: CogMath-948 is a dataset constructed by Wei Zhang et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

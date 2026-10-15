@@ -3,7 +3,7 @@ type: claim
 title: Project QUEST shows no discernible effects on short-term and medium-term employment
 description: Project QUEST shows no discernible effects on short-term and medium-term employment
 id: project-quest-no-employment-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

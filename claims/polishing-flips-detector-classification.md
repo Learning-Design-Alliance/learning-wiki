@@ -3,7 +3,7 @@ type: claim
 title: AI language polishing alone can flip human-authored scholarly texts from human-classified to AI-classified
 description: AI language polishing alone can flip human-authored scholarly texts from human-classified to AI-classified
 id: polishing-flips-detector-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

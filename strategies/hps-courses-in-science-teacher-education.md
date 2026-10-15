@@ -3,7 +3,7 @@ type: strategy
 id: hps-courses-in-science-teacher-education
 title: Include history and philosophy of science courses in preservice and graduate science teacher education programmes
 description: "The preface recommends that science teacher education address epistemology directly: teachers need not just first-order understanding of subject content but second-order understanding of its epistemology and place in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Students were split between early entry into a program of study and exploring options, and most wished for more structured exploration opportunities
 description: Students were split between early entry into a program of study and exploring options, and most wished for more structured exploration opportunities
 id: students-split-on-program-of-study-timing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

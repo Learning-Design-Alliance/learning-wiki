@@ -3,7 +3,7 @@ type: strategy
 id: grow-own-teacher-pipeline-newcomer-schools
 title: Grow-your-own teacher pipelines and institutionalized peer-based professional learning to build a qualified newcomer-school workforce
 description: Because newcomer teachers need competencies beyond standard English Learner preparation, the report describes pipelines and continuous professional learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

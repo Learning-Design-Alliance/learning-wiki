@@ -3,7 +3,7 @@ type: claim
 title: A significant portion of participants said they would have exited LER onboarding without live human support
 description: A significant portion of participants said they would have exited LER onboarding without live human support
 id: live-support-prevents-ler-onboarding-exit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

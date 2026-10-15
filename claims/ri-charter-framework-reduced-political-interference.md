@@ -3,7 +3,7 @@ type: claim
 title: "Key officials report that Rhode Island's new charter performance framework reduced political interference through standardized, transparent data and consistent processes"
 description: "Key officials report that Rhode Island's new charter performance framework reduced political interference through standardized, transparent data and consistent processes"
 id: ri-charter-framework-reduced-political-interference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

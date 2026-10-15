@@ -3,7 +3,7 @@ type: claim
 title: Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes
 description: Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes
 id: unsupported-journal-writing-low-strategy-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

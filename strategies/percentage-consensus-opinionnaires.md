@@ -3,7 +3,7 @@ type: strategy
 id: percentage-consensus-opinionnaires
 title: Use percentage-consensus opinionnaires to locate shared values before redesign
 description: "The CMP's projective surveys use a Likert-scale percentage consensus approach to find where all stakeholder groups share common values that can undergird an educational design."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

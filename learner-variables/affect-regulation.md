@@ -3,7 +3,7 @@ type: learner-variable
 id: affect-regulation
 title: Affect Regulation
 description: What a learner does with frustration, anxiety and failure while the work is still in front of them.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02

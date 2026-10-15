@@ -3,7 +3,7 @@ type: claim
 title: Rising honors course-taking was due primarily to better-prepared students, with only small adjusted gains
 description: Rising honors course-taking was due primarily to better-prepared students, with only small adjusted gains
 id: chicago-honors-course-gains-due-to-better-prepared-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12
 description: Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12
 id: teachers-key-role-secondary-writing-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

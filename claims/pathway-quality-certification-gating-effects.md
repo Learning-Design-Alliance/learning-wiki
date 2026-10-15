@@ -3,7 +3,7 @@ type: claim
 title: Linked Learning benefits occurred only in pathways independently certified as high-quality on seven implementation dimensions
 description: Linked Learning benefits occurred only in pathways independently certified as high-quality on seven implementation dimensions
 id: pathway-quality-certification-gating-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

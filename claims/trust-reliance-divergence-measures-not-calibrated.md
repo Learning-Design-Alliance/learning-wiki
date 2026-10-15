@@ -3,7 +3,7 @@ type: claim
 title: Trust and reliance can diverge, and self-reported reliance measures cannot classify calibration without output-quality ground truth
 description: Trust and reliance can diverge, and self-reported reliance measures cannot classify calibration without output-quality ground truth
 id: trust-reliance-divergence-measures-not-calibrated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

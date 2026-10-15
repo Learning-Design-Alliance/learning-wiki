@@ -3,7 +3,7 @@ type: claim
 title: "Only 6% of 136 examined SEL frameworks explicitly deal with development"
 description: "Only 6% of 136 examined SEL frameworks explicitly deal with development"
 id: only-6-percent-of-136-sel-frameworks-address-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

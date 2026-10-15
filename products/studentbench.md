@@ -4,7 +4,7 @@ id: studentbench
 title: StudentBench
 description: StudentBench is a public platform and associated open dataset developed by Curtis Northcutt et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

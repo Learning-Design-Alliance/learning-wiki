@@ -3,7 +3,7 @@ type: claim
 title: Policy design details are likely critical to the effects of school choice programs
 description: Policy design details are likely critical to the effects of school choice programs
 id: choice-program-design-details-critical-to-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

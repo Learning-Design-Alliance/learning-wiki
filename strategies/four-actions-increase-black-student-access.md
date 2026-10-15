@@ -3,7 +3,7 @@ type: strategy
 id: four-actions-increase-black-student-access
 title: "Four actions for campus leaders and policymakers to increase Black student access at selective private institutions: develop recruitment strategies, assess and improve campus racial climates, leverage federal accountability, and increase accreditor accountability."
 description: "The report closes with four categories of recommendations for education leaders and policymakers, adjusted from the authors' 2020 public-institution report to account for private institutions' donor-based funding and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

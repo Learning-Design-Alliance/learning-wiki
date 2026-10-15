@@ -3,7 +3,7 @@ type: claim
 title: Negative specialization–role interdependence relationship holds only in offices low on workgroup process
 description: Negative specialization–role interdependence relationship holds only in offices low on workgroup process
 id: specialization-role-interdependence-moderated-by-social-climate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

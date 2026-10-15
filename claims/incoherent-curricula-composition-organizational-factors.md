@@ -3,7 +3,7 @@ type: claim
 title: Schools with high proportions of low-income students, large schools, and high-mobility schools are more likely to have incoherent grade-level curricula
 description: Schools with high proportions of low-income students, large schools, and high-mobility schools are more likely to have incoherent grade-level curricula
 id: incoherent-curricula-composition-organizational-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

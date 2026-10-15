@@ -3,7 +3,7 @@ type: claim
 title: A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes
 description: A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes
 id: msc-cs-students-rarely-use-chatgpt-academically
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

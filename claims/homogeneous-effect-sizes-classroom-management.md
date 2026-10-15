@@ -3,7 +3,7 @@ type: claim
 title: Effect sizes across classroom management studies are homogeneous, with no significant moderator variability
 description: Effect sizes across classroom management studies are homogeneous, with no significant moderator variability
 id: homogeneous-effect-sizes-classroom-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

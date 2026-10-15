@@ -3,7 +3,7 @@ type: strategy
 id: differentiated-scaffolding-teacher-ai-design-profiles
 title: "Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design"
 description: "The article recommends tailoring support to teacher profiles: \"Cluster 3 requires structured templates and real-time assistance to overcome low self-efficacy; Cluster 2 benefits from pedagogical frameworks and exempla..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

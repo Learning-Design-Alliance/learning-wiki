@@ -4,7 +4,7 @@ id: academic-integrity-indicator-framework-130-items-organised-under-eight-dimen
 title: "Academic integrity indicator framework: 130 items organised under eight dimensions of academic integrity"
 description: A framework developed by Hamish Coates and colleagues that measures and reports institutional academic-assessment integrity across eight dimensions using 130 indicators.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

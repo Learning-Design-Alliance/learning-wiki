@@ -3,7 +3,7 @@ type: claim
 title: "Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses"
 description: "Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses"
 id: multimedia-glosses-improve-efl-vocabulary-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

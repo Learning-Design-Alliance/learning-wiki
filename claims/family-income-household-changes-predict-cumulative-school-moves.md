@@ -3,7 +3,7 @@ type: claim
 title: Changes in family income and household structure predict higher odds of two or more school moves in elementary school, while family factors are not linked to a recent or single move
 description: Changes in family income and household structure predict higher odds of two or more school moves in elementary school, while family factors are not linked to a recent or single move
 id: family-income-household-changes-predict-cumulative-school-moves
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

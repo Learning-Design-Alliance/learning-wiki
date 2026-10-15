@@ -4,7 +4,7 @@ id: the-reading-edge
 title: The Reading Edge
 description: The Reading Edge is a whole-school cooperative-learning reading programme adapted from Student Team Reading and delivered by classroom teachers during regular language-arts instruction.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

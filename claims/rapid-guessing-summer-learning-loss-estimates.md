@@ -3,7 +3,7 @@ type: claim
 title: Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring
 description: Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring
 id: rapid-guessing-summer-learning-loss-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

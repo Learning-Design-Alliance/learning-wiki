@@ -4,7 +4,7 @@ id: frazer-eight-guiding-moves
 title: "Pete Frazer's eight guiding moves for working as a co-thinker with novice teachers"
 description: "Through interviews and observations, Feiman-Nemser documented the strategies of Pete Frazer, a thoughtful support teacher who enacted his role as \"co-thinker\" with novice teachers."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

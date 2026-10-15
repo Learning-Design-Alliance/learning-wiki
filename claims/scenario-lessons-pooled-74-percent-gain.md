@@ -3,7 +3,7 @@ type: claim
 title: "Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains"
 description: "Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains"
 id: scenario-lessons-pooled-74-percent-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

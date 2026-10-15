@@ -3,7 +3,7 @@ type: claim
 title: "The six-path specification was structurally incomplete: exploratory direct paths from PNT to ACS, SRL, and CT improved fit beyond the hypothesised model"
 description: "The six-path specification was structurally incomplete: exploratory direct paths from PNT to ACS, SRL, and CT improved fit beyond the hypothesised model"
 id: six-path-model-structurally-incomplete-exploratory-pnt-paths
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

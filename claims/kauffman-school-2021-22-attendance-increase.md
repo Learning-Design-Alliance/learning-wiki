@@ -3,7 +3,7 @@ type: claim
 title: In 2021-22 the Kauffman School increased attendance rates by approximately 1 percentage point
 description: In 2021-22 the Kauffman School increased attendance rates by approximately 1 percentage point
 id: kauffman-school-2021-22-attendance-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

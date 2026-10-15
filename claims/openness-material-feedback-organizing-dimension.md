@@ -3,7 +3,7 @@ type: claim
 title: Openness to material feedback is proposed as the single organizing dimension behind the FRA differences between science and generative models
 description: Openness to material feedback is proposed as the single organizing dimension behind the FRA differences between science and generative models
 id: openness-material-feedback-organizing-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: ai-see-framework
 title: "AI-SEE: a pedagogical framework integrating AI across the engineering curriculum as a cognitive scaffold and system-optimization resource"
 description: AI-SEE (Artificial Intelligence-Integrated Sustainable Engineering Education) is a pedagogical framework structured around an input-process-output logic, in which institutional conditions, learner characteristics, and...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

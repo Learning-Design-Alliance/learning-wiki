@@ -3,7 +3,7 @@ type: claim
 title: Theoretical quality of both theory-based and non-theory agents remains stable across Easy, Medium, and Hard scenario difficulty levels
 description: Theoretical quality of both theory-based and non-theory agents remains stable across Easy, Medium, and Hard scenario difficulty levels
 id: theoretical-quality-stable-across-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

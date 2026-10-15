@@ -3,7 +3,7 @@ type: claim
 title: Across 17 frontier models, Stage 1 pedagogical-judgment scores are high (mean 0.893) while rank correlations with Stage 2 (ρ=0.24) and Stage 3 (ρ=0.21) are weak, with workflow scores topping out at 0.704
 description: Across 17 frontier models, Stage 1 pedagogical-judgment scores are high (mean 0.893) while rank correlations with Stage 2 (ρ=0.24) and Stage 3 (ρ=0.21) are weak, with workflow scores topping out at 0.704
 id: teacharena-stage-rank-reshuffling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Students exposed to the biased LLM showed no awareness of its influence, reporting lower perceived AI influence than neutral-condition participants despite larger bias effects
 description: Students exposed to the biased LLM showed no awareness of its influence, reporting lower perceived AI influence than neutral-condition participants despite larger bias effects
 id: bias-transfer-without-awareness-llm-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

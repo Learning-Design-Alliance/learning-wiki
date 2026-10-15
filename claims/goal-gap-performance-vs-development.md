@@ -3,7 +3,7 @@ type: claim
 title: "A goal gap misaligns the measurable-performance aims promoted by current technologies with education's broader developmental aims"
 description: "A goal gap misaligns the measurable-performance aims promoted by current technologies with education's broader developmental aims"
 id: goal-gap-performance-vs-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

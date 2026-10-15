@@ -3,7 +3,7 @@ type: claim
 title: A BERT-based prediction task distinguishes between successful and unsuccessful math strategies in MATHia, yielding insights into student strategies
 description: A BERT-based prediction task distinguishes between successful and unsuccessful math strategies in MATHia, yielding insights into student strategies
 id: bert-predicts-successful-unsuccessful-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

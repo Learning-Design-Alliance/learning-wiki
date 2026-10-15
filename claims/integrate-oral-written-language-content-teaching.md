@@ -3,7 +3,7 @@ type: claim
 title: Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs
 description: Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs
 id: integrate-oral-written-language-content-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

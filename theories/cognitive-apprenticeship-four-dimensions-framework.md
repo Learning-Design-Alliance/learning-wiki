@@ -2,7 +2,7 @@
 type: theory
 title: Cognitive apprenticeship framework with four learning-environment dimensions
 description: "Cognitive apprenticeship is defined as learning through guided experience on cognitive and metacognitive rather than physical skills, rooted in social learning theories and Vygotsky's zone of proximal development."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -4,7 +4,7 @@ id: companion-mathematica-publications
 title: Companion Mathematica publications
 description: A Mathematica toolkit comprising a prior-research table, target-setting guide, sample-size guide, reporting template, and related planning materials for organizations developing monitoring and evaluation plans.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

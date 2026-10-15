@@ -3,7 +3,7 @@ type: claim
 title: Assessment design functions as a pedagogical condition shaping how students engage with GenAI during learning
 description: Assessment design functions as a pedagogical condition shaping how students engage with GenAI during learning
 id: assessment-design-shapes-genai-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

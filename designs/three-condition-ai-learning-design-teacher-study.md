@@ -3,7 +3,7 @@ type: design
 id: three-condition-ai-learning-design-teacher-study
 title: Three-condition within-subjects teacher study of AI-assisted learning design
 description: "A within-subjects study in which thirteen higher education teachers designed learning activities under three conditions: without AI, with AI access, and with AI after training on effective AI interaction strategies."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

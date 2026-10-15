@@ -3,7 +3,7 @@ type: claim
 title: The design strained on later proof-heavy topics, and students asked for better artifacts rather than fewer tests
 description: The design strained on later proof-heavy topics, and students asked for better artifacts rather than fewer tests
 id: proof-heavy-topics-strained-artifacts-requested
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

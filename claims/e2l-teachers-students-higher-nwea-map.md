@@ -3,7 +3,7 @@ type: claim
 title: Students of engage2learn teachers scored significantly higher on NWEA MAP than students of non-e2L teachers in the same schools and in comparison schools
 description: Students of engage2learn teachers scored significantly higher on NWEA MAP than students of non-e2L teachers in the same schools and in comparison schools
 id: e2l-teachers-students-higher-nwea-map
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

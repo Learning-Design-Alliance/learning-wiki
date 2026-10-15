@@ -3,7 +3,7 @@ type: claim
 title: Many state assessments incorporated more sophisticated response formats to better assess college- and career-readiness
 description: Many state assessments incorporated more sophisticated response formats to better assess college- and career-readiness
 id: state-assessments-sophisticated-response-formats
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "GPT models showed lower accuracy with more rubric-related errors (28% vs. 13% for Gemini 3 Flash) and near parity between false positives and negatives"
 description: "GPT models showed lower accuracy with more rubric-related errors (28% vs."
 id: gpt-models-more-rubric-errors-than-gemini
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

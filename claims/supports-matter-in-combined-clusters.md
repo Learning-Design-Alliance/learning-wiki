@@ -3,7 +3,7 @@ type: claim
 title: "The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement"
 description: "The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement"
 id: supports-matter-in-combined-clusters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

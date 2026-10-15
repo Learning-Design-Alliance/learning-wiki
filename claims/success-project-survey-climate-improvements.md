@@ -3,7 +3,7 @@ type: claim
 title: Students reported improved school-work priorities, peer academic behavior, teacher connection and support, and school connectedness after two years
 description: Students reported improved school-work priorities, peer academic behavior, teacher connection and support, and school connectedness after two years
 id: success-project-survey-climate-improvements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

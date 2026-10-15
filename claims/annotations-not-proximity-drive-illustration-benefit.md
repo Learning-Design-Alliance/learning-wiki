@@ -3,7 +3,7 @@ type: claim
 title: The positive effect of integrated illustrations depends on incorporating annotations (captions and labels) into the illustrations rather than on placing illustrations close to corresponding paragraphs
 description: The positive effect of integrated illustrations depends on incorporating annotations (captions and labels) into the illustrations rather than on placing illustrations close to corresponding paragraphs
 id: annotations-not-proximity-drive-illustration-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

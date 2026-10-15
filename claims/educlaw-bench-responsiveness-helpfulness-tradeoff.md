@@ -3,7 +3,7 @@ type: claim
 title: "Responsiveness and helpfulness trade off: always-answer adapters score lowest on helpfulness while withholding adapters score highest"
 description: "Responsiveness and helpfulness trade off: always-answer adapters score lowest on helpfulness while withholding adapters score highest"
 id: educlaw-bench-responsiveness-helpfulness-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

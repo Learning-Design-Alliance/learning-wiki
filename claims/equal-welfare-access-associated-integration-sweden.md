@@ -3,7 +3,7 @@ type: claim
 title: Review reports equal-terms access to employment, housing, social care and education associated with immigrant integration in Sweden
 description: Review reports equal-terms access to employment, housing, social care and education associated with immigrant integration in Sweden
 id: equal-welfare-access-associated-integration-sweden
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

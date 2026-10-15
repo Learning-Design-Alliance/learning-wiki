@@ -3,7 +3,7 @@ type: claim
 title: The multi-agent LLM GradeOpt achieved substantial agreement with human coders on overall PCK items (κ = .68, QWK = .79) and outperformed RoBERTa, SBERT, and naïve GPT-4o prompting
 description: The multi-agent LLM GradeOpt achieved substantial agreement with human coders on overall PCK items (κ = .68, QWK = .79) and outperformed RoBERTa, SBERT, and naïve GPT-4o prompting
 id: gradeopt-substantial-agreement-pck-outperforms-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

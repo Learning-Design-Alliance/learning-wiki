@@ -3,7 +3,7 @@ type: strategy
 id: leader-plc-school-wide-data-systems
 title: "Build school leaders' instructional leadership through five PLC sessions on school-wide data systems"
 description: "A parallel leadership recipe strengthens principals and other leaders: \"Strengthen school leaders' skills in developing school-wide systems to support data use and providing coaching and instructional leadership on in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

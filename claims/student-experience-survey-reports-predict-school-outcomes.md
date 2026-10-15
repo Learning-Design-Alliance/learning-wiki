@@ -3,7 +3,7 @@ type: claim
 title: "Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being"
 description: "Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being"
 id: student-experience-survey-reports-predict-school-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

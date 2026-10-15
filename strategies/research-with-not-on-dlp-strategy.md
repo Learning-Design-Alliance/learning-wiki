@@ -3,7 +3,7 @@ type: strategy
 id: research-with-not-on-dlp-strategy
 title: Move from extractive research toward research-practice partnerships, practitioner-facing outputs, and transparent privacy documentation
 description: "The report proposes a path forward toward a \"research with, not research on\" model for DLP research."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

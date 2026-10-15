@@ -3,7 +3,7 @@ type: claim
 title: Within-person deviations from math and self-efficacy growth trajectories at a given time point are not related across constructs
 description: Within-person deviations from math and self-efficacy growth trajectories at a given time point are not related across constructs
 id: within-person-deviations-unrelated-across-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Black students and students from the lowest-SES neighborhoods ranked more programs but were less likely to rank a high-accountability school first
 description: Black students and students from the lowest-SES neighborhoods ranked more programs but were less likely to rank a high-accountability school first
 id: gocps-subgroup-ranking-and-accountability-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

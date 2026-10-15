@@ -4,7 +4,7 @@ title: Rapid-guessing behavior can distort test scores and adversely affect meas
 description: Rapid-guessing behavior can distort test scores and adversely affect measurement
 id: rapid-guessing-distorts-test-scores-and-measurement
 aliases: [rapid-guessing-negatively-distorts-scores, rapid-guesses-in-scoring-distort-scores]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

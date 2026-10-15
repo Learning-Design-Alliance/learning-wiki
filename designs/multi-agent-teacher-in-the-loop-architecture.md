@@ -3,7 +3,7 @@ type: design
 id: multi-agent-teacher-in-the-loop-architecture
 title: Multi-agent teacher-in-the-loop architecture for context personalization
 description: The article introduces a multi-agent, teacher-in-the-loop architecture for context personalization in which a teacher enters a base problem and desired topic, an LLM generates the problem, and then four AI agents eval...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

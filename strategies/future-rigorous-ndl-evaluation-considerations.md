@@ -3,7 +3,7 @@ type: strategy
 id: future-rigorous-ndl-evaluation-considerations
 title: Design considerations for a future rigorous evaluation of no-deadlines approaches
 description: "The memo recommends five areas for a future evaluation: enhancing the synthetic controls (more predictive covariates, cross-directorate multi-unit analyses), reconsidering analytic decisions (annual versus quarterly i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Neither ecological theory nor CHAT alone fully captures ethical AI use in education
 description: Neither ecological theory nor CHAT alone fully captures ethical AI use in education
 id: neither-framework-alone-captures-ethical-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

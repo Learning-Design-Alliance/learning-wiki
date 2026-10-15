@@ -2,7 +2,7 @@
 type: theory
 title: Distinction between universal and targeted school-based programs
 description: The report draws a scope distinction among school-based programs that determines who receives the intervention.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

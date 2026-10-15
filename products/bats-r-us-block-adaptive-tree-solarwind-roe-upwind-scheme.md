@@ -4,7 +4,7 @@ id: bats-r-us-block-adaptive-tree-solarwind-roe-upwind-scheme
 title: BATS-R-US (Block-Adaptive-Tree Solarwind Roe Upwind Scheme)
 description: "A three-dimensional global magnetohydrodynamics simulation code developed by the University of Michigan and made publicly runnable through NASA's Community Coordinated Modeling Center."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

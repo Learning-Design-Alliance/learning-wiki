@@ -3,7 +3,7 @@ type: claim
 title: Achievement growth patterns between Catholic and public school students varied by age and subject
 description: Achievement growth patterns between Catholic and public school students varied by age and subject
 id: sector-growth-patterns-vary-age-and-subject
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

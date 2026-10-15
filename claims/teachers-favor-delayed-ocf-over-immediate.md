@@ -3,7 +3,7 @@ type: claim
 title: Instructors favored delayed over immediate oral corrective feedback, believing immediate correction intimidates students
 description: Instructors favored delayed over immediate oral corrective feedback, believing immediate correction intimidates students
 id: teachers-favor-delayed-ocf-over-immediate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

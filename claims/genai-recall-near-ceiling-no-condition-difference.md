@@ -3,7 +3,7 @@ type: claim
 title: Patient history recall was near ceiling in both conditions, with significant decline over two weeks but no difference between genAI and ePBLM conditions
 description: Patient history recall was near ceiling in both conditions, with significant decline over two weeks but no difference between genAI and ePBLM conditions
 id: genai-recall-near-ceiling-no-condition-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

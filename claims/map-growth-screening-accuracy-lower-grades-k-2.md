@@ -3,7 +3,7 @@ type: claim
 title: Classification accuracy of the screening cut scores is lower for Grades K-2 than Grades 3-8, attributed to a 12-36 month lapse between MAP Growth and criterion measures
 description: Classification accuracy of the screening cut scores is lower for Grades K-2 than Grades 3-8, attributed to a 12-36 month lapse between MAP Growth and criterion measures
 id: map-growth-screening-accuracy-lower-grades-k-2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

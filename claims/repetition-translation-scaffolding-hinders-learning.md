@@ -3,7 +3,7 @@ type: claim
 title: Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning
 description: Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning
 id: repetition-translation-scaffolding-hinders-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

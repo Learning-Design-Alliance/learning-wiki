@@ -3,7 +3,7 @@ type: claim
 title: The Wilson Reading System shows potentially positive effects on alphabetics for beginning readers, based on a single randomized controlled trial
 description: The Wilson Reading System shows potentially positive effects on alphabetics for beginning readers, based on a single randomized controlled trial
 id: wilson-reading-system-potentially-positive-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

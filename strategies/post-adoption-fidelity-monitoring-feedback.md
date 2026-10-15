@@ -3,7 +3,7 @@ type: strategy
 id: post-adoption-fidelity-monitoring-feedback
 title: During post-adoption, monitor fidelity of use, examine equity patterns, and share strengths and challenges with developers
 description: "The post-adoption stage asks districts to determine where the tool is \"being beneficially implemented with fidelity and where it is not,\" to examine data for equitable support, and to identify \"patterns of use or disu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

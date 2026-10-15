@@ -3,7 +3,7 @@ type: element
 id: pittsburgh-public-schools-value-added-models
 title: Pittsburgh Public Schools value-added models using multiple outcome measures
 description: A set of value-added models created for the Pittsburgh Public Schools and the Pittsburgh Federation of Teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

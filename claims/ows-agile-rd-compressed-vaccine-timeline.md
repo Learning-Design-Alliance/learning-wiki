@@ -3,7 +3,7 @@ type: claim
 title: "Operation Warp Speed illustrates that purpose-built agile R&D structures can compress time-to-impact during systemic disruption"
 description: "Operation Warp Speed illustrates that purpose-built agile R&D structures can compress time-to-impact during systemic disruption"
 id: ows-agile-rd-compressed-vaccine-timeline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

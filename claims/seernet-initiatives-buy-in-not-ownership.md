@@ -3,7 +3,7 @@ type: claim
 title: Practitioner engagement initiatives reflected buy-in rather than ownership because leadership developed ideas and decisions before seeking context-expert input
 description: Practitioner engagement initiatives reflected buy-in rather than ownership because leadership developed ideas and decisions before seeking context-expert input
 id: seernet-initiatives-buy-in-not-ownership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: AIEd higher education publications rose nearly two to three times in 2021 and 2022 compared with previous years
 description: AIEd higher education publications rose nearly two to three times in 2021 and 2022 compared with previous years
 id: ai-ed-he-publications-rose-2021-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

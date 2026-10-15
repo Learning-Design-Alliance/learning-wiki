@@ -3,7 +3,7 @@ type: claim
 title: "Average growth maintains rather than improves a student's achievement percentile; growth must exceed average for a student to gain ground"
 description: "Average growth maintains rather than improves a student's achievement percentile; growth must exceed average for a student to gain ground"
 id: average-growth-maintains-percentile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

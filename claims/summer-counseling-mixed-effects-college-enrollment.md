@@ -3,7 +3,7 @@ type: claim
 title: Summer counseling has mixed effects on college access and enrollment for recent high school graduates, with a domain-average improvement index of +5 percentile points
 description: Summer counseling has mixed effects on college access and enrollment for recent high school graduates, with a domain-average improvement index of +5 percentile points
 id: summer-counseling-mixed-effects-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

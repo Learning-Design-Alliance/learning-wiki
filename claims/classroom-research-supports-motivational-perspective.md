@@ -3,7 +3,7 @@ type: claim
 title: Classroom research primarily supports the motivational perspective on cooperative learning effects
 description: Classroom research primarily supports the motivational perspective on cooperative learning effects
 id: classroom-research-supports-motivational-perspective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

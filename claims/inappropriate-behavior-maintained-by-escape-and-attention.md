@@ -3,7 +3,7 @@ type: claim
 title: Inappropriate mealtime behavior was maintained by escape and attention
 description: Inappropriate mealtime behavior was maintained by escape and attention
 id: inappropriate-behavior-maintained-by-escape-and-attention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

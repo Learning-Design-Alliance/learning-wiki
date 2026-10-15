@@ -3,7 +3,7 @@ type: claim
 title: "Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties"
 description: "Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties"
 id: magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

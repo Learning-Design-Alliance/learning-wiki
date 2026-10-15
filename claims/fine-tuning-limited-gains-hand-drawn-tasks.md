@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuning on clean synthetic data yields limited gains on hand-drawn tasks, indicating limited robustness to out-of-distribution hand-drawn inputs
 description: Fine-tuning on clean synthetic data yields limited gains on hand-drawn tasks, indicating limited robustness to out-of-distribution hand-drawn inputs
 id: fine-tuning-limited-gains-hand-drawn-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

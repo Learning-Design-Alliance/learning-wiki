@@ -3,7 +3,7 @@ type: claim
 title: GPT-4o mini showed progressive turn-level convergence with accumulating context while larger models showed increasing or stable error
 description: GPT-4o mini showed progressive turn-level convergence with accumulating context while larger models showed increasing or stable error
 id: turn-level-convergence-gpt-4o-mini
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

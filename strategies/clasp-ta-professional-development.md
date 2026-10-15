@@ -3,7 +3,7 @@ type: strategy
 id: clasp-ta-professional-development
 title: Multi-component TA professional development program for teaching interactive-engagement discussion/labs
 description: "Because graduate TAs lead over 90% of CLASP DL sections, the program runs a significant professional development sequence for new TAs: a mandatory 3-day introduction in which TAs experience CLASP activities as student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

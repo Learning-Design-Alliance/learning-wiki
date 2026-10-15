@@ -3,7 +3,7 @@ type: claim
 title: Appropriate average treatment effect estimators can be derived for both finite-population and super-population models of clustered RCTs
 description: Appropriate average treatment effect estimators can be derived for both finite-population and super-population models of clustered RCTs
 id: appropriate-estimators-derived-for-each-causal-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

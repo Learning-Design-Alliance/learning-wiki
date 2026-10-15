@@ -3,7 +3,7 @@ type: strategy
 id: three-stage-noticing-writing-task
 title: "Three-stage writing task: write with problem notes, compare to a model paragraph, then rewrite"
 description: "The study's implementable protocol: in Stage 1 the learner writes a paragraph in response to an illustrated question while noting problems on a second sheet (e.g., \"I do not know how to write X\"); in Stage 2 he compar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

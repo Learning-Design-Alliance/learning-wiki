@@ -3,7 +3,7 @@ type: claim
 title: The item-quality and prediction work is part of a larger project aiming to make online math more accessible to students with visual impairments
 description: The item-quality and prediction work is part of a larger project aiming to make online math more accessible to students with visual impairments
 id: larger-project-online-math-accessibility-vi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

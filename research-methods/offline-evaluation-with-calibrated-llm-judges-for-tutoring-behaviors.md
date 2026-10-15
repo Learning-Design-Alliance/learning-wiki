@@ -3,7 +3,7 @@ type: research-method
 id: offline-evaluation-with-calibrated-llm-judges-for-tutoring-behaviors
 title: Offline evaluation with calibrated LLM judges for tutoring behaviors
 description: "The team maintains targeted offline datasets sampled from production completions, including an answer-giveaway dataset where \"The final dataset consists of 63 data points\" and a Tutor Me input-classification dataset where \"the dataset consisted of 794 data points.\" LLM judges calibrated against huma"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

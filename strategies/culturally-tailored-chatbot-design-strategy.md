@@ -3,7 +3,7 @@ type: strategy
 id: culturally-tailored-chatbot-design-strategy
 title: "Culturally tailored chatbot design: position chatbots as reflective companions for Chinese users and as thinking partners for Western users, while deploying cognitive support broadly"
 description: The authors recommend designing AI chatbot applications differently across cultural contexts based on the observed divergence.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

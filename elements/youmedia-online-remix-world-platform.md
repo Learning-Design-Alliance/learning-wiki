@@ -3,7 +3,7 @@ type: element
 id: youmedia-online-remix-world-platform
 title: "YOUmedia online: a closed social networking site with Remix dollar incentives and feedback systems"
 description: YOUmedia online is a closed social networking site built on the Remix World platform, accessible 24 hours a day, where teens create personal pages, join groups, post and comment on multimedia, and message peers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

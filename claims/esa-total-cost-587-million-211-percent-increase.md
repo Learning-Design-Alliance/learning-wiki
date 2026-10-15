@@ -3,7 +3,7 @@ type: claim
 title: "Total ESA program cost reached about $587 million in 2022–23, a 211% increase over the prior year, equal to 8.8% of Basic Student Aid funding"
 description: "Total ESA program cost reached about $587 million in 2022–23, a 211% increase over the prior year, equal to 8.8% of Basic Student Aid funding"
 id: esa-total-cost-587-million-211-percent-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: A single configurable analytics codebase replicates prior research findings across three educational AI assistant domains
 description: A single configurable analytics codebase replicates prior research findings across three educational AI assistant domains
 id: a4l-pipeline-replicates-analyses-across-three-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

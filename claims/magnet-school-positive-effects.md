@@ -3,7 +3,7 @@ type: claim
 title: Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand
 description: Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand
 id: magnet-school-positive-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

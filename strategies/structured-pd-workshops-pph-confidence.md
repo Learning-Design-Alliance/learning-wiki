@@ -3,7 +3,7 @@ type: strategy
 id: structured-pd-workshops-pph-confidence
 title: Use structured professional development workshops featuring the PPH framework to build workforce confidence for pro-environmental change
 description: "The article recommends structured professional development as a vehicle for building dietitians' capacity for food system change: \"structured professional development, in this case a workshop featuring the PPH framewo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

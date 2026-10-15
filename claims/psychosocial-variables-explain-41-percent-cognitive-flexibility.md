@@ -3,7 +3,7 @@ type: claim
 title: "Attachment styles, irrational beliefs and psychological symptoms jointly explain approximately 41% of the variance in university students' cognitive flexibility"
 description: "Attachment styles, irrational beliefs and psychological symptoms jointly explain approximately 41% of the variance in university students' cognitive flexibility"
 id: psychosocial-variables-explain-41-percent-cognitive-flexibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

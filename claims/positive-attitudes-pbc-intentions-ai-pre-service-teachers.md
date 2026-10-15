@@ -3,7 +3,7 @@ type: claim
 title: Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI
 description: Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI
 id: positive-attitudes-pbc-intentions-ai-pre-service-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

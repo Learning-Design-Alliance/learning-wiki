@@ -3,7 +3,7 @@ type: claim
 title: "Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy"
 description: "Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy"
 id: rpg-mechanics-not-yet-serve-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

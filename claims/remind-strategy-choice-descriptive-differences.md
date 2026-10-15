@@ -3,7 +3,7 @@ type: claim
 title: Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)
 description: Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)
 id: remind-strategy-choice-descriptive-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

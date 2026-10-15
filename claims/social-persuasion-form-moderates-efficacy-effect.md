@@ -3,7 +3,7 @@ type: claim
 title: "The effect of social persuasion on student teacher efficacy depends on its form: verbal feedback from cooperating teachers is positive while structured communication tools and peer pairing show no benefit"
 description: "The effect of social persuasion on student teacher efficacy depends on its form: verbal feedback from cooperating teachers is positive while structured communication tools and peer pairing show no benefit"
 id: social-persuasion-form-moderates-efficacy-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

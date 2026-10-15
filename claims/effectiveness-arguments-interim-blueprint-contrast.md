@@ -3,7 +3,7 @@ type: claim
 title: An argument-based approach to test score effectiveness can be illustrated by contrasting effectiveness arguments for interim assessments based on a conventional test blueprint versus one augmented with learning progressions
 description: An argument-based approach to test score effectiveness can be illustrated by contrasting effectiveness arguments for interim assessments based on a conventional test blueprint versus one augmented with learning progre...
 id: effectiveness-arguments-interim-blueprint-contrast
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

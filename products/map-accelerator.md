@@ -4,7 +4,7 @@ id: map-accelerator
 title: MAP Accelerator
 description: Khan Academy MAP Accelerator is a mastery-based mathematics learning platform developed by Khan Academy in partnership with NWEA for students in grades 3–8.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

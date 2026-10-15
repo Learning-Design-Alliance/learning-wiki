@@ -3,7 +3,7 @@ type: claim
 title: Effort avoidance contributes to reminder overuse beyond metacognitive error
 description: Effort avoidance contributes to reminder overuse beyond metacognitive error
 id: effort-avoidance-reminder-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

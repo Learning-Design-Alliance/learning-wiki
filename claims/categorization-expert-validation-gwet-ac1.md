@@ -3,7 +3,7 @@ type: claim
 title: "Expert validation shows high inter-expert reliability (Gwet's AC1 .96 overall) and high expert-cluster agreement (ARI .97, NMI .95) for the general education categorization"
 description: "Expert validation shows high inter-expert reliability (Gwet's AC1 .96 overall) and high expert-cluster agreement (ARI .97, NMI .95) for the general education categorization"
 id: categorization-expert-validation-gwet-ac1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

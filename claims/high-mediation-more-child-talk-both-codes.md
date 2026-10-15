@@ -3,7 +3,7 @@ type: claim
 title: High teacher mediation is associated with more children talking and higher frequency of both elaborated and restricted talk
 description: High teacher mediation is associated with more children talking and higher frequency of both elaborated and restricted talk
 id: high-mediation-more-child-talk-both-codes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

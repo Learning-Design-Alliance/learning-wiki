@@ -3,7 +3,7 @@ type: claim
 title: Expert plan preferences were split, with some experts preferring the lower-scoring general-purpose plan for its social-emotional emphasis
 description: Expert plan preferences were split, with some experts preferring the lower-scoring general-purpose plan for its social-emotional emphasis
 id: expert-preferences-split-despite-c2-higher-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

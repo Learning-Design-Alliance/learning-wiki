@@ -3,7 +3,7 @@ type: claim
 title: Elementary under-representation of highest-performing teachers appears in 4 of 8 districts despite the aggregate null
 description: Elementary under-representation of highest-performing teachers appears in 4 of 8 districts despite the aggregate null
 id: elementary-underrepresentation-four-of-eight-districts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: ktst
 title: KTST
 description: An open-source code repository released by Kai Neubauer and colleagues implementing knowledge tracing set transformers, their set-based interaction embeddings, and learnable ALiBi attention for research in knowledge tracing and intelligent tutoring systems.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: LLMs are more stable than supervised models across dataset shifts, though they do not surpass within-dataset fine-tuned performance
 description: LLMs are more stable than supervised models across dataset shifts, though they do not surpass within-dataset fine-tuned performance
 id: llms-more-stable-cross-dataset-than-supervised
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

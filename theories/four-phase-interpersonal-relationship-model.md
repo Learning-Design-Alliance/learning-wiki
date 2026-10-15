@@ -2,7 +2,7 @@
 type: theory
 title: "Four-phase model of interpersonal relationships: choice, beginning, deepening, termination"
 description: The article conceptualizes relationships as a process of four phases through which dyads progress.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

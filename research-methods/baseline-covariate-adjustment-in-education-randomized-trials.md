@@ -3,7 +3,7 @@ type: research-method
 id: baseline-covariate-adjustment-in-education-randomized-trials
 title: Baseline covariate adjustment in education randomized trials
 description: The paper recommends that studies using student achievement outcomes generally aim to collect and use baseline data, because analyses using more than one wave of data typically have much greater statistical power than posttest-only analyses.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

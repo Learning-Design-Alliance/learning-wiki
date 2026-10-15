@@ -4,7 +4,7 @@ id: corpus-of-213-peer-reviewed-journal-articles-on-ai-in-business-education-dim
 title: Corpus of 213 peer-reviewed journal articles on AI in business education (Dimensions, 2015–2024)
 description: A corpus compiled by Espino et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

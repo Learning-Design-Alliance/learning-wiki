@@ -3,7 +3,7 @@ type: claim
 title: Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance
 description: Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance
 id: ct-pck-score-range-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

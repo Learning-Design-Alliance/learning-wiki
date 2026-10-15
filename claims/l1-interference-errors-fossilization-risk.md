@@ -3,7 +3,7 @@ type: claim
 title: L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies
 description: L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies
 id: l1-interference-errors-fossilization-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

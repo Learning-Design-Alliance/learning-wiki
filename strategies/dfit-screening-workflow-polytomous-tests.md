@@ -3,7 +3,7 @@ type: strategy
 id: dfit-screening-workflow-polytomous-tests
 title: Use DFIT indices with empirically established cutoffs and iterative linking to screen polytomous tests for DIF and DTF
 description: "The article outlines a practical workflow for test developers: estimate item parameters with PARSCALE, link the Reference Group metric to the Focal Group metric with a two-stage iterative linking procedure, compute C-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

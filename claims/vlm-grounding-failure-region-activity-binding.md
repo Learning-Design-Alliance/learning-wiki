@@ -3,7 +3,7 @@ type: claim
 title: "VLMs show a common grounding failure: coarse semantic relevance without precise region-activity binding and entity-evidence alignment"
 description: "VLMs show a common grounding failure: coarse semantic relevance without precise region-activity binding and entity-evidence alignment"
 id: vlm-grounding-failure-region-activity-binding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

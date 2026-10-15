@@ -3,7 +3,7 @@ type: claim
 title: "Verification strategy type varies by assignment context: testing is more common in structured tasks (Algorithms 87.8%) while web search is more common in open-ended tasks (HCI 56.0%)"
 description: "Verification strategy type varies by assignment context: testing is more common in structured tasks (Algorithms 87.8%) while web search is more common in open-ended tasks (HCI 56.0%)"
 id: verification-type-varies-by-assignment-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

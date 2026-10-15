@@ -3,7 +3,7 @@ type: claim
 title: "Career Academies have potentially positive effects on completing school: about 96% of academy students earned a diploma or GED within 8 years of expected graduation versus about 94% of comparison students (effect size 0.27, not statistically significant but substantively important)."
 description: "Career Academies have potentially positive effects on completing school: about 96% of academy students earned a diploma or GED within 8 years of expected graduation versus about 94% of comparison students (effect size..."
 id: career-academies-potentially-positive-completing-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

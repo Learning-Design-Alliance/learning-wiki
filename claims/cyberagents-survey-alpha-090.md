@@ -3,7 +3,7 @@ type: claim
 title: The post-study survey instrument showed high internal consistency (alpha = 0.90)
 description: The post-study survey instrument showed high internal consistency (alpha = 0.90)
 id: cyberagents-survey-alpha-090
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems
 description: Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems
 id: students-satisfied-with-genai-feedback-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

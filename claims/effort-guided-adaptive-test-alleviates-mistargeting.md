@@ -3,7 +3,7 @@ type: claim
 title: A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation
 description: A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation
 id: effort-guided-adaptive-test-alleviates-mistargeting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

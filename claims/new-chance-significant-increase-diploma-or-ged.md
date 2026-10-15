@@ -3,7 +3,7 @@ type: claim
 title: New Chance produced a statistically significant increase in the likelihood of earning a high school diploma or GED certificate
 description: New Chance produced a statistically significant increase in the likelihood of earning a high school diploma or GED certificate
 id: new-chance-significant-increase-diploma-or-ged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

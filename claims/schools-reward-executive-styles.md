@@ -3,7 +3,7 @@ type: claim
 title: Schools overwhelmingly reward executive styles and confuse style with level of intellect
 description: Schools overwhelmingly reward executive styles and confuse style with level of intellect
 id: schools-reward-executive-styles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

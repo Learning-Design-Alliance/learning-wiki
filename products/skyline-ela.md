@@ -4,7 +4,7 @@ id: skyline-ela
 title: Skyline ELA
 description: A K–2 literacy curriculum launched and implemented by Chicago Public Schools in 2021.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

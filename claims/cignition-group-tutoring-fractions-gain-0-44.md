@@ -3,7 +3,7 @@ type: claim
 title: "Virtual group tutoring with Cignition improved 5th-grade students' fractions knowledge by 9 percentage points (ES = 0.44 SD) in an RCT"
 description: "Virtual group tutoring with Cignition improved 5th-grade students' fractions knowledge by 9 percentage points (ES = 0.44 SD) in an RCT"
 id: cignition-group-tutoring-fractions-gain-0-44
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

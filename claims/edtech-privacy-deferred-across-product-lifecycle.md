@@ -3,7 +3,7 @@ type: claim
 title: EdTech organizations recognize privacy as important but consistently defer it across the product lifecycle
 description: EdTech organizations recognize privacy as important but consistently defer it across the product lifecycle
 id: edtech-privacy-deferred-across-product-lifecycle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

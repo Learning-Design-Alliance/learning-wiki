@@ -3,7 +3,7 @@ type: claim
 title: "Perceived AI threat is negatively associated with university students' trust in AI and their dependence on GenAI"
 description: "Perceived AI threat is negatively associated with university students' trust in AI and their dependence on GenAI"
 id: perceived-ai-threat-negatively-associated-trust-genai-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

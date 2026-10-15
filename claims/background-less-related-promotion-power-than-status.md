@@ -3,7 +3,7 @@ type: claim
 title: Student background characteristics are less strongly related to promotion power scores than to status measures
 description: Student background characteristics are less strongly related to promotion power scores than to status measures
 id: background-less-related-promotion-power-than-status
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

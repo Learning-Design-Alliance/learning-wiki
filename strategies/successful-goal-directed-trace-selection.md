@@ -3,7 +3,7 @@ type: strategy
 id: successful-goal-directed-trace-selection
 title: Select hint-training data from successful students using a goal-directedness criterion
 description: "When constructing the edit distance space and hint policy, the article recommends two data-selection heuristics: \"we should limit ourselves to data of successful students\" who reached a correct solution, and apply the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions
 description: Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions
 id: peer-conflicts-conditional-on-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

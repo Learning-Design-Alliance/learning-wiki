@@ -3,7 +3,7 @@ type: claim
 title: "Feature-based ML models reduce next-week forecasting MAE by 22-33% over heuristic baselines for weekly minutes practiced and new skills mastered"
 description: "Feature-based ML models reduce next-week forecasting MAE by 22-33% over heuristic baselines for weekly minutes practiced and new skills mastered"
 id: ml-outperforms-heuristics-week-ahead-engagement-forecasting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

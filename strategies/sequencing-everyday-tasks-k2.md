@@ -3,7 +3,7 @@ type: strategy
 id: sequencing-everyday-tasks-k2
 title: Sequencing familiar everyday tasks to teach order of instructions
 description: The webinar suggests having students sequence routine tasks such as getting dressed, making a pizza, school procedures like hallway and lining-up routines, drawing a picture, and brushing your teeth.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

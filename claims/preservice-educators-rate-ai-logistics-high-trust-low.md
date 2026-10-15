@@ -3,7 +3,7 @@ type: claim
 title: Preservice educators rate generative AI highest for logistical support (time saving, clarity, organizing thought) and lowest for epistemic trust, accuracy and consistency
 description: Preservice educators rate generative AI highest for logistical support (time saving, clarity, organizing thought) and lowest for epistemic trust, accuracy and consistency
 id: preservice-educators-rate-ai-logistics-high-trust-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: journal-observation-assessment-reflection
 title: Assess youth learning through journals, observation, discussion, and applied reflection products
 description: The guide recommends multiple formative assessment and reflection channels rather than tests.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

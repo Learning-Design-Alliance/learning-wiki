@@ -3,7 +3,7 @@ type: claim
 title: Students reported significantly lower anxiety during AIvaluate-mediated viva sessions than during equivalent face-to-face viva assessments
 description: Students reported significantly lower anxiety during AIvaluate-mediated viva sessions than during equivalent face-to-face viva assessments
 id: aivaluate-lower-anxiety-than-face-to-face-viva
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

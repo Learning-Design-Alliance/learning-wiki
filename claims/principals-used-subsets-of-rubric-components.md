@@ -3,7 +3,7 @@ type: claim
 title: Principals in the pilot did not typically use all 22 rubric components when observing teachers
 description: Principals in the pilot did not typically use all 22 rubric components when observing teachers
 id: principals-used-subsets-of-rubric-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

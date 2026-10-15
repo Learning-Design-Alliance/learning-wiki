@@ -3,7 +3,7 @@ type: strategy
 id: gaa-ls-informs-targeted-teaching-and-transparent-assessment-design
 title: Use the five GAA-LS subscales to target instruction and make AI-related assessment expectations visible in assessment briefs
 description: "The article recommends using the GAA-LS diagnostically: for instructors, \"The five subscales can therefore inform targeted teaching rather than broad warnings about AI use.\" For course design, the scale points to elem..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

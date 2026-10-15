@@ -3,7 +3,7 @@ type: research-method
 id: responsible-dkt
 title: Responsible-DKT
 description: "The Responsible-DKT approach is organized as a reusable four-stage pipeline: raw logs are pre-processed into chronological per-student sequences, symbolic training samples are generated as sequence-to-sequence ground facts and queries, a neural-symbolic model integrates embeddings, recurrence, and s"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

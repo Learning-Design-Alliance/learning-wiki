@@ -2,7 +2,7 @@
 type: theory
 title: "Four-domain SEL construct framework: growth mindset, self-efficacy, social awareness, and self-management"
 description: "The article organizes its stability analysis around four distinct social-emotional learning domains: \"growth mindset, self-efficacy, social awareness, and self-management.\" These four constructs are treated as measura..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

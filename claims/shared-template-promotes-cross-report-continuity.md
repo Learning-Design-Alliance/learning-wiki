@@ -3,7 +3,7 @@ type: claim
 title: Using a shared reporting template across funded organizations promotes continuity and cross-solution comparison of reports
 description: Using a shared reporting template across funded organizations promotes continuity and cross-solution comparison of reports
 id: shared-template-promotes-cross-report-continuity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

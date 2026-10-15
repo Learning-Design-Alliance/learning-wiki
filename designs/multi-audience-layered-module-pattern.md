@@ -3,7 +3,7 @@ type: design
 id: multi-audience-layered-module-pattern
 title: "Multi-audience interactive module pattern: layered explanatory text plus parameter-adjustable simulation"
 description: "The student modules share a reusable design: an interactive simulation whose physical parameters users can adjust, accompanied by explanatory text layered for different audiences."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

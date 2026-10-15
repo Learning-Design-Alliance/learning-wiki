@@ -3,7 +3,7 @@ type: strategy
 id: facilitate-cognitive-disequilibrium
 title: Facilitate cognitive disequilibrium about ethnocentric views
 description: "This strategy directs program designers to build experiences that deliberately unsettle students' existing cultural assumptions."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

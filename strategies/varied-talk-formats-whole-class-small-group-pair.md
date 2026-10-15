@@ -3,7 +3,7 @@ type: strategy
 id: varied-talk-formats-whole-class-small-group-pair
 title: Use a variety of talk formats — whole-class, small group, and pair work — strategically to encourage participation
 description: The primer recommends choosing among whole-group discussions, small group work, and pair work to achieve different learning goals and encourage participation from all students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

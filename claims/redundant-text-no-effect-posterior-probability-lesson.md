@@ -3,7 +3,7 @@ type: claim
 title: Redundant text in the diagram did not affect posttest accuracy or difficulty ratings
 description: Redundant text in the diagram did not affect posttest accuracy or difficulty ratings
 id: redundant-text-no-effect-posterior-probability-lesson
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

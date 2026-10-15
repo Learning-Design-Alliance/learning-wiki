@@ -3,7 +3,7 @@ type: claim
 title: No significant GenAI-literacy-by-agent-condition interaction emerged, so the formal models did not support different literacy slopes across designs
 description: No significant GenAI-literacy-by-agent-condition interaction emerged, so the formal models did not support different literacy slopes across designs
 id: no-literacy-by-agent-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

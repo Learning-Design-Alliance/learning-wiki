@@ -3,7 +3,7 @@ type: element
 id: cio-network-state-collaboration
 title: Chief Information Officer network for state collaboration
 description: A network created to sustain collaboration among states involved in data-linking work after the TSDL project.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

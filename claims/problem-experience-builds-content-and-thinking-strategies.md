@@ -3,7 +3,7 @@ type: claim
 title: Learning through the experience of solving problems can build both content knowledge and thinking strategies
 description: Learning through the experience of solving problems can build both content knowledge and thinking strategies
 id: problem-experience-builds-content-and-thinking-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

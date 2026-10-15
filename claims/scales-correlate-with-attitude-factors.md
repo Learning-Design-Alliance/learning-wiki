@@ -3,7 +3,7 @@ type: claim
 title: Security intentions and objective knowledge correlate with preparedness, and self-efficacy correlates with confidence
 description: Security intentions and objective knowledge correlate with preparedness, and self-efficacy correlates with confidence
 id: scales-correlate-with-attitude-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

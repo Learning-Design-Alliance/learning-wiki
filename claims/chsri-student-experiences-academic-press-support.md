@@ -3,7 +3,7 @@ type: claim
 title: Student reports of instruction were generally similar across school types, with juniors in small schools reporting higher academic press and support
 description: Student reports of instruction were generally similar across school types, with juniors in small schools reporting higher academic press and support
 id: chsri-student-experiences-academic-press-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

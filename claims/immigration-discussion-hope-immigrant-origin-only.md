@@ -3,7 +3,7 @@ type: claim
 title: More frequent immigration discussion predicts increased hope for immigrant-origin GSA members but not non-immigrant-origin members
 description: More frequent immigration discussion predicts increased hope for immigrant-origin GSA members but not non-immigrant-origin members
 id: immigration-discussion-hope-immigrant-origin-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: A review of 13 recent AI literacy frameworks found most lack explicit scaffolded progression and are context-bound
 description: A review of 13 recent AI literacy frameworks found most lack explicit scaffolded progression and are context-bound
 id: recent-ai-literacy-frameworks-lack-scaffolded-progression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: retain-strengthen-improve-choice-options
 title: Retain, strengthen, and improve statewide choice options, with urgent state action on information, oversight, and funding equity
 description: "The report's central recommendation is that Minnesota \"retain, strengthen and improve our choice options\" rather than retreat from them."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

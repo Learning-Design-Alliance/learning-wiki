@@ -3,7 +3,7 @@ type: claim
 title: "Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge"
 description: "Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge"
 id: active-ai-engagement-depends-on-prior-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

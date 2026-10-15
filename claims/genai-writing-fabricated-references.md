@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning
 description: AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning
 id: genai-writing-fabricated-references
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

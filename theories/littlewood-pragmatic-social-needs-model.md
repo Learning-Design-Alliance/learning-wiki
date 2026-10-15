@@ -2,7 +2,7 @@
 type: theory
 title: "Littlewood's division of advanced learners' communication needs into pragmatic and social needs"
 description: "The article adopts Littlewood's model of advanced language learners' development, which divides communication needs into pragmatic needs, \"the desire to communicate effectively in a pragmatic sense\", and social needs,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

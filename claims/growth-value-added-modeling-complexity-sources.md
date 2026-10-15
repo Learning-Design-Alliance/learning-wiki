@@ -3,7 +3,7 @@ type: claim
 title: Student growth modeling and teacher value-added modeling are complex due to non-random assignment, measurement error, multidimensionality, and covariates
 description: Student growth modeling and teacher value-added modeling are complex due to non-random assignment, measurement error, multidimensionality, and covariates
 id: growth-value-added-modeling-complexity-sources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

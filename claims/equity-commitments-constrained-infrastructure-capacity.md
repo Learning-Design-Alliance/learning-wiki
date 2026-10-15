@@ -3,7 +3,7 @@ type: claim
 title: Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity
 description: Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity
 id: equity-commitments-constrained-infrastructure-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

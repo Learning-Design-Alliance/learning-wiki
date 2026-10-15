@@ -3,7 +3,7 @@ type: claim
 title: Studies finding grades less predictive often use restricted samples or weighted or self-reported GPAs, which are less accurate
 description: Studies finding grades less predictive often use restricted samples or weighted or self-reported GPAs, which are less accurate
 id: restricted-samples-explain-divergent-grade-predictions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

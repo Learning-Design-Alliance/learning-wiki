@@ -3,7 +3,7 @@ type: claim
 title: For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking
 description: For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking
 id: ai-feedback-reduces-perceived-personal-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

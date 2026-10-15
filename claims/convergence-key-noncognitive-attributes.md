@@ -3,7 +3,7 @@ type: claim
 title: Literature and expert opinion converge on a limited number of key noncognitive attributes that matter for student success, with multiple available instruments
 description: Literature and expert opinion converge on a limited number of key noncognitive attributes that matter for student success, with multiple available instruments
 id: convergence-key-noncognitive-attributes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

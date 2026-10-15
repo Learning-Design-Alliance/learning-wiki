@@ -3,7 +3,7 @@ type: claim
 title: Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time
 description: Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time
 id: students-recommend-chatgpt-suggest-improvements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

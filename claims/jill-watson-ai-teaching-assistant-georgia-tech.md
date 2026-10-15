@@ -3,7 +3,7 @@ type: claim
 title: The Jill Watson AI teaching assistant met student expectations in a Georgia Tech online course without being detected as non-human
 description: The Jill Watson AI teaching assistant met student expectations in a Georgia Tech online course without being detected as non-human
 id: jill-watson-ai-teaching-assistant-georgia-tech
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

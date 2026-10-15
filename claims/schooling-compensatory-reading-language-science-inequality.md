@@ -3,7 +3,7 @@ type: claim
 title: Schooling has a compensatory effect on inequality in reading, language, and science skills
 description: Schooling has a compensatory effect on inequality in reading, language, and science skills
 id: schooling-compensatory-reading-language-science-inequality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

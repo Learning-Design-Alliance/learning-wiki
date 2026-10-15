@@ -3,7 +3,7 @@ type: claim
 title: Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts
 description: Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts
 id: sleep-deprivation-impairst-astronaut-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

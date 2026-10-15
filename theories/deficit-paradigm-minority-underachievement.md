@@ -2,7 +2,7 @@
 type: theory
 title: "Deficit paradigm: minority underachievement explained by deficits the child brings to school"
 description: "The Deficit paradigm, as the review describes it via Pianta and Walsh, locates minority underachievement in the child, who \"comes to school with a deficit, whether biological, genetic, or cultural\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

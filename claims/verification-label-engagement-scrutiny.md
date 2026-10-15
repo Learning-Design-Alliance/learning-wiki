@@ -3,7 +3,7 @@ type: claim
 title: Students described the verification label as a reason to engage with AI-generated material that did not end their own scrutiny of it
 description: Students described the verification label as a reason to engage with AI-generated material that did not end their own scrutiny of it
 id: verification-label-engagement-scrutiny
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample
 description: Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample
 id: rapid-guessing-minimal-school-growth-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

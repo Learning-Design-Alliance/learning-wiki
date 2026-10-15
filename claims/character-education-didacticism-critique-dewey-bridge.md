@@ -3,7 +3,7 @@ type: claim
 title: "Character education is criticized for didacticism and de-emphasizing reflection and moral judgment, and Dewey's deliberation is proposed as a bridge between it and Kohlberg's approach"
 description: "Character education is criticized for didacticism and de-emphasizing reflection and moral judgment, and Dewey's deliberation is proposed as a bridge between it and Kohlberg's approach"
 id: character-education-didacticism-critique-dewey-bridge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

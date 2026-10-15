@@ -3,7 +3,7 @@ type: claim
 title: Attending a charter high school is associated with a 7 to 15 percentage point higher likelihood of earning a standard diploma than attending a traditional public high school
 description: Attending a charter high school is associated with a 7 to 15 percentage point higher likelihood of earning a standard diploma than attending a traditional public high school
 id: charter-high-schools-higher-diploma-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

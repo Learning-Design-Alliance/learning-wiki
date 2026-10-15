@@ -3,7 +3,7 @@ type: strategy
 id: integrate-ai-literacy-across-subject-areas
 title: Integrate AI literacy across grades and subject-area learning rather than confining it to electives
 description: "The report recommends that educators 'integrate AI literacy within the topics they already teach, such as math and ELA.' Because library media and computer science courses are typically electives not mandated for all..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: SWPBIS effects on peer rejection appeared strongest for children first exposed in earlier grades, the one significant grade-cohort interaction among those tested
 description: SWPBIS effects on peer rejection appeared strongest for children first exposed in earlier grades, the one significant grade-cohort interaction among those tested
 id: swpbis-earlier-exposure-stronger-rejection-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

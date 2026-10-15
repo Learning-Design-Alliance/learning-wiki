@@ -3,7 +3,7 @@ type: claim
 title: Non-native speaker dyads provided with subtitled videos before tasks produce a significantly higher percentage of negotiated turns in online TBLL than dyads without videos
 description: Non-native speaker dyads provided with subtitled videos before tasks produce a significantly higher percentage of negotiated turns in online TBLL than dyads without videos
 id: subtitled-videos-increase-negotiation-of-meaning-online-tbll
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

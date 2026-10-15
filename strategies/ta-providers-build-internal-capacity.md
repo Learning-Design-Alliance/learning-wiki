@@ -3,7 +3,7 @@ type: strategy
 id: ta-providers-build-internal-capacity
 title: "Technical assistance providers should plan to work themselves out of a job by building districts' internal capacity"
 description: This strategy directs external providers and districts to design partnerships so district staff gradually take over the work.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

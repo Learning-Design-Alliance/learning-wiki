@@ -3,7 +3,7 @@ type: claim
 title: Harder SAT Math items are associated with more implementation-centered and iterative episode dynamics — stronger Implement counts and Analyze–Implement transitions — rather than a proportional increase in all reasoning activity
 description: Harder SAT Math items are associated with more implementation-centered and iterative episode dynamics — stronger Implement counts and Analyze–Implement transitions — rather than a proportional increase in all reasonin...
 id: harder-items-implementation-centered-episode-dynamics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

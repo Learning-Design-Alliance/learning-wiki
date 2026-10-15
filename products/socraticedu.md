@@ -4,7 +4,7 @@ id: socraticedu
 title: SocraticEdu
 description: SocraticEdu is a corpus of 797 Chinese multi-turn Socratic tutoring trajectories for elementary science, reconstructed from platform logs and supplemented with synthetic dialogues by Wang et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

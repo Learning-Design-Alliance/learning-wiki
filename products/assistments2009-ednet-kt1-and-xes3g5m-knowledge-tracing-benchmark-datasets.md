@@ -4,7 +4,7 @@ id: assistments2009-ednet-kt1-and-xes3g5m-knowledge-tracing-benchmark-datasets
 title: ASSISTments2009, EdNet-KT1, and XES3G5M knowledge-tracing benchmark datasets
 description: A set of publicly used learner–question interaction datasets from online tutoring and exercise platforms, used to develop and evaluate knowledge-tracing models.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

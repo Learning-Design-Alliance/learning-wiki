@@ -3,7 +3,7 @@ type: method
 id: eight-forms-drawing-lab-data
 title: Eight constant forms of data collected within the drawing laboratory
 description: "The methodology relies on eight kinds of data, all from events and traces within the drawing lab: dated drawings, time-lapse negatives, recalled lab notes, direct observational descriptions, transcriptions of inquiry..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning
 description: Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning
 id: spoken-input-incidental-l2-word-learning-large-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

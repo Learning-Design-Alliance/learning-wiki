@@ -3,7 +3,7 @@ type: claim
 title: The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries
 description: The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries
 id: math-sex-difference-larger-in-higher-achieving-nations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

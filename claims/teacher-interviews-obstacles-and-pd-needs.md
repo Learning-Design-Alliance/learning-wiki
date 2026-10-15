@@ -3,7 +3,7 @@ type: claim
 title: "Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need"
 description: "Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need"
 id: teacher-interviews-obstacles-and-pd-needs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

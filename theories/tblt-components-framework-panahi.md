@@ -2,7 +2,7 @@
 type: theory
 title: Task-based language teaching framework with six systematic components and three lesson stages
 description: The article presents task-based language teaching (TBLT) as the strong version of communicative language teaching, whose central element is the task.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

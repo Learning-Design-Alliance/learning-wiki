@@ -3,7 +3,7 @@ type: claim
 title: "In the first Learning Salon, half of providers felt unable to showcase their solution's impact and a quarter felt unable to collaborate on co-design"
 description: "In the first Learning Salon, half of providers felt unable to showcase their solution's impact and a quarter felt unable to collaborate on co-design"
 id: first-salon-showcase-codesign-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

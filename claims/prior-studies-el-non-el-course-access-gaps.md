@@ -3,7 +3,7 @@ type: claim
 title: Prior studies find significant course access gaps between ELs and non-ELs
 description: Prior studies find significant course access gaps between ELs and non-ELs
 id: prior-studies-el-non-el-course-access-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

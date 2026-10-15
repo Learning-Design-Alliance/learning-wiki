@@ -3,7 +3,7 @@ type: claim
 title: Exam-level AI difficulty correlations with student performance are directionally consistent but weaker and only exploratory
 description: Exam-level AI difficulty correlations with student performance are directionally consistent but weaker and only exploratory
 id: exam-level-ai-difficulty-correlation-exploratory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

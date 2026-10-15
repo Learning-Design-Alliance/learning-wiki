@@ -3,7 +3,7 @@ type: research-method
 id: confidence-aware-selective-automated-scoring-framework
 title: Confidence-aware selective automated scoring framework
 description: The framework adapts a pretrained ViT with LoRA and derives a response-level confidence score from the stability of predictions under semantic-preserving test-time perturbations (crops, rotations).
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

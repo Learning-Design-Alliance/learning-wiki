@@ -3,7 +3,7 @@ type: claim
 title: "SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)"
 description: SWPBIS produces a very small improvement in teacher-rated emotion regulation among elementary school children (ES = 0.11)
 id: swpbis-improves-emotion-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

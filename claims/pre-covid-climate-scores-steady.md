@@ -3,7 +3,7 @@ type: claim
 title: School climate scores were steady across the years before COVID-19 in the Pennsylvania sample
 description: School climate scores were steady across the years before COVID-19 in the Pennsylvania sample
 id: pre-covid-climate-scores-steady
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

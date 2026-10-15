@@ -3,7 +3,7 @@ type: claim
 title: Research by others indicates pairing teachers and students of the same race significantly increases reading and math achievement of Black and White students and raises high school completion probability
 description: Research by others indicates pairing teachers and students of the same race significantly increases reading and math achievement of Black and White students and raises high school completion probability
 id: race-matched-teacher-achievement-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

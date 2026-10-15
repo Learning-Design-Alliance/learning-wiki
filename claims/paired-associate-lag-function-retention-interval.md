@@ -3,7 +3,7 @@ type: claim
 title: In paired-associate paradigms, the lag function is decreasing at very short retention intervals, inverted U-shaped at slightly longer intervals, and monotonically increasing at long intervals
 description: In paired-associate paradigms, the lag function is decreasing at very short retention intervals, inverted U-shaped at slightly longer intervals, and monotonically increasing at long intervals
 id: paired-associate-lag-function-retention-interval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

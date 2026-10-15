@@ -3,7 +3,7 @@ type: claim
 title: Students receiving instructor feedback showed significantly greater improvements in lab assignment scores than students receiving AI-generated feedback, after controlling for initial knowledge
 description: Students receiving instructor feedback showed significantly greater improvements in lab assignment scores than students receiving AI-generated feedback, after controlling for initial knowledge
 id: instructor-feedback-greater-lab-score-improvements-than-ai-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

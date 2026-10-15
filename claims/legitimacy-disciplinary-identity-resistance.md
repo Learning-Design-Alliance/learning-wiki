@@ -3,7 +3,7 @@ type: claim
 title: Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them
 description: Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them
 id: legitimacy-disciplinary-identity-resistance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

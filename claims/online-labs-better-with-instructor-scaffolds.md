@@ -3,7 +3,7 @@ type: claim
 title: Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects
 description: Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects
 id: online-labs-better-with-instructor-scaffolds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

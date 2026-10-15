@@ -3,7 +3,7 @@ type: claim
 title: No existing corpus simultaneously provides L2 speech, long-form presentation structure, accent labels, and prosodic annotations
 description: No existing corpus simultaneously provides L2 speech, long-form presentation structure, accent labels, and prosodic annotations
 id: no-corpus-satisfies-presentation-coaching-criteria
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

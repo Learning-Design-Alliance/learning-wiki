@@ -3,7 +3,7 @@ type: strategy
 id: representation-specific-validation
 title: Representation-specific validation of generated educational content across modalities
 description: "The paper recommends that hallucination and error risks be treated as non-uniform across representations: errors in text or visuals are easier to identify and correct, while errors in audio narration or interactive co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

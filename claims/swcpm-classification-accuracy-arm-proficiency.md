@@ -3,7 +3,7 @@ type: claim
 title: "MAP Reading Fluency SWCPM scores classify students into ARM proficiency categories with exact match rates of 74.6–90.8%, kappa 0.60–0.85, and overall accuracy 0.81–0.96"
 description: "MAP Reading Fluency SWCPM scores classify students into ARM proficiency categories with exact match rates of 74.6–90.8%, kappa 0.60–0.85, and overall accuracy 0.81–0.96"
 id: swcpm-classification-accuracy-arm-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

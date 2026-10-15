@@ -3,7 +3,7 @@ type: claim
 title: Mental health, especially depression, is probably the single most decisive factor in refugee language learning
 description: Mental health, especially depression, is probably the single most decisive factor in refugee language learning
 id: depression-decisive-factor-refugee-language-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

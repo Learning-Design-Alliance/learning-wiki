@@ -3,7 +3,7 @@ type: claim
 title: "California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system"
 description: "California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system"
 id: california-ece-fragmented-data-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

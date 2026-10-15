@@ -3,7 +3,7 @@ type: strategy
 id: chapter-recommendations-for-practice-reform-volume
 title: Structure reform analyses so each chapter presents original analysis, discusses implications for practice, and ends with recommendations for community colleges
 description: "The volume organizes its contributions so that \"Each chapter in the volume presents original analysis, discussing implications of the research for practice, and each ends with a set of recommendations for practice in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

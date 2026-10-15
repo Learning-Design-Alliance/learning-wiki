@@ -3,7 +3,7 @@ type: claim
 title: Observable metrics computed from IDE telemetry improved held-out prediction of query imminence (AUROC .726) and guided versus dependent help-seeking (AUROC .717) over raw telemetry
 description: Observable metrics computed from IDE telemetry improved held-out prediction of query imminence (AUROC .726) and guided versus dependent help-seeking (AUROC .717) over raw telemetry
 id: observable-metrics-improve-help-seeking-prediction-auroc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

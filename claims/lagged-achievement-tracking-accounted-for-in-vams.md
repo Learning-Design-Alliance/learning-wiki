@@ -3,7 +3,7 @@ type: claim
 title: Tracking based on lagged student achievement is usually accounted for in value-added models, which is why the falsification test can mislead
 description: Tracking based on lagged student achievement is usually accounted for in value-added models, which is why the falsification test can mislead
 id: lagged-achievement-tracking-accounted-for-in-vams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

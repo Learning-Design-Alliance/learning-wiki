@@ -3,7 +3,7 @@ type: element
 id: de-identified-data-category-gadrrs
 title: De-identified data category exempt from agreement restrictions with a re-identification ban
 description: The agreement defines De-identified Data as data where any and all Personally Identifiable Information has been removed, such that no one knows who the students are when analyzing the data.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

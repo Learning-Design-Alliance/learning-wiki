@@ -3,7 +3,7 @@ type: claim
 title: The high-flyer cohort comprised 91,643 students from more than 800 schools in 28 states
 description: The high-flyer cohort comprised 91,643 students from more than 800 schools in 28 states
 id: high-flyer-cohort-91643-students-28-states
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

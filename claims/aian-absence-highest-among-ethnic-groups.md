@@ -3,7 +3,7 @@ type: claim
 title: AI/AN students experienced chronic absence rates among the highest of any ethnic group before and after the pandemic
 description: AI/AN students experienced chronic absence rates among the highest of any ethnic group before and after the pandemic
 id: aian-absence-highest-among-ethnic-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Prompts raised learners' pragmatic awareness of refusals more than explicit feedback or control after a 10-week treatment"
 description: "Prompts raised learners' pragmatic awareness of refusals more than explicit feedback or control after a 10-week treatment"
 id: prompts-beat-explicit-feedback-refusal-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

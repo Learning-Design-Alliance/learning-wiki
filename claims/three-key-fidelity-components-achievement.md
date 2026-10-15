@@ -3,7 +3,7 @@ type: claim
 title: Three fidelity components—completing Apply It problems, following up on Time-Sensitive Interventions, and having Automated Messages on—differentiate classes with better-vs-poorer-than-expected grades.
 description: Three fidelity components—completing Apply It problems, following up on Time-Sensitive Interventions, and having Automated Messages on—differentiate classes with better-vs-poorer-than-expected grades.
 id: three-key-fidelity-components-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

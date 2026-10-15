@@ -3,7 +3,7 @@ type: claim
 title: School districts act as independent gatekeepers whose requirements can exceed IRB determinations
 description: School districts act as independent gatekeepers whose requirements can exceed IRB determinations
 id: district-independent-gatekeeper-edtech-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

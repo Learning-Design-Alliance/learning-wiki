@@ -3,7 +3,7 @@ type: claim
 title: Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention
 description: Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention
 id: task-essentialness-goal-directed-vocabulary-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

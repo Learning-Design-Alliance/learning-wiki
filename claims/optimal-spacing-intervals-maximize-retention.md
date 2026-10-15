@@ -3,7 +3,7 @@ type: claim
 title: Recent research identifies time intervals during which spaced study should occur to maximize memory retention
 description: Recent research identifies time intervals during which spaced study should occur to maximize memory retention
 id: optimal-spacing-intervals-maximize-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

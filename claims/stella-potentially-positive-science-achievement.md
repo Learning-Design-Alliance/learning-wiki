@@ -3,7 +3,7 @@ type: claim
 title: STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points
 description: STeLLA® has potentially positive effects on science achievement, with a statistically significant effect size of 0.68 and an improvement index of +25 percentile points
 id: stella-potentially-positive-science-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

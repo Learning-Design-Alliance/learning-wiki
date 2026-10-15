@@ -3,7 +3,7 @@ type: strategy
 id: target-coaching-to-teachers-most-in-need
 title: Allocate PD resources to high-cost but effective coaching programs for teachers most in need, rather than lower-cost programs for all teachers
 description: In the policy discussion, the authors recommend that given the tens of billions spent annually on PD with limited results, administrators judge whether current expenditures could be used more effectively.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

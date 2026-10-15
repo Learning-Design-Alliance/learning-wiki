@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported increased motivation knowledge and feasible, impactful MDP implementation after M-PLANS professional learning
 description: Teachers reported increased motivation knowledge and feasible, impactful MDP implementation after M-PLANS professional learning
 id: m-plans-teacher-knowledge-uptake-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

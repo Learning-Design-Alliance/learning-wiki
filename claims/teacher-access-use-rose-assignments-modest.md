@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments"
 description: "Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments"
 id: teacher-access-use-rose-assignments-modest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

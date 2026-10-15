@@ -3,7 +3,7 @@ type: strategy
 id: district-lessons-teacher-of-color-initiatives
 title: "District lessons for launching teacher-of-color support initiatives: safe space, clear goals, buy-in, and relationship time"
 description: In its Implications section, the report distills advice from initiative participants for other districts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

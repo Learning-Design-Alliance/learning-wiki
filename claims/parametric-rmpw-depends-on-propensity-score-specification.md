@@ -3,7 +3,7 @@ type: claim
 title: Correct specification of the mediator propensity score models is crucial when parametric RMPW is applied
 description: Correct specification of the mediator propensity score models is crucial when parametric RMPW is applied
 id: parametric-rmpw-depends-on-propensity-score-specification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

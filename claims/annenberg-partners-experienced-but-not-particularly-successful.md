@@ -3,7 +3,7 @@ type: claim
 title: Annenberg external partners accumulated substantial experience working with schools but were not particularly successful in promoting improvement across the large number of schools they served
 description: Annenberg external partners accumulated substantial experience working with schools but were not particularly successful in promoting improvement across the large number of schools they served
 id: annenberg-partners-experienced-but-not-particularly-successful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

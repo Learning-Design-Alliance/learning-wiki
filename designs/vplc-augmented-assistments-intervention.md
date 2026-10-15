@@ -3,7 +3,7 @@ type: design
 id: vplc-augmented-assistments-intervention
 title: vPLC-augmented ASSISTments intervention with four-step formative assessment process
 description: "The intervention combines WPI's ASSISTments online math platform with a virtual professional learning community (vPLC) designed to enhance scalability, reducing travel and scheduling barriers especially for rural dist..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

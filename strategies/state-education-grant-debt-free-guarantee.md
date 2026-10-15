@@ -3,7 +3,7 @@ type: strategy
 id: state-education-grant-debt-free-guarantee
 title: Consolidate non-Pell federal aid into a new state education grant tied to five state policy commitments and student responsibility requirements
 description: "The report recommends a new state-federal partnership that \"combines existing, non-Pell Grant financial-aid resources into a state grant\" worth more than $20 billion a year, funding a debt-free college guarantee for l..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Content alignment between a test and its content domain represents key evidence for validating test score inferences
 description: Content alignment between a test and its content domain represents key evidence for validating test score inferences
 id: alignment-key-validation-evidence-score-inferences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

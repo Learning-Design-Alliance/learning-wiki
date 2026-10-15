@@ -3,7 +3,7 @@ type: claim
 title: Universal screening data from a small sample of full-implementation schools show fall-to-spring benchmark gains in reading and most math grades, largest in kindergarten, but behavior data show losses and the data are inconclusive
 description: Universal screening data from a small sample of full-implementation schools show fall-to-spring benchmark gains in reading and most math grades, largest in kindergarten, but behavior data show losses and the data are...
 id: kansas-mtss-screening-gains-small-sample-inconclusive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

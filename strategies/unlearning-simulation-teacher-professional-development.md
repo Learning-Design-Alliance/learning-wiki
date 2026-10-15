@@ -3,7 +3,7 @@ type: strategy
 id: unlearning-simulation-teacher-professional-development
 title: Use unlearning-based simulated students as scalable practice environments for teacher professional development
 description: "The article's implications section proposes that because the unlearning approach can generate simulated students at different knowledge levels, it can populate training environments where teachers or tutors rehearse p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Students using LecturaAgents reported stronger perceived understanding, assessment readiness, and future learning support than comparison-tool users
 description: Students using LecturaAgents reported stronger perceived understanding, assessment readiness, and future learning support than comparison-tool users
 id: lecturaagents-student-survey-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

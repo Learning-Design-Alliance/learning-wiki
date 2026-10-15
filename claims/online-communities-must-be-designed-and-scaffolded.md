@@ -3,7 +3,7 @@ type: claim
 title: Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities
 description: Online learning communities do not simply emerge; they must be designed for and scaffolded through teaching and assessment activities
 id: online-communities-must-be-designed-and-scaffolded
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

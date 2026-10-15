@@ -3,7 +3,7 @@ type: claim
 title: The inferred norms show features of a traditional teacher perspective, while SDMN 4 shows features of a perception-based perspective
 description: The inferred norms show features of a traditional teacher perspective, while SDMN 4 shows features of a perception-based perspective
 id: sdmns-relate-to-traditional-and-perception-based-perspectives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

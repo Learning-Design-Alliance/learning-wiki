@@ -3,7 +3,7 @@ type: strategy
 id: brainstorming-subject-social-life-questions
 title: "Use brainstorming questions that probe a subject's social life and prior discursive handling"
 description: "A dialogic approach to probing subjects during the writing process entails paying attention to the subject's social life."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

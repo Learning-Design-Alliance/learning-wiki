@@ -3,7 +3,7 @@ type: claim
 title: Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners
 description: Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners
 id: social-influence-modest-attitude-mall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

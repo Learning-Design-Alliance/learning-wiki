@@ -3,7 +3,7 @@ type: research-method
 id: sme-elicited-llm-feature-based-item-difficulty-prediction
 title: SME-elicited LLM feature-based item difficulty prediction
 description: A catalog of item features developed through focus groups with four subject matter experts from the assessment design team and cross-referenced with prior literature, then rated by GPT-4o for each item.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

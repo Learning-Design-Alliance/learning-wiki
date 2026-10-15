@@ -3,7 +3,7 @@ type: claim
 title: Shallow engagement with a GenAI Tutor persists over time, while deep engagers transition flexibly across engagement types
 description: Shallow engagement with a GenAI Tutor persists over time, while deep engagers transition flexibly across engagement types
 id: shallow-engagement-persists-deep-flexible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

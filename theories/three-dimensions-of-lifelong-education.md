@@ -2,7 +2,7 @@
 type: theory
 title: "Three dimensions of lifelong education: vertical integration, horizontal integration, and learning to learn"
 description: The paper organizes lifelong education along three dimensions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

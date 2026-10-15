@@ -3,7 +3,7 @@ type: strategy
 id: report-scores-by-age-group
 title: Report achievement score trends by age group rather than by grade when promotion and retention policies change grade composition
 description: This strategy shifts score reporting from grade levels to age cohorts, defining age groups by birthdays within six months on either side of April 15, the approximate citywide testing date.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

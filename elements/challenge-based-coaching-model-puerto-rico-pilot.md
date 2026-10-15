@@ -3,7 +3,7 @@ type: element
 id: challenge-based-coaching-model-puerto-rico-pilot
 title: Modelo de Coaching Basado en Retos (Challenge-Based Coaching Model)
 description: "El Modelo de Coaching Basado en Retos es un modelo de coaching instructivo desarrollado por Digital Promise a partir del Proyecto de Aprendizaje Dinámico, estructurado en seis pasos: identificar y comprender los retos..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

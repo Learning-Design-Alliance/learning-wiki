@@ -3,7 +3,7 @@ type: strategy
 id: verification-cycles-and-faded-prompt-scaffolding-genai
 title: Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks
 description: "The article recommends two implementable practices to counter students' passive, retrieval-dominated GenAI use."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

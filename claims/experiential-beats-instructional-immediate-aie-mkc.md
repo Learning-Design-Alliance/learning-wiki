@@ -3,7 +3,7 @@ type: claim
 title: Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition
 description: Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition
 id: experiential-beats-instructional-immediate-aie-mkc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

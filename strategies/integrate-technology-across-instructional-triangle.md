@@ -3,7 +3,7 @@ type: strategy
 id: integrate-technology-across-instructional-triangle
 title: Integrate technology across the entire instructional triangle of teachers, students, and instructional resources
 description: Drawing on Cohen et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

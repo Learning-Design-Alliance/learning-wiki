@@ -3,7 +3,7 @@ type: claim
 title: Differential course placement gave young men and women different grading category weights, with young women more often in honors and geometry
 description: Differential course placement gave young men and women different grading category weights, with young women more often in honors and geometry
 id: differential-course-placement-created-different-category-weights
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

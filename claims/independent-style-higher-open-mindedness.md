@@ -3,7 +3,7 @@ type: claim
 title: Independent-style preservice teachers score higher on open-mindedness than avoidant, collaborative, and competitive styles
 description: Independent-style preservice teachers score higher on open-mindedness than avoidant, collaborative, and competitive styles
 id: independent-style-higher-open-mindedness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

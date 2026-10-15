@@ -3,7 +3,7 @@ type: research-method
 id: bloom-aligned-framework-for-measuring-educational-control-in-llms
 title: Bloom-aligned framework for measuring educational control in LLMs
 description: "The framework operationalizes educational control — \"the ability to preserve a task's instructional intent while shifting its cognitive demand toward specified learning objectives\" — using revised Bloom's Taxonomy as an ordinal scale from Remember (1) to Create (6)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

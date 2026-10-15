@@ -4,7 +4,7 @@ id: objectives-by-strand-test
 title: Objectives by Strand test
 description: A 78-item multiple-choice mathematics achievement test developed by a large urban school district and administered at the end of the school year.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

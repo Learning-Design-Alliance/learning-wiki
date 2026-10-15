@@ -3,7 +3,7 @@ type: claim
 title: Average reading scores in 2019 were lower in more than half of states at grade 8 and in approximately one-third of states at grade 4, while mathematics scores were mainly steady across states
 description: Average reading scores in 2019 were lower in more than half of states at grade 8 and in approximately one-third of states at grade 4, while mathematics scores were mainly steady across states
 id: naep-2019-state-reading-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

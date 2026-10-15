@@ -4,7 +4,7 @@ id: learnplansucceed
 title: Learn.Plan.Succeed.
 description: Learn.Plan.Succeed.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

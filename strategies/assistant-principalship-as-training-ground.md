@@ -3,7 +3,7 @@ type: strategy
 id: assistant-principalship-as-training-ground
 title: Use the assistant principalship as an explicit training ground for aspiring principals
 description: "Based on the two studies, the authors conclude that aspiring school leaders need a wide range of experiences and that \"the assistant principalship could serve as a more explicit training ground for new principals.\" In..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

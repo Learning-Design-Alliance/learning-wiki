@@ -3,7 +3,7 @@ type: strategy
 id: improve-ell-academic-self-efficacy-strategy
 title: Find ways to improve academic self-efficacy among ELLs to support faster academic growth and gap closing
 description: "The article's forward-looking recommendation is that interventions targeting ELLs' academic self-efficacy—their confidence in attaining educational goals—may accelerate math and reading growth and help close achieveme..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

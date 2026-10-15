@@ -3,7 +3,7 @@ type: claim
 title: In 2010, just 29 percent of children entering kindergarten in and near the NAZ Zone met literacy benchmarks on kindergarten readiness tests
 description: In 2010, just 29 percent of children entering kindergarten in and near the NAZ Zone met literacy benchmarks on kindergarten readiness tests
 id: naz-29-percent-kindergarten-literacy-benchmarks-2010
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

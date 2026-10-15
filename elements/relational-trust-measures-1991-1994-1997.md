@@ -3,7 +3,7 @@ type: element
 id: relational-trust-measures-1991-1994-1997
 title: Relational Trust measures built from teacher-parent, teacher-principal, and teacher-teacher trust scales across 1991, 1994, and 1997
 description: Relational Trust is measured in three survey waves.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

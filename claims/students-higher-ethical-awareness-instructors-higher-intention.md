@@ -3,7 +3,7 @@ type: claim
 title: Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention
 description: Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention
 id: students-higher-ethical-awareness-instructors-higher-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

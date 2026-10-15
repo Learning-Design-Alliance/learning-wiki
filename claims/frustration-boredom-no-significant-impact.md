@@ -3,7 +3,7 @@ type: claim
 title: No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found
 description: No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found
 id: frustration-boredom-no-significant-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

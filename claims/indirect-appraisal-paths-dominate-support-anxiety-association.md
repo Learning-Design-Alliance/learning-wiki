@@ -3,7 +3,7 @@ type: claim
 title: "Indirect paths through AI learning self-efficacy and perceived usefulness account for about 69.5% of the total association between school support and AI learning anxiety"
 description: "Indirect paths through AI learning self-efficacy and perceived usefulness account for about 69.5% of the total association between school support and AI learning anxiety"
 id: indirect-appraisal-paths-dominate-support-anxiety-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

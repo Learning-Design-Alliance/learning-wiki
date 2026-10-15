@@ -3,7 +3,7 @@ type: claim
 title: Black students were least likely to enroll in CS overall but most likely to enroll once school-level access to CS is accounted for
 description: Black students were least likely to enroll in CS overall but most likely to enroll once school-level access to CS is accounted for
 id: black-students-cs-enrollment-access-adjusted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

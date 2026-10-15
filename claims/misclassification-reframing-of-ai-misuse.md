@@ -3,7 +3,7 @@ type: claim
 title: "Learner AI over-reliance is reframed as misclassification: a failure of real-time metacognitive evaluation with two distinct pathways"
 description: "Learner AI over-reliance is reframed as misclassification: a failure of real-time metacognitive evaluation with two distinct pathways"
 id: misclassification-reframing-of-ai-misuse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

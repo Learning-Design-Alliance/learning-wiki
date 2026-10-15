@@ -3,7 +3,7 @@ type: claim
 title: Charter schools, on average, show test-score impacts that are not substantially better or worse than conventional public schools
 description: Charter schools, on average, show test-score impacts that are not substantially better or worse than conventional public schools
 id: charter-schools-test-score-impacts-comparable-to-traditional-public-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: technology-affordances-matrix-entry-point
 title: "Technology Affordances Matrix: entry-point table of technology work forms and their learning opportunities"
 description: "The Technology Affordances Matrix is the Toolkit's entry-point table."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

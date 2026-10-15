@@ -3,7 +3,7 @@ type: element
 id: high-impact-tutoring-aps-turnaround-component
 title: High Impact Tutoring as a component of the Atlanta Public Schools Turnaround Strategy
 description: High Impact Tutoring is one of the components of the Atlanta Public Schools Turnaround Strategy evaluated by Mathematica Policy Research.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

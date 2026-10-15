@@ -3,7 +3,7 @@ type: claim
 title: "Higher education students' interactions with an AI automated feedback tool can support the development of their feedback literacy capabilities"
 description: "Higher education students' interactions with an AI automated feedback tool can support the development of their feedback literacy capabilities"
 id: ai-feedback-tool-supports-feedback-literacy-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

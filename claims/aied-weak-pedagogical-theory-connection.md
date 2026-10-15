@@ -3,7 +3,7 @@ type: claim
 title: AIEd research is weakly connected to theoretical pedagogical perspectives
 description: AIEd research is weakly connected to theoretical pedagogical perspectives
 id: aied-weak-pedagogical-theory-connection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

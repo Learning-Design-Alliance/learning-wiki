@@ -3,7 +3,7 @@ type: strategy
 id: sfa-facilitator-and-pd-implementation-strategy
 title: Use a full-time program facilitator plus multi-mode professional development to sustain comprehensive reform implementation
 description: "SFA assigns a program facilitator who \"provides support for program implementation, manages central data collection and review, and serves as a coach for teachers.\" Professional development combines onsite workshops,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

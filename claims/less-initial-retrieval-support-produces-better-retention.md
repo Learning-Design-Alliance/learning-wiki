@@ -3,7 +3,7 @@ type: claim
 title: Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success
 description: Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success
 id: less-initial-retrieval-support-produces-better-retention
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

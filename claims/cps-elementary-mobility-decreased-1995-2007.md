@@ -3,7 +3,7 @@ type: claim
 title: Elementary student mobility in CPS decreased between 1995 and 2007, with school-year stability rising from 87.9 to 91.2 percent and school-year in-mobility falling from 11.4 to 7.1 percent
 description: Elementary student mobility in CPS decreased between 1995 and 2007, with school-year stability rising from 87.9 to 91.2 percent and school-year in-mobility falling from 11.4 to 7.1 percent
 id: cps-elementary-mobility-decreased-1995-2007
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

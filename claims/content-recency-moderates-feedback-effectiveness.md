@@ -3,7 +3,7 @@ type: claim
 title: "Feedback effectiveness varied by content recency: guidance-heavy feedback performed less consistently on newer material released after the model's knowledge cutoff"
 description: "Feedback effectiveness varied by content recency: guidance-heavy feedback performed less consistently on newer material released after the model's knowledge cutoff"
 id: content-recency-moderates-feedback-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

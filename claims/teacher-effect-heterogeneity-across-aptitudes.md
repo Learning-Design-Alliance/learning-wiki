@@ -3,7 +3,7 @@ type: claim
 title: Teacher effects may be heterogeneous across students of differing aptitudes, affecting growth modeling and teacher evaluation
 description: Teacher effects may be heterogeneous across students of differing aptitudes, affecting growth modeling and teacher evaluation
 id: teacher-effect-heterogeneity-across-aptitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

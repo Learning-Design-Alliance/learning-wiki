@@ -2,7 +2,7 @@
 type: theory
 title: "Molnar's random-sampling method: synthesis of rules and no-rules toward a higher order of symmetry"
 description: "Vera Molnar's computer-based artistic method treats randomness as a viable approach to artistic expression rather than as chaos or disorder."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

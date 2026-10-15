@@ -3,7 +3,7 @@ type: claim
 title: Educational rhetoric on the home/school relation and parent involvement spans a century
 description: Educational rhetoric on the home/school relation and parent involvement spans a century
 id: century-rhetoric-home-school-relation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

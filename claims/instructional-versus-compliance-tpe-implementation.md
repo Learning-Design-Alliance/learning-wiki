@@ -3,7 +3,7 @@ type: claim
 title: Instructionally focused TPE implementation is seen as more valuable, while compliance-driven implementation increases teacher stress
 description: Instructionally focused TPE implementation is seen as more valuable, while compliance-driven implementation increases teacher stress
 id: instructional-versus-compliance-tpe-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

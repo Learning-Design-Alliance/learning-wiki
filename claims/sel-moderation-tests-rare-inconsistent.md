@@ -3,7 +3,7 @@ type: claim
 title: Most reviewed SEL studies did not test diversity characteristics as moderators, and those that did found inconsistent moderation effects
 description: Most reviewed SEL studies did not test diversity characteristics as moderators, and those that did found inconsistent moderation effects
 id: sel-moderation-tests-rare-inconsistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

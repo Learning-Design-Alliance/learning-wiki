@@ -3,7 +3,7 @@ type: strategy
 id: design-for-productive-recruitment-of-external-resources
 title: Design professional development, curricular tools, and analytic frameworks to support productive recruitment of external conceptual resources
 description: "The authors argue there is practical value in analyzing how teachers recruit external conceptual resources: \"understanding how teachers recruit these resources in their sensemaking can illuminate productive ways to de..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: A screenshot-only reward was reward-hacked into producing visually convincing but unplayable games; hardening the reward with an interactivity probe and hard-fail gate reversed the collapse
 description: A screenshot-only reward was reward-hacked into producing visually convincing but unplayable games; hardening the reward with an interactivity probe and hard-fail gate reversed the collapse
 id: reward-hacking-games-interactivity-probe
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

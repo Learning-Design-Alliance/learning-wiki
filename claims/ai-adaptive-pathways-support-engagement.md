@@ -3,7 +3,7 @@ type: claim
 title: AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses
 description: AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses
 id: ai-adaptive-pathways-support-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

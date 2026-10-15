@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards"
 description: "The evidence base on dual language programs is thin: only two of 122 identified studies met WWC standards"
 id: dual-language-evidence-base-thin-two-of-122
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

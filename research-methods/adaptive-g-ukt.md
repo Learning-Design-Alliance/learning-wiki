@@ -3,7 +3,7 @@ type: research-method
 id: adaptive-g-ukt
 title: Adaptive G-UKT
 description: "Adaptive G-UKT is a knowledge tracing framework that models each learner's evolving latent state as a Gaussian distribution rather than a point vector, tracking \"semantic activation levels and estimation confidence through diagonal covariance\"."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

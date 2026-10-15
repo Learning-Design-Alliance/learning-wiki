@@ -3,7 +3,7 @@ type: claim
 title: MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects
 description: MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects
 id: mab-overestimates-effect-sizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

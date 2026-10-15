@@ -3,7 +3,7 @@ type: claim
 title: "Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023"
 description: "Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023"
 id: pef-fy2024-roi-21-percent-similar-to-fy2023
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

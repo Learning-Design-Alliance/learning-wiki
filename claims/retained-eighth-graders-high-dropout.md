@@ -3,7 +3,7 @@ type: claim
 title: Nearly a third of eighth graders retained or sent to Transition Centers in 1997 had dropped out by fall 1999, while overall eighth-grade dropout rates stayed stable
 description: Nearly a third of eighth graders retained or sent to Transition Centers in 1997 had dropped out by fall 1999, while overall eighth-grade dropout rates stayed stable
 id: retained-eighth-graders-high-dropout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

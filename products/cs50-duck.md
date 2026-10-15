@@ -4,7 +4,7 @@ id: cs50-duck
 title: CS50-Duck
 description: "CS50-Duck is a subject-matter conversational agent developed for and deployed in Harvard's CS50 programming course through the CS50 platform and Visual Studio Code."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

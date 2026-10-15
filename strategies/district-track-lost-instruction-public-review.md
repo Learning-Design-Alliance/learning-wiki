@@ -3,7 +3,7 @@ type: strategy
 id: district-track-lost-instruction-public-review
 title: Districts should track rates of lost instruction from suspensions and conduct recurring public reviews of discipline disparities
 description: For local policymakers, the report recommends that districts track the frequency and rates of lost instruction from out-of-school suspensions and use the data to inform local discipline policy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

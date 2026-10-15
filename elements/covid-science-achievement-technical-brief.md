@@ -3,7 +3,7 @@ type: element
 id: covid-science-achievement-technical-brief
 title: "NWEA technical brief on COVID's impact on science achievement, 2019–2024"
 description: A technical brief published by NWEA Research in September 2024 by Susan Kowalski, Scott J.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The merit award program produced modest achievement improvements concentrated in schools close to the award threshold
 description: The merit award program produced modest achievement improvements concentrated in schools close to the award threshold
 id: merit-award-modest-gains-near-threshold
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

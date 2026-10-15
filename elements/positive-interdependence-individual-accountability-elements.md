@@ -3,7 +3,7 @@ type: element
 id: positive-interdependence-individual-accountability-elements
 title: Positive interdependence and individual accountability as the two necessary elements of cooperative learning
 description: "The digest identifies the two elements that all cooperative learning advocates agree are absolutely necessary for cooperative learning to be successful: positive interdependence and individual accountability."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

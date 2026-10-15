@@ -3,7 +3,7 @@ type: claim
 title: Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity
 description: Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity
 id: feedback-timing-post-session-debrief-preference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

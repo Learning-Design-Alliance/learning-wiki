@@ -3,7 +3,7 @@ type: claim
 title: Guided reflection assignments produce roughly twice as much written reflection as free assignments
 description: Guided reflection assignments produce roughly twice as much written reflection as free assignments
 id: guided-reflection-produces-longer-reflections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

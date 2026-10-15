@@ -3,7 +3,7 @@ type: claim
 title: The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability
 description: The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability
 id: entrance-age-advantage-reflects-prior-skill-accumulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

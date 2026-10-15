@@ -3,7 +3,7 @@ type: claim
 title: "Only about half of beginning teachers of color had taken any teaching classes prior to teaching, compared to 59% of beginning White teachers"
 description: "Only about half of beginning teachers of color had taken any teaching classes prior to teaching, compared to 59% of beginning White teachers"
 id: beginning-teachers-of-color-less-preservice-coursework
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

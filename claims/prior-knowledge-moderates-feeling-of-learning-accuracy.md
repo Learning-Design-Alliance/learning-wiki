@@ -3,7 +3,7 @@ type: claim
 title: Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)
 description: Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)
 id: prior-knowledge-moderates-feeling-of-learning-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

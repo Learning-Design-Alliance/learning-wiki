@@ -3,7 +3,7 @@ type: strategy
 id: teacher-participatory-paper-prototyping-llm-chatbots
 title: Engage teachers in participatory design with low-fidelity paper prototypes to surface LLM chatbot design considerations
 description: "The study's method is an implementable strategy: engage teachers as domain experts in participatory design of LLM-powered tools."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: theory
 title: "Chicago's theory of action for ending social promotion: high-stakes testing combined with multiple chances and progressively targeted intervention"
 description: "The report describes Chicago's initiative as an integrated set of initiatives rather than a single policy, operating during the testing year, over the summer, and in the retention year."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Effective AI use increases AI over-reliance, which negatively affects sustainable learning performance
 description: Effective AI use increases AI over-reliance, which negatively affects sustainable learning performance
 id: effective-ai-use-increases-over-reliance-harming-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

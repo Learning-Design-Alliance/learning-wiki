@@ -3,7 +3,7 @@ type: claim
 title: The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering
 description: The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering
 id: pals-potentially-positive-comprehension-effect-adolescent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

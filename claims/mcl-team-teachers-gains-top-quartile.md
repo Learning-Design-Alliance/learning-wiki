@@ -3,7 +3,7 @@ type: claim
 title: Teachers on Multi-Classroom Leader teams produced learning gains equal to top-quartile teachers in math and nearly that in reading
 description: Teachers on Multi-Classroom Leader teams produced learning gains equal to top-quartile teachers in math and nearly that in reading
 id: mcl-team-teachers-gains-top-quartile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

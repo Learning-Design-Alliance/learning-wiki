@@ -3,7 +3,7 @@ type: strategy
 id: co-design-feedback-loops-ai-evaluation
 title: Integrate co-design and continuous feedback loops into AI evaluation processes
 description: The report recommends that states integrate co-design with feedback loops—defined as structures that are purposeful, multi-directional, iterative, and transformative—into evaluation across all implementation stages.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

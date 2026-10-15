@@ -3,7 +3,7 @@ type: claim
 title: "LLM distractor-generation strategies differ by domain: error description and simulation dominate on math while conceptual linking and discriminability checks dominate on science"
 description: "LLM distractor-generation strategies differ by domain: error description and simulation dominate on math while conceptual linking and discriminability checks dominate on science"
 id: domain-shift-link-versus-error-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

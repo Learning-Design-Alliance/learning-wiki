@@ -3,7 +3,7 @@ type: strategy
 id: summer-institute-plc-coaching-data-routines
 title: Train educators through a Summer Institute plus PLC and coaching cycles on data use and instructional routines
 description: "The article's implementable recipe is to \"Conduct a 2-day Summer Institute to train educators and school leaders on data use and instructional routines,\" then sustain the training with 9 professional learning communit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

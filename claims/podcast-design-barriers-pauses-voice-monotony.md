@@ -3,7 +3,7 @@ type: claim
 title: "Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers"
 description: "Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers"
 id: podcast-design-barriers-pauses-voice-monotony
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

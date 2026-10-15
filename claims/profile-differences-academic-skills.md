@@ -3,7 +3,7 @@ type: claim
 title: "Profiles differ in self-perceived academic skills: Engaged and Literate users report the highest problem-solving and cognitive endurance gains, while Uncritical Reliant users report the highest independent thinking"
 description: "Profiles differ in self-perceived academic skills: Engaged and Literate users report the highest problem-solving and cognitive endurance gains, while Uncritical Reliant users report the highest independent thinking"
 id: profile-differences-academic-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

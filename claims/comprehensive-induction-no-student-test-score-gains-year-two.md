@@ -3,7 +3,7 @@ type: claim
 title: Comprehensive teacher induction did not lead to measurable improvements in student test scores compared to business-as-usual induction in the second year of a randomized controlled study
 description: Comprehensive teacher induction did not lead to measurable improvements in student test scores compared to business-as-usual induction in the second year of a randomized controlled study
 id: comprehensive-induction-no-student-test-score-gains-year-two
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

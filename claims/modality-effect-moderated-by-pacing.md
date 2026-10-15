@@ -3,7 +3,7 @@ type: claim
 title: "Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse"
 description: "Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse"
 id: modality-effect-moderated-by-pacing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

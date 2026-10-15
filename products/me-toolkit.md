@@ -4,7 +4,7 @@ id: me-toolkit
 title: "M&E toolkit"
 description: A monitoring and evaluation toolkit that helps practitioners generate and tailor evidence for solutions at different stages of development.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

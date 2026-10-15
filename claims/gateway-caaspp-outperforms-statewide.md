@@ -3,7 +3,7 @@ type: claim
 title: Gateway middle and high school students met or exceeded state standards at higher rates than students statewide on CAASPP tests in most years and subjects
 description: Gateway middle and high school students met or exceeded state standards at higher rates than students statewide on CAASPP tests in most years and subjects
 id: gateway-caaspp-outperforms-statewide
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

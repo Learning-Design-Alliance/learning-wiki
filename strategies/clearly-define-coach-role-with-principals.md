@@ -3,7 +3,7 @@ type: strategy
 id: clearly-define-coach-role-with-principals
 title: Clearly define the role of the coach and support principals in working with math coaches
 description: This strategy addresses the ambiguity of coaching roles in standards implementation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

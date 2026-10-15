@@ -2,7 +2,7 @@
 type: theory
 title: "Ellis's revised Interaction Hypothesis: acquisition via noticing, comparison and integration"
 description: Rod Ellis critically evaluates the Interaction Hypothesis and argues that because teaching can be viewed as interaction providing learners with opportunities for learning, studying the interaction-SLA relationship con...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

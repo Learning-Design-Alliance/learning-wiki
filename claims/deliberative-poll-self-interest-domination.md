@@ -3,7 +3,7 @@ type: claim
 title: "Self-interest and domination appeared during the Danish Deliberative Poll's deliberative process"
 description: "Self-interest and domination appeared during the Danish Deliberative Poll's deliberative process"
 id: deliberative-poll-self-interest-domination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

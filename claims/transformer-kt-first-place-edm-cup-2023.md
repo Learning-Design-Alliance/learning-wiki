@@ -3,7 +3,7 @@ type: claim
 title: "The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an AUC of 78.969% on the private evaluation dataset"
 description: "The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an AUC of 78.969% on the private evaluation dataset"
 id: transformer-kt-first-place-edm-cup-2023
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

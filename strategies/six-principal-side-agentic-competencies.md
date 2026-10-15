@@ -3,7 +3,7 @@ type: strategy
 id: six-principal-side-agentic-competencies
 title: Develop six structurally new principal-side competencies for agentic AI contexts
 description: "The paper proposes that the transition from generative to agentic AI demands new principal-side competencies in \"delegation (understanding what authority one is granting)\", oversight, accountability attribution, attac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

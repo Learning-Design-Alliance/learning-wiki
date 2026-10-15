@@ -3,7 +3,7 @@ type: claim
 title: SEL-related constructs are strongly predictive of long-term academic achievement and attainment
 description: SEL-related constructs are strongly predictive of long-term academic achievement and attainment
 id: sel-constructs-predict-long-term-achievement-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

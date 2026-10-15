@@ -3,7 +3,7 @@ type: claim
 title: Adolescents with ASD are described as frequent targets of cyberbullying because they may miss social cues and lack self-advocacy skills
 description: Adolescents with ASD are described as frequent targets of cyberbullying because they may miss social cues and lack self-advocacy skills
 id: asd-teens-cyberbullying-targets-missed-cues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

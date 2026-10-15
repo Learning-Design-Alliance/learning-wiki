@@ -3,7 +3,7 @@ type: strategy
 id: seven-domain-pipeline-virtual-leadership-strategies
 title: Districts should map virtual-learning and equity actions onto the seven domains of a comprehensive, aligned principal pipeline
 description: "The report adapts the seven-domain \"comprehensive, aligned\" principal pipeline—leader standards, pre-service preparation, selective hiring and placement, on-the-job evaluation and support, principal supervisors, leade..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

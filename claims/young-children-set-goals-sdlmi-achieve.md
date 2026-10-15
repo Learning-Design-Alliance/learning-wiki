@@ -3,7 +3,7 @@ type: claim
 title: Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model of Instruction to achieve them
 description: Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model of Instruction to achieve them
 id: young-children-set-goals-sdlmi-achieve
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

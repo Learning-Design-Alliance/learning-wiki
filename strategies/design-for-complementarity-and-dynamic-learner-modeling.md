@@ -3,7 +3,7 @@ type: strategy
 id: design-for-complementarity-and-dynamic-learner-modeling
 title: Design AI tutors for complementarity across role paradigms and move beyond static prompting toward dynamic learner modeling
 description: "The article's forward-looking design recommendations are threefold: use factorial designs crossing role paradigms with content domains to disentangle how an agent teaches from what it teaches; establish educational va..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -4,7 +4,7 @@ id: mckinney-vento-act
 title: McKinney-Vento Act
 description: A U.S.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

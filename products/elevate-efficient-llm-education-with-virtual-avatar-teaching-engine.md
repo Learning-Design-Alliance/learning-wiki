@@ -4,7 +4,7 @@ id: elevate-efficient-llm-education-with-virtual-avatar-teaching-engine
 title: ELEVATE (Efficient LLM Education with Virtual Avatar Teaching Engine)
 description: A three-stratum framework developed by Lorenzo Stacchio et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

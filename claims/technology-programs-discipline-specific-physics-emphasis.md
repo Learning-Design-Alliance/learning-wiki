@@ -3,7 +3,7 @@ type: claim
 title: Technology programs examine discipline-related physics topics at higher cognitive levels within a disciplinary context
 description: Technology programs examine discipline-related physics topics at higher cognitive levels within a disciplinary context
 id: technology-programs-discipline-specific-physics-emphasis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

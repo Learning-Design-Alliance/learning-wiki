@@ -2,7 +2,7 @@
 type: theory
 title: Four-type taxonomy of institutional forms organized on flexibility/control and internal/external emphasis dimensions
 description: "The chapter organizes four major organizational forms — hierarchy, market, clan, and adhocracy — on the same two dimensions used to frame cognitive styles: flexibility versus control and internal versus external empha..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

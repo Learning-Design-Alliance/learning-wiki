@@ -3,7 +3,7 @@ type: claim
 title: The best AI tutors exceeded human mean learning gains in Quantitative domains while human tutoring led pooled AI means in all Verbal domains
 description: The best AI tutors exceeded human mean learning gains in Quantitative domains while human tutoring led pooled AI means in all Verbal domains
 id: best-ai-tutors-lead-quantitative-not-verbal-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: interactive-and-alternative-grant-review-practices
 title: "Interactive and alternative review practices: applicant response rounds, sandpits, bibliometric scoring, decision aids, lotteries, and crowdfunding"
 description: The report catalogs practices that modify or supplement traditional peer review.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

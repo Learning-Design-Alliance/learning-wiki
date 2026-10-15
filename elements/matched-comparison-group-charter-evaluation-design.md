@@ -3,7 +3,7 @@ type: element
 id: matched-comparison-group-charter-evaluation-design
 title: Matched comparison group design for charter school impact evaluation
 description: "The evaluation method used for this report: a quasi-experimental, matched comparison group design estimating the Kauffman School's impacts on student achievement, attendance, and suspensions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

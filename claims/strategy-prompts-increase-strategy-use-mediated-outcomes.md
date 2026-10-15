@@ -3,7 +3,7 @@ type: claim
 title: "Strategy prompts strongly increase learners' use of the prompted strategies, and the effect on comprehension is mediated by strategy use"
 description: "Strategy prompts strongly increase learners' use of the prompted strategies, and the effect on comprehension is mediated by strategy use"
 id: strategy-prompts-increase-strategy-use-mediated-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

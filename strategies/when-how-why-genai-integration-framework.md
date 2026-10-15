@@ -3,7 +3,7 @@ type: strategy
 id: when-how-why-genai-integration-framework
 title: "Justify GenAI integration through a when-how-why framework: proven contexts, specific implementation methods, and pedagogical reasoning"
 description: "The article proposes that responsible actors develop an argument for \"when, how, and why\" GenAI can be used for educational purposes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: ai-classroom-orchestration-partnership
 title: Design AI as a classroom orchestration partner that helps teachers form groups, nurture conversations, and track participation without taking control
 description: "The orchestration scenario envisions a teacher-AI partnership for socially rich classrooms: the agent helps form groups, monitors participation, suggests sentence starters when students are not reacting to each other,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: stanford-mooc-posts
 title: Stanford MOOC Posts
 description: A corpus introduced by Liu et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

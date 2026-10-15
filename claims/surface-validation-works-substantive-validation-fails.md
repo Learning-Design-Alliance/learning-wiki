@@ -3,7 +3,7 @@ type: claim
 title: "Surface validation can function while substantive validation fails: most participants detected flawed AI recommendations yet continued following them"
 description: "Surface validation can function while substantive validation fails: most participants detected flawed AI recommendations yet continued following them"
 id: surface-validation-works-substantive-validation-fails
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

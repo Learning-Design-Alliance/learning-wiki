@@ -3,7 +3,7 @@ type: claim
 title: Test discriminating value equals the coefficient of variation of test scores (tan∅ = SD/mean)
 description: Test discriminating value equals the coefficient of variation of test scores (tan∅ = SD/mean)
 id: test-discriminating-value-cv
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

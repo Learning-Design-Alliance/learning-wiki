@@ -3,7 +3,7 @@ type: claim
 title: AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed
 description: AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed
 id: ai-risks-when-reflective-inquiry-bypassed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: implementing-sexual-health-programs-juvenile-justice-lessons
 title: "Implementation lessons for sexual health programs in juvenile justice settings: relatable facilitators, delivery flexibility, advocate relationships, and stakeholder buy-in"
 description: Drawing on an earlier interview-based study of Project With implementation, the report identifies conditions for running programs like Project With in juvenile justice settings.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Low performers completed activities on time for fewer topics and showed less catching-up only in early topics, while high performers showed no catching-up on later topics
 description: Low performers completed activities on time for fewer topics and showed less catching-up only in early topics, while high performers showed no catching-up on later topics
 id: topic-level-time-management-group-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

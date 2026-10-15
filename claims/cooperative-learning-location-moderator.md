@@ -3,7 +3,7 @@ type: claim
 title: The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies
 description: The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies
 id: cooperative-learning-location-moderator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

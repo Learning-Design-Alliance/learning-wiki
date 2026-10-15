@@ -3,7 +3,7 @@ type: claim
 title: Early reliance is associated with both academic benefit and negative impact, while cognitive reliance is associated with positive impact
 description: Early reliance is associated with both academic benefit and negative impact, while cognitive reliance is associated with positive impact
 id: reliance-type-differential-outcomes-regression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

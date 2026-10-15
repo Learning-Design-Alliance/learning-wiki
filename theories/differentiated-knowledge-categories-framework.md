@@ -2,7 +2,7 @@
 type: theory
 title: "Differentiated knowledge measures framework: static/dynamic, modality, and quality categories"
 description: The article proposes that multimedia learning effects should be evaluated with knowledge measures differentiated along three categories.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

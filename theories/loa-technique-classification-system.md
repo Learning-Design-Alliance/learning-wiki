@@ -2,7 +2,7 @@
 type: theory
 title: A six-concept bipolar classification system for LOA measurement techniques
 description: "Chapter III presents a classification of LOA measurement techniques built from bipolar concepts: direct vs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

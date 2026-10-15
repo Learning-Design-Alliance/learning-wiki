@@ -3,7 +3,7 @@ type: claim
 title: The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials
 description: The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials
 id: element-interactivity-moderates-contiguity-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

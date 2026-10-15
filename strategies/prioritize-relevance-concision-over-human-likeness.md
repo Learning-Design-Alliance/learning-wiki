@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-relevance-concision-over-human-likeness
 title: Prioritize relevance, concision, and learner-interest alignment in scalable AI instructional video, selectively reintroducing human presence
 description: "The article's design recommendation for scalable instructional systems is that \"designers may achieve greater impact by prioritizing relevance, concision, and alignment with learner interests, while selectively reintr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

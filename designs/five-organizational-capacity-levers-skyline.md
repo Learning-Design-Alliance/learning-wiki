@@ -3,7 +3,7 @@ type: design
 id: five-organizational-capacity-levers-skyline
 title: Five organizational capacity levers leaders used to support Skyline ELA implementation
 description: "The infographic identifies five domains of strategic investment through which school leaders strengthened organizational capacity for curriculum implementation: \"Championed professional learning\", \"Protected teacher t..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: strategies-interventions-responsible-ai-use
 title: Outline strategies and technological interventions to alleviate over-reliance and foster responsible use of AI dialogue systems
 description: "The review commits to outlining potential strategies and technological interventions to alleviate the challenges of over-reliance on AI dialogue systems, \"aiming to foster responsible use of AI dialogue systems\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

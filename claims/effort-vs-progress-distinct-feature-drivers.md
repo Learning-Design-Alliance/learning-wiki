@@ -3,7 +3,7 @@ type: claim
 title: Effort forecasting is driven by recent engagement activity while progress forecasting depends more on learner-centered signals such as ability, difficulty, and consistency
 description: Effort forecasting is driven by recent engagement activity while progress forecasting depends more on learner-centered signals such as ability, difficulty, and consistency
 id: effort-vs-progress-distinct-feature-drivers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

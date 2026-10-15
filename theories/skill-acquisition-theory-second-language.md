@@ -3,7 +3,7 @@ type: theory
 title: "Skill acquisition theory in second language learning"
 description: "DeKeyser's application of cognitive skill-learning theory to second languages: explicit declarative knowledge is proceduralized through practice and then, with much more practice, partly automatized, so that L2 use becomes fast, accurate and low in effort."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30

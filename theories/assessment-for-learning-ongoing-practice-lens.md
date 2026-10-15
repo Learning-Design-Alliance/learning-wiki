@@ -2,7 +2,7 @@
 type: theory
 title: "Assessment for learning lens: assessment as ongoing practice supporting learning rather than end-of-task grading"
 description: "The primer presents \"the lens of assessment for learning\", a shift from viewing assessment as an end-of-task grading activity toward \"an ongoing practice to support learning.\" It distinguishes summative assessment, wh..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

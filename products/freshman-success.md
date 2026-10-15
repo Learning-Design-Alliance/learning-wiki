@@ -4,7 +4,7 @@ id: freshman-success
 title: Freshman Success
 description: Freshman Success is a school-based ninth-grade monitoring and support programme that uses real-time reports to help staff keep students on track during the freshman year.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

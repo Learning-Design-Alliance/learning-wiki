@@ -2,7 +2,7 @@
 type: theory
 title: Teaching and learning as social enterprises embedded within school and community contexts
 description: "The chapter's organizing framework holds that teaching and learning are \"social enterprises which are embedded within school and community contexts.\" It explains school improvement through four interdependent social f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

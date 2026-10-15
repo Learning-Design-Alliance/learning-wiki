@@ -3,7 +3,7 @@ type: element
 id: merlyn-mind-practitioner-advisory-board
 title: Merlyn Mind Practitioner Advisory Board
 description: A six-member advisory board of educators formed by Digital Promise in January 2022 to give feedback to edtech startup Merlyn Mind on its AI classroom digital assistant.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

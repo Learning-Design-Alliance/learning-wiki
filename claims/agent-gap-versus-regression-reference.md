@@ -3,7 +3,7 @@ type: claim
 title: "The agent's predictions show a performance gap versus a regression reference that uses real students' post-test data"
 description: "The agent's predictions show a performance gap versus a regression reference that uses real students' post-test data"
 id: agent-gap-versus-regression-reference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

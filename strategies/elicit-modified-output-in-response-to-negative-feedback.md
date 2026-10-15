@@ -3,7 +3,7 @@ type: strategy
 id: elicit-modified-output-in-response-to-negative-feedback
 title: Design interaction so learners modify their utterances in response to negative feedback
 description: "The article's rationale, drawing on the output hypothesis, is that when learners modify their previous utterances in response to negative feedback, learning opportunities are created by both the provision of negative..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

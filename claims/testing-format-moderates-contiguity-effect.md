@@ -3,7 +3,7 @@ type: claim
 title: Contiguity effects are larger under one-on-one testing (d = .89) than under group testing (d = .65), but remain educationally significant in both
 description: Contiguity effects are larger under one-on-one testing (d = .89) than under group testing (d = .65), but remain educationally significant in both
 id: testing-format-moderates-contiguity-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

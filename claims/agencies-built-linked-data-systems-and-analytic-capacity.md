@@ -3,7 +3,7 @@ type: claim
 title: Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training
 description: Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training
 id: agencies-built-linked-data-systems-and-analytic-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

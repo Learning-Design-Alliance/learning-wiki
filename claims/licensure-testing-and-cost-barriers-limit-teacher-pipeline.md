@@ -3,7 +3,7 @@ type: claim
 title: District leaders attribute limited pools of fully credentialed applicants to licensure testing requirements and inadequate financial aid for teacher preparation
 description: District leaders attribute limited pools of fully credentialed applicants to licensure testing requirements and inadequate financial aid for teacher preparation
 id: licensure-testing-and-cost-barriers-limit-teacher-pipeline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

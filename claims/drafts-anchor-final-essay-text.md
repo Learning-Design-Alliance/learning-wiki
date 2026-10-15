@@ -3,7 +3,7 @@ type: claim
 title: In this experiment, drafts—human-written or AI-generated—anchored the final essay, with AI-generated drafts revised somewhat more but underlying phrases largely retained across conditions.
 description: In this experiment, drafts—human-written or AI-generated—anchored the final essay, with AI-generated drafts revised somewhat more but underlying phrases largely retained across conditions.
 id: drafts-anchor-final-essay-text
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

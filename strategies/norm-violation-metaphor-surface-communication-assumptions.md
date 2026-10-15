@@ -3,7 +3,7 @@ type: strategy
 id: norm-violation-metaphor-surface-communication-assumptions
 title: Use norm violation and metaphorical models to surface taken-for-granted communication assumptions
 description: The essay recommends that communication and rhetoric scholars adopt ethnomethodological techniques to expose the assumptions bonding human communication.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

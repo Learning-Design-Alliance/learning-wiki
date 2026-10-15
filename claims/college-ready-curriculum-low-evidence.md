@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for offering a college-ready curriculum is rated low, with mixed findings on rigorous curricula and positive findings on AP course taking
 description: The evidence base for offering a college-ready curriculum is rated low, with mixed findings on rigorous curricula and positive findings on AP course taking
 id: college-ready-curriculum-low-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

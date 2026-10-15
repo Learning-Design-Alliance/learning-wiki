@@ -3,7 +3,7 @@ type: claim
 title: Students were significantly more positive about classroom academic environments and teacher attention in Summer Bridge than in the school year
 description: Students were significantly more positive about classroom academic environments and teacher attention in Summer Bridge than in the school year
 id: summer-bridge-students-more-positive-environment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

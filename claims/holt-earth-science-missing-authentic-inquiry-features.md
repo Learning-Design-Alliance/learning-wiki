@@ -3,7 +3,7 @@ type: claim
 title: Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features
 description: Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features
 id: holt-earth-science-missing-authentic-inquiry-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

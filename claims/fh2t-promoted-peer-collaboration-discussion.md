@@ -3,7 +3,7 @@ type: claim
 title: Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion
 description: Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion
 id: fh2t-promoted-peer-collaboration-discussion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

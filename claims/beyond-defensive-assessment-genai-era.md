@@ -3,7 +3,7 @@ type: claim
 title: GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use
 description: GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use
 id: beyond-defensive-assessment-genai-era
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

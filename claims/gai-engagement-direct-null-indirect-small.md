@@ -3,7 +3,7 @@ type: claim
 title: The direct association between GAI use and learning engagement is not statistically significant, while the indirect association through need satisfaction is significant but small
 description: The direct association between GAI use and learning engagement is not statistically significant, while the indirect association through need satisfaction is significant but small
 id: gai-engagement-direct-null-indirect-small
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

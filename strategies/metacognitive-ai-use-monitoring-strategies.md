@@ -3,7 +3,7 @@ type: strategy
 id: metacognitive-ai-use-monitoring-strategies
 title: Use metacognitive activities and process evidence to help students monitor the purpose of their AI use
 description: The article proposes educational practices that shift attention from how often students use AI to why they use it, helping students recognize avoidance-driven engagement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

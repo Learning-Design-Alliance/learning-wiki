@@ -3,7 +3,7 @@ type: claim
 title: Among DCPS students with a reported health condition, 28 percent receive support through a Section 504 plan or an individualized education program
 description: Among DCPS students with a reported health condition, 28 percent receive support through a Section 504 plan or an individualized education program
 id: dcps-28-percent-health-condition-504-iep-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

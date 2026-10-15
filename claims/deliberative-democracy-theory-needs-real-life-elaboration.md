@@ -3,7 +3,7 @@ type: claim
 title: The authors argue deliberative democracy theory needs elaboration to reflect real-life politics
 description: The authors argue deliberative democracy theory needs elaboration to reflect real-life politics
 id: deliberative-democracy-theory-needs-real-life-elaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

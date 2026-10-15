@@ -3,7 +3,7 @@ type: claim
 title: "Students' initial knowledge level (midterm scores) did not significantly influence improvement in lab scores, indicating it did not confound the feedback-source difference"
 description: "Students' initial knowledge level (midterm scores) did not significantly influence improvement in lab scores, indicating it did not confound the feedback-source difference"
 id: midterm-knowledge-did-not-confound-feedback-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

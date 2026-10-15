@@ -3,7 +3,7 @@ type: strategy
 id: honest-broker-role-separation-workflow
 title: Use an operationally separate honest broker to perform linkage and de-identification
 description: The guide recommends assigning data linkage and de-identification to a person or service that stays outside the research team, so researchers analyze only de-identified datasets.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Nearly half of waiver states adopted a 'cut the gap in half' achievement goal, while only Arizona chose 100 percent proficiency by 2020"
 description: "Nearly half of waiver states adopted a 'cut the gap in half' achievement goal, while only Arizona chose 100 percent proficiency by 2020"
 id: cut-gap-in-half-goal-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

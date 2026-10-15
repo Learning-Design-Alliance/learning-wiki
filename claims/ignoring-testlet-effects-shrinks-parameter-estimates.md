@@ -3,7 +3,7 @@ type: claim
 title: Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model
 description: Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model
 id: ignoring-testlet-effects-shrinks-parameter-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

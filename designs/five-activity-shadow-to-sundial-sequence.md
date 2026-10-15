@@ -3,7 +3,7 @@ type: design
 id: five-activity-shadow-to-sundial-sequence
 title: Secuencia de cinco actividades que va del problema cotidiano a la construcción de un instrumento de medición
 description: "El patrón organiza la enseñanza en cinco actividades encadenadas: indagación introductoria sobre las sombras y la hora sin relojes; diseño de una maqueta de los arcos solares; debate histórico sobre modelos geocéntric..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

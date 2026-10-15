@@ -3,7 +3,7 @@ type: claim
 title: Same-model LLM configuration pairs agree more than cross-model pairs, and agreement decreases monotonically as temperature difference increases
 description: Same-model LLM configuration pairs agree more than cross-model pairs, and agreement decreases monotonically as temperature difference increases
 id: llm-pairwise-agreement-model-type-temperature
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

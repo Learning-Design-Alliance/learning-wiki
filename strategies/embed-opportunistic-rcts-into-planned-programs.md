@@ -3,7 +3,7 @@ type: strategy
 id: embed-opportunistic-rcts-into-planned-programs
 title: Embed opportunistic RCTs into planned policies or programs
 description: "The guide's central strategy is to recognize moments when a district is already planning a policy or program change and embed a randomized controlled trial into that rollout."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

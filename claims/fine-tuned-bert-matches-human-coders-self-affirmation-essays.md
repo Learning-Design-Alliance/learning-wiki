@@ -3,7 +3,7 @@ type: claim
 title: A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability
 description: A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability
 id: fine-tuned-bert-matches-human-coders-self-affirmation-essays
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

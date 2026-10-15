@@ -3,7 +3,7 @@ type: claim
 title: Elementary schools are predicted to have lower infection rates than secondary schools using the same operating strategies
 description: Elementary schools are predicted to have lower infection rates than secondary schools using the same operating strategies
 id: elementary-lower-infection-rates-than-secondary-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

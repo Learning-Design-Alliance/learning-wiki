@@ -3,7 +3,7 @@ type: strategy
 id: educational-development-ai-integration-instructors
 title: Provide educational development for instructors on purposefully integrating AI into online learning design
 description: The review recommends that educational development support instructors to design and facilitate learning that purposefully integrates AI technologies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

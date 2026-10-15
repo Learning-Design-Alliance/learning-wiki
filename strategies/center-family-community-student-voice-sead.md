@@ -3,7 +3,7 @@ type: strategy
 id: center-family-community-student-voice-sead
 title: Engage students, families, and communities as full partners, centering marginalized voices in policy and practice decisions
 description: "The brief holds that strong partnerships between educators, students, families, and communities are essential for SEAD: engaging communities gives educators deeper understanding of students' strengths, identities, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

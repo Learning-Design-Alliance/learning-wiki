@@ -3,7 +3,7 @@ type: claim
 title: GenAI is argued to create an opportunity to move assessment away from sorting and ranking students toward recognising diverse ways of knowing
 description: GenAI is argued to create an opportunity to move assessment away from sorting and ranking students toward recognising diverse ways of knowing
 id: genai-opportunity-move-beyond-sorting-ranking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

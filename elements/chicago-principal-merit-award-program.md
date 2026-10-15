@@ -3,7 +3,7 @@ type: element
 id: chicago-principal-merit-award-program
 title: Chicago principal merit award program
 description: A merit award program in which employers (the district) provide awards to school principals to induce greater effort.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

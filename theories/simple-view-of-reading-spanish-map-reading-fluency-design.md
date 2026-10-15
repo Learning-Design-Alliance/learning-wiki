@@ -2,7 +2,7 @@
 type: theory
 title: Simple View of Reading as the organizing framework for Spanish MAP Reading Fluency
 description: "The report organizes the entire assessment around the Simple View of Reading (Gough & Tunmer, 1986), which it calls \"a research-validated model of reading development that proposes two broad factors that enable or lim..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

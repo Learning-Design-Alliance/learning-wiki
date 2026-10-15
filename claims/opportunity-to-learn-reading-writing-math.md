@@ -3,7 +3,7 @@ type: claim
 title: Most multiple subject and education specialist completers reported substantial opportunity to learn reading, writing, and math teaching, and extensive opportunity was strongly linked to higher program ratings
 description: Most multiple subject and education specialist completers reported substantial opportunity to learn reading, writing, and math teaching, and extensive opportunity was strongly linked to higher program ratings
 id: opportunity-to-learn-reading-writing-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

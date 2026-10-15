@@ -3,7 +3,7 @@ type: claim
 title: Baseline versus code-augmented performance differs significantly for story and symbolic representations but not word-equations, with small effect sizes
 description: Baseline versus code-augmented performance differs significantly for story and symbolic representations but not word-equations, with small effect sizes
 id: interaction-condition-chi-square-representation-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

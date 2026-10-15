@@ -3,7 +3,7 @@ type: claim
 title: Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results
 description: Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results
 id: covid-achievement-impacts-likely-underestimated-attrition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

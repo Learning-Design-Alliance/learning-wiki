@@ -3,7 +3,7 @@ type: claim
 title: Educational smart contracts execute in 21–49 ms with certification the costliest and the only human-approved contract
 description: Educational smart contracts execute in 21–49 ms with certification the costliest and the only human-approved contract
 id: smart-contract-execution-21-49ms-certification-costliest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

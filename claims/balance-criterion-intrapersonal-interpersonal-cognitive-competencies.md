@@ -3,7 +3,7 @@ type: claim
 title: Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes
 description: Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes
 id: balance-criterion-intrapersonal-interpersonal-cognitive-competencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

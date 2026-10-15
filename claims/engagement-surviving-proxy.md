@@ -3,7 +3,7 @@ type: claim
 title: Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable
 description: Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable
 id: engagement-surviving-proxy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

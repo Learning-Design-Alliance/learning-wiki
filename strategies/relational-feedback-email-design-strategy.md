@@ -3,7 +3,7 @@ type: strategy
 id: relational-feedback-email-design-strategy
 title: Design at-risk intervention emails by mapping message sentences to the four relational feedback principles with expert collaboration
 description: This strategy turns the relational feedback framework into an implementable email recipe for at-risk students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

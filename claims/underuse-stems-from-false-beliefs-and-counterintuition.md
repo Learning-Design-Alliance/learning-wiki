@@ -3,7 +3,7 @@ type: claim
 title: Underuse of effective strategies may stem from false beliefs, lack of awareness, and the counter-intuitive nature of the strategies
 description: Underuse of effective strategies may stem from false beliefs, lack of awareness, and the counter-intuitive nature of the strategies
 id: underuse-stems-from-false-beliefs-and-counterintuition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

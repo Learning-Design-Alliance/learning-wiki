@@ -3,7 +3,7 @@ type: claim
 title: Students’ knowledge about genAI, measured both by self-report and performance test, positively predicts their critical use of genAI
 description: Students’ knowledge about genAI, measured both by self-report and performance test, positively predicts their critical use of genAI
 id: genai-knowledge-predicts-critical-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

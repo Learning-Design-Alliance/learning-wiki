@@ -3,7 +3,7 @@ type: claim
 title: School leaders in higher-wealth schools are more likely to attend high-quality principal preparation programs, creating inequitable access
 description: School leaders in higher-wealth schools are more likely to attend high-quality principal preparation programs, creating inequitable access
 id: prep-quality-varies-by-school-wealth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

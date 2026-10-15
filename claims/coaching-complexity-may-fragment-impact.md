@@ -3,7 +3,7 @@ type: claim
 title: The complexity of coaching responsibilities may fragment the coaching process and reduce its impact
 description: The complexity of coaching responsibilities may fragment the coaching process and reduce its impact
 id: coaching-complexity-may-fragment-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -4,7 +4,7 @@ id: aida
 title: AIDA
 description: A human-centred generative-AI digital assistant developed by the Open University to provide provenance-grounded, pedagogically configured learning support, feedback, quiz practice, and study guidance.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

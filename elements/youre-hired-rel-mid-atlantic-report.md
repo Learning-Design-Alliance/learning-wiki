@@ -3,7 +3,7 @@ type: element
 id: youre-hired-rel-mid-atlantic-report
 title: "You're Hired! The Skills Employers Seek in New Hires (REL Mid-Atlantic report)"
 description: A publication by the Mid-Atlantic Regional Educational Laboratory, published February 2, 2018 and prepared for the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

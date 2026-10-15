@@ -3,7 +3,7 @@ type: strategy
 id: email-exchanges-target-language-peers
 title: Use structured e-mail exchanges with target-language peers to build cross-cultural interest and motivation
 description: The activity has students correspond by e-mail with peers in the target language, chosen via a penpal website where they can select partner country, age, and sex.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

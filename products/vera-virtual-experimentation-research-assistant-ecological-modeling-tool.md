@@ -4,7 +4,7 @@ id: vera-virtual-experimentation-research-assistant-ecological-modeling-tool
 title: VERA (Virtual Experimentation Research Assistant) ecological modeling tool
 description: "A publicly available online ecological modeling tool hosted through the Smithsonian's Encyclopedia of Life that supports conceptual modeling, agent-based simulation, hypothesis-driven experimentation, and model–simulate–refine activities."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

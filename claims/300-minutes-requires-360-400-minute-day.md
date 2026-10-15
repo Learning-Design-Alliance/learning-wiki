@@ -3,7 +3,7 @@ type: claim
 title: No evidence that 300 minutes of daily instruction can be delivered within a 330-minute school day; a 360-400 minute day is needed
 description: No evidence that 300 minutes of daily instruction can be delivered within a 330-minute school day; a 360-400 minute day is needed
 id: 300-minutes-requires-360-400-minute-day
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

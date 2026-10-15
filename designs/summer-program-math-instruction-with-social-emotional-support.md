@@ -3,7 +3,7 @@ type: design
 id: summer-program-math-instruction-with-social-emotional-support
 title: Pairing intensive math instruction with emotional and social support in a summer program
 description: "Math Corps pairs an academic component with a relational one: its founders' \"primary goal for the camp was to support the emotional and social needs of the students in Detroit,\" and they used their math-teaching backg..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

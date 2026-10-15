@@ -3,7 +3,7 @@ type: claim
 title: "Induction works especially well when coordinated with administrators' existing professional supports: district-run programs were most likely to be rated very effective"
 description: "Induction works especially well when coordinated with administrators' existing professional supports: district-run programs were most likely to be rated very effective"
 id: district-alignment-strengthens-induction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

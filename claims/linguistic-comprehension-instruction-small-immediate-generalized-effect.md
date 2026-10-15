@@ -3,7 +3,7 @@ type: claim
 title: Linguistic comprehension instruction shows a small immediate effect on generalized linguistic comprehension outcomes
 description: Linguistic comprehension instruction shows a small immediate effect on generalized linguistic comprehension outcomes
 id: linguistic-comprehension-instruction-small-immediate-generalized-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: remora-free-body-diagram-task
 title: Remora Free Body Diagram Require-GenAI task
 description: A task deployed in an undergraduate introductory physics course in which students collaborate with GenAI to construct the most accurate free body diagram of a remora fish attached to a shark.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

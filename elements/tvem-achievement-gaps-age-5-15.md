@@ -3,7 +3,7 @@ type: element
 id: tvem-achievement-gaps-age-5-15
 title: Time-varying effect modeling (TVEM) of achievement gaps across continuous age 5 to 15
 description: "Time-varying effect modeling (TVEM) is the analytic approach the study uses to estimate \"how the associations among race/ethnicity, poverty status, and math and reading achievement vary across continuous age from age..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

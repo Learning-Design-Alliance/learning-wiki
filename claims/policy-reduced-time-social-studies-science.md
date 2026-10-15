@@ -3,7 +3,7 @@ type: claim
 title: Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy
 description: Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy
 id: policy-reduced-time-social-studies-science
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: research-method
 id: aied-framework-two-axes-role-of-ai-end-user-yielding-four-quadrants-for-categorizing-ai-in
 title: "AI×Ed framework: two axes (role of AI, end user) yielding four quadrants for categorizing AI-in-education research"
 description: AI×Ed is a categorization framework for research at the intersection of AI and education.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

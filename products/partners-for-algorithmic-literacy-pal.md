@@ -4,7 +4,7 @@ id: partners-for-algorithmic-literacy-pal
 title: Partners for Algorithmic Literacy (PAL)
 description: A Purdue University students-as-partners programme in which undergraduate students and faculty collaborate over six weeks to integrate artificial intelligence into coursework and develop algorithmic literacy.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

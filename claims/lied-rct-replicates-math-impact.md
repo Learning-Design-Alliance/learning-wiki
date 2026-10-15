@@ -3,7 +3,7 @@ type: claim
 title: "A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED"
 description: "A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED"
 id: lied-rct-replicates-math-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

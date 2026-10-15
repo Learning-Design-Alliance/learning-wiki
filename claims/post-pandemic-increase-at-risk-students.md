@@ -3,7 +3,7 @@ type: claim
 title: The share of academically at-risk students increased after the pandemic, requiring a response of matching magnitude
 description: The share of academically at-risk students increased after the pandemic, requiring a response of matching magnitude
 id: post-pandemic-increase-at-risk-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences
 description: Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences
 id: vocabulary-gains-persist-two-weeks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

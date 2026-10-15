@@ -4,7 +4,7 @@ id: selected-response-assessment-items
 title: Selected-Response Assessment Items
 description: Multiple-choice, true-false, and matching items ask students to select rather than construct a response — easy to score objectively, but hard to write well, and appropriate mainly for recognition-level rather than complex learning goals.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

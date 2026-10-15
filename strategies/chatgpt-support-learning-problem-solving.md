@@ -3,7 +3,7 @@ type: strategy
 id: chatgpt-support-learning-problem-solving
 title: Use ChatGPT as a tool for supporting students’ learning and promoting problem-solving skills
 description: "The article recommends that \"Teachers and universities should utilise ChatGPT as a tool for supporting students’ learning and promoting their problem-solving skills.\" This is an implementable practice recommendation d..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

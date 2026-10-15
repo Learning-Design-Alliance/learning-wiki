@@ -2,7 +2,7 @@
 type: theory
 title: Relational feedback framework for designing feedback that strengthens student–instructor relationships
 description: "The relational feedback framework, proposed by Dai and colleagues (2025) and adopted as this study's theoretical basis, holds that feedback can enhance its effectiveness by strengthening students' relationships with t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

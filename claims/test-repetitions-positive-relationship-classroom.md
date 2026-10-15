@@ -3,7 +3,7 @@ type: claim
 title: The classroom testing effect increases with the number of test repetitions on the same content.
 description: The classroom testing effect increases with the number of test repetitions on the same content.
 id: test-repetitions-positive-relationship-classroom
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

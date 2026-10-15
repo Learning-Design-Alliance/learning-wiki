@@ -3,7 +3,7 @@ type: claim
 title: Question and observed-coverage features retrospectively predict high-divergence questions with AUC 0.774, but the model is not validated for new-query routing
 description: Question and observed-coverage features retrospectively predict high-divergence questions with AUC 0.774, but the model is not validated for new-query routing
 id: retrospective-prediction-high-divergence-questions-auc-077
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: pepper
 title: Pepper
 description: Pepper is a humanoid social-robot platform developed by SoftBank Robotics for multimodal social interaction and educational applications.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

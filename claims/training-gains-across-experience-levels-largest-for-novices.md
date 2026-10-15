@@ -3,7 +3,7 @@ type: claim
 title: Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users
 description: Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users
 id: training-gains-across-experience-levels-largest-for-novices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

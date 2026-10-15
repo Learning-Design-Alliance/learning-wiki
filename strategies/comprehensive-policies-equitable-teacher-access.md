@@ -3,7 +3,7 @@ type: strategy
 id: comprehensive-policies-equitable-teacher-access
 title: Seven-policy comprehensive approach to equalizing student access to certified and experienced teachers
 description: "The report recommends that federal, state, and local policies \"must take a comprehensive approach to providing teachers with the preparation, resources, and supports they need to be successful\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

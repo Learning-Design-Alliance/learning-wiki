@@ -3,7 +3,7 @@ type: claim
 title: Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit
 description: Freshmen who visited the tutoring center more than 10 times per quarter had statistically higher persistence rates than students who did not visit
 id: high-use-tutoring-center-visits-higher-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

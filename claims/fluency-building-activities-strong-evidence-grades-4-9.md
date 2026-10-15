@@ -3,7 +3,7 @@ type: claim
 title: Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence
 description: Fluency-building activities improve effortless reading for students in grades 4–9, with strong supporting evidence
 id: fluency-building-activities-strong-evidence-grades-4-9
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

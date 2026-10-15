@@ -3,7 +3,7 @@ type: strategy
 id: federal-invest-educator-professional-learning
 title: Federal policy should invest in high-quality professional learning for educators, prioritizing preparation and professional development designs including teachers teaching teachers
 description: The brief calls for increasing funding under ESSA and the Higher Education Act to establish, expand, study, and spread effective learning models for school leaders, teachers, and other staff.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

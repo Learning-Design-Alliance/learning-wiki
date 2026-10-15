@@ -3,7 +3,7 @@ type: claim
 title: Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects
 description: Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects
 id: demographic-predictors-reduce-actionability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Student perceptions of the autograder were mixed, with the LaTeX workflow rated more positively than the grader itself
 description: Student perceptions of the autograder were mixed, with the LaTeX workflow rated more positively than the grader itself
 id: mixed-student-perception-lata
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

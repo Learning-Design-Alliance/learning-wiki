@@ -3,7 +3,7 @@ type: claim
 title: Doors to Discovery™ shows no discernible effects on preschool phonological processing (effect size 0.14, not significant)
 description: Doors to Discovery™ shows no discernible effects on preschool phonological processing (effect size 0.14, not significant)
 id: doors-to-discovery-no-discernible-phonological-processing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

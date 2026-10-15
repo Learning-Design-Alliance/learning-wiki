@@ -3,7 +3,7 @@ type: strategy
 id: future-directions-for-dialogue-knowledge-tracing
 title: Future Directions for Dialogue Knowledge Tracing
 description: The article closes with avenues for future work on dialogueKT.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

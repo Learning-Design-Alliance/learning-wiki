@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted feedback drafts increase discretionary feedback provision by TAs by 10.81 percentage points
 description: AI-assisted feedback drafts increase discretionary feedback provision by TAs by 10.81 percentage points
 id: ai-drafts-increase-discretionary-feedback-provision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

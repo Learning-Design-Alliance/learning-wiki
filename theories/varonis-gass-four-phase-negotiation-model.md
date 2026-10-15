@@ -2,7 +2,7 @@
 type: theory
 title: Varonis and Gass four-phase model of negotiation of meaning routines
 description: "The chapter adopts the Varonis and Gass (1985) four-phase model of negotiation routines as its analytical framework: \"The first attempt at modeling negotiation routines was made by Varonis and Gass (1985) who designed..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students
 description: Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students
 id: implementation-duration-community-moderators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

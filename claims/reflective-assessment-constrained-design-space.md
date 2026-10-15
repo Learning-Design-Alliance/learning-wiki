@@ -3,7 +3,7 @@ type: claim
 title: "In simulations, responsible AI-use norms emerge only within a constrained design space: when reflection effort is high relative to its reward, opportunistic AI use persists, and near the boundary small changes in reward or effort produce large shifts in responsible-use frequency"
 description: "In simulations, responsible AI-use norms emerge only within a constrained design space: when reflection effort is high relative to its reward, opportunistic AI use persists, and near the boundary small changes in rewa..."
 id: reflective-assessment-constrained-design-space
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Cooperating teachers and employers rated preparation somewhat less positively than completers, with 82% and 68% high ratings respectively"
 description: "Cooperating teachers and employers rated preparation somewhat less positively than completers, with 82% and 68% high ratings respectively"
 id: cooperating-teachers-employers-ratings-lower
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

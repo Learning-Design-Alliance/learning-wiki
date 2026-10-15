@@ -3,7 +3,7 @@ type: claim
 title: Students in high-poverty schools face the greatest impact from hot test days
 description: Students in high-poverty schools face the greatest impact from hot test days
 id: high-poverty-schools-greatest-heat-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development
 description: Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development
 id: gai-overreliance-risks-presence-and-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

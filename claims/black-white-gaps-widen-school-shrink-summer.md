@@ -3,7 +3,7 @@ type: claim
 title: Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students
 description: Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students
 id: black-white-gaps-widen-school-shrink-summer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

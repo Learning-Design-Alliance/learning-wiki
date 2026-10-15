@@ -3,7 +3,7 @@ type: claim
 title: SupplyNet was rated significantly higher than the Beer Game baseline on learning support (p<0.01), including connecting decisions to performance.
 description: SupplyNet was rated significantly higher than the Beer Game baseline on learning support (p<0.01), including connecting decisions to performance.
 id: supplynet-higher-learning-support-than-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

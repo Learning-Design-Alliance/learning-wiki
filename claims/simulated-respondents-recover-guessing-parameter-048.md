@@ -3,7 +3,7 @@ type: claim
 title: The simulated-respondent approach recovers the guessing parameter c at correlation 0.48, far above regression baselines, suggesting it captures genuine response behavior
 description: The simulated-respondent approach recovers the guessing parameter c at correlation 0.48, far above regression baselines, suggesting it captures genuine response behavior
 id: simulated-respondents-recover-guessing-parameter-048
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

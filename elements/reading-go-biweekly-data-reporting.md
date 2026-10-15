@@ -3,7 +3,7 @@ type: element
 id: reading-go-biweekly-data-reporting
 title: "Biweekly data reporting via the school program coordinator's computer"
 description: "As part of the program's technology requirements, the school's Reading Rescue Program Coordinator uses a computer for biweekly data reporting."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

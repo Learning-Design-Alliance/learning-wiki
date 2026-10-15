@@ -3,7 +3,7 @@ type: strategy
 id: coherent-instructional-system-reading-science
 title: Build a coherent instructional system across classrooms, examined through a district case study
 description: "This strategy comes from a research brief that uses \"a case study from a U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

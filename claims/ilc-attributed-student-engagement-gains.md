@@ -3,7 +3,7 @@ type: claim
 title: Teachers commonly attribute increased student engagement to ILC-influenced instruction
 description: Teachers commonly attribute increased student engagement to ILC-influenced instruction
 id: ilc-attributed-student-engagement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

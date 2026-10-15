@@ -3,7 +3,7 @@ type: claim
 title: "Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges"
 description: "Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges"
 id: hyperparameter-sweeps-reproduce-lesson-claims
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

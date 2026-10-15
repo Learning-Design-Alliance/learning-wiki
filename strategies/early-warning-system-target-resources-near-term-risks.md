@@ -3,7 +3,7 @@ type: strategy
 id: early-warning-system-target-resources-near-term-risks
 title: Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious
 description: "The article recommends that identifying the students most likely to have certain types of academic problems in the near term \"can support an early warning system that allows educators and human services staff to bette..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

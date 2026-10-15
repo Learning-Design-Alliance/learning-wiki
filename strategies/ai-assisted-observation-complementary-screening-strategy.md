@@ -3,7 +3,7 @@ type: strategy
 id: ai-assisted-observation-complementary-screening-strategy
 title: Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment
 description: The article recommends positioning AI-assisted observation as a complement to, not a replacement for, trained human observers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

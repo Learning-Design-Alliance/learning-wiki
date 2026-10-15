@@ -3,7 +3,7 @@ type: claim
 title: Observed COVID-19 achievement declines were more substantial than declines during other recent disruptions such as natural disasters
 description: Observed COVID-19 achievement declines were more substantial than declines during other recent disruptions such as natural disasters
 id: covid-declines-exceed-natural-disaster-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

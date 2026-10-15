@@ -3,7 +3,7 @@ type: claim
 title: The OCR-based text input uses far fewer tokens than image-based multimodal input for the same slide, making it more cost-effective
 description: The OCR-based text input uses far fewer tokens than image-based multimodal input for the same slide, making it more cost-effective
 id: ocr-input-lower-token-cost-than-image-input
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

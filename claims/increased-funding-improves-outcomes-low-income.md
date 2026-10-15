@@ -3,7 +3,7 @@ type: claim
 title: "Research on school finance reforms finds increased spending improves educational and life outcomes, with larger effects for students from low-income backgrounds, including causal evidence from California's Local Control Funding Formula"
 description: "Research on school finance reforms finds increased spending improves educational and life outcomes, with larger effects for students from low-income backgrounds, including causal evidence from California's Local Contr..."
 id: increased-funding-improves-outcomes-low-income
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Longitudinal growth observed for current ELs likely underestimates total-cohort growth because students who reach English proficiency exit and are no longer assessed
 description: Longitudinal growth observed for current ELs likely underestimates total-cohort growth because students who reach English proficiency exit and are no longer assessed
 id: el-exit-censorship-underestimates-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -47,4 +47,4 @@ Chapter I's Limitations section explains that faster-progressing, higher-attaini
 - [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — related
 - [Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated](covid-impact-vulnerable-students-may-be-underestimated.md) — related
 - [More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school](access-proficiency-timing-fifth-grade-window.md) — related
-- [More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts](k-cohort-els-reaching-english-proficiency-earlier.md) — related
+- More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts — related

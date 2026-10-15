@@ -3,7 +3,7 @@ type: claim
 title: Adding a second pretest wave eliminates selection bias in two additional instances beyond those cured by a single wave
 description: Adding a second pretest wave eliminates selection bias in two additional instances beyond those cured by a single wave
 id: second-pretest-wave-additional-bias-elimination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

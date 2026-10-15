@@ -3,7 +3,7 @@ type: claim
 title: Fort Worth charter school students outgrew Fort Worth district school students in reading by a significant 38 days, with a non-significant 26-day math advantage
 description: Fort Worth charter school students outgrew Fort Worth district school students in reading by a significant 38 days, with a non-significant 26-day math advantage
 id: fort-worth-charter-beats-district-reading-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

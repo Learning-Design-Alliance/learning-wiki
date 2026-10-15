@@ -3,7 +3,7 @@ type: claim
 title: Prompting experiments show LLMs perform badly at generating non-US national standard varieties and conflate Nigerian English with Nigerian Pidgin
 description: Prompting experiments show LLMs perform badly at generating non-US national standard varieties and conflate Nigerian English with Nigerian Pidgin
 id: llms-perform-badly-non-us-standard-varieties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

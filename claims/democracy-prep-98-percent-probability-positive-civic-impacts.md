@@ -3,7 +3,7 @@ type: claim
 title: There is a 98 percent probability that enrolling in Democracy Prep produced positive impacts on both voter registration and voting
 description: There is a 98 percent probability that enrolling in Democracy Prep produced positive impacts on both voter registration and voting
 id: democracy-prep-98-percent-probability-positive-civic-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: layered-educator-support-ai-labs
 title: "Layered educator support: coaching, curated resources, low-lift entry points, and community engagement"
 description: The report recommends building layered systems of support for teachers at every comfort level when introducing powerful technology.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

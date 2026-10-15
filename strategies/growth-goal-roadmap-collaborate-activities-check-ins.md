@@ -3,7 +3,7 @@ type: strategy
 id: growth-goal-roadmap-collaborate-activities-check-ins
 title: "A three-part goal-setting roadmap: collaborate on goals, establish autonomous activities, and check in regularly"
 description: "The guide recommends a framework for turning a chosen growth goal into action, stating that \"Setting a roadmap or action plan to achieve the chosen goal helps keep students on track.\" It has three steps: collaborate w..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

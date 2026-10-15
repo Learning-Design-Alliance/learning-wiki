@@ -3,7 +3,7 @@ type: claim
 title: AI literacy is directly and positively associated with continued ChatGPT use among existing users
 description: AI literacy is directly and positively associated with continued ChatGPT use among existing users
 id: ai-literacy-direct-continued-chatgpt-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

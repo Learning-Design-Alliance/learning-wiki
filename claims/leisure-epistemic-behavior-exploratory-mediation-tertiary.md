@@ -3,7 +3,7 @@ type: claim
 title: "Exploratory: leisure epistemic behavior mediates the relation of cognitive ability with tertiary academic performance, with a very small effect"
 description: "Exploratory: leisure epistemic behavior mediates the relation of cognitive ability with tertiary academic performance, with a very small effect"
 id: leisure-epistemic-behavior-exploratory-mediation-tertiary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

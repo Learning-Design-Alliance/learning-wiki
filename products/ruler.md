@@ -4,7 +4,7 @@ id: ruler
 title: RULER
 description: RULER is a social-emotional learning programme developed and run by the Yale Center for Emotional Intelligence that teaches recognizing, understanding, labeling, expressing, and regulating emotions.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

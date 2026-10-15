@@ -3,7 +3,7 @@ type: element
 id: english-cognate-constructions
 title: English cognate constructions
 description: "Cognate constructions are sentences in which the object and verb share meaning, such as 'sing a song,' 'drink a drink,' and 'think a thought.' The paper defines them as those \"in which theobject bolo the same meaning..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

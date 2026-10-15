@@ -3,7 +3,7 @@ type: claim
 title: "First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors"
 description: "First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors"
 id: sense-of-belonging-predicts-persistence-intentions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

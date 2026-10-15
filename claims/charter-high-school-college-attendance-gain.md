@@ -3,7 +3,7 @@ type: claim
 title: Charter middle school students who attend a charter high school are 8 to 10 percentage points more likely to attend college than those who transition to a traditional public high school
 description: Charter middle school students who attend a charter high school are 8 to 10 percentage points more likely to attend college than those who transition to a traditional public high school
 id: charter-high-school-college-attendance-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

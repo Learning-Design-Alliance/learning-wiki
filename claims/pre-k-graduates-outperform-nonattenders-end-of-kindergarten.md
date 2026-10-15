@@ -3,7 +3,7 @@ type: claim
 title: Pre-K graduates outperform nonattending peers in achievement and executive functioning at the end of kindergarten
 description: Pre-K graduates outperform nonattending peers in achievement and executive functioning at the end of kindergarten
 id: pre-k-graduates-outperform-nonattenders-end-of-kindergarten
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

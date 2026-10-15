@@ -3,7 +3,7 @@ type: strategy
 id: report-attribute-profiles-for-remediation
 title: Report diagnostic attribute profiles back to examinees to guide targeted practice
 description: Use Rule Space diagnostic classifications to give examinees information beyond a global proficiency score.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

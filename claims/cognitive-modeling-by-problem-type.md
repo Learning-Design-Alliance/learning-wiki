@@ -3,7 +3,7 @@ type: claim
 title: "Cognitive modeling of exact student responses is hardest for multi-select problems and rare-error answers, with select-all accuracy of only 12-15% and cognitive accuracy dropping to as low as 3.7% when answers are incorrect"
 description: "Cognitive modeling of exact student responses is hardest for multi-select problems and rare-error answers, with select-all accuracy of only 12-15% and cognitive accuracy dropping to as low as 3.7% when answers are inc..."
 id: cognitive-modeling-by-problem-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

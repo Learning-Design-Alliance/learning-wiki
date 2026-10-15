@@ -3,7 +3,7 @@ type: strategy
 id: five-key-questions-micro-credential-development
 title: Use Five Key Questions to stress-test proposed micro-credential competencies before drafting
 description: "Before drafting, issuing organizations respond to Digital Promise's \"Five Key Questions for Identifying and Developing Educator Micro-credentials,\" which ask what discrete skill educators will demonstrate, whether it..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

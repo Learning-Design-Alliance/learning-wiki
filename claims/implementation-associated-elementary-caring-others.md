@@ -3,7 +3,7 @@ type: claim
 title: "High implementation of trauma-engaged practices was associated with higher elementary students' caring-others perceptions"
 description: "High implementation of trauma-engaged practices was associated with higher elementary students' caring-others perceptions"
 id: implementation-associated-elementary-caring-others
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

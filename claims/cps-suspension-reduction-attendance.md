@@ -3,7 +3,7 @@ type: claim
 title: Reduced suspension use was associated with increased attendance of roughly one additional day per year per student, rising to about three days in schools serving predominantly Black students
 description: Reduced suspension use was associated with increased attendance of roughly one additional day per year per student, rising to about three days in schools serving predominantly Black students
 id: cps-suspension-reduction-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

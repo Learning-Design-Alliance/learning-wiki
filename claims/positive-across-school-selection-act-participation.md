@@ -3,7 +3,7 @@ type: claim
 title: "ACT participation is positively selected across schools: higher-achieving schools have higher participation rates"
 description: "ACT participation is positively selected across schools: higher-achieving schools have higher participation rates"
 id: positive-across-school-selection-act-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

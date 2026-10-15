@@ -3,7 +3,7 @@ type: strategy
 id: independent-tasks-describe-distinguishing-features
 title: "Design children's independent follow-up tasks so they describe what distinguishes each shape, making their reasoning visible to the teacher"
 description: "The article recommends that independent work tasks be designed so the relation between children's knowledge and the intended learning object becomes visible to the teacher."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving
 description: Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving
 id: ai-workspaces-equitable-collaborative-problem-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

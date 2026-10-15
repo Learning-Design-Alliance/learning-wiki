@@ -3,7 +3,7 @@ type: claim
 title: Good Behavior Game improves student writing conventions and writing productivity in one single-case study
 description: Good Behavior Game improves student writing conventions and writing productivity in one single-case study
 id: gbg-improves-writing-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

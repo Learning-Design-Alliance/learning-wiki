@@ -3,7 +3,7 @@ type: claim
 title: "Inclusive school leadership plays a critical role in building teachers' capacity for school improvement"
 description: "Inclusive school leadership plays a critical role in building teachers' capacity for school improvement"
 id: inclusive-leadership-builds-teacher-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

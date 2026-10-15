@@ -3,7 +3,7 @@ type: claim
 title: "School characteristics relate to politics type: Hispanic schools show a marked tendency toward strong democracy and small schools less adversarial politics"
 description: "School characteristics relate to politics type: Hispanic schools show a marked tendency toward strong democracy and small schools less adversarial politics"
 id: school-characteristics-relate-politics-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

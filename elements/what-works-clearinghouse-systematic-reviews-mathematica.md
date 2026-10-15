@@ -3,7 +3,7 @@ type: element
 id: what-works-clearinghouse-systematic-reviews-mathematica
 title: What Works Clearinghouse systematic reviews conducted by Mathematica Policy Research
 description: "The What Works Clearinghouse is an initiative through which systematic reviews are conducted, with Mathematica Policy Research carrying out \"several other systematic reviews ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

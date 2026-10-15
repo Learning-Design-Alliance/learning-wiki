@@ -3,7 +3,7 @@ type: claim
 title: The most effective transmission-reducing testing strategies also increase the number of in-person school days lost, creating a tradeoff schools must weigh
 description: The most effective transmission-reducing testing strategies also increase the number of in-person school days lost, creating a tradeoff schools must weigh
 id: testing-effectiveness-traded-against-school-days-lost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

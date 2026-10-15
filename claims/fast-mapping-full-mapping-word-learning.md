@@ -3,7 +3,7 @@ type: claim
 title: Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)
 description: Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)
 id: fast-mapping-full-mapping-word-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

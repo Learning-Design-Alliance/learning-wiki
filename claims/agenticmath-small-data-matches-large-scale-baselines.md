@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuning LLMs on 30K-90K AgenticMath samples matches or surpasses baselines trained on 400K-2.3M samples on math reasoning benchmarks
 description: Fine-tuning LLMs on 30K-90K AgenticMath samples matches or surpasses baselines trained on 400K-2.3M samples on math reasoning benchmarks
 id: agenticmath-small-data-matches-large-scale-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

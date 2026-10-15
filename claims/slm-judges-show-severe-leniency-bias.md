@@ -3,7 +3,7 @@ type: claim
 title: Small language models used as automated judges exhibit severe leniency bias against tutoring responses
 description: Small language models used as automated judges exhibit severe leniency bias against tutoring responses
 id: slm-judges-show-severe-leniency-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

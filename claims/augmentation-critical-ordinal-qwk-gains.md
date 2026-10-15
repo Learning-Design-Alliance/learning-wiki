@@ -3,7 +3,7 @@ type: claim
 title: Data augmentation was critical for ordinal discriminability, with QWK dropping to near-zero without it in the Focus dimension and gains up to +0.346 in severely imbalanced dimensions
 description: Data augmentation was critical for ordinal discriminability, with QWK dropping to near-zero without it in the Focus dimension and gains up to +0.346 in severely imbalanced dimensions
 id: augmentation-critical-ordinal-qwk-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

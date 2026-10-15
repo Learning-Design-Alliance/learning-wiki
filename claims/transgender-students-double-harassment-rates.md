@@ -3,7 +3,7 @@ type: claim
 title: "Transgender students in every race/ethnicity group report harassment at least twice the rate of non-transgender peers (60%+ vs. 32% or less)"
 description: "Transgender students in every race/ethnicity group report harassment at least twice the rate of non-transgender peers (60%+ vs."
 id: transgender-students-double-harassment-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-kg-diagnosis-llm-scaffolding-architecture
 title: Use hybrid architectures in which KG-grounded classifiers handle diagnosis while LLMs provide open-ended scaffolding and dialogue
 description: Based on the finding that LLM diagnostic failures persist regardless of solution context and that accurate classification does not guarantee actionable feedback, the article recommends a hybrid division of labor.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

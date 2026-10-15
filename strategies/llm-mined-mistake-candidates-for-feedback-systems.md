@@ -3,7 +3,7 @@ type: strategy
 id: llm-mined-mistake-candidates-for-feedback-systems
 title: Use validated LLM-generated mistake candidates as a preliminary step toward targeted feedback in interactive learning systems
 description: The article recommends using transformation-based mistake candidates to scale discovery of common mistakes in education settings, and proposes integrating the resulting candidates into feedback systems of interactive...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

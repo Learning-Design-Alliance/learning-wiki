@@ -3,7 +3,7 @@ type: claim
 title: Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment
 description: Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment
 id: genai-scaffolded-augments-human-judgment-design-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

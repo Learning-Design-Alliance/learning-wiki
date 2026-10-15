@@ -3,7 +3,7 @@ type: claim
 title: ADA produces directional but non-significant trends toward more positive-activating and less negative-deactivating emotions versus conventional materials
 description: ADA produces directional but non-significant trends toward more positive-activating and less negative-deactivating emotions versus conventional materials
 id: ada-emotions-directional-non-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

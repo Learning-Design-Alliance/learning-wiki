@@ -4,7 +4,7 @@ id: ucsmp-secondary-mathematics-curriculum
 title: UCSMP secondary mathematics curriculum
 description: A University of Chicago School Mathematics Project curriculum package for secondary mathematics courses, including student textbooks, teacher editions and resources, assessment materials, and technology resources.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

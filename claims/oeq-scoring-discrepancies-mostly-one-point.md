@@ -3,7 +3,7 @@ type: claim
 title: Most faculty–GPT-4 scoring discrepancies were only one-point differences, shrinking across iterations
 description: Most faculty–GPT-4 scoring discrepancies were only one-point differences, shrinking across iterations
 id: oeq-scoring-discrepancies-mostly-one-point
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

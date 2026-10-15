@@ -3,7 +3,7 @@ type: claim
 title: Post-COVID classrooms show increased academic diversity, with more students off-track and further behind grade-level proficiency
 description: Post-COVID classrooms show increased academic diversity, with more students off-track and further behind grade-level proficiency
 id: post-covid-classrooms-academically-diverse-more-students-off-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

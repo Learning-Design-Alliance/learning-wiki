@@ -3,7 +3,7 @@ type: claim
 title: Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency
 description: Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency
 id: customized-ai-writing-persistent-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

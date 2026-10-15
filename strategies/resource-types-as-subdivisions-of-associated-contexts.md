@@ -3,7 +3,7 @@ type: strategy
 id: resource-types-as-subdivisions-of-associated-contexts
 title: Use resource types as subdivisions of their associated contexts rather than as separate facets
 description: Based on the finding that users have difficulty distinguishing between the various kinds of document types, resource types and formats, the authors recommend that separate facets for different kinds of resource types...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

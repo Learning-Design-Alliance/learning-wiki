@@ -3,7 +3,7 @@ type: claim
 title: Reporting coverage increases with LLM workflow complexity, from prompt-only to engineered and retrieval/adapted/agentic methods
 description: Reporting coverage increases with LLM workflow complexity, from prompt-only to engineered and retrieval/adapted/agentic methods
 id: reporting-richness-increases-with-llm-workflow-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

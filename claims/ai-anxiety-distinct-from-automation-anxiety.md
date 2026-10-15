@@ -3,7 +3,7 @@ type: claim
 title: The article argues AI Anxiety has distinct psychological impacts from Automation Anxiety, tied to AI-specific advancements
 description: The article argues AI Anxiety has distinct psychological impacts from Automation Anxiety, tied to AI-specific advancements
 id: ai-anxiety-distinct-from-automation-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

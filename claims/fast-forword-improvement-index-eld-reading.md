@@ -3,7 +3,7 @@ type: claim
 title: The WWC improvement index is +31 percentile points for English language development and +3 percentile points for reading achievement
 description: The WWC improvement index is +31 percentile points for English language development and +3 percentile points for reading achievement
 id: fast-forword-improvement-index-eld-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

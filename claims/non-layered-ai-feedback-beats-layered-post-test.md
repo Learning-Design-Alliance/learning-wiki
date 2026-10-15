@@ -3,7 +3,7 @@ type: claim
 title: Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test
 description: Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test
 id: non-layered-ai-feedback-beats-layered-post-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

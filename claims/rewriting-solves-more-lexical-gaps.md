@@ -3,7 +3,7 @@ type: claim
 title: Rewriting after noticing gaps and comparing to models produced modified output that solved more lexical gaps than grammatical problems
 description: Rewriting after noticing gaps and comparing to models produced modified output that solved more lexical gaps than grammatical problems
 id: rewriting-solves-more-lexical-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

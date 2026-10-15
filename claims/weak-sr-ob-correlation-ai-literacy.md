@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)"
 description: "Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)"
 id: weak-sr-ob-correlation-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

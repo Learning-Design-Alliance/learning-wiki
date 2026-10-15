@@ -3,7 +3,7 @@ type: claim
 title: Gold text descriptions improve VLM correctness-and-error assessment, but performance still lags other question types
 description: Gold text descriptions improve VLM correctness-and-error assessment, but performance still lags other question types
 id: captions-improve-correctness-qa-but-lag
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

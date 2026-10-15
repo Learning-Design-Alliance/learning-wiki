@@ -3,7 +3,7 @@ type: design
 id: embedded-two-adult-dual-enrollment-classroom
 title: "Embedded two-adult classroom: college instruction delivered on the high school campus with a familiar school-based adult present"
 description: OUSD delivers college courses on high school campuses during the school day, taught by Peralta instructors with an OUSD point person present—a dynamic some educators describe as team teaching.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

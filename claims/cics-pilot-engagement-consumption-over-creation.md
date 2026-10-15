@@ -3,7 +3,7 @@ type: claim
 title: Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation
 description: Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation
 id: cics-pilot-engagement-consumption-over-creation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

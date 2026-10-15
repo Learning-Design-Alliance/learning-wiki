@@ -3,7 +3,7 @@ type: strategy
 id: generative-formulaic-expressions-not-sentence-starters
 title: Offer generative formulaic expressions instead of rigid sentence starters
 description: "The brief recommends replacing typical sentence starters, which \"limit language choice for students\" and act as \"questions in disguise,\" with formulaic expressions that flexibly connect multiple ideas."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

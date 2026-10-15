@@ -2,7 +2,7 @@
 type: theory
 title: "Janusian thinking: holding contradictory thoughts simultaneously underlies creative breakthroughs and cognitive flexibility"
 description: Drawing on Rothenburg (1979), the chapter defines Janusian thinking as the simultaneous conception of opposites or antitheses as equally valid, named for the two-faced Roman god Janus.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

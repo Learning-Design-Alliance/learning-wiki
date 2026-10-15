@@ -3,7 +3,7 @@ type: claim
 title: Participants reported increased familiarity with each Designing for Learning topic after attending the Edcamp sessions
 description: Participants reported increased familiarity with each Designing for Learning topic after attending the Edcamp sessions
 id: edcamp-dfl-increased-topic-familiarity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

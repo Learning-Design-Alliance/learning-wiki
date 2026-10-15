@@ -3,7 +3,7 @@ type: claim
 title: Lessons highly rated for both the mathematics and access to mathematics used varied participation structures, but none of the 14 was also highly rated on agency, authority, and identity
 description: Lessons highly rated for both the mathematics and access to mathematics used varied participation structures, but none of the 14 was also highly rated on agency, authority, and identity
 id: participation-structures-access-challenging-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

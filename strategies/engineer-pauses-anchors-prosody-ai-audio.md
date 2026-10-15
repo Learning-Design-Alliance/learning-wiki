@@ -3,7 +3,7 @@ type: strategy
 id: engineer-pauses-anchors-prosody-ai-audio
 title: Engineer pauses, multimodal anchors, and improved prosody into AI-generated audio revision tools
 description: "The authors' design recommendations for future AI-audio tools, drawn from the qualitative integration: (1) deliberate silence engineered after case scenarios and between questions and answers to force retrieval practi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

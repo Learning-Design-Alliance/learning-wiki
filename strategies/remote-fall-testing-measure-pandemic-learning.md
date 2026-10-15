@@ -3,7 +3,7 @@ type: strategy
 id: remote-fall-testing-measure-pandemic-learning
 title: Measure student learning between school years using remote test administration when in-person testing is disrupted
 description: "The presentation describes ongoing work to quantify pandemic learning effects by measuring student learning between the 2019-20 and 2020-21 school years \"in the context of mostly remote test administration this fall\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

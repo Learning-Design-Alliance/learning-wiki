@@ -3,7 +3,7 @@ type: claim
 title: Principal leadership regard is nearly unanimous in top quartile schools but low for about 40 percent of teachers in bottom quartile schools
 description: Principal leadership regard is nearly unanimous in top quartile schools but low for about 40 percent of teachers in bottom quartile schools
 id: principal-leadership-regard-quartile-contrast
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Los apoyos de transición más deseados incluyen información práctica, herramientas de traducción de competencias, adiestramiento laboral, tutoría y dinero
 description: Los apoyos de transición más deseados incluyen información práctica, herramientas de traducción de competencias, adiestramiento laboral, tutoría y dinero
 id: apoyos-deseados-traduccion-competencias-tutoria
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

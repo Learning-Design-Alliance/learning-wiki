@@ -3,7 +3,7 @@ type: strategy
 id: srl-framework-guides-future-research
 title: Use the SRL conceptual framework to guide future research on college student motivation and learning
 description: "The article proposes the framework as a research-organizing tool: \"The conceptual framework may be useful in guiding future research on college student motivation and learning.\" Researchers studying motivation and sel..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints"
 description: "AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints"
 id: ai-assistance-persistence-costs-direct-solutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

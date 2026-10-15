@@ -4,7 +4,7 @@ id: nih-intramural-loan-repayment-program
 title: NIH Intramural Loan Repayment Program
 description: A set of National Institutes of Health loan-repayment programmes run by NIH to attract and retain biomedical researchers in its intramural laboratories and clinics.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

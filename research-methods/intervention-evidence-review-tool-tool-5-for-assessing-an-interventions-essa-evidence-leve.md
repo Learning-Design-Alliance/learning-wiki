@@ -3,7 +3,7 @@ type: research-method
 id: intervention-evidence-review-tool-tool-5-for-assessing-an-interventions-essa-evidence-leve
 title: "Intervention Evidence Review tool (Tool 5) for assessing an intervention's ESSA evidence level"
 description: "Tool 5 is \"designed to assist SEAs, LEAs, or schools as they review research on interventions that target a specific issue, problem, or outcome.\" By completing the tool, \"the user can assess the levels of evidence for a specific intervention under consideration for selection (based on the evidence d"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

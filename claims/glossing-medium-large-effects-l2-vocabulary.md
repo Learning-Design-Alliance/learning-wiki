@@ -3,7 +3,7 @@ type: claim
 title: Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses
 description: Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses
 id: glossing-medium-large-effects-l2-vocabulary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

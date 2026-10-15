@@ -3,7 +3,7 @@ type: design
 id: persona-progression-model-ai-instruction
 title: "Persona progression model: a four-stage AI-instructor persona (Guide→Collaborator→Peer→Launcher) operationalizing the Gradual Release of Responsibility framework for AI-mediated instruction"
 description: "The persona progression model ties the AI instructor's tone and scaffolding depth to the learner's position in the module sequence across four stages: Guide (patient teacher, explains every concept), Collaborator (wor..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

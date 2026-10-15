@@ -3,7 +3,7 @@ type: claim
 title: "A pronounced AI adaptation gap exists across university groups: students report higher current AI-use intensity and perceived usefulness than faculty and administrative staff, whereas staff report stronger academic integrity concerns and greater endorsement of responsible-use norms"
 description: "A pronounced AI adaptation gap exists across university groups: students report higher current AI-use intensity and perceived usefulness than faculty and administrative staff, whereas staff report stronger academic in..."
 id: ai-adaptation-gap-students-faculty-staff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

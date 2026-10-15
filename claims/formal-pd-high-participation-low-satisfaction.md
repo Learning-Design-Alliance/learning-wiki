@@ -3,7 +3,7 @@ type: claim
 title: Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation
 description: Teachers participate almost universally in formal professional development (averaging 30 required hours per year) but report much lower satisfaction with it than participation
 id: formal-pd-high-participation-low-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

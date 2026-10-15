@@ -3,7 +3,7 @@ type: claim
 title: Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement
 description: Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement
 id: constructive-beats-passive-young-children
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

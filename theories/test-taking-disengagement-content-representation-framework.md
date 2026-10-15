@@ -2,7 +2,7 @@
 type: theory
 title: Test-taking disengagement as a threat to content-domain representation in achievement testing
 description: "The article organizes the problem of rapid guessing within a representational framework: achievement testing requires that administered items represent a target content domain, blueprints enforce this via content cons..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

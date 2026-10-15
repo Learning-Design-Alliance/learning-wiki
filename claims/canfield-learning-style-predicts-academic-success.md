@@ -3,7 +3,7 @@ type: claim
 title: "Canfield's learning style variables predicted academic success where cognitive style did not"
 description: "Canfield's learning style variables predicted academic success where cognitive style did not"
 id: canfield-learning-style-predicts-academic-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

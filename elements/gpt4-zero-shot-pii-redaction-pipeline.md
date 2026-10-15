@@ -3,7 +3,7 @@ type: element
 id: gpt4-zero-shot-pii-redaction-pipeline
 title: GPT-4 zero-shot PII redaction prompt and pipeline for educational forum posts
 description: "A de-identification pipeline in which each forum post is sent individually to the OpenAI gpt-4-0613 model via API with a prompt instructing it to \"remov[e] any personally identifiable information (PII)\" including name..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

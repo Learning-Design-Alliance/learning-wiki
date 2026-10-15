@@ -3,7 +3,7 @@ type: claim
 title: In an IES-funded randomized controlled trial, students with lower prior mathematics achievement gained more from ASSISTments homework support than students with higher prior achievement
 description: In an IES-funded randomized controlled trial, students with lower prior mathematics achievement gained more from ASSISTments homework support than students with higher prior achievement
 id: assistments-greater-gains-lower-prior-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

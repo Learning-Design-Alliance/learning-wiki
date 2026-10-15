@@ -4,7 +4,7 @@ id: mad-city-mystery
 title: Mad City Mystery
 description: Mad City Mystery is a place-based augmented-reality environmental-science curriculum/game developed by Squire and colleagues for students to investigate environmental mysteries and construct scientific arguments.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

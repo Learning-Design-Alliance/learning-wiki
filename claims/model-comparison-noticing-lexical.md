@@ -3,7 +3,7 @@ type: claim
 title: Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features
 description: Comparing original texts to model paragraphs prompted noticing that was again focused on lexical features
 id: model-comparison-noticing-lexical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

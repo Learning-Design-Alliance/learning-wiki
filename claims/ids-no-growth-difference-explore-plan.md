@@ -3,7 +3,7 @@ type: claim
 title: IDS schools showed no differences in EXPLORE-to-PLAN test score growth compared with the rest of the CPS system
 description: IDS schools showed no differences in EXPLORE-to-PLAN test score growth compared with the rest of the CPS system
 id: ids-no-growth-difference-explore-plan
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

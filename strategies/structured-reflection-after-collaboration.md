@@ -3,7 +3,7 @@ type: strategy
 id: structured-reflection-after-collaboration
 title: Structure reflection after collaboration for both students and teachers using prompts, exit tickets, journals, rubrics, plus-and-delta, and gallery walks
 description: The primer treats reflection as critical at the conclusion of collaborative activities, for both students and teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first"
 description: "Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first"
 id: self-efficacy-growth-generative-ai-semester
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

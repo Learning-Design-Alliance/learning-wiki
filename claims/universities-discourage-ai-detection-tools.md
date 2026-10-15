@@ -3,7 +3,7 @@ type: claim
 title: A majority of universities with faculty guidelines discourage reliance on AI detection tools due to unreliability and bias
 description: A majority of universities with faculty guidelines discourage reliance on AI detection tools due to unreliability and bias
 id: universities-discourage-ai-detection-tools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

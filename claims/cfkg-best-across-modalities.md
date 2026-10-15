@@ -3,7 +3,7 @@ type: claim
 title: CF–KG achieves the best NDCG and hit rate on text, video, and interactive resource subsets, with modest but consistent gains over KGAT
 description: CF–KG achieves the best NDCG and hit rate on text, video, and interactive resource subsets, with modest but consistent gains over KGAT
 id: cfkg-best-across-modalities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: The survey reports, citing Desmarais and Baker, that students using the BKT-sequence recommendation algorithm solved more difficult exercises, obtained higher performance and spent more time in the system than students using the traditional approach.
 description: The survey reports, citing Desmarais and Baker, that students using the BKT-sequence recommendation algorithm solved more difficult exercises, obtained higher performance and spent more time in the system than student...
 id: bkt-sequence-recommendation-students-solved-harder-exercises
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

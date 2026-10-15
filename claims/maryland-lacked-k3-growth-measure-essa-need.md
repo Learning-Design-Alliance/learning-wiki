@@ -3,7 +3,7 @@ type: claim
 title: "Maryland lacked a measure of schools' support of academic growth from kindergarten to grade 3, creating a critical accountability need under ESSA"
 description: "Maryland lacked a measure of schools' support of academic growth from kindergarten to grade 3, creating a critical accountability need under ESSA"
 id: maryland-lacked-k3-growth-measure-essa-need
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

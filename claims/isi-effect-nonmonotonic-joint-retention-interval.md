@@ -3,7 +3,7 @@ type: claim
 title: ISI effects on recall are nonmonotonic and depend jointly on retention interval
 description: ISI effects on recall are nonmonotonic and depend jointly on retention interval
 id: isi-effect-nonmonotonic-joint-retention-interval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

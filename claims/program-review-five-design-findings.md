@@ -3,7 +3,7 @@ type: claim
 title: An internal program review found absence of a consistent pedagogical framework and need for active case-based materials
 description: An internal program review found absence of a consistent pedagogical framework and need for active case-based materials
 id: program-review-five-design-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

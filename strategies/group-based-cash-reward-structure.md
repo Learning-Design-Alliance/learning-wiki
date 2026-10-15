@@ -3,7 +3,7 @@ type: strategy
 id: group-based-cash-reward-structure
 title: Combine monetary inducements with group-based competition for cash rewards to motivate lower-class adolescents
 description: The paper proposes dividing students into groups of three, four, or five, constituted by teacher assignment or student preference, competing for cash rewards against one another or against a uniform standard, with pay...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

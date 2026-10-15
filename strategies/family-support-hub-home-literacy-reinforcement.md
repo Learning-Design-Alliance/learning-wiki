@@ -3,7 +3,7 @@ type: strategy
 id: family-support-hub-home-literacy-reinforcement
 title: Provide accessible caregiver resources to reinforce phonics at home
 description: The Family Support Hub gives families instructional materials, comprehension prompts, and QR codes linking to short video lessons that model decoding strategies, so caregivers can reinforce phonemic awareness, phonics...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

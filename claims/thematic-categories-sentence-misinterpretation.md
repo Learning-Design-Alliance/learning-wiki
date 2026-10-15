@@ -3,7 +3,7 @@ type: claim
 title: "Thematic coding of sentence misinterpretations yields three categories: lexical confusion, structure misinterpretation, and partial recognition with wrong sequencing"
 description: "Thematic coding of sentence misinterpretations yields three categories: lexical confusion, structure misinterpretation, and partial recognition with wrong sequencing"
 id: thematic-categories-sentence-misinterpretation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

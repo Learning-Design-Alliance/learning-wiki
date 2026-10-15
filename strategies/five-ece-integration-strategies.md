@@ -3,7 +3,7 @@ type: strategy
 id: five-ece-integration-strategies
 title: Five policy strategies for fostering integration in early childhood education settings
 description: "The report identifies five strategies policymakers can use to foster socioeconomic, racial, ethnic, and linguistic integration in ECE: \"Establishing universal ECE programs,\" braiding public funding, allowing tuition-p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

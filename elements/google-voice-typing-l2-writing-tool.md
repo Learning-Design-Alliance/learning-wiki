@@ -3,7 +3,7 @@ type: element
 id: google-voice-typing-l2-writing-tool
 title: Google voice typing in Google Docs as a free ASR-based L2 writing tool
 description: Google voice typing in Google Docs is an automatic speech recognition tool that converts speech to text and was used by participants to compose academic texts after a short training session.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

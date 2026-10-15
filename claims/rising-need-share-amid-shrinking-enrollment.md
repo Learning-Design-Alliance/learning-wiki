@@ -3,7 +3,7 @@ type: claim
 title: As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding
 description: As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding
 id: rising-need-share-amid-shrinking-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

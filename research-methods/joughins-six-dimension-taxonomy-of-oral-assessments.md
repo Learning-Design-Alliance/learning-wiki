@@ -3,7 +3,7 @@ type: research-method
 id: joughins-six-dimension-taxonomy-of-oral-assessments
 title: "Joughin's six-dimension taxonomy of oral assessments"
 description: "The article presents a taxonomy of oral assessments along six dimensions: primary content type, interaction, authenticity, structure, examiners, and orality."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

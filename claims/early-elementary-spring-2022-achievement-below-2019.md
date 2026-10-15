@@ -3,7 +3,7 @@ type: claim
 title: First- and second-grade spring 2022 achievement in reading and math was lower than spring 2019 prepandemic achievement
 description: First- and second-grade spring 2022 achievement in reading and math was lower than spring 2019 prepandemic achievement
 id: early-elementary-spring-2022-achievement-below-2019
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

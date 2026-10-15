@@ -3,7 +3,7 @@ type: claim
 title: Nine out of ten U.S. parents want their children to learn coding at school
 description: Nine out of ten U.S.
 id: parents-support-coding-google-gallup-2015
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

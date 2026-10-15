@@ -3,7 +3,7 @@ type: claim
 title: "Rater selection via two-facet Rasch infit filtering substantially increases inter-rater reliability (Krippendorff's alpha) on ICNALE GRA"
 description: "Rater selection via two-facet Rasch infit filtering substantially increases inter-rater reliability (Krippendorff's alpha) on ICNALE GRA"
 id: rasch-infit-rater-selection-increases-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

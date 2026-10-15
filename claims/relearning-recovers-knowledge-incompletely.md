@@ -3,7 +3,7 @@ type: claim
 title: "Teachable agents measurably but incompletely relearn unlearned knowledge, with the recovery gap to the base model widening under higher unlearning ratios (30%–50%)"
 description: "Teachable agents measurably but incompletely relearn unlearned knowledge, with the recovery gap to the base model widening under higher unlearning ratios (30%–50%)"
 id: relearning-recovers-knowledge-incompletely
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

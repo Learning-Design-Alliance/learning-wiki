@@ -3,7 +3,7 @@ type: research-method
 id: authenticity-reconceptualised-as-a-four-dimensional-continuum-for-ai-present-assessment
 title: Authenticity reconceptualised as a four-dimensional continuum for AI-present assessment
 description: "The paper reconceptualises authenticity as \"a multidimensional continuum rather than a binary\", locating it across four intersecting dimensions: task–context alignment with contemporary professional practice, foregrounding of professional judgement and ethics, visibility of process (iteration, criti"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

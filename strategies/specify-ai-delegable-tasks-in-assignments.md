@@ -3,7 +3,7 @@ type: strategy
 id: specify-ai-delegable-tasks-in-assignments
 title: Design assignments that explicitly specify which tasks may be delegated to AI and which may not
 description: "The article's relational co-agency recommendation: assignment prompts, not individual students, should define the human-AI division of labor."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

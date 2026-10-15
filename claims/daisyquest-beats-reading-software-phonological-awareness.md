@@ -3,7 +3,7 @@ type: claim
 title: DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders
 description: DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders
 id: daisyquest-beats-reading-software-phonological-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: principle
 id: real-world-problem-solving-maker-context
 title: Involve students in real-world problem solving to deepen engagement, retention, and understanding
 description: The paper argues that achieving high levels of engagement, increasing graduation rates, and deepening understanding of content requires involving students in meaningful problem solving embedded into their daily classes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

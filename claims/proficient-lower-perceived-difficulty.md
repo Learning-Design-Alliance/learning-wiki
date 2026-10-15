@@ -3,7 +3,7 @@ type: claim
 title: Proficient learners report lower perceived task difficulty than Novice learners on the CT task
 description: Proficient learners report lower perceived task difficulty than Novice learners on the CT task
 id: proficient-lower-perceived-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

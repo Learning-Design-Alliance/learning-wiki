@@ -3,7 +3,7 @@ type: claim
 title: Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)
 description: "Parent-implemented dialogic reading showed no statistically significant differences from a group story-time comparison on any language measure (Crain-Thoreson & Dale, 1999)"
 id: crain-thoreson-dale-1999-parent-led-null-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

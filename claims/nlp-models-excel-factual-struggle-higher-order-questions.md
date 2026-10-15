@@ -3,7 +3,7 @@ type: claim
 title: NLP models classify factual (knowledge transmitter) learner questions well but face challenges distinguishing higher-order facilitator and co-learner questions
 description: NLP models classify factual (knowledge transmitter) learner questions well but face challenges distinguishing higher-order facilitator and co-learner questions
 id: nlp-models-excel-factual-struggle-higher-order-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

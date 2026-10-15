@@ -3,7 +3,7 @@ type: claim
 title: There is a severe shortage of certified computer science teachers, with only 75 college graduates certified in 2016
 description: There is a severe shortage of certified computer science teachers, with only 75 college graduates certified in 2016
 id: cs-teacher-shortage-75-certified-2016
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

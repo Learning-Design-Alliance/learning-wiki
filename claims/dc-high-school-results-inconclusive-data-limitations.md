@@ -3,7 +3,7 @@ type: claim
 title: Results for high school achievement are less clear because data limitations precluded a credible impact analysis
 description: Results for high school achievement are less clear because data limitations precluded a credible impact analysis
 id: dc-high-school-results-inconclusive-data-limitations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

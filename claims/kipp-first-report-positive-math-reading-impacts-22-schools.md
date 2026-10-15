@@ -3,7 +3,7 @@ type: claim
 title: An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools
 description: An earlier report of the national KIPP evaluation described strong positive achievement impacts in math and reading for 22 KIPP middle schools
 id: kipp-first-report-positive-math-reading-impacts-22-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

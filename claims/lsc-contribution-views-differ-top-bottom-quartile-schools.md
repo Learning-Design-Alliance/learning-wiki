@@ -3,7 +3,7 @@ type: claim
 title: Teacher views of Local School Council contribution differ sharply between top and bottom quartile schools
 description: Teacher views of Local School Council contribution differ sharply between top and bottom quartile schools
 id: lsc-contribution-views-differ-top-bottom-quartile-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

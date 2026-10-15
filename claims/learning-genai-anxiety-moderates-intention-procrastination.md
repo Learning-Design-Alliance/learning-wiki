@@ -3,7 +3,7 @@ type: claim
 title: Learning GenAI anxiety moderates the intention–procrastination association, which is negative and significant at high anxiety but absent at low anxiety
 description: Learning GenAI anxiety moderates the intention–procrastination association, which is negative and significant at high anxiety but absent at low anxiety
 id: learning-genai-anxiety-moderates-intention-procrastination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

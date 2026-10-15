@@ -4,7 +4,7 @@ id: regional-educational-laboratory-rel-program
 title: Regional Educational Laboratory (REL) Program
 description: "The Institute of Education Sciences' REL Program connects practitioners, researchers, and policymakers through regional research, technical assistance, and engagement activities."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

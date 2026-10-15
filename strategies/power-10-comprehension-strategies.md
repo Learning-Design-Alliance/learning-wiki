@@ -3,7 +3,7 @@ type: strategy
 id: power-10-comprehension-strategies
 title: Use the Power 10 strategies to help students comprehend, organize, and remember information in any context
 description: The Power 10 are a set of teacher strategies used in both ECED curricula (Reading Matters and Writing Matters).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

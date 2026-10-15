@@ -3,7 +3,7 @@ type: strategy
 id: personalize-learning-environment-belonging-strategy
 title: Personalize the learning environment and instructional process to foster belonging
 description: "The guide's fifth schoolwide recommendation creates a personalized learning environment that fosters belonging and a climate where students and teachers know one another and can offer academic, social, and behavioral..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

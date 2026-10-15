@@ -3,7 +3,7 @@ type: strategy
 id: stir-dissemination-resources
 title: Disseminate partnership information through blog posts, videos, and infographics to support acceptability and feasibility
 description: "The partnership plans to \"Develop dissemination resources (blog posts, videos, infographics) to share information about the partnership, intervention, and relevant research.\" A stated note explains the design intent:..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

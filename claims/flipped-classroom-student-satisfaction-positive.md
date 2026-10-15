@@ -3,7 +3,7 @@ type: claim
 title: Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty
 description: Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty
 id: flipped-classroom-student-satisfaction-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Students from socioeconomically disadvantaged backgrounds fail dual enrollment at higher rates than equally achieving peers, with the gap widening as achievement rises (the readiness illusion)
 description: Students from socioeconomically disadvantaged backgrounds fail dual enrollment at higher rates than equally achieving peers, with the gap widening as achievement rises (the readiness illusion)
 id: readiness-illusion-disproportionate-failure-high-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

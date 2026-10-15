@@ -3,7 +3,7 @@ type: claim
 title: AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs
 description: AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs
 id: chatbot-flexible-personalized-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Teachers experiencing higher average demand across lesson planning, assessment/marking, and special-education adaptation report higher odds of AI adoption
 description: Teachers experiencing higher average demand across lesson planning, assessment/marking, and special-education adaptation report higher odds of AI adoption
 id: focal-task-demand-associated-teacher-ai-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

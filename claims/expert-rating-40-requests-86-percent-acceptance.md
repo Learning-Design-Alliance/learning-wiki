@@ -3,7 +3,7 @@ type: claim
 title: "Independent expert teachers accepted 86% of generated STEM learning interactives, rating most as good or excellent, with biology simulations weakest on aesthetics and UX"
 description: "Independent expert teachers accepted 86% of generated STEM learning interactives, rating most as good or excellent, with biology simulations weakest on aesthetics and UX"
 id: expert-rating-40-requests-86-percent-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

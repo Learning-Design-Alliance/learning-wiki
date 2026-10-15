@@ -3,7 +3,7 @@ type: claim
 title: Good Behavior Game improves teacher practice related to student behavior, with a pooled effect size of 0.79 across two studies
 description: Good Behavior Game improves teacher practice related to student behavior, with a pooled effect size of 0.79 across two studies
 id: gbg-improves-teacher-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

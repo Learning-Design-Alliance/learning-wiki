@@ -3,7 +3,7 @@ type: claim
 title: Under a five-band discretization of difficulty, the simulated-respondent model reaches quadratic weighted kappa 0.835 versus 0.692 (MetaMath) and 0.625 (MathBERT)
 description: Under a five-band discretization of difficulty, the simulated-respondent model reaches quadratic weighted kappa 0.835 versus 0.692 (MetaMath) and 0.625 (MathBERT)
 id: qwk-discretized-difficulty-agreement-0835
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

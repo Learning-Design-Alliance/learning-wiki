@@ -3,7 +3,7 @@ type: claim
 title: "Observing the complete problem-solving-and-failing process (VF-process) was more effective for conceptual knowledge acquisition than generating one's own failed solutions (PF) prior to instruction"
 description: "Observing the complete problem-solving-and-failing process (VF-process) was more effective for conceptual knowledge acquisition than generating one's own failed solutions (PF) prior to instruction"
 id: vf-process-outperforms-pf-conceptual-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

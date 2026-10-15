@@ -3,7 +3,7 @@ type: claim
 title: "Storying is socially and politically non-neutral: it privileges some storylines and silences others"
 description: "Storying is socially and politically non-neutral: it privileges some storylines and silences others"
 id: storying-privileges-some-storylines-silences-others
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

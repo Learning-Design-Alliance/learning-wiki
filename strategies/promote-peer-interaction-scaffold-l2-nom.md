@@ -3,7 +3,7 @@ type: strategy
 id: promote-peer-interaction-scaffold-l2-nom
 title: Promote task-based peer interaction in primary EFL classes and scaffold L2 meaning negotiation through formulaic language and explicit training in negotiation strategies
 description: The authors close by recommending that primary EFL instructors promote task-based peer interaction and provide learners with more scaffolding for meaning negotiation in the L2.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

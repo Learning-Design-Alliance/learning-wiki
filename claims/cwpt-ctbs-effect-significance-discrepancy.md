@@ -3,7 +3,7 @@ type: claim
 title: Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant
 description: Greenwood et al.
 id: cwpt-ctbs-effect-significance-discrepancy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

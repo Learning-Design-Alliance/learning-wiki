@@ -4,7 +4,7 @@ id: 28-item-genai-literacy-and-fluency-self-assessment-instrument-with-hierarchi
 title: 28-item GenAI Literacy and Fluency self-assessment instrument with hierarchical polytomous items
 description: An Oliveira et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

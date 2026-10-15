@@ -3,7 +3,7 @@ type: claim
 title: In the pilot workshop, the LLM unreliably produced fill-in-the-blank snippets, often returning complete code solutions instead
 description: In the pilot workshop, the LLM unreliably produced fill-in-the-blank snippets, often returning complete code solutions instead
 id: pilot-llm-unreliable-fill-in-blank
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: In the Reading in Four Voices task, students connected story values to a distance–time graph by engaging in both literacy and oracy
 description: In the Reading in Four Voices task, students connected story values to a distance–time graph by engaging in both literacy and oracy
 id: reading-four-voices-connects-story-and-graph
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

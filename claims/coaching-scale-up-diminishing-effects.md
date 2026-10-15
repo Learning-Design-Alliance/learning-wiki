@@ -3,7 +3,7 @@ type: claim
 title: "Coaching program effects shrink substantially at scale: effectiveness trials of larger programs show only a fraction of efficacy-trial effects"
 description: "Coaching program effects shrink substantially at scale: effectiveness trials of larger programs show only a fraction of efficacy-trial effects"
 id: coaching-scale-up-diminishing-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

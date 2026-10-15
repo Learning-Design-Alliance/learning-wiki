@@ -3,7 +3,7 @@ type: claim
 title: Word attack gains from the Wilson Reading System were concentrated among students with high initial word attack or vocabulary scores and students not eligible for free/reduced lunch
 description: Word attack gains from the Wilson Reading System were concentrated among students with high initial word attack or vocabulary scores and students not eligible for free/reduced lunch
 id: wilson-reading-system-subgroup-effects-initial-skill-ses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

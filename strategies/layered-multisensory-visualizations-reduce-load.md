@@ -3,7 +3,7 @@ type: strategy
 id: layered-multisensory-visualizations-reduce-load
 title: Design intuitive, multisensory, layered visualizations with evolving assessment to reduce cognitive load
 description: "The article's third design guideline calls for clear visual aids such as familiar graphs, heatmaps, and step-by-step animations to improve comprehension of complex mechanics concepts and reduce cognitive effort, toget..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

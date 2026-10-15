@@ -3,7 +3,7 @@ type: claim
 title: Most educationally related mental health services were provided by LEAs even though funds for them are allocated to SELPAs
 description: Most educationally related mental health services were provided by LEAs even though funds for them are allocated to SELPAs
 id: ermhs-services-provided-by-leas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

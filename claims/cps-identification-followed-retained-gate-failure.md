@@ -3,7 +3,7 @@ type: claim
 title: Students were identified for special education after failing the promotion gate, not before taking it
 description: Students were identified for special education after failing the promotion gate, not before taking it
 id: cps-identification-followed-retained-gate-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

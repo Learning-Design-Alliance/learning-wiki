@@ -3,7 +3,7 @@ type: claim
 title: Higher-quality superior-school accountability management systems are associated with higher digital transformation capability in Indonesian public elementary schools
 description: Higher-quality superior-school accountability management systems are associated with higher digital transformation capability in Indonesian public elementary schools
 id: accountability-quality-correlates-digital-transformation-capability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

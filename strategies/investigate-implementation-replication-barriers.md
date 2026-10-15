@@ -3,7 +3,7 @@ type: strategy
 id: investigate-implementation-replication-barriers
 title: Investigate potential barriers to implementation and replication when documenting a successful program
 description: "Alongside describing a program's effective elements, examine what could hinder implementation and replication."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

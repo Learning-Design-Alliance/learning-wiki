@@ -3,7 +3,7 @@ type: claim
 title: CS/SE educators rate ANVIL analogies highly and animations as generally faithful, with disagreement concentrated in borderline and visual-clarity judgments
 description: CS/SE educators rate ANVIL analogies highly and animations as generally faithful, with disagreement concentrated in borderline and visual-clarity judgments
 id: anvil-educator-ratings-analogy-animation-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

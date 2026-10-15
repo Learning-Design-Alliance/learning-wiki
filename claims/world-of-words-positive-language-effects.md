@@ -3,7 +3,7 @@ type: claim
 title: World of Words has positive effects on the language outcome domain for prekindergarten children, with an average effect size of 0.43 across four studies
 description: World of Words has positive effects on the language outcome domain for prekindergarten children, with an average effect size of 0.43 across four studies
 id: world-of-words-positive-language-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: hoot-reading-tutor-qualification-and-training-strategy
 title: Staff online tutoring with experienced, highly qualified classroom teachers and provide training in literacy, trauma-informed teaching, and remote instruction
 description: "Hoot Reading's staffing model requires that all tutors are experienced classroom teachers with Bachelor's, Master's, or a Ph.D."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

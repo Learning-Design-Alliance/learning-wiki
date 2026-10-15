@@ -3,7 +3,7 @@ type: claim
 title: KIPP Atlanta Collegiate High School is associated with higher rates of initial college enrollment
 description: KIPP Atlanta Collegiate High School is associated with higher rates of initial college enrollment
 id: kipp-atlanta-collegiate-higher-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

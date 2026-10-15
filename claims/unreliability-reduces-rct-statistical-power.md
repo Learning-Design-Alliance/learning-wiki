@@ -3,7 +3,7 @@ type: claim
 title: Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons
 description: Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons
 id: unreliability-reduces-rct-statistical-power
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

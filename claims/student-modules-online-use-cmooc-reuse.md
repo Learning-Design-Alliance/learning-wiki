@@ -3,7 +3,7 @@ type: claim
 title: Student-developed specialized modules attract substantial online use and are slated for cMOOC reuse with data-based evaluation
 description: Student-developed specialized modules attract substantial online use and are slated for cMOOC reuse with data-based evaluation
 id: student-modules-online-use-cmooc-reuse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

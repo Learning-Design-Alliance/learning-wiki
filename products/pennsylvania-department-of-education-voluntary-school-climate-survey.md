@@ -4,7 +4,7 @@ id: pennsylvania-department-of-education-voluntary-school-climate-survey
 title: Pennsylvania Department of Education voluntary school climate survey
 description: "A voluntary statewide school-climate survey developed and administered by the Pennsylvania Department of Education's Office for Safe Schools in partnership with REL Mid-Atlantic to measure school climate and identify schools needing support."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

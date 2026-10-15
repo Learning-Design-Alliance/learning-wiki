@@ -3,7 +3,7 @@ type: claim
 title: "Ensuring a good match between students and the colleges in which they enroll significantly increases a student's chance of graduating"
 description: "Ensuring a good match between students and the colleges in which they enroll significantly increases a student's chance of graduating"
 id: good-college-match-increases-graduation-chance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

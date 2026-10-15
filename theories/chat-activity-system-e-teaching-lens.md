@@ -2,7 +2,7 @@
 type: theory
 title: Cultural historical activity theory (CHAT) activity-system framework as a lens for understanding e-teaching
 description: "The article applies Engeström's CHAT, in which the activity system is \"object-oriented, collective, and culturally mediated human activity,\" as the unit of analysis for e-teachers' work."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

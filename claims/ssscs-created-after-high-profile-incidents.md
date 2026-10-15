@@ -3,7 +3,7 @@ type: claim
 title: Most State School Safety Centers were created in response to a high-profile incident such as a school shooting or natural disaster
 description: Most State School Safety Centers were created in response to a high-profile incident such as a school shooting or natural disaster
 id: ssscs-created-after-high-profile-incidents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

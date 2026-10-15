@@ -3,7 +3,7 @@ type: strategy
 id: ai-task-force-before-policy-revision
 title: Establish an inclusive AI task force before revising responsible use policies
 description: "Before revising responsible/acceptable use policies, districts should establish an AI task force: \"A group of people who purposefully meet to address a specific topic and accomplish a defined objective.\" The AI task f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

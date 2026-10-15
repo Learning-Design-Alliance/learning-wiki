@@ -3,7 +3,7 @@ type: claim
 title: Ever-ELs and current-ELs make larger fall-to-spring gains than the all-student average in early grades but smaller gains in middle grades
 description: Ever-ELs and current-ELs make larger fall-to-spring gains than the all-student average in early grades but smaller gains in middle grades
 id: ever-current-el-gains-grade-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

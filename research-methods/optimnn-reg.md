@@ -3,7 +3,7 @@ type: research-method
 id: optimnn-reg
 title: OptimNN-Reg
 description: OptimNN-Reg extends OptimNN by adding regularizing penalty terms to the binary cross-entropy loss with chosen coefficients, enforcing allowable-parameter rules (slip below 0.5, guess below 0.5, learn below (1-slip)/guess) and supporting priors over BKT parameters via any differentiable distribution,
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

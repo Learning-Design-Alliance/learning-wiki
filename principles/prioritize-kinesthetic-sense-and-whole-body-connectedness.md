@@ -3,7 +3,7 @@ type: principle
 id: prioritize-kinesthetic-sense-and-whole-body-connectedness
 title: Prioritize the kinesthetic sense and whole-body connectedness so dancers learn to trust their own perceptions
 description: "Drawing on Fortin's (1994) case study of teacher Glenna Batson, the article identifies \"kinesthetic sense and whole-body connectedness\" as the two main principles spearheading somatically informed teaching."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

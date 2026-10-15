@@ -3,7 +3,7 @@ type: claim
 title: DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades
 description: DHH students in grades 2–8 continue to build reading and mathematics skills and do not necessarily plateau in the elementary grades
 id: dhh-students-continue-building-skills-no-elementary-plateau
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

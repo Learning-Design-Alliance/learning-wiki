@@ -3,7 +3,7 @@ type: claim
 title: Principal components analyses of both the IAR and CDR yield eleven components with eigenvalues of one or greater
 description: Principal components analyses of both the IAR and CDR yield eleven components with eigenvalues of one or greater
 id: eleven-components-iar-cdr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

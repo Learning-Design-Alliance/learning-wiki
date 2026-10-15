@@ -4,7 +4,7 @@ id: mathbot
 title: Mathbot
 description: "Mathbot is an AI-based personalized elementary mathematics learning platform developed to adapt instruction and feedback to individual learners while incorporating students' interests into fraction problems."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

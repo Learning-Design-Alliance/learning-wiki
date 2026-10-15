@@ -3,7 +3,7 @@ type: design
 id: national-black-student-loan-debt-study
 title: National Black Student Loan Debt Study (survey of 1,272 Black borrowers plus 100 in-depth interviews)
 description: "A sequential, equal status mixed-method study of Black borrowers' experiences with student loans, conducted by The Education Trust with Jalil B."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

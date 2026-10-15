@@ -3,7 +3,7 @@ type: claim
 title: In a narrative educator assessment, coding assistants (Cursor and Claude Code) produced the most accurate, complete, and pedagogically sound slides from textbook chapters
 description: In a narrative educator assessment, coding assistants (Cursor and Claude Code) produced the most accurate, complete, and pedagogically sound slides from textbook chapters
 id: coding-assistants-best-slide-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

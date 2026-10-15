@@ -3,7 +3,7 @@ type: claim
 title: College students contribute to but cannot fully explain the summer dip in ChatGPT activity
 description: College students contribute to but cannot fully explain the summer dip in ChatGPT activity
 id: college-students-partially-explain-summer-dip
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

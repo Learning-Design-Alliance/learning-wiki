@@ -3,7 +3,7 @@ type: claim
 title: AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations
 description: AI-generated and prebuilt simulations produced higher immediate conceptual-assessment scores than physical laboratory work, but the advantage did not persist in later examinations
 id: simulation-advantage-immediate-not-sustained
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

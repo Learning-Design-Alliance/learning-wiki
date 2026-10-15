@@ -4,7 +4,7 @@ id: gold-and-ultra-gold-benchmark-subsets
 title: Gold and ultra-gold benchmark subsets
 description: Croteau et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

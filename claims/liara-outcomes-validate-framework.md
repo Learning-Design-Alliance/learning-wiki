@@ -3,7 +3,7 @@ type: claim
 title: "The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices"
 description: "The LI(A)RA project produced competitive, scholarly, and educational outcomes that validated the framework's practices"
 id: liara-outcomes-validate-framework
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

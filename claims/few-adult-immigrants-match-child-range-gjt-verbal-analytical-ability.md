@@ -3,7 +3,7 @@ type: claim
 title: Very few adult immigrants score within the range of child arrivals on a grammaticality judgment test, and those who do have high verbal analytical ability
 description: Very few adult immigrants score within the range of child arrivals on a grammaticality judgment test, and those who do have high verbal analytical ability
 id: few-adult-immigrants-match-child-range-gjt-verbal-analytical-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

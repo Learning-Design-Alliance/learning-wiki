@@ -3,7 +3,7 @@ type: claim
 title: Systematic reviews serve decision makers by identifying relevant studies, assessing evidence quality, and summarizing valid findings
 description: Systematic reviews serve decision makers by identifying relevant studies, assessing evidence quality, and summarizing valid findings
 id: systematic-reviews-identify-assess-summarize-for-decision-makers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

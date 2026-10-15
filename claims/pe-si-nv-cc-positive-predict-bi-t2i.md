@@ -3,7 +3,7 @@ type: claim
 title: "Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools"
 description: "Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools"
 id: pe-si-nv-cc-positive-predict-bi-t2i
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

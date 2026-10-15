@@ -4,7 +4,7 @@ id: ohios-school-quality-and-student-success-sqss-accountability-system
 title: "Ohio's School Quality and Student Success (SQSS) Accountability System"
 description: "Ohio's statewide accountability framework, administered by the Ohio Department of Education and Workforce, includes the Early Literacy Indicator to monitor K–3 literacy outcomes alongside other school-quality and student-success measures."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

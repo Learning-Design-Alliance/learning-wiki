@@ -3,7 +3,7 @@ type: claim
 title: Critical thinking and human–AI collaboration quality jointly form a significant serial indirect pathway from GenAI dependence to research creativity, larger for functional than existential dependence
 description: Critical thinking and human–AI collaboration quality jointly form a significant serial indirect pathway from GenAI dependence to research creativity, larger for functional than existential dependence
 id: serial-mediation-critical-thinking-collaboration-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

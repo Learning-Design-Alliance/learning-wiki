@@ -3,7 +3,7 @@ type: strategy
 id: federal-expand-high-quality-integrated-ece
 title: Federal policy should expand access to high-quality, integrated early care and education with quality assurance and adequate ECE educator compensation
 description: "The brief recommends building on federal ECE investments by expanding federal programs and providing matching funds to states for high-quality child care and preschool free for families making up to 200% of the federa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

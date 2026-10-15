@@ -3,7 +3,7 @@ type: claim
 title: The closer training content is to authentic clinical scenarios, the smoother its translation into practice
 description: The closer training content is to authentic clinical scenarios, the smoother its translation into practice
 id: contextualized-teaching-facilitates-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

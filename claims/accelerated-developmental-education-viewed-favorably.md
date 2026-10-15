@@ -3,7 +3,7 @@ type: claim
 title: Few students had experienced accelerated developmental education, but participants who had were positive and many others viewed it as a better option than traditional sequences
 description: Few students had experienced accelerated developmental education, but participants who had were positive and many others viewed it as a better option than traditional sequences
 id: accelerated-developmental-education-viewed-favorably
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

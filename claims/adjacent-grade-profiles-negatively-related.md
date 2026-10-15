@@ -3,7 +3,7 @@ type: claim
 title: Productivity profiles in adjacent grades are negatively related, so judging a school from selected grades alone can be very misleading
 description: Productivity profiles in adjacent grades are negatively related, so judging a school from selected grades alone can be very misleading
 id: adjacent-grade-profiles-negatively-related
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

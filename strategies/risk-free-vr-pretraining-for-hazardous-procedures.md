@@ -3,7 +3,7 @@ type: strategy
 id: risk-free-vr-pretraining-for-hazardous-procedures
 title: Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures
 description: The article recommends that virtual simulation complement physical training for procedures involving radiation exposure and privacy-sensitive examinations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

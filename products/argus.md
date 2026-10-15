@@ -4,7 +4,7 @@ id: argus
 title: Argus
 description: Argus is a static-analysis triage tool developed by David Racovan et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

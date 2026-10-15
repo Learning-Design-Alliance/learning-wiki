@@ -3,7 +3,7 @@ type: claim
 title: "Cluster membership is significantly associated with gender, with a small-to-moderate effect (χ²(5) = 345.52, Cramér's V = 0.157)"
 description: "Cluster membership is significantly associated with gender, with a small-to-moderate effect (χ²(5) = 345.52, Cramér's V = 0.157)"
 id: cluster-gender-chi-square
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

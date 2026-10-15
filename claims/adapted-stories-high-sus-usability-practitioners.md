@@ -3,7 +3,7 @@ type: claim
 title: Special-education practitioners rated AdaptED Stories as strongly usable, with a mean SUS score of 86.8 corresponding to an A grade
 description: Special-education practitioners rated AdaptED Stories as strongly usable, with a mean SUS score of 86.8 corresponding to an A grade
 id: adapted-stories-high-sus-usability-practitioners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

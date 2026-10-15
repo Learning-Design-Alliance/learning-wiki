@@ -4,7 +4,7 @@ id: vocabulary-knowledge-scale-vks
 title: Vocabulary Knowledge Scale (VKS)
 description: A researcher-developed vocabulary knowledge assessment created by Paribakht and Wesche to track learners’ acquisition and development of targeted words.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

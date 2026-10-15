@@ -3,7 +3,7 @@ type: claim
 title: SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showed a statistically significant group by time interaction
 description: SRL interventions in a four-week online mathematics preparation course did not significantly change the mathematics overall score (interaction marginal), while the mathematics focus score on self-chosen chapters showe...
 id: srl-interventions-math-overall-score-marginal-focus-score-significant-online-prep-course
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

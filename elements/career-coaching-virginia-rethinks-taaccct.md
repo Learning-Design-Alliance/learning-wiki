@@ -3,7 +3,7 @@ type: element
 id: career-coaching-virginia-rethinks-taaccct
 title: Career coaching strategy of the Virginia RETHINKS Health Sciences Education TAACCCT program
 description: Career coaches were hired as one of the seven strategies of the RETHINKS program, which the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

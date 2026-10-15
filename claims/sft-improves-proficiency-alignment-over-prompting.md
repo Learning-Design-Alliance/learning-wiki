@@ -3,7 +3,7 @@ type: claim
 title: Supervised fine-tuning on real score–essay pairs substantially outperforms prompting for proficiency-conditioned writing simulation
 description: Supervised fine-tuning on real score–essay pairs substantially outperforms prompting for proficiency-conditioned writing simulation
 id: sft-improves-proficiency-alignment-over-prompting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

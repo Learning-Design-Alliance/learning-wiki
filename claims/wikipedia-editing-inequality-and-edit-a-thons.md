@@ -3,7 +3,7 @@ type: claim
 title: Wikipedia editing reproduces inequalities in editors, topics and credible knowledge, but feminist edit-a-thons can redress cultural injustice
 description: Wikipedia editing reproduces inequalities in editors, topics and credible knowledge, but feminist edit-a-thons can redress cultural injustice
 id: wikipedia-editing-inequality-and-edit-a-thons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

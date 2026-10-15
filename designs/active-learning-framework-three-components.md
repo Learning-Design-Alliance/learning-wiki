@@ -3,7 +3,7 @@ type: design
 id: active-learning-framework-three-components
 title: "Active Learning Framework: pre-workshop, active workshop and post-workshop consolidation replacing lecture-tutorial format"
 description: The Active Learning Framework (ALF) is the delivery pattern that operationalises the model on the Moodle LMS for face-to-face and online students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

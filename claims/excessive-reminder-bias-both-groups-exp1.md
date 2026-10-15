@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 1, participants in both groups were significantly biased towards excessive reminder use relative to the optimal strategy
 description: In Experiment 1, participants in both groups were significantly biased towards excessive reminder use relative to the optimal strategy
 id: excessive-reminder-bias-both-groups-exp1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

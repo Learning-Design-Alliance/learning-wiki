@@ -3,7 +3,7 @@ type: claim
 title: "The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated"
 description: "The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated"
 id: magnet-case-cannot-determine-air-permeability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

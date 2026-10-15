@@ -3,7 +3,7 @@ type: claim
 title: No cohort-by-years-of-enrollment configuration shows statistically different learning gains from TPS
 description: No cohort-by-years-of-enrollment configuration shows statistically different learning gains from TPS
 id: wa-charter-cohort-years-enrollment-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

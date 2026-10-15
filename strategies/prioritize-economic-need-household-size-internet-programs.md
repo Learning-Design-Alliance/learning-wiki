@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-economic-need-household-size-internet-programs
 title: Use economic indicators plus household size to prioritize families, and target outreach through schools with low family engagement
 description: The report distills its participation findings into recommendations for internet-access programs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

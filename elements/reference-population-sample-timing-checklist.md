@@ -3,7 +3,7 @@ type: element
 id: reference-population-sample-timing-checklist
 title: "Checklist 3: reporting reference population, study sample, and measurement timing"
 description: "The third checklist covers \"the study's reference population, study sample, and measurement timing.\" It prompts researchers to state who the study's findings are meant to generalize to, who was actually measured, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

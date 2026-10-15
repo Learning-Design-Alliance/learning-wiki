@@ -3,7 +3,7 @@ type: claim
 title: Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control
 description: Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control
 id: manual-adaptation-slightly-superior-automatic-adaptive-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

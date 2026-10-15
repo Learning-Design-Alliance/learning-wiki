@@ -3,7 +3,7 @@ type: claim
 title: An additional month of relative age among peers decreases the likelihood of receiving special education services by 2-5 percent
 description: An additional month of relative age among peers decreases the likelihood of receiving special education services by 2-5 percent
 id: relative-age-month-decreases-special-education-likelihood
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

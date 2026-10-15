@@ -3,7 +3,7 @@ type: claim
 title: DCPS students with any reported health condition generally had poorer education outcomes than students without a health condition
 description: DCPS students with any reported health condition generally had poorer education outcomes than students without a health condition
 id: dcps-health-condition-poorer-education-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

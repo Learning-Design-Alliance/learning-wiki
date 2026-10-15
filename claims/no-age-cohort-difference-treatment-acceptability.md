@@ -3,7 +3,7 @@ type: claim
 title: "Younger and older adults do not differ in treatment acceptability ratings for GAD with Parkinson's disease"
 description: "Younger and older adults do not differ in treatment acceptability ratings for GAD with Parkinson's disease"
 id: no-age-cohort-difference-treatment-acceptability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

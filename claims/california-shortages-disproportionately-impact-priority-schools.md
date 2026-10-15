@@ -3,7 +3,7 @@ type: claim
 title: Teacher shortages disproportionately impact students in priority and highest-need California schools, which have fewer fully credentialed and more inexperienced teachers
 description: Teacher shortages disproportionately impact students in priority and highest-need California schools, which have fewer fully credentialed and more inexperienced teachers
 id: california-shortages-disproportionately-impact-priority-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

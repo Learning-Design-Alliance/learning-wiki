@@ -3,7 +3,7 @@ type: claim
 title: Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice
 description: Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice
 id: learning-paths-srl-accuracy-without-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

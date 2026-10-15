@@ -3,7 +3,7 @@ type: claim
 title: AI adoption at work shows generational and occupational patterns, with younger workers and tech, professional services, and finance fields more likely to use AI
 description: AI adoption at work shows generational and occupational patterns, with younger workers and tech, professional services, and finance fields more likely to use AI
 id: generational-occupational-ai-adoption-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

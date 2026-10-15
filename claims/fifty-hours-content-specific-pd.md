@@ -3,7 +3,7 @@ type: claim
 title: Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions
 description: Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions
 id: fifty-hours-content-specific-pd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

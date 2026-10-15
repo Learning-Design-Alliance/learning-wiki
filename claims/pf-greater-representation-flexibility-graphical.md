@@ -3,7 +3,7 @@ type: claim
 title: Productive failure students demonstrated greater representation flexibility in working with graphical representations than students in the other two conditions
 description: Productive failure students demonstrated greater representation flexibility in working with graphical representations than students in the other two conditions
 id: pf-greater-representation-flexibility-graphical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

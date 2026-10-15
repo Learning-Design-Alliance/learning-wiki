@@ -3,7 +3,7 @@ type: claim
 title: "Syntea adoption is highest among Gen Z students (63.66%) and declines across older generational cohorts"
 description: "Syntea adoption is highest among Gen Z students (63.66%) and declines across older generational cohorts"
 id: syntea-usage-declines-older-cohorts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: monthly-virtual-cop-singleton-state-directors
 title: Convene a monthly virtual Community of Practice for singleton state program directors, with topics identified by members and reciprocal learning among members and experts
 description: "The R15CC designed and facilitated a CoP specifically for the region's AIE Directors, meeting virtually approximately once per month since 2020."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

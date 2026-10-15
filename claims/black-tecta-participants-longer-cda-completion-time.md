@@ -3,7 +3,7 @@ type: claim
 title: Black TECTA participants took 7.4 more months on average to earn a CDA after orientation than white participants
 description: Black TECTA participants took 7.4 more months on average to earn a CDA after orientation than white participants
 id: black-tecta-participants-longer-cda-completion-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions
 description: Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions
 id: stair-step-solar-wind-inputs-improve-lab-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

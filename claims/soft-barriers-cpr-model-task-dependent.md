@@ -3,7 +3,7 @@ type: claim
 title: Output-level Unicode soft barriers can achieve high copy-paste resistance, but effectiveness is highly model- and task-dependent
 description: Output-level Unicode soft barriers can achieve high copy-paste resistance, but effectiveness is highly model- and task-dependent
 id: soft-barriers-cpr-model-task-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

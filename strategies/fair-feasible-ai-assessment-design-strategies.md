@@ -3,7 +3,7 @@ type: strategy
 id: fair-feasible-ai-assessment-design-strategies
 title: "Design verification and mutual-evaluation assessments for fairness and feasibility: alternative response modes, equitable AI access, selective documentation, and planned workload"
 description: "The article recommends concrete design actions for fair, feasible implementation: offer alternative response modes that preserve the capability and assistance conditions being assessed; address AI access inequity by p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

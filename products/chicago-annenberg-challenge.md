@@ -4,7 +4,7 @@ id: chicago-annenberg-challenge
 title: Chicago Annenberg Challenge
 description: A school-improvement initiative that organized schools into networks supported by external partner organizations and was run by the Chicago Annenberg Challenge.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

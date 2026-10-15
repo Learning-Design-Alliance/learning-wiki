@@ -2,7 +2,7 @@
 type: theory
 title: Ritual versus exploration routines and the process of de-ritualization
 description: Drawing on Lavie et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

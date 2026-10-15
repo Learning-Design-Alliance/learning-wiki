@@ -2,7 +2,7 @@
 type: theory
 title: "DiPietro's Strategic-Interaction Method gives equal significance to form and function and analyzes conversation along formal, transactional, and interactional dimensions"
 description: The Strategic-Interaction (S-I) Method, designed by Robert J.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

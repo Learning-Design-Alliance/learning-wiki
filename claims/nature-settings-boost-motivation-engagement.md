@@ -3,7 +3,7 @@ type: claim
 title: Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons
 description: Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons
 id: nature-settings-boost-motivation-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

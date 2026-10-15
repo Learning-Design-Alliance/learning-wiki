@@ -3,7 +3,7 @@ type: claim
 title: The PPO-driven policy substantially outperformed a random policy baseline, with cumulative reward of 95.12 ± 1.23 versus 12.3 ± 4.7
 description: The PPO-driven policy substantially outperformed a random policy baseline, with cumulative reward of 95.12 ± 1.23 versus 12.3 ± 4.7
 id: ppo-outperforms-random-baseline-reward
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

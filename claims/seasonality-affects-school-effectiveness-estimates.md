@@ -3,7 +3,7 @@ type: claim
 title: Seasonality affects estimates of school effectiveness
 description: Seasonality affects estimates of school effectiveness
 id: seasonality-affects-school-effectiveness-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

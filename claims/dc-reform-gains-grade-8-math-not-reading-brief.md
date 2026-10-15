@@ -3,7 +3,7 @@ type: claim
 title: The DC reforms were associated with grade 8 math gains, especially for cohorts with more exposure, but not grade 8 reading gains
 description: The DC reforms were associated with grade 8 math gains, especially for cohorts with more exposure, but not grade 8 reading gains
 id: dc-reform-gains-grade-8-math-not-reading-brief
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

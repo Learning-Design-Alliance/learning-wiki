@@ -3,7 +3,7 @@ type: claim
 title: The Residual Fusion Transformer shows the lowest worst-group MAE and smallest gender gap among baselines, while the Sensor GRU shows the smallest age gap alongside the weakest overall performance
 description: The Residual Fusion Transformer shows the lowest worst-group MAE and smallest gender gap among baselines, while the Sensor GRU shows the smallest age gap alongside the weakest overall performance
 id: fusion-transformer-lowest-worst-group-mae-smallest-gender-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

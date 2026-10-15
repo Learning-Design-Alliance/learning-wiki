@@ -3,7 +3,7 @@ type: claim
 title: Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty
 description: Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty
 id: ttr-nonmonotonic-difficulty-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

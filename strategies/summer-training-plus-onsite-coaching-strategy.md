@@ -3,7 +3,7 @@ type: strategy
 id: summer-training-plus-onsite-coaching-strategy
 title: Deliver professional development through a 2-week summer institute followed by year-long on-site coaching
 description: "AMSTI's professional development model combines an intensive summer training session with sustained on-site coaching during the school year."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

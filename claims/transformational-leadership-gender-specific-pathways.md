@@ -3,7 +3,7 @@ type: claim
 title: "Transformational leadership's protective effect against harassment operates among women but not men, while its self-efficacy effect operates among men but not women (exploratory)"
 description: "Transformational leadership's protective effect against harassment operates among women but not men, while its self-efficacy effect operates among men but not women (exploratory)"
 id: transformational-leadership-gender-specific-pathways
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

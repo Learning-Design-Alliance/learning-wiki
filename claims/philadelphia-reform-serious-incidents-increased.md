@@ -3,7 +3,7 @@ type: claim
 title: Serious incidents of student misconduct increased in Philadelphia following the discipline policy reform
 description: Serious incidents of student misconduct increased in Philadelphia following the discipline policy reform
 id: philadelphia-reform-serious-incidents-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

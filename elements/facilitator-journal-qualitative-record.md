@@ -3,7 +3,7 @@ type: element
 id: facilitator-journal-qualitative-record
 title: "Facilitator's journal as a qualitative record of group progress"
 description: "The facilitator's journal is a record-keeping method for collaborative learning groups: \"One method for keeping records is the facilitator's journal.\" It is an open-ended, organic, flexible record of what goes on in t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

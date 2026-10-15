@@ -3,7 +3,7 @@ type: claim
 title: Teacher professional judgement is represented in AI ethics literature as an ethical and interpretive capacity central to responsible AI use, not a technical skill to be replaced
 description: Teacher professional judgement is represented in AI ethics literature as an ethical and interpretive capacity central to responsible AI use, not a technical skill to be replaced
 id: teacher-judgement-ethical-interpretive-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

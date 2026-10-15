@@ -3,7 +3,7 @@ type: claim
 title: Within-user exercise accuracy does not differ significantly between high- and low-score sessions
 description: Within-user exercise accuracy does not differ significantly between high- and low-score sessions
 id: within-user-accuracy-null-result
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

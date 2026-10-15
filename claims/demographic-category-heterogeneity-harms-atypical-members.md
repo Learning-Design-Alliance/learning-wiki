@@ -3,7 +3,7 @@ type: claim
 title: Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups
 description: Heterogeneity within demographic categories means group variables as predictors can disadvantage atypical group members and underrepresented groups
 id: demographic-category-heterogeneity-harms-atypical-members
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

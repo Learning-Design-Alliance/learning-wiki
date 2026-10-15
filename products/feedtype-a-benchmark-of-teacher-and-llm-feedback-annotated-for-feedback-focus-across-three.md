@@ -4,7 +4,7 @@ id: feedtype-a-benchmark-of-teacher-and-llm-feedback-annotated-for-feedback-focu
 title: "FEEDTYPE: a benchmark of teacher and LLM feedback annotated for feedback focus across three writing domains"
 description: A released corpus of paragraph-level teacher- and LLM-generated writing feedback with feedback-focus annotations, scores, and student revisions across composition, ESL, and fiction courses, created by Norah Almousa et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

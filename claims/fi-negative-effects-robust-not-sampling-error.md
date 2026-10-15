@@ -3,7 +3,7 @@ type: claim
 title: The variability of feedback-intervention effects, including negative effects, exceeds sampling error and is robust to exclusion of a single prolific lab
 description: The variability of feedback-intervention effects, including negative effects, exceeds sampling error and is robust to exclusion of a single prolific lab
 id: fi-negative-effects-robust-not-sampling-error
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

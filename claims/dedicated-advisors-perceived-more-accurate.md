@@ -3,7 +3,7 @@ type: claim
 title: Students were more positive about advising when their advisor was dedicated to a specific program of study or student population
 description: Students were more positive about advising when their advisor was dedicated to a specific program of study or student population
 id: dedicated-advisors-perceived-more-accurate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

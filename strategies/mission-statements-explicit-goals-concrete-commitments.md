@@ -3,7 +3,7 @@ type: strategy
 id: mission-statements-explicit-goals-concrete-commitments
 title: Treat mission statements as rhetorical interventions requiring concrete commitments and explicit rhetorical audiences, not vague excellence vocabulary
 description: "Drawing on Winstead and Hobson (1971), the article recommends treating mission statements as only \"the first step in planning\": without follow-through and substantive metrics linking ideals to practical realities, sta..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

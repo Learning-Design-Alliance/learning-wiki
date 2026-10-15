@@ -3,7 +3,7 @@ type: claim
 title: Students report that GenAI creates an uneven playing field in assessment, favoring students who use it over those who work independently
 description: Students report that GenAI creates an uneven playing field in assessment, favoring students who use it over those who work independently
 id: genai-uneven-playing-field-assessment-fairness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

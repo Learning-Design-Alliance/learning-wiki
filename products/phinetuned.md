@@ -4,7 +4,7 @@ id: phinetuned
 title: PhinetunEd
 description: A Phi-3-Mini language model fine-tuned by Tozadore et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

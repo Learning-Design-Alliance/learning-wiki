@@ -3,7 +3,7 @@ type: design
 id: gateway-guiding-principles-structures-pattern
 title: "Gateway's three guiding principles instantiated through a coherent set of schoolwide structures and practices"
 description: "The case study documents how Gateway's founding ideals became three guiding principles—inclusivity and equity, relationships, and continuous improvement—that inform a set of structures and practices."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

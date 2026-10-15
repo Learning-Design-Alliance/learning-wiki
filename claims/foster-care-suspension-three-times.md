@@ -3,7 +3,7 @@ type: claim
 title: Students in foster care were consistently about three times more likely to be suspended than all other student groups, with rates reverting to pre-pandemic levels by 2022–23
 description: Students in foster care were consistently about three times more likely to be suspended than all other student groups, with rates reverting to pre-pandemic levels by 2022–23
 id: foster-care-suspension-three-times
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

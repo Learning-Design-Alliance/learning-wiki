@@ -3,7 +3,7 @@ type: claim
 title: LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty
 description: LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty
 id: llm-unjustified-confidence-visual-recommendations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

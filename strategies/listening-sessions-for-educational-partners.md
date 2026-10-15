@@ -3,7 +3,7 @@ type: strategy
 id: listening-sessions-for-educational-partners
 title: Hold listening sessions in accessible locations where staff simply listen to educational partners
 description: "Listening sessions are \"structured opportunities for educational partners to share their own experiences and insights regarding school and district systems.\" Staff reach out to partners, provide space, and \"the role o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

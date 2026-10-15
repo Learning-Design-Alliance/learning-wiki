@@ -3,7 +3,7 @@ type: strategy
 id: structured-discussion-vocabulary-anchoring
 title: "Structured discussions that anchor new vocabulary in students' personal experience"
 description: "A third-generation vocabulary strategy in which, after the teacher gives a word's meaning, students are asked \"What experiences, thoughts or associations do you have with the term..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

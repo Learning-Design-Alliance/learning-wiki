@@ -3,7 +3,7 @@ type: strategy
 id: communicative-strategies-large-classes-participation
 title: Employ more communicative tasks and strategies in large classes to encourage participation
 description: Because larger classes showed lower WTC, the article recommends that teachers of large classes deliberately employ communicative strategies and tasks that support participation and interaction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

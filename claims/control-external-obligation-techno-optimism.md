@@ -3,7 +3,7 @@ type: claim
 title: Control-group students framed sustainability as an external obligation and held techno-optimistic views of AI centered on efficiency with little ethical reflection
 description: Control-group students framed sustainability as an external obligation and held techno-optimistic views of AI centered on efficiency with little ethical reflection
 id: control-external-obligation-techno-optimism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

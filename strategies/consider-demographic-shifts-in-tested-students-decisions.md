@@ -3,7 +3,7 @@ type: strategy
 id: consider-demographic-shifts-in-tested-students-decisions
 title: Educational leaders should examine demographic shifts in the tested student population before making growth and recovery support decisions
 description: "A concrete decision procedure for school leaders using assessment data during periods of unusual attrition: before acting on aggregate results, check whether the tested group differs demographically from prior cohorts."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

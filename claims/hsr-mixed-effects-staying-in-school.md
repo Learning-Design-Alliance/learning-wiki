@@ -3,7 +3,7 @@ type: claim
 title: High School Redirection shows mixed effects on staying in school, with significant effects in the Stockton trial but not in Wichita or Cincinnati
 description: High School Redirection shows mixed effects on staying in school, with significant effects in the Stockton trial but not in Wichita or Cincinnati
 id: hsr-mixed-effects-staying-in-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

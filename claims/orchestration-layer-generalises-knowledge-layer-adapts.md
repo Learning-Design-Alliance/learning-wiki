@@ -3,7 +3,7 @@ type: claim
 title: "LEA's course-agnostic architecture was operationalised across three courses with no changes to the orchestrator, mastery tracker, or scaffolding engine"
 description: "LEA's course-agnostic architecture was operationalised across three courses with no changes to the orchestrator, mastery tracker, or scaffolding engine"
 id: orchestration-layer-generalises-knowledge-layer-adapts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

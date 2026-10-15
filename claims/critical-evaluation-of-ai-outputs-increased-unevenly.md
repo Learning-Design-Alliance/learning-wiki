@@ -3,7 +3,7 @@ type: claim
 title: "Students' critical examination of AI-generated outputs increased across learning cycles, though unevenly, with some participants continuing to seek confirmation from AI"
 description: "Students' critical examination of AI-generated outputs increased across learning cycles, though unevenly, with some participants continuing to seek confirmation from AI"
 id: critical-evaluation-of-ai-outputs-increased-unevenly
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

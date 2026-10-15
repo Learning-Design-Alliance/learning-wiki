@@ -3,7 +3,7 @@ type: claim
 title: Iterate averaging with step sizes decreasing slower than O(1/n) converges at an optimal rate
 description: Iterate averaging with step sizes decreasing slower than O(1/n) converges at an optimal rate
 id: polyak-juditsky-iterate-averaging-optimal-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

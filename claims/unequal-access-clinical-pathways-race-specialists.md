@@ -3,7 +3,7 @@ type: claim
 title: "Access to student teaching and residency pathways is unequal: only 46% of Black and 50% of Native American completers participated, and fewer than one third of education specialists did so"
 description: "Access to student teaching and residency pathways is unequal: only 46% of Black and 50% of Native American completers participated, and fewer than one third of education specialists did so"
 id: unequal-access-clinical-pathways-race-specialists
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

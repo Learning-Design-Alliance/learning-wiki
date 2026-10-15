@@ -3,7 +3,7 @@ type: research-method
 id: integrated-analytical-framework-combining-the-technology-based-learning-framework-with-ped
 title: "Integrated analytical framework combining the technology-based learning framework with Pedaste et al.'s five-phase inquiry cycle"
 description: "The review adapts the technology-based learning framework (originated by Hsu et al., 2012, with six analytical dimensions: learning devices, learning domains, learning strategies, research methods, participants, and research issues) and integrates Pedaste et al.'s (2015) five-phase inquiry framework"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: element
 id: video-based-lesson-debrief-cycles-teams
 title: Video-based lesson-debrief cycles with teacher teams in schools
 description: "Within a research-practice partnership with a professional development organization for secondary mathematics teachers, the team designed \"a system for video-based feedback on teachers' instruction,\" facilitating and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

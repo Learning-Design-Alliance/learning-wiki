@@ -3,7 +3,7 @@ type: claim
 title: Students most often rated collaboration opportunities, content interest, and class belonging as worse online
 description: Students most often rated collaboration opportunities, content interest, and class belonging as worse online
 id: collaboration-interest-belonging-worse-online
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

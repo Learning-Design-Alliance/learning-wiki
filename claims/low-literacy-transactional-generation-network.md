@@ -3,7 +3,7 @@ type: claim
 title: "Low-literacy students' ENA networks are dominated by links between Abstract Generation Commands and Factual or Challenging Questions, described as a transactional approach"
 description: "Low-literacy students' ENA networks are dominated by links between Abstract Generation Commands and Factual or Challenging Questions, described as a transactional approach"
 id: low-literacy-transactional-generation-network
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

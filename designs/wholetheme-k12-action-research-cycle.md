@@ -3,7 +3,7 @@ type: design
 id: wholetheme-k12-action-research-cycle
 title: "Wholetheme K-12 classroom pattern: theme plus multidisciplinary projects in an action research cycle"
 description: The paper sketches a wholetheme K-12 classroom in which a broadly based year-long theme frames multidisciplinary, content-laden projects.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

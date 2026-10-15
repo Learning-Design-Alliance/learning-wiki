@@ -3,7 +3,7 @@ type: element
 id: early-reader-skills-scaffold-erss
 title: "Early Reader Skills Scaffold (ERSS): sequenced heavily scaffolded activities for early and pre-readers"
 description: The Early Reader Skills Scaffold is a series of practice activities given to students categorized as early readers or pre-readers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

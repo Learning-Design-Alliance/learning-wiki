@@ -4,7 +4,7 @@ id: gocps
 title: GoCPS
 description: "GoCPS is Chicago Public Schools' online universal-enrollment platform, operated by CPS to centralize high-school applications, program rankings, deferred-acceptance matching, offers, and waitlists."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

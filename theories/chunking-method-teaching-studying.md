@@ -2,7 +2,7 @@
 type: theory
 title: The chunking method of teaching and studying
 description: The chunking method requires students to use their cognitive processing capacity (CPC) to determine how much information to process at one time and to progressively chunk discrete units into a meaningful whole.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

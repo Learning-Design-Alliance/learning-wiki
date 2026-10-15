@@ -3,7 +3,7 @@ type: claim
 title: Higher task complexity is associated with lower written production of the target form among child learners receiving recasts
 description: Higher task complexity is associated with lower written production of the target form among child learners receiving recasts
 id: task-complexity-negatively-related-child-written-production
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

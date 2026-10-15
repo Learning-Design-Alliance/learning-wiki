@@ -3,7 +3,7 @@ type: strategy
 id: adapt-instruction-via-expertise-load-measures
 title: Adapt instruction dynamically to individual learners using measures of expertise and cognitive load
 description: "This strategy implements the review's call for flexible adaptation: instruction should be adjusted to individual learners' needs based on ongoing measurement of their expertise and cognitive load."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: In 2022 only one in nine eligible California children—and one in seven eligible Alameda County children—received subsidized childcare
 description: In 2022 only one in nine eligible California children—and one in seven eligible Alameda County children—received subsidized childcare
 id: subsidized-childcare-access-gap-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

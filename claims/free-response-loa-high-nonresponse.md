@@ -3,7 +3,7 @@ type: claim
 title: Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms
 description: Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms
 id: free-response-loa-high-nonresponse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

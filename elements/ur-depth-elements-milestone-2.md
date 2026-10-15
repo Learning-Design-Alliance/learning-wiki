@@ -3,7 +3,7 @@ type: element
 id: ur-depth-elements-milestone-2
 title: "Research depth taxonomy: seven research-process elements with Milestones 1-4, at least one at Milestone 2 for high impact"
 description: "The research depth layer includes each step of the research process as an element with its own Milestones 1-4: literature review, formulating question, research design, data collection, data evaluation/analysis, inter..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

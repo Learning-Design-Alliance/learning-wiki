@@ -3,7 +3,7 @@ type: strategy
 id: anchor-boundaries-in-existing-partnerships-then-expand
 title: Anchor Promise Neighborhood service boundaries in existing partnerships, then expand into low-capacity communities where need is high
 description: "This strategy, as practiced by the LA Promise Neighborhood lead agency, defines a community's service boundaries around existing partnerships the agency can draw on, providing an implementation base for services."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

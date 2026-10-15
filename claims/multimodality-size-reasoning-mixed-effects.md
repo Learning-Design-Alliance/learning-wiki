@@ -3,7 +3,7 @@ type: claim
 title: Multimodal input consistently improves accuracy but not F1, model size correlates moderately with performance, and reasoning models show mixed results
 description: Multimodal input consistently improves accuracy but not F1, model size correlates moderately with performance, and reasoning models show mixed results
 id: multimodality-size-reasoning-mixed-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: LLM assistance shifts instructor effort from manual setup toward pedagogical expression
 description: LLM assistance shifts instructor effort from manual setup toward pedagogical expression
 id: llm-assistance-shifts-effort-toward-pedagogical-expression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

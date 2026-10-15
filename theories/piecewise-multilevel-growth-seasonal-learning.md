@@ -2,7 +2,7 @@
 type: theory
 title: Piecewise multilevel growth modeling of seasonal learning patterns
 description: "The article applies \"a piecewise multilevel growth model to administrative data from a large school district that enrolls a substantial English Learner student population.\" The piecewise structure separates within-sch..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

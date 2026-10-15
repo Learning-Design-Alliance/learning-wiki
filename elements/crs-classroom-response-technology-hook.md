@@ -3,7 +3,7 @@ type: element
 id: crs-classroom-response-technology-hook
 title: Classroom response system (CRS) technology as the hook and tool of the TEFA intervention
 description: "The classroom response system is the technology component of the project's intervention, used to capture teachers' initial interest."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

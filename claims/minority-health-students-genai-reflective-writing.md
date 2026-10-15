@@ -3,7 +3,7 @@ type: claim
 title: Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection
 description: Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection
 id: minority-health-students-genai-reflective-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Optional IBM Quantum hardware execution supplied extra evidence but did not remove substantial AI assistance, as ChatGPT generated the code and could interpret returned noisy data
 description: Optional IBM Quantum hardware execution supplied extra evidence but did not remove substantial AI assistance, as ChatGPT generated the code and could interpret returned noisy data
 id: hardware-execution-did-not-eliminate-llm-assistance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

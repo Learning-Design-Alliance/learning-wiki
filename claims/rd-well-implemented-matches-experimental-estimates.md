@@ -3,7 +3,7 @@ type: claim
 title: When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average
 description: When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average
 id: rd-well-implemented-matches-experimental-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

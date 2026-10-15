@@ -4,7 +4,7 @@ id: educlaw-bench
 title: EduClaw-Bench
 description: EduClaw-Bench is a virtual benchmark environment developed by Lee et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

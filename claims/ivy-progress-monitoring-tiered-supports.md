@@ -3,7 +3,7 @@ type: claim
 title: Ivy Elementary staff jointly monitor progress toward goals in team meetings and organize tiered supports for students
 description: Ivy Elementary staff jointly monitor progress toward goals in team meetings and organize tiered supports for students
 id: ivy-progress-monitoring-tiered-supports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

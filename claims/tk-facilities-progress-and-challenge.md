@@ -3,7 +3,7 @@ type: claim
 title: Most LEAs projected sufficient TK classroom space by 2025–26, though facilities remained a top implementation challenge for about one fourth of LEAs
 description: Most LEAs projected sufficient TK classroom space by 2025–26, though facilities remained a top implementation challenge for about one fourth of LEAs
 id: tk-facilities-progress-and-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

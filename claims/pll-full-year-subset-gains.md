@@ -3,7 +3,7 @@ type: claim
 title: In a full-year subset analysis, 95 PLL students showed significant reading gains relative to comparison on Acadience (+0.19), MAP (+0.30), and the Ohio State Test (+0.54, fifth grade)
 description: In a full-year subset analysis, 95 PLL students showed significant reading gains relative to comparison on Acadience (+0.19), MAP (+0.30), and the Ohio State Test (+0.54, fifth grade)
 id: pll-full-year-subset-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math
 description: About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math
 id: idaho-charter-school-level-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

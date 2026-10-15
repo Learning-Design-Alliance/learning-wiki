@@ -3,7 +3,7 @@ type: claim
 title: "Career Academies show no discernible effects on progressing in school: academy students accrued no more course credits than comparison students by the end of twelfth grade (effect size 0.09, not statistically significant or substantively important)."
 description: "Career Academies show no discernible effects on progressing in school: academy students accrued no more course credits than comparison students by the end of twelfth grade (effect size 0.09, not statistically signific..."
 id: career-academies-no-effect-progressing-in-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

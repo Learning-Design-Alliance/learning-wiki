@@ -3,7 +3,7 @@ type: strategy
 id: ai-researchers-as-k12-educators-call-to-action
 title: AI researchers creating demos, resources, and activities for K-12 learners
 description: The paper closes with a call to action urging AI researchers to become AI educators.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

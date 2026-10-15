@@ -3,7 +3,7 @@ type: design
 id: dance-first-physics-weekly-cycle-dual-record
 title: Weekly dance-first-then-physics cycle with dual experimental and experiential records
 description: "Each one-week section follows a fixed structure: Tuesday reading and quiz-led lecture introducing concepts, Wednesday dance-studio lab with choreographed movement and journal reflection, Thursday data analysis connect..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

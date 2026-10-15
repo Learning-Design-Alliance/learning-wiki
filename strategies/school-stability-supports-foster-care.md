@@ -3,7 +3,7 @@ type: strategy
 id: school-stability-supports-foster-care
 title: Provide school-placement decision-makers with richer school information and strengthen transportation implementation to support school-of-origin stability
 description: "The report's interviewees identified two levers for improving school stability for students in foster care."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

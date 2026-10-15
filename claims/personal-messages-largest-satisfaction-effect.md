@@ -3,7 +3,7 @@ type: claim
 title: Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation
 description: Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction and motivation
 id: personal-messages-largest-satisfaction-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement
 description: Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement
 id: chatbot-engagement-achievement-expectation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

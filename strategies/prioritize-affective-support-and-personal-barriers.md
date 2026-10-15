@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-affective-support-and-personal-barriers
 title: Institutions seeking to support online engagement should prioritize affective engagement support and address personal environmental barriers
 description: "Because support for affective engagement predicted all three engagement dimensions, the authors conclude that \"This finding underlines the importance of support for affective engagement\" and recommend institutions att..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

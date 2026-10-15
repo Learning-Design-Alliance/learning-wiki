@@ -3,7 +3,7 @@ type: claim
 title: Agreement between screening assessments on which students are at risk varies from 47 to 85 percent depending on assessment combination
 description: Agreement between screening assessments on which students are at risk varies from 47 to 85 percent depending on assessment combination
 id: massachusetts-screener-agreement-rates-vary-47-85
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

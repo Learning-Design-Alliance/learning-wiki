@@ -3,7 +3,7 @@ type: claim
 title: "School leaders' FFL scores are moderately stable year to year (correlation of .54)"
 description: "School leaders' FFL scores are moderately stable year to year (correlation of .54)"
 id: ffl-moderate-year-to-year-stability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

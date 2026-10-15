@@ -3,7 +3,7 @@ type: claim
 title: "Comprehension domain: one study found a substantively important positive effect and one an indeterminate effect"
 description: "Comprehension domain: one study found a substantively important positive effect and one an indeterminate effect"
 id: achieve3000-comprehension-mixed-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

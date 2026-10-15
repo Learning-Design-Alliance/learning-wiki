@@ -3,7 +3,7 @@ type: claim
 title: Existing health equity frameworks often lack implementation guidance and treat equity as distributive rather than addressing how inequity is produced
 description: Existing health equity frameworks often lack implementation guidance and treat equity as distributive rather than addressing how inequity is produced
 id: equity-frameworks-lack-implementation-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

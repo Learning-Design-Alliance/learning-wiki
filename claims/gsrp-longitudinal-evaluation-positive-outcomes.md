@@ -3,7 +3,7 @@ type: claim
 title: "Michigan's GSRP participants showed better kindergarten readiness, fewer grade repetitions, better reading and math proficiency, and better on-time graduation rates than non-participants, per a HighScope longitudinal evaluation"
 description: "Michigan's GSRP participants showed better kindergarten readiness, fewer grade repetitions, better reading and math proficiency, and better on-time graduation rates than non-participants, per a HighScope longitudinal..."
 id: gsrp-longitudinal-evaluation-positive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

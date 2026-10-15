@@ -3,7 +3,7 @@ type: claim
 title: "Publication bias in the meta-analysis is trivial by both Rosenthal's and Orwin's fail-safe N tests"
 description: "Publication bias in the meta-analysis is trivial by both Rosenthal's and Orwin's fail-safe N tests"
 id: publication-bias-trivial-failsafe-n
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

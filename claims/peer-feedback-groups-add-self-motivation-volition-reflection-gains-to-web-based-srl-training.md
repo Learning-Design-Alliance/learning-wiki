@@ -3,7 +3,7 @@ type: claim
 title: With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen in Group TD; goal-setting and elaboration gains stayed non-significant
 description: With peer feedback groups added to web-based SRL training (Group TDP), students showed statistically significant gains in self-motivation, volition and reflection, beyond the planning and metacognition gains also seen...
 id: peer-feedback-groups-add-self-motivation-volition-reflection-gains-to-web-based-srl-training
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

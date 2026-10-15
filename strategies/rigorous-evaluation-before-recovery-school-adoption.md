@@ -3,7 +3,7 @@ type: strategy
 id: rigorous-evaluation-before-recovery-school-adoption
 title: Require rigorous evaluation studies of recovery schools before widespread implementation
 description: "The review's authors recommend caution in adopting recovery schools broadly and call for further research."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

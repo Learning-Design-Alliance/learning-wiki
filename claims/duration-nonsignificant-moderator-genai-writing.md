@@ -3,7 +3,7 @@ type: claim
 title: Intervention duration does not significantly predict GenAI writing effect sizes, which the authors attribute to limited temporal diversity in the evidence base
 description: Intervention duration does not significantly predict GenAI writing effect sizes, which the authors attribute to limited temporal diversity in the evidence base
 id: duration-nonsignificant-moderator-genai-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

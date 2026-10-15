@@ -2,7 +2,7 @@
 type: theory
 title: "Three-mechanism conceptual framework for how double-dose algebra affects outcomes: expanded time, changed instruction, and unintended tracking"
 description: The article proposes that the policy could affect outcomes through two intentional mechanisms — expanded instructional time and changes in instructional content and pedagogy from new curricular resources and professio...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

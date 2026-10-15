@@ -3,7 +3,7 @@ type: strategy
 id: pair-personalized-messages-with-attention-efforts
 title: Pair personalized messages with an effort to call attention to them
 description: "The brief's key findings caution that personalized messages \"might only work when combined with an effort to call attention to the messages.\" This recommends that practitioners implementing message-based nudges delibe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: ideation-discussion-design-thinking-course
 title: Ideation discussion activities in Design Thinking course
 description: An instructional component patterned from the Singapore Polytechnic Design Thinking toolkit in which EFL learners brainstorm ideas on post-it paper (with sketching allowed), select 3-5 ideas using a 2×2 matrix and wei...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

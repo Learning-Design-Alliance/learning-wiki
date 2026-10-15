@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 1, the feedback group showed significantly lower absolute (unsigned) metacognitive bias than the no-feedback group at both pre-task and post-task
 description: In Experiment 1, the feedback group showed significantly lower absolute (unsigned) metacognitive bias than the no-feedback group at both pre-task and post-task
 id: feedback-reduces-absolute-metacognitive-bias-exp1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: cgscholar-ai-helper
 title: CGScholar AI Helper
 description: CGScholar AI Helper is a cloud-based web application made by CGScholar that provides rubric-guided, teacher-steerable AI feedback to support student writing and revision.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

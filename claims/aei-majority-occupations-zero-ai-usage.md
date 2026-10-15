@@ -3,7 +3,7 @@ type: claim
 title: Most of the 756 occupations tracked by the Anthropic Economic Index show zero observed AI usage, concentrated in hands-on physical occupations
 description: Most of the 756 occupations tracked by the Anthropic Economic Index show zero observed AI usage, concentrated in hands-on physical occupations
 id: aei-majority-occupations-zero-ai-usage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

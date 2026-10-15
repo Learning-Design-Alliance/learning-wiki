@@ -3,7 +3,7 @@ type: claim
 title: Validating decision rules for detecting disengaged survey responses is problematic because surveys have no correct answers
 description: Validating decision rules for detecting disengaged survey responses is problematic because surveys have no correct answers
 id: survey-disengagement-detection-validation-problem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The six key principles of a trauma-informed approach span safety, trustworthiness, peer support, collaboration, empowerment, and cultural issues
 description: The six key principles of a trauma-informed approach span safety, trustworthiness, peer support, collaboration, empowerment, and cultural issues
 id: six-key-principles-trauma-informed-approach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

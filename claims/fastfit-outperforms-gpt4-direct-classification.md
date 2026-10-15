@@ -3,7 +3,7 @@ type: claim
 title: The FastFit classifier slightly outperforms GPT-4 used directly under the same closed-label prompt on the same gold set (0.800 vs. 0.786 accuracy)
 description: The FastFit classifier slightly outperforms GPT-4 used directly under the same closed-label prompt on the same gold set (0.800 vs.
 id: fastfit-outperforms-gpt4-direct-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

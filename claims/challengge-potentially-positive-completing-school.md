@@ -3,7 +3,7 @@ type: claim
 title: "The National Guard Youth ChalleNGe Program has potentially positive effects on completing school for at-risk youth, with 61% of the program group reporting a diploma or GED versus 36% of controls 21 months after random assignment"
 description: "The National Guard Youth ChalleNGe Program has potentially positive effects on completing school for at-risk youth, with 61% of the program group reporting a diploma or GED versus 36% of controls 21 months after rando..."
 id: challengge-potentially-positive-completing-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

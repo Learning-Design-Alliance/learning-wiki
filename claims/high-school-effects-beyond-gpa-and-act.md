@@ -3,7 +3,7 @@ type: claim
 title: Both HSGPA and ACT scores leave large high school effects on college graduation unexplained, which the study recommends measuring and publishing directly
 description: Both HSGPA and ACT scores leave large high school effects on college graduation unexplained, which the study recommends measuring and publishing directly
 id: high-school-effects-beyond-gpa-and-act
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

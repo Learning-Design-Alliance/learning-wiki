@@ -3,7 +3,7 @@ type: claim
 title: "Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule"
 description: "Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule"
 id: exposures-moderate-expanding-schedule-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

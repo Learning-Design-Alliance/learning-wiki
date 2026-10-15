@@ -3,7 +3,7 @@ type: claim
 title: Individuals show a systematic positive reminder bias, setting more reminders than optimal
 description: Individuals show a systematic positive reminder bias, setting more reminders than optimal
 id: positive-reminder-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

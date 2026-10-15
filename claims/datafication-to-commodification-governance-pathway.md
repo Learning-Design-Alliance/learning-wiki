@@ -3,7 +3,7 @@ type: claim
 title: A datafication-to-commodification governance pathway can shift education from a value-based practice toward a commodified service
 description: A datafication-to-commodification governance pathway can shift education from a value-based practice toward a commodified service
 id: datafication-to-commodification-governance-pathway
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

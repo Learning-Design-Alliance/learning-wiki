@@ -3,7 +3,7 @@ type: claim
 title: Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains
 description: Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains
 id: faculty-high-traditional-low-technology-integrated-genai-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

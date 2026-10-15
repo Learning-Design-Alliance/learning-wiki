@@ -3,7 +3,7 @@ type: claim
 title: In a Los Angeles RCT, Earobics® plus Open Court improved phonological awareness but not letter knowledge, phonics, or fluency
 description: In a Los Angeles RCT, Earobics® plus Open Court improved phonological awareness but not letter knowledge, phonics, or fluency
 id: earobics-cognitive-concepts-2003-phonological-awareness-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Excluding two participants in acute crisis reduced the negative effect estimates to very small or small
 description: Excluding two participants in acute crisis reduced the negative effect estimates to very small or small
 id: story-mine-sensitivity-crisis-exclusion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

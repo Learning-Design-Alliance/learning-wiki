@@ -3,7 +3,7 @@ type: claim
 title: AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization
 description: AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization
 id: ai-implemented-as-intervention-adaptive-systems-personalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

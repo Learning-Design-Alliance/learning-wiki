@@ -3,7 +3,7 @@ type: claim
 title: Rising survey cooperation among homeschooling families may mean pre-2012 NHES estimates undercounted homeschoolers and overstated the growth rate
 description: Rising survey cooperation among homeschooling families may mean pre-2012 NHES estimates undercounted homeschoolers and overstated the growth rate
 id: nhes-response-bias-may-overstate-homeschooling-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

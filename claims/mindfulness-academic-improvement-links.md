@@ -3,7 +3,7 @@ type: claim
 title: Mindfulness practices are linked to academic improvements including reduced test anxiety, focus, and reading competence
 description: Mindfulness practices are linked to academic improvements including reduced test anxiety, focus, and reading competence
 id: mindfulness-academic-improvement-links
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

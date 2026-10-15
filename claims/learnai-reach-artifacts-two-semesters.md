@@ -3,7 +3,7 @@ type: claim
 title: Over two semesters the LearnAI deployment reached 18 courses (293 enrolled students) and 35 co-creation clients who produced 36 portfolio websites and over 20 deployed applications
 description: Over two semesters the LearnAI deployment reached 18 courses (293 enrolled students) and 35 co-creation clients who produced 36 portfolio websites and over 20 deployed applications
 id: learnai-reach-artifacts-two-semesters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

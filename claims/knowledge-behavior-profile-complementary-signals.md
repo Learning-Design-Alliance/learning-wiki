@@ -3,7 +3,7 @@ type: claim
 title: "Knowledge and behavior profile components provide complementary signals: removing either hurts metrics tied to the other"
 description: "Knowledge and behavior profile components provide complementary signals: removing either hurts metrics tied to the other"
 id: knowledge-behavior-profile-complementary-signals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

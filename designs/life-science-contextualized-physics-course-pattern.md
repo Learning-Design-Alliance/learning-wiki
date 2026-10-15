@@ -3,7 +3,7 @@ type: design
 id: life-science-contextualized-physics-course-pattern
 title: Life-science-contextualized redesign of an introductory physics course
 description: A course-level design pattern in which lecture questions, homework, hands-on sessions, and free-response exams are all rebuilt around life science contexts so students apply physical intuition to life-science-oriented...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

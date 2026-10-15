@@ -3,7 +3,7 @@ type: claim
 title: The L2C coach adaptively modulates assistance by estimated learner skill and physical context, concentrating intervention around gates
 description: The L2C coach adaptively modulates assistance by estimated learner skill and physical context, concentrating intervention around gates
 id: l2c-adaptive-assistance-by-skill-and-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

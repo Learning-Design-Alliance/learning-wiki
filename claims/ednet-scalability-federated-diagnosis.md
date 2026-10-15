@@ -3,7 +3,7 @@ type: claim
 title: "The framework scales gracefully: MAE degrades by less than 2% from 10K to 100K EdNet interactions with near-linear processing time"
 description: "The framework scales gracefully: MAE degrades by less than 2% from 10K to 100K EdNet interactions with near-linear processing time"
 id: ednet-scalability-federated-diagnosis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

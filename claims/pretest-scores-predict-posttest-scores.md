@@ -3,7 +3,7 @@ type: claim
 title: Pretest scores significantly predict posttest scores across CF types and outcome measures
 description: Pretest scores significantly predict posttest scores across CF types and outcome measures
 id: pretest-scores-predict-posttest-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

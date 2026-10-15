@@ -3,7 +3,7 @@ type: claim
 title: Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services
 description: Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services
 id: way2work-services-substitutes-for-existing-services
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

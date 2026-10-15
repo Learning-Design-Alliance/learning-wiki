@@ -3,7 +3,7 @@ type: design
 id: hp-learning-studio-anaheim-high-school
 title: HP Learning Studio at Anaheim High School
 description: "The HP Learning Studio is a school-community technology space launched in Winter 2024 at Anaheim High School, featuring \"high-end HP workstations running Windows 11 and powered by the latest Intel processors, scholast..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

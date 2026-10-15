@@ -3,7 +3,7 @@ type: strategy
 id: continuous-assessment-edtech-feature-implementation
 title: Continuously assess and re-evaluate feature implementation through user-centered research, including default-setting experiments
 description: "The report's third key takeaway is continuous assessment of feature implementation: examining feature use and engagement at the student level is a first step in demonstrating how teachers and students may incorporate..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

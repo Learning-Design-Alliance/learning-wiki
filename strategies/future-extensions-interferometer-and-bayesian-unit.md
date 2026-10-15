@@ -3,7 +3,7 @@ type: strategy
 id: future-extensions-interferometer-and-bayesian-unit
 title: Extend the curriculum with student-built interferometer projects and a Bayesian parameter-estimation unit
 description: "The authors' forward-looking recommendations for the integrated curriculum."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

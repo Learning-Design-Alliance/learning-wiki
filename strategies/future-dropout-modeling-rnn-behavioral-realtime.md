@@ -3,7 +3,7 @@ type: strategy
 id: future-dropout-modeling-rnn-behavioral-realtime
 title: Extend dropout prediction with deep learning, behavioral data, and real-time monitoring
 description: "The authors' future-research agenda specifies four extensions: recurrent neural networks to extract temporal patterns in student behavior; incorporation of behavioral data such as class participation and extracurricul..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

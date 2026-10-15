@@ -3,7 +3,7 @@ type: claim
 title: After two years of SRI, the intervention effect on strategy knowledge had further increased, and positive effects emerged on reading comprehension
 description: After two years of SRI, the intervention effect on strategy knowledge had further increased, and positive effects emerged on reading comprehension
 id: sri-two-year-effects-strategy-knowledge-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

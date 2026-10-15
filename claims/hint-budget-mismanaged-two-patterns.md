@@ -3,7 +3,7 @@ type: claim
 title: "The Coach's hint budget was managed poorly: students split into early-spenders and savers, and within the Coach condition only those with a deliberate hint strategy scored higher"
 description: "The Coach's hint budget was managed poorly: students split into early-spenders and savers, and within the Coach condition only those with a deliberate hint strategy scored higher"
 id: hint-budget-mismanaged-two-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

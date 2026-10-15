@@ -3,7 +3,7 @@ type: strategy
 id: plc-supportive-staffing-and-policy-actions
 title: Policy actions to build collaborative professional capacity through PLCs
 description: "The report recommends policy changes so that schools support teacher teamwork rather than only individual teacher effort: staffing policies that provide \"structured, stable time and space for teacher teamwork\", embedd..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

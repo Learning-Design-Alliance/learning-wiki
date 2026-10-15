@@ -3,7 +3,7 @@ type: claim
 title: "Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers"
 description: "Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers"
 id: three-archetypes-multi-agent-workflow-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

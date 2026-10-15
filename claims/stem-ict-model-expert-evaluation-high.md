@@ -3,7 +3,7 @@ type: claim
 title: Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level
 description: Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level
 id: stem-ict-model-expert-evaluation-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Newell's complex systems theory of interdisciplinarity fails to explain integration, as its critics and Newell himself acknowledge"
 description: "Newell's complex systems theory of interdisciplinarity fails to explain integration, as its critics and Newell himself acknowledge"
 id: newell-complex-systems-theory-integration-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

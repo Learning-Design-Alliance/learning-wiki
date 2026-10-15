@@ -3,7 +3,7 @@ type: strategy
 id: scaffold-self-evaluation-against-rubrics-and-checklists
 title: Scaffold self-evaluation against rubrics, forms, and checklists
 description: The reflect step leans on self-evaluation protocols so students internalize feedback.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

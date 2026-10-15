@@ -3,7 +3,7 @@ type: claim
 title: Agent realism, particularly behavioral realism, should be a crucial predictor of social presence in immersive agent-centered learning environments
 description: Agent realism, particularly behavioral realism, should be a crucial predictor of social presence in immersive agent-centered learning environments
 id: agent-realism-predicts-social-presence-xr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

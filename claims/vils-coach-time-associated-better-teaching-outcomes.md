@@ -3,7 +3,7 @@ type: claim
 title: More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency
 description: More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency
 id: vils-coach-time-associated-better-teaching-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

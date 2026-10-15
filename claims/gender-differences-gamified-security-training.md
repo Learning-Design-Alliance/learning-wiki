@@ -3,7 +3,7 @@ type: claim
 title: Gamified security training showed stronger confidence and format-preference effects among female students than male students
 description: Gamified security training showed stronger confidence and format-preference effects among female students than male students
 id: gender-differences-gamified-security-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

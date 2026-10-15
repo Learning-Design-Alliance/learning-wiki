@@ -3,7 +3,7 @@ type: claim
 title: AI-supported project-based learning at YCHS produced authentic student-designed products through iterative prompting and refinement
 description: AI-supported project-based learning at YCHS produced authentic student-designed products through iterative prompting and refinement
 id: ai-supported-pbl-authentic-student-products
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

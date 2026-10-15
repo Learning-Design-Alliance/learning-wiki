@@ -3,7 +3,7 @@ type: design
 id: context-prompts-gen-ai-physics
 title: "Context prompts: instructor-designed prompts defining role, task, and boundaries of a Gen AI interaction"
 description: "The article's central framework is the context prompt: instructor-designed prompts that establish guidelines for generative AI to follow during student interactions."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

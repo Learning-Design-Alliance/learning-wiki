@@ -3,7 +3,7 @@ type: claim
 title: Former students who dropped out want colleges to proactively invite them to return and explain how to return
 description: Former students who dropped out want colleges to proactively invite them to return and explain how to return
 id: noncompleters-want-proactive-return-outreach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "The GSTG supported over 28,600 aspiring educators in its first 5 years, reaching 45% of California's new teacher candidates in 2023–24"
 description: "The GSTG supported over 28,600 aspiring educators in its first 5 years, reaching 45% of California's new teacher candidates in 2023–24"
 id: gstg-supported-28600-aspiring-educators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety
 description: Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety
 id: employability-partially-mediates-ai-threat-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

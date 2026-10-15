@@ -3,7 +3,7 @@ type: strategy
 id: pedagogy-benchmark-guided-model-selection-strategy
 title: Use pedagogical knowledge benchmarks to guide model selection and fine-tuning for educational AI, with ethical guardrails and human-in-the-loop deployment
 description: "The authors recommend that EdTech product developers use their leaderboards as \"a practical guide for model selection, enabling them to make informed decisions that balance pedagogical performance with the inference c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

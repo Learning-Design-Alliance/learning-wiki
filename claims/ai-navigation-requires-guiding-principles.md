@@ -3,7 +3,7 @@ type: claim
 title: The article argues that navigating AI in students as partners practice requires guiding principles to preserve pedagogical trust
 description: The article argues that navigating AI in students as partners practice requires guiding principles to preserve pedagogical trust
 id: ai-navigation-requires-guiding-principles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

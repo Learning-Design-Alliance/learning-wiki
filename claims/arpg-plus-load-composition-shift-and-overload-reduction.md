@@ -3,7 +3,7 @@ type: claim
 title: ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation
 description: ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation
 id: arpg-plus-load-composition-shift-and-overload-reduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

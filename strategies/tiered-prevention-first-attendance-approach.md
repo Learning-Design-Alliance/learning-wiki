@@ -3,7 +3,7 @@ type: strategy
 id: tiered-prevention-first-attendance-approach
 title: Implement a tiered, prevention-first approach to reducing chronic absence that invests in positive conditions for learning
 description: "The brief recommends that to reduce chronic absenteeism among AI/AN students, schools \"put in place a tiered approach that begins with prevention.\" This starts with ensuring positive conditions for learning: students..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

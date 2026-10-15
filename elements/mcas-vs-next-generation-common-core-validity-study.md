@@ -3,7 +3,7 @@ type: element
 id: mcas-vs-next-generation-common-core-validity-study
 title: Comparative validity study of MCAS versus a next-generation Common Core college-readiness test in Massachusetts
 description: "An evidence publication comparing the validity of two standardized tests for assessing college readiness in Massachusetts: the long-standing Massachusetts Comprehensive Assessment System (MCAS) and a next-generation t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

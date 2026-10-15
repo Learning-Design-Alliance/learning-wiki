@@ -3,7 +3,7 @@ type: design
 id: ai-exploration-assignment-patterns-of-nature
 title: AI-supported exploration assignment in an asynchronous introductory physics course
 description: The article describes an implemented assignment in which students in an asynchronous introductory physics course, Patterns of Nature, with approximately 70 students, selected one or two subtopics, began an AI conversa...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

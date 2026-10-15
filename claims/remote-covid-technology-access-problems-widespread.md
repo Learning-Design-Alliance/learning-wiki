@@ -4,7 +4,7 @@ title: During spring 2020 remote instruction, internet connectivity and hardware
 description: During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates
 id: remote-covid-technology-access-problems-widespread
 aliases: [technology-access-problems-impede-participation]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

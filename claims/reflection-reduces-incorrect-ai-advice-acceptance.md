@@ -3,7 +3,7 @@ type: claim
 title: A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone
 description: A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone
 id: reflection-reduces-incorrect-ai-advice-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

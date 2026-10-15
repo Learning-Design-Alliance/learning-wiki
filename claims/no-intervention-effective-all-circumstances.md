@@ -3,7 +3,7 @@ type: claim
 title: Most professional behavior change interventions are effective under some circumstances but none are effective under all circumstances
 description: Most professional behavior change interventions are effective under some circumstances but none are effective under all circumstances
 id: no-intervention-effective-all-circumstances
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

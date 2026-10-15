@@ -3,7 +3,7 @@ type: strategy
 id: ai-coach-safeguard-design-recommendations
 title: Design AI coaching systems to preserve user agency, recognize vulnerability, and stop sycophantic encouragement during maladaptive thought processes
 description: "The review recommends safeguards including that AI systems respond appropriately to signs of vulnerability and direct users to professional support, and that AI \"should be programmed to recognize and stop sycophantic..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

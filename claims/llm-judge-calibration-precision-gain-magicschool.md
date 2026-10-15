@@ -3,7 +3,7 @@ type: claim
 title: "Calibrating a production LLM-as-judge suite raised per-flag precision from 0.6% to 48.9% while cutting confirmed false positives by 99%"
 description: "Calibrating a production LLM-as-judge suite raised per-flag precision from 0.6% to 48.9% while cutting confirmed false positives by 99%"
 id: llm-judge-calibration-precision-gain-magicschool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

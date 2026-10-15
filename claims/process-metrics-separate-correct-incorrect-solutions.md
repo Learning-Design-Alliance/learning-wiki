@@ -3,7 +3,7 @@ type: claim
 title: Correct final answers are associated with stronger performance on all four process-level metrics, with reasoning-process correctness showing the clearest separation
 description: Correct final answers are associated with stronger performance on all four process-level metrics, with reasoning-process correctness showing the clearest separation
 id: process-metrics-separate-correct-incorrect-solutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

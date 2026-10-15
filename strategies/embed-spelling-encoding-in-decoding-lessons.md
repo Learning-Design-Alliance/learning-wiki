@@ -3,7 +3,7 @@ type: strategy
 id: embed-spelling-encoding-in-decoding-lessons
 title: Embed spelling (encoding) practice of taught words in decoding lessons
 description: During word-reading intervention, have students spell the monosyllabic and multisyllabic words they are learning to read.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

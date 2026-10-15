@@ -3,7 +3,7 @@ type: claim
 title: AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two
 description: AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two
 id: genai-raises-unaided-essay-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

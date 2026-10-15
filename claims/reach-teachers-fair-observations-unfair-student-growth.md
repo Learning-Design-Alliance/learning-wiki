@@ -3,7 +3,7 @@ type: claim
 title: Teachers view classroom observations as a fair way to evaluate their performance but largely reject student growth measures as unfair
 description: Teachers view classroom observations as a fair way to evaluate their performance but largely reject student growth measures as unfair
 id: reach-teachers-fair-observations-unfair-student-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

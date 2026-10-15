@@ -3,7 +3,7 @@ type: claim
 title: The integrated model explains substantial variance in student engagement (R² = 0.700) in GenAI-supported learning
 description: The integrated model explains substantial variance in student engagement (R² = 0.700) in GenAI-supported learning
 id: integrated-model-explains-engagement-variance-r2-700
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

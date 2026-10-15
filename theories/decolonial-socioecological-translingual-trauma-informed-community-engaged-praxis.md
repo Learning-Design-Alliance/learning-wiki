@@ -2,7 +2,7 @@
 type: theory
 title: Integration of decolonial, socioecological, translingual, trauma-informed, and community-engaged praxis across the handbook
 description: "The handbook's organizing approach integrates multiple critical traditions into educational psychology scholarship."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

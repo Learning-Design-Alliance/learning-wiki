@@ -3,7 +3,7 @@ type: claim
 title: A two-million-student MAP Growth sample was used to test whether gender gaps widened among low- and high-achieving students
 description: A two-million-student MAP Growth sample was used to test whether gender gaps widened among low- and high-achieving students
 id: two-million-student-map-growth-gender-gaps-achievement-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

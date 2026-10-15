@@ -3,7 +3,7 @@ type: claim
 title: Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent
 description: Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent
 id: reflection-themes-copilot-comment-workflow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

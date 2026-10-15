@@ -3,7 +3,7 @@ type: claim
 title: The proportion of CPS graduates enrolling immediately in college rose gradually to 63 percent by 2018, with persistent disparities by race/ethnicity and gender
 description: The proportion of CPS graduates enrolling immediately in college rose gradually to 63 percent by 2018, with persistent disparities by race/ethnicity and gender
 id: cps-immediate-college-enrollment-rose-to-63-percent-2018
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

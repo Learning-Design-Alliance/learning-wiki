@@ -3,7 +3,7 @@ type: claim
 title: "Reach — which lever settings remain in force when the student is alone with AI — is the framework's organizing question"
 description: "Reach — which lever settings remain in force when the student is alone with AI — is the framework's organizing question"
 id: reach-organizing-question-unsupervised-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

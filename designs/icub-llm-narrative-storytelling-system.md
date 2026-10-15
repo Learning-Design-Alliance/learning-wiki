@@ -3,7 +3,7 @@ type: design
 id: icub-llm-narrative-storytelling-system
 title: iCub LLM-powered narrative HRI system architecture
 description: A companion-like social robotic platform in which the iCub humanoid and a human partner co-create a story in turn from pictures on nine soft cubes, each story built on a sequence of three cubes.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

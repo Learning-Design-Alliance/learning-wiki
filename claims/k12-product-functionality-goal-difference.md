@@ -3,7 +3,7 @@ type: claim
 title: K-12 educators value product-improvement research more, and individual-adaptation research less, than higher education educators
 description: K-12 educators value product-improvement research more, and individual-adaptation research less, than higher education educators
 id: k12-product-functionality-goal-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: nature-of-science-scale-noss
 title: Nature of Science Scale (NOSS)
 description: The Nature of Science Scale (NOSS), developed by Özgelen (2013), is a 30-item instrument for measuring views of the nature of science among learners and teachers.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

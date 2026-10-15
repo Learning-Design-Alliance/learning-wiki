@@ -3,7 +3,7 @@ type: claim
 title: In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction
 description: In a Chicago middle-grades study, the combination of grades and attendance provided the best prediction of high school on-track rates, and adding test scores and grit measures did not further improve prediction
 id: middle-grades-grades-attendance-best-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

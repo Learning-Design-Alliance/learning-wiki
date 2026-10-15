@@ -3,7 +3,7 @@ type: claim
 title: Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias
 description: Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias
 id: chatgpt-steam-ibl-educator-institutional-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

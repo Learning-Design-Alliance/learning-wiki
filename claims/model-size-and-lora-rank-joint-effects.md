@@ -3,7 +3,7 @@ type: claim
 title: "Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1"
 description: "Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1"
 id: model-size-and-lora-rank-joint-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

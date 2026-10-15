@@ -3,7 +3,7 @@ type: claim
 title: Good Behavior Game improves student behavior, with a pooled effect size of 0.91 across 10 studies meeting WWC standards
 description: Good Behavior Game improves student behavior, with a pooled effect size of 0.91 across 10 studies meeting WWC standards
 id: gbg-improves-student-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

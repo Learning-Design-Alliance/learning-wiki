@@ -3,7 +3,7 @@ type: claim
 title: In Guglielmo and Tryon (2001), social skills training plus reinforcement increased sharing behaviors significantly more than reinforcement alone, while effects on being in a group were positive but not significant
 description: In Guglielmo and Tryon (2001), social skills training plus reinforcement increased sharing behaviors significantly more than reinforcement alone, while effects on being in a group were positive but not significant
 id: taking-part-training-increases-sharing-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

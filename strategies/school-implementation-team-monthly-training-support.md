@@ -3,7 +3,7 @@ type: strategy
 id: school-implementation-team-monthly-training-support
 title: Establish a monthly school implementation team with two days of pre-launch training and ongoing technical support
 description: "The program's implementation model requires each school to designate a team of at least three members — an administrator, an interventionist, and a teacher — who meet monthly."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

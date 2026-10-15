@@ -3,7 +3,7 @@ type: element
 id: national-evaluation-of-charter-middle-schools
 title: National Evaluation of Charter Middle Schools
 description: "A federal evaluation, conducted under the associated project Charter Schools: Are They Effective?"
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

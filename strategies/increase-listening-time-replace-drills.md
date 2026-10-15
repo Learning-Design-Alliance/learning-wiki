@@ -3,7 +3,7 @@ type: strategy
 id: increase-listening-time-replace-drills
 title: Increase listening instruction time and replace audio-lingual pattern drills with listening comprehension materials
 description: "The paper recommends that \"EFL textbooks should be revised to teach listening a great deal more in EFL education\" and that teaching materials allow more time for actual listening activities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

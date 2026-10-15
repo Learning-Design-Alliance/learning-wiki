@@ -3,7 +3,7 @@ type: strategy
 id: recommendations-sustaining-high-quality-coaching
 title: Recommendations for adopting and sustaining high-quality coaching
 description: Based on survey findings, the report recommends that principals and district administrators monitor coach workload and protect coach time; that coaches spend at least 30 minutes with teachers at biweekly intervals; th...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

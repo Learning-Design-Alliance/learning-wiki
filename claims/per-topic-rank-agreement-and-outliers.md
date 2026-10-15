@@ -3,7 +3,7 @@ type: claim
 title: Per-topic rank agreement between assistant volume and survey difficulty is strong for 14 of 28 topics, with 5 outliers splitting into late-semester meta-level and concept-introduction topics
 description: Per-topic rank agreement between assistant volume and survey difficulty is strong for 14 of 28 topics, with 5 outliers splitting into late-semester meta-level and concept-introduction topics
 id: per-topic-rank-agreement-and-outliers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

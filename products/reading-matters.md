@@ -4,7 +4,7 @@ id: reading-matters
 title: Reading Matters
 description: Reading Matters is a structured literacy curriculum for first-year ECED students, delivered through authentic expository texts as a supplement to regular English instruction and supported by professional development.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

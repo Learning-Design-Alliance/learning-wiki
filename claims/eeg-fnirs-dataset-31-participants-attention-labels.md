@@ -3,7 +3,7 @@ type: claim
 title: A multimodal EEG-fNIRS dataset was collected from 31 participants watching three instructional videos, yielding over 4.5 million data points with expert-verified attention labels
 description: A multimodal EEG-fNIRS dataset was collected from 31 participants watching three instructional videos, yielding over 4.5 million data points with expert-verified attention labels
 id: eeg-fnirs-dataset-31-participants-attention-labels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

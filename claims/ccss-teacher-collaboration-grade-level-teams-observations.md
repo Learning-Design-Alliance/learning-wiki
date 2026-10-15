@@ -3,7 +3,7 @@ type: claim
 title: "Around half of teachers reported meeting in grade-level teams at least weekly and observing colleagues' classrooms at least quarterly to implement the CCSS"
 description: "Around half of teachers reported meeting in grade-level teams at least weekly and observing colleagues' classrooms at least quarterly to implement the CCSS"
 id: ccss-teacher-collaboration-grade-level-teams-observations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

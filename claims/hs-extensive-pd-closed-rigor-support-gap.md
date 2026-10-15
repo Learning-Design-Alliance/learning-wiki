@@ -3,7 +3,7 @@ type: claim
 title: In high schools, extensive-PD schools started with significantly lower rigor and teacher support but closed the gap by early implementation, while academic demand and clarity improved at rates comparable to limited-PD schools
 description: In high schools, extensive-PD schools started with significantly lower rigor and teacher support but closed the gap by early implementation, while academic demand and clarity improved at rates comparable to limited-PD...
 id: hs-extensive-pd-closed-rigor-support-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

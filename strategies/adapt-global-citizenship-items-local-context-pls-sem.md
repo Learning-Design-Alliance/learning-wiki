@@ -3,7 +3,7 @@ type: strategy
 id: adapt-global-citizenship-items-local-context-pls-sem
 title: Adapt global citizenship scale items to the local context and validate component models separately with PLS-SEM
 description: The article recommends that institutions in developing countries measuring student global citizenship perspectives should pilot and adapt existing validated scales rather than keep original items wholesale, and valida...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for summer bridge programs on postsecondary outcomes is small: only one of 31 eligible studies met WWC group design standards"
 description: "The evidence base for summer bridge programs on postsecondary outcomes is small: only one of 31 eligible studies met WWC group design standards"
 id: summer-bridge-evidence-base-small-one-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

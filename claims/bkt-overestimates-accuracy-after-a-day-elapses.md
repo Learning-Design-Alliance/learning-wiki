@@ -3,7 +3,7 @@ type: claim
 title: "The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of students' answers when a day or more has elapsed since their previous responses."
 description: "The survey reports, citing Qiu et al., that BKT consistently overestimates the accuracy of students' answers when a day or more has elapsed since their previous responses."
 id: bkt-overestimates-accuracy-after-a-day-elapses
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

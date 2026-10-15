@@ -3,7 +3,7 @@ type: claim
 title: "Studying a word list in two different rooms yields about 40% more recall than studying it twice in the same room when tested in a new room"
 description: "Studying a word list in two different rooms yields about 40% more recall than studying it twice in the same room when tested in a new room"
 id: environmental-context-variability-improves-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

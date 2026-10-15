@@ -3,7 +3,7 @@ type: strategy
 id: assistments-pd-plus-coaching-rollout
 title: Pair ed-tech homework tool adoption with multi-day professional development and coaching visits
 description: "In its evaluations, ASSISTments implementation included \"professional development and coaching designed to increase teachers' readiness and efficacy in using ASSISTments.\" The specified model is 5 days of professional..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: match-screener-benchmark-choice-to-goals-resources
 title: Schools and districts should choose screener benchmarks that match their goals and resources for defining and serving at-risk students
 description: The brief recommends that schools and districts deliberately align benchmark selection with their local definition of risk.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

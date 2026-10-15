@@ -3,7 +3,7 @@ type: claim
 title: Respondent feedback prompted a revised ten-level LoA scale splitting non-use and adding a replacement level, plus a more cyclic adoption model
 description: Respondent feedback prompted a revised ten-level LoA scale splitting non-use and adding a replacement level, plus a more cyclic adoption model
 id: loa-revised-ten-level-scale-from-respondent-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

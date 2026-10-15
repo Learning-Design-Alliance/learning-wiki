@@ -3,7 +3,7 @@ type: claim
 title: In the ethnography the article analyzes, black girls bussed to an affluent suburban school were unpopular and socially excluded for being seen as loud and ghetto, while black boys were classified as incapable of academic achievement
 description: In the ethnography the article analyzes, black girls bussed to an affluent suburban school were unpopular and socially excluded for being seen as loud and ghetto, while black boys were classified as incapable of acade...
 id: gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

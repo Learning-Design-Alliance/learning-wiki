@@ -3,7 +3,7 @@ type: claim
 title: Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products
 description: Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products
 id: districts-rely-peer-recommendations-pilots-over-rigorous-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

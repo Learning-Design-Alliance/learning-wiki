@@ -3,7 +3,7 @@ type: claim
 title: Cross-model agreement on assertions is moderate (median 0.401) and higher among construct-derived than corpus-derived assertions
 description: Cross-model agreement on assertions is moderate (median 0.401) and higher among construct-derived than corpus-derived assertions
 id: assertion-cross-model-agreement-moderate-median-0401
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average"
 description: "Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average"
 id: active-learning-reduces-exam-achievement-gaps-33-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

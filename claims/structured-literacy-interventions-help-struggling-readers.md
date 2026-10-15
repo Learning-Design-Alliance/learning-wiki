@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

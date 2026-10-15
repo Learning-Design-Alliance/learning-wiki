@@ -3,7 +3,7 @@ type: claim
 title: ADHD medication status shows no significant interaction with segmentation, though medicated participants made fewer hesitations
 description: ADHD medication status shows no significant interaction with segmentation, though medicated participants made fewer hesitations
 id: medication-status-segmentation-interaction-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

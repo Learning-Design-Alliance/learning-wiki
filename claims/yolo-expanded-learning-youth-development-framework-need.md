@@ -3,7 +3,7 @@ type: claim
 title: Yolo County children and youth need expanded learning, engagement, and leadership development opportunities, including integration of a youth development framework into all youth-serving organizations
 description: Yolo County children and youth need expanded learning, engagement, and leadership development opportunities, including integration of a youth development framework into all youth-serving organizations
 id: yolo-expanded-learning-youth-development-framework-need
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

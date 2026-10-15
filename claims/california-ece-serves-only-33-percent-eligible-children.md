@@ -3,7 +3,7 @@ type: claim
 title: "Publicly funded ECE programs in California served only 33% of eligible children under age 5 in 2015–16, leaving nearly 650,000 eligible children without access"
 description: "Publicly funded ECE programs in California served only 33% of eligible children under age 5 in 2015–16, leaving nearly 650,000 eligible children without access"
 id: california-ece-serves-only-33-percent-eligible-children
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

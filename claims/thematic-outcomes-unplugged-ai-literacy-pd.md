@@ -3,7 +3,7 @@ type: claim
 title: "Thematic analysis identified three outcomes: AI concepts became explainable and learnable, participants gained enhanced understanding of classification processes, and participants valued the practical applicability of unplugged approaches"
 description: "Thematic analysis identified three outcomes: AI concepts became explainable and learnable, participants gained enhanced understanding of classification processes, and participants valued the practical applicability of..."
 id: thematic-outcomes-unplugged-ai-literacy-pd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

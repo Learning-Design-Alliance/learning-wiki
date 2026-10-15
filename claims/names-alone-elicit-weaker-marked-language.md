@@ -3,7 +3,7 @@ type: claim
 title: Names alone elicit weaker, less consistent identity-marked feedback language than explicit attribute prompts
 description: Names alone elicit weaker, less consistent identity-marked feedback language than explicit attribute prompts
 id: names-alone-elicit-weaker-marked-language
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

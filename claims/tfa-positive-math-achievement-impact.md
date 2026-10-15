@@ -3,7 +3,7 @@ type: claim
 title: Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction
 description: Teach For America teachers had a positive impact on student math achievement of about 15 percent of a standard deviation, equivalent to about one month of instruction
 id: tfa-positive-math-achievement-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

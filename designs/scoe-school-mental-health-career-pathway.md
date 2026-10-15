@@ -3,7 +3,7 @@ type: design
 id: scoe-school-mental-health-career-pathway
 title: SCOE mental health career pathway employing peer specialists, graduate clinical interns, and associate clinicians
 description: To address a shortage of available mental health clinicians, SCOE built a career pathway using peer specialists, graduate clinical interns, and associate clinicians in paid positions.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

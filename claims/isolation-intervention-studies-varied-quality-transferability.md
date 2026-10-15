@@ -3,7 +3,7 @@ type: claim
 title: Included intervention studies varied considerably in design, methods, quality and transferability
 description: Included intervention studies varied considerably in design, methods, quality and transferability
 id: isolation-intervention-studies-varied-quality-transferability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

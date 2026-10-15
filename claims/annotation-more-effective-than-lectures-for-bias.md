@@ -3,7 +3,7 @@ type: claim
 title: Students rated the manual annotation activity as more effective than traditional lectures for understanding bias and reported increased motivation
 description: Students rated the manual annotation activity as more effective than traditional lectures for understanding bias and reported increased motivation
 id: annotation-more-effective-than-lectures-for-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

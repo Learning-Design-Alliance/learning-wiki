@@ -3,7 +3,7 @@ type: element
 id: measurement-and-evaluation-plan-template
 title: Measurement and Evaluation Plan Template
 description: "A companion resource listed on the publication page, titled \"Measurement and Evaluation Plan Template,\" published Feb 06, 2023 by Kate Place, Gregory Chojnacki, Virginia Knechtel, Andy Gothro, Megan Shoji, and Lindsay..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

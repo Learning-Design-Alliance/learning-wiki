@@ -3,7 +3,7 @@ type: claim
 title: Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results
 description: Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results
 id: chicago-tap-year-two-impact-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

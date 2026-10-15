@@ -3,7 +3,7 @@ type: claim
 title: Year Up may result in little to no change in industry-recognized credential, certificate, or license completion
 description: Year Up may result in little to no change in industry-recognized credential, certificate, or license completion
 id: year-up-no-effect-credential-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

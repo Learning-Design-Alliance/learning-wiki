@@ -3,7 +3,7 @@ type: claim
 title: Educators support educating the whole child but report barriers and call for more support
 description: Educators support educating the whole child but report barriers and call for more support
 id: educators-call-support-whole-child
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

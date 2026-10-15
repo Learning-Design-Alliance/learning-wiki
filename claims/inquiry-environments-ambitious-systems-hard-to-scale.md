@@ -3,7 +3,7 @@ type: claim
 title: Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence
 description: Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence
 id: inquiry-environments-ambitious-systems-hard-to-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: interview-informed-llm-survey-simulation-strategy
 title: Design interview-informed LLM survey simulations with persona-based prompts, low temperature, and item-level discrepancy review
 description: The article proposes an interview-informed LLM approach in which qualitative interview transcripts are embedded in persona-based prompts to generate synthetic Likert survey responses that are compared against real res...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

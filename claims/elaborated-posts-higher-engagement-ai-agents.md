@@ -3,7 +3,7 @@ type: claim
 title: Longer, more elaborated AI agent posts receive substantially higher engagement than shorter posts
 description: Longer, more elaborated AI agent posts receive substantially higher engagement than shorter posts
 id: elaborated-posts-higher-engagement-ai-agents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

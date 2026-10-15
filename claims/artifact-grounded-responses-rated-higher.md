@@ -3,7 +3,7 @@ type: claim
 title: Artifact-grounded agent responses are rated significantly higher than transcript-only responses on groundedness, analytical depth, helpfulness, relevance, and overall quality
 description: Artifact-grounded agent responses are rated significantly higher than transcript-only responses on groundedness, analytical depth, helpfulness, relevance, and overall quality
 id: artifact-grounded-responses-rated-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

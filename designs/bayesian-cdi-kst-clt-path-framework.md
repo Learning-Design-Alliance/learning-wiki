@@ -3,7 +3,7 @@ type: design
 id: bayesian-cdi-kst-clt-path-framework
 title: Integrated framework combining Bayesian cognitive diagnosis, knowledge space theory, and cognitive load theory for personalized path optimization
 description: "The article proposes and validates \"a personalized learning path optimization framework that integrates Bayesian cognitive diagnosis, knowledge space theory, and cognitive load theory.\" Bayesian DINA estimation suppli..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

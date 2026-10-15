@@ -3,7 +3,7 @@ type: claim
 title: Novices and experts committed similar total error numbers but different error types in computer work
 description: Novices and experts committed similar total error numbers but different error types in computer work
 id: novice-expert-error-type-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

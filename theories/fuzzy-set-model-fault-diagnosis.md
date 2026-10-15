@@ -2,7 +2,7 @@
 type: theory
 title: Fuzzy set model of human fault diagnosis as partitioning and testing with graded membership
 description: "The article models fault diagnosis as two phases: partitioning components into a feasible and infeasible set given symptoms, then choosing a feasible member to test, repartitioning after each test result."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

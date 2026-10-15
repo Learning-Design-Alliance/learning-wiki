@@ -3,7 +3,7 @@ type: claim
 title: More than a third of NAZ residents live in households with incomes below the federal poverty level
 description: More than a third of NAZ residents live in households with incomes below the federal poverty level
 id: naz-residents-36-percent-below-federal-poverty-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

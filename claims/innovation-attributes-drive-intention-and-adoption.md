@@ -3,7 +3,7 @@ type: claim
 title: Innovation attributes catalyse both intention to use and actual adoption of AI-enabled systems
 description: Innovation attributes catalyse both intention to use and actual adoption of AI-enabled systems
 id: innovation-attributes-drive-intention-and-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

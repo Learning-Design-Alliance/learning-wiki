@@ -3,7 +3,7 @@ type: claim
 title: In a 2010 RCT in Georgia and New York, LLI produced a statistically significant positive effect on general reading achievement (effect size 0.35, improvement index +14)
 description: In a 2010 RCT in Georgia and New York, LLI produced a statistically significant positive effect on general reading achievement (effect size 0.35, improvement index +14)
 id: lli-2010-rct-positive-general-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -4,7 +4,7 @@ id: wordstream-maker
 title: WordStream Maker
 description: WordStream Maker is a no-code software tool developed by Huyen N.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

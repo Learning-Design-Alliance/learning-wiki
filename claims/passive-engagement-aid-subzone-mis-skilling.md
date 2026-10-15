@@ -3,7 +3,7 @@ type: claim
 title: Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing
 description: Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing
 id: passive-engagement-aid-subzone-mis-skilling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

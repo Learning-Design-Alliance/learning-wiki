@@ -3,7 +3,7 @@ type: strategy
 id: ai-as-guided-support-tool-build-verification
 title: Treat AI as a guided support tool and explicitly build verification and skepticism into learning goals
 description: The article recommends that educators position AI as an augmentation rather than a replacement for mentorship.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

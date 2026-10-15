@@ -3,7 +3,7 @@ type: strategy
 id: pog-continuous-improvement-cycles
 title: Establish continuous improvement cycles that monitor and evaluate POG implementation
 description: To sustain progress and ensure efficacy of the POG framework, the brief recommends establishing continuous improvement cycles that monitor and evaluate implementation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: certification-questions-in-rfps
 title: Embed certification-status questions with evidence requirements in RFPs and RFAs
 description: "Districts can add questions about products' certification status to the specifications section of RFPs and RFAs, asking vendors to include the Open Badge as confirmation the certification \"has been awarded and has not..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

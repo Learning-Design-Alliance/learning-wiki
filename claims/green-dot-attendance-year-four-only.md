@@ -3,7 +3,7 @@ type: claim
 title: Green Dot Public Schools raise school attendance in the fourth year of high school, with no effect on attendance in Year 1 for Cohort 3 (mixed evidence)
 description: Green Dot Public Schools raise school attendance in the fourth year of high school, with no effect on attendance in Year 1 for Cohort 3 (mixed evidence)
 id: green-dot-attendance-year-four-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

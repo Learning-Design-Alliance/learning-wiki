@@ -3,7 +3,7 @@ type: theory
 title: "The threshold hypothesis: two levels of bilingual competence mediate cognitive and academic effects of bilingualism"
 description: "The threshold hypothesis holds that there are threshold levels of linguistic competence bilingual children must attain, such that \"there may be threshold levels of linguistic competence which bilingual children must a..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

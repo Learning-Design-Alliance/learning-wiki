@@ -3,7 +3,7 @@ type: strategy
 id: delivery-software-needs-l1-survey-learning-tactics
 title: Build L1 commands for survey and learning tactics into delivery system software, with an L2 advisor when strategy is involved
 description: The report recommends that delivery system software contain functions at the L0 level of discourse at minimum, but argues that interaction is highly restrictive unless L1 commands are available, at least for survey ta...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: shift-attendance-from-seat-time-to-engagement
 title: Shift attendance measurement from seat time to engagement, participation, and student outcomes in distance and hybrid learning
 description: The report recommends that states rewrite attendance laws and regulations so engagement can be tracked through competency-based tasks rather than seat time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

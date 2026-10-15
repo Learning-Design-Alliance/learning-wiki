@@ -3,7 +3,7 @@ type: strategy
 id: genai-data-comics-for-insight-communication
 title: Use GenAI-co-created data comics to communicate data insights to novice students, with human oversight to address misinformation and bias risks
 description: The article recommends exploring data comics, co-created with GenAI, as a scalable way to communicate data insights in education, since GenAI addresses the production bottleneck that has limited systematic evaluation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

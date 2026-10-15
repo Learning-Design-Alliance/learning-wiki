@@ -3,7 +3,7 @@ type: claim
 title: Coaching participants were more likely than nonparticipants to obtain career studies certificates and associate degrees despite higher-risk characteristics
 description: Coaching participants were more likely than nonparticipants to obtain career studies certificates and associate degrees despite higher-risk characteristics
 id: coaching-participants-more-credentials-despite-higher-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

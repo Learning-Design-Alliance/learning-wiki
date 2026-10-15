@@ -4,7 +4,7 @@ title: Free ChatGPT use boosts originality on the assisted creative task but the
 description: Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed
 id: chatgpt-free-use-originality-gains-vanish-unassisted
 aliases: [think-first-chatgpt-creativity-reversal]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

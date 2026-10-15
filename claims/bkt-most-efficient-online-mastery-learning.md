@@ -3,7 +3,7 @@ type: claim
 title: BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems
 description: BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems
 id: bkt-most-efficient-online-mastery-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

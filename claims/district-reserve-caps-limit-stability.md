@@ -3,7 +3,7 @@ type: claim
 title: "State caps on district reserves, such as California's 10 percent and New York's 4 percent caps, can limit districts' ability to budget conservatively for economic hard times"
 description: "State caps on district reserves, such as California's 10 percent and New York's 4 percent caps, can limit districts' ability to budget conservatively for economic hard times"
 id: district-reserve-caps-limit-stability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

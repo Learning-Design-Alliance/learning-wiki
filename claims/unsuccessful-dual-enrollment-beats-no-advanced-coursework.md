@@ -3,7 +3,7 @@ type: claim
 title: Students who enrolled in dual enrollment and did not pass are about 6 percentage points more likely to enroll in college than comparable students who never took advanced coursework
 description: Students who enrolled in dual enrollment and did not pass are about 6 percentage points more likely to enroll in college than comparable students who never took advanced coursework
 id: unsuccessful-dual-enrollment-beats-no-advanced-coursework
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners"
 description: "The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners"
 id: collearn-observation-function-within-tier-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

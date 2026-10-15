@@ -3,7 +3,7 @@ type: claim
 title: "Combined enrollment in TK, CSPP, and Head Start raised California's coverage of all 4-year-olds from about 34% in 2019–20 to 50% in 2023–24"
 description: "Combined enrollment in TK, CSPP, and Head Start raised California's coverage of all 4-year-olds from about 34% in 2019–20 to 50% in 2023–24"
 id: california-public-prek-coverage-rose-34-to-50-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

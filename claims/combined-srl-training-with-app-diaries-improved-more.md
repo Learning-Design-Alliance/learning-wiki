@@ -3,7 +3,7 @@ type: claim
 title: In a randomised control study, university students in the combined condition (online SRL training with mobile-app diaries) improved more than participants in the other conditions
 description: In a randomised control study, university students in the combined condition (online SRL training with mobile-app diaries) improved more than participants in the other conditions
 id: combined-srl-training-with-app-diaries-improved-more
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

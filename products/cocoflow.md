@@ -4,7 +4,7 @@ id: cocoflow
 title: CocoFlow
 description: CocoFlow is an AI agent builder platform developed by COCOROBO Limited that enables teachers to create subject-specific pedagogical agents through prompt engineering, uploaded knowledge bases, and visual workflow design.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: After scaffolding, strategy talk reconfigured around summarizing, critical evaluation, and co-construction, indicating repurposing toward critical scrutiny of AI outputs
 description: After scaffolding, strategy talk reconfigured around summarizing, critical evaluation, and co-construction, indicating repurposing toward critical scrutiny of AI outputs
 id: scaffolded-strategy-talk-repurposed-critical-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

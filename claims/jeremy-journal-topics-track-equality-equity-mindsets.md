@@ -3,7 +3,7 @@ type: claim
 title: "In the Jeremy's Journal simulation, Equality-mindset participants more often cited school policy while Equity-mindset participants prioritized the student's health"
 description: "In the Jeremy's Journal simulation, Equality-mindset participants more often cited school policy while Equity-mindset participants prioritized the student's health"
 id: jeremy-journal-topics-track-equality-equity-mindsets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

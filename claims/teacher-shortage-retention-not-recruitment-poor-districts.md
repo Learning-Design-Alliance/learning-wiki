@@ -3,7 +3,7 @@ type: claim
 title: Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them
 description: Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them
 id: teacher-shortage-retention-not-recruitment-poor-districts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

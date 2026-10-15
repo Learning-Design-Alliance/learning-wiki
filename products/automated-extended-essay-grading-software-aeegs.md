@@ -4,7 +4,7 @@ id: automated-extended-essay-grading-software-aeegs
 title: Automated Extended Essay Grading Software (AEEGS)
 description: A web-based application developed by Olaoye DD et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

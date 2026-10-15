@@ -3,7 +3,7 @@ type: claim
 title: Schools with higher concentrations of LTEL7 students have higher chronic absenteeism, lower graduation rates, and fewer fully certified teachers
 description: Schools with higher concentrations of LTEL7 students have higher chronic absenteeism, lower graduation rates, and fewer fully certified teachers
 id: ltel7-school-context-disadvantages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

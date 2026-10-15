@@ -3,7 +3,7 @@ type: research-method
 id: composite-transformation-framework-for-mirt-equating
 title: Composite transformation framework for MIRT equating
 description: "The article frames MIRT equating as transforming the equated group's reference system into the base group's system via a composite transformation: \"an orthogonal procrustes rotation, a translation transformation and a single dilation\"."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

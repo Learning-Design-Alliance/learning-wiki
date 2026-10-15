@@ -3,7 +3,7 @@ type: claim
 title: "AI's democratizing capacity is structurally contradictory: it amplifies existing capabilities rather than closing gaps between users"
 description: "AI's democratizing capacity is structurally contradictory: it amplifies existing capabilities rather than closing gaps between users"
 id: ai-democratization-contradiction-multiplier
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

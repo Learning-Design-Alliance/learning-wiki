@@ -4,7 +4,7 @@ id: magnetic-reading-foundations
 title: Magnetic Reading Foundations
 description: Magnetic Reading Foundations is a curriculum from Magnetic Reading that provides daily K–2 instruction in foundational reading skills through digital lessons, assessments, and interactive tutorials for differentiation.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

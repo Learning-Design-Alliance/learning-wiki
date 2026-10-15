@@ -3,7 +3,7 @@ type: theory
 title: Essentialism and Perennialism (Educational Philosophy)
 description: Essentialism holds that a universal core of essential skills and knowledge must be taught to all students through a teacher-centered, testing-focused, back-to-basics curriculum; Perennialism resembles it but centers individual development through a liberal-arts canon of ideas that have withstood the test of time.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

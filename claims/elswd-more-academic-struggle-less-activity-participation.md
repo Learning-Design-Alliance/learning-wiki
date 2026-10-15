@@ -3,7 +3,7 @@ type: claim
 title: English learner students with disabilities are more likely to struggle academically and less likely to participate in activities than both other students with disabilities and other English learners
 description: English learner students with disabilities are more likely to struggle academically and less likely to participate in activities than both other students with disabilities and other English learners
 id: elswd-more-academic-struggle-less-activity-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

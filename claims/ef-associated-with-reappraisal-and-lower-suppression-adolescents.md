@@ -3,7 +3,7 @@ type: claim
 title: Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents
 description: Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents
 id: ef-associated-with-reappraisal-and-lower-suppression-adolescents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

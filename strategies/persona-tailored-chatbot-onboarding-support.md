@@ -3,7 +3,7 @@ type: strategy
 id: persona-tailored-chatbot-onboarding-support
 title: Tailor GenAI chatbot onboarding, training, and support to identified adoption personas
 description: The article recommends that institutions use persona profiles as the basis for differentiated implementation of GenAI tools rather than one-size-fits-all deployment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

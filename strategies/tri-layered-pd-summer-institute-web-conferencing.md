@@ -3,7 +3,7 @@ type: strategy
 id: tri-layered-pd-summer-institute-web-conferencing
 title: "Layered professional development: summer institute plus weekly web conferencing follow-up"
 description: "TRI professional development combines an initial face-to-face summer institute with ongoing remote support: \"weekly web conferencing from a university-based consultant to follow up training, discuss individual childre..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

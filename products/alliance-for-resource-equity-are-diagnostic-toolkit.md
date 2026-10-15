@@ -4,7 +4,7 @@ id: alliance-for-resource-equity-are-diagnostic-toolkit
 title: Alliance for Resource Equity (ARE) diagnostic toolkit
 description: The Alliance for Resource Equity diagnostic toolkit, developed by Ed Trust and Education Resource Strategies, organizes questions and guidance around ten dimensions of educational equity to help districts and advocates identify and address local resource and student-experience problems.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

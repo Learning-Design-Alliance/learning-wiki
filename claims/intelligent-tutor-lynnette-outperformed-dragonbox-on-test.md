@@ -3,7 +3,7 @@ type: claim
 title: The survey reports, citing Long and Aleven, that students who used DragonBox enjoyed the experience more, while students who used the Lynnette intelligent tutoring system performed significantly better on the test.
 description: The survey reports, citing Long and Aleven, that students who used DragonBox enjoyed the experience more, while students who used the Lynnette intelligent tutoring system performed significantly better on the test.
 id: intelligent-tutor-lynnette-outperformed-dragonbox-on-test
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

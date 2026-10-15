@@ -3,7 +3,7 @@ type: element
 id: sel-framework-criteria-prioritization-tool
 title: Criteria prioritization tool for SEL framework selection
 description: The brief includes a tool, printed as a low/medium/high priority rating grid on its penultimate page, that practitioners use to rate each of the ten criteria by priority for their own context.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

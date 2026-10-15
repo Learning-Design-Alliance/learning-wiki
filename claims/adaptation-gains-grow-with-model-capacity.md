@@ -3,7 +3,7 @@ type: claim
 title: Adaptation gains grow monotonically with model capacity under the same LoRA recipe, though three data points cannot establish a scaling law
 description: Adaptation gains grow monotonically with model capacity under the same LoRA recipe, though three data points cannot establish a scaling law
 id: adaptation-gains-grow-with-model-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Threshold-setting methods are compared using reading scores from over 728,923 students on a computer-adaptive test of nearly 12,000 items
 description: Threshold-setting methods are compared using reading scores from over 728,923 students on a computer-adaptive test of nearly 12,000 items
 id: large-scale-cat-threshold-method-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

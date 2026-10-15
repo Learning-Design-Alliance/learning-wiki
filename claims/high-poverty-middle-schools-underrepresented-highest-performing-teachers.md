@@ -3,7 +3,7 @@ type: claim
 title: Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools
 description: Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools
 id: high-poverty-middle-schools-underrepresented-highest-performing-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

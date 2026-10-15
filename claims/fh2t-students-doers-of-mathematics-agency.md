@@ -3,7 +3,7 @@ type: claim
 title: Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment
 description: Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment
 id: fh2t-students-doers-of-mathematics-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

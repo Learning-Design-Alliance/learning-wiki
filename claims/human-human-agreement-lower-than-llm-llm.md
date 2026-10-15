@@ -3,7 +3,7 @@ type: claim
 title: Human-human agreement (average κ = 0.644) was lower than the best LLM-LLM agreement (average κ = 0.856) across constructs
 description: Human-human agreement (average κ = 0.644) was lower than the best LLM-LLM agreement (average κ = 0.856) across constructs
 id: human-human-agreement-lower-than-llm-llm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

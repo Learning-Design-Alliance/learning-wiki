@@ -3,7 +3,7 @@ type: claim
 title: Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022
 description: Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022
 id: pandemic-declines-largest-hispanic-black-aian-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

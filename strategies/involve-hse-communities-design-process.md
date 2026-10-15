@@ -3,7 +3,7 @@ type: strategy
 id: involve-hse-communities-design-process
 title: Involve HSE communities in design and refine technologies based on their feedback
 description: "To mitigate barriers to adopting LER technologies and micro-credentials among historically and systematically excluded communities, the report recommends that designers \"Establish a concerted effort to involve HSE com..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Systematic role rotation structured pre-service educational psychologists' engagement in AI-supported case-based learning by distributing problem-framing, analytical, intervention-oriented, and reflective responsibilities"
 description: "Systematic role rotation structured pre-service educational psychologists' engagement in AI-supported case-based learning by distributing problem-framing, analytical, intervention-oriented, and reflective responsibili..."
 id: role-rotation-distributes-professional-engagement-ai-cases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

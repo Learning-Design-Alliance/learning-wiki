@@ -3,7 +3,7 @@ type: claim
 title: Ninth grade truancy rates do not differ much by gender, undercutting the hypothesis that gang activity primarily drives absenteeism
 description: Ninth grade truancy rates do not differ much by gender, undercutting the hypothesis that gang activity primarily drives absenteeism
 id: truancy-rates-similar-by-gender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

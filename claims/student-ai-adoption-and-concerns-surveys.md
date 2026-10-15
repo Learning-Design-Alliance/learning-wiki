@@ -3,7 +3,7 @@ type: claim
 title: Surveys show young adults are the heaviest educational ChatGPT users and most worry about data privacy
 description: Surveys show young adults are the heaviest educational ChatGPT users and most worry about data privacy
 id: student-ai-adoption-and-concerns-surveys
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

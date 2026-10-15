@@ -3,7 +3,7 @@ type: claim
 title: Valid test case feedback improves correctness without reducing subsequent submission counts
 description: Valid test case feedback improves correctness without reducing subsequent submission counts
 id: valid-test-cases-not-fewer-submissions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: A wrong response preceding a help request is associated with a higher predicted probability of a correct end-of-unit response than the request alone
 description: A wrong response preceding a help request is associated with a higher predicted probability of a correct end-of-unit response than the request alone
 id: wrong-then-request-joint-effect-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -5,7 +5,7 @@ aliases: [freshman-on-track-indicator-and-individual-school-report]
 title: Freshman OnTrack indicator
 description: A research-based early-warning measurement developed and used by the University of Chicago Consortium and Chicago Public Schools to identify ninth-grade students at risk of not graduating.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

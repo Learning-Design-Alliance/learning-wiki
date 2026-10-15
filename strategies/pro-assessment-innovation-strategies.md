@@ -3,7 +3,7 @@ type: strategy
 id: pro-assessment-innovation-strategies
 title: Innovate PRO assessment with short index questions, computerized adaptive testing and conversation tools
 description: The review recommends specific assessment innovations to reduce respondent burden and make psychological needs visible in routine diabetes care.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

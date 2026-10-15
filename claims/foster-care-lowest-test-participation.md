@@ -3,7 +3,7 @@ type: claim
 title: Arizona students in foster care had the lowest statewide testing participation rate, declining sharply in later grades
 description: Arizona students in foster care had the lowest statewide testing participation rate, declining sharply in later grades
 id: foster-care-lowest-test-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

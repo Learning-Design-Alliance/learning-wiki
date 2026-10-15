@@ -3,7 +3,7 @@ type: claim
 title: "Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether"
 description: "Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether"
 id: financial-constraints-shape-first-generation-career-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

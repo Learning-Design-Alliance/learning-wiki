@@ -3,7 +3,7 @@ type: claim
 title: A distilled multi-order kinematic model outperforms pose-based baselines on a synthetic classroom incident dataset while using one-tenth as many parameters as PoseC3D
 description: A distilled multi-order kinematic model outperforms pose-based baselines on a synthetic classroom incident dataset while using one-tenth as many parameters as PoseC3D
 id: distilled-kinematic-model-outperforms-pose-baselines-synthetic-classroom-incidents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

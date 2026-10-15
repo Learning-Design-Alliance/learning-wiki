@@ -3,7 +3,7 @@ type: claim
 title: "The argument that excluding demographic predictors amounts to color-blind racism is contested: inclusion can also produce racist decision-making"
 description: "The argument that excluding demographic predictors amounts to color-blind racism is contested: inclusion can also produce racist decision-making"
 id: colorblind-racism-argument-for-inclusion-contested
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

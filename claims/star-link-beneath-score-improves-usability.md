@@ -3,7 +3,7 @@ type: claim
 title: "Moving the link to the STAR framework from the top of the page to beneath the STAR score improved the school report card site's usability"
 description: "Moving the link to the STAR framework from the top of the page to beneath the STAR score improved the school report card site's usability"
 id: star-link-beneath-score-improves-usability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

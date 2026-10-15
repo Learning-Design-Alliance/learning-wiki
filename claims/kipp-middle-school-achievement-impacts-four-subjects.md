@@ -4,7 +4,7 @@ title: KIPP middle schools have positive, statistically significant, and educati
 description: KIPP middle schools have positive, statistically significant, and educationally meaningful impacts on student achievement in math, reading, science, and social studies
 id: kipp-middle-school-achievement-impacts-four-subjects
 aliases: [kipp-middle-schools-positive-impacts-four-subjects]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

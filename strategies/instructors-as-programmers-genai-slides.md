@@ -3,7 +3,7 @@ type: strategy
 id: instructors-as-programmers-genai-slides
 title: "Computing instructors should approach GenAI slide generation as programmers: work iteratively with coding assistants and text-based slide toolchains"
 description: "The article recommends that computing instructors treat GenAI content creation like programming work: \"computing instructors think of themselves as programmers first\", iterating with prompts, highlighting issues, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

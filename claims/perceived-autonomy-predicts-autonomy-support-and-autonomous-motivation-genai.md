@@ -3,7 +3,7 @@ type: claim
 title: Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use
 description: Perceived autonomy positively predicts both autonomy support for AI use and autonomous motivation for AI use
 id: perceived-autonomy-predicts-autonomy-support-and-autonomous-motivation-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

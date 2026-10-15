@@ -3,7 +3,7 @@ type: strategy
 id: promote-shortage-area-certification-at-first-certification
 title: Target prospective teachers in childhood and early childhood education to earn special education certificates at first certification, and consider incentives redirecting teachers from administration toward shortage areas
 description: "The report recommends that NYSED and preparation programs communicate with prospective teachers about typical career trajectories and \"encourage them to apply for related available certificates at the time of their fi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

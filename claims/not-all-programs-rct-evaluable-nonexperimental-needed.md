@@ -3,7 +3,7 @@ type: claim
 title: Not all intervention programs can be evaluated using an RCT, so non-experimental study designs may be needed to build an evidence base
 description: Not all intervention programs can be evaluated using an RCT, so non-experimental study designs may be needed to build an evidence base
 id: not-all-programs-rct-evaluable-nonexperimental-needed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

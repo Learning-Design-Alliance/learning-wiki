@@ -3,7 +3,7 @@ type: claim
 title: "LLM difficulty labels track structural question features: stem length, option length, and digits in stems rise monotonically across Easy, Medium, and Hard labels"
 description: "LLM difficulty labels track structural question features: stem length, option length, and digits in stems rise monotonically across Easy, Medium, and Hard labels"
 id: llm-difficulty-labels-track-structural-item-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

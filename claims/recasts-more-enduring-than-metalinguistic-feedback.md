@@ -3,7 +3,7 @@ type: claim
 title: Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different
 description: Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different
 id: recasts-more-enduring-than-metalinguistic-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

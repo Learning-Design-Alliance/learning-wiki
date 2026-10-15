@@ -3,7 +3,7 @@ type: strategy
 id: collect-quantitative-data-co-interpret-with-community
 title: As district-community teams continue implementing solutions, collect quantitative data aligned with team-defined outcomes and co-interpret the data with those closest to the challenge
 description: "The report's forward-looking recommendation is that ongoing solution implementation be paired with measurement and shared interpretation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

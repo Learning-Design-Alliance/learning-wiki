@@ -3,7 +3,7 @@ type: claim
 title: A substantial part of the LLM rating advantage appears attributable to comment length, as length-adjusted scores converge on every dimension except tone
 description: A substantial part of the LLM rating advantage appears attributable to comment length, as length-adjusted scores converge on every dimension except tone
 id: length-explains-llm-rating-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

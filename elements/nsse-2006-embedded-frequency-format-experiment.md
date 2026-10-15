@@ -3,7 +3,7 @@ type: element
 id: nsse-2006-embedded-frequency-format-experiment
 title: Experiment embedded in the 2006 National Survey of Student Engagement comparing numerically and vaguely quantified frequency reports
 description: "The study's data source is an experiment embedded in the 2006 National Survey of Student Engagement, a large-scale survey of student engagement."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

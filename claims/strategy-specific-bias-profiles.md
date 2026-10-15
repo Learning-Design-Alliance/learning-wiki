@@ -3,7 +3,7 @@ type: claim
 title: "Prompting strategies produce distinct directional bias profiles: Fs+CoT under-scores (bias = -1.730), RAG over-scores (bias = 1.787), and SC shows minimal directional bias (bias = -0.083)"
 description: "Prompting strategies produce distinct directional bias profiles: Fs+CoT under-scores (bias = -1.730), RAG over-scores (bias = 1.787), and SC shows minimal directional bias (bias = -0.083)"
 id: strategy-specific-bias-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

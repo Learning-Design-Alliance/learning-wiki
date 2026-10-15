@@ -3,7 +3,7 @@ type: claim
 title: Post-test biology knowledge and pre-test AI knowledge significantly predicted post-test AI knowledge
 description: Post-test biology knowledge and pre-test AI knowledge significantly predicted post-test AI knowledge
 id: biology-and-prior-ai-predict-post-ai-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

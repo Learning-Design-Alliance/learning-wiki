@@ -3,7 +3,7 @@ type: claim
 title: Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions
 description: Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions
 id: ada-high-tam-acceptance-secondary-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: element
 id: concept-diagram-vocabulary-instruction
 title: Concept diagram for vocabulary instruction
 description: "A graphic organizer used as the study's independent variable."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

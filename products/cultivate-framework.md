@@ -4,7 +4,7 @@ id: cultivate-framework
 title: Cultivate framework
 description: A classroom-learning-conditions and student-beliefs framework, supported by the Cultivate Survey and playbook, that the University of Chicago Consortium on School Research provides for school teams to interpret data and improve learning and well-being.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

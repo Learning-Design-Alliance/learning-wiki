@@ -3,7 +3,7 @@ type: strategy
 id: texas-residency-policy-recommendations
 title: Five state policy actions to sustain and scale teacher residencies
 description: "The brief recommends that the state: (1) \"Fund resident and mentor stipends with state matching grants that increase the district match over time to support sustainability\"; (2) provide seed grants to EPPs launching r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

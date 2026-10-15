@@ -3,7 +3,7 @@ type: claim
 title: Small elementary schools (under 350 students) report more positive trust relations among teachers and between teachers and parents
 description: Small elementary schools (under 350 students) report more positive trust relations among teachers and between teachers and parents
 id: small-school-size-facilitates-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

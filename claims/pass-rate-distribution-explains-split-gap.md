@@ -3,7 +3,7 @@ type: claim
 title: Differences in student pass-rate distributions between test splits explain the smaller INSIDE-over-SFT improvement on test_NP
 description: Differences in student pass-rate distributions between test splits explain the smaller INSIDE-over-SFT improvement on test_NP
 id: pass-rate-distribution-explains-split-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

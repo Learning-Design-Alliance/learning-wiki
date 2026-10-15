@@ -3,7 +3,7 @@ type: claim
 title: ELs who received bilingual education services had higher long-run attendance and academic outcomes than kindergartners who refused bilingual services
 description: ELs who received bilingual education services had higher long-run attendance and academic outcomes than kindergartners who refused bilingual services
 id: bilingual-services-higher-el-outcomes-than-refusal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: indicators-of-distress-framework
 title: Indicators-of-distress framework
 description: A National Charter School Resource Center framework that organizes leading signs of charter-school decline across six domains to help leaders, boards, authorizers, and support organizations identify risks and target interventions.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

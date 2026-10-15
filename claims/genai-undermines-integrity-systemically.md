@@ -3,7 +3,7 @@ type: claim
 title: GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity
 description: GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity
 id: genai-undermines-integrity-systemically
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

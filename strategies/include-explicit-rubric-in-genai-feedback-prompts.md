@@ -3,7 +3,7 @@ type: strategy
 id: include-explicit-rubric-in-genai-feedback-prompts
 title: Include an explicit rubric in GenAI feedback prompts, even in Zero-shot conditions
 description: The article recommends supplying a detailed, task-relevant rubric when prompting GenAI for feedback.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

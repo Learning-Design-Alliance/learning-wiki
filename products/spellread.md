@@ -4,7 +4,7 @@ id: spellread
 title: SpellRead™
 description: SpellRead™ is a structured literacy programme for struggling readers in grade 2 and above, delivered through systematic explicit auditory and visual reading instruction in small groups and supported by an instructor monitoring system.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

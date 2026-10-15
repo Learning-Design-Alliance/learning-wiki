@@ -3,7 +3,7 @@ type: strategy
 id: three-steps-integrate-digital-content
 title: "Three steps to integrate digital content effectively: link content to educational goals, select performance standards, and measure and adjust against standards"
 description: "The report prescribes an ordered procedure for schools integrating digital content: \"Once schools and districts commit to the vision of digital learning, the CEO Forum offers three steps to help ensure greater success..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

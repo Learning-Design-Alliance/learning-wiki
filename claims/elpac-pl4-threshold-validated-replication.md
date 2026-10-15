@@ -3,7 +3,7 @@ type: claim
 title: ELPAC overall PL 4 remains the appropriate Criterion 1 reclassification threshold, with 2017-18 and 2022-23 data converging on the same level
 description: ELPAC overall PL 4 remains the appropriate Criterion 1 reclassification threshold, with 2017-18 and 2022-23 data converging on the same level
 id: elpac-pl4-threshold-validated-replication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

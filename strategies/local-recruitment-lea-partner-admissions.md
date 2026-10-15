@@ -3,7 +3,7 @@ type: strategy
 id: local-recruitment-lea-partner-admissions
 title: Recruit residency candidates locally from the communities they will teach in, with LEA partners participating in admissions
 description: Both studied residencies recruited candidates who lived in or had roots around partner districts, on the assumption that local ties increase retention, and involved LEA partners directly in interviews and admissions d...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

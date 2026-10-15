@@ -2,7 +2,7 @@
 type: theory
 title: "BKT Brute Force (BKT-BF): grid-search parameter estimation minimizing Residual Sum of Squares"
 description: "BKT-BF is an algorithm to estimate BKT parameter values by brute force: a grid of possible parameter values is set, and for each combination a Residual Sum of Squares (RSS) value is obtained; \"the combination of value..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

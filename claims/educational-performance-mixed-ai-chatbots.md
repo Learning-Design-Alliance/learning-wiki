@@ -3,7 +3,7 @@ type: claim
 title: Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions
 description: Purpose-built chatbot effects on educational performance are mixed, with some studies showing no benefits or worse outcomes than comparison conditions
 id: educational-performance-mixed-ai-chatbots
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

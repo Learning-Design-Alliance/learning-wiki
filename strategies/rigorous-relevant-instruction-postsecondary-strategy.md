@@ -3,7 +3,7 @@ type: strategy
 id: rigorous-relevant-instruction-postsecondary-strategy
 title: Provide rigorous and relevant instruction connecting academics to postsecondary options
 description: "The guide's sixth schoolwide recommendation increases engagement by providing students the skills needed to complete high school and introducing them to postsecondary options."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

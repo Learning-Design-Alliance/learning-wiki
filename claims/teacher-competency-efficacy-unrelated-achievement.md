@@ -3,7 +3,7 @@ type: claim
 title: "Teachers report very high self-perceived competence and efficacy that are virtually unrelated to their schools' prior achievement levels"
 description: "Teachers report very high self-perceived competence and efficacy that are virtually unrelated to their schools' prior achievement levels"
 id: teacher-competency-efficacy-unrelated-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

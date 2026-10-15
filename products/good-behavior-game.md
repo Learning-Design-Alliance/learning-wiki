@@ -4,7 +4,7 @@ id: good-behavior-game
 title: Good Behavior Game
 description: A classroom behavior-management programme originally developed at Johns Hopkins University in which students work in teams and receive recognition for meeting classroom behavior expectations, with implementations including PAX and AIR versions.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

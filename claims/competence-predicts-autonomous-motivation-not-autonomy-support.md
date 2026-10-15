@@ -3,7 +3,7 @@ type: claim
 title: Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use
 description: Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use
 id: competence-predicts-autonomous-motivation-not-autonomy-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

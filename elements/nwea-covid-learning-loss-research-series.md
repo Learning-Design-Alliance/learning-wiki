@@ -3,7 +3,7 @@ type: element
 id: nwea-covid-learning-loss-research-series
 title: NWEA COVID-19 learning-loss research series on seasonal learning patterns and equity
 description: A series of related NWEA Research publications organized around COVID-19 and schools, equity, and seasonal learning patterns and summer loss, including a working paper on projecting the potential impacts of COVID-19 s...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "15% of students used an external LLM, with the highest descriptive rate in the Socratic + Full Context condition, mainly citing inadequate guidance"
 description: "15% of students used an external LLM, with the highest descriptive rate in the Socratic + Full Context condition, mainly citing inadequate guidance"
 id: external-llm-use-inadequate-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

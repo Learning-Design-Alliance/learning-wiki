@@ -3,7 +3,7 @@ type: claim
 title: The hybrid confidence measure with aleatoric uncertainty yields the best calibration (Brier 0.138, ECE 0.044, MCE 0.100) among compared methods
 description: The hybrid confidence measure with aleatoric uncertainty yields the best calibration (Brier 0.138, ECE 0.044, MCE 0.100) among compared methods
 id: hybrid-aleatoric-best-calibration-asag
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

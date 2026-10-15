@@ -3,7 +3,7 @@ type: strategy
 id: heuristic-evaluation-using-adult-learning-guidelines
 title: Conduct heuristic evaluations of adult learning technologies using the 19 design guidelines
 description: "The article contributes \"A method for conducting heuristic evaluations of adult learning technologies using these guidelines\", demonstrating that \"the utility of these guidelines\" can be shown \"through a heuristic eva..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

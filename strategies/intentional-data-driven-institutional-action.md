@@ -3,7 +3,7 @@ type: strategy
 id: intentional-data-driven-institutional-action
 title: Institutional leaders should examine their own data, identify troublesome equity trends, and engage faculty, staff, and students in deliberate action to support all students
 description: "The brief argues that closing gaps \"takes deliberate action from institutions,\" exemplified by Washington State University's intentional early outreach and campus-community building and by University of Nebraska–Linco..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Attachment internal working models as cognitive schemes linking early relationships to flexibility and adjustment
 description: "The article frames attachment through Bowlby's internal working models: early caregiving relationships form mental representations of ego and others that guide later close relationships."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

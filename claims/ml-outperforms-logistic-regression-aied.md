@@ -3,7 +3,7 @@ type: claim
 title: Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies
 description: Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies
 id: ml-outperforms-logistic-regression-aied
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

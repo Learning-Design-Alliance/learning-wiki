@@ -3,7 +3,7 @@ type: claim
 title: Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson
 description: Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson
 id: video-pause-rewind-sequences-negative-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

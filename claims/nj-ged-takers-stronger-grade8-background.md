@@ -3,7 +3,7 @@ type: claim
 title: GED takers had higher grade 8 test scores and were more likely White and less likely lunch-eligible than HiSET and TASC takers
 description: GED takers had higher grade 8 test scores and were more likely White and less likely lunch-eligible than HiSET and TASC takers
 id: nj-ged-takers-stronger-grade8-background
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

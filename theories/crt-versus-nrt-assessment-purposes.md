@@ -2,7 +2,7 @@
 type: theory
 title: Criterion-referenced versus norm-referenced tests as two distinct assessment purposes
 description: The brief organizes its comparison around a distinction between two test purposes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: teacher-led-workshop-scaling-video-modeling
 title: Teacher-led workshops and freely downloadable materials to scale video analysis and modeling practice
 description: "The authors scale the practice through a 75-minute hands-on workshop making teachers aware of Tracker's affordances, in a \"teacher-lead approach towards scaling of practice\" aligned with Singapore's ICT masterplans."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

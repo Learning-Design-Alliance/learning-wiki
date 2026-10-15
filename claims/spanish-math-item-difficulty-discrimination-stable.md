@@ -3,7 +3,7 @@ type: claim
 title: Spanish Math items show well-balanced difficulty and stable strong discrimination across 2024–2025 terms
 description: Spanish Math items show well-balanced difficulty and stable strong discrimination across 2024–2025 terms
 id: spanish-math-item-difficulty-discrimination-stable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

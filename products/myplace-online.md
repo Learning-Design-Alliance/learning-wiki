@@ -4,7 +4,7 @@ id: myplace-online
 title: myPLACE Online
 description: "A Philadelphia Mayor's Commission on Literacy online cohort learning programme and shared electronic registration platform for low-literate adult learners, used across the Commission's partner agencies."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

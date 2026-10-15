@@ -3,7 +3,7 @@ type: research-method
 id: moving-intervention-framework-for-evaluating-educational-ai
 title: Moving intervention framework for evaluating educational AI
 description: "A conceptual account of why conventional evaluation lags educational AI: the intervention \"may be better understood as a versioned configuration of technological capabilities, pedagogical functions and implementation practices at a particular point in time: a moving intervention rather than a fixed "
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "SHAP modality attributions aligned with each BARS dimension's behavioral focus, supporting interpretable feedback"
 description: "SHAP modality attributions aligned with each BARS dimension's behavioral focus, supporting interpretable feedback"
 id: shap-modality-contributions-align-with-bars-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

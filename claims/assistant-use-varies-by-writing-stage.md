@@ -3,7 +3,7 @@ type: claim
 title: "Students use the integrated AI assistant differently across writing stages: clarification early, verification late"
 description: "Students use the integrated AI assistant differently across writing stages: clarification early, verification late"
 id: assistant-use-varies-by-writing-stage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

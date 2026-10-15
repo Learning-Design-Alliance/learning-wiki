@@ -3,7 +3,7 @@ type: claim
 title: "Fluency effects of Fluency Formula™ differ by initial ability: positive for low-ability students (effect size 0.66) and negative for high-ability students (effect size –0.21), both non-significant"
 description: "Fluency effects of Fluency Formula™ differ by initial ability: positive for low-ability students (effect size 0.66) and negative for high-ability students (effect size –0.21), both non-significant"
 id: fluency-formula-fluency-effects-differ-by-initial-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

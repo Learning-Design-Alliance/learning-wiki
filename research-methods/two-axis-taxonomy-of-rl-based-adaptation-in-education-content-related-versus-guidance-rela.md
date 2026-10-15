@@ -3,7 +3,7 @@ type: research-method
 id: two-axis-taxonomy-of-rl-based-adaptation-in-education-content-related-versus-guidance-rela
 title: "Two-axis taxonomy of RL-based adaptation in education: content-related versus guidance-related"
 description: The review organizes RL-based educational applications by the kind of action the RL agent takes, distinguishing two main categories.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

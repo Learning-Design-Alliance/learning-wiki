@@ -3,7 +3,7 @@ type: element
 id: edtech-inclusive-design-evaluation-rubric
 title: Inclusive Design Evaluation Rubric (Resource D)
 description: Resource D helps decision makers score whether a tool is sufficiently inclusive, across baseline accessibility, design for variability, evidence of inclusive impact, and operationalizing inclusivity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "In LLM-assisted team formation, class standing strongly drives assignments: seniors are far less likely than freshmen to be assigned to Interface Design relative to Core Development"
 description: "In LLM-assisted team formation, class standing strongly drives assignments: seniors are far less likely than freshmen to be assigned to Interface Design relative to Core Development"
 id: llm-team-formation-class-standing-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

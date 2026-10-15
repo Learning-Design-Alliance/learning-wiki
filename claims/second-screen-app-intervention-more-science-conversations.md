@@ -3,7 +3,7 @@ type: claim
 title: Parents and caregivers in the intervention group initiated more conversations before and after viewing and facilitated more science conversations than the comparison group
 description: Parents and caregivers in the intervention group initiated more conversations before and after viewing and facilitated more science conversations than the comparison group
 id: second-screen-app-intervention-more-science-conversations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

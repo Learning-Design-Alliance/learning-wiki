@@ -3,7 +3,7 @@ type: element
 id: nclb-title-i-choice-and-ses-options
 title: "Two NCLB Title I educational options: school transfer and supplemental educational services"
 description: Under the No Child Left Behind Act, Title I schools identified for improvement, corrective action, or restructuring due to lack of yearly progress must offer parents two options.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

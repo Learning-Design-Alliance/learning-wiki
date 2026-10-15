@@ -3,7 +3,7 @@ type: element
 id: cire-systematic-review-recommendations-issue-brief
 title: Mathematica Center for Improving Research Evidence issue brief on conducting high quality systematic reviews
 description: "An issue brief released by Mathematica's Center for Improving Research Evidence that \"offer[s] recommendations for conducting high quality systematic reviews.\" The brief is positioned as guidance for the education and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

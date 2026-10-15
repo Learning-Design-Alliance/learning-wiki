@@ -3,7 +3,7 @@ type: claim
 title: GenAI learning outcomes depend more on use quality (capability, reflective engagement, retained agency) than on frequency of use
 description: GenAI learning outcomes depend more on use quality (capability, reflective engagement, retained agency) than on frequency of use
 id: genai-use-quality-over-frequency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

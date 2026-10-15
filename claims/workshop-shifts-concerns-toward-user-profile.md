@@ -3,7 +3,7 @@ type: claim
 title: "The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns"
 description: "The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns"
 id: workshop-shifts-concerns-toward-user-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

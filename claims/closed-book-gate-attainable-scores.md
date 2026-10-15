@@ -3,7 +3,7 @@ type: claim
 title: "The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap"
 description: "The weekly closed-book gate was attainable: 80.1% of recorded student-test observations reached the 100-point credit cap"
 id: closed-book-gate-attainable-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

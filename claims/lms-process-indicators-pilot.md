@@ -3,7 +3,7 @@ type: claim
 title: LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end
 description: LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end
 id: lms-process-indicators-pilot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

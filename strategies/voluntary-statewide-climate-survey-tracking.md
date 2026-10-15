@@ -3,7 +3,7 @@ type: strategy
 id: voluntary-statewide-climate-survey-tracking
 title: Use a voluntary statewide climate survey to track climate and identify schools needing support
 description: State education agencies can administer a voluntary school climate survey to any school in the state and use the resulting scores longitudinally to monitor climate trends and flag schools needing additional support.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

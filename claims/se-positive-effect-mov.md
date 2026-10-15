@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI
 description: Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI
 id: se-positive-effect-mov
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

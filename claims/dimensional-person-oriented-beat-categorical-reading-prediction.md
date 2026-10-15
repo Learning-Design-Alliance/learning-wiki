@@ -3,7 +3,7 @@ type: claim
 title: Person-oriented and dimensional methods each predicted reading achievement significantly better than the categorical method
 description: Person-oriented and dimensional methods each predicted reading achievement significantly better than the categorical method
 id: dimensional-person-oriented-beat-categorical-reading-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -2,7 +2,7 @@
 type: theory
 title: "Students' mathematics-related belief systems are constituted by beliefs about mathematics education, the self, and the class context"
 description: "The article proposes a framework in which students' mathematics-related belief systems are organized around three constitutive dimensions: the object (mathematics education), the self, and the classroom context."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

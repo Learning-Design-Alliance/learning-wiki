@@ -3,7 +3,7 @@ type: claim
 title: Between-group effect sizes on decision-making gains were large for AI-assisted versus traditional instruction and moderate-to-large for AI-assisted versus inquiry-only
 description: Between-group effect sizes on decision-making gains were large for AI-assisted versus traditional instruction and moderate-to-large for AI-assisted versus inquiry-only
 id: ai-assisted-effect-sizes-large-vs-traditional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

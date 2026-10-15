@@ -3,7 +3,7 @@ type: claim
 title: Linked learning communities show no discernible effects on any of five outcome domains for community college students in developmental education
 description: Linked learning communities show no discernible effects on any of five outcome domains for community college students in developmental education
 id: linked-learning-communities-no-discernible-effects-five-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ title: Most School Improvement Plans do not guide staff efforts to tackle the ro
 description: Most School Improvement Plans do not guide staff efforts to tackle the root causes that prevent significant performance improvement
 id: sips-do-not-guide-root-cause-efforts
 aliases: [sips-address-symptoms-not-causes]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

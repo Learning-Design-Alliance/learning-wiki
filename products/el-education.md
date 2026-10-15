@@ -4,7 +4,7 @@ id: el-education
 title: EL Education
 description: "EL Education's integrated English Language Arts curriculum and professional-learning program, developed and provided by EL Education for schools and teachers."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

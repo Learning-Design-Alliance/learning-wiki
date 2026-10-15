@@ -3,7 +3,7 @@ type: claim
 title: "Preceding high guidance with low guidance conferred no advantage for children's CVS learning"
 description: "Preceding high guidance with low guidance conferred no advantage for children's CVS learning"
 id: no-advantage-low-before-high-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

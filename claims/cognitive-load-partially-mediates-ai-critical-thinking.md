@@ -3,7 +3,7 @@ type: claim
 title: Cognitive load partially mediates the relationship between AI-based educational technology use and critical thinking
 description: Cognitive load partially mediates the relationship between AI-based educational technology use and critical thinking
 id: cognitive-load-partially-mediates-ai-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

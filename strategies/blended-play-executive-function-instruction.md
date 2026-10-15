@@ -3,7 +3,7 @@ type: strategy
 id: blended-play-executive-function-instruction
 title: Blend guided and open-ended play to build executive function in pre-kindergarten
 description: "The program's instructional approach blends guided and open-ended play with hands-on, interactive learning, targeting core cognitive skills linked to long-term academic and social outcomes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

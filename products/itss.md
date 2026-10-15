@@ -4,7 +4,7 @@ id: itss
 title: ITSS
 description: ITSS is a web-based intelligent tutoring system for grades K–8 that teaches students to recognize and use factual-text structures through animated modeling, self-paced practice, and immediate feedback.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

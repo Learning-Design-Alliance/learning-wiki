@@ -3,7 +3,7 @@ type: strategy
 id: little-books-teacher-workshop-structured-routine
 title: Train teachers in a structured daily Little Books routine of opening, modeling, tryouts, and closing, with whole-class introduction followed by small-group reading and individual reading
 description: "The report describes a specific teacher-training procedure for Little Books: teachers attended a workshop and were encouraged to spend 10-15 minutes each day with the books."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

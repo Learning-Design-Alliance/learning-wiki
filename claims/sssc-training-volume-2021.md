@@ -3,7 +3,7 @@ type: claim
 title: Nearly all responding SSSCs conducted trainings in 2021, with reporting centers documenting over a thousand training events reaching tens of thousands of participants
 description: Nearly all responding SSSCs conducted trainings in 2021, with reporting centers documenting over a thousand training events reaching tens of thousands of participants
 id: sssc-training-volume-2021
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: premortem-analysis-before-reform
 title: Use premortem analysis before implementing a reform to surface success factors and roadblocks
 description: A premortem, developed by Robert Sutton and Huggy Rao, asks people to imagine what success or failure would look like before implementing a change.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

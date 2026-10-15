@@ -2,7 +2,7 @@
 type: theory
 title: Communities-of-Practice theory as a framework for understanding community membership and learning
 description: "Communities-of-Practice theory (Lave & Wenger) holds that learning is a collective, social undertaking embedded in practice rather than a fixed, individual activity with a beginning and end."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: brainstorm-genai-workforce-competency-per-task
 title: Brainstorm an emerging GenAI workforce competency for every task in the inventory
 description: "For each task in the inventory, the instructor generates the GenAI-related capability the task could develop: \"The instructor brainstorms an emerging GenAI workforce competency for every task.\" This step connects rout..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

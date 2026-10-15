@@ -3,7 +3,7 @@ type: claim
 title: "California's shift to attendance-based AB 602 funding stabilized disability identification rates for about a decade, but rates have climbed steeply since 2010, so the policy's long-term intended outcomes were not produced"
 description: "California's shift to attendance-based AB 602 funding stabilized disability identification rates for about a decade, but rates have climbed steeply since 2010, so the policy's long-term intended outcomes were not prod..."
 id: ab602-stabilization-then-renewed-identification-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

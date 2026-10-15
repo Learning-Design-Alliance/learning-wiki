@@ -3,7 +3,7 @@ type: claim
 title: Distilling a multi-order hierarchical teacher into a smaller zeroth-order student lets the student outperform the teacher, and improves 4.1 percentage points in accuracy over STGCN++
 description: Distilling a multi-order hierarchical teacher into a smaller zeroth-order student lets the student outperform the teacher, and improves 4.1 percentage points in accuracy over STGCN++
 id: distilled-student-outperforms-multiorder-teacher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

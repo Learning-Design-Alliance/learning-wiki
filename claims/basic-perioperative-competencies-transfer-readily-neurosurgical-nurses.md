@@ -3,7 +3,7 @@ type: claim
 title: Basic perioperative care competencies transfer most smoothly to clinical practice after neurosurgical specialty nurse training
 description: Basic perioperative care competencies transfer most smoothly to clinical practice after neurosurgical specialty nurse training
 id: basic-perioperative-competencies-transfer-readily-neurosurgical-nurses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

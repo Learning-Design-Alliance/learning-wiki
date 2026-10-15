@@ -3,7 +3,7 @@ type: claim
 title: The SEED Partnership Project developed three-year partnerships between national non-profits implementing evidence-based educator-preparation strategies and educational organizations seeking to apply lessons from that work
 description: The SEED Partnership Project developed three-year partnerships between national non-profits implementing evidence-based educator-preparation strategies and educational organizations seeking to apply lessons from that...
 id: seed-partnership-project-knowledge-sharing-partnerships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

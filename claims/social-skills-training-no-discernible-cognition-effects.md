@@ -3,7 +3,7 @@ type: claim
 title: Social skills training shows no discernible effects on cognition for preschool children with disabilities
 description: Social skills training shows no discernible effects on cognition for preschool children with disabilities
 id: social-skills-training-no-discernible-cognition-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

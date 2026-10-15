@@ -3,7 +3,7 @@ type: strategy
 id: award-points-for-non-answers-traub-rule
 title: "Award points for non-answers (modified Traub's rule) to discourage rapid responding on low-stakes tests"
 description: "The article instructs test takers to consider non-answering because it can be worth more than a wrong answer, implementing a modified Traub's rule in which \"Students were awarded with 0.25 points for all non-answered..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -4,7 +4,7 @@ id: vocabulary-improvement-program-vip
 title: Vocabulary Improvement Program (VIP)
 description: A 15-week vocabulary-development curriculum for English language learners and native English speakers in grades 4–6, developed by Diane August, Maria S.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The first-year APS Turnaround Strategy evaluation reports implementation and impact findings focused on High Impact Tutoring and PBS operation of Thomasville Heights Elementary
 description: The first-year APS Turnaround Strategy evaluation reports implementation and impact findings focused on High Impact Tutoring and PBS operation of Thomasville Heights Elementary
 id: aps-turnaround-first-year-report-scope
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

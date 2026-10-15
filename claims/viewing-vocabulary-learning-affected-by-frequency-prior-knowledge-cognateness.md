@@ -3,7 +3,7 @@ type: claim
 title: Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness
 description: Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness
 id: viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

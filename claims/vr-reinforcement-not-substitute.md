@@ -3,7 +3,7 @@ type: claim
 title: Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action
 description: Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action
 id: vr-reinforcement-not-substitute
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

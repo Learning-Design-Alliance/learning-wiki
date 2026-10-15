@@ -3,7 +3,7 @@ type: design
 id: modify-minimal-program-challenge-pattern
 title: "Challenge-by-modification pattern: learners modify a minimal working program to test their own model"
 description: "The QRC's instructional pattern is a minimal, transparent computer realization of an experiment that learners modify to embody their own favored model."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

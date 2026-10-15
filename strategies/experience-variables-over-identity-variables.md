@@ -3,7 +3,7 @@ type: strategy
 id: experience-variables-over-identity-variables
 title: Use student experience variables instead of identity variables to investigate for whom and under what conditions improvements work
 description: "This strategy proposes measuring students' educational experiences—such as sense of belonging, self-efficacy, effects of disruptions, or teacher support—rather than relying on demographic identity variables, which are..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

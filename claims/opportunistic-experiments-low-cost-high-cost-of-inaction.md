@@ -3,7 +3,7 @@ type: claim
 title: The guide argues opportunistic experiments have potentially low cost while not conducting them has potentially high cost
 description: The guide argues opportunistic experiments have potentially low cost while not conducting them has potentially high cost
 id: opportunistic-experiments-low-cost-high-cost-of-inaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

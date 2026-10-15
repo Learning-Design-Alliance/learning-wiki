@@ -3,7 +3,7 @@ type: design
 id: intelligent-digital-textbook-llm-structured-dialogue
 title: Intelligent digital textbook framework with LLM-powered structured dialogue for reading comprehension support
 description: The learning engineer collaborators are developing a framework for intelligent digital textbooks augmented with AI capabilities.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

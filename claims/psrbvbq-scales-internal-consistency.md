@@ -3,7 +3,7 @@ type: claim
 title: "The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)"
 description: "The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)"
 id: psrbvbq-scales-internal-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

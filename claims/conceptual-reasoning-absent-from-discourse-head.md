@@ -3,7 +3,7 @@ type: claim
 title: "The top of the student-discourse distribution contains essentially no categories of explicit conceptual reasoning, prediction, comparison to similar problems, or critical engagement with the tutor's suggestions"
 description: "The top of the student-discourse distribution contains essentially no categories of explicit conceptual reasoning, prediction, comparison to similar problems, or critical engagement with the tutor's suggestions"
 id: conceptual-reasoning-absent-from-discourse-head
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

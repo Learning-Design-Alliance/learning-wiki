@@ -3,7 +3,7 @@ type: claim
 title: Under the i3 scale-up grant, TFA planned to grow its corps by 80 percent and aimed for a majority of its teachers to be rated highly effective by the 2014-2015 school year
 description: Under the i3 scale-up grant, TFA planned to grow its corps by 80 percent and aimed for a majority of its teachers to be rated highly effective by the 2014-2015 school year
 id: tfa-i3-grant-growth-and-effectiveness-goals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Secondary math students taught by Teach For America teachers outperformed peers taught by traditional-route teachers by 0.06 standard deviations
 description: Secondary math students taught by Teach For America teachers outperformed peers taught by traditional-route teachers by 0.06 standard deviations
 id: tfa-secondary-math-outperforms-traditional-006-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

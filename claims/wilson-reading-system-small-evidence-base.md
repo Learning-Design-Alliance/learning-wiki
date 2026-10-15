@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for the Wilson Reading System in beginning reading is small, with no studies addressing general reading achievement
 description: The evidence base for the Wilson Reading System in beginning reading is small, with no studies addressing general reading achievement
 id: wilson-reading-system-small-evidence-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

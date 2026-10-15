@@ -4,7 +4,7 @@ id: el-educations-teacher-potential-project-tpp
 title: "EL Education's Teacher Potential Project (TPP)"
 description: A programme run by EL Education that combines a standards-aligned English language arts curriculum with embedded professional development for teachers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

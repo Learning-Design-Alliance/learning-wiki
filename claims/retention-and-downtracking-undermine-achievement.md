@@ -3,7 +3,7 @@ type: claim
 title: Grade retention and tracking students into remedial instruction undermine achievement, while formative assessment with acceleration strategies improves learning
 description: Grade retention and tracking students into remedial instruction undermine achievement, while formative assessment with acceleration strategies improves learning
 id: retention-and-downtracking-undermine-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

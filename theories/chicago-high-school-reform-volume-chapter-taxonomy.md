@@ -2,7 +2,7 @@
 type: theory
 title: Chicago high school reform chapter organization spanning redesign, student performance, small schools, professional development, and subject-area reform
 description: "The volume's table of contents organizes research on Chicago high school reform into strands: whole-school redesign effects on schools and achievement (Hess and Cyntrynbaum), student performance trends from 1993 to 20..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

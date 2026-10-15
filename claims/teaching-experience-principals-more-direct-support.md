@@ -3,7 +3,7 @@ type: claim
 title: Principals with elementary school teaching experience reported providing more extensive direct instructional support to teachers
 description: Principals with elementary school teaching experience reported providing more extensive direct instructional support to teachers
 id: teaching-experience-principals-more-direct-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

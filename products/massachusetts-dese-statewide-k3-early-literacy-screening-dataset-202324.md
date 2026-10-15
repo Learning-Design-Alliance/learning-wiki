@@ -4,7 +4,7 @@ id: massachusetts-dese-statewide-k3-early-literacy-screening-dataset-202324
 title: Massachusetts DESE statewide K–3 early literacy screening dataset (2023/24)
 description: A Massachusetts Department of Elementary and Secondary Education dataset of K–3 early literacy screening results collected from participating schools and districts to identify students at risk of reading difficulty and guide early intervention.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

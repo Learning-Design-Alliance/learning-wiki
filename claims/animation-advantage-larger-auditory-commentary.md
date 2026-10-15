@@ -3,7 +3,7 @@ type: claim
 title: The animation advantage is larger when animation is coupled with auditory commentary
 description: The animation advantage is larger when animation is coupled with auditory commentary
 id: animation-advantage-larger-auditory-commentary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

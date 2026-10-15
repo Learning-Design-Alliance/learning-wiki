@@ -3,7 +3,7 @@ type: claim
 title: "Respondents identified algorithmic bias (31.9%), data privacy (27.5%), and technical reliability (27.5%) as the primary risks of AI in education"
 description: "Respondents identified algorithmic bias (31.9%), data privacy (27.5%), and technical reliability (27.5%) as the primary risks of AI in education"
 id: rfi-ai-risks-bias-privacy-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

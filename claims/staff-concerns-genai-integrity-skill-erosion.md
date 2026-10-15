@@ -3,7 +3,7 @@ type: claim
 title: University academic staff express substantial concerns about academic integrity, ethics, and erosion of skills such as critical thinking and creativity in relation to GenAI.
 description: University academic staff express substantial concerns about academic integrity, ethics, and erosion of skills such as critical thinking and creativity in relation to GenAI.
 id: staff-concerns-genai-integrity-skill-erosion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

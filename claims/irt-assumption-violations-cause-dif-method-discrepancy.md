@@ -3,7 +3,7 @@ type: claim
 title: The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy
 description: The assessment violates IRT assumptions of unidimensionality and local independence, which the authors identify as a likely cause of the method discrepancy
 id: irt-assumption-violations-cause-dif-method-discrepancy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

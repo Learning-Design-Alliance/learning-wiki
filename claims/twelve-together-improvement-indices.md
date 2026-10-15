@@ -3,7 +3,7 @@ type: claim
 title: The WWC improvement index for Twelve Together is +13 percentile points for staying in school and –6 percentile points for progressing in school
 description: The WWC improvement index for Twelve Together is +13 percentile points for staying in school and –6 percentile points for progressing in school
 id: twelve-together-improvement-indices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

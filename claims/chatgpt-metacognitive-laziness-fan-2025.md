@@ -3,7 +3,7 @@ type: claim
 title: "Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains"
 description: "Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains"
 id: chatgpt-metacognitive-laziness-fan-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

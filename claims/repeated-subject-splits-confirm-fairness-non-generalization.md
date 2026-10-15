@@ -3,7 +3,7 @@ type: claim
 title: Repeated subject-level split experiments confirm that validation-level fairness improvements from MAE-gap regularization do not correspond to consistent generalization to unseen subjects
 description: Repeated subject-level split experiments confirm that validation-level fairness improvements from MAE-gap regularization do not correspond to consistent generalization to unseen subjects
 id: repeated-subject-splits-confirm-fairness-non-generalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

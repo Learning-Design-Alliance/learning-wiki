@@ -3,7 +3,7 @@ type: claim
 title: Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test
 description: Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test
 id: metalinguistic-beats-recasts-immediate-not-delayed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

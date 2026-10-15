@@ -3,7 +3,7 @@ type: design
 id: proficiency-sensitive-barrier-support-mapping-eap
 title: Proficiency-sensitive barrier-to-support mapping for EAP reading materials
 description: The article organizes EAP reading adaptation around a mapping from proficiency-specific reading barriers to text-embedded supports, process indicators, and outcome foci.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

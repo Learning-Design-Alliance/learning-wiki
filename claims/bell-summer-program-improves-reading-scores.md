@@ -3,7 +3,7 @@ type: claim
 title: "A well-implemented summer learning program (BELL) improves low-income children's reading test scores"
 description: "A well-implemented summer learning program (BELL) improves low-income children's reading test scores"
 id: bell-summer-program-improves-reading-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

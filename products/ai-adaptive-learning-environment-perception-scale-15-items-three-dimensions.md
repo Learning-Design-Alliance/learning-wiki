@@ -4,7 +4,7 @@ id: ai-adaptive-learning-environment-perception-scale-15-items-three-dimensions
 title: AI adaptive learning environment perception scale (15 items, three dimensions)
 description: A 15-item Likert self-report scale developed by Li J et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

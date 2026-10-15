@@ -3,7 +3,7 @@ type: claim
 title: "A closer look at New York's first Common Core exam results suggests student achievement may have increased"
 description: "A closer look at New York's first Common Core exam results suggests student achievement may have increased"
 id: ny-common-core-achievement-may-have-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

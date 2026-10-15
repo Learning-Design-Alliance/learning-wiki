@@ -3,7 +3,7 @@ type: claim
 title: Retrained BERT relies on high-impact nouns, verbs, and adjectives for correct predictions, but this reliance is muted on the AF dataset
 description: Retrained BERT relies on high-impact nouns, verbs, and adjectives for correct predictions, but this reliance is muted on the AF dataset
 id: lime-pos-reliance-varies-by-dataset
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

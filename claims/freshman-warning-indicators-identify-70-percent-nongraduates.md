@@ -3,7 +3,7 @@ type: claim
 title: Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates
 description: Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates
 id: freshman-warning-indicators-identify-70-percent-nongraduates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

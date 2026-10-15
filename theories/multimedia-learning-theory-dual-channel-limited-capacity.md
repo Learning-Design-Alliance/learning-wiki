@@ -2,7 +2,7 @@
 type: theory
 title: "Multimedia learning theory: dual channels, limited capacity, and active selection, organization and integration"
 description: The article draws on multimedia learning research (Mayer, Sweller) to explain why multimedia presentations can outperform text.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

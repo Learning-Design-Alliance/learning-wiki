@@ -3,7 +3,7 @@ type: claim
 title: Task importance weights in the multi-task oral scoring objective are calibrated by learned observation noise rather than manual tuning
 description: Task importance weights in the multi-task oral scoring objective are calibrated by learned observation noise rather than manual tuning
 id: uncertainty-weighted-multitask-oral-scoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

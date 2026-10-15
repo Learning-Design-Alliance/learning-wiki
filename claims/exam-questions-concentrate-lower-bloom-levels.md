@@ -3,7 +3,7 @@ type: claim
 title: "University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge"
 description: "University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge"
 id: exam-questions-concentrate-lower-bloom-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: student-recommended-assessment-changes
 title: Offer test corrections and retakes, diverse performance-based assessment options, and peer-teaching opportunities so students can learn from mistakes and demonstrate understanding
 description: "Students in the focus groups recommended concrete assessment changes: test retakes or corrections with partial credit, more open-ended questions instead of multiple choice, and diverse options such as projects, presen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

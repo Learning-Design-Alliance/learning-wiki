@@ -3,7 +3,7 @@ type: claim
 title: Fall 2021 achievement was lower for all student groups, with disproportionately high impacts for historically marginalized students and students in high-poverty schools
 description: Fall 2021 achievement was lower for all student groups, with disproportionately high impacts for historically marginalized students and students in high-poverty schools
 id: covid-achievement-impacts-disproportionate-marginalized-high-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

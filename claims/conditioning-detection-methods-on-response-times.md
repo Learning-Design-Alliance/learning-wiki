@@ -3,7 +3,7 @@ type: claim
 title: Conditioning results from multiple disengagement detection methods on response times shows how the conditional approach aids threshold setting and misclassification avoidance
 description: Conditioning results from multiple disengagement detection methods on response times shows how the conditional approach aids threshold setting and misclassification avoidance
 id: conditioning-detection-methods-on-response-times
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

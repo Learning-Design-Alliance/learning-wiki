@@ -3,7 +3,7 @@ type: element
 id: three-week-structured-kindergarten-transition-program
 title: Three-week structured summer kindergarten transition program
 description: A three-week structured kindergarten transition program offered by school districts during the summer before kindergarten.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

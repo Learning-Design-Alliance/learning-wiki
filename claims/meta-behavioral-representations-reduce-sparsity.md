@@ -3,7 +3,7 @@ type: claim
 title: "Collaborative representations from meta-behavioral sequences are far less sparse than KC-based representations, which reach up to 99.3% sparsity"
 description: "Collaborative representations from meta-behavioral sequences are far less sparse than KC-based representations, which reach up to 99.3% sparsity"
 id: meta-behavioral-representations-reduce-sparsity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

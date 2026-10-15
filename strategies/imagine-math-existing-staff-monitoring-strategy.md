@@ -3,7 +3,7 @@ type: strategy
 id: imagine-math-existing-staff-monitoring-strategy
 title: Implement Imagine Math within existing staffing, with educators monitoring engagement with individualized learning paths and progress reports
 description: "The program requires no additional staffing: it \"is typically implemented by students' mathematics teachers, mathematics specialists, or lab instructors.\" These educators are \"responsible for monitoring student engage..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

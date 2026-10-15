@@ -3,7 +3,7 @@ type: claim
 title: In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships
 description: In a rural randomized trial, TAPP strengthens both teacher-reported and parent-reported family-school relationships
 id: tapp-strengthens-parent-teacher-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

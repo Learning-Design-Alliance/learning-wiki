@@ -3,7 +3,7 @@ type: claim
 title: FSM-based evaluation aligns with human judgments of interactivity, functional correctness, and visual quality more strongly than VLM and unit-test baselines on balanced data
 description: FSM-based evaluation aligns with human judgments of interactivity, functional correctness, and visual quality more strongly than VLM and unit-test baselines on balanced data
 id: fsm-eval-aligns-with-human-interactivity-judgments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

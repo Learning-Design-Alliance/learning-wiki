@@ -3,7 +3,7 @@ type: claim
 title: "A case study of two multilingual undergraduates reveals a productive tension between students' experiments with posthumanist AI literacy and their entrenched humanistic assumptions"
 description: "A case study of two multilingual undergraduates reveals a productive tension between students' experiments with posthumanist AI literacy and their entrenched humanistic assumptions"
 id: posthumanist-literacy-tension-humanistic-assumptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

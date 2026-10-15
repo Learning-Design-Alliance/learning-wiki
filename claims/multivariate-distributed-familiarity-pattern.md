@@ -3,7 +3,7 @@ type: claim
 title: Familiarity recognition is represented by a distributed multivariate spatial-spectral pattern rather than localized single-feature shifts, necessitating multivariate machine learning
 description: Familiarity recognition is represented by a distributed multivariate spatial-spectral pattern rather than localized single-feature shifts, necessitating multivariate machine learning
 id: multivariate-distributed-familiarity-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

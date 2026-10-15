@@ -3,7 +3,7 @@ type: claim
 title: Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers
 description: Students off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers
 id: off-track-ninth-grade-graduation-odds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Classroom pedagogical interventions significantly reduce teleologic and anthropomorphic language, with curricular exposure but not age as a significant factor
 description: Classroom pedagogical interventions significantly reduce teleologic and anthropomorphic language, with curricular exposure but not age as a significant factor
 id: interventions-reduce-teleologic-anthropomorphic-language-curriculum-not-age
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -39,7 +39,7 @@ sources:
 
 ### Bautista 2015
 
-Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
+Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40. https://doi.org/10.3926/jotse.137
 
 `q2 · i?` · `causal · r1`
 
@@ -49,7 +49,7 @@ ANCOVA of between-subjects effects of classroom pedagogical interventions on 48 
 
 ### Bautista 2015 (2)
 
-Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
+Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40. https://doi.org/10.3926/jotse.137
 
 `q2 · i?` · `causal · r1`
 

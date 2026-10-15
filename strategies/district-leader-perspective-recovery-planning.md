@@ -3,7 +3,7 @@ type: strategy
 id: district-leader-perspective-recovery-planning
 title: "Include a district leader's perspective on supporting returning students in recovery planning"
 description: The webinar deliberately pairs research and policy with ground-level district practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The LLM-judge separates weak submissions but its ranking of the strongest systems has almost no agreement with crowd ranking (Spearman ρ = −0.17)
 description: The LLM-judge separates weak submissions but its ranking of the strongest systems has almost no agreement with crowd ranking (Spearman ρ = −0.17)
 id: llm-judge-ranks-strongest-systems-poorly
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

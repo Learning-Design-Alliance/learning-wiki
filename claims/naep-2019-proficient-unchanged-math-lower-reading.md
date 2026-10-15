@@ -3,7 +3,7 @@ type: claim
 title: Percentages of students at or above NAEP Proficient were unchanged in mathematics and lower in reading since 2017 at grades 4 and 8
 description: Percentages of students at or above NAEP Proficient were unchanged in mathematics and lower in reading since 2017 at grades 4 and 8
 id: naep-2019-proficient-unchanged-math-lower-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

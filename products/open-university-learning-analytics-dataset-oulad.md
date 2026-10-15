@@ -4,7 +4,7 @@ id: open-university-learning-analytics-dataset-oulad
 title: Open University Learning Analytics Dataset (OULAD)
 description: OULAD is an open-source dataset maintained for learning-analytics research, containing demographic, virtual learning-environment activity, and performance data from adult learners at The Open University.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: freewriting-private-ungraded-warmup
 title: Use freewriting as a private, ungraded warm-up to unlock ideas and release tension
 description: Freewriting is spontaneous, unstructured, uninterrupted writing for a set short period in which the writer writes without stopping or correcting.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise"
 description: "Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise"
 id: fabricated-references-cluster-disciplinary-journals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

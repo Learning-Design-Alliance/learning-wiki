@@ -3,7 +3,7 @@ type: strategy
 id: brief-metalinguistic-feedback-in-communicative-tasks
 title: Embed metalinguistic corrective feedback briefly within communicative tasks without disrupting communicative flow
 description: "The article recommends providing metalinguistic explanation online during communicative tasks, arguing it \"constitutes a brief time-out from communicating, which allows the learner to focus explicitly but briefly on f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

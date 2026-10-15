@@ -3,7 +3,7 @@ type: claim
 title: Systematic implementation of Energizers improves on-task behavior during academic instruction in third- and fourth-grade students
 description: Systematic implementation of Energizers improves on-task behavior during academic instruction in third- and fourth-grade students
 id: energizers-improved-on-task-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

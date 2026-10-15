@@ -3,7 +3,7 @@ type: strategy
 id: develop-personal-strategy-sets-for-incidental-vocabulary
 title: "Develop learners' personal sets of effective vocabulary strategies rather than teaching arbitrary strategy lists"
 description: "Based on the finding that strategy mastery predicted incidental vocabulary acquisition, the authors recommend that \"teachers may encourage L2 learners to become strategic learners by developing a personal set of effec..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

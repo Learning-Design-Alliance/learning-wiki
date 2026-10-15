@@ -3,7 +3,7 @@ type: claim
 title: Principals are generally more positive about TPE than teachers, but perception gaps are narrowing
 description: Principals are generally more positive about TPE than teachers, but perception gaps are narrowing
 id: principal-teacher-perception-gap-narrowing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

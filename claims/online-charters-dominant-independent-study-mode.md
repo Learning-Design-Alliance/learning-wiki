@@ -3,7 +3,7 @@ type: claim
 title: Student-driven, independent study is the dominant mode of learning in online charter schools, with 33 percent offering only self-paced instruction
 description: Student-driven, independent study is the dominant mode of learning in online charter schools, with 33 percent offering only self-paced instruction
 id: online-charters-dominant-independent-study-mode
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

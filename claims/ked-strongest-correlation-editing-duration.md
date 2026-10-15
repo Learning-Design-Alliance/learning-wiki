@@ -3,7 +3,7 @@ type: claim
 title: Knowledge-aware Editing Distance correlates most strongly with human editing duration among evaluated metrics
 description: Knowledge-aware Editing Distance correlates most strongly with human editing duration among evaluated metrics
 id: ked-strongest-correlation-editing-duration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

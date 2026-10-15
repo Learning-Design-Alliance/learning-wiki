@@ -3,7 +3,7 @@ type: claim
 title: "Kindergarten children's working memory and inhibition T-scores are significantly lower than the excellent-level criterion of 56"
 description: "Kindergarten children's working memory and inhibition T-scores are significantly lower than the excellent-level criterion of 56"
 id: nonthaburi-kindergarteners-ef-below-criterion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence
 description: Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence
 id: agreement-moderators-tiers-consensus-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

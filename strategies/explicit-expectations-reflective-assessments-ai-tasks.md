@@ -3,7 +3,7 @@ type: strategy
 id: explicit-expectations-reflective-assessments-ai-tasks
 title: Design AI-integration activities that set explicit expectations for AI-assisted work, integrate reflective assessments of AI outputs, and build tasks strengthening critical thinking and academic integrity
 description: "This strategy packages the article's three named activity types for integrating generative AI into an academic writing course."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

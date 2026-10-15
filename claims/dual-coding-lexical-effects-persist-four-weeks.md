@@ -3,7 +3,7 @@ type: claim
 title: The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay
 description: The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay
 id: dual-coding-lexical-effects-persist-four-weeks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

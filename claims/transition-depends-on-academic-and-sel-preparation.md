@@ -3,7 +3,7 @@ type: claim
 title: Successful transition from intermediate to secondary school depends on both academic preparation and social-emotional learning skills suited to a more independent environment
 description: Successful transition from intermediate to secondary school depends on both academic preparation and social-emotional learning skills suited to a more independent environment
 id: transition-depends-on-academic-and-sel-preparation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

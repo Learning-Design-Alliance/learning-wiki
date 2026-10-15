@@ -3,7 +3,7 @@ type: claim
 title: "Schools' K-3 growth estimates are much less precise for smaller schools than for larger schools"
 description: "Schools' K-3 growth estimates are much less precise for smaller schools than for larger schools"
 id: k3-growth-precision-lower-for-smaller-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

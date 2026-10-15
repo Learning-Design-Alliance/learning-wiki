@@ -3,7 +3,7 @@ type: claim
 title: Product measures distinguish LLM-formulated text from classroom-formulated text regardless of how it was entered
 description: Product measures distinguish LLM-formulated text from classroom-formulated text regardless of how it was entered
 id: product-view-reflects-who-formulated-text
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

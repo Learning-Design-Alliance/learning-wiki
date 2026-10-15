@@ -3,7 +3,7 @@ type: claim
 title: SRJudge improves prediction on hard-to-distinguish samples, with larger gains on S Math than on the higher-grade datasets
 description: SRJudge improves prediction on hard-to-distinguish samples, with larger gains on S Math than on the higher-grade datasets
 id: srjudge-gains-hard-to-distinguish-samples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

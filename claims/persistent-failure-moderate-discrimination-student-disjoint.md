@@ -3,7 +3,7 @@ type: claim
 title: Current-submission evidence and prior traces predict near-term persistent failure with moderate discrimination under student-disjoint evaluation
 description: Current-submission evidence and prior traces predict near-term persistent failure with moderate discrimination under student-disjoint evaluation
 id: persistent-failure-moderate-discrimination-student-disjoint
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

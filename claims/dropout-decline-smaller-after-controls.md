@@ -3,7 +3,7 @@ type: claim
 title: After controlling for demographic changes and school enrollment patterns, the postpolicy decline in dropout rates appears slightly smaller, and the report urges caution in attributing trends to the gate
 description: After controlling for demographic changes and school enrollment patterns, the postpolicy decline in dropout rates appears slightly smaller, and the report urges caution in attributing trends to the gate
 id: dropout-decline-smaller-after-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

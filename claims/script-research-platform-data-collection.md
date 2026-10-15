@@ -3,7 +3,7 @@ type: claim
 title: SCRIPT serves as a research platform enabling keystroke-level data collection and controlled comparison of ITS components
 description: SCRIPT serves as a research platform enabling keystroke-level data collection and controlled comparison of ITS components
 id: script-research-platform-data-collection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

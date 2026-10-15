@@ -2,7 +2,7 @@
 type: theory
 title: "Reading fluency consists of three components: accuracy, automaticity, and prosody"
 description: The review defines reading fluency as the ability to read aloud a text accurately and with natural speed, built from three components.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

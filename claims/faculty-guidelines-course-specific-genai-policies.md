@@ -3,7 +3,7 @@ type: claim
 title: "Nearly all top-50 universities provide faculty GenAI guidelines, with 94% emphasizing establishing and communicating course-specific GenAI policies"
 description: "Nearly all top-50 universities provide faculty GenAI guidelines, with 94% emphasizing establishing and communicating course-specific GenAI policies"
 id: faculty-guidelines-course-specific-genai-policies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

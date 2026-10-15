@@ -3,7 +3,7 @@ type: claim
 title: Natural lighting and green window views benefit mood, sleep, cognition, and test performance
 description: Natural lighting and green window views benefit mood, sleep, cognition, and test performance
 id: daylight-green-views-benefit-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

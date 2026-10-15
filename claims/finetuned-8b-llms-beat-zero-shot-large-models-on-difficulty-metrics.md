@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B
 description: Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B
 id: finetuned-8b-llms-beat-zero-shot-large-models-on-difficulty-metrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

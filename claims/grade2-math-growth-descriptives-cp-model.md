@@ -3,7 +3,7 @@ type: claim
 title: In the study data, mean spring grade-2 math RIT was 190.6 with linear spring-to-spring growth of 14.5 RIT, and mean fall-to-spring gain in grade-2 math was 13.4 RIT
 description: In the study data, mean spring grade-2 math RIT was 190.6 with linear spring-to-spring growth of 14.5 RIT, and mean fall-to-spring gain in grade-2 math was 13.4 RIT
 id: grade2-math-growth-descriptives-cp-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

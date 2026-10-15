@@ -3,7 +3,7 @@ type: strategy
 id: ten-minutes-per-grade-homework-guideline
 title: Apply the 10-minutes-per-grade homework time guideline, adjusted modestly for remote learning
 description: The paper recommends a common guideline that total homework across subjects be 10 minutes per night per grade level, e.g.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

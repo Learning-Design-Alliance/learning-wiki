@@ -3,7 +3,7 @@ type: claim
 title: Trained human evaluators provided higher-quality formative feedback than ChatGPT on four of five components, while ChatGPT outperformed humans on criteria-based feedback
 description: Trained human evaluators provided higher-quality formative feedback than ChatGPT on four of five components, while ChatGPT outperformed humans on criteria-based feedback
 id: chatgpt-feedback-quality-versus-human-raters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

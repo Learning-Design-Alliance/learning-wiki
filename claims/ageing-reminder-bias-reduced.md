@@ -3,7 +3,7 @@ type: claim
 title: Older adults show reduced reminder bias relative to objective need despite setting more reminders
 description: Older adults show reduced reminder bias relative to objective need despite setting more reminders
 id: ageing-reminder-bias-reduced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

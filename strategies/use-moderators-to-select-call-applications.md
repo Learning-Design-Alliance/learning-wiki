@@ -3,7 +3,7 @@ type: strategy
 id: use-moderators-to-select-call-applications
 title: Teachers should use the identified moderators as criteria when selecting CALL applications and predicting student performance
 description: "The article's implication section recommends that teachers consider the study's moderator findings when choosing feedback applications."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

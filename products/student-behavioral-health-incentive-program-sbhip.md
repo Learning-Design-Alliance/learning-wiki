@@ -4,7 +4,7 @@ id: student-behavioral-health-incentive-program-sbhip
 title: Student Behavioral Health Incentive Program (SBHIP)
 description: A California initiative that distributed Medi-Cal managed care plan funding to county offices of education and local educational agencies from 2022 through 2024 to expand school-affiliated behavioral health services for TK–12 students.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

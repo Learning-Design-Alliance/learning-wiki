@@ -3,7 +3,7 @@ type: claim
 title: Career adapt-abilities significantly and negatively predict AI anxiety among English majors
 description: Career adapt-abilities significantly and negatively predict AI anxiety among English majors
 id: career-adapt-abilities-negatively-predict-ai-anxiety-english-majors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Financial incentives for teen parents show no discernible effects on completing school
 description: Financial incentives for teen parents show no discernible effects on completing school
 id: financial-incentives-teen-parents-completing-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

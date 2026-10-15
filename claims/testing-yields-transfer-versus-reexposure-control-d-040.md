@@ -3,7 +3,7 @@ type: claim
 title: Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)
 description: Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)
 id: testing-yields-transfer-versus-reexposure-control-d-040
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

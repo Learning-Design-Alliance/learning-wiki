@@ -3,7 +3,7 @@ type: claim
 title: Teachers used ASSISTments reports to adjust instruction and make problem review more frequent, targeted, and data driven
 description: Teachers used ASSISTments reports to adjust instruction and make problem review more frequent, targeted, and data driven
 id: assistments-data-driven-review-instructional-adjustment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

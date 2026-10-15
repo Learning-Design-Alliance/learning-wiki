@@ -3,7 +3,7 @@ type: element
 id: 2006-nsse-embedded-vague-quantifier-experiment
 title: Experiment embedded in the 2006 National Survey of Student Engagement
 description: "This element is the data source for the study: an experiment embedded in the 2006 National Survey of Student Engagement."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

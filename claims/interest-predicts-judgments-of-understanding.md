@@ -3,7 +3,7 @@ type: claim
 title: "Interest ratings were the only significant predictor of readers' predictive judgments of understanding"
 description: "Interest ratings were the only significant predictor of readers' predictive judgments of understanding"
 id: interest-predicts-judgments-of-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

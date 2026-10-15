@@ -3,7 +3,7 @@ type: claim
 title: Principal support for Grow predicts teacher Grow use above and beyond teacher demographics and technology factors
 description: Principal support for Grow predicts teacher Grow use above and beyond teacher demographics and technology factors
 id: principal-support-predicts-teacher-grow-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

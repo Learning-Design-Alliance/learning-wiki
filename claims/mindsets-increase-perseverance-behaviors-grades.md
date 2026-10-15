@@ -3,7 +3,7 @@ type: claim
 title: Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle
 description: Positive academic mindsets increase perseverance and academic behaviors, yielding higher grades; negative mindsets produce a self-defeating cycle
 id: mindsets-increase-perseverance-behaviors-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

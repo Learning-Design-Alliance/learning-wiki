@@ -3,7 +3,7 @@ type: element
 id: narrative-experience-multicultural-education-exemplar
 title: "Narrative & Experience in Multicultural Education (2005) as an exemplar of puzzle-driven narrative inquiry"
 description: This edited book is presented as an exemplar of narrative inquiry applied to multicultural issues in education.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

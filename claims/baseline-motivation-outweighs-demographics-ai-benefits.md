@@ -3,7 +3,7 @@ type: claim
 title: Baseline motivational states shape perceived AI benefits more than demographics, with female-coded gender the only significant demographic effect (lower perceived competence relief)
 description: Baseline motivational states shape perceived AI benefits more than demographics, with female-coded gender the only significant demographic effect (lower perceived competence relief)
 id: baseline-motivation-outweighs-demographics-ai-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Value-added estimates are likely to be noisy with the amount of data typically used in practice
 description: Value-added estimates are likely to be noisy with the amount of data typically used in practice
 id: value-added-estimates-noisy-typical-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

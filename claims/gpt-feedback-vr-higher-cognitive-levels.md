@@ -3,7 +3,7 @@ type: claim
 title: Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback
 description: Undergraduates learning IoT tasks in VR with ChatGPT-integrated feedback reached significantly higher cognitive levels on memory, understanding, and application tasks than peers receiving traditional VR feedback
 id: gpt-feedback-vr-higher-cognitive-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

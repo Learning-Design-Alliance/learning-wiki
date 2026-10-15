@@ -4,7 +4,7 @@ id: curated-dataset-of-1000-captioned-nuclear-energy-images-with-automated-extra
 title: Curated dataset of 1,000 captioned nuclear energy images with automated extraction pipeline and released SDXL checkpoint
 description: Mohammed I.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

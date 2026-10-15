@@ -3,7 +3,7 @@ type: claim
 title: The hybrid grading contract helps resist grade inflation by reserving grades above B for exceptionally high quality
 description: The hybrid grading contract helps resist grade inflation by reserving grades above B for exceptionally high quality
 id: hybrid-contract-resists-grade-inflation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

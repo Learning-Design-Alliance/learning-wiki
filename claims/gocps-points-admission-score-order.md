@@ -3,7 +3,7 @@ type: claim
 title: In points-based GoCPS programs, students were admitted strictly in order of application score within priority groups
 description: In points-based GoCPS programs, students were admitted strictly in order of application score within priority groups
 id: gocps-points-admission-score-order
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

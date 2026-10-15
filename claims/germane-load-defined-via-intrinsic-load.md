@@ -3,7 +3,7 @@ type: claim
 title: Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity
 description: Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity
 id: germane-load-defined-via-intrinsic-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

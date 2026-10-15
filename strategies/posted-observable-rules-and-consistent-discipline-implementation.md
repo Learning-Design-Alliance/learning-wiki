@@ -3,7 +3,7 @@ type: strategy
 id: posted-observable-rules-and-consistent-discipline-implementation
 title: Implement clear, consistently enforced rules and routines, including a uniform schoolwide discipline plan
 description: "The brief's implementation section advises that \"Rules should be posted so all students can see them and be reminded of what is expected\", that rules be brief and stated in terms of observable behavior, and that teach..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

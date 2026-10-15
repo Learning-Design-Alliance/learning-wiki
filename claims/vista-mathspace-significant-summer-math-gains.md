@@ -3,7 +3,7 @@ type: claim
 title: Vista students using Mathspace showed statistically significant math gains over the summer, while benchmark scores were not significantly different in the other two districts
 description: Vista students using Mathspace showed statistically significant math gains over the summer, while benchmark scores were not significantly different in the other two districts
 id: vista-mathspace-significant-summer-math-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

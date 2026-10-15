@@ -2,7 +2,7 @@
 type: claim
 title: Multivoiced boundary crossing supports holistic nature connection and ethical reflection
 id: multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

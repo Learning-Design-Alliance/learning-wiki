@@ -3,7 +3,7 @@ type: strategy
 id: predict-test-case-invalidity-before-delivery
 title: Develop models that predict test case invalidity before delivery so invalid AI feedback can be filtered or repaired in real time
 description: "The article proposes developing models that predict test case invalidity before delivery, \"enabling real-time filtering or repair\" of AI-generated failing test cases."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

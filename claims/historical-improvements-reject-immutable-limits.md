@@ -3,7 +3,7 @@ type: claim
 title: Historical increases in peak performance contradict fixed innate upper limits
 description: Historical increases in peak performance contradict fixed innate upper limits
 id: historical-improvements-reject-immutable-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

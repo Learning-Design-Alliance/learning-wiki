@@ -3,7 +3,7 @@ type: strategy
 id: eta-success-structure-strategy
 title: Structure evaluation technical assistance around funding and provision, utilization, benefits, and success factors
 description: "The article organizes its account of evaluation technical assistance around six topics: the grant programs, \"details about ETA including its funding and provision,\" \"details about the success and utilization of ETA,\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

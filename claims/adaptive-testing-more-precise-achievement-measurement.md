@@ -3,7 +3,7 @@ type: claim
 title: Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items
 description: Adaptive testing yields more precise achievement-level estimates than conventional classroom tests while using fewer items
 id: adaptive-testing-more-precise-achievement-measurement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

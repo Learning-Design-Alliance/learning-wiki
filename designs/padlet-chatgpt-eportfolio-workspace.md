@@ -3,7 +3,7 @@ type: design
 id: padlet-chatgpt-eportfolio-workspace
 title: Padlet-plus-ChatGPT digital workspace configuration for e-portfolio speaking tasks
 description: "In the CEA implementation, students used two linked platforms: Padlet as the primary e-portfolio environment for uploading recorded speaking videos, receiving peer comments, and exchanging collaborative feedback, and..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

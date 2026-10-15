@@ -3,7 +3,7 @@ type: strategy
 id: applications-raise-self-esteem-internal-control-reduce-perfectionism
 title: Design educational applications that raise student self-esteem, help students take control of their lives, and reduce perfectionism
 description: "The authors' concluding recommendation is that, given the observed relationships between subjective well-being and the three variables, \"the applications or empirical studies that make students increase their self-est..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

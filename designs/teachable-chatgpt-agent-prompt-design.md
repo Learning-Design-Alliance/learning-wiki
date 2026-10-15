@@ -3,7 +3,7 @@ type: design
 id: teachable-chatgpt-agent-prompt-design
 title: Prompt-based teachable ChatGPT agent structured by a five-stage help-seeking model
 description: The teachable ChatGPT agent is a prompt-based configuration of gpt-4 that role-plays a help-seeking student learning the eight queens puzzle.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

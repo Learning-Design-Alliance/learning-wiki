@@ -3,7 +3,7 @@ type: claim
 title: "Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC"
 description: "Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC"
 id: dc-parents-distance-demographics-academics-drive-choice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

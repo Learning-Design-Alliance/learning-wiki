@@ -3,7 +3,7 @@ type: claim
 title: Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines
 description: Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines
 id: associate-deans-report-no-official-ai-policies-localized-guidelines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

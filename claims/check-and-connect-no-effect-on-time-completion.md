@@ -3,7 +3,7 @@ type: claim
 title: "Check & Connect shows no discernible effect on on-time high school completion"
 description: "Check & Connect shows no discernible effect on on-time high school completion"
 id: check-and-connect-no-effect-on-time-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "No statistically significant difference in children's post-assessment ocean science scores between intervention and comparison groups"
 description: "No statistically significant difference in children's post-assessment ocean science scores between intervention and comparison groups"
 id: app-no-child-science-knowledge-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

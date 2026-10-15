@@ -3,7 +3,7 @@ type: claim
 title: Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies
 description: Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies
 id: autonomy-support-training-effective-d63
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

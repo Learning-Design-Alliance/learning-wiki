@@ -4,7 +4,7 @@ id: success-project
 title: Success Project
 description: A school-based college-access and student-success programme implemented by full-time Success coordinators through the 6to16 curriculum, grades-and-attendance monitoring, and high-school application support.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

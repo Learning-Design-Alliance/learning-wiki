@@ -3,7 +3,7 @@ type: strategy
 id: longer-language-programs-with-follow-up-assessments
 title: Develop language intervention programs with longer time frames, transferable strategies, and follow-up assessments
 description: "The review's forward-looking recommendation is that future programs must extend beyond short vocabulary-training cycles."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

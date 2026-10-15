@@ -3,7 +3,7 @@ type: claim
 title: Academic and test disengagement are connected through a common association with poor self-management
 description: Academic and test disengagement are connected through a common association with poor self-management
 id: self-management-common-link-disengagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

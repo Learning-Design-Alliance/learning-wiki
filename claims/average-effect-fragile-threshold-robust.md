@@ -3,7 +3,7 @@ type: claim
 title: The average effect of verified AI materials attenuates when the lowest pre-intervention marks are removed, while the threshold effect at the upper-second boundary is robust
 description: The average effect of verified AI materials attenuates when the lowest pre-intervention marks are removed, while the threshold effect at the upper-second boundary is robust
 id: average-effect-fragile-threshold-robust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

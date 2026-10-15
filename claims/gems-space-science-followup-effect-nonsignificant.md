@@ -3,7 +3,7 @@ type: claim
 title: The effect of GEMS® Space Science Sequence on the Space Science Content test is smaller and not statistically significant at the five-month follow-up
 description: The effect of GEMS® Space Science Sequence on the Space Science Content test is smaller and not statistically significant at the five-month follow-up
 id: gems-space-science-followup-effect-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

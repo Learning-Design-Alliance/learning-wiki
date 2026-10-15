@@ -3,7 +3,7 @@ type: strategy
 id: simulation-game-mode-concept-testing-feedback
 title: Add a game mode with input fields and customized feedback to a physics simulation for concept testing
 description: "In the game mode, students decide which input field to key in first and receive feedback text whose level of customization depends on teachers' customized inputs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

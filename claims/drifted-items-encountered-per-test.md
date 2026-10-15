@@ -3,7 +3,7 @@ type: claim
 title: "Students encountered substantial numbers of items with changed parameter estimates, averaging 11–38% of test length by subject"
 description: "Students encountered substantial numbers of items with changed parameter estimates, averaging 11–38% of test length by subject"
 id: drifted-items-encountered-per-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

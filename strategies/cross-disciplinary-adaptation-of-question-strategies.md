@@ -3,7 +3,7 @@ type: strategy
 id: cross-disciplinary-adaptation-of-question-strategies
 title: "Adapt the two question-design strategies across disciplines: novel scenarios for logic puzzles, guided reasoning for proofs and critical analyses"
 description: "In future work, the authors recommend extending the framework beyond computer science: \"Strategy 1 is well-suited for novel thought experiments or logic puzzles, while Strategy 2 can also be applied to constructing pr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

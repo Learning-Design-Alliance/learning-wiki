@@ -3,7 +3,7 @@ type: claim
 title: Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall
 description: Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall
 id: task-relative-demand-predicts-task-specific-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

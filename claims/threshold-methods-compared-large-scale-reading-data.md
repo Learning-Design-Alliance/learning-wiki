@@ -3,7 +3,7 @@ type: claim
 title: Response-time threshold-setting methods for detecting noneffortful item responses were compared using reading scores from over 728,923 US students in 2,056 schools
 description: Response-time threshold-setting methods for detecting noneffortful item responses were compared using reading scores from over 728,923 US students in 2,056 schools
 id: threshold-methods-compared-large-scale-reading-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

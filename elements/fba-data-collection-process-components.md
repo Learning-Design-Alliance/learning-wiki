@@ -3,7 +3,7 @@ type: element
 id: fba-data-collection-process-components
 title: "FBA data collection and analysis process: indirect, direct observation, summarizing, and functional analysis"
 description: The report describes four components of FBA practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

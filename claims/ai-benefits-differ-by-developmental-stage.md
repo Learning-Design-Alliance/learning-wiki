@@ -3,7 +3,7 @@ type: claim
 title: "The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners"
 description: "The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners"
 id: ai-benefits-differ-by-developmental-stage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

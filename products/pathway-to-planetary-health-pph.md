@@ -4,7 +4,7 @@ id: pathway-to-planetary-health-pph
 title: Pathway to Planetary Health (PPH)
 description: A six-dimension practice framework developed by MacKenzie-Shalders et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

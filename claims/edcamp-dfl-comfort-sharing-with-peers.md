@@ -3,7 +3,7 @@ type: claim
 title: Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators
 description: Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators
 id: edcamp-dfl-comfort-sharing-with-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

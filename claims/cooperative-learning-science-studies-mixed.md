@@ -3,7 +3,7 @@ type: claim
 title: Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons
 description: Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons
 id: cooperative-learning-science-studies-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

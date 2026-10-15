@@ -3,7 +3,7 @@ type: strategy
 id: five-exercise-sequence-around-segmenting
 title: Sequence five exercise types around automatic segmenting, from note taking to translation
 description: "The article describes a working sequence of exercises built on automatically segmented sound: note taking (the \"content appropriation\" phase), a written open-answer question linked to the sequence, transcription of a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

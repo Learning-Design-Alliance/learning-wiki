@@ -3,7 +3,7 @@ type: claim
 title: Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks
 description: Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks
 id: students-view-llms-useful-but-requiring-critical-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

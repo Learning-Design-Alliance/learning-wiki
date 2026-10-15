@@ -3,7 +3,7 @@ type: design
 id: guided-inquiry-perspectival-student-voice-genai-model
 title: Conceptual model positioning students as co-designers of course policies through guided inquiry, perspectival thinking, and student voice
 description: "The article's conceptual model (Figure 1) positions students not only as learners but as co-designers of course structures and policies."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile"
 description: "The mathematics sex difference is practically non-existent among low performers and largest among high performers, where boys outnumber girls up to 2.7:1 above the 99th percentile"
 id: math-sex-difference-concentrated-at-high-end
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

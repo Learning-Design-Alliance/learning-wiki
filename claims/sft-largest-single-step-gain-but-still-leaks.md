@@ -3,7 +3,7 @@ type: claim
 title: "Supervised fine-tuning on SocraticEdu provides the largest single-step SE gain (+0.200) but still leaks target terms in 26.7% of dialogues"
 description: "Supervised fine-tuning on SocraticEdu provides the largest single-step SE gain (+0.200) but still leaks target terms in 26.7% of dialogues"
 id: sft-largest-single-step-gain-but-still-leaks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

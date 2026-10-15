@@ -3,7 +3,7 @@ type: claim
 title: Effective AI use in nursing education depends on prompting skills, which participants identify as critical for obtaining accurate and reliable outputs
 description: Effective AI use in nursing education depends on prompting skills, which participants identify as critical for obtaining accurate and reliable outputs
 id: prompting-skills-shape-ai-output-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

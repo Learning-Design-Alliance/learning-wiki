@@ -3,7 +3,7 @@ type: claim
 title: "LLM-generated robot control code succeeds on 100%, 94.4%, and 88.9% of simple, composite, and complex instructions respectively"
 description: "LLM-generated robot control code succeeds on 100%, 94.4%, and 88.9% of simple, composite, and complex instructions respectively"
 id: llm-code-success-rate-declines-with-instruction-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

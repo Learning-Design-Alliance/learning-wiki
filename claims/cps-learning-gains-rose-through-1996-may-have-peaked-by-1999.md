@@ -3,7 +3,7 @@ type: claim
 title: CPS learning gains were consistently higher in all grades in 1996 than in 1994, but 1999 gains declined slightly relative to 1997 in all grades except third, suggesting productivity gains may have peaked
 description: CPS learning gains were consistently higher in all grades in 1996 than in 1994, but 1999 gains declined slightly relative to 1997 in all grades except third, suggesting productivity gains may have peaked
 id: cps-learning-gains-rose-through-1996-may-have-peaked-by-1999
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

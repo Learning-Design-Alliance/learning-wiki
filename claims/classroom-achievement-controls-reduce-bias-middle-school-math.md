@@ -3,7 +3,7 @@ type: claim
 title: Accounting for mean and standard deviation of classroom achievement may reduce bias for middle school math teachers
 description: Accounting for mean and standard deviation of classroom achievement may reduce bias for middle school math teachers
 id: classroom-achievement-controls-reduce-bias-middle-school-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

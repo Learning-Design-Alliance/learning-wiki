@@ -3,7 +3,7 @@ type: claim
 title: "Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02"
 description: "Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02"
 id: hake-ie-gains-two-sd-greater
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

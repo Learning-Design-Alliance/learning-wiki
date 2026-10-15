@@ -3,7 +3,7 @@ type: claim
 title: Social-emotional support was the most frequent code in COVID-19-related Duolingo discussion posts, followed by gratitude and pandemic
 description: Social-emotional support was the most frequent code in COVID-19-related Duolingo discussion posts, followed by gratitude and pandemic
 id: socio-emotional-support-most-frequent-code
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

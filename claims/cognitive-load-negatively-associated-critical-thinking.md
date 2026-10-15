@@ -3,7 +3,7 @@ type: claim
 title: Cognitive load is negatively associated with critical thinking and with self-regulated learning
 description: Cognitive load is negatively associated with critical thinking and with self-regulated learning
 id: cognitive-load-negatively-associated-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

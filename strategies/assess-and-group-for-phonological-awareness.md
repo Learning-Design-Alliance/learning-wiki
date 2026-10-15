@@ -3,7 +3,7 @@ type: strategy
 id: assess-and-group-for-phonological-awareness
 title: Assess all students and form small groups with similar abilities so phonological awareness instruction can be provided at the appropriate level
 description: "For early literacy, the paper describes the predominant evidence-based approach to teaching phonological skills as a personalized one: \"to assess all students and create small groups with similar abilities so instruct..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

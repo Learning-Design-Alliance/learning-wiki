@@ -3,7 +3,7 @@ type: claim
 title: Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary
 description: Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary
 id: strong-acquisition-tasks-improve-internalization
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: element
 id: philadelphia-accelerated-schools-program
 title: "Philadelphia's accelerated schools: alternative high schools serving students at high risk of dropping out"
 description: "Philadelphia's accelerated schools are alternative high schools serving students at high risk of dropping out."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

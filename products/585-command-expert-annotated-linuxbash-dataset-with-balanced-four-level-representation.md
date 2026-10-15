@@ -4,7 +4,7 @@ id: 585-command-expert-annotated-linuxbash-dataset-with-balanced-four-level-repr
 title: 585-command expert-annotated Linux/bash dataset with balanced four-level representation
 description: A dataset created by Alonso-Carracedo et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Visualisation literacy positively predicts task accuracy in both conditions, and data comics show no equalising effect for lower-literacy students
 description: Visualisation literacy positively predicts task accuracy in both conditions, and data comics show no equalising effect for lower-literacy students
 id: visualisation-literacy-predicts-accuracy-no-equalising-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

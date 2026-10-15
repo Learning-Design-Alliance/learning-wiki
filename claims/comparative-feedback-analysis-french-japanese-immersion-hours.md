@@ -3,7 +3,7 @@ type: claim
 title: The study compared feedback-uptake relationships across two immersion settings totaling 18.3 hr of French and 14.8 hr of Japanese classroom interaction
 description: The study compared feedback-uptake relationships across two immersion settings totaling 18.3 hr of French and 14.8 hr of Japanese classroom interaction
 id: comparative-feedback-analysis-french-japanese-immersion-hours
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

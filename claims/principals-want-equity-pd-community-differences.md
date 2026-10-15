@@ -3,7 +3,7 @@ type: claim
 title: More than two thirds of principals want equity-focused professional development, with significant differences by community type
 description: More than two thirds of principals want equity-focused professional development, with significant differences by community type
 id: principals-want-equity-pd-community-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

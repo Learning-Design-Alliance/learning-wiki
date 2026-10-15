@@ -3,7 +3,7 @@ type: claim
 title: Teachers rated PATHS intervention children as less socially withdrawn than controls at year end
 description: Teachers rated PATHS intervention children as less socially withdrawn than controls at year end
 id: paths-preschool-reduces-social-withdrawal-teacher-rated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

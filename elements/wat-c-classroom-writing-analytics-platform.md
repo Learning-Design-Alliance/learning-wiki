@@ -3,7 +3,7 @@ type: element
 id: wat-c-classroom-writing-analytics-platform
 title: WAT-C (Writing Analytics Toolkit Classroom), an open-source web platform providing formative writing feedback
 description: WAT-C is the classroom-facing implementation of the Writing Analytics Toolkit, an open-source platform providing formative feedback on student writing using natural language processing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

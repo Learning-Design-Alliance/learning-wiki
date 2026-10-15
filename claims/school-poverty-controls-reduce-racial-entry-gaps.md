@@ -3,7 +3,7 @@ type: claim
 title: Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry
 description: Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry
 id: school-poverty-controls-reduce-racial-entry-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

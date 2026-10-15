@@ -3,7 +3,7 @@ type: claim
 title: Assessment/Evaluation was the most common use of AIEd in higher education, with automatic assessment in 26 studies
 description: Assessment/Evaluation was the most common use of AIEd in higher education, with automatic assessment in 26 studies
 id: assessment-evaluation-most-common-ai-ed-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

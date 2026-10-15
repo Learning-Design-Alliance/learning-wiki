@@ -3,7 +3,7 @@ type: claim
 title: Random Forest reaches CV F1 = 0.924 on the psychographic survey dataset, but the article presents this only as a localized exploratory pilot
 description: Random Forest reaches CV F1 = 0.924 on the psychographic survey dataset, but the article presents this only as a localized exploratory pilot
 id: random-forest-survey-pilot-f1-0924
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

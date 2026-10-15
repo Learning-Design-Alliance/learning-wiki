@@ -3,7 +3,7 @@ type: strategy
 id: diagnose-misconception-versus-uncertainty-before-dyslexia-training
 title: Diagnose whether teachers hold misconceptions or uncertainties about dyslexia before designing training
 description: "Because many states now mandate dyslexia training, the article implies teacher educators should first identify which dyslexia concepts teachers hold as misconceptions versus merely unsure, since \"a different teaching..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Reproductive health shows the highest coverage gap (82.1% absence) and the highest judge-rated significance among divergent pairs (86%), making it a priority content area"
 description: "Reproductive health shows the highest coverage gap (82.1% absence) and the highest judge-rated significance among divergent pairs (86%), making it a priority content area"
 id: reproductive-health-highest-absence-and-significance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

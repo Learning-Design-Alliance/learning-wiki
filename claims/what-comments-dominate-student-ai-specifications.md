@@ -3,7 +3,7 @@ type: claim
 title: Student comments directing AI code generation are dominated by What comments, with How comments second and Why comments rare
 description: Student comments directing AI code generation are dominated by What comments, with How comments second and Why comments rare
 id: what-comments-dominate-student-ai-specifications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

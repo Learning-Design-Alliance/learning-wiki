@@ -3,7 +3,7 @@ type: claim
 title: Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes
 description: Intentionally designed career pathways with multiple entry and exit points and stackable credentials receive moderate evidence of improving student outcomes
 id: career-pathways-design-moderate-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

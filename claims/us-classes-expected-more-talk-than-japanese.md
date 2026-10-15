@@ -3,7 +3,7 @@ type: claim
 title: Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes
 description: Both learners perceived they were expected to talk more in American university English classes than in Japanese university classes
 id: us-classes-expected-more-talk-than-japanese
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

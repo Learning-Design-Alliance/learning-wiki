@@ -3,7 +3,7 @@ type: claim
 title: Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest
 description: Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest
 id: accountability-indicator-strengths-weaknesses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

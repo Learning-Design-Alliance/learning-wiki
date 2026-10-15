@@ -3,7 +3,7 @@ type: claim
 title: Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices
 description: Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices
 id: verification-routines-ethical-self-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

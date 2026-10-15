@@ -3,7 +3,7 @@ type: claim
 title: "In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels."
 description: "In a qualitative case study, LLMKT adjusts KC mastery estimates using the dialogue's textual content, such as the difficulty of the tutor's question, rather than only prior correctness labels."
 id: llmkt-uses-dialogue-text-to-adjust-kc-mastery-estimates
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

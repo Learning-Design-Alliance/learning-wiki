@@ -3,7 +3,7 @@ type: claim
 title: "Course availability can disrupt community college students' educational trajectories"
 description: "Course availability can disrupt community college students' educational trajectories"
 id: course-availability-disrupts-community-college-trajectories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

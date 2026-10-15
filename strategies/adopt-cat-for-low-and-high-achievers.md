@@ -3,7 +3,7 @@ type: strategy
 id: adopt-cat-for-low-and-high-achievers
 title: Adopt computerized adaptive testing to serve both low- and high-achieving students
 description: The strategy is for schools to adopt computerized adaptive testing as their achievement assessment, replacing fixed-form testing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Reduced enrollments affected nearly all redesigned principal preparation programs, with uneven recovery across programs
 description: Reduced enrollments affected nearly all redesigned principal preparation programs, with uneven recovery across programs
 id: illinois-principal-preparation-reduced-enrollments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: nbpts-five-core-propositions
 title: NBPTS Five Core Propositions for Accomplished Teaching
 description: The National Board for Professional Teaching Standards defines accomplished teaching across five propositions — commitment to students, subject and pedagogical mastery, managing and monitoring learning, systematic reflection, and membership in learning communities.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

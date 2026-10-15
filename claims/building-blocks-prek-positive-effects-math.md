@@ -3,7 +3,7 @@ type: claim
 title: Building Blocks for Math has positive effects on preschool mathematics achievement according to the WWC
 description: Building Blocks for Math has positive effects on preschool mathematics achievement according to the WWC
 id: building-blocks-prek-positive-effects-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

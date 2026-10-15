@@ -3,7 +3,7 @@ type: strategy
 id: behavioral-measures-for-ai-literacy-evaluation
 title: Evaluate AI literacy interventions with behavioral measures of LLM interaction in addition to self-reports
 description: "The article recommends that AI literacy interventions be evaluated with behavioral measures in addition to self-reports, because self-reports \"may miss important differences in actual use\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

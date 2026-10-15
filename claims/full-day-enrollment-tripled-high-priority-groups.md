@@ -3,7 +3,7 @@ type: claim
 title: Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students
 description: Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students
 id: full-day-enrollment-tripled-high-priority-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: cultivate-framework-for-action-school-improvement
 title: Use Cultivate data as a framework for action to identify strengths and improvement areas in learning environments
 description: "The article positions Cultivate as \"more than just a measurement tool; it is a framework for action.\" Schools use the valid, reliable student-experience data to \"identify areas of strength and areas for continuous imp..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

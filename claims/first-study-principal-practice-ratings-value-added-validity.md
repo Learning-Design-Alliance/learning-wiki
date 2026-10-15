@@ -3,7 +3,7 @@ type: claim
 title: There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures
 description: There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures
 id: first-study-principal-practice-ratings-value-added-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

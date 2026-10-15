@@ -3,7 +3,7 @@ type: claim
 title: Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)
 description: Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)
 id: overall-gender-gap-technological-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

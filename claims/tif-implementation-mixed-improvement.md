@@ -3,7 +3,7 @@ type: claim
 title: Some aspects of TIF implementation improved between years one and two while others, including bonus awareness, remained challenging
 description: Some aspects of TIF implementation improved between years one and two while others, including bonus awareness, remained challenging
 id: tif-implementation-mixed-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

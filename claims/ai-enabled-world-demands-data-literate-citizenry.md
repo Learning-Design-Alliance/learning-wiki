@@ -3,7 +3,7 @@ type: claim
 title: An AI-enabled world demands a data-literate citizenry able to read, use, interpret, and communicate about data and participate in AI-related policy debates
 description: An AI-enabled world demands a data-literate citizenry able to read, use, interpret, and communicate about data and participate in AI-related policy debates
 id: ai-enabled-world-demands-data-literate-citizenry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

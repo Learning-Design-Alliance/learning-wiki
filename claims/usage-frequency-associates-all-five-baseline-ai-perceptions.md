@@ -3,7 +3,7 @@ type: claim
 title: Self-reported LLM usage frequency shows Holm-corrected associations with all five baseline AI perception outcomes, strongest for complex-task trust, accuracy trust, and critical-thinking risk
 description: Self-reported LLM usage frequency shows Holm-corrected associations with all five baseline AI perception outcomes, strongest for complex-task trust, accuracy trust, and critical-thinking risk
 id: usage-frequency-associates-all-five-baseline-ai-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

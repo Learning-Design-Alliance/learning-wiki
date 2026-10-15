@@ -3,7 +3,7 @@ type: research-method
 id: narrative-inquiry
 title: Narrative inquiry
 description: "Narrative inquiry is a qualitatively oriented research method in education, first named by Connelly and Clandinin in 1990 and grounded in Dewey's philosophy."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: six-step-admissions-portfolio-implementation
 title: Six-step implementation process for an admissions portfolio review system
 description: "The report documents the process the Ross Undergraduate Admissions team used to build and run portfolio review: align the portfolio to central admission processes, establish technological capacity, develop rubrics, bu..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

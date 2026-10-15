@@ -3,7 +3,7 @@ type: claim
 title: L1 and L2 academic proficiencies are developmentally interdependent, so instruction in either language can build underlying academic ability
 description: L1 and L2 academic proficiencies are developmentally interdependent, so instruction in either language can build underlying academic ability
 id: l1-l2-academic-interdependence-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

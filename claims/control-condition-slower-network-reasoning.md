@@ -3,7 +3,7 @@ type: claim
 title: Participants deprived of relevant relational knowledge in Stage 1 take longer on the subsequent network-reasoning task
 description: Participants deprived of relevant relational knowledge in Stage 1 take longer on the subsequent network-reasoning task
 id: control-condition-slower-network-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

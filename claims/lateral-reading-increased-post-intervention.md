@@ -3,7 +3,7 @@ type: claim
 title: After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest
 description: After the modules, students engaged in lateral reading far more often, rising from 3 of 87 students at pretest to 67 of 87 at posttest
 id: lateral-reading-increased-post-intervention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

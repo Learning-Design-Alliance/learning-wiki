@@ -3,7 +3,7 @@ type: element
 id: early-attendance-importance-poster-infographic
 title: Attendance poster/infographic for pre-kindergarten and kindergarten audiences
 description: "The article is a poster/infographic released by Regional Educational Laboratory Mid-Atlantic in November 2019, described as a \"Poster/infographic on the importance of attendance in pre-kindergarten and kindergarten.\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

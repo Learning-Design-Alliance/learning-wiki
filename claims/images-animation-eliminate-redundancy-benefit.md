@@ -3,7 +3,7 @@ type: claim
 title: Verbal redundancy does not facilitate learning when materials include images or animation
 description: Verbal redundancy does not facilitate learning when materials include images or animation
 id: images-animation-eliminate-redundancy-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict
 description: Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict
 id: withdrawal-reasons-similar-across-modalities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

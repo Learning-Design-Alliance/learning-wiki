@@ -2,7 +2,7 @@
 type: theory
 title: "Taxonomy of Process Education: four sequential self-growth levels from Emerging to Accomplished"
 description: The Taxonomy of Process Education (TPE) is a four-level measurement metric derived from Process Education, used in AMOVA to weight instrument items.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

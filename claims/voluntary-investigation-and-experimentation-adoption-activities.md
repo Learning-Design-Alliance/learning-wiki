@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' voluntary individual adoption activities fall into two categories — investigating new computer resources and experimenting with altered teaching methods and classroom arrangements — associated with informational through consequence stages of concern"
 description: "Teachers' voluntary individual adoption activities fall into two categories — investigating new computer resources and experimenting with altered teaching methods and classroom arrangements — associated with informati..."
 id: voluntary-investigation-and-experimentation-adoption-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

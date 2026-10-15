@@ -3,7 +3,7 @@ type: design
 id: progressive-ecoach-digital-exercise-pattern
 title: Progressive home-based digital exercise pattern with eCoach guidance, reminders and self-paced progression
 description: "A lesson/programme-level design in which learners follow a progressive strength-and-balance curriculum at home at their own pace and convenience, guided by animated eCoaches providing \"instructions, guidance, safety i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

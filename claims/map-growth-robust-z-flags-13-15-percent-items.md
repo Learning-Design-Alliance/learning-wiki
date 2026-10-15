@@ -3,7 +3,7 @@ type: claim
 title: "13%–15% of MAP Growth items per subject were flagged as significantly drifted by the Robust Z procedure, with no clear pattern among flagged items"
 description: "13%–15% of MAP Growth items per subject were flagged as significantly drifted by the Robust Z procedure, with no clear pattern among flagged items"
 id: map-growth-robust-z-flags-13-15-percent-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

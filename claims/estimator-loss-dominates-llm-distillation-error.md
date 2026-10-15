@@ -3,7 +3,7 @@ type: claim
 title: Under a realistic estimator, remaining error originates upstream rather than from the distillation step
 description: Under a realistic estimator, remaining error originates upstream rather than from the distillation step
 id: estimator-loss-dominates-llm-distillation-error
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

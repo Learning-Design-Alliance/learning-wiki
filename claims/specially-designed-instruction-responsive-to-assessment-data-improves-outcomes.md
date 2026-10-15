@@ -3,7 +3,7 @@ type: claim
 title: Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data
 description: Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data
 id: specially-designed-instruction-responsive-to-assessment-data-improves-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer
 description: Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer
 id: implicit-strategies-inconclusive-domain-specific-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

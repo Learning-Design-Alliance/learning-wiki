@@ -3,7 +3,7 @@ type: claim
 title: "AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%"
 description: "AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%"
 id: ai-detection-only-marginally-better-than-humans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

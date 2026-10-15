@@ -4,7 +4,7 @@ id: entonasyon-degerlendirme-formu
 title: Entonasyon Değerlendirme Formu
 description: A 44-item, seven-point intonation-assessment form developed by Yakup Aksoy that converts cent-level deviations in violin students’ target notes into categorical accuracy scores.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

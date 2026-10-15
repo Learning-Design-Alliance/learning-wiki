@@ -3,7 +3,7 @@ type: element
 id: affective-development-curriculum-materials-bibliography
 title: Bibliography of 29 curriculum materials for affective development
 description: "Chapter 4 of the report presents \"a bibliography of 29 available curriculum materials for affective development,\" fulfilling the project objective to analyze available educational techniques and materials relating to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

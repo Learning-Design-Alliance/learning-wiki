@@ -3,7 +3,7 @@ type: strategy
 id: summer-learning-opportunities-students-disabilities
 title: Provide summer learning opportunities as a lever for improving educational outcomes for students with disabilities
 description: The article concludes that out-of-school time is where the achievement gap for students with disabilities widens, so summer programming is the implied intervention point.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: two-hour-ai-literacy-regulation-workshop
 title: Two-hour classroom AI literacy workshop combining LLM concepts with agency-preserving regulation practice
 description: "A two-hour, classroom-feasible workshop with a conceptual component on \"how LLMs generate text, why they can produce incomplete or incorrect answers\" and a practical component that \"did not rehearse the later experime..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

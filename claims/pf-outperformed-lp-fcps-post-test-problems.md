@@ -3,7 +3,7 @@ type: claim
 title: Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems
 description: Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems
 id: pf-outperformed-lp-fcps-post-test-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: future-challenges-of-using-dbr
 title: Anticipate and address the future challenges of using design-based research
 description: The article discusses future challenges of using design-based research as a methodology.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

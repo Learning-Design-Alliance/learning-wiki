@@ -4,7 +4,7 @@ id: bilingual-benchmark-of-1107-chinese-english-childrens-stories-with-silver-de
 title: "Bilingual benchmark of 1107 Chinese-English children's stories with silver developmental references and structured annotations"
 description: A bilingual benchmark dataset constructed by Sijing Yin et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

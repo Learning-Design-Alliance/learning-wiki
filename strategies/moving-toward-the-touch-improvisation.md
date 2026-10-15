@@ -3,7 +3,7 @@ type: strategy
 id: moving-toward-the-touch-improvisation
 title: "Moving toward the touch: partnered touch-guided improvisation for spatial-perceptual listening"
 description: "A partner improvisation exercise in which a blindfolded-eyed (eyes-closed) mover responds to an initiator's soft, direct touch by moving the touched body part toward the touch."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

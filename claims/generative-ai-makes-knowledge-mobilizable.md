@@ -3,7 +3,7 @@ type: claim
 title: Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds
 description: Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds
 id: generative-ai-makes-knowledge-mobilizable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

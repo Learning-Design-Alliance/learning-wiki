@@ -3,7 +3,7 @@ type: strategy
 id: demographic-psychometric-response-profiles
 title: Vary LLM response profiles via demographic and psychometric prompting to increase response variability
 description: "To counter the tendency of LLMs to give similar answers to the same item, CPIG prompts item-response generators with a baseline, a demographic profile (e.g., \"You are a Hispanic woman who works in real estate\"), or a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The article claims schools can improve attendance, test scores, and graduation rates by identifying high-impact metrics and fostering a collaborative culture of improvement
 description: The article claims schools can improve attendance, test scores, and graduation rates by identifying high-impact metrics and fostering a collaborative culture of improvement
 id: schools-improve-via-high-impact-metrics-and-collaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

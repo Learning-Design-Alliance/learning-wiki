@@ -3,7 +3,7 @@ type: claim
 title: Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes
 description: Direct one-on-one interaction with community partners is reported to help students see community members as people rather than stereotypes
 id: csl-one-on-one-partner-contact-disrupts-stereotypes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

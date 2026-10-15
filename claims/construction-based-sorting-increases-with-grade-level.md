@@ -3,7 +3,7 @@ type: claim
 title: Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases
 description: Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases
 id: construction-based-sorting-increases-with-grade-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

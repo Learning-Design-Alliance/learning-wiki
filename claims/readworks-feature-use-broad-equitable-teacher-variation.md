@@ -3,7 +3,7 @@ type: claim
 title: "Feature use was widespread across student groups (92% of students used at least one feature; 75% of assignments included feature use), with no differences by STAR score, special education status, or income, but substantial variation across teachers"
 description: "Feature use was widespread across student groups (92% of students used at least one feature; 75% of assignments included feature use), with no differences by STAR score, special education status, or income, but substa..."
 id: readworks-feature-use-broad-equitable-teacher-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

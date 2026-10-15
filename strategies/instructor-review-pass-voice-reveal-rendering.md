@@ -3,7 +3,7 @@ type: strategy
 id: instructor-review-pass-voice-reveal-rendering
 title: Before learners see a generated lecture video, run a short instructor review pass targeting voice timing, slide–narration sync, and slide rendering
 description: "The article recommends that platforms exposing Bespoke's compiled artifacts (objectives, plan, slides, transcript) for a short instructor pass before learners see the video should direct that pass at the weaknesses th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

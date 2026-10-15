@@ -3,7 +3,7 @@ type: strategy
 id: dcps-recommends-regular-apsi-participation
 title: DCPS recommends regular AP teacher participation in the Advanced Placement Summer Institute to promote quality AP instruction
 description: To promote quality instruction in AP courses, DCPS recommends that AP teachers participate regularly in the Advanced Placement Summer Institute (APSI), a staff-training program for AP teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

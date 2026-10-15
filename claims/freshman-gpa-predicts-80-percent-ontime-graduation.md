@@ -3,7 +3,7 @@ type: claim
 title: Freshman-year GPA alone correctly predicts about 80 percent of on-time high school graduates
 description: Freshman-year GPA alone correctly predicts about 80 percent of on-time high school graduates
 id: freshman-gpa-predicts-80-percent-ontime-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

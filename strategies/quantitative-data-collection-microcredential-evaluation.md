@@ -3,7 +3,7 @@ type: strategy
 id: quantitative-data-collection-microcredential-evaluation
 title: "Plan long-term quantitative data collection and interoperable systems to evaluate micro-credentials' social mobility impact"
 description: "Because most rural micro-credentialing programs remain in pilot phases, the report recommends that institutions \"plan for long-term impact and evaluation\" to determine whether micro-credentials promote social mobility..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

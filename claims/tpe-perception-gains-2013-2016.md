@@ -3,7 +3,7 @@ type: claim
 title: "Principals' positive perceptions of TPE rose 17 to 37 percentage points and teachers' rose 20 to 31 percentage points between 2013 and 2016"
 description: "Principals' positive perceptions of TPE rose 17 to 37 percentage points and teachers' rose 20 to 31 percentage points between 2013 and 2016"
 id: tpe-perception-gains-2013-2016
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: California school facilities are chronically underfunded, with stark facility-condition and spending disparities
 description: California school facilities are chronically underfunded, with stark facility-condition and spending disparities
 id: california-facilities-underfunded-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

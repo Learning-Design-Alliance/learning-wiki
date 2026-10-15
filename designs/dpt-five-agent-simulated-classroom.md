@@ -3,7 +3,7 @@ type: design
 id: dpt-five-agent-simulated-classroom
 title: Five-agent DPT simulated classroom on a static-friction problem
 description: "A simulated class of five AI students, each embodying a distinct point of failure in the reasoning process: Davide (Hazards A+B), Elena (Hazard C), Tommaso (Hazard D), Chiara (in transition) and Andrea (a near-expert..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

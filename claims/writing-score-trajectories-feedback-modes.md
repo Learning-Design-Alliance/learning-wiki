@@ -3,7 +3,7 @@ type: claim
 title: "Teacher feedback produced larger first-task score gains that dropped 32.8% by the second task, while AI-assisted peer feedback gains remained stable (a learning-curve effect)"
 description: "Teacher feedback produced larger first-task score gains that dropped 32.8% by the second task, while AI-assisted peer feedback gains remained stable (a learning-curve effect)"
 id: writing-score-trajectories-feedback-modes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

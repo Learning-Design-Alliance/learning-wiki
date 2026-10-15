@@ -3,7 +3,7 @@ type: claim
 title: "Fear of negative evaluation and limited vocabulary knowledge rank second and third as sources of speaking anxiety (78% and 72%)"
 description: "Fear of negative evaluation and limited vocabulary knowledge rank second and third as sources of speaking anxiety (78% and 72%)"
 id: negative-evaluation-vocabulary-anxiety-ranks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

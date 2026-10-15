@@ -3,7 +3,7 @@ type: claim
 title: Regulatory and ethics compliance posed substantial, underestimated challenges that delayed the ITS rollout by a year
 description: Regulatory and ethics compliance posed substantial, underestimated challenges that delayed the ITS rollout by a year
 id: compliance-effort-delayed-its-rollout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

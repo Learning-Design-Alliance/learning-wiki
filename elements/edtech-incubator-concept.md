@@ -3,7 +3,7 @@ type: element
 id: edtech-incubator-concept
 title: "Ed-Tech Incubator concept: mutually beneficial school-startup product development relationships"
 description: The Ed-Tech Incubator concept proposes that schools participate directly in ed-tech product development, creating mutually beneficial relationships between educators as end users and entrepreneurs as developers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

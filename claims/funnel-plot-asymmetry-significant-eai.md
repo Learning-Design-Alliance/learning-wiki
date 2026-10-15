@@ -3,7 +3,7 @@ type: claim
 title: Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias
 description: Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias
 id: funnel-plot-asymmetry-significant-eai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

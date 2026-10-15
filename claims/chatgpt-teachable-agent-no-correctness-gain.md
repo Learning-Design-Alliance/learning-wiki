@@ -3,7 +3,7 @@ type: claim
 title: Teaching a ChatGPT agent does not significantly improve code correctness compared with writing code independently from videos
 description: Teaching a ChatGPT agent does not significantly improve code correctness compared with writing code independently from videos
 id: chatgpt-teachable-agent-no-correctness-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

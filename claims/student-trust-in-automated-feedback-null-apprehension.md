@@ -3,7 +3,7 @@ type: claim
 title: Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback
 description: Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback
 id: student-trust-in-automated-feedback-null-apprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

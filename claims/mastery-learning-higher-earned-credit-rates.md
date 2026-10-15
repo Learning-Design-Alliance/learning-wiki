@@ -3,7 +3,7 @@ type: claim
 title: Mastery learning sections show higher earned credit rates than comparable non-mastery sections at the City Colleges of Chicago
 description: Mastery learning sections show higher earned credit rates than comparable non-mastery sections at the City Colleges of Chicago
 id: mastery-learning-higher-earned-credit-rates
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Phoneme awareness is a stronger predictor of reading development than rhyme awareness
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

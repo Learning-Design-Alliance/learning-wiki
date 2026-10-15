@@ -3,7 +3,7 @@ type: claim
 title: Media effects on learning are not homogeneous across knowledge categories
 description: Media effects on learning are not homogeneous across knowledge categories
 id: media-effects-vary-by-knowledge-category
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

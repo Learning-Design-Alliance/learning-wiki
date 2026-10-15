@@ -3,7 +3,7 @@ type: claim
 title: Technology-pathway students report higher active-creation self-efficacy than Arts and Humanities students (p < 0.001)
 description: Technology-pathway students report higher active-creation self-efficacy than Arts and Humanities students (p < 0.001)
 id: pathway-difference-active-creation-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Learner variability and jagged profiles as the foundation for personalized learning
 description: "The paper's organizing framework is that no average learner exists: each learner has a distinctive profile of strengths and challenges, so instruction must be designed for variability rather than the middle."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

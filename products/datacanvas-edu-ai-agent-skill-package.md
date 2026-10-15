@@ -4,7 +4,7 @@ id: datacanvas-edu-ai-agent-skill-package
 title: DataCanvas-EDU AI Agent Skill package
 description: DataCanvas-EDU is an installable, versioned AI-agent software package developed by Bang An et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

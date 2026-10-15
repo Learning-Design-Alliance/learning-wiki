@@ -3,7 +3,7 @@ type: claim
 title: Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points
 description: Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points
 id: kindergarten-largest-risk-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

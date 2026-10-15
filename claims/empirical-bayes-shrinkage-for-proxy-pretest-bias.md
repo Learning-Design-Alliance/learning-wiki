@@ -3,7 +3,7 @@ type: claim
 title: Empirical Bayes shrinkage could be used to address bias in proxy pre-test value-added estimates
 description: Empirical Bayes shrinkage could be used to address bias in proxy pre-test value-added estimates
 id: empirical-bayes-shrinkage-for-proxy-pretest-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

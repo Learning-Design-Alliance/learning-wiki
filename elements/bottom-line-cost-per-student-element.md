@@ -3,7 +3,7 @@ type: element
 id: bottom-line-cost-per-student-element
 title: Bottom Line cost profile of approximately $6,000 per student over five to six years
 description: The report provides a preliminary list of cost ingredients for implementing Bottom Line, covering personnel, facilities, equipment and materials, and direct assistance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

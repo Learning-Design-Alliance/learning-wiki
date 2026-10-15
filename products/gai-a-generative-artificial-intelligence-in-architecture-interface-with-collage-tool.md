@@ -4,7 +4,7 @@ id: gai-a-generative-artificial-intelligence-in-architecture-interface-with-coll
 title: GAI-A (Generative Artificial Intelligence in Architecture) interface with Collage Tool
 description: GAI-A is a React.js and Flask-based generative-AI architecture design interface developed by Leman Figen Gül and colleagues that converts user-created image collages into cohesive architectural renderings.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

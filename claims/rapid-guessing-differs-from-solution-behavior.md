@@ -3,7 +3,7 @@ type: claim
 title: Rapid guessing differs from solution behavior as a form of test-taker disengagement
 description: Rapid guessing differs from solution behavior as a form of test-taker disengagement
 id: rapid-guessing-differs-from-solution-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

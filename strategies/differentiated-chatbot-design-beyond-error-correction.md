@@ -3,7 +3,7 @@ type: strategy
 id: differentiated-chatbot-design-beyond-error-correction
 title: Design chatbots for differentiated engagement across proficiency levels, beyond simple error correction
 description: The authors conclude that chatbot design should respond to proficiency-based differences in interaction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

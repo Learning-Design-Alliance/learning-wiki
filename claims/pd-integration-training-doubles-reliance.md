@@ -3,7 +3,7 @@ type: claim
 title: Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers
 description: Teachers receiving 11 or more hours of training on integrating digital content report almost double the reliance on software and the Internet compared with untrained teachers
 id: pd-integration-training-doubles-reliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

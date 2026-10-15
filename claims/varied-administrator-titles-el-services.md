@@ -3,7 +3,7 @@ type: claim
 title: English Learner programs and services across districts are led by administrators with varied titles, many without apparent links to English Learners
 description: English Learner programs and services across districts are led by administrators with varied titles, many without apparent links to English Learners
 id: varied-administrator-titles-el-services
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

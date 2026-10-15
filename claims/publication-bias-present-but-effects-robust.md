@@ -3,7 +3,7 @@ type: claim
 title: Evidence of publication bias exists, but the pooled video effects are robust to it
 description: Evidence of publication bias exists, but the pooled video effects are robust to it
 id: publication-bias-present-but-effects-robust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

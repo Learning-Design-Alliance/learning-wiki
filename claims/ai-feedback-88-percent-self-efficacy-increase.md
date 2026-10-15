@@ -3,7 +3,7 @@ type: claim
 title: "88% of AI-assisted students reported increased self-efficacy and confidence during independent practicals"
 description: "88% of AI-assisted students reported increased self-efficacy and confidence during independent practicals"
 id: ai-feedback-88-percent-self-efficacy-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

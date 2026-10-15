@@ -3,7 +3,7 @@ type: claim
 title: Open-ended tasks produce higher AI literacy performance than structured tasks
 description: Open-ended tasks produce higher AI literacy performance than structured tasks
 id: oet-outperforms-stt-ai-literacy-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

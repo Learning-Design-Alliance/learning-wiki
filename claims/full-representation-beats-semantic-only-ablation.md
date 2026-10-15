@@ -3,7 +3,7 @@ type: claim
 title: Combining semantic and process features yields the best difficulty prediction; semantic embeddings alone trail the full model by 7.4–12.1 macro-F1 points on SAT Math
 description: Combining semantic and process features yields the best difficulty prediction; semantic embeddings alone trail the full model by 7.4–12.1 macro-F1 points on SAT Math
 id: full-representation-beats-semantic-only-ablation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

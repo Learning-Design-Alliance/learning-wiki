@@ -3,7 +3,7 @@ type: claim
 title: In a randomized controlled trial, Too Good for Drugs and Violence produced statistically significant gains in perceptions of social and resistance skills and emotional competence
 description: In a randomized controlled trial, Too Good for Drugs and Violence produced statistically significant gains in perceptions of social and resistance skills and emotional competence
 id: tgfdv-rct-significant-skill-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

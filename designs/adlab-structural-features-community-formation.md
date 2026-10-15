@@ -3,7 +3,7 @@ type: design
 id: adlab-structural-features-community-formation
 title: Four structural features plus one instructional choice that foster a classroom community of practice in an advanced laboratory
 description: "The article identifies four structural features of AdLab: \"Paucity of instructor time\", \"All in the room together\", \"Experiments long and hard\", and \"Same experiments at diﬀerent times\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

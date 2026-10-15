@@ -3,7 +3,7 @@ type: claim
 title: On-grade item pools cause content balancing failures for off-grade-ability students, while all-grade pools improve balancing and language usage tests remained balanced throughout
 description: On-grade item pools cause content balancing failures for off-grade-ability students, while all-grade pools improve balancing and language usage tests remained balanced throughout
 id: content-balancing-fails-off-grade-on-grade-pools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

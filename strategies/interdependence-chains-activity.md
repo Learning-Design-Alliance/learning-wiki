@@ -3,7 +3,7 @@ type: strategy
 id: interdependence-chains-activity
 title: Use interdependence chains in which students link interdependent jobs and explain why each job needs the others
 description: A pre-intermediate level activity, adapted from Haley (2010), in which students complete a chain diagram of jobs that depend on one another.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

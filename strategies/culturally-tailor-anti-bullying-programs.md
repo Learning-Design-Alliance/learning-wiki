@@ -3,7 +3,7 @@ type: strategy
 id: culturally-tailor-anti-bullying-programs
 title: Tailor anti-bullying programs to cultural differences in how bullying manifests
 description: The authors recommend that anti-bullying programs be adapted to cultural differences in bullying behaviors.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

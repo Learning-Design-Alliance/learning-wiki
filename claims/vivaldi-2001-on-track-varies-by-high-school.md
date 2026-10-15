@@ -3,7 +3,7 @@ type: claim
 title: "Vivaldi students' first-year on-track rates differed across destination high schools for the 2001 cohort"
 description: "Vivaldi students' first-year on-track rates differed across destination high schools for the 2001 cohort"
 id: vivaldi-2001-on-track-varies-by-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

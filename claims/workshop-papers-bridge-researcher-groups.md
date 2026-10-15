@@ -3,7 +3,7 @@ type: claim
 title: "Removing the workshop's coauthorship edges increased average path length and network diameter, indicating the workshop publications bridge otherwise separate researcher groups"
 description: "Removing the workshop's coauthorship edges increased average path length and network diameter, indicating the workshop publications bridge otherwise separate researcher groups"
 id: workshop-papers-bridge-researcher-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

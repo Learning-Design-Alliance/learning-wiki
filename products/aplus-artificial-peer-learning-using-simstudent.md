@@ -4,7 +4,7 @@ id: aplus-artificial-peer-learning-using-simstudent
 title: APLUS (Artificial Peer Learning Using SimStudent)
 description: APLUS is an online learning-by-teaching environment developed by its researchers in which students tutor the SimStudent virtual agent to solve algebraic equations through guided problem solving.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

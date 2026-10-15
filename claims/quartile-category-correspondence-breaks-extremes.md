@@ -3,7 +3,7 @@ type: claim
 title: One-to-one correspondence between ITBS national quartiles and ISAT performance categories breaks down at the first and fourth quartiles
 description: One-to-one correspondence between ITBS national quartiles and ISAT performance categories breaks down at the first and fourth quartiles
 id: quartile-category-correspondence-breaks-extremes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: realign-socratic-withholding-protocol
 title: "Realign: deploy Socratic withholding protocols that delay direct answers for conceptual or diagnostic queries"
 description: The second framework component has institutions deploy wrapper applications governed by system prompts that implement a withholding protocol.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

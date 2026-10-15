@@ -3,7 +3,7 @@ type: claim
 title: Shared and well-communicated mission, vision, and goals are critical to district and CMO performance
 description: Shared and well-communicated mission, vision, and goals are critical to district and CMO performance
 id: shared-mission-vision-goals-critical-districts-cmos
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

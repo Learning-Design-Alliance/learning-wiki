@@ -3,7 +3,7 @@ type: claim
 title: "Risk status tends to persist: 75 percent of students significantly below benchmark at BOY remained so at EOY, and earlier grades showed lower year-to-year persistence"
 description: "Risk status tends to persist: 75 percent of students significantly below benchmark at BOY remained so at EOY, and earlier grades showed lower year-to-year persistence"
 id: early-literacy-risk-persistence-within-and-across-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

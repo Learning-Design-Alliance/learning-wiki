@@ -3,7 +3,7 @@ type: claim
 title: Multimodal XGBoost models achieved rubric-aligned scoring comparable to expert ratings, and no single modality approached multimodal performance
 description: Multimodal XGBoost models achieved rubric-aligned scoring comparable to expert ratings, and no single modality approached multimodal performance
 id: multimodal-xgboost-expert-comparable-scoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

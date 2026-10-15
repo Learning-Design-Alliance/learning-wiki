@@ -3,7 +3,7 @@ type: research-method
 id: waitlist-cutoff-regression-discontinuity-design-using-administrative-course-registration-d
 title: Waitlist-cutoff regression discontinuity design using administrative course registration data
 description: The study introduces a novel research design that exploits discontinuities in course admissions created by waitlists, applied to administrative course registration data at a community college.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

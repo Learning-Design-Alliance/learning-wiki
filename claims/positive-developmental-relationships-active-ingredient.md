@@ -3,7 +3,7 @@ type: claim
 title: Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning
 description: Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning
 id: positive-developmental-relationships-active-ingredient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

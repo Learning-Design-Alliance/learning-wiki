@@ -3,7 +3,7 @@ type: claim
 title: Workers and administrators who were presented with the CMR model viewed it as a comfortable transition into residential treatment
 description: Workers and administrators who were presented with the CMR model viewed it as a comfortable transition into residential treatment
 id: cmr-model-viewed-as-comfortable-transition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

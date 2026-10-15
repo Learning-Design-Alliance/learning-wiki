@@ -3,7 +3,7 @@ type: claim
 title: Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition
 description: Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition
 id: ma-scaffolding-improves-osce-exam-score
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

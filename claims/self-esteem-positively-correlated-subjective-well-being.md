@@ -3,7 +3,7 @@ type: claim
 title: Self-esteem is positively correlated with subjective well-being among final-year education faculty students
 description: Self-esteem is positively correlated with subjective well-being among final-year education faculty students
 id: self-esteem-positively-correlated-subjective-well-being
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

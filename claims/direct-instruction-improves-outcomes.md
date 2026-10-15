@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

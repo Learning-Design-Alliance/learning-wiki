@@ -3,7 +3,7 @@ type: claim
 title: "Program demand varied widely: 21 percent of programs had more than ten times as many applications as seats, led by arts, CTE, and SEHS programs"
 description: "Program demand varied widely: 21 percent of programs had more than ten times as many applications as seats, led by arts, CTE, and SEHS programs"
 id: gocps-program-demand-variation-arts-cte-sehs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

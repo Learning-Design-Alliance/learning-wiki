@@ -3,7 +3,7 @@ type: claim
 title: "Arizona's ESA voucher program grew 409%, from 12,127 to 61,689 students, between the 2021–22 and 2022–23 school years, with nearly all growth from the new Universal ESA"
 description: "Arizona's ESA voucher program grew 409%, from 12,127 to 61,689 students, between the 2021–22 and 2022–23 school years, with nearly all growth from the new Universal ESA"
 id: arizona-esa-409-percent-growth-universal-expansion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

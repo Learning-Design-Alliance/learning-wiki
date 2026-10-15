@@ -3,7 +3,7 @@ type: strategy
 id: four-year-course-trajectory-9th-grade
 title: Develop a four-year course trajectory with each 9th grader leading to a college-ready curriculum
 description: Recommendation 1 advises high schools to offer a college-ready curriculum as the default, communicate course requirements to students and families before high school, and plan coursework with each 9th grader.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

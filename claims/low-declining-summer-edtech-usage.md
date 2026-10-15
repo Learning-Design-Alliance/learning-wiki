@@ -3,7 +3,7 @@ type: claim
 title: Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer
 description: Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer
 id: low-declining-summer-edtech-usage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

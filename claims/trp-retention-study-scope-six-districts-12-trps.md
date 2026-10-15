@@ -3,7 +3,7 @@ type: claim
 title: The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample
 description: The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample
 id: trp-retention-study-scope-six-districts-12-trps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

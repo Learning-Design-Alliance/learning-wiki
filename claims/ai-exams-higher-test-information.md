@@ -3,7 +3,7 @@ type: claim
 title: AI-generated 10-question exams provided higher maximum test information and reliability (Imax = 3.85, R = 0.79) than the standardized exams (Imax = 2.61, R = 0.72)
 description: AI-generated 10-question exams provided higher maximum test information and reliability (Imax = 3.85, R = 0.79) than the standardized exams (Imax = 2.61, R = 0.72)
 id: ai-exams-higher-test-information
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The review reports that students receiving situated instruction outperformed a lecture-based control group on a causality posttest
 description: The review reports that students receiving situated instruction outperformed a lecture-based control group on a causality posttest
 id: situated-instruction-outperformed-abstract-control-causality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

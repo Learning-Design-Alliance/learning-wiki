@@ -3,7 +3,7 @@ type: claim
 title: "A 50-disposable-account staging rehearsal produced 56 evidence rows, with 46 (82.1%) assigned to higher-order Bloom categories"
 description: "A 50-disposable-account staging rehearsal produced 56 evidence rows, with 46 (82.1%) assigned to higher-order Bloom categories"
 id: fifty-account-rehearsal-56-rows-82-percent-higher-order
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

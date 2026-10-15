@@ -3,7 +3,7 @@ type: strategy
 id: place-full-day-prek-near-underserved-students
 title: Districts expanding pre-k should prioritize placing full-day pre-k classrooms close to where historically underserved students live
 description: "The report's authors recommend that when district leaders expand pre-k and decide where to locate classrooms, they \"have an opportunity to prioritize policies and funding that provide more full-day pre-k classrooms cl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

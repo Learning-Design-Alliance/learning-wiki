@@ -3,7 +3,7 @@ type: strategy
 id: combine-screening-benchmarks-with-other-risk-factors
 title: Use multiple evidence sources alongside benchmark scores when identifying students for intensive intervention
 description: The article recommends that schools and educators not rely solely on MAP Growth benchmark scores for intensive-intervention decisions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

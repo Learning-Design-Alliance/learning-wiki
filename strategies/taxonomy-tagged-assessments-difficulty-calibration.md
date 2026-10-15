@@ -3,7 +3,7 @@ type: strategy
 id: taxonomy-tagged-assessments-difficulty-calibration
 title: Tag assessments with explicit taxonomy levels to analyse whether exam difficulty distribution matches instructional intent
 description: The article recommends that assessments carry explicit taxonomy-level tags so instructors can calibrate examination difficulty and construct parallel versions using explicit criteria rather than subjective judgment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

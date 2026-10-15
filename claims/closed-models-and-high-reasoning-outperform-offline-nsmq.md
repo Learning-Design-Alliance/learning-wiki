@@ -3,7 +3,7 @@ type: claim
 title: In offline evaluation on NSMQ Riddles, closed LLMs generally outperform open models and higher reasoning settings improve performance
 description: In offline evaluation on NSMQ Riddles, closed LLMs generally outperform open models and higher reasoning settings improve performance
 id: closed-models-and-high-reasoning-outperform-offline-nsmq
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

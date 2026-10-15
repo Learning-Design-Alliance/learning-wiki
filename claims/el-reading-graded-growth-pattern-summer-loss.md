@@ -3,7 +3,7 @@ type: claim
 title: In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss
 description: In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss
 id: el-reading-graded-growth-pattern-summer-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

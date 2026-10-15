@@ -3,7 +3,7 @@ type: strategy
 id: incorporate-learning-context-into-scaffolding-benchmarks
 title: Incorporate learning context external to the chat into future scaffolding benchmarks, rubrics, and alignment datasets
 description: The article recommends that future scaffolding benchmarks and alignment datasets should incorporate the learning context external to the chat, both as input to the chatbot and as grounding for its evaluation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

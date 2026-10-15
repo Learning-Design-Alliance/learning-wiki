@@ -3,7 +3,7 @@ type: claim
 title: The type of CT measure employed (standardized vs. non-standardized; item format) influences evaluation of intervention effectiveness
 description: The type of CT measure employed (standardized vs.
 id: ct-measure-type-influences-effectiveness-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

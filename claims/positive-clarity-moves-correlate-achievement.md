@@ -3,7 +3,7 @@ type: claim
 title: Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure
 description: Each positive clarity move (keys, links, framing, focusing, examples) correlates positively with every concept achievement measure
 id: positive-clarity-moves-correlate-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

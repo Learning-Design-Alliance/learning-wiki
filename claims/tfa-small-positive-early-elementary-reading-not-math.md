@@ -3,7 +3,7 @@ type: claim
 title: TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math
 description: TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math
 id: tfa-small-positive-early-elementary-reading-not-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

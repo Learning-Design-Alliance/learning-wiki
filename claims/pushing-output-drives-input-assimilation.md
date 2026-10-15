@@ -3,7 +3,7 @@ type: claim
 title: Pushing for comprehensible output drives understanding and assimilation of comprehensible input
 description: Pushing for comprehensible output drives understanding and assimilation of comprehensible input
 id: pushing-output-drives-input-assimilation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

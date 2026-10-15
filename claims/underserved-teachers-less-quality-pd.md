@@ -3,7 +3,7 @@ type: claim
 title: "Teachers who need the strongest support receive less high-quality professional development: high school, beginning elementary, and large-school teachers"
 description: "Teachers who need the strongest support receive less high-quality professional development: high school, beginning elementary, and large-school teachers"
 id: underserved-teachers-less-quality-pd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

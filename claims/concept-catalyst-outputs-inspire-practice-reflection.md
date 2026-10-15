@@ -3,7 +3,7 @@ type: claim
 title: Reading AI-generated scaffolds prompted teachers to reflect on and revise their classroom practices, and shifted initial AI hesitancy toward wanting students to use the tool
 description: Reading AI-generated scaffolds prompted teachers to reflect on and revise their classroom practices, and shifted initial AI hesitancy toward wanting students to use the tool
 id: concept-catalyst-outputs-inspire-practice-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

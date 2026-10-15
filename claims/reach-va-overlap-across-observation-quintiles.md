@@ -3,7 +3,7 @@ type: claim
 title: Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles
 description: Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles
 id: reach-va-overlap-across-observation-quintiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

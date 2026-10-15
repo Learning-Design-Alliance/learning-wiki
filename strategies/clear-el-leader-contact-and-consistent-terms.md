@@ -3,7 +3,7 @@ type: strategy
 id: clear-el-leader-contact-and-consistent-terms
 title: Districts should clearly articulate the EL leader with full contact details, use consistent terminology, and describe programs and policies on websites
 description: "This strategy, offered by the article's authors for communications directors, web developers, and EL program staff, directs districts to make their websites and communications outlets more navigable."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

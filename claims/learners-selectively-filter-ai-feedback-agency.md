@@ -3,7 +3,7 @@ type: claim
 title: Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency
 description: Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency
 id: learners-selectively-filter-ai-feedback-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: research-method
 id: systematic-screening-for-opportunistic-experiments
 title: Systematic screening for opportunistic experiments
 description: "The guide recommends that researchers and policymakers \"discuss issues to consider when identifying potential opportunistic experiments\" before undertaking one, treating candidate screening as a deliberate step rather than an afterthought."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

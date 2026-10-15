@@ -3,7 +3,7 @@ type: strategy
 id: ten-action-items-adult-edtech-entrants
 title: Ten concrete action items for entrepreneurs preparing to launch ventures in the adult learning market
 description: "The guide's Getting Started section distills its advice into ten action items for the next 30 days: establish your mission, study the market, develop a high-quality product that meets the needs of adult learners, unde..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

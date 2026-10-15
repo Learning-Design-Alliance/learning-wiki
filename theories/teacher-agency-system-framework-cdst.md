@@ -2,7 +2,7 @@
 type: theory
 title: "Framework of the teacher agency system: agency as multi-layered interacting subsystems"
 description: The article proposes a framework of teacher agency as a complex dynamic system.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

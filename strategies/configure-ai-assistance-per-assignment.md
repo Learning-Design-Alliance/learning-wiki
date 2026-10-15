@@ -3,7 +3,7 @@ type: strategy
 id: configure-ai-assistance-per-assignment
 title: Configure the level of AI assistance per assignment according to learning objectives
 description: The article recommends treating AI access as a configurable dial rather than a binary permission.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

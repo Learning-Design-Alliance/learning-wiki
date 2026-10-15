@@ -3,7 +3,7 @@ type: strategy
 id: ai-co-creation-of-emotional-micro-interventions
 title: Co-create micro-intervention repertoires with generative AI through a seed-request-refine prompt sequence, with the instructor curating output
 description: "The article proposes a three-step AI collaboration protocol: seed the context (subject, audience, emotion, situation), request interventions that \"a) validate the feeling, b) normalize the struggle as part of the lear..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

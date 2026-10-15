@@ -3,7 +3,7 @@ type: claim
 title: SpellRead™ has potentially positive effects on reading comprehension, with an average improvement index of +20 percentile points
 description: SpellRead™ has potentially positive effects on reading comprehension, with an average improvement index of +20 percentile points
 id: spellread-comprehension-index-twenty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

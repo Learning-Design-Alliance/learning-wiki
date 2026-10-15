@@ -4,7 +4,7 @@ id: 398-item-evaluation-dataset-of-teacher-requested-geometric-diagrams-from-cot
 title: 398-item evaluation dataset of teacher-requested geometric diagrams from Coteach
 description: A dataset released by Vishal Kumar et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills
 description: One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills
 id: ai-simulation-inferior-bse-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

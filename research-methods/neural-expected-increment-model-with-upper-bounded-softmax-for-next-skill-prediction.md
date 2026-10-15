@@ -3,7 +3,7 @@ type: research-method
 id: neural-expected-increment-model-with-upper-bounded-softmax-for-next-skill-prediction
 title: Neural expected-increment model with Upper Bounded Softmax for next-skill prediction
 description: The article introduces a feed-forward neural model that maps a continuous mastery state to a distribution over the next skill using the Upper Bounded Softmax function, which assigns probability mass only to currently unmastered skills.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences
 description: Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences
 id: immediate-feedback-limits-downstream-error-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

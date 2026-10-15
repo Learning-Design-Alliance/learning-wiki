@@ -3,7 +3,7 @@ type: claim
 title: Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences
 description: Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences
 id: two-year-fluency-intervention-greater-word-reading-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

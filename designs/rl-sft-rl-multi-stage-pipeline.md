@@ -3,7 +3,7 @@ type: design
 id: rl-sft-rl-multi-stage-pipeline
 title: "RL-SFT-RL: a multi-stage pipeline combining pedagogically aligned RL, difficulty-weighted SFT on RL-generated synthetic data, and an optional second RL round"
 description: "The article proposes a three-phase training framework formalized in Algorithm 1: an initial RL stage (DAPO with asymmetric clipping) that identifies and trains on the base model's hard negatives; an SFT phase that use..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

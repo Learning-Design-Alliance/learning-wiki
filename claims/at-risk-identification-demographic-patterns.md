@@ -3,7 +3,7 @@ type: claim
 title: At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified
 description: At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified
 id: at-risk-identification-demographic-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

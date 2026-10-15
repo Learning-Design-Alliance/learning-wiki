@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for New Chance is a single randomized controlled trial of 2,322 women across 16 sites, rated small in extent
 description: The evidence base for New Chance is a single randomized controlled trial of 2,322 women across 16 sites, rated small in extent
 id: new-chance-evidence-base-single-rct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Learning from visual displays often yields disappointing outcomes because displays pose substantial demands on learners
 description: Learning from visual displays often yields disappointing outcomes because displays pose substantial demands on learners
 id: visual-displays-pose-demands-disappointing-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

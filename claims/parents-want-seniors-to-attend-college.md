@@ -3,7 +3,7 @@ type: claim
 title: Nearly 90 percent of seniors report their parents want them to go to college after high school graduation
 description: Nearly 90 percent of seniors report their parents want them to go to college after high school graduation
 id: parents-want-seniors-to-attend-college
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

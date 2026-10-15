@@ -3,7 +3,7 @@ type: claim
 title: The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant
 description: The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant
 id: interleaving-benefit-by-problem-type-and-delay
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

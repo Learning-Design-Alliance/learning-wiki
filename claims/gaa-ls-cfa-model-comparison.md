@@ -3,7 +3,7 @@ type: claim
 title: Confirmatory factor analysis in an independent sample supports the five-factor correlated model over collapsed and one-factor alternatives
 description: Confirmatory factor analysis in an independent sample supports the five-factor correlated model over collapsed and one-factor alternatives
 id: gaa-ls-cfa-model-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

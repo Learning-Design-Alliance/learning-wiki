@@ -3,7 +3,7 @@ type: claim
 title: "The review reports mixed findings on AI's motivational effects: some studies show enhancement, others nonsignificant or negative effects"
 description: "The review reports mixed findings on AI's motivational effects: some studies show enhancement, others nonsignificant or negative effects"
 id: ai-motivation-effects-mixed-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

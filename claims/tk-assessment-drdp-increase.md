@@ -3,7 +3,7 @@ type: claim
 title: "Use of the DRDP assessment in TK increased notably to 34% of LEAs while LEA-developed assessment use fell from 66% to 44%"
 description: "Use of the DRDP assessment in TK increased notably to 34% of LEAs while LEA-developed assessment use fell from 66% to 44%"
 id: tk-assessment-drdp-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

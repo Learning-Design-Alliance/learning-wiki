@@ -3,7 +3,7 @@ type: claim
 title: "Multi-layer defense significantly reduces bypass relative to regex-only filtering (69.65% to 46.34%), confirmed by exact McNemar test"
 description: "Multi-layer defense significantly reduces bypass relative to regex-only filtering (69.65% to 46.34%), confirmed by exact McNemar test"
 id: multi-layer-beats-regex-only-bypass
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

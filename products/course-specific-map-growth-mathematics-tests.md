@@ -4,7 +4,7 @@ id: course-specific-map-growth-mathematics-tests
 title: Course-specific MAP Growth Mathematics tests
 description: A suite of NWEA course-specific computerized adaptive interim mathematics assessments for Algebra 1, Geometry, and Algebra 2, aligned to NWEA, Common Core, or state standards and reported on the RIT scale.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

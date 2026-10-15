@@ -3,7 +3,7 @@ type: claim
 title: "Schools reporting higher awareness or use of Alaska's Trauma-Engaged Schools resources reported higher implementation of trauma-engaged practices"
 description: "Schools reporting higher awareness or use of Alaska's Trauma-Engaged Schools resources reported higher implementation of trauma-engaged practices"
 id: resource-awareness-use-associated-with-higher-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

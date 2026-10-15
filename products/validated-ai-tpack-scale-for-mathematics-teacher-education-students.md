@@ -4,7 +4,7 @@ id: validated-ai-tpack-scale-for-mathematics-teacher-education-students
 title: Validated AI-TPACK scale for mathematics teacher education students
 description: "A 24-item, six-variable, seven-point Likert self-report scale developed by Meijuan Xie and colleagues to assess mathematics teacher education students' AI-TPACK competence, self-efficacy, and teaching beliefs."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course
 description: Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course
 id: expansion-generalization-beyond-classroom
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

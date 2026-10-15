@@ -4,7 +4,7 @@ id: localized-faculty-ai-literacy-scale-based-on-unescos-2024-ai-competency-fram
 title: "Localized faculty AI literacy scale based on UNESCO's 2024 AI Competency Framework for Teachers"
 description: A 15-item, five-point Likert self-report scale developed by Liu et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

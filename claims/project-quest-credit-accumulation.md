@@ -3,7 +3,7 @@ type: claim
 title: Project QUEST may increase credit accumulation (improvement index +14, one study, 958 students)
 description: Project QUEST may increase credit accumulation (improvement index +14, one study, 958 students)
 id: project-quest-credit-accumulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

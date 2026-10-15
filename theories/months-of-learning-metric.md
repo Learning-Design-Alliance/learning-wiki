@@ -2,7 +2,7 @@
 type: theory
 title: Months of learning as a metric for communicating achievement gaps
 description: Months of learning is a translation of test scores into an intuitive time-based unit, used to communicate how many months or years of schooling students appear to be behind.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Reflection with AI as a cognitive partner demands time and cognitive effort, countering concerns that students use AI merely to outsource cognitive tasks
 description: Reflection with AI as a cognitive partner demands time and cognitive effort, countering concerns that students use AI merely to outsource cognitive tasks
 id: ai-reflection-demands-effort-counters-outsourcing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

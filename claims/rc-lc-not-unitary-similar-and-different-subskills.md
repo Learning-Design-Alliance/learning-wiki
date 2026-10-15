@@ -3,7 +3,7 @@ type: claim
 title: "Reading and listening comprehension are not unitary: both consist of similar and different subskills"
 description: "Reading and listening comprehension are not unitary: both consist of similar and different subskills"
 id: rc-lc-not-unitary-similar-and-different-subskills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

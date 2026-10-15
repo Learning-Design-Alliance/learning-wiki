@@ -4,7 +4,7 @@ id: teacher-facing-chatbot-authoring-platform-with-structured-configuration-comp
 title: Teacher-facing chatbot authoring platform with structured configuration components and testing features
 description: A web-based no-code platform developed by Riahi et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

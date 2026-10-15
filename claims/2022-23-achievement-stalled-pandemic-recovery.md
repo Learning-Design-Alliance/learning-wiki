@@ -4,7 +4,7 @@ title: The 2022-23 school year showed stalled progress toward pandemic recovery 
 description: The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement
 id: 2022-23-achievement-stalled-pandemic-recovery
 aliases: [pandemic-recovery-stalled-2022-23]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

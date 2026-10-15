@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' most common concern is that agreeable AI companions remove the developmental friction through which adolescents learn to sustain human relationships"
 description: "Teachers' most common concern is that agreeable AI companions remove the developmental friction through which adolescents learn to sustain human relationships"
 id: agreeable-companions-remove-developmental-friction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

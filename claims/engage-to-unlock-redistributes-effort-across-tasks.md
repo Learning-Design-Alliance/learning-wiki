@@ -3,7 +3,7 @@ type: claim
 title: "Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration"
 description: "Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration"
 id: engage-to-unlock-redistributes-effort-across-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Several teachers found the eBooks not user friendly, citing issues with images covering the text.
 description: Several teachers found the eBooks not user friendly, citing issues with images covering the text.
 id: hero-elementary-ebooks-not-user-friendly-images-covering-text
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

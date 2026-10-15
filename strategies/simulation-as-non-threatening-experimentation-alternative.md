@@ -3,7 +3,7 @@ type: strategy
 id: simulation-as-non-threatening-experimentation-alternative
 title: Use simulation as a non-threatening alternative to direct experimentation when testing office reorganizations
 description: The report recommends that a manager facing congestion or budget pressure run the simulation rather than experiment on the live office.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

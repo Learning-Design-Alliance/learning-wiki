@@ -3,7 +3,7 @@ type: claim
 title: Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy
 description: Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy
 id: tdcm-qmatrix-misspecification-hurts-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

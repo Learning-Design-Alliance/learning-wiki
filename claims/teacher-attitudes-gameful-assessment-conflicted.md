@@ -3,7 +3,7 @@ type: claim
 title: Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn
 description: Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn
 id: teacher-attitudes-gameful-assessment-conflicted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

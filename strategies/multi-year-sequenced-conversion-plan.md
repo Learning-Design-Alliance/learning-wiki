@@ -3,7 +3,7 @@ type: strategy
 id: multi-year-sequenced-conversion-plan
 title: Plan middle school conversion as a three-to-five-year effort with sequenced board approvals
 description: "The authors state that \"some three to five years are required in most districts to make a complete conversion from the junior high school design,\" and that the board is sequentially asked to accept a philosophy and de..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

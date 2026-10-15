@@ -3,7 +3,7 @@ type: claim
 title: Most AI-motivation studies lasted less than 10 weeks, raising novelty-effect concerns and leaving long-term effects unexamined
 description: Most AI-motivation studies lasted less than 10 weeks, raising novelty-effect concerns and leaving long-term effects unexamined
 id: ai-motivation-studies-short-duration-novelty-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Teachers who are not fully certified have higher turnover than fully certified teachers (20.1% vs. 14.7%), with a larger gap among early-career teachers"
 description: "Teachers who are not fully certified have higher turnover than fully certified teachers (20.1% vs."
 id: uncertified-teachers-higher-turnover
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

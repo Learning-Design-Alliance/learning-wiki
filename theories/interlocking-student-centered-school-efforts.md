@@ -2,7 +2,7 @@
 type: theory
 title: Responsive, resilient school communities built from interlocking student-centered efforts
 description: "The report's organizing account is that no single initiative makes a school responsive or resilient; rather, \"it is the interlocking of multiple different efforts intended to center and respond to the experiences, per..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05
 description: In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05
 id: meta-utaut-hypotheses-accepted-mall-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

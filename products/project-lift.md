@@ -4,7 +4,7 @@ id: project-lift
 title: Project LIFT
 description: A public-private partnership run by Charlotte-Mecklenburg Schools and its philanthropic partners to implement Opportunity Culture staffing, professional development, and compensation structures in high-needs schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

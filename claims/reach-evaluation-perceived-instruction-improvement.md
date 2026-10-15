@@ -3,7 +3,7 @@ type: claim
 title: Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning
 description: Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning
 id: reach-evaluation-perceived-instruction-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

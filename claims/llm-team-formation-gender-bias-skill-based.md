@@ -3,7 +3,7 @@ type: claim
 title: "Even with skill-based qualifications, LLM team assignment remains gender-biased: when two teams are equally valid, models favor Core Development for male personas over Interface Design"
 description: "Even with skill-based qualifications, LLM team assignment remains gender-biased: when two teams are equally valid, models favor Core Development for male personas over Interface Design"
 id: llm-team-formation-gender-bias-skill-based
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

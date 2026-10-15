@@ -3,7 +3,7 @@ type: claim
 title: Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available
 description: Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available
 id: structured-ai-tutor-raises-post-test-scores-field-experiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

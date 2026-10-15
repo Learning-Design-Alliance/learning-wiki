@@ -2,7 +2,7 @@
 type: theory
 title: "Self-management (SM) intervention framework: eleven self-directed elements spanning assessment, monitoring, and evaluation of behavioral performance"
 description: "The review defines SM as \"a set of strategies that students are trained in to assess, monitor, and/or evaluate their own behavioral performance\", drawing on behavioral psychology and cognitive-behavioral theories."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

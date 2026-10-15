@@ -3,7 +3,7 @@ type: claim
 title: Phonological awareness training has potentially positive effects on communication/language competencies for preschool children with learning disabilities, with a small extent of evidence
 description: Phonological awareness training has potentially positive effects on communication/language competencies for preschool children with learning disabilities, with a small extent of evidence
 id: phonological-awareness-training-potentially-positive-communication-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

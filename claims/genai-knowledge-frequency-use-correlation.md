@@ -3,7 +3,7 @@ type: claim
 title: "Students' knowledge of GenAI is positively correlated with their frequency of use"
 description: "Students' knowledge of GenAI is positively correlated with their frequency of use"
 id: genai-knowledge-frequency-use-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

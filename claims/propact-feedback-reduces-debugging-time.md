@@ -3,7 +3,7 @@ type: claim
 title: Proactive multimodal feedback significantly reduces debugging time on task compared to control
 description: Proactive multimodal feedback significantly reduces debugging time on task compared to control
 id: propact-feedback-reduces-debugging-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

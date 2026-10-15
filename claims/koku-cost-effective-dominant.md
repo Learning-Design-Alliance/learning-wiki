@@ -3,7 +3,7 @@ type: claim
 title: The 12-week KOKU programme is dominant over usual care in cost-effectiveness, with a significant QALY gain and non-significant cost savings
 description: The 12-week KOKU programme is dominant over usual care in cost-effectiveness, with a significant QALY gain and non-significant cost savings
 id: koku-cost-effective-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

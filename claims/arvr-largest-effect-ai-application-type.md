@@ -3,7 +3,7 @@ type: claim
 title: AR/VR tools show the largest effect among AI application types (g = 1.765), while ITS and personalized educational games show small effects
 description: AR/VR tools show the largest effect among AI application types (g = 1.765), while ITS and personalized educational games show small effects
 id: arvr-largest-effect-ai-application-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

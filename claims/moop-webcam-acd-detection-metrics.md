@@ -3,7 +3,7 @@ type: claim
 title: "A webcam-only automatic cheating detector achieved recall of 78.6%, precision of 84.6%, and accuracy of 83.3% in a MOOP experiment"
 description: "A webcam-only automatic cheating detector achieved recall of 78.6%, precision of 84.6%, and accuracy of 83.3% in a MOOP experiment"
 id: moop-webcam-acd-detection-metrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

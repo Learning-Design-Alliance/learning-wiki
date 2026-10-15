@@ -3,7 +3,7 @@ type: claim
 title: "Alabama's cybersecurity labor market shows sustained demand, with about 18,778 professionals employed and 8,373 new job openings posted in 2024"
 description: "Alabama's cybersecurity labor market shows sustained demand, with about 18,778 professionals employed and 8,373 new job openings posted in 2024"
 id: alabama-cybersecurity-demand-18778-employed-8373-openings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

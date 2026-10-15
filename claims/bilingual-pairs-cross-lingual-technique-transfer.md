@@ -3,7 +3,7 @@ type: claim
 title: Bilingual instruction pairs transfer technique knowledge across languages, more strongly to Indo-Aryan (∆TF = +3.2) than Dravidian (∆TF = +1.8) languages
 description: Bilingual instruction pairs transfer technique knowledge across languages, more strongly to Indo-Aryan (∆TF = +3.2) than Dravidian (∆TF = +1.8) languages
 id: bilingual-pairs-cross-lingual-technique-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

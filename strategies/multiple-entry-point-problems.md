@@ -3,7 +3,7 @@ type: strategy
 id: multiple-entry-point-problems
 title: Choose problems with multiple entry points to stimulate discussion of different solution approaches
 description: "To encourage varied approaches, \"teachers should try to present problems with multiple entry points.\" Entry activities include drawing a picture of key elements, preparing a representation such as a strip diagram, lis..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

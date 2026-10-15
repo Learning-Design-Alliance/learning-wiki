@@ -3,7 +3,7 @@ type: claim
 title: Strategic reflection increases substantially under the SDP constraint (d = 3.40, Δ = +1.80)
 description: Strategic reflection increases substantially under the SDP constraint (d = 3.40, Δ = +1.80)
 id: sdp-constraint-increases-strategic-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

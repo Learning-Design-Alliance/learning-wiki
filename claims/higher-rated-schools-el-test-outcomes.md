@@ -3,7 +3,7 @@ type: claim
 title: Attending higher-rated schools (CPS School Quality Rating Policy) is associated with better math, reading, and English proficiency test outcomes for ELs
 description: Attending higher-rated schools (CPS School Quality Rating Policy) is associated with better math, reading, and English proficiency test outcomes for ELs
 id: higher-rated-schools-el-test-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: spalding-coordinator-and-intensive-pd-strategy
 title: Designate a Spalding coordinator and provide 45-70 hours of formal teacher training with ongoing mentoring to support implementation fidelity
 description: "The program's implementation model pairs classroom teachers with a designated Spalding coordinator who \"oversees program fidelity, manages assessment data, and provides coaching for teachers as they master the multi-s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

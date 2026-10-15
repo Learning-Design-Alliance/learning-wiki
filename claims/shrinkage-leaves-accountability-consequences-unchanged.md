@@ -3,7 +3,7 @@ type: claim
 title: Shrinkage does not change accountability consequences for teachers of hard-to-predict students, since extreme-rating probabilities are unaffected
 description: Shrinkage does not change accountability consequences for teachers of hard-to-predict students, since extreme-rating probabilities are unaffected
 id: shrinkage-leaves-accountability-consequences-unchanged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

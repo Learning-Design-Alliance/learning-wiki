@@ -4,7 +4,7 @@ id: genai-reliance-types-scale-genai-rts
 title: GenAI Reliance Types Scale (GenAI-RTS)
 description: A 20-item self-report scale developed by Hossain et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

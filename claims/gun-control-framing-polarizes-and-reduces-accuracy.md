@@ -3,7 +3,7 @@ type: claim
 title: Politically charged framing (gun control ban) makes responses to the same data politically polarized and less accurate
 description: Politically charged framing (gun control ban) makes responses to the same data politically polarized and less accurate
 id: gun-control-framing-polarizes-and-reduces-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: claim
 title: "SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)"
 description: "SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)"
 id: sdp-ep-year1-agencies-began-partnership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: dlp-unobtrusive-language-experiments
 title: Leverage digital learning platforms to run unobtrusive randomized experiments on language modifications in math problems
 description: "The article argues that DLPs' adaptability \"allows for controlled experimentation with language variations in math problems,\" providing fertile ground for research on language and mathematics."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

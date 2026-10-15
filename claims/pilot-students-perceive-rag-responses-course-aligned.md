@@ -3,7 +3,7 @@ type: claim
 title: "In an exploratory pilot, students perceived the course-specific RAG system's responses as highly aligned with course materials (89%) and helpful for assessment understanding"
 description: "In an exploratory pilot, students perceived the course-specific RAG system's responses as highly aligned with course materials (89%) and helpful for assessment understanding"
 id: pilot-students-perceive-rag-responses-course-aligned
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

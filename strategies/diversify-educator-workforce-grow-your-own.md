@@ -3,7 +3,7 @@ type: strategy
 id: diversify-educator-workforce-grow-your-own
 title: Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports
 description: The brief recommends states diversify and retain the educator workforce to foster belonging and challenge students to thrive.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect
 description: Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect
 id: cognitive-load-module-largest-ablation-drop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

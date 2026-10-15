@@ -3,7 +3,7 @@ type: claim
 title: 95 percent of U.S. schools conduct lockdown drills annually as part of emergency response plans
 description: 95 percent of U.S.
 id: 95-percent-us-schools-conduct-lockdown-drills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

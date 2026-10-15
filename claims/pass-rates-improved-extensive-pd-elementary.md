@@ -3,7 +3,7 @@ type: claim
 title: Math course passing rates improved significantly more in elementary schools with extensive professional development, while course grades improved at similar rates across PD levels
 description: Math course passing rates improved significantly more in elementary schools with extensive professional development, while course grades improved at similar rates across PD levels
 id: pass-rates-improved-extensive-pd-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

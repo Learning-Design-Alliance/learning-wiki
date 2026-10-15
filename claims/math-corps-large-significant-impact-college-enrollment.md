@@ -3,7 +3,7 @@ type: claim
 title: Participation in the Math Corps summer program had a large and statistically significant impact on college enrollment
 description: Participation in the Math Corps summer program had a large and statistically significant impact on college enrollment
 id: math-corps-large-significant-impact-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

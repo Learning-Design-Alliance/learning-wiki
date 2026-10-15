@@ -3,7 +3,7 @@ type: element
 id: sticht-three-positions-oral-written-language
 title: "Sticht's three theoretical positions linking oral and written language"
 description: "The article cites three theoretical positions from Sticht's Reading for Working supporting the stage sequence: \"1."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

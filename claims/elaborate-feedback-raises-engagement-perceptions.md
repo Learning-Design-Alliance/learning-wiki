@@ -3,7 +3,7 @@ type: claim
 title: "Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering"
 description: "Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering"
 id: elaborate-feedback-raises-engagement-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

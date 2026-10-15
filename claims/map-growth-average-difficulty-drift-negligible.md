@@ -3,7 +3,7 @@ type: claim
 title: Average drift in MAP Growth item difficulty estimates is negligible across subjects, with original-new correlations above 0.99
 description: Average drift in MAP Growth item difficulty estimates is negligible across subjects, with original-new correlations above 0.99
 id: map-growth-average-difficulty-drift-negligible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: rag-genai-chatbot-learning-task
 title: RAG-based GenAI chatbot used as the AI-assisted learning support in the external validity study
 description: "The external validity study used a GenAI chatbot built with a retrieval-augmented generation approach: learner prompts are embedded, cosine similarity retrieves relevant stored knowledge, and GPT-4o generates response..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

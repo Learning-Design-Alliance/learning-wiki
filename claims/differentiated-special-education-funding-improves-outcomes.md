@@ -3,7 +3,7 @@ type: claim
 title: Differentiating special education funding by disability, disability category, or student need can lead to improved outcomes for students with disabilities, and IEP-progress metrics offer a new adequacy-study measure
 description: Differentiating special education funding by disability, disability category, or student need can lead to improved outcomes for students with disabilities, and IEP-progress metrics offer a new adequacy-study measure
 id: differentiated-special-education-funding-improves-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

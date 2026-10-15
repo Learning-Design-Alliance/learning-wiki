@@ -3,7 +3,7 @@ type: strategy
 id: predator-prey-hatchling-crawl-game
 title: Predator/prey simulation game on the beach for hatchling survival
 description: "An on-site activity in which \"Students will play a predator/prey game on the beach to simulate what can happen to hatchling sea turtles as they crawl to the ocean.\" After the game, students discuss why sea turtles are..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

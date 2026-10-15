@@ -3,7 +3,7 @@ type: principle
 id: career-education-through-industrial-arts
 title: Deliver career education through industrial arts so all experiences prepare students for economic independence and the dignity of work
 description: "The guide's governing principle is that career education should be embedded in existing curriculum disciplines rather than added as a separate subject."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

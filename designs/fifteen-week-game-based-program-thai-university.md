@@ -3,7 +3,7 @@ type: design
 id: fifteen-week-game-based-program-thai-university
 title: Fifteen-week digital game-based language learning program at a Thai university
 description: The studied intervention was a fifteen-week digital game-based learning program at a university in Thailand, in which five students participated.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

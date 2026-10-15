@@ -3,7 +3,7 @@ type: claim
 title: "The framework is robust to 15% ASR transcription noise and retains 99.6% of its ICS under zero-shot cross-domain transfer to EdNet-Math"
 description: "The framework is robust to 15% ASR transcription noise and retains 99.6% of its ICS under zero-shot cross-domain transfer to EdNet-Math"
 id: framework-robust-asr-noise-cross-domain-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

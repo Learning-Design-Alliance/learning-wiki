@@ -3,7 +3,7 @@ type: claim
 title: DAPO was selected over GRPO for the RL stage because its decoupled policy update gave more stable gradients and superior CDPK performance
 description: DAPO was selected over GRPO for the RL stage because its decoupled policy update gave more stable gradients and superior CDPK performance
 id: dapo-over-grpo-pedagogical-rl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

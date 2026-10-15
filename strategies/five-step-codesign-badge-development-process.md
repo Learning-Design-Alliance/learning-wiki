@@ -3,7 +3,7 @@ type: strategy
 id: five-step-codesign-badge-development-process
 title: Five-step iterative co-design process for developing edtech evaluation criteria with learners and vendors
 description: "The report details a repeatable recipe for co-designing evaluation criteria: \"Digital Promise and the CO used a multi-staged, iterative co-design methodology to center student, faculty, and staff voices throughout the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

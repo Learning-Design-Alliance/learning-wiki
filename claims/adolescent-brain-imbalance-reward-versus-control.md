@@ -3,7 +3,7 @@ type: claim
 title: During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance
 description: During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance
 id: adolescent-brain-imbalance-reward-versus-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

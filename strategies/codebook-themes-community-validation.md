@@ -3,7 +3,7 @@ type: strategy
 id: codebook-themes-community-validation
 title: Codebook development, theme generation, and community validation of findings
 description: "Phase 3 analysis guidance has teams familiarize themselves with transcripts, create an initial codebook documenting 'each code's meaning and application', and code with an Excel template or qualitative software, revis..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

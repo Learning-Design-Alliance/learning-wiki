@@ -3,7 +3,7 @@ type: claim
 title: SpellRead™ shows potentially positive effects on comprehension for adolescent readers, with an average improvement index of +11
 description: SpellRead™ shows potentially positive effects on comprehension for adolescent readers, with an average improvement index of +11
 id: spellread-potentially-positive-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

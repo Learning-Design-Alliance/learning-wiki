@@ -3,7 +3,7 @@ type: claim
 title: "LLM-based systems mediated family education through four recurring forms: producing materials, structuring dialogue, interpreting context, and connecting to external knowledge and values"
 description: "LLM-based systems mediated family education through four recurring forms: producing materials, structuring dialogue, interpreting context, and connecting to external knowledge and values"
 id: four-forms-llm-mediation-family-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

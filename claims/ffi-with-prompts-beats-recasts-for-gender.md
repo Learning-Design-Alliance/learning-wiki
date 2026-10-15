@@ -3,7 +3,7 @@ type: claim
 title: Form-focused instruction combined with prompts is more effective than FFI combined with recasts or no feedback, especially on written tasks
 description: Form-focused instruction combined with prompts is more effective than FFI combined with recasts or no feedback, especially on written tasks
 id: ffi-with-prompts-beats-recasts-for-gender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

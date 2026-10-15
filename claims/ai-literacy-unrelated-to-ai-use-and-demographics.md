@@ -3,7 +3,7 @@ type: claim
 title: "General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service"
 description: "General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service"
 id: ai-literacy-unrelated-to-ai-use-and-demographics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

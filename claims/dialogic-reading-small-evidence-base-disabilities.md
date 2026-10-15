@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for dialogic reading with children with disabilities is small, with no qualifying studies in six other outcome domains
 description: The evidence base for dialogic reading with children with disabilities is small, with no qualifying studies in six other outcome domains
 id: dialogic-reading-small-evidence-base-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

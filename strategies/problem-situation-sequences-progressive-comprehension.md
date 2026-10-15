@@ -3,7 +3,7 @@ type: strategy
 id: problem-situation-sequences-progressive-comprehension
 title: Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts
 description: "The authors propose identifying a sequence of situations-problems whose resolution contextualizes knowledge and progressively develops students' mathematical comprehension and competence."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

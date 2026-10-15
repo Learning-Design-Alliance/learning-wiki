@@ -4,7 +4,7 @@ title: "Missouri's Teacher Career Ladder program has at most a very small positi
 description: "Missouri's Teacher Career Ladder program has at most a very small positive effect on student test scores"
 id: career-ladder-missouri-small-or-no-achievement-effect
 aliases: [missouri-career-ladder-small-positive-to-no-effect]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

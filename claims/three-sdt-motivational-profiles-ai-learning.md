@@ -3,7 +3,7 @@ type: claim
 title: Secondary students in AI learning fall into three distinct SDT-based motivational profiles — Disengaged, Developing, and Self-Determined — at both pre- and post-test
 description: Secondary students in AI learning fall into three distinct SDT-based motivational profiles — Disengaged, Developing, and Self-Determined — at both pre- and post-test
 id: three-sdt-motivational-profiles-ai-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

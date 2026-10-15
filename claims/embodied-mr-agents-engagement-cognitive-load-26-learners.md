@@ -3,7 +3,7 @@ type: claim
 title: Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26 post-secondary learners during collaborative problem-solving
 description: Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26 post-secondary learners during collaborative problem-solving
 id: embodied-mr-agents-engagement-cognitive-load-26-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

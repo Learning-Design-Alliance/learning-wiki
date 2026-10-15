@@ -3,7 +3,7 @@ type: claim
 title: A hard core of non-attending students remained unresponsive to all offered support
 description: A hard core of non-attending students remained unresponsive to all offered support
 id: hard-core-unresponsive-non-attenders
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Multi-step AI operations, not AI use alone, are positively associated with creativity of final design work
 description: Multi-step AI operations, not AI use alone, are positively associated with creativity of final design work
 id: multi-step-ai-operations-creativity-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

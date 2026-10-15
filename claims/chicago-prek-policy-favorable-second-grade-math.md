@@ -3,7 +3,7 @@ type: claim
 title: Chicago pre-k policy changes expanding full-day pre-k access were related to more favorable second-grade math test scores and academic grades for most student groups
 description: Chicago pre-k policy changes expanding full-day pre-k access were related to more favorable second-grade math test scores and academic grades for most student groups
 id: chicago-prek-policy-favorable-second-grade-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

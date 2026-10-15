@@ -3,7 +3,7 @@ type: strategy
 id: know-question-types-before-instructional-decisions
 title: Teachers and publishers should know question types and their cognitive demands before deciding how to teach about and use questions
 description: "The report argues that decisions about teaching students to handle questions and about using questions in classrooms and materials require prior knowledge of the question landscape: \"We think teachers and publishers n..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

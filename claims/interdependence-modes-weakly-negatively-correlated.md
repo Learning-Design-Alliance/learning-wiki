@@ -3,7 +3,7 @@ type: claim
 title: Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices
 description: Modes of interdependence are weakly or negligibly intercorrelated across brokerage offices
 id: interdependence-modes-weakly-negatively-correlated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

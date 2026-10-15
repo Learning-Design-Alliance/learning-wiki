@@ -4,7 +4,7 @@ title: Schools implementing all three PBIS tiers with fidelity had significantly
 description: Schools implementing all three PBIS tiers with fidelity had significantly fewer students with OSS, fewer days missed from OSS, and fewer OSS incidents than matched non-PBIS schools during 2020–21
 id: pbis-three-tiers-fidelity-fewer-oss-pandemic
 aliases: [tier3-intensive-supports-drove-exclusion-reduction]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

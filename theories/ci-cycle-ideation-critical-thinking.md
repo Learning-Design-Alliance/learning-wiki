@@ -2,7 +2,7 @@
 type: theory
 title: "The C/I cycle: ideation followed by positive and negative critical thinking, iterated to refine solutions"
 description: "The article frames creativity as \"a cognitive process involving both the retrieval of information and making novel associations and connections about this information,\" which must then be critically evaluated."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

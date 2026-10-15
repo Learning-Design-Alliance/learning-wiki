@@ -3,7 +3,7 @@ type: claim
 title: Tutor training performance predicts real-life tutoring transcript scores, with a one SD increase in lesson performance associated with a 0.25 SD increase in transcript scores
 description: Tutor training performance predicts real-life tutoring transcript scores, with a one SD increase in lesson performance associated with a 0.25 SD increase in transcript scores
 id: training-performance-predicts-transcript-scores-025sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

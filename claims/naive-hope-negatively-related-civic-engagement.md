@@ -3,7 +3,7 @@ type: claim
 title: Naive hope is negatively related to civic engagement, while existential hope is proposed to be positively associated with it
 description: Naive hope is negatively related to civic engagement, while existential hope is proposed to be positively associated with it
 id: naive-hope-negatively-related-civic-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

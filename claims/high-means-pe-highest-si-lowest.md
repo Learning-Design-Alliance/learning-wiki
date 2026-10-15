@@ -3,7 +3,7 @@ type: claim
 title: Gen Z students report high agreement on AI adoption constructs, with performance expectancy highest and social influence lowest
 description: Gen Z students report high agreement on AI adoption constructs, with performance expectancy highest and social influence lowest
 id: high-means-pe-highest-si-lowest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

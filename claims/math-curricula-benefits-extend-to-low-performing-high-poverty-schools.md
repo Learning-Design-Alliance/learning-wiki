@@ -3,7 +3,7 @@ type: claim
 title: The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools
 description: The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools
 id: math-curricula-benefits-extend-to-low-performing-high-poverty-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

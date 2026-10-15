@@ -3,7 +3,7 @@ type: strategy
 id: future-research-voices-of-children-special-education-class-size
 title: Future research on special education class size should include rigorous quantitative designs and foreground the voices of children and young people with special needs
 description: "The review's forward-looking recommendation is to fill the evidence gap from diverse methodological perspectives: more quantitative studies capable of supporting meta-analysis, and more qualitative research across loc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

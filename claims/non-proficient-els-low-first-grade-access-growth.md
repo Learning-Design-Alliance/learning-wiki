@@ -3,7 +3,7 @@ type: claim
 title: ELs who did not reach proficiency by eighth grade showed continued growth but started first grade with much lower ACCESS scores, and rising grade-level thresholds meant they never met the proficiency cut
 description: ELs who did not reach proficiency by eighth grade showed continued growth but started first grade with much lower ACCESS scores, and rising grade-level thresholds meant they never met the proficiency cut
 id: non-proficient-els-low-first-grade-access-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

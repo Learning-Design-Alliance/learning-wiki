@@ -3,7 +3,7 @@ type: strategy
 id: embed-pd-in-daily-work-focused-goals
 title: Embed professional development in daily school work through multiple mutually reinforcing conduits focused on a limited set of school-wide goals
 description: "Several RSF schools stood out for intensive professional development addressing \"a manageable set of key school-wide goals.\" Professional development was \"embedded in the daily work of the school through multiple cond..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

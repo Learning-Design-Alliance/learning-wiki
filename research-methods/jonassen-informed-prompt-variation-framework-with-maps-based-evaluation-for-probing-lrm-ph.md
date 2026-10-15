@@ -3,7 +3,7 @@ type: research-method
 id: jonassen-informed-prompt-variation-framework-with-maps-based-evaluation-for-probing-lrm-ph
 title: Jonassen-informed prompt-variation framework with MAPS-based evaluation for probing LRM physics reasoning
 description: "The article adapts Jonassen's problem-classification framework to generative-AI problem solving along two dimensions: \"prompt-specificity, or how much information is explicitly given versus left for the model to infer, and modality, or whether the problem is presented through text alone or with visu"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: opiq-6th-grade-mathematics-interaction-dataset-from-estonia
 title: Opiq 6th-grade mathematics interaction dataset from Estonia
 description: An interaction-log dataset collected from the Opiq digital learning platform, containing time-ordered 6th-grade mathematics student–item records for educational data-mining and knowledge-tracing research.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

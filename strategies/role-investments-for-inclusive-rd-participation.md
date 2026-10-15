@@ -3,7 +3,7 @@ type: strategy
 id: role-investments-for-inclusive-rd-participation
 title: "Change stakeholder roles and investments so marginalized participants can engage as co-experts in R&D"
 description: "The report lists concrete changes to traditional roles and investments that enable partners to engage in Inclusive Innovation: pay for participants' time, buy out practitioner time, provide transportation and/or child..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

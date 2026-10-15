@@ -3,7 +3,7 @@ type: claim
 title: Early numeracy mastery at 54 months predicts high school math course-taking
 description: Early numeracy mastery at 54 months predicts high school math course-taking
 id: early-numeracy-mastery-predicts-hs-math-course-taking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use
 description: Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use
 id: students-willing-to-use-genai-correlates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

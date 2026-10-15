@@ -3,7 +3,7 @@ type: claim
 title: Many students and staff will return to school with trauma that can adversely affect teaching and learning
 description: Many students and staff will return to school with trauma that can adversely affect teaching and learning
 id: covid-trauma-adversely-affects-teaching-and-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

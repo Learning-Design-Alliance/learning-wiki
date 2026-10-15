@@ -3,7 +3,7 @@ type: claim
 title: Students who received the ability signal enrolled in and passed about one more AP course the following year
 description: Students who received the ability signal enrolled in and passed about one more AP course the following year
 id: ability-signal-one-more-ap-course
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

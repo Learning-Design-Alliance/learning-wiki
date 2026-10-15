@@ -3,7 +3,7 @@ type: claim
 title: "Functional dependence shows a substantially stronger positive association with graduate students' research creativity than existential dependence (β = 0.457 vs β = 0.147)"
 description: "Functional dependence shows a substantially stronger positive association with graduate students' research creativity than existential dependence (β = 0.457 vs β = 0.147)"
 id: functional-dependence-stronger-association-research-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

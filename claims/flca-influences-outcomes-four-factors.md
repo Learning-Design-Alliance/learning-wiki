@@ -3,7 +3,7 @@ type: claim
 title: Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance
 description: Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance
 id: flca-influences-outcomes-four-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

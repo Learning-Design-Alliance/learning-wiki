@@ -3,7 +3,7 @@ type: claim
 title: Students have difficulty distinguishing between for loops and while loops
 description: Students have difficulty distinguishing between for loops and while loops
 id: students-struggle-for-while-loop-distinction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

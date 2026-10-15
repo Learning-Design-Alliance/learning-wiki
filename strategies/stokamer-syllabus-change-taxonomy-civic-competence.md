@@ -3,7 +3,7 @@ type: strategy
 id: stokamer-syllabus-change-taxonomy-civic-competence
 title: Use the Stokamer taxonomy of course and syllabus change to revise syllabi for civic competence integration
 description: A practical rubric adapted from Kitano (1997) for revising syllabi to catalyze civic competence.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

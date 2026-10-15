@@ -3,7 +3,7 @@ type: claim
 title: Unknown words are read significantly longer than known control words in all four eye-tracking measures
 description: Unknown words are read significantly longer than known control words in all four eye-tracking measures
 id: targets-read-longer-than-controls-all-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

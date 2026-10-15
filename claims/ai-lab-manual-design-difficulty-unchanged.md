@@ -3,7 +3,7 @@ type: claim
 title: Perceived difficulty of designing a laboratory manual remained unchanged after the AI-supported project
 description: Perceived difficulty of designing a laboratory manual remained unchanged after the AI-supported project
 id: ai-lab-manual-design-difficulty-unchanged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

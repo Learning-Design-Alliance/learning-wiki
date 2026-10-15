@@ -3,7 +3,7 @@ type: claim
 title: The likelihood of being identified as significantly below benchmark in early literacy screening increases as historically underserved background characteristics intersect
 description: The likelihood of being identified as significantly below benchmark in early literacy screening increases as historically underserved background characteristics intersect
 id: intersecting-backgrounds-increase-literacy-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

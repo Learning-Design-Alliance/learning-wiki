@@ -3,7 +3,7 @@ type: claim
 title: "In automated evaluation, equivalence with the human baseline depended on the evaluator model: DeepSeek V3 met equivalence for all rubric sources while GPT-4.1 and GPT-4o scored below the baseline"
 description: "In automated evaluation, equivalence with the human baseline depended on the evaluator model: DeepSeek V3 met equivalence for all rubric sources while GPT-4.1 and GPT-4o scored below the baseline"
 id: llm-evaluator-equivalence-depends-on-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

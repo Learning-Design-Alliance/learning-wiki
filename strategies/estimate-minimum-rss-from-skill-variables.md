@@ -3,7 +3,7 @@ type: strategy
 id: estimate-minimum-rss-from-skill-variables
 title: "Estimate a skill's minimum BKT-BF RSS a priori from dim, n, and percent_correct before running the full grid search"
 description: "The paper's proposed approach: rather than finding the parameter values that provide the lowest RSS by exhaustive search, estimate the minimum RSS value from a priori known skill variables."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

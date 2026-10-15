@@ -3,7 +3,7 @@ type: strategy
 id: fund-educator-ai-professional-learning
 title: Invest in educator professional learning on experiential AI pedagogies using existing federal funding streams
 description: "The brief recommends that federal policymakers invest in educator AI literacy training by leveraging existing funding, stating policymakers \"should utilize Title II, Part A grants to fund educator training\" alongside..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

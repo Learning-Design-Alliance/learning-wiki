@@ -3,7 +3,7 @@ type: claim
 title: Persistent research gaps in AI-integrated business education concern curriculum coherence, educator readiness, and assessment validity
 description: Persistent research gaps in AI-integrated business education concern curriculum coherence, educator readiness, and assessment validity
 id: persistent-gaps-ai-business-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

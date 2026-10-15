@@ -3,7 +3,7 @@ type: claim
 title: The A4L impact on grade 4 CCU outcomes differed significantly by ELL status in years 1 and 2, with substantially larger effects for ELL students, but not in year 3
 description: The A4L impact on grade 4 CCU outcomes differed significantly by ELL status in years 1 and 2, with substantially larger effects for ELL students, but not in year 3
 id: a4l-ell-subgroup-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

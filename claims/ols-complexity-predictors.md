@@ -3,7 +3,7 @@ type: claim
 title: Higher self-assessment, verbosity, reflective processing, and technical abstraction are associated with greater response complexity, and Evaluation and Analysis questions tend to yield more complex responses
 description: Higher self-assessment, verbosity, reflective processing, and technical abstraction are associated with greater response complexity, and Evaluation and Analysis questions tend to yield more complex responses
 id: ols-complexity-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

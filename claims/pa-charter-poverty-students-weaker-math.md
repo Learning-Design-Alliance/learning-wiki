@@ -3,7 +3,7 @@ type: claim
 title: Charter students in poverty show similar reading growth but significantly weaker math growth (about 18 fewer days) than their TPS peers in poverty
 description: Charter students in poverty show similar reading growth but significantly weaker math growth (about 18 fewer days) than their TPS peers in poverty
 id: pa-charter-poverty-students-weaker-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators
 description: Mistrust between teachers and parents remained a low-level roadblock in 2017, while lack of parental support had grown as a top roadblock for almost one-third of administrators
 id: parent-support-roadblock-grew-trust-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

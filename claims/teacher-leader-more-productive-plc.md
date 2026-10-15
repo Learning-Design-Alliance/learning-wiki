@@ -3,7 +3,7 @@ type: claim
 title: PLC with an appointed teacher leader were more productive than groups with no appointed leader
 description: PLC with an appointed teacher leader were more productive than groups with no appointed leader
 id: teacher-leader-more-productive-plc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

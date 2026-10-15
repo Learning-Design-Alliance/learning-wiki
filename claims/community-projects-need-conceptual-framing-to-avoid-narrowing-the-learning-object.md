@@ -2,7 +2,7 @@
 type: claim
 title: Community projects need conceptual framing to avoid narrowing the learning object
 id: community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

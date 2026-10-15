@@ -3,7 +3,7 @@ type: claim
 title: "Connect with Kids shows statistically significant positive effects on middle and high school students' reports of their own and classmates' behavior"
 description: "Connect with Kids shows statistically significant positive effects on middle and high school students' reports of their own and classmates' behavior"
 id: cwk-middle-high-school-behavior-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

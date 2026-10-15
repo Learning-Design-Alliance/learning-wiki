@@ -3,7 +3,7 @@ type: claim
 title: GCLA use improves cognitive and behavioral engagement and self-efficacy compared with traditional ChatGPT use in blended learning
 description: GCLA use improves cognitive and behavioral engagement and self-efficacy compared with traditional ChatGPT use in blended learning
 id: gcla-improves-engagement-and-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

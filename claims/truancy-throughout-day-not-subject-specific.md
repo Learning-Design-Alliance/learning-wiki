@@ -3,7 +3,7 @@ type: claim
 title: Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy
 description: Poor attendance occurs throughout the school day and across subjects; first period is most often missed but missing it does not explain overall truancy
 id: truancy-throughout-day-not-subject-specific
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

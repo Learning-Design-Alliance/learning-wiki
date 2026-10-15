@@ -2,7 +2,7 @@
 type: theory
 title: Case-grammar framework for analyzing dissimilation
 description: The paper adopts C.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

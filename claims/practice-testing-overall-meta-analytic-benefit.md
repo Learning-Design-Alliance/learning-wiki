@@ -3,7 +3,7 @@ type: claim
 title: Taking a practice test before a final test produces a moderately large, statistically significant benefit for learning overall (g = 0.61 fixed-effects; g = 0.70 random-effects)
 description: Taking a practice test before a final test produces a moderately large, statistically significant benefit for learning overall (g = 0.61 fixed-effects; g = 0.70 random-effects)
 id: practice-testing-overall-meta-analytic-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

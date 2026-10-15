@@ -4,7 +4,7 @@ id: estonian-reflective-writing-ai-feedback-corpus-of-2988-homework-triplets-fro
 title: Estonian reflective-writing AI-feedback corpus of 2988 homework triplets from 283 students
 description: A restricted corpus created by Andres Karjus et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Most California LEAs offered full-day TK, but large LEAs were less likely to offer only full-day options while more likely to combine TK with on-site expanded learning programs
 description: Most California LEAs offered full-day TK, but large LEAs were less likely to offer only full-day options while more likely to combine TK with on-site expanded learning programs
 id: full-day-tk-and-expanded-day-by-lea-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

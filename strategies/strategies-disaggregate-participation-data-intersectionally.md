@@ -3,7 +3,7 @@ type: strategy
 id: strategies-disaggregate-participation-data-intersectionally
 title: Disaggregate participation data intersectionally by race and gender to surface disparities hidden in aggregate analyses
 description: "This strategy operationalizes EQUIP data for equity analysis: record low-inference participation indicators (turns, talk type, talk length, solicitation, evaluation) during whole-class discussion, cross-tabulate them..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

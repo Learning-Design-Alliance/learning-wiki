@@ -3,7 +3,7 @@ type: claim
 title: "On a text channel, fading holds when the learner's turn is aimed at the decision under support, regardless of its depth"
 description: "On a text channel, fading holds when the learner's turn is aimed at the decision under support, regardless of its depth"
 id: aim-warrant-for-fading-ai-tutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

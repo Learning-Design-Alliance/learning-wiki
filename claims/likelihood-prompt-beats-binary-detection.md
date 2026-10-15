@@ -3,7 +3,7 @@ type: claim
 title: A graded likelihood detector prompt produced more consistent separation than a binary yes/no detector prompt
 description: A graded likelihood detector prompt produced more consistent separation than a binary yes/no detector prompt
 id: likelihood-prompt-beats-binary-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: AI employment threat perception negatively predicts perceived employability among Chinese college students
 description: AI employment threat perception negatively predicts perceived employability among Chinese college students
 id: ai-threat-negatively-predicts-perceived-employability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

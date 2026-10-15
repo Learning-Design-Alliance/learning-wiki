@@ -3,7 +3,7 @@ type: element
 id: pennsylvania-teacher-principal-evaluation-pilot
 title: Pennsylvania Teacher and Principal Evaluation Pilot (2010-2015)
 description: A pilot of teacher and principal evaluation in Pennsylvania, running from 2010 to 2015, for which Mathematica produced value-added estimates in its first phase.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences"
 description: "Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences"
 id: formative-assessment-implementation-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

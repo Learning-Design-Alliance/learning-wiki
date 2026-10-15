@@ -3,7 +3,7 @@ type: claim
 title: In a 10-student pilot, EduGuard produced higher post-test accuracy, larger normalized learning gain, lower calibration error, and lower overreliance than GPT-4o-mini Tutor
 description: In a 10-student pilot, EduGuard produced higher post-test accuracy, larger normalized learning gain, lower calibration error, and lower overreliance than GPT-4o-mini Tutor
 id: eduguard-pilot-learning-gain-overreliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

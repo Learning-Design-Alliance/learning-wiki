@@ -3,7 +3,7 @@ type: claim
 title: Dialogic Reading shows no discernible effects on phonological processing
 description: Dialogic Reading shows no discernible effects on phonological processing
 id: dialogic-reading-no-phonological-processing-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

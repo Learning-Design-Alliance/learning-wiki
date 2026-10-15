@@ -3,7 +3,7 @@ type: strategy
 id: five-step-district-ai-adoption-roadmap
 title: "School districts adopting AI should follow a five-step roadmap: engage communities, apply and develop policies, provide professional development, create supportive learning environments, and monitor and evaluate AI use"
 description: "The report synthesizes the state documents' advice into a common roadmap for local education leaders."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

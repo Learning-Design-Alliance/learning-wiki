@@ -3,7 +3,7 @@ type: claim
 title: Monte Carlo simulation confirms weight and score stability of the expert-derived priorities under judgment perturbation
 description: Monte Carlo simulation confirms weight and score stability of the expert-derived priorities under judgment perturbation
 id: mc-simulation-robustness-ahp-fahp-weights
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

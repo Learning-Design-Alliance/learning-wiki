@@ -3,7 +3,7 @@ type: claim
 title: Value-added models were used to estimate teacher and principal effectiveness measures in Charleston County School District in 2013-2014
 description: Value-added models were used to estimate teacher and principal effectiveness measures in Charleston County School District in 2013-2014
 id: value-added-models-estimate-charleston-teacher-principal-effectiveness-2013-14
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

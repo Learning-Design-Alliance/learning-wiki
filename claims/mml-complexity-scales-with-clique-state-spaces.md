@@ -3,7 +3,7 @@ type: claim
 title: Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality
 description: Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality
 id: mml-complexity-scales-with-clique-state-spaces
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

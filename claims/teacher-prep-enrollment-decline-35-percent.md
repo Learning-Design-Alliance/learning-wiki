@@ -3,7 +3,7 @@ type: claim
 title: "Teacher education enrollments dropped 35% between 2009 and 2014, from 691,000 to 451,000"
 description: "Teacher education enrollments dropped 35% between 2009 and 2014, from 691,000 to 451,000"
 id: teacher-prep-enrollment-decline-35-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Four rationales underlie combining modalities in MMCA research
 description: The review identifies an organizing taxonomy of four rationales that researchers give for combining modalities in MMCA studies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

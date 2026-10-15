@@ -3,7 +3,7 @@ type: claim
 title: "Coach-guided interactive teaching yields higher and more progressive recovery than static relearning, particularly under moderate forgetting levels (10%–30%)"
 description: "Coach-guided interactive teaching yields higher and more progressive recovery than static relearning, particularly under moderate forgetting levels (10%–30%)"
 id: coach-guided-relearning-beats-static
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

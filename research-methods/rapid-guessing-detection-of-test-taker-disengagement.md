@@ -3,7 +3,7 @@ type: research-method
 id: rapid-guessing-detection-of-test-taker-disengagement
 title: Rapid-guessing detection of test taker disengagement
 description: "The page's featured item concerns \"rapid guessing\" used \"to detect test taker disengagement\", with an emphasis on validation and applications."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

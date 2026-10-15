@@ -3,7 +3,7 @@ type: claim
 title: Trained teachers allocated about 20 percent of class time to the feedback-corrective/enrichment loop after staff development, having devoted virtually none before
 description: Trained teachers allocated about 20 percent of class time to the feedback-corrective/enrichment loop after staff development, having devoted virtually none before
 id: training-increases-feedback-corrective-loop-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

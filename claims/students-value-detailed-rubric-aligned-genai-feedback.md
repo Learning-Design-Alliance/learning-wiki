@@ -3,7 +3,7 @@ type: claim
 title: "K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise"
 description: "K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise"
 id: students-value-detailed-rubric-aligned-genai-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

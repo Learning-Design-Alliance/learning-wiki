@@ -3,7 +3,7 @@ type: strategy
 id: community-cultural-resources-panel-protocol
 title: "Panel protocol: open with community cultural resources, then moderated discussion connecting community assets to computing education"
 description: "The article describes a panel structure in which \"participants will first explore Appalachian culture and perspectives through resources such as the The Appalachian Retelling Project,\" followed by an introduction of c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

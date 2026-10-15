@@ -3,7 +3,7 @@ type: claim
 title: Nearly all teachers implemented the TEC Summer Learning Program as planned despite wide variation in program conditions
 description: Nearly all teachers implemented the TEC Summer Learning Program as planned despite wide variation in program conditions
 id: tec-summer-high-fidelity-despite-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Among RL-in-education papers testing statistical significance, 18 of 35 report at least one RL policy significantly outperforming all baselines, while over half of all reviewed papers report no statistical analysis
 description: Among RL-in-education papers testing statistical significance, 18 of 35 report at least one RL policy significantly outperforming all baselines, while over half of all reviewed papers report no statistical analysis
 id: rl-education-significance-18-of-35-outperform
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

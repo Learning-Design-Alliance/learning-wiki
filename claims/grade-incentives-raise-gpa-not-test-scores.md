@@ -3,7 +3,7 @@ type: claim
 title: Paying ninth graders for course grades increases GPA but not achievement test scores in Chicago
 description: Paying ninth graders for course grades increases GPA but not achievement test scores in Chicago
 id: grade-incentives-raise-gpa-not-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

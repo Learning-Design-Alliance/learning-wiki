@@ -3,7 +3,7 @@ type: claim
 title: Students regard reduced critical thinking and originality as the biggest threat of ChatGPT use in academia
 description: Students regard reduced critical thinking and originality as the biggest threat of ChatGPT use in academia
 id: students-see-reduced-critical-thinking-as-biggest-chatgpt-threat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

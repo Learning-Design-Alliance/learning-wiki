@@ -3,7 +3,7 @@ type: claim
 title: "A 1977 theoretical paper on writing asserts, citing unspecified experiments, that stating tasks and standards for success explicitly strongly raises student motivation"
 description: "A 1977 theoretical paper on writing asserts, citing unspecified experiments, that stating tasks and standards for success explicitly strongly raises student motivation"
 id: explicit-tasks-standards-boost-writing-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

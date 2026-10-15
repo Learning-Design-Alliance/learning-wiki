@@ -3,7 +3,7 @@ type: claim
 title: Underlining and adjunct questions may hinder rather than help recall in young readers, reflecting a comprehension rather than a metacomprehension deficit
 description: Underlining and adjunct questions may hinder rather than help recall in young readers, reflecting a comprehension rather than a metacomprehension deficit
 id: underlining-adjunct-questions-hinder-young-readers-comprehension-deficit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

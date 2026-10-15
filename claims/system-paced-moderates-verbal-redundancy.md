@@ -3,7 +3,7 @@ type: claim
 title: The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials
 description: The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials
 id: system-paced-moderates-verbal-redundancy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

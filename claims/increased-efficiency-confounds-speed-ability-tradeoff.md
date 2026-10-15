@@ -3,7 +3,7 @@ type: claim
 title: The increased efficiency effect confounds attempts to exploit the speed-ability trade-off central to many response-time models
 description: The increased efficiency effect confounds attempts to exploit the speed-ability trade-off central to many response-time models
 id: increased-efficiency-confounds-speed-ability-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: evaluation-of-reading-comprehension-interventions-design
 title: "The Evaluation of Reading Comprehension Interventions: a national design for assessing supplemental reading comprehension programs for fifth-grade students"
 description: The article describes a design report for a national evaluation of reading comprehension instruction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

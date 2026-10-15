@@ -3,7 +3,7 @@ type: claim
 title: "Graphing the Student Momentum Indicator across lessons yields nine dropout-behavior shape categories, with steep wall shapes the most common (25.5%) and flat slope shapes rare (2.6%)"
 description: "Graphing the Student Momentum Indicator across lessons yields nine dropout-behavior shape categories, with steep wall shapes the most common (25.5%) and flat slope shapes rare (2.6%)"
 id: nine-student-momentum-graph-shape-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

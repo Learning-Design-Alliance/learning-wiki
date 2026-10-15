@@ -3,7 +3,7 @@ type: claim
 title: Theory of mind predicts concurrent literacy and numeracy outcomes at school entry among low-income children
 description: Theory of mind predicts concurrent literacy and numeracy outcomes at school entry among low-income children
 id: tom-predicts-concurrent-academic-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "CODE-GEN achieves human-validated success rates of 79.9% to 98.6% across seven pedagogical evaluation dimensions"
 description: "CODE-GEN achieves human-validated success rates of 79.9% to 98.6% across seven pedagogical evaluation dimensions"
 id: code-gen-success-rates-seven-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing"
 description: "L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing"
 id: l2c-within-subject-lap-time-failure-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

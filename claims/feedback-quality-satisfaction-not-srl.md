@@ -3,7 +3,7 @@ type: claim
 title: AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning
 description: AIGC feedback quality predicts satisfaction but not self-efficacy, and satisfaction does not predict self-regulated learning
 id: feedback-quality-satisfaction-not-srl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

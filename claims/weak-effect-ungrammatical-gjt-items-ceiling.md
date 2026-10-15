@@ -3,7 +3,7 @@ type: claim
 title: Feedback effects on ungrammatical GJT items were weak because learners already possessed the relevant explicit knowledge
 description: Feedback effects on ungrammatical GJT items were weak because learners already possessed the relevant explicit knowledge
 id: weak-effect-ungrammatical-gjt-items-ceiling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

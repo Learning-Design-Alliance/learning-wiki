@@ -3,7 +3,7 @@ type: claim
 title: "Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade"
 description: "Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade"
 id: philanthropic-studies-epportfolio-curricular-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

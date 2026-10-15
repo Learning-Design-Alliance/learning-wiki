@@ -3,7 +3,7 @@ type: element
 id: newsflash-email-blast-format
 title: "The newsflash format: a succinct email announcement suited to tablets and smartphones"
 description: The newsflash is a succinct email-blast format announcing new research findings that incorporates a compelling story, engaging visuals, and electronic tools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

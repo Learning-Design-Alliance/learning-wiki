@@ -3,7 +3,7 @@ type: claim
 title: People overestimate how much time AI assistance saves (speedup illusion), driven by miscalibration about AI-assisted completion time while independent completion time is well calibrated
 description: People overestimate how much time AI assistance saves (speedup illusion), driven by miscalibration about AI-assisted completion time while independent completion time is well calibrated
 id: speedup-illusion-ai-time-savings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

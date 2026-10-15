@@ -3,7 +3,7 @@ type: strategy
 id: vplc-replaces-in-person-coaching-for-scale
 title: Replace labor-intensive in-person coaching with a virtual professional learning community to scale professional development
 description: In prior ASSISTments implementations, teachers received in-person training plus three one-on-one coaching visits per year with between-session coach access.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

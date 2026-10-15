@@ -3,7 +3,7 @@ type: strategy
 id: peer-family-care-navigators-for-el-families
 title: Hire peer family care navigators and build county-level coordinated care systems for English Learner families
 description: The brief recommends investing in formal English Learner family care navigators who are peers who have lived in the community and speak its languages, to help families navigate education and community supports and adv...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

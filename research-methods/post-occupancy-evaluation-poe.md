@@ -3,7 +3,7 @@ type: research-method
 id: post-occupancy-evaluation-poe
 title: Post-occupancy evaluation (POE)
 description: Post-occupancy evaluation (POE) is presented as an established methodology for evaluating non-domestic buildings, which the review charts historically to contextualize learning-space evaluation.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

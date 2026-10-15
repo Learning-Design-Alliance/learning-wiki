@@ -3,7 +3,7 @@ type: claim
 title: Flagged word problems were shorter (lower word count) but had more sentences than non-flagged problems in descriptive statistics
 description: Flagged word problems were shorter (lower word count) but had more sentences than non-flagged problems in descriptive statistics
 id: flagged-problems-shorter-more-sentences-descriptives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

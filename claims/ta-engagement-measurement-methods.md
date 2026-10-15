@@ -3,7 +3,7 @@ type: claim
 title: Designers and providers assess recipient engagement in training and TA through attendance, active participation, progress between check-ins, and satisfaction survey data and response rates
 description: Designers and providers assess recipient engagement in training and TA through attendance, active participation, progress between check-ins, and satisfaction survey data and response rates
 id: ta-engagement-measurement-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

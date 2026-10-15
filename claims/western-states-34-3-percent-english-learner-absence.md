@@ -3,7 +3,7 @@ type: claim
 title: "In Western states during 2022–23, multilingual learners' chronic absence averaged 34.3 percent versus 28.9 percent for all students"
 description: "In Western states during 2022–23, multilingual learners' chronic absence averaged 34.3 percent versus 28.9 percent for all students"
 id: western-states-34-3-percent-english-learner-absence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

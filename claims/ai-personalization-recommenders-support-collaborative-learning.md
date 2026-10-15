@@ -3,7 +3,7 @@ type: claim
 title: Personalized learning systems and recommender algorithms support effective AI-powered collaborative learning through tailored content and peer matching
 description: Personalized learning systems and recommender algorithms support effective AI-powered collaborative learning through tailored content and peer matching
 id: ai-personalization-recommenders-support-collaborative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

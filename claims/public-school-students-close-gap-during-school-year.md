@@ -3,7 +3,7 @@ type: claim
 title: Public school students close the achievement gap with Catholic school students to some degree during the school year
 description: Public school students close the achievement gap with Catholic school students to some degree during the school year
 id: public-school-students-close-gap-during-school-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

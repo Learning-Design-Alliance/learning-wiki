@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-genai-declarations-and-scope-guidance
 title: Evaluate GenAI declaration frameworks empirically and pair them with institutional guidance on which tools are in scope
 description: "The authors propose three strands of future work: empirical evaluation \"comparing student declarations against observed workflow data to assess whether declarations track actual behaviour\"; pedagogical evaluation of w..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

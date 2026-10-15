@@ -3,7 +3,7 @@ type: claim
 title: Displaced students changed schools a second time at roughly twice the rate of comparison students during the first year and the following summer
 description: Displaced students changed schools a second time at roughly twice the rate of comparison students during the first year and the following summer
 id: elevated-subsequent-mobility-after-displacement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

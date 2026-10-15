@@ -4,7 +4,7 @@ id: isd-agent-bench
 title: ISD-Agent-Bench
 description: ISD-Agent-Bench is a benchmark dataset and evaluation harness created by YoungHoon Jeon et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

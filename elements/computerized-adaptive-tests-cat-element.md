@@ -3,7 +3,7 @@ type: element
 id: computerized-adaptive-tests-cat-element
 title: Computerized adaptive tests (CATs) as a motivational design feature in low-stakes assessment
 description: Computerized adaptive tests (CATs) are a test-delivery format in which item selection adapts to the examinee, and the article evaluates them as a design feature with motivational benefits in low-stakes testing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

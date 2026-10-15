@@ -4,7 +4,7 @@ title: "On average, charter middle schools' impacts on student achievement were 
 description: "On average, charter middle schools' impacts on student achievement were negative but not statistically significant"
 id: charter-middle-schools-average-achievement-impacts-negative-nonsignificant
 aliases: [charter-offer-and-attendance-impacts-both-negative-nonsignificant]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

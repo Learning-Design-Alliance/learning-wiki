@@ -3,7 +3,7 @@ type: claim
 title: Reading Apprenticeship® shows uncertain effects on mathematics achievement, with one significant negative finding
 description: Reading Apprenticeship® shows uncertain effects on mathematics achievement, with one significant negative finding
 id: reading-apprenticeship-uncertain-mathematics-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

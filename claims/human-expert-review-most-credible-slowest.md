@@ -3,7 +3,7 @@ type: claim
 title: Human expert review is the most credible but slowest and most resource-intensive evaluation method
 description: Human expert review is the most credible but slowest and most resource-intensive evaluation method
 id: human-expert-review-most-credible-slowest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: EAI-based interventions show a significant positive pooled effect on student performance in the post-test meta-analysis (gp = 0.716)
 description: EAI-based interventions show a significant positive pooled effect on student performance in the post-test meta-analysis (gp = 0.716)
 id: eai-posttest-meta-analysis-positive-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

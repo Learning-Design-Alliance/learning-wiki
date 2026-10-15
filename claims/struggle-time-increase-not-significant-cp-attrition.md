@@ -3,7 +3,7 @@ type: claim
 title: "Mean struggle time before acceptance is 15.6% higher among true attrition users but does not reach statistical significance"
 description: "Mean struggle time before acceptance is 15.6% higher among true attrition users but does not reach statistical significance"
 id: struggle-time-increase-not-significant-cp-attrition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

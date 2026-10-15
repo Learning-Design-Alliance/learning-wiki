@@ -3,7 +3,7 @@ type: claim
 title: Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts
 description: Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts
 id: redundant-contexts-improve-semantic-representations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

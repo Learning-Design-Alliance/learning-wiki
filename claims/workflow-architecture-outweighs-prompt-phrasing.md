@@ -3,7 +3,7 @@ type: claim
 title: The author reports that prompt phrasing and the specific foundational model had secondary impact on final material quality compared with the structure of the workflow itself.
 description: The author reports that prompt phrasing and the specific foundational model had secondary impact on final material quality compared with the structure of the workflow itself.
 id: workflow-architecture-outweighs-prompt-phrasing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

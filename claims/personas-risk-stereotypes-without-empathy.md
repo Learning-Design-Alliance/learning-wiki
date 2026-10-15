@@ -3,7 +3,7 @@ type: claim
 title: Personas developed without care and empathy can create stereotypes
 description: Personas developed without care and empathy can create stereotypes
 id: personas-risk-stereotypes-without-empathy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

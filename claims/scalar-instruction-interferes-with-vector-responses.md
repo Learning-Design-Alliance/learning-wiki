@@ -3,7 +3,7 @@ type: claim
 title: "Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M"
 description: "Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M"
 id: scalar-instruction-interferes-with-vector-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

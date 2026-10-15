@@ -3,7 +3,7 @@ type: design
 id: four-phase-weekly-ai-simulation-cycle
 title: "Four-phase weekly cycle for AI-based noticing practice: video, chatbot interaction, reflection, mentor feedback"
 description: "The implementation was organised as a repeating weekly structure in which \"each week consisting of four phases\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

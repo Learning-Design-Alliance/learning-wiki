@@ -3,7 +3,7 @@ type: strategy
 id: university-guidelines-education-chatgpt-use
 title: Universities should provide vivid guidelines and education on how and where ChatGPT may be used for learning
 description: The article concludes that institutions should clarify regulations and teach students how to use ChatGPT productively.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

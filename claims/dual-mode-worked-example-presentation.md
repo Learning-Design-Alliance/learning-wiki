@@ -3,7 +3,7 @@ type: claim
 title: Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues
 description: Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues
 id: dual-mode-worked-example-presentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

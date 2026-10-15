@@ -3,7 +3,7 @@ type: claim
 title: High-variability passages receive longer study times than low-variability passages
 description: High-variability passages receive longer study times than low-variability passages
 id: high-variability-passages-longer-study-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

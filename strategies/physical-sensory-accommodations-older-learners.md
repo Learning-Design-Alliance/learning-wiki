@@ -3,7 +3,7 @@ type: strategy
 id: physical-sensory-accommodations-older-learners
 title: Accommodate age-related physical and sensory changes through high-contrast large-print materials, clear face-to-face speech, easy-grip manipulatives, and short morning sessions
 description: "A set of concrete classroom accommodations for older learners' physical challenges: worksheets in \"14-point black font\" with plenty of white space, high-contrast enlarged visuals, easy-to-grasp manipulatives, facing s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

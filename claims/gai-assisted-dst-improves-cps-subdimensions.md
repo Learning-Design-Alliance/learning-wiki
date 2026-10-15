@@ -3,7 +3,7 @@ type: claim
 title: GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods
 description: GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods
 id: gai-assisted-dst-improves-cps-subdimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

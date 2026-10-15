@@ -3,7 +3,7 @@ type: claim
 title: "Frequency, content, and quality of professional development are each positively related to elementary teachers' use of interactive instruction"
 description: "Frequency, content, and quality of professional development are each positively related to elementary teachers' use of interactive instruction"
 id: pd-elements-related-interactive-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

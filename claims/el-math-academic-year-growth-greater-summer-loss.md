@@ -3,7 +3,7 @@ type: claim
 title: In math, ELs grew more than never-ELs during academic years but lost more during summers
 description: In math, ELs grew more than never-ELs during academic years but lost more during summers
 id: el-math-academic-year-growth-greater-summer-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

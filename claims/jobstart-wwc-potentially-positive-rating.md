@@ -3,7 +3,7 @@ type: claim
 title: The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study
 description: The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study
 id: jobstart-wwc-potentially-positive-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Reflection on a prediction failure shifted students' isomorphism awareness from structural recognition to boundary awareness"
 description: "Reflection on a prediction failure shifted students' isomorphism awareness from structural recognition to boundary awareness"
 id: prediction-failure-reflection-builds-boundary-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

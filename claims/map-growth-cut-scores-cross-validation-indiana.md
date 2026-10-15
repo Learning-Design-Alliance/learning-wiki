@@ -3,7 +3,7 @@ type: claim
 title: Cross-validation in an independent Indiana sample was consistent with the primary-sample classification accuracy results
 description: Cross-validation in an independent Indiana sample was consistent with the primary-sample classification accuracy results
 id: map-growth-cut-scores-cross-validation-indiana
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

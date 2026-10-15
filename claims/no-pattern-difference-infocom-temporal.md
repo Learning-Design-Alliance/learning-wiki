@@ -3,7 +3,7 @@ type: claim
 title: Interaction patterns show no significant differences in information completeness or temporal speech measures at either stage
 description: Interaction patterns show no significant differences in information completeness or temporal speech measures at either stage
 id: no-pattern-difference-infocom-temporal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

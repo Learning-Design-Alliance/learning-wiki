@@ -3,7 +3,7 @@ type: claim
 title: Hypothesis-based predictors match or beat black-box difficulty regressors on unseen questions
 description: Hypothesis-based predictors match or beat black-box difficulty regressors on unseen questions
 id: hypothesis-predictor-matches-black-box-regressors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

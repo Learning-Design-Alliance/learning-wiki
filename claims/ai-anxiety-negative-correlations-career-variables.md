@@ -3,7 +3,7 @@ type: claim
 title: AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students
 description: AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students
 id: ai-anxiety-negative-correlations-career-variables
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

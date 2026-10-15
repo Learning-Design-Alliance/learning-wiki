@@ -2,7 +2,7 @@
 type: theory
 title: "Mathematical learning progressions as a lens for evaluating teachers' curriculum adaptations"
 description: "The study uses mathematical learning progressions as the standard against which teachers' content adaptations to middle school math curricula are judged."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

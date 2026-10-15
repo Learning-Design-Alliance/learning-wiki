@@ -3,7 +3,7 @@ type: claim
 title: "Intersecting identities compound suspension risk: 0.1% of Asian girls without special education services in elementary schools were suspended versus 27% of Black boys with disabilities in secondary schools"
 description: "Intersecting identities compound suspension risk: 0.1% of Asian girls without special education services in elementary schools were suspended versus 27% of Black boys with disabilities in secondary schools"
 id: intersectional-suspension-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

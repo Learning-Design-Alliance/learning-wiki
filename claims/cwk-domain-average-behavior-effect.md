@@ -3,7 +3,7 @@ type: claim
 title: "The average effect across all four behavior outcome measures in the Page & D'Agostino study is positive and statistically significant (effect size 0.40)"
 description: "The average effect across all four behavior outcome measures in the Page & D'Agostino study is positive and statistically significant (effect size 0.40)"
 id: cwk-domain-average-behavior-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

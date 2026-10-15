@@ -3,7 +3,7 @@ type: claim
 title: Findings from two states and three cities cannot be generalized to a national estimate of program effects
 description: Findings from two states and three cities cannot be generalized to a national estimate of program effects
 id: two-states-three-cities-not-generalizable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

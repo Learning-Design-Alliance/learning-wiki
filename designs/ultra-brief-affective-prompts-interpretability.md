@@ -3,7 +3,7 @@ type: design
 id: ultra-brief-affective-prompts-interpretability
 title: Use ultra-brief affective prompts to enrich the psychological interpretability of passive physiological data at minimal participant burden
 description: "The article's design guidance is that a single open-ended affective question, answered in the participant's own words, can complement passive wearable sensing by supplying psychological context the sensors cannot reco..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

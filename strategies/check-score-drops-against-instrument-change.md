@@ -3,7 +3,7 @@ type: strategy
 id: check-score-drops-against-instrument-change
 title: Treat a drop in scores after an assessment change as potentially a measurement artifact rather than a real achievement decline
 description: When scores fall after a new assessment is introduced, communicators and analysts should first check whether the drop reflects the instrument change before reporting an achievement decline.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall"
 description: "Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with..."
 id: human-embodiment-video-presence-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

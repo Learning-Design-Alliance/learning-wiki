@@ -4,7 +4,7 @@ id: five-component-framework-for-systemic-school-turnaround
 title: Five-Component Framework for Systemic School Turnaround
 description: "TenSquare's framework guides boards, school leaders, and turnaround partners in transforming leadership, talent, teaching and learning, culture, and operations and finance in low-performing charter schools."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

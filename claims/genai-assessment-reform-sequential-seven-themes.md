@@ -3,7 +3,7 @@ type: claim
 title: GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes
 description: GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes
 id: genai-assessment-reform-sequential-seven-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

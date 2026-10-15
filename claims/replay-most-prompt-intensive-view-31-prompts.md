@@ -3,7 +3,7 @@ type: claim
 title: The programming-process replay was the most prompt-intensive view to develop, requiring 31 prompts to work reliably and handle edge cases
 description: The programming-process replay was the most prompt-intensive view to develop, requiring 31 prompts to work reliably and handle edge cases
 id: replay-most-prompt-intensive-view-31-prompts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

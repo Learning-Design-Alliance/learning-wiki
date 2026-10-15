@@ -3,7 +3,7 @@ type: claim
 title: Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs
 description: Nonexperimental methods incorporating pre-treatment outcome measures can replicate experimental ITT impact estimates when control-group crossover occurs
 id: nonexperimental-pre-treatment-methods-replicate-itt-under-crossover
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

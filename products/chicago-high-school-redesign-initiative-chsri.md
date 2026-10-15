@@ -4,7 +4,7 @@ id: chicago-high-school-redesign-initiative-chsri
 title: Chicago High School Redesign Initiative (CHSRI)
 description: A Chicago Public Schools high-school redesign initiative that created small, voluntary schools with supported autonomy and organizational and instructional reforms for urban students.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

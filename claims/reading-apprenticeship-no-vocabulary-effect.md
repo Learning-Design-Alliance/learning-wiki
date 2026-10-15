@@ -3,7 +3,7 @@ type: claim
 title: Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)
 description: Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)
 id: reading-apprenticeship-no-vocabulary-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

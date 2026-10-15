@@ -3,7 +3,7 @@ type: claim
 title: Doctoral-level teachers show the highest advanced-level percentage in each of the four OER competency modules
 description: Doctoral-level teachers show the highest advanced-level percentage in each of the four OER competency modules
 id: doctoral-teachers-highest-advanced-oer-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

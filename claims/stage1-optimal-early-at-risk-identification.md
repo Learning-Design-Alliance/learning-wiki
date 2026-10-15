@@ -3,7 +3,7 @@ type: claim
 title: Stage 1 (after the first unit review assignment) is the optimal point for identifying at-risk students, balancing timeliness, accuracy, and fairness
 description: Stage 1 (after the first unit review assignment) is the optimal point for identifying at-risk students, balancing timeliness, accuracy, and fairness
 id: stage1-optimal-early-at-risk-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

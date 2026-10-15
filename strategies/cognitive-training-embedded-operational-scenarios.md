@@ -3,7 +3,7 @@ type: strategy
 id: cognitive-training-embedded-operational-scenarios
 title: Cognitive performance training embedded in operational scenarios under fatigue
 description: The review recommends shifting cognitive training from isolated drills toward conditioning relevant to mission demands.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Average check-in and weekly ratings show no significant differences between chatbot conditions, with the Non-Empathetic chatbot often rated as more engaging and useful
 description: Average check-in and weekly ratings show no significant differences between chatbot conditions, with the Non-Empathetic chatbot often rated as more engaging and useful
 id: no-significant-average-differences-nonempathetic-rated-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

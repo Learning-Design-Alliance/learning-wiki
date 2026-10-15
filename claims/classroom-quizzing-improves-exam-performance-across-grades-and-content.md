@@ -3,7 +3,7 @@ type: claim
 title: Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses
 description: Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses
 id: classroom-quizzing-improves-exam-performance-across-grades-and-content
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

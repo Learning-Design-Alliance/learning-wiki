@@ -3,7 +3,7 @@ type: claim
 title: "After expert correction of benchmark materials, GPT-5.6-Sol's measured accuracy rises substantially on HLE-Physics, CMT-Benchmark, and CritPt"
 description: "After expert correction of benchmark materials, GPT-5.6-Sol's measured accuracy rises substantially on HLE-Physics, CMT-Benchmark, and CritPt"
 id: corrected-benchmark-scores-rise-substantially-after-expert-audit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

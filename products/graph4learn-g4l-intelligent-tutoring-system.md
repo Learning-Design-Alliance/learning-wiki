@@ -4,7 +4,7 @@ id: graph4learn-g4l-intelligent-tutoring-system
 title: Graph4Learn (G4L) intelligent tutoring system
 description: A Python-based intelligent tutoring web application developed by Csépányi-Fürjes et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

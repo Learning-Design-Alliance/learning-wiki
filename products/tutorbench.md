@@ -4,7 +4,7 @@ id: tutorbench
 title: TutorBench
 description: TutorBench is a source-grounded benchmark dataset created by Bingxi Zhao et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

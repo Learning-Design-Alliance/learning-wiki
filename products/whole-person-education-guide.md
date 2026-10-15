@@ -4,7 +4,7 @@ id: whole-person-education-guide
 title: Whole-Person Education Guide
 description: A district-facing framework and facilitated planning guide for aligning whole-person education initiatives, developed for adoption by education systems.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

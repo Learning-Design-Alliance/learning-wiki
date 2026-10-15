@@ -2,7 +2,7 @@
 type: theory
 title: Catalyst Framework for ePortfolio Practice
 description: "A framework asserting three value propositions: ePortfolio initiatives advance student success; making student learning visible, they support reflection, social pedagogy, and deepen learning; and they catalyze learnin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

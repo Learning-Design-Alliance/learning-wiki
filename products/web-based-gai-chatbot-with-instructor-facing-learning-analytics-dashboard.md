@@ -4,7 +4,7 @@ id: web-based-gai-chatbot-with-instructor-facing-learning-analytics-dashboard
 title: Web-based GAI chatbot with instructor-facing learning analytics dashboard
 description: "A login-based web application built with OpenAI's Assistants API that provides course-specific Socratic tutoring and instructors with dashboards for analyzing student conversations and engagement."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

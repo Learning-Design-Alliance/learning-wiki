@@ -3,7 +3,7 @@ type: strategy
 id: ai-chatbots-active-learning-biology
 title: Strategically employ AI tools, including chatbots, within active learning methodologies such as problem-based learning, flipped classrooms, and virtual labs
 description: "The review recommends that AI tools including chatbots be \"strategically employed in active learning methodologies, such as problem-based learning, flipped classrooms, and online learning\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

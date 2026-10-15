@@ -3,7 +3,7 @@ type: claim
 title: "Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics"
 description: "Self-monitoring of work quality requires three student capacities: appreciation of high quality, evaluative skill, and a store of modification tactics"
 id: three-capacities-for-evaluative-self-monitoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

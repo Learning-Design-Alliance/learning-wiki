@@ -3,7 +3,7 @@ type: claim
 title: NYC charter middle schools affiliated with Achievement First and Uncommon show statistically significant reading gains after three years, equal to an estimated additional 0.7 years of growth
 description: NYC charter middle schools affiliated with Achievement First and Uncommon show statistically significant reading gains after three years, equal to an estimated additional 0.7 years of growth
 id: af-uncommon-nyc-charter-middle-reading-impact-07-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

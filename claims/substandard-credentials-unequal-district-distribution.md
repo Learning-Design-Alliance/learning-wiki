@@ -3,7 +3,7 @@ type: claim
 title: Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students
 description: Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students
 id: substandard-credentials-unequal-district-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

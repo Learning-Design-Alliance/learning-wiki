@@ -3,7 +3,7 @@ type: strategy
 id: coaching-and-support-for-low-skilled-adult-learners
 title: Provide support, feedback, guidance, and coaching along the way for low-skilled adult learners
 description: "The report closes by warning against assuming low-skilled adults can self-direct: many \"have had negative experiences with learning in the past, and haven't developed some of the skills needed to direct their own lear..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Selective enrollment students from low-income neighborhoods are less likely to attend selective colleges than similarly-performing low-income students who do not enroll
 description: Selective enrollment students from low-income neighborhoods are less likely to attend selective colleges than similarly-performing low-income students who do not enroll
 id: sehs-low-income-selective-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

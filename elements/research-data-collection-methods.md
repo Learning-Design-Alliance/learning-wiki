@@ -4,7 +4,7 @@ id: research-data-collection-methods
 title: Research Data Collection Methods
 description: Observation, surveys, and archival/content analysis are the main methods researchers use to gather data, each with a distinct tradeoff between ecological validity, depth, and cost that mirrors — but is methodologically distinct from — their use as classroom-assessment techniques.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

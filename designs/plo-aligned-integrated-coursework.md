@@ -3,7 +3,7 @@ type: design
 id: plo-aligned-integrated-coursework
 title: Coursework aligned to four Program Learning Outcomes integrated across all courses
 description: "Alder's curriculum is organized around four Program Learning Outcomes: asset-based community and cultural responsiveness; developmentally appropriate, whole child, and inclusive practices; pedagogical content knowledg..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

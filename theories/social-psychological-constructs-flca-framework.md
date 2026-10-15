@@ -2,7 +2,7 @@
 type: theory
 title: Social-psychological construct framework for Foreign Language Classroom Anxiety
 description: "The article grounds its study of Foreign Language Classroom Anxiety in four social-psychological constructs: goal-centred theory (Dreikurs, 1972), motivation as extrinsic and intrinsic forces (Maslow, 1943), self-effi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

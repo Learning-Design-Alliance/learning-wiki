@@ -3,7 +3,7 @@ type: claim
 title: Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners
 description: Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners
 id: reader-fluency-prior-knowledge-moderate-redundancy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

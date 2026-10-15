@@ -3,7 +3,7 @@ type: claim
 title: Teacher time imposes no incremental cost for ASSISTments above business-as-usual instruction
 description: Teacher time imposes no incremental cost for ASSISTments above business-as-usual instruction
 id: assistments-no-incremental-teacher-time-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

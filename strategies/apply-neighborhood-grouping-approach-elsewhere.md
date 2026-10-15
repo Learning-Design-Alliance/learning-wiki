@@ -3,7 +3,7 @@ type: strategy
 id: apply-neighborhood-grouping-approach-elsewhere
 title: Apply the neighborhood-centered grouping approach in other cities for research, policy decisions, and service allocation
 description: The brief recommends that other cities, school districts, and policy makers apply a similar neighborhood-centered approach for different objectives.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

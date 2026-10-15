@@ -3,7 +3,7 @@ type: research-method
 id: four-step-methodological-framework-for-measuring-llm-alignment-to-intended-impact-in-high
 title: Four-step methodological framework for measuring LLM alignment to intended impact in high-noise contexts
 description: The article proposes a general framework for evaluating whether LLM judgments align with real-world outcomes when experimental control is infeasible.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

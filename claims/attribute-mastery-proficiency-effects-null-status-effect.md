@@ -3,7 +3,7 @@ type: claim
 title: Attribute mastery showed significant proficiency-group, attribute, and attribute-by-proficiency effects, but no significant status-group main effect
 description: Attribute mastery showed significant proficiency-group, attribute, and attribute-by-proficiency effects, but no significant status-group main effect
 id: attribute-mastery-proficiency-effects-null-status-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

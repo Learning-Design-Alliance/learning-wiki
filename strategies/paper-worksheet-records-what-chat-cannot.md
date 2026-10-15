@@ -3,7 +3,7 @@ type: strategy
 id: paper-worksheet-records-what-chat-cannot
 title: "Pair the AI chat with a paper worksheet that records what the chat cannot: sketches, agreed group statements and a short reflection"
 description: "A concrete implementable companion to AI-facilitated inquiry: alongside the chat, students fill in a paper worksheet meant to record “what the chat cannot” — their sketch, the group's agreed statements, and a short re..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

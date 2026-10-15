@@ -3,7 +3,7 @@ type: strategy
 id: interrogate-voice-credibility-and-testimony-in-educational-inequality-research
 title: Interrogate Voice, Credibility and Testimony When Studying Inequality in Education
 description: "The article's four suggestions for further research."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

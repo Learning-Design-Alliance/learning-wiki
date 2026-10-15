@@ -3,7 +3,7 @@ type: claim
 title: Pilot testing found the initial problem posing test response time too short, with most pilot students unable to complete all three items
 description: Pilot testing found the initial problem posing test response time too short, with most pilot students unable to complete all three items
 id: pilot-response-time-insufficient-problem-posing-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

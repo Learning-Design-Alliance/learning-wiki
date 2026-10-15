@@ -3,7 +3,7 @@ type: strategy
 id: expand-multilingual-workforce-data-and-planning
 title: Expand multilingual workforce data and cross-system strategic planning to grow the supply of bilingual instructors
 description: The brief recommends expanding available program and workforce data by collecting more comprehensive program data and making existing workforce data publicly accessible, convening state and regional cross-system workf...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

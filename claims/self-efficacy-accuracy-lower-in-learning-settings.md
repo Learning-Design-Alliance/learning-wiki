@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings
 description: Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings
 id: self-efficacy-accuracy-lower-in-learning-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

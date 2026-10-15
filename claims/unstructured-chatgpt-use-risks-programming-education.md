@@ -3,7 +3,7 @@ type: claim
 title: Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks
 description: Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks
 id: unstructured-chatgpt-use-risks-programming-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

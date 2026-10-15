@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Learning By Teaching Improves Tutor Learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

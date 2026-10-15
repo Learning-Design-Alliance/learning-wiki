@@ -3,7 +3,7 @@ type: strategy
 id: educator-partnership-centered-equity-research
 title: Conduct research in partnership with educators on equity problems educators prioritize
 description: "This strategy makes schools or instructors full partners in research, linking the school's improvement goals to the research purpose."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

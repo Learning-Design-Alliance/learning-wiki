@@ -3,7 +3,7 @@ type: research-method
 id: within-study-comparison-wsc-methodology
 title: Within-study comparison (WSC) methodology
 description: "A within-study comparison examines \"whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments.\" The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a rand"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

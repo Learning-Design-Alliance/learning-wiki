@@ -3,7 +3,7 @@ type: claim
 title: Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates
 description: Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates
 id: regularization-drawbacks-uncertainty-false-positives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

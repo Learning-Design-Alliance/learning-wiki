@@ -4,7 +4,7 @@ id: national-assessment-of-educational-progress-naep
 title: National Assessment of Educational Progress (NAEP)
 description: NAEP is a recurring national student assessment administered by the National Center for Education Statistics to measure achievement and trends across subjects and jurisdictions.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

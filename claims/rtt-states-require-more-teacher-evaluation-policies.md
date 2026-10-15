@@ -3,7 +3,7 @@ type: claim
 title: On average, states required less than half of eight RTT-aligned teacher evaluation policies, though RTT states required more of these policies than non-RTT states
 description: On average, states required less than half of eight RTT-aligned teacher evaluation policies, though RTT states required more of these policies than non-RTT states
 id: rtt-states-require-more-teacher-evaluation-policies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

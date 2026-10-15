@@ -3,7 +3,7 @@ type: claim
 title: Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions
 description: Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions
 id: learners-use-apps-vocabulary-translation-grammar-informally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

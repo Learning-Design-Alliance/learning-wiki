@@ -3,7 +3,7 @@ type: design
 id: clover-instrumented-code-completion-tool
 title: "Clover: an instrumented AI code completion tool with attention checks"
 description: Clover is a Visual Studio Code extension that uses the Gemini 3 Large Language Model to provide real-time, single-line code suggestions at the cursor position.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

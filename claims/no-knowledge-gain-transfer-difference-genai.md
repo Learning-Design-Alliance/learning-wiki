@@ -3,7 +3,7 @@ type: claim
 title: "No significant group differences in knowledge gain or knowledge transfer despite ChatGPT's task-performance advantage"
 description: "No significant group differences in knowledge gain or knowledge transfer despite ChatGPT's task-performance advantage"
 id: no-knowledge-gain-transfer-difference-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

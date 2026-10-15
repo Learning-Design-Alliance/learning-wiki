@@ -3,7 +3,7 @@ type: claim
 title: The CRIS framework extends existing early warning systems beyond graduation and academic measures
 description: The CRIS framework extends existing early warning systems beyond graduation and academic measures
 id: cris-extends-early-warning-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

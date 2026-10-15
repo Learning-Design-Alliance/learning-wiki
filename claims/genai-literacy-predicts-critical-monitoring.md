@@ -3,7 +3,7 @@ type: claim
 title: GenAI literacy dimensions predict critical monitoring beyond traits, use frequency, and perceptions, with critical-ethical awareness the strongest predictor
 description: GenAI literacy dimensions predict critical monitoring beyond traits, use frequency, and perceptions, with critical-ethical awareness the strongest predictor
 id: genai-literacy-predicts-critical-monitoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

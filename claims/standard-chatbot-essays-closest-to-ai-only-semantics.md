@@ -3,7 +3,7 @@ type: claim
 title: Essays written under Standard Chatbot sat closest to AI-only essays in semantic embedding space, and Engage-to-Unlock differed significantly from Standard Chatbot along PC1
 description: Essays written under Standard Chatbot sat closest to AI-only essays in semantic embedding space, and Engage-to-Unlock differed significantly from Standard Chatbot along PC1
 id: standard-chatbot-essays-closest-to-ai-only-semantics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

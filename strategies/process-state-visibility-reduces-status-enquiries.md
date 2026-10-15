@@ -3,7 +3,7 @@ type: strategy
 id: process-state-visibility-reduces-status-enquiries
 title: Make the state of pending administrative processes visible to participants to remove status-enquiry volume
 description: "A design recommendation drawn from the study's finding that at least a fifth of queries ask where a pending submission has reached rather than request information."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

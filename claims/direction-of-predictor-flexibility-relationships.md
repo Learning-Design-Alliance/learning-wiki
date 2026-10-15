@@ -3,7 +3,7 @@ type: claim
 title: Higher irrational beliefs, obsessive attachment and anxiety accompany lower cognitive flexibility, while negligent attachment shows an unexpected positive relationship
 description: Higher irrational beliefs, obsessive attachment and anxiety accompany lower cognitive flexibility, while negligent attachment shows an unexpected positive relationship
 id: direction-of-predictor-flexibility-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

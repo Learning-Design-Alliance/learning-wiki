@@ -3,7 +3,7 @@ type: strategy
 id: negative-constraint-prompting-inquiry-only-llm
 title: Constrain an LLM to inquiry-only questioning via negative system-prompt constraints plus strict JSON schemas
 description: "The article's constraint methodology combines three mechanisms: system prompts with explicit negative constraints (\"Do NOT rewrite the student's text\", \"Avoid yes/no questions\"), a specified internal reasoning protoco..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

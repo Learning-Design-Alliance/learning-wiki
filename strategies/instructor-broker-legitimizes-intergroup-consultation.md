@@ -3,7 +3,7 @@ type: strategy
 id: instructor-broker-legitimizes-intergroup-consultation
 title: Instructor acts as a broker between classroom and professional communities, deliberately legitimizing inter-group consultation
 description: "The article describes the teacher taking on \"the role of a broker, acting as a go-between the two communities and guiding the classroom community closer to that of the practicing physics community\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

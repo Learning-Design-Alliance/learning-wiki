@@ -3,7 +3,7 @@ type: claim
 title: The K-12 AI literacy literature grew slowly until 2016 and increased sharply in 2020, with most contributions published as conference papers
 description: The K-12 AI literacy literature grew slowly until 2016 and increased sharply in 2020, with most contributions published as conference papers
 id: k12-ai-literacy-bibliometric-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

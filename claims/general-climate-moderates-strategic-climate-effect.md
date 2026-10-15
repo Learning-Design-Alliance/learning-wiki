@@ -3,7 +3,7 @@ type: claim
 title: "At the organizational level, general climate negatively moderates the positive effect of strategic climate on implementers' perceptions of EBP appeal and divergence"
 description: "At the organizational level, general climate negatively moderates the positive effect of strategic climate on implementers' perceptions of EBP appeal and divergence"
 id: general-climate-moderates-strategic-climate-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

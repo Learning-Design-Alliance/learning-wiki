@@ -3,7 +3,7 @@ type: strategy
 id: attention-checks-probe-reflective-engagement
 title: Use injected attention checks as behavioral probes of reflective engagement with AI suggestions
 description: "The article recommends injecting a controlled number of deliberately misleading suggestions, semantically inconsistent with the student's immediate coding goal, to detect whether students critically evaluate AI code s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Reactive aggression is considerably more prevalent than proactive aggression among high school girls
 description: Reactive aggression is considerably more prevalent than proactive aggression among high school girls
 id: reactive-more-prevalent-than-proactive-aggression-girls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

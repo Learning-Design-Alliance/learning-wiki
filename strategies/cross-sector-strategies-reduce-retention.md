@@ -3,7 +3,7 @@ type: strategy
 id: cross-sector-strategies-reduce-retention
 title: Use cross-sector data-driven strategies — housing affordability, green space, restorative discipline, and civic engagement curricula — to reduce retention and raise graduation
 description: "The brief's policy and practice takeaways direct educators, city leaders, policymakers, and advocates to act across education, neighborhood, and housing policy."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Two thirds of California LEAs assessed TK learning with LEA-based grade-level benchmarks and report cards rather than established early childhood assessments
 description: Two thirds of California LEAs assessed TK learning with LEA-based grade-level benchmarks and report cards rather than established early childhood assessments
 id: lea-based-benchmarks-dominant-tk-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

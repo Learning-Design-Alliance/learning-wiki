@@ -3,7 +3,7 @@ type: claim
 title: Access to computing instruction in US schools is limited and inequitable by school level and poverty
 description: Access to computing instruction in US schools is limited and inequitable by school level and poverty
 id: computing-access-limited-inequitable-us-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

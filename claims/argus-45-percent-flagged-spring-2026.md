@@ -3,7 +3,7 @@ type: claim
 title: "In Spring 2026, 45.7% of students in a large CS2 course were flagged as LLM-assisted following structured manual review"
 description: "In Spring 2026, 45.7% of students in a large CS2 course were flagged as LLM-assisted following structured manual review"
 id: argus-45-percent-flagged-spring-2026
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

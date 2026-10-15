@@ -3,7 +3,7 @@ type: research-method
 id: kt-grounded-simulated-learner
 title: KT-grounded simulated learner
 description: "The simulated learner couples two components: a knowledge tracing model (AKT) that maintains a per-KC belief map trained on real student interaction data, and an LLM that role-plays the student and generates free-response attempts."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

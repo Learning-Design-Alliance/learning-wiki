@@ -3,7 +3,7 @@ type: claim
 title: Both CF-only and KG-only ablated variants underperform the full CF–KG model, indicating complementary behavioral and semantic signals
 description: Both CF-only and KG-only ablated variants underperform the full CF–KG model, indicating complementary behavioral and semantic signals
 id: cfkg-component-ablation-complementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

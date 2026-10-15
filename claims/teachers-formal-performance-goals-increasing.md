@@ -3,7 +3,7 @@ type: claim
 title: Teachers are more likely than ever to hold formal performance goals as districts align improvement efforts
 description: Teachers are more likely than ever to hold formal performance goals as districts align improvement efforts
 id: teachers-formal-performance-goals-increasing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

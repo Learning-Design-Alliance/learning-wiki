@@ -3,7 +3,7 @@ type: claim
 title: Working memory is limited in capacity and includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information
 description: Working memory is limited in capacity and includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information
 id: working-memory-limited-with-partially-independent-subcomponents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

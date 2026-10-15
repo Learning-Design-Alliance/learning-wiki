@@ -3,7 +3,7 @@ type: claim
 title: The demonstration set yields a fair estimate of air permeability µair from coil data
 description: The demonstration set yields a fair estimate of air permeability µair from coil data
 id: tablet-demo-set-estimates-air-permeability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

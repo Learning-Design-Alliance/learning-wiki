@@ -3,7 +3,7 @@ type: claim
 title: Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity
 description: Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity
 id: aa-designs-predominantly-professional-authenticity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

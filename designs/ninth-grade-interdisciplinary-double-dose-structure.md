@@ -3,7 +3,7 @@ type: design
 id: ninth-grade-interdisciplinary-double-dose-structure
 title: Ninth-grade structure of interdisciplinary learning communities with double-dose courses and freshman seminars
 description: "This pattern organizes the ninth grade into \"small interdisciplinary learning communities within the 9th grade\" and pairs it with curricula based on \"double dose\" English and math courses."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

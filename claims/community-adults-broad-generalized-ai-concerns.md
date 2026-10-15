@@ -3,7 +3,7 @@ type: claim
 title: Community adults entering an AI education session held broad, generalized concerns about AI, including distrust of self-regulation and privacy worries
 description: Community adults entering an AI education session held broad, generalized concerns about AI, including distrust of self-regulation and privacy worries
 id: community-adults-broad-generalized-ai-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

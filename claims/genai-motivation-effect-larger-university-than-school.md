@@ -3,7 +3,7 @@ type: claim
 title: The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)
 description: The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)
 id: genai-motivation-effect-larger-university-than-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

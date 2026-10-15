@@ -3,7 +3,7 @@ type: claim
 title: The Fluspeak ASR-based pronunciation software gave good results with beginners focusing on phoneme production but poor results overall for advanced learners seeking fluency
 description: The Fluspeak ASR-based pronunciation software gave good results with beginners focusing on phoneme production but poor results overall for advanced learners seeking fluency
 id: fluspeak-good-beginners-poor-advanced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

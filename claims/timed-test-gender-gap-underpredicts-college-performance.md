@@ -3,7 +3,7 @@ type: claim
 title: "Girls score lower than boys on timed standardized math and science tests at the same course level, and SAT math scores underpredict women's college math performance"
 description: "Girls score lower than boys on timed standardized math and science tests at the same course level, and SAT math scores underpredict women's college math performance"
 id: timed-test-gender-gap-underpredicts-college-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

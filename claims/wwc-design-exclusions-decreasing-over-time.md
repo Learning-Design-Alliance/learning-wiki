@@ -3,7 +3,7 @@ type: claim
 title: The number and proportion of studies excluded due to ineligible design are decreasing over time
 description: The number and proportion of studies excluded due to ineligible design are decreasing over time
 id: wwc-design-exclusions-decreasing-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

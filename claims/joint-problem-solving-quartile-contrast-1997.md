@@ -3,7 +3,7 @@ type: claim
 title: "Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often describe weak processes (46 percent)"
 description: "Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often descri..."
 id: joint-problem-solving-quartile-contrast-1997
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

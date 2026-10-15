@@ -2,7 +2,7 @@
 type: theory
 title: "McWhirter's four-requirement empowerment model as a framework for adventure therapy programs"
 description: "The paper adopts McWhirter's (1991) model, in which empowerment is broader than autonomy or efficacy and reaches outside the individual."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

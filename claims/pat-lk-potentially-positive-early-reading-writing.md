@@ -3,7 +3,7 @@ type: claim
 title: "Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing"
 description: "Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing"
 id: pat-lk-potentially-positive-early-reading-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

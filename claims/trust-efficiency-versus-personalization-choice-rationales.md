@@ -3,7 +3,7 @@ type: claim
 title: Preferences for instructor-provided sheets were grounded in trust, alignment and efficiency, while self-created preferences reflected personalization, control and studying through creation
 description: Preferences for instructor-provided sheets were grounded in trust, alignment and efficiency, while self-created preferences reflected personalization, control and studying through creation
 id: trust-efficiency-versus-personalization-choice-rationales
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

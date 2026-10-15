@@ -3,7 +3,7 @@ type: strategy
 id: coach-youth-problem-solving-opportunities-heuristics-collaboration
 title: Coach youth to recognize problem-solving opportunities, master effective heuristics, and bolster motivation through collaboration
 description: The article recommends that pedagogical perspectives promoting practical application of science in non-school contexts — STSE and action research, science for social justice, activism in the curriculum, integrated cur...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

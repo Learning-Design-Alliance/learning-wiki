@@ -2,7 +2,7 @@
 type: theory
 title: "Canale and Swain's integrative framework of communicative competence: grammatical, sociolinguistic, and discourse components"
 description: "The packet presents Canale and Swain's (1980) framework as an integrative theory in which communicative competence is \"a synthesis of knowledge of basic grammatical principles, knowledge of how language is used in soc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

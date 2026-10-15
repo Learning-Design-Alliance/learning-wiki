@@ -3,7 +3,7 @@ type: claim
 title: KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school
 description: KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school
 id: kipp-prek-added-reading-benefit-beyond-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

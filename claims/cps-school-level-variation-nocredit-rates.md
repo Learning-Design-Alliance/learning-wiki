@@ -3,7 +3,7 @@ type: claim
 title: No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations
 description: No-credit rates during the pandemic varied considerably across elementary schools, including among schools serving similar student populations
 id: cps-school-level-variation-nocredit-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

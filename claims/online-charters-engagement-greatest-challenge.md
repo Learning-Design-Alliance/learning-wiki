@@ -3,7 +3,7 @@ type: claim
 title: Maintaining student engagement is the greatest challenge reported by online charter school principals, identified nearly three times as often as any other challenge
 description: Maintaining student engagement is the greatest challenge reported by online charter school principals, identified nearly three times as often as any other challenge
 id: online-charters-engagement-greatest-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

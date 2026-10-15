@@ -3,7 +3,7 @@ type: strategy
 id: mooc-seminar-rubric-self-assessment-oer-strategy
 title: "Use a four-week MOOC seminar with rubric self-assessment to develop teachers' OER competencies"
 description: "The article implements a specific recipe: a free-registration, four-week MOOC seminar built by an interdisciplinary team from ten institutions, with diagnostic, formative and summative instruments, ending in rubric se..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

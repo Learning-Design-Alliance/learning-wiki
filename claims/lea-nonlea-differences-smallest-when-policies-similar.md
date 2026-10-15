@@ -3,7 +3,7 @@ type: claim
 title: Systemic quality differences between LEA and non-LEA providers are smallest where policies are similar across settings
 description: Systemic quality differences between LEA and non-LEA providers are smallest where policies are similar across settings
 id: lea-nonlea-differences-smallest-when-policies-similar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

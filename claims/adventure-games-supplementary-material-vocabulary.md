@@ -3,7 +3,7 @@ type: claim
 title: Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests
 description: Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests
 id: adventure-games-supplementary-material-vocabulary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

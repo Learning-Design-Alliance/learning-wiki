@@ -3,7 +3,7 @@ type: claim
 title: Long-term and late-arriving English Learners were considerably less likely to enroll in four-year colleges than their peers
 description: Long-term and late-arriving English Learners were considerably less likely to enroll in four-year colleges than their peers
 id: active-els-underrepresented-four-year-colleges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

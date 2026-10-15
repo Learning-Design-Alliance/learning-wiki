@@ -3,7 +3,7 @@ type: claim
 title: "Robot communication cues affect sense of agency: predicted-path display and averted gaze reduce it, direct gaze raises it, and facial expression shows no effect"
 description: "Robot communication cues affect sense of agency: predicted-path display and averted gaze reduce it, direct gaze raises it, and facial expression shows no effect"
 id: robot-communication-cues-sense-of-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

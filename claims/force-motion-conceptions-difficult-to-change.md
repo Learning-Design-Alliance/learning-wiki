@@ -3,7 +3,7 @@ type: claim
 title: "Alternative conceptions in force and motion were very difficult to change: of 14 students, 6 showed substantial conceptual change, 1 some change, and 7 no change"
 description: "Alternative conceptions in force and motion were very difficult to change: of 14 students, 6 showed substantial conceptual change, 1 some change, and 7 no change"
 id: force-motion-conceptions-difficult-to-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

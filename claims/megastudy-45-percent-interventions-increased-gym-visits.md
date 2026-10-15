@@ -3,7 +3,7 @@ type: claim
 title: "45% of the 54 exercise interventions significantly increased weekly gym visits by 9% to 27% during the four-week intervention"
 description: "45% of the 54 exercise interventions significantly increased weekly gym visits by 9% to 27% during the four-week intervention"
 id: megastudy-45-percent-interventions-increased-gym-visits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

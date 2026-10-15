@@ -3,7 +3,7 @@ type: research-method
 id: precision-based-sample-size-planning-for-clustered-education-trials
 title: Precision-based sample-size planning for clustered education trials
 description: "The article recommends that evaluators discuss \"appropriate precision standards\" and then determine, for each random-assignment design, \"the required number of schools to achieve those standards\" using empirical parameter values."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Strategies not linked to a problem behavior's specific context are associated with increases in the occurrence of that behavior"
 description: "Strategies not linked to a problem behavior's specific context are associated with increases in the occurrence of that behavior"
 id: context-unlinked-strategies-increase-problem-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

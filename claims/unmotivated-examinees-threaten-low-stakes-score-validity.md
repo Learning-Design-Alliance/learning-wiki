@@ -3,7 +3,7 @@ type: claim
 title: Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs
 description: Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs
 id: unmotivated-examinees-threaten-low-stakes-score-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

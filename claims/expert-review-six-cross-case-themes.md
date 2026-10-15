@@ -3,7 +3,7 @@ type: claim
 title: Expert review identified six cross-case themes, including cognitive load concerns (four experts) and resource demands (all five)
 description: Expert review identified six cross-case themes, including cognitive load concerns (four experts) and resource demands (all five)
 id: expert-review-six-cross-case-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

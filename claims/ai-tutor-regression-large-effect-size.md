@@ -3,7 +3,7 @@ type: claim
 title: Instruction type predicts post-test performance with a large effect size after controls (linear and quantile regression)
 description: Instruction type predicts post-test performance with a large effect size after controls (linear and quantile regression)
 id: ai-tutor-regression-large-effect-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

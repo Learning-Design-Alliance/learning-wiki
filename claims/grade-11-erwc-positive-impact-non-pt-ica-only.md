@@ -3,7 +3,7 @@ type: claim
 title: Assignment to the ERWC 3.0 in grade 11 produced a positive, statistically significant impact on achievement on the Non-PT ICA, but no statistically significant impact on the Summative Assessment sample
 description: Assignment to the ERWC 3.0 in grade 11 produced a positive, statistically significant impact on achievement on the Non-PT ICA, but no statistically significant impact on the Summative Assessment sample
 id: grade-11-erwc-positive-impact-non-pt-ica-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

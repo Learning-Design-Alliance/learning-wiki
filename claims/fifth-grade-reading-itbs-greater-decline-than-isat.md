@@ -3,7 +3,7 @@ type: claim
 title: In fifth-grade reading, ITBS scores declined significantly more than ISAT scores from 1999 to 2002
 description: In fifth-grade reading, ITBS scores declined significantly more than ISAT scores from 1999 to 2002
 id: fifth-grade-reading-itbs-greater-decline-than-isat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

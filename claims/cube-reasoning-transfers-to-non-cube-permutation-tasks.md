@@ -3,7 +3,7 @@ type: claim
 title: Students transferred cube-based permutation reasoning to permutation tasks not involving cubes
 description: Students transferred cube-based permutation reasoning to permutation tasks not involving cubes
 id: cube-reasoning-transfers-to-non-cube-permutation-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

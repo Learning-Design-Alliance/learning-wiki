@@ -3,7 +3,7 @@ type: claim
 title: Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains
 description: Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains
 id: authentic-intellectual-work-complex-thinking-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

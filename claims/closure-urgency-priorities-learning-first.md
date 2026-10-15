@@ -3,7 +3,7 @@ type: claim
 title: During COVID building closures, New York charter schools ranked sustaining student learning and engagement as their most urgent priority, while student well-being factors ranked lowest despite serious concern
 description: During COVID building closures, New York charter schools ranked sustaining student learning and engagement as their most urgent priority, while student well-being factors ranked lowest despite serious concern
 id: closure-urgency-priorities-learning-first
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

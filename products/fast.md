@@ -4,7 +4,7 @@ id: fast
 title: FAST
 description: Families and Schools Together (FAST), developed and implemented by Families and Schools Together, Inc., is a multifamily group programme that strengthens parenting, family relationships, and connections among families, schools, and communities.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

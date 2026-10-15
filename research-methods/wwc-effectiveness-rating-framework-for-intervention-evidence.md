@@ -3,7 +3,7 @@ type: research-method
 id: wwc-effectiveness-rating-framework-for-intervention-evidence
 title: WWC effectiveness rating framework for intervention evidence
 description: The What Works Clearinghouse rates interventions per outcome domain by combining study design quality with the magnitude, statistical significance, and consistency of findings.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

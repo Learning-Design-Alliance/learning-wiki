@@ -3,7 +3,7 @@ type: claim
 title: The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors
 description: The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors
 id: pandemic-promoted-teacher-adaptation-lasting-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

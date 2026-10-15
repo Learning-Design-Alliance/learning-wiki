@@ -3,7 +3,7 @@ type: claim
 title: Growth matters more than achievement or status when parents choose between schools
 description: Growth matters more than achievement or status when parents choose between schools
 id: growth-matters-more-when-choosing-between-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

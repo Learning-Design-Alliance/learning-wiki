@@ -4,7 +4,7 @@ id: ase-26
 title: ASE-26
 description: "ASE-26 is Mikael Gorsky's twenty-one-module undergraduate curriculum for teaching agentic software engineering to engineering students with foundational computer science and software-engineering knowledge."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

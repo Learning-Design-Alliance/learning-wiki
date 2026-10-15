@@ -3,7 +3,7 @@ type: strategy
 id: structured-ct-centring-training-and-automated-positioning-integration
 title: Deliver structured CT centring training and integrate automated positioning technology with retained professional expertise
 description: The article recommends structured training programmes and broader adoption of automated positioning technology to address persistent knowledge gaps and practice variability in CT patient centring.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

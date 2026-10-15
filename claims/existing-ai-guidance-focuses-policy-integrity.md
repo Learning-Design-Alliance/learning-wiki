@@ -3,7 +3,7 @@ type: claim
 title: Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms
 description: Existing generative AI guidance in higher education focuses on policy and academic integrity rather than learning mechanisms
 id: existing-ai-guidance-focuses-policy-integrity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

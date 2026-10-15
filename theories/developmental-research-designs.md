@@ -3,7 +3,7 @@ type: theory
 title: Developmental Research Designs — Cross-Sectional, Longitudinal, and Sequential
 description: Studying change over time requires choosing among three research designs — cross-sectional, longitudinal, and sequential — each with a different tradeoff between cost, duration, and the specific confounds (cohort effects, attrition, practice effects) it is vulnerable to.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29
@@ -45,7 +45,6 @@ Research design is the strategy or blueprint for deciding how to collect and ana
 - [The study's correlational, cross-sectional design limits internal validity and causal interpretation](../claims/correlational-design-limits-epistemic-freedom-study.md) [+W]
 - [Following the 2021-22 kindergarten cohort through third grade tested whether redshirted students showed academic advantages](../claims/redshirted-cohort-third-grade-outcomes.md) [~W]
 - [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](../claims/genai-duration-related-cognitive-gains.md) [~W]
-- [More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts](../claims/k-cohort-els-reaching-english-proficiency-earlier.md) [~W]
 - [Sensitivity analyses restricting to students assessed in all 15 terms reproduced the full-sample between-group comparisons](../claims/sensitivity-15-term-subsample-same-comparisons.md) [~W]
 
 ## Related Theories

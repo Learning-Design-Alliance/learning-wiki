@@ -3,7 +3,7 @@ type: claim
 title: Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates
 description: Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates
 id: rd-individual-estimates-substantial-bias-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

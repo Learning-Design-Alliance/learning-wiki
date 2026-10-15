@@ -3,7 +3,7 @@ type: claim
 title: "Robust Z procedure flagged between 4.2% and 6.9% of MAP Growth items as unstable across subjects"
 description: "Robust Z procedure flagged between 4.2% and 6.9% of MAP Growth items as unstable across subjects"
 id: robust-z-flagged-items-percentage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

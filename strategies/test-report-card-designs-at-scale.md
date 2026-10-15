@@ -3,7 +3,7 @@ type: strategy
 id: test-report-card-designs-at-scale
 title: Efficiently test school report card design changes at scale before adopting them
 description: "The article presents its study as a template for education agencies considering changes to school report card design: rather than adopting a design on intuition, policymakers can run comparative usability tests of des..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

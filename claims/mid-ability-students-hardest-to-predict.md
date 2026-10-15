@@ -3,7 +3,7 @@ type: claim
 title: All models predict performance worst for students of intermediate overall ability, with best performance for high and low performing students
 description: All models predict performance worst for students of intermediate overall ability, with best performance for high and low performing students
 id: mid-ability-students-hardest-to-predict
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

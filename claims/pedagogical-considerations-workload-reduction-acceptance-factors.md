@@ -3,7 +3,7 @@ type: claim
 title: "Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust"
 description: "Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust"
 id: pedagogical-considerations-workload-reduction-acceptance-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

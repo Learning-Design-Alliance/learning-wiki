@@ -3,7 +3,7 @@ type: claim
 title: In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity
 description: In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students...
 id: playworks-rct-more-vigorous-recess-activity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes
 description: All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes
 id: all-treatments-produced-significant-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

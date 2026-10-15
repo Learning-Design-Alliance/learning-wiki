@@ -3,7 +3,7 @@ type: claim
 title: In surveyed recent literature, no evaluative study found evidence against connectivism; outcomes were positive or at worst neutral
 description: In surveyed recent literature, no evaluative study found evidence against connectivism; outcomes were positive or at worst neutral
 id: connectivism-evaluations-no-negative-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

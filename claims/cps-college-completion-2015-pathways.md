@@ -3,7 +3,7 @@ type: claim
 title: "Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees"
 description: "Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees"
 id: cps-college-completion-2015-pathways
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

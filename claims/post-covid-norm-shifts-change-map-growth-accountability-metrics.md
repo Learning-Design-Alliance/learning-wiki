@@ -3,7 +3,7 @@ type: claim
 title: "Post-COVID norm shifts and NWEA's enhanced item selection algorithm change the interpretation of MAP Growth metrics for school accountability"
 description: "Post-COVID norm shifts and NWEA's enhanced item selection algorithm change the interpretation of MAP Growth metrics for school accountability"
 id: post-covid-norm-shifts-change-map-growth-accountability-metrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Self-monitoring interventions produce strong effects for students with ASD across behavioral targets and school settings (overall Tau-U = .83)
 description: Self-monitoring interventions produce strong effects for students with ASD across behavioral targets and school settings (overall Tau-U = .83)
 id: self-monitoring-strong-effects-asd-tau-u-083
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Reading achievement was analyzed from 224 students with visual impairments in grades 3–10 in four states over an eight-year period using MAP data
 description: Reading achievement was analyzed from 224 students with visual impairments in grades 3–10 in four states over an eight-year period using MAP data
 id: map-reading-growth-224-visually-impaired-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

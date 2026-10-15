@@ -4,7 +4,7 @@ id: teachingcoach
 title: TeachingCoach
 description: TeachingCoach is an AI-based conversational coaching system developed by Isabel Molnar and colleagues to help higher-education instructors diagnose teaching challenges, develop strategies, plan next steps, and reflect through evidence-grounded multi-turn dialogue.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

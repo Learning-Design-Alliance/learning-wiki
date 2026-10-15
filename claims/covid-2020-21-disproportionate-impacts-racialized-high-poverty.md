@@ -3,7 +3,7 @@ type: claim
 title: American Indian and Alaska Native, Black, and Latinx students and students in high-poverty schools were disproportionately impacted by pandemic-era achievement declines, particularly in elementary grades
 description: American Indian and Alaska Native, Black, and Latinx students and students in high-poverty schools were disproportionately impacted by pandemic-era achievement declines, particularly in elementary grades
 id: covid-2020-21-disproportionate-impacts-racialized-high-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: Symbol system translation as a problem-solving construct
 description: "The review proposes translation among symbol systems as a construct: the process of mapping information contained in one or more symbolic forms into one or more other symbolic forms."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

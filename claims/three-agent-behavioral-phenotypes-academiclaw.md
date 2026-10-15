@@ -3,7 +3,7 @@ type: claim
 title: Frontier agents exhibit three distinct behavioral phenotypes—read-first, execute-first, and minimalist—differing in efficiency and safety
 description: Frontier agents exhibit three distinct behavioral phenotypes—read-first, execute-first, and minimalist—differing in efficiency and safety
 id: three-agent-behavioral-phenotypes-academiclaw
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

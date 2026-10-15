@@ -3,7 +3,7 @@ type: claim
 title: Trustworthiness could not be reduced to a fully automated objective; human judgment remains necessary for resolving complex or context-dependent cases
 description: Trustworthiness could not be reduced to a fully automated objective; human judgment remains necessary for resolving complex or context-dependent cases
 id: trustworthiness-not-fully-automatable-requires-human-judgment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

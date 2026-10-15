@@ -3,7 +3,7 @@ type: design
 id: assessment-twins-dual-linked-components
 title: "Assessment twins: two deliberately linked assessment components addressing the same outcomes through different modes of evidence"
 description: The article names and substantively describes assessment twins as a redesign approach for the GenAI era.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

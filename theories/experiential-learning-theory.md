@@ -3,7 +3,7 @@ type: theory
 title: Experiential Learning Theory
 description: Kolb's Experiential Learning Theory models learning as a cyclical, dialectical process in which concrete experience and abstract conceptualization, and reflective observation and active experimentation, are integrated to construct knowledge.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

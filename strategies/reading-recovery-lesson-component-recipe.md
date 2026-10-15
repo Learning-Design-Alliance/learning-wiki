@@ -3,7 +3,7 @@ type: strategy
 id: reading-recovery-lesson-component-recipe
 title: Structure one-to-one tutoring lessons around fluency, word skills, phonemic and orthographic awareness, scaffolded book reading, and progress monitoring
 description: "The review enumerates the lesson components of Reading Recovery's daily tutoring sessions: \"fluency instruction, letter and word identification skills, phonemic and orthographic awareness instruction, reading a new, c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

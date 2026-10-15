@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-creativity-in-teaching-environments
 title: Give creativity greater importance in teaching environments, especially in the application dimension, and conduct more experimental studies
 description: "The article's closing recommendation is that, despite searching national and international databases, \"sufficient numbers of experimental studies were not reached,\" so \"creativity should be given more importance in te..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

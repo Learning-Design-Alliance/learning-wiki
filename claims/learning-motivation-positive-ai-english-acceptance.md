@@ -3,7 +3,7 @@ type: claim
 title: Learning motivation is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models
 description: Learning motivation is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models
 id: learning-motivation-positive-ai-english-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

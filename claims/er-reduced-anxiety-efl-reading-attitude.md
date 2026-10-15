@@ -3,7 +3,7 @@ type: claim
 title: "Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)"
 description: "Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)"
 id: er-reduced-anxiety-efl-reading-attitude
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

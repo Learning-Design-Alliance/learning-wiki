@@ -3,7 +3,7 @@ type: design
 id: 45-minute-prompt-based-programming-lesson
 title: 45-minute prompt-based programming lesson with guided practice for end-user programmers
 description: A lightweight lesson integrating selected CS1/CS2 concepts (function structure, data transformation, edge cases) with LLM prompting strategies, designed via backward design to fit a single class period.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

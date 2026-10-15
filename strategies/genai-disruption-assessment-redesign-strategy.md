@@ -3,7 +3,7 @@ type: strategy
 id: genai-disruption-assessment-redesign-strategy
 title: Use GenAI-driven disruption as an occasion to redesign assessment practices rather than preserve them
 description: "The paper recommends treating the disruption caused by generative AI as an affordance for changing assessment practice, not only thinking differently but acting differently: \"With disruption comes the affordance to no..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

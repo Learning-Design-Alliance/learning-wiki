@@ -3,7 +3,7 @@ type: claim
 title: "A systematic review identifies four overarching themes of factors affecting student engagement in adaptive learning platforms: system quality, information quality, learner characteristics and preferences, and affordances that mimic real-life social interactions"
 description: "A systematic review identifies four overarching themes of factors affecting student engagement in adaptive learning platforms: system quality, information quality, learner characteristics and preferences, and affordan..."
 id: four-themes-engagement-adaptive-platforms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

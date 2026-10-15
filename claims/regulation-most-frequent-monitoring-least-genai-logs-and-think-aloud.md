@@ -3,7 +3,7 @@ type: claim
 title: In both interaction-log and think-aloud records from a GenAI-assisted instructional-design task, regulation was the most frequent operational label and monitoring the least frequent
 description: In both interaction-log and think-aloud records from a GenAI-assisted instructional-design task, regulation was the most frequent operational label and monitoring the least frequent
 id: regulation-most-frequent-monitoring-least-genai-logs-and-think-aloud
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

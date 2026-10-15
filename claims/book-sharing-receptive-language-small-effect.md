@@ -3,7 +3,7 @@ type: claim
 title: Caregiver-directed shared book-reading interventions have a small positive effect on child receptive language (d=0.26)
 description: Caregiver-directed shared book-reading interventions have a small positive effect on child receptive language (d=0.26)
 id: book-sharing-receptive-language-small-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

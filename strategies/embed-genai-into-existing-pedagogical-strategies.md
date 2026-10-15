@@ -3,7 +3,7 @@ type: strategy
 id: embed-genai-into-existing-pedagogical-strategies
 title: Embed GenAI into existing pedagogical strategies instead of undertaking full curriculum redesign
 description: This implementable strategy holds that educators can introduce GenAI by weaving it into the pedagogical strategies and assessments a module already uses, rather than redesigning the whole curriculum.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

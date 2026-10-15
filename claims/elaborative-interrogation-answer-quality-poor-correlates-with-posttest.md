@@ -3,7 +3,7 @@ type: claim
 title: Answers to elaborative interrogation questions were mostly poor in quality, and answer quality correlated positively with posttest scores
 description: Answers to elaborative interrogation questions were mostly poor in quality, and answer quality correlated positively with posttest scores
 id: elaborative-interrogation-answer-quality-poor-correlates-with-posttest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

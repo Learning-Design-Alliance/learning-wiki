@@ -3,7 +3,7 @@ type: claim
 title: Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision
 description: Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision
 id: detector-false-positives-at-scale-institutional-retreat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

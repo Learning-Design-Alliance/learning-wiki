@@ -3,7 +3,7 @@ type: claim
 title: Students report awareness of feedback-acting strategies but experience difficulty carrying them out
 description: Students report awareness of feedback-acting strategies but experience difficulty carrying them out
 id: students-aware-of-strategies-but-fail-to-act
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

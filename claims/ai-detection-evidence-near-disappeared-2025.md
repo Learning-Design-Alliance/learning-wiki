@@ -3,7 +3,7 @@ type: claim
 title: "AI-detection tool outputs as submitted evidence collapsed to 0.5% of items in 2025 after peaking at 8.8% in 2024"
 description: "AI-detection tool outputs as submitted evidence collapsed to 0.5% of items in 2025 after peaking at 8.8% in 2024"
 id: ai-detection-evidence-near-disappeared-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

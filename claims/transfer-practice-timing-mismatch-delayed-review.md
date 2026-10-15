@@ -3,7 +3,7 @@ type: claim
 title: Students rarely open transfer-practice cards immediately after solving; they want such problems organized into delayed, spaced wrong-book review instead
 description: Students rarely open transfer-practice cards immediately after solving; they want such problems organized into delayed, spaced wrong-book review instead
 id: transfer-practice-timing-mismatch-delayed-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

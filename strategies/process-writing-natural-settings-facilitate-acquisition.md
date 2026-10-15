@@ -3,7 +3,7 @@ type: strategy
 id: process-writing-natural-settings-facilitate-acquisition
 title: Use process writing techniques in natural language settings to develop the push to communicate and facilitate acquisition
 description: The article recommends process writing techniques drawn from L1 writing research as implementable classroom practices for L1 and L2 writers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

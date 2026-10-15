@@ -3,7 +3,7 @@ type: claim
 title: No statistically significant interaction effects between satisfaction and adaptive feedback on the subsequent pre-actional phase; only marginal trends emerged (H4 not supported)
 description: No statistically significant interaction effects between satisfaction and adaptive feedback on the subsequent pre-actional phase; only marginal trends emerged (H4 not supported)
 id: no-significant-satisfaction-feedback-interactions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

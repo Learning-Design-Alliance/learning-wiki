@@ -4,7 +4,7 @@ id: the-scaffolded-ai-literacy-sail-framework
 title: The Scaffolded AI Literacy (SAIL) framework
 description: A Delphi-developed framework by MacCallum et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

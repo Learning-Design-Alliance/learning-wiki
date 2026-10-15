@@ -3,7 +3,7 @@ type: element
 id: tri-coach-and-director-staffing-structure
 title: "TRI staffing structure: literacy coaches supervised by an intervention director"
 description: "TRI literacy coaches from FPG Child Development Institute (University of North Carolina at Chapel Hill) \"each have a degree in education and teaching experience.\" An intervention director trains and supervises the coa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

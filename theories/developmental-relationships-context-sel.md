@@ -2,7 +2,7 @@
 type: theory
 title: "Developmental relationships: experiences shape development most within strong, supportive, sustained relationships with adults and peers"
 description: A second organizing concept holds that experiences influence development most when embedded in strong relationships.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

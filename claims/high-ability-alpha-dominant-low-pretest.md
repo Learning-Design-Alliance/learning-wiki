@@ -3,7 +3,7 @@ type: claim
 title: "High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior"
 description: "High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior"
 id: high-ability-alpha-dominant-low-pretest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

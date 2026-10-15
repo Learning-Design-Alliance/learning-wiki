@@ -3,7 +3,7 @@ type: element
 id: anthropomorphism-humanlikeness-measurement-instruments
 title: Curated set of measurement instruments for humanlikeness, anthropomorphism, and related constructs
 description: "The article curates existing measurement instruments (Table 2) organized by what they capture: design-level humanlikeness (the ABOT database with \"Feature-presence scores for 16 humanlike appearance features, and 2 me..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

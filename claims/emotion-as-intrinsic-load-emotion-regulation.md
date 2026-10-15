@@ -3,7 +3,7 @@ type: claim
 title: Emotion may affect intrinsic cognitive load, for example when emotion regulation is part of the learning outcomes
 description: Emotion may affect intrinsic cognitive load, for example when emotion regulation is part of the learning outcomes
 id: emotion-as-intrinsic-load-emotion-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

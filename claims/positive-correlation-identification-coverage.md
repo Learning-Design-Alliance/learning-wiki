@@ -3,7 +3,7 @@ type: claim
 title: Higher knowledge-identification accuracy is associated with improved knowledge coverage in LLM-generated questions under Chain-of-Thought prompting
 description: Higher knowledge-identification accuracy is associated with improved knowledge coverage in LLM-generated questions under Chain-of-Thought prompting
 id: positive-correlation-identification-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: conservative-abstract-screening-maybe-category
 title: "Adopt a conservative abstract-screening strategy with a 'maybe' category and keyword exclusion filters to prevent premature exclusion"
 description: "At abstract screening, the team \"intentionally adopted a conservative screening strategy, retaining studies for further review unless they were not clearly irrelevant at the abstract screening.\" They used a \"maybe\" or..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

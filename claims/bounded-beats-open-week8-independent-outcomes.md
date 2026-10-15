@@ -3,7 +3,7 @@ type: claim
 title: Bounded AI support outperformed open collaboration on all four Week 8 independent no-AI outcomes, though exact wild-cluster p values sat at the 0.050–0.063 boundary
 description: Bounded AI support outperformed open collaboration on all four Week 8 independent no-AI outcomes, though exact wild-cluster p values sat at the 0.050–0.063 boundary
 id: bounded-beats-open-week8-independent-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

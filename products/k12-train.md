@@ -4,7 +4,7 @@ id: k12-train
 title: K12-Train
 description: K12-Train is a knowledge-graph-guided dataset and generation pipeline by Hao Liang et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction"
 description: "A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction"
 id: tpack-course-improves-preservice-preschool-idc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

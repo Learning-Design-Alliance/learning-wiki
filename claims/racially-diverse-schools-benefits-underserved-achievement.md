@@ -3,7 +3,7 @@ type: claim
 title: Racially diverse schools show stronger achievement for historically underserved groups and positive effects on critical thinking, intergroup relationships, and civic engagement
 description: Racially diverse schools show stronger achievement for historically underserved groups and positive effects on critical thinking, intergroup relationships, and civic engagement
 id: racially-diverse-schools-benefits-underserved-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

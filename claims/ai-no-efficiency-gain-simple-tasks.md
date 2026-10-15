@@ -3,7 +3,7 @@ type: claim
 title: AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks
 description: AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks
 id: ai-no-efficiency-gain-simple-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

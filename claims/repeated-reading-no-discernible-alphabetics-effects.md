@@ -3,7 +3,7 @@ type: claim
 title: Repeated reading shows no discernible effects on alphabetics for students with learning disabilities
 description: Repeated reading shows no discernible effects on alphabetics for students with learning disabilities
 id: repeated-reading-no-discernible-alphabetics-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

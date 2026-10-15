@@ -3,7 +3,7 @@ type: claim
 title: "Offering experimental Pell Grants for short occupational programs to low-income students who already hold a bachelor's degree increased program enrollment and completion by about 20 percentage points"
 description: "Offering experimental Pell Grants for short occupational programs to low-income students who already hold a bachelor's degree increased program enrollment and completion by about 20 percentage points"
 id: pell-experiment-bachelors-degree-20-point-enrollment-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Generative AI is an arrival technology that entered classrooms before any pedagogical evidence base could form
 description: Generative AI is an arrival technology that entered classrooms before any pedagogical evidence base could form
 id: generative-ai-arrival-technology-no-evidence-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

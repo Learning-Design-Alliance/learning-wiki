@@ -3,7 +3,7 @@ type: claim
 title: Longitudinal partial strong measurement invariance of the four-item self-efficacy survey justifies fitting growth models to its scores
 description: Longitudinal partial strong measurement invariance of the four-item self-efficacy survey justifies fitting growth models to its scores
 id: self-efficacy-survey-partial-longitudinal-invariance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

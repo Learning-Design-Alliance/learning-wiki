@@ -3,7 +3,7 @@ type: design
 id: interpretable-decision-layer-feedback-mediation
 title: Interpretable decision layer for outcome-independent coordination of teacher and student feedback
 description: A transparent mechanism that combines teacher and student feedback to rank course topics needing attention without grades or outcome labels.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

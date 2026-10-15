@@ -3,7 +3,7 @@ type: claim
 title: "Populations most exposed to agentic AI risks are least served by AI literacy research: no scale has been tested for cross-cultural validity"
 description: "Populations most exposed to agentic AI risks are least served by AI literacy research: no scale has been tested for cross-cultural validity"
 id: equity-gap-ai-literacy-scales-cross-cultural-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

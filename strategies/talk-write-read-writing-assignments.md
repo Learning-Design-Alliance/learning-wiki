@@ -3,7 +3,7 @@ type: strategy
 id: talk-write-read-writing-assignments
 title: Writing assignments that have students talk, write and read through the writing process
 description: "The second recommendation is to re-evaluate writing assignments, reconsidering the one-hour in-class essay and \"developing instead assignments that encourage writers to talk, write, and read\" while collecting informat..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

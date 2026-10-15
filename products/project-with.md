@@ -4,7 +4,7 @@ id: project-with
 title: Project With
 description: Project With is a 12-lesson literary-based relationship-skills and self-management curriculum adapted from The Art of Loving Well for justice-involved youth.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

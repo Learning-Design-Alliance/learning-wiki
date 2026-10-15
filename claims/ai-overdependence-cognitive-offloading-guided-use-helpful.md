@@ -3,7 +3,7 @@ type: claim
 title: The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful
 description: The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful
 id: ai-overdependence-cognitive-offloading-guided-use-helpful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

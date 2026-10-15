@@ -3,7 +3,7 @@ type: element
 id: student-led-mental-health-pd-model
 title: Student-led mental health teacher professional development model
 description: "A professional development model in which high school students, in partnership with a mental health counselor and community-based non-profit Bristol Cares, \"led a series of professional development sessions to involve..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

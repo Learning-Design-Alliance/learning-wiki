@@ -2,7 +2,7 @@
 type: theory
 title: Four modernist genres opposing the postmodern challenge in comparative education
 description: "In close reading of the selected texts, the author identifies four modernist positions that acknowledge or oppose the postmodern critique: Metanarratives of Reason, Emancipation and Progress; Rational Actor Gaming; Cr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

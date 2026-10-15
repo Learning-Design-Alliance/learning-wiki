@@ -3,7 +3,7 @@ type: claim
 title: Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions
 description: Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions
 id: cscl-simulation-conceptual-change-cognitive-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

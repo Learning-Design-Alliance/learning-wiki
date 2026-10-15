@@ -3,7 +3,7 @@ type: claim
 title: "Accuracy-cost value frontier: at $0.10 per million tokens, CDPK performance rose from 50% (April 2024) to 82% (June 2025)"
 description: "Accuracy-cost value frontier: at $0.10 per million tokens, CDPK performance rose from 50% (April 2024) to 82% (June 2025)"
 id: cdpk-value-frontier-rapid-cost-performance-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

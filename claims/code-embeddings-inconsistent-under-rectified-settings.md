@@ -3,7 +3,7 @@ type: claim
 title: "Under causally valid, tuned settings, code-level embeddings do not consistently improve performance: rectified Code-DKT underperforms tuned DKT on several assignments, while ECKT remains competitive"
 description: "Under causally valid, tuned settings, code-level embeddings do not consistently improve performance: rectified Code-DKT underperforms tuned DKT on several assignments, while ECKT remains competitive"
 id: code-embeddings-inconsistent-under-rectified-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

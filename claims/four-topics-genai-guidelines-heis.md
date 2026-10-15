@@ -3,7 +3,7 @@ type: claim
 title: "GenAI guidelines at top U.S. universities cluster into four topics: learning and assessment integration, visual/multimodal media, security and ethics, and academic integrity"
 description: GenAI guidelines at top U.S.
 id: four-topics-genai-guidelines-heis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

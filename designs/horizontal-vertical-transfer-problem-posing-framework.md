@@ -3,7 +3,7 @@ type: design
 id: horizontal-vertical-transfer-problem-posing-framework
 title: Horizontal and vertical transfer framework for guiding AI-assisted problem posing
 description: "The study employs a conceptual framework, adapted from the authors' prior work on transfer of learning and Jonassen's problem-solving framework, in which problem posing proceeds by \"horizontal transfer, where the read..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

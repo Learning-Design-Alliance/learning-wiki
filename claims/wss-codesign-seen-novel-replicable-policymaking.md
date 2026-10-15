@@ -3,7 +3,7 @@ type: claim
 title: District officials and CBO leaders viewed the WSS Framework development process as a novel, replicable approach to community-engaged policymaking
 description: District officials and CBO leaders viewed the WSS Framework development process as a novel, replicable approach to community-engaged policymaking
 id: wss-codesign-seen-novel-replicable-policymaking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

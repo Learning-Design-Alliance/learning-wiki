@@ -3,7 +3,7 @@ type: claim
 title: Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults
 description: Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults
 id: developmental-stage-moderates-mindset-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

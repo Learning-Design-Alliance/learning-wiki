@@ -3,7 +3,7 @@ type: strategy
 id: failure-driven-scaffolding
 title: Failure-Driven Scaffolding
 description: Explicit, multi-step scaffolds during a pre-instruction problem attempt that deliberately nudge students toward generating a suboptimal solution representation, so the later instruction phase corrects a concrete, self-generated error rather than an abstract gap.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

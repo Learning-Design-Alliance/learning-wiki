@@ -3,7 +3,7 @@ type: claim
 title: Aggregating peer grades with the median improves agreement with staff grades compared with unaggregated peer grades
 description: Aggregating peer grades with the median improves agreement with staff grades compared with unaggregated peer grades
 id: median-aggregation-improves-peer-grade-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: SCMD discourse activity is best understood as an ecology of nested activity systems within and beyond the classroom
 description: SCMD discourse activity is best understood as an ecology of nested activity systems within and beyond the classroom
 id: ecology-of-activity-systems-scmd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

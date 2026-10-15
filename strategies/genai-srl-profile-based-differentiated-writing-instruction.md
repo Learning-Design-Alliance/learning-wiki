@@ -3,7 +3,7 @@ type: strategy
 id: genai-srl-profile-based-differentiated-writing-instruction
 title: "Differentiate GenAI writing instruction using scale profiles: full scale at course start, short form mid-course"
 description: "The authors recommend using the full-length scale at course start to profile each learner's regulatory strengths and weaknesses, then the 12-item form for mid-course formative assessment because it \"retains the psycho..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

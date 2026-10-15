@@ -3,7 +3,7 @@ type: strategy
 id: teacher-in-the-loop-agentic-architecture
 title: Architect teacher-in-the-loop agentic AI with escalation protocols, guardrail adjustability, and state-interruptibility
 description: "The article recommends an agentic educational architecture that includes the teacher as an active coordinator of the agent's state machine rather than a passive observer of student-chatbot interactions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

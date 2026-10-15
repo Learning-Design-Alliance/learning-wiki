@@ -3,7 +3,7 @@ type: claim
 title: Gemini Flash 2.0 was selected for production over GPT-4o-mini and Llama 3.1 for its superior faithfulness and speed-to-cost ratio
 description: Gemini Flash 2.0 was selected for production over GPT-4o-mini and Llama 3.1 for its superior faithfulness and speed-to-cost ratio
 id: gemini-flash-2-selected-for-faithfulness-and-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

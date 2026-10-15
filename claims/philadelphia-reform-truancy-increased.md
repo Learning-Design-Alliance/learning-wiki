@@ -3,7 +3,7 @@ type: claim
 title: Truancy rates increased in Philadelphia following the discipline policy reform
 description: Truancy rates increased in Philadelphia following the discipline policy reform
 id: philadelphia-reform-truancy-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

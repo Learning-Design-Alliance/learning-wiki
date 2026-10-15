@@ -3,7 +3,7 @@ type: claim
 title: Explanatory feedback alone raises both perceived fairness and decision acceptance, and the indirect effect of agent on acceptance is significant only when explanations are provided
 description: Explanatory feedback alone raises both perceived fairness and decision acceptance, and the indirect effect of agent on acceptance is significant only when explanations are provided
 id: explanatory-feedback-main-effects-and-conditional-indirect-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

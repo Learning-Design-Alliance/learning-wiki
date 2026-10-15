@@ -3,7 +3,7 @@ type: claim
 title: In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade
 description: In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade
 id: sel-status-more-frequently-significant-predictor-off-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

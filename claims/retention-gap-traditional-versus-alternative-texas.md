@@ -3,7 +3,7 @@ type: claim
 title: "Five years after first licensure, 69% of traditional-preservice teachers remained in Texas classrooms versus 60% of alternatively certified teachers"
 description: "Five years after first licensure, 69% of traditional-preservice teachers remained in Texas classrooms versus 60% of alternatively certified teachers"
 id: retention-gap-traditional-versus-alternative-texas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

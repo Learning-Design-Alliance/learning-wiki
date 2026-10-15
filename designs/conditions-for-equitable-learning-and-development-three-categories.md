@@ -3,7 +3,7 @@ type: design
 id: conditions-for-equitable-learning-and-development-three-categories
 title: "Conditions for equitable learning and development framework: personal, school, and system conditions"
 description: The guide organizes the conditions needed for equitable learning and development into three categories drawn from ecological models of development.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Passage familiarity (prior related knowledge) correlates .52 with recall, and only familiarity, not imageability, affected one-week delayed recall
 description: Passage familiarity (prior related knowledge) correlates .52 with recall, and only familiarity, not imageability, affected one-week delayed recall
 id: passage-familiarity-correlates-with-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

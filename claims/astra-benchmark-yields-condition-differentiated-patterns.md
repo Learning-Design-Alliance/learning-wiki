@@ -3,7 +3,7 @@ type: claim
 title: The ASTRA benchmark yields measurable condition-differentiated patterns consistent with its simulation assumptions
 description: The ASTRA benchmark yields measurable condition-differentiated patterns consistent with its simulation assumptions
 id: astra-benchmark-yields-condition-differentiated-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

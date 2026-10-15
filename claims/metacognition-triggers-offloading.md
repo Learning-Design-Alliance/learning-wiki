@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive confidence triggers intention offloading independently of objective memory need
 description: Metacognitive confidence triggers intention offloading independently of objective memory need
 id: metacognition-triggers-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

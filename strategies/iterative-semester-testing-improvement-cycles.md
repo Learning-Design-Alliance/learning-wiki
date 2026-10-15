@@ -3,7 +3,7 @@ type: strategy
 id: iterative-semester-testing-improvement-cycles
 title: Iterative semester-long improvement cycles combining feature integration with real-world testing
 description: "The authors describe an ongoing improvement cycle in which \"each cycle would consist of integration of new features (in the system or curriculum-wise) and a following semester-long testing in a real world setting.\" Fu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

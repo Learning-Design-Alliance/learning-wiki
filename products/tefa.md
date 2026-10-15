@@ -4,7 +4,7 @@ id: tefa
 title: TEFA
 description: TEFA is a technology-enhanced formative-assessment pedagogy developed by Ian D.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

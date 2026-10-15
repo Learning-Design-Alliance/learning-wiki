@@ -3,7 +3,7 @@ type: claim
 title: A machine learning algorithm with 10-percent risk-score cutoffs better targets students most likely to experience academic problems and has the advantage in predicting suspensions
 description: A machine learning algorithm with 10-percent risk-score cutoffs better targets students most likely to experience academic problems and has the advantage in predicting suspensions
 id: algorithm-ten-percent-cutoffs-targets-highest-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

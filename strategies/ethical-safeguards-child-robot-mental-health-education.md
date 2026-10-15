@@ -3,7 +3,7 @@ type: strategy
 id: ethical-safeguards-child-robot-mental-health-education
 title: Ethical governance safeguards for robot-supported mental health education with children
 description: The article argues that deploying adaptive AI systems with children and emotionally sensitive content requires strict ethical governance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

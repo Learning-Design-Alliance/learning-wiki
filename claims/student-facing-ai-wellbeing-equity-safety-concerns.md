@@ -3,7 +3,7 @@ type: claim
 title: Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools
 description: Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools
 id: student-facing-ai-wellbeing-equity-safety-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

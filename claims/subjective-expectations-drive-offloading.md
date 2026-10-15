@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading
 description: Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading
 id: subjective-expectations-drive-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

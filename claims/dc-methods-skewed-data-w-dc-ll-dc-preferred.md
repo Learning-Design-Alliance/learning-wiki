@@ -3,7 +3,7 @@ type: claim
 title: For skewed datasets, W-DC and LL-DC produce similar and preferred estimates, while PS-DC diverges at high-frequency scores
 description: For skewed datasets, W-DC and LL-DC produce similar and preferred estimates, while PS-DC diverges at high-frequency scores
 id: dc-methods-skewed-data-w-dc-ll-dc-preferred
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

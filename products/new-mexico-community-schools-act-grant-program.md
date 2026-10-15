@@ -4,7 +4,7 @@ id: new-mexico-community-schools-act-grant-program
 title: New Mexico Community Schools Act grant program
 description: A New Mexico Public Education Department-administered grant programme that funds community-school coordinators, planning, implementation, and technical assistance for participating public schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

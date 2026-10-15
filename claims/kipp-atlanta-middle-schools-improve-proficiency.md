@@ -3,7 +3,7 @@ type: claim
 title: KIPP Atlanta middle schools substantially improve student proficiency on Georgia statewide assessments
 description: KIPP Atlanta middle schools substantially improve student proficiency on Georgia statewide assessments
 id: kipp-atlanta-middle-schools-improve-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

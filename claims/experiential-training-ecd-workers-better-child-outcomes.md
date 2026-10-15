@@ -3,7 +3,7 @@ type: claim
 title: The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better
 description: The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better
 id: experiential-training-ecd-workers-better-child-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

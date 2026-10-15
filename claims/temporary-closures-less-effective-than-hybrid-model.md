@@ -3,7 +3,7 @@ type: claim
 title: In schools attending fully in person, temporary closures in response to known cases are far less effective than hybrid operation from the start and increase schedule disruption
 description: In schools attending fully in person, temporary closures in response to known cases are far less effective than hybrid operation from the start and increase schedule disruption
 id: temporary-closures-less-effective-than-hybrid-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

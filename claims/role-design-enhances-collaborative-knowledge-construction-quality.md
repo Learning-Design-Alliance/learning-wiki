@@ -3,7 +3,7 @@ type: claim
 title: Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration
 description: Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration
 id: role-design-enhances-collaborative-knowledge-construction-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

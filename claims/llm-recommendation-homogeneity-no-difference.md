@@ -3,7 +3,7 @@ type: claim
 title: Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google
 description: Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google
 id: llm-recommendation-homogeneity-no-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

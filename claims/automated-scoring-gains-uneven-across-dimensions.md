@@ -3,7 +3,7 @@ type: claim
 title: Gains from automated scoring concentrated in linguistic accuracy and logical coherence but were absent in information fidelity and delivery fluency
 description: Gains from automated scoring concentrated in linguistic accuracy and logical coherence but were absent in information fidelity and delivery fluency
 id: automated-scoring-gains-uneven-across-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

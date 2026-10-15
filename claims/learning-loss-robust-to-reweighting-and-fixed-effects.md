@@ -3,7 +3,7 @@ type: claim
 title: Learning-loss estimates are robust to placebo tests, propensity-score and maximum-entropy reweighting, and school and family fixed effects
 description: Learning-loss estimates are robust to placebo tests, propensity-score and maximum-entropy reweighting, and school and family fixed effects
 id: learning-loss-robust-to-reweighting-and-fixed-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

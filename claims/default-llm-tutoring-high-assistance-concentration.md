@@ -3,7 +3,7 @@ type: claim
 title: "A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving"
 description: "A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving"
 id: default-llm-tutoring-high-assistance-concentration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

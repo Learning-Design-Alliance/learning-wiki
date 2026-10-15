@@ -2,7 +2,7 @@
 type: theory
 title: The skills-first ecosystem framework
 description: "The report defines the skills-first ecosystem as \"all of the systems, technologies, policies, organizations (e.g., employers, educational and research institutions, training providers, community based organizations),..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

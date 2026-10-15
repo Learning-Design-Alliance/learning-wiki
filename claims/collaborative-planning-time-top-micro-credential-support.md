@@ -3,7 +3,7 @@ type: claim
 title: Collaborative planning time with colleagues was the top support cited by teachers earning micro-credentials, cited by 74 percent of respondents
 description: Collaborative planning time with colleagues was the top support cited by teachers earning micro-credentials, cited by 74 percent of respondents
 id: collaborative-planning-time-top-micro-credential-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

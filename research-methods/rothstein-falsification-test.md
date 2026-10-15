@@ -3,7 +3,7 @@ type: research-method
 id: rothstein-falsification-test
 title: Rothstein falsification test
 description: A falsification test for teacher value-added models, introduced by Jesse Rothstein (2010) and re-assessed in this paper.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

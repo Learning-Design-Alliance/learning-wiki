@@ -3,7 +3,7 @@ type: claim
 title: Financial incentives do not decrease intrinsic motivation, though point estimates are too imprecise to detect any effect
 description: Financial incentives do not decrease intrinsic motivation, though point estimates are too imprecise to detect any effect
 id: incentives-no-intrinsic-motivation-harm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

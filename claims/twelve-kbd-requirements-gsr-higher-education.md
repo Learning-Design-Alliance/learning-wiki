@@ -3,7 +3,7 @@ type: claim
 title: Twelve semi-structured interviews with university students and lecturers identified twelve knowledge-based design requirements for tutoring GSRs across three knowledge types
 description: Twelve semi-structured interviews with university students and lecturers identified twelve knowledge-based design requirements for tutoring GSRs across three knowledge types
 id: twelve-kbd-requirements-gsr-higher-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

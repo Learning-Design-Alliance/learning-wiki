@@ -3,7 +3,7 @@ type: claim
 title: "Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable"
 description: "Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable"
 id: adult-ed-out-of-class-use-mobile-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

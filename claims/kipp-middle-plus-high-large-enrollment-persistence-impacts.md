@@ -3,7 +3,7 @@ type: claim
 title: Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence
 description: Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence
 id: kipp-middle-plus-high-large-enrollment-persistence-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Different evidence types differ in how strongly they can support claims about effectiveness
 description: Different evidence types differ in how strongly they can support claims about effectiveness
 id: evidence-types-differ-support-strength
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

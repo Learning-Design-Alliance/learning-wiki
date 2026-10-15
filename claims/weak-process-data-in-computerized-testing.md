@@ -3,7 +3,7 @@ type: claim
 title: Cognitive process inference in computerized testing rarely rests on strong process data
 description: Cognitive process inference in computerized testing rarely rests on strong process data
 id: weak-process-data-in-computerized-testing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

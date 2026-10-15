@@ -3,7 +3,7 @@ type: claim
 title: "Innovative learning is more effective than conventional learning for junior high school students' mathematical problem-solving ability (summary effect 0.95, 95% CI 0.71–1.19)"
 description: "Innovative learning is more effective than conventional learning for junior high school students' mathematical problem-solving ability (summary effect 0.95, 95% CI 0.71–1.19)"
 id: innovative-learning-more-effective-problem-solving-meta-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

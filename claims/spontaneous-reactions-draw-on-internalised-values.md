@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' spontaneous in-the-moment reactions draw on internalised earlier values rather than the curriculum's constitutive values"
 description: "Teachers' spontaneous in-the-moment reactions draw on internalised earlier values rather than the curriculum's constitutive values"
 id: spontaneous-reactions-draw-on-internalised-values
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

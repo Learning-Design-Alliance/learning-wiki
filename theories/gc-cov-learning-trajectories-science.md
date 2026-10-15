@@ -2,7 +2,7 @@
 type: theory
 title: Learning trajectories for graph comprehension and covariational reasoning as frameworks for mathematics-in-science integration
 description: The report articulates two learning trajectories framing mathematics in OpenSciEd investigations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

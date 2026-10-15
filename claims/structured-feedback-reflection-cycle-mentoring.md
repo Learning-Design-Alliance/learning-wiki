@@ -3,7 +3,7 @@ type: claim
 title: "A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development"
 description: "A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development"
 id: structured-feedback-reflection-cycle-mentoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

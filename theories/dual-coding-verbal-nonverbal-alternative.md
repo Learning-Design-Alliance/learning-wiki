@@ -2,7 +2,7 @@
 type: theory
 title: "Dual coding theory: parallel verbal and nonverbal representation systems as an alternative to schema theory"
 description: "The essay presents dual coding (Sadoski, Paivio, & Goetz, 1991) as an alternative to schema theory in which verbal stimuli are organized in terms of logogens representing phonemes, graphemes, morphemes, words and larg..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance
 description: Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance
 id: family-engagement-appreciation-governance-dissatisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

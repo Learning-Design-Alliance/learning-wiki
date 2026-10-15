@@ -3,7 +3,7 @@ type: claim
 title: Among elementary schools with strong 5Essentials results, high-poverty schools improved more than low-poverty schools on more than one-half of measures
 description: Among elementary schools with strong 5Essentials results, high-poverty schools improved more than low-poverty schools on more than one-half of measures
 id: high-poverty-strong-schools-improved-more
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

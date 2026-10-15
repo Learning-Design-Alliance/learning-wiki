@@ -3,7 +3,7 @@ type: claim
 title: Across studies, ChatGPT serves as a convenient tool assisting teachers, students and researchers in various tasks, with the consistent underlying motivation of seeking personal benefits and reducing academic burdens.
 description: Across studies, ChatGPT serves as a convenient tool assisting teachers, students and researchers in various tasks, with the consistent underlying motivation of seeking personal benefits and reducing academic burdens.
 id: chatgpt-convenient-tool-personal-benefit-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

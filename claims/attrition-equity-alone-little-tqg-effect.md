@@ -3,7 +3,7 @@ type: claim
 title: Eliminating attrition inequities alone does little to close teacher quality gaps
 description: Eliminating attrition inequities alone does little to close teacher quality gaps
 id: attrition-equity-alone-little-tqg-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

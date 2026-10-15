@@ -3,7 +3,7 @@ type: claim
 title: Students from closed schools scored roughly one and a half months behind in reading and two months behind in math in the spring of the announcement year
 description: Students from closed schools scored roughly one and a half months behind in reading and two months behind in math in the spring of the announcement year
 id: closed-school-test-scores-lower-announcement-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

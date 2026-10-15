@@ -3,7 +3,7 @@ type: element
 id: school-choice-info-presentation-guide
 title: Evidence-based guide on presenting school choice information to parents
 description: A guide funded by the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

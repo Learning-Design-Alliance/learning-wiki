@@ -3,7 +3,7 @@ type: strategy
 id: milestone-checklists-for-novice-mentors
 title: Pair flexible mentoring with clear milestone checklists and fallback activities in novice mentor preparation
 description: "A mentor-preparation strategy drawn from the ARC trial's lessons learned."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

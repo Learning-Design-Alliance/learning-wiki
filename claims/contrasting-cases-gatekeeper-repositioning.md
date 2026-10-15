@@ -3,7 +3,7 @@ type: claim
 title: Students perceived the teacher’s modeling with contrasting cases as a turning point that repositioned them as active gatekeepers of AI-generated content
 description: Students perceived the teacher’s modeling with contrasting cases as a turning point that repositioned them as active gatekeepers of AI-generated content
 id: contrasting-cases-gatekeeper-repositioning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects
 description: Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects
 id: practitioner-considerations-experimental-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

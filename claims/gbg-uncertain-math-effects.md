@@ -3,7 +3,7 @@ type: claim
 title: Good Behavior Game shows uncertain effects on mathematics achievement, with an effect size of 0.26 that is not statistically significant
 description: Good Behavior Game shows uncertain effects on mathematics achievement, with an effect size of 0.26 that is not statistically significant
 id: gbg-uncertain-math-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

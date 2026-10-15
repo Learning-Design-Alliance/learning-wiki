@@ -3,7 +3,7 @@ type: claim
 title: Prior meta-analytic evidence indicates chatbot technology has a substantial positive effect on overall learning outcomes and knowledge retention, but not on critical thinking, engagement, or motivation
 description: Prior meta-analytic evidence indicates chatbot technology has a substantial positive effect on overall learning outcomes and knowledge retention, but not on critical thinking, engagement, or motivation
 id: chatbot-meta-analysis-learning-outcomes-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

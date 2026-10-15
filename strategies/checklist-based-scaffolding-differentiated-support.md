@@ -3,7 +3,7 @@ type: strategy
 id: checklist-based-scaffolding-differentiated-support
 title: "Use an observational checklist to scaffold support levels: open-ended questioning for children needing less support, explicit instruction for children needing more"
 description: "Within Ladders to Literacy, teachers first use \"the program's observational checklist to determine what tasks and teaching strategies in the lesson are developmentally appropriate for each child.\" Based on this inform..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

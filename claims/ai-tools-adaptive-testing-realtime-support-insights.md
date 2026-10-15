@@ -3,7 +3,7 @@ type: claim
 title: AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights
 description: AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights
 id: ai-tools-adaptive-testing-realtime-support-insights
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Teacher grade effects show spillovers to students' broader ninth-grade outcomes"
 description: "Teacher grade effects show spillovers to students' broader ninth-grade outcomes"
 id: teacher-grade-effects-spillover-ninth-grade-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Display design affected parents' understanding of school information and their self-reported satisfaction and ease of use"
 description: "Display design affected parents' understanding of school information and their self-reported satisfaction and ease of use"
 id: display-design-understanding-satisfaction-ease
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

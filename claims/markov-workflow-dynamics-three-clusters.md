@@ -3,7 +3,7 @@ type: claim
 title: "Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration"
 description: "Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration"
 id: markov-workflow-dynamics-three-clusters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

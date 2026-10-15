@@ -3,7 +3,7 @@ type: element
 id: anecdote-treasured-possession-task
 title: "Anecdote task (my treasured possession): mingling retelling of a personal story across partner changes"
 description: A low-preparation speaking task in which learners tell the story of a treasured possession to a classmate they normally do not work with, each speaking for 2 minutes, then change pairs and retell.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

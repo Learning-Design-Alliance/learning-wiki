@@ -3,7 +3,7 @@ type: claim
 title: Explanatory feedback positively moderates only the path from decision-making agent to perceived fairness, not the direct path to decision acceptance
 description: Explanatory feedback positively moderates only the path from decision-making agent to perceived fairness, not the direct path to decision acceptance
 id: explanatory-feedback-moderates-only-fairness-path
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: ongoing-college-readiness-assessment
 title: Use assessment measures throughout high school to inform students of college readiness and assist them in overcoming deficiencies
 description: "Recommendation 2 promotes a culture of evidence: schools should identify existing assessments and data to estimate college readiness, use performance data to inform students of their proficiency, and create individual..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

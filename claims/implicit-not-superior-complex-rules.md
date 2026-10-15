@@ -3,7 +3,7 @@ type: claim
 title: Implicit learners do not outperform other learners on complex second language rules
 description: Implicit learners do not outperform other learners on complex second language rules
 id: implicit-not-superior-complex-rules
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

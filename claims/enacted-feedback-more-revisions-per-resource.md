@@ -3,7 +3,7 @@ type: claim
 title: Enacted Feedback produces more post-workflow revisions per resource than the comparison workflows
 description: Enacted Feedback produces more post-workflow revisions per resource than the comparison workflows
 id: enacted-feedback-more-revisions-per-resource
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

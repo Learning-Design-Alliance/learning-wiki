@@ -3,7 +3,7 @@ type: claim
 title: BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality
 description: BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality
 id: bkt-faster-posttest-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

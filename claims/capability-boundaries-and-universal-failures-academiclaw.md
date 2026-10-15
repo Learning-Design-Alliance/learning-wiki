@@ -3,7 +3,7 @@ type: claim
 title: "Over a quarter of benchmark tasks (23 of 80) defeat all six frontier models, with over 22% showing capability boundaries where scores swing by up to 90 points"
 description: "Over a quarter of benchmark tasks (23 of 80) defeat all six frontier models, with over 22% showing capability boundaries where scores swing by up to 90 points"
 id: capability-boundaries-and-universal-failures-academiclaw
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

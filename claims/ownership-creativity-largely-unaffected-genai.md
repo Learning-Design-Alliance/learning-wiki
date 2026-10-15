@@ -3,7 +3,7 @@ type: claim
 title: Only about a third of design students report reduced creativity or project ownership from GenAI use
 description: Only about a third of design students report reduced creativity or project ownership from GenAI use
 id: ownership-creativity-largely-unaffected-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: High agreement between two LLM screeners indicates consistency among outputs, not accuracy, because models may exhibit correlated failure patterns
 description: High agreement between two LLM screeners indicates consistency among outputs, not accuracy, because models may exhibit correlated failure patterns
 id: llm-agreement-is-consistency-not-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

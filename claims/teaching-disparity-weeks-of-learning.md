@@ -3,7 +3,7 @@ type: claim
 title: The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math
 description: The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math
 id: teaching-disparity-weeks-of-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Strategy use showed no significant relationship with problems solved in B2, except writing code as prompt (r = .20), based on only twelve students
 description: Strategy use showed no significant relationship with problems solved in B2, except writing code as prompt (r = .20), based on only twelve students
 id: writing-code-as-prompt-strategy-correlates-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

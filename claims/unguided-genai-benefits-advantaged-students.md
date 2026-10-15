@@ -3,7 +3,7 @@ type: claim
 title: Without explicit guidance and scaffolding, unguided GenAI use may disproportionately benefit already advantaged students and widen performance gaps
 description: Without explicit guidance and scaffolding, unguided GenAI use may disproportionately benefit already advantaged students and widen performance gaps
 id: unguided-genai-benefits-advantaged-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

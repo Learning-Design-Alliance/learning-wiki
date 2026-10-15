@@ -3,7 +3,7 @@ type: claim
 title: Computer-based test advantages can be used to manage the effects of cheating as a construct-irrelevant factor
 description: Computer-based test advantages can be used to manage the effects of cheating as a construct-irrelevant factor
 id: cbt-manages-cheating-construct-irrelevance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

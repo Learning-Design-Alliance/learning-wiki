@@ -3,7 +3,7 @@ type: design
 id: logic-model-technology-reduces-pba-anxiety
 title: Logic model of how technology mediation may reduce anxiety in viva voce performance-based assessments
 description: The article proposes a logic model structuring how technology may reduce anxiety in viva voce assessments, organised as Inputs (technology mediation, assessment context, learner factors), Theoretical Mechanisms (socia...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

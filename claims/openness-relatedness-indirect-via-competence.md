@@ -3,7 +3,7 @@ type: claim
 title: "Openness and need for relatedness are associated with teachers' AI use indirectly through pedagogical AI competence, with relatedness negatively associated with competence"
 description: "Openness and need for relatedness are associated with teachers' AI use indirectly through pedagogical AI competence, with relatedness negatively associated with competence"
 id: openness-relatedness-indirect-via-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

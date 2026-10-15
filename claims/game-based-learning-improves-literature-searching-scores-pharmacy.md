@@ -3,7 +3,7 @@ type: claim
 title: "Game-based learning improved pharmacy students' literature searching course scores in one reported study"
 description: "Game-based learning improved pharmacy students' literature searching course scores in one reported study"
 id: game-based-learning-improves-literature-searching-scores-pharmacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

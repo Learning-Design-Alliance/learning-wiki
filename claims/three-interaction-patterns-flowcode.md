@@ -3,7 +3,7 @@ type: claim
 title: "Novice creative coders exhibited three distinct initial interaction patterns with Flowcode: flowchart-first, code-first, and prompt-first"
 description: "Novice creative coders exhibited three distinct initial interaction patterns with Flowcode: flowchart-first, code-first, and prompt-first"
 id: three-interaction-patterns-flowcode
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

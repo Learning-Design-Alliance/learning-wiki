@@ -3,7 +3,7 @@ type: claim
 title: AI anxiety is negatively associated with academic motivation among university students, in both bivariate and regression analyses
 description: AI anxiety is negatively associated with academic motivation among university students, in both bivariate and regression analyses
 id: ai-anxiety-negatively-associated-academic-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

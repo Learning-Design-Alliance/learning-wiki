@@ -3,7 +3,7 @@ type: claim
 title: Only a minority of self-reported CLT-familiar teachers could identify the three types of cognitive load
 description: Only a minority of self-reported CLT-familiar teachers could identify the three types of cognitive load
 id: minority-identify-three-load-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

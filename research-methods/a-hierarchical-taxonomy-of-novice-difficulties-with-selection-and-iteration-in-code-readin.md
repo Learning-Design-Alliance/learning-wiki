@@ -3,7 +3,7 @@ type: research-method
 id: a-hierarchical-taxonomy-of-novice-difficulties-with-selection-and-iteration-in-code-readin
 title: A hierarchical taxonomy of novice difficulties with selection and iteration in code reading
 description: "The article introduces a fine-grained taxonomy categorizing novice programmers' difficulties with reading control flow constructs."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

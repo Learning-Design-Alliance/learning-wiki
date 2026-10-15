@@ -3,7 +3,7 @@ type: claim
 title: Grades provided with ST Math have significantly larger proportions of students advanced, or proficient or advanced, on the mathematics CST than comparison grades
 description: Grades provided with ST Math have significantly larger proportions of students advanced, or proficient or advanced, on the mathematics CST than comparison grades
 id: st-math-itt-pooled-proficiency-proportions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

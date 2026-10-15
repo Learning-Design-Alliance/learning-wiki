@@ -3,7 +3,7 @@ type: claim
 title: Peer-teaching flipped classroom students show higher calculus self-efficacy than conventional flipped classroom students after controlling for pretest
 description: Peer-teaching flipped classroom students show higher calculus self-efficacy than conventional flipped classroom students after controlling for pretest
 id: ptfc-beats-cfc-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

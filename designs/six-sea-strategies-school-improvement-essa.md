@@ -3,7 +3,7 @@ type: design
 id: six-sea-strategies-school-improvement-essa
 title: Six key strategies characterize how SEAs implement SEA and LEA roles in school improvement under ESSA
 description: "From interviews with school improvement leads in 10 SEAs, the authors identified six strategies present in every SEA's approach: taking on multiple roles with LEAs, balancing support and accountability, differentiatin..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

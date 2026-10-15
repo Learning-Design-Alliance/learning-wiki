@@ -3,7 +3,7 @@ type: claim
 title: "Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable"
 description: "Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable"
 id: koku-qualitative-acceptability-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

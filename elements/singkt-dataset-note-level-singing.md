@@ -3,7 +3,7 @@ type: element
 id: singkt-dataset-note-level-singing
 title: "singKT: an open dataset of note-level singing practice from Chinese classrooms"
 description: The singKT dataset is an openly released corpus of singing interactions collected from Chinese primary and middle schools, distributed by the iTEC Lab at Huazhong University of Science and Technology.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

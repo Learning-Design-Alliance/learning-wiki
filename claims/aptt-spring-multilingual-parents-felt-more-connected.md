@@ -3,7 +3,7 @@ type: claim
 title: "Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool"
 description: "Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool"
 id: aptt-spring-multilingual-parents-felt-more-connected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

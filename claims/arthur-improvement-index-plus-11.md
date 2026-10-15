@@ -3,7 +3,7 @@ type: claim
 title: The average improvement index for Arthur in English language development is +11 percentile points, ranging from –5 to +17 across findings
 description: The average improvement index for Arthur in English language development is +11 percentile points, ranging from –5 to +17 across findings
 id: arthur-improvement-index-plus-11
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

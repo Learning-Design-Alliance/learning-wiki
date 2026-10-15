@@ -3,7 +3,7 @@ type: claim
 title: Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.
 description: Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.
 id: ai-draft-quality-ownership-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

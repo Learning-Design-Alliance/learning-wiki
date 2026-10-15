@@ -3,7 +3,7 @@ type: claim
 title: English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges
 description: English learner students with disabilities have backgrounds similar to other English learners but greater functional challenges
 id: elswd-similar-backgrounds-greater-functional-challenges-than-el
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

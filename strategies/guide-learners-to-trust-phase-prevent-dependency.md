@@ -3,7 +3,7 @@ type: strategy
 id: guide-learners-to-trust-phase-prevent-dependency
 title: Guide learners toward the Trust Phase while actively preventing a slide into Dependency
 description: "The article's closing insight states that education's goal \"is not to resist AI, but to guide learners toward the Trust Phase while actively preventing a slide into Dependency.\" In the Trust phase AI functions as a co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

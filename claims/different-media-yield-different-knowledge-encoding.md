@@ -3,7 +3,7 @@ type: claim
 title: People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity
 description: People acquire different knowledge from different media, the closest indirect evidence for symbolic encoding specificity
 id: different-media-yield-different-knowledge-encoding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

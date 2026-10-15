@@ -3,7 +3,7 @@ type: claim
 title: "Constructive engagement is ecologically organized: amplified by explicit learning-oriented framing, higher in coding than writing, and more visible in sustained exchanges"
 description: "Constructive engagement is ecologically organized: amplified by explicit learning-oriented framing, higher in coding than writing, and more visible in sustained exchanges"
 id: constructive-engagement-contextual-organization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

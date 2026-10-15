@@ -3,7 +3,7 @@ type: claim
 title: Early numeracy mastery at 54 months predicts college attendance
 description: Early numeracy mastery at 54 months predicts college attendance
 id: early-numeracy-mastery-predicts-college-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

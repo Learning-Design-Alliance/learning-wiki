@@ -3,7 +3,7 @@ type: claim
 title: Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this
 description: Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this
 id: expertise-reversal-writing-journal-prompts-fading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

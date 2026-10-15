@@ -3,7 +3,7 @@ type: claim
 title: LLMs perform competently at comparing item difficulty but fall below random chance on comparing item discrimination
 description: LLMs perform competently at comparing item difficulty but fall below random chance on comparing item discrimination
 id: llms-below-chance-item-discrimination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

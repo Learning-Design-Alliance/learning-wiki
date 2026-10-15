@@ -3,7 +3,7 @@ type: claim
 title: "Lord's chi-square identified more DIF items than Raju's unsigned area in the without-purification condition"
 description: "Lord's chi-square identified more DIF items than Raju's unsigned area in the without-purification condition"
 id: lords-chi-square-flags-more-dif-items-than-raju-ua
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

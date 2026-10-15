@@ -3,7 +3,7 @@ type: strategy
 id: cwpt-daily-session-team-points-recipe
 title: Implement CWPT through daily peer-tutoring sessions with points, teams, and weekly testing
 description: "The report describes a concrete implementation routine for CWPT: practice 30 minutes a day, including 20 minutes for tutoring and 10 minutes for material preparation, with individual end-of-week testing and pretesting..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

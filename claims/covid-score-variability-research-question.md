@@ -3,7 +3,7 @@ type: claim
 title: "The brief investigated the degree to which students' reading and math test scores became more variable as a result of the COVID-19 pandemic"
 description: "The brief investigated the degree to which students' reading and math test scores became more variable as a result of the COVID-19 pandemic"
 id: covid-score-variability-research-question
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

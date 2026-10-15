@@ -4,7 +4,7 @@ id: persona-problem-builder-ppb
 title: Persona Problem Builder (PPB)
 description: A React and Flask web-based platform developed by Walkington et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

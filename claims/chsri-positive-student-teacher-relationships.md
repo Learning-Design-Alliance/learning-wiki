@@ -3,7 +3,7 @@ type: claim
 title: Classrooms in high-performing CHSRI schools showed positive, mutually respectful student-teacher relationships with emotional and academic support
 description: Classrooms in high-performing CHSRI schools showed positive, mutually respectful student-teacher relationships with emotional and academic support
 id: chsri-positive-student-teacher-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

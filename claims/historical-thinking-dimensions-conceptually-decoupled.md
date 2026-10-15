@@ -3,7 +3,7 @@ type: claim
 title: "Dimensions of historical thinking are conceptually decoupled: sophistication in one second-order concept does not imply sophistication in another"
 description: "Dimensions of historical thinking are conceptually decoupled: sophistication in one second-order concept does not imply sophistication in another"
 id: historical-thinking-dimensions-conceptually-decoupled
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

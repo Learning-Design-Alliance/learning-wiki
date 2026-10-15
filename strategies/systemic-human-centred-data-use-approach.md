@@ -3,7 +3,7 @@ type: strategy
 id: systemic-human-centred-data-use-approach
 title: Systemic, human-centred approach treating digital data use as a school-and-teacher system, with AI integrated into professional development
 description: "Following research on human-centred learning analytics, the authors suggest \"the use of digital data in schools should be understood as a systemic issue that involves both school and teacher characteristics\", calling..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

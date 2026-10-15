@@ -3,7 +3,7 @@ type: claim
 title: "Agent perception followed a U-shape across variants: the mixed temporally-humanlike/visually-nonhumanlike Variant 2 was rated least positively on partnership and agent-perception measures"
 description: "Agent perception followed a U-shape across variants: the mixed temporally-humanlike/visually-nonhumanlike Variant 2 was rated least positively on partnership and agent-perception measures"
 id: variant2-least-positive-agent-perception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

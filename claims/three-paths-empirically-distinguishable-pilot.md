@@ -3,7 +3,7 @@ type: claim
 title: "Student-AI exchanges in an undergraduate research methods course are empirically classifiable into three interaction paths, with Passive Review most frequent (46%) and Strategic Dialogue 36%"
 description: "Student-AI exchanges in an undergraduate research methods course are empirically classifiable into three interaction paths, with Passive Review most frequent (46%) and Strategic Dialogue 36%"
 id: three-paths-empirically-distinguishable-pilot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

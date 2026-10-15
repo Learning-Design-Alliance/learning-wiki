@@ -3,7 +3,7 @@ type: claim
 title: Students working with multi-view program visualizations spend nearly half their attention on the code view, with attention distribution varying by task topic
 description: Students working with multi-view program visualizations spend nearly half their attention on the code view, with attention distribution varying by task topic
 id: gaze-anchored-in-code-despite-multi-view-scaffolds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "LoRA RFT with a helpfulness-weighted composite reward can collapse an adapter's pedagogy mid-training while responsiveness stays intact"
 description: "LoRA RFT with a helpfulness-weighted composite reward can collapse an adapter's pedagogy mid-training while responsiveness stays intact"
 id: educlaw-bench-rft-helpfulness-collapse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

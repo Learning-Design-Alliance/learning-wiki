@@ -3,7 +3,7 @@ type: claim
 title: Designing learning activities corresponding to germane load has always required methods and techniques external to cognitive load theory
 description: Designing learning activities corresponding to germane load has always required methods and techniques external to cognitive load theory
 id: germane-load-activities-require-external-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

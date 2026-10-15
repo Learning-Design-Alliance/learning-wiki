@@ -3,7 +3,7 @@ type: claim
 title: Predictive models built in a modelable ecosystem generalize across institutions
 description: Predictive models built in a modelable ecosystem generalize across institutions
 id: cross-institutional-generalizability-coursekata-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

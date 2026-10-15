@@ -3,7 +3,7 @@ type: claim
 title: Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger
 description: Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger
 id: pisa-sex-differences-math-small-reading-three-times-larger
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

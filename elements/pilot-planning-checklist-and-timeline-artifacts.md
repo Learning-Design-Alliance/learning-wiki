@@ -3,7 +3,7 @@ type: element
 id: pilot-planning-checklist-and-timeline-artifacts
 title: Pilot Planning Checklist and Ideal Pilot Timeline artifacts
 description: "The report provides two planning artifacts for districts conducting ed-tech pilots: a pilot-planning checklist and a model pilot timeline, released as appendices."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

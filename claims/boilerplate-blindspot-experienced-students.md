@@ -3,7 +3,7 @@ type: claim
 title: "More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated"
 description: "More experienced AI users showed a Boilerplate Blindspot: uncritically accepting 'trivial' AI-generated code in which later defects originated"
 id: boilerplate-blindspot-experienced-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

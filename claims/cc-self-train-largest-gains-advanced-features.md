@@ -3,7 +3,7 @@ type: claim
 title: The largest self-efficacy effect sizes in the pilot appeared on advanced features such as setting up hooks and creating skills
 description: The largest self-efficacy effect sizes in the pilot appeared on advanced features such as setting up hooks and creating skills
 id: cc-self-train-largest-gains-advanced-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: dkt-sem-semantic-embedding-knowledge-tracing
 title: "DKT-Sem: Deep Knowledge Tracing with Semantic Embeddings"
 description: "DKT-Sem is the article's simpler alternative KT method for dialogues, described as a strong baseline."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

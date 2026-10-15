@@ -3,7 +3,7 @@ type: strategy
 id: use-implementation-study-findings-to-scale-early-math-programs
 title: Use implementation-study findings to inform design, implementation, and scale-up of early math family engagement interventions
 description: "The brief's stated purpose is to translate implementation-study evidence into actionable guidance: \"Drawing on the study findings, the brief presents practical recom­mendations for program operators, practitioners, an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Indirect discrimination logic applies to facially neutral integrity rules with cohort-skewed burdens
 description: Indirect discrimination logic applies to facially neutral integrity rules with cohort-skewed burdens
 id: indirect-discrimination-logic-applied-to-integrity-rules
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

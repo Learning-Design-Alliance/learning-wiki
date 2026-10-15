@@ -3,7 +3,7 @@ type: strategy
 id: mathspace-mastery-oriented-feedback-workflow
 title: Using Mathspace workflows to provide timely, mastery-oriented feedback on student work
 description: Equatio Mathspace provides workflows for receiving student submissions and giving feedback, supporting the UDL checkpoint on mastery-oriented feedback.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

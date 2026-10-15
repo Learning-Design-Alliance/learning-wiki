@@ -3,7 +3,7 @@ type: claim
 title: "Ability and speed are negatively correlated, and the reading test's ability estimates are more affected by speed than the math test's"
 description: "Ability and speed are negatively correlated, and the reading test's ability estimates are more affected by speed than the math test's"
 id: negative-ability-speed-correlation-li52-stronger
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

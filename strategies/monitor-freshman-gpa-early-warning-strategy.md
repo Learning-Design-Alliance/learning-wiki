@@ -3,7 +3,7 @@ type: strategy
 id: monitor-freshman-gpa-early-warning-strategy
 title: Monitor freshman-year grades and intervene early, treating D students as needing attention comparable to F students
 description: The article supports district and school use of ninth-grade GPA as an early warning indicator, beyond the binary Freshman OnTrack measure, to identify students who will benefit from assistance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

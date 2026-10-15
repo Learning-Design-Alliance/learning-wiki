@@ -3,7 +3,7 @@ type: claim
 title: High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future
 description: High-level feedback on reasoning and synthesis should remain a human responsibility for the foreseeable future
 id: high-level-feedback-remains-human-responsibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

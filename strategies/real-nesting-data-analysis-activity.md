@@ -3,7 +3,7 @@ type: strategy
 id: real-nesting-data-analysis-activity
 title: Analyzing real park nesting data to teach resource management
 description: "A post-visit activity in which \"Students will analyze data from the Hammocks Beach 1992 sea turtle nesting season."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

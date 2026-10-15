@@ -4,7 +4,7 @@ id: adaptive-through-year-assessment-atya
 title: Adaptive Through-Year Assessment (ATYA)
 description: "NWEA's proposed through-year adaptive assessment system designed to measure both grade-level standards proficiency and academic growth while replacing an end-of-year state summative assessment."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: key-steps-and-concerns-for-district-rcts
 title: Follow key steps to conduct RCTs and address common questions and concerns
 description: "The guide provides procedural support for leaders undertaking an RCT: it \"outlines the key steps to conduct RCTs and responds to common questions and concerns about RCTs.\" This anticipates stakeholder resistance and g..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

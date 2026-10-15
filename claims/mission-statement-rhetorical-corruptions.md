@@ -3,7 +3,7 @@ type: claim
 title: "Mission statements across the U15, Russell Group, and Ivy League exhibit Booth's rhetorical corruptions, with polished rhetoric of excellence obscuring concrete commitments"
 description: "Mission statements across the U15, Russell Group, and Ivy League exhibit Booth's rhetorical corruptions, with polished rhetoric of excellence obscuring concrete commitments"
 id: mission-statement-rhetorical-corruptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

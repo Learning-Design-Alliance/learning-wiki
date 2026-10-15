@@ -3,7 +3,7 @@ type: strategy
 id: institutional-support-for-critical-service-learning-relationships
 title: Provide institutional support to enable relationship-building in critical service-learning
 description: The article recommends that nurturing critical interpersonal relationships requires more intensive time for students and professors and institutional support to create space for intentional relationship building.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

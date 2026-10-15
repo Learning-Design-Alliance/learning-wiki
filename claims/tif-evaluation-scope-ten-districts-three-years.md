@@ -3,7 +3,7 @@ type: claim
 title: The TIF evaluation provides an in-depth analysis of implementation and pay-for-performance impacts for ten districts after three years, and program-wide implementation descriptions for all 2010 grantees
 description: The TIF evaluation provides an in-depth analysis of implementation and pay-for-performance impacts for ten districts after three years, and program-wide implementation descriptions for all 2010 grantees
 id: tif-evaluation-scope-ten-districts-three-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

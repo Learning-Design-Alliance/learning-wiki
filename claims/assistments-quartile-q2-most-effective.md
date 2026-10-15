@@ -3,7 +3,7 @@ type: claim
 title: Achievement-quartile analysis shows the intervention was most effective for students in the 2nd quartile (25th–50th percentiles) of baseline achievement
 description: Achievement-quartile analysis shows the intervention was most effective for students in the 2nd quartile (25th–50th percentiles) of baseline achievement
 id: assistments-quartile-q2-most-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

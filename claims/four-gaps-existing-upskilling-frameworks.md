@@ -3,7 +3,7 @@ type: claim
 title: "Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement"
 description: "Existing upskilling frameworks accelerate single stages and leave four gaps: fragmentation, missing verification, shallow default LLM pedagogy, and lack of external outcome measurement"
 id: four-gaps-existing-upskilling-frameworks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

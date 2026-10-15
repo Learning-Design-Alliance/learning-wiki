@@ -3,7 +3,7 @@ type: strategy
 id: equity-centred-genai-research-priorities
 title: Prioritise equity-centred approaches, methodological diversity, contextual specificity, implementation science and interdisciplinary collaboration in GenAI research
 description: "The review's forward-looking recommendation for future research on GenAI in Global South higher education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: theory
 title: Four-category categorical system for organizing technology content into teachable units
 description: "The monograph proposes a scheme for cutting \"the technological pie into digestable pieces\" for general education, organizing content about technology under four headings: \"energy conversion and power transmissicm,mate..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

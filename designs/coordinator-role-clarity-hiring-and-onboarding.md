@@ -3,7 +3,7 @@ type: design
 id: coordinator-role-clarity-hiring-and-onboarding
 title: "Clearly define the community school coordinator's skills, responsibilities, and position classification before hiring to support selection and onboarding"
 description: Because the community school coordinator is a role that previously did not exist in most schools, the report recommends defining its skills, disposition, and classification up front.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

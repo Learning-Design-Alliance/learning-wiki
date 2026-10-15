@@ -4,7 +4,7 @@ id: nwea-map-growth-assessment-and-longitudinal-achievement-database
 title: NWEA MAP Growth assessment and longitudinal achievement database
 description: "A longitudinal database of student achievement and growth scores collected through NWEA's MAP Growth assessments and used for large-scale educational analysis."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

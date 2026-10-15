@@ -3,7 +3,7 @@ type: claim
 title: Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability
 description: Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability
 id: dt-competitive-with-black-box-classifiers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

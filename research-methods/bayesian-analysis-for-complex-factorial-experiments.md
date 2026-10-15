@@ -3,7 +3,7 @@ type: research-method
 id: bayesian-analysis-for-complex-factorial-experiments
 title: Bayesian analysis for complex factorial experiments
 description: The paper recommends that researchers interested in studying complex interventions adopt Bayesian analysis for factorial designs.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

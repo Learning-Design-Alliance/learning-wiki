@@ -3,7 +3,7 @@ type: claim
 title: The study evaluates the relative importance of educational reforms and gaming behavior in generating test score gains by threatened schools
 description: The study evaluates the relative importance of educational reforms and gaming behavior in generating test score gains by threatened schools
 id: evaluating-reforms-versus-gaming-in-threatened-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

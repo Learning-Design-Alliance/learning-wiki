@@ -3,7 +3,7 @@ type: claim
 title: Training SRAE facilitators significantly increased their self-reported knowledge of self-regulation
 description: Training SRAE facilitators significantly increased their self-reported knowledge of self-regulation
 id: srae-co-regulation-training-increases-self-regulation-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

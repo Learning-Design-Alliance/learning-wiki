@@ -3,7 +3,7 @@ type: claim
 title: Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention
 description: Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention
 id: its-gradual-trend-not-intervention-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

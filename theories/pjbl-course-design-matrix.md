@@ -2,7 +2,7 @@
 type: theory
 title: "Course design matrix for project-based pedagogies: two spectrums, four quadrants"
 description: The article proposes a 2x2 matrix for describing variations in project-based course design.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

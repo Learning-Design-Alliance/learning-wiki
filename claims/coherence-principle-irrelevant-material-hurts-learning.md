@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Coherence Principle Irrelevant Material Hurts Learning
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

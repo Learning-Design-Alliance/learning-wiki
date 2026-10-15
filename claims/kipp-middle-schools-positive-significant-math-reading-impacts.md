@@ -3,7 +3,7 @@ type: claim
 title: "In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial"
 description: "In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial"
 id: kipp-middle-schools-positive-significant-math-reading-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: Self-determination theory framework of intrinsic and extrinsic motivational orientations for L2 learning
 description: "The study adopts Noels and associates' intrinsic/extrinsic motivation framework derived from self-determination theory (Deci & Ryan) as its \"informative framework\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

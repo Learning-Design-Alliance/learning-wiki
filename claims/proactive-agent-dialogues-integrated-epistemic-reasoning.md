@@ -3,7 +3,7 @@ type: claim
 title: Proactive AI agent dialogues showed stronger conceptual–adequate reasoning links while reactive dialogues showed stronger factual/off-task associations
 description: Proactive AI agent dialogues showed stronger conceptual–adequate reasoning links while reactive dialogues showed stronger factual/off-task associations
 id: proactive-agent-dialogues-integrated-epistemic-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

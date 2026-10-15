@@ -3,7 +3,7 @@ type: claim
 title: A 45-minute prompt-based programming lesson produced greater pre-to-post gains in Promptly problem solving than a code-tracing control, though not statistically significant
 description: A 45-minute prompt-based programming lesson produced greater pre-to-post gains in Promptly problem solving than a code-tracing control, though not statistically significant
 id: brief-prompting-lesson-modest-performance-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

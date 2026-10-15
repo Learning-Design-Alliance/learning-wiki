@@ -3,7 +3,7 @@ type: claim
 title: In Study 1, Penquiry V1 reduced physical demand and better maintained learning flow, and received higher TAM ratings, than a keyboard baseline
 description: In Study 1, Penquiry V1 reduced physical demand and better maintained learning flow, and received higher TAM ratings, than a keyboard baseline
 id: penquiry-v1-lower-physical-demand-higher-flow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

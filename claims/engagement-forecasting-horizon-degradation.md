@@ -3,7 +3,7 @@ type: claim
 title: One-minute-ahead direct forecasting performs similarly to contemporaneous estimation, but performance degrades at longer horizons and a carry-forward baseline outperforms the sensor model at every future horizon
 description: One-minute-ahead direct forecasting performs similarly to contemporaneous estimation, but performance degrades at longer horizons and a carry-forward baseline outperforms the sensor model at every future horizon
 id: engagement-forecasting-horizon-degradation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

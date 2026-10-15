@@ -3,7 +3,7 @@ type: claim
 title: Students rate clicker questions and lecture as more helpful than the textbook
 description: Students rate clicker questions and lecture as more helpful than the textbook
 id: clickers-and-lecture-rated-above-textbook
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

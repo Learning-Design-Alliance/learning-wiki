@@ -3,7 +3,7 @@ type: claim
 title: "Ammons's influential 1956 review concluded that feedback improves learning and motivation without considering the contradictory evidence available to him"
 description: "Ammons's influential 1956 review concluded that feedback improves learning and motivation without considering the contradictory evidence available to him"
 id: ammons-review-ignored-contradictory-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

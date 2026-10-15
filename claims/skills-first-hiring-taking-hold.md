@@ -3,7 +3,7 @@ type: claim
 title: A skills-first approach to hiring and advancement is taking hold in the private and public sectors
 description: A skills-first approach to hiring and advancement is taking hold in the private and public sectors
 id: skills-first-hiring-taking-hold
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

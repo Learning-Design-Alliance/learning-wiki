@@ -3,7 +3,7 @@ type: claim
 title: LLM attack success rates increase consistently from single-turn to static multi-turn and dynamic multi-turn interactions in educational settings
 description: LLM attack success rates increase consistently from single-turn to static multi-turn and dynamic multi-turn interactions in educational settings
 id: asr-increases-dynamic-multi-turn-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

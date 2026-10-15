@@ -3,7 +3,7 @@ type: strategy
 id: teacher-practices-behavior-analysis-independent-decisions-materials
 title: Teacher practices of behavior analysis, encouraging independent decisions, and providing easy-to-use EF materials
 description: "The guidelines direct teachers to plan learning activities by analyzing children's assessment results and context, to encourage children to think and make decisions independently and to encourage them when mistakes oc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

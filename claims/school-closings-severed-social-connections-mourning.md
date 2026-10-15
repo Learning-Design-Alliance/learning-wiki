@@ -3,7 +3,7 @@ type: claim
 title: School closings severed longstanding social connections among families and staff, producing a period of mourning and us-vs-them dynamics
 description: School closings severed longstanding social connections among families and staff, producing a period of mourning and us-vs-them dynamics
 id: school-closings-severed-social-connections-mourning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

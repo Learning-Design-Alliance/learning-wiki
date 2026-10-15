@@ -3,7 +3,7 @@ type: claim
 title: Both teachers and students preferred collaboration to begin when students signaled readiness rather than giving students full control over timing.
 description: Both teachers and students preferred collaboration to begin when students signaled readiness rather than giving students full control over timing.
 id: claim-collab-starts-when-students-ready
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

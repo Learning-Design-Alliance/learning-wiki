@@ -2,7 +2,7 @@
 type: theory
 title: "Theory of change for mobile technology use in the primary classroom: devices, activities and interventions, outcomes, and moderating factors"
 description: The review represents the emerging themes of mobile technology use in the primary classroom as a theory of change (logic model, Figure 1).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

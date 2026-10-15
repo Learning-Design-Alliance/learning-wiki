@@ -3,7 +3,7 @@ type: claim
 title: OpenSciEd materials equitably support student participation and engagement across racial, gender, and linguistic groups, per field-test SEET and teacher-report data
 description: OpenSciEd materials equitably support student participation and engagement across racial, gender, and linguistic groups, per field-test SEET and teacher-report data
 id: openscied-equitable-participation-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

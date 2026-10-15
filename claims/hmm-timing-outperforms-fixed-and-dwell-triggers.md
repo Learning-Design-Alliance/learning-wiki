@@ -3,7 +3,7 @@ type: claim
 title: "In offline validation, the HMM timing model detected children's attention moments more accurately than fixed-interval and dwell-time triggers"
 description: "In offline validation, the HMM timing model detected children's attention moments more accurately than fixed-interval and dwell-time triggers"
 id: hmm-timing-outperforms-fixed-and-dwell-triggers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

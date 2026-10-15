@@ -3,7 +3,7 @@ type: claim
 title: A dynamic model of education, borrowing, and work decisions is used to assess how raising government-sponsored loan limits would affect educational attainment and college entry timing
 description: A dynamic model of education, borrowing, and work decisions is used to assess how raising government-sponsored loan limits would affect educational attainment and college entry timing
 id: dynamic-model-borrowing-constraints-college-entry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

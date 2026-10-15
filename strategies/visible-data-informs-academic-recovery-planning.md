@@ -3,7 +3,7 @@ type: strategy
 id: visible-data-informs-academic-recovery-planning
 title: Use visible assessment data to inform academic recovery planning after COVID-19
 description: "The article recommends making assessment data visible so it can guide recovery work: \"Our goal with this tool is to create visible data that informs academic recovery efforts that will be necessary in the 2022 school..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

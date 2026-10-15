@@ -3,7 +3,7 @@ type: claim
 title: Students reported significantly higher perception of instructor Caring on the MUSIC Inventory in Fall 2025 after DURA course updates
 description: Students reported significantly higher perception of instructor Caring on the MUSIC Inventory in Fall 2025 after DURA course updates
 id: dura-updates-higher-music-caring-perception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

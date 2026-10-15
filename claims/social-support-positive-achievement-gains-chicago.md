@@ -3,7 +3,7 @@ type: claim
 title: "Students' social support is positively related to one-year reading and math achievement gains in Chicago middle grades, controlling for background and school characteristics"
 description: "Students' social support is positively related to one-year reading and math achievement gains in Chicago middle grades, controlling for background and school characteristics"
 id: social-support-positive-achievement-gains-chicago
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

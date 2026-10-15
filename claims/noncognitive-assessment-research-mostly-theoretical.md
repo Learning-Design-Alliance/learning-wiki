@@ -3,7 +3,7 @@ type: claim
 title: Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice
 description: Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice
 id: noncognitive-assessment-research-mostly-theoretical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: Regression discontinuity design framework for estimating intervention effects at a cutoff
 description: The document describes the RD design as a method for obtaining unbiased estimates of education intervention effects when a continuous scoring rule assigns units to treatment or comparison around a pre-set cutoff.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

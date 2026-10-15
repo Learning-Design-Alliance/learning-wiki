@@ -3,7 +3,7 @@ type: design
 id: child-friendly-chatbot-design-considerations
 title: "Three design considerations for a child-friendly educational chatbot: topic focus, age-appropriate context management, and a simple fun interface"
 description: "The authors enumerate three design considerations for AMA: \"(1) to encourage engagement by focusing conversation on specific topics; (2) to respond to children in an age-appropriate and on-topic manner (context manage..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

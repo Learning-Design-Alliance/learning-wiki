@@ -2,7 +2,7 @@
 type: theory
 title: Four types of local school politics in Chicago elementary schools under the 1988 reform
 description: "Drawing on a case-study synthesis, the report identifies four general types of local school politics shaped by the interplay of three sites of power: the Local School Council, the principal, and the faculty."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

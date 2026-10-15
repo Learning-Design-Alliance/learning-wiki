@@ -2,7 +2,7 @@
 type: theory
 title: Three-premises framework for viewing ACE within the national VET system
 description: "The report imposes order on wide-ranging views about ACE's role by working from three premises that form \"the lens or framework through whichwe have written this Report\": ACE is a provider; ACE providers are community..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

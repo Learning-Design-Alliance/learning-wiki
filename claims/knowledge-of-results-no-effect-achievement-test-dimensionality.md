@@ -3,7 +3,7 @@ type: claim
 title: Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality
 description: Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality
 id: knowledge-of-results-no-effect-achievement-test-dimensionality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

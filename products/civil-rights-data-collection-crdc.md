@@ -4,7 +4,7 @@ id: civil-rights-data-collection-crdc
 title: Civil Rights Data Collection (CRDC)
 description: A biennial school- and district-level dataset collected and maintained by the U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

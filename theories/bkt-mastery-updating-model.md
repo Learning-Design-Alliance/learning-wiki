@@ -2,7 +2,7 @@
 type: theory
 title: Bayesian Knowledge Tracing as a model of changing skill mastery during game-based assessment
 description: "BKT models students' changing knowledge states during practice by updating, after each response, the probability that a skill is mastered."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

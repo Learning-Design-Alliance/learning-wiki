@@ -3,7 +3,7 @@ type: strategy
 id: transparent-disclosed-soft-barrier-deployment
 title: "Deploy soft barriers transparently: institutional approval, policy-level disclosure, and accessibility testing"
 description: "The paper's responsible-use recommendations state that deployments of Unicode barriers should be institutionally approved and tested for accessibility, since zero-width characters can affect screen readers, and that \"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Embodied teaching actions are spatially accurate across models, but temporal action–speech alignment remains more variable
 description: Embodied teaching actions are spatially accurate across models, but temporal action–speech alignment remains more variable
 id: lecturaagents-taq-spatial-strong-temporal-variable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

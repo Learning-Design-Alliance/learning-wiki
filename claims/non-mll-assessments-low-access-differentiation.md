@@ -3,7 +3,7 @@ type: claim
 title: Assessments not designed for MLLs fail to differentiate ELA skills for students with very low ACCESS scores but align strongly at moderate-to-high ACCESS scores
 description: Assessments not designed for MLLs fail to differentiate ELA skills for students with very low ACCESS scores but align strongly at moderate-to-high ACCESS scores
 id: non-mll-assessments-low-access-differentiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

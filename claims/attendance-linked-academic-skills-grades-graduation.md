@@ -3,7 +3,7 @@ type: claim
 title: Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones
 description: Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones
 id: attendance-linked-academic-skills-grades-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

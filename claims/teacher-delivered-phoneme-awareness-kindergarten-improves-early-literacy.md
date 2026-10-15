@@ -3,7 +3,7 @@ type: claim
 title: "An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling"
 description: "An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling"
 id: teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

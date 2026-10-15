@@ -3,7 +3,7 @@ type: design
 id: oakland-international-learning-lab-educator-pipeline
 title: "Learning Lab: educator pipeline and dissemination initiative for newcomer education"
 description: "Opened in 2017 in partnership with the Reach Institute, the Learning Lab builds educator capacity for newcomer education through \"school site visits, professional development workshops, and research projects.\" It also..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

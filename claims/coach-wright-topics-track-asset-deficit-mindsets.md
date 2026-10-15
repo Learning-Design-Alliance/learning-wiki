@@ -3,7 +3,7 @@ type: claim
 title: "In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actual strengths"
 description: "In Coach Wright, Asset-mindset participants noticed Jeremy's positive behaviors while Deficit-mindset participants framed behavior as rule compliance, and strength language sometimes appeared without referencing actua..."
 id: coach-wright-topics-track-asset-deficit-mindsets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

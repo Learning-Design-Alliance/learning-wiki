@@ -3,7 +3,7 @@ type: claim
 title: About 18 percent of elementary school faculties are highly engaged, with another 33 percent moderately active
 description: About 18 percent of elementary school faculties are highly engaged, with another 33 percent moderately active
 id: faculty-collective-action-18-percent-highly-engaged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

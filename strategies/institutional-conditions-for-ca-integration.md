@@ -3,7 +3,7 @@ type: strategy
 id: institutional-conditions-for-ca-integration
 title: Establish clear roles, advisory units, training, and discussion spaces to support CA-based continuous improvement
 description: "The study identifies essential institutional conditions for successful CA integration: clear roles and responsibilities; interdisciplinary collaboration among faculty, administrators, and developers; and advisory unit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

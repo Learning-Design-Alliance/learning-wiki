@@ -3,7 +3,7 @@ type: claim
 title: Many current GenAI applications in STEM education conflate learning with performance and feedback, neglecting active, reflective, and embodied learning processes
 description: Many current GenAI applications in STEM education conflate learning with performance and feedback, neglecting active, reflective, and embodied learning processes
 id: genai-conflates-learning-with-performance-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

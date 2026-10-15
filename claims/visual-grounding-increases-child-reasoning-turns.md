@@ -3,7 +3,7 @@ type: claim
 title: "Visual grounding in ParaTutor increased children's reasoning turns during math word problem tutoring compared to conventional and general LLM conditions"
 description: "Visual grounding in ParaTutor increased children's reasoning turns during math word problem tutoring compared to conventional and general LLM conditions"
 id: visual-grounding-increases-child-reasoning-turns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

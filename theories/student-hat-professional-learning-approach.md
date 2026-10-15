@@ -2,7 +2,7 @@
 type: theory
 title: "The student hat: a practice-based professional learning approach building epistemic empathy with student experiences"
 description: "The student hat is a professional learning approach in which teachers engage in curriculum activities as they believe their students would, attending to students' ideas, experiences, interests, and cognitive and affec..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: ten-times-two-looking-activity
 title: Use the Ten Times Two routine to build observational vocabulary before data analysis
 description: "Ten Times Two is a quiet observation routine: students look at an image for at least 30 seconds, list ten words or phrases about any aspect of the picture, then repeat the look-and-list cycle to add ten more."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

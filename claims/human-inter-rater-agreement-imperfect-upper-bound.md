@@ -3,7 +3,7 @@ type: claim
 title: "Human inter-rater agreement on the writing rubric is imperfect: no rubric item reaches full agreement and the most discrepant rater generally falls below 80%"
 description: "Human inter-rater agreement on the writing rubric is imperfect: no rubric item reaches full agreement and the most discrepant rater generally falls below 80%"
 id: human-inter-rater-agreement-imperfect-upper-bound
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

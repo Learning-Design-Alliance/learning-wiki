@@ -3,7 +3,7 @@ type: element
 id: heising-simons-family-engagement-early-math-programs
 title: Five Heising-Simons Foundation-funded family engagement programs integrating early math
 description: "The brief describes five family engagement programs funded by the Heising-Simons Foundation that each \"developed, tested, and integrated early math learning into their usual activities\" in unique ways."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

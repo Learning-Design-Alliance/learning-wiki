@@ -3,7 +3,7 @@ type: strategy
 id: auto-translated-two-way-family-messaging
 title: Use universally designed auto-translated two-way messaging so families need only basic text messaging
 description: "The strategy is to communicate with families through two-way messaging automatically translated into families' preferred languages, so that engagement does not depend on smartphones, shared languages, or extra staff t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

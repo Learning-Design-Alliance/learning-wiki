@@ -2,7 +2,7 @@
 type: theory
 title: "BICS/CALP distinction: conversational and academic language proficiency as conceptually distinct dimensions with different developmental patterns"
 description: The BICS/CALP distinction separates basic interpersonal communicative skills (conversational language) from cognitive academic language proficiency.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

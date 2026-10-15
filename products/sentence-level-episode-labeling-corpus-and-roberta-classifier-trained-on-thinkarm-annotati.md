@@ -4,7 +4,7 @@ id: sentence-level-episode-labeling-corpus-and-roberta-classifier-trained-on-thi
 title: Sentence-level episode-labeling corpus and RoBERTa classifier trained on ThinkARM annotations
 description: A sentence-level corpus of ThinkARM-annotated Omni-MATH reasoning traces with a RoBERTa classifier for automatically labeling problem-solving episodes, developed by Chenguang Wang et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

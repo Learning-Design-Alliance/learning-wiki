@@ -3,7 +3,7 @@ type: claim
 title: "Perceived AI-adaptive learning environments are negatively associated with college students' self-regulated learning in a three-wave longitudinal survey"
 description: "Perceived AI-adaptive learning environments are negatively associated with college students' self-regulated learning in a three-wave longitudinal survey"
 id: ai-adaptive-environment-negative-srl-longitudinal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

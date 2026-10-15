@@ -3,7 +3,7 @@ type: claim
 title: Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort
 description: Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort
 id: male-female-gap-conclusions-sensitive-to-test-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

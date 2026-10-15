@@ -3,7 +3,7 @@ type: claim
 title: Payne argues that color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race
 description: Color-blind ideology in schools precludes discussion of how outcomes and privilege are distributed by race
 id: colorblindness-blocks-distribution-discussion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

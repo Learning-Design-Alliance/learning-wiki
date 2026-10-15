@@ -3,7 +3,7 @@ type: claim
 title: Students aware of the GenAI feedback source reported no attitude change, while unaware students varied between content-focused acceptance and conditional willingness to reconsider
 description: Students aware of the GenAI feedback source reported no attitude change, while unaware students varied between content-focused acceptance and conditional willingness to reconsider
 id: feedback-source-awareness-attitude-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

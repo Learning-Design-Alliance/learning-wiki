@@ -2,7 +2,7 @@
 type: theory
 title: "Earth Science logical reasoning framework: logical inference, hermeneutics, and historical method"
 description: The article adopts a three-part framework of Earth Science methodology as an analytic tool for coding curriculum inquiry tasks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

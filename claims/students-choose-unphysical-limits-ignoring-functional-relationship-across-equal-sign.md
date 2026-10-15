@@ -3,7 +3,7 @@ type: claim
 title: Students using the limits method initially choose unphysical integration limits, failing to consider the functional relationship between limits on either side of the equal sign
 description: Students using the limits method initially choose unphysical integration limits, failing to consider the functional relationship between limits on either side of the equal sign
 id: students-choose-unphysical-limits-ignoring-functional-relationship-across-equal-sign
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

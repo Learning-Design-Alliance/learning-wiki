@@ -3,7 +3,7 @@ type: claim
 title: The evaluation used a three-class design contrasting a traditional-approach control class with two experimental classes using digital content and a chatbot-based method
 description: The evaluation used a three-class design contrasting a traditional-approach control class with two experimental classes using digital content and a chatbot-based method
 id: three-class-chatbot-evaluation-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

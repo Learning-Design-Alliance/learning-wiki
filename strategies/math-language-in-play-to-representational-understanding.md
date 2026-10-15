@@ -3,7 +3,7 @@ type: strategy
 id: math-language-in-play-to-representational-understanding
 title: Use mathematical language during play interactions and everyday routines to move children from behavioral to representational understanding
 description: "The article recommends that teachers embed mathematical language in everyday interactions — daily discussions of opposites and order, open-ended questions like \"What else?\" and \"I wonder what would happen if,\" and con..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: All types of regulation can be explicitly taught and improved with time, effort, and effective feedback
 description: All types of regulation can be explicitly taught and improved with time, effort, and effective feedback
 id: regulation-skills-can-be-taught
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

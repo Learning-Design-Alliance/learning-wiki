@@ -3,7 +3,7 @@ type: claim
 title: AI assistance sped up only difficult tasks and only a few individual tasks, not easy ones
 description: AI assistance sped up only difficult tasks and only a few individual tasks, not easy ones
 id: ai-speedup-limited-to-difficult-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

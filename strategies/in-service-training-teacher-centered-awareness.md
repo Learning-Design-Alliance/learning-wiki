@@ -3,7 +3,7 @@ type: strategy
 id: in-service-training-teacher-centered-awareness
 title: Use in-service training to raise teacher awareness of lingering teacher-centered styles
 description: "Based on the finding that about 21% of teachers still hold teacher-centered expert or formal authority styles eleven years after the constructivist reform, the author recommends that professional development address t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

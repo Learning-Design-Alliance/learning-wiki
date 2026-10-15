@@ -3,7 +3,7 @@ type: strategy
 id: sociocultural-teacher-preparation-gifted
 title: Prepare novice teachers of the gifted in the sociocultural context of the gifted classroom
 description: "The essay argues that novice teachers of the gifted must be educated to recognize the needs and nature of the social and cultural setting they enter, including the gifted classroom's cultural rules for dialogue, demon..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

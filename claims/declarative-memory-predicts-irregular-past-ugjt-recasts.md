@@ -3,7 +3,7 @@ type: claim
 title: Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts
 description: Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts
 id: declarative-memory-predicts-irregular-past-ugjt-recasts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

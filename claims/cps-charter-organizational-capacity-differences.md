@@ -3,7 +3,7 @@ type: claim
 title: "Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis"
 description: "Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: mor..."
 id: cps-charter-organizational-capacity-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: kauffman-firm-survey
 title: Kauffman Firm Survey
 description: A panel dataset sponsored by the Ewing Marion Kauffman Foundation and conducted by Mathematica Policy Research that tracks U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

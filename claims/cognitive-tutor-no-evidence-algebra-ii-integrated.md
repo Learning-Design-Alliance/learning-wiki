@@ -3,7 +3,7 @@ type: claim
 title: No studies of Cognitive Tutor® Algebra II or Integrated Math I–III meet WWC standards, so the report makes no effectiveness findings for those courses
 description: No studies of Cognitive Tutor® Algebra II or Integrated Math I–III meet WWC standards, so the report makes no effectiveness findings for those courses
 id: cognitive-tutor-no-evidence-algebra-ii-integrated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

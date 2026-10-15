@@ -3,7 +3,7 @@ type: claim
 title: "Race-specific value-added scores predict teachers' subsequent effects: Black students taught by a teacher with high prior effectiveness for Black students show gains of about one standard deviation when the teacher moves schools or grades"
 description: "Race-specific value-added scores predict teachers' subsequent effects: Black students taught by a teacher with high prior effectiveness for Black students show gains of about one standard deviation when the teacher mo..."
 id: race-specific-value-add-predicts-subsequent-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

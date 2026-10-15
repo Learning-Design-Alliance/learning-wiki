@@ -2,7 +2,7 @@
 type: theory
 title: "Two-dimensional advocacy framework: four sites of advocacy crossed with tactical versus strategic action"
 description: "The study's conceptual framework combines Athanases and deOliveira's (2008) categorization of advocacy sites — classroom, school, families and community, and larger sociopolitical structures, depicted as nested circle..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

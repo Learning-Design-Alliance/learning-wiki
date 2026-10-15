@@ -3,7 +3,7 @@ type: claim
 title: Review reports naturalization catalyzes social and political integration (Swiss longitudinal study)
 description: Review reports naturalization catalyzes social and political integration (Swiss longitudinal study)
 id: naturalization-catalyzes-integration-switzerland
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

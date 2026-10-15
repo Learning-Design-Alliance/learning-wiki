@@ -3,7 +3,7 @@ type: claim
 title: Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown
 description: Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown
 id: dutch-lockdown-learning-loss-3-percentile-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

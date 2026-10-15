@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design
 description: ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design
 id: chatgpt-steam-ibl-teaching-process-advantages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

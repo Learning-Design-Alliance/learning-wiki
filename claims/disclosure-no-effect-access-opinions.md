@@ -3,7 +3,7 @@ type: claim
 title: Detailed disclosure does not make students more conservative about who should have access to their educational data
 description: Detailed disclosure does not make students more conservative about who should have access to their educational data
 id: disclosure-no-effect-access-opinions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

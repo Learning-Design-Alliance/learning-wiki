@@ -3,7 +3,7 @@ type: claim
 title: Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content
 description: Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content
 id: training-transfer-as-adaptive-reconstruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

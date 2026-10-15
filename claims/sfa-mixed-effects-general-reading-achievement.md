@@ -3,7 +3,7 @@ type: claim
 title: SFA® shows mixed effects on general reading achievement for beginning readers
 description: SFA® shows mixed effects on general reading achievement for beginning readers
 id: sfa-mixed-effects-general-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

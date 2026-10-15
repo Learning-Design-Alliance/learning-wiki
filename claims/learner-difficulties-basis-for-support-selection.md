@@ -3,7 +3,7 @@ type: claim
 title: "Identifying learners' difficulties with visual displays is an important basis for selecting appropriate support procedures"
 description: "Identifying learners' difficulties with visual displays is an important basis for selecting appropriate support procedures"
 id: learner-difficulties-basis-for-support-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Content knowledge and pedagogical knowledge dissociate in frontier LLMs; Claude-Opus-4.5 shows a 19.8 percentage point gap (66.3% content vs. 86.1% pedagogical)"
 description: "Content knowledge and pedagogical knowledge dissociate in frontier LLMs; Claude-Opus-4.5 shows a 19.8 percentage point gap (66.3% content vs."
 id: content-pedagogical-knowledge-dissociation-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

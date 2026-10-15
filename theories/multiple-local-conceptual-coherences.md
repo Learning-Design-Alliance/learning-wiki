@@ -2,7 +2,7 @@
 type: theory
 title: "Multiple local conceptual coherences: student understanding as locally stable patterns requiring stability explanations"
 description: The framework holds that student understanding and behavior are variable yet exhibit stabilities local to moments and settings.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

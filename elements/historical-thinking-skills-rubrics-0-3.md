@@ -3,7 +3,7 @@ type: element
 id: historical-thinking-skills-rubrics-0-3
 title: Four-level (0-3) Historical Thinking Skills rubrics for scoring teacher activities and student work
 description: "Digital Promise developed two sets of rubrics: one to evaluate the potential of teacher-assigned activities to provide opportunities to learn historical thinking skills, and one to assess the extent to which students..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

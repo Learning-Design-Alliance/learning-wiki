@@ -3,7 +3,7 @@ type: claim
 title: The genAI-enabled patient presented pertinent positive findings consistently with the ePBLM but deviated on non-essential content
 description: The genAI-enabled patient presented pertinent positive findings consistently with the ePBLM but deviated on non-essential content
 id: genai-accurate-pertinent-findings-nonessential-deviations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

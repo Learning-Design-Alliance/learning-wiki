@@ -3,7 +3,7 @@ type: claim
 title: Children in the intervention group initiated a higher proportion of science-related conversations before and after episode viewing, while concept understanding differences were not detected between groups
 description: Children in the intervention group initiated a higher proportion of science-related conversations before and after episode viewing, while concept understanding differences were not detected between groups
 id: intervention-children-more-science-conversation-initiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

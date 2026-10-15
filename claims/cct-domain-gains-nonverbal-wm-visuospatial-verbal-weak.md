@@ -3,7 +3,7 @@ type: claim
 title: CCT yields small significant gains in nonverbal memory, working memory, and visuospatial skills, but only weak evidence for verbal memory
 description: CCT yields small significant gains in nonverbal memory, working memory, and visuospatial skills, but only weak evidence for verbal memory
 id: cct-domain-gains-nonverbal-wm-visuospatial-verbal-weak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: design
 id: thinking-math-curriculum-design-pattern
 title: Curriculum design combining learning progressions, CPA model, and spaced/interleaved practice
 description: "The curriculum is \"built around research-based learning progressions, a Concrete-Pictorial-Abstract model, and rich mathematical activities designed to connect concepts, interleave and space practice for long-term ret..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

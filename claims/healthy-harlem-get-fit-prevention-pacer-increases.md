@@ -3,7 +3,7 @@ type: claim
 title: Overweight or obese students who participated in Get Fit and Prevention had large and statistically significant increases in PACER laps two and three years later
 description: Overweight or obese students who participated in Get Fit and Prevention had large and statistically significant increases in PACER laps two and three years later
 id: healthy-harlem-get-fit-prevention-pacer-increases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

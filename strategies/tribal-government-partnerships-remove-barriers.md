@@ -3,7 +3,7 @@ type: strategy
 id: tribal-government-partnerships-remove-barriers
 title: Partner with tribal governments to remove attendance barriers through staff expertise, transportation, and health and social services
 description: The brief identifies tribal governments as essential partners for addressing attendance challenges.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

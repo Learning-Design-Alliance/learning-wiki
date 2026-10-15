@@ -3,7 +3,7 @@ type: claim
 title: Bayesian GLASSO shows good coverage of uncertainty for strength and closeness centrality, but uncertainty in betweenness centrality is estimated less well
 description: Bayesian GLASSO shows good coverage of uncertainty for strength and closeness centrality, but uncertainty in betweenness centrality is estimated less well
 id: bayesian-glasso-coverage-strength-closeness-not-betweenness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

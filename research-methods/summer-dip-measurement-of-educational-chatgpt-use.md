@@ -3,7 +3,7 @@ type: research-method
 id: summer-dip-measurement-of-educational-chatgpt-use
 title: Summer-dip measurement of educational ChatGPT use
 description: "A measurement strategy that infers the share of an area's ChatGPT activity tied to school from the ratio of average activity while school is in session to average activity in the summer."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

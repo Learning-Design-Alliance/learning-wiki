@@ -4,7 +4,7 @@ id: feip
 title: FEIP
 description: "A Heising-Simons Foundation-funded public-private partnership that builds parents' and professionals' capacity for family engagement and promotes educational outcomes for low-income immigrant children from birth through age 8 in California's San Mateo and Santa Clara counties."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

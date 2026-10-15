@@ -3,7 +3,7 @@ type: claim
 title: "Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size"
 description: "Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size"
 id: aida-hands-on-use-improves-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

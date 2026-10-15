@@ -3,7 +3,7 @@ type: design
 id: fabric-prototype-four-educational-smart-contracts
 title: Hyperledger Fabric prototype with four educational smart contracts
 description: A working prototype built on Hyperledger Fabric with 4 peer nodes belonging to four different institutions.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

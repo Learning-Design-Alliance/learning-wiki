@@ -3,7 +3,7 @@ type: claim
 title: Heterogeneous learning curves across practitioners create organizational challenges including perceived unfairness
 description: Heterogeneous learning curves across practitioners create organizational challenges including perceived unfairness
 id: learning-curve-heterogeneity-matthew-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

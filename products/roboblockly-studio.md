@@ -4,7 +4,7 @@ id: roboblockly-studio
 title: RoboBlockly Studio
 description: A web-based programming-learning platform developed by Leyi Li et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

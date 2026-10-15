@@ -3,7 +3,7 @@ type: claim
 title: "LiPS has potentially negative effects on writing: comparison students significantly outperformed LiPS students on the KTEA Spelling subtest"
 description: "LiPS has potentially negative effects on writing: comparison students significantly outperformed LiPS students on the KTEA Spelling subtest"
 id: lips-potentially-negative-writing-spelling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

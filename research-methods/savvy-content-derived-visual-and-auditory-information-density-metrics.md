@@ -3,7 +3,7 @@ type: research-method
 id: savvy-content-derived-visual-and-auditory-information-density-metrics
 title: SAVVY content-derived visual and auditory information density metrics
 description: Grounded in the Limited Capacity Model of Motivated Mediated Message Processing (LC4MP), SAVVY quantifies information density of both visual and auditory channels per slide-transition-induced event segment.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

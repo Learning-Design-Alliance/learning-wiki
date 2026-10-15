@@ -3,7 +3,7 @@ type: strategy
 id: three-step-proprietary-llm-carbon-estimation
 title: Three-step procedure for estimating computational cost and CO2 of proprietary LLMs with unknown parameters
 description: "For proprietary models where CodeCarbon cannot be used and parameter counts are unknown, the article recommends: (1) sum context and output tokens, which most inference APIs readily report; (2) estimate active paramet..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

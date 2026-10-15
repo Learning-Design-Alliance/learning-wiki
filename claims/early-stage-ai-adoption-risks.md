@@ -3,7 +3,7 @@ type: claim
 title: Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice
 description: Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice
 id: early-stage-ai-adoption-risks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

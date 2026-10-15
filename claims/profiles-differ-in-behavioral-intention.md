@@ -3,7 +3,7 @@ type: claim
 title: The four acceptance profiles differ substantially in behavioral intention to use ChatGPT
 description: The four acceptance profiles differ substantially in behavioral intention to use ChatGPT
 id: profiles-differ-in-behavioral-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

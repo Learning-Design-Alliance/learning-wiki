@@ -4,7 +4,7 @@ id: scratch
 title: Scratch
 description: Scratch is an MIT Media Lab-developed block-based programming language and online sharing ecosystem in which learners create, remix, debug, and share interactive projects.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

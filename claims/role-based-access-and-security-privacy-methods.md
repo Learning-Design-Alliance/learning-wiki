@@ -3,7 +3,7 @@ type: claim
 title: The institution maintained privacy primarily through role-based access limiting data by user role and through technological security protocols such as single sign-on and encryption
 description: The institution maintained privacy primarily through role-based access limiting data by user role and through technological security protocols such as single sign-on and encryption
 id: role-based-access-and-security-privacy-methods
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions
 description: School culture changes during turnaround coincided with suspension rates falling from roughly one in four students suspended per year to zero suspensions
 id: perry-street-suspension-reduction-culture-turnaround
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

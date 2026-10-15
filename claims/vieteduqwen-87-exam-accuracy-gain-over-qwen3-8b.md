@@ -3,7 +3,7 @@ type: claim
 title: "VietEduQwen achieves 87.02% accuracy on the 2025 Vietnamese National High School Examination, a 6.10-percentage-point gain over the base Qwen3-8B model"
 description: "VietEduQwen achieves 87.02% accuracy on the 2025 Vietnamese National High School Examination, a 6.10-percentage-point gain over the base Qwen3-8B model"
 id: vieteduqwen-87-exam-accuracy-gain-over-qwen3-8b
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

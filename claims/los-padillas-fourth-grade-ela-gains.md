@@ -3,7 +3,7 @@ type: claim
 title: "The Los Padillas 4th-grade cohort improved markedly in ELA from 3rd to 4th grade (13% to 34% proficient) and outperformed APS community school peers"
 description: "The Los Padillas 4th-grade cohort improved markedly in ELA from 3rd to 4th grade (13% to 34% proficient) and outperformed APS community school peers"
 id: los-padillas-fourth-grade-ela-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: A formative evaluation of the ELTM was conducted in two preschool child development centers serving six classes of children ages 3 to 5
 description: A formative evaluation of the ELTM was conducted in two preschool child development centers serving six classes of children ages 3 to 5
 id: milpitas-eltm-formative-evaluation-scope
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

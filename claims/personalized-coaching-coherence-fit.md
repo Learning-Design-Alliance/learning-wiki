@@ -3,7 +3,7 @@ type: claim
 title: "Coaching is more effective when support is personalized to teachers' needs and classroom contexts"
 description: "Coaching is more effective when support is personalized to teachers' needs and classroom contexts"
 id: personalized-coaching-coherence-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

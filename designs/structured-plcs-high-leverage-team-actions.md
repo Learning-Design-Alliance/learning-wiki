@@ -3,7 +3,7 @@ type: design
 id: structured-plcs-high-leverage-team-actions
 title: Structuring PLCs with clear purpose and collaborative-work frameworks (High-Leverage Team Actions)
 description: Because PLCs without clarity of purpose may drift toward undirected planning or devolve into coffee chats, MiC districts organized PLCs more intentionally over time.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

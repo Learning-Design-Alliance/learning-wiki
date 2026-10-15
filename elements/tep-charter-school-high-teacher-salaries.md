@@ -3,7 +3,7 @@ type: element
 id: tep-charter-school-high-teacher-salaries
 title: The Equity Project (TEP) Charter School teacher-compensation model
 description: "The Equity Project Charter School is a New York City charter school whose distinguishing feature, as named in the brief's title, is \"High Salaries for Teachers\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

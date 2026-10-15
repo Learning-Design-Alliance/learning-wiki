@@ -3,7 +3,7 @@ type: claim
 title: Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy
 description: Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy
 id: oer-diffusion-strategy-implementation-self-reports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

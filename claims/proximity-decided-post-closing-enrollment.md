@@ -3,7 +3,7 @@ type: claim
 title: "After school closings, proximity to home was the deciding factor in families' enrollment choices, outweighing school ratings"
 description: "After school closings, proximity to home was the deciding factor in families' enrollment choices, outweighing school ratings"
 id: proximity-decided-post-closing-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

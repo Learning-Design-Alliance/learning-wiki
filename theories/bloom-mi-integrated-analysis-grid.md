@@ -2,7 +2,7 @@
 type: theory
 title: Integrated Bloom-MI grid as a two-perspective textbook analysis framework
 description: "The article uses a planning and analysis grid that crosses Bloom's six levels of cognitive learning objectives (knowledge through evaluation) with Gardner's eight intelligences, so that materials can be coded for both..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

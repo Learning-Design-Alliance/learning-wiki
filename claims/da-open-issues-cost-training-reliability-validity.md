@@ -3,7 +3,7 @@ type: claim
 title: Open issues for dynamic assessment include cost-effectiveness, training, reliability and validity, and generalization
 description: Open issues for dynamic assessment include cost-effectiveness, training, reliability and validity, and generalization
 id: da-open-issues-cost-training-reliability-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

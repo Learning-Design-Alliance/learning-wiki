@@ -3,7 +3,7 @@ type: claim
 title: "AI-assisted teams have a higher probability of producing top-5%-FWCI publications than human-written teams"
 description: "AI-assisted teams have a higher probability of producing top-5%-FWCI publications than human-written teams"
 id: ai-assisted-teams-higher-top-5-fwci
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

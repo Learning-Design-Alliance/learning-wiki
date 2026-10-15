@@ -3,7 +3,7 @@ type: element
 id: four-elementary-math-curricula-evaluation-set
 title: Four elementary school math curricula compared in the evaluation
 description: "The evaluation compares four distinct elementary school math curricula named by the article: \"Investigations in Number, Data, and Space®; Math Expressions; Saxon Math™; and Scott Foresman-Addison Wesley Mathematics (S..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

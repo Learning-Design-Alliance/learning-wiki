@@ -3,7 +3,7 @@ type: claim
 title: ANN analysis identifies AI learning self-efficacy and perceived usefulness as the strongest and most stable predictors of AI learning anxiety, with only modest advantage over linear benchmarks
 description: ANN analysis identifies AI learning self-efficacy and perceived usefulness as the strongest and most stable predictors of AI learning anxiety, with only modest advantage over linear benchmarks
 id: ann-appraisals-strongest-anxiety-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

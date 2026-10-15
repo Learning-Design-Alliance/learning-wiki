@@ -4,7 +4,7 @@ id: 38-item-genai-motivation-and-engagement-survey-instrument-nine-constructs
 title: 38-item GenAI motivation and engagement survey instrument (nine constructs)
 description: A 38-item, five-point Likert survey developed by Ahmed et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

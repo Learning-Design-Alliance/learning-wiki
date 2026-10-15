@@ -3,7 +3,7 @@ type: claim
 title: "Strategy perseveration: prior offloading experience biases later offloading choices"
 description: "Strategy perseveration: prior offloading experience biases later offloading choices"
 id: strategy-perseveration-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

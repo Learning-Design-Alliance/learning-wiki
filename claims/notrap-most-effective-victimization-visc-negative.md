@@ -3,7 +3,7 @@ type: claim
 title: "NoTrap! was the most effective program for reducing bullying victimization, while ViSC and fairplayer.manual showed non-significant negative effects"
 description: "NoTrap!"
 id: notrap-most-effective-victimization-visc-negative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

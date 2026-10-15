@@ -3,7 +3,7 @@ type: claim
 title: College readiness is best understood as a property of interactions between students and the college context, not only individual skills
 description: College readiness is best understood as a property of interactions between students and the college context, not only individual skills
 id: college-readiness-as-student-college-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: boundary-cues-and-peer-modeling-for-genai-use
 title: Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use
 description: This strategy operationalizes the contextual-support construct the article identifies as the environmental antecedent of trust calibration and collaborative regulation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

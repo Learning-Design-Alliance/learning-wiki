@@ -3,7 +3,7 @@ type: claim
 title: "In a Chicago quasi-experiment, Earobics®'s overall effect was not significant, but the CTOPP Sound Matching subtest showed a significant positive effect"
 description: "In a Chicago quasi-experiment, Earobics®'s overall effect was not significant, but the CTOPP Sound Matching subtest showed a significant positive effect"
 id: earobics-valliath-2002-sound-matching-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

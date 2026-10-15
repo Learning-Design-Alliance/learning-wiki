@@ -3,7 +3,7 @@ type: claim
 title: The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased
 description: The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased
 id: rothstein-test-rejects-vams-without-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

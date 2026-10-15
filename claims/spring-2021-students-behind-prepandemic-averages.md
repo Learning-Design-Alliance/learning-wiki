@@ -3,7 +3,7 @@ type: claim
 title: By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading
 description: By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading
 id: spring-2021-students-behind-prepandemic-averages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

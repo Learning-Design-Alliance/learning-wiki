@@ -3,7 +3,7 @@ type: claim
 title: Charter students receiving special education services show smaller learning gains than matched traditional public school peers
 description: Charter students receiving special education services show smaller learning gains than matched traditional public school peers
 id: charter-special-education-smaller-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

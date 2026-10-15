@@ -3,7 +3,7 @@ type: claim
 title: "Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument"
 description: "Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument"
 id: nonassessment-unacceptable-alternative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: The three system architectures differ sharply in computational cost, with MAS-CMD trading the highest rubric scores for the greatest latency and token usage
 description: The three system architectures differ sharply in computational cost, with MAS-CMD trading the highest rubric scores for the greatest latency and token usage
 id: quality-efficiency-tradeoff-mas-architectures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

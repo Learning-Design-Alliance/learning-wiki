@@ -3,7 +3,7 @@ type: product
 id: tool-2-auditing-your-data-collection-for-indicators-of-distress
 title: "Tool #2: Auditing Your Data Collection for Indicators of Distress"
 description: A structured worksheet for school authorizers to audit how they collect data on indicators of school distress and identify gaps in those processes.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

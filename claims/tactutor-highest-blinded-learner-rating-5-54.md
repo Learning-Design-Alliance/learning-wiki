@@ -3,7 +3,7 @@ type: claim
 title: In a blinded study with 50 learners, TACTutor receives the highest overall mean rating (5.54/7) and is rated above its backbone across all four teaching-behavior dimensions (+0.39 overall)
 description: In a blinded study with 50 learners, TACTutor receives the highest overall mean rating (5.54/7) and is rated above its backbone across all four teaching-behavior dimensions (+0.39 overall)
 id: tactutor-highest-blinded-learner-rating-5-54
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

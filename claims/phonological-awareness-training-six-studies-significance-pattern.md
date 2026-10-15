@@ -3,7 +3,7 @@ type: claim
 title: Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing
 description: Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing
 id: phonological-awareness-training-six-studies-significance-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

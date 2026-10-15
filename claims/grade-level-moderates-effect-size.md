@@ -3,7 +3,7 @@ type: claim
 title: Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects
 description: Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects
 id: grade-level-moderates-effect-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

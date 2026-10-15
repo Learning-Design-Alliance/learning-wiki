@@ -4,7 +4,7 @@ title: Secondary students who received more LLI or were pulled out of other clas
 description: Secondary students who received more LLI or were pulled out of other classes were particularly negatively affected, possibly from missing grade-level content
 id: lli-more-dosage-pullout-negatively-affected
 aliases: [lli-pull-out-students-particularly-negatively-affected]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: GPAs were very similar for students who did and did not enter CPS as ELs, with a reading-grade gap that closed by seventh grade and similar Freshman OnTrack rates
 description: GPAs were very similar for students who did and did not enter CPS as ELs, with a reading-grade gap that closed by seventh grade and similar Freshman OnTrack rates
 id: el-gpas-reading-grades-ontrack-similar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

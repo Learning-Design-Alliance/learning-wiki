@@ -3,7 +3,7 @@ type: claim
 title: A low-intensity telehealth problem-solving intervention delivered by trained diabetes educators, nurses and dietitians reduced mild to moderate diabetes distress more than usual care (LISTEN trial)
 description: A low-intensity telehealth problem-solving intervention delivered by trained diabetes educators, nurses and dietitians reduced mild to moderate diabetes distress more than usual care (LISTEN trial)
 id: listen-trial-nonpsychologist-delivery-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

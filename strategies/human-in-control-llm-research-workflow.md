@@ -3,7 +3,7 @@ type: strategy
 id: human-in-control-llm-research-workflow
 title: Use structured, human-in-the-loop prompting governance (such as NLD-P) with systematic human review to preserve authorship boundaries in AI-assisted research
 description: "The article discloses a human–AI collaborative methodology in which LLMs served only as assistive tools under \"a human-in-the-loop, human-in-control, and human-as-final-author model of collaboration.\" Prompts were for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

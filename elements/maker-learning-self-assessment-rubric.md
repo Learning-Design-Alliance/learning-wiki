@@ -3,7 +3,7 @@ type: element
 id: maker-learning-self-assessment-rubric
 title: Maker Learning Self-assessment Rubric
 description: "A self-evaluation instrument (Appendix B) that maker champions used to rate their district's maker learning program in six categories: Faculty and Staff Support; Administration Support; Resources and Budget; Tools, Ma..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

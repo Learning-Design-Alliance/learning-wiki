@@ -3,7 +3,7 @@ type: claim
 title: In informal social scenes, AgentSchool generates plausible traces of peripheral participation, clique formation, aggressor-induced cohesion, and opinion-leader emergence consistent with classroom social theories
 description: In informal social scenes, AgentSchool generates plausible traces of peripheral participation, clique formation, aggressor-induced cohesion, and opinion-leader emergence consistent with classroom social theories
 id: informal-social-scenes-emergent-traces
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

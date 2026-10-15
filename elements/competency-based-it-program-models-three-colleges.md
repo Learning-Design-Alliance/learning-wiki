@@ -3,7 +3,7 @@ type: element
 id: competency-based-it-program-models-three-colleges
 title: Competency-based information technology program models in three community colleges
 description: The element is the set of competency-based information technology program models implemented by three community colleges under a consortium led by Sinclair Community College.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

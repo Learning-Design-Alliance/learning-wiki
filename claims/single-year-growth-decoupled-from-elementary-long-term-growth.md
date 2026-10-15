@@ -3,7 +3,7 @@ type: claim
 title: School contributions to within-year (single-year fall-to-spring) growth correlate at roughly .10 or below with school contributions to growth across elementary school (grades 2–6)
 description: School contributions to within-year (single-year fall-to-spring) growth correlate at roughly .10 or below with school contributions to growth across elementary school (grades 2–6)
 id: single-year-growth-decoupled-from-elementary-long-term-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

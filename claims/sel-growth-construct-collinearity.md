@@ -3,7 +3,7 @@ type: claim
 title: Self-management and self-efficacy show highly collinear growth during middle school, with slopes correlated .95 and intercepts .74
 description: Self-management and self-efficacy show highly collinear growth during middle school, with slopes correlated .95 and intercepts .74
 id: sel-growth-construct-collinearity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

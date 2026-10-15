@@ -3,7 +3,7 @@ type: strategy
 id: generative-ai-skills-capabilities-research-agenda
 title: "Research agenda for generative AI in teaching and learning: identify needed skills, resources and capabilities"
 description: Across the expert contributions the article identifies questions for further research in three thematic areas, including teaching, learning, and scholarly research.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

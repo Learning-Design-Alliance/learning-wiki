@@ -4,7 +4,7 @@ id: colale
 title: CoLaLe
 description: A prototype mobile app developed to support German and Thai vocabulary learning through context-linked flashcards and geo-fence-triggered learning sessions.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

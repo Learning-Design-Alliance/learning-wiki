@@ -3,7 +3,7 @@ type: claim
 title: First-generation students asked fewer questions overall than continuing-generation students in both sessions
 description: First-generation students asked fewer questions overall than continuing-generation students in both sessions
 id: first-generation-students-ask-fewer-ai-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

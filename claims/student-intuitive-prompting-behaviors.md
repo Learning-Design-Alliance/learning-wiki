@@ -3,7 +3,7 @@ type: claim
 title: Non-expert students exhibit intuitive behaviors towards LLM-based AI systems when prompt engineering
 description: Non-expert students exhibit intuitive behaviors towards LLM-based AI systems when prompt engineering
 id: student-intuitive-prompting-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

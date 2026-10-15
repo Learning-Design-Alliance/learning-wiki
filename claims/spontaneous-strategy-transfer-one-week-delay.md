@@ -3,7 +3,7 @@ type: claim
 title: Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions
 description: Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions
 id: spontaneous-strategy-transfer-one-week-delay
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

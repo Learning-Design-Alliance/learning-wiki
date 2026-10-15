@@ -3,7 +3,7 @@ type: claim
 title: "LLM scoring performance is dimension-specific: Reasoning shows the strongest agreement and Terminology the weakest across all three strategies"
 description: "LLM scoring performance is dimension-specific: Reasoning shows the strongest agreement and Terminology the weakest across all three strategies"
 id: dimension-specific-scoring-reasoning-strongest-terminology-weakest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

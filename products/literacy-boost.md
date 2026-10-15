@@ -4,7 +4,7 @@ id: literacy-boost
 title: Literacy Boost
 description: "Literacy Boost is Save the Children's early-literacy intervention programme, including teacher professional development and classroom-support components for young learners."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains
 description: Girls and underrepresented minorities remain far below representative participation on AP computer science exams, though new exams show gains
 id: ap-cs-exam-participation-gaps-and-principles-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

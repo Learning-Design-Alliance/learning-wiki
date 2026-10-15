@@ -3,7 +3,7 @@ type: claim
 title: Individual biases and narratives influence how systems are investigated in continuous improvement, potentially leading projects to address symptoms rather than root causes
 description: Individual biases and narratives influence how systems are investigated in continuous improvement, potentially leading projects to address symptoms rather than root causes
 id: personal-bias-influences-ci-investigations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

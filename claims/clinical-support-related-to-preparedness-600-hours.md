@@ -3,7 +3,7 @@ type: claim
 title: "Clinical support (communication, observation, feedback) is strongly related to perceived preparation effectiveness, yet 43% of preservice completers reported less than the required 600 hours of student teaching"
 description: "Clinical support (communication, observation, feedback) is strongly related to perceived preparation effectiveness, yet 43% of preservice completers reported less than the required 600 hours of student teaching"
 id: clinical-support-related-to-preparedness-600-hours
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

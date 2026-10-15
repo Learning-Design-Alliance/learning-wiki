@@ -3,7 +3,7 @@ type: claim
 title: Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not
 description: Conscientiousness and tolerance for novelty show small negative associations with well-being decline; other uncertainty-tolerance facets do not
 id: conscientiousness-novelty-tolerance-small-protective-associations
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

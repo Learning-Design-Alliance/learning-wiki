@@ -3,7 +3,7 @@ type: strategy
 id: triangulate-llm-discourse-measures-with-community-input
 title: Triangulate LLM-based discourse measures with multiple methods and seek input from participating communities
 description: "The article recommends that scholars using LLM-based discourse measures \"triangulate data from multiple methods and seek input from participating communities to validate and improve measures.\" This participatory valid..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

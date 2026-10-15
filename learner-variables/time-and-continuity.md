@@ -3,7 +3,7 @@ type: learner-variable
 id: time-and-continuity
 title: Time and Continuity
 description: How much uninterrupted time a learner actually gets, and whether progress survives the gap until the next session.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02

@@ -3,7 +3,7 @@ type: element
 id: data-routine-four-elements
 title: "The Data Routine: a four-element structure for student engagement with data in science investigations"
 description: "The Data Routine (Penuel et al., 2023) \"identifies four elements that help teachers structure their students' engagement with data in a science investigation\": Framing Questions, Orienting to the Data, Exploring the D..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

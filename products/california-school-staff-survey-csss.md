@@ -4,7 +4,7 @@ id: california-school-staff-survey-csss
 title: California School Staff Survey (CSSS)
 description: A California Department of Education staff survey, developed and administered with WestEd, that measures school staff perceptions of school climate conditions including instructional equity and respect for diversity.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

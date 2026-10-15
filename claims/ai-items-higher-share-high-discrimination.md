@@ -3,7 +3,7 @@ type: claim
 title: "A larger share of AI-generated questions were highly or very highly discriminating (36%) compared to standardized test questions (21%)"
 description: "A larger share of AI-generated questions were highly or very highly discriminating (36%) compared to standardized test questions (21%)"
 id: ai-items-higher-share-high-discrimination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Composition effects on ratings point to evaluator bias rather than genuine changes in teacher effectiveness
 description: Composition effects on ratings point to evaluator bias rather than genuine changes in teacher effectiveness
 id: evaluator-bias-not-effectiveness-drives-composition-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

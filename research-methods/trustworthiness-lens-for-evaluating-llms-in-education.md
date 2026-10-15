@@ -3,7 +3,7 @@ type: research-method
 id: trustworthiness-lens-for-evaluating-llms-in-education
 title: Trustworthiness lens for evaluating LLMs in education
 description: The article proposes adapting trustworthiness criteria from the ML community as a structured lens for LLM evaluation in education.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: teach-for-america
 title: Teach For America
 description: Teach For America runs a nationwide alternate-route teacher-preparation and teacher-placement programme that recruits and prepares corps members to teach in low-income K–12 schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

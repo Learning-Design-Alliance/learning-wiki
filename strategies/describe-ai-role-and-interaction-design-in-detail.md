@@ -3,7 +3,7 @@ type: strategy
 id: describe-ai-role-and-interaction-design-in-detail
 title: Describe AI instructional role and learner–AI interaction design in detail (prompts, scaffolds, modality, dialogue structures)
 description: "For the AI Role and Interaction domain, the article recommends a concrete reporting practice: \"authors should describe not only the AI system’s instructional role but also the design of learner–AI interaction in suffi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

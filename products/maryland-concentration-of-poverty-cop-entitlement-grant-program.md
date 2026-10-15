@@ -4,7 +4,7 @@ id: maryland-concentration-of-poverty-cop-entitlement-grant-program
 title: Maryland Concentration of Poverty (CoP) entitlement grant program
 description: A Maryland state grant programme established by the Blueprint for Maryland’s Future that funds essential community-school staff and per-pupil supports in high-poverty public schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

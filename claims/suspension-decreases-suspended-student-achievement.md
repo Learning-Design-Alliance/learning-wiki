@@ -3,7 +3,7 @@ type: claim
 title: A suspension decreases math and reading achievement for suspended students
 description: A suspension decreases math and reading achievement for suspended students
 id: suspension-decreases-suspended-student-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

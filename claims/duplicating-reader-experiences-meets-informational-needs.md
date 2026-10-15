@@ -3,7 +3,7 @@ type: claim
 title: "Duplicating readers' experiences helps young writers revise descriptive writing to meet readers' informational needs"
 description: "Duplicating readers' experiences helps young writers revise descriptive writing to meet readers' informational needs"
 id: duplicating-reader-experiences-meets-informational-needs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

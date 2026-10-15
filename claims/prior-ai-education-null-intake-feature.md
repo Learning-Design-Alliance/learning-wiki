@@ -3,7 +3,7 @@ type: claim
 title: Prior AI education shows no family-wise association with any baseline perception outcome, with at most small effect sizes, under both three-group and two-group codings
 description: Prior AI education shows no family-wise association with any baseline perception outcome, with at most small effect sizes, under both three-group and two-group codings
 id: prior-ai-education-null-intake-feature
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Many students in the digital-images inquiry found identifying engineering tradeoffs difficult despite the budget constraint design
 description: Many students in the digital-images inquiry found identifying engineering tradeoffs difficult despite the budget constraint design
 id: students-found-tradeoffs-difficult-in-inquiry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

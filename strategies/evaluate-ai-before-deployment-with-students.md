@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-ai-before-deployment-with-students
 title: Evaluate AI systems before deploying them with students
 description: "The article recommends that edtech teams evaluate their AI models and outputs before going live with students, because failures like the LAUSD \"Ed\" chatbot and BuzzFeed's AI-first pivot show the costs of deploying wit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Six of eight student groups successfully completed experiments according to their AI-assisted lab manuals
 description: Six of eight student groups successfully completed experiments according to their AI-assisted lab manuals
 id: six-of-eight-groups-completed-experiments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

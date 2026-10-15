@@ -3,7 +3,7 @@ type: element
 id: publisher-directory-bias-sensitive-publishers
 title: Publisher Directory listing publishers sensitive to treatment of minorities and females
 description: "Part III's Publisher Directory (Section 11) opens with the Association of American Publishers' \"Statement on Bias-free Materials\" reproduced in its entirety, then presents an alphabetical listing of publishers of book..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

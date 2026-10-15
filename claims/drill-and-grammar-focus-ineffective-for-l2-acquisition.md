@@ -4,7 +4,7 @@ title: A 1982 bilingual-education teacher-training packet asserts, citing Krashe
 description: Repetitive drill and grammar-focused instruction are ineffective devices for second language acquisition
 id: drill-and-grammar-focus-ineffective-for-l2-acquisition
 aliases: [repetitive-drill-grammar-focus-ineffective]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

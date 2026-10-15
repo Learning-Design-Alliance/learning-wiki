@@ -4,7 +4,7 @@ id: exact-path-existing-staff-implementation-strategy
 aliases: [exact-path-implementation-existing-staff-pd, exact-path-implementation-strategy]
 title: Implement Exact Path with existing district staff supported by vendor professional development and standard technology
 description: "The program is designed for implementation without new hires or additional technology: districts use their current teachers and leaders with guidance from Edmentum's Customer Success Managers, and the Professional Ser..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

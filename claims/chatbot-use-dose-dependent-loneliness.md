@@ -3,7 +3,7 @@ type: claim
 title: Extended chatbot use produced dose-dependent increases in loneliness and emotional dependence alongside lower socialisation (review attribution)
 description: Extended chatbot use produced dose-dependent increases in loneliness and emotional dependence alongside lower socialisation (review attribution)
 id: chatbot-use-dose-dependent-loneliness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

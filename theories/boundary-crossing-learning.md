@@ -3,7 +3,7 @@ type: theory
 title: Boundary Crossing Learning
 description: Boundary crossing explains learning that occurs when people move between, or bring into contact, sociocultural practices with different norms, tools, and ways of knowing — mediated by four dialogical mechanisms and, often, a shared boundary object.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: strategy
 id: apply-evidence-based-multimedia-design-principles
 title: Educators should apply evidence-based multimedia design principles, prioritising the largest-effect strategies
 description: "The article closes by highlighting \"a range of evidence-based strategies that could be implemented by educators\", drawn from the meta-meta-analytic comparison of design principles on a common metric."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

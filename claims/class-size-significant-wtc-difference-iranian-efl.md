@@ -3,7 +3,7 @@ type: claim
 title: WTC differs significantly across class sizes in Iranian EFL classes, with the smallest class showing the highest WTC
 description: WTC differs significantly across class sizes in Iranian EFL classes, with the smallest class showing the highest WTC
 id: class-size-significant-wtc-difference-iranian-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

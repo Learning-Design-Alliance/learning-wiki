@@ -3,7 +3,7 @@ type: claim
 title: Most additional certificate holders used the traditional in-state pathway (58 percent), while about a third used the individual evaluation pathway (34 percent)
 description: Most additional certificate holders used the traditional in-state pathway (58 percent), while about a third used the individual evaluation pathway (34 percent)
 id: traditional-in-state-pathway-dominates-additional-certification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

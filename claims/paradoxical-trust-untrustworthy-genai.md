@@ -3,7 +3,7 @@ type: claim
 title: A student maintained critical distance from GenAI outputs through a paradoxical trust in their untrustworthiness, deriving practical value while staying sceptical
 description: A student maintained critical distance from GenAI outputs through a paradoxical trust in their untrustworthiness, deriving practical value while staying sceptical
 id: paradoxical-trust-untrustworthy-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

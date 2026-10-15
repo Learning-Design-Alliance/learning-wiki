@@ -3,7 +3,7 @@ type: claim
 title: "Verified hallucinated references at SIGCSE TS increased from 3 in the 2025 proceedings to 17 in the 2026 proceedings, appearing in 2.3% of 2026 papers"
 description: "Verified hallucinated references at SIGCSE TS increased from 3 in the 2025 proceedings to 17 in the 2026 proceedings, appearing in 2.3% of 2026 papers"
 id: sigcse-ts-hallucinations-increased-2025-2026
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Giving students feedback about their grading bias increased their subsequent grading accuracy
 description: Giving students feedback about their grading bias increased their subsequent grading accuracy
 id: grading-bias-feedback-increases-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

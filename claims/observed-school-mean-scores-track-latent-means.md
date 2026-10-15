@@ -3,7 +3,7 @@ type: claim
 title: School-level averages of observed admissions test scores are extremely highly correlated with average latent scores
 description: School-level averages of observed admissions test scores are extremely highly correlated with average latent scores
 id: observed-school-mean-scores-track-latent-means
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Topic modeling of open-ended responses revealed five themes centered on ChatGPT's simplicity, speed, and role as a support tool"
 description: "Topic modeling of open-ended responses revealed five themes centered on ChatGPT's simplicity, speed, and role as a support tool"
 id: lda-five-themes-chatgpt-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

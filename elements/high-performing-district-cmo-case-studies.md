@@ -3,7 +3,7 @@ type: element
 id: high-performing-district-cmo-case-studies
 title: Case studies of three high-performing districts and one high-performing CMO
 description: "The report developed case studies of organizations identified as high-performing: \"Metropolitan School District of Lawrence Township, St."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

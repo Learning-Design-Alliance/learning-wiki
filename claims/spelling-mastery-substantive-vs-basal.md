@@ -3,7 +3,7 @@ type: claim
 title: Spelling Mastery showed substantively important but not statistically significant positive effects on all four writing measures in a grades 2–4 RCT against basal spelling instruction
 description: Spelling Mastery showed substantively important but not statistically significant positive effects on all four writing measures in a grades 2–4 RCT against basal spelling instruction
 id: spelling-mastery-substantive-vs-basal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: learnity-graph-infrastructure-components
 title: Build learnity-graph-centered infrastructure with graph engine, evidence layer, analytics layer, and recommendation engine
 description: The article recommends developing infrastructure to support learnity graphs, potentially through LMS systems centered on learnity graphs rather than on courses.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

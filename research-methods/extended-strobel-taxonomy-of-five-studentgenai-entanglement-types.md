@@ -3,7 +3,7 @@ type: research-method
 id: extended-strobel-taxonomy-of-five-studentgenai-entanglement-types
 title: Extended Strobel taxonomy of five student–GenAI entanglement types
 description: "The paper extends Strobel et al.'s (2024) taxonomy of GenAI applications — originally derived from 100 commercial and professional applications — into a classification lens for educational settings."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

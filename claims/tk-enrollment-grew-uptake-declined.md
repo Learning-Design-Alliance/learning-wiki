@@ -3,7 +3,7 @@ type: claim
 title: "TK enrollment in California grew substantially during expansion while the share of eligible 4-year-olds enrolled declined from 65% to 55%"
 description: "TK enrollment in California grew substantially during expansion while the share of eligible 4-year-olds enrolled declined from 65% to 55%"
 id: tk-enrollment-grew-uptake-declined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

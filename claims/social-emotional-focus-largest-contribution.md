@@ -3,7 +3,7 @@ type: claim
 title: "Programs focusing on students' social-emotional development contribute most to classroom management intervention effectiveness, especially on social-emotional outcomes"
 description: "Programs focusing on students' social-emotional development contribute most to classroom management intervention effectiveness, especially on social-emotional outcomes"
 id: social-emotional-focus-largest-contribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

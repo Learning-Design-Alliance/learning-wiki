@@ -2,7 +2,7 @@
 type: theory
 title: "The 5-Phase UX Design Loop: a five-step iterative process for user-informed product development"
 description: "The 5-Phase UX Design Loop is \"a practical, iterative process for reducing uncertainty, learning from users, and quickly making informed product decisions.\" It comprises five phases: (1) Get Aligned, defining the prob..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

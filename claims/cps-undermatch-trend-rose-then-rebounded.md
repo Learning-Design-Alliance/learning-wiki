@@ -3,7 +3,7 @@ type: claim
 title: Undermatch among CPS four-year college-goers rose from 42.7 percent in 2003 to 57.7 percent in 2013 before rebounding after 2013
 description: Undermatch among CPS four-year college-goers rose from 42.7 percent in 2003 to 57.7 percent in 2013 before rebounding after 2013
 id: cps-undermatch-trend-rose-then-rebounded
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

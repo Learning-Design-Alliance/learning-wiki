@@ -4,7 +4,7 @@ id: massachusetts-early-literacy-screening-assessment-dataset-linked-with-mcas-r
 title: Massachusetts early literacy screening assessment dataset linked with MCAS results
 description: A Massachusetts Department of Elementary and Secondary Education dataset of K–3 early literacy screening results linked to state MCAS results for longitudinal analysis.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

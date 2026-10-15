@@ -3,7 +3,7 @@ type: claim
 title: Statistical procedures that correct for multiple testing typically reduce the statistical power of hypothesis tests in impact evaluations
 description: Statistical procedures that correct for multiple testing typically reduce the statistical power of hypothesis tests in impact evaluations
 id: multiple-testing-corrections-reduce-power
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

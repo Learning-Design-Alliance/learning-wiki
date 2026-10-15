@@ -3,7 +3,7 @@ type: claim
 title: Hybrid work must be reconceptualised to include the human/AI duality alongside the presence/virtual continuum
 description: Hybrid work must be reconceptualised to include the human/AI duality alongside the presence/virtual continuum
 id: hybrid-work-human-ai-duality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

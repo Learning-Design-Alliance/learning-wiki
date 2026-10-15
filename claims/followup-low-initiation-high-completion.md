@@ -3,7 +3,7 @@ type: claim
 title: "Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer"
 description: "Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer"
 id: followup-low-initiation-high-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

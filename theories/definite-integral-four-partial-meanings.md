@@ -2,7 +2,7 @@
 type: theory
 title: Four partial meanings of the definite integral articulated as a global meaning
 description: "The article proposes that instruction should distinguish four partial meanings of the definite integral: as a quantity of magnitude bounded between convergent sequences, as the limit of Riemann sums, as a cumulative f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

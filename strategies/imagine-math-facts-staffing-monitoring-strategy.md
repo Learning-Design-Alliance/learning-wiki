@@ -3,7 +3,7 @@ type: strategy
 id: imagine-math-facts-staffing-monitoring-strategy
 title: Implement Imagine Math Facts with existing math staff monitoring individualized learning paths and progress reports
 description: "The program requires no additional staffing: it is typically implemented by students' mathematics teachers, mathematics specialists, or lab instructors."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

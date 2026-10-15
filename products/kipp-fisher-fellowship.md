@@ -4,7 +4,7 @@ id: kipp-fisher-fellowship
 title: KIPP Fisher Fellowship
 description: A KIPP programme that prepares new principals to lead new KIPP schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

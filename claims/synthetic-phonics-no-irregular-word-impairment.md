@@ -3,7 +3,7 @@ type: claim
 title: Early synthetic phonics teaching that emphasises blending letter sounds showed no evidence of impairing reading of irregular words
 description: Early synthetic phonics teaching that emphasises blending letter sounds showed no evidence of impairing reading of irregular words
 id: synthetic-phonics-no-irregular-word-impairment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

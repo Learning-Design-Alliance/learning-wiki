@@ -3,7 +3,7 @@ type: claim
 title: High school, new, and low-achieving-school principals perceive significantly more difficulty recruiting and hiring the right teachers
 description: High school, new, and low-achieving-school principals perceive significantly more difficulty recruiting and hiring the right teachers
 id: teacher-hiring-difficulty-subgroup-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

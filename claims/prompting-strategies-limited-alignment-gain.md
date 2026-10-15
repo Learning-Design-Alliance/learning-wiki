@@ -3,7 +3,7 @@ type: claim
 title: Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models
 description: Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models
 id: prompting-strategies-limited-alignment-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

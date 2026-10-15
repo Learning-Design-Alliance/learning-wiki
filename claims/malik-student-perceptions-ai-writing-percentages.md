@@ -3,7 +3,7 @@ type: claim
 title: "Among 245 Indonesian undergraduates, majorities reported potential reduction of critical thinking when depending on AI (75%), excessive reliance risk (73%), misinformation (70%), unintentional plagiarism (69%) and algorithmic bias (40%)"
 description: "Among 245 Indonesian undergraduates, majorities reported potential reduction of critical thinking when depending on AI (75%), excessive reliance risk (73%), misinformation (70%), unintentional plagiarism (69%) and alg..."
 id: malik-student-perceptions-ai-writing-percentages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

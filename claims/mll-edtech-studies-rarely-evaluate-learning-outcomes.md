@@ -3,7 +3,7 @@ type: claim
 title: Most research articles on technology for young multilingual learners did not evaluate impacts on learning outcomes
 description: Most research articles on technology for young multilingual learners did not evaluate impacts on learning outcomes
 id: mll-edtech-studies-rarely-evaluate-learning-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

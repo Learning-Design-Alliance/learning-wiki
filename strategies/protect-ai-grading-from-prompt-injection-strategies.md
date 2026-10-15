@@ -3,7 +3,7 @@ type: strategy
 id: protect-ai-grading-from-prompt-injection-strategies
 title: Protect AI-mediated assessment through isolated environments, clear guidelines, resilience assessments, and teaching prompt-processing awareness
 description: "The article recommends a combination of organisational and technical measures rather than a single solution: use \"an isolated and secure environment, such as a virtual machine with limited (or disabled) access to host..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

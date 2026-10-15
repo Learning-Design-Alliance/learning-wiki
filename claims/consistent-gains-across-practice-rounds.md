@@ -3,7 +3,7 @@ type: claim
 title: KT4EQG achieves the highest exam score across all practice-round counts, while methods without effective concept selection show only marginal gains as rounds increase
 description: KT4EQG achieves the highest exam score across all practice-round counts, while methods without effective concept selection show only marginal gains as rounds increase
 id: consistent-gains-across-practice-rounds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

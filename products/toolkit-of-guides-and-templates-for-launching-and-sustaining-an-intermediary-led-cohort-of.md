@@ -4,7 +4,7 @@ id: toolkit-of-guides-and-templates-for-launching-and-sustaining-an-intermediary
 title: Toolkit of guides and templates for launching and sustaining an intermediary-led cohort of strategic learning grantees
 description: A Mathematica toolkit of adaptable guides and templates for designing and facilitating meetings and for developing theories of change, collecting data, and synthesizing findings in strategic learning initiatives.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

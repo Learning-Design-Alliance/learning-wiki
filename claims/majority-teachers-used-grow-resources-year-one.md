@@ -3,7 +3,7 @@ type: claim
 title: A majority of grade 4-8 Chicago teachers used Grow resources in year one, and slightly more than half found the components beneficial
 description: A majority of grade 4-8 Chicago teachers used Grow resources in year one, and slightly more than half found the components beneficial
 id: majority-teachers-used-grow-resources-year-one
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

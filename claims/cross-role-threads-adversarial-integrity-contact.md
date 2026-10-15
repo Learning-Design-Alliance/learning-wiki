@@ -3,7 +3,7 @@ type: claim
 title: "17% of GenAI education threads are cross-role; one third of cross-role contact occurs in adversarial integrity themes"
 description: "17% of GenAI education threads are cross-role; one third of cross-role contact occurs in adversarial integrity themes"
 id: cross-role-threads-adversarial-integrity-contact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

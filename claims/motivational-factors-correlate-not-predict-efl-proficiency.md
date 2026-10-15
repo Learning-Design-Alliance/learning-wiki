@@ -3,7 +3,7 @@ type: claim
 title: "Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency"
 description: "Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency"
 id: motivational-factors-correlate-not-predict-efl-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

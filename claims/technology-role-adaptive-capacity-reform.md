@@ -3,7 +3,7 @@ type: claim
 title: Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success
 description: Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success
 id: technology-role-adaptive-capacity-reform
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion
 description: Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion
 id: mixed-effects-across-experiments-criterion-failures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Experimental staff development programs mostly raised student achievement relative to control teachers (review attribution)
 description: Experimental staff development programs mostly raised student achievement relative to control teachers (review attribution)
 id: experimental-staff-development-raises-student-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

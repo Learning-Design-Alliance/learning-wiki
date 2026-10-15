@@ -3,7 +3,7 @@ type: claim
 title: Students report that tests dominate assessment, carry too much weight, and create stress, while extended performance-based assessments offer better opportunities to learn and showcase learning
 description: Students report that tests dominate assessment, carry too much weight, and create stress, while extended performance-based assessments offer better opportunities to learn and showcase learning
 id: students-report-tests-dominate-and-overweight-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

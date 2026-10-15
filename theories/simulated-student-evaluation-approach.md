@@ -2,7 +2,7 @@
 type: theory
 title: "Simulated student approach: using computational models of learning (Apprentice agents) to evaluate knowledge tracing online before classroom deployment"
 description: "The article introduces \"a novel way of using machine-learning models to generate simulated students\" for evaluating knowledge tracing in online mastery learning settings."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

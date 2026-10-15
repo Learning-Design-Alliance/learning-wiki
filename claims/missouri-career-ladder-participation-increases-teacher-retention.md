@@ -3,7 +3,7 @@ type: claim
 title: School district participation in the Missouri Career Ladder Program tends to increase teacher retention in the district and the profession, especially for mid-career teachers
 description: School district participation in the Missouri Career Ladder Program tends to increase teacher retention in the district and the profession, especially for mid-career teachers
 id: missouri-career-ladder-participation-increases-teacher-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

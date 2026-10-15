@@ -3,7 +3,7 @@ type: claim
 title: "Parental aspiration/expectation for children's educational achievement has the strongest relationship with academic achievement among involvement components"
 description: "Parental aspiration/expectation for children's educational achievement has the strongest relationship with academic achievement among involvement components"
 id: parental-aspiration-expectation-strongest-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

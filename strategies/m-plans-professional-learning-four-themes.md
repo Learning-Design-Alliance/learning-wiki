@@ -3,7 +3,7 @@ type: strategy
 id: m-plans-professional-learning-four-themes
 title: "Professional learning approach built on four teacher-learning themes: experience, reflection, dialogue, and context"
 description: "The M-PLANS professional learning approach incorporates four themes from contemporary perspectives on teacher learning: first-hand experience as foundational; thoughtful reflection involving planning, monitoring, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

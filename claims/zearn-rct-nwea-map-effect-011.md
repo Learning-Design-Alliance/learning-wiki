@@ -3,7 +3,7 @@ type: claim
 title: Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)
 description: Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)
 id: zearn-rct-nwea-map-effect-011
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

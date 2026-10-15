@@ -3,7 +3,7 @@ type: claim
 title: Teachers who made nonproductive adaptations were more likely to adapt lessons to on-grade-level content while delivering the lesson
 description: Teachers who made nonproductive adaptations were more likely to adapt lessons to on-grade-level content while delivering the lesson
 id: nonproductive-adapters-on-grade-level-during-delivery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone"
 description: "Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone"
 id: emi-raises-efl-reading-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

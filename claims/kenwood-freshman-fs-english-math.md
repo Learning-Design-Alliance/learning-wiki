@@ -3,7 +3,7 @@ type: claim
 title: Freshman failures clustered in math more than English, and many students failed both core subjects
 description: Freshman failures clustered in math more than English, and many students failed both core subjects
 id: kenwood-freshman-fs-english-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

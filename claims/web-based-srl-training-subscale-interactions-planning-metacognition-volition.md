@@ -3,7 +3,7 @@ type: claim
 title: Web-based SRL training interventions produced statistically significant group by time interactions on the SRL subscales planning, self-motivation, volition, elaboration and metacognition, but not on goal-setting or reflection
 description: Web-based SRL training interventions produced statistically significant group by time interactions on the SRL subscales planning, self-motivation, volition, elaboration and metacognition, but not on goal-setting or re...
 id: web-based-srl-training-subscale-interactions-planning-metacognition-volition
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: Expert rating consistency passed all AHP thresholds, with the main dimension matrix CR = 0.0307
 description: Expert rating consistency passed all AHP thresholds, with the main dimension matrix CR = 0.0307
 id: ahp-consistency-testing-pass-all-matrices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

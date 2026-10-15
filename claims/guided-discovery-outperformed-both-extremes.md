@@ -3,7 +3,7 @@ type: claim
 title: Guided discovery outperformed both unguided discovery and direct instruction in classic studies
 description: Guided discovery outperformed both unguided discovery and direct instruction in classic studies
 id: guided-discovery-outperformed-both-extremes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

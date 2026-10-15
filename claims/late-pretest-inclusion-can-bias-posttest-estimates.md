@@ -4,7 +4,7 @@ title: Including late pretest data in RCT analyses can bias post-test impact est
 description: Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment
 id: late-pretest-inclusion-can-bias-posttest-estimates
 aliases: [late-pretest-inclusion-can-bias-impact-estimates]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

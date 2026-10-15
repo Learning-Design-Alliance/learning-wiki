@@ -4,7 +4,7 @@ id: splash-and-bubbles-for-parents
 title: Splash and Bubbles for Parents
 description: A PBS KIDS companion app for the Splash and Bubbles television series that supports joint parent-child viewing, science-related conversation, and hands-on activities.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

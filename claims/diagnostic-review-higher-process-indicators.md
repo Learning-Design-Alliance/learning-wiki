@@ -3,7 +3,7 @@ type: claim
 title: The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles
 description: The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles
 id: diagnostic-review-higher-process-indicators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: trajectory-sensitive-scaffolding-ai-tutor
 title: "Trajectory-sensitive scaffolding: use recent interaction history to return epistemic work to the learner when closure-oriented requests accumulate"
 description: "The authors propose that an AI tutor consider recent interaction history when deciding whether to intervene: \"repeated or increasingly frequent requests for the AI to provide or confirm outcomes could motivate a scaff..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

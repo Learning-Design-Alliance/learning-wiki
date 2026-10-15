@@ -4,7 +4,7 @@ id: colorado-educational-stability-grant-program-hb-18-1306
 title: Colorado Educational Stability Grant Program (HB 18-1306)
 description: A Colorado state grant program established through HB 18-1306 that funds districts and education providers to build community partnerships supporting school stability for highly mobile students.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

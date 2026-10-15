@@ -3,7 +3,7 @@ type: claim
 title: Scaffolding effects varied by education population, with traditional learners significantly outperforming underperforming learners
 description: Scaffolding effects varied by education population, with traditional learners significantly outperforming underperforming learners
 id: education-population-moderates-scaffolding-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

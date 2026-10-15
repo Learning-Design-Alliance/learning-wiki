@@ -3,7 +3,7 @@ type: claim
 title: Gemma and LLaMA produce higher-quality responses than GPT-2 by TIGERSCORE, with accuracy and comprehension gaps remaining
 description: Gemma and LLaMA produce higher-quality responses than GPT-2 by TIGERSCORE, with accuracy and comprehension gaps remaining
 id: gemma-llama-outperform-gpt2-tigerscore
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

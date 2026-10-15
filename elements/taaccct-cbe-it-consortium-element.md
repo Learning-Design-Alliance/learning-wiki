@@ -3,7 +3,7 @@ type: element
 id: taaccct-cbe-it-consortium-element
 title: TAACCCT consortium implementing flexibly paced CBE programs in information technology
 description: "Under a Round 2 TAACCCT grant, \"Sinclair Community College is leading a consortium with Austin Community College and Broward College to implement flexibly paced, competency-based education (CBE) programs in informatio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

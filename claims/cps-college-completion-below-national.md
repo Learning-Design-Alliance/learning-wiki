@@ -3,7 +3,7 @@ type: claim
 title: "CPS alumni college completion (48%) remains below the national average (64%), with 56% of immediate four-year and 32% of immediate two-year enrollees completing within six years"
 description: "CPS alumni college completion (48%) remains below the national average (64%), with 56% of immediate four-year and 32% of immediate two-year enrollees completing within six years"
 id: cps-college-completion-below-national
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

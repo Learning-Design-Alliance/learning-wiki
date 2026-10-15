@@ -3,7 +3,7 @@ type: claim
 title: Remote and in-person MAP Growth test scores showed consistent trends for students in grades 3-8 in fall 2020
 description: Remote and in-person MAP Growth test scores showed consistent trends for students in grades 3-8 in fall 2020
 id: map-growth-remote-in-person-consistent-score-trends-grades-3-8
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

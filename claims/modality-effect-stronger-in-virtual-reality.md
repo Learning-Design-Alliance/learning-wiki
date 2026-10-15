@@ -3,7 +3,7 @@ type: claim
 title: "In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes"
 description: "In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes"
 id: modality-effect-stronger-in-virtual-reality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

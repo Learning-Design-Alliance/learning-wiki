@@ -3,7 +3,7 @@ type: claim
 title: "Democracy Prep charter schools boost student voting, according to the article's headline finding"
 description: "Democracy Prep charter schools boost student voting, according to the article's headline finding"
 id: democracy-prep-charter-schools-boost-student-voting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

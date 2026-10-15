@@ -3,7 +3,7 @@ type: claim
 title: COVID-19 disruptions to schools and testing created a “lost year” of data that challenged education research
 description: COVID-19 disruptions to schools and testing created a “lost year” of data that challenged education research
 id: covid-lost-year-data-challenge-education-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

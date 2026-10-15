@@ -3,7 +3,7 @@ type: claim
 title: KT4EQG achieves the highest exam score across all knowledge modules on both XES3G5M and MOOCRADAR, outperforming all question-generation baselines
 description: KT4EQG achieves the highest exam score across all knowledge modules on both XES3G5M and MOOCRADAR, outperforming all question-generation baselines
 id: kt4eqg-highest-exam-score-all-modules
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

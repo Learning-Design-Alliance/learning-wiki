@@ -3,7 +3,7 @@ type: claim
 title: Of 305 studies of Fast ForWord reviewed for adolescent learners, two met WWC evidence standards, six met standards with reservations, and 297 met neither
 description: Of 305 studies of Fast ForWord reviewed for adolescent learners, two met WWC evidence standards, six met standards with reservations, and 297 met neither
 id: fast-forword-evidence-base-305-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

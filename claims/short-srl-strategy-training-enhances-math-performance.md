@@ -3,7 +3,7 @@ type: claim
 title: "Short-term self-regulatory strategy training, including within regular mathematics lessons, enhances students' self-regulatory judgments and mathematics performance"
 description: "Short-term self-regulatory strategy training, including within regular mathematics lessons, enhances students' self-regulatory judgments and mathematics performance"
 id: short-srl-strategy-training-enhances-math-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

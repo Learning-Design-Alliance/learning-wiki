@@ -4,7 +4,7 @@ id: principal-time-use-log-dataset-from-approximately-100-elementary-schools-in-
 title: Principal time-use log dataset from approximately 100 elementary schools in eight districts
 description: A research dataset collected by Matthew Johnson and colleagues from approximately 100 elementary schools across eight districts to document how principals allocate their work time.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

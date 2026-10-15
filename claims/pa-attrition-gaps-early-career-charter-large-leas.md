@@ -3,7 +3,7 @@ type: claim
 title: Pandemic-era attrition gaps widened for early-career teachers and health and counseling staff, charter school staff, and LEA administrators in large LEAs
 description: Pandemic-era attrition gaps widened for early-career teachers and health and counseling staff, charter school staff, and LEA administrators in large LEAs
 id: pa-attrition-gaps-early-career-charter-large-leas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup
 description: Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup
 id: active-el-reporting-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

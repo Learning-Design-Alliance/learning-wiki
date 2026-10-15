@@ -3,7 +3,7 @@ type: claim
 title: The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery
 description: The NWEA COVID-19 visualization provides state-level insights into 2020–2021 MAP Growth performance to inform academic recovery
 id: nwea-visualization-state-level-covid-insights
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

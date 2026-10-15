@@ -3,7 +3,7 @@ type: strategy
 id: structured-institutional-support-teacher-ai-readiness
 title: "Build teacher AI readiness through structured institutional support: professional development, mentoring, technical assistance, and AI literacy in teacher education"
 description: The article recommends that educational institutions strengthen teacher confidence through structured, ongoing support rather than treating resistance as individual reluctance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

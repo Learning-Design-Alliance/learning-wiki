@@ -3,7 +3,7 @@ type: claim
 title: Score-access barriers push musicians with BLV toward memorization and listening-based learning, and accessible notation tools miss performance-critical details
 description: Score-access barriers push musicians with BLV toward memorization and listening-based learning, and accessible notation tools miss performance-critical details
 id: blv-score-access-memorization-default
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

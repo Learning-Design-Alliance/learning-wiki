@@ -3,7 +3,7 @@ type: research-method
 id: implementation-integrity-and-cross-context-robustness-evaluation
 title: Implementation-integrity and cross-context robustness evaluation
 description: Teams should gather data on implementation integrity and variability across contexts, addressing both whether a solution is implemented as intended and how it performs across a wide range of contexts.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

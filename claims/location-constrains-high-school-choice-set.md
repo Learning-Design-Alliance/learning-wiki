@@ -3,7 +3,7 @@ type: claim
 title: School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice
 description: School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice
 id: location-constrains-high-school-choice-set
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

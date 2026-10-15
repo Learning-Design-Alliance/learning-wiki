@@ -2,7 +2,7 @@
 type: theory
 title: Learning theories frame interdisciplinary discovery in the studio
 description: The article grounds its interdisciplinary course schedule in multiple learning theories that focus on exploratory learning environments.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

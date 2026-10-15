@@ -3,7 +3,7 @@ type: claim
 title: Adaptivity to individual learners is the primary bottleneck for LLMs in KC path planning
 description: Adaptivity to individual learners is the primary bottleneck for LLMs in KC path planning
 id: adaptivity-bottleneck-llm-path-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

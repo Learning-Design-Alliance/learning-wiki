@@ -3,7 +3,7 @@ type: strategy
 id: consider-additional-factors-beyond-curriculum-design
 title: When evaluating curriculum materials, consider additional influential factors beyond curricular design features
 description: "The article recommends that explanations of curriculum effects on student learning should not rest on design features alone: alongside the hypothesized design-based explanation, the authors \"discuss additional influen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

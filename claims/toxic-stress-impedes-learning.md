@@ -3,7 +3,7 @@ type: claim
 title: Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear
 description: Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear
 id: toxic-stress-impedes-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

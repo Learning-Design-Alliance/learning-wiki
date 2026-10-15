@@ -3,7 +3,7 @@ type: claim
 title: Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted
 description: Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted
 id: retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

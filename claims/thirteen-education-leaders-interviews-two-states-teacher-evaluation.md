@@ -3,7 +3,7 @@ type: claim
 title: Interviews with 13 education leaders from Kentucky and California, two states with contrasting teacher-evaluation approaches, provided the data for the collaborative grounded theory analysis
 description: Interviews with 13 education leaders from Kentucky and California, two states with contrasting teacher-evaluation approaches, provided the data for the collaborative grounded theory analysis
 id: thirteen-education-leaders-interviews-two-states-teacher-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

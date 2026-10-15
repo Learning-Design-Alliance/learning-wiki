@@ -3,7 +3,7 @@ type: claim
 title: All three English Learner groups had lower K-4 test scores than never-ELs
 description: All three English Learner groups had lower K-4 test scores than never-ELs
 id: el-groups-lower-k4-achievement-never-els
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

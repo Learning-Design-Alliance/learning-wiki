@@ -3,7 +3,7 @@ type: claim
 title: "Risk identification varies by grade and student group: kindergarten and grade 3 students were less often at risk than grades 1–2, and economically disadvantaged, English learner, Hispanic, Black, and special education students were more often identified at risk"
 description: "Risk identification varies by grade and student group: kindergarten and grade 3 students were less often at risk than grades 1–2, and economically disadvantaged, English learner, Hispanic, Black, and special education..."
 id: risk-varies-by-grade-and-student-group
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

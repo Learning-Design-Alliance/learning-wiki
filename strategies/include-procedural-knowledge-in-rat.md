@@ -3,7 +3,7 @@ type: strategy
 id: include-procedural-knowledge-in-rat
 title: Incorporate practical and procedural knowledge into the Readiness Assessment Test
 description: "The authors recommend that RAT questions cover not only conceptual content but also practical and procedural knowledge, explicitly stating: \"We recommend incorporating practical and procedural knowledge into the RAT (..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: Perceived AI literacy does not significantly moderate the direct association between AI dependence and self-reported creativity
 description: Perceived AI literacy does not significantly moderate the direct association between AI dependence and self-reported creativity
 id: ai-literacy-no-moderation-direct-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

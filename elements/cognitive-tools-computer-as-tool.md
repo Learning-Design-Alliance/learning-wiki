@@ -3,7 +3,7 @@ type: element
 id: cognitive-tools-computer-as-tool
 title: "Cognitive tools: technologies that enhance the cognitive powers of human beings"
 description: "The paper adopts Jonassen and Reeves' definition: \"Cognitive tools refer to technologies, tangible or intangible, that enhance the cognitive powers of human beings during thinking, problem solving, and learning.\" Writ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

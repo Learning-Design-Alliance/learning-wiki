@@ -3,7 +3,7 @@ type: claim
 title: "Schurz High School's Cultivate-driven feedback-for-growth improvement work coincided with improved student experiences and out-of-school suspensions dropping to one-half of the prior year's number"
 description: "Schurz High School's Cultivate-driven feedback-for-growth improvement work coincided with improved student experiences and out-of-school suspensions dropping to one-half of the prior year's number"
 id: schurz-cultivate-improvement-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

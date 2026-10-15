@@ -3,7 +3,7 @@ type: claim
 title: After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups
 description: After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups
 id: full-day-access-increased-post-policy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

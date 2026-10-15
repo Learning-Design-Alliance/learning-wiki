@@ -3,7 +3,7 @@ type: claim
 title: "Introducing human-AI tutoring improves relative MAP academic growth by 61% over an AI-only baseline within the IK bandwidth"
 description: "Introducing human-AI tutoring improves relative MAP academic growth by 61% over an AI-only baseline within the IK bandwidth"
 id: human-ai-tutoring-improves-map-growth-over-ai-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

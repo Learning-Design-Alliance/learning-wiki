@@ -3,7 +3,7 @@ type: claim
 title: An Indian-accented agent was integrated as a trustworthy conversational peer through repeated, contextually useful contributions
 description: An Indian-accented agent was integrated as a trustworthy conversational peer through repeated, contextually useful contributions
 id: indian-accent-agent-integrated-as-trusted-peer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

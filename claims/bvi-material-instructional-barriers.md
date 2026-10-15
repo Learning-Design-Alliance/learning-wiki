@@ -3,7 +3,7 @@ type: claim
 title: "BVI students face material and instructional barriers: late STEM materials, error-laden tactile worksheets, and variable teacher graphic descriptions"
 description: "BVI students face material and instructional barriers: late STEM materials, error-laden tactile worksheets, and variable teacher graphic descriptions"
 id: bvi-material-instructional-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

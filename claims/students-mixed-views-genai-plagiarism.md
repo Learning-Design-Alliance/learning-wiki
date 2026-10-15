@@ -3,7 +3,7 @@ type: claim
 title: Undergraduate students hold mixed views on whether using GenAI for coursework constitutes plagiarism, ranging from not misconduct to serious misconduct
 description: Undergraduate students hold mixed views on whether using GenAI for coursework constitutes plagiarism, ranging from not misconduct to serious misconduct
 id: students-mixed-views-genai-plagiarism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

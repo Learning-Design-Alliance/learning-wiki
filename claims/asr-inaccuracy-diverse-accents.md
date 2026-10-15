@@ -3,7 +3,7 @@ type: claim
 title: "Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns"
 description: "Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns"
 id: asr-inaccuracy-diverse-accents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

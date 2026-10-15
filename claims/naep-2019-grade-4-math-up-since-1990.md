@@ -3,7 +3,7 @@ type: claim
 title: Grade 4 mathematics average scores in 2019 were 1 point higher than in 2017 and 27 points higher than in 1990, with increases at the 25th and 50th percentiles
 description: Grade 4 mathematics average scores in 2019 were 1 point higher than in 2017 and 27 points higher than in 1990, with increases at the 25th and 50th percentiles
 id: naep-2019-grade-4-math-up-since-1990
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

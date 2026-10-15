@@ -4,7 +4,7 @@ id: prisma-llm-16-item-universal-reporting-checklist
 title: PRISMA-LLM 16-item universal reporting checklist
 description: PRISMA-LLM is a 16-item reporting framework proposed by Zabaleta et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

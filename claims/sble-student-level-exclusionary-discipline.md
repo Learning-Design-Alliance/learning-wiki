@@ -3,7 +3,7 @@ type: claim
 title: Student-level analyses likewise show higher exclusionary discipline under SBLE with no differences in other crime and behavior outcomes
 description: Student-level analyses likewise show higher exclusionary discipline under SBLE with no differences in other crime and behavior outcomes
 id: sble-student-level-exclusionary-discipline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

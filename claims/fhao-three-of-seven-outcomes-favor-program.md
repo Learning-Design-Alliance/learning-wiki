@@ -3,7 +3,7 @@ type: claim
 title: Three of seven knowledge, attitudes, and values outcomes favor Facing History and Ourselves, including relationship maturity (best response) with effect size 0.45, but none remain statistically significant after WWC corrections
 description: Three of seven knowledge, attitudes, and values outcomes favor Facing History and Ourselves, including relationship maturity (best response) with effect size 0.45, but none remain statistically significant after WWC c...
 id: fhao-three-of-seven-outcomes-favor-program
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

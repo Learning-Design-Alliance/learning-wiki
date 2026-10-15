@@ -3,7 +3,7 @@ type: claim
 title: One of four qualifying studies found significant positive ITED outcomes for Core-Plus Mathematics
 description: One of four qualifying studies found significant positive ITED outcomes for Core-Plus Mathematics
 id: core-plus-one-of-four-studies-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

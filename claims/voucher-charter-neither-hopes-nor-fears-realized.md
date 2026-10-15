@@ -3,7 +3,7 @@ type: claim
 title: "Neither the hopes of voucher and charter supporters nor the fears of skeptics have been realized, per the authors' synthesis"
 description: "Neither the hopes of voucher and charter supporters nor the fears of skeptics have been realized, per the authors' synthesis"
 id: voucher-charter-neither-hopes-nor-fears-realized
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: nba-math-hoops
 title: NBA Math Hoops
 description: NBA Math Hoops is a Learn Fresh programme developed in partnership with the NBA and WNBA that uses an interactive basketball board game, real player statistics, and supporting math lessons to teach elementary and middle-grade mathematics.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

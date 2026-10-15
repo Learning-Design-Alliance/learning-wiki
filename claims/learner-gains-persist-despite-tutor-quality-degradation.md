@@ -3,7 +3,7 @@ type: claim
 title: Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism
 description: Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism
 id: learner-gains-persist-despite-tutor-quality-degradation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

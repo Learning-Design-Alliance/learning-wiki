@@ -3,7 +3,7 @@ type: claim
 title: Adopted educational philosophy is significantly positively related to teaching style
 description: Adopted educational philosophy is significantly positively related to teaching style
 id: philosophy-significantly-related-teaching-style
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

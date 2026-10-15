@@ -3,7 +3,7 @@ type: element
 id: ies-teacher-effectiveness-equity-study-26-districts
 title: Multi-district teacher effectiveness equity study of grades 4-8, 2008-09 to 2012-13
 description: "The study underlying the snapshot covers \"fourth- to eighth-grade teachers over five school years (2008-2009 to 2012-2013) in 26 school districts across the country.\" It examines whether low-income students are taught..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

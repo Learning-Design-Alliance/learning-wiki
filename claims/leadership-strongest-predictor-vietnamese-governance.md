@@ -3,7 +3,7 @@ type: claim
 title: Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities
 description: Leadership competence is the strongest predictor of governance effectiveness in Vietnamese universities
 id: leadership-strongest-predictor-vietnamese-governance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

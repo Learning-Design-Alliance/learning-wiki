@@ -3,7 +3,7 @@ type: claim
 title: Representation gaps are nontrivial for all models, and code-based interaction can amplify representational specialization rather than stabilizing performance
 description: Representation gaps are nontrivial for all models, and code-based interaction can amplify representational specialization rather than stabilizing performance
 id: representation-gaps-model-specific-code-amplification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

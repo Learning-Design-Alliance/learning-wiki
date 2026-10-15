@@ -4,7 +4,7 @@ id: pcex-expert-bundled-python-dataset
 title: PCEX expert-bundled Python dataset
 description: A dataset produced from the PCEX programming-learning system containing 123 introductory Python programs organized into 49 expert-labeled bundles of worked examples and related code-completion challenges.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

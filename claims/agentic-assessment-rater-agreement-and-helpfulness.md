@@ -3,7 +3,7 @@ type: claim
 title: "AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners"
 description: "AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners"
 id: agentic-assessment-rater-agreement-and-helpfulness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

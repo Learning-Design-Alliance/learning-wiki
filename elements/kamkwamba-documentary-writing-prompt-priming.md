@@ -3,7 +3,7 @@ type: element
 id: kamkwamba-documentary-writing-prompt-priming
 title: Kamkwamba documentary plus writing prompt as memory-priming preparation for focus group discussions
 description: "Before the focus group discussions, participants watched a brief documentary of William Kamkwamba's windmill-building problem-solving and completed a 20-minute writing prompt recalling everyday problems and how one wa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.
 description: Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to o...
 id: well-designed-games-foster-practice-and-intrinsic-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5
 description: Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5
 id: web-search-higher-quality-justifications-than-llm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

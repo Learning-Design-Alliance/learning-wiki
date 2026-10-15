@@ -3,7 +3,7 @@ type: claim
 title: Passive backdoor defense (SBD) effectiveness is distillation-dependent, degrading under persona-centric abstraction
 description: Passive backdoor defense (SBD) effectiveness is distillation-dependent, degrading under persona-centric abstraction
 id: passive-sbd-defense-distillation-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

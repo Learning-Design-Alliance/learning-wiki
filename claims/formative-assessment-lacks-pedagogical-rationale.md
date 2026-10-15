@@ -3,7 +3,7 @@ type: claim
 title: The article argues that existing definitions of formative assessment lack a clear rationale delimiting the construct within broader theories of pedagogy.
 description: The article argues that existing definitions of formative assessment lack a clear rationale delimiting the construct within broader theories of pedagogy.
 id: formative-assessment-lacks-pedagogical-rationale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

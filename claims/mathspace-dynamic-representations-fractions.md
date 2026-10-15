@@ -3,7 +3,7 @@ type: claim
 title: Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same
 description: Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same
 id: mathspace-dynamic-representations-fractions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: genai-journalism-assessment-ethical-framework
 title: "An ethical framework integrating Experiential Learning Design with Bloom's revised taxonomy scaffolds GenAI-integrated journalism assessment"
 description: The article presents a practice-based curriculum intervention built on an ethical framework that embeds GenAI into undergraduate journalism assessment.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

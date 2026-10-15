@@ -3,7 +3,7 @@ type: claim
 title: "Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases"
 description: "Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases"
 id: within-session-hs-shifts-toward-closure-srl-increases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

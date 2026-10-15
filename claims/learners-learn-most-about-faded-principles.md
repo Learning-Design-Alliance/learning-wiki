@@ -3,7 +3,7 @@ type: claim
 title: Learners learned most about those principles that were faded
 description: Learners learned most about those principles that were faded
 id: learners-learn-most-about-faded-principles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

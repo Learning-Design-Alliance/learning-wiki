@@ -3,7 +3,7 @@ type: claim
 title: Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant
 description: Math confidence increased slightly among students completing both baseline and end-of-year surveys, but the difference was not statistically significant
 id: breakthrough-tutoring-confidence-gain-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Students' reports of parental support for learning are far higher in top quartile schools, where two-thirds report moderate or very supportive parents"
 description: "Students' reports of parental support for learning are far higher in top quartile schools, where two-thirds report moderate or very supportive parents"
 id: parental-support-for-learning-quartile-contrast
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

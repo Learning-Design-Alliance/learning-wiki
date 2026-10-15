@@ -3,7 +3,7 @@ type: claim
 title: Overall false positive and false negative error rates in teacher value-added performance classification are about 10 and 20 percent, respectively
 description: Overall false positive and false negative error rates in teacher value-added performance classification are about 10 and 20 percent, respectively
 id: value-added-false-positive-negative-rates-10-20-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

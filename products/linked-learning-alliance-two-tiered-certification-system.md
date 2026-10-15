@@ -4,7 +4,7 @@ id: linked-learning-alliance-two-tiered-certification-system
 title: Linked Learning Alliance two-tiered certification system
 description: A certification framework run by the Linked Learning Alliance to evaluate and support secondary-school Linked Learning pathways combining academics, career technical education, work-based learning, and student support services.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

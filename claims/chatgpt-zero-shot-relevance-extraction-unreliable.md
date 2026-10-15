@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality
 description: ChatGPT zero-shot relevance extraction for instruction-quality assessment retrieves mostly irrelevant utterances and overestimates instruction quality
 id: chatgpt-zero-shot-relevance-extraction-unreliable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

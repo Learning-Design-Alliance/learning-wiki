@@ -3,7 +3,7 @@ type: strategy
 id: early-identification-kindergarten-intervention-before-third-grade
 title: Use kindergarten-entry test data for early identification so educators can intervene before third grade
 description: "The page's description of the \"Behind at the starting line\" brief frames early identification as an actionable practice: \"This early identification is key for educators, enabling them to intervene and influence learni..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

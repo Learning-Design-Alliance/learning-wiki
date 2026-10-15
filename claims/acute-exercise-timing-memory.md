@@ -1,7 +1,7 @@
 ---
 type: claim
 title: The timing of acute exercise relative to learning modulates memory consolidation
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

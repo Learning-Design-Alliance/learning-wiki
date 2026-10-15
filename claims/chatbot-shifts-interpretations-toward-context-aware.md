@@ -3,7 +3,7 @@ type: claim
 title: Qualitative case narratives show the chatbot shifted stakeholders from narrow, visually driven readings toward conditional, context-aware interpretations
 description: Qualitative case narratives show the chatbot shifted stakeholders from narrow, visually driven readings toward conditional, context-aware interpretations
 id: chatbot-shifts-interpretations-toward-context-aware
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

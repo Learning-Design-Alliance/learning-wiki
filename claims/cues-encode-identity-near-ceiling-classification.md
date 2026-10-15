@@ -3,7 +3,7 @@ type: claim
 title: Dialogue-derived interactional cues robustly encode ground-truth identity, achieving near-ceiling AI identification under cross-validation
 description: Dialogue-derived interactional cues robustly encode ground-truth identity, achieving near-ceiling AI identification under cross-validation
 id: cues-encode-identity-near-ceiling-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems"
 description: "Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems"
 id: variability-effect-format-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

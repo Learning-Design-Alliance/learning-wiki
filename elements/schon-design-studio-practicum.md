@@ -3,7 +3,7 @@ type: element
 id: schon-design-studio-practicum
 title: "Schon's design-studio practicum as a reflective learning environment"
 description: "The paper describes Schon's ideal learning environment, the practicum, in which teacher and student confront real problems in a secure, almost-real setting and grow together through dialogue."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

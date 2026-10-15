@@ -3,7 +3,7 @@ type: strategy
 id: support-employee-ai-professional-learning
 title: Support employee professional learning about AI through onboarding, transparency, direct tool access, and job-embedded training
 description: "The brief recommends that employers support workers' professional learning amid new AI tools by providing \"comprehensive onboarding and continuing education programs that enable workers to adapt to evolving technologi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

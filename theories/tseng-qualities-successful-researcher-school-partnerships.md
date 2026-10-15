@@ -2,7 +2,7 @@
 type: theory
 title: "Tseng's (2012) qualities of successful researcher-school partnerships: trust, shared commitments, and open dialogue to improve research and its use"
 description: This framework defines what makes researcher-school partnerships successful.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

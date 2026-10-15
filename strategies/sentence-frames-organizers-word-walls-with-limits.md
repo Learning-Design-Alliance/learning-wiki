@@ -3,7 +3,7 @@ type: strategy
 id: sentence-frames-organizers-word-walls-with-limits
 title: Support English learners with sentence frames, graphic organizers, and word walls—but supplement frames with level-appropriate strategies because frames can limit the range of student responses
 description: "Teachers created sentence frames matched to each phase's language function to reinforce grammatical structures (e.g., \"I think _____ because _____\" for predictions), integrated graphic organizers to help English learn..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

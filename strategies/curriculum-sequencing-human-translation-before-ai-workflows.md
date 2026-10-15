@@ -3,7 +3,7 @@ type: strategy
 id: curriculum-sequencing-human-translation-before-ai-workflows
 title: Sequence the legal translation curriculum from human from-scratch translation to AI-assisted workflows, with strategic AI literacy from the outset
 description: "A pedagogical principle for legal translator education: students should first develop legal translation methodology and core translation competences through human from-scratch translation before progressing to AI-assi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

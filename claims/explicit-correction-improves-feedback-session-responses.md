@@ -3,7 +3,7 @@ type: claim
 title: "Explicit correction improves adult L2 learners' responses on corrected suffixation items during the feedback session"
 description: "Explicit correction improves adult L2 learners' responses on corrected suffixation items during the feedback session"
 id: explicit-correction-improves-feedback-session-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers"
 description: "Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers"
 id: early-fraction-foundations-given-rational-number-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

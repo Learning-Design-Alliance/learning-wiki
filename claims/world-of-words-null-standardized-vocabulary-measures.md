@@ -3,7 +3,7 @@ type: claim
 title: World of Words showed no statistically significant effects on the Woodcock-Johnson Picture Vocabulary Subtest or the PPVT-IV
 description: World of Words showed no statistically significant effects on the Woodcock-Johnson Picture Vocabulary Subtest or the PPVT-IV
 id: world-of-words-null-standardized-vocabulary-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

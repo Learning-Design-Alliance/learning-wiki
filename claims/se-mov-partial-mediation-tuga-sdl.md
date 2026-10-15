@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy and motivation partially mediate the negative relationship between thoughtless GenAI use and self-directed learning, including a sequential SE→MOV pathway
 description: Self-efficacy and motivation partially mediate the negative relationship between thoughtless GenAI use and self-directed learning, including a sequential SE→MOV pathway
 id: se-mov-partial-mediation-tuga-sdl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

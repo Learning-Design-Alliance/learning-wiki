@@ -3,7 +3,7 @@ type: claim
 title: Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks
 description: Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks
 id: retrieval-practice-reading-comprehension-no-significant-retention-interval-difference
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: strategy
 id: planned-ai-instruction-enhancements-rag-multiturn
 title: "Planned enhancements: multi-turn conversational follow-up, RAG-based personalization, and feedback analytics for AI-assisted instruction"
 description: "The authors outline future iterations of the instructional assistant: interactive or multi-turn LLM feedback so students can ask follow-up questions simulating a conversational tutoring experience; Retrieval-Augmented..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

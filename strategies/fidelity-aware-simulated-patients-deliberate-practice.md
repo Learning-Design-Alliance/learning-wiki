@@ -3,7 +3,7 @@ type: strategy
 id: fidelity-aware-simulated-patients-deliberate-practice
 title: Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice
 description: The authors position the system as supporting deliberate practice — repeated, goal-directed exercises with immediate feedback in controlled environments — rather than replacing supervision.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

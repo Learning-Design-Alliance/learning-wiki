@@ -4,7 +4,7 @@ id: upgrade
 title: UpGrade
 description: "UpGrade is a free, open-source platform developed for conducting field trials in educational technology software, including experiments integrated with Carnegie Learning's MATHia adaptive mathematics tutoring system."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

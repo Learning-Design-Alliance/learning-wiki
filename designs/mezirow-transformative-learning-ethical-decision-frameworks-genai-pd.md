@@ -3,7 +3,7 @@ type: design
 id: mezirow-transformative-learning-ethical-decision-frameworks-genai-pd
 title: Transformative learning theory combined with ethical decision-making frameworks as the design basis for GenAI professional development
 description: "The article grounds its professional development design in Mezirow's Transformative Learning Theory together with \"established ethical decision-making frameworks in educational technology.\" This combined framework pos..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

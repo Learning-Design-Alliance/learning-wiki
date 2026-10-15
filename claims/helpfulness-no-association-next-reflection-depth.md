@@ -3,7 +3,7 @@ type: claim
 title: Expressed helpfulness of AI feedback showed no association with next essay reflection depth
 description: Expressed helpfulness of AI feedback showed no association with next essay reflection depth
 id: helpfulness-no-association-next-reflection-depth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

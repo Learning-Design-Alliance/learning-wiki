@@ -3,7 +3,7 @@ type: design
 id: gpt4-curriculum-prerequisite-knowledge-graph
 title: GPT-4-extracted curriculum prerequisite knowledge graph (54 topic nodes, 47 directed prerequisite edges)
 description: A prerequisite knowledge graph extracted by GPT-4 from 26 lesson PDFs of a graduate-level AI course, following a three-stage protocol of topic extraction, boundary consolidation, and edge extraction.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The CP model fits seasonal achievement data better than a traditional polynomial growth model on RMSE, AIC, and BIC while reducing residual autocorrelation
 description: The CP model fits seasonal achievement data better than a traditional polynomial growth model on RMSE, AIC, and BIC while reducing residual autocorrelation
 id: cp-model-fits-seasonal-growth-better-than-polynomial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

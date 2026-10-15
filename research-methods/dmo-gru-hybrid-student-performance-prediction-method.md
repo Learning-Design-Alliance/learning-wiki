@@ -3,7 +3,7 @@ type: research-method
 id: dmo-gru-hybrid-student-performance-prediction-method
 title: DMO-GRU hybrid student performance prediction method
 description: The DMO-GRU framework combines the Dwarf Mongoose Optimization algorithm with a Gated Recurrent Unit neural network.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

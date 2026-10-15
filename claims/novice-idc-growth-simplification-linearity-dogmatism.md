@@ -3,7 +3,7 @@ type: claim
 title: Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds
 description: Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds
 id: novice-idc-growth-simplification-linearity-dogmatism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

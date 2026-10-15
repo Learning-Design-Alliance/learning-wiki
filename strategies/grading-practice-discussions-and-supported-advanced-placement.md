@@ -3,7 +3,7 @@ type: strategy
 id: grading-practice-discussions-and-supported-advanced-placement
 title: "District and school leaders should hold widespread discussions of grading practices and pair any expansion of boys' advanced-course enrollment with supports for students and teachers"
 description: "The report's implications section recommends that CPS renew its professional grading standards guidelines and hold districtwide discussion of grading categories and weights, since \"Weighting decisions have subtle but..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

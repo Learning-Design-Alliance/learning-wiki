@@ -3,7 +3,7 @@ type: strategy
 id: guided-reflection-tailored-to-reflective-judgment-levels
 title: "Teacher educators should recognize preservice teachers' reflective judgment levels and provide guided reflection tailored to their epistemological assumptions"
 description: "This strategy directs teacher educators to take preservice teachers' epistemological development into account when guiding reflection on field experiences."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

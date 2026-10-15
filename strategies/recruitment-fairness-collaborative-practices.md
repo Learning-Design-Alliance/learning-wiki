@@ -3,7 +3,7 @@ type: strategy
 id: recruitment-fairness-collaborative-practices
 title: Demonstrate commitment to fairness and collaborative practices when recruiting districts and schools
 description: This strategy directs researchers to show commitment to fairness and collaborative practices when recruiting districts and schools into impact studies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples
 description: Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples
 id: demand-for-power-specific-hands-on-ai-examples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

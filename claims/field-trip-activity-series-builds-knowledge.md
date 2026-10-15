@@ -3,7 +3,7 @@ type: claim
 title: "The packet's authors assert that pre-, on-site, and post-visit activities build on students' newly gained knowledge when performed in series"
 description: "The packet's authors assert that pre-, on-site, and post-visit activities build on students' newly gained knowledge when performed in series"
 id: field-trip-activity-series-builds-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

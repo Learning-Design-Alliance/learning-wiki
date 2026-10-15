@@ -3,7 +3,7 @@ type: strategy
 id: explicit-interpersonal-skills-instruction
 title: Explicit Interpersonal Skills Instruction
 description: Students who have had little opportunity to practice basic social skills — courtesy, eye contact, attentive body language — can be taught them through modeling in literature or games, mentoring relationships, and low-pressure behaviorist practice, in ways that avoid feeling punitive, preachy, or shaming.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

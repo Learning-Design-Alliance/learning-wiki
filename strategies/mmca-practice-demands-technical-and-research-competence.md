@@ -3,7 +3,7 @@ type: strategy
 id: mmca-practice-demands-technical-and-research-competence
 title: Applying MMCA in practice demands both technical and research competence
 description: "This strategy captures the review's practical guidance that putting MMCA into real educational use is not only a technical undertaking but also a research one."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

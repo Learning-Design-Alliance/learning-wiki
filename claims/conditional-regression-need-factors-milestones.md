@@ -3,7 +3,7 @@ type: claim
 title: After accounting for other factors, colleges with higher shares of first-generation, older, English learner, and academically disadvantaged students still earned fewer milestones, while economic disadvantage and dual-credit shares were no longer significant
 description: After accounting for other factors, colleges with higher shares of first-generation, older, English learner, and academically disadvantaged students still earned fewer milestones, while economic disadvantage and dual-...
 id: conditional-regression-need-factors-milestones
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

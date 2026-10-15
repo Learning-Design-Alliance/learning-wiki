@@ -3,7 +3,7 @@ type: design
 id: learn-pillars-motivation-scaffolding-mentoring
 title: "Three foundational pillars of LEARN: motivation, scaffolding, and mentoring"
 description: "The LEARN framework rests on three foundational pillars that act as enabling conditions: 'Motivation, Scaffolding and Mentoring'."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

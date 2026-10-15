@@ -3,7 +3,7 @@ type: claim
 title: LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions compared with ML and BERT models
 description: LLMs show robust zero- and few-shot Bloom classification of OOD AI-assisted questions compared with ML and BERT models
 id: llms-robust-ood-bloom-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

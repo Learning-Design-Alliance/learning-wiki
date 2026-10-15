@@ -3,7 +3,7 @@ type: claim
 title: Chain-of-Thought prompting improves KC planning for Qwen models but its effect varies by model and educational stage
 description: Chain-of-Thought prompting improves KC planning for Qwen models but its effect varies by model and educational stage
 id: cot-effect-varies-model-stage-kc-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

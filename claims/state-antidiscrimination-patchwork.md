@@ -3,7 +3,7 @@ type: claim
 title: State antidiscrimination laws provide only a patchwork of protection from racial discrimination in education
 description: State antidiscrimination laws provide only a patchwork of protection from racial discrimination in education
 id: state-antidiscrimination-patchwork
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

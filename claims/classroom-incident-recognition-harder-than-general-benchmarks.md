@@ -3,7 +3,7 @@ type: claim
 title: "Classroom incident recognition is substantially harder than established general action-recognition benchmarks, with PoseC3D dropping from over 94% accuracy to 70.54%"
 description: "Classroom incident recognition is substantially harder than established general action-recognition benchmarks, with PoseC3D dropping from over 94% accuracy to 70.54%"
 id: classroom-incident-recognition-harder-than-general-benchmarks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

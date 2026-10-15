@@ -3,7 +3,7 @@ type: claim
 title: Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos
 description: Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos
 id: chatgpt-teachable-agent-knowledge-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

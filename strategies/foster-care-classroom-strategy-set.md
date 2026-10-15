@@ -3,7 +3,7 @@ type: strategy
 id: foster-care-classroom-strategy-set
 title: "Classroom strategy set for supporting students in foster care: buddies, helper tasks, structure, earned rewards, small successes, sincere praise, kept promises, high expectations, clean slates, and assumption-free assignments"
 description: "Teachers in the discussion groups shared a set of classroom strategies for students in foster care: buddy systems and hand-picked helpful groups, matching each child with a caring adult at school, giving the child a h..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

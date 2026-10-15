@@ -3,7 +3,7 @@ type: strategy
 id: intermediate-exams-explain-own-code-ai-tools
 title: Intermediate exams that require students to explain their own code to counter blind use of AI tools
 description: Assessment combined project work with two intermediate exams designed to verify comprehension rather than tool output.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

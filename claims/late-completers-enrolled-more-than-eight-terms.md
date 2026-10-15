@@ -3,7 +3,7 @@ type: claim
 title: "Most CPS completers who took longer than four years were enrolled more than eight terms: 67% finished in nine or ten terms and 12% in eleven or twelve"
 description: "Most CPS completers who took longer than four years were enrolled more than eight terms: 67% finished in nine or ten terms and 12% in eleven or twelve"
 id: late-completers-enrolled-more-than-eight-terms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

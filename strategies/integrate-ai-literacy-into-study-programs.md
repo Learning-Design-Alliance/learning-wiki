@@ -3,7 +3,7 @@ type: strategy
 id: integrate-ai-literacy-into-study-programs
 title: Integrate AI literacy instruction into study programs alongside responsible tool design
 description: The authors argue that fostering responsible AI usage extends beyond tool design because students will continue using general-purpose LLMs regardless.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

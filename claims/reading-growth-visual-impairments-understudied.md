@@ -3,7 +3,7 @@ type: claim
 title: Little is known about growth in reading for students with visual impairments as they progress through school
 description: Little is known about growth in reading for students with visual impairments as they progress through school
 id: reading-growth-visual-impairments-understudied
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

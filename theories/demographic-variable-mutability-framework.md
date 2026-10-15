@@ -2,7 +2,7 @@
 type: theory
 title: Demographic variable mutability as an organizing distinction for predictor selection
 description: The article organizes the debate around what a demographic variable is and whether schools can change it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

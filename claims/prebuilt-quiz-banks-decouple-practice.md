@@ -3,7 +3,7 @@ type: claim
 title: Prebuilt quiz banks of 435 questions across 65 modules decouple practice from live generation, with warm practice-request medians of 4.8 and 5.8 ms
 description: Prebuilt quiz banks of 435 questions across 65 modules decouple practice from live generation, with warm practice-request medians of 4.8 and 5.8 ms
 id: prebuilt-quiz-banks-decouple-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell before it, independent of choice.
 description: During motor practice with knowledge of results, all groups reduced absolute error across blocks, and groups whose KR decision fell after the trial were more accurate during practice than groups whose decision fell be...
 id: motor-practice-accuracy-improves-across-blocks-and-favors-after-decision-groups
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

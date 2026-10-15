@@ -3,7 +3,7 @@ type: element
 id: cps-summer-bridge-program
 title: Chicago Public Schools Summer Bridge program
 description: Summer Bridge is a large mandatory summer school program required for Chicago third, sixth, and eighth graders who fail ITBS promotional test-score cutoffs, with over 21,000 students required to attend each year from...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

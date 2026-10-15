@@ -3,7 +3,7 @@ type: claim
 title: Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings
 description: Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings
 id: scaffolded-support-constructive-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

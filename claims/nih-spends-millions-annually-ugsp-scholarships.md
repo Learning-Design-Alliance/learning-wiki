@@ -3,7 +3,7 @@ type: claim
 title: NIH spends millions of dollars annually on scholarships for disadvantaged undergraduate science students
 description: NIH spends millions of dollars annually on scholarships for disadvantaged undergraduate science students
 id: nih-spends-millions-annually-ugsp-scholarships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

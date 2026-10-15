@@ -3,7 +3,7 @@ type: design
 id: reactive-proactive-ai-writing-agents-platform
 title: Reactive and proactive AI writing agents on a minimalist multimodal writing platform
 description: "The study developed two AI agents that manipulated conversational initiative while holding other features constant: both used the same interface, visual inputs, VizChat architecture, Retrieval-Augmented Generation pip..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

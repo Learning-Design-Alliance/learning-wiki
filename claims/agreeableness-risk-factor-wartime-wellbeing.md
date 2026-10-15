@@ -3,7 +3,7 @@ type: claim
 title: Agreeableness is unexpectedly a weak risk factor for well-being decline in wartime students
 description: Agreeableness is unexpectedly a weak risk factor for well-being decline in wartime students
 id: agreeableness-risk-factor-wartime-wellbeing
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

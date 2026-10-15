@@ -3,7 +3,7 @@ type: claim
 title: Curriculum document type and competency framework significantly predict LLM prediction accuracy, and zero-shot LLMs systematically overestimate competency coverage
 description: Curriculum document type and competency framework significantly predict LLM prediction accuracy, and zero-shot LLMs systematically overestimate competency coverage
 id: llm-accuracy-regression-overestimation-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

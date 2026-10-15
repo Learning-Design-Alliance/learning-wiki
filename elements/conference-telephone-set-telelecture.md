@@ -3,7 +3,7 @@ type: element
 id: conference-telephone-set-telelecture
 title: Conference Telephone Set for classroom telelectures
 description: A Conference Telephone Set, borrowed from the university telephone office for each lecture, was the audio equipment used to deliver hour-long expert telelectures to the seminar room.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

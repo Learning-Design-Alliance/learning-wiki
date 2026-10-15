@@ -3,7 +3,7 @@ type: claim
 title: Early Risers has potentially positive effects on social outcomes, driven by a significant Social Skills Composite effect in one of two studies
 description: Early Risers has potentially positive effects on social outcomes, driven by a significant Social Skills Composite effect in one of two studies
 id: early-risers-potentially-positive-social-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

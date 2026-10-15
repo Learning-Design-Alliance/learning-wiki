@@ -3,7 +3,7 @@ type: claim
 title: District leaders can use a data-driven approach to understand and address opportunity gaps in advanced course-taking
 description: District leaders can use a data-driven approach to understand and address opportunity gaps in advanced course-taking
 id: data-driven-approach-address-course-taking-opportunity-gaps-gbsd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

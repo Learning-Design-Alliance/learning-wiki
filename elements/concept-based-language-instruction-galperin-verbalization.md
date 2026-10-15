@@ -3,7 +3,7 @@ type: element
 id: concept-based-language-instruction-galperin-verbalization
 title: "Concept-Based Language Instruction with Gal'perin's verbalization phases"
 description: Concept-Based Language Instruction is a classroom approach SCT-L2 researchers have investigated for about 15 years, based on P.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Item difficulty was best predicted using signal from the item stem
 description: Item difficulty was best predicted using signal from the item stem
 id: difficulty-best-predicted-from-item-stem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

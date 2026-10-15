@@ -3,7 +3,7 @@ type: claim
 title: Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots
 description: Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots
 id: non-user-reasons-training-trust-integrity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

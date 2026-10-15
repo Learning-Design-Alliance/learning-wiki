@@ -2,7 +2,7 @@
 type: claim
 title: Multimodal, culturally grounded formative assessment supports engagement and agency
 id: multimodal-culturally-grounded-assessment-supports-engagement-and-agency
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

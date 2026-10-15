@@ -3,7 +3,7 @@ type: claim
 title: Few-shot prompting does not improve diagnostic F1 or accuracy but reduces evidence over-attribution and false-attribution
 description: Few-shot prompting does not improve diagnostic F1 or accuracy but reduces evidence over-attribution and false-attribution
 id: few-shot-prompting-no-f1-gain-reduces-overattribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

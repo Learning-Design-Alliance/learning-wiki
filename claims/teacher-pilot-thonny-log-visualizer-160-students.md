@@ -3,7 +3,7 @@ type: claim
 title: In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements
 description: In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements
 id: teacher-pilot-thonny-log-visualizer-160-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

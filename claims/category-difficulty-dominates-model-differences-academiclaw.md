@@ -3,7 +3,7 @@ type: claim
 title: "Task category is the dominant factor in agent performance: cross-category spread (26.3 points) far exceeds cross-model spread (8.8 points)"
 description: "Task category is the dominant factor in agent performance: cross-category spread (26.3 points) far exceeds cross-model spread (8.8 points)"
 id: category-difficulty-dominates-model-differences-academiclaw
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

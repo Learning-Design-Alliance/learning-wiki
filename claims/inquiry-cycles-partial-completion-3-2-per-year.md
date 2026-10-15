@@ -3,7 +3,7 @@ type: claim
 title: Most schools engaged in inquiry cycles, but teams completed only about half of the cycles they initiated, averaging 3.2 cycles per year
 description: Most schools engaged in inquiry cycles, but teams completed only about half of the cycles they initiated, averaging 3.2 cycles per year
 id: inquiry-cycles-partial-completion-3-2-per-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

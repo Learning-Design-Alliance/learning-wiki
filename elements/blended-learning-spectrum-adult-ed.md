@@ -3,7 +3,7 @@ type: element
 id: blended-learning-spectrum-adult-ed
 title: Spectrum of blended learning implementation models for adult education
 description: The report describes implementation models along a spectrum of blended learning, from models where the instructor delivers most teaching with little computer time, to models where most instruction is delivered by the...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

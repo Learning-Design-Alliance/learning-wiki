@@ -4,7 +4,7 @@ title: Rapid guessing on achievement tests tends to be fairly state-like rather 
 description: Rapid guessing on achievement tests tends to be fairly state-like rather than a stable trait-like behavior, compared to academic achievement scores which are fairly stable
 id: rapid-guessing-state-like-not-trait
 aliases: [rapid-guessing-more-state-like-than-achievement]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

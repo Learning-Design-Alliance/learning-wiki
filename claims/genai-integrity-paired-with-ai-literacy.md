@@ -3,7 +3,7 @@ type: claim
 title: Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive
 description: Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive
 id: genai-integrity-paired-with-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

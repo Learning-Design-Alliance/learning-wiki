@@ -3,7 +3,7 @@ type: strategy
 id: embed-genai-practice-tool-in-subject-workflow
 title: "Embed the tool in the subject's workflow and design feed-forward prompts, symbolic-answer handling, and progress tracking before full release"
 description: "The authors distil six transferable recommendations for educators adopting the approach: \"Keep the human in the loop at solution verification, not real-time grading\"; design feedback prompts explicitly around feed-for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

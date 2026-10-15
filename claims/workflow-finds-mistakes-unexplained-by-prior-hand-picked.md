@@ -3,7 +3,7 @@ type: claim
 title: The workflow discovers new mistake candidates not explained by prior hand-picked mistakes, such as an exclusive-or-instead-of-negated-conjunction mistake
 description: The workflow discovers new mistake candidates not explained by prior hand-picked mistakes, such as an exclusive-or-instead-of-negated-conjunction mistake
 id: workflow-finds-mistakes-unexplained-by-prior-hand-picked
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

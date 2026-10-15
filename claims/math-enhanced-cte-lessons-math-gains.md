@@ -3,7 +3,7 @@ type: claim
 title: CTE course-taking generally has little or no effect on academic achievement, but math-enhanced CTE lessons significantly improved standardized math performance
 description: CTE course-taking generally has little or no effect on academic achievement, but math-enhanced CTE lessons significantly improved standardized math performance
 id: math-enhanced-cte-lessons-math-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

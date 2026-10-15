@@ -3,7 +3,7 @@ type: research-method
 id: multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection
 title: Multimodal classroom-video analysis for teacher–student interaction detection
 description: "A computational pipeline combining three modalities from high school mathematics classroom videos: OpenPose pose estimation with Euclidean-distance tracking postprocessing and group boundary boxes, openSMILE eGeMAPS acoustic/prosodic features (88 features), and WhisperX word-level transcripts aligne"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

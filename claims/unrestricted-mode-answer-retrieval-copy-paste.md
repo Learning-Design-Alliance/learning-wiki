@@ -3,7 +3,7 @@ type: claim
 title: "Most unrestricted-mode interactions were direct answer retrieval: 52.9% of exercise interactions were copy-paste of the question, and participant answers were linguistically near-identical to chatbot text in 25.3% of cases"
 description: "Most unrestricted-mode interactions were direct answer retrieval: 52.9% of exercise interactions were copy-paste of the question, and participant answers were linguistically near-identical to chatbot text in 25.3% of..."
 id: unrestricted-mode-answer-retrieval-copy-paste
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

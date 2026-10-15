@@ -3,7 +3,7 @@ type: claim
 title: OpenStax Kinetic shifted from gift cards to shareable digital badges to incentivize adult learners to participate in research studies
 description: OpenStax Kinetic shifted from gift cards to shareable digital badges to incentivize adult learners to participate in research studies
 id: digital-badges-incentivize-opt-in-research-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

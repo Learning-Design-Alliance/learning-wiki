@@ -3,7 +3,7 @@ type: claim
 title: Content-based offloading profiles (k=5) reveal qualitatively distinct offloading patterns with significant differences in learning strategies, behavioural markers, and essay authorship
 description: Content-based offloading profiles (k=5) reveal qualitatively distinct offloading patterns with significant differences in learning strategies, behavioural markers, and essay authorship
 id: content-based-offloading-profiles-qualitatively-distinct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

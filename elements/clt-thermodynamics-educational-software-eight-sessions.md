@@ -3,7 +3,7 @@ type: element
 id: clt-thermodynamics-educational-software-eight-sessions
 title: Eight-session CLT-based thermodynamics educational software
 description: A desktop-based, guided learning module of eight sessions covering the thermodynamics unit of General Chemistry II, developed for individual self-paced learning with exercises and feedback.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

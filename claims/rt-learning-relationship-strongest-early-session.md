@@ -3,7 +3,7 @@ type: claim
 title: The RT propensity–learning relationship is strongest early in the class session and attenuates later
 description: The RT propensity–learning relationship is strongest early in the class session and attenuates later
 id: rt-learning-relationship-strongest-early-session
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

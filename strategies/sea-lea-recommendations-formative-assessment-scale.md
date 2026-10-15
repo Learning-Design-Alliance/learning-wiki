@@ -3,7 +3,7 @@ type: strategy
 id: sea-lea-recommendations-formative-assessment-scale
 title: Recommendations for state education agencies and districts implementing formative assessment at scale
 description: The brief closes with recommendations for SEAs — build on existing relationships with LEAs to identify systems ready for change; identify and extend partnerships yielding thought partners and content expertise; develo...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

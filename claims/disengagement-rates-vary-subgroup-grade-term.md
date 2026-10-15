@@ -3,7 +3,7 @@ type: claim
 title: Disengaged test-taking rates varied greatly by subgroup, grade, and term in this sample
 description: Disengaged test-taking rates varied greatly by subgroup, grade, and term in this sample
 id: disengagement-rates-vary-subgroup-grade-term
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The Danielson Framework identified far more teachers as low-performing than the prior CPS checklist (8 percent vs 0.3 percent)
 description: The Danielson Framework identified far more teachers as low-performing than the prior CPS checklist (8 percent vs 0.3 percent)
 id: framework-identifies-more-unsatisfactory-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

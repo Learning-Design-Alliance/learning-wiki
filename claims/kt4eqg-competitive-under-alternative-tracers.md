@@ -3,7 +3,7 @@ type: claim
 title: KT4EQG remains competitive when evaluated with alternative knowledge tracers (BKT and DKT), though its advantage varies across modules
 description: KT4EQG remains competitive when evaluated with alternative knowledge tracers (BKT and DKT), though its advantage varies across modules
 id: kt4eqg-competitive-under-alternative-tracers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

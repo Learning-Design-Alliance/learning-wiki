@@ -3,7 +3,7 @@ type: strategy
 id: deploy-ai-videos-supplemental-simple-visual
 title: Deploy AI-generated videos for simple, supplemental, and visual content without displacing instructor presence
 description: "Based on student perceptions in this study, the authors conclude that \"AI videos can play a meaningful role in computing education without displacing instructors' presence that students value.\" Students favored AI vid..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

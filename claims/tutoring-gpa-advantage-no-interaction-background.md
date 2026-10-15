@@ -3,7 +3,7 @@ type: claim
 title: The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status
 description: The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status
 id: tutoring-gpa-advantage-no-interaction-background
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

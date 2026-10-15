@@ -2,7 +2,7 @@
 type: theory
 title: Heterotopic social cartography maps perspectival difference as an intertextual field
 description: "Social cartography is a spatial, postmodern alternative to totalizing utopic representation, drawing on Foucault's notion of heterotopia."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

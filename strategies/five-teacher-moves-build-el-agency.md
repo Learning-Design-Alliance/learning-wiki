@@ -3,7 +3,7 @@ type: strategy
 id: five-teacher-moves-build-el-agency
 title: "Teachers enact agency-building instruction through five moves: valuing strengths, fostering autonomy, encouraging initiative, reinforcing growth mindset, and modeling metacognition"
 description: "The brief enumerates five teacher actions for the agency feature of quality instruction: support students to value the strengths and experiences they bring, design instruction that equips students with strategies and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: stemscopes
 title: STEMscopes
 description: STEMscopes is a comprehensive digital and print K–12 science curriculum with hands-on materials, interactive investigations, and embedded assessments, developed and provided by Accelerate Learning, Inc.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

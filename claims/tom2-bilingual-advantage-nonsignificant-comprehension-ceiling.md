@@ -3,7 +3,7 @@ type: claim
 title: Bilingual children showed a nonsignificant advantage on the hardest theory-of-mind comprehension question, and MAIN comprehension questions may be too easy for the age range
 description: Bilingual children showed a nonsignificant advantage on the hardest theory-of-mind comprehension question, and MAIN comprehension questions may be too easy for the age range
 id: tom2-bilingual-advantage-nonsignificant-comprehension-ceiling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

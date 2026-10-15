@@ -3,7 +3,7 @@ type: claim
 title: "Self-esteem, locus of control and multidimensional perfectionism together significantly predict subjective well-being, jointly accounting for 34.8% of variance, with self-esteem the largest contributor at 28%"
 description: "Self-esteem, locus of control and multidimensional perfectionism together significantly predict subjective well-being, jointly accounting for 34.8% of variance, with self-esteem the largest contributor at 28%"
 id: three-variables-jointly-predict-subjective-well-being-34-8-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

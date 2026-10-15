@@ -3,7 +3,7 @@ type: strategy
 id: phased-optimization-efficacy-scale-up-testing
 title: "Phased iterative testing: optimization testing before efficacy testing before statewide scale-up"
 description: "The partnership sequences program development into distinct phases: \"Conduct optimization testing of Write to Succeed (2023/24)\", then \"Conduct initial efficacy testing of Write to Succeed (2024/25)\", then \"Statewide..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

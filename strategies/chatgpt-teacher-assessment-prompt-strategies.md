@@ -3,7 +3,7 @@ type: strategy
 id: chatgpt-teacher-assessment-prompt-strategies
 title: Teachers can use ChatGPT to generate open-ended question prompts, quality rubrics, and formative assessment prompts aligned with learning goals
 description: "Drawing on Herft (2023), the article recommends specific teacher uses of ChatGPT: creating \"prompts for open-ended questions that align with the learning goals and success criteria of the unit of instruction\", generat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Youth reported a mixed pattern of impact on the success sequence: 60–61 percent were more likely to plan a steady full-time job before having a child or marrying, but only 28–35 percent were more likely to plan to delay sexual intercourse until milestones"
 description: "Youth reported a mixed pattern of impact on the success sequence: 60–61 percent were more likely to plan a steady full-time job before having a child or marrying, but only 28–35 percent were more likely to plan to del..."
 id: project-with-success-sequence-mixed-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: agenticmathqa
 title: AgenticMathQA
 description: AgenticMathQA is a curated 30K, 60K, or 90K mathematical problem-solution dataset released by Liu et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

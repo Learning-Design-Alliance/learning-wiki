@@ -3,7 +3,7 @@ type: claim
 title: Teachers judged LLM-simulated student ideas realistic and most useful when the ideas sparked sensemaking about student thinking and suggested scaffolds
 description: Teachers judged LLM-simulated student ideas realistic and most useful when the ideas sparked sensemaking about student thinking and suggested scaffolds
 id: teachers-perceive-llm-ideas-realistic-sensemaking-useful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

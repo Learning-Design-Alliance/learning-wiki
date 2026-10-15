@@ -3,7 +3,7 @@ type: claim
 title: Over-reliance on AI in chemical experimentation carries ethical considerations and pitfalls as AI automates routine tasks and alters how experiments are conceptualized
 description: Over-reliance on AI in chemical experimentation carries ethical considerations and pitfalls as AI automates routine tasks and alters how experiments are conceptualized
 id: ai-overreliance-pitfalls-chemistry-experimentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

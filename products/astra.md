@@ -4,7 +4,7 @@ id: astra
 title: ASTRA
 description: ASTRA is an end-to-end air-traffic-control training simulator developed by Ethan Chew and colleagues that automates the simpilot role through speech recognition, response generation, and geospatial scenario visualization.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

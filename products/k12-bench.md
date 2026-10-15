@@ -4,7 +4,7 @@ id: k12-bench
 title: K12-Bench
 description: K12-Bench is a 23,640-item multi-select benchmark dataset created by Hao Liang et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

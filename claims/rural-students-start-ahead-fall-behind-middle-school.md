@@ -3,7 +3,7 @@ type: claim
 title: Rural students start kindergarten slightly ahead of nonrural students but fall behind by middle school
 description: Rural students start kindergarten slightly ahead of nonrural students but fall behind by middle school
 id: rural-students-start-ahead-fall-behind-middle-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification"
 description: "Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification"
 id: high-epistemic-engagement-111-percent-mastery-justification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

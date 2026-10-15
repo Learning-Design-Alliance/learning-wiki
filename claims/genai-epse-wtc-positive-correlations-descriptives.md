@@ -3,7 +3,7 @@ type: claim
 title: GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC
 description: GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC
 id: genai-epse-wtc-positive-correlations-descriptives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

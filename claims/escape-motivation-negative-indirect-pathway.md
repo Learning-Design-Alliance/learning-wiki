@@ -3,7 +3,7 @@ type: claim
 title: Escape motivation carries a significant negative indirect association between AI dependence and self-reported creativity
 description: Escape motivation carries a significant negative indirect association between AI dependence and self-reported creativity
 id: escape-motivation-negative-indirect-pathway
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

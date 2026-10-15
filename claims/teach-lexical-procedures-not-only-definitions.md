@@ -3,7 +3,7 @@ type: claim
 title: Vocabulary instruction should focus on procedures of meaning negotiation as much as on declarative word meanings
 description: Vocabulary instruction should focus on procedures of meaning negotiation as much as on declarative word meanings
 id: teach-lexical-procedures-not-only-definitions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

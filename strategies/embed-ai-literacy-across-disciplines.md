@@ -3,7 +3,7 @@ type: strategy
 id: embed-ai-literacy-across-disciplines
 title: Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects
 description: "For curriculum design, the chapter recommends a transdisciplinary approach in which institutions identify \"points of intersection between AI and existing disciplinary content and developing strategies to seamlessly in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

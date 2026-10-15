@@ -3,7 +3,7 @@ type: claim
 title: Art students in a high-inconsistency scenario report stronger challenge and hindrance appraisals than those in a low-inconsistency scenario
 description: Art students in a high-inconsistency scenario report stronger challenge and hindrance appraisals than those in a low-inconsistency scenario
 id: high-inconsistency-scenario-raises-both-appraisals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

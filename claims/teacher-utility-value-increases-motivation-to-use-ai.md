@@ -3,7 +3,7 @@ type: claim
 title: "Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument)."
 description: "Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument)."
 id: teacher-utility-value-increases-motivation-to-use-ai
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

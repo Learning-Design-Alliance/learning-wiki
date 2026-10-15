@@ -3,7 +3,7 @@ type: claim
 title: The selected MLP outperformed gradient boosting for persistent-failure prediction in paired student bootstrap comparison
 description: The selected MLP outperformed gradient boosting for persistent-failure prediction in paired student bootstrap comparison
 id: mlp-outperformed-gradient-boosting-persistent-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

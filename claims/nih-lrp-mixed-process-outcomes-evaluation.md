@@ -3,7 +3,7 @@ type: claim
 title: The NIH Intramural Research Loan Repayment Program evaluation combined an outcomes evaluation with a process analysis drawing on focus groups, staff interviews, and administrative data
 description: The NIH Intramural Research Loan Repayment Program evaluation combined an outcomes evaluation with a process analysis drawing on focus groups, staff interviews, and administrative data
 id: nih-lrp-mixed-process-outcomes-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

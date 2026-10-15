@@ -3,7 +3,7 @@ type: claim
 title: Synthetic control counterfactuals performed poorly for BIO NDL programs because few comparison programs were available
 description: Synthetic control counterfactuals performed poorly for BIO NDL programs because few comparison programs were available
 id: synthetic-control-poor-fit-bio-few-comparisons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

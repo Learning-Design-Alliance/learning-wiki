@@ -3,7 +3,7 @@ type: strategy
 id: effort-moderated-sensitivity-check-strategy
 title: Evaluators should re-estimate IRT scores treating rapid guesses as missing and compare with unadjusted results
 description: "For evaluators with appropriate computer-based test metadata, the paper recommends a sensitivity workflow: set response-time thresholds, then apply \"the most defensible and conservative approach is to re-estimate IRT-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

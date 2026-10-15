@@ -3,7 +3,7 @@ type: claim
 title: Evidence on LLM-based family education remains limited across families and educational purposes, especially on sustained personalization, repair labor, and negotiation of authority and rules
 description: Evidence on LLM-based family education remains limited across families and educational purposes, especially on sustained personalization, repair labor, and negotiation of authority and rules
 id: llm-family-education-evidence-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

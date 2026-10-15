@@ -3,7 +3,7 @@ type: claim
 title: Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail
 description: Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail
 id: enriched-data-improve-achievement-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

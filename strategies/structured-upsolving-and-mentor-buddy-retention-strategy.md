@@ -3,7 +3,7 @@ type: strategy
 id: structured-upsolving-and-mentor-buddy-retention-strategy
 title: Programming clubs should target upsolving discipline and peer network density through structured post-contest review and mentor-buddy systems
 description: "The article recommends that university programming clubs focus retention efforts on two behavioral dimensions: upsolving discipline and peer network density."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

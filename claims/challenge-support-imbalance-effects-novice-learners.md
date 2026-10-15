@@ -3,7 +3,7 @@ type: claim
 title: "Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)"
 description: "Imbalanced challenge and support causes novice library learners to give up or remain dependent (authors' asserted relationship)"
 id: challenge-support-imbalance-effects-novice-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

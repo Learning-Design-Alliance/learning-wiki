@@ -3,7 +3,7 @@ type: strategy
 id: embed-factor-aware-guidance-in-analytics-tools
 title: Embed factor-aware guidance directly within analytics tools at the point of interpretation
 description: The article recommends embedding contextual, factor-aware support inside analytics dashboards rather than leaving biasing considerations implicit.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

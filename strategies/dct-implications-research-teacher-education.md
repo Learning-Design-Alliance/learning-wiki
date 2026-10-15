@@ -3,7 +3,7 @@ type: strategy
 id: dct-implications-research-teacher-education
 title: Apply DCT to educational research and teacher education in the science and practice of educational psychology
 description: "The article identifies specific application areas for dual coding theory within educational psychology: educational research and teacher education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

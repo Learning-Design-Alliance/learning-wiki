@@ -3,7 +3,7 @@ type: theory
 title: Moral Dimensions of Instructional Design
 description: Osguthorpe and colleagues' argument that designing instruction is a moral endeavour, and their framework of five designer consciences (craft, membership, sacrifice, memory, imagination) developed through reflexive judgment.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: strategy
 id: combine-ai-early-draft-human-later-draft-feedback
 title: Combine AI-based feedback on early drafts with human feedback on later drafts, and teach students to evaluate AI feedback critically
 description: The authors recommend deploying generative AI feedback in writing instruction in ways that maximize its strengths (instantaneous, iterative, no training corpus) while minimizing its limitations (inaccuracy, poor prior...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

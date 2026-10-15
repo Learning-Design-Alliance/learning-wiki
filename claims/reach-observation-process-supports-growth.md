@@ -3,7 +3,7 @@ type: claim
 title: Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations
 description: Most teachers and administrators report that the REACH observation process supports teacher professional growth and improved instructional conversations
 id: reach-observation-process-supports-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

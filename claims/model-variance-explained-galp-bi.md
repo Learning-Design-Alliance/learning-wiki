@@ -3,7 +3,7 @@ type: claim
 title: "The structural model explains 71.6% of variance in GenAI-assisted learning procrastination and 58.5% in behavioral intention"
 description: "The structural model explains 71.6% of variance in GenAI-assisted learning procrastination and 58.5% in behavioral intention"
 id: model-variance-explained-galp-bi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

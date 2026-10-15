@@ -3,7 +3,7 @@ type: theory
 title: Zones of Mathematical Play
 description: A descriptive, largely conceptual framework proposing that players in a well-designed mathematical digital game pass non-linearly through five zones — from pure play, through developing a preference and a sense of causality, to hypothesis-testing and finally drawing on prior experience — extending Brousseau's adidactical situations to explain productive mathematical play in older children.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

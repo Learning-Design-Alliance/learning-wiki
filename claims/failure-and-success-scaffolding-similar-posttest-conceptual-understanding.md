@@ -3,7 +3,7 @@ type: claim
 title: Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding
 description: Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding
 id: failure-and-success-scaffolding-similar-posttest-conceptual-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

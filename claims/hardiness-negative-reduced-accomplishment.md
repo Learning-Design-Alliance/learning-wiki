@@ -3,7 +3,7 @@ type: claim
 title: Hardiness is negatively associated with reduced academic accomplishment
 description: Hardiness is negatively associated with reduced academic accomplishment
 id: hardiness-negative-reduced-accomplishment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Teacher concerns do not significantly moderate the support-confidence relationship nor directly predict confidence or attitudes
 description: Teacher concerns do not significantly moderate the support-confidence relationship nor directly predict confidence or attitudes
 id: teacher-concerns-do-not-moderate-support-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Two LAUNCH elementary schools with NBCT clusters showed significantly positive differences on 8 of 16 school measures
 description: Two LAUNCH elementary schools with NBCT clusters showed significantly positive differences on 8 of 16 school measures
 id: launch-nbct-cluster-schools-dramatic-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

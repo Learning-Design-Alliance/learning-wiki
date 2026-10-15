@@ -3,7 +3,7 @@ type: strategy
 id: design-intent-gap-origin-question
 title: "Describe a support system's design intent by asking against whose Synthesis or Analysis it elicits a structural gap"
 description: "The paper proposes using the four-types vocabulary as a diagnostic question for any AI-era support system: \"by what function, and against whose mapping—Synthesis or Analysis—does the system seek to elicit a gap?\" Appl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

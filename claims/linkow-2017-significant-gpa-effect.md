@@ -3,7 +3,7 @@ type: claim
 title: In the Linkow et al. (2017) QED, coaching produced a statistically significant positive effect on cumulative college GPA
 description: In the Linkow et al.
 id: linkow-2017-significant-gpa-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

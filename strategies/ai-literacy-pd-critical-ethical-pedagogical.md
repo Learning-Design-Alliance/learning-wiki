@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-pd-critical-ethical-pedagogical
 title: Faculty professional development treating AI literacy as core professionalism with critical, ethical, and pedagogical emphasis
 description: The article recommends that institutions conceptualize AI literacy development as a core dimension of faculty professionalism rather than a merely technical skill.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

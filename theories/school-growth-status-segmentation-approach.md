@@ -2,7 +2,7 @@
 type: theory
 title: Three-segment school growth-status classification based on confidence intervals around school-level growth estimates
 description: The study formulates a segmentation approach that classifies schools into three growth statuses using school-level growth estimates from a three-level hierarchical linear model.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

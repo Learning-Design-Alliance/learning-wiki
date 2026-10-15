@@ -3,7 +3,7 @@ type: claim
 title: TFA secondary math teachers increase student math achievement by 0.07 standard deviations over one school year relative to other math teachers in the same schools
 description: TFA secondary math teachers increase student math achievement by 0.07 standard deviations over one school year relative to other math teachers in the same schools
 id: tfa-math-teachers-raise-achievement-007-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

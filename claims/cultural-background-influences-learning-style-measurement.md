@@ -3,7 +3,7 @@ type: claim
 title: Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment
 description: Cultural and linguistic background influences measured learning and cognitive styles, and should be considered in style assessment
 id: cultural-background-influences-learning-style-measurement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

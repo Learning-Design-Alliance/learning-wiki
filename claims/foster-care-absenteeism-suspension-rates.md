@@ -3,7 +3,7 @@ type: claim
 title: Students in foster care are more than twice as likely to be chronically absent and more than four times as likely to be suspended as non-foster students
 description: Students in foster care are more than twice as likely to be chronically absent and more than four times as likely to be suspended as non-foster students
 id: foster-care-absenteeism-suspension-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

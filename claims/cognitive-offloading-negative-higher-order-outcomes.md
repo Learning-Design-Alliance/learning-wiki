@@ -3,7 +3,7 @@ type: claim
 title: Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation
 description: Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation
 id: cognitive-offloading-negative-higher-order-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

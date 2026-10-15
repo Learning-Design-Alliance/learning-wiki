@@ -2,7 +2,7 @@
 type: theory
 title: "Pintrich's four-category model of self-regulated learning strategies"
 description: "The article organizes self-regulated learning strategies using the Pintrich model, in which \"self -regulated learning model is explained in four categories: cognitive, metacognitive, resource management , and motivati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

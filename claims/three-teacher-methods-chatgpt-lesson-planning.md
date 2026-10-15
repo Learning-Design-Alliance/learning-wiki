@@ -3,7 +3,7 @@ type: claim
 title: "Teachers adopted three distinct methods for AI-assisted lesson planning, with most (60%) preferring to outline a framework first and then use ChatGPT to refine it"
 description: "Teachers adopted three distinct methods for AI-assisted lesson planning, with most (60%) preferring to outline a framework first and then use ChatGPT to refine it"
 id: three-teacher-methods-chatgpt-lesson-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

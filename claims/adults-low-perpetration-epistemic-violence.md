@@ -3,7 +3,7 @@ type: claim
 title: "Adults' perpetration of education-related epistemic violence on their own or relatives' children is low"
 description: "Adults' perpetration of education-related epistemic violence on their own or relatives' children is low"
 id: adults-low-perpetration-epistemic-violence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

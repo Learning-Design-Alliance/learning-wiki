@@ -3,7 +3,7 @@ type: claim
 title: Only 20 percent of U.S. teachers felt well prepared to integrate educational technology into classroom instruction (1998)
 description: Only 20 percent of U.S.
 id: only-20-percent-teachers-prepared-integrate-technology
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

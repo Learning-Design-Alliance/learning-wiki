@@ -2,7 +2,7 @@
 type: theory
 title: "Course Walls: localized points in a lesson sequence where student momentum to finish is significantly slowed or halted"
 description: "Course Walls are defined as \"areas of the course's lesson sequence wherein the student's momentum to finish the course is significantly slowed or halted\", arising when groups of students drop out near the same point i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

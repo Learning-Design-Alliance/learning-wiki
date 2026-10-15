@@ -3,7 +3,7 @@ type: claim
 title: GenAI training attenuates the predictive effect of prior GenAI experience on revision performance
 description: GenAI training attenuates the predictive effect of prior GenAI experience on revision performance
 id: training-attenuates-genai-experience-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)
 description: LLM access boosts individual story creativity while significantly homogenising output across writers (review attribution)
 id: llm-access-homogenises-creative-output
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

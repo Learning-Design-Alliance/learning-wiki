@@ -3,7 +3,7 @@ type: claim
 title: Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest
 description: Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest
 id: at-fc-si-strongest-bi-correlates-peou-weakest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

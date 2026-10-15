@@ -3,7 +3,7 @@ type: claim
 title: Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial
 description: Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial
 id: paths-preschool-high-implementation-fidelity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

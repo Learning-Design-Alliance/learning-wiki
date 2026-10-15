@@ -3,7 +3,7 @@ type: claim
 title: In SWPBIS-trained schools the share of students with an office discipline referral fell slightly but significantly (18.8% to 18.1%), with no comparison-school data
 description: In SWPBIS-trained schools the share of students with an office discipline referral fell slightly but significantly (18.8% to 18.1%), with no comparison-school data
 id: swpbis-reduced-odr-percentage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

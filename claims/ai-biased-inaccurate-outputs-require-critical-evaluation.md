@@ -3,7 +3,7 @@ type: claim
 title: AI systems can produce biased or inaccurate diagnostic outputs, requiring critical teacher evaluation before integration
 description: AI systems can produce biased or inaccurate diagnostic outputs, requiring critical teacher evaluation before integration
 id: ai-biased-inaccurate-outputs-require-critical-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

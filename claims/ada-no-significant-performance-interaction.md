@@ -3,7 +3,7 @@ type: claim
 title: Learning performance improved over time and differed by group, but ADA showed no significant group-by-time interaction advantage over conventional materials
 description: Learning performance improved over time and differed by group, but ADA showed no significant group-by-time interaction advantage over conventional materials
 id: ada-no-significant-performance-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "An example-based built-in course in a mobile chatbot journaling system increases students' intrinsic motivation for creating a learning journal"
 description: "An example-based built-in course in a mobile chatbot journaling system increases students' intrinsic motivation for creating a learning journal"
 id: example-based-course-increases-journaling-intrinsic-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: In Clark County, One-Star designation significantly raises math and ELA scores for all students
 description: In Clark County, One-Star designation significantly raises math and ELA scores for all students
 id: one-star-designation-clark-county-all-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

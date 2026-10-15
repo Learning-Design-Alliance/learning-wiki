@@ -3,7 +3,7 @@ type: strategy
 id: enrich-storytelling-stimuli-turns-fluency
 title: Enrich story co-creation by adding visual stimuli and interaction turns, and prioritise interaction fluency
 description: Based on user feedback and failure analysis, the authors recommend enriching the number of visual stimuli and increasing the interaction turns between robot and user to improve the richness and depth of co-created sto...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

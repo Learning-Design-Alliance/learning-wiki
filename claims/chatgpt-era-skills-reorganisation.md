@@ -3,7 +3,7 @@ type: claim
 title: The skills required in a world powered by ChatGPT and related technologies will be different from those demanded previously
 description: The skills required in a world powered by ChatGPT and related technologies will be different from those demanded previously
 id: chatgpt-era-skills-reorganisation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

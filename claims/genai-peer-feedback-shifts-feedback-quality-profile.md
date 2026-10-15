@@ -3,7 +3,7 @@ type: claim
 title: GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group
 description: GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group
 id: genai-peer-feedback-shifts-feedback-quality-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

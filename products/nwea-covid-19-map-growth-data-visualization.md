@@ -4,7 +4,7 @@ id: nwea-covid-19-map-growth-data-visualization
 title: NWEA COVID-19 MAP Growth data visualization
 description: An interactive NWEA Research dashboard that visualizes state-level MAP Growth achievement and projected proficiency data for the 2020–2021 school year to inform understanding of pandemic-related learning impacts and recovery.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

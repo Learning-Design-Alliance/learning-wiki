@@ -3,7 +3,7 @@ type: claim
 title: Ninety percent of responding completers rated their preparation program effective or very effective and felt at least adequately prepared across all teaching performance expectation domains
 description: Ninety percent of responding completers rated their preparation program effective or very effective and felt at least adequately prepared across all teaching performance expectation domains
 id: completers-rate-preparation-highly-90-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

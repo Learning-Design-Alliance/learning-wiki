@@ -3,7 +3,7 @@ type: strategy
 id: privacy-conscious-teacher-mediated-genai-feedback-workflow
 title: "Privacy-conscious, teacher-mediated GenAI implementation: anonymized feedback, pre-programmed prompts, and accessible original comments"
 description: "The article's ethics section recommends a microethical implementation for the speaking classroom: students' oral production is not submitted to GenAI agents; instead \"students' anonymized feedback is sent to GenAI age..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

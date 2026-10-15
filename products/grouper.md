@@ -4,7 +4,7 @@ id: grouper
 title: GrouPer
 description: GrouPer is an AI-based student-grouping recommendation tool developed for teachers that uses unsupervised clustering of assessment responses to support formative analysis and assignment of adapted learning activities.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: embed-ai-training-within-science-pedagogy-inquiry-teaching
 title: Embed AI training for pre-service science teachers within science pedagogy and inquiry-based teaching rather than general tool operation
 description: The article recommends that teacher educators go beyond general AI tool operation, such as using ChatGPT or generating teaching materials, and instead embed AI training within science pedagogy and inquiry-based teaching.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

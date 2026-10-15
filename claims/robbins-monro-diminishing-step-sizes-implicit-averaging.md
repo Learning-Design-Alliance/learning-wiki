@@ -3,7 +3,7 @@ type: claim
 title: Diminishing step sizes in stochastic approximation induce implicit averaging that eliminates noise effects in the long run
 description: Diminishing step sizes in stochastic approximation induce implicit averaging that eliminates noise effects in the long run
 id: robbins-monro-diminishing-step-sizes-implicit-averaging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -4,7 +4,7 @@ title: In practice, education data often leaves educators and policymakers unmov
 description: In practice, education data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions
 id: data-often-fails-to-drive-education-decisions
 aliases: [data-often-leaves-educators-unmoved, data-use-often-fails-to-drive-decisions]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

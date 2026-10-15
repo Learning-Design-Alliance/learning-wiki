@@ -3,7 +3,7 @@ type: claim
 title: Growth mindset weakens the indirect effect of AI employment threat perception on career decision-making anxiety through perceived employability
 description: Growth mindset weakens the indirect effect of AI employment threat perception on career decision-making anxiety through perceived employability
 id: growth-mindset-weakens-moderated-mediation-indirect-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

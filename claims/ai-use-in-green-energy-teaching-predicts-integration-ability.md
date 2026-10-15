@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' practical use of AI in science and green energy learning significantly predicts their AI integration ability (β = 0.391, p < 0.01, f² = 0.180)"
 description: "Teachers' practical use of AI in science and green energy learning significantly predicts their AI integration ability (β = 0.391, p < 0.01, f² = 0.180)"
 id: ai-use-in-green-energy-teaching-predicts-integration-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

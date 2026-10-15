@@ -3,7 +3,7 @@ type: claim
 title: High and low CT groups showed comparable prior coding knowledge before the AICA intervention
 description: High and low CT groups showed comparable prior coding knowledge before the AICA intervention
 id: comparable-prior-knowledge-high-low-ct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

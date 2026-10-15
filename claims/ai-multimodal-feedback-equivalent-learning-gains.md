@@ -3,7 +3,7 @@ type: claim
 title: AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance
 description: AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance
 id: ai-multimodal-feedback-equivalent-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "On study habits, grit, and promotion to tenth grade, charter students performed similarly to or slightly below comparable non-charter students, with the promotion gap possibly reflecting charters' higher promotion requirements"
 description: "On study habits, grit, and promotion to tenth grade, charter students performed similarly to or slightly below comparable non-charter students, with the promotion gap possibly reflecting charters' higher promotion req..."
 id: cps-charter-similar-or-lower-behaviors-promotion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

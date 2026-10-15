@@ -3,7 +3,7 @@ type: claim
 title: People value emotional and esteem support more from close humans than from AI systems, with no significant difference for informational support
 description: People value emotional and esteem support more from close humans than from AI systems, with no significant difference for informational support
 id: humans-valued-emotional-esteem-support-over-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

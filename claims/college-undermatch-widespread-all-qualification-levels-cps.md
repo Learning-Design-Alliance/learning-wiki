@@ -3,7 +3,7 @@ type: claim
 title: College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching
 description: College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching
 id: college-undermatch-widespread-all-qualification-levels-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

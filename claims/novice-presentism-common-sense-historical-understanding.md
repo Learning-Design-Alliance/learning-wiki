@@ -3,7 +3,7 @@ type: claim
 title: Before developing historical thinking skills, students approach the past with common sense, including presentism — seeing past people as sharing contemporary values
 description: Before developing historical thinking skills, students approach the past with common sense, including presentism — seeing past people as sharing contemporary values
 id: novice-presentism-common-sense-historical-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The PPE memory model was the best-fitting model for the Andes physics dataset, with the recency feature also beneficial
 description: The PPE memory model was the best-fitting model for the Andes physics dataset, with the recency feature also beneficial
 id: ppe-best-fitting-andes-physics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

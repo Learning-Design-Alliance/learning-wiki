@@ -3,7 +3,7 @@ type: claim
 title: Growing Achievers used StatBot significantly more than Declining Performers, driven mainly by initiating new inquiries
 description: Growing Achievers used StatBot significantly more than Declining Performers, driven mainly by initiating new inquiries
 id: growing-achievers-out-use-declining-performers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

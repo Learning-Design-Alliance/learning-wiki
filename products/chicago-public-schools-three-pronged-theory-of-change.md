@@ -4,7 +4,7 @@ id: chicago-public-schools-three-pronged-theory-of-change
 title: "Chicago Public Schools' three-pronged theory of change"
 description: A Chicago Public Schools reform framework linking improved classroom instruction, school-level leadership, and differentiated district support to instructional improvement and student learning.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

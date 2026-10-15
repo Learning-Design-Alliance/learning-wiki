@@ -3,7 +3,7 @@ type: claim
 title: The framework was developed from a literature review, a 21-expert summit, and 23 leader interviews
 description: The framework was developed from a literature review, a 21-expert summit, and 23 leader interviews
 id: ngss-leadership-framework-development-method
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

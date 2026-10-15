@@ -4,7 +4,7 @@ id: journeys
 title: Journeys
 description: Journeys is a commercial K–6 English language arts curriculum developed and published by Houghton Mifflin Harcourt, with print and optional digital student and teacher materials.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

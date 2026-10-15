@@ -3,7 +3,7 @@ type: claim
 title: Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students
 description: Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students
 id: cps-itbs-racial-ethnic-score-gaps-1992-1999
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

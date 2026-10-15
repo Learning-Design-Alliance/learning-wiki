@@ -3,7 +3,7 @@ type: claim
 title: The number of California students in foster care declined by over 13,000 on Census Day between 2014–15 and 2022–23, with enrollment concentrated in a small number of districts
 description: The number of California students in foster care declined by over 13,000 on Census Day between 2014–15 and 2022–23, with enrollment concentrated in a small number of districts
 id: foster-care-enrollment-declined-concentrated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

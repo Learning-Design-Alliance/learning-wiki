@@ -3,7 +3,7 @@ type: strategy
 id: voi-tco-edtech-investment-evaluation
 title: Evaluate edtech investments by Value of Investment alongside Total Cost of Ownership
 description: The guide recommends that districts move beyond cost analysis when justifying edtech purchases.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

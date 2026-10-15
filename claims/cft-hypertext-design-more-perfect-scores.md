@@ -3,7 +3,7 @@ type: claim
 title: "More experimental-group answers achieved 100% accuracy on achievement tests (23) than control-group answers (13)"
 description: "More experimental-group answers achieved 100% accuracy on achievement tests (23) than control-group answers (13)"
 id: cft-hypertext-design-more-perfect-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

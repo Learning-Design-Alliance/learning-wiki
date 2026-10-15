@@ -3,7 +3,7 @@ type: claim
 title: Race is more strongly associated with preschool chronic absenteeism than neighborhood poverty; African American students are about twice as likely to be chronically absent
 description: Race is more strongly associated with preschool chronic absenteeism than neighborhood poverty; African American students are about twice as likely to be chronically absent
 id: race-stronger-than-poverty-preschool-chronic-absence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

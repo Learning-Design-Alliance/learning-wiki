@@ -3,7 +3,7 @@ type: strategy
 id: sustain-timing-alignment-tutoring-implementation
 title: Sustain tutoring participation, schedule it close to testing windows, and align content with classroom instruction to preserve gains
 description: "Based on the null long-term findings, the authors recommend that future tutoring efforts \"focus on ensuring continuous participation, extending tutoring so that it is closer to the testing window, and reinforcing alig..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

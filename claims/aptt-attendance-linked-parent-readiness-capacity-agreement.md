@@ -3,7 +3,7 @@ type: claim
 title: Parents who attended APTT meetings, and multilingual-home parents, agreed more strongly that APTT and the preschool helped them prepare their child for kindergarten
 description: Parents who attended APTT meetings, and multilingual-home parents, agreed more strongly that APTT and the preschool helped them prepare their child for kindergarten
 id: aptt-attendance-linked-parent-readiness-capacity-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

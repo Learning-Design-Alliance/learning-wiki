@@ -3,7 +3,7 @@ type: claim
 title: Workshop engagement reaches an inflection point at the first shareback of newly generated text, after which participant questions about LLMs become more incisive
 description: Workshop engagement reaches an inflection point at the first shareback of newly generated text, after which participant questions about LLMs become more incisive
 id: shareback-inflection-point-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

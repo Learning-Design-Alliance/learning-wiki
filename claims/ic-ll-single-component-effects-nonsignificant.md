@@ -3,7 +3,7 @@ type: claim
 title: When implemented alone, neither Literature Logs nor Instructional Conversations produced statistically significant comprehension effects, in contrast to the combined intervention
 description: When implemented alone, neither Literature Logs nor Instructional Conversations produced statistically significant comprehension effects, in contrast to the combined intervention
 id: ic-ll-single-component-effects-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

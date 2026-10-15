@@ -3,7 +3,7 @@ type: research-method
 id: contextual-similarity-scoring-model-for-automated-essay-grading
 title: Contextual similarity scoring model for automated essay grading
 description: "The article's scoring framework matches a student's response to an examiner-supplied model answer using semantic contextual search similarity, returning a similarity index of 0–1 that is multiplied by the item's allotted marks."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

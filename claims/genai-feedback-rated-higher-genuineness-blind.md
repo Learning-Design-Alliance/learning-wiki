@@ -3,7 +3,7 @@ type: claim
 title: Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI
 description: Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI
 id: genai-feedback-rated-higher-genuineness-blind
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

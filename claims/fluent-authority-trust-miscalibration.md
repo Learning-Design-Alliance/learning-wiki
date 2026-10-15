@@ -3,7 +3,7 @@ type: claim
 title: Fluent, confident AI presentation gives reason to expect trust miscalibration, especially among learners with limited domain knowledge
 description: Fluent, confident AI presentation gives reason to expect trust miscalibration, especially among learners with limited domain knowledge
 id: fluent-authority-trust-miscalibration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

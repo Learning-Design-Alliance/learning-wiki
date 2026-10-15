@@ -3,7 +3,7 @@ type: claim
 title: Forecasts by impartial judges failed to predict which interventions would be most effective
 description: Forecasts by impartial judges failed to predict which interventions would be most effective
 id: expert-forecasts-failed-to-predict-effective-interventions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: EL students using Achieve3000 scored significantly higher on adjusted post-pilot Lexile scores than comparison students who did not use the tool
 description: EL students using Achieve3000 scored significantly higher on adjusted post-pilot Lexile scores than comparison students who did not use the tool
 id: achieve3000-significant-lexile-gains-vs-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

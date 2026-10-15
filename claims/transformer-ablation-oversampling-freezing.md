@@ -3,7 +3,7 @@ type: claim
 title: For transformer models, oversampling and backtranslation augmentation improve performance while freezing the encoder substantially decreases it
 description: For transformer models, oversampling and backtranslation augmentation improve performance while freezing the encoder substantially decreases it
 id: transformer-ablation-oversampling-freezing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

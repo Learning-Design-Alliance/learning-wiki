@@ -3,7 +3,7 @@ type: claim
 title: Task complexity moderates whether users experience the constructive information search process
 description: Task complexity moderates whether users experience the constructive information search process
 id: task-complexity-moderates-information-search-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

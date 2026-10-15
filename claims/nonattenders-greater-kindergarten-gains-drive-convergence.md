@@ -3,7 +3,7 @@ type: claim
 title: Convergence is attributed to nonattenders making greater gains in kindergarten than pre-K graduates
 description: Convergence is attributed to nonattenders making greater gains in kindergarten than pre-K graduates
 id: nonattenders-greater-kindergarten-gains-drive-convergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

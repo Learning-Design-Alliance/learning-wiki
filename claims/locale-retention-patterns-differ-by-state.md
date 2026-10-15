@@ -3,7 +3,7 @@ type: claim
 title: The locale types with the lowest four-year principal retention differed across the three states
 description: The locale types with the lowest four-year principal retention differed across the three states
 id: locale-retention-patterns-differ-by-state
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

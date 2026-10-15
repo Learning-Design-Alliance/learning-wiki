@@ -3,7 +3,7 @@ type: claim
 title: "Model scale does not consistently improve pedagogical safety: within the Qwen2.5 family the 72B model beats the 7B on only 17 of 33 subject-dimension pairs"
 description: "Model scale does not consistently improve pedagogical safety: within the Qwen2.5 family the 72B model beats the 7B on only 17 of 33 subject-dimension pairs"
 id: llm-scale-does-not-predict-tutor-safety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

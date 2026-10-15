@@ -3,7 +3,7 @@ type: claim
 title: Teachers have far more power to shape what happens to students than investors or scouts, partly through their opinions of each child
 description: Teachers have far more power to shape what happens to students than investors or scouts, partly through their opinions of each child
 id: teachers-shape-student-outcomes-through-opinions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

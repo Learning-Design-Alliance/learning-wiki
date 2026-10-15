@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted pair programming groups outperformed both individual and human–human pair groups on programming performance
 description: AI-assisted pair programming groups outperformed both individual and human–human pair groups on programming performance
 id: ai-assisted-pair-programming-outperforms-on-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

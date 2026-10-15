@@ -3,7 +3,7 @@ type: claim
 title: Dual enrollment programs have potentially positive effects on staying in high school, college readiness, and attendance (high school), each with a small extent of evidence
 description: Dual enrollment programs have potentially positive effects on staying in high school, college readiness, and attendance (high school), each with a small extent of evidence
 id: dual-enrollment-potentially-positive-staying-readiness-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Three latent profiles of psychological adaptation to AI-assisted Japanese learning (maladaptive, moderate, positive) are identified at each of three waves
 description: Three latent profiles of psychological adaptation to AI-assisted Japanese learning (maladaptive, moderate, positive) are identified at each of three waves
 id: three-adaptation-profiles-ai-japanese-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Youth lost to attrition had discussed immigration more frequently and reported lower hope and peer validation at baseline
 description: Youth lost to attrition had discussed immigration more frequently and reported lower hope and peer validation at baseline
 id: gsa-study-attrition-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

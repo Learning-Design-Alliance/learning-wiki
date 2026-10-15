@@ -3,7 +3,7 @@ type: claim
 title: "The dashboard's cohort view restricts results to students who consistently tested across selected terms, and those outcomes may be positively biased"
 description: "The dashboard's cohort view restricts results to students who consistently tested across selected terms, and those outcomes may be positively biased"
 id: cohort-view-consistent-testers-positive-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

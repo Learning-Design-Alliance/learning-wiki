@@ -3,7 +3,7 @@ type: claim
 title: The framework offers a scalable alternative to manual curation, but the small dataset and label dependence limit current conclusions
 description: The framework offers a scalable alternative to manual curation, but the small dataset and label dependence limit current conclusions
 id: scalable-curation-alternative-with-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

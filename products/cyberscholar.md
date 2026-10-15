@@ -4,7 +4,7 @@ id: cyberscholar
 title: CyberScholar
 description: CyberScholar is a multimodal, multilingual writing workspace developed by Zheldibayeva et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

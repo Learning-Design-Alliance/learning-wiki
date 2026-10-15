@@ -3,7 +3,7 @@ type: claim
 title: "The Ecree study examined teachers' and students' use of the tool and its impact on student and teacher outcomes during the 2021-2022 school year"
 description: "The Ecree study examined teachers' and students' use of the tool and its impact on student and teacher outcomes during the 2021-2022 school year"
 id: ecree-study-examined-use-and-impacts-2021-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

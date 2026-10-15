@@ -3,7 +3,7 @@ type: claim
 title: SSWs aware of racialized nested contexts of reception take advocacy actions that counteract racialization, though such actions were less frequently reported
 description: SSWs aware of racialized nested contexts of reception take advocacy actions that counteract racialization, though such actions were less frequently reported
 id: ssw-awareness-linked-advocacy-actions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

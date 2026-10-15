@@ -3,7 +3,7 @@ type: strategy
 id: advisories-and-looping-whole-child
 title: Use advisories and looping to ensure every student is known and supported by adults
 description: The report recommends specific relationship-building structures for whole child cultures in schools serving students from deeply poor families.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

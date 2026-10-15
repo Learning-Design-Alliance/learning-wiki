@@ -3,7 +3,7 @@ type: claim
 title: "Students designated as LTEL7 in California overwhelmingly began schooling at the lowest English proficiency levels (64% at Beginning vs. 40% of other ever-ELs)"
 description: "Students designated as LTEL7 in California overwhelmingly began schooling at the lowest English proficiency levels (64% at Beginning vs."
 id: ltel7-began-lowest-english-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -49,6 +49,6 @@ Analysis of CELDT data for students designated LTEL7 in 2022–23, all of whom b
 - [Special education needs are much more prevalent among California students designated as LTEL7 (28%) than other ever-EL peers (11%)](special-education-needs-more-prevalent-ltel7.md) — related
 - [Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers](rural-counties-higher-ltel7-proportions.md) — related
 - [Large performance gaps on grades 6–8 and grade 11 CAASPP ELA and math tests, with LTEL7 students performing at lower levels than other ever-ELs](ltel7-caaspp-performance-gaps.md) — related
-- [Improvements in English proficiency acquisition occurred across all initial proficiency levels but were largest for students with the lowest initial scores, though large gaps remained by end of elementary school](proficiency-gains-by-initial-level.md) — related
+- Improvements in English proficiency acquisition occurred across all initial proficiency levels but were largest for students with the lowest initial scores, though large gaps remained by end of elementary school — related
 - [Graduation disparities: 69% of 12th-grade LTEL7 students attained a high school diploma compared to 86% of other ever-EL peers](ltel7-graduation-disparities.md) — related
 - [Most LTEL7 students in middle grades began California schooling in kindergarten, but by high school most entered after kindergarten](ltel7-kindergarten-start-declines-by-grade.md) — related

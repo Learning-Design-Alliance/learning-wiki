@@ -3,7 +3,7 @@ type: claim
 title: A second-order synthesis of 12 CALL meta-analyses yields a mean effect size of d=.64, a medium effect of CALL on learning
 description: A second-order synthesis of 12 CALL meta-analyses yields a mean effect size of d=.64, a medium effect of CALL on learning
 id: call-meta-analyses-mean-effect-d-064
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

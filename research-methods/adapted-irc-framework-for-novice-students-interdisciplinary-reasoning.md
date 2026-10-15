@@ -3,7 +3,7 @@ type: research-method
 id: adapted-irc-framework-for-novice-students-interdisciplinary-reasoning
 title: "Adapted IRC framework for novice students' interdisciplinary reasoning"
 description: "The study adapts Shen et al.'s (2015) interdisciplinary reasoning and communication (IRC) framework for novice high-school students rather than experts."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

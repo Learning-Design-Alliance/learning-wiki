@@ -3,7 +3,7 @@ type: claim
 title: Long school days or years, comprehensive behavioral policies with rewards and sanctions, and an achievement-focused mission are most strongly associated with charter school success
 description: Long school days or years, comprehensive behavioral policies with rewards and sanctions, and an achievement-focused mission are most strongly associated with charter school success
 id: extended-time-behavior-policies-mission-associated-charter-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

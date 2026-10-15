@@ -3,7 +3,7 @@ type: claim
 title: "AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer"
 description: "AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer"
 id: aifred-context-switch-reduction-longer-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

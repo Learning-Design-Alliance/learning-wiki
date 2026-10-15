@@ -3,7 +3,7 @@ type: claim
 title: Interleaving effects are larger in pure university student samples than in nonstudent samples
 description: Interleaving effects are larger in pure university student samples than in nonstudent samples
 id: interleaving-larger-in-university-student-samples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

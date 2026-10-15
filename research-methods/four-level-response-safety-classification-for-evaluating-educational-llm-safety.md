@@ -3,7 +3,7 @@ type: research-method
 id: four-level-response-safety-classification-for-evaluating-educational-llm-safety
 title: Four-level response safety classification for evaluating educational LLM safety
 description: EduZone grades every model response into one of four ordered safety levels rather than a binary safe/unsafe decision.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

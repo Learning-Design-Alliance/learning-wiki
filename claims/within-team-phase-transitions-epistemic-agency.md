@@ -3,7 +3,7 @@ type: claim
 title: Each team showed statistically significant changes in shared epistemic agency across prototyping phases
 description: Each team showed statistically significant changes in shared epistemic agency across prototyping phases
 id: within-team-phase-transitions-epistemic-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

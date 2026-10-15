@@ -3,7 +3,7 @@ type: claim
 title: Students in census tracts with unaffordable housing, low home ownership, or little green space have higher odds of grade retention, even with similar achievement
 description: Students in census tracts with unaffordable housing, low home ownership, or little green space have higher odds of grade retention, even with similar achievement
 id: neighborhood-disadvantage-higher-retention-odds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: connect-science
 title: Connect Science
 description: Connect Science is a 31-lesson fourth-grade science curriculum that integrates NGSS practices, social and collaborative skills, and service learning for classroom implementation.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

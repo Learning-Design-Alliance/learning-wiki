@@ -3,7 +3,7 @@ type: claim
 title: Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education
 description: Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education
 id: computer-based-scaffolding-positive-cognitive-outcomes-stem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

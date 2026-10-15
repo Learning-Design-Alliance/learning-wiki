@@ -3,7 +3,7 @@ type: claim
 title: Teacher resistance as an exercise of teacher agency is a fundamental challenge to current PLC formulations
 description: Teacher resistance as an exercise of teacher agency is a fundamental challenge to current PLC formulations
 id: teacher-resistance-agency-challenges-plc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

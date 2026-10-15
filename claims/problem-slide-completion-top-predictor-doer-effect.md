@@ -3,7 +3,7 @@ type: claim
 title: "Completion of prior problem slides is the most critical predictor of completing a module's final exercise, consistent with the doer effect"
 description: "Completion of prior problem slides is the most critical predictor of completing a module's final exercise, consistent with the doer effect"
 id: problem-slide-completion-top-predictor-doer-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

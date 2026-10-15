@@ -3,7 +3,7 @@ type: claim
 title: Conversational interaction facilitates second language grammatical development in adult ESL learners
 description: Conversational interaction facilitates second language grammatical development in adult ESL learners
 id: interaction-facilitates-l2-grammatical-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

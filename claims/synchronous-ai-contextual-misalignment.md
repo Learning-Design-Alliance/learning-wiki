@@ -3,7 +3,7 @@ type: claim
 title: "Synchronous collaboration with an artificial agent amplifies contextual misalignment because the agent only sees ongoing output, not the writer's planning process"
 description: "Synchronous collaboration with an artificial agent amplifies contextual misalignment because the agent only sees ongoing output, not the writer's planning process"
 id: synchronous-ai-contextual-misalignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

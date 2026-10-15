@@ -3,7 +3,7 @@ type: claim
 title: Passive dissemination approaches are generally ineffective and unlikely to result in professional behavior change
 description: Passive dissemination approaches are generally ineffective and unlikely to result in professional behavior change
 id: passive-dissemination-ineffective-provider-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

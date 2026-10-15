@@ -2,7 +2,7 @@
 type: theory
 title: Social network analysis as a methodological approach to measuring and mapping relationships
 description: The brief presents social network analysis as a methodological approach for program evaluation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Literacy Express has positive effects on print knowledge for preschool children, with significant effects in two of three studies
 description: Literacy Express has positive effects on print knowledge for preschool children, with significant effects in two of three studies
 id: literacy-express-positive-print-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

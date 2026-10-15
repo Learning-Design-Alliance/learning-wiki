@@ -3,7 +3,7 @@ type: claim
 title: The on-track–graduation relationship remains strong after accounting for student background characteristics
 description: The on-track–graduation relationship remains strong after accounting for student background characteristics
 id: on-track-relationship-holds-after-background-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: read-180
 title: READ 180
 description: READ 180® is a branded blended-learning reading intervention for struggling adolescent readers, combining digital instruction, teacher-led small groups, independent reading, assessment, and professional development.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Head-to-head comparison exposes a security-usability-latency tension: NeMo reaches 0% bypass at 16.22% FPR and ~1.5 s latency while Prompt Guard yields 38.48% bypass at 3.60% FPR"
 description: "Head-to-head comparison exposes a security-usability-latency tension: NeMo reaches 0% bypass at 16.22% FPR and ~1.5 s latency while Prompt Guard yields 38.48% bypass at 3.60% FPR"
 id: nemo-prompt-guard-tradeoff-holdout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

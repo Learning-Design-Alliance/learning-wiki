@@ -3,7 +3,7 @@ type: strategy
 id: community-socratic-circles-build-district-support
 title: Extend structured racial discourse into the community to build support for classroom discussions
 description: "Because the Core Team identified teachers' fear of social and political backlash as a root cause, it brought structured discourse into the district-community."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

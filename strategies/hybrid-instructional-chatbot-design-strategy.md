@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-instructional-chatbot-design-strategy
 title: Design hybrid instructional chatbot systems that balance breadth and depth via multi-agent architectures or adaptive interaction modes
 description: The authors recommend treating the depth-efficiency trade-off not as a limitation but as motivation for hybrid systems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

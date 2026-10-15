@@ -4,7 +4,7 @@ id: admiral-squad
 title: Admiral Squad
 description: Admiral Squad is a Middletown City Schools fellowship and recruitment initiative that supports, develops, and helps hire Black male educators in the district.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

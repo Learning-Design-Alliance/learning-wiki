@@ -3,7 +3,7 @@ type: strategy
 id: integrate-ai-task-literacy-cte-curricula
 title: Integrate AI task literacy into CTE curricula now, ahead of employer adoption
 description: The brief recommends that CTE practitioners integrate AI task literacy into curricula while adoption in Heartland-heavy occupations is still low, so students shape adoption rather than react to it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

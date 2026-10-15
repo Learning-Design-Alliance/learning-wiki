@@ -3,7 +3,7 @@ type: strategy
 id: sixty-day-data-destruction-requirement
 title: "Return or destroy shared education records within 60 days of the agreement's end"
 description: "The agreement sets a concrete retention limit: the receiving party must return, destroy, or obliterate all education records obtained under the agreement not later than 60 days after the earlier of the end of the Term..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

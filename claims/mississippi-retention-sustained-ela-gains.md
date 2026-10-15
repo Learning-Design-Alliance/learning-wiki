@@ -3,7 +3,7 @@ type: claim
 title: "Retention under Mississippi's test-based promotion policy led to substantial and sustained 6th-grade ELA gains for retained students"
 description: "Retention under Mississippi's test-based promotion policy led to substantial and sustained 6th-grade ELA gains for retained students"
 id: mississippi-retention-sustained-ela-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

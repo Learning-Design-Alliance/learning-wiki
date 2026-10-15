@@ -3,7 +3,7 @@ type: claim
 title: Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education
 description: Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education
 id: perceived-accuracy-lower-ctesp-context-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

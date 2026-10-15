@@ -4,7 +4,7 @@ title: "TEP's achievement impacts were consistently positive across subjects and
 description: "TEP's achievement impacts were consistently positive across subjects and cohorts through 2012-2013, with especially large effects in math"
 id: tep-impacts-consistently-positive-math-largest
 aliases: [tep-impacts-positive-across-subjects-cohorts]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Planning start time was unrelated to how quickly schools began remote instruction; schools averaged 3 school days between building closure and the start of instruction
 description: Planning start time was unrelated to how quickly schools began remote instruction; schools averaged 3 school days between building closure and the start of instruction
 id: planning-timing-no-link-to-instruction-start
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

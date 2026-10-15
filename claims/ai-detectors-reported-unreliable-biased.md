@@ -3,7 +3,7 @@ type: claim
 title: AI detectors are reported as linguistically biased, unreliable, and psychologically damaging in student discourse
 description: AI detectors are reported as linguistically biased, unreliable, and psychologically damaging in student discourse
 id: ai-detectors-reported-unreliable-biased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

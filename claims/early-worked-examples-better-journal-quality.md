@@ -3,7 +3,7 @@ type: claim
 title: Providing worked examples of journal entries early (rather than delayed) yields better early journal quality and more conceptual knowledge
 description: Providing worked examples of journal entries early (rather than delayed) yields better early journal quality and more conceptual knowledge
 id: early-worked-examples-better-journal-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

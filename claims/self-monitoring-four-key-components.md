@@ -3,7 +3,7 @@ type: claim
 title: "Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording"
 description: "Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording"
 id: self-monitoring-four-key-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

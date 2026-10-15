@@ -2,7 +2,7 @@
 type: theory
 title: Biglan classification of academic disciplines as a framework for analyzing disciplinary variation in faculty work
 description: "The Biglan classification characterizes academic disciplines along three dimensions: pure/applied (degree of concern with application of disciplinary knowledge), hard/soft (degree of paradigm consensus), and life/nonl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses
 description: Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses
 id: chatgpt-rated-high-for-speed-of-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

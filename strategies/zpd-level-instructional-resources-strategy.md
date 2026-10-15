@@ -3,7 +3,7 @@ type: strategy
 id: zpd-level-instructional-resources-strategy
 title: Report a zone of proximal development level with aligned instructional resources for foundational skills
 description: "For students not ready to read passages, the assessment's Phonological Awareness and Phonics & Word Recognition domains each offer within-domain adaptivity so reported data point toward a ZPD level within a skill prog..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

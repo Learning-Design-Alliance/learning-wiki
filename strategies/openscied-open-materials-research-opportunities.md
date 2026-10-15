@@ -3,7 +3,7 @@ type: strategy
 id: openscied-open-materials-research-opportunities
 title: "Research opportunities leveraging open materials: district adoption models and customizing materials for specific student populations"
 description: "The paper illustrates two research opportunities that leverage OpenSciEd's unique affordances."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies"
 description: "Methodological quality varied by design: randomised studies showed lower risk of bias than quasi-experimental studies"
 id: risk-of-bias-varies-by-study-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

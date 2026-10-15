@@ -3,7 +3,7 @@ type: strategy
 id: summer-reading-camps-design-attributes
 title: Run summer reading camps with the attributes of high-gain summer learning programs
 description: The toolkit recommends providing summer reading camps or approved innovative summer programs to all rising 1st–4th graders struggling in reading or facing retention.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

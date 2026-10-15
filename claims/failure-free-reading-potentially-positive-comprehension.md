@@ -3,7 +3,7 @@ type: claim
 title: Failure Free Reading shows potentially positive effects on reading comprehension
 description: Failure Free Reading shows potentially positive effects on reading comprehension
 id: failure-free-reading-potentially-positive-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

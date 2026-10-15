@@ -3,7 +3,7 @@ type: claim
 title: Meaningful longitudinal linking depends on the construct not changing across measurement occasions
 description: Meaningful longitudinal linking depends on the construct not changing across measurement occasions
 id: construct-stability-assumption-longitudinal-linking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

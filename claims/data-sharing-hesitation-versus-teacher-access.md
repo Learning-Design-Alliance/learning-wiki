@@ -3,7 +3,7 @@ type: claim
 title: "Students hesitated to share learning data except with their own teachers, while teachers insisted on data access for instruction and feared selective sharing by low-performing students would undermine the system's usefulness"
 description: "Students hesitated to share learning data except with their own teachers, while teachers insisted on data access for instruction and feared selective sharing by low-performing students would undermine the system's use..."
 id: data-sharing-hesitation-versus-teacher-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

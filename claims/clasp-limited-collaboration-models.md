@@ -3,7 +3,7 @@ type: claim
 title: CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models
 description: CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models
 id: clasp-limited-collaboration-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

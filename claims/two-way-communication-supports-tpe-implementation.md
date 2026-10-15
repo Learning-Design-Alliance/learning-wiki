@@ -3,7 +3,7 @@ type: claim
 title: Two-way, genuine district-teacher communication is associated with more effective TPE implementation
 description: Two-way, genuine district-teacher communication is associated with more effective TPE implementation
 id: two-way-communication-supports-tpe-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Synthetic cohorts place week-to-week change in the term's examination weeks, which real cohorts do not"
 description: "Synthetic cohorts place week-to-week change in the term's examination weeks, which real cohorts do not"
 id: synthetic-cohorts-misplace-examination-week-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

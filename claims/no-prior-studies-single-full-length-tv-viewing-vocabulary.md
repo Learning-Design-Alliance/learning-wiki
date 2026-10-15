@@ -3,7 +3,7 @@ type: claim
 title: Before this study, no research had explored incidental vocabulary learning through viewing a single full-length TV program
 description: Before this study, no research had explored incidental vocabulary learning through viewing a single full-length TV program
 id: no-prior-studies-single-full-length-tv-viewing-vocabulary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Over 95% of student-authored questions included an explanation, mostly of good or excellent quality"
 description: "Over 95% of student-authored questions included an explanation, mostly of good or excellent quality"
 id: student-explanations-majority-good-or-excellent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

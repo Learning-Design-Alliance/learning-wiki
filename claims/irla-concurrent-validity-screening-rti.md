@@ -3,7 +3,7 @@ type: claim
 title: The study collects concurrent validity evidence on the IRLA framework as a potential RTI screening tool
 description: The study collects concurrent validity evidence on the IRLA framework as a potential RTI screening tool
 id: irla-concurrent-validity-screening-rti
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

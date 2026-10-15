@@ -3,7 +3,7 @@ type: claim
 title: Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts
 description: Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts
 id: rural-community-commitment-boosts-turnaround
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

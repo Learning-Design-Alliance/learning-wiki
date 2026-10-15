@@ -3,7 +3,7 @@ type: claim
 title: Families particularly valued meeting education staff early, familiarizing themselves with school layout and routines, and building social connections with other families
 description: Families particularly valued meeting education staff early, familiarizing themselves with school layout and routines, and building social connections with other families
 id: transition-program-valued-early-staff-contact-routines-social-connections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

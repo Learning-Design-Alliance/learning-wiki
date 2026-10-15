@@ -3,7 +3,7 @@ type: strategy
 id: preparedness-dashboard-pivot-to-didactic-lecture
 title: Use a real-time preparedness dashboard to let instructors pivot lesson plans when few students have completed pre-class work
 description: "CLICKSTREAM's lesson-level dashboard shows the percentage of students who have completed pre-class activities in a learning cycle (reading, comprehension activities, homework, downloads) in time for instructors to adapt."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

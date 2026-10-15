@@ -3,7 +3,7 @@ type: claim
 title: The study compared reading growth for students with visual impairments with a nationally normed group of students from the general population
 description: The study compared reading growth for students with visual impairments with a nationally normed group of students from the general population
 id: vi-reading-growth-compared-national-norm-group
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

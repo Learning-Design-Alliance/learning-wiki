@@ -3,7 +3,7 @@ type: claim
 title: "Process mining shows the ChatGPT group's revision loop centred on consulting ChatGPT, while the human-expert group strengthened connections between revising and reading, orientation and evaluation"
 description: "Process mining shows the ChatGPT group's revision loop centred on consulting ChatGPT, while the human-expert group strengthened connections between revising and reading, orientation and evaluation"
 id: chatgpt-process-map-loop-metacognitive-disengagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

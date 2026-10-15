@@ -3,7 +3,7 @@ type: claim
 title: "In three simulated design-studio scenarios, 109 classified evidence rows were produced, with 85 (78.0%) assigned to higher-order Bloom categories"
 description: "In three simulated design-studio scenarios, 109 classified evidence rows were produced, with 85 (78.0%) assigned to higher-order Bloom categories"
 id: three-studio-simulation-109-rows-78-percent-higher-order
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

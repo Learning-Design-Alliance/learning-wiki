@@ -3,7 +3,7 @@ type: claim
 title: A unilateral grading contract guarantees students a course grade of B based solely on completion of specified activities, not on judged writing quality
 description: A unilateral grading contract guarantees students a course grade of B based solely on completion of specified activities, not on judged writing quality
 id: contract-guarantees-b-for-completion-not-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

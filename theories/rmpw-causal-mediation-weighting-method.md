@@ -2,7 +2,7 @@
 type: theory
 title: Ratio-of-mediator-probability weighting (RMPW) for causal mediation analysis under treatment-by-mediator interaction
 description: RMPW is a weighting-based approach to causal mediation analysis that decomposes a total effect into natural direct and indirect effects even when the mediator–outcome relationship depends on the treatment condition.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

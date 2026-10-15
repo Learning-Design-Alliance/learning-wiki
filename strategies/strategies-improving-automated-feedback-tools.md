@@ -3,7 +3,7 @@ type: strategy
 id: strategies-improving-automated-feedback-tools
 title: Provide strategies and supports for improving automated writing feedback tools to meet teacher and student needs
 description: The brief offers strategies for improving automated writing feedback tools so they better meet the needs of teachers and students, aimed at tool developers, instructional support staff, and curriculum developers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

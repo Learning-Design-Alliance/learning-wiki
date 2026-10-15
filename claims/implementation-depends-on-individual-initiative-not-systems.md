@@ -3,7 +3,7 @@ type: claim
 title: Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation
 description: Technology implementation in higher education depends on individual initiative rather than institutional systems, with governance structures rarely including those responsible for implementation
 id: implementation-depends-on-individual-initiative-not-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

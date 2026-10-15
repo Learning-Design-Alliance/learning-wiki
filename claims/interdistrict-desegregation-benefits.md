@@ -3,7 +3,7 @@ type: claim
 title: Interdistrict desegregation choice programs show achievement and graduation benefits for disadvantaged students, with stronger outcomes the longer students remain
 description: Interdistrict desegregation choice programs show achievement and graduation benefits for disadvantaged students, with stronger outcomes the longer students remain
 id: interdistrict-desegregation-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement
 description: Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement
 id: lo-alignment-judgment-more-subjective-than-answering
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

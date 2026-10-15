@@ -3,7 +3,7 @@ type: claim
 title: "Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions"
 description: "Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions"
 id: genai-intervention-duration-moderator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: design
 id: evolving-knowledge-space-graph-model
 title: Evolving Knowledge Space Graph (EKSG) model
 description: The EKSG model is a graph-structured knowledge representation framework for adaptive intelligent tutoring in fast-changing domains, combining the structural clarity of ontologies with the adaptive potential of Compete...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

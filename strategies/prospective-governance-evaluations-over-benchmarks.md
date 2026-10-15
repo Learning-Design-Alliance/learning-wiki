@@ -3,7 +3,7 @@ type: strategy
 id: prospective-governance-evaluations-over-benchmarks
 title: Prioritize prospective, in-curriculum evaluations of AI governance interventions over additional isolated benchmark studies
 description: The article recommends reallocating scholarly attention from capability benchmarking to testing governance interventions in real curricula.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

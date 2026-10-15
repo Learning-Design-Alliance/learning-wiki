@@ -3,7 +3,7 @@ type: claim
 title: A procedure- and data-focused evaluation approach is most likely to gain administrator and teacher support
 description: A procedure- and data-focused evaluation approach is most likely to gain administrator and teacher support
 id: evaluation-approach-likely-to-gain-educator-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

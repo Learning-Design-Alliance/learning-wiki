@@ -3,7 +3,7 @@ type: claim
 title: "The eight-predictor model explains 27.3% of variance in AI dependency, and multidimensional AI literacy adds explanatory value over a single aggregate score"
 description: "The eight-predictor model explains 27.3% of variance in AI dependency, and multidimensional AI literacy adds explanatory value over a single aggregate score"
 id: multidimensional-ai-literacy-model-explains-27-percent-dependency-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

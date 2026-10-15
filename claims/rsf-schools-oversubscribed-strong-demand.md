@@ -3,7 +3,7 @@ type: claim
 title: Demand for RSF-supported schools was generally strong, with most Cohort 1 and 2 schools oversubscribed by 2007-08
 description: Demand for RSF-supported schools was generally strong, with most Cohort 1 and 2 schools oversubscribed by 2007-08
 id: rsf-schools-oversubscribed-strong-demand
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

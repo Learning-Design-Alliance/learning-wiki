@@ -3,7 +3,7 @@ type: strategy
 id: seven-equity-strategies-listen-first-co-design
 title: Seven equity strategies for local leaders, including listening first, strengths-based approaches, and co-design
 description: The guide recommends seven strategies for local leaders to disrupt power imbalances and foster greater equity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: FFI involving extensive instruction directed at simple structures was more likely to succeed in developing implicit knowledge
 description: FFI involving extensive instruction directed at simple structures was more likely to succeed in developing implicit knowledge
 id: extensive-ffi-simple-structures-more-likely-to-succeed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

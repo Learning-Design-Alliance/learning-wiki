@@ -3,7 +3,7 @@ type: claim
 title: "Pedagogical AI competence is positively associated with teachers' AI use"
 description: "Pedagogical AI competence is positively associated with teachers' AI use"
 id: pedagogical-ai-competence-associated-with-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

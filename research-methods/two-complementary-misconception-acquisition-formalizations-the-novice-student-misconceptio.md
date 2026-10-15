@@ -3,7 +3,7 @@ type: research-method
 id: two-complementary-misconception-acquisition-formalizations-the-novice-student-misconceptio
 title: "Two complementary misconception-acquisition formalizations: the Novice Student Misconception Model and the Expert Tutor Misconception Model"
 description: The article formalizes misconception acquisition from two perspectives.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

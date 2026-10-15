@@ -3,7 +3,7 @@ type: claim
 title: High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale
 description: High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale
 id: high-dosage-tutoring-accelerated-growth-at-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

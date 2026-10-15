@@ -3,7 +3,7 @@ type: claim
 title: Greater proportion of voice prompts used correlates moderately with greater stated preference for voice
 description: Greater proportion of voice prompts used correlates moderately with greater stated preference for voice
 id: voice-usage-preference-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

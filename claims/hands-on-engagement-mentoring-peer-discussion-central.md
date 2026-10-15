@@ -3,7 +3,7 @@ type: claim
 title: Hands-on engagement, mentoring support, and peer discussion were central to sustaining team cohesion and methodological rigor during an SR
 description: Hands-on engagement, mentoring support, and peer discussion were central to sustaining team cohesion and methodological rigor during an SR
 id: hands-on-engagement-mentoring-peer-discussion-central
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: theory
 title: Control systems view of the infant as a competent, adaptive system
 description: "The report adopts a systems-theory viewpoint in which the infant is a \"controlled system\" in constant interaction with the environment, where mutual adaptation between child and environment establishes conditions for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

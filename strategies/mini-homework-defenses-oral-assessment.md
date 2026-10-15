@@ -3,7 +3,7 @@ type: strategy
 id: mini-homework-defenses-oral-assessment
 title: "Mini homework defenses: short oral one-on-one assessments of student solutions"
 description: "A formative oral assessment structure shared by a faculty member in Electricity and Magnetism 2: \"short booked appointments in which a Learning Assistant randomly selects one of the student's completed homework proble..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

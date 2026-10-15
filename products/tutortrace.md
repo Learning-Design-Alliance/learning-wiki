@@ -4,7 +4,7 @@ id: tutortrace
 title: TutorTrace
 description: "TutorTrace is a dataset and taxonomy developed by its authors that uses IDE telemetry to classify introductory Python learners' behavioral states around AI help-seeking and support tutor interventions."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

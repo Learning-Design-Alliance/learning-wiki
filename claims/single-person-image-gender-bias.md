@@ -3,7 +3,7 @@ type: claim
 title: Text-to-image models generating single-person software engineering images predominantly depict men, with a strong significant effect for both evaluated models
 description: Text-to-image models generating single-person software engineering images predominantly depict men, with a strong significant effect for both evaluated models
 id: single-person-image-gender-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

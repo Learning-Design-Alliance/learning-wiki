@@ -3,7 +3,7 @@ type: strategy
 id: adapt-support-not-just-difficulty-young-learners
 title: For young learners, adapt instructional support level rather than only task difficulty, and investigate adaptive features in isolation
 description: "Drawing on their null findings, the authors recommend that \"future adaptive systems for younger learners should focus on adjusting the level of instructional support, for example, by providing more scaffolding, guidan..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

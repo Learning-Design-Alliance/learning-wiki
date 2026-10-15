@@ -3,7 +3,7 @@ type: claim
 title: Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing
 description: Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing
 id: teachers-found-ecree-mi-write-useful-writing-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

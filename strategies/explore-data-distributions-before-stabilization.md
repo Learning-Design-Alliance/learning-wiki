@@ -3,7 +3,7 @@ type: strategy
 id: explore-data-distributions-before-stabilization
 title: Before applying a normal-distribution stabilization model, agencies should thoroughly explore indicator data distributions with visual and numeric checks
 description: "This strategy directs education agencies to check whether indicator distributions align with a stabilization model's assumptions before applying it."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

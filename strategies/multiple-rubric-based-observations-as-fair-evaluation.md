@@ -3,7 +3,7 @@ type: strategy
 id: multiple-rubric-based-observations-as-fair-evaluation
 title: Use multiple classroom observations with rubric-based ratings and evidence as the evaluation component teachers perceive as fair
 description: The REACH design observes teachers on multiple occasions rather than once, rates observations against a detailed rubric requiring evaluators to provide evidence for each rating, and pairs this with pre- and post-obser...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

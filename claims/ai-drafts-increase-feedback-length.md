@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted feedback drafts increase total feedback length by 39.79 characters per submission
 description: AI-assisted feedback drafts increase total feedback length by 39.79 characters per submission
 id: ai-drafts-increase-feedback-length
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

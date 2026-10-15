@@ -3,7 +3,7 @@ type: strategy
 id: native-language-ai-explanations-prerequisite
 title: "Deliver AI tutor explanations in learners' native language as a prerequisite for meaningful educational access"
 description: "Because foreign-language delivery of technical content significantly reduces content and language learning outcomes, the article recommends AI tutoring systems explain programming errors in the learner's native language."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

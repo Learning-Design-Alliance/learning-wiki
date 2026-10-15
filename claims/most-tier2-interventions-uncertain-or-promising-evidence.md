@@ -3,7 +3,7 @@ type: claim
 title: Of 18 reviewed Tier 2 literacy interventions, three had at most promising evidence and 12 had uncertain evidence of effects
 description: Of 18 reviewed Tier 2 literacy interventions, three had at most promising evidence and 12 had uncertain evidence of effects
 id: most-tier2-interventions-uncertain-or-promising-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

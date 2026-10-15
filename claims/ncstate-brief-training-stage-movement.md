@@ -3,7 +3,7 @@ type: claim
 title: Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)
 description: Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)
 id: ncstate-brief-training-stage-movement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

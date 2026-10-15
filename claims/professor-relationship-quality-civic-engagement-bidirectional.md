@@ -3,7 +3,7 @@ type: claim
 title: Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions
 description: Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions
 id: professor-relationship-quality-civic-engagement-bidirectional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

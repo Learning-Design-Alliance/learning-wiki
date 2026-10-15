@@ -3,7 +3,7 @@ type: claim
 title: No significant accelerometer-based differences in physical activity were found for boys in Playworks schools compared with control schools
 description: No significant accelerometer-based differences in physical activity were found for boys in Playworks schools compared with control schools
 id: playworks-no-boys-accelerometer-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

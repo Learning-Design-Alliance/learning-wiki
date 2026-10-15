@@ -3,7 +3,7 @@ type: claim
 title: Renewable assignments such as student-created quiz questions transcend classroom boundaries and can ameliorate economic injustice
 description: Renewable assignments such as student-created quiz questions transcend classroom boundaries and can ameliorate economic injustice
 id: renewable-assignments-economic-justice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

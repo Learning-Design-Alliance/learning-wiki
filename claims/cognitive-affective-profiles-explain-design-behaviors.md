@@ -3,7 +3,7 @@ type: claim
 title: Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI-TK, technical self-efficacy, pedagogical beliefs, and support-dependence
 description: Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI-TK, technical self-efficacy, pedagogical beliefs, and support-dependence
 id: cognitive-affective-profiles-explain-design-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

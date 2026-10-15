@@ -3,7 +3,7 @@ type: claim
 title: Learning of absolute exceptions in French suffixation was more likely among advanced than intermediate adult learners
 description: Learning of absolute exceptions in French suffixation was more likely among advanced than intermediate adult learners
 id: absolute-exceptions-more-likely-advanced-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

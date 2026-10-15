@@ -3,7 +3,7 @@ type: claim
 title: The dual cognitive pathway model is structurally invariant across China, Europe, and the United States, with region-specific intensities
 description: The dual cognitive pathway model is structurally invariant across China, Europe, and the United States, with region-specific intensities
 id: cross-cultural-invariance-dual-pathway-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

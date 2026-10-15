@@ -3,7 +3,7 @@ type: strategy
 id: targeted-principal-retention-strategies
 title: Explore differentiated preservice preparation, contextualized in-service learning, and incentives to retain principals in lower-retention environments
 description: The report recommends that state and local education leaders consider retention strategies for the high-turnover environments the study identified.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In the Java-based CS1 course at TU Delft, GATs significantly improved immediate post-intervention performance pooled across topics, driven mainly by the While-loop intervention
 description: In the Java-based CS1 course at TU Delft, GATs significantly improved immediate post-intervention performance pooled across topics, driven mainly by the While-loop intervention
 id: gats-improve-immediate-performance-tu-delft
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

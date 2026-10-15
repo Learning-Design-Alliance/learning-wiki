@@ -3,7 +3,7 @@ type: claim
 title: "Teachers observe AI tools foster students' scientific identity and agency, shifting them from knowledge learners toward scientific practitioners"
 description: "Teachers observe AI tools foster students' scientific identity and agency, shifting them from knowledge learners toward scientific practitioners"
 id: ai-fosters-scientific-identity-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

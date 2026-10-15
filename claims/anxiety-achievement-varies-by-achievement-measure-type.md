@@ -3,7 +3,7 @@ type: claim
 title: The anxiety–achievement correlation varies across types of language achievement measures
 description: The anxiety–achievement correlation varies across types of language achievement measures
 id: anxiety-achievement-varies-by-achievement-measure-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

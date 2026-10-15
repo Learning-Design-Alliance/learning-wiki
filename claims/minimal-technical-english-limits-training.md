@@ -3,7 +3,7 @@ type: claim
 title: The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties
 description: The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties
 id: minimal-technical-english-limits-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

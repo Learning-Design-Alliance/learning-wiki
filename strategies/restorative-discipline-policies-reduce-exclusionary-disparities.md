@@ -3,7 +3,7 @@ type: strategy
 id: restorative-discipline-policies-reduce-exclusionary-disparities
 title: Restorative-justice-aligned discipline policies to reduce exclusionary discipline disparities
 description: The brief recommends states reduce disparities and overuse of exclusionary discipline by setting clear equity-centered goals, ensuring transparent disaggregated data, and adopting positive approaches such as restorati...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

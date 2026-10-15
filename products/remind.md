@@ -4,7 +4,7 @@ id: remind
 title: REMind
 description: "REMind is a semi-autonomous robot-mediated applied-drama prototype that uses embodied robot characters and human-facilitated Forum Theatre-style rehearsal to support children's social-emotional and anti-bullying learning."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: district-leader-summer-programming-planning-framework
 title: District leaders use a recommendations framework to plan and implement effective summer programming
 description: The brief offers district leaders a set of recommendations organized as a framework for planning and implementing summer programming.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

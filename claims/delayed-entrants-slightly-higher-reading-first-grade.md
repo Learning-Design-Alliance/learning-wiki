@@ -3,7 +3,7 @@ type: claim
 title: At the end of first grade, children whose kindergarten entry was delayed demonstrated slightly higher reading knowledge and skills than those who started on time
 description: At the end of first grade, children whose kindergarten entry was delayed demonstrated slightly higher reading knowledge and skills than those who started on time
 id: delayed-entrants-slightly-higher-reading-first-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

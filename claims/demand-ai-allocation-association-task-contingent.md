@@ -3,7 +3,7 @@ type: claim
 title: The within-teacher demand–AI-use association differs sharply across tasks, with only a modest positive planning gradient
 description: The within-teacher demand–AI-use association differs sharply across tasks, with only a modest positive planning gradient
 id: demand-ai-allocation-association-task-contingent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

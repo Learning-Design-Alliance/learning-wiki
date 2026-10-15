@@ -3,7 +3,7 @@ type: claim
 title: The report examines how in-school and out-of-school predictors relate individually to each type of near-term academic problem
 description: The report examines how in-school and out-of-school predictors relate individually to each type of near-term academic problem
 id: in-school-out-of-school-predictors-examined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

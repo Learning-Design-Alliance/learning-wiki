@@ -3,7 +3,7 @@ type: strategy
 id: five-moment-q-learning-lesson-plan
 title: A 50-minute five-moment lesson plan maps each teaching moment to a specific interface affordance
 description: "The tool ships with a 50-minute lesson plan structured around five moments — stepping through ignorance, the first goal, convergence, hyperparameter experiments, and reward design — 'each mapped to a specific interfac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Most students report using LLMs to get solutions more often than they believe is ideal for learning, and this gap widened after the lesson
 description: Most students report using LLMs to get solutions more often than they believe is ideal for learning, and this gap widened after the lesson
 id: usage-exceeds-ideal-for-solution-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

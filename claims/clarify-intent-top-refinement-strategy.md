@@ -3,7 +3,7 @@ type: claim
 title: When prompts failed, students most commonly reported clarifying intent or specifying more detail, and reflecting on the problem depiction, rather than tracing code or examining test cases
 description: When prompts failed, students most commonly reported clarifying intent or specifying more detail, and reflecting on the problem depiction, rather than tracing code or examining test cases
 id: clarify-intent-top-refinement-strategy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

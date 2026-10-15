@@ -3,7 +3,7 @@ type: claim
 title: Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año
 description: Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año
 id: students-difficulties-solar-movement-observable-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

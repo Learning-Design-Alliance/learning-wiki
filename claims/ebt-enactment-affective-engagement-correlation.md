@@ -3,7 +3,7 @@ type: claim
 title: The number of evidence-based teaching practices enacted in courseware-using statistics classes is strongly associated with class-level affective engagement (r = 0.61).
 description: The number of evidence-based teaching practices enacted in courseware-using statistics classes is strongly associated with class-level affective engagement (r = 0.61).
 id: ebt-enactment-affective-engagement-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

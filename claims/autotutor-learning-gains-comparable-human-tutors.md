@@ -3,7 +3,7 @@ type: claim
 title: AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy
 description: AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy
 id: autotutor-learning-gains-comparable-human-tutors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

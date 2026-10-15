@@ -3,7 +3,7 @@ type: claim
 title: Students appreciated specific features of paper-and-pencil tasks, namely the ability to navigate between items and to take notes
 description: Students appreciated specific features of paper-and-pencil tasks, namely the ability to navigate between items and to take notes
 id: students-appreciate-paper-task-navigation-and-notes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

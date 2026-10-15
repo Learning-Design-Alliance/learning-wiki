@@ -3,7 +3,7 @@ type: claim
 title: A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts
 description: A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts
 id: teacher-transfer-incentive-behavioral-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

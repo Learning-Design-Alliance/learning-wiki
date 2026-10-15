@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

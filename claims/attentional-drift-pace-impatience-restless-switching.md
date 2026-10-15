@@ -3,7 +3,7 @@ type: claim
 title: Attentional Drift, reported by 125 participants, reflects pace impatience and restless switching after AI-supported work
 description: Attentional Drift, reported by 125 participants, reflects pace impatience and restless switching after AI-supported work
 id: attentional-drift-pace-impatience-restless-switching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Epistemological belief dimensions offer an understanding of human-GAI engagement
 description: Epistemological belief dimensions offer an understanding of human-GAI engagement
 id: epistemological-dimensions-explain-human-gai-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

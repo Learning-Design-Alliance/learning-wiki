@@ -3,7 +3,7 @@ type: claim
 title: "Peer answering in the hybrid support system was fast where it occurred: 70.3% of peer-answered queries closed within one hour, against 1.9% of administrator-answered and 14.8% of script-closed queries"
 description: "Peer answering in the hybrid support system was fast where it occurred: 70.3% of peer-answered queries closed within one hour, against 1.9% of administrator-answered and 14.8% of script-closed queries"
 id: peer-answering-fast-70-percent-within-one-hour
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

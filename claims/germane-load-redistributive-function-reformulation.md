@@ -3,7 +3,7 @@ type: claim
 title: Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load
 description: Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load
 id: germane-load-redistributive-function-reformulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

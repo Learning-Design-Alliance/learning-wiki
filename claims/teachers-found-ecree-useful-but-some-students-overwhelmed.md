@@ -4,7 +4,7 @@ title: "More than half of surveyed teachers agreed Ecree was useful for improvin
 description: "More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback"
 id: teachers-found-ecree-useful-but-some-students-overwhelmed
 aliases: [some-students-overwhelmed-by-ecree-feedback]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

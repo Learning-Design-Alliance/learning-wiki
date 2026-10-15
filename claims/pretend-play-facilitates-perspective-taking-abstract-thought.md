@@ -3,7 +3,7 @@ type: claim
 title: High-quality pretend play is an important facilitator of perspective taking and later abstract thought
 description: High-quality pretend play is an important facilitator of perspective taking and later abstract thought
 id: pretend-play-facilitates-perspective-taking-abstract-thought
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

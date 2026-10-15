@@ -3,7 +3,7 @@ type: claim
 title: In Massachusetts K-3 screening data, roughly one quarter to one third of students are significantly below benchmark at any given period and 16 to 19 percent are below benchmark in all three periods, rates consistent over three years
 description: In Massachusetts K-3 screening data, roughly one quarter to one third of students are significantly below benchmark at any given period and 16 to 19 percent are below benchmark in all three periods, rates consistent o...
 id: massachusetts-k3-persistent-significant-risk-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

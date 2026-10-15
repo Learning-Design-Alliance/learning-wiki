@@ -3,7 +3,7 @@ type: claim
 title: Fourth graders with disabilities scored 40 points lower in reading and 28 points lower in mathematics than peers without disabilities on the 2022 NAEP
 description: Fourth graders with disabilities scored 40 points lower in reading and 28 points lower in mathematics than peers without disabilities on the 2022 NAEP
 id: naep-2022-disability-gap-40-reading-28-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

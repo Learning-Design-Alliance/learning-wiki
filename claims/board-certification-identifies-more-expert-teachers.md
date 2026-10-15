@@ -3,7 +3,7 @@ type: claim
 title: "An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply"
 description: An ERIC digest reports that a 2000 validity study gave strong initial evidence that National Board certification identifies teachers who are more expert and whose students learn more deeply
 id: board-certification-identifies-more-expert-teachers
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: element
 id: propensity-for-retention-measure-chicago
 title: Propensity-for-retention measure built by grade-specific logistic regression on prereform retention policy
 description: "A student-level covariate produced by logistic regression on 1987-1988 data with retention as the outcome and academic and demographic factors as predictors, applied to later years to yield \"a propensity for retention..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

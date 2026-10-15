@@ -4,7 +4,7 @@ id: teacharena-benchmark
 title: TEACHARENA benchmark
 description: A source-grounded benchmark and evaluation harness created by Zixin Chen et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

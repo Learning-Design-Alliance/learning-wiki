@@ -3,7 +3,7 @@ type: element
 id: family-partnership-agreement-form
 title: Family Partnership Agreement as the record of home visiting goal setting and progress
 description: The Family Partnership Agreement is a form used in Head Start programs nationally that provides a format for the home visitor and caregiver to set adult or child oriented goals and record progress throughout home visi...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

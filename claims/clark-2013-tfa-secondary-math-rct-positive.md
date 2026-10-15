@@ -3,7 +3,7 @@ type: claim
 title: A randomized controlled trial found TFA secondary math teachers outperformed non-TFA comparison teachers in mathematics achievement
 description: A randomized controlled trial found TFA secondary math teachers outperformed non-TFA comparison teachers in mathematics achievement
 id: clark-2013-tfa-secondary-math-rct-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

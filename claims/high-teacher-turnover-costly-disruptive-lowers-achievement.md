@@ -3,7 +3,7 @@ type: claim
 title: High teacher turnover rates may be costly to school districts, disrupt operations, and lower student achievement
 description: High teacher turnover rates may be costly to school districts, disrupt operations, and lower student achievement
 id: high-teacher-turnover-costly-disruptive-lowers-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

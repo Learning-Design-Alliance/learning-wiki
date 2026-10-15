@@ -3,7 +3,7 @@ type: design
 id: ai-cognitive-partner-teacher-pd
 title: Generative AI as a cognitive and instructional partner in teacher professional learning
 description: "The study conceptualizes generative AI not as a content-delivery tool but as \"a cognitive and instructional partner\" that supports teacher learning through contingent prompting, feedback, rehearsal, and guided reflect..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

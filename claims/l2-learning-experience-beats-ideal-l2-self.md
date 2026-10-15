@@ -3,7 +3,7 @@ type: claim
 title: In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues
 description: In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues
 id: l2-learning-experience-beats-ideal-l2-self
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

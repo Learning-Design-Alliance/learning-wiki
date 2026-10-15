@@ -3,7 +3,7 @@ type: claim
 title: "Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest"
 description: "Over 242 studies (1,619 effects, 169,179 participants) the overall mean was d = 0.56: distributed practice 0.85, practice testing 0.74, elaborative interrogation 0.56, imagery 0.56, self-explanation 0.54, mnemonics 0.50, re-reading 0.47, interleaved practice 0.47, underlining 0.44, summarization 0.44."
 id: ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13

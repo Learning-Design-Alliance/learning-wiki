@@ -3,7 +3,7 @@ type: claim
 title: "Designed patterns can rest on very small supporting subgroups: only three orders meet the Price-Rating Sensitivity conditions, with a mean rating of 2.0"
 description: "Designed patterns can rest on very small supporting subgroups: only three orders meet the Price-Rating Sensitivity conditions, with a mean rating of 2.0"
 id: windowdash-price-rating-small-subgroup
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

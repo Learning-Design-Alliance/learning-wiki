@@ -3,7 +3,7 @@ type: claim
 title: Industry-targeted videos scored only slightly higher on personalization depth than generic-audience videos (0.32 points; modeled increment 0.25, p = 0.11), an effect not resolved under reviewer clustering
 description: Industry-targeted videos scored only slightly higher on personalization depth than generic-audience videos (0.32 points; modeled increment 0.25, p = 0.11), an effect not resolved under reviewer clustering
 id: bespoke-industry-personalization-increment-small-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

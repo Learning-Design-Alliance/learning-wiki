@@ -3,7 +3,7 @@ type: claim
 title: "Contrasting stored skeletons: Hamlet emphasizes epistemic hesitation and contamination, To Live emphasizes endurance and historical contingency"
 description: "Contrasting stored skeletons: Hamlet emphasizes epistemic hesitation and contamination, To Live emphasizes endurance and historical contingency"
 id: contrasting-skeletons-hamlet-to-live
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

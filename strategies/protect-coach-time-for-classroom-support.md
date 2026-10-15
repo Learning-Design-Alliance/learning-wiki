@@ -3,7 +3,7 @@ type: strategy
 id: protect-coach-time-for-classroom-support
 title: "Protect coaches' time so the majority is spent directly with teachers"
 description: "The report's third administrator action is ensuring coaches have the time they need for classroom support."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

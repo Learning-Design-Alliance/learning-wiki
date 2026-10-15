@@ -4,7 +4,7 @@ id: drafttrace-multi-view-writing-analytics-environment
 title: DRAFTTRACE multi-view writing analytics environment
 description: A research-developed web application that records, reconstructs, and analyzes higher-education students’ writing and AI-assistant interactions for instructor-facing process monitoring.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

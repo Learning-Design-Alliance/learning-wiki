@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Open Court Reading© is thin: of 185 identified studies, only two met WWC group design standards, and none met standards for alphabetics or reading fluency"
 description: "The evidence base for Open Court Reading© is thin: of 185 identified studies, only two met WWC group design standards, and none met standards for alphabetics or reading fluency"
 id: open-court-reading-small-evidence-base-two-domains-uncovered
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

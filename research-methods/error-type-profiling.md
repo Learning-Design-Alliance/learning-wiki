@@ -3,7 +3,7 @@ type: research-method
 id: error-type-profiling
 title: Error-type profiling
 description: Error-type profiling is the analytic lens the article introduces to judge fairness interventions by how they redistribute false positives and false negatives across groups, rather than only by whether fairness metrics converge.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

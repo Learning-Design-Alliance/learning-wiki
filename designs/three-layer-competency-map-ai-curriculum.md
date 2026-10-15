@@ -3,7 +3,7 @@ type: design
 id: three-layer-competency-map-ai-curriculum
 title: Three-layer competency map linking graduate attributes to measurable behaviors
 description: To operationalize competency goals in the reformed curriculum, the authors developed a competency map that translates abstract professional requirements into measurable learning outcomes.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

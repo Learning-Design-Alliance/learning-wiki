@@ -3,7 +3,7 @@ type: claim
 title: Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions
 description: Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions
 id: reflective-capacity-essential-professional-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

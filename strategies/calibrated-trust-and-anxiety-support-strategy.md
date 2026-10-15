@@ -3,7 +3,7 @@ type: strategy
 id: calibrated-trust-and-anxiety-support-strategy
 title: Target calibrated trust and anxiety alongside AI literacy instruction when supporting existing generative AI users
 description: "Because trust occupies the pivot of the modeled chain, the authors recommend that AI literacy instruction aim \"not only at skills but at calibrated trust\" — teaching what generative models do well, where they fail, an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

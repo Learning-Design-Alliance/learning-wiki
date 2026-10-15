@@ -3,7 +3,7 @@ type: claim
 title: "Coauthorship analysis of workshop organizers yields a 2,197-author network with six communities, 80% of nodes in the largest three, spanning diverse research lineages"
 description: "Coauthorship analysis of workshop organizers yields a 2,197-author network with six communities, 80% of nodes in the largest three, spanning diverse research lineages"
 id: coauthorship-network-six-communities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

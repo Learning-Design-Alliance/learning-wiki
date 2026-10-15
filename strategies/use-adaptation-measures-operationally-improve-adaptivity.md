@@ -3,7 +3,7 @@ type: strategy
 id: use-adaptation-measures-operationally-improve-adaptivity
 title: Use test adaptation measures in operational settings to identify adaptation difficulties and suggest processes for improving adaptivity
 description: "The article recommends using its three adaptation measures as operational diagnostic tools: after a test form runs, compute the measures from examinee-level test information to locate where adaptation is weak and to g..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

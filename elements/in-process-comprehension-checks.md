@@ -4,7 +4,7 @@ id: in-process-comprehension-checks
 title: In-process comprehension checks embedded within the text
 description: "Comprehension checks embedded within the text at the point of reading, listed in the article's enumeration of aid types as \"(4) vocabulary assistance, (5) inprocess comprehension checks, (6) independentstudy suggestio..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

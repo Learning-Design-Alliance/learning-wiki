@@ -3,7 +3,7 @@ type: claim
 title: Strong, consistent early childhood leadership coupled with long-term strategic planning is essential to local preschool system coherence in mixed delivery systems
 description: Strong, consistent early childhood leadership coupled with long-term strategic planning is essential to local preschool system coherence in mixed delivery systems
 id: ece-leadership-strategic-planning-local-coherence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

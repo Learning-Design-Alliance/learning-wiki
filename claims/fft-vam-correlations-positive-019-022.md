@@ -3,7 +3,7 @@ type: claim
 title: FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant
 description: FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant
 id: fft-vam-correlations-positive-019-022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Students in New Leaders-led Oakland schools show greater math achievement growth than other OUSD students (effect size 0.16)
 description: Students in New Leaders-led Oakland schools show greater math achievement growth than other OUSD students (effect size 0.16)
 id: new-leaders-oakland-math-growth-es-016
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

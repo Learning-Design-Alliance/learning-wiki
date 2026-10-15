@@ -3,7 +3,7 @@ type: claim
 title: Gains from an intensive period of second-language study persist for weeks without rehearsal.
 id: l2-fluency-gains-persist-weeks-without-practice
 description: A one-week intensive Italian course raised verbal fluency by 17.17 words, and the gain was still 17.11 words above baseline three weeks later with no practice in between.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03

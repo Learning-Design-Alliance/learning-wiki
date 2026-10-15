@@ -3,7 +3,7 @@ type: claim
 title: Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences
 description: Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences
 id: phonemic-segmentation-favored-over-rhyme-alliteration-yeh
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

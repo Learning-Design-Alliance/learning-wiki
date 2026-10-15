@@ -3,7 +3,7 @@ type: strategy
 id: llm-mindfulness-layer-in-its
 title: Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language
 description: "The article recommends embedding mindfulness into structured ITSs through LLM-driven interactions rather than instructor-led programs: a context-sensitive mindful chat between math units, brief guided breathing exerci..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

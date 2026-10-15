@@ -3,7 +3,7 @@ type: claim
 title: Learners in agent interaction became locked in lower-order self-transition loops (e.g., Understand z = 49.08, Application z = 51.48) and rarely transitioned spontaneously to higher-order cognition
 description: Learners in agent interaction became locked in lower-order self-transition loops (e.g., Understand z = 49.08, Application z = 51.48) and rarely transitioned spontaneously to higher-order cognition
 id: lower-order-self-transition-lock
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

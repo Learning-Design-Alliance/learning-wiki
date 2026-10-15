@@ -3,7 +3,7 @@ type: claim
 title: "A national study examines trends and disparities in children's academic skills at school entry for students who began kindergarten between 2010 and 2017"
 description: "A national study examines trends and disparities in children's academic skills at school entry for students who began kindergarten between 2010 and 2017"
 id: national-trends-kindergarten-entry-skills-2010-2017
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

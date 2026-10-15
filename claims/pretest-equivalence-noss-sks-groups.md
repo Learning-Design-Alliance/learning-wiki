@@ -3,7 +3,7 @@ type: claim
 title: Experimental and control groups did not differ significantly on pre-test NOS or SK scores
 description: Experimental and control groups did not differ significantly on pre-test NOS or SK scores
 id: pretest-equivalence-noss-sks-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

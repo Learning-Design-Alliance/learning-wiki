@@ -3,7 +3,7 @@ type: claim
 title: Parent involvement increased for three consecutive years under family-centered engagement approaches
 description: Parent involvement increased for three consecutive years under family-centered engagement approaches
 id: parent-involvement-increased-three-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

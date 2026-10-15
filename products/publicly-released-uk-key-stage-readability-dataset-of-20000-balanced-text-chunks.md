@@ -4,7 +4,7 @@ id: publicly-released-uk-key-stage-readability-dataset-of-20000-balanced-text-ch
 title: Publicly released UK Key Stage readability dataset of 20,000 balanced text chunks
 description: A publicly released corpus of 20,000 Project Gutenberg text chunks balanced across UK Key Stages 2–5 and linked to Lexile readability scores, created by Jordan J.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

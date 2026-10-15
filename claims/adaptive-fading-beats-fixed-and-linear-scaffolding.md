@@ -3,7 +3,7 @@ type: claim
 title: Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation
 description: Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation
 id: adaptive-fading-beats-fixed-and-linear-scaffolding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

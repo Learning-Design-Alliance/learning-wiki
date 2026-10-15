@@ -3,7 +3,7 @@ type: claim
 title: "In a human Turing test, participants could not reliably distinguish BEAGLE traces from real student data (52.8% accuracy; d′ = 0.15 within the ±0.3 equivalence bound, pTOST = 0.038)"
 description: "In a human Turing test, participants could not reliably distinguish BEAGLE traces from real student data (52.8% accuracy; d′ = 0.15 within the ±0.3 equivalence bound, pTOST = 0.038)"
 id: beagle-traces-turing-test-indistinguishable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

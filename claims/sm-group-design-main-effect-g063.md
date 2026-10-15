@@ -3,7 +3,7 @@ type: claim
 title: Group-design studies show a significant main effect of self-management interventions on classroom behaviors (g = 0.63), but rest on only four studies
 description: Group-design studies show a significant main effect of self-management interventions on classroom behaviors (g = 0.63), but rest on only four studies
 id: sm-group-design-main-effect-g063
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

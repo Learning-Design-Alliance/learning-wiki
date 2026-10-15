@@ -4,7 +4,7 @@ id: verified-teacher-subject-student-link-data
 title: Verified teacher-subject-student link data
 description: A dataset of teacher-verified mathematics and English/language arts subject and student links used to assess the accuracy of administrative teacher–student linkage data and examine departmentalization.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

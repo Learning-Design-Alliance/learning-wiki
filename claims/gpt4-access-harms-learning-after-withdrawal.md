@@ -4,7 +4,7 @@ title: Unrestricted GPT-4 access in high-school mathematics raised assisted prac
 description: Unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal
 id: gpt4-access-harms-learning-after-withdrawal
 aliases: [gpt4-practice-gains-exam-loss-cognitive-debt, unrestricted-chatgpt-worse-exam-scores, guarded-ai-placement-prevents-unaided-exam-harm, gpt-access-supported-practice-poorer-unaided-test, offloading-to-ai-costs-learning, unrestricted-gpt4-practice-gains-exam-decline-guardrail-mitigates, ai-performance-mastery-decoupling-review-report, ai-assistant-short-term-gains-harm-durable-learning, learning-performance-paradox-ai]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

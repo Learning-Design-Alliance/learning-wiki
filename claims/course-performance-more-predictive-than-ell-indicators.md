@@ -3,7 +3,7 @@ type: claim
 title: Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions
 description: Course performance indicators predict ELL graduation better than ELL-specific indicators such as proficiency level or education interruptions
 id: course-performance-more-predictive-than-ell-indicators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

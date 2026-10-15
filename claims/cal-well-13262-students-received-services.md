@@ -3,7 +3,7 @@ type: claim
 title: From 2019 through 2023, Cohort 2 LEAs reported 13,262 students received mental health services after a referral
 description: From 2019 through 2023, Cohort 2 LEAs reported 13,262 students received mental health services after a referral
 id: cal-well-13262-students-received-services
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

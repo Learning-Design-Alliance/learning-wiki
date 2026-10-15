@@ -4,7 +4,7 @@ id: sistc-integrated-student-dataset-of-1027-cleaned-records-with-14-features-fo
 title: SISTC integrated student dataset of 1,027 cleaned records with 14 features for dropout prediction
 description: A de-identified dataset created by SISTC researchers by integrating enrollment, academic performance, demographic, and enrollment-history records to support modeling of student withdrawal and cancellation risk.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

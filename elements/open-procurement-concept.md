@@ -3,7 +3,7 @@ type: element
 id: open-procurement-concept
 title: "Open Procurement concept: transparent district purchasing data creating smarter demand"
 description: "Open Procurement proposes that districts make their technology spending transparent so that all stakeholders benefit: the public sees where tax dollars go, faculty understand the process, and the market becomes more i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: A schoolwide literacy initiative based on deeper learning rapidly and sustainably raised achievement at a large low-income high school
 description: A schoolwide literacy initiative based on deeper learning rapidly and sustainably raised achievement at a large low-income high school
 id: bhs-literacy-initiative-raised-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

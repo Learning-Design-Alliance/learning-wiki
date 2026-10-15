@@ -3,7 +3,7 @@ type: claim
 title: "Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration"
 description: "Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration"
 id: learning-format-perspectives-correlate-immigrant-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

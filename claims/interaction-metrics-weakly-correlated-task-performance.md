@@ -3,7 +3,7 @@ type: claim
 title: Behavioral interaction metrics are weakly or inconsistently correlated with task performance in AI-assisted programming
 description: Behavioral interaction metrics are weakly or inconsistently correlated with task performance in AI-assisted programming
 id: interaction-metrics-weakly-correlated-task-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

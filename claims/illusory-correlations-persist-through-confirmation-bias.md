@@ -2,7 +2,7 @@
 type: claim
 title: Illusory correlations, like the belief that a full moon affects behavior, persist through confirmation bias despite having no basis in evidence
 id: illusory-correlations-persist-through-confirmation-bias
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

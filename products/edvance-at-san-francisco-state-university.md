@@ -4,7 +4,7 @@ id: edvance-at-san-francisco-state-university
 title: EDvance at San Francisco State University
 description: "A cohort-based early childhood teacher-preparation programme run by San Francisco State University's Marian Wright Edelman Institute through lower-division and working-educator PATH pathways."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

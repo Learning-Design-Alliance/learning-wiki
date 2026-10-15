@@ -4,7 +4,7 @@ id: new-yorks-appr-teacher-and-principal-evaluation-system
 title: "New York's APPR teacher and principal evaluation system"
 description: "New York's Annual Professional Performance Review (APPR) is a statewide educator-evaluation framework established by New York education officials and the teachers union that combines student-growth measures with classroom observations."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

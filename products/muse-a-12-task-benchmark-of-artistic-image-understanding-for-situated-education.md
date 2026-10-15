@@ -4,7 +4,7 @@ id: muse-a-12-task-benchmark-of-artistic-image-understanding-for-situated-educat
 title: "MUSE: a 12-task benchmark of artistic image understanding for situated education"
 description: MUSE is a benchmark dataset developed by Luyao Zhu et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

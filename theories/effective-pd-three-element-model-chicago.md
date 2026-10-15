@@ -2,7 +2,7 @@
 type: theory
 title: "Model of effective professional development: frequency of participation, content exposure, and pedagogical quality linked to instruction and innovation"
 description: The report presents a model of effective professional development built on a consensus view in the field.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

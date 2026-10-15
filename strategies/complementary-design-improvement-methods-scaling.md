@@ -3,7 +3,7 @@ type: strategy
 id: complementary-design-improvement-methods-scaling
 title: Complement experimental scale-up research with design and improvement methods such as RPPs, DBIR, and Networked Improvement Communities
 description: The chapter describes a set of complementary methods focused on the design dimension of scaling, recognizing that scale involves designing an approach to be adaptable and robust across varied environments.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

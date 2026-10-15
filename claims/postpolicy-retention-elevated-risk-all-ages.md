@@ -3,7 +3,7 @@ type: claim
 title: Prepolicy retained students dropped out earlier, but postpolicy retained students showed elevated dropout risk throughout their remaining years rather than at early ages
 description: Prepolicy retained students dropped out earlier, but postpolicy retained students showed elevated dropout risk throughout their remaining years rather than at early ages
 id: postpolicy-retention-elevated-risk-all-ages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

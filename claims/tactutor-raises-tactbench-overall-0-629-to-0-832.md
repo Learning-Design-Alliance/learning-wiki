@@ -3,7 +3,7 @@ type: claim
 title: "Taxonomy-guided post-training raises TACTutor's TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models"
 description: "Taxonomy-guided post-training raises TACTutor's TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models"
 id: tactutor-raises-tactbench-overall-0-629-to-0-832
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

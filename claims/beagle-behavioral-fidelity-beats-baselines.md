@@ -3,7 +3,7 @@ type: claim
 title: BEAGLE achieves higher behavioral fidelity to real student cognitive-behavior distributions than LLM prompting and agent baselines on a Particle Simulator task (DKL = 0.31 vs. baselines ≥ 0.53)
 description: BEAGLE achieves higher behavioral fidelity to real student cognitive-behavior distributions than LLM prompting and agent baselines on a Particle Simulator task (DKL = 0.31 vs.
 id: beagle-behavioral-fidelity-beats-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

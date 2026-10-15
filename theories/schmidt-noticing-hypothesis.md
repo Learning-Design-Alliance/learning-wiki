@@ -3,7 +3,7 @@ type: theory
 title: "Schmidt's noticing hypothesis"
 description: "Schmidt's claim that second language acquisition requires conscious noticing of features in the input, that learners who notice more learn more, and that noticing the gap between one's own output and the target is a route to change."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30

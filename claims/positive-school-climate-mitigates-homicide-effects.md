@@ -3,7 +3,7 @@ type: claim
 title: Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships
 description: Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships
 id: positive-school-climate-mitigates-homicide-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

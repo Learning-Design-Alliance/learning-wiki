@@ -3,7 +3,7 @@ type: claim
 title: "In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions"
 description: "In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions"
 id: far-transfer-floor-effect-and-equal-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

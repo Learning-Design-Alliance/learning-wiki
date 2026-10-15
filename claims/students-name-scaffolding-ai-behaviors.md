@@ -3,7 +3,7 @@ type: claim
 title: "53% of student essays named at least one AI behavior that supports rather than replaces thinking"
 description: "53% of student essays named at least one AI behavior that supports rather than replaces thinking"
 id: students-name-scaffolding-ai-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge"
 description: "Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge"
 id: business-writing-students-value-ai-feedback-but-find-it-general
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

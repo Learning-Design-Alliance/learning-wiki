@@ -3,7 +3,7 @@ type: claim
 title: Negative prior experiences with educational institutions and less exposure to formal schooling are barriers to ELL parental involvement
 description: Negative prior experiences with educational institutions and less exposure to formal schooling are barriers to ELL parental involvement
 id: ell-parent-schooling-history-barrier
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

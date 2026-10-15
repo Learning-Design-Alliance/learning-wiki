@@ -3,7 +3,7 @@ type: claim
 title: Revised visuals reduce cognitive processing of math-relevant visuals for low prior knowledge students but increase it for middle prior knowledge students
 description: Revised visuals reduce cognitive processing of math-relevant visuals for low prior knowledge students but increase it for middle prior knowledge students
 id: revised-visuals-processing-math-visuals-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: In LLM-simulated subjects with known skill levels, the Executive LLM yields better skill-level recovery (lower MAE) than Independent Agents
 description: In LLM-simulated subjects with known skill levels, the Executive LLM yields better skill-level recovery (lower MAE) than Independent Agents
 id: executive-llm-improves-skill-recovery-simulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

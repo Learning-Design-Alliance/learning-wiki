@@ -3,7 +3,7 @@ type: claim
 title: When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)
 description: When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)
 id: active-control-rcts-benefits-restricted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

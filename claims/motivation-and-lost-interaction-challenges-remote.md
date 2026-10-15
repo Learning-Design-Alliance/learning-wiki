@@ -3,7 +3,7 @@ type: claim
 title: Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences
 description: Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences
 id: motivation-and-lost-interaction-challenges-remote
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

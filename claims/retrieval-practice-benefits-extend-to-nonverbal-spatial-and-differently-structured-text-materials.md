@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice benefits extend to nonverbal visual materials, spatial map learning, and educational texts with different structures
 description: Retrieval practice benefits extend to nonverbal visual materials, spatial map learning, and educational texts with different structures
 id: retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

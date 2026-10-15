@@ -3,7 +3,7 @@ type: strategy
 id: ai-item-generation-low-cost-discriminating-items
 title: Use AI-driven item generation to create discriminating questions at a fraction of the cost and offload easier questions to an AI
 description: Based on the field-study IRT results, the authors recommend that instructors and testing platforms use AI-driven item generation—specifically their iterative refinement procedure—to produce questions with reliable dis...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

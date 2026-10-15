@@ -4,7 +4,7 @@ id: alliance-for-resource-equity-are-diagnostic-toolkit-organized-around-ten-dim
 title: Alliance for Resource Equity (ARE) diagnostic toolkit organized around ten dimensions of equity
 description: A toolkit developed by the Education Trust and Education Resource Strategies that helps district and school leaders diagnose inequities across ten dimensions of student experience and select guidebook actions for improvement.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

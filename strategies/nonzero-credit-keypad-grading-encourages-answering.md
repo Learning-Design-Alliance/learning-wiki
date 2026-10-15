@@ -3,7 +3,7 @@ type: strategy
 id: nonzero-credit-keypad-grading-encourages-answering
 title: Grade keypad answers so every answer earns points, encouraging students to record their best choice
 description: "The article describes a concrete grading recipe used in the authors' non-anonymous keypad questions: 'no answer receives 0 points, any answer receives 3 points; the correct answer receives 10 points; and when there is..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

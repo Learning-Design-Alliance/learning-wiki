@@ -3,7 +3,7 @@ type: claim
 title: Between 2014 and 2018, most states did not significantly change their content standards while districts increasingly provided standards-aligned supports
 description: Between 2014 and 2018, most states did not significantly change their content standards while districts increasingly provided standards-aligned supports
 id: essa-transition-standards-stable-district-supports-grew
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none
 description: ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none
 id: intensive-professional-development-stronger-epportfolio-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

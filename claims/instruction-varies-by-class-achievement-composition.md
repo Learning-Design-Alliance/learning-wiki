@@ -3,7 +3,7 @@ type: claim
 title: Interactive instruction is more common in classrooms with higher prior achievement; didactic and review are more common in lower-achieving classrooms
 description: Interactive instruction is more common in classrooms with higher prior achievement; didactic and review are more common in lower-achieving classrooms
 id: instruction-varies-by-class-achievement-composition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

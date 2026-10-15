@@ -2,7 +2,7 @@
 type: theory
 title: Group processing as a structured peer- and self-assessment process focused on the learning process rather than outputs
 description: Group processing is defined as a crucial element of cooperative learning in which students evaluate the effectiveness of the learning process by describing helpful and unhelpful strategies, deciding which behaviors re...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

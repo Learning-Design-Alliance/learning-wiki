@@ -3,7 +3,7 @@ type: strategy
 id: peer-campus-support-integration-ai-tools
 title: Embed AI tools in peer, campus, and counseling ecologies instead of isolated individual apps
 description: "One of the framework's five pathways: \"AI tools should be embedded in physical education, sport clubs, counseling services, peer-led activities, and referral pathways instead of remaining isolated individual apps\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

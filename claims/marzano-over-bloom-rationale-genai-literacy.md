@@ -3,7 +3,7 @@ type: claim
 title: "Marzano's taxonomy chosen over Bloom's because it accommodates three knowledge types and positions metacognition and ethics"
 description: "Marzano's taxonomy chosen over Bloom's because it accommodates three knowledge types and positions metacognition and ethics"
 id: marzano-over-bloom-rationale-genai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

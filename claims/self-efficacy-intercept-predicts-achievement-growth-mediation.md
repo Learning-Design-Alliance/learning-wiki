@@ -3,7 +3,7 @@ type: claim
 title: "Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth"
 description: "Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth"
 id: self-efficacy-intercept-predicts-achievement-growth-mediation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: cpig-multi-stage-prompting-quality-filters
 title: Multi-stage prompting with rule-based quality filters for LLM item generation
 description: "CPIG's item generation follows a multi-stage prompting pattern: a first LLM produces word lists (three names, a place, and an action) that item-generator LLMs must incorporate, which the authors say helps \"maximize di..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

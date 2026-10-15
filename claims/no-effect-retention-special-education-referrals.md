@@ -3,7 +3,7 @@ type: claim
 title: School closings had no effect on grade retention rates or special education referrals for displaced students
 description: School closings had no effect on grade retention rates or special education referrals for displaced students
 id: no-effect-retention-special-education-referrals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

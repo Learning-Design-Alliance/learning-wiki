@@ -3,7 +3,7 @@ type: claim
 title: Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs
 description: Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs
 id: low-performers-procrastinated-exercises-and-videos
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

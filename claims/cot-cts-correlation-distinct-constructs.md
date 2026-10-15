@@ -3,7 +3,7 @@ type: claim
 title: A moderate negative correlation exists between cognitive offloading tendency and critical thinking while the constructs remain empirically distinct
 description: A moderate negative correlation exists between cognitive offloading tendency and critical thinking while the constructs remain empirically distinct
 id: cot-cts-correlation-distinct-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

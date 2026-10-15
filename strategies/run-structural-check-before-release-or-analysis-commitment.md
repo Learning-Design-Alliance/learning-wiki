@@ -3,7 +3,7 @@ type: strategy
 id: run-structural-check-before-release-or-analysis-commitment
 title: Run the structural check on a synthetic dataset, using only permutations of itself, before release or before committing to a line of analysis
 description: The article recommends its surrogate-based structural check as a cheap, early screening step for synthetic educational datasets.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

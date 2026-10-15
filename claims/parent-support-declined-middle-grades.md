@@ -3,7 +3,7 @@ type: claim
 title: "Middle-grade students' reports of parent support declined during the remote/hybrid year and continued declining through 2022-23, ending 0.17 s.d. below 2011 levels"
 description: "Middle-grade students' reports of parent support declined during the remote/hybrid year and continued declining through 2022-23, ending 0.17 s.d."
 id: parent-support-declined-middle-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

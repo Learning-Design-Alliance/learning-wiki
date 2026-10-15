@@ -3,7 +3,7 @@ type: claim
 title: Only 17.9 percent of study ERWC teachers taught at least 8 modules with fidelity under the strand criterion, versus 62.5 percent under an activity-count criterion
 description: Only 17.9 percent of study ERWC teachers taught at least 8 modules with fidelity under the strand criterion, versus 62.5 percent under an activity-count criterion
 id: erwc-low-fidelity-strand-criterion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

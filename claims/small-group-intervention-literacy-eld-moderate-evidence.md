@@ -3,7 +3,7 @@ type: claim
 title: Small-group instructional intervention for students struggling in literacy and English language development is supported by six RCTs at moderate evidence level
 description: Small-group instructional intervention for students struggling in literacy and English language development is supported by six RCTs at moderate evidence level
 id: small-group-intervention-literacy-eld-moderate-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

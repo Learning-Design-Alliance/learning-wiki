@@ -3,7 +3,7 @@ type: claim
 title: Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS
 description: Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS
 id: adaptive-icap-scaffolding-improves-posttest-logic-tutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

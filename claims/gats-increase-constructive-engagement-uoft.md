@@ -3,7 +3,7 @@ type: claim
 title: At UofT, GATs produced a reliable end-of-course increase in Constructive engagement, with no effects on Passive, Active engagement, or MSLQ elaboration
 description: At UofT, GATs produced a reliable end-of-course increase in Constructive engagement, with no effects on Passive, Active engagement, or MSLQ elaboration
 id: gats-increase-constructive-engagement-uoft
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

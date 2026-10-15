@@ -3,7 +3,7 @@ type: claim
 title: Sentiment differs significantly across target audiences, with faculty-targeted guidelines more positive than student-targeted ones
 description: Sentiment differs significantly across target audiences, with faculty-targeted guidelines more positive than student-targeted ones
 id: audience-sentiment-difference-faculty-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

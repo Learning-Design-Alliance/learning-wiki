@@ -3,7 +3,7 @@ type: strategy
 id: iterative-teacher-llm-refinement-strategy
 title: Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use
 description: "The article recommends that teachers treat LLM output as a starting point for co-development rather than finished material: through iterative prompting, \"teachers can correct the output and clarify classroom contexts,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: After the design iteration, no student deleted an evaluation step, in contrast to frequent step deletion in the first deployment
 description: After the design iteration, no student deleted an evaluation step, in contrast to frequent step deletion in the first deployment
 id: no-evaluation-step-deletion-second-deployment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

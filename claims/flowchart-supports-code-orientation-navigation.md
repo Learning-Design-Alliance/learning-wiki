@@ -3,7 +3,7 @@ type: claim
 title: "An LLM-generated flowchart linking semantic feature descriptions to code across HTML, CSS, and JS files supports novice creative coders' orientation, navigation, and code understanding"
 description: "An LLM-generated flowchart linking semantic feature descriptions to code across HTML, CSS, and JS files supports novice creative coders' orientation, navigation, and code understanding"
 id: flowchart-supports-code-orientation-navigation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Only a small fraction of AIEd research addresses ethical implications, challenges and risks
 description: Only a small fraction of AIEd research addresses ethical implications, challenges and risks
 id: aied-little-ethical-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

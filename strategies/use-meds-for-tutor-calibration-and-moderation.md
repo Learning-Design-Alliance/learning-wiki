@@ -3,7 +3,7 @@ type: strategy
 id: use-meds-for-tutor-calibration-and-moderation
 title: Use MEDS as baseline data for fine-tuning and moderation of AI mathematics tutoring content
 description: The article recommends concrete downstream uses of MEDS for safer AI mathematics tutors.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

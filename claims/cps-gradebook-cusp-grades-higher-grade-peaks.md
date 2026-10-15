@@ -3,7 +3,7 @@ type: claim
 title: CPS ninth-grade math final grade distributions show sharp peaks at 60, 70, 80, and 90 points, with students on the cusp between two grades much more likely to receive the higher grade
 description: CPS ninth-grade math final grade distributions show sharp peaks at 60, 70, 80, and 90 points, with students on the cusp between two grades much more likely to receive the higher grade
 id: cps-gradebook-cusp-grades-higher-grade-peaks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

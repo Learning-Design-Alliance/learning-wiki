@@ -3,7 +3,7 @@ type: claim
 title: Learning styles have been used in education for classifying students by their preferences for taking in, processing, and demonstrating information
 description: Learning styles have been used in education for classifying students by their preferences for taking in, processing, and demonstrating information
 id: learning-styles-classify-student-preferences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

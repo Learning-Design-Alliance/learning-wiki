@@ -4,7 +4,7 @@ id: nih-undergraduate-scholarship-program
 title: NIH Undergraduate Scholarship Program
 description: A scholarship programme run by the National Institutes of Health that supports talented undergraduate science students from disadvantaged backgrounds and encourages biomedical research careers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

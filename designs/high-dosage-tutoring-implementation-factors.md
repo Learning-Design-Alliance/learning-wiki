@@ -3,7 +3,7 @@ type: design
 id: high-dosage-tutoring-implementation-factors
 title: "High dosage tutoring implementation factor set: frequency and scheduling, group size, qualified personnel, outcome measurement, curriculum, tutor-to-student relationships, and removing barriers to access"
 description: "The brief organizes effective high dosage tutoring around a set of implementation factors that \"must be considered and included to implement high dosage tutoring effectively.\" These are \"frequency and scheduling, grou..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

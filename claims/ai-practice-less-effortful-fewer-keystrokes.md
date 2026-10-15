@@ -3,7 +3,7 @@ type: claim
 title: Practicing with AI was less effortful than practicing alone, with participants spending less time and logging fewer keystrokes
 description: Practicing with AI was less effortful than practicing alone, with participants spending less time and logging fewer keystrokes
 id: ai-practice-less-effortful-fewer-keystrokes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

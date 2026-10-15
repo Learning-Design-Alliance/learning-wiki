@@ -3,7 +3,7 @@ type: process
 id: vendor-production
 title: Vendor Production (Alpha–Beta–Gold)
 description: The contract production process used by e-learning studios — macro design, storyboard, then alpha, beta and gold builds, each ending in a client review, with the final sign-off closing the design to further change.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03

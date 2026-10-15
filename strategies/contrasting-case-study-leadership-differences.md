@@ -3,7 +3,7 @@ type: strategy
 id: contrasting-case-study-leadership-differences
 title: Use a contrasting case study design to identify subtle leadership differences between schools with improving and non-improving achievement
 description: "The article's method is a contrasting case study design: select schools that appear equivalent on teacher-reported leadership but differ in achievement trends, then interview to surface subtle differences."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

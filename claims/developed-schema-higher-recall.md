@@ -3,7 +3,7 @@ type: claim
 title: Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge
 description: Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge
 id: developed-schema-higher-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

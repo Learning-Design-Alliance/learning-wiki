@@ -3,7 +3,7 @@ type: element
 id: digital-village-square-app
 title: "Digital Village Square: student-designed app for sharing writing ideas and feedback"
 description: "Digital Village Square is a concept for an app designed by Sunnyside student interns in which \"students can share ideas on writing topics, get feedback on their writing, interact through comments and threads, and part..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: 34-item-community-of-inquiry-survey
 title: 34-item Community of Inquiry Survey
 description: A validated survey developed by Swan et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

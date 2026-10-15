@@ -3,7 +3,7 @@ type: claim
 title: Dual enrollment programs have positive effects on college access and enrollment, with an average improvement index of +15 percentile points
 description: Dual enrollment programs have positive effects on college access and enrollment, with an average improvement index of +15 percentile points
 id: dual-enrollment-positive-college-access-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The achievement benefit of peer assessment persists to a later comprehensive final exam
 description: The achievement benefit of peer assessment persists to a later comprehensive final exam
 id: peer-assessment-gains-persist-to-final-exam
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

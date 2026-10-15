@@ -3,7 +3,7 @@ type: claim
 title: Recasts were provided more predominantly than prompts and explicit correction in both French immersion and Japanese immersion elementary classrooms
 description: Recasts were provided more predominantly than prompts and explicit correction in both French immersion and Japanese immersion elementary classrooms
 id: recasts-predominate-over-prompts-explicit-correction-immersion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Most study teachers received all ERWC materials and sufficient professional learning: 82.1 percent met professional-learning thresholds and all 56 received materials"
 description: "Most study teachers received all ERWC materials and sufficient professional learning: 82.1 percent met professional-learning thresholds and all 56 received materials"
 id: erwc-high-materials-professional-learning-fidelity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

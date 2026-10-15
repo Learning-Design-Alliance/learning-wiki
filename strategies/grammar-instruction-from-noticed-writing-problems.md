@@ -3,7 +3,7 @@ type: strategy
 id: grammar-instruction-from-noticed-writing-problems
 title: Start grammar instruction from the problems learners notice in their own written output
 description: The article proposes building grammar teaching on the grammatical features learners spontaneously notice while composing, rather than on preselected target forms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

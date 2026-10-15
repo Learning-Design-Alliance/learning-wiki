@@ -3,7 +3,7 @@ type: claim
 title: Interactive learning tasks produce larger incidental spoken word-learning gains than noninteractive tasks
 description: Interactive learning tasks produce larger incidental spoken word-learning gains than noninteractive tasks
 id: interactive-tasks-beat-noninteractive-spoken-word-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math
 description: At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math
 id: delayed-entrants-behind-in-math-first-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

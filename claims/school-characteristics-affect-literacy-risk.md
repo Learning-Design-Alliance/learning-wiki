@@ -3,7 +3,7 @@ type: claim
 title: "School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening"
 description: "School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening"
 id: school-characteristics-affect-literacy-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

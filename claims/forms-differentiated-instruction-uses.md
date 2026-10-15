@@ -3,7 +3,7 @@ type: claim
 title: Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations
 description: Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations
 id: forms-differentiated-instruction-uses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

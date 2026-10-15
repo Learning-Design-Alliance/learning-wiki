@@ -3,7 +3,7 @@ type: claim
 title: "Business-school AI policies differ from their universities' policies in focus, with school-level emphasis on pedagogy and tools versus university-level emphasis on risk management and data security"
 description: "Business-school AI policies differ from their universities' policies in focus, with school-level emphasis on pedagogy and tools versus university-level emphasis on risk management and data security"
 id: school-policies-pedagogy-university-risk-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

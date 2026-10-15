@@ -3,7 +3,7 @@ type: claim
 title: Under the new thresholds, two-thirds of GED takers and more than half of HiSET and TASC takers passed on the first attempt, and three-quarters of all takers ever passed each exam
 description: Under the new thresholds, two-thirds of GED takers and more than half of HiSET and TASC takers passed on the first attempt, and three-quarters of all takers ever passed each exam
 id: nj-new-threshold-passing-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

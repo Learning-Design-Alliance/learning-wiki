@@ -3,7 +3,7 @@ type: claim
 title: Word frequency does not modulate the transposed-character effect in either experiment
 description: Word frequency does not modulate the transposed-character effect in either experiment
 id: frequency-does-not-modulate-tc-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

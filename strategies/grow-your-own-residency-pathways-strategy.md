@@ -3,7 +3,7 @@ type: strategy
 id: grow-your-own-residency-pathways-strategy
 title: Develop high-retention pathways — Grow Your Own programs and teacher residencies — to build and diversify local teacher supply
 description: "The report describes GYO programs that \"recruit local community members into teaching, including high school students, paraprofessionals, after-school program staff, and others,\" often using state funding for tuition..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

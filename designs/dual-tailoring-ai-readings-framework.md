@@ -3,7 +3,7 @@ type: design
 id: dual-tailoring-ai-readings-framework
 title: "Dual tailoring: simultaneous individualization of readings along interest and comprehension-level dimensions within an AI-mediated workflow"
 description: "Dual tailoring is the article's descriptive design label (explicitly \"not a new theory\") for an instructional configuration combining two individualization dimensions in one AI-mediated workflow."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

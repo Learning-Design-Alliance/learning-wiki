@@ -3,7 +3,7 @@ type: strategy
 id: guided-reading-questions-for-writing-tasks
 title: Guide reading with targeted questions that direct attention to grammatical, lexical and structural features needed for the writing task
 description: After clarifying the writing task, the teacher presents a model text and “put forward some questions to guide students’ reading so that they could get a clue how to organize their ideas”.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

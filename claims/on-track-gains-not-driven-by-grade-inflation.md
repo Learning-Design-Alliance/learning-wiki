@@ -3,7 +3,7 @@ type: claim
 title: On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds
 description: On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds
 id: on-track-gains-not-driven-by-grade-inflation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

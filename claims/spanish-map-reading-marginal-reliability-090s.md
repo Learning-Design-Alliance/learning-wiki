@@ -3,7 +3,7 @@ type: claim
 title: Marginal reliabilities for Spanish MAP Growth Reading are in the 0.90s across all grades
 description: Marginal reliabilities for Spanish MAP Growth Reading are in the 0.90s across all grades
 id: spanish-map-reading-marginal-reliability-090s
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

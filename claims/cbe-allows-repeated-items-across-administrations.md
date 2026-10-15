@@ -3,7 +3,7 @@ type: claim
 title: Across administrations, the CBE may re-administer an item to the same student before the longitudinal exposure window elapses when the item bank cannot fulfill test requirements, which COLO does not allow
 description: Across administrations, the CBE may re-administer an item to the same student before the longitudinal exposure window elapses when the item bank cannot fulfill test requirements, which COLO does not allow
 id: cbe-allows-repeated-items-across-administrations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

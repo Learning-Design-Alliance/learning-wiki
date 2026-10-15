@@ -3,7 +3,7 @@ type: strategy
 id: predicted-arm-scores-tutoring-placement-only
 title: Use predicted ARM scores solely to select personalized tutoring content in MAP Reading Fluency Coach, not for benchmarking or instructional decisions
 description: "The report's usage guidelines state that the linking exists to inform tutoring placement: when students obtain SWCPM benchmark scores, their likely ARM scores are predicted and used \"to select personalized tutoring co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

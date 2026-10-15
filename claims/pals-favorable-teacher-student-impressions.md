@@ -3,7 +3,7 @@ type: claim
 title: Teachers and students report generally favorable impressions of PALS, with least favorability toward team-based structure components
 description: Teachers and students report generally favorable impressions of PALS, with least favorability toward team-based structure components
 id: pals-favorable-teacher-student-impressions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

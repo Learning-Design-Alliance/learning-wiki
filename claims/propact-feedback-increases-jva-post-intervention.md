@@ -3,7 +3,7 @@ type: claim
 title: Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads
 description: Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads
 id: propact-feedback-increases-jva-post-intervention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

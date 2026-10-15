@@ -3,7 +3,7 @@ type: claim
 title: Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading
 description: Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading
 id: tfa-experimental-studies-positive-math-no-reading-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

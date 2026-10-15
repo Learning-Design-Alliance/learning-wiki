@@ -3,7 +3,7 @@ type: claim
 title: Suspension is associated with lower test scores in the suspended years, with more suspended days related to larger decreases
 description: Suspension is associated with lower test scores in the suspended years, with more suspended days related to larger decreases
 id: suspension-lower-test-scores-days-related
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

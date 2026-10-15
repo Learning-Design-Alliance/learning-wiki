@@ -2,7 +2,7 @@
 type: theory
 title: Statistical significance as the criterion distinguishing a program effect from chance
 description: "The brief's organizing account is that an observed difference between program and comparison groups counts as a program effect only when it is \"not likely due to chance alone (that is, it is statistically significant)..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

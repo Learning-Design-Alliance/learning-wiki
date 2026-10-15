@@ -3,7 +3,7 @@ type: strategy
 id: word-chart-vocabulary-activity
 title: Use a word chart combining descriptive words and a drawn picture to build vocabulary knowledge
 description: A vocabulary activity, adapted from Haley (2010), in which each student is assigned a word, records other words heard or read that help describe it, and draws a picture of what the word evokes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -4,7 +4,7 @@ id: research-practice-industry-partnerships-rpips
 title: Research-Practice-Industry Partnerships (RPIPs)
 description: A partnership framework developed by the Creativity Labs at the University of California, Irvine, for coordinating practitioners, learning-science researchers, and edtech developers around authentic problems of practice and iterative feedback loops.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

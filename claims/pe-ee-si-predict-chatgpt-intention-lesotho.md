@@ -3,7 +3,7 @@ type: claim
 title: Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students
 description: Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students
 id: pe-ee-si-predict-chatgpt-intention-lesotho
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

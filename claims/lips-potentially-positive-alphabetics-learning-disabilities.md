@@ -3,7 +3,7 @@ type: claim
 title: LiPS has potentially positive effects on alphabetics for students with learning disabilities, with statistically significant advantages on two of eight measures
 description: LiPS has potentially positive effects on alphabetics for students with learning disabilities, with statistically significant advantages on two of eight measures
 id: lips-potentially-positive-alphabetics-learning-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

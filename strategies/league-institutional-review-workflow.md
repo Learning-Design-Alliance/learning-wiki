@@ -3,7 +3,7 @@ type: strategy
 id: league-institutional-review-workflow
 title: Run LEAGUE as a repeatable institutional review workflow before approving or renewing a learning analytics initiative
 description: The article operationalizes LEAGUE as a review workflow for committees adopting dashboards, expanding LMS monitoring, introducing predictive advising, or revising early alert systems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

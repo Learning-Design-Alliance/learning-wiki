@@ -4,7 +4,7 @@ id: measure-c-and-the-oakland-childrens-initiative
 title: "Measure C and the Oakland Children's Initiative"
 description: County and city early-childhood and education funding initiatives administered or implemented by First 5 Alameda and Oakland Promise to expand early learning access, improve provider conditions, support school readiness, and promote college persistence.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

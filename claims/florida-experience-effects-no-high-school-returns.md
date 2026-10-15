@@ -3,7 +3,7 @@ type: claim
 title: A Florida study found experience effects in elementary and middle school math and reading up to 0.16 SD for teachers with 15–24 years, but no returns to experience for high school teachers
 description: A Florida study found experience effects in elementary and middle school math and reading up to 0.16 SD for teachers with 15–24 years, but no returns to experience for high school teachers
 id: florida-experience-effects-no-high-school-returns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

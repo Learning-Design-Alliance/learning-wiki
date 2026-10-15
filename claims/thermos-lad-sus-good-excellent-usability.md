@@ -3,7 +3,7 @@ type: claim
 title: "After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)"
 description: "After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)"
 id: thermos-lad-sus-good-excellent-usability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In matched single-run 1B pre-training comparisons, all Edu-QuRating-based mixtures reach higher observed aggregate accuracy at 30k steps than the FineWeb-Edu baseline, with gains concentrated in specific tasks
 description: In matched single-run 1B pre-training comparisons, all Edu-QuRating-based mixtures reach higher observed aggregate accuracy at 30k steps than the FineWeb-Edu baseline, with gains concentrated in specific tasks
 id: edu-qurating-filtered-pretraining-higher-endpoints
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

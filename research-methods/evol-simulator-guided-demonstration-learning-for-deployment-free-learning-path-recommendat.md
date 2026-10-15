@@ -3,7 +3,7 @@ type: research-method
 id: evol-simulator-guided-demonstration-learning-for-deployment-free-learning-path-recommendat
 title: "EVOL: simulator-guided demonstration learning for deployment-free learning path recommendation"
 description: "EVOL adapts the robotics sim-to-real demonstration recipe to educational recommendation: a DKT-based knowledge evolution simulator (KES) both synthesizes per-learner expert paths via evolutionary search and hosts RL fine-tuning, while the deployed actor plans from the initial mastery alone."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Real-time data collection made the momentum lab substantially more efficient, cutting lab duration from two hours to one
 description: Real-time data collection made the momentum lab substantially more efficient, cutting lab duration from two hours to one
 id: real-time-data-collection-increases-lab-efficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

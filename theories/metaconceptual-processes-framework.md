@@ -2,7 +2,7 @@
 type: theory
 title: "Metaconceptual processes framework: metacognitive knowledge and processes specific to concept learning, classified as knowledge, awareness, monitoring, and evaluation"
 description: "The article adopts the metaconceptual framework to focus metacognition on concept learning during reading: \"the term metaconceptual has been used to focus on metacognitive processes that are specific to concept learni..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -4,7 +4,7 @@ id: genarch
 title: GenARch
 description: GenARch is a GenAI-assisted multi-user extended-reality pipeline developed by Xiao et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: talent-together-registered-teacher-apprenticeship
 title: Talent Together registered teacher apprenticeship
 description: Talent Together is a Michigan partnership programme that provides uncertified school employees with a paid, job-embedded route to teacher certification.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

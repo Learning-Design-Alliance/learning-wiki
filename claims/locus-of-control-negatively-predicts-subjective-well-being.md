@@ -3,7 +3,7 @@ type: claim
 title: Locus of control is negatively correlated with and predicts subjective well-being, ranking second after self-esteem
 description: Locus of control is negatively correlated with and predicts subjective well-being, ranking second after self-esteem
 id: locus-of-control-negatively-predicts-subjective-well-being
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

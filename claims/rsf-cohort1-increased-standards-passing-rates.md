@@ -3,7 +3,7 @@ type: claim
 title: Most RSF-supported Cohort 1 schools increased the percentage of students meeting or exceeding ISAT standards from year 1 to year 2
 description: Most RSF-supported Cohort 1 schools increased the percentage of students meeting or exceeding ISAT standards from year 1 to year 2
 id: rsf-cohort1-increased-standards-passing-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: create-own-360-images-street-view
 title: Teachers and students create their own 360-degree VR content using free apps like Google Street View
 description: The article recommends that teachers with moderate technology skills create VR experiences for their students using basic apps available on mobile devices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

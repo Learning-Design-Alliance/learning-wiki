@@ -3,7 +3,7 @@ type: claim
 title: Markov chain analysis yields nine finer-grained behavioral clusters that map predominantly onto the three broader behavior types
 description: Markov chain analysis yields nine finer-grained behavioral clusters that map predominantly onto the three broader behavior types
 id: nine-markov-clusters-map-three-behavior-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

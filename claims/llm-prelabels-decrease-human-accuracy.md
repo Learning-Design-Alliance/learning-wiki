@@ -3,7 +3,7 @@ type: claim
 title: Providing LLM pre-labels can decrease human annotation accuracy when the model is incorrect, due to automation bias
 description: Providing LLM pre-labels can decrease human annotation accuracy when the model is incorrect, due to automation bias
 id: llm-prelabels-decrease-human-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

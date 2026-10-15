@@ -3,7 +3,7 @@ type: claim
 title: CMO-affiliated charter schools outpace traditional public schools in reading and math while stand-alone charters gain in reading only
 description: CMO-affiliated charter schools outpace traditional public schools in reading and math while stand-alone charters gain in reading only
 id: cmo-schools-advance-reading-math-standalone-reading-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

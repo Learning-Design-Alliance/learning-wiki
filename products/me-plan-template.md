@@ -4,7 +4,7 @@ id: me-plan-template
 title: "M&E Plan Template"
 description: "The Measurement and Evaluation (M&E) Plan Template is a roadmap described by Place et al."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

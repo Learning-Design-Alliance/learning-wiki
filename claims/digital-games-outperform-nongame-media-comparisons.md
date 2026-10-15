@@ -3,7 +3,7 @@ type: claim
 title: Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons
 description: Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons
 id: digital-games-outperform-nongame-media-comparisons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

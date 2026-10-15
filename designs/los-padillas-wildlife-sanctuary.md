@@ -3,7 +3,7 @@ type: design
 id: los-padillas-wildlife-sanctuary
 title: Los Padillas Wildlife Sanctuary (5-acre experiential education facility)
 description: "The Los Padillas Wildlife Sanctuary is a 5-acre experiential education facility on the school campus that was \"in disrepair and out of use\" in 2017 and revived at community insistence as an outdoor learning space."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

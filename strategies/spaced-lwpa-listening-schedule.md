@@ -3,7 +3,7 @@ type: strategy
 id: spaced-lwpa-listening-schedule
 title: Distribute audio vocabulary listening across a spaced repetition schedule during routine physical activity
 description: "Students listen to each thematic audio vocabulary lesson 15 to 20 or more times, distributed across four repeating cycles: seven repetitions in the first week, four in the second, three in the third, two in the fourth..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

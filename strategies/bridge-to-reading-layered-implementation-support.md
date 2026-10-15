@@ -3,7 +3,7 @@ type: strategy
 id: bridge-to-reading-layered-implementation-support
 title: "Layered implementation support: initial on-site training plus follow-up modeling, observations, coaching, and monthly virtual sessions"
 description: "In the evaluated studies, implementation was supported through a sequence of professional learning activities: \"a Heggerty literacy specialist provided on-site training before the start of the school year,\" followed b..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

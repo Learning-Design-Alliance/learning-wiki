@@ -3,7 +3,7 @@ type: claim
 title: Maritime students supported MMLA but preferred on-demand post-simulation access via mobile application over real-time in-simulation dashboards
 description: Maritime students supported MMLA but preferred on-demand post-simulation access via mobile application over real-time in-simulation dashboards
 id: students-support-mmla-prefer-post-hoc-mobile-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

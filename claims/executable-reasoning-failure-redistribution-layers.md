@@ -3,7 +3,7 @@ type: claim
 title: Code-augmented interaction redistributes failures into protocol, execution, and mathematical layers, with Gemini 2.5 Pro failing mostly through protocol violations
 description: Code-augmented interaction redistributes failures into protocol, execution, and mathematical layers, with Gemini 2.5 Pro failing mostly through protocol violations
 id: executable-reasoning-failure-redistribution-layers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Existing reflection models lack strategies to manage challenges introduced by GenAI
 description: Existing reflection models lack strategies to manage challenges introduced by GenAI
 id: existing-reflection-models-lack-genai-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

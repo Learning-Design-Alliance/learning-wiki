@@ -3,7 +3,7 @@ type: claim
 title: Time Management showed a marginally significant post-intervention difference favouring GenAI feedback, while Goal Setting, Help Seeking and Self-Evaluation showed no significant differences
 description: Time Management showed a marginally significant post-intervention difference favouring GenAI feedback, while Goal Setting, Help Seeking and Self-Evaluation showed no significant differences
 id: genai-feedback-tm-marginal-other-srl-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

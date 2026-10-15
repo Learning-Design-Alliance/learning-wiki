@@ -4,7 +4,7 @@ id: linkedin-skill-network-dataset-24-million-us-workers-16753-skills-556206-dir
 title: "LinkedIn skill network dataset: 2.4 million US workers, 16,753 skills, 556,206 directed edges, 12 skill domains"
 description: A Carpanelli et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

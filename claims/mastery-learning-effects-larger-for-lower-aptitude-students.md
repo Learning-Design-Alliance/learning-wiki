@@ -3,7 +3,7 @@ type: claim
 title: "Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class"
 description: "In 13 studies reporting effects by aptitude, low-aptitude students gained 0.61 SD and high-aptitude students 0.40 SD (difference not significant); in 37 of 52 studies the spread of final scores was smaller in mastery classes, 77% of the control group's variation on average."
 id: mastery-learning-effects-larger-for-lower-aptitude-students
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: element
 id: four-supplemental-reading-comprehension-curricula-rct
 title: Four supplemental reading comprehension curricula evaluated in a large-scale RCT
 description: "The article evaluates four supplemental reading comprehension curricula: \"Project CRISS, ReadAbout, Read for Real, and Reading for Knowledge.\" These were tested in \"a large-scale randomized controlled trial\" of their..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

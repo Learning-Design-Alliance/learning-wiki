@@ -3,7 +3,7 @@ type: claim
 title: "Process measures distinguish how text was entered: classroom writers revised most, left the editor often, and wrote actively for 77% of the session"
 description: "Process measures distinguish how text was entered: classroom writers revised most, left the editor often, and wrote actively for 77% of the session"
 id: process-view-reflects-how-text-was-entered
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

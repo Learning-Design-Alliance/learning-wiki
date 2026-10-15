@@ -3,7 +3,7 @@ type: claim
 title: Metalinguistic feedback produced system learning, generalizing to verbs not included in the treatment
 description: Metalinguistic feedback produced system learning, generalizing to verbs not included in the treatment
 id: metalinguistic-feedback-generalizes-new-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

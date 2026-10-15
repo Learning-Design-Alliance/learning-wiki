@@ -3,7 +3,7 @@ type: claim
 title: Underlying assumptions dictate how the five foundations are operationalized in a learning environment
 description: Underlying assumptions dictate how the five foundations are operationalized in a learning environment
 id: assumptions-dictate-foundation-operationalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Intensity of SES services and other provider characteristics are not significantly related to estimated impacts
 description: Intensity of SES services and other provider characteristics are not significantly related to estimated impacts
 id: ses-provider-characteristics-not-related-to-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: trust-in-schools-12-chicago-elementary-study
 title: Trust in Schools three-year study of 12 Chicago elementary schools
 description: "This is the research base behind the book: \"Over the course of three years, Bryk and Schneider, together with a diverse team of other researchers and school practitioners, studied reform in 12 Chicago elementary schoo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

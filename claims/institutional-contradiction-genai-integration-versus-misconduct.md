@@ -3,7 +3,7 @@ type: claim
 title: University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct
 description: University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct
 id: institutional-contradiction-genai-integration-versus-misconduct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

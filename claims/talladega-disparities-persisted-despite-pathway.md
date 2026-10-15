@@ -3,7 +3,7 @@ type: claim
 title: Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.
 description: Computing participation and achievement disparities persisted in the district despite development of an inclusive CT pathway.
 id: talladega-disparities-persisted-despite-pathway
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

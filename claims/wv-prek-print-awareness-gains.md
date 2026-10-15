@@ -3,7 +3,7 @@ type: claim
 title: A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards
 description: A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards
 id: wv-prek-print-awareness-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

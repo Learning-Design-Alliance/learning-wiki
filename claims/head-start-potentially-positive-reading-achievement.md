@@ -3,7 +3,7 @@ type: claim
 title: Head Start has potentially positive effects on general reading achievement for 3- and 4-year-old children, based on parent-rated emergent literacy
 description: Head Start has potentially positive effects on general reading achievement for 3- and 4-year-old children, based on parent-rated emergent literacy
 id: head-start-potentially-positive-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Professional development frequency shows no significant relationship to didactic teaching, while quality and basic-skills content do
 description: Professional development frequency shows no significant relationship to didactic teaching, while quality and basic-skills content do
 id: pd-frequency-null-didactic-quality-content-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels
 description: Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels
 id: higher-hierarchy-levels-recalled-better
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

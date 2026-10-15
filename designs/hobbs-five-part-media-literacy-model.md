@@ -3,7 +3,7 @@ type: design
 id: hobbs-five-part-media-literacy-model
 title: "Hobbs's five-part media literacy model operationalized through participatory culture theory"
 description: "The study's theoretical foundation combines Hobbs's five-domain media literacy framework with Jenkins's participatory culture theory."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

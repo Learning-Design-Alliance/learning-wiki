@@ -3,7 +3,7 @@ type: claim
 title: Test scores in grades 2-8 at NLCI schools improved at rates similar to the district, so gains cannot be attributed to the initiative
 description: Test scores in grades 2-8 at NLCI schools improved at rates similar to the district, so gains cannot be attributed to the initiative
 id: nlci-test-scores-improved-similar-to-district
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

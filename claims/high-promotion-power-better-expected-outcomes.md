@@ -3,7 +3,7 @@ type: claim
 title: Students at high promotion power high schools have substantially better expected long-term outcomes than similar students at average promotion power schools
 description: Students at high promotion power high schools have substantially better expected long-term outcomes than similar students at average promotion power schools
 id: high-promotion-power-better-expected-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

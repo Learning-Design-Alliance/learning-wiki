@@ -3,7 +3,7 @@ type: strategy
 id: powerup-layered-professional-development
 title: "Support PowerUp implementation with layered professional development: customized planning, product training, and ongoing data coaching"
 description: "The page describes a multi-part professional development model intended to equip educators to \"implement PowerUp with fidelity to deliver successful student outcomes\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Negative affective experience items were dropped due to floor effects and poor discrimination
 description: Negative affective experience items were dropped due to floor effects and poor discrimination
 id: negative-affect-items-floor-effect-removed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

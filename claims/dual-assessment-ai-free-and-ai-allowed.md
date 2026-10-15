@@ -3,7 +3,7 @@ type: claim
 title: Both workshops proposed a dual assessment approach combining controlled AI-free testing and open AI-allowed assignments
 description: Both workshops proposed a dual assessment approach combining controlled AI-free testing and open AI-allowed assignments
 id: dual-assessment-ai-free-and-ai-allowed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

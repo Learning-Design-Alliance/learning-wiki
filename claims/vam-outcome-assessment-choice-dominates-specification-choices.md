@@ -3,7 +3,7 @@ type: claim
 title: The choice of which assessment to use as the outcome measure matters more for value-added estimates than any student or peer control-variable specification choice
 description: The choice of which assessment to use as the outcome measure matters more for value-added estimates than any student or peer control-variable specification choice
 id: vam-outcome-assessment-choice-dominates-specification-choices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

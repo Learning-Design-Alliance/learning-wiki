@@ -4,7 +4,7 @@ id: forca-libras
 title: Forca Libras
 description: Forca Libras is an AI-powered computer-vision hangman game developed within the GAIA project to support Brazilian Sign Language learning for hearing students and Portuguese literacy for deaf students.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

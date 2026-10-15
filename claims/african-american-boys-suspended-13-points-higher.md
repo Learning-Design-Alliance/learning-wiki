@@ -3,7 +3,7 @@ type: claim
 title: At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school
 description: At racially/ethnically diverse schools, African American boys are suspended at about 13 percentage points higher rates than other students in the same school
 id: african-american-boys-suspended-13-points-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

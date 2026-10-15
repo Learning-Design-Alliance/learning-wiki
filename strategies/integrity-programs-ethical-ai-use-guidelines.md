@@ -3,7 +3,7 @@ type: strategy
 id: integrity-programs-ethical-ai-use-guidelines
 title: Institutional integrity programs combining ethical AI-use guidelines, clear definitions of dishonesty, and risk-awareness education
 description: "The article recommends that universities \"implement educational programs to establish ethical guidelines for its responsible use, heightening the awareness of the potential risks involved with the use of AI tools.\" Pr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

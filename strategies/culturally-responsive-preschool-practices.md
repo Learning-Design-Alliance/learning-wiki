@@ -3,7 +3,7 @@ type: strategy
 id: culturally-responsive-preschool-practices
 title: Use culturally responsive practices to make preschool learning relevant for children from all backgrounds
 description: The panel directs teachers to reflect and value the cultural, racial, and linguistic backgrounds of children, teachers, and community.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

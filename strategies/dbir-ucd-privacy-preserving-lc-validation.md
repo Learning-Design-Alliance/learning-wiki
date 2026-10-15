@@ -3,7 +3,7 @@ type: strategy
 id: dbir-ucd-privacy-preserving-lc-validation
 title: Co-design and validate context-aware AI through DBIR blended with user-centered design in privacy-preserving enclaves
 description: "The article's application, testing, and validation strategy is to bring stakeholders together to co-design the LC and implement it in AI instructional tools using a design-based implementation research approach combin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

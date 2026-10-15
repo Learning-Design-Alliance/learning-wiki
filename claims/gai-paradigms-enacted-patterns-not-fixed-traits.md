@@ -3,7 +3,7 @@ type: claim
 title: Human-GAI paradigms are enacted patterns of engagement rather than fixed individual traits
 description: Human-GAI paradigms are enacted patterns of engagement rather than fixed individual traits
 id: gai-paradigms-enacted-patterns-not-fixed-traits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

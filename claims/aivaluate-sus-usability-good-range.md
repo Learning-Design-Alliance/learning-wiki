@@ -3,7 +3,7 @@ type: claim
 title: "Students rated the usability of the AIvaluate assessment in the SUS 'good' range"
 description: "Students rated the usability of the AIvaluate assessment in the SUS 'good' range"
 id: aivaluate-sus-usability-good-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

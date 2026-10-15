@@ -3,7 +3,7 @@ type: claim
 title: Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions
 description: Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions
 id: ai-detection-unreliable-biased-high-stakes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

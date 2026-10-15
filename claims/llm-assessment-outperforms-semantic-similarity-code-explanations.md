@@ -3,7 +3,7 @@ type: claim
 title: LLM-based automated assessment of student code self-explanations outperforms semantic similarity methods on a balanced classification task
 description: LLM-based automated assessment of student code self-explanations outperforms semantic similarity methods on a balanced classification task
 id: llm-assessment-outperforms-semantic-similarity-code-explanations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "In simulation, ignoring local dependence overestimates reliability, and the overestimation grows with the size of the testlet effect (17.0%-21.8% decrease under the larger testlet effect vs. 4.8%-7.4% under the small)"
 description: "In simulation, ignoring local dependence overestimates reliability, and the overestimation grows with the size of the testlet effect (17.0%-21.8% decrease under the larger testlet effect vs."
 id: ignored-local-dependence-overestimates-reliability-simulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

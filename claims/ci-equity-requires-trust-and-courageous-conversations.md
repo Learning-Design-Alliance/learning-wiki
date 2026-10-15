@@ -3,7 +3,7 @@ type: claim
 title: Continuous improvement for equity requires trust and courageous conversations; without trusting relationships, the improvement process will not help
 description: Continuous improvement for equity requires trust and courageous conversations; without trusting relationships, the improvement process will not help
 id: ci-equity-requires-trust-and-courageous-conversations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

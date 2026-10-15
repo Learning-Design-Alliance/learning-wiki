@@ -3,7 +3,7 @@ type: claim
 title: Two mass shootings exemplify how metal detectors can be insufficient at stopping such attacks
 description: Two mass shootings exemplify how metal detectors can be insufficient at stopping such attacks
 id: metal-detectors-insufficient-mass-shooting-cases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

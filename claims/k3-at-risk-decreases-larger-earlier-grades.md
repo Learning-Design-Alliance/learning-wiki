@@ -3,7 +3,7 @@ type: claim
 title: Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3
 description: Across grades K–3, the percentage of students below literacy benchmarks decreases more from BOY to EOY in earlier grades than in grade 3
 id: k3-at-risk-decreases-larger-earlier-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

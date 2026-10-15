@@ -3,7 +3,7 @@ type: strategy
 id: vary-contexts-for-vocabulary-teaching
 title: Teach vocabulary by varying contexts rather than repeating words within the same context
 description: Because the evidence favors contextual diversity over repetition as the driver of lexical organization, the chapter argues that instructional approaches to vocabulary should modulate context rather than simply repeat...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

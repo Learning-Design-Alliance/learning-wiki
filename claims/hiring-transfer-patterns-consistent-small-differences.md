@@ -3,7 +3,7 @@ type: claim
 title: Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income
 description: Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income
 id: hiring-transfer-patterns-consistent-small-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

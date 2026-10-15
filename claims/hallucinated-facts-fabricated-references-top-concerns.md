@@ -3,7 +3,7 @@ type: claim
 title: The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content
 description: The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content
 id: hallucinated-facts-fabricated-references-top-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

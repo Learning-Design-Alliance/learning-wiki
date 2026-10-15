@@ -3,7 +3,7 @@ type: claim
 title: Educational psychology has long neglected marginalized learners and remains complicit in imposing normative standards and social stratification
 description: Educational psychology has long neglected marginalized learners and remains complicit in imposing normative standards and social stratification
 id: ed-psych-neglect-marginalized-learners-normative-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

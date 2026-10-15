@@ -3,7 +3,7 @@ type: claim
 title: "Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar"
 description: "Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar"
 id: carousel-task-immediate-repetition-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

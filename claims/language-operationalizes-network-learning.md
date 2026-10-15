@@ -3,7 +3,7 @@ type: claim
 title: Language and dialogue operationalize the networking capacities that connectivism values
 description: Language and dialogue operationalize the networking capacities that connectivism values
 id: language-operationalizes-network-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

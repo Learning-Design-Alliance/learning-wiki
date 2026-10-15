@@ -3,7 +3,7 @@ type: strategy
 id: chatbot-out-of-class-instant-support
 title: Deploy an educational chatbot to give students instant question-and-answer support outside class when teacher interaction time is limited
 description: "The article recommends providing suitable learning tools for out-of-class biology study because teachers \"do not have enough class time to interact with students, and students often do not have the opportunities to ra..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

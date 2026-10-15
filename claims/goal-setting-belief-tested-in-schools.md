@@ -3,7 +3,7 @@ type: claim
 title: Goal setting is widely believed to improve individual performance, and this belief is being tested in schools
 description: Goal setting is widely believed to improve individual performance, and this belief is being tested in schools
 id: goal-setting-belief-tested-in-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

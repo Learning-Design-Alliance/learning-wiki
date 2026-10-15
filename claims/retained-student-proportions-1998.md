@@ -3,7 +3,7 @@ type: claim
 title: Retained students made up 15 percent of tested third graders, 10 percent of sixth graders, and 4.6 percent of eighth graders in 1998
 description: Retained students made up 15 percent of tested third graders, 10 percent of sixth graders, and 4.6 percent of eighth graders in 1998
 id: retained-student-proportions-1998
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

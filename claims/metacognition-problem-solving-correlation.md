@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance
 description: Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance
 id: metacognition-problem-solving-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

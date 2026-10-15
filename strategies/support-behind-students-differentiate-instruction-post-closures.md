@@ -3,7 +3,7 @@ type: strategy
 id: support-behind-students-differentiate-instruction-post-closures
 title: Prepare for fall 2020 by supporting academically behind students and further differentiating instruction
 description: "The paper recommends that in preparing for fall 2020, \"educators will likely need to consider ways to support students who are academically behind and further differentiate instruction.\" This follows directly from its..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

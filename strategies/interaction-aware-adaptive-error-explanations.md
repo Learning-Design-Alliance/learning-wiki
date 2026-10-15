@@ -3,7 +3,7 @@ type: strategy
 id: interaction-aware-adaptive-error-explanations
 title: Move beyond static skill-targeted rewriting toward interaction-aware adaptive error explanations
 description: "The authors recommend that future programming-support systems adapt explanations dynamically to the user's interaction state rather than assigning a fixed style."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

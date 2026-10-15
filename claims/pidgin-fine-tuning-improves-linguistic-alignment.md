@@ -3,7 +3,7 @@ type: claim
 title: "Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware"
 description: "Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware"
 id: pidgin-fine-tuning-improves-linguistic-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

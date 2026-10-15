@@ -3,7 +3,7 @@ type: claim
 title: Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations
 description: Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations
 id: students-more-curious-than-lecture-appears
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "AIHEd evidence syntheses show methodological quality weaknesses: many omit inter-rater reliability reporting, quality assessment, and full search strings"
 description: "AIHEd evidence syntheses show methodological quality weaknesses: many omit inter-rater reliability reporting, quality assessment, and full search strings"
 id: aihed-review-quality-gaps-irr-quality-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

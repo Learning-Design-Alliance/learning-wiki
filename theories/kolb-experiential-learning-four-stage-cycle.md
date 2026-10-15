@@ -2,7 +2,7 @@
 type: theory
 title: "Kolb's experiential learning theory: knowledge created through transformation of experience via a four-stage cycle"
 description: "The paper adopts Kolb's (1984) definition of experiential learning as \"the process whereby knowledge is created through the transformation of the experience of the /earner who is at the centre of the learning process\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

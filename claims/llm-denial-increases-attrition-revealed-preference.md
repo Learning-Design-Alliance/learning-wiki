@@ -3,7 +3,7 @@ type: claim
 title: Denial of LLM access increases attrition and LLMs are the most preferred study resource, acting as revealed preference
 description: Denial of LLM access increases attrition and LLMs are the most preferred study resource, acting as revealed preference
 id: llm-denial-increases-attrition-revealed-preference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

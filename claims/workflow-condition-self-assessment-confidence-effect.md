@@ -3,7 +3,7 @@ type: claim
 title: "Workflow condition is associated with students' self-assessment confidence"
 description: "Workflow condition is associated with students' self-assessment confidence"
 id: workflow-condition-self-assessment-confidence-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

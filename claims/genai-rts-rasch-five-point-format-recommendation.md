@@ -3,7 +3,7 @@ type: claim
 title: "Rasch analysis indicates a five-point response format would improve the GenAI-RTS's category functioning"
 description: "Rasch analysis indicates a five-point response format would improve the GenAI-RTS's category functioning"
 id: genai-rts-rasch-five-point-format-recommendation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

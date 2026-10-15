@@ -3,7 +3,7 @@ type: claim
 title: Teachers viewed ChatGPT as a source of inspiration rather than a generator of genuinely innovative lesson content
 description: Teachers viewed ChatGPT as a source of inspiration rather than a generator of genuinely innovative lesson content
 id: chatgpt-inspiration-not-innovation-lesson-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

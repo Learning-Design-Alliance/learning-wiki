@@ -3,7 +3,7 @@ type: strategy
 id: reserve-collaboration-term-for-strong-sense
 title: "Reserve the term 'collaboration' for interaction that meaningfully approximates it, using the taxonomy for other interaction types"
 description: The chapter recommends that researchers and designers stop labelling transactional through praxical human–AI interaction as collaboration and instead name it consultation, governance, delegation, or instruction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

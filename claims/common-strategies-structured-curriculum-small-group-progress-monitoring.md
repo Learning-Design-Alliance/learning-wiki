@@ -3,7 +3,7 @@ type: claim
 title: Common strategies across reviewed Tier 2 interventions include structured curriculum, small group instruction, and progress-monitoring assessment tools
 description: Common strategies across reviewed Tier 2 interventions include structured curriculum, small group instruction, and progress-monitoring assessment tools
 id: common-strategies-structured-curriculum-small-group-progress-monitoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

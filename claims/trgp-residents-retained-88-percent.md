@@ -3,7 +3,7 @@ type: claim
 title: Most residents from the first TRGP cohort were still teaching three years later
 description: Most residents from the first TRGP cohort were still teaching three years later
 id: trgp-residents-retained-88-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

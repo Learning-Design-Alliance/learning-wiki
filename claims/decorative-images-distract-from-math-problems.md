@@ -3,7 +3,7 @@ type: claim
 title: "A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students"
 description: "A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students"
 id: decorative-images-distract-from-math-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

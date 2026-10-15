@@ -4,7 +4,7 @@ title: For continuing KIPP students, KIPP high schools have positive impacts on 
 description: For continuing KIPP students, KIPP high schools have positive impacts on college preparation activities and the likelihood of applying to college
 id: kipp-high-school-continuing-students-college-preparation
 aliases: [kipp-high-school-college-prep-impacts-continuing-students]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

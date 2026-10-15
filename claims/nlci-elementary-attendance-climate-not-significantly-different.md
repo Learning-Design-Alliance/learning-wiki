@@ -3,7 +3,7 @@ type: claim
 title: Elementary attendance and school climate improved over time at NLCI schools but not significantly more than at comparison schools
 description: Elementary attendance and school climate improved over time at NLCI schools but not significantly more than at comparison schools
 id: nlci-elementary-attendance-climate-not-significantly-different
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

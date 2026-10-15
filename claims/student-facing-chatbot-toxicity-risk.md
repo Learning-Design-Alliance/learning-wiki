@@ -3,7 +3,7 @@ type: claim
 title: "A student-facing chatbot was pulled after it reinforced a student's self-deprecating views about math, illustrating substantial risk of direct AI engagement with students"
 description: "A student-facing chatbot was pulled after it reinforced a student's self-deprecating views about math, illustrating substantial risk of direct AI engagement with students"
 id: student-facing-chatbot-toxicity-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning
 description: Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning
 id: experts-counteract-automaticity-mental-representations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

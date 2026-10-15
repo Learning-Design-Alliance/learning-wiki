@@ -3,7 +3,7 @@ type: design
 id: sanger-star-integrated-two-semester-curriculum
 title: "Sanger STaR integrated two-semester curriculum: eleven courses consolidated into two yearlong integrated courses, saving residents roughly $4,000"
 description: Fresno State faculty and Sanger Unified leadership redesigned the STaR residency curriculum from three semesters with eleven separate courses into two yearlong integrated courses, one spanning pedagogy content and one...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

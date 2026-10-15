@@ -4,7 +4,7 @@ id: nclb-eleven-component-comprehensive-school-reform-framework
 title: NCLB eleven-component comprehensive school reform framework
 description: A framework specified by the No Child Left Behind Act that organizes comprehensive K–12 school reform around eleven coordinated components, including evidence-based methods, professional development, measurable goals, family and community involvement, external assistance, evaluation, and resource co
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

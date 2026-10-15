@@ -3,7 +3,7 @@ type: claim
 title: Chatbot outreach produced no spillover effects on other-course performance or medium-term effects on subsequent enrollment
 description: Chatbot outreach produced no spillover effects on other-course performance or medium-term effects on subsequent enrollment
 id: chatbot-no-spillover-medium-term-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

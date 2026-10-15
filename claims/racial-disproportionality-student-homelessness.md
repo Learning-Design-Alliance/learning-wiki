@@ -3,7 +3,7 @@ type: claim
 title: Black, Latino/a, Native American, English learner, and special education students are disproportionately represented among students experiencing homelessness
 description: Black, Latino/a, Native American, English learner, and special education students are disproportionately represented among students experiencing homelessness
 id: racial-disproportionality-student-homelessness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

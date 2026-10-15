@@ -3,7 +3,7 @@ type: theory
 title: Five essential supports framework for school improvement
 description: "The UChicago Consortium's framework identifies five organizational domains that jointly matter for improving student outcomes in public elementary schools: \"school leadership, professional capacity, parent-community t..."
 canonical: true
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

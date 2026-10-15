@@ -3,7 +3,7 @@ type: claim
 title: Chat-log analysis indicates lower-education participants obtain substantial assistance from AI while higher-education participants use the tool somewhat more effectively across several margins, explaining why the gap narrows but does not disappear
 description: Chat-log analysis indicates lower-education participants obtain substantial assistance from AI while higher-education participants use the tool somewhat more effectively across several margins, explaining why the gap...
 id: chat-logs-explain-gap-narrows-but-persists
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

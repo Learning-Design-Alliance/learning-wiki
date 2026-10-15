@@ -3,7 +3,7 @@ type: claim
 title: 5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes
 description: 5Essentials Survey measures predict school improvement in elementary and high schools, but not all measures relate to all outcomes
 id: 5essentials-measures-positively-associated-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

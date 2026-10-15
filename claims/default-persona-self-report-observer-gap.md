@@ -3,7 +3,7 @@ type: claim
 title: "Default personas show a self-report–behavior gap: they endorse moderate-range ADHD characteristics on self-report while displaying only weakly elevated ADHD-like behavior to observers"
 description: "Default personas show a self-report–behavior gap: they endorse moderate-range ADHD characteristics on self-report while displaying only weakly elevated ADHD-like behavior to observers"
 id: default-persona-self-report-observer-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

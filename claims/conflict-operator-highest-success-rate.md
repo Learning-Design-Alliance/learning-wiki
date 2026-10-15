@@ -3,7 +3,7 @@ type: claim
 title: CONFLICT operator achieves the highest downstream success rate among Berlyne-inspired curiosity operators, while NOVELTY is selected most frequently with a substantially lower success rate
 description: CONFLICT operator achieves the highest downstream success rate among Berlyne-inspired curiosity operators, while NOVELTY is selected most frequently with a substantially lower success rate
 id: conflict-operator-highest-success-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

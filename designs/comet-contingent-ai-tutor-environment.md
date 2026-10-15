@@ -3,7 +3,7 @@ type: design
 id: comet-contingent-ai-tutor-environment
 title: "CoMeT: a browser-based contingent AI programming tutor with a support ladder over authored decision points"
 description: "CoMeT is \"a browser-based environment in which a learner works through a short programming task beside a chat tutor\", with a sketchpad and code editor."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: theory
 id: architectonic-guiding-principles-integration
 title: Four architectonic guiding principles for integrating teaching, learning, and technology
 description: "The article enumerates four principles, attributed to Dennis (2020a), that serve as a paradigm for the interrelationship of teaching, learning, and technology: language and dialogue create unity out of differences; al..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

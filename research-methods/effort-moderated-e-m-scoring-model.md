@@ -3,7 +3,7 @@ type: research-method
 id: effort-moderated-e-m-scoring-model
 title: Effort-moderated (E-M) scoring model
 description: "The effort-moderated (E-M) model, attributed to Wise and DeMars (2006), is a scoring approach in which \"rapid guesses are identified and excluded during scoring.\" It is \"intended to estimate the score a disengaged test taker would have received had they been fully engaged.\" The presentation evaluate"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

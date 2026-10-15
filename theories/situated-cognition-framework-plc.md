@@ -2,7 +2,7 @@
 type: theory
 title: Situated cognition as an epistemological framework for professional learning communities
 description: "The paper adopts the situated cognition model, which portrays \"mental activity as dependent on the situation or context in which it occurs,\" contrasting it with cognitive individualism."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

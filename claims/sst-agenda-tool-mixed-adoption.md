@@ -3,7 +3,7 @@ type: claim
 title: The co-designed AI-enabled SST meeting agenda tool saw mixed district-wide adoption despite enthusiasm in facilitated meetings
 description: The co-designed AI-enabled SST meeting agenda tool saw mixed district-wide adoption despite enthusiasm in facilitated meetings
 id: sst-agenda-tool-mixed-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

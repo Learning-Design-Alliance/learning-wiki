@@ -3,7 +3,7 @@ type: claim
 title: Quality standards vary across federal ECE programs, with CCDBG and Head Start minimum standards differing significantly
 description: Quality standards vary across federal ECE programs, with CCDBG and Head Start minimum standards differing significantly
 id: ccdbg-head-start-quality-standard-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

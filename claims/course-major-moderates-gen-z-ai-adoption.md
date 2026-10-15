@@ -3,7 +3,7 @@ type: claim
 title: "Course major moderates the predictive effects on Gen Z students' AI adoption"
 description: "Course major moderates the predictive effects on Gen Z students' AI adoption"
 id: course-major-moderates-gen-z-ai-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

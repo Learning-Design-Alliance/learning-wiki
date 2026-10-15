@@ -3,7 +3,7 @@ type: claim
 title: AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure
 description: AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure
 id: ai-integration-improves-teaching-learning-admin-efficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

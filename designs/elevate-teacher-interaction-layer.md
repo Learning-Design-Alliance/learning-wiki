@@ -3,7 +3,7 @@ type: design
 id: elevate-teacher-interaction-layer
 title: "Teacher Interaction Layer: a web-based configuration surface for pedagogical intent, persona, and role"
 description: "The Teacher Interaction Layer is a lightweight web-based configuration page through which educators shape the virtual tutor's behavior; all settings are injected directly into the LLM system prompt."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

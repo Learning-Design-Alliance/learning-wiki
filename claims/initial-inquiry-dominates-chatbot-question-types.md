@@ -3,7 +3,7 @@ type: claim
 title: Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique
 description: Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique
 id: initial-inquiry-dominates-chatbot-question-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

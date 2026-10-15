@@ -3,7 +3,7 @@ type: strategy
 id: verification-routines-cognitive-forcing-ai-tasks
 title: Embed verification routines and cognitive forcing functions into AI-supported learning tasks
 description: The authors recommend designing learning environments that make evaluation an explicit part of AI-supported work.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

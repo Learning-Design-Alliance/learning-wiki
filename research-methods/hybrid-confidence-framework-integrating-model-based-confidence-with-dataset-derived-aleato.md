@@ -3,7 +3,7 @@ type: research-method
 id: hybrid-confidence-framework-integrating-model-based-confidence-with-dataset-derived-aleato
 title: Hybrid confidence framework integrating model-based confidence with dataset-derived aleatoric uncertainty via semantic heterogeneity
 description: "The framework treats LLM grading unreliability as arising from two sources: epistemic uncertainty, estimated from model-based signals (verbalized, latent, and consistency-based confidence), and aleatoric uncertainty, estimated from the dataset."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

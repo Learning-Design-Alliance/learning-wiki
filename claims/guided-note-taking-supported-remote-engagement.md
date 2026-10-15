@@ -3,7 +3,7 @@ type: claim
 title: Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online
 description: Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online
 id: guided-note-taking-supported-remote-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance"
 description: "Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance"
 id: judgement-bearing-assistance-central-pivot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

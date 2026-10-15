@@ -3,7 +3,7 @@ type: claim
 title: Eleventh-grade ACT math scores changed similarly across schools regardless of their level of standards-related professional development
 description: Eleventh-grade ACT math scores changed similarly across schools regardless of their level of standards-related professional development
 id: act-scores-similar-across-pd-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

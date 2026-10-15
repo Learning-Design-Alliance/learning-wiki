@@ -3,7 +3,7 @@ type: claim
 title: "Meditation expertise follows an inverted-U: moderate practice hours show greater attention-network activation than novices, while very high hours show reduced activation"
 description: "Meditation expertise follows an inverted-U: moderate practice hours show greater attention-network activation than novices, while very high hours show reduced activation"
 id: meditation-expertise-inverted-u-neural-efficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

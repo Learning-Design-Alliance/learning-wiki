@@ -3,7 +3,7 @@ type: claim
 title: A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library
 description: A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library
 id: osp-community-remixed-75-ejs-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

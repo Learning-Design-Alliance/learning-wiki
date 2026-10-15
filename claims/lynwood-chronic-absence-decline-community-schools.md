@@ -3,7 +3,7 @@ type: claim
 title: "In Lynwood Unified, chronic absence fell from 37.1% to 24.5% and average daily attendance rose from 87.4% to 91.5% during the first two years of districtwide community schools implementation."
 description: "In Lynwood Unified, chronic absence fell from 37.1% to 24.5% and average daily attendance rose from 87.4% to 91.5% during the first two years of districtwide community schools implementation."
 id: lynwood-chronic-absence-decline-community-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

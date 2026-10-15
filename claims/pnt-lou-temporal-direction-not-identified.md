@@ -3,7 +3,7 @@ type: claim
 title: "Temporal direction between PNT and LOU could not be identified: the reversed specification was observationally equivalent"
 description: "Temporal direction between PNT and LOU could not be identified: the reversed specification was observationally equivalent"
 id: pnt-lou-temporal-direction-not-identified
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

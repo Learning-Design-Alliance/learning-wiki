@@ -3,7 +3,7 @@ type: claim
 title: Students with the weakest skills relative to their peers need close monitoring and support regardless of whether their achievement is low or high relative to a national comparison
 description: Students with the weakest skills relative to their peers need close monitoring and support regardless of whether their achievement is low or high relative to a national comparison
 id: weakest-relative-to-peers-need-monitoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

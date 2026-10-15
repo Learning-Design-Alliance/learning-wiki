@@ -3,7 +3,7 @@ type: claim
 title: Estimation errors for partner AI use are directionally biased for specific task types at t2 but not at t3
 description: Estimation errors for partner AI use are directionally biased for specific task types at t2 but not at t3
 id: task-type-directional-bias-partner-ai-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: anxiety-reduction-cll-nonpunitive-errors
 title: Reduce learner anxiety in oral L2 practice through CLL-style counseling and non-punitive error treatment
 description: The article reports that Community Language Learning uses counseling techniques in which the teacher acts as counselor and learners as clients, minimizing language learning complexes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

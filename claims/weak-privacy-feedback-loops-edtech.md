@@ -3,7 +3,7 @@ type: claim
 title: Weak privacy feedback loops reduce pressure on EdTech organizations to prioritize privacy
 description: Weak privacy feedback loops reduce pressure on EdTech organizations to prioritize privacy
 id: weak-privacy-feedback-loops-edtech
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Communities and neighborhoods rich in social networks have lower rates of crime, delinquency, and child abuse
 description: Communities and neighborhoods rich in social networks have lower rates of crime, delinquency, and child abuse
 id: community-social-networks-lower-problem-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

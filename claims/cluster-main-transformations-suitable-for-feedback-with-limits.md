@@ -3,7 +3,7 @@ type: claim
 title: "Educator inspection found most large clusters' main transformations suitable for feedback, though many required sub-transformations for targeted feedback"
 description: "Educator inspection found most large clusters' main transformations suitable for feedback, though many required sub-transformations for targeted feedback"
 id: cluster-main-transformations-suitable-for-feedback-with-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

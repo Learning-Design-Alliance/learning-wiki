@@ -2,7 +2,7 @@
 type: theory
 title: Five Action Points operational framework for K-12 ed-tech procurement
 description: "The report presents an operational framework depicting five key Action Points of typical procurement processes in school districts: allotment of funding, assessment of needs, discovery of ed-tech products, evaluation..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students reported that continued interaction with a cGPT improved its adherence to instructions
 description: Students reported that continued interaction with a cGPT improved its adherence to instructions
 id: continued-interaction-improves-cgpt-instruction-adherence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

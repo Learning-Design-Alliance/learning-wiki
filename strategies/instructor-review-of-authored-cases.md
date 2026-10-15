@@ -3,7 +3,7 @@ type: strategy
 id: instructor-review-of-authored-cases
 title: Evaluate instructor-authored AI teaching cases by checking seeds, attempting the analysis with student materials only, and keeping data and teaching materials under joint review
 description: "The article recommends that instructors treat case revision as a joint review of data and teaching materials: strengthening an interaction requires rerunning the reference analysis, while wording or grading changes ma..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

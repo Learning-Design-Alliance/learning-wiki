@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed districts used federal recovery funds to recruit and retain teachers, including creating new positions that increased staffing needs
 description: Most surveyed districts used federal recovery funds to recruit and retain teachers, including creating new positions that increased staffing needs
 id: recovery-funds-new-positions-shortages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

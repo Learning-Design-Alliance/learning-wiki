@@ -3,7 +3,7 @@ type: strategy
 id: choreography-analysis-final-project-culminating
 title: Conclude with a choreography-and-analysis final project in place of a final exam
 description: In lieu of a final exam, student groups create a simple choreography, record and analyze its components with the tools developed over the quarter, perform it, give a talk on their analysis, and perform the dance again.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

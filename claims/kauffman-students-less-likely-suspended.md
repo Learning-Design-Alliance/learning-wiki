@@ -3,7 +3,7 @@ type: claim
 title: Kauffman students were less likely to be suspended than other similar students in Kansas City
 description: Kauffman students were less likely to be suspended than other similar students in Kansas City
 id: kauffman-students-less-likely-suspended
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: rate-the-leader-infographic-staff-feedback
 title: Rate the Leader infographic on staff feedback in principal evaluation
 description: "A published infographic from the Regional Educational Laboratory Mid-Atlantic, released by the Institute of Education Sciences, that \"discusses the use of staff feedback in evaluating school leaders' performance based..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

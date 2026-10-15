@@ -3,7 +3,7 @@ type: claim
 title: In a 700-student open-ended systems programming project graded by specification document rather than code, in-person test failure rates rose and inspected code failed to meet specifications
 description: In a 700-student open-ended systems programming project graded by specification document rather than code, in-person test failure rates rose and inspected code failed to meet specifications
 id: open-ended-spec-project-rising-test-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

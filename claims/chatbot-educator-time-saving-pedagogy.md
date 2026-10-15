@@ -3,7 +3,7 @@ type: claim
 title: Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy
 description: Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy
 id: chatbot-educator-time-saving-pedagogy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

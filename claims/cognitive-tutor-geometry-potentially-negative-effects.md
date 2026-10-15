@@ -3,7 +3,7 @@ type: claim
 title: Cognitive Tutor® Geometry shows potentially negative effects on geometry outcomes, with an improvement index of –8 percentile points
 description: Cognitive Tutor® Geometry shows potentially negative effects on geometry outcomes, with an improvement index of –8 percentile points
 id: cognitive-tutor-geometry-potentially-negative-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

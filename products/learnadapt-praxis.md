@@ -4,7 +4,7 @@ id: learnadapt-praxis
 title: LearnAdapt Praxis
 description: LearnAdapt Praxis is a LearnAdapt web application that structures adult workplace-learning projects through the stages Frame, Learn, Build, Validate, and Transfer.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

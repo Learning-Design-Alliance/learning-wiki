@@ -3,7 +3,7 @@ type: claim
 title: A structured mixture-of-experts candidate improved some corrections on fixed-evidence cases but introduced new factual and continuity regressions, so activation was held
 description: A structured mixture-of-experts candidate improved some corrections on fixed-evidence cases but introduced new factual and continuity regressions, so activation was held
 id: moe-candidate-mixed-fidelity-result
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

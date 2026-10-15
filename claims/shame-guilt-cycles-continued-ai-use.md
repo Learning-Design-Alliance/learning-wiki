@@ -3,7 +3,7 @@ type: claim
 title: Shame and guilt coexist with continued AI use, creating self-reinforcing cycles of reliance, concealment, and self-critique rather than behavior change
 description: Shame and guilt coexist with continued AI use, creating self-reinforcing cycles of reliance, concealment, and self-critique rather than behavior change
 id: shame-guilt-cycles-continued-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

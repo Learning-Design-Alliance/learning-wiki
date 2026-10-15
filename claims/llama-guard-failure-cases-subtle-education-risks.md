@@ -3,7 +3,7 @@ type: claim
 title: Llama Guard models misclassify subtle, context-dependent unsafe education prompts (e.g., exam-answer and cheating requests) as safe
 description: Llama Guard models misclassify subtle, context-dependent unsafe education prompts (e.g., exam-answer and cheating requests) as safe
 id: llama-guard-failure-cases-subtle-education-risks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

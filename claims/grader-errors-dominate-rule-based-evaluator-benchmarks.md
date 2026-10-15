@@ -3,7 +3,7 @@ type: claim
 title: Grader errors dominate audited rejections on benchmarks using rule-based evaluators (PHYBench and PRISM-Physics)
 description: Grader errors dominate audited rejections on benchmarks using rule-based evaluators (PHYBench and PRISM-Physics)
 id: grader-errors-dominate-rule-based-evaluator-benchmarks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

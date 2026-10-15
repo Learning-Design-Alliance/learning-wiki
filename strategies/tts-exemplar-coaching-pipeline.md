@@ -3,7 +3,7 @@ type: strategy
 id: tts-exemplar-coaching-pipeline
 title: "TTS-based coaching pipeline: anchor and target exemplars, chunked recording, alignment, and focused drills"
 description: "Generalizing from prior systems and grounded in shadowing pedagogy, the survey describes a four-step pipeline: \"render ananchorexemplar at a conservative tempo (120–140 WPM) and an optionaltargetat a faster tempo (150..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

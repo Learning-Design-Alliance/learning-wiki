@@ -3,7 +3,7 @@ type: claim
 title: Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)
 description: Prospective teachers taught with CCCT outperformed a lecture-based control group on academic achievement (g = 0.839)
 id: ccct-outperformed-lecture-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

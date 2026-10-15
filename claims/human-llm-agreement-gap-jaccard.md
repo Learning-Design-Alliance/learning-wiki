@@ -3,7 +3,7 @@ type: claim
 title: Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement
 description: Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement
 id: human-llm-agreement-gap-jaccard
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: expanding-then-monthly-repetition-schedule
 title: Expanding then maintenance repetition schedule for audio vocabulary lessons
 description: The article prescribes a two-phase repetition schedule for audio vocabulary lessons.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

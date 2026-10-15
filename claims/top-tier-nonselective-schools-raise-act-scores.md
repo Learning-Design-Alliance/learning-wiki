@@ -3,7 +3,7 @@ type: claim
 title: Attending a top-tier nonselective high school raises ACT scores, with the largest gains for students whose counterfactual is a bottom-tier school
 description: Attending a top-tier nonselective high school raises ACT scores, with the largest gains for students whose counterfactual is a bottom-tier school
 id: top-tier-nonselective-schools-raise-act-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

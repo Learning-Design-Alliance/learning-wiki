@@ -3,7 +3,7 @@ type: claim
 title: Nearly half of Chicago eighth graders and more than a third of tenth graders rate their classes as disruptive or very disruptive, and teachers corroborate frequent disruption
 description: Nearly half of Chicago eighth graders and more than a third of tenth graders rate their classes as disruptive or very disruptive, and teachers corroborate frequent disruption
 id: chicago-classroom-disruption-widespread
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

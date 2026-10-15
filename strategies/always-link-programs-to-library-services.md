@@ -3,7 +3,7 @@ type: strategy
 id: always-link-programs-to-library-services
 title: CLASP programming should always create links to books, reading, information use, and library services
 description: A key recommendation from the CLASP evaluation is that library outreach programs must explicitly connect their activities back to books, reading, information use, or library services.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

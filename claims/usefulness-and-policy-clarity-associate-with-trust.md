@@ -3,7 +3,7 @@ type: claim
 title: Perceived usefulness has the strongest standardized positive association with trust in AI (β = 0.402), with institutional policy clarity positively but more weakly associated (β = 0.223) in the pooled OLS trust model
 description: Perceived usefulness has the strongest standardized positive association with trust in AI (β = 0.402), with institutional policy clarity positively but more weakly associated (β = 0.223) in the pooled OLS trust model
 id: usefulness-and-policy-clarity-associate-with-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

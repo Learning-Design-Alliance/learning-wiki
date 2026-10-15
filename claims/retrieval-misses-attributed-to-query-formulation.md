@@ -3,7 +3,7 @@ type: claim
 title: Post-deployment diagnostics attributed many remaining retrieval misses to query formulation, with bounded expansion recovering eleven of 24 original queries without lowering the relevance floor
 description: Post-deployment diagnostics attributed many remaining retrieval misses to query formulation, with bounded expansion recovering eleven of 24 original queries without lowering the relevance floor
 id: retrieval-misses-attributed-to-query-formulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

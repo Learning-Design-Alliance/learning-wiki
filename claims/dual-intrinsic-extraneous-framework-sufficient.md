@@ -3,7 +3,7 @@ type: claim
 title: A dual intrinsic/extraneous load framework is sufficient, non-redundant, and makes the boundaries of cognitive load theory transparent
 description: A dual intrinsic/extraneous load framework is sufficient, non-redundant, and makes the boundaries of cognitive load theory transparent
 id: dual-intrinsic-extraneous-framework-sufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

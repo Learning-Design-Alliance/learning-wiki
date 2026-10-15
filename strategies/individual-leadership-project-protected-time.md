@@ -3,7 +3,7 @@ type: strategy
 id: individual-leadership-project-protected-time
 title: Require participants to complete an individual leadership project with a planning template and protected work time
 description: The Academy requires participants to complete individual projects and gives them dedicated time for this work, such as designing a year-long professional development program for paraprofessionals or expanding a co-tea...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

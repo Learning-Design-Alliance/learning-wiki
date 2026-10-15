@@ -3,7 +3,7 @@ type: claim
 title: Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction
 description: Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction
 id: working-conditions-shape-retention-and-recruitment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

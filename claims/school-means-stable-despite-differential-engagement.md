@@ -3,7 +3,7 @@ type: claim
 title: School-level aggregated scores on the computer-based PISA-Based Test for Schools were highly stable despite considerable differential engagement among schools
 description: School-level aggregated scores on the computer-based PISA-Based Test for Schools were highly stable despite considerable differential engagement among schools
 id: school-means-stable-despite-differential-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

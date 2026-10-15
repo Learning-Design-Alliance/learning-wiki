@@ -3,7 +3,7 @@ type: claim
 title: Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers
 description: Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers
 id: rural-counties-higher-ltel7-proportions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

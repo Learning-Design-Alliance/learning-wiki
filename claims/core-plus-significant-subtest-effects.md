@@ -3,7 +3,7 @@ type: claim
 title: Core-Plus Mathematics showed positive, statistically significant effects on ninth-grade ITED math and CPMP Course 1 and 2 posttest subtests after WWC adjustments
 description: Core-Plus Mathematics showed positive, statistically significant effects on ninth-grade ITED math and CPMP Course 1 and 2 posttest subtests after WWC adjustments
 id: core-plus-significant-subtest-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

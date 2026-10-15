@@ -3,7 +3,7 @@ type: claim
 title: AEEGS and human raters produced nearly equivalent, low mean scores (5.94 vs 5.97 of 20), with AEEGS slightly higher
 description: AEEGS and human raters produced nearly equivalent, low mean scores (5.94 vs 5.97 of 20), with AEEGS slightly higher
 id: aeegs-human-mean-scores-equivalent-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

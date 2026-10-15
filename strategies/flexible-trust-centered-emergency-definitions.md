@@ -3,7 +3,7 @@ type: strategy
 id: flexible-trust-centered-emergency-definitions
 title: Define emergencies with flexibility and trust rather than rigid proof-based criteria
 description: This strategy sets broad guiding principles for emergency aid eligibility — focusing on short-term, unexpected disruptions to enrollment — instead of rigid definitions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

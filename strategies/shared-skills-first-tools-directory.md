@@ -3,7 +3,7 @@ type: strategy
 id: shared-skills-first-tools-directory
 title: Develop a shared landscape directory of skills-first tools with identified owners, costs, and accessibility limits
 description: "For network resource sharing, the report recommends that organizations \"develop a shared landscape/directory of skills-first tools (e.g., skills-based training materials, career development guides, job description tem..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

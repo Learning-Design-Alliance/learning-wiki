@@ -3,7 +3,7 @@ type: claim
 title: Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)
 description: Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)
 id: cps-graduation-race-gender-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

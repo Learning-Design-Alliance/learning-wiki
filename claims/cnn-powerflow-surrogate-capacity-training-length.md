@@ -3,7 +3,7 @@ type: claim
 title: In the CNN 5-bus power-flow surrogate, pairing model capacity with sufficient training length improves voltage accuracy, and line flows are the more demanding test
 description: In the CNN 5-bus power-flow surrogate, pairing model capacity with sufficient training length improves voltage accuracy, and line flows are the more demanding test
 id: cnn-powerflow-surrogate-capacity-training-length
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

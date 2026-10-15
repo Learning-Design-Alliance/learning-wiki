@@ -3,7 +3,7 @@ type: claim
 title: All four meta-analysable STAR studies report positive, statistically significant effects of small classes, but average effects are small
 description: All four meta-analysable STAR studies report positive, statistically significant effects of small classes, but average effects are small
 id: star-studies-positive-small-effects-reading-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

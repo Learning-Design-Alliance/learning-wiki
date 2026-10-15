@@ -3,7 +3,7 @@ type: claim
 title: Education leaders had little data on the impacts of school closures on learning at the time of the COVID-19 spring 2020 closures
 description: Education leaders had little data on the impacts of school closures on learning at the time of the COVID-19 spring 2020 closures
 id: little-data-closure-impacts-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

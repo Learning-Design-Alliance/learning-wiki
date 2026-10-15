@@ -3,7 +3,7 @@ type: claim
 title: All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-gloss control in EFL reading
 description: All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-gloss control in EFL reading
 id: l1-glosses-improve-immediate-vocabulary-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

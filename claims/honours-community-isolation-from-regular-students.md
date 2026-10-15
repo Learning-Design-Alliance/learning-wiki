@@ -3,7 +3,7 @@ type: claim
 title: Honours community members report isolation and negative bias from regular students and lecturers
 description: Honours community members report isolation and negative bias from regular students and lecturers
 id: honours-community-isolation-from-regular-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

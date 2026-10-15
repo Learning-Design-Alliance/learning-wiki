@@ -3,7 +3,7 @@ type: claim
 title: Completing the follow-up homework assignment modestly boosted exam question performance
 description: Completing the follow-up homework assignment modestly boosted exam question performance
 id: follow-up-homework-modestly-boosts-exam-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: Within the experimental group, AI-supported instruction produced statistically significant pre-to-post gains on media reading, media writing, and total media literacy
 description: Within the experimental group, AI-supported instruction produced statistically significant pre-to-post gains on media reading, media writing, and total media literacy
 id: experimental-group-within-group-gains-all-subscales
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

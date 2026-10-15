@@ -3,7 +3,7 @@ type: claim
 title: "Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits"
 description: "Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits"
 id: reflective-scaffolding-habituation-deskilling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: three-dimensional-framework-for-assessing-problem-posing-ability-number-cate
 title: "Three-dimensional framework for assessing problem posing ability: number, category, and quality"
 description: A Dai et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

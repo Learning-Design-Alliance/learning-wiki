@@ -3,7 +3,7 @@ type: claim
 title: Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions
 description: Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions
 id: its-meta-analytic-positive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

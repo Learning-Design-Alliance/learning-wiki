@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted pair programming significantly increased undergraduate intrinsic motivation compared to individual programming, with outcomes comparable to human–human pair programming
 description: AI-assisted pair programming significantly increased undergraduate intrinsic motivation compared to individual programming, with outcomes comparable to human–human pair programming
 id: ai-assisted-pair-programming-increases-intrinsic-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

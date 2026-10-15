@@ -3,7 +3,7 @@ type: claim
 title: AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives
 description: AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives
 id: ai-detection-tools-inequitable-false-positives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

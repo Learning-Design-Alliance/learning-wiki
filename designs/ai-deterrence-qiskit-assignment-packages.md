@@ -3,7 +3,7 @@ type: design
 id: ai-deterrence-qiskit-assignment-packages
 title: Three AI-deterrence-modified autogradable Qiskit assignment packages (HW1–HW3) with layered personalization and grading
 description: "Three complete take-home homework packages for an undergraduate quantum software course: HW1 (seeded basis-state circuits with bit flips and customized measurement mappings), HW2 (QFT followed by inverse-transform rec..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

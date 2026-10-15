@@ -3,7 +3,7 @@ type: claim
 title: AI chatbots in VET show promising effects on self-regulation and task performance
 description: AI chatbots in VET show promising effects on self-regulation and task performance
 id: ai-chatbots-vet-self-regulation-task-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

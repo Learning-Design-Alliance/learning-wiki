@@ -4,7 +4,7 @@ id: early-childhood-longitudinal-study-kindergarten-class-of-1998-1999-ecls-k
 title: Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999 (ECLS-K)
 description: ECLS-K is a nationally representative longitudinal dataset tracking children from kindergarten through elementary school, conducted by the National Center for Education Statistics within the U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

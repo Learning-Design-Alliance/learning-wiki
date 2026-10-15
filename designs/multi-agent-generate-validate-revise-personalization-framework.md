@@ -3,7 +3,7 @@ type: design
 id: multi-agent-generate-validate-revise-personalization-framework
 title: Multi-agent generate–validate–revise framework with four specialized validator agents for math problem personalization
 description: The framework formalizes context personalization of math problems as an iterative generate–validate–revise loop.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

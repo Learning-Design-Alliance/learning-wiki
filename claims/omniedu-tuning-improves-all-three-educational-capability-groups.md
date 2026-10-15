@@ -3,7 +3,7 @@ type: claim
 title: Education-oriented instruction tuning consistently improves curriculum grounding, K-12 problem solving, and pedagogical tutoring at every evaluated model scale
 description: Education-oriented instruction tuning consistently improves curriculum grounding, K-12 problem solving, and pedagogical tutoring at every evaluated model scale
 id: omniedu-tuning-improves-all-three-educational-capability-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

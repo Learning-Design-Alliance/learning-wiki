@@ -3,7 +3,7 @@ type: claim
 title: Students critiqued the broad grain size of teacher-in-the-loop personalization and personalization itself met resistance
 description: Students critiqued the broad grain size of teacher-in-the-loop personalization and personalization itself met resistance
 id: students-critique-grain-size-personalization-resistance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

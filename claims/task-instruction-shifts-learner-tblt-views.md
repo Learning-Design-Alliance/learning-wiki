@@ -3,7 +3,7 @@ type: claim
 title: "Task-based instruction changed learners' views toward TBLT to align with teachers' views"
 description: "Task-based instruction changed learners' views toward TBLT to align with teachers' views"
 id: task-instruction-shifts-learner-tblt-views
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

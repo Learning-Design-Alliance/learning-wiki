@@ -3,7 +3,7 @@ type: strategy
 id: increase-ai-resistant-problem-formats
 title: Increase the proportion of AI-resistant problem formats in learning-task design to preserve authentic engagement without proctoring
 description: "The article recommends a design-level response to AI-related disengagement: favor problem formats that resist AI assistance, such as graph-based problems requiring visual interpretation and interactive widget manipula..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

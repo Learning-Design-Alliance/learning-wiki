@@ -2,7 +2,7 @@
 type: claim
 title: Preserving a bilingual student's heritage language supports rather than hinders English acquisition
 id: heritage-language-preservation-supports-english-acquisition
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

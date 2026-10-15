@@ -3,7 +3,7 @@ type: claim
 title: Students who made the greatest school-year gains experienced the greatest summer learning loss
 description: Students who made the greatest school-year gains experienced the greatest summer learning loss
 id: greatest-gains-greatest-summer-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

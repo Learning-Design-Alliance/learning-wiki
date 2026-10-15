@@ -3,7 +3,7 @@ type: strategy
 id: lower-chronic-threshold-and-academic-catch-up-strategy
 title: Redefine the chronic-absenteeism threshold, monitor attendance bins, and provide targeted academic catch-up supports to prior-year absentees
 description: "The article recommends that school systems act on the persistence of absence effects across years: \"School systems should consider redefining the threshold to deem absenteeism as 'chronic' in policy and practice.\" It..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

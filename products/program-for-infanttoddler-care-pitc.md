@@ -4,7 +4,7 @@ id: program-for-infanttoddler-care-pitc
 title: Program for Infant/Toddler Care (PITC)
 description: Program for Infant/Toddler Care is a comprehensive training programme developed by WestEd in collaboration with the California Department of Education to support responsive, relationship-based care for infants and toddlers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

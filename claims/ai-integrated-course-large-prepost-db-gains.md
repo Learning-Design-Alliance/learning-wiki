@@ -3,7 +3,7 @@ type: claim
 title: Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions
 description: Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions
 id: ai-integrated-course-large-prepost-db-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

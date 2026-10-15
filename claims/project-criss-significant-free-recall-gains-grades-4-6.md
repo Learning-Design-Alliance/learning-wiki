@@ -3,7 +3,7 @@ type: claim
 title: "Project CRISS® produced statistically significant greater free-recall gains than regular instruction in grades 4 and 6 (Horsfall & Santa, 1994)"
 description: "Project CRISS® produced statistically significant greater free-recall gains than regular instruction in grades 4 and 6 (Horsfall & Santa, 1994)"
 id: project-criss-significant-free-recall-gains-grades-4-6
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

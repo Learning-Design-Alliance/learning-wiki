@@ -3,7 +3,7 @@ type: claim
 title: Semester 2 students outperformed semester 1 students on HOCS exam questions regardless of clicker question type
 description: Semester 2 students outperformed semester 1 students on HOCS exam questions regardless of clicker question type
 id: semester-cohort-difference-hocs-exams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

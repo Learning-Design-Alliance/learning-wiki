@@ -3,7 +3,7 @@ type: claim
 title: Chicago Connected participation was associated with higher fall 2020 and spring 2021 GPAs for high pre-pandemic GPA students and lower GPAs for low pre-pandemic GPA students
 description: Chicago Connected participation was associated with higher fall 2020 and spring 2021 GPAs for high pre-pandemic GPA students and lower GPAs for low pre-pandemic GPA students
 id: chicago-connected-participation-heterogeneous-gpa-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Chicago's graduation-rate improvements have been credited to changed ninth-grade dropout-prevention practices triggered by on-track accountability and real-time data reports, and the review states accountability by itself was not sufficient"
 description: "Chicago's graduation-rate improvements have been credited to changed ninth-grade dropout-prevention practices triggered by on-track accountability and real-time data reports, and the review states accountability by it..."
 id: ontrack-accountability-realtime-data-graduation-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

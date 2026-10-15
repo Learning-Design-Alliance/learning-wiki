@@ -3,7 +3,7 @@ type: claim
 title: AI-based high school mathematics lessons exhibit four existing and three newly emerging instrumental orchestration types, with the new types appearing in 36 of 46 episodes
 description: AI-based high school mathematics lessons exhibit four existing and three newly emerging instrumental orchestration types, with the new types appearing in 36 of 46 episodes
 id: ai-math-lessons-seven-orchestration-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

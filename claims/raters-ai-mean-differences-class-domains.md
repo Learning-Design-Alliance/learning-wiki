@@ -3,7 +3,7 @@ type: claim
 title: Raters scored significantly higher than AI on Emotional Support and significantly lower than AI on Instructional Support, with no difference for Classroom Organization
 description: Raters scored significantly higher than AI on Emotional Support and significantly lower than AI on Instructional Support, with no difference for Classroom Organization
 id: raters-ai-mean-differences-class-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

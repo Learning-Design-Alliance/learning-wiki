@@ -3,7 +3,7 @@ type: claim
 title: "Screencast design findings: static vs. dynamic screen movement, explicit vs. implicit narration, and handwriting preferred though typefaces judged more legible"
 description: "Screencast design findings: static vs."
 id: screencast-design-movement-narration-handwriting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

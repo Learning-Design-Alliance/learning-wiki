@@ -3,7 +3,7 @@ type: claim
 title: Both functional and existential GenAI dependence are positively associated with research creativity, each with significant direct and total effects
 description: Both functional and existential GenAI dependence are positively associated with research creativity, each with significant direct and total effects
 id: both-dependence-forms-positively-associated-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

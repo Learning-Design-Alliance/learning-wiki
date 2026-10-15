@@ -3,7 +3,7 @@ type: claim
 title: Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded
 description: Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded
 id: teemss-seven-outcomes-excluded-baseline-inequivalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

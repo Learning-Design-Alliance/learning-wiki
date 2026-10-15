@@ -3,7 +3,7 @@ type: strategy
 id: standardized-reporting-protocols-ar-analytics
 title: Adopt standardized reporting protocols for AR enhanced analytics studies and extend analytics into broader XR (VR/MR) contexts
 description: The review recommends that future AR enhanced analytics research adopt standardized reporting protocols so studies can be compared and pooled.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

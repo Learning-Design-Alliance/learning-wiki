@@ -3,7 +3,7 @@ type: claim
 title: The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests
 description: The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests
 id: innovative-assessments-capture-pog-competencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

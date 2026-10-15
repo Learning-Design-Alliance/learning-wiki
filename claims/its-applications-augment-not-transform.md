@@ -3,7 +3,7 @@ type: claim
 title: Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value
 description: Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value
 id: its-applications-augment-not-transform
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

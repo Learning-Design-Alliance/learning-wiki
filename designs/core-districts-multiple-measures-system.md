@@ -3,7 +3,7 @@ type: design
 id: core-districts-multiple-measures-system
 title: "CORE districts' multiple-measures accountability system spanning academic and social-emotional domains"
 description: "The California Office to Reform Education (CORE) districts, a network of 10 districts that secured an ESEA flexibility waiver in 2013, use a multiple measures accountability system with two domains: Academic Achieveme..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

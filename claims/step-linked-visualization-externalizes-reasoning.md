@@ -3,7 +3,7 @@ type: claim
 title: "Step-linked visual grounding externalizes spatial reasoning: synchronized diagrams that reveal auxiliary lines step by step reduce split-attention effort"
 description: "Step-linked visual grounding externalizes spatial reasoning: synchronized diagrams that reveal auxiliary lines step by step reduce split-attention effort"
 id: step-linked-visualization-externalizes-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: district-dashboards-pog-data
 title: District-level dashboards aggregating Portrait of a Graduate skill data
 description: Dashboards are web-based platforms presenting aggregated and disaggregated data on student Portrait of a Graduate ability, used by two interviewed districts and explored by four more.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

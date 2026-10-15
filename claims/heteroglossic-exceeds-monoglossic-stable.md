@@ -3,7 +3,7 @@ type: claim
 title: Heteroglossic resources outnumber Monoglossic resources across all draft types, with no significant difference in Engagement distribution across revision conditions
 description: Heteroglossic resources outnumber Monoglossic resources across all draft types, with no significant difference in Engagement distribution across revision conditions
 id: heteroglossic-exceeds-monoglossic-stable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

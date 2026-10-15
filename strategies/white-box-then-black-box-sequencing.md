@@ -3,7 +3,7 @@ type: strategy
 id: white-box-then-black-box-sequencing
 title: "White-box-then-black-box sequencing: transparent study of a method before opaque delegation"
 description: "Adopting Buchberger's principle from computer-algebra education, the article prescribes that \"a method should be studied transparently before it is invoked opaquely, and yesterday's white box becomes tomorrow's truste..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

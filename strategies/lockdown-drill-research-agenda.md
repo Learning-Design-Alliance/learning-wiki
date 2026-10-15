@@ -3,7 +3,7 @@ type: strategy
 id: lockdown-drill-research-agenda
 title: Prioritize a research agenda on the long-term effects, optimal parameters, and trauma-skill tradeoffs of lockdown drills
 description: "The brief calls for \"carefully designed studies\" to fill the gaps in the sparse research base on lockdown drills."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

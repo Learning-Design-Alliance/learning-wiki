@@ -4,7 +4,7 @@ id: bcause
 title: bcause
 description: bcause is open-source software for causal inference in Bayesian and credal networks, supporting exact Bayesian-network inference and interventional and counterfactual queries.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

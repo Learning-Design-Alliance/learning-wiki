@@ -3,7 +3,7 @@ type: claim
 title: Mindful-condition students rated the pedagogical agent as more supportive and more concerned about their well-being on single items
 description: Mindful-condition students rated the pedagogical agent as more supportive and more concerned about their well-being on single items
 id: mindful-agent-single-item-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

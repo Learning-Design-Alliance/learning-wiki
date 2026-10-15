@@ -3,7 +3,7 @@ type: strategy
 id: process-transparency-artefacts-strategy
 title: "Require process transparency artefacts: process logs, prompt records, reflective commentaries and oral defences"
 description: "The paper recommends that students submit \"process logs, AI prompt records, or other “behind the scenes” artefacts alongside the final output\", so educators can see how students engaged with tools and exercised judgem..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

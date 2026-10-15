@@ -3,7 +3,7 @@ type: claim
 title: "Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy"
 description: "Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy"
 id: diary-plus-srl-instruction-raises-strategy-use-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

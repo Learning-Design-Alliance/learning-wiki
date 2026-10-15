@@ -3,7 +3,7 @@ type: claim
 title: Most rural learner participants reported micro-credentials yielded increased opportunity for skill development, job promotion, salary increase, credential attainment, and/or enrollment in additional educational programming
 description: Most rural learner participants reported micro-credentials yielded increased opportunity for skill development, job promotion, salary increase, credential attainment, and/or enrollment in additional educational progra...
 id: rural-microcredential-learners-report-skill-and-employment-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

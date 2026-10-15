@@ -3,7 +3,7 @@ type: claim
 title: "REMind did not significantly change children's expectations that defending would help the victim feel better"
 description: "REMind did not significantly change children's expectations that defending would help the victim feel better"
 id: remind-victim-outcome-expectations-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

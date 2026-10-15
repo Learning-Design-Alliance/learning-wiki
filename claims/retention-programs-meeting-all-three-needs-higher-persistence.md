@@ -3,7 +3,7 @@ type: claim
 title: Retention programs interpreted as meeting all three SDT needs show higher persistence and standing
 description: Retention programs interpreted as meeting all three SDT needs show higher persistence and standing
 id: retention-programs-meeting-all-three-needs-higher-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

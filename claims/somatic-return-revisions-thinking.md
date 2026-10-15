@@ -3,7 +3,7 @@ type: claim
 title: Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)
 description: Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)
 id: somatic-return-revisions-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

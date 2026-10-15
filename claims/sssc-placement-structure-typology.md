@@ -3,7 +3,7 @@ type: claim
 title: "SSSC structural placement varies across states: most states house one center in a single agency, while some split one center across agencies or operate two independent centers"
 description: "SSSC structural placement varies across states: most states house one center in a single agency, while some split one center across agencies or operate two independent centers"
 id: sssc-placement-structure-typology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

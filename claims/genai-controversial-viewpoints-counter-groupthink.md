@@ -3,7 +3,7 @@ type: claim
 title: Introducing controversial viewpoints via a genAI agent is studied as a mechanism to counter groupthink in collaborative problem-based learning
 description: Introducing controversial viewpoints via a genAI agent is studied as a mechanism to counter groupthink in collaborative problem-based learning
 id: genai-controversial-viewpoints-counter-groupthink
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

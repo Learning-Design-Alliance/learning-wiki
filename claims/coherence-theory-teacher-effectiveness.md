@@ -3,7 +3,7 @@ type: claim
 title: Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals
 description: Coherence is theorized to assist teacher effectiveness through coordinated professional development and collaborative work on clear goals
 id: coherence-theory-teacher-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

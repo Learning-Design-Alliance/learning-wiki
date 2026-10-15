@@ -3,7 +3,7 @@ type: strategy
 id: cyberlearning-field-recommendations-communicate-report-equity
 title: "Three overarching field recommendations: communicate unique characteristics, strengthen outcome reporting, and advance equity work"
 description: "The panel's three overarching recommendations for the field's future: the field 'should communicate more clearly about the unique characteristics of its research' to distinguish it from general educational technology..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

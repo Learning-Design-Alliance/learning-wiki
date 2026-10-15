@@ -3,7 +3,7 @@ type: claim
 title: Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard
 description: Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard
 id: fci-gain-increased-peer-instruction-harvard
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

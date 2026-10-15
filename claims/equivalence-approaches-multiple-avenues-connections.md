@@ -3,7 +3,7 @@ type: claim
 title: The three equivalence approaches offer students multiple avenues for mathematical connections and arguments
 description: The three equivalence approaches offer students multiple avenues for mathematical connections and arguments
 id: equivalence-approaches-multiple-avenues-connections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

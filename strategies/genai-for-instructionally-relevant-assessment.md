@@ -3,7 +3,7 @@ type: strategy
 id: genai-for-instructionally-relevant-assessment
 title: Use generative AI to make assessment systems more instructionally relevant, not to reify problematic practices
 description: The report recommends harnessing generative AI for reimagining assessment systems rather than reinforcing harmful practices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

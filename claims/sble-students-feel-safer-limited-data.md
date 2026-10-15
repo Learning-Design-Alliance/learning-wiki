@@ -3,7 +3,7 @@ type: claim
 title: Students in schools with SBLE tended to feel safer, but this finding rests on very little data
 description: Students in schools with SBLE tended to feel safer, but this finding rests on very little data
 id: sble-students-feel-safer-limited-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

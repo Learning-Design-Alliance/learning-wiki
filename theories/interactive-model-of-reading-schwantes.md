@@ -2,7 +2,7 @@
 type: theory
 title: "The interactive model of reading: meaning is constructed only when higher and lower level processes interact"
 description: The review describes the interactive model, used by Schwantes as his theoretical framework, as an alternative to bottom-up and top-down models of reading.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

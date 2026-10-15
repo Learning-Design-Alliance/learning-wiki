@@ -3,7 +3,7 @@ type: claim
 title: Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)
 description: Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)
 id: conventional-training-higher-realism-immersion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

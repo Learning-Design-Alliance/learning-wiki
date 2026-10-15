@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Inquiry Based Teaching Improves Science Achievement
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: design
 id: tk-teacher-candidate-pools-pathways
 title: Candidate pools and credentialing pathways for building the TK teaching workforce
 description: "The report identifies four pools of potential TK teacher candidates: current Multiple Subject credential holders who can teach while earning 24 ECE units; early childhood educators with a bachelor's degree, for whom \"..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

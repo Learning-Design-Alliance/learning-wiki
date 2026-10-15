@@ -3,7 +3,7 @@ type: claim
 title: Task design balancing challenge and accessibility determines the success of AI-powered collaborative learning environments
 description: Task design balancing challenge and accessibility determines the success of AI-powered collaborative learning environments
 id: task-design-challenge-accessibility-balance-ai-collaborative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

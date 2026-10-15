@@ -3,7 +3,7 @@ type: claim
 title: Children with disabilities showed larger gains in higher-tier programs than children without disabilities
 description: Children with disabilities showed larger gains in higher-tier programs than children without disabilities
 id: children-with-disabilities-larger-gains-higher-tiers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -30,7 +30,7 @@ sources:
 
 ### Sussman 2022
 
-Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute.
+Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute. https://learningpolicyinstitute.org/product/california-preschool-quality-ratings
 
 `q3 · i1` · `associational · r3`
 

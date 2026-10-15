@@ -3,7 +3,7 @@ type: claim
 title: CTE programs of study vary across CPS high schools and are more common on the south and west sides
 description: CTE programs of study vary across CPS high schools and are more common on the south and west sides
 id: cte-programs-vary-and-cluster-south-west-sides
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Students' conceptual-question and editing-request LLM usage is positively correlated with exam outcomes in the spring semester"
 description: "Students' conceptual-question and editing-request LLM usage is positively correlated with exam outcomes in the spring semester"
 id: conceptual-questions-editing-positive-exam-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

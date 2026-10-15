@@ -3,7 +3,7 @@ type: claim
 title: "LoRA fine-tuning hyperparameters are not model-agnostic: increasing rank above 64 destroyed LLaMA's feedback generation while Gemma remained robust"
 description: "LoRA fine-tuning hyperparameters are not model-agnostic: increasing rank above 64 destroyed LLaMA's feedback generation while Gemma remained robust"
 id: lora-rank-sensitivity-architecture-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

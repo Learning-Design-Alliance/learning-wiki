@@ -3,7 +3,7 @@ type: claim
 title: "A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification"
 description: "A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification"
 id: inclusive-preschool-benefits-reduced-identification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

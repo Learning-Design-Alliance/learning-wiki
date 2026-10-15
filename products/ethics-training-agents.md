@@ -4,7 +4,7 @@ id: ethics-training-agents
 title: Ethics Training Agents
 description: A web-based multi-human, multi-agent LLM discussion system developed by Seo et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

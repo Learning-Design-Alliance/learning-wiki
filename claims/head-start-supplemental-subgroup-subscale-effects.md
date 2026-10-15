@@ -3,7 +3,7 @@ type: claim
 title: "Supplemental analyses show statistically significant positive Head Start effects on one social-emotional subscale and two mothers' race/ethnicity subgroup comparisons for the 3-year-old cohort"
 description: "Supplemental analyses show statistically significant positive Head Start effects on one social-emotional subscale and two mothers' race/ethnicity subgroup comparisons for the 3-year-old cohort"
 id: head-start-supplemental-subgroup-subscale-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

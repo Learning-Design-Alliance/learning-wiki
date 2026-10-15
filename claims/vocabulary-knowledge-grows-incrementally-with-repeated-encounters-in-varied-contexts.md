@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

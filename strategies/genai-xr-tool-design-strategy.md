@@ -3,7 +3,7 @@ type: strategy
 id: genai-xr-tool-design-strategy
 title: Design GenAI-in-the-loop XR tools with editable components, reproducible generation, continuity with existing artifacts, and shared-attention cues
 description: Based on student interviews, the authors recommend future tool designs that preserve learner agency and collaboration.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

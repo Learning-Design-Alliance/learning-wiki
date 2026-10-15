@@ -3,7 +3,7 @@ type: claim
 title: World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)
 description: World of Words produced a statistically significant medium-to-large effect on a researcher-developed vocabulary inductive reasoning test (effect size 0.66)
 id: world-of-words-inductive-reasoning-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

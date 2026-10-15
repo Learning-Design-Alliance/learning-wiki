@@ -3,7 +3,7 @@ type: claim
 title: Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity
 description: Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity
 id: feedback-medium-overall-effect-d048-heterogeneous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

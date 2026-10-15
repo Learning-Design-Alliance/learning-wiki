@@ -3,7 +3,7 @@ type: design
 id: research-shaped-homework-ai-permitted
 title: "Research-shaped homework: self-contained undergraduate problems combining multiple methods, data representations, and workflows with AI permitted as a partner"
 description: "A homework design in which assignments are \"self-contained pieces\" of professional research practice, combining several methods, data representations, and workflows rather than routine applications of one known method."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: In the model, social learning creates consensus in trust without shifting aggregate reliance; connectivity alone does not produce collective overreliance
 description: In the model, social learning creates consensus in trust without shifting aggregate reliance; connectivity alone does not produce collective overreliance
 id: social-learning-consensus-not-aggregate-overreliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

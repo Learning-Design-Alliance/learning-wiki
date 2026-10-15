@@ -3,7 +3,7 @@ type: claim
 title: Temporal leakage from shuffled neighboring epochs inflates EEG familiarity classification, with peak weighted F1 dropping from 0.9853 (CNN, stratified) to 0.6038 (CNN, Group K-Fold)
 description: Temporal leakage from shuffled neighboring epochs inflates EEG familiarity classification, with peak weighted F1 dropping from 0.9853 (CNN, stratified) to 0.6038 (CNN, Group K-Fold)
 id: temporal-leakage-inflates-eeg-familiarity-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Frequent participation in governance is associated with more favorable perceptions of organizational culture
 description: Frequent participation in governance is associated with more favorable perceptions of organizational culture
 id: governance-participation-linked-culture-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

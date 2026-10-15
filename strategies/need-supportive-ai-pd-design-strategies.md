@@ -3,7 +3,7 @@ type: strategy
 id: need-supportive-ai-pd-design-strategies
 title: Support sustained teacher AI agent creation with protected creation time, tool selection agency, choice-based portfolios, and low-barrier peer sharing
 description: "The article's implications section gives administrators and designers concrete moves to prevent the autonomy deficits that drove 87% disengagement in Cycle 1."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

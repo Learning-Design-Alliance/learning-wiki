@@ -3,7 +3,7 @@ type: element
 id: noncognitive-assessment-instrument-inventory
 title: "Inventory of available instruments for assessing postsecondary students' noncognitive attributes"
 description: "The review identifies that many instruments are available to postsecondary institutions for measuring students' noncognitive attributes, and reports convergence on a limited number of key attributes with \"multiple ins..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects"
 description: "External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects"
 id: external-disequilibrium-shapes-internal-mixture-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

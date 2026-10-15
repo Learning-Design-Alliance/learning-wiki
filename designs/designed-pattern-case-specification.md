@@ -3,7 +3,7 @@ type: design
 id: designed-pattern-case-specification
 title: "Designed-pattern authoring: linking each teaching pattern to its generation rule, check, and reference analysis"
 description: "A designed pattern is \"a trend, group difference, interaction, or exception intentionally built into a dataset for students to investigate.\" The workflow records each pattern in an executable case specification connec..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

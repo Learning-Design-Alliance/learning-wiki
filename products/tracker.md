@@ -4,7 +4,7 @@ id: tracker
 title: Tracker
 description: Tracker is a free video analysis and modeling tool built on the Open Source Physics Java framework and distributed through the Open Source Physics project.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

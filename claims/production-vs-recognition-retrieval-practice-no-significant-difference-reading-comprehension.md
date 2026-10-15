@@ -3,7 +3,7 @@ type: claim
 title: "Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test"
 description: "Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test"
 id: production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload
 description: Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload
 id: teachers-envision-chatbots-extending-capacity-availability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

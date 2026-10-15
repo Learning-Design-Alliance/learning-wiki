@@ -3,7 +3,7 @@ type: design
 id: four-element-question-authoring-scaffolding-session
 title: Four-element in-class scaffolding session preparing students to author high-quality questions
 description: "Before the first assessed authoring task, the courses ran a 90-minute session of four elements: a content-neutral quiz teaching MCQ language, a self-diagnosis quiz guiding students toward learning orientation, a quest..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

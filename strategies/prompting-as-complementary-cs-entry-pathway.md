@@ -3,7 +3,7 @@ type: strategy
 id: prompting-as-complementary-cs-entry-pathway
 title: Blend foundational CS concepts with prompt-specific strategies as a complementary entry pathway into computing
 description: The authors recommend that prompt-based programming blend foundational CS0 concepts (e.g., function inputs/outputs) with more advanced practices (e.g., test-driven development, edge case reasoning) and prompt-specific...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

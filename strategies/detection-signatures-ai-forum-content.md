@@ -3,7 +3,7 @@ type: strategy
 id: detection-signatures-ai-forum-content
 title: Detection signatures for identifying AI-generated forum content
 description: "For instructors monitoring forums for AI content, the article proposes two detection heuristics derived from its data: a \"Statement-to-question ratio>10:1 (we observed 11.4:1; human forums typically<5:1)\" and an \"Extr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

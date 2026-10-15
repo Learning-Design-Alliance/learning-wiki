@@ -4,7 +4,7 @@ id: open-executable-module-library-of-six-jupyter-notebooks-for-ai-in-power-syst
 title: Open executable module library of six Jupyter notebooks for AI in power systems
 description: An open library released by Junjie Yin et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)
 description: Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)
 id: skill-training-effective-techniques
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

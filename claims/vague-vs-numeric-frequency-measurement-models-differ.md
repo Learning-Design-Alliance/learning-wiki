@@ -3,7 +3,7 @@ type: claim
 title: Measurement models based on vaguely quantified behavioral frequency reports differ in structure from those based on numerically quantified reports
 description: Measurement models based on vaguely quantified behavioral frequency reports differ in structure from those based on numerically quantified reports
 id: vague-vs-numeric-frequency-measurement-models-differ
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

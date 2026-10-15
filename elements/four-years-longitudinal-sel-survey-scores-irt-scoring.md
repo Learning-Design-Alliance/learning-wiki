@@ -3,7 +3,7 @@ type: element
 id: four-years-longitudinal-sel-survey-scores-irt-scoring
 title: Four years of longitudinal social-emotional survey scores analyzed under competing IRT scoring models
 description: "The study's data and analysis setup: four years of longitudinal survey scores on social-emotional constructs, scored using item response theory (IRT) models that do and do not account for response styles."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

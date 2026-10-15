@@ -3,7 +3,7 @@ type: claim
 title: "Students reported first-pass false-positive deductions at a mean of 2.94 per term, normalising to about 0.6% of rubric items"
 description: "Students reported first-pass false-positive deductions at a mean of 2.94 per term, normalising to about 0.6% of rubric items"
 id: student-reported-grading-errors-lata
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

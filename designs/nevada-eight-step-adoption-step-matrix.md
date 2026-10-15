@@ -3,7 +3,7 @@ type: design
 id: nevada-eight-step-adoption-step-matrix
 title: Nevada eight-step instructional materials adoption step matrix
 description: "Table 2 lays out an eight-step adoption process: issuing a Nevada-specific Request for Quote, publisher submission of digital materials, internal technical review, CARP evaluation and rating, forwarding recommendation..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

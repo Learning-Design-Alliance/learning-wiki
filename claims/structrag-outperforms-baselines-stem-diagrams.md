@@ -3,7 +3,7 @@ type: claim
 title: "StructRAG achieves 89.3% question-level accuracy and 93.0% edge-level F1 on 1,650 STEM diagram questions, outperforming OCR+CV, GPT-4 graph-only, direct-image GPT-4o, and ablated variants"
 description: "StructRAG achieves 89.3% question-level accuracy and 93.0% edge-level F1 on 1,650 STEM diagram questions, outperforming OCR+CV, GPT-4 graph-only, direct-image GPT-4o, and ablated variants"
 id: structrag-outperforms-baselines-stem-diagrams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: bridgit
 title: Bridgit
 description: Bridgit is a school-counseling platform used to track students’ pre-matriculation tasks, tailor college-enrollment steps, and support counselor communication.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

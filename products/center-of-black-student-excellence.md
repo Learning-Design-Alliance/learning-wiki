@@ -4,7 +4,7 @@ id: center-of-black-student-excellence
 title: Center of Black Student Excellence
 description: A planned Long Beach Unified School District entity that provides tutoring, mentoring, cultural programming, wellness services, legal aid, career support, and advocacy for Black students and families.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

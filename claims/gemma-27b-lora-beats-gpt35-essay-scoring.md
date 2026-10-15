@@ -3,7 +3,7 @@ type: claim
 title: A LoRA-adapted open-weight Gemma-3-27B model fine-tuned on 120 essays outperforms a fine-tuned GPT-3.5 baseline on TOEFL essay scoring across all reported metrics
 description: A LoRA-adapted open-weight Gemma-3-27B model fine-tuned on 120 essays outperforms a fine-tuned GPT-3.5 baseline on TOEFL essay scoring across all reported metrics
 id: gemma-27b-lora-beats-gpt35-essay-scoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

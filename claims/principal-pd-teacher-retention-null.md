@@ -3,7 +3,7 @@ type: claim
 title: "Principals' professional development access is positively but not significantly related to teacher retention"
 description: "Principals' professional development access is positively but not significantly related to teacher retention"
 id: principal-pd-teacher-retention-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

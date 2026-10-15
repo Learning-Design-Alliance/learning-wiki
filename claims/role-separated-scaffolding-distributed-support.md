@@ -3,7 +3,7 @@ type: claim
 title: "ParaTutor's role-separated scaffolding distributed support across parents and children in complementary forms"
 description: "ParaTutor's role-separated scaffolding distributed support across parents and children in complementary forms"
 id: role-separated-scaffolding-distributed-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

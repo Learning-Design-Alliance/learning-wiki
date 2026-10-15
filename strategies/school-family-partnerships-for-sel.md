@@ -3,7 +3,7 @@ type: strategy
 id: school-family-partnerships-for-sel
 title: "Build authentic school-family partnerships to reinforce students' social and emotional development"
 description: "The page recommends that schools form authentic partnerships with families and caregivers, who bring deep expertise about their children's development, culture, and learning needs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

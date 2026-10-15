@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy profiles differ in AI use for educational support (η² = .36), the highest-rated support type in the high profile
 description: Self-efficacy profiles differ in AI use for educational support (η² = .36), the highest-rated support type in the high profile
 id: educational-support-ai-use-profile-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

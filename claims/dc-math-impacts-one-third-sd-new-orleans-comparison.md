@@ -3,7 +3,7 @@ type: claim
 title: DC math impacts of about one-third of a standard deviation are similar in magnitude to New Orleans reforms and larger than some well-known interventions
 description: DC math impacts of about one-third of a standard deviation are similar in magnitude to New Orleans reforms and larger than some well-known interventions
 id: dc-math-impacts-one-third-sd-new-orleans-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

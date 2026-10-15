@@ -3,7 +3,7 @@ type: claim
 title: Racially integrated learning environments have positive impacts on academic achievement for students of all races, per the research the report synthesizes
 description: Racially integrated learning environments have positive impacts on academic achievement for students of all races, per the research the report synthesizes
 id: integrated-schools-academic-benefits-all-races
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

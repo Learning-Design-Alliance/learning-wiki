@@ -3,7 +3,7 @@ type: strategy
 id: barr-weekly-teacher-team-meetings
 title: "Weekly teacher team meetings to review each student's strengths, progress, and obstacles"
 description: "A core BARR strategy is regular teacher team meetings: \"teacher teams meeting regularly to discuss each student's strengths and progress and identify obstacles to learning.\" Teams of teachers \"need to meet weekly usin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

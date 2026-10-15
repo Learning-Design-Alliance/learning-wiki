@@ -3,7 +3,7 @@ type: claim
 title: Growth measures offer a clearer, more accurate picture of learning than achievement data, while achievement data remains critical for tracking student progress
 description: Growth measures offer a clearer, more accurate picture of learning than achievement data, while achievement data remains critical for tracking student progress
 id: growth-measures-clearer-picture-of-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

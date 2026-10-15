@@ -3,7 +3,7 @@ type: claim
 title: People and connections were the most-used learning transition supports among HSE participant-advisors
 description: People and connections were the most-used learning transition supports among HSE participant-advisors
 id: people-connections-top-transition-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

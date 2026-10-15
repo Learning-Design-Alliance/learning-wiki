@@ -3,7 +3,7 @@ type: strategy
 id: engagement-sensing-configuration-tradeoff-strategy
 title: Choose sensing configurations by target metric and deployment burden, favoring compact five-stream or chest-ECG setups for lightweight deployments
 description: The article recommends treating sensing configuration as a design decision balancing predictive value against practical burden.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

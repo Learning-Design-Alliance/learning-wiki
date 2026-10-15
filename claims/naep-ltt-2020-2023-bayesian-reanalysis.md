@@ -3,7 +3,7 @@ type: claim
 title: The article presents a Bayesian reanalysis of NAEP long-term trend reading and math score changes from 2020 to 2023.
 description: The article presents a Bayesian reanalysis of NAEP long-term trend reading and math score changes from 2020 to 2023.
 id: naep-ltt-2020-2023-bayesian-reanalysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

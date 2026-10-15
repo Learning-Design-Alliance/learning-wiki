@@ -3,7 +3,7 @@ type: claim
 title: Schools with school resource officers may have higher rates of exclusionary discipline, including a reported 21 percent increase in incidents
 description: Schools with school resource officers may have higher rates of exclusionary discipline, including a reported 21 percent increase in incidents
 id: sros-associated-with-higher-exclusionary-discipline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

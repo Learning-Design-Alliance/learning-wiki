@@ -3,7 +3,7 @@ type: claim
 title: The report explicitly discusses limitations of the Oklahoma value-added model
 description: The report explicitly discusses limitations of the Oklahoma value-added model
 id: oklahoma-value-added-model-limitations-discussed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

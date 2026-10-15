@@ -3,7 +3,7 @@ type: strategy
 id: considerations-before-funding-or-conducting-systematic-reviews
 title: Weigh explicit considerations before deciding to fund or conduct a systematic review
 description: "The article recommends that funders and researchers think through \"important considerations in the decision to fund or conduct a systematic review\" before committing resources."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

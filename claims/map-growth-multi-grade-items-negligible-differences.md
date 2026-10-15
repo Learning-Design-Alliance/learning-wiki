@@ -3,7 +3,7 @@ type: claim
 title: For items aligned to multiple target grades, difficulty estimates from different on-grade calibration samples differ negligibly, at most 0.1 logit on average
 description: For items aligned to multiple target grades, difficulty estimates from different on-grade calibration samples differ negligibly, at most 0.1 logit on average
 id: map-growth-multi-grade-items-negligible-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

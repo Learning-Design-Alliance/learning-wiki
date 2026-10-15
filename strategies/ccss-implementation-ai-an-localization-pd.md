@@ -3,7 +3,7 @@ type: strategy
 id: ccss-implementation-ai-an-localization-pd
 title: Implement the CCSS with AI/AN students through expanded resources, localization of reform, and specialized extended professional development
 description: "The report recommends that CCSS implementation in AI/AN communities combine an \"expansive\" resource approach addressing community social needs with adaptation of curriculum, instruction, and assessment to local cultur..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

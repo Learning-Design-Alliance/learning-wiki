@@ -3,7 +3,7 @@ type: claim
 title: California authorizes fewer than half the bilingual teachers it did at its mid-1990s peak, leaving it possibly unprepared for demand under Proposition 58
 description: California authorizes fewer than half the bilingual teachers it did at its mid-1990s peak, leaving it possibly unprepared for demand under Proposition 58
 id: bilingual-teacher-supply-insufficient-prop58
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

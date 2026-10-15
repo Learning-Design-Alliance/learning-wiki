@@ -3,7 +3,7 @@ type: claim
 title: Confusion about the GoCPS true-preference ranking rationale was widespread among students, parents, and staff, and misinformation led some students into second-round applications
 description: Confusion about the GoCPS true-preference ranking rationale was widespread among students, parents, and staff, and misinformation led some students into second-round applications
 id: gocps-ranking-confusion-second-round
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

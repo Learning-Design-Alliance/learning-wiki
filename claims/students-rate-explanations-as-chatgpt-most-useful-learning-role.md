@@ -3,7 +3,7 @@ type: claim
 title: "Students see obtaining explanations for their doubts as ChatGPT's most useful role in learning computer science"
 description: "Students see obtaining explanations for their doubts as ChatGPT's most useful role in learning computer science"
 id: students-rate-explanations-as-chatgpt-most-useful-learning-role
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

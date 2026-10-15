@@ -3,7 +3,7 @@ type: claim
 title: High CT students significantly outperformed low CT students on the post-test after AICA-assisted coding instruction
 description: High CT students significantly outperformed low CT students on the post-test after AICA-assisted coding instruction
 id: high-ct-outperformed-low-ct-posttest-aica
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: SimCalc replacement units produced statistically significant pretest-to-posttest gains in conceptual understanding with student-level effect sizes of .63, .50, and .56 in three Texas experiments
 description: SimCalc replacement units produced statistically significant pretest-to-posttest gains in conceptual understanding with student-level effect sizes of .63, .50, and .56 in three Texas experiments
 id: simcalc-texas-experiments-effect-sizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

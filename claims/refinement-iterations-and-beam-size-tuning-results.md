@@ -3,7 +3,7 @@ type: claim
 title: Refinement gains stabilize or decline beyond three iterations, and beam-size gains become negligible beyond two samples
 description: Refinement gains stabilize or decline beyond three iterations, and beam-size gains become negligible beyond two samples
 id: refinement-iterations-and-beam-size-tuning-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

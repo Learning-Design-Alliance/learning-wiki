@@ -3,7 +3,7 @@ type: claim
 title: Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days
 description: Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days
 id: educlaw-bench-plateau-within-days
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

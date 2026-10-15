@@ -3,7 +3,7 @@ type: claim
 title: The report synthesizes 21 empirical studies on value-added model key issues and findings
 description: The report synthesizes 21 empirical studies on value-added model key issues and findings
 id: vam-report-synthesized-21-empirical-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

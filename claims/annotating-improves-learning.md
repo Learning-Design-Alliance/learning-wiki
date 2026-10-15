@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

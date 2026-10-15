@@ -3,7 +3,7 @@ type: strategy
 id: bootstrapping-baseline-annotated-corpus
 title: Deploy a minimal baseline chatbot to bootstrap its own annotated evaluation corpus and improve incrementally
 description: The article proposes an incremental methodology in which a minimal deterministic baseline is deployed in production and its logged questions, annotated post-hoc, become the training and evaluation resources for subseq...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

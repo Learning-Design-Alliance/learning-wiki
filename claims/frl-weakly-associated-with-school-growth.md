@@ -3,7 +3,7 @@ type: claim
 title: School poverty is only weakly associated with median student growth in a school
 description: School poverty is only weakly associated with median student growth in a school
 id: frl-weakly-associated-with-school-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

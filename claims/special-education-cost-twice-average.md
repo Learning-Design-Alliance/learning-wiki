@@ -3,7 +3,7 @@ type: claim
 title: Educating a student with disabilities costs approximately twice as much, on average, as educating a student without a disability
 description: Educating a student with disabilities costs approximately twice as much, on average, as educating a student without a disability
 id: special-education-cost-twice-average
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

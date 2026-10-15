@@ -3,7 +3,7 @@ type: claim
 title: Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content
 description: Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content
 id: principals-lack-authentic-job-embedded-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

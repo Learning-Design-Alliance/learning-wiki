@@ -3,7 +3,7 @@ type: claim
 title: Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts
 description: Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts
 id: visual-prompts-more-actionable-than-plain-text
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

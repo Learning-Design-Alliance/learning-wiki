@@ -3,7 +3,7 @@ type: claim
 title: "In 1997, 31% of third graders and about 20% of sixth and eighth graders were excluded from Chicago's promotional test-score policy, with bilingual education the main exclusion reason in third grade and special education in sixth and eighth"
 description: "In 1997, 31% of third graders and about 20% of sixth and eighth graders were excluded from Chicago's promotional test-score policy, with bilingual education the main exclusion reason in third grade and special educati..."
 id: cps-promotional-policy-exclusion-rates-1997
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

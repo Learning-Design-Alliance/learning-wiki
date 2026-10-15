@@ -3,7 +3,7 @@ type: claim
 title: Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)
 description: Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)
 id: reticent-students-academically-superior-duff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

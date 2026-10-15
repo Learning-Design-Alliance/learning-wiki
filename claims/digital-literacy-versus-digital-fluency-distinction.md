@@ -3,7 +3,7 @@ type: claim
 title: Digital literacy means understanding how to use tools while digital fluency means creating something new with them
 description: Digital literacy means understanding how to use tools while digital fluency means creating something new with them
 id: digital-literacy-versus-digital-fluency-distinction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

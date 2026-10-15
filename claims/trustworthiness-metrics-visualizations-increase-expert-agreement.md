@@ -3,7 +3,7 @@ type: claim
 title: Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses
 description: Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses
 id: trustworthiness-metrics-visualizations-increase-expert-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

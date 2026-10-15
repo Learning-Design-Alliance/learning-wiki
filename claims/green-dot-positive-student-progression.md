@@ -3,7 +3,7 @@ type: claim
 title: Green Dot Public Schools increase high school graduation and college-preparatory (A-G) graduation for students entering ninth grade (potentially positive effects rating)
 description: Green Dot Public Schools increase high school graduation and college-preparatory (A-G) graduation for students entering ninth grade (potentially positive effects rating)
 id: green-dot-positive-student-progression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

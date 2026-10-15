@@ -3,7 +3,7 @@ type: claim
 title: Video benefits learning only when its interactivity matches or exceeds the comparison condition
 description: Video benefits learning only when its interactivity matches or exceeds the comparison condition
 id: video-benefit-depends-on-relative-interactivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

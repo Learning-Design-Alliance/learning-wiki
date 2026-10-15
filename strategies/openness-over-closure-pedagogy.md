@@ -3,7 +3,7 @@ type: strategy
 id: openness-over-closure-pedagogy
 title: Embrace pedagogical strategies that emphasize openness rather than closure and posit change as the norm
 description: Because dialogism treats flux as the natural order of the rhetorical situation, the paper recommends embracing pedagogical strategies which emphasize openness, rather than closure, and which posit change as the norm.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

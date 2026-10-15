@@ -4,7 +4,7 @@ id: wisconsin-information-and-technology-literacy-standards
 title: Wisconsin Information and Technology Literacy Standards
 description: A Wisconsin Department of Public Instruction framework defining information and technology literacy content standards, grade-banded performance standards, and proficiency indicators for local curriculum guidance.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

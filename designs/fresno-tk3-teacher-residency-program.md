@@ -3,7 +3,7 @@ type: design
 id: fresno-tk3-teacher-residency-program
 title: Fresno TK–3 Teacher Residency Program
 description: "An 18-month residency (2017–2019) within Fresno Unified's workforce pipeline, run with California State University, Fresno, leading to a Multiple Subject credential and a master's degree in curriculum and instruction."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

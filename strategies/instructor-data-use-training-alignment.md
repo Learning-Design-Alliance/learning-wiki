@@ -3,7 +3,7 @@ type: strategy
 id: instructor-data-use-training-alignment
 title: "Build institutional data-use practice: train instructors to analyze learner data and align product data to required assessments"
 description: "To move beyond minimal usage tracking, programs should build a data-use culture: set clear outcome goals, build in the expectation that instructors monitor learner progress with data, provide training in data analysis..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

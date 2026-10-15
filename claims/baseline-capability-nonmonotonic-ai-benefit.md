@@ -3,7 +3,7 @@ type: claim
 title: "Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier"
 description: "Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier"
 id: baseline-capability-nonmonotonic-ai-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

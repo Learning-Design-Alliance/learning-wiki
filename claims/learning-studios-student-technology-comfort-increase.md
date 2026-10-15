@@ -3,7 +3,7 @@ type: claim
 title: "Learning Studio participation increased students' comfort with, and skills around, the Studio technologies"
 description: "Learning Studio participation increased students' comfort with, and skills around, the Studio technologies"
 id: learning-studios-student-technology-comfort-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

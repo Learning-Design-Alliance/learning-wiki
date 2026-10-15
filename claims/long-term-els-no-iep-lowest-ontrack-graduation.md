@@ -3,7 +3,7 @@ type: claim
 title: Long-term English Learners without IEPs had the lowest Freshman OnTrack rate and substantially lower graduation rates than district average
 description: Long-term English Learners without IEPs had the lowest Freshman OnTrack rate and substantially lower graduation rates than district average
 id: long-term-els-no-iep-lowest-ontrack-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

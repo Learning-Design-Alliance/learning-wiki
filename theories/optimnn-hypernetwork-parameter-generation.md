@@ -2,7 +2,7 @@
 type: theory
 title: "OptimNN: neural-network parameter generation (hypernetwork) for optimizing BKT"
 description: "OptimNN replaces random initialization and direct SGD training of BKT's four per-skill parameters with a feedforward \"parameter generation network\" f that maps a skill ID to the four BKT parameters, so gradients updat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "English-only screening is the norm for English learners in Massachusetts: 90 percent were assessed only in English across all three screening periods in 2023/24"
 description: "English-only screening is the norm for English learners in Massachusetts: 90 percent were assessed only in English across all three screening periods in 2023/24"
 id: english-only-screening-norm-massachusetts-els
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

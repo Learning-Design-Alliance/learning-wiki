@@ -3,7 +3,7 @@ type: claim
 title: "A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts"
 description: "A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts"
 id: kipp-lottery-experimental-analysis-confirms-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

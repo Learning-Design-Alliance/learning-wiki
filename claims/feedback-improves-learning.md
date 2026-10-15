@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

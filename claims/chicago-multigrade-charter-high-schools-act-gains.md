@@ -3,7 +3,7 @@ type: claim
 title: Chicago multi-grade charter high schools appear to produce substantial positive effects on ACT scores
 description: Chicago multi-grade charter high schools appear to produce substantial positive effects on ACT scores
 id: chicago-multigrade-charter-high-schools-act-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

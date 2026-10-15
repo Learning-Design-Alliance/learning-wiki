@@ -3,7 +3,7 @@ type: research-method
 id: synthetic-benchmark-development-and-stress-testing-for-trace-based-learning-analytics-eval
 title: Synthetic benchmark development and stress-testing for trace-based learning-analytics evaluation
 description: When participant access is unavailable, release a synthetic dataset mirroring the intended logging schema and study design so that trace-based measures, modelling workflows, and analysis pipelines can be developed, compared, and stress-tested openly.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: High CPC students outperform low CPC students only on the delayed posttest under the chunking method
 description: High CPC students outperform low CPC students only on the delayed posttest under the chunking method
 id: cpc-difference-delayed-posttest-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

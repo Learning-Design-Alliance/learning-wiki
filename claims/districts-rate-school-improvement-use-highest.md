@@ -3,7 +3,7 @@ type: claim
 title: Districts report using test scores more to evaluate school improvement and district programs than to evaluate students, and rarely to evaluate principals or teachers
 description: Districts report using test scores more to evaluate school improvement and district programs than to evaluate students, and rarely to evaluate principals or teachers
 id: districts-rate-school-improvement-use-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

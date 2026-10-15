@@ -3,7 +3,7 @@ type: claim
 title: "Elaborative interrogation benefits increase as learners' prior knowledge increases"
 description: "Elaborative interrogation benefits increase as learners' prior knowledge increases"
 id: elaborative-interrogation-prior-knowledge-moderator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students
 description: Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students
 id: ai-context-misdiagnosis-systematic-harm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

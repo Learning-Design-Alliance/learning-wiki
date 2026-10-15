@@ -3,7 +3,7 @@ type: claim
 title: Average academic growth of high achievers was nearly equivalent in wealthy and poor schools
 description: Average academic growth of high achievers was nearly equivalent in wealthy and poor schools
 id: equivalent-growth-high-achievers-school-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

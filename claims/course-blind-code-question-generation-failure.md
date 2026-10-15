@@ -3,7 +3,7 @@ type: claim
 title: "Quiz mode's course-blind Python question generation was the only cross-course failure requiring a code change during onboarding"
 description: "Quiz mode's course-blind Python question generation was the only cross-course failure requiring a code change during onboarding"
 id: course-blind-code-question-generation-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

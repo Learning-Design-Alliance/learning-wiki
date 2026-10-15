@@ -2,7 +2,7 @@
 type: theory
 title: "Multiple local coherences: stability of student thinking as sustained by real-time activity"
 description: This framework characterizes student understanding and behavior as multiple local coherences that are variable yet exhibit local stabilities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

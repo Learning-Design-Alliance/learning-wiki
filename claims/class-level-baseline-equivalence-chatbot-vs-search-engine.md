@@ -3,7 +3,7 @@ type: claim
 title: Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention
 description: Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention
 id: class-level-baseline-equivalence-chatbot-vs-search-engine
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

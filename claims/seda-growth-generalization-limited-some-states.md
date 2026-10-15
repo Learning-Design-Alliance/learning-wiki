@@ -3,7 +3,7 @@ type: claim
 title: Small systematic discrepancies imply SEDA growth estimates may not generalize to MAP Growth-based estimates in some states
 description: Small systematic discrepancies imply SEDA growth estimates may not generalize to MAP Growth-based estimates in some states
 id: seda-growth-generalization-limited-some-states
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

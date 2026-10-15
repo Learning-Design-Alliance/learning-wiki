@@ -3,7 +3,7 @@ type: claim
 title: "A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background"
 description: "A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background"
 id: culturally-diverse-underrepresentation-biased-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

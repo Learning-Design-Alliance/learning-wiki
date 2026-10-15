@@ -4,7 +4,7 @@ id: aleks-and-aleks-ppl-behavioral-trace-datasets-for-studying-ai-era-learning-b
 title: ALEKS and ALEKS PPL behavioral trace datasets for studying AI-era learning behavior
 description: Large-scale datasets made available by ALEKS containing learning interactions, placement-assessment responses, response times, and retention-item outcomes for studying mathematics learning behavior.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

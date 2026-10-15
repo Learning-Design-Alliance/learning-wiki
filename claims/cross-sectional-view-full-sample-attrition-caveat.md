@@ -3,7 +3,7 @@ type: claim
 title: "The dashboard's cross-sectional view compares same-grade students across terms using the full sample of testers, but attrition is not random"
 description: "The dashboard's cross-sectional view compares same-grade students across terms using the full sample of testers, but attrition is not random"
 id: cross-sectional-view-full-sample-attrition-caveat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

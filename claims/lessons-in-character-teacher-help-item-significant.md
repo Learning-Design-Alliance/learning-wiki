@@ -3,7 +3,7 @@ type: claim
 title: One item-level attitude finding, on teachers helping students who need extra help, was statistically significant in the randomized trial
 description: One item-level attitude finding, on teachers helping students who need extra help, was statistically significant in the randomized trial
 id: lessons-in-character-teacher-help-item-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

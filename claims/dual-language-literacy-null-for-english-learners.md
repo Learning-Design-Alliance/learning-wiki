@@ -3,7 +3,7 @@ type: claim
 title: Literacy benefits of dual language programs did not extend to the English learner subsample in the strongest study
 description: Literacy benefits of dual language programs did not extend to the English learner subsample in the strongest study
 id: dual-language-literacy-null-for-english-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

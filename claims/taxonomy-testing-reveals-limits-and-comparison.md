@@ -3,7 +3,7 @@ type: claim
 title: Collaborative testing shows the taxonomy enables comparison between similar GenAI activities while inevitably falling short of portraying all entangled aspects
 description: Collaborative testing shows the taxonomy enables comparison between similar GenAI activities while inevitably falling short of portraying all entangled aspects
 id: taxonomy-testing-reveals-limits-and-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

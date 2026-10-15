@@ -3,7 +3,7 @@ type: claim
 title: SFA® shows potentially positive effects on reading fluency for beginning readers
 description: SFA® shows potentially positive effects on reading fluency for beginning readers
 id: sfa-potentially-positive-reading-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Policy guidance is most actionable for final-output substitution scenarios
 description: Policy guidance is most actionable for final-output substitution scenarios
 id: substitution-most-actionable-scenario
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

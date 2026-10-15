@@ -3,7 +3,7 @@ type: claim
 title: "In deployment, 13% of sampled LLM agent responses were faulty and 37% very useful, with response quality improving over weeks of use"
 description: "In deployment, 13% of sampled LLM agent responses were faulty and 37% very useful, with response quality improving over weeks of use"
 id: llm-agent-response-quality-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

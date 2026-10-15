@@ -3,7 +3,7 @@ type: strategy
 id: evidence-based-approaches-next-generation-distance-learning
 title: Apply evidence-based approaches from self-regulation, multimedia learning, motivation, and collaborative learning theories in distance and online course design
 description: "The chapter recommends that designers of the next generation of distance and online learning draw on \"principles and applications stemming from the theories of self-regulation and multimedia learning, research-based m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

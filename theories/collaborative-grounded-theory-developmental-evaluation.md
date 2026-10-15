@@ -2,7 +2,7 @@
 type: theory
 title: Collaborative grounded theory as an approach to qualitative data analysis and theory generation in developmental evaluation of education policy
 description: The article presents collaborative grounded theory as a methodological approach in which qualitative data analysis and theory generation are carried out jointly by multiple researchers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

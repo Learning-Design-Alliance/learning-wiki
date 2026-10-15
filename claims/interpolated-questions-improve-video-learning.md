@@ -3,7 +3,7 @@ type: claim
 title: Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering
 description: Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering
 id: interpolated-questions-improve-video-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

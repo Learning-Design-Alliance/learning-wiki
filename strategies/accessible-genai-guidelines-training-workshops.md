@@ -3,7 +3,7 @@ type: strategy
 id: accessible-genai-guidelines-training-workshops
 title: Provide accessible guidelines, training materials, or workshops to help students understand responsible GenAI use
 description: To address the high uncertainty observed in the survey, the article recommends greater transparency about how GenAI tools may be used in academic work.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

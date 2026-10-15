@@ -3,7 +3,7 @@ type: claim
 title: Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning
 description: Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning
 id: extrinsic-goals-associated-with-cheating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

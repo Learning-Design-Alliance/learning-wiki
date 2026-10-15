@@ -3,7 +3,7 @@ type: design
 id: educasim-agent-persona-memory-architecture
 title: Behavior-based persona and course-grounded memory architecture for simulated students
 description: "EducaSim's student-agent architecture synthesizes generative agents with personas and memories, domain-contextualized memories aligned with actual course material, and a classroom dynamic tree using LLM as a judge."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

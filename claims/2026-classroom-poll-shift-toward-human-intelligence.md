@@ -3,7 +3,7 @@ type: claim
 title: "By 2026, opening-lecture polls in two AI-focused MSc courses show pronounced shifts toward investing in human intelligence, most notably 90% in Design Thinking for AI"
 description: "By 2026, opening-lecture polls in two AI-focused MSc courses show pronounced shifts toward investing in human intelligence, most notably 90% in Design Thinking for AI"
 id: 2026-classroom-poll-shift-toward-human-intelligence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

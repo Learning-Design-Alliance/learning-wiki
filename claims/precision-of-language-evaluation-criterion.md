@@ -3,7 +3,7 @@ type: claim
 title: Students apply precision-of-language as a distinct evaluation criterion, flagging hedging phrases as open to interpretation and proposing concrete substitutions
 description: Students apply precision-of-language as a distinct evaluation criterion, flagging hedging phrases as open to interpretation and proposing concrete substitutions
 id: precision-of-language-evaluation-criterion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: theory
 title: "Four-process framework of teachers' ongoing assessment use for individualization"
 description: "The EDIT organizes teachers' assessment practice into four processes: \"planning what information to collect and how to do so, collecting valid data, organizing and interpreting the data, and using the data collected t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

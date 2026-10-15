@@ -3,7 +3,7 @@ type: design
 id: students-as-researchers-radical-approach
 title: "Students as Researchers: a radical approach positioning students as agents of change rather than data sources"
 description: Students as Researchers is presented as a radical alternative to conventional student consultation, in which students undertake research on their own schooling and act as agents of change.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

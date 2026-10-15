@@ -3,7 +3,7 @@ type: design
 id: crewscaler-five-stage-ai-upskilling-pipeline
 title: "CrewScaler: an end-to-end five-stage AI-accelerated upskilling pipeline"
 description: CrewScaler organizes rapid upskilling as a pipeline in which AI accelerates production at every stage rather than a single stage.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

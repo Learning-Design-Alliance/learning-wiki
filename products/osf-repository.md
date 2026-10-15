@@ -4,7 +4,7 @@ id: osf-repository
 title: OSF repository
 description: An OSF-hosted replication package from Zambrano et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

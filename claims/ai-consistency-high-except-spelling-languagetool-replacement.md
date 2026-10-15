@@ -3,7 +3,7 @@ type: claim
 title: "AI scoring consistency approaches or exceeds 90% for most rubric items, but spelling is replaced by a deterministic LanguageTool-based approach achieving 68% accuracy with 100% consistency"
 description: "AI scoring consistency approaches or exceeds 90% for most rubric items, but spelling is replaced by a deterministic LanguageTool-based approach achieving 68% accuracy with 100% consistency"
 id: ai-consistency-high-except-spelling-languagetool-replacement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Comparing their own analyses with LLM outputs empowered students' sense of competence and reduced concerns about LLMs replacing human expertise"
 description: "Comparing their own analyses with LLM outputs empowered students' sense of competence and reduced concerns about LLMs replacing human expertise"
 id: llm-comparison-empowers-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

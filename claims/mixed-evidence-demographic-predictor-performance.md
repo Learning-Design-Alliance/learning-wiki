@@ -3,7 +3,7 @@ type: claim
 title: Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction
 description: Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction
 id: mixed-evidence-demographic-predictor-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

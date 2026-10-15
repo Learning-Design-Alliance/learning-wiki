@@ -3,7 +3,7 @@ type: claim
 title: "Screening language practices are related to English language education program type: SEI students were mostly screened in English while DLBE students were more often screened in Spanish or alternately"
 description: "Screening language practices are related to English language education program type: SEI students were mostly screened in English while DLBE students were more often screened in Spanish or alternately"
 id: screening-language-tied-to-ele-program-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

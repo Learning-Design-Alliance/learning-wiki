@@ -3,7 +3,7 @@ type: claim
 title: LLM scaffolding level varies systematically across student request types and across assignments, but high-assistance responses remain dominant
 description: LLM scaffolding level varies systematically across student request types and across assignments, but high-assistance responses remain dominant
 id: scaffolding-varies-by-request-and-assignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

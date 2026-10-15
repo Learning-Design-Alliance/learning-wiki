@@ -3,7 +3,7 @@ type: element
 id: in-focus-brief-series-effective-data-use
 title: Three-brief In Focus series on effective data use in education
 description: A Mathematica Policy Research In Focus brief series, prepared for the Gates Foundation under the Strategic Data Use in Education project (2011-2015), comprising three briefs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

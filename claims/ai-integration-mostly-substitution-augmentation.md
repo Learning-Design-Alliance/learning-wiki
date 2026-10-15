@@ -3,7 +3,7 @@ type: claim
 title: Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition
 description: Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition
 id: ai-integration-mostly-substitution-augmentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

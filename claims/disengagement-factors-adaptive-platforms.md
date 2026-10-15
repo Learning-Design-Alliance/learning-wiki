@@ -3,7 +3,7 @@ type: claim
 title: Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time
 description: Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time
 id: disengagement-factors-adaptive-platforms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

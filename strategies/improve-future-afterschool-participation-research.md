@@ -3,7 +3,7 @@ type: strategy
 id: improve-future-afterschool-participation-research
 title: Improve future research on afterschool participation by refining how participation is conceptualized, measured, and studied
 description: "The review closes by offering methodological guidance: it states that \"several suggestions are offered to improve future research on the relationship between aspects of participation and developmental outcomes.\" Resea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

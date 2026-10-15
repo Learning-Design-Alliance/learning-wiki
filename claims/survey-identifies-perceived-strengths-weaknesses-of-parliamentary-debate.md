@@ -3,7 +3,7 @@ type: claim
 title: "In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate"
 description: "In one informal tournament survey, coaches and students listed partly different strengths and weaknesses of parliamentary debate"
 id: survey-identifies-perceived-strengths-weaknesses-of-parliamentary-debate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

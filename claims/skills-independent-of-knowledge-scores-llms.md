@@ -3,7 +3,7 @@ type: claim
 title: "Practical educational skill does not follow from knowledge scores: Claude-Opus-4.5 achieves the highest Skills average (8.82) despite the lowest Content Knowledge"
 description: "Practical educational skill does not follow from knowledge scores: Claude-Opus-4.5 achieves the highest Skills average (8.82) despite the lowest Content Knowledge"
 id: skills-independent-of-knowledge-scores-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

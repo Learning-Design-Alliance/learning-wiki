@@ -3,7 +3,7 @@ type: strategy
 id: just-in-time-teaching-strategy
 title: Teach introductory physics with Just-in-Time Teaching, a student-centered, interactive-engagement style, to improve conceptual understanding of Newtonian concepts
 description: "Just-in-Time Teaching (JiTT) is described in the article as \"a student-centered, interactive-engagement style\" of teaching an introductory physics course, contrasted with traditional lecture."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

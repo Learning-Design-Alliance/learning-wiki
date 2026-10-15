@@ -3,7 +3,7 @@ type: claim
 title: The six-year college graduation rate for CPS graduates enrolling in four-year colleges rose to 50 percent in 2014, 10 points below the national rate
 description: The six-year college graduation rate for CPS graduates enrolling in four-year colleges rose to 50 percent in 2014, 10 points below the national rate
 id: cps-college-graduation-50-percent-2014
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

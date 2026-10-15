@@ -3,7 +3,7 @@ type: claim
 title: Immigration discussion frequency shows no significant association with critical reflection or sociopolitical efficacy
 description: Immigration discussion frequency shows no significant association with critical reflection or sociopolitical efficacy
 id: immigration-discussion-null-critical-consciousness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -4,7 +4,7 @@ id: california-practitioners-guide-for-educating-english-learners-with-disabilit
 title: "California Practitioners' Guide for Educating English Learners with Disabilities"
 description: A California Department of Education practitioner guide providing research-based guidance on assessment, pre-referral supports, and special-education referral practices for English learners with disabilities.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

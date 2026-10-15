@@ -4,7 +4,7 @@ id: claremont-critical-social-justice-teaching-competencies
 title: Claremont Critical Social Justice Teaching Competencies
 description: "A framework used by Claremont's Teacher Education Program to integrate critical social justice teaching competencies across coursework, clinical practice, reflection, and evaluation for teacher candidates."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

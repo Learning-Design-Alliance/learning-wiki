@@ -3,7 +3,7 @@ type: claim
 title: Hardware debugging with an LLM assistant takes multiple prompts and more patience than software debugging
 description: Hardware debugging with an LLM assistant takes multiple prompts and more patience than software debugging
 id: hardware-debugging-takes-multiple-prompts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

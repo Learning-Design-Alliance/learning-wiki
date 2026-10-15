@@ -3,7 +3,7 @@ type: claim
 title: Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations
 description: Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations
 id: ai-simulation-authenticity-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Districts' costs for using Ecree depend on implementation and support needs, and the price per student would likely be lower for larger districts"
 description: "Districts' costs for using Ecree depend on implementation and support needs, and the price per student would likely be lower for larger districts"
 id: ecree-district-costs-depend-on-implementation-lower-for-larger-districts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

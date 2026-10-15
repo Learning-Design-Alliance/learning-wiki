@@ -3,7 +3,7 @@ type: claim
 title: Group-based CCT is effective while home-based CCT is not
 description: Group-based CCT is effective while home-based CCT is not
 id: cct-group-based-effective-home-based-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Expansive learning actions in the meeting followed by and large the theory-predicted order, forming a mini-cycle of two main parts with iterations
 description: Expansive learning actions in the meeting followed by and large the theory-predicted order, forming a mini-cycle of two main parts with iterations
 id: learning-actions-follow-predicted-order-two-parts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

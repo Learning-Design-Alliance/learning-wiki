@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated responses were substantially longer than authentic student submissions, suggesting response length as a signal the detector may exploit
 description: LLM-generated responses were substantially longer than authentic student submissions, suggesting response length as a signal the detector may exploit
 id: llm-response-length-detection-cue
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

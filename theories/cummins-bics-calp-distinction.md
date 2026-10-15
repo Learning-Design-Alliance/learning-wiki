@@ -2,7 +2,7 @@
 type: theory
 title: "Cummins's BICS/CALP distinction: language proficiency divides into basic interpersonal communicative skills and cognitive/academic language proficiency"
 description: "The packet explains that \"Cummins divides language proficiency into two dimensions: basic Interpersonal communicative skills (BICS) and cognitive/academic language proficiency (CALP)\", with CALP the basis for academic..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

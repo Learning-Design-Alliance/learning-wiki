@@ -3,7 +3,7 @@ type: claim
 title: Secondary students in PUSD increasingly reported open mental health conversations at school and knowing where to go for help from 2020/21 to 2022/23
 description: Secondary students in PUSD increasingly reported open mental health conversations at school and knowing where to go for help from 2020/21 to 2022/23
 id: pusd-chks-open-talk-help-seeking-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

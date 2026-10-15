@@ -3,7 +3,7 @@ type: claim
 title: Learner-oriented interventions such as training of learning prerequisites, pre-training, and prompting are empirically tested support procedures for visual displays
 description: Learner-oriented interventions such as training of learning prerequisites, pre-training, and prompting are empirically tested support procedures for visual displays
 id: learner-oriented-interventions-tested
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

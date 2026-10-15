@@ -3,7 +3,7 @@ type: element
 id: zone-of-intervention
 title: Zone of intervention in library reference and instruction services
 description: The zone of intervention is a service concept the author introduced to make concepts of information seeking as construction applicable to reference and instruction services.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

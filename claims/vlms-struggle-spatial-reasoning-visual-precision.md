@@ -3,7 +3,7 @@ type: claim
 title: All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks
 description: All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks
 id: vlms-struggle-spatial-reasoning-visual-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

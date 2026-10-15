@@ -3,7 +3,7 @@ type: claim
 title: Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes
 description: Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes
 id: gender-difference-military-labour-concern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

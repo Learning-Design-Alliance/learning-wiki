@@ -3,7 +3,7 @@ type: strategy
 id: train-teachers-genai-scaffold-not-answers
 title: Train teachers to use generative AI as a scaffold for mathematical thinking rather than as a source of answers
 description: The article recommends that mathematics teacher education prepare teachers to deploy generative AI pedagogically as a thinking scaffold.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

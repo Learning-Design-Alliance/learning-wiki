@@ -3,7 +3,7 @@ type: claim
 title: GenAI students collaboratively phrased and troubleshooted questions, with collaborative problem-solving varying substantially between the two genAI groups
 description: GenAI students collaboratively phrased and troubleshooted questions, with collaborative problem-solving varying substantially between the two genAI groups
 id: genai-collaborative-troubleshooting-varied-by-group
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

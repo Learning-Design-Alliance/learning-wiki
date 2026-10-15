@@ -3,7 +3,7 @@ type: strategy
 id: train-ai-on-context-specific-educational-data
 title: Train AI feedback models on context-specific educational data including student, course and instructor data
 description: "The authors recommend moving beyond generic language models by developing AI systems that \"can ingest and understand the unique characteristics of a course, students and course instructors.\" They specify that training..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

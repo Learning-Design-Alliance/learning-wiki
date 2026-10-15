@@ -3,7 +3,7 @@ type: claim
 title: "Youth's intentions to have sexual intercourse declined marginally from entry to exit (3.2 to 3.0, p = .08, effect size = -0.16), with no change in condom or birth control intentions"
 description: "Youth's intentions to have sexual intercourse declined marginally from entry to exit (3.2 to 3.0, p = .08, effect size = -0.16), with no change in condom or birth control intentions"
 id: project-with-sexual-intention-changes-entry-exit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Many popular school-based prevention approaches have not been well studied to date
 description: Many popular school-based prevention approaches have not been well studied to date
 id: popular-prevention-approaches-understudied
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

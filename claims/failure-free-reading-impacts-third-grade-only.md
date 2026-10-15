@@ -3,7 +3,7 @@ type: claim
 title: Failure Free Reading, the only word-level-plus-comprehension program, showed impacts for third graders but no impacts for fifth graders
 description: Failure Free Reading, the only word-level-plus-comprehension program, showed impacts for third graders but no impacts for fifth graders
 id: failure-free-reading-impacts-third-grade-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

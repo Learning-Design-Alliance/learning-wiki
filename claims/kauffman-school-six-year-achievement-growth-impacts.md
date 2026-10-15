@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School produced substantial positive impacts on student achievement growth in mathematics, English language arts, and science over its first six years
 description: The Kauffman School produced substantial positive impacts on student achievement growth in mathematics, English language arts, and science over its first six years
 id: kauffman-school-six-year-achievement-growth-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

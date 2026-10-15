@@ -3,7 +3,7 @@ type: claim
 title: Favorable assessments of LLM review workflows frequently coexist with reported unmet reliability or performance requirements
 description: Favorable assessments of LLM review workflows frequently coexist with reported unmet reliability or performance requirements
 id: positive-assessments-coexist-with-unmet-reliability-requirements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

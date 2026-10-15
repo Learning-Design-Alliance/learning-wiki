@@ -3,7 +3,7 @@ type: strategy
 id: sustain-alumni-feedback-loops-recommendations
 title: Sustain alumni feedback loops through strategic planning integration, cross-functional interpretation teams, transparent value-exchanges, and phased data collection
 description: "The guide's recommendations for practice distill lessons from its multi-year study into four actions: integrate alumni surveys directly into district strategic planning; establish cross-functional teams to collaborati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa
 description: Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa
 id: comparative-tpb-evidence-thailand-south-africa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

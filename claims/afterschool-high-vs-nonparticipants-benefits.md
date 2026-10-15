@@ -3,7 +3,7 @@ type: claim
 title: Some afterschool participation benefits emerged when high-level participants were compared to non-participants, but not when compared to other program participants
 description: Some afterschool participation benefits emerged when high-level participants were compared to non-participants, but not when compared to other program participants
 id: afterschool-high-vs-nonparticipants-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

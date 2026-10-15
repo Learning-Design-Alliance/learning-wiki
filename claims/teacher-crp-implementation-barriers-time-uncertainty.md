@@ -3,7 +3,7 @@ type: claim
 title: Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP
 description: Teachers report limited time and uncertainty about best practices as primary barriers to implementing CRP
 id: teacher-crp-implementation-barriers-time-uncertainty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

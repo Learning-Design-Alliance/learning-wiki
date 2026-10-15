@@ -3,7 +3,7 @@ type: claim
 title: Incorporating the ACT into high-stakes accountability has not, by itself, produced instructional practices teaching more high-level skills
 description: Incorporating the ACT into high-stakes accountability has not, by itself, produced instructional practices teaching more high-level skills
 id: act-accountability-alone-insufficient-for-rigor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

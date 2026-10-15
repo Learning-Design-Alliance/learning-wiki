@@ -3,7 +3,7 @@ type: strategy
 id: educator-training-mindfulness-implementation-supports
 title: Train and support educators to implement mindfulness through programs, coaching, and shared leadership
 description: The brief recommends training teachers to directly facilitate mindfulness activities, using resources such as Mindful Schools courses for under-resourced public schools, the CARE program to increase prosocial behavior...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

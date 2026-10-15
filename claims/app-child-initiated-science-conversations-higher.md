@@ -3,7 +3,7 @@ type: claim
 title: Children in the intervention group initiated a higher proportion of science-related conversations before and after episode viewing than comparison children
 description: Children in the intervention group initiated a higher proportion of science-related conversations before and after episode viewing than comparison children
 id: app-child-initiated-science-conversations-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

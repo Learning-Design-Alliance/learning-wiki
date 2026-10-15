@@ -4,7 +4,7 @@ id: stanbkt
 title: StanBKT
 description: StanBKT is an open-source Python package made by Siddhartha Pradhan et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

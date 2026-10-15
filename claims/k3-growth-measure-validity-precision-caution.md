@@ -3,7 +3,7 @@ type: claim
 title: A K-3 school-level growth measure was estimated and examined, with validity and precision concerns suggesting cautious use for accountability
 description: A K-3 school-level growth measure was estimated and examined, with validity and precision concerns suggesting cautious use for accountability
 id: k3-growth-measure-validity-precision-caution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

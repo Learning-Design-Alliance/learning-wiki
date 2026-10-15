@@ -3,7 +3,7 @@ type: claim
 title: "Direct instruction's advantages do not persist over the longer term"
 description: "Direct instruction's advantages do not persist over the longer term"
 id: direct-instruction-advantages-vanish-long-term
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

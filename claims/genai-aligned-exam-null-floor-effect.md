@@ -3,7 +3,7 @@ type: claim
 title: Prior GenAI-solution evaluation showed no significant benefit on exam problems structurally aligned with the homework, with the midterm comparison inconclusive due to a floor effect
 description: Prior GenAI-solution evaluation showed no significant benefit on exam problems structurally aligned with the homework, with the midterm comparison inconclusive due to a floor effect
 id: genai-aligned-exam-null-floor-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

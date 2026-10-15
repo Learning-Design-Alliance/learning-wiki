@@ -3,7 +3,7 @@ type: claim
 title: Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment
 description: Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment
 id: iterative-verification-of-genai-explanations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

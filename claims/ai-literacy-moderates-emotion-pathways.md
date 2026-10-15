@@ -3,7 +3,7 @@ type: claim
 title: AI literacy moderates the pathways from perceived AI-adaptive environments to academic emotions, attenuating negative emotional effects among students with higher AI literacy
 description: AI literacy moderates the pathways from perceived AI-adaptive environments to academic emotions, attenuating negative emotional effects among students with higher AI literacy
 id: ai-literacy-moderates-emotion-pathways
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

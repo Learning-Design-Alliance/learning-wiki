@@ -3,7 +3,7 @@ type: claim
 title: Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability
 description: Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability
 id: elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

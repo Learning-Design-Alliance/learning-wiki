@@ -3,7 +3,7 @@ type: claim
 title: After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety
 description: After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety
 id: achievement-composition-predicts-safety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

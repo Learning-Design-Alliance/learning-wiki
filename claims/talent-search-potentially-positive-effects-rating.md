@@ -3,7 +3,7 @@ type: claim
 title: The WWC rated Talent Search as having potentially positive effects on completing school, capped below positive because both studies were quasi-experimental
 description: The WWC rated Talent Search as having potentially positive effects on completing school, capped below positive because both studies were quasi-experimental
 id: talent-search-potentially-positive-effects-rating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

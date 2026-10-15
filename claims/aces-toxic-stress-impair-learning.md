@@ -3,7 +3,7 @@ type: claim
 title: Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm
 description: Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm
 id: aces-toxic-stress-impair-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

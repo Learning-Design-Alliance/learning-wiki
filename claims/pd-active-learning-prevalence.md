@@ -3,7 +3,7 @@ type: claim
 title: Active learning was incorporated in 34 of 35 reviewed effective PD studies
 description: Active learning was incorporated in 34 of 35 reviewed effective PD studies
 id: pd-active-learning-prevalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

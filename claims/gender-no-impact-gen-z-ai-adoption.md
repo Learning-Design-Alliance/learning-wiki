@@ -3,7 +3,7 @@ type: claim
 title: Gender does not moderate AI adoption among Gen Z university students
 description: Gender does not moderate AI adoption among Gen Z university students
 id: gender-no-impact-gen-z-ai-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

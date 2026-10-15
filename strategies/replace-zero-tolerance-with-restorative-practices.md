@@ -3,7 +3,7 @@ type: strategy
 id: replace-zero-tolerance-with-restorative-practices
 title: Replace zero tolerance discipline policies with explicit social-emotional teaching and restorative discipline practices
 description: The report recommends that states, districts, and schools replace zero tolerance policies with discipline policies focused on explicit teaching of social-emotional strategies and restorative discipline practices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

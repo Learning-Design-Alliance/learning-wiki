@@ -3,7 +3,7 @@ type: claim
 title: "How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects"
 description: "How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects"
 id: engagement-style-matters-more-than-whether
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

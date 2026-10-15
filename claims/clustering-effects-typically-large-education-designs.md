@@ -3,7 +3,7 @@ type: claim
 title: Clustering effects vary by design but are typically large in education random-assignment evaluations
 description: Clustering effects vary by design but are typically large in education random-assignment evaluations
 id: clustering-effects-typically-large-education-designs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

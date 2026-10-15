@@ -3,7 +3,7 @@ type: claim
 title: Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates
 description: Objective learning gains did not differ significantly by condition in the primary ANCOVA, but KBD showed a significant positive effect on learning gains in exploratory regressions accounting for learner covariates
 id: kbd-objective-learning-gains-ancova-null-exploratory-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

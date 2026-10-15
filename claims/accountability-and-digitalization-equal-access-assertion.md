@@ -3,7 +3,7 @@ type: claim
 title: The article asserts that excellent accountability management systems and digital transformation capabilities guarantee equal access to education for all students
 description: The article asserts that excellent accountability management systems and digital transformation capabilities guarantee equal access to education for all students
 id: accountability-and-digitalization-equal-access-assertion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

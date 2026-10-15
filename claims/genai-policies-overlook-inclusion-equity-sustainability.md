@@ -3,7 +3,7 @@ type: claim
 title: "Universities' GenAI policies widely embrace core ethical and governance principles but often overlook inclusion, equity, and sustainability issues such as internet access, gender parity in AI, and environmental impact"
 description: "Universities' GenAI policies widely embrace core ethical and governance principles but often overlook inclusion, equity, and sustainability issues such as internet access, gender parity in AI, and environmental impact"
 id: genai-policies-overlook-inclusion-equity-sustainability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

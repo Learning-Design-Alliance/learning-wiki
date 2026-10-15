@@ -3,7 +3,7 @@ type: claim
 title: "Lack of knowledge of cognition, regulation of cognition, and intrinsic motivation hinder learners' metacognitive strategy use"
 description: "Lack of knowledge of cognition, regulation of cognition, and intrinsic motivation hinder learners' metacognitive strategy use"
 id: problems-hindering-metacognitive-strategy-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

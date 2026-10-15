@@ -3,7 +3,7 @@ type: strategy
 id: scenario-prompt-design-deconstruction
 title: "Scenario A: designing and deconstructing AI prompts as an epistemic practice"
 description: "A two-part activity treating prompt design 'not as a technical skill to be optimised, but as an epistemic practice'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -2,7 +2,7 @@
 type: theory
 title: "TPACK: technological pedagogical content knowledge as intersecting knowledge domains"
 description: TPACK describes teacher knowledge for teaching with technology as the intersection of technological, pedagogical, and content knowledge within contexts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

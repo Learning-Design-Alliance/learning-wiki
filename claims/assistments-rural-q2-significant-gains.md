@@ -3,7 +3,7 @@ type: claim
 title: Rural students in the 2nd baseline achievement quartile significantly outperformed their comparison peers by 1.53 points
 description: Rural students in the 2nd baseline achievement quartile significantly outperformed their comparison peers by 1.53 points
 id: assistments-rural-q2-significant-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

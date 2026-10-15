@@ -3,7 +3,7 @@ type: strategy
 id: reflective-ai-aware-assessment-redesign
 title: Redesign assessment reflectively for possible AI use, using supervised tasks for lower-order skills and intentional AI use with reflection for higher-order work
 description: "The chapter recommends adapting or redesigning assessment to account for intentional or incidental AI use, explicitly not relying on GenAI detection software, which has \"proven to be inaccurate and unreliable.\" Studen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

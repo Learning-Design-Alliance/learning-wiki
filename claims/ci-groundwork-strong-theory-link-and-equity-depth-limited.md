@@ -3,7 +3,7 @@ type: claim
 title: Most schools laid CI groundwork (72 percent root cause analysis), but fewer than two-thirds tied change ideas to their theory of practice improvement, and equity attention centered on achievement rather than access, identity, or agency
 description: Most schools laid CI groundwork (72 percent root cause analysis), but fewer than two-thirds tied change ideas to their theory of practice improvement, and equity attention centered on achievement rather than access, i...
 id: ci-groundwork-strong-theory-link-and-equity-depth-limited
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent
 description: The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent
 id: five-themes-rural-microcredential-initiatives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

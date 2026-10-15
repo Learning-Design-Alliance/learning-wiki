@@ -3,7 +3,7 @@ type: strategy
 id: brief-researchers-media-on-months-of-learning
 title: Brief researchers and media on how to calculate and interpret months-of-learning figures before using them
 description: "The brief explicitly targets future users of the months-of-learning metric: \"To inform future uses by researchers and media, we discuss in this brief how to calculate this metric as well as its trade-offs.\" The recomm..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

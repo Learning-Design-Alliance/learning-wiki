@@ -3,7 +3,7 @@ type: claim
 title: Beginner EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF
 description: Beginner EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF
 id: proactive-fof-beats-reactive-beginners-grammar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

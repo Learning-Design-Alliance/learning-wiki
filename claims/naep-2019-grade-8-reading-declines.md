@@ -3,7 +3,7 @@ type: claim
 title: Grade 8 reading scores in 2019 decreased across the performance distribution, with greater decreases at the 10th and 25th percentiles
 description: Grade 8 reading scores in 2019 decreased across the performance distribution, with greater decreases at the 10th and 25th percentiles
 id: naep-2019-grade-8-reading-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

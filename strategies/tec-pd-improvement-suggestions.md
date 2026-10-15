@@ -3,7 +3,7 @@ type: strategy
 id: tec-pd-improvement-suggestions
 title: "Improve transmedia-curriculum professional development with classroom observation, Q&A-only webinars, and later scheduling"
 description: Teachers in the evaluation offered concrete suggestions for improving the professional development accompanying the TEC Summer Learning Program.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

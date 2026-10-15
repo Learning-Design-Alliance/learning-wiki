@@ -3,7 +3,7 @@ type: claim
 title: Journal analysis shows heavy GenAI reliance in secondary research and transcription but student autonomy in planning and interpretation of primary research
 description: Journal analysis shows heavy GenAI reliance in secondary research and transcription but student autonomy in planning and interpretation of primary research
 id: journals-secondary-research-heavy-genai-primary-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

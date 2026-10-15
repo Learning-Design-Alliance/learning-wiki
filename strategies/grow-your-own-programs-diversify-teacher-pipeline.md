@@ -3,7 +3,7 @@ type: strategy
 id: grow-your-own-programs-diversify-teacher-pipeline
 title: Fund and guide Grow Your Own programs to attract candidates of color into teaching
 description: The brief lists Grow Your Own (GYO) programs among the research-based strategies states should use to target resources toward districts and schools struggling to recruit a diverse workforce.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

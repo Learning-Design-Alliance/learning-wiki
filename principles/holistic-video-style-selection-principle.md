@@ -3,7 +3,7 @@ type: principle
 id: holistic-video-style-selection-principle
 title: Select a video production style holistically, considering course type, complementary materials, and learner needs rather than video alone
 description: The article argues that instructional video is one pillar of pedagogical design that must work with other components such as problem sets, hypertext, discussion boards, and interactive quiz segmentation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

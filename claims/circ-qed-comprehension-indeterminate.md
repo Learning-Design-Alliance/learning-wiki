@@ -3,7 +3,7 @@ type: claim
 title: In a quasi-experimental study, CIRC showed no statistically significant effect on comprehension outcomes after WWC clustering and multiple-comparison adjustments
 description: In a quasi-experimental study, CIRC showed no statistically significant effect on comprehension outcomes after WWC clustering and multiple-comparison adjustments
 id: circ-qed-comprehension-indeterminate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

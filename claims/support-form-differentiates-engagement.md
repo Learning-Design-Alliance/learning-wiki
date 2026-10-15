@@ -3,7 +3,7 @@ type: claim
 title: "Support form differentiates the scaffolding–engagement association: feedback and explaining align most with constructive engagement, with a task-ecology crossover between instructing and modelling"
 description: "Support form differentiates the scaffolding–engagement association: feedback and explaining align most with constructive engagement, with a task-ecology crossover between instructing and modelling"
 id: support-form-differentiates-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: African-American students and mostly African-American South Side communities showed less improvement in graduation and dropout rates than other students and North Side communities
 description: African-American students and mostly African-American South Side communities showed less improvement in graduation and dropout rates than other students and North Side communities
 id: cps-graduation-improvement-racial-geographic-inequity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

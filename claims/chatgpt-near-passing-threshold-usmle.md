@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT performed at or near the passing threshold on the United States Medical Licensing Exam without domain fine-tuning (reported from Kung et al.)
 description: ChatGPT performed at or near the passing threshold on the United States Medical Licensing Exam without domain fine-tuning (reported from Kung et al.)
 id: chatgpt-near-passing-threshold-usmle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

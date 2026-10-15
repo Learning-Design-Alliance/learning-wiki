@@ -3,7 +3,7 @@ type: claim
 title: Cross-cultural measurement problems may bias psychosocial instruments translated across cultures
 description: Cross-cultural measurement problems may bias psychosocial instruments translated across cultures
 id: cross-cultural-measurement-bias-in-translated-psychosocial-instruments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: LeBlanc and Matson (1995) found a statistically significant positive effect on one social-emotional outcome but insufficient information prevented WWC verification or inclusion in the rating
 description: LeBlanc and Matson (1995) found a statistically significant positive effect on one social-emotional outcome but insufficient information prevented WWC verification or inclusion in the rating
 id: leblanc-matson-insufficient-reporting-excluded
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

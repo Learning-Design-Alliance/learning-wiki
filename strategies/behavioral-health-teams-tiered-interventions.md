@@ -3,7 +3,7 @@ type: strategy
 id: behavioral-health-teams-tiered-interventions
 title: Coordinate adult support through behavioral health teams and tiered, evidence-based intervention systems
 description: "The report recommends that schools organize well-structured systems so support reaches students quickly: \"Well-organized systems and structures, such as behavioral health teams (BHTs) and effective use of tiered, evid..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

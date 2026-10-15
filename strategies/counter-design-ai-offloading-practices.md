@@ -3,7 +3,7 @@ type: strategy
 id: counter-design-ai-offloading-practices
 title: Counter-design practices for deliberate AI engagement
 description: "Drawing on the counter-design literature, PAUSE recommends concrete practices users can adopt to keep their own capacities engaged: \"Structured prompting, deliberate verification, alternation between AI-assisted and A..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

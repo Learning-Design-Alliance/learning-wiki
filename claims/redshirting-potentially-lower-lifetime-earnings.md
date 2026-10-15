@@ -3,7 +3,7 @@ type: claim
 title: Redshirted students may have potentially lower lifetime earnings because they enter the labor force a year later
 description: Redshirted students may have potentially lower lifetime earnings because they enter the labor force a year later
 id: redshirting-potentially-lower-lifetime-earnings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

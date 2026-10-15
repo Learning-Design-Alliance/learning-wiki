@@ -3,7 +3,7 @@ type: claim
 title: "Previous research found a meaningful correlation between countries' mean engagement and mean performance on large-scale international assessments, motivating validity questions about aggregated scores"
 description: "Previous research found a meaningful correlation between countries' mean engagement and mean performance on large-scale international assessments, motivating validity questions about aggregated scores"
 id: engagement-performance-correlation-countries
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

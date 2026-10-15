@@ -3,7 +3,7 @@ type: claim
 title: A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words
 description: A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words
 id: multimedia-principle-words-and-pictures-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

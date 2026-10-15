@@ -3,7 +3,7 @@ type: strategy
 id: embed-growth-mindset-messages-in-curricula-for-ai-literacy
 title: Embed growth-mindset messages framing technological competence as developable into existing curricula as a low-cost, broad-reach intervention
 description: Because growth mindset in technology was the most consistent psychological predictor of AI literacy — predicting four of the five subdimensions — and such beliefs are malleable, the article recommends embedding messag...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

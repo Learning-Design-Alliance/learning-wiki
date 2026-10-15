@@ -3,7 +3,7 @@ type: claim
 title: Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions
 description: Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions
 id: teachers-rate-ai-training-useful-positive-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

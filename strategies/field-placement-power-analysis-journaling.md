@@ -3,7 +3,7 @@ type: strategy
 id: field-placement-power-analysis-journaling
 title: Use structured power-analysis journaling at the start and end of field placements to build critical consciousness
 description: In advanced practica, the author requires students to begin and end field work with a reflection on the power dynamics at their site, using journals to track changes in perception.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

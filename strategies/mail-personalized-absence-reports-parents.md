@@ -3,7 +3,7 @@ type: strategy
 id: mail-personalized-absence-reports-parents
 title: "Mail parents personalized, actionable absence reports about their own student's attendance"
 description: "The intervention's core implementable activity is delivering Absence Reports to parents and guardians containing \"actionable, personalized information about their student's attendance.\" Districts first securely share..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

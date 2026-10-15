@@ -3,7 +3,7 @@ type: claim
 title: LMS quality predicts blended-learning satisfaction, which predicts academic performance (β = .604 and β = .535)
 description: LMS quality predicts blended-learning satisfaction, which predicts academic performance (β = .604 and β = .535)
 id: lms-quality-satisfaction-performance-chain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

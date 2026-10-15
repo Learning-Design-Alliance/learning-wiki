@@ -3,7 +3,7 @@ type: claim
 title: Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85
 description: Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85
 id: bert-essay-scoring-correlation-085
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

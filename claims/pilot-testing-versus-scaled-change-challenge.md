@@ -3,7 +3,7 @@ type: claim
 title: Balancing the need for pilot-testing with the goal of scaled change is a common challenge to community college reform efforts
 description: Balancing the need for pilot-testing with the goal of scaled change is a common challenge to community college reform efforts
 id: pilot-testing-versus-scaled-change-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

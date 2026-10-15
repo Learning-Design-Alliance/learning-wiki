@@ -3,7 +3,7 @@ type: claim
 title: Cognitive engagement is the least well-defined engagement perspective and conflates with motivational constructs
 description: Cognitive engagement is the least well-defined engagement perspective and conflates with motivational constructs
 id: cognitive-engagement-least-well-defined
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

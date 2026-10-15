@@ -3,7 +3,7 @@ type: claim
 title: Most NWEA partner middle schools offer only multidiscipline science courses, with far fewer offering only single-discipline courses than in the 2018 national sample
 description: Most NWEA partner middle schools offer only multidiscipline science courses, with far fewer offering only single-discipline courses than in the 2018 national sample
 id: nwea-schools-predominantly-multidiscipline-offerings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

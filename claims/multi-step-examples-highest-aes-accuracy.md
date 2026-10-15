@@ -3,7 +3,7 @@ type: claim
 title: The multi-step grading recipe with calibration examples achieves the highest scoring accuracy and receives the majority of bandit arm pulls
 description: The multi-step grading recipe with calibration examples achieves the highest scoring accuracy and receives the majority of bandit arm pulls
 id: multi-step-examples-highest-aes-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

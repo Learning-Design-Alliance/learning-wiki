@@ -3,7 +3,7 @@ type: claim
 title: Review reports TAs sharing the same agenda provided different meta-level learning opportunities through object-level adaptations
 description: Review reports TAs sharing the same agenda provided different meta-level learning opportunities through object-level adaptations
 id: ta-agenda-object-meta-level-opportunities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

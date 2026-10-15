@@ -3,7 +3,7 @@ type: claim
 title: Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments
 description: Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments
 id: five-techniques-low-utility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

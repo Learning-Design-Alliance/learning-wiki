@@ -3,7 +3,7 @@ type: claim
 title: Human-GenAI pedagogical partnership is positively associated with both cognitive vigilance and cognitive offloading among business students
 description: Human-GenAI pedagogical partnership is positively associated with both cognitive vigilance and cognitive offloading among business students
 id: genai-partnership-activates-vigilance-and-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

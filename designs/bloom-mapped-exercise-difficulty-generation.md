@@ -3,7 +3,7 @@ type: design
 id: bloom-mapped-exercise-difficulty-generation
 title: Bloom-level mapping of exercise difficulty levels in AI exercise generation
 description: "The exercise-generation tool maps its three difficulty levels directly onto Bloom's Taxonomy cognitive levels within the system prompt: easy prompts tasks focused on remembering and understanding, medium on applying a..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

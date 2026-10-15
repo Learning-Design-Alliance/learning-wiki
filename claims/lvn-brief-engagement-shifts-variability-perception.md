@@ -3,7 +3,7 @@ type: claim
 title: "A brief self-guided engagement with the LVN shifted most educators' perception of the importance of learner variability"
 description: "A brief self-guided engagement with the LVN shifted most educators' perception of the importance of learner variability"
 id: lvn-brief-engagement-shifts-variability-perception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

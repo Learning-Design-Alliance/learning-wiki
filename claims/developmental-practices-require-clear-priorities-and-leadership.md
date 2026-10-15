@@ -3,7 +3,7 @@ type: claim
 title: In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices
 description: In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices
 id: developmental-practices-require-clear-priorities-and-leadership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: classroom-proof-assistant-design-criteria
 title: Eight learner-centered design criteria for classroom proof assistants, organized under learning and usability goals
 description: "The article proposes a framework of two broad goals — \"learning: the tool should help students refine and improve their mathematical proof skills; and usability: the tool should not create unnecessary frictions in wri..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

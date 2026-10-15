@@ -4,7 +4,7 @@ id: mcd-v2
 title: MCD-v2
 description: MCD-v2 is a computerized adaptive cognitive diagnostic test developed by Vy Le et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

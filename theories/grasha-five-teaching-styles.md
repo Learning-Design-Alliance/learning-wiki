@@ -2,7 +2,7 @@
 type: theory
 title: "Grasha's five teaching styles (expert, formal authority, personal, facilitator, delegator)"
 description: "Grasha's model classifies teaching styles as consistent, observable teacher behaviors rather than personal traits."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

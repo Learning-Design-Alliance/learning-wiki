@@ -3,7 +3,7 @@ type: claim
 title: "Both genders improve in recognising AI's role in entertainment platforms after the workshop, with females additionally gaining in identifying TikTok"
 description: "Both genders improve in recognising AI's role in entertainment platforms after the workshop, with females additionally gaining in identifying TikTok"
 id: platform-recognition-gains-netflix-spotify
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: organise-space-and-opposites-discussions-for-emotional-scaffolding
 title: Improve emotional scaffolding by organising space for emotion training with game methods and creating conditions for discussing opposites
 description: "The article's recommendations section proposes two concrete teacher actions for improving emotional scaffolding: \"1) organising a space in which a teacher can lead training in recognising emotions, using game methods;..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

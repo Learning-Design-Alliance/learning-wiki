@@ -3,7 +3,7 @@ type: claim
 title: Eight of ten dimensions of instructional practice are common across all five examined teacher observation instruments
 description: Eight of ten dimensions of instructional practice are common across all five examined teacher observation instruments
 id: eight-of-ten-dimensions-common-across-five-observation-instruments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

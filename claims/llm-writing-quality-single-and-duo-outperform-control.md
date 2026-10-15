@@ -3,7 +3,7 @@ type: claim
 title: In open-ended writing, both single-generalist and role-specialized duo LLM assistance improved essay quality over no-AI control, with no significant difference between them
 description: In open-ended writing, both single-generalist and role-specialized duo LLM assistance improved essay quality over no-AI control, with no significant difference between them
 id: llm-writing-quality-single-and-duo-outperform-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

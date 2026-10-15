@@ -3,7 +3,7 @@ type: strategy
 id: five-ai-guilt-reconciliation-strategies
 title: "Five reconciliation strategies academics use to manage AI-related guilt: tool framing, critical thinking emphasis, boundary setting, transparency, and denying reconciliation is needed"
 description: In the qualitative narratives, academics described five approaches to reconciling AI use with academic values.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

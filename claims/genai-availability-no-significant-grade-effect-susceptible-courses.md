@@ -3,7 +3,7 @@ type: claim
 title: GenAI availability produced no significant differential effect on final grades in more GenAI-susceptible courses relative to less susceptible ones
 description: GenAI availability produced no significant differential effect on final grades in more GenAI-susceptible courses relative to less susceptible ones
 id: genai-availability-no-significant-grade-effect-susceptible-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Cognitive resources perspective as an account of reasoning development during phenomenon-based instruction
 description: "The article draws on the cognitive resources perspective, attributed to Hammer and Elby, to interpret how instruction influences students' explanatory reasoning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

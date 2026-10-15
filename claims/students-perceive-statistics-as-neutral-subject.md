@@ -3,7 +3,7 @@ type: claim
 title: BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate
 description: BIPOC students perceived statistics as a neutral subject and did not discern explicit racial or cultural inclusion in the courseware, generally viewing that neutrality as appropriate
 id: students-perceive-statistics-as-neutral-subject
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

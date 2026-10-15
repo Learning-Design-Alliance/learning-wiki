@@ -3,7 +3,7 @@ type: claim
 title: More than 3.3 million students were eligible for Title I supplemental educational services in 2006-2007, a nearly sixfold increase
 description: More than 3.3 million students were eligible for Title I supplemental educational services in 2006-2007, a nearly sixfold increase
 id: title-i-ses-eligibility-sixfold-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

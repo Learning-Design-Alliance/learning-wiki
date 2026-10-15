@@ -3,7 +3,7 @@ type: claim
 title: On the primary base under the frozen Opus judge, ConvTutor and PedTutor do not differ significantly in judged helpfulness but are perfectly rank-separated in judged pedagogy
 description: On the primary base under the frozen Opus judge, ConvTutor and PedTutor do not differ significantly in judged helpfulness but are perfectly rank-separated in judged pedagogy
 id: helpfulness-pedagogy-dissociation-primary-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

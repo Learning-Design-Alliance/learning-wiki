@@ -3,7 +3,7 @@ type: claim
 title: On hybrid and humanised AI papers, Pangram correctly identified AI content in 37 of 40 cases while GPTZero and Copyleaks performed poorly and Turnitin declined on humanised texts
 description: On hybrid and humanised AI papers, Pangram correctly identified AI content in 37 of 40 cases while GPTZero and Copyleaks performed poorly and Turnitin declined on humanised texts
 id: pangram-robust-hybrid-humanised-texts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

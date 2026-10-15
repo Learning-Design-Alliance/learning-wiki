@@ -3,7 +3,7 @@ type: claim
 title: Students rated the LLM-based assignments as useful, challenging, engaging, and enjoyable at both the first and fifth iterations, with no significant change across the semester
 description: Students rated the LLM-based assignments as useful, challenging, engaging, and enjoyable at both the first and fifth iterations, with no significant change across the semester
 id: positive-affective-responses-llm-assignments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

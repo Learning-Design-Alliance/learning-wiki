@@ -3,7 +3,7 @@ type: claim
 title: Scalar measurement invariance of the GenAI-RTS holds across gender, first-generation status, and STEM/non-STEM majors
 description: Scalar measurement invariance of the GenAI-RTS holds across gender, first-generation status, and STEM/non-STEM majors
 id: genai-rts-scalar-invariance-demographic-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

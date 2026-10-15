@@ -3,7 +3,7 @@ type: claim
 title: Most New York charter schools reported decreases in learning time across subjects during closure, with low prior reading proficiency associated with larger ELA/Reading time losses
 description: Most New York charter schools reported decreases in learning time across subjects during closure, with low prior reading proficiency associated with larger ELA/Reading time losses
 id: learning-time-decreases-proficiency-moderation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

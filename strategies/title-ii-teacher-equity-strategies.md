@@ -3,7 +3,7 @@ type: strategy
 id: title-ii-teacher-equity-strategies
 title: Using Title II professional development funds to strengthen teacher preparation, recruitment, induction, and support in high-need schools
 description: The report recommends that states and districts use ESSA Title II professional development funding to strengthen teacher preparation, recruitment, induction, support, and advancement, increasing teacher effectiveness...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

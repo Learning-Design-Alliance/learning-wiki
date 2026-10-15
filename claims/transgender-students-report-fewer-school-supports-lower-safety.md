@@ -3,7 +3,7 @@ type: claim
 title: Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers
 description: Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers
 id: transgender-students-report-fewer-school-supports-lower-safety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Federal IDEA funding has provided only about 15 percent of the national average per-pupil expenditure, versus the 40 percent originally promised
 description: Federal IDEA funding has provided only about 15 percent of the national average per-pupil expenditure, versus the 40 percent originally promised
 id: idea-funding-15-percent-versus-40-promise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

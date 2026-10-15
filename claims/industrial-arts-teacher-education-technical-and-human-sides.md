@@ -3,7 +3,7 @@ type: claim
 title: Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise
 description: Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise
 id: industrial-arts-teacher-education-technical-and-human-sides
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

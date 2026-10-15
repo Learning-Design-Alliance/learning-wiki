@@ -3,7 +3,7 @@ type: claim
 title: "Elaborative processing of prose enhances later retrievability, accounting for roughly 30% of variance in one-month recall when original learning is controlled"
 description: "Elaborative processing of prose enhances later retrievability, accounting for roughly 30% of variance in one-month recall when original learning is controlled"
 id: elaborative-processing-enhances-retrieval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

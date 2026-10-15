@@ -3,7 +3,7 @@ type: claim
 title: After two years of implementation, Early Risers showed a statistically significant positive effect on the Academic Competence Composite in the 2001 supplemental findings
 description: After two years of implementation, Early Risers showed a statistically significant positive effect on the Academic Competence Composite in the 2001 supplemental findings
 id: early-risers-two-year-academic-competence-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

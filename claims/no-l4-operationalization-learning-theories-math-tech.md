@@ -3,7 +3,7 @@ type: claim
 title: A structured review of digital mathematics education technologies found no studies in which learning theories are implemented as functional components of technological systems (L4)
 description: A structured review of digital mathematics education technologies found no studies in which learning theories are implemented as functional components of technological systems (L4)
 id: no-l4-operationalization-learning-theories-math-tech
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

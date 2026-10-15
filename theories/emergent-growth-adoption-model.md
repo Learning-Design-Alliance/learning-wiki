@@ -2,7 +2,7 @@
 type: theory
 title: Revised emergent-growth model of technology adoption integrating voluntary activities with maintained early concerns
 description: "The article proposes a revised theoretical conception in which adoption is not a linear, sequential progression but an emergent growth process: voluntary adoption activities initially motivated by early concerns are s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -2,7 +2,7 @@
 type: theory
 title: "BKT+IRT: Bayesian Knowledge Tracing augmented with multidimensional generalizable student abilities and problem effects"
 description: "BKT+IRT merges BKT's temporal hidden-state dynamics with IRT-style student ability and problem difficulty effects: student ability and problem-specific offsets modulate BKT's guessing, slipping, learning, and forgetti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

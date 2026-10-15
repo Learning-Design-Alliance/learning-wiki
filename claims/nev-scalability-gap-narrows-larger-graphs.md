@@ -3,7 +3,7 @@ type: claim
 title: The with/without-tools difficulty gap narrowed as graph size grew, which the authors read as a positive indication of scalability
 description: The with/without-tools difficulty gap narrowed as graph size grew, which the authors read as a positive indication of scalability
 id: nev-scalability-gap-narrows-larger-graphs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

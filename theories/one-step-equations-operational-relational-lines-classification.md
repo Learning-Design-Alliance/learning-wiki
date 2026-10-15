@@ -2,7 +2,7 @@
 type: theory
 title: A cognitive load based classification of one-step equations into Type 1 and Type 2 by operational and relational lines
 description: The article proposes a framework that classifies one-step equations by counting operational lines (steps that alter the problem state while preserving equality) and relational lines (lines showing a quantitative relat...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

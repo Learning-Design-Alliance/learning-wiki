@@ -3,7 +3,7 @@ type: claim
 title: Theoretically augmented game designs significantly outperform standard versions of the same games (g = 0.34), with enhanced scaffolding designs showing g = 0.41
 description: Theoretically augmented game designs significantly outperform standard versions of the same games (g = 0.34), with enhanced scaffolding designs showing g = 0.41
 id: value-added-augmented-designs-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: The frequentist graphical LASSO has difficulty estimating centrality indices and uncertainty in these measures in symptom networks
 description: The frequentist graphical LASSO has difficulty estimating centrality indices and uncertainty in these measures in symptom networks
 id: frequentist-glasso-difficulty-uncertainty-centrality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

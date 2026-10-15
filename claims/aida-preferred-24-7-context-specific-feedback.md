@@ -3,7 +3,7 @@ type: claim
 title: Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT
 description: Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT
 id: aida-preferred-24-7-context-specific-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

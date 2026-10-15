@@ -3,7 +3,7 @@ type: claim
 title: Displaying data with icons or concise summaries led parents to choose schools with higher academic performance than graphs, numbers, or detailed displays
 description: Displaying data with icons or concise summaries led parents to choose schools with higher academic performance than graphs, numbers, or detailed displays
 id: icons-concise-summaries-higher-performing-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

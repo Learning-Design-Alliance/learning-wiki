@@ -3,7 +3,7 @@ type: claim
 title: "Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester"
 description: "Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester"
 id: verification-lagged-rising-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

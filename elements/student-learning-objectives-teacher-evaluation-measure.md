@@ -3,7 +3,7 @@ type: element
 id: student-learning-objectives-teacher-evaluation-measure
 title: Student learning objectives set by individual teachers and approved by principals
 description: "The second alternative measure type profiled: student learning objectives (SLOs)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

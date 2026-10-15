@@ -2,7 +2,7 @@
 type: theory
 title: Four academic mindsets framework
 description: "The review defines academic mindsets as psycho-social attitudes or beliefs about oneself in relation to academic work, naming four: \"I belong in this academic community,\" \"My ability and competence grow with my effort..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

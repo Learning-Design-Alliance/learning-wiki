@@ -3,7 +3,7 @@ type: claim
 title: Districts report more success with future-ready skill assessment focused on student growth than on proficiency
 description: Districts report more success with future-ready skill assessment focused on student growth than on proficiency
 id: growth-over-proficiency-pog-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

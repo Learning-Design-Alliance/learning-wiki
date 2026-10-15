@@ -3,7 +3,7 @@ type: claim
 title: Steeper summer learning losses for students with disabilities contribute to widening disparities with peers
 description: Steeper summer learning losses for students with disabilities contribute to widening disparities with peers
 id: swd-summer-loss-widens-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

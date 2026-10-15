@@ -3,7 +3,7 @@ type: claim
 title: UCSMP Algebra has potentially positive effects on the algebra domain, with mixed findings across two studies and a small extent of evidence
 description: UCSMP Algebra has potentially positive effects on the algebra domain, with mixed findings across two studies and a small extent of evidence
 id: ucsmp-algebra-potentially-positive-algebra-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

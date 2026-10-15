@@ -4,7 +4,7 @@ id: istation-reading
 title: Istation Reading
 description: Istation Reading is a digital reading assessment and instructional platform developed and provided by Istation, with professional learning for educators and school leaders to support implementation.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

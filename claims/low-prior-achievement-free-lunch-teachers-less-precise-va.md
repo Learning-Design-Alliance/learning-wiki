@@ -3,7 +3,7 @@ type: claim
 title: Teachers of students with low prior achievement and who receive free lunch tend to have less precise value-added estimates
 description: Teachers of students with low prior achievement and who receive free lunch tend to have less precise value-added estimates
 id: low-prior-achievement-free-lunch-teachers-less-precise-va
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

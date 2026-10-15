@@ -4,7 +4,7 @@ id: i-ready
 title: i-Ready
 description: "i-Ready is Curriculum Associates' digital learning platform combining computer-adaptive Diagnostic assessments with personalized Reading and Mathematics instruction."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

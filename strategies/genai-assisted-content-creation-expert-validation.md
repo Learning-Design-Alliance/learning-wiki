@@ -3,7 +3,7 @@ type: strategy
 id: genai-assisted-content-creation-expert-validation
 title: Generative-AI-assisted content creation with domain-expert validation for adaptive tutoring systems
 description: "The G4L authors used a generative AI assistant to build the knowledge base rapidly from existing documentation: \"the Generative AI (GenAI) assistant automatically generated the prerequisite relational structure of kno..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

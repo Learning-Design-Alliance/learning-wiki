@@ -3,7 +3,7 @@ type: claim
 title: Educational ontologies are rarely used in practical e-learning platforms, mainly due to cost, complexity, integration, performance, and scalability problems, which ontology reuse can partially overcome
 description: Educational ontologies are rarely used in practical e-learning platforms, mainly due to cost, complexity, integration, performance, and scalability problems, which ontology reuse can partially overcome
 id: ontology-adoption-barriers-practical-elearning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

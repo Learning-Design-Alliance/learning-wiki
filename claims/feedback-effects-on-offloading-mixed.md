@@ -3,7 +3,7 @@ type: claim
 title: "Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading"
 description: "Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading"
 id: feedback-effects-on-offloading-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

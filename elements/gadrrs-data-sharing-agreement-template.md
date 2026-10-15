@@ -3,7 +3,7 @@ type: element
 id: gadrrs-data-sharing-agreement-template
 title: "GADRRS: an openly licensed data sharing agreement template for educational data exchanges"
 description: GADRRS is a fillable Data Sharing Agreement developed by the University of Florida Lastinger Center for Learning and licensed CC BY-ND 4.0 for use by any entity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: sentence-construction-activities-three-sentence-types
 title: Use sentence construction activities to teach compound, complex, and compound-complex sentence types
 description: "The guide recommends introducing a sentence construction activity so students learn three sentence types: compound sentences (at least two independent clauses that are joined), complex sentences (an independent clause..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

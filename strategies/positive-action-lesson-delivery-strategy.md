@@ -3,7 +3,7 @@ type: strategy
 id: positive-action-lesson-delivery-strategy
 title: Deliver social-emotional skills through short, frequent structured lessons with teacher manuals and parallel parent handbooks
 description: "The program's delivery model pairs brief, frequent classroom lessons with structured support materials: teachers follow detailed manuals for 140 lessons of 15-20 minutes per year (4 days per week), using structured di..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

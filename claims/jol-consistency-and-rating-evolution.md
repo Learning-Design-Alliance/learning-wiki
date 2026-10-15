@@ -3,7 +3,7 @@ type: claim
 title: "Students' JoL ratings became more consistent over time and evolved from under-rating to over-rating to accurate judgement"
 description: "Students' JoL ratings became more consistent over time and evolved from under-rating to over-rating to accurate judgement"
 id: jol-consistency-and-rating-evolution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

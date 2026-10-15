@@ -4,7 +4,7 @@ id: aasee-framework
 title: AASEE framework
 description: The AI-Augmented Software Engineering Education framework, proposed by Qusay H.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

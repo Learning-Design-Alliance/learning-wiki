@@ -3,7 +3,7 @@ type: claim
 title: "Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation"
 description: "Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation"
 id: genai-design-thinking-four-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

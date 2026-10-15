@@ -2,7 +2,7 @@
 type: theory
 title: Taxonomy of interdisciplinary concepts for organizing K-12 social sciences curricula
 description: The framework nominates a set of broad interdisciplinary concepts—citizenship, justice, freedom, diversity, culture, resources, multiple causation, needs, property, authority/power, scarcity, social control, morality,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

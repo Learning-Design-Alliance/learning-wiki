@@ -3,7 +3,7 @@ type: claim
 title: The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing
 description: The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing
 id: whether-element-interactivity-limits-retrieval-practice-effects-is-contested
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

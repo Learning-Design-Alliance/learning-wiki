@@ -3,7 +3,7 @@ type: claim
 title: Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning
 description: Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning
 id: prompting-raises-perspicuity-dependability-lowers-novelty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Algorithmic bias and data privacy are central ethical risks of AI in adult education
 description: Algorithmic bias and data privacy are central ethical risks of AI in adult education
 id: algorithmic-bias-privacy-risks-adult-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

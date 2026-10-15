@@ -3,7 +3,7 @@ type: claim
 title: Math achievement of BVI students lags sighted peers and the gap widens with age
 description: Math achievement of BVI students lags sighted peers and the gap widens with age
 id: bvi-math-achievement-lags-and-gap-widens
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

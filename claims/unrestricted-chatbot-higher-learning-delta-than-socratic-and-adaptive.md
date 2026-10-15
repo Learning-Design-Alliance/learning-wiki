@@ -3,7 +3,7 @@ type: claim
 title: In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)
 description: In an immediate post-test design, participants with an unrestricted chatbot achieved significantly higher learning deltas than participants with a Socratic chatbot (d = 0.80) or an EEG-adaptive exercise system (d = 0.85)
 id: unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Courses with higher average time-on-task exhibit greater variability in their weekly workload evolution
 description: Courses with higher average time-on-task exhibit greater variability in their weekly workload evolution
 id: higher-workload-courses-more-variable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

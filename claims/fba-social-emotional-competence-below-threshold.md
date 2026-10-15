@@ -3,7 +3,7 @@ type: claim
 title: Single-case evidence on FBA-based interventions for social-emotional competence does not reach the threshold for an effectiveness rating
 description: Single-case evidence on FBA-based interventions for social-emotional competence does not reach the threshold for an effectiveness rating
 id: fba-social-emotional-competence-below-threshold
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

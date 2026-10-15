@@ -3,7 +3,7 @@ type: claim
 title: Innovative competence differs by background variables, with AI interest level showing the strongest association
 description: Innovative competence differs by background variables, with AI interest level showing the strongest association
 id: innovative-competence-background-heterogeneity-ai-interest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

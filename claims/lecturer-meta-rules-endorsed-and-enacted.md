@@ -3,7 +3,7 @@ type: claim
 title: "Review reports lecturers' discourse contains endorsed and enacted meta-rules about doing mathematics that can model mathematical behavior"
 description: "Review reports lecturers' discourse contains endorsed and enacted meta-rules about doing mathematics that can model mathematical behavior"
 id: lecturer-meta-rules-endorsed-and-enacted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

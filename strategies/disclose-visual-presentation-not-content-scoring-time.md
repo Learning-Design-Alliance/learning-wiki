@@ -3,7 +3,7 @@ type: strategy
 id: disclose-visual-presentation-not-content-scoring-time
 title: Disclose to learners what changes (visual presentation) and what does not (question content, scoring, time allowed)
 description: For behaviourally-adaptive security layers, the article recommends that institutional communication focus on the separation between presentation-level change and unchanged assessment substance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

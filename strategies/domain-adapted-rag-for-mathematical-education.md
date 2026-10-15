@@ -3,7 +3,7 @@ type: strategy
 id: domain-adapted-rag-for-mathematical-education
 title: Domain-adapt RAG pipelines for mathematical education via entity recognition, notation-aware retrieval, and pedagogical re-ranking
 description: "The article recommends adapting RAG to formal domains with three optimizations: mathematical entity recognition that distinguishes O(n) as Big-O from the letter O and recognizes proof markers; notation-aware similarit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

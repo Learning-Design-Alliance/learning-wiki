@@ -3,7 +3,7 @@ type: strategy
 id: four-level-ethical-ai-integration-strategy
 title: "Build ethical AI integration on four coordinated levels: faculty professional development, ethics curricula, clear institutional guidelines, and interdisciplinary updating"
 description: "The study's concluding recommendation is that ethical AI use in higher education requires action at several levels simultaneously: \"professional development support should be provided to faculty members, courses cover..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

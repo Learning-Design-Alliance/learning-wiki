@@ -3,7 +3,7 @@ type: strategy
 id: federal-wraparound-supports-community-schools
 title: Federal policy should fund wraparound supports and community schools integrating health, mental health, social services, and extended learning time
 description: The brief recommends a comprehensive approach providing children with the health, mental health, social services, extended learning time, after-school programming, and other supports they need to thrive.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

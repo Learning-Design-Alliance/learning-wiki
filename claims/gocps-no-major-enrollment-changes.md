@@ -3,7 +3,7 @@ type: claim
 title: GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted
 description: GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted
 id: gocps-no-major-enrollment-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

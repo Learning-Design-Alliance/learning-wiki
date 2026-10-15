@@ -3,7 +3,7 @@ type: strategy
 id: adaptive-recommendations-engagement-profiles-k8
 title: Adapt e-learning platforms to distinct student engagement profiles with adaptive recommendations and guidance
 description: The authors recommend that online learning platforms for young learners adapt to preferred ways of engagement and guide students toward neglected components.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

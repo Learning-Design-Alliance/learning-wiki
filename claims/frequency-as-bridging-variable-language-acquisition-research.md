@@ -3,7 +3,7 @@ type: claim
 title: Frequency should be reinstated as a bridging variable binding the different schools of language acquisition research
 description: Frequency should be reinstated as a bridging variable binding the different schools of language acquisition research
 id: frequency-as-bridging-variable-language-acquisition-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

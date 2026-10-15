@@ -3,7 +3,7 @@ type: claim
 title: Students of e2L-coached teachers outperformed students in comparison schools on end-of-year STAAR math in a propensity-score-matched study
 description: Students of e2L-coached teachers outperformed students in comparison schools on end-of-year STAAR math in a propensity-score-matched study
 id: e2l-coaching-staar-math-outperformed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

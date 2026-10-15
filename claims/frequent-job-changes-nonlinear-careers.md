@@ -3,7 +3,7 @@ type: claim
 title: Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas
 description: Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas
 id: frequent-job-changes-nonlinear-careers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

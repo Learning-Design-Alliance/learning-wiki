@@ -3,7 +3,7 @@ type: strategy
 id: foster-community-counsellor-education-practices
 title: Foster community in counsellor education through student organizations, common space, collegial feedback, and rewards for mutual support
 description: The Community component holds that developing counsellor skills within a supportive community can normalize and enhance the integration of new behaviours, attitudes, and perspectives.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

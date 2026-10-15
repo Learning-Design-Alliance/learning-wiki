@@ -3,7 +3,7 @@ type: claim
 title: In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks
 description: In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks
 id: rashotte-2001-spellread-significant-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

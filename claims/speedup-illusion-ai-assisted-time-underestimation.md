@@ -3,7 +3,7 @@ type: claim
 title: People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)
 description: People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)
 id: speedup-illusion-ai-assisted-time-underestimation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

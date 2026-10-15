@@ -3,7 +3,7 @@ type: claim
 title: Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write
 description: Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write
 id: teacher-planning-time-needed-for-mi-write-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

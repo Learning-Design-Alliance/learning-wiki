@@ -3,7 +3,7 @@ type: claim
 title: Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)
 description: Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)
 id: pairing-language-interaction-nom-l2-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

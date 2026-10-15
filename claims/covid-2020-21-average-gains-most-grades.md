@@ -3,7 +3,7 @@ type: claim
 title: On average, students across most grades made reading and math gains during the 2020-21 pandemic-affected school year
 description: On average, students across most grades made reading and math gains during the 2020-21 pandemic-affected school year
 id: covid-2020-21-average-gains-most-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

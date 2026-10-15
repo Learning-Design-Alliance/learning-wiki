@@ -3,7 +3,7 @@ type: strategy
 id: human-review-of-llm-ttx-assessment
 title: Be cautious with LLM-based TTX assessment and have a human instructor review automated outputs
 description: Based on their findings that general-purpose LLMs sometimes failed to recognize nuances in the domain-specific TTX context even when guided by a standardized rubric, the authors recommend caution about LLM-based asses...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

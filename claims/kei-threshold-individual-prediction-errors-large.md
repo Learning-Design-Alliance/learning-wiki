@@ -3,7 +3,7 @@ type: claim
 title: "The KEI threshold was accurate for the cohort despite large individual-level prediction errors (53% of proficient and 73% of non-proficient students correctly classified)"
 description: "The KEI threshold was accurate for the cohort despite large individual-level prediction errors (53% of proficient and 73% of non-proficient students correctly classified)"
 id: kei-threshold-individual-prediction-errors-large
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: Automaticity-frees-attention account of transcription skills in early literacy
 description: This account holds that achieving automaticity in low-level transcription skills frees attentional resources for higher-level processes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

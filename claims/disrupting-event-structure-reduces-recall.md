@@ -3,7 +3,7 @@ type: claim
 title: Disrupting the event structure of dynamic visualizations — deleting event boundaries or inserting commercials between boundaries — reduces recall of the depicted events
 description: Disrupting the event structure of dynamic visualizations — deleting event boundaries or inserting commercials between boundaries — reduces recall of the depicted events
 id: disrupting-event-structure-reduces-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

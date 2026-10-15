@@ -3,7 +3,7 @@ type: claim
 title: "A scholar identifies children's acquisition of appropriate critical thinking skills as the determining element of MLE quality in elementary schools"
 description: "A scholar identifies children's acquisition of appropriate critical thinking skills as the determining element of MLE quality in elementary schools"
 id: critical-thinking-quality-mle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

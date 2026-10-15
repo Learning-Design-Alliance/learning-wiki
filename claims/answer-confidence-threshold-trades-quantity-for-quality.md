@@ -3,7 +3,7 @@ type: claim
 title: Raising the answer-confidence threshold reduces the number of retained MCQs but substantially improves their quality
 description: Raising the answer-confidence threshold reduces the number of retained MCQs but substantially improves their quality
 id: answer-confidence-threshold-trades-quantity-for-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

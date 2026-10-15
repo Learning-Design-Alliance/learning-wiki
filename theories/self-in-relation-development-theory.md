@@ -2,7 +2,7 @@
 type: theory
 title: "Self-in-relation: development as growth within relationship rather than toward individuation"
 description: "Drawn from the Stone Center writers (Jordan, Kaplan, Miller, Stiver & Surrey), this account holds that maturation is \"an evolutionary process of development through relationship.\" The authors contrast it with the trad..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

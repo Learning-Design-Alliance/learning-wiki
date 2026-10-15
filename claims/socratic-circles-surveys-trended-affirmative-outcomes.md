@@ -3,7 +3,7 @@ type: claim
 title: Post-implementation survey responses after each Socratic Circles implementation cycle trended affirmative toward the team-defined outcomes
 description: Post-implementation survey responses after each Socratic Circles implementation cycle trended affirmative toward the team-defined outcomes
 id: socratic-circles-surveys-trended-affirmative-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

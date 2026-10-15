@@ -3,7 +3,7 @@ type: claim
 title: "SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)"
 description: SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)
 id: swpbis-reduces-concentration-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

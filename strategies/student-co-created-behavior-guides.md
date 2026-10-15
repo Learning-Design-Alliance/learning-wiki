@@ -3,7 +3,7 @@ type: strategy
 id: student-co-created-behavior-guides
 title: Student-co-created acceptable/unacceptable behavior guides for conflict management
 description: This strategy has students brainstorm and compile lists of unacceptable and acceptable methods of solving conflict, which are discussed, narrowed down, and typed up as a class behavioral guide.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

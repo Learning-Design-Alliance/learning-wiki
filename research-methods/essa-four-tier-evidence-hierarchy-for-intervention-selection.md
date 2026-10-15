@@ -3,7 +3,7 @@ type: research-method
 id: essa-four-tier-evidence-hierarchy-for-intervention-selection
 title: ESSA four-tier evidence hierarchy for intervention selection
 description: "The guide explains that \"ESSA defines four levels of evidence\" as elaborated in the U.S."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

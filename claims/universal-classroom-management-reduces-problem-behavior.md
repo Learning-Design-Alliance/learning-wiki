@@ -4,7 +4,7 @@ title: "Teachers' universal classroom management practices significantly reduce 
 description: "Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)"
 id: universal-classroom-management-reduces-problem-behavior
 aliases: [treatment-classrooms-less-disruptive-than-control]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

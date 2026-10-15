@@ -3,7 +3,7 @@ type: claim
 title: Houston magnet schools outperformed district schools in reading but not in math in 2018-19
 description: Houston magnet schools outperformed district schools in reading but not in math in 2018-19
 id: houston-magnet-reading-advantage-not-math-2018-19
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

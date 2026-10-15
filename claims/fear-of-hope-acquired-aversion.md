@@ -3,7 +3,7 @@ type: claim
 title: "Fear of hope: an acquired aversion to feeling hopeful due to anticipated disappointment may block hopeful engagement"
 description: "Fear of hope: an acquired aversion to feeling hopeful due to anticipated disappointment may block hopeful engagement"
 id: fear-of-hope-acquired-aversion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: DL2F aligns with social and cognitive constructivist theories of learning
 description: DL2F aligns with social and cognitive constructivist theories of learning
 id: dl2f-constructivist-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

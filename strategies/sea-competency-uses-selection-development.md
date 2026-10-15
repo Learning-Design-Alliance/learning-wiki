@@ -3,7 +3,7 @@ type: strategy
 id: sea-competency-uses-selection-development
 title: SEAs can use turnaround competencies and BEIs across selection, mentor matching, supervisor coaching, and leader pipelines
 description: The brief reports several state uses of turnaround leadership competencies — training entire school leadership teams, competency-aligned professional development, and exploring a micro-credential — and Robinson recomm...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

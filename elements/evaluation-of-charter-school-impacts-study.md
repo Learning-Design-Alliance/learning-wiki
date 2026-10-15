@@ -3,7 +3,7 @@ type: element
 id: evaluation-of-charter-school-impacts-study
 title: Large-scale experimental evaluation of charter middle schools (Gleason et al., 2010)
 description: "A federal evaluation described as \"the largest charter school study of its kind to date to use an experimental design\", conducted by Mathematica for the U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

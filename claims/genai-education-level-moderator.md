@@ -3,7 +3,7 @@ type: claim
 title: "Educational level does not significantly moderate Gen-AI's effect on HOT, though K-12 subgroups show a larger effect (ES = 0.857) than post-secondary (ES = 0.539)"
 description: "Educational level does not significantly moderate Gen-AI's effect on HOT, though K-12 subgroups show a larger effect (ES = 0.857) than post-secondary (ES = 0.539)"
 id: genai-education-level-moderator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Retrofitting an AIAS level to an unchanged assessment task creates a validity risk in which the assessment measures use of the scale rather than intended learning outcomes
 description: Retrofitting an AIAS level to an unchanged assessment task creates a validity risk in which the assessment measures use of the scale rather than intended learning outcomes
 id: aias-retrofit-validity-risk-compliance-layer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

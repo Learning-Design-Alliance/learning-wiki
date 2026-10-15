@@ -3,7 +3,7 @@ type: claim
 title: Most students reported no change in study habits, but students who adapted their study strategies rated GenAI-evaluation assignments as significantly more helpful
 description: Most students reported no change in study habits, but students who adapted their study strategies rated GenAI-evaluation assignments as significantly more helpful
 id: study-habit-adapters-rate-genai-grading-helpful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

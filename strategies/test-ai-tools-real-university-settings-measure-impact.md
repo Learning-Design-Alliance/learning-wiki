@@ -3,7 +3,7 @@ type: strategy
 id: test-ai-tools-real-university-settings-measure-impact
 title: Prioritize real-world testing of AI tools in university settings, environmental impact measurement, and integrated ethical-sustainability policies
 description: "The review's forward-looking recommendation is that future research move beyond conceptual and pilot work by testing AI tools in real university settings, measuring their environmental impact, and developing policies..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

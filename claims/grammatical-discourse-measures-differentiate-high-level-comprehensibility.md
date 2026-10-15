@@ -3,7 +3,7 @@ type: claim
 title: "Grammatical and discourse-level measures differentiate between high-level L2 learners' comprehensibility"
 description: "Grammatical and discourse-level measures differentiate between high-level L2 learners' comprehensibility"
 id: grammatical-discourse-measures-differentiate-high-level-comprehensibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

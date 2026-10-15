@@ -3,7 +3,7 @@ type: claim
 title: "Automated verification of AI-drafted content produced mixed results: strong accuracy and integrity scores but only 5 of 10 chapters meeting the pedagogical-progression bar"
 description: "Automated verification of AI-drafted content produced mixed results: strong accuracy and integrity scores but only 5 of 10 chapters meeting the pedagogical-progression bar"
 id: verification-layer-one-mixed-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

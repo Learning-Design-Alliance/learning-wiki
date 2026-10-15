@@ -3,7 +3,7 @@ type: claim
 title: Automated essay scoring can achieve high agreement with human raters but faces calibration constraints
 description: Automated essay scoring can achieve high agreement with human raters but faces calibration constraints
 id: aes-high-agreement-calibration-constraint
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

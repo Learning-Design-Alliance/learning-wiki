@@ -3,7 +3,7 @@ type: claim
 title: The WWC rated DaisyQuest as having positive effects on phonological processing, its highest applicable rating
 description: The WWC rated DaisyQuest as having positive effects on phonological processing, its highest applicable rating
 id: wwc-positive-effects-rating-daisyquest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

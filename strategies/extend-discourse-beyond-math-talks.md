@@ -3,7 +3,7 @@ type: strategy
 id: extend-discourse-beyond-math-talks
 title: Extend rich student discourse beyond Math Talks and use participation structures and story problems to broaden access and sense-making
 description: "The report's recommendations for teachers and professional development designers include building on Math Talks by \"extending rich student discourse and ownership of ideas into the remainder of the lesson,\" planning s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

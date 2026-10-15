@@ -3,7 +3,7 @@ type: claim
 title: Understanding kindergarten expectations and acquiring tools to support children at home were especially beneficial for families without prior preschool or structured school experience
 description: Understanding kindergarten expectations and acquiring tools to support children at home were especially beneficial for families without prior preschool or structured school experience
 id: transition-program-benefits-families-without-preschool-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

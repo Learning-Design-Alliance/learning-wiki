@@ -3,7 +3,7 @@ type: claim
 title: In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis
 description: In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis
 id: social-proof-verification-collapse-cascade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

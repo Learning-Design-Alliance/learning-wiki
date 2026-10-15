@@ -3,7 +3,7 @@ type: claim
 title: Gains from verified AI materials are concentrated in the bottom quintile, which accounts for roughly three-quarters of the average effect
 description: Gains from verified AI materials are concentrated in the bottom quintile, which accounts for roughly three-quarters of the average effect
 id: gains-bottom-quintile-verified-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

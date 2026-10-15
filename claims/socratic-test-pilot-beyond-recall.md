@@ -3,7 +3,7 @@ type: claim
 title: Pilot students reported the conversational format forced explanation of reasoning, with a majority agreeing it combats rote memorization
 description: Pilot students reported the conversational format forced explanation of reasoning, with a majority agreeing it combats rote memorization
 id: socratic-test-pilot-beyond-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

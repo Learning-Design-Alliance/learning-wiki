@@ -3,7 +3,7 @@ type: strategy
 id: three-evidence-review-points-strategy
 title: "Review evidence of learning at three points: before, during, and after the lesson"
 description: "The brief identifies three critical opportunities for the teacher to review and act on evidence of learning: during planning, when the teacher reviews evidence from past lessons to select texts students can comprehend..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

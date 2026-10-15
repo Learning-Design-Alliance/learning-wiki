@@ -3,7 +3,7 @@ type: claim
 title: Data construction can embed social values and patterns of privilege into data itself, perpetuating testimonial injustice
 description: Data construction can embed social values and patterns of privilege into data itself, perpetuating testimonial injustice
 id: data-construction-embeds-privilege-in-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

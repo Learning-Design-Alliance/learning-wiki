@@ -3,7 +3,7 @@ type: claim
 title: Ever-below-benchmark rates differed sharply between top- and bottom-quartile grantee schools on high-need concentration, preschool attendance, discipline, attendance, and mobility
 description: Ever-below-benchmark rates differed sharply between top- and bottom-quartile grantee schools on high-need concentration, preschool attendance, discipline, attendance, and mobility
 id: school-characteristic-quartile-benchmark-percentages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection
 description: Community college students hold concrete quality criteria for edtech, including evidence of claims, accessibility, and peer and faculty connection
 id: ccc-students-concrete-edtech-quality-criteria
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

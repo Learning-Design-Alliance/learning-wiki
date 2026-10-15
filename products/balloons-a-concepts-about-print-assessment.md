@@ -4,7 +4,7 @@ id: balloons-a-concepts-about-print-assessment
 title: "Balloons: A Concepts About Print Assessment"
 description: "A locally constructed, criterion-referenced 17-item assessment in the Kindergarten Assessment Portfolio used by program teachers to measure kindergarten pupils' concepts about print."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

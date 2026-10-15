@@ -3,7 +3,7 @@ type: claim
 title: "Iterative generate-then-refine with multi-axis critiques raises the share of usable generated simulations from 3.5% after first generation to 69.3% after 10 improvement rounds"
 description: "Iterative generate-then-refine with multi-axis critiques raises the share of usable generated simulations from 3.5% after first generation to 69.3% after 10 improvement rounds"
 id: generate-then-refine-raises-usable-simulations-3-5-to-69-3
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

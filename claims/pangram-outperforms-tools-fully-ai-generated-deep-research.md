@@ -3,7 +3,7 @@ type: claim
 title: "On fully AI-generated papers produced with ChatGPT Deep Research, Pangram achieved 65% strict accuracy while Turnitin, GPTZero and Copyleaks classified essentially all papers as false negatives"
 description: "On fully AI-generated papers produced with ChatGPT Deep Research, Pangram achieved 65% strict accuracy while Turnitin, GPTZero and Copyleaks classified essentially all papers as false negatives"
 id: pangram-outperforms-tools-fully-ai-generated-deep-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

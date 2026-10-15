@@ -4,7 +4,7 @@ title: Comprehensive teacher induction generated no significant improvements in 
 description: Comprehensive teacher induction generated no significant improvements in student achievement in the first year
 id: comprehensive-induction-no-student-achievement-gains-first-year
 aliases: [one-year-induction-no-impact, teacher-induction-no-achievement-gains-year-1]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: independent-investigation-of-test-validity
 title: Commission independent government investigations of whether high-impact tests predict what they are supposed to
 description: Testimony at the hearing recommends that Congress direct the Department of Education to audit the predictive validity of standardized tests that have major impacts on students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

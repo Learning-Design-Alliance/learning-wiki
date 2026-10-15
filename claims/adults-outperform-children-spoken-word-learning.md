@@ -3,7 +3,7 @@ type: claim
 title: Adult (university) participants outperform kindergarten/elementary children in incidental spoken L2 word learning
 description: Adult (university) participants outperform kindergarten/elementary children in incidental spoken L2 word learning
 id: adults-outperform-children-spoken-word-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

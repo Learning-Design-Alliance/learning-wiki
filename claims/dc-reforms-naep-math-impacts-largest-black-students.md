@@ -3,7 +3,7 @@ type: claim
 title: Impacts of the DC reforms on NAEP math scores were largest for Black students
 description: Impacts of the DC reforms on NAEP math scores were largest for Black students
 id: dc-reforms-naep-math-impacts-largest-black-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

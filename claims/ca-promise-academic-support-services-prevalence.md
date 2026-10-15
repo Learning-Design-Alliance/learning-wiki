@@ -3,7 +3,7 @@ type: claim
 title: Nearly all California College Promise programs pair financial aid with academic counseling, career counseling, and summer bridge supports
 description: Nearly all California College Promise programs pair financial aid with academic counseling, career counseling, and summer bridge supports
 id: ca-promise-academic-support-services-prevalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

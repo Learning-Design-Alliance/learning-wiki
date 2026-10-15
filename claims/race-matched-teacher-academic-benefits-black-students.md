@@ -3,7 +3,7 @@ type: claim
 title: Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students
 description: Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students
 id: race-matched-teacher-academic-benefits-black-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

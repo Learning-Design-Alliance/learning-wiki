@@ -3,7 +3,7 @@ type: strategy
 id: brief-daily-wellbeing-check-ins
 title: Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection
 description: The report describes small, embedded moments of wellbeing focus throughout the school day as a low-cost strategy with outsized impact.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

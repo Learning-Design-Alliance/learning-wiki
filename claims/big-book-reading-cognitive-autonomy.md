@@ -3,7 +3,7 @@ type: claim
 title: "In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries"
 description: "In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries"
 id: big-book-reading-cognitive-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

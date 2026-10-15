@@ -3,7 +3,7 @@ type: claim
 title: Parallel analysis yields different factor counts for humans and LLMs on both instruments
 description: Parallel analysis yields different factor counts for humans and LLMs on both instruments
 id: parallel-analysis-factor-retention-differs-humans-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

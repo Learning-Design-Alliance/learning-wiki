@@ -4,7 +4,7 @@ id: large-scale-field-study-dataset-and-code-release-for-ai-generated-exam-evalu
 title: Large-scale field study dataset and code release for AI-generated exam evaluation
 description: A publicly released dataset and code package containing field-study student responses, AI-generated and comparison exam materials, and analysis code for evaluating course-tailored exams, produced by Calvin Isley and colleagues.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

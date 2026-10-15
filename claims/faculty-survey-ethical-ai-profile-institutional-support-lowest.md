@@ -3,7 +3,7 @@ type: claim
 title: Faculty members rate equality, inclusiveness, and justice highest and institutional support lowest, with adequacy of institutional guidelines the lowest-rated item
 description: Faculty members rate equality, inclusiveness, and justice highest and institutional support lowest, with adequacy of institutional guidelines the lowest-rated item
 id: faculty-survey-ethical-ai-profile-institutional-support-lowest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

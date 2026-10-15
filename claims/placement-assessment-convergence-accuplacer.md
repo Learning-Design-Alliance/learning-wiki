@@ -3,7 +3,7 @@ type: claim
 title: "California community colleges' placement assessments converge on a few common instruments, with ACCUPLACER most common in mathematics and English"
 description: "California community colleges' placement assessments converge on a few common instruments, with ACCUPLACER most common in mathematics and English"
 id: placement-assessment-convergence-accuplacer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

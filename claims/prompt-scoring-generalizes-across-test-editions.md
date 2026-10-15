@@ -3,7 +3,7 @@ type: claim
 title: "Prompt-based scoring prompts developed on one year's test generalize to the next year's edition with only minor adjustments"
 description: "Prompt-based scoring prompts developed on one year's test generalize to the next year's edition with only minor adjustments"
 id: prompt-scoring-generalizes-across-test-editions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

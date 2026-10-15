@@ -3,7 +3,7 @@ type: claim
 title: Kindergarten test scores from more than 400,000 U.S. students contain patterns that can predict academic success or identify students at risk of falling further behind by third grade
 description: Kindergarten test scores from more than 400,000 U.S.
 id: kindergarten-scores-predict-third-grade-trajectories-400000-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

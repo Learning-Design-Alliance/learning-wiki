@@ -3,7 +3,7 @@ type: claim
 title: All dimensions of perceived learning outcomes differ significantly across major categories, with Education, Food/Pharmaceuticals and Transportation students scoring higher than Civil Engineering, Biology/Chemical and Electronics students
 description: All dimensions of perceived learning outcomes differ significantly across major categories, with Education, Food/Pharmaceuticals and Transportation students scoring higher than Civil Engineering, Biology/Chemical and...
 id: major-category-differences-perceived-learning-outcomes-vocational
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

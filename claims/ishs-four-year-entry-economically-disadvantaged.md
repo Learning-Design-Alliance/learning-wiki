@@ -3,7 +3,7 @@ type: claim
 title: ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall
 description: ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall
 id: ishs-four-year-entry-economically-disadvantaged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

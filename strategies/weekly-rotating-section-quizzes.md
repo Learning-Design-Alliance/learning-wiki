@@ -3,7 +3,7 @@ type: strategy
 id: weekly-rotating-section-quizzes
 title: Administer short weekly conceptual quizzes to rotating section subgroups to track understanding across a term
 description: "A concrete implementation of the between-student method: different sections complete the same short conceptual quiz in different weeks, with quiz order randomly assigned and quizzes administered at the beginning of cl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Most Pennsylvania students were in LEAs that prioritized students with disabilities for in-person instruction, and the pandemic made special education services harder to provide
 description: Most Pennsylvania students were in LEAs that prioritized students with disabilities for in-person instruction, and the pandemic made special education services harder to provide
 id: pa-leas-prioritized-disabilities-in-person
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

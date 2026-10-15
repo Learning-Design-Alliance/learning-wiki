@@ -3,7 +3,7 @@ type: claim
 title: CHSRI freshmen were absent about 10 fewer days per year than similar students at similar non-CHSRI schools, a statistically significant gap in every year studied
 description: CHSRI freshmen were absent about 10 fewer days per year than similar students at similar non-CHSRI schools, a statistically significant gap in every year studied
 id: chsri-freshmen-fewer-absences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

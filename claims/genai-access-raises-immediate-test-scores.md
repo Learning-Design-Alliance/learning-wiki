@@ -3,7 +3,7 @@ type: claim
 title: AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase
 description: AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase
 id: genai-access-raises-immediate-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

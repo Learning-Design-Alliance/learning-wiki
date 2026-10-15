@@ -3,7 +3,7 @@ type: claim
 title: Editors observe GenAI has improved surface correctness of manuscripts and increased submissions, but this does not lead to better research quality
 description: Editors observe GenAI has improved surface correctness of manuscripts and increased submissions, but this does not lead to better research quality
 id: genai-surface-quality-submission-quantity-not-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

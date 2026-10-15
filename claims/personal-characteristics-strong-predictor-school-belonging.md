@@ -3,7 +3,7 @@ type: claim
 title: Positive personal characteristics are among the strongest predictors of school belonging
 description: Positive personal characteristics are among the strongest predictors of school belonging
 id: personal-characteristics-strong-predictor-school-belonging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

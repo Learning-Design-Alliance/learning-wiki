@@ -3,7 +3,7 @@ type: design
 id: spoke-and-wheel-teaching-architecture-itas
 title: "Spoke-and-Wheel teaching architecture: three quantum-specialist agents in parallel coordinated by a Synthesizer"
 description: "ITAS's teaching architecture decomposes tutoring by task: three specialist agents (Video, Guidance, Code) analyze each student question in parallel, each reasoning only within its designated scope, and a Synthesizer A..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

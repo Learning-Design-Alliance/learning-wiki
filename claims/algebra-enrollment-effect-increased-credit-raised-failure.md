@@ -3,7 +3,7 @@ type: claim
 title: Taking Algebra I instead of remedial math increased algebra credit earning but raised failure rates and lowered grades for low- and average-ability students, with no test-score benefit
 description: Taking Algebra I instead of remedial math increased algebra credit earning but raised failure rates and lowered grades for low- and average-ability students, with no test-score benefit
 id: algebra-enrollment-effect-increased-credit-raised-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

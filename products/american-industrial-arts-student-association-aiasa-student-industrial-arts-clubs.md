@@ -4,7 +4,7 @@ id: american-industrial-arts-student-association-aiasa-student-industrial-arts-c
 title: American Industrial Arts Student Association (AIASA) student industrial arts clubs
 description: A national student-club programme organized by the American Industrial Arts Association to familiarize students with industrial and technical fields through tours, club activities, and leadership conferences.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

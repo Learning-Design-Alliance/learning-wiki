@@ -3,7 +3,7 @@ type: element
 id: uchicago-consortium-2001-high-school-reform-volume
 title: UChicago Consortium 2001 conference and edited volume on Chicago high school reform efforts
 description: "An edited volume produced from the conference \"Research on High School Reform Efforts in Chicago,\" held at the University of Chicago's Gleacher Center in March 2001."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

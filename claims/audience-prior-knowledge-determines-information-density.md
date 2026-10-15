@@ -3,7 +3,7 @@ type: claim
 title: "The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background"
 description: "The prior knowledge of the intended audience determines a text's information density, rate of new information, and accompanying background"
 id: audience-prior-knowledge-determines-information-density
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

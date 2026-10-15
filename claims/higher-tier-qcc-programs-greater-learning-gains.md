@@ -3,7 +3,7 @@ type: claim
 title: Children in Tier 4 and Tier 5 preschool programs gained more learning and development from fall to spring than children in Tier 3 programs
 description: Children in Tier 4 and Tier 5 preschool programs gained more learning and development from fall to spring than children in Tier 3 programs
 id: higher-tier-qcc-programs-greater-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
@@ -30,7 +30,7 @@ sources:
 
 ### Sussman 2022
 
-Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute.
+Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute. https://learningpolicyinstitute.org/product/california-preschool-quality-ratings
 
 `q3 · i1` · `associational · r2`
 

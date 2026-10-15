@@ -3,7 +3,7 @@ type: claim
 title: Lowest-income schools show more variable growth than highest-income schools, with more schools both below the 50th and above the 82nd growth percentile
 description: Lowest-income schools show more variable growth than highest-income schools, with more schools both below the 50th and above the 82nd growth percentile
 id: lowest-income-schools-more-variable-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

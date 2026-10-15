@@ -3,7 +3,7 @@ type: claim
 title: Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group
 description: Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group
 id: genai-geometry-within-group-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

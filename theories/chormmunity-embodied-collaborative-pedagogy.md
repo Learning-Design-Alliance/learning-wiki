@@ -2,7 +2,7 @@
 type: theory
 title: "Chormmunity: collaborative embodied text-making as liberatory pedagogy"
 description: "Chormmunity is a group pedagogy in which participants co-create a movement text or ritual as an embodied 'document' of meaning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "College students who study integrated annotated illustrations alongside science text generate approximately 50% more creative solutions on transfer problems than students who view the same illustrations separately after reading"
 description: "College students who study integrated annotated illustrations alongside science text generate approximately 50% more creative solutions on transfer problems than students who view the same illustrations separately aft..."
 id: integrated-illustrations-increase-creative-transfer-solutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

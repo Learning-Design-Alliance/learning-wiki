@@ -3,7 +3,7 @@ type: claim
 title: IB DP students who attended four-year colleges were significantly more likely to persist in college for at least two years
 description: IB DP students who attended four-year colleges were significantly more likely to persist in college for at least two years
 id: ib-dp-increases-two-year-college-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

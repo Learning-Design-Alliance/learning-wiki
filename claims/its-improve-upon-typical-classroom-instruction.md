@@ -3,7 +3,7 @@ type: claim
 title: Intelligent tutoring systems have been shown to improve upon typical classroom instruction
 description: Intelligent tutoring systems have been shown to improve upon typical classroom instruction
 id: its-improve-upon-typical-classroom-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

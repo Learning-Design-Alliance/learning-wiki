@@ -2,7 +2,7 @@
 type: theory
 title: STRP five-phase professional development model
 description: "STRP is grounded in a five-phase professional development model whose phases the article enumerates as \"building a knowledge base, observing models and examples, reflecting on your own practice, changing your practice..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -4,7 +4,7 @@ id: sails
 title: SAILS
 description: SAILS is a computer-based senior-year remedial mathematics curriculum and programme operated through Tennessee’s secondary–postsecondary education system to help students complete college-level math requirements before enrollment.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

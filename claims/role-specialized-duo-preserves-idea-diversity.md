@@ -3,7 +3,7 @@ type: claim
 title: Single-LLM writing assistance increased idea-level homogenization across writers, while a role-specialized duo of architecturally distinct LLMs preserved baseline diversity
 description: Single-LLM writing assistance increased idea-level homogenization across writers, while a role-specialized duo of architecturally distinct LLMs preserved baseline diversity
 id: role-specialized-duo-preserves-idea-diversity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

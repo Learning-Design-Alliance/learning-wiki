@@ -3,7 +3,7 @@ type: strategy
 id: cris-cycle-of-inquiry-six-stages
 title: Six-stage cycle of inquiry connecting indicators to supports
 description: The cycle of inquiry is the mechanism that connects indicators with supports in the CRIS framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

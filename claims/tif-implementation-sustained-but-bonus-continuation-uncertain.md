@@ -3,7 +3,7 @@ type: claim
 title: Districts implemented most components of the performance-based compensation system throughout all four years, but fewer than half planned to keep offering performance bonuses once the grant ended
 description: Districts implemented most components of the performance-based compensation system throughout all four years, but fewer than half planned to keep offering performance bonuses once the grant ended
 id: tif-implementation-sustained-but-bonus-continuation-uncertain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

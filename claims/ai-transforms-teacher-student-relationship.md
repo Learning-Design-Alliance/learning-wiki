@@ -3,7 +3,7 @@ type: claim
 title: AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic
 description: AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic
 id: ai-transforms-teacher-student-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

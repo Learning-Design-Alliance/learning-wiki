@@ -3,7 +3,7 @@ type: claim
 title: Adding student-emotion information to LLM tutor prompting produces more desirable pedagogical qualities across most evaluated dimensions, with larger models benefiting most
 description: Adding student-emotion information to LLM tutor prompting produces more desirable pedagogical qualities across most evaluated dimensions, with larger models benefiting most
 id: emotion-aware-prompting-improves-pedagogical-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

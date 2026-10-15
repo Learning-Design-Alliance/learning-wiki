@@ -3,7 +3,7 @@ type: claim
 title: Generated hypotheses discriminate hard from easy questions, mostly with medium-to-large effects
 description: Generated hypotheses discriminate hard from easy questions, mostly with medium-to-large effects
 id: hypotheses-discriminate-difficulty-effect-sizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

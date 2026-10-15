@@ -3,7 +3,7 @@ type: design
 id: powerful-learning-principles-studio
 title: "Powerful learning principles: personal and accessible, authentic and challenging, collaborative and connected, inquisitive and reflective"
 description: "The paper defines powerful learning as \"a set of principles that guide educators to design learning experiences that meaningfully engage students\": \"personal and accessible, authentic and challenging, collaborative an..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

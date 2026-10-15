@@ -3,7 +3,7 @@ type: claim
 title: "No clear evidence that Medly's effect differed by Pupil Premium disadvantage status"
 description: "No clear evidence that Medly's effect differed by Pupil Premium disadvantage status"
 id: medly-no-differential-impact-pupil-premium
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

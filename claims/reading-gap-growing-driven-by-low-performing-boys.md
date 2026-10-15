@@ -3,7 +3,7 @@ type: claim
 title: The reading sex difference favoring girls grew over the decade and was driven by very poor performance of boys at the low end
 description: The reading sex difference favoring girls grew over the decade and was driven by very poor performance of boys at the low end
 id: reading-gap-growing-driven-by-low-performing-boys
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

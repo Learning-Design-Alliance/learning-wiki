@@ -3,7 +3,7 @@ type: claim
 title: Prompt injection attacks on agents (OpenClaw walletdrain, EchoLeak) bypass the user entirely, and no public AI literacy curriculum addresses this vector
 description: Prompt injection attacks on agents (OpenClaw walletdrain, EchoLeak) bypass the user entirely, and no public AI literacy curriculum addresses this vector
 id: prompt-injection-attacks-bypass-user-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Scenarios depict AI systems monitoring and scaffolding students' socially shared regulation of learning during collaborative lessons"
 description: "Scenarios depict AI systems monitoring and scaffolding students' socially shared regulation of learning during collaborative lessons"
 id: ai-monitors-socially-shared-regulation-scenarios
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

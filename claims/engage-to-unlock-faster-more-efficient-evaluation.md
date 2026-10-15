@@ -3,7 +3,7 @@ type: claim
 title: Engage-to-Unlock participants completed passage evaluation faster and with higher accuracy-per-time efficiency than both AI-access comparison conditions
 description: Engage-to-Unlock participants completed passage evaluation faster and with higher accuracy-per-time efficiency than both AI-access comparison conditions
 id: engage-to-unlock-faster-more-efficient-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

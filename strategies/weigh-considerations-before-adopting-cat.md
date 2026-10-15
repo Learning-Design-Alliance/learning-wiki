@@ -3,7 +3,7 @@ type: strategy
 id: weigh-considerations-before-adopting-cat
 title: Weigh stated considerations before adopting computerized adaptive testing
 description: "The publication is framed as guidance for education agencies considering computerized adaptive testing: its title, \"Measuring Up: Considerations for Adopting Computerized Adaptive Testing\", signals that adoption decis..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

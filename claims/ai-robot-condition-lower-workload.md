@@ -3,7 +3,7 @@ type: claim
 title: The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX
 description: The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX
 id: ai-robot-condition-lower-workload
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

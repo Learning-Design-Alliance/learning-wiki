@@ -3,7 +3,7 @@ type: claim
 title: Person-oriented classification predicted days absent significantly better than categorical, with no method differences for days tardy
 description: Person-oriented classification predicted days absent significantly better than categorical, with no method differences for days tardy
 id: person-oriented-predicts-absence-better-than-categorical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

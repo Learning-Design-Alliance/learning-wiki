@@ -3,7 +3,7 @@ type: claim
 title: Implementing restorative justice in schools requires staff time, buy-in, training, and resources beyond traditional sanctions, with full climate shifts estimated to take three to five years
 description: Implementing restorative justice in schools requires staff time, buy-in, training, and resources beyond traditional sanctions, with full climate shifts estimated to take three to five years
 id: rj-implementation-demands-and-timeline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

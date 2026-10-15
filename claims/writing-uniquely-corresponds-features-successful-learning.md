@@ -3,7 +3,7 @@ type: claim
 title: Writing is presented as uniquely corresponding to the features of successful learning
 description: Writing is presented as uniquely corresponding to the features of successful learning
 id: writing-uniquely-corresponds-features-successful-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

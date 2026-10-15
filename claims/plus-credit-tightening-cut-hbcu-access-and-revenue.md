@@ -3,7 +3,7 @@ type: claim
 title: The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million
 description: The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million
 id: plus-credit-tightening-cut-hbcu-access-and-revenue
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

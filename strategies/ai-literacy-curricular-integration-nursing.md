@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-curricular-integration-nursing
 title: Integrate AI into nursing curricula through AI-supported case discussions, structured clinical learning activities, and AI literacy training tailored to user groups
 description: The article recommends that nursing curricula address specific educational needs rather than general technology use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

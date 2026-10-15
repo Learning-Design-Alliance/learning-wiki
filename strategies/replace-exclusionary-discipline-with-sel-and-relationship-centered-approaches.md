@@ -3,7 +3,7 @@ type: strategy
 id: replace-exclusionary-discipline-with-sel-and-relationship-centered-approaches
 title: Replace exclusionary discipline for low-level offenses with social-emotional skill teaching, educator supports, implicit-bias training, and relationship-centered schools
 description: "The report recommends a package of evidence-based alternatives to zero-tolerance discipline: \"Replacing zero-tolerance policies and the use of suspensions and expulsions for low-level offenses with strategies that tea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

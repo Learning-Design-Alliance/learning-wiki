@@ -3,7 +3,7 @@ type: claim
 title: "The M&E Plan Template promotes continuity across funders' portfolios, enabling streamlined review and cross-solution comparisons"
 description: "The M&E Plan Template promotes continuity across funders' portfolios, enabling streamlined review and cross-solution comparisons"
 id: me-template-promotes-cross-solution-continuity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

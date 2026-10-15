@@ -3,7 +3,7 @@ type: claim
 title: The review reports AI curriculum-design tools identify learning gaps and equity-analysis tools examine differential policy impacts on student populations
 description: The review reports AI curriculum-design tools identify learning gaps and equity-analysis tools examine differential policy impacts on student populations
 id: ai-teaching-enhancement-and-equity-analysis-reported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

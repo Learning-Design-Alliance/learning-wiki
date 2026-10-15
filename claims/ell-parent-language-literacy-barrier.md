@@ -3,7 +3,7 @@ type: claim
 title: Limited English fluency and low native-language literacy among parents hinder school communication in ELL communities
 description: Limited English fluency and low native-language literacy among parents hinder school communication in ELL communities
 id: ell-parent-language-literacy-barrier
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

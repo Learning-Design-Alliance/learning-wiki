@@ -3,7 +3,7 @@ type: strategy
 id: explicit-prompts-group-processes-pbl
 title: Give students explicit prompts to think about group processes during PBL
 description: Because students in this study made minimal reference to higher-level cognitive or metacognitive benefits of group work, the authors suggest that students need explicit prompts to trigger their thinking about group pr...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

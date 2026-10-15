@@ -3,7 +3,7 @@ type: claim
 title: "Student LLM usage patterns varied across data science courses: Course-BD showed the highest frequency and over-reliance with near-zero perceived learning effect"
 description: "Student LLM usage patterns varied across data science courses: Course-BD showed the highest frequency and over-reliance with near-zero perceived learning effect"
 id: llm-usage-varied-across-data-science-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

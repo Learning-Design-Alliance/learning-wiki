@@ -3,7 +3,7 @@ type: claim
 title: Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study
 description: Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study
 id: adaptive-retrieval-posttest-retention-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

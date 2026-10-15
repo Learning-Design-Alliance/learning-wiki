@@ -3,7 +3,7 @@ type: strategy
 id: basie-framework-interpret-impact-estimates
 title: Use the BASIE framework to interpret impact estimates from evaluations
 description: "The BASIE (BAyeSian Interpretation of Estimates) framework is Deke's recommended approach for researchers drawing inferences about causal relationships from impact evaluations."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

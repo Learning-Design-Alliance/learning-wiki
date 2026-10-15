@@ -3,7 +3,7 @@ type: research-method
 id: partial-credit-method
 title: Partial Credit Method
 description: The Partial Credit Method is one of three methods the article proposes for estimating teacher value added when students are co-taught.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

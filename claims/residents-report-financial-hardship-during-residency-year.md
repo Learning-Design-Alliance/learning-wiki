@@ -3,7 +3,7 @@ type: claim
 title: A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity
 description: A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity
 id: residents-report-financial-hardship-during-residency-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

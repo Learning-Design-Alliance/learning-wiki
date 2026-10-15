@@ -3,7 +3,7 @@ type: claim
 title: Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission
 description: Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission
 id: mead-education-as-mechanism-of-social-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

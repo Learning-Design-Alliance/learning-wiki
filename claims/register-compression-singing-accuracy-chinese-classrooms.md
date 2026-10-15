@@ -3,7 +3,7 @@ type: claim
 title: Low-register pitches are sung more accurately than high-register pitches in Chinese classrooms, reproducing register compression at scale
 description: Low-register pitches are sung more accurately than high-register pitches in Chinese classrooms, reproducing register compression at scale
 id: register-compression-singing-accuracy-chinese-classrooms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

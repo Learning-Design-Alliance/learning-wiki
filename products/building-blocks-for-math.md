@@ -4,7 +4,7 @@ id: building-blocks-for-math
 title: Building Blocks for Math
 description: "A preschool mathematics curriculum from SRA Real Math that sequences instruction and software tasks along empirically based learning trajectories linking children's informal mathematical knowledge to formal concepts."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

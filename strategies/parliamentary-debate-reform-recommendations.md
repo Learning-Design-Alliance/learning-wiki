@@ -3,7 +3,7 @@ type: strategy
 id: parliamentary-debate-reform-recommendations
 title: Eight reforms for improving parliamentary debate as educational debate
 description: "The paper closes with concrete proposals for improving parliamentary debate as \"a viable exercise in educational debate\": formalize topic writing, allow research in debate rounds, promote scholarship about parliamenta..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

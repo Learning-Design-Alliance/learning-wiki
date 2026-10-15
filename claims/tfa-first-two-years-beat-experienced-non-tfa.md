@@ -3,7 +3,7 @@ type: claim
 title: TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools
 description: TFA teachers in their first two years of teaching are more effective than more experienced non-TFA teachers in the same schools
 id: tfa-first-two-years-beat-experienced-non-tfa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

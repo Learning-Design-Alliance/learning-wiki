@@ -3,7 +3,7 @@ type: claim
 title: "UCSMP Algebra shows mixed effects on the algebra domain: one study finds a statistically significant positive effect and one finds an indeterminate effect"
 description: "UCSMP Algebra shows mixed effects on the algebra domain: one study finds a statistically significant positive effect and one finds an indeterminate effect"
 id: ucsmp-algebra-mixed-algebra-domain-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

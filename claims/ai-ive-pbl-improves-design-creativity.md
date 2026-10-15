@@ -3,7 +3,7 @@ type: claim
 title: "Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability"
 description: "Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability"
 id: ai-ive-pbl-improves-design-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

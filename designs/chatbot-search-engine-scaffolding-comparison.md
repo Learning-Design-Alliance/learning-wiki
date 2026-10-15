@@ -3,7 +3,7 @@ type: design
 id: chatbot-search-engine-scaffolding-comparison
 title: Scaffolding-perspective comparison of chatbots and search engines as technological scaffolds for problem posing
 description: The article frames chatbots and search engines as two distinct forms of technological scaffolding for problem-based inquiry, taking interaction mode as its entry point.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -4,7 +4,7 @@ title: Average impacts of KIPP middle schools were positive and statistically si
 description: Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years
 id: kipp-middle-impacts-positive-throughout-higher-earlier-years
 aliases: [kipp-middle-impacts-higher-earlier-years]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

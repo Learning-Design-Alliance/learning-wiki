@@ -3,7 +3,7 @@ type: strategy
 id: instructor-strategy-chatbots-goal-setting-social-presence
 title: Instructors apply chatbots to support goal setting and social presence in fully online activities
 description: "The authors offer instructors practical suggestions for applying chatbots in teaching and learning, derived from the two studies: “We also provided suggestions for instructors to apply chatbots in teaching and learnin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

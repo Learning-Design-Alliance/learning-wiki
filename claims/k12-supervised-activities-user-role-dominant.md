@@ -3,7 +3,7 @@ type: claim
 title: Of 89 coded supervised learning activities, 69 confine learners to the User role, 17 reach Creator, and 8 reach Machine
 description: Of 89 coded supervised learning activities, 69 confine learners to the User role, 17 reach Creator, and 8 reach Machine
 id: k12-supervised-activities-user-role-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

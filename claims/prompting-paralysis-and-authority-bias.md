@@ -3,7 +3,7 @@ type: claim
 title: Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy
 description: Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy
 id: prompting-paralysis-and-authority-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

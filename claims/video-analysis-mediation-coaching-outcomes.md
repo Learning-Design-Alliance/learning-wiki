@@ -3,7 +3,7 @@ type: claim
 title: Video-based analysis of teacher-student interactions mediates positive coaching outcomes, and challenging teachers supports reflection but is uncommon
 description: Video-based analysis of teacher-student interactions mediates positive coaching outcomes, and challenging teachers supports reflection but is uncommon
 id: video-analysis-mediation-coaching-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

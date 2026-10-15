@@ -3,7 +3,7 @@ type: claim
 title: Two years after the comprehensive magnet school policy, overall enrollment patterns by student residence had not changed substantially
 description: Two years after the comprehensive magnet school policy, overall enrollment patterns by student residence had not changed substantially
 id: policy-did-not-change-overall-enrollment-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

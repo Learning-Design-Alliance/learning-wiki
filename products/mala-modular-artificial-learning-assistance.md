@@ -4,7 +4,7 @@ id: mala-modular-artificial-learning-assistance
 title: MALA (Modular Artificial Learning Assistance)
 description: A GPT-4o-based modular chatbot architecture developed by Gabelmann et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: pair-ffi-with-prompts-not-recasts
 title: Pair form-focused instruction with prompts that push learners to self-repair rather than recasts
 description: When delivering form-focused instruction, teachers should use corrective feedback in the form of prompts (which push learners to retrieve and repair their own output) rather than recasts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

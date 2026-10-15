@@ -3,7 +3,7 @@ type: claim
 title: Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses
 description: Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses
 id: students-find-chatgpt-useful-but-lacking-depth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

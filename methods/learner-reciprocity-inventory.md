@@ -3,7 +3,7 @@ type: method
 id: learner-reciprocity-inventory
 title: Reciprocity inventory of learner responsiveness to mediation
 description: A companion inventory, also emerging from thematic data analysis, classifies learner responses to mediation hierarchically.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: In the pooled OLS model of current AI-use intensity, perceived usefulness (β = 0.322) and competence (β = 0.268) are the strongest positive associations, while institutional policy clarity shows no association after adjustment
 description: In the pooled OLS model of current AI-use intensity, perceived usefulness (β = 0.322) and competence (β = 0.268) are the strongest positive associations, while institutional policy clarity shows no association after a...
 id: policy-clarity-not-associated-with-use-intensity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

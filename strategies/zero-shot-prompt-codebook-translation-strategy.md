@@ -3,7 +3,7 @@ type: strategy
 id: zero-shot-prompt-codebook-translation-strategy
 title: Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding
 description: The article describes a pipeline in which human codebook rubrics are converted into zero-shot prompts built on the PARTS framework (Persona, Aim, Recipients, Theme, Structure) and CLEAR criteria, with each variation i...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: teach-pedagogical-rationale-behind-ai-policies
 title: Teach the pedagogical rationale behind AI policies rather than only stating rules
 description: "The article recommends that AI policy and educational practice move beyond articulating rules and instead help students understand why the policies exist, including why honest representation of one's own knowledge mat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "The domain-specialized 32-billion-parameter model surpasses significantly larger general-purpose models such as Qwen3-235B-A22B-Thinking (86.63%) and Qwen2.5-72B-Instruct (78.60%) on the CDPK Benchmark"
 description: "The domain-specialized 32-billion-parameter model surpasses significantly larger general-purpose models such as Qwen3-235B-A22B-Thinking (86.63%) and Qwen2.5-72B-Instruct (78.60%) on the CDPK Benchmark"
 id: domain-specialized-32b-outperforms-larger-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

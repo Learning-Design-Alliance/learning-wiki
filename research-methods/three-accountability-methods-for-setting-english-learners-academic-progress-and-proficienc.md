@@ -3,7 +3,7 @@ type: research-method
 id: three-accountability-methods-for-setting-english-learners-academic-progress-and-proficienc
 title: "Three accountability methods for setting English Learners' academic progress and proficiency expectations"
 description: Chapter IV presents an organizing framework of methods for setting academic expectations for English Learners.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

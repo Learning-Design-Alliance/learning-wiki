@@ -3,7 +3,7 @@ type: claim
 title: A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it
 description: A proposed three-part process-evidence submission (deliverable, AI interaction logs, video reflection) shifts displacement upstream rather than eliminating it
 id: three-part-process-evidence-submission
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

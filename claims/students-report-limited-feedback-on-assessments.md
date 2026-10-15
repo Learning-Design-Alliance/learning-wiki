@@ -3,7 +3,7 @@ type: claim
 title: Students report receiving scores with little individualized feedback and request more in-depth feedback that explains why and how they can improve
 description: Students report receiving scores with little individualized feedback and request more in-depth feedback that explains why and how they can improve
 id: students-report-limited-feedback-on-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

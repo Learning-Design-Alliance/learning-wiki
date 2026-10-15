@@ -3,7 +3,7 @@ type: claim
 title: Cognitive leap is the most prevalent deviation pattern of LLM-generated questions, and fine-grained prompting amplifies upward shifts while suppressing cognitive regression
 description: Cognitive leap is the most prevalent deviation pattern of LLM-generated questions, and fine-grained prompting amplifies upward shifts while suppressing cognitive regression
 id: cogleap-dominant-fgp-suppresses-regression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

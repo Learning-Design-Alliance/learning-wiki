@@ -3,7 +3,7 @@ type: claim
 title: In an RCT, DCMP significantly increased completion of the developmental math sequence and passing of college-level math
 description: In an RCT, DCMP significantly increased completion of the developmental math sequence and passing of college-level math
 id: dcmp-rct-rutschow-developmental-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

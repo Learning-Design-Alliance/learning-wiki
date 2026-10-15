@@ -3,7 +3,7 @@ type: claim
 title: "Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context"
 description: "Structured integration of AI can enhance students' digital literacy, content retention, and critical thinking skills in the academic context"
 id: structured-ai-integration-enhances-literacy-retention-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

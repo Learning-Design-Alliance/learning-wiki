@@ -3,7 +3,7 @@ type: claim
 title: The environment produced 482 memory-recorded output-proxy events (5.02 per active day) across 10 artifact-surface categories spanning research, teaching, software, content, and operations
 description: The environment produced 482 memory-recorded output-proxy events (5.02 per active day) across 10 artifact-surface categories spanning research, teaching, software, content, and operations
 id: output-proxy-482-events-breadth-10-surfaces
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

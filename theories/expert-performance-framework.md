@@ -2,7 +2,7 @@
 type: theory
 title: "Expert-performance framework: reproducible superior performance on representative tasks as the object of explanation"
 description: The expert-performance approach studies objectively measurable, reproducibly superior achievement in a domain rather than informal impressions of talent.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

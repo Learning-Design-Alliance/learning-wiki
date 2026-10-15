@@ -3,7 +3,7 @@ type: claim
 title: "Youth focus groups surfaced four key digital well-being challenge themes: addiction and compulsive use, impact on thinking, effects on social skills, and effects on mental health"
 description: "Youth focus groups surfaced four key digital well-being challenge themes: addiction and compulsive use, impact on thinking, effects on social skills, and effects on mental health"
 id: youth-focus-groups-four-digital-wellbeing-challenge-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

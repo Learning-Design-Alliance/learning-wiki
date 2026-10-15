@@ -3,7 +3,7 @@ type: claim
 title: LLM-judge evaluation of tutoring sycophancy shows systematic self-judge blind spots and missed sycophancy even under judge consensus
 description: LLM-judge evaluation of tutoring sycophancy shows systematic self-judge blind spots and missed sycophancy even under judge consensus
 id: llm-judge-reliability-tutoring-sycophancy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

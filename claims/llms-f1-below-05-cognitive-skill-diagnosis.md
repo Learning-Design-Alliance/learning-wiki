@@ -3,7 +3,7 @@ type: claim
 title: "All 18 evaluated LLMs score macro F1 below 0.5 in diagnosing students' cognitive skills from handwritten math work"
 description: "All 18 evaluated LLMs score macro F1 below 0.5 in diagnosing students' cognitive skills from handwritten math work"
 id: llms-f1-below-05-cognitive-skill-diagnosis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

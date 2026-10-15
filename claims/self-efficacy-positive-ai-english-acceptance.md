@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models
 description: Self-efficacy is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models
 id: self-efficacy-positive-ai-english-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

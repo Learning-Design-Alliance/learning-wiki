@@ -2,7 +2,7 @@
 type: theory
 title: "Three learning-theory areas organize cyberlearning theory work: collaborative learning, embodied learning, and identity"
 description: "The report's learning-theories theme treats three areas: collaborative learning, where people 'learn socially through shared words, actions, and meanings' with social tools; embodied learning, where theories 'seek to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

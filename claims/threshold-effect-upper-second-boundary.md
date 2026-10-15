@@ -3,7 +3,7 @@ type: claim
 title: The share of marks below the upper-second classification boundary fell by 24.7 percentage points, with effects significant at every threshold from 23 to 31 marks and at none above
 description: The share of marks below the upper-second classification boundary fell by 24.7 percentage points, with effects significant at every threshold from 23 to 31 marks and at none above
 id: threshold-effect-upper-second-boundary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

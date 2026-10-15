@@ -3,7 +3,7 @@ type: claim
 title: Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective
 description: Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective
 id: instructional-explanations-sometimes-equal-or-better-than-self-explanation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

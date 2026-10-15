@@ -3,7 +3,7 @@ type: claim
 title: Regional pilot found some BLA-credentialed educators opt out of bilingual roles or leave them while staying in the same school or district
 description: Regional pilot found some BLA-credentialed educators opt out of bilingual roles or leave them while staying in the same school or district
 id: bla-educators-opt-out-of-bilingual-roles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

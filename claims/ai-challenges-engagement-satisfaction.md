@@ -3,7 +3,7 @@ type: claim
 title: Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement
 description: Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement
 id: ai-challenges-engagement-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

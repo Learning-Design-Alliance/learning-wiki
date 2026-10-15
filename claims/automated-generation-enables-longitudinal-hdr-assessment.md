@@ -3,7 +3,7 @@ type: claim
 title: Automated HDR problem generation makes repeated and longitudinal assessment feasible by producing structurally equivalent cases with different contexts
 description: Automated HDR problem generation makes repeated and longitudinal assessment feasible by producing structurally equivalent cases with different contexts
 id: automated-generation-enables-longitudinal-hdr-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

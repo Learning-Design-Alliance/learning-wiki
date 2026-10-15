@@ -2,7 +2,7 @@
 type: theory
 title: Align technology use with specific learning goals rather than adopting technology for its own sake
 description: "The guide's overarching framework holds that the value of educational technology lies in how it is used, not in the technology itself, because technologies evolve rapidly."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

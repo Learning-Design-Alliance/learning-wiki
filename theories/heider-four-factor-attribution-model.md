@@ -2,7 +2,7 @@
 type: theory
 title: "Heider's original attribution model: four causal factors for interpreting achievement outcomes"
 description: "The review presents Heider's founding account of attribution theory, in which people strive for prediction and understanding of daily events."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: The intent-to-treat experimental impact estimate is the most causally rigorous measure for nonexperimental methods to replicate
 description: The intent-to-treat experimental impact estimate is the most causally rigorous measure for nonexperimental methods to replicate
 id: itt-estimate-most-causally-rigorous-benchmark
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

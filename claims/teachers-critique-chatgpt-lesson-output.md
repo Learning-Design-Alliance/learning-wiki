@@ -3,7 +3,7 @@ type: claim
 title: Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials
 description: Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials
 id: teachers-critique-chatgpt-lesson-output
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

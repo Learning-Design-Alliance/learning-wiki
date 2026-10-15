@@ -3,7 +3,7 @@ type: design
 id: segment-structure-transcript-format
 title: Segment-structure transcript format with boldface labels replacing bracketed nonverbal insertions
 description: The v6m system instructions organize transcripts into distinct verbal and descriptive segments marked by boldface labels rather than square brackets, with both segment types able to contain math.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "AI knowledge and attitudes toward AI did not significantly predict teachers' AI integration ability"
 description: "AI knowledge and attitudes toward AI did not significantly predict teachers' AI integration ability"
 id: ai-knowledge-attitudes-not-significant-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

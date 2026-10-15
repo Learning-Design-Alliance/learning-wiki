@@ -3,7 +3,7 @@ type: claim
 title: "After accounting for publication bias, the estimated true effect favoring PS-I is strong (Hedge's g = 0.87)"
 description: "After accounting for publication bias, the estimated true effect favoring PS-I is strong (Hedge's g = 0.87)"
 id: publication-bias-corrected-psi-effect-strong
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

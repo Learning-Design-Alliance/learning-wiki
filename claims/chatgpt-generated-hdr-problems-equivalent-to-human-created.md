@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT-generated HDR problems measure the same ability as human-created problems, with high internal consistency (Cronbach's α = 0.78) and no significant difficulty difference"
 description: "ChatGPT-generated HDR problems measure the same ability as human-created problems, with high internal consistency (Cronbach's α = 0.78) and no significant difficulty difference"
 id: chatgpt-generated-hdr-problems-equivalent-to-human-created
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

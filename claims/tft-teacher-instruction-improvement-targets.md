@@ -3,7 +3,7 @@ type: claim
 title: The partnership targets improved teacher instruction in eliciting student thinking, using representations, and focusing on math reasoning
 description: The partnership targets improved teacher instruction in eliciting student thinking, using representations, and focusing on math reasoning
 id: tft-teacher-instruction-improvement-targets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

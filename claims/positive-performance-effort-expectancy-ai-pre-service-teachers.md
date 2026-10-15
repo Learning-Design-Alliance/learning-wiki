@@ -3,7 +3,7 @@ type: claim
 title: Ghanaian pre-service science teachers hold significantly positive performance expectancy and effort expectancy toward AI
 description: Ghanaian pre-service science teachers hold significantly positive performance expectancy and effort expectancy toward AI
 id: positive-performance-effort-expectancy-ai-pre-service-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

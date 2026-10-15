@@ -3,7 +3,7 @@ type: claim
 title: Facilitative, inclusive principal leadership and effective principal supervision are associated with more positive trust relations
 description: Facilitative, inclusive principal leadership and effective principal supervision are associated with more positive trust relations
 id: principal-leadership-associated-with-trust-relations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

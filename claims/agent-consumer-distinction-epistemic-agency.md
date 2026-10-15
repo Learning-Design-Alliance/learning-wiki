@@ -3,7 +3,7 @@ type: claim
 title: The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs
 description: The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs
 id: agent-consumer-distinction-epistemic-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

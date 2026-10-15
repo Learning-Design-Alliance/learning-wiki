@@ -3,7 +3,7 @@ type: claim
 title: Purpose-built AI chatbots show generally promising short-term improvements in physical activity and dietary behaviors
 description: Purpose-built AI chatbots show generally promising short-term improvements in physical activity and dietary behaviors
 id: health-behavior-change-short-term-promising
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

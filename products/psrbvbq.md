@@ -4,7 +4,7 @@ id: psrbvbq
 title: PSRBVBQ
 description: "The PSRBVBQ is a situational-judgment questionnaire developed by Bush and Harrison that uses bullying vignettes to assess perceived severity and teachers' likelihood of responding to bullies and victims."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

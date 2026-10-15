@@ -3,7 +3,7 @@ type: claim
 title: Stakeholders most frequently define College Promise by the goals of increasing college access and improving completion
 description: Stakeholders most frequently define College Promise by the goals of increasing college access and improving completion
 id: stakeholder-definitions-access-completion-goals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

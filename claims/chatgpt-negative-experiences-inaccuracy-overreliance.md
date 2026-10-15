@@ -3,7 +3,7 @@ type: claim
 title: Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence
 description: Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence
 id: chatgpt-negative-experiences-inaccuracy-overreliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

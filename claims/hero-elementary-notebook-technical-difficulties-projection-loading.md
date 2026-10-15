@@ -3,7 +3,7 @@ type: claim
 title: Digital notebooks presented technical difficulties with projection and loading during in-school implementation.
 description: Digital notebooks presented technical difficulties with projection and loading during in-school implementation.
 id: hero-elementary-notebook-technical-difficulties-projection-loading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

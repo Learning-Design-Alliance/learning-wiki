@@ -3,7 +3,7 @@ type: claim
 title: "Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)"
 description: "Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (E..."
 id: genai-instructional-method-moderator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

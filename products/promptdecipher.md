@@ -4,7 +4,7 @@ id: promptdecipher
 title: PromptDecipher
 description: A web-based chatbot-authoring system developed by Miina Koyama and colleagues that lets educators create and refine AI tutoring chatbots by directly correcting simulated bot responses.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

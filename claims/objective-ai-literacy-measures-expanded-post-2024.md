@@ -3,7 +3,7 @@ type: claim
 title: Post-2024 instrument development expanded objective AI-literacy measurement, which had been dominated by self-report scales
 description: Post-2024 instrument development expanded objective AI-literacy measurement, which had been dominated by self-report scales
 id: objective-ai-literacy-measures-expanded-post-2024
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

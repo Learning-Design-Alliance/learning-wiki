@@ -3,7 +3,7 @@ type: claim
 title: "Policies promoting data use to guide teachers' instructional practices are positively associated with charter school achievement impacts"
 description: "Policies promoting data use to guide teachers' instructional practices are positively associated with charter school achievement impacts"
 id: data-use-policies-associated-charter-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

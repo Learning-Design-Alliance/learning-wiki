@@ -3,7 +3,7 @@ type: claim
 title: The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)
 description: The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)
 id: expertise-reversal-effect-definition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

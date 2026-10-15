@@ -3,7 +3,7 @@ type: claim
 title: LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models
 description: LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models
 id: four-category-llm-multimodal-error-taxonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

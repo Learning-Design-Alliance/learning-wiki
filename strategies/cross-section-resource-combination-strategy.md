@@ -3,7 +3,7 @@ type: strategy
 id: cross-section-resource-combination-strategy
 title: Combine resources across guide sections for the most fruitful results
 description: "The guide's concluding comments urge users to employ both a critical and a creative approach and to combine resources from different sections."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

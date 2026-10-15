@@ -3,7 +3,7 @@ type: claim
 title: A student used slider extremes to make qualitative comparisons of skater mass effects
 description: A student used slider extremes to make qualitative comparisons of skater mass effects
 id: slider-extremes-support-qualitative-comparisons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

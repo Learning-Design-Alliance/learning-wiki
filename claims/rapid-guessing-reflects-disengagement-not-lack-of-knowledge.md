@@ -3,7 +3,7 @@ type: claim
 title: Rapid guesses on MAP Growth reflect a lack of engagement rather than a lack of knowledge
 description: Rapid guesses on MAP Growth reflect a lack of engagement rather than a lack of knowledge
 id: rapid-guessing-reflects-disengagement-not-lack-of-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

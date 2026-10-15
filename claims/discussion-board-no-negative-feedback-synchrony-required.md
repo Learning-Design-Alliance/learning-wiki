@@ -3,7 +3,7 @@ type: claim
 title: Discussion board interactions generated no negative feedback at all, suggesting synchrony is required to foster corrective feedback
 description: Discussion board interactions generated no negative feedback at all, suggesting synchrony is required to foster corrective feedback
 id: discussion-board-no-negative-feedback-synchrony-required
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

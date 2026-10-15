@@ -3,7 +3,7 @@ type: claim
 title: Higher AI readiness is associated with greater, not lower, concern about GenAI reducing student creativity
 description: Higher AI readiness is associated with greater, not lower, concern about GenAI reducing student creativity
 id: ai-readiness-predicts-greater-creativity-concern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

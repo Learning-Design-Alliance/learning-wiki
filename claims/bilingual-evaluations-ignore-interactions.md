@@ -3,7 +3,7 @@ type: claim
 title: Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions
 description: Bilingual education evaluations have produced uninterpretable data by failing to model child-input by treatment interactions
 id: bilingual-evaluations-ignore-interactions
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

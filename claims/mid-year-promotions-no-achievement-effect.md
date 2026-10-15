@@ -3,7 +3,7 @@ type: claim
 title: "Mid-year promotions after retention neither helped nor harmed students' tested achievement in basic skills"
 description: "Mid-year promotions after retention neither helped nor harmed students' tested achievement in basic skills"
 id: mid-year-promotions-no-achievement-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

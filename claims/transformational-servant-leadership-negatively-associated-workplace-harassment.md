@@ -3,7 +3,7 @@ type: claim
 title: Both transformational and servant leadership are negatively associated with workplace harassment among university teachers
 description: Both transformational and servant leadership are negatively associated with workplace harassment among university teachers
 id: transformational-servant-leadership-negatively-associated-workplace-harassment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

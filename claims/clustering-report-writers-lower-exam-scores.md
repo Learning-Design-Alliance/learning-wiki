@@ -3,7 +3,7 @@ type: claim
 title: Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters
 description: Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters
 id: clustering-report-writers-lower-exam-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

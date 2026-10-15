@@ -3,7 +3,7 @@ type: strategy
 id: collect-data-then-evaluate-progress-cycle
 title: Begin improvement work by collecting data and close the cycle by evaluating progress
 description: "This strategy operationalizes the article's process for educators: start an improvement effort with deliberate data collection, and finish it by evaluating whether progress occurred."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

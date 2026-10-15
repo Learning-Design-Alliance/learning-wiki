@@ -3,7 +3,7 @@ type: claim
 title: The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT
 description: The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT
 id: fast-no-subgroup-differential-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

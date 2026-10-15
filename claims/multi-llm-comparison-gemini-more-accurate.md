@@ -3,7 +3,7 @@ type: claim
 title: One student group compared outputs across three LLMs and judged Gemini more accurate overall, though it still failed fine-grained distinctions
 description: One student group compared outputs across three LLMs and judged Gemini more accurate overall, though it still failed fine-grained distinctions
 id: multi-llm-comparison-gemini-more-accurate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

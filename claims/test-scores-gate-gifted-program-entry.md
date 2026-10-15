@@ -3,7 +3,7 @@ type: claim
 title: "Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test"
 description: "Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test"
 id: test-scores-gate-gifted-program-entry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

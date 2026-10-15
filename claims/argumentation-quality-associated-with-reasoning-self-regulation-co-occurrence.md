@@ -2,7 +2,7 @@
 type: claim
 title: Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes
 id: argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: claim
 title: AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance
 description: AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance
 id: ai-feedback-higher-perceived-quality-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

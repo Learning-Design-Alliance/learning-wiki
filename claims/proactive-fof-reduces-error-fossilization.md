@@ -3,7 +3,7 @@ type: claim
 title: "Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms"
 description: "Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms"
 id: proactive-fof-reduces-error-fossilization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

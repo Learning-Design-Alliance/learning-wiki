@@ -3,7 +3,7 @@ type: claim
 title: Chinese HSS students report near-consensus perceived learning-efficiency gains from GenAI, largely independent of use duration and discipline
 description: Chinese HSS students report near-consensus perceived learning-efficiency gains from GenAI, largely independent of use duration and discipline
 id: genai-efficiency-gains-chinese-hss-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

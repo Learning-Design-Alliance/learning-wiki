@@ -3,7 +3,7 @@ type: claim
 title: Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations
 description: Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations
 id: reflective-questioning-graphical-representations-improve-algebra-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

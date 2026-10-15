@@ -3,7 +3,7 @@ type: claim
 title: In ablations, temporal smoothness works best on the imputation branch, and the full TSDR variant achieves the best AUC and ACC on all six backbones
 description: In ablations, temporal smoothness works best on the imputation branch, and the full TSDR variant achieves the best AUC and ACC on all six backbones
 id: tsdr-ablation-smoothness-on-imputation-branch
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

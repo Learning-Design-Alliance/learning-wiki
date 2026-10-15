@@ -3,7 +3,7 @@ type: claim
 title: "Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers"
 description: "Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers"
 id: students-need-guidance-ecree-feedback-advanced-writers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

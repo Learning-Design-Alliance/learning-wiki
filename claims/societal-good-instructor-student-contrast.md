@@ -3,7 +3,7 @@ type: claim
 title: Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment
 description: Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment
 id: societal-good-instructor-student-contrast
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

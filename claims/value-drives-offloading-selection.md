@@ -3,7 +3,7 @@ type: claim
 title: Higher-value intentions are more likely to be offloaded than lower-value ones
 description: Higher-value intentions are more likely to be offloaded than lower-value ones
 id: value-drives-offloading-selection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

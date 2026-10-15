@@ -4,7 +4,7 @@ title: The KIPP lottery-based randomized controlled trial yielded treatment and 
 description: The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics
 id: kipp-lottery-offer-rct-group-balance
 aliases: [kipp-lottery-rct-balances-treatment-and-control]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

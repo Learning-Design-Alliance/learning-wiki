@@ -3,7 +3,7 @@ type: claim
 title: Five speech measures clearly distinguish L2 learners at different comprehensibility levels after data triangulation
 description: Five speech measures clearly distinguish L2 learners at different comprehensibility levels after data triangulation
 id: five-speech-measures-distinguish-comprehensibility-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

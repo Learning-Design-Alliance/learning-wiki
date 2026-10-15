@@ -3,7 +3,7 @@ type: element
 id: credo-days-of-learning-translation
 title: Days of Learning translation of growth results
 description: "Days of Learning is CREDO's translation device for making statistical growth results accessible to non-technical audiences."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

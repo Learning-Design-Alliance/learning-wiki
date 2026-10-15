@@ -3,7 +3,7 @@ type: claim
 title: Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits
 description: Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits
 id: english-enrollment-credit-gains-few-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

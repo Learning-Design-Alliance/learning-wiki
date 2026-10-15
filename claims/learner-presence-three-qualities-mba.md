@@ -3,7 +3,7 @@ type: claim
 title: "Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring"
 description: "Learner presence in an accelerated online MBA context manifests as three qualities: learner intentions, learner metacognition, and peer monitoring"
 id: learner-presence-three-qualities-mba
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

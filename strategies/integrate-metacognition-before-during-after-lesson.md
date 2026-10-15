@@ -3,7 +3,7 @@ type: strategy
 id: integrate-metacognition-before-during-after-lesson
 title: Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching
 description: The authors recommend that, because metacognitive strategies facilitate reading comprehension, teachers integrate them into instruction for students at various ability levels, ages, and grade levels, and include them...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

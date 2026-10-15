@@ -4,7 +4,7 @@ id: pare-m-persistent-agentic-research-environment-measurement-v01
 title: PARE-M (Persistent Agentic Research Environment Measurement) v0.1
 description: A measurement framework introduced by Anas H.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

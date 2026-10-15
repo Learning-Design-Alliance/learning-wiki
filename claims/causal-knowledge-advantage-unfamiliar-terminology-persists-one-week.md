@@ -3,7 +3,7 @@ type: claim
 title: Advantage of causal knowledge on unfamiliar terminology persists one week after training
 description: Advantage of causal knowledge on unfamiliar terminology persists one week after training
 id: causal-knowledge-advantage-unfamiliar-terminology-persists-one-week
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

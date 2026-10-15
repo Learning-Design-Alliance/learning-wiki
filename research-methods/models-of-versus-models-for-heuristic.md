@@ -3,7 +3,7 @@ type: research-method
 id: models-of-versus-models-for-heuristic
 title: Models of versus models for heuristic
 description: The article presents a heuristic contrasting two ways of understanding models in science.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

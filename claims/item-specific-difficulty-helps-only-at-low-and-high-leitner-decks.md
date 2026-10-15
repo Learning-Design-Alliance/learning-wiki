@@ -3,7 +3,7 @@ type: claim
 title: In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.
 description: In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.
 id: item-specific-difficulty-helps-only-at-low-and-high-leitner-decks
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

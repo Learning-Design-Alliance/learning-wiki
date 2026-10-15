@@ -3,7 +3,7 @@ type: claim
 title: High schools with clusters of at least three NBCTs score higher on professional capacity measures
 description: High schools with clusters of at least three NBCTs score higher on professional capacity measures
 id: nbct-clusters-high-schools-professional-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

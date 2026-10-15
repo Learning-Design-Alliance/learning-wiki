@@ -3,7 +3,7 @@ type: claim
 title: "LLM self-detection performance is strongly task-dependent: reliable for programming tasks and longer reflective responses but poor for short-answer questions"
 description: "LLM self-detection performance is strongly task-dependent: reliable for programming tasks and longer reflective responses but poor for short-answer questions"
 id: llm-self-detection-task-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

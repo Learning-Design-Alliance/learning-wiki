@@ -3,7 +3,7 @@ type: claim
 title: The post-ChatGPT response-time divergence on AI-susceptible items vanishes entirely under proctored assessment
 description: The post-ChatGPT response-time divergence on AI-susceptible items vanishes entirely under proctored assessment
 id: proctoring-eliminates-response-time-divergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

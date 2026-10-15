@@ -3,7 +3,7 @@ type: claim
 title: "No effect of fading on productive learning events including self-explanations was found in Experiment 2's think-aloud analysis"
 description: "No effect of fading on productive learning events including self-explanations was found in Experiment 2's think-aloud analysis"
 id: fading-no-effect-productive-learning-events
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

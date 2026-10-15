@@ -4,7 +4,7 @@ title: Teachers of color leave the teaching profession at higher rates than whit
 description: Teachers of color leave the teaching profession at higher rates than white teachers (about 19 percent vs.
 id: toc-higher-turnover-than-white-teachers
 aliases: [teachers-of-color-higher-turnover-rate]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

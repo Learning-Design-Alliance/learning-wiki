@@ -2,7 +2,7 @@
 type: theory
 title: "Theoretical foundations of multimedia glosses: Multiple Intelligences Theory, Dual Coding Theory, and Generative Theory of Multimedia Learning"
 description: The article grounds multimedia glosses in three frameworks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

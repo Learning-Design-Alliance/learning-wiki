@@ -3,7 +3,7 @@ type: claim
 title: Monolithic single-prompt LLM architectures hinder responsible educational deployment by collapsing distinct pedagogical functions
 description: Monolithic single-prompt LLM architectures hinder responsible educational deployment by collapsing distinct pedagogical functions
 id: monolithic-llm-architectures-hinder-responsible-educational-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: community-engagement-sustains-school-testing-programs
 title: Build community engagement and stakeholder buy-in, supported by effective communication and simplified informed consent, to sustain school testing programs
 description: "The report's implementation lessons hold that testing programs succeed when schools invest in community engagement and buy-in from key stakeholders."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

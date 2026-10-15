@@ -4,7 +4,7 @@ id: ai-teaching-learning-assistant
 title: "AI Teaching & Learning Assistant"
 description: An open-source Moodle plugin developed by Anna Ostrowska et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

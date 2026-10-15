@@ -3,7 +3,7 @@ type: claim
 title: Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles
 description: Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles
 id: six-provisional-manager-typologies-lca
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

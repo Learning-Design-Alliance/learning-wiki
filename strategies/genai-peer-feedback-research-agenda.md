@@ -3,7 +3,7 @@ type: strategy
 id: genai-peer-feedback-research-agenda
 title: "Staged research agenda for GenAI peer feedback: feasibility, quasi-experimental quality and literacy studies, uptake trials, stakeholder perspectives, and equity analyses"
 description: The article outlines a five-strand research agenda.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

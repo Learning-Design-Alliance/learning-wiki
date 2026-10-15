@@ -3,7 +3,7 @@ type: claim
 title: The AI-enhanced flipped classroom raises post-class assignment accuracy over the traditional classroom, an advantage the standard flipped classroom did not show
 description: The AI-enhanced flipped classroom raises post-class assignment accuracy over the traditional classroom, an advantage the standard flipped classroom did not show
 id: ai-enhancement-raises-assignment-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

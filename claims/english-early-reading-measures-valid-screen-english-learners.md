@@ -3,7 +3,7 @@ type: claim
 title: English-language measures of phonological processing, letter knowledge, and word and text reading validly identify which English learners need additional reading support
 description: English-language measures of phonological processing, letter knowledge, and word and text reading validly identify which English learners need additional reading support
 id: english-early-reading-measures-valid-screen-english-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

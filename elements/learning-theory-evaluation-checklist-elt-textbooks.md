@@ -3,7 +3,7 @@ type: element
 id: learning-theory-evaluation-checklist-elt-textbooks
 title: Learning-theory-based evaluation checklist of instructional strategies and techniques for textbook analysis
 description: The study devised an evaluation framework in which instructional techniques and strategies associated with behaviourism, cognitivism, and constructivism served as the checklist for analyzing textbooks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

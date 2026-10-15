@@ -3,7 +3,7 @@ type: claim
 title: The 2021-22 study investigated how student achievement in spring 2022 compared to pre-pandemic levels.
 description: The 2021-22 study investigated how student achievement in spring 2022 compared to pre-pandemic levels.
 id: spring-2022-achievement-compared-to-pre-pandemic-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students
 description: The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students
 id: moderated-mediation-indirect-effect-stronger-male-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

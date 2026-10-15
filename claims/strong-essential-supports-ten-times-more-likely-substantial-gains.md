@@ -3,7 +3,7 @@ type: claim
 title: Chicago elementary schools strong in most essential supports were at least ten times more likely than weak-support schools to show substantial gains in both reading and mathematics
 description: Chicago elementary schools strong in most essential supports were at least ten times more likely than weak-support schools to show substantial gains in both reading and mathematics
 id: strong-essential-supports-ten-times-more-likely-substantial-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

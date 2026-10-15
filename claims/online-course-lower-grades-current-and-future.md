@@ -3,7 +3,7 @@ type: claim
 title: Grades are lower both for courses taken online and in future courses
 description: Grades are lower both for courses taken online and in future courses
 id: online-course-lower-grades-current-and-future
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

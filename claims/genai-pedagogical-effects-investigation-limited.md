@@ -3,7 +3,7 @@ type: claim
 title: "Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments"
 description: "Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments"
 id: genai-pedagogical-effects-investigation-limited
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

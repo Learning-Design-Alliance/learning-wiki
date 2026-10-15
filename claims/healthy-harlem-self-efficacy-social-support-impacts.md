@@ -3,7 +3,7 @@ type: claim
 title: Healthy Harlem had some positive impacts on other measures of student self-efficacy and social support
 description: Healthy Harlem had some positive impacts on other measures of student self-efficacy and social support
 id: healthy-harlem-self-efficacy-social-support-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

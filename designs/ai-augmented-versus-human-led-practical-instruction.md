@@ -3,7 +3,7 @@ type: design
 id: ai-augmented-versus-human-led-practical-instruction
 title: AI-augmented practical instruction versus conventional human-led instruction
 description: "The study's instructional arrangement contrasts two lesson-level designs for practical STEM teaching: an AI-augmented format in which students work with a real-time AI tutor providing synchronous correction, and a con..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

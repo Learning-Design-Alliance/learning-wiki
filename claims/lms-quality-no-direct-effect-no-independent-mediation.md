@@ -3,7 +3,7 @@ type: claim
 title: LMS quality did not significantly influence academic performance and did not independently mediate the AI literacy–performance relationship
 description: LMS quality did not significantly influence academic performance and did not independently mediate the AI literacy–performance relationship
 id: lms-quality-no-direct-effect-no-independent-mediation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

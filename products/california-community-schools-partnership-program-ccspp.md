@@ -4,7 +4,7 @@ id: california-community-schools-partnership-program-ccspp
 title: California Community Schools Partnership Program (CCSPP)
 description: "California's state-approved community-schools framework, administered through the California Department of Education, organizes grantee implementation and reporting around four areas and 16 features for whole-child school transformation."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Failure Free Reading shows no discernible effects on alphabetics outcomes for beginning readers
 description: Failure Free Reading shows no discernible effects on alphabetics outcomes for beginning readers
 id: failure-free-reading-no-discernible-effects-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

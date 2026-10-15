@@ -3,7 +3,7 @@ type: strategy
 id: guide-students-when-ai-supports-versus-replaces-judgment
 title: Guide students on when conversational AI supports learning versus when it replaces checking, evaluation, and independent judgment
 description: "The review's practical implication for education is that the concern is unexamined delegation rather than AI use itself."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

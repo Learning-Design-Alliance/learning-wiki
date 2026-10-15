@@ -3,7 +3,7 @@ type: claim
 title: School staff confidence in mental health support actions increased from 2021 to 2023, with referring a student rising from 49 to 57 percent and recognizing distress rising from 39 to 44 percent
 description: School staff confidence in mental health support actions increased from 2021 to 2023, with referring a student rising from 49 to 57 percent and recognizing distress rising from 39 to 44 percent
 id: cal-well-staff-confidence-trends-2021-2023
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Prior seasonal studies were limited to social-category skill gaps and early grades
 description: Prior seasonal studies were limited to social-category skill gaps and early grades
 id: seasonal-studies-limited-categories-early-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

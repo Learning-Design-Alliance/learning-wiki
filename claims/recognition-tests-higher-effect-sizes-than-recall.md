@@ -3,7 +3,7 @@ type: claim
 title: Recognition tests yield higher word-learning effect sizes than recall tests
 description: Recognition tests yield higher word-learning effect sizes than recall tests
 id: recognition-tests-higher-effect-sizes-than-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: design-ttx-with-assessment-in-mind
 title: Design TTXs with assessment in mind so that log data capture the learning process
 description: The authors recommend that TTX creators consider assessment goals during the design phase, because a thorough design of learning objectives and activities is crucial for automated assessment to work; otherwise the log...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

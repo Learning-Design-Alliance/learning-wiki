@@ -3,7 +3,7 @@ type: claim
 title: At publication, a frontier coding model could produce solutions to six of the ten research-shaped assignments but struggled with four, which the authors treat as non-durable design experience
 description: At publication, a frontier coding model could produce solutions to six of the ten research-shaped assignments but struggled with four, which the authors treat as non-durable design experience
 id: kt1-model-resistance-six-of-ten-assignments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

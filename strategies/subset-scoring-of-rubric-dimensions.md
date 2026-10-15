@@ -3,7 +3,7 @@ type: strategy
 id: subset-scoring-of-rubric-dimensions
 title: Score only the subset of rubric dimensions matching the instructional focus
 description: The report states it is OK, and sometimes better, to use only a subset of dimensions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

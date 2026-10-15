@@ -3,7 +3,7 @@ type: claim
 title: LLM feedback agents show model-specific over-rejection of valid-alternative reasoning and over-validation of incorrect solutions
 description: LLM feedback agents show model-specific over-rejection of valid-alternative reasoning and over-validation of incorrect solutions
 id: llm-over-rejection-over-validation-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations
 description: The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations
 id: stella-cluster-rct-taylor-2017
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: intermediary-capacity-building-four-supports
 title: Strengthen grantee strategic learning capacity through scoping support, provider matching, cohort learning activities, and thought partnership
 description: "An intermediary-led capacity-building strategy in which the intermediary helps grantees \"scope projects in their area of need, matching grantees with providers that could help build organizational capacity, delivering..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

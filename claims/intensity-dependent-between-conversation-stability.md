@@ -3,7 +3,7 @@ type: claim
 title: "Between-conversation persona stability is intensity-dependent: high-intensity ADHD personas cluster tightly while moderate-intensity personas show the highest aggregate variability"
 description: "Between-conversation persona stability is intensity-dependent: high-intensity ADHD personas cluster tightly while moderate-intensity personas show the highest aggregate variability"
 id: intensity-dependent-between-conversation-stability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

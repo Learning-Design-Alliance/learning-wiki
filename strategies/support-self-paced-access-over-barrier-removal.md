@@ -3,7 +3,7 @@ type: strategy
 id: support-self-paced-access-over-barrier-removal
 title: Support adult self-directed learning by enabling self-paced, self-styled access rather than only removing barriers to taught classes
 description: "Drawing on Penland's finding that autonomy-related motives dominate adults' preference for learning alone, the review reports Cross's (1981) conclusion that \"incentives to help adults participate in taught classes by..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

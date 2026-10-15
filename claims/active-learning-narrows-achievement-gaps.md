@@ -2,7 +2,7 @@
 type: claim
 title: Active learning narrows achievement gaps for disadvantaged and underrepresented students
 id: active-learning-narrows-achievement-gaps
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

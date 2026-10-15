@@ -3,7 +3,7 @@ type: claim
 title: Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial
 description: Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial
 id: rd-replication-matches-experimental-estimates-two-interventions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

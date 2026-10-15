@@ -4,7 +4,7 @@ id: concept-semantic-map-element
 title: Concept/semantic map
 description: A graphic organizer in which concepts are represented as nodes and their relationships as labeled or positional links.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance
 description: In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance
 id: user-study-proactive-paradigms-preferred
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

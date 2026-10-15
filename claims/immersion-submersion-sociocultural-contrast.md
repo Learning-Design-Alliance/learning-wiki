@@ -3,7 +3,7 @@ type: claim
 title: Immersion and submersion programs differ socioculturally, communicating success versus failure to children
 description: Immersion and submersion programs differ socioculturally, communicating success versus failure to children
 id: immersion-submersion-sociocultural-contrast
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "A clinical interviewing study investigated students' understanding of elementary calculus through tasks on integration and limits"
 description: "A clinical interviewing study investigated students' understanding of elementary calculus through tasks on integration and limits"
 id: orton-clinical-interviews-elementary-calculus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

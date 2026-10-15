@@ -3,7 +3,7 @@ type: claim
 title: Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students
 description: Severe depressive symptoms co-occur with self-harm and suicidal tendencies among vocational students
 id: severe-depression-co-occurs-self-harm-suicidal-tendencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

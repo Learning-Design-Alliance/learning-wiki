@@ -3,7 +3,7 @@ type: element
 id: four-elementary-math-curricula-compared
 title: Four elementary math curricula compared in the study
 description: "The study compared four published elementary mathematics curricula, enumerated by the brief as \"(1) Investigations in Number, Data, and Space; (2) Math Expressions; (3) Saxon Math; and (4) Scott Foresman-Addison Wesle..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

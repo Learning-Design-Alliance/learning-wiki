@@ -3,7 +3,7 @@ type: claim
 title: The example-based course increases perceived competence, but neither feature affects perceived choice or pressure
 description: The example-based course increases perceived competence, but neither feature affects perceived choice or pressure
 id: course-increases-perceived-competence-journaling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

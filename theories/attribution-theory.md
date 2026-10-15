@@ -3,7 +3,7 @@ type: theory
 title: Attribution Theory
 description: Attribution Theory holds that a learner's motivation after success or failure depends less on what actually caused the outcome than on what the learner believes caused it, classified along the dimensions of locus, stability, and controllability.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

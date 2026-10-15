@@ -2,7 +2,7 @@
 type: theory
 title: Relevance-theoretic three-type, eleven-subtype classification of discourse connectives by contextual effect
 description: "The article adopts a relevance-theory framework (Sperber & Wilson, 1995; Blakemore) in which DCs encode procedural meaning that constrains the reader's inferential context."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Distillation validation loss decreases sharply from 20k to 200k pairwise examples and plateaus beyond 200k for the Sheared-LLaMA-1.3B base model
 description: Distillation validation loss decreases sharply from 20k to 200k pairwise examples and plateaus beyond 200k for the Sheared-LLaMA-1.3B base model
 id: edu-qurating-200k-pairwise-examples-practical-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

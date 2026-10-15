@@ -3,7 +3,7 @@ type: claim
 title: SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence
 description: SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence
 id: sble-increases-exclusionary-discipline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teachers in SIG schools with a greater PD focus on ELL-related topics more often reported that PD improved their effectiveness as teachers of ELLs
 description: Teachers in SIG schools with a greater PD focus on ELL-related topics more often reported that PD improved their effectiveness as teachers of ELLs
 id: greater-ell-pd-focus-linked-to-reported-effectiveness-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

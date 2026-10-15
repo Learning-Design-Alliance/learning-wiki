@@ -3,7 +3,7 @@ type: claim
 title: "Student hat activities and planning-reflection tools support teachers' curricular sensemaking, content understanding, and empathy with student experiences"
 description: "Student hat activities and planning-reflection tools support teachers' curricular sensemaking, content understanding, and empathy with student experiences"
 id: student-hat-planning-tools-support-sensemaking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: profile-differentiated-ai-career-education-support
 title: Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs
 description: "The article recommends that universities replace uniform AI-literacy programs with support matched to students' AI-attitude profiles."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

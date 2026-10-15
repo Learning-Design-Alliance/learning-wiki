@@ -3,7 +3,7 @@ type: claim
 title: Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates
 description: Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates
 id: years-science-study-sat-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: waterford-early-reading-program
 title: Waterford Early Reading Program™
 description: Waterford Early Reading Program™ is a software-based K–2 reading curriculum developed and provided by Waterford.org, combining individualized computer sessions with literacy activities, multimedia content, and teacher management tools.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

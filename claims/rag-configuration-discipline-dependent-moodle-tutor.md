@@ -3,7 +3,7 @@ type: claim
 title: "Optimal RAG configuration differs by discipline: STEM subjects perform best with 512-character chunks and temperature 0.3 (faithfulness 0.97), while humanities require 1000-character chunks and temperature 0.1 (context recall 1.00, faithfulness 0.98)"
 description: "Optimal RAG configuration differs by discipline: STEM subjects perform best with 512-character chunks and temperature 0.3 (faithfulness 0.97), while humanities require 1000-character chunks and temperature 0.1 (contex..."
 id: rag-configuration-discipline-dependent-moodle-tutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

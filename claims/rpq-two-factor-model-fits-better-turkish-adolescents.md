@@ -3,7 +3,7 @@ type: claim
 title: A two-factor (reactive–proactive) model of the Turkish RPQ fits adolescent data better than a one-factor general aggression model
 description: A two-factor (reactive–proactive) model of the Turkish RPQ fits adolescent data better than a one-factor general aggression model
 id: rpq-two-factor-model-fits-better-turkish-adolescents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

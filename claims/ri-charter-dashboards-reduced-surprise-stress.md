@@ -3,7 +3,7 @@ type: claim
 title: "Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement"
 description: "Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement"
 id: ri-charter-dashboards-reduced-surprise-stress
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

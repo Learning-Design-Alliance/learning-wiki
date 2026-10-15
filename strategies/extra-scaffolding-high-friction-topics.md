@@ -3,7 +3,7 @@ type: strategy
 id: extra-scaffolding-high-friction-topics
 title: Detect high-friction topics and add extra scaffolding there rather than weakening the weekly gate
 description: "A forward-looking design response from the run's reflection: keep the strict weekly gate but make the production harness identify topics where students struggle and require additional scaffolding, such as more figures..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Students' generative AI use in upper secondary schoolwork clusters into four practices — explanation, creation, inspiration, and improvement — comprising eleven sub-processes"
 description: "Students' generative AI use in upper secondary schoolwork clusters into four practices — explanation, creation, inspiration, and improvement — comprising eleven sub-processes"
 id: four-ai-practices-eleven-subprocesses-upper-secondary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

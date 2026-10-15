@@ -3,7 +3,7 @@ type: strategy
 id: engineered-knowledge-gap-question-design
 title: Design questions with engineered knowledge gaps LLMs cannot bridge alone, via non-existing scenarios and guided mathematical reasoning
 description: "The article develops two question-design strategies so that questions \"cannot be solved by an LLM, but can be solved with appropriately designed prompts.\" Strategy 1 \"embeds known concepts within a completely novel co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: consider-evaluation-issues-when-launching-reform-initiatives
 title: Consider evaluation issues up front when launching educational reform initiatives
 description: The strategy the guide embodies is that states launching new reform initiatives should anticipate evaluation issues at the launch stage rather than after implementation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

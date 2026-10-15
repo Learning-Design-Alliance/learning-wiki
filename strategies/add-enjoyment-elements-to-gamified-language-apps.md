@@ -3,7 +3,7 @@ type: strategy
 id: add-enjoyment-elements-to-gamified-language-apps
 title: Incorporate game elements that promote interest and enjoyment to support autonomous, sustainable mobile language learning
 description: "Based on their findings, the authors recommend that future language learning applications go beyond learning goals alone: \"Incorporating game elements that promote interest and enjoyment, or intrinsic motivation, is c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

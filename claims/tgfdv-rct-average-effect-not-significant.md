@@ -3,7 +3,7 @@ type: claim
 title: In the RCT, the average effect across knowledge, attitudes, and values outcomes was substantively important (0.35) but not statistically significant, with several individual outcomes null
 description: In the RCT, the average effect across knowledge, attitudes, and values outcomes was substantively important (0.35) but not statistically significant, with several individual outcomes null
 id: tgfdv-rct-average-effect-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

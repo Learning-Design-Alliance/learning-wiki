@@ -3,7 +3,7 @@ type: claim
 title: Domain-general cognitive skills correlate positively with vibe-coding performance, CS achievement, and writing skills
 description: Domain-general cognitive skills correlate positively with vibe-coding performance, CS achievement, and writing skills
 id: cognitive-skills-correlate-with-vibe-coding-and-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

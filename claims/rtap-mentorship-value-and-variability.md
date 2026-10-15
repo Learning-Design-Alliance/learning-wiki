@@ -3,7 +3,7 @@ type: claim
 title: Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs
 description: Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs
 id: rtap-mentorship-value-and-variability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

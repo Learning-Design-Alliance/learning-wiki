@@ -3,7 +3,7 @@ type: claim
 title: Practice tests benefit retention (g = 0.63) and transfer (g = 0.53) outcomes without a significant difference between them
 description: Practice tests benefit retention (g = 0.63) and transfer (g = 0.53) outcomes without a significant difference between them
 id: practice-tests-aid-retention-and-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

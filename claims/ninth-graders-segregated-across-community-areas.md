@@ -3,7 +3,7 @@ type: claim
 title: "2018–19 CPS ninth-graders were residentially segregated by race/ethnicity: one racial/ethnic group comprised over 50 percent of ninth-graders in 65 of 77 community areas"
 description: "2018–19 CPS ninth-graders were residentially segregated by race/ethnicity: one racial/ethnic group comprised over 50 percent of ninth-graders in 65 of 77 community areas"
 id: ninth-graders-segregated-across-community-areas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

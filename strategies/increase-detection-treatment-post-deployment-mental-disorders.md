@@ -3,7 +3,7 @@ type: strategy
 id: increase-detection-treatment-post-deployment-mental-disorders
 title: Increase efforts to detect and treat post-deployment mental disorders, since effects may be long-lasting
 description: "The review's authors recommend strengthening detection and treatment of mental disorders among deployed personnel after return, because screening-positive odds for PTSD and depression remain elevated in the longer term."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

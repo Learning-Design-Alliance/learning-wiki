@@ -3,7 +3,7 @@ type: research-method
 id: latent-structural-readiness-space-for-digital-and-ai-transformation
 title: Latent structural readiness space for digital and AI transformation
 description: "The framework trains a variational autoencoder on standardized country-level indicators of autonomy, digital skills and teacher support, projecting them into a two-dimensional latent space interpreted as \"a structural readiness space for digital and AI-related transformations in education\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: theory
 title: Seven-element framework for effective professional development
 description: "The report organizes its professional learning analysis around seven elements that a meta-analysis by Darling-Hammond, Hyler, and Gardner (2017) identified in effective PD: content focus, active learning, collaboratio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

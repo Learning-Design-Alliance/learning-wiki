@@ -3,7 +3,7 @@ type: claim
 title: Students experiencing homelessness show lower academic proficiency than economically disadvantaged but stably housed peers in reading, mathematics, and science
 description: Students experiencing homelessness show lower academic proficiency than economically disadvantaged but stably housed peers in reading, mathematics, and science
 id: homelessness-lower-academic-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

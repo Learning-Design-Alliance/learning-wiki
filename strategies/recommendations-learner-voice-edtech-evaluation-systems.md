@@ -3,7 +3,7 @@ type: strategy
 id: recommendations-learner-voice-edtech-evaluation-systems
 title: Five recommendations for higher education systems elevating student and faculty voice in edtech evaluation
 description: "The conclusion offers implementable steps for other systems: \"Community college and other higher education systems that are interested in elevating student and faculty voice in their edtech evaluation processes can le..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

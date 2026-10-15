@@ -3,7 +3,7 @@ type: element
 id: graphic-design-for-researchers-guide
 title: Graphic Design for Researchers guide covering design elements for research publications and digital products
 description: "A guide prepared for the Institute of Education Sciences' Regional Education Laboratories that 'covers key concepts behind good graphic design'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

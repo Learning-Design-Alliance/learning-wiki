@@ -3,7 +3,7 @@ type: claim
 title: Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students
 description: Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students
 id: grav-wave-theme-coheres-curriculum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: design
 id: demo-inquiry-model-discussion-sequence
 title: Combining visual demonstrations, guided inquiry, computational-model manipulation, and group discussion to teach cutting-edge science concepts
 description: "This instructional pattern sequences four modes of engagement around one scientific concept: a physical demonstration, a guided-inquiry worksheet, manipulation of a computational model, and group discussion."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

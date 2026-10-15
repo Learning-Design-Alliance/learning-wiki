@@ -3,7 +3,7 @@ type: claim
 title: Abandoning preamble coding macros in favor of amsmath, unicode-math, and siunitx enabled successive error-free transcriptions
 description: Abandoning preamble coding macros in favor of amsmath, unicode-math, and siunitx enabled successive error-free transcriptions
 id: minimalist-preamble-enabled-error-free-transcription
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

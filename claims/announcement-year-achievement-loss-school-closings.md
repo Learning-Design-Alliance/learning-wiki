@@ -3,7 +3,7 @@ type: claim
 title: "School closings reduced displaced students' reading and math achievement during the announcement year, about six months before schools actually closed"
 description: "School closings reduced displaced students' reading and math achievement during the announcement year, about six months before schools actually closed"
 id: announcement-year-achievement-loss-school-closings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

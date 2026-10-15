@@ -3,7 +3,7 @@ type: strategy
 id: multiple-criteria-nontraditional-identification
 title: Use multiple criteria and non-traditional measures to identify diverse gifted learners
 description: "The essay advocates restructuring identification to recognize \"cultural diversity as differences, not deficiencies,\" noting \"The use of multiple criteria and non-traditional measures is widely advocated\" (Passow & Fra..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

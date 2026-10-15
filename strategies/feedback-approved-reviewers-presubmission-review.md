@@ -3,7 +3,7 @@ type: strategy
 id: feedback-approved-reviewers-presubmission-review
 title: Separate feedback provision from competency certification, using feedback-approved reviewers or pre-submission review
 description: "The article reports that reviewers' feedback on submissions tends to be more varied in focus and quality than their scores, and variability could be perceived as undermining scoring decisions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

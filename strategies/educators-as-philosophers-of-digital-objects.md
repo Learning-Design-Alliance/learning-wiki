@@ -3,7 +3,7 @@ type: strategy
 id: educators-as-philosophers-of-digital-objects
 title: Educators should treat themselves as philosophers of teaching, learning, and digital objects
 description: "The article recommends that educators recognize themselves as \"philosophers\" of teaching and learning, extending Hui's call for educators to become philosophers of digital objects — forms of data made visible and invi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

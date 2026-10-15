@@ -3,7 +3,7 @@ type: claim
 title: A single practice test produced a larger effect (g = 0.70) than two or more practice tests (g = 0.51)
 description: A single practice test produced a larger effect (g = 0.70) than two or more practice tests (g = 0.51)
 id: single-practice-test-larger-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: Replacing evolutionary experts with random-path experts collapses performance, and greedy 1-step lookahead reaches only +0.155 EP on ASSIST15 L=10
 description: Replacing evolutionary experts with random-path experts collapses performance, and greedy 1-step lookahead reaches only +0.155 EP on ASSIST15 L=10
 id: random-experts-collapse-lpr-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: General-purpose embedding yields better retrieval while domain-specific embedding yields higher answer completeness and relevance
 description: General-purpose embedding yields better retrieval while domain-specific embedding yields higher answer completeness and relevance
 id: embedding-model-tradeoff-retrieval-vs-completeness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

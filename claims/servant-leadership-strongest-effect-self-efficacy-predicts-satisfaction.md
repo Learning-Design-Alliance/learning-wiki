@@ -3,7 +3,7 @@ type: claim
 title: Servant leadership shows the strongest effect on teacher self-efficacy, which in turn predicts life satisfaction
 description: Servant leadership shows the strongest effect on teacher self-efficacy, which in turn predicts life satisfaction
 id: servant-leadership-strongest-effect-self-efficacy-predicts-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

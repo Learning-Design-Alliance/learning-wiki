@@ -3,7 +3,7 @@ type: claim
 title: Prior-year absence effects on starting achievement are much smaller in reading than mathematics and non-significant in most grade levels
 description: Prior-year absence effects on starting achievement are much smaller in reading than mathematics and non-significant in most grade levels
 id: reading-effects-smaller-nonsignificant-most-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

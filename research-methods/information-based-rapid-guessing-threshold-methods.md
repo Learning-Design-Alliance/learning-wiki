@@ -3,7 +3,7 @@ type: research-method
 id: information-based-rapid-guessing-threshold-methods
 title: Information-based rapid-guessing threshold methods
 description: "The article introduces \"A pair of information-based methods\" for setting rapid-guessing thresholds."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

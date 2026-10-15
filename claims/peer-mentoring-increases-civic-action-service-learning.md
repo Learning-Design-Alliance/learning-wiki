@@ -3,7 +3,7 @@ type: claim
 title: Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison
 description: Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison
 id: peer-mentoring-increases-civic-action-service-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

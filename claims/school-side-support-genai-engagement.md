@@ -3,7 +3,7 @@ type: claim
 title: "School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction"
 description: "School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction"
 id: school-side-support-genai-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys
 description: Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys
 id: gender-engagement-adaptive-platforms-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

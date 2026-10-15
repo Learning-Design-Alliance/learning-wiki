@@ -3,7 +3,7 @@ type: strategy
 id: three-part-rubric-maker-assessment
 title: Use a three-part process-understanding-product rubric for formative and summative maker assessment
 description: After a well-crafted prompt, the paper recommends a rubric or checklist as the second component of effective assessment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

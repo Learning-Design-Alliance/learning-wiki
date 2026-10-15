@@ -3,7 +3,7 @@ type: research-method
 id: equity-oriented-research-methodology
 title: Equity-oriented research methodology
 description: "Drawing on the National Academies of Sciences 2022 report, the article frames equity-oriented research methodologically in two ways: \"1) to look at differences between groups and 2) to design conditions that can enhance the performance of historically and systemically excluded groups.\" The report al"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

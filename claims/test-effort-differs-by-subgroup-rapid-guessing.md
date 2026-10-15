@@ -3,7 +3,7 @@ type: claim
 title: Test effort differs substantially by student subgroup, with males rapidly guessing nearly twice as often as females in later grades and Black students rapidly guessing more often than White students
 description: Test effort differs substantially by student subgroup, with males rapidly guessing nearly twice as often as females in later grades and Black students rapidly guessing more often than White students
 id: test-effort-differs-by-subgroup-rapid-guessing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

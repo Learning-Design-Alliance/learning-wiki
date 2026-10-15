@@ -3,7 +3,7 @@ type: strategy
 id: adopt-preschool-paths-head-start-school-entry
 title: Adopt Preschool PATHS in Head Start and school programs to support social-emotional readiness for school entry
 description: "The editors' strategic implication recommends that \"Head Start and school programs will find these multi-informant data to be of interest as they consider a curriculum to help prepare children for school entry.\" The r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

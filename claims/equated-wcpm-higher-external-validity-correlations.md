@@ -3,7 +3,7 @@ type: claim
 title: Equated WCPM scores generally correlate more highly with MAP Growth Reading RIT scores than raw WCPM scores, with one exception
 description: Equated WCPM scores generally correlate more highly with MAP Growth Reading RIT scores than raw WCPM scores, with one exception
 id: equated-wcpm-higher-external-validity-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

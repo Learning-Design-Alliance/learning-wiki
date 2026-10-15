@@ -3,7 +3,7 @@ type: claim
 title: "Students' perceived deep-learning benefits of LLMs declined over the term while satisfaction and time savings remained high"
 description: "Students' perceived deep-learning benefits of LLMs declined over the term while satisfaction and time savings remained high"
 id: perceived-deep-learning-benefits-declined-over-term
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

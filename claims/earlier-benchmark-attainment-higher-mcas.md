@@ -3,7 +3,7 @@ type: claim
 title: Among students below benchmark at the start of grade 1, meeting screening benchmarks earlier is associated with higher grade 3 MCAS proficiency rates
 description: Among students below benchmark at the start of grade 1, meeting screening benchmarks earlier is associated with higher grade 3 MCAS proficiency rates
 id: earlier-benchmark-attainment-higher-mcas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

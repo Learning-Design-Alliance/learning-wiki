@@ -3,7 +3,7 @@ type: claim
 title: Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education
 description: Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education
 id: adaptive-leadership-enables-ai-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: clinical-interview-for-moral-injurymilitary-version
 title: Clinical Interview for Moral Injury—Military Version
 description: The CIMI-M is a structured, non-diagnostic clinical interview developed by de Goede et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

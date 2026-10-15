@@ -3,7 +3,7 @@ type: strategy
 id: prepare-teachers-students-before-socratic-circles
 title: Prepare teachers and students with awareness, vocabulary, and facilitation knowledge before implementing Socratic Circles
 description: Post-implementation debrief sessions in the RCS pilot yielded iteration learnings about preparation needs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

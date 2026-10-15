@@ -3,7 +3,7 @@ type: claim
 title: Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)
 description: Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)
 id: guidance-improves-inquiry-learning-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

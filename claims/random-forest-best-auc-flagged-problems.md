@@ -3,7 +3,7 @@ type: claim
 title: A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)
 description: A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)
 id: random-forest-best-auc-flagged-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

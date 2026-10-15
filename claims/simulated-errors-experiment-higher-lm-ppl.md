@@ -3,7 +3,7 @@ type: claim
 title: "SFT with simulated children's reading errors yields higher LM-PPL than other experiments, driven by brevity and post-story irrelevant content"
 description: "SFT with simulated children's reading errors yields higher LM-PPL than other experiments, driven by brevity and post-story irrelevant content"
 id: simulated-errors-experiment-higher-lm-ppl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

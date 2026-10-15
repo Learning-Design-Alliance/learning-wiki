@@ -3,7 +3,7 @@ type: claim
 title: "Maternal prescriptives that follow the child's focus of attention correlate positively with productive vocabulary at 1;10"
 description: "Maternal prescriptives that follow the child's focus of attention correlate positively with productive vocabulary at 1;10"
 id: follow-prescriptives-correlate-vocabulary-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

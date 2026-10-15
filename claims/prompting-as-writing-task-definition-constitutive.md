@@ -3,7 +3,7 @@ type: claim
 title: "Prompting is a form of writing: task definition is a constitutive element of knowledge production, not a neutral procedural step"
 description: "Prompting is a form of writing: task definition is a constitutive element of knowledge production, not a neutral procedural step"
 id: prompting-as-writing-task-definition-constitutive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

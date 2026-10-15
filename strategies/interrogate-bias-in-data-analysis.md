@@ -3,7 +3,7 @@ type: strategy
 id: interrogate-bias-in-data-analysis
 title: Interrogate bias in data analysis by unpacking biases with colleagues and building skills to name bias in action
 description: This strategy addresses the unconscious bias all analysts bring to data interpretation, which the brief says can take many forms, including racial and ethnic bias, bias toward certain behaviors and attitudes, and bias...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

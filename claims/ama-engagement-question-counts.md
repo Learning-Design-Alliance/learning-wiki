@@ -3,7 +3,7 @@ type: claim
 title: Most students posed one to three questions to the chatbot, with a minority showing substantially higher engagement
 description: Most students posed one to three questions to the chatbot, with a minority showing substantially higher engagement
 id: ama-engagement-question-counts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

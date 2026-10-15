@@ -3,7 +3,7 @@ type: claim
 title: Video-only documentation created a pause-act-rewind cycle, with orientation and navigation-continuity clarity scoring lowest and wiring identification the primary difficulty for first-time builders
 description: Video-only documentation created a pause-act-rewind cycle, with orientation and navigation-continuity clarity scoring lowest and wiring identification the primary difficulty for first-time builders
 id: video-documentation-pause-act-rewind-bottleneck
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

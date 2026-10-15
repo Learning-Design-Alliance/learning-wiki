@@ -3,7 +3,7 @@ type: claim
 title: More effective programs targeted teachers, trainees, and individuals with an autonomy causality orientation
 description: More effective programs targeted teachers, trainees, and individuals with an autonomy causality orientation
 id: recipient-moderators-teachers-trainees-autonomy-orientation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

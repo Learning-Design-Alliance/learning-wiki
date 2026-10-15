@@ -3,7 +3,7 @@ type: claim
 title: Student reports of safety did not improve faster in Culture of Calm schools than in other similar high schools
 description: Student reports of safety did not improve faster in Culture of Calm schools than in other similar high schools
 id: coc-student-safety-no-faster-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

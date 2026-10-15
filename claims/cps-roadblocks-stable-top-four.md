@@ -3,7 +3,7 @@ type: claim
 title: "The same four roadblocks to school improvement topped principals' rankings across ten years of surveys, with subgroup contrasts in emphasis"
 description: "The same four roadblocks to school improvement topped principals' rankings across ten years of surveys, with subgroup contrasts in emphasis"
 id: cps-roadblocks-stable-top-four
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

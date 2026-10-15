@@ -3,7 +3,7 @@ type: claim
 title: Among the 50 most innovative U.S. universities, instructor-set syllabus-level governance is the dominant GenAI convergence, with 33 of 50 providing syllabus or course-policy guidance
 description: Among the 50 most innovative U.S.
 id: instructor-syllabus-level-genai-governance-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

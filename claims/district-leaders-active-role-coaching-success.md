@@ -3,7 +3,7 @@ type: claim
 title: District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed
 description: District leaders must take an active role in removing barriers and fostering a supportive culture for coaching programs to succeed
 id: district-leaders-active-role-coaching-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

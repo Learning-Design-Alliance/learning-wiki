@@ -3,7 +3,7 @@ type: claim
 title: I-BEST has no discernible effects on credit accumulation
 description: I-BEST has no discernible effects on credit accumulation
 id: ibest-no-discernible-effects-credit-accumulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

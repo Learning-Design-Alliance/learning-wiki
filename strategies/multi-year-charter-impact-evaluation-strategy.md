@@ -3,7 +3,7 @@ type: strategy
 id: multi-year-charter-impact-evaluation-strategy
 title: Evaluate charter school impacts across college enrollment, graduation, attendance, and suspensions over multiple years
 description: "The report models a multi-year evaluation approach: it \"evaluates the impact of the Kauffman School on college enrollment, high school graduation, attendance, and suspensions during its first nine years of operation.\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

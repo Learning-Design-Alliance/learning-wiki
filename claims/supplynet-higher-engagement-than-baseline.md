@@ -3,7 +3,7 @@ type: claim
 title: SupplyNet was rated significantly more immersive, motivating, and enjoyable than the baseline, with engagement showing the most pronounced difference.
 description: SupplyNet was rated significantly more immersive, motivating, and enjoyable than the baseline, with engagement showing the most pronounced difference.
 id: supplynet-higher-engagement-than-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: plc-team-structures-equity-schools
 title: Professional learning communities (PLCs) with team structures and weekly scheduled meetings
 description: Professional learning communities are structures that help educators inquire about and solve problems and reflect on their work together.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

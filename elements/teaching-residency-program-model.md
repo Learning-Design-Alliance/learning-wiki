@@ -3,7 +3,7 @@ type: element
 id: teaching-residency-program-model
 title: "Teaching residency program (TRP) model: master's coursework plus a one-year supervised residency"
 description: Teaching residency programs are alternative teacher-training models funded under the Teacher Quality Partnership Grant Program.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

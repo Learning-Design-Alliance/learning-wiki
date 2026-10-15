@@ -3,7 +3,7 @@ type: claim
 title: Teachers and students differed in how unified their pairing-preparation design preferences were, with teachers more aligned than students in Challenge 1.
 description: Teachers and students differed in how unified their pairing-preparation design preferences were, with teachers more aligned than students in Challenge 1.
 id: claim-teachers-more-unified-than-students-challenge-1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

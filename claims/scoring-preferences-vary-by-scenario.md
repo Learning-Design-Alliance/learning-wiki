@@ -3,7 +3,7 @@ type: claim
 title: "Students' preferences for AI versus human scoring and feedback vary significantly across assessment scenarios, with strong human preference for high-stakes tasks"
 description: "Students' preferences for AI versus human scoring and feedback vary significantly across assessment scenarios, with strong human preference for high-stakes tasks"
 id: scoring-preferences-vary-by-scenario
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: The 2025 MAP Growth norms were derived from one of the largest norming samples ever created, spanning 116,225,831 test events from 13,804,182 students in 29,720 schools across 7,000 districts over six testing terms
 description: The 2025 MAP Growth norms were derived from one of the largest norming samples ever created, spanning 116,225,831 test events from 13,804,182 students in 29,720 schools across 7,000 districts over six testing terms
 id: map-growth-2025-norms-massive-norming-sample
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

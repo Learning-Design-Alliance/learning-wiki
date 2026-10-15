@@ -3,7 +3,7 @@ type: claim
 title: Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers
 description: Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers
 id: learnlm-preference-explanation-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: full-immersion-lecture-lab-day-structure
 title: "Full-immersion day structure: morning background lectures, afternoon group laboratories, evening observation"
 description: "The summer school organizes each day so that lectures prepare hands-on work: \"In the morning, we usually propose lectures in which, by stimulating the active involvement, we give the necessary background for the follo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

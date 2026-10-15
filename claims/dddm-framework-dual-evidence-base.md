@@ -3,7 +3,7 @@ type: claim
 title: "The DDDM framework was developed from Mathematica's initiative evaluations and existing literature"
 description: "The DDDM framework was developed from Mathematica's initiative evaluations and existing literature"
 id: dddm-framework-dual-evidence-base
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

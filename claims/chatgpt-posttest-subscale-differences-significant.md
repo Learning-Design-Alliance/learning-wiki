@@ -3,7 +3,7 @@ type: claim
 title: Post-test mean differences favored the ChatGPT group on knowing, applying, and reasoning subscales and overall at α=0.05
 description: Post-test mean differences favored the ChatGPT group on knowing, applying, and reasoning subscales and overall at α=0.05
 id: chatgpt-posttest-subscale-differences-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

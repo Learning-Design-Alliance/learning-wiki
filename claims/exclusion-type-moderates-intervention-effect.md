@@ -3,7 +3,7 @@ type: claim
 title: Interventions are more effective for general suspensions and in-school exclusion than for severe sanctions such as permanent exclusion and out-of-school suspension
 description: Interventions are more effective for general suspensions and in-school exclusion than for severe sanctions such as permanent exclusion and out-of-school suspension
 id: exclusion-type-moderates-intervention-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

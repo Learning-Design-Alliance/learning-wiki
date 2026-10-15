@@ -3,7 +3,7 @@ type: claim
 title: "NAMI On Campus Club participants reported high confidence in their clubs' impact, with 72–100% agreement across survey items"
 description: "NAMI On Campus Club participants reported high confidence in their clubs' impact, with 72–100% agreement across survey items"
 id: nami-campus-club-survey-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Time spent in inter-group interactions increased substantially over the semester in the advanced laboratory course
 description: Time spent in inter-group interactions increased substantially over the semester in the advanced laboratory course
 id: adlab-intergroup-interaction-time-increased-over-semester
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

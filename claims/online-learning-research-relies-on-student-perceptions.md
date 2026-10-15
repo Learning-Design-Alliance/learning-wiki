@@ -3,7 +3,7 @@ type: claim
 title: Much existing online learning research bases its conclusions on student perceptions of interaction quantity and quality and of their own learning, rather than on performance measures.
 description: Much existing online learning research bases its conclusions on student perceptions of interaction quantity and quality and of their own learning, rather than on performance measures.
 id: online-learning-research-relies-on-student-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

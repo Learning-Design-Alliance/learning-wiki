@@ -3,7 +3,7 @@ type: strategy
 id: reopening-planning-weigh-health-and-learning-loss
 title: When planning for the school year during COVID-19, schools and districts should weigh public health factors alongside educational factors such as potential learning loss
 description: "This strategy captures the publication's framing of how districts should approach 2020-2021 school-year planning during pandemic building closures."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

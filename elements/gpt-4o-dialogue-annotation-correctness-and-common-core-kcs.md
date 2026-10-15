@@ -4,7 +4,7 @@ id: gpt-4o-dialogue-annotation-correctness-and-common-core-kcs
 title: GPT-4o Automated Dialogue Annotation with Recursive Common Core Tagging
 description: The article annotates each student turn with correctness and KC labels using GPT-4o via simple, zero-shot chain-of-thought prompting, instructing it to summarize turns before labeling.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

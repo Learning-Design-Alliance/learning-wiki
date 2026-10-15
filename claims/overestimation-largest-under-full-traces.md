@@ -3,7 +3,7 @@ type: claim
 title: Participants substantially overestimated their performance in all trace conditions, with the largest overestimation under full traces
 description: Participants substantially overestimated their performance in all trace conditions, with the largest overestimation under full traces
 id: overestimation-largest-under-full-traces
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

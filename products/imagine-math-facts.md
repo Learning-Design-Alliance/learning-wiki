@@ -4,7 +4,7 @@ id: imagine-math-facts
 title: Imagine Math Facts
 description: "Imagine Learning's Imagine Math Facts is a digital 3D game-based program for practicing addition, subtraction, multiplication, and division to build arithmetic fluency and automaticity."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

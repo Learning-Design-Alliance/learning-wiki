@@ -4,7 +4,7 @@ id: openscied-lesson-idea-dataset-of-49-lesson-plans-and-8820-llm-simulated-stud
 title: OpenSciEd lesson-idea dataset of 49 lesson plans and 8820 LLM-simulated student ideas
 description: A dataset created by Nguyen et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

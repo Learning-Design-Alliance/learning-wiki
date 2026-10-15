@@ -3,7 +3,7 @@ type: strategy
 id: engage-faculty-epistemic-beliefs-for-ai-adoption-support
 title: Support faculty AI adoption by engaging beliefs about disciplinary thinking, not only access and technical training
 description: "The article recommends that efforts to support AI adoption \"must help faculty concep- tualize and articulate how AI might support disciplinary thinking in their context, as well as constraints necessary so that import..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

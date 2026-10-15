@@ -3,7 +3,7 @@ type: strategy
 id: disseminate-via-knowledge-brokers
 title: Disseminate research to practitioners through knowledge brokers and accessible formats such as short videos and social media threads
 description: "Because classroom teachers rarely seek out research, the report recommends reaching education's knowledge brokers—individuals in school systems who facilitate the exchange of research-informed knowledge, serving forma..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

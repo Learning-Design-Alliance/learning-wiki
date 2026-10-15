@@ -3,7 +3,7 @@ type: claim
 title: Rubric dimensions were revised in 2023 to sharpen argumentation, contextualization, and Level 1 descriptions
 description: Rubric dimensions were revised in 2023 to sharpen argumentation, contextualization, and Level 1 descriptions
 id: rubric-2023-revisions-argumentation-contextualization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

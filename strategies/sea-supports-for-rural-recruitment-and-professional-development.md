@@ -3,7 +3,7 @@ type: strategy
 id: sea-supports-for-rural-recruitment-and-professional-development
 title: State education agencies can support rural turnaround staffing and professional development through recruitment supports, shared PD, and technology assistance
 description: The article describes a set of SEA-level supports for rural schools drawn from the CST handbook chapter and survey.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

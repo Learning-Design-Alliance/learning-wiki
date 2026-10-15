@@ -3,7 +3,7 @@ type: design
 id: waves-module-simulations-integrated-chatbot
 title: Custom-built online waves module with simulations integrated with a chatbot
 description: A 10-page extra-credit online activity on wave concepts, built for a large-enrollment calculus-based physics course for future engineers using the Matter and Interactions textbook.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Read, Write & Type!™ shows no discernible effects on reading comprehension or vocabulary for beginning readers"
 description: "Read, Write & Type!™ shows no discernible effects on reading comprehension or vocabulary for beginning readers"
 id: rwt-no-discernible-comprehension-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

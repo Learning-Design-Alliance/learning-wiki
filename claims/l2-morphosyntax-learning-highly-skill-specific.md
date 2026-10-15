@@ -3,7 +3,7 @@ type: claim
 title: "Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill"
 description: "Learning of second language morphosyntactic rules is highly skill-specific: comprehension practice yields comprehension skill and production practice yields production skill"
 id: l2-morphosyntax-learning-highly-skill-specific
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: annual-research-agenda-coordinating-outside-researchers
 title: Lead an annual district research agenda and coordinate outside researchers to maximize usefulness of research
 description: "The report recommends that DRE \"Lead development of an annual CPS research agenda\" so that administration and the Board can encourage research contributing to improved instruction."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

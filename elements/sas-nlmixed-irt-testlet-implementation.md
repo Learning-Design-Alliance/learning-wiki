@@ -3,7 +3,7 @@ type: element
 id: sas-nlmixed-irt-testlet-implementation
 title: SAS NLMIXED implementation of the general polytomous testlet model, 2PL/GPCM, and MIRT-SS models
 description: The report implements all three models (the general polytomous testlet model, the 2PL/GPCM, and the multidimensional IRT model with simple structure) using the SAS NLMIXED procedure, which fits nonlinear mixed models...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

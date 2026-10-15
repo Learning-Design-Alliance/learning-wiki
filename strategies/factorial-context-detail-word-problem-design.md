@@ -3,7 +3,7 @@ type: strategy
 id: factorial-context-detail-word-problem-design
 title: Use a 2x2 factorial design to separate the effects of contextual relevance and linguistic detail in word problems
 description: "The article proposes that contextually relevant language may be more engaging, but adding context often adds linguistic detail that may reduce clarity, making the two influences \"possibly separable.\" It therefore reco..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In Torgesen et al. (2010), LiPS produced statistically significant positive effects on word accuracy/fluency, phonemic decoding, phonological awareness, and spelling versus a basal reading program
 description: In Torgesen et al.
 id: torgesen-2010-positive-alphabetics-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

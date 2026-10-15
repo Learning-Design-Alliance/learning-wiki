@@ -3,7 +3,7 @@ type: strategy
 id: connect-external-collaborators
 title: Connect learners with external collaborators
 description: Teachers make connections with keypals on the network or local volunteers in the school district, then act as learning supporters to encourage collaborative learning around those connections.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

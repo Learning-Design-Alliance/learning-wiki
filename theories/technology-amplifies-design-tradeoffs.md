@@ -2,7 +2,7 @@
 type: theory
 title: "Technology-as-amplifier: learning technology intensifies and scales the impacts of design tradeoffs in either direction"
 description: "The report's central framing metaphor holds that technology amplifies whatever design choices surround it: \"learning technology can take an aspect of a learning process and emphasize it, refine it, intensify it, and s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

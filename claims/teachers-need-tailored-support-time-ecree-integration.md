@@ -3,7 +3,7 @@ type: claim
 title: Teachers need tailored technical support and time to understand how to use Ecree and integrate it with their instruction
 description: Teachers need tailored technical support and time to understand how to use Ecree and integrate it with their instruction
 id: teachers-need-tailored-support-time-ecree-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

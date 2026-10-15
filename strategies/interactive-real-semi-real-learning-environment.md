@@ -3,7 +3,7 @@ type: strategy
 id: interactive-real-semi-real-learning-environment
 title: Create an interactive learning environment in real or semi-real contexts using modern teaching media
 description: "The article states that \"Constructivism learning theory requires to study in real or semi-real environment\", emphasizing non-structural knowledge and students' previous experiences, which traditional teaching neglecte..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

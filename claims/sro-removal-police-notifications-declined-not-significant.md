@@ -3,7 +3,7 @@ type: claim
 title: Police notifications declined substantially in schools that fully removed SROs, but the difference-in-difference was not statistically significant
 description: Police notifications declined substantially in schools that fully removed SROs, but the difference-in-difference was not statistically significant
 id: sro-removal-police-notifications-declined-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

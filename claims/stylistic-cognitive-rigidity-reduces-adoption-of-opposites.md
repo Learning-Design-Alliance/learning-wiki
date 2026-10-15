@@ -3,7 +3,7 @@ type: claim
 title: "More stylistic information processing makes individuals' viewpoints narrower and more rigid, reducing ability to adopt opposite styles"
 description: "More stylistic information processing makes individuals' viewpoints narrower and more rigid, reducing ability to adopt opposite styles"
 id: stylistic-cognitive-rigidity-reduces-adoption-of-opposites
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

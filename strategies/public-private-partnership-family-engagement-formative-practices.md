@@ -3,7 +3,7 @@ type: strategy
 id: public-private-partnership-family-engagement-formative-practices
 title: Six formative practices for leveraging public-private partnerships to support family engagement
 description: "The report distills formative findings about the viability of leveraging public-private partnerships for family engagement into six practices: \"allowing sufficient time when moving from planning to implementation; inv..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

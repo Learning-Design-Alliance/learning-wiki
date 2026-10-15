@@ -3,7 +3,7 @@ type: claim
 title: Adult learners perceive conversational AI as thinking partners that support problem exploration without direct instruction
 description: Adult learners perceive conversational AI as thinking partners that support problem exploration without direct instruction
 id: ai-thinking-partners-support-problem-exploration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

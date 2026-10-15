@@ -3,7 +3,7 @@ type: research-method
 id: matching-sample-definitions-and-analysis-methods-to-clustered-education-trial-designs
 title: Matching sample definitions and analysis methods to clustered education trial designs
 description: "Among the practical steps the article recommends for meeting evidence and accountability demands are \"identifying appropriate sample definitions and analysis methods.\" In a clustered design this means defining the school and student samples deliberately and using analysis methods appropriate to clus"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)"
 description: At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)
 id: swpbis-reduces-odr-at-risk-high-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

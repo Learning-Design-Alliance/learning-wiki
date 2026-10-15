@@ -3,7 +3,7 @@ type: claim
 title: "Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity"
 description: "Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity"
 id: progressive-but-insufficient-funding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

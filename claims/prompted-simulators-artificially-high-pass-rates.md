@@ -3,7 +3,7 @@ type: claim
 title: "Prompting-based student simulators maintain artificially high pass rates (~80%) from the first submission step, while fine-tuned models track real students' low-start, sharp-increase trajectories"
 description: "Prompting-based student simulators maintain artificially high pass rates (~80%) from the first submission step, while fine-tuned models track real students' low-start, sharp-increase trajectories"
 id: prompted-simulators-artificially-high-pass-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The technological gender gap emerges only within Technology-oriented pathways, with parity in Arts and Sciences
 description: The technological gender gap emerges only within Technology-oriented pathways, with parity in Arts and Sciences
 id: gender-gap-emerges-only-in-technology-pathway
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-difficult-constructions-and-light-verbs
 title: Allocate more teaching time to difficult constructions and select light verbs for beginner and intermediate learners
 description: The article derives two instructional recommendations from its findings for EFL teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

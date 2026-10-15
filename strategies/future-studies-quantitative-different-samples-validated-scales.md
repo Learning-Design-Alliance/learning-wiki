@@ -3,7 +3,7 @@ type: strategy
 id: future-studies-quantitative-different-samples-validated-scales
 title: Extend this line of research with quantitative methods, different sample groups, and validated scales
 description: The article closes with forward-looking research recommendations for work on Web 2.0 tool use through the needs hierarchy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

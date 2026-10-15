@@ -3,7 +3,7 @@ type: claim
 title: Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers
 description: Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers
 id: shortage-subjects-special-education-math-science
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

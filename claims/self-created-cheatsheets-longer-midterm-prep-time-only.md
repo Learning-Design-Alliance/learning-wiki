@@ -3,7 +3,7 @@ type: claim
 title: Self-created cheat sheet users reported significantly longer midterm preparation time than instructor-provided users, but the difference was not significant for the final exam
 description: Self-created cheat sheet users reported significantly longer midterm preparation time than instructor-provided users, but the difference was not significant for the final exam
 id: self-created-cheatsheets-longer-midterm-prep-time-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

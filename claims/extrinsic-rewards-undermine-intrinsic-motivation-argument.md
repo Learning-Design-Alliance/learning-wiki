@@ -3,7 +3,7 @@ type: claim
 title: The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out
 description: The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out
 id: extrinsic-rewards-undermine-intrinsic-motivation-argument
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

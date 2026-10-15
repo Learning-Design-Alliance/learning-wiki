@@ -3,7 +3,7 @@ type: claim
 title: PsyScore-AES achieves a state-of-the-art average QWK of 0.747 on ASAP++, surpassing the strongest baseline SaMRL-large (0.722) and ranking first on 6 of 8 prompts
 description: PsyScore-AES achieves a state-of-the-art average QWK of 0.747 on ASAP++, surpassing the strongest baseline SaMRL-large (0.722) and ranking first on 6 of 8 prompts
 id: psyscore-aes-sota-qwk-0-747-asap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

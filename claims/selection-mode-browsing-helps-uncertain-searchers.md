@@ -3,7 +3,7 @@ type: claim
 title: Browsing term lists (selection mode) helps searchers who do not know the exact query term
 description: Browsing term lists (selection mode) helps searchers who do not know the exact query term
 id: selection-mode-browsing-helps-uncertain-searchers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

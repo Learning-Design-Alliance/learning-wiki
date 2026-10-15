@@ -3,7 +3,7 @@ type: claim
 title: "Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains"
 description: "Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains"
 id: suggest-subgoal-compliance-predicts-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

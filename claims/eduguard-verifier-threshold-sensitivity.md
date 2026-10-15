@@ -3,7 +3,7 @@ type: claim
 title: The verification threshold trades hallucination reduction against over-refusal, with the default tau of 0.20 providing the best balance
 description: The verification threshold trades hallucination reduction against over-refusal, with the default tau of 0.20 providing the best balance
 id: eduguard-verifier-threshold-sensitivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

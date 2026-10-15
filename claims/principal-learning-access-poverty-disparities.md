@@ -3,7 +3,7 @@ type: claim
 title: "Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities"
 description: "Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities"
 id: principal-learning-access-poverty-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "In one first-year composition class, stylistic analysis of a president's letter served critical pedagogy goals"
 description: "In one first-year composition class, stylistic analysis of a president's letter served critical pedagogy goals"
 id: style-analysis-president-letter-critical-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

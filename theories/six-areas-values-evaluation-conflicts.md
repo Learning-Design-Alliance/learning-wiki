@@ -2,7 +2,7 @@
 type: theory
 title: Six areas of values in evaluation conflicts
 description: A second organizing axis of the taxonomy is the set of value areas in which evaluation conflicts arise.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

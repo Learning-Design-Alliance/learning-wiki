@@ -3,7 +3,7 @@ type: claim
 title: GenAI dependence weakens the positive association between GenAI use and both student outcomes, attenuating it to statistical non-significance at high dependence
 description: GenAI dependence weakens the positive association between GenAI use and both student outcomes, attenuating it to statistical non-significance at high dependence
 id: genai-dependence-moderates-use-outcome-links
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

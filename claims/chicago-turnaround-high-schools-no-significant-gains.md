@@ -3,7 +3,7 @@ type: claim
 title: High schools that underwent reform showed no significant improvement in absence rates or ninth-grade on-track rates compared with matched schools
 description: High schools that underwent reform showed no significant improvement in absence rates or ninth-grade on-track rates compared with matched schools
 id: chicago-turnaround-high-schools-no-significant-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

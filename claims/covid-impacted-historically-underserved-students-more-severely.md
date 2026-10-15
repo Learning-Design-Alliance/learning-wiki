@@ -3,7 +3,7 @@ type: claim
 title: The COVID-19 pandemic impacted historically underserved students more severely than their peers
 description: The COVID-19 pandemic impacted historically underserved students more severely than their peers
 id: covid-impacted-historically-underserved-students-more-severely
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: student-facing-dashboard-online-distance-education
 title: Student-facing dashboard for online and distance education with selected features
 description: A student-facing learning analytics dashboard designed with and for online and distance learning students, displaying assignment scores, credits passed and studying, last time active on the module, VLE visit graphs, m...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

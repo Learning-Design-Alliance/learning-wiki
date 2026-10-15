@@ -3,7 +3,7 @@ type: claim
 title: Across 28 project contexts, human-in-the-loop and independent peer review identified no conceptual or mathematical hallucinations, and Python visualization scripts executed without compilation errors on the zero-shot attempt.
 description: Across 28 project contexts, human-in-the-loop and independent peer review identified no conceptual or mathematical hallucinations, and Python visualization scripts executed without compilation errors on the zero-shot...
 id: no-conceptual-hallucinations-28-contexts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

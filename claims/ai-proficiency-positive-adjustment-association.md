@@ -3,7 +3,7 @@ type: claim
 title: AI proficiency is positively associated with self-reported psychological adjustment after controlling for course development satisfaction
 description: AI proficiency is positively associated with self-reported psychological adjustment after controlling for course development satisfaction
 id: ai-proficiency-positive-adjustment-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

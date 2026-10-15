@@ -3,7 +3,7 @@ type: claim
 title: Studies of character education programs most often measure student-level outcomes, with behavioral outcomes measured for 31 of 36 programs, affective for 28, and cognitive for 25
 description: Studies of character education programs most often measure student-level outcomes, with behavioral outcomes measured for 31 of 36 programs, affective for 28, and cognitive for 25
 id: character-ed-studies-mostly-measure-student-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

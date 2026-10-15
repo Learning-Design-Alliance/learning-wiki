@@ -3,7 +3,7 @@ type: claim
 title: Never being expelled in high school was a substantially stronger predictor of college enrollment for Hispanic, English learner, older-entry, and town/rural students than for their counterparts
 description: Never being expelled in high school was a substantially stronger predictor of college enrollment for Hispanic, English learner, older-entry, and town/rural students than for their counterparts
 id: never-expelled-stronger-predictor-marginalized-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

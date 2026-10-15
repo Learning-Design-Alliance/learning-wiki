@@ -3,7 +3,7 @@ type: claim
 title: Areas of Chicago without magnet elementary schools have lower median family income and fewer white residents than areas within magnet neighborhood zones
 description: Areas of Chicago without magnet elementary schools have lower median family income and fewer white residents than areas within magnet neighborhood zones
 id: magnet-location-correlates-with-income-and-race
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

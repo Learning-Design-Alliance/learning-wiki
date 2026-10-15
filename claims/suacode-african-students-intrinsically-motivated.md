@@ -3,7 +3,7 @@ type: claim
 title: "Most African students enrolled in the SuaCode smartphone coding course for intrinsic rather than extrinsic reasons (68.7% vs 31.3% of coded motivations)"
 description: "Most African students enrolled in the SuaCode smartphone coding course for intrinsic rather than extrinsic reasons (68.7% vs 31.3% of coded motivations)"
 id: suacode-african-students-intrinsically-motivated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

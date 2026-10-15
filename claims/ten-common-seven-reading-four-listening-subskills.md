@@ -3,7 +3,7 @@ type: claim
 title: Cross-comparing theory, nine proficiency tests, and 25 coursebook tasks yields ten subskills shared between reading and listening, seven exclusive to reading, and four exclusive to listening
 description: Cross-comparing theory, nine proficiency tests, and 25 coursebook tasks yields ten subskills shared between reading and listening, seven exclusive to reading, and four exclusive to listening
 id: ten-common-seven-reading-four-listening-subskills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

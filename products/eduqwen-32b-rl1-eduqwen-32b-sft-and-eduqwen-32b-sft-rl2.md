@@ -4,7 +4,7 @@ id: eduqwen-32b-rl1-eduqwen-32b-sft-and-eduqwen-32b-sft-rl2
 title: EduQwen 32B-RL1, EduQwen 32B-SFT, and EduQwen 32B-SFT-RL2
 description: "Singh et al.'s EduQwen family comprises open-source 32-billion-parameter pedagogical LLMs designed for customizable, auditable tutoring and educational-platform integration."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

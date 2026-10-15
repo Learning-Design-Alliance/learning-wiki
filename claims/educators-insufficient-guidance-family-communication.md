@@ -3,7 +3,7 @@ type: claim
 title: Teachers and caregivers called for additional guidance and support in their communication and collaboration
 description: Teachers and caregivers called for additional guidance and support in their communication and collaboration
 id: educators-insufficient-guidance-family-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

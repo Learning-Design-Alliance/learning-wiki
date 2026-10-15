@@ -3,7 +3,7 @@ type: strategy
 id: leader-recommendations-effective-coaching-programs
 title: "School and district leaders' recommendations for implementing effective classroom coaching programs"
 description: Based on DLP evidence, the report recommends that school and district leaders work with their coach to build better partnerships (promote teacher buy-in, voluntary participation, teacher-set goals, protected coaching...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

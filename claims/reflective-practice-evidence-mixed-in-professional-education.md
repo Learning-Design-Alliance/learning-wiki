@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

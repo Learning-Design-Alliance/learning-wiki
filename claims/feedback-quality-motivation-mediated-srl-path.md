@@ -3,7 +3,7 @@ type: claim
 title: Feedback quality influences SRL only indirectly through learning motivation, not through self-efficacy or satisfaction
 description: Feedback quality influences SRL only indirectly through learning motivation, not through self-efficacy or satisfaction
 id: feedback-quality-motivation-mediated-srl-path
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

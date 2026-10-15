@@ -4,7 +4,7 @@ id: curated-nigerian-pidgin-english-corpus-of-416343-text-entries
 title: Curated Nigerian Pidgin English corpus of 416,343 text entries
 description: "Nwogo et al.'s publicly released corpus of Nigerian Pidgin text entries scraped, cleaned, and formatted from BBC Pidgin and Prime9ja for fine-tuning and evaluating Pidgin-aware language models."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

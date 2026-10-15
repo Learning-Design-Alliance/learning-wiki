@@ -3,7 +3,7 @@ type: claim
 title: "McKinney-Vento funding per identified student rose only from $71 to $79 between 2010 and 2020 despite a 39% increase in identified students"
 description: "McKinney-Vento funding per identified student rose only from $71 to $79 between 2010 and 2020 despite a 39% increase in identified students"
 id: mckinney-vento-inadequate-funding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Seeing an algorithm perform makes people significantly less likely to choose it over a human forecaster
 description: Seeing an algorithm perform makes people significantly less likely to choose it over a human forecaster
 id: seeing-algorithm-perform-reduces-choice-of-algorithm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

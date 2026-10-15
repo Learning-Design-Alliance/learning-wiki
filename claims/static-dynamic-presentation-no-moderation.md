@@ -3,7 +3,7 @@ type: claim
 title: Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information
 description: Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information
 id: static-dynamic-presentation-no-moderation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

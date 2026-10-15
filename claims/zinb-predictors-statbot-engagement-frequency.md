@@ -3,7 +3,7 @@ type: claim
 title: Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students
 description: Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students
 id: zinb-predictors-statbot-engagement-frequency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

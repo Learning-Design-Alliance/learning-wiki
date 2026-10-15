@@ -3,7 +3,7 @@ type: claim
 title: "Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities"
 description: "Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities"
 id: rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

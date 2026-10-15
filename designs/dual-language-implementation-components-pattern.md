@@ -3,7 +3,7 @@ type: design
 id: dual-language-implementation-components-pattern
 title: Three-component implementation pattern for dual language programs
 description: "Table 2 of the report describes three components of dual language program implementation: program leadership and support (a school leadership team of teachers and administrative staff overseeing model selection, devel..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

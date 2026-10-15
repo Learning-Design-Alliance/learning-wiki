@@ -3,7 +3,7 @@ type: design
 id: maic-multi-agent-course-framework
 title: "MAIC: an LLM-driven multi-agent online course framework balancing scalability and adaptivity"
 description: MAIC (Massive AI-empowered Course) is a proposed form of online education in which instructors upload slides and LLM-driven agents prepare structured lecture resources, then deliver classes through a teacher agent, te...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

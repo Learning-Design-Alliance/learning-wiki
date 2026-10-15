@@ -4,7 +4,7 @@ id: waterproof
 title: Waterproof
 description: Waterproof is an educational AI tool developed by Portegies et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

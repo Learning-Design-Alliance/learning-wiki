@@ -3,7 +3,7 @@ type: claim
 title: Interactive instruction declines and didactic instruction increases across elementary grade levels
 description: Interactive instruction declines and didactic instruction increases across elementary grade levels
 id: interactive-declines-didactic-increases-across-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

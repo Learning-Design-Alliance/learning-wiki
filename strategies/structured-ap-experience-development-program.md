@@ -3,7 +3,7 @@ type: strategy
 id: structured-ap-experience-development-program
 title: Institute strategies that turn the assistant principal experience into a structured program for developing school-leadership skills
 description: This strategy converts ordinary on-the-job assistant principal work into deliberate leadership development.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

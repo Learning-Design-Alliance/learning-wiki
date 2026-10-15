@@ -3,7 +3,7 @@ type: claim
 title: Teachers report changing high-quality instruction to match state and interim test formats, limiting deep learning opportunities
 description: Teachers report changing high-quality instruction to match state and interim test formats, limiting deep learning opportunities
 id: teachers-alter-instruction-to-match-test-formats
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

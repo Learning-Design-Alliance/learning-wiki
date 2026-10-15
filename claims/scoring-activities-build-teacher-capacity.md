@@ -3,7 +3,7 @@ type: claim
 title: Participating in scoring performance assessments builds teacher capacity in several ways
 description: Participating in scoring performance assessments builds teacher capacity in several ways
 id: scoring-activities-build-teacher-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

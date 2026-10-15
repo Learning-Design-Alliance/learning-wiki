@@ -3,7 +3,7 @@ type: claim
 title: "Assessment design, perceived assessment value, self-confidence, and fear of wrongful plagiarism accusations were the most frequently cited reasons for students' GenAI adoption decisions"
 description: "Assessment design, perceived assessment value, self-confidence, and fear of wrongful plagiarism accusations were the most frequently cited reasons for students' GenAI adoption decisions"
 id: reasons-students-cite-genai-assessment-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Six of seven recently reformed high schools showed first-year on-track improvements above comparison schools, though evidence is limited
 description: Six of seven recently reformed high schools showed first-year on-track improvements above comparison schools, though evidence is limited
 id: recent-high-school-turnarounds-on-track-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

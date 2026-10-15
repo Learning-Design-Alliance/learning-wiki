@@ -3,7 +3,7 @@ type: strategy
 id: expand-school-climate-improvement-programs
 title: Expand school-climate improvement programs as a lever for raising school performance
 description: Because climate is a factor schools can act on directly, the report recommends expanding programs designed to improve school climate as a route to broader school success.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

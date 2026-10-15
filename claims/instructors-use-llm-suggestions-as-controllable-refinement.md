@@ -3,7 +3,7 @@ type: claim
 title: Instructors engage LLM-generated suggestions as a controllable refinement process
 description: Instructors engage LLM-generated suggestions as a controllable refinement process
 id: instructors-use-llm-suggestions-as-controllable-refinement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

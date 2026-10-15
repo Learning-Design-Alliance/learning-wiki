@@ -3,7 +3,7 @@ type: claim
 title: AIHEd evidence synthesis is dominated by systematic reviews conducted in mostly domestic-only teams, with 66 higher-education reviews included in the corpus
 description: AIHEd evidence synthesis is dominated by systematic reviews conducted in mostly domestic-only teams, with 66 higher-education reviews included in the corpus
 id: aihed-corpus-systematic-reviews-domestic-teams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

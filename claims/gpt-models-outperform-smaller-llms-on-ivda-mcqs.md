@@ -3,7 +3,7 @@ type: claim
 title: GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models
 description: GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models
 id: gpt-models-outperform-smaller-llms-on-ivda-mcqs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Invention Tasks Prepare Future Learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

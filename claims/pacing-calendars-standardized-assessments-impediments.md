@@ -3,7 +3,7 @@ type: claim
 title: Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery
 description: Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery
 id: pacing-calendars-standardized-assessments-impediments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

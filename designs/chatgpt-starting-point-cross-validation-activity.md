@@ -3,7 +3,7 @@ type: design
 id: chatgpt-starting-point-cross-validation-activity
 title: ChatGPT-as-starting-point with mandatory cross-validation against academic sources
 description: A challenge-based learning activity design in which students use ChatGPT as a starting point for research and then verify its outputs.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

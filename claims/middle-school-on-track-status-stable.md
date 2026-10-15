@@ -3,7 +3,7 @@ type: claim
 title: Middle school on-track status for college readiness is stable for most students across grades 6 to 8
 description: Middle school on-track status for college readiness is stable for most students across grades 6 to 8
 id: middle-school-on-track-status-stable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

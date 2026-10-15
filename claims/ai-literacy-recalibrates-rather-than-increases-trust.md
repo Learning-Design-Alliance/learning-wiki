@@ -3,7 +3,7 @@ type: claim
 title: AI literacy interventions recalibrate reliance on ML systems rather than simply increasing trust
 description: AI literacy interventions recalibrate reliance on ML systems rather than simply increasing trust
 id: ai-literacy-recalibrates-rather-than-increases-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

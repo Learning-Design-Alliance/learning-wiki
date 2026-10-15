@@ -4,7 +4,7 @@ id: state-digital-equity-and-opportunity-framework
 title: State Digital Equity and Opportunity Framework
 description: A cross-sector digital-equity planning framework developed in A Framework for Digital Equity that guides state education, housing, and workforce agencies in setting objectives, requirements, metrics, and funding priorities.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

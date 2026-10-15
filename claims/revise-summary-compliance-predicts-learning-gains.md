@@ -3,7 +3,7 @@ type: claim
 title: "Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains"
 description: "Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains"
 id: revise-summary-compliance-predicts-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

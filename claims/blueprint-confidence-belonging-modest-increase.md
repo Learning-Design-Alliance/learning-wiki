@@ -3,7 +3,7 @@ type: claim
 title: Student math confidence and sense of belonging in tutoring increased modestly during the school year, with site-level variation
 description: Student math confidence and sense of belonging in tutoring increased modestly during the school year, with site-level variation
 id: blueprint-confidence-belonging-modest-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Chatbot outreach showed suggestive effects on assignment completion in Microeconomics but no effects on assignments in Government
 description: Chatbot outreach showed suggestive effects on assignment completion in Microeconomics but no effects on assignments in Government
 id: chatbot-assignment-completion-course-specific
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

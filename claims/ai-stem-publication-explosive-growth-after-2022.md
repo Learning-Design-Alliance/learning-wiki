@@ -3,7 +3,7 @@ type: claim
 title: Annual publication output on AI in STEM education grew moderately 2015–2018 and showed explosive growth after 2022 driven by LLMs
 description: Annual publication output on AI in STEM education grew moderately 2015–2018 and showed explosive growth after 2022 driven by LLMs
 id: ai-stem-publication-explosive-growth-after-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

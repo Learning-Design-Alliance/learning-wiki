@@ -3,7 +3,7 @@ type: claim
 title: Asymptotic properties of design-based estimators using group-level averages match those using individual data
 description: Asymptotic properties of design-based estimators using group-level averages match those using individual data
 id: group-level-design-based-estimators-match-individual-data-asymptotically
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

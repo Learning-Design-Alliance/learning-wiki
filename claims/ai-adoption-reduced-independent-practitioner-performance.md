@@ -3,7 +3,7 @@ type: claim
 title: Practitioners who adopt AI assistance show reduced independent performance compared to their baseline
 description: Practitioners who adopt AI assistance show reduced independent performance compared to their baseline
 id: ai-adoption-reduced-independent-practitioner-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

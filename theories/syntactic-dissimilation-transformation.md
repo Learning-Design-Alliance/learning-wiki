@@ -2,7 +2,7 @@
 type: theory
 title: "Syntactic dissimilation: cognate verbs replaced by pro-verbs"
 description: Syntactic dissimilation is a transformational process operating on cognate constructions, in which the object holds the same meaning as the verb.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

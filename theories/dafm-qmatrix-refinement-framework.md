@@ -2,7 +2,7 @@
 type: theory
 title: "dAFM: a neural-network fusion of psychometric and connectionist modeling enabling backpropagation-based Q-matrix refinement"
 description: "dAFM augments the Additive Factors Model, whose \"calculations and constraints we show can be exactly replicated within the framework of neural networks\", by representing the Q-matrix as a weight coefficient matrix (WQ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

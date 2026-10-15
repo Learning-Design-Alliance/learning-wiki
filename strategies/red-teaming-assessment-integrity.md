@@ -3,7 +3,7 @@ type: strategy
 id: red-teaming-assessment-integrity
 title: Apply red teaming (adversarial penetration testing) to expose vulnerabilities in assessment integrity
 description: "The article recommends translating an approach from cybersecurity: \"'Red teaming' (PWC, 2024) involves applying an adversarial lens to an organisation whereby a group of people try to hack or break into a process or s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

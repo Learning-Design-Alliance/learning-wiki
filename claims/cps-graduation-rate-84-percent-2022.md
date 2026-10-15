@@ -3,7 +3,7 @@ type: claim
 title: "CPS four-year high school graduation rose to 84.0% in 2022, the highest rate in recent history, after a slight pandemic-related decline in 2021"
 description: "CPS four-year high school graduation rose to 84.0% in 2022, the highest rate in recent history, after a slight pandemic-related decline in 2021"
 id: cps-graduation-rate-84-percent-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

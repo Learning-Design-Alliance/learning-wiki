@@ -3,7 +3,7 @@ type: claim
 title: Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers
 description: Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers
 id: agent-identifies-confusing-content-actionable-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: teacher-assessment-of-college-going-climate-measure
 title: Teacher Assessment of College-going Climate measure
 description: A school-level survey-based measure developed by Roderick et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

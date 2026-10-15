@@ -3,7 +3,7 @@ type: strategy
 id: volunteers-first-small-wins-sustainability
 title: Recruit volunteer implementers first to generate small wins, models, and critical mass for change
 description: To expand a solution beyond initial adopters, the article describes recruiting and implementing with volunteers first so they generate tangible benefits, provide models, and build critical mass and social pressure for...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

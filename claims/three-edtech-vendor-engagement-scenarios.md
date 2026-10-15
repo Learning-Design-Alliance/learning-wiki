@@ -3,7 +3,7 @@ type: claim
 title: "Districts engage with edtech products primarily through three scenarios: RFPs, vendor pitches, and peer recommendations"
 description: "Districts engage with edtech products primarily through three scenarios: RFPs, vendor pitches, and peer recommendations"
 id: three-edtech-vendor-engagement-scenarios
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

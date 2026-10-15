@@ -3,7 +3,7 @@ type: claim
 title: DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do
 description: DHH students often experience systemic barriers to academic success, especially low expectations of what they know and can do
 id: dhh-systemic-barriers-low-expectations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

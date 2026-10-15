@@ -3,7 +3,7 @@ type: research-method
 id: trio-ethnography
 title: Trio-ethnography
 description: Trio-ethnography brings three participants (here two computing educators with contrasting instructional philosophies and one undergraduate student) into reflective conversation as co-inquirers.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

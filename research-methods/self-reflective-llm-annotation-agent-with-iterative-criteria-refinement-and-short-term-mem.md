@@ -3,7 +3,7 @@ type: research-method
 id: self-reflective-llm-annotation-agent-with-iterative-criteria-refinement-and-short-term-mem
 title: Self-reflective LLM annotation agent with iterative criteria refinement and short-term memory
 description: An LLM-based agent that labels each discourse sample, then reflects to identify weaknesses in the current coding framework and applies revision actions (modify, add, delete, hold, merge) before labeling the next sample.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

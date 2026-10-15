@@ -1,7 +1,7 @@
 ---
 type: claim
 title: On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-08-30

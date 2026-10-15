@@ -3,7 +3,7 @@ type: claim
 title: PETs trade utility for privacy, limiting use where accuracy is mandated
 description: PETs trade utility for privacy, limiting use where accuracy is mandated
 id: pets-utility-privacy-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

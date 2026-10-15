@@ -3,7 +3,7 @@ type: design
 id: michigan-diverse-educator-advisory-group
 title: Michigan Diverse Educator Advisory Group and director of diversity, equity, and inclusion
 description: "Michigan established the Diverse Educator Advisory Group in 2021 \"to provide recommendations for changes to educator workforce policy\", with results under review by department staff."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

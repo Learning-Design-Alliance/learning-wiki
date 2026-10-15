@@ -3,7 +3,7 @@ type: claim
 title: The three refinement strategies make distinct trade-offs when personalizing problems to topics that resist natural alignment with the original math
 description: The three refinement strategies make distinct trade-offs when personalizing problems to topics that resist natural alignment with the original math
 id: refinement-strategy-trade-offs-in-case-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

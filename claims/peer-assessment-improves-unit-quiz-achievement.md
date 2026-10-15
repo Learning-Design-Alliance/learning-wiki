@@ -3,7 +3,7 @@ type: claim
 title: Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course
 description: Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course
 id: peer-assessment-improves-unit-quiz-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: peer-review-community-dlp-research
 title: Grow a peer review community that understands the affordances and limits of DLP-based research
 description: "The paper argues that research conducted on DLPs can be misjudged by reviewers from other traditions, because few reviewers have done such work: reviewers \"may not appreciate the cleverness with which the researcher f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

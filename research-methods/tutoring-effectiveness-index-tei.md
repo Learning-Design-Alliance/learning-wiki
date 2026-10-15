@@ -3,7 +3,7 @@ type: research-method
 id: tutoring-effectiveness-index-tei
 title: Tutoring Effectiveness Index (TEI)
 description: "TEI is a fixed-weight linear index over four signals computed without any external model at selection time: \"a Schoenfeld-Verify keyword ratio, a math-step density, an ends-question rate, and a deep-reasoning gate from the Deep-Thinking Ratio (DTR) probe\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

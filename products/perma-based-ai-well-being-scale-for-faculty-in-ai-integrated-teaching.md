@@ -4,7 +4,7 @@ id: perma-based-ai-well-being-scale-for-faculty-in-ai-integrated-teaching
 title: PERMA-based AI well-being scale for faculty in AI-integrated teaching
 description: A five-item Likert-scale instrument developed by Liu et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

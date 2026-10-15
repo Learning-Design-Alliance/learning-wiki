@@ -4,7 +4,7 @@ id: supporting-effective-educator-development
 title: Supporting Effective Educator Development
 description: A U.S.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

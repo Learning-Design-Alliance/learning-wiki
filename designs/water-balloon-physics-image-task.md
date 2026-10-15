@@ -3,7 +3,7 @@ type: design
 id: water-balloon-physics-image-task
 title: Water Balloon Physics Image Require-GenAI task
 description: "A second Require-GenAI task in which GenAI has a dual role: \"it is simultaneously the source of the artifact being analyzed and the tool students use to correct it.\" Students receive a GenAI-generated image of a child..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

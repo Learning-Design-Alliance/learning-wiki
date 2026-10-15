@@ -3,7 +3,7 @@ type: claim
 title: A student-built CTE webpage redesign coincided with the school adding one computer science course the following year
 description: A student-built CTE webpage redesign coincided with the school adding one computer science course the following year
 id: student-webpage-project-coincided-cs-course-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

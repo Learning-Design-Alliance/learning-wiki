@@ -3,7 +3,7 @@ type: strategy
 id: discourage-mental-offloading-balance-guidance-application
 title: Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities
 description: "Under Scaffold Creativity, the framework recommends encouraging creativity through open-ended exploration and to \"discourage mental offloading to an AI system by balancing the depth and frequency of guidance with oppo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

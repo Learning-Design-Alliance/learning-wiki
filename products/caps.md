@@ -4,7 +4,7 @@ id: caps
 title: CAPS
 description: CAPS is a LISP-based interpreter and production-system software developed by Thibadeau to implement the READER model and related cognitive-processing models.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

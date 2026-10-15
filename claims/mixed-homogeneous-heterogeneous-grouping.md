@@ -3,7 +3,7 @@ type: claim
 title: Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes
 description: Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes
 id: mixed-homogeneous-heterogeneous-grouping
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

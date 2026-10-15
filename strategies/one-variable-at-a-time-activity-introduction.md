@@ -3,7 +3,7 @@ type: strategy
 id: one-variable-at-a-time-activity-introduction
 title: Introduce Piagetian activities simply, one variable at a time, with ample time and repetition
 description: "The handbook's note on using its activities prescribes a sequencing and pacing approach: \"Begin with the simplest activities first and, when a new experience is introduced to the child, begin with only one variable.Th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -2,7 +2,7 @@
 type: theory
 title: Untestable-assumptions account for bias in nonexperimental estimation
 description: "The paper frames nonexperimental methods such as regression modeling and statistical matching as unbiased only under assumptions that \"are usually not testable.\" This framing explains why bias in nonexperimental estim..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

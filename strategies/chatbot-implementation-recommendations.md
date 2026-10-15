@@ -3,7 +3,7 @@ type: strategy
 id: chatbot-implementation-recommendations
 title: Implement educational chatbots with human-centred design, explicit AI policies, training, curated knowledge bases and continuous monitoring
 description: "The study recommends a package of implementation practices for educational chatbots in higher education: human-centred design (e.g., opt-in launch, clearer links to official resources), explicit AI policies and labels..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

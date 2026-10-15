@@ -3,7 +3,7 @@ type: claim
 title: Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities
 description: Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities
 id: instructor-role-shift-orchestrating-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

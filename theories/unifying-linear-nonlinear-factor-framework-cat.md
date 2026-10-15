@@ -2,7 +2,7 @@
 type: theory
 title: Unifying linear and nonlinear factor analysis framework for evaluating CAT construct validity at item and parcel levels
 description: "The study's theoretical framework treats IRT models as a special case of nonlinear factor analysis within latent variable modeling, so that linear and nonlinear factor analyses can be applied in a \"unifying approach t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

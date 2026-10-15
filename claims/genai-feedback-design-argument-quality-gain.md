@@ -3,7 +3,7 @@ type: claim
 title: Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback
 description: Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback
 id: genai-feedback-design-argument-quality-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

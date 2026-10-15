@@ -3,7 +3,7 @@ type: claim
 title: "Round II raised exact question-part agreement from about 63% to about 70% and cut parts differing by more than one point from about 13% to 7%, while exact partial-credit scoring remained hardest"
 description: "Round II raised exact question-part agreement from about 63% to about 70% and cut parts differing by more than one point from about 13% to 7%, while exact partial-credit scoring remained hardest"
 id: question-part-agreement-partial-credit-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: reading-apprenticeship-across-the-disciplines-blended-professional-developme
 title: Reading Apprenticeship Across the Disciplines blended professional development program
 description: A WestEd professional-development programme that combines online and in-person learning to help teachers across subject areas develop students’ literacy skills.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

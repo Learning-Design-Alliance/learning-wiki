@@ -3,7 +3,7 @@ type: claim
 title: Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students
 description: Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students
 id: bisexual-students-chronic-sadness-double-straight
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

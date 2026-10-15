@@ -3,7 +3,7 @@ type: claim
 title: Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member
 description: Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member
 id: team-teaching-pros-and-cons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

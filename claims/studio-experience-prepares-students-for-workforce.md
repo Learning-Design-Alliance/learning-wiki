@@ -3,7 +3,7 @@ type: claim
 title: Students believed interdisciplinary studio experiences would ease their transition into the workforce
 description: Students believed interdisciplinary studio experiences would ease their transition into the workforce
 id: studio-experience-prepares-students-for-workforce
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

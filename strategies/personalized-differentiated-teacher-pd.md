@@ -3,7 +3,7 @@ type: strategy
 id: personalized-differentiated-teacher-pd
 title: Personalize professional development by differentiating it and assigning educators by strengths and student needs
 description: "In the four case study schools, professional learning mirrors student learning in that professional development is personalized: it is differentiated so teachers can choose areas where they want to improve, and adults..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

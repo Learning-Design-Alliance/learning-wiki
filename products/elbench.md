@@ -4,7 +4,7 @@ id: elbench
 title: ELBench
 description: ELBench is a four-module, 2,939-item benchmark developed by Yilin Jiang et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Trial-independent EEG familiarity classification remains statistically significantly above chance for the 4-class, equations-only, and faces-only tasks under Bonferroni-corrected permutation tests
 description: Trial-independent EEG familiarity classification remains statistically significantly above chance for the 4-class, equations-only, and faces-only tasks under Bonferroni-corrected permutation tests
 id: trial-independent-eeg-familiarity-above-chance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

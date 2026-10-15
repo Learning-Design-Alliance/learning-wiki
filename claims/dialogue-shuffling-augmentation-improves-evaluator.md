@@ -3,7 +3,7 @@ type: claim
 title: Dialogue-shuffling augmentation improves evaluator performance while downsampling reduces it
 description: Dialogue-shuffling augmentation improves evaluator performance while downsampling reduces it
 id: dialogue-shuffling-augmentation-improves-evaluator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

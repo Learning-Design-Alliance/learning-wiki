@@ -3,7 +3,7 @@ type: strategy
 id: fall-identification-yearlong-tutoring-strategy
 title: Identify below-grade-level readers each fall and provide tutoring across the full school year
 description: "The program's implementation strategy is to screen and select participants at the start of the year and sustain tutoring throughout it: the program \"identifies students reading below grade level each fall and provides..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Course-specific test volumes dropped sharply in spring 2020 and hit record highs in 2021/22
 description: Course-specific test volumes dropped sharply in spring 2020 and hit record highs in 2021/22
 id: test-volume-pandemic-drop-and-record-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: theory
 title: "Hermeneutical Injustice: Incidental and Systematic"
 description: "The article's account, following Fricker (2007), of hermeneutical injustice as occurring when a gap in collective interpretive resources disadvantages someone in making sense of their social experiences."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

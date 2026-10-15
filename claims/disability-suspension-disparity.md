@@ -3,7 +3,7 @@ type: claim
 title: "Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19%"
 description: "Students with disabilities are suspended at more than twice the rate of students without disabilities, and Black students with disabilities face the highest risk at 19%"
 id: disability-suspension-disparity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

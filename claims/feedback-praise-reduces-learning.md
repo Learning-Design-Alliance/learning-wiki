@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -4,7 +4,7 @@ id: consortium-on-chicago-school-research-biannual-survey-and-individualized-con
 title: Consortium on Chicago School Research biannual survey and individualized confidential school reports
 description: A biannual school-conditions survey and confidential school reporting system operated by the Consortium on Chicago School Research to support school self-assessment and long-term planning.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

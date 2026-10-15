@@ -3,7 +3,7 @@ type: claim
 title: Perceived AI empowerment and perceived AI threat are weakly and non-significantly correlated, suggesting relatively independent appraisals
 description: Perceived AI empowerment and perceived AI threat are weakly and non-significantly correlated, suggesting relatively independent appraisals
 id: empowerment-and-threat-appraisals-weakly-correlated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

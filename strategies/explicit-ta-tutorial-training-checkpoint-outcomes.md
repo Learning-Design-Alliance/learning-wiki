@@ -3,7 +3,7 @@ type: strategy
 id: explicit-ta-tutorial-training-checkpoint-outcomes
 title: "Make teaching assistant tutorial training more explicit: provide checkpoint learning outcomes and suggested checkpoint questions"
 description: The authors propose reforming weekly one-hour tutorial training, in which teaching assistants work through worksheets and have reasoning checked but rarely see Socratic dialogue in action.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

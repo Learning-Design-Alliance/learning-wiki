@@ -3,7 +3,7 @@ type: claim
 title: College Track and Mathematica are conducting a rigorous experimental evaluation of the program, with results not available for several years
 description: College Track and Mathematica are conducting a rigorous experimental evaluation of the program, with results not available for several years
 id: college-track-experimental-evaluation-underway
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

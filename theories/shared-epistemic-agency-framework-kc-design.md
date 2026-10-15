@@ -2,7 +2,7 @@
 type: theory
 title: Shared epistemic agency framework for analyzing knowledge creation in collaborative design
 description: This framework conceptualizes how members of a community engage in creating shared knowledge objects as productive participants, extending individual epistemic agency.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

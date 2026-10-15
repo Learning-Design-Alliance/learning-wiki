@@ -3,7 +3,7 @@ type: claim
 title: Two of six evaluated interventions directed corrections toward already-advantaged groups because disadvantage was operationalized using group size
 description: Two of six evaluated interventions directed corrections toward already-advantaged groups because disadvantage was operationalized using group size
 id: group-size-disadvantage-favors-advantaged-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

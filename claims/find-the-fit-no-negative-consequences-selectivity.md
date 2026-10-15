@@ -3,7 +3,7 @@ type: claim
 title: "Find the Fit's selectivity shift came with no higher out-of-pocket cost and no increase in dropping out or transferring down"
 description: "Find the Fit's selectivity shift came with no higher out-of-pocket cost and no increase in dropping out or transferring down"
 id: find-the-fit-no-negative-consequences-selectivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

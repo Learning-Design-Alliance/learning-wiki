@@ -3,7 +3,7 @@ type: research-method
 id: three-question-structure-for-school-performance-inquiry
 title: Three-question structure for school performance inquiry
 description: "The framework structures school performance inquiry around three questions: \"1."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

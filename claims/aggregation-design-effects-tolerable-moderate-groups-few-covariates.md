@@ -3,7 +3,7 @@ type: claim
 title: Design effects from aggregation are tolerable with moderate numbers of groups and few covariates
 description: Design effects from aggregation are tolerable with moderate numbers of groups and few covariates
 id: aggregation-design-effects-tolerable-moderate-groups-few-covariates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

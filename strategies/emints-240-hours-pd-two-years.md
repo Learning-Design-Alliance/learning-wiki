@@ -3,7 +3,7 @@ type: strategy
 id: emints-240-hours-pd-two-years
 title: Provide teachers about 240 hours of face-to-face professional development over two years, with workshop formats scaled to school schedules
 description: "The eMINTS professional development model delivers intensive, extended face-to-face training: \"Teachers receive about 240 hours of face-to-face professional development over two years.\" Conference workshops are flexib..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

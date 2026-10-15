@@ -3,7 +3,7 @@ type: claim
 title: Elementary students participating in the 21st Century Community Learning Centers program felt safer than students not enrolled
 description: Elementary students participating in the 21st Century Community Learning Centers program felt safer than students not enrolled
 id: cclc-elementary-participants-felt-safer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

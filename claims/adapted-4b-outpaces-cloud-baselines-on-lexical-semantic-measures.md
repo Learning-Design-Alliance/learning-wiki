@@ -3,7 +3,7 @@ type: claim
 title: The adapted 4B model outperforms zero-shot cloud baselines on lexical and semantic measures despite lower raw accuracy
 description: The adapted 4B model outperforms zero-shot cloud baselines on lexical and semantic measures despite lower raw accuracy
 id: adapted-4b-outpaces-cloud-baselines-on-lexical-semantic-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

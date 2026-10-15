@@ -3,7 +3,7 @@ type: claim
 title: The recommendation to provide intentional, engaging social-emotional instruction carries strong evidence from five studies meeting WWC standards without reservations
 description: The recommendation to provide intentional, engaging social-emotional instruction carries strong evidence from five studies meeting WWC standards without reservations
 id: strong-evidence-social-emotional-instruction-preschool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

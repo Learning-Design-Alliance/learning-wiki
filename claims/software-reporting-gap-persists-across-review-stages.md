@@ -3,7 +3,7 @@ type: claim
 title: The software-product reporting gap persists within each review stage, and reported precision and recall vary widely across approaches
 description: The software-product reporting gap persists within each review stage, and reported precision and recall vary widely across approaches
 id: software-reporting-gap-persists-across-review-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

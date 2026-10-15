@@ -3,7 +3,7 @@ type: claim
 title: Students express profound confusion about whether GenAI-assisted coursework is original work and whether they can claim authorship
 description: Students express profound confusion about whether GenAI-assisted coursework is original work and whether they can claim authorship
 id: student-confusion-genai-originality-authorship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

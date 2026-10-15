@@ -3,7 +3,7 @@ type: claim
 title: Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not
 description: Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not
 id: four-plus-improvement-cycles-improve-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

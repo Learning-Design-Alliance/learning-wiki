@@ -3,7 +3,7 @@ type: claim
 title: "Adaptive learning showed a statistically significant effect on learning skills but not on building factual knowledge in a meta-analysis of 21 Health & Welfare studies"
 description: "Adaptive learning showed a statistically significant effect on learning skills but not on building factual knowledge in a meta-analysis of 21 Health & Welfare studies"
 id: adaptive-learning-effect-learning-skills-not-factual-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

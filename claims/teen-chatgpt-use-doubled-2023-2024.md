@@ -3,7 +3,7 @@ type: claim
 title: "Teen ChatGPT use doubled between 2023 and 2024 while 75% of global knowledge workers use generative AI"
 description: "Teen ChatGPT use doubled between 2023 and 2024 while 75% of global knowledge workers use generative AI"
 id: teen-chatgpt-use-doubled-2023-2024
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

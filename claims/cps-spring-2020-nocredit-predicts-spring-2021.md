@@ -3,7 +3,7 @@ type: claim
 title: Grades 4-8 students who earned a no-credit grade in spring 2020 were more than twice as likely to earn one in spring 2021
 description: Grades 4-8 students who earned a no-credit grade in spring 2020 were more than twice as likely to earn one in spring 2021
 id: cps-spring-2020-nocredit-predicts-spring-2021
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

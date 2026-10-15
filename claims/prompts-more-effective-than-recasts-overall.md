@@ -3,7 +3,7 @@ type: claim
 title: Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning
 description: Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning
 id: prompts-more-effective-than-recasts-overall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

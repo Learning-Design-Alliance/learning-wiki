@@ -3,7 +3,7 @@ type: research-method
 id: five-level-diagnostic-taxonomy-of-humanai-teaming-defined-by-observable-affordances
 title: Five-level diagnostic taxonomy of human–AI teaming defined by observable affordances
 description: "The chapter proposes a diagnostic taxonomy of human–AI teaming with five levels: transactional, situational, operational, praxical, and synergistic."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: edpuzzle
 title: Edpuzzle
 description: Edpuzzle is a software platform developed and operated by Edpuzzle that lets educators embed questions, commentary, and quizzes in videos and track learners’ viewing and responses.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

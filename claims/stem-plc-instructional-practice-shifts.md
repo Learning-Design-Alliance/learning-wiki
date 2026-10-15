@@ -3,7 +3,7 @@ type: claim
 title: "STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes"
 description: "STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes"
 id: stem-plc-instructional-practice-shifts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: evidence-evaluation-rubric
 title: Evidence Evaluation Rubric
 description: "Resource C is a rubric for scoring whether an edtech tool has valid and sufficient evidence of impact, organized around strength of the evidence base, applicability to the district's need and context, feasibility of implementation, and continuous improvement."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

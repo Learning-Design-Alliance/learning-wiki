@@ -3,7 +3,7 @@ type: claim
 title: BICS-level language can be acquired in about two years regardless of age on arrival and first language
 description: BICS-level language can be acquired in about two years regardless of age on arrival and first language
 id: bics-acquired-two-years-all-ages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

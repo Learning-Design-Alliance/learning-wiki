@@ -3,7 +3,7 @@ type: strategy
 id: follow-up-sessions-for-model-implementation-aid
 title: Offer full-group or small-group follow-up sessions for staff needing aid in implementing the learning system model
 description: "Among the report's recommendations drawn from the innovation diffusion experience is that staff members who request or require help implementing the learning system model be supported through follow-up sessions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

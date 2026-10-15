@@ -3,7 +3,7 @@ type: claim
 title: Pre-K Mathematics shows uncertain effects on preschool language outcomes
 description: Pre-K Mathematics shows uncertain effects on preschool language outcomes
 id: pre-k-mathematics-uncertain-language-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

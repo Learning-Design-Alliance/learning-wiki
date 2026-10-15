@@ -3,7 +3,7 @@ type: claim
 title: Boys regain the advantage in middle school STEM skills in post-COVID gender achievement gap trends
 description: Boys regain the advantage in middle school STEM skills in post-COVID gender achievement gap trends
 id: boys-regain-advantage-middle-school-stem-post-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Curiosity-oriented linguistic interventions via CURIOBOT consistently improve all learner-side exploratory dimensions relative to baseline LLM tutoring across model families
 description: Curiosity-oriented linguistic interventions via CURIOBOT consistently improve all learner-side exploratory dimensions relative to baseline LLM tutoring across model families
 id: curiosity-interventions-increase-exploratory-learner-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

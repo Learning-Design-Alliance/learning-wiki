@@ -3,7 +3,7 @@ type: claim
 title: A quarter of students offered a free AI tutor never tried it once, making first-session adoption a deployment problem
 description: A quarter of students offered a free AI tutor never tried it once, making first-session adoption a deployment problem
 id: first-session-adoption-problem-free-ai-tutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

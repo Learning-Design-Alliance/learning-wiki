@@ -3,7 +3,7 @@ type: claim
 title: "A school's likelihood of high implementation of trauma-engaged practices increased with its percentage of students in foster care"
 description: "A school's likelihood of high implementation of trauma-engaged practices increased with its percentage of students in foster care"
 id: foster-care-percentage-predicts-higher-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

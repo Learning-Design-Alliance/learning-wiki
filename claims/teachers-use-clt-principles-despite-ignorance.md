@@ -3,7 +3,7 @@ type: claim
 title: Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions
 description: Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions
 id: teachers-use-clt-principles-despite-ignorance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

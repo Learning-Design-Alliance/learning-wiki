@@ -3,7 +3,7 @@ type: claim
 title: Advanced students showed reduced attempts with all hint types, while novices did not clearly benefit and made slightly more submissions with Single-Issue Feedback
 description: Advanced students showed reduced attempts with all hint types, while novices did not clearly benefit and made slightly more submissions with Single-Issue Feedback
 id: advanced-students-attempt-reduction-novices-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Screening assessments vary in design, administration, and risk definitions such that there is no truly common definition of risk across assessments
 description: Screening assessments vary in design, administration, and risk definitions such that there is no truly common definition of risk across assessments
 id: no-common-definition-of-risk-across-screeners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

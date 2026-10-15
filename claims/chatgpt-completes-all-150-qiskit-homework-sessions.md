@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT produced executed, grader-accepted submissions for all three fixed personalized Qiskit assignment instances in 150 of 150 sessions
 description: ChatGPT produced executed, grader-accepted submissions for all three fixed personalized Qiskit assignment instances in 150 of 150 sessions
 id: chatgpt-completes-all-150-qiskit-homework-sessions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

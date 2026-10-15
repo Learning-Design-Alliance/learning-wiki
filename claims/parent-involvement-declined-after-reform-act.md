@@ -3,7 +3,7 @@ type: claim
 title: "Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal"
 description: "Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal"
 id: parent-involvement-declined-after-reform-act
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

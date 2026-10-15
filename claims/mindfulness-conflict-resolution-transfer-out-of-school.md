@@ -3,7 +3,7 @@ type: claim
 title: Students who learned mindfulness-based conflict resolution strategies used them outside school with siblings and friends
 description: Students who learned mindfulness-based conflict resolution strategies used them outside school with siblings and friends
 id: mindfulness-conflict-resolution-transfer-out-of-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

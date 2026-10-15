@@ -3,7 +3,7 @@ type: claim
 title: DRL scaffolding significantly benefits high prior knowledge students while BKT does not, and condition-by-prior-knowledge interactions are not significant
 description: DRL scaffolding significantly benefits high prior knowledge students while BKT does not, and condition-by-prior-knowledge interactions are not significant
 id: drl-benefits-high-prior-knowledge-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

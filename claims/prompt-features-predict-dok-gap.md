@@ -3,7 +3,7 @@ type: claim
 title: In an OLS regression, explicit finish lines in teacher prompts were associated with smaller DOK gaps, while explain-reasoning epistemic framing was associated with larger gaps
 description: In an OLS regression, explicit finish lines in teacher prompts were associated with smaller DOK gaps, while explain-reasoning epistemic framing was associated with larger gaps
 id: prompt-features-predict-dok-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

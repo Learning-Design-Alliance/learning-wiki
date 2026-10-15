@@ -3,7 +3,7 @@ type: research-method
 id: wwc-attrition-model
 title: WWC attrition model
 description: "The WWC attrition model is a framework for limiting attrition bias in assessments of intervention effectiveness: it establishes a standard for acceptable levels of sample attrition in randomized controlled trials by deriving bounds on the bias attrition can induce."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

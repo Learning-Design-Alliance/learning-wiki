@@ -3,7 +3,7 @@ type: claim
 title: EFL students report that games reduce speaking stress and improve speaking skills
 description: EFL students report that games reduce speaking stress and improve speaking skills
 id: games-reduce-speaking-stress-improve-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

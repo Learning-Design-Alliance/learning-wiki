@@ -3,7 +3,7 @@ type: claim
 title: African American and Latinx teacher candidates fail state certification assessments (Praxis I and II) at much higher rates than white candidates, while performance assessments show smaller disparities.
 description: African American and Latinx teacher candidates fail state certification assessments (Praxis I and II) at much higher rates than white candidates, while performance assessments show smaller disparities.
 id: certification-test-racial-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

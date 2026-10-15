@@ -3,7 +3,7 @@ type: strategy
 id: phase-aligned-llm-teaching-applications
 title: Phase-aligned teaching applications for LLM-supported learning across five phases
 description: Table 3 outlines classroom activities aligned with each phase of the instructional model, designed to build technical fluency with LLMs while supporting ethical awareness, critical reflection, and learner agency.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

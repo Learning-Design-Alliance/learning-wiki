@@ -3,7 +3,7 @@ type: claim
 title: Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence
 description: Coaching is more effective when framed as a partnership among administrators, coaches, and teachers, with voluntary non-evaluative participation
 id: coaching-partnership-voluntary-non-evaluative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

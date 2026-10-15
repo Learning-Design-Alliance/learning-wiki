@@ -3,7 +3,7 @@ type: claim
 title: Procedural justice shows a within-person association with subsequent intrinsic motivation that is numerically larger than its association with extrinsic motivation, though the coefficient difference is not statistically significant
 description: Procedural justice shows a within-person association with subsequent intrinsic motivation that is numerically larger than its association with extrinsic motivation, though the coefficient difference is not statistical...
 id: procedural-justice-intrinsic-motivation-within-person
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

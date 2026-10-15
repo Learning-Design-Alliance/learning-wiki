@@ -3,7 +3,7 @@ type: claim
 title: Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation
 description: Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation
 id: assessment-redesign-insights-tlc-convening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

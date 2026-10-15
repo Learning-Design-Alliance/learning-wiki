@@ -3,7 +3,7 @@ type: claim
 title: Students who continued feedback conversations with ChatGPT perceived more utility in AI feedback than one-shot users
 description: Students who continued feedback conversations with ChatGPT perceived more utility in AI feedback than one-shot users
 id: continued-ai-conversations-linked-to-perceived-utility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers
 description: AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers
 id: ai-an-dropout-and-college-retention-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

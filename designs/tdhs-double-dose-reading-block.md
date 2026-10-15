@@ -3,7 +3,7 @@ type: design
 id: tdhs-double-dose-reading-block
 title: "Double-dose semester block: Strategic Reading first semester, English 1 second semester"
 description: "TDHS gives ninth graders a double dose of reading: students take double periods of Strategic Reading, 90 minutes daily, in the first semester, and then double periods of English 1 in the second semester."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

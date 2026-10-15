@@ -3,7 +3,7 @@ type: strategy
 id: grouping-for-science-experiments-and-demonstrations
 title: Group Pupils During Science Experiments and Demonstrations
 description: The digest recommends grouping pupils during science experiments and demonstrations so they can reveal previous knowledge acquired, access prior information for better hypothesizing, and ask questions about gaps in th...
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Profiles differ in immediate usage behaviors: Engaged and Literate users verify most, while Skeptical Minimal users report the highest shortcut reliance"
 description: "Profiles differ in immediate usage behaviors: Engaged and Literate users verify most, while Skeptical Minimal users report the highest shortcut reliance"
 id: profile-differences-usage-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

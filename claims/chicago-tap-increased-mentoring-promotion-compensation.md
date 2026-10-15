@@ -3,7 +3,7 @@ type: claim
 title: Chicago TAP increased the amount of mentoring, promotion opportunities, and compensation in participating schools relative to non-TAP schools
 description: Chicago TAP increased the amount of mentoring, promotion opportunities, and compensation in participating schools relative to non-TAP schools
 id: chicago-tap-increased-mentoring-promotion-compensation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

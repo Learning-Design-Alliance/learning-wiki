@@ -3,7 +3,7 @@ type: strategy
 id: targeted-interventions-high-achieving-girls-math-low-achieving-boys-reading
 title: Target interventions at high-achieving girls in mathematics and low-achieving boys in reading, treating the two sex differences as separate problems
 description: The article recommends that efforts to reduce scholastic sex differences be split into two distinct programs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

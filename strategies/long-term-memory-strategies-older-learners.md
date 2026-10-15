@@ -3,7 +3,7 @@ type: strategy
 id: long-term-memory-strategies-older-learners
 title: Favor learning strategies that rely on long-term memory and integrate new material with existing cognitive structures
 description: "The digest states that strategies relying more on long-term memory rather than short-term memory, ones that \"integrate new concepts and materials withalready existing cognitive structures, tend to be best for olderlea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

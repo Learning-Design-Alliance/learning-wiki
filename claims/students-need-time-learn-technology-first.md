@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them
 description: Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them
 id: students-need-time-learn-technology-first
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: L1 and L2 speakers differed in types of nonverbal devices used, with no significant overall difference in use between groups
 description: L1 and L2 speakers differed in types of nonverbal devices used, with no significant overall difference in use between groups
 id: l1-l2-nonverbal-device-type-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

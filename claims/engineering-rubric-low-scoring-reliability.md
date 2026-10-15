@@ -3,7 +3,7 @@ type: claim
 title: "In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable"
 description: "In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable"
 id: engineering-rubric-low-scoring-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

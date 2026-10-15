@@ -3,7 +3,7 @@ type: claim
 title: Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels
 description: Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels
 id: curvilinear-variance-pattern-across-taxonomy-levels
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

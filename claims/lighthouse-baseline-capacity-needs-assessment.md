@@ -3,7 +3,7 @@ type: claim
 title: Lighthouse institutions showed uneven baseline capacity for adaptive courseware implementation, lowest in course redesign capacity
 description: Lighthouse institutions showed uneven baseline capacity for adaptive courseware implementation, lowest in course redesign capacity
 id: lighthouse-baseline-capacity-needs-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

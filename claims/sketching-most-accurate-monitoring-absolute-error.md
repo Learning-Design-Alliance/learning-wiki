@@ -3,7 +3,7 @@ type: claim
 title: Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions
 description: Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions
 id: sketching-most-accurate-monitoring-absolute-error
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

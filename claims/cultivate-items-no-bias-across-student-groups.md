@@ -3,7 +3,7 @@ type: claim
 title: Cultivate survey items function without systematic bias across student groups by race/ethnicity, gender, economic disadvantage, learning differences, or EL status
 description: Cultivate survey items function without systematic bias across student groups by race/ethnicity, gender, economic disadvantage, learning differences, or EL status
 id: cultivate-items-no-bias-across-student-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: dynamic-user-models-redirect-non-optimal-behaviors
 title: Use dynamic user models to recognize non-optimal learning behaviors and redirect students toward more effective behaviors
 description: "The article recommends embedding dynamic user models that monitor students' interaction patterns in real time so the system can respond when learning goes off track."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

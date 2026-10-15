@@ -3,7 +3,7 @@ type: claim
 title: Little was known before this study about students who rapidly guess over the course of several tests
 description: Little was known before this study about students who rapidly guess over the course of several tests
 id: little-known-repeated-rapid-guessing-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary"
 description: "Students encountered usability obstacles: text-recognition errors, feedback-generation delays, and overly complex vocabulary"
 id: ai-helper-usability-obstacles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

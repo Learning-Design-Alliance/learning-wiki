@@ -3,7 +3,7 @@ type: claim
 title: Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety
 description: Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety
 id: immediate-repetition-benefits-oral-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

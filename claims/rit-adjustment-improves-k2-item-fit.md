@@ -3,7 +3,7 @@ type: claim
 title: Adjusting MAP Growth K–2 item difficulties improved item fit, with old infit and outfit statistics more scattered than new ones in both samples
 description: Adjusting MAP Growth K–2 item difficulties improved item fit, with old infit and outfit statistics more scattered than new ones in both samples
 id: rit-adjustment-improves-k2-item-fit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: Third Space framework for everyday and academic language interaction in classrooms
 description: "Third Space, drawn from Vygotsky and Gutierrez et al., treats students' community as Space 1, where familiar registers are used, and the school classroom as Space 2, favoring technical vocabulary."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

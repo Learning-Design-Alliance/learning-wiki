@@ -3,7 +3,7 @@ type: claim
 title: Human–GenAI collaborative interactions show promise for supporting metacognition and sociometacognition, based on an exploratory expert case study
 description: Human–GenAI collaborative interactions show promise for supporting metacognition and sociometacognition, based on an exploratory expert case study
 id: genai-collaboration-supports-metacognition-feasibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

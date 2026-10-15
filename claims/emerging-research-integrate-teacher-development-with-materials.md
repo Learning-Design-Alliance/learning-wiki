@@ -3,7 +3,7 @@ type: claim
 title: "Emerging research suggests a need to integrate teachers' knowledge and skill development with instructional materials, but further evidence on the effectiveness of this approach is necessary"
 description: "Emerging research suggests a need to integrate teachers' knowledge and skill development with instructional materials, but further evidence on the effectiveness of this approach is necessary"
 id: emerging-research-integrate-teacher-development-with-materials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

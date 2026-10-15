@@ -4,7 +4,7 @@ id: reusable-unity-package-for-blackboard-learn-api-integration
 title: Reusable Unity package for Blackboard Learn API integration
 description: A Unity package developed by Araz Yusubov et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

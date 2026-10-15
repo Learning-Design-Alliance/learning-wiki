@@ -3,7 +3,7 @@ type: claim
 title: Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common
 description: Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common
 id: cybersecurity-knowledge-informal-sources-dominate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

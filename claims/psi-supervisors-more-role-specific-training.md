@@ -3,7 +3,7 @@ type: claim
 title: PSI district principal supervisors were more likely to receive role-specific training and rated it more highly than supervisors in other urban districts
 description: PSI district principal supervisors were more likely to receive role-specific training and rated it more highly than supervisors in other urban districts
 id: psi-supervisors-more-role-specific-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

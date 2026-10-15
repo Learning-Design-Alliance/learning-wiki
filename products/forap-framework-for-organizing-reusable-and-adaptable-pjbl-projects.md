@@ -4,7 +4,7 @@ id: forap-framework-for-organizing-reusable-and-adaptable-pjbl-projects
 title: FORAP (Framework for Organizing Reusable and Adaptable PjBL Projects)
 description: A framework developed by Suleiman et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

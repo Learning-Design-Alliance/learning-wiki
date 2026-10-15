@@ -3,7 +3,7 @@ type: claim
 title: "Respondents anticipated using LLMs most often (23%), followed by NLP (17%), predictive AI (14%), chatbots (13%), and ASR (10%)"
 description: "Respondents anticipated using LLMs most often (23%), followed by NLP (17%), predictive AI (14%), chatbots (13%), and ASR (10%)"
 id: rfi-technology-types-llm-most-common
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

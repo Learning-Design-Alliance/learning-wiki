@@ -3,7 +3,7 @@ type: research-method
 id: quasi-mixed-methods-llm-human-workflow-for-analyzing-qualitative-reflection-data
 title: "Quasi-mixed methods: LLM-human workflow for analyzing qualitative reflection data"
 description: "The article proposes a \"quasi-mixed\" method in which \"our “quasi-mixed” method applies quantitative and qualitative analysis to the same qualitative dataset\", extending NLP-human mixed-methods workflows to an LLM-human workflow."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

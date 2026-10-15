@@ -3,7 +3,7 @@ type: claim
 title: Effects of school-based mindfulness interventions differ according to whether delivery is by an outside facilitator or by trained educators/teachers
 description: Effects of school-based mindfulness interventions differ according to whether delivery is by an outside facilitator or by trained educators/teachers
 id: mindfulness-facilitator-type-moderates-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

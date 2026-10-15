@@ -3,7 +3,7 @@ type: strategy
 id: low-risk-high-reward-teacher-agency-opportunities
 title: Foster teacher agency through low-risk, high-reward opportunities with escalating responsibility
 description: "The project reports fostering teacher agency by \"repeatedly creating multiple, low-risk high-reward opportunities where educators' perspectives matter\", with messaging that participants are working toward a shared fut..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

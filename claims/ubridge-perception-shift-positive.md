@@ -3,7 +3,7 @@ type: claim
 title: "Participants' perceptions of AI in higher education shifted from 20% negative and 40% neutral pre-institute to 0% negative and 90% positive post-institute"
 description: "Participants' perceptions of AI in higher education shifted from 20% negative and 40% neutral pre-institute to 0% negative and 90% positive post-institute"
 id: ubridge-perception-shift-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

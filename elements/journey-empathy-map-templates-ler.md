@@ -3,7 +3,7 @@ type: element
 id: journey-empathy-map-templates-ler
 title: Journey map and adapted empathy map templates for capturing learner experience
 description: "The toolkit includes a journey map template that visualizes a learner's experience across phases, documenting \"actions, thoughts, emotions, touchpoints, pain points, opportunities, and resources.\" Its empathy map, ada..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

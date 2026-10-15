@@ -3,7 +3,7 @@ type: element
 id: early-grades-attendance-improvement-toolkit
 title: Toolkit for improving attendance in pre-kindergarten and kindergarten for districts, schools, and early childhood providers
 description: "A companion artifact released Nov 21, 2019 by the same authors, titled \"Strategies for Improving Attendance in Pre-Kindergarten and Kindergarten: Toolkit for Districts, Schools, and Early Childhood Providers.\" It is a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

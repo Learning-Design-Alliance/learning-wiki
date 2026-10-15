@@ -3,7 +3,7 @@ type: strategy
 id: interventional-queries-adaptive-assessment-support
 title: Use interventional queries to inform support decisions in adaptive assessment
 description: "The article suggests that the causal framework's properties, particularly in settings where students can influence the conditions under which they complete tasks, enable principled disentangling of behavioural factors..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

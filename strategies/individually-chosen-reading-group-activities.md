@@ -3,7 +3,7 @@ type: strategy
 id: individually-chosen-reading-group-activities
 title: Use art-based sharing, short reviews, interviews, and Book Wheels when students each read different books
 description: "When each student reads something different, the article recommends activities that close the information gap: art projects (posters, bookmarks, comics) shared via Round Robin; Roving Reporter, where a numbered studen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

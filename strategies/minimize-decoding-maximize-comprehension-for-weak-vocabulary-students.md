@@ -3,7 +3,7 @@ type: strategy
 id: minimize-decoding-maximize-comprehension-for-weak-vocabulary-students
 title: For students who decode well but comprehend poorly, minimize decoding instruction and maximize comprehension instruction
 description: "The guide's obstacle advice addresses students who read multisyllabic words effortlessly but perform poorly on reading tests because of weak vocabulary and comprehension difficulties."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

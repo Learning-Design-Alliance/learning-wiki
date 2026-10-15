@@ -3,7 +3,7 @@ type: strategy
 id: weekly-shared-content-teacher-teams
 title: Organize teachers into shared-content teams with at least 90 minutes weekly to plan instruction and embed social-emotional skills
 description: The guide recommends structuring master schedules so teachers in shared-curriculum teams get protected collaboration time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

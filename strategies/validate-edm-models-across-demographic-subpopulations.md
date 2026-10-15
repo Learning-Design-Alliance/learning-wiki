@@ -3,7 +3,7 @@ type: strategy
 id: validate-edm-models-across-demographic-subpopulations
 title: Validate EDM models across demographic subpopulations of students
 description: "The article recommends that the EDM community routinely use demographic variables to test and validate how well models generalize across diverse populations of students, analogous to the field's earlier shift toward s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

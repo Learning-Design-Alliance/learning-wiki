@@ -3,7 +3,7 @@ type: claim
 title: Test takers generally disengage during only a portion of their items, and these disengaged responses reflect a momentary cessation of measurement
 description: Test takers generally disengage during only a portion of their items, and these disengaged responses reflect a momentary cessation of measurement
 id: disengagement-portion-of-items-momentary-cessation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

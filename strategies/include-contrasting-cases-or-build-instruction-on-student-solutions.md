@@ -3,7 +3,7 @@ type: strategy
 id: include-contrasting-cases-or-build-instruction-on-student-solutions
 title: When implementing PS-I, include contrasting cases or build the instruction phase on student solutions
 description: "Based on its synthesis, the review supports implementing PS-I with one of two specific design features: contrasting cases, or instruction that builds on the solutions students produced during the problem-solving phase."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

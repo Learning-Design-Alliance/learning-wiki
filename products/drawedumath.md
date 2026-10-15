@@ -4,7 +4,7 @@ id: drawedumath
 title: DrawEduMath
 description: DrawEduMath is a benchmark dataset created by Li Lucy et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

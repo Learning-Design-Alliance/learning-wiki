@@ -3,7 +3,7 @@ type: claim
 title: Engineering physics exam questions demand more approach selection or synthesis while Technology questions often prescribe a specific approach
 description: Engineering physics exam questions demand more approach selection or synthesis while Technology questions often prescribe a specific approach
 id: engineering-physics-questions-higher-scaffolding-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

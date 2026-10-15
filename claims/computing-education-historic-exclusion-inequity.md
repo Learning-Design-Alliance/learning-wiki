@@ -3,7 +3,7 @@ type: claim
 title: Computing education has historically excluded marginalized student populations, and large inequities in access persist
 description: Computing education has historically excluded marginalized student populations, and large inequities in access persist
 id: computing-education-historic-exclusion-inequity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

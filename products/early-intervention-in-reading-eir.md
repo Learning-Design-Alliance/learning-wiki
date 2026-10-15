@@ -4,7 +4,7 @@ id: early-intervention-in-reading-eir
 title: Early Intervention in Reading (EIR)
 description: A supplemental beginning-reading programme developed by Dr.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

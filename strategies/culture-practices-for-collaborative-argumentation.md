@@ -3,7 +3,7 @@ type: strategy
 id: culture-practices-for-collaborative-argumentation
 title: Foster a classroom culture of critical thinking through collective responsibility, trust norms, multiple perspectives, scaffolding, and frequent argumentation opportunities
 description: "The primer lists essential practices for fostering a culture of critical thinking and communication: \"treating argumentation as a collective responsibility for building knowledge, building a classroom culture and norm..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

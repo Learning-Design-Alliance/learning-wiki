@@ -3,7 +3,7 @@ type: design
 id: validation-authority-principle
 title: "Principle of validation authority: delegation is safe exactly where the delegator can validate outputs"
 description: "The article introduces the principle of validation authority, grounded in a bespoke-versus-socially-validated distinction: a library routine is opaque but socially validated through published algorithms, testing, and..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

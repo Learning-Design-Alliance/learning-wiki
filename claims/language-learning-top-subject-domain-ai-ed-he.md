@@ -3,7 +3,7 @@ type: claim
 title: "Language learning was the most common subject domain for AIEd in higher education, at 17%"
 description: "Language learning was the most common subject domain for AIEd in higher education, at 17%"
 id: language-learning-top-subject-domain-ai-ed-he
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

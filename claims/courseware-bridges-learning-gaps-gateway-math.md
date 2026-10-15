@@ -3,7 +3,7 @@ type: claim
 title: Courseware can bridge gateway math learning gaps through tailored tutorials, study tools, diagnostics, and targeted practice
 description: Courseware can bridge gateway math learning gaps through tailored tutorials, study tools, diagnostics, and targeted practice
 id: courseware-bridges-learning-gaps-gateway-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

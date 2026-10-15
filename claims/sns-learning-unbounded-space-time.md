@@ -3,7 +3,7 @@ type: claim
 title: Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion
 description: Social network site participation enables design learning that breaks the confines of space and time, including pre-enrollment learning and asynchronous ethical discussion
 id: sns-learning-unbounded-space-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

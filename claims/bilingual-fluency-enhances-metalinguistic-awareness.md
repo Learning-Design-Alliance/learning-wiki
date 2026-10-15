@@ -2,7 +2,7 @@
 type: claim
 title: Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate
 id: bilingual-fluency-enhances-metalinguistic-awareness
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

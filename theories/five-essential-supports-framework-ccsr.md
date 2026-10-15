@@ -3,7 +3,7 @@ type: theory
 title: Framework of five essential supports and contextual resources for school improvement
 description: "The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate,..."
 canonical: true
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

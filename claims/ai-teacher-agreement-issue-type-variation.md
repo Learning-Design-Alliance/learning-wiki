@@ -3,7 +3,7 @@ type: claim
 title: AI-teacher diagnostic agreement was higher in the Diagnostic Review class and varied by issue type, with local language issues best diagnosed
 description: AI-teacher diagnostic agreement was higher in the Diagnostic Review class and varied by issue type, with local language issues best diagnosed
 id: ai-teacher-agreement-issue-type-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: flight-sos
 title: Flight SOS
 description: Flight SOS is an interactive video English-as-a-foreign-language program co-produced by Gale et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

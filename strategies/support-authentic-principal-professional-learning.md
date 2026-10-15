@@ -3,7 +3,7 @@ type: strategy
 id: support-authentic-principal-professional-learning
 title: Policymakers should fund and deliver authentic, job-embedded principal professional learning and remove access barriers
 description: "The report recommends that local, state, and federal policymakers ensure principals have professional development embodying the framework's features: content on whole child education and equitable school environments,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

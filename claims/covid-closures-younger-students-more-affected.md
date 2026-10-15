@@ -3,7 +3,7 @@ type: claim
 title: Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs. −0.10 SD)
 description: Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs.
 id: covid-closures-younger-students-more-affected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

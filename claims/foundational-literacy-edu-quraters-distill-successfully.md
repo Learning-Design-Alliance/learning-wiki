@@ -3,7 +3,7 @@ type: claim
 title: The pairwise-distillation procedure transfers to foundational-literacy scoring, with Gemma-3-4B-PT validation losses of 0.128 (student-facing) and 0.175 (teacher-facing)
 description: The pairwise-distillation procedure transfers to foundational-literacy scoring, with Gemma-3-4B-PT validation losses of 0.128 (student-facing) and 0.175 (teacher-facing)
 id: foundational-literacy-edu-quraters-distill-successfully
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: outcomes-impacts-processes-framework-publication
 title: Outcomes, Impacts, and Processes framework publication (REL Mid-Atlantic)
 description: A published framework document from the Regional Educational Laboratory (REL) Mid-Atlantic project, prepared for the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

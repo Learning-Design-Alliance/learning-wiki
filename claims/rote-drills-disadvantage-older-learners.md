@@ -3,7 +3,7 @@ type: claim
 title: Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners
 description: Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners
 id: rote-drills-disadvantage-older-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

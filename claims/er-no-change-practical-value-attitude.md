@@ -3,7 +3,7 @@ type: claim
 title: Extensive reading produced no measurable change in the perceived Practical Value of foreign-language reading (r = .09)
 description: Extensive reading produced no measurable change in the perceived Practical Value of foreign-language reading (r = .09)
 id: er-no-change-practical-value-attitude
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

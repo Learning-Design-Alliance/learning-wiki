@@ -3,7 +3,7 @@ type: claim
 title: Within schools, higher-achieving students are more likely to take the ACT
 description: Within schools, higher-achieving students are more likely to take the ACT
 id: positive-within-school-selection-act-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: graphrag-textbook-retrieval-math-tutor
 title: GraphRAG textbook knowledge retrieval for grounded tutoring
 description: The system implements Retrieval-Augmented Generation via the GraphRAG framework, in which textbook material is represented as a knowledge graph to provide contextually relevant information to the Tutor Agent and cours...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

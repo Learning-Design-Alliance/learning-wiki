@@ -3,7 +3,7 @@ type: claim
 title: Daily physiological changes in non-experimental situations influence measures of brain structure and function
 description: Daily physiological changes in non-experimental situations influence measures of brain structure and function
 id: daily-physiological-changes-influence-brain-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

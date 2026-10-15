@@ -3,7 +3,7 @@ type: claim
 title: Chatbot support systems in online learning are associated with higher learner satisfaction and engagement when perceived as useful
 description: Chatbot support systems in online learning are associated with higher learner satisfaction and engagement when perceived as useful
 id: chatbot-support-raises-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

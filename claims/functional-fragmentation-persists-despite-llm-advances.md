@@ -3,7 +3,7 @@ type: claim
 title: Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI
 description: Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI
 id: functional-fragmentation-persists-despite-llm-advances
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

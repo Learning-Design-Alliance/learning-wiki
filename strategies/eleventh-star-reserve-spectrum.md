@@ -3,7 +3,7 @@ type: strategy
 id: eleventh-star-reserve-spectrum
 title: Keep an extra unassigned spectrum (a red giant) in reserve to challenge students who finish early or reach an incorrect answer
 description: Besides the ten spectra given to students, facilitators hold back an eleventh spectrum of a red giant.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

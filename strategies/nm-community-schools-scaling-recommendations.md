@@ -3,7 +3,7 @@ type: strategy
 id: nm-community-schools-scaling-recommendations
 title: Short-term and longer-term state steps to scale community schools to all high-poverty schools
 description: "The report recommends a sequenced set of state actions: during the COVID-19 recovery, support districts and tribally controlled schools to \"blend and braid\" state and federal funds, position community schools as hubs..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

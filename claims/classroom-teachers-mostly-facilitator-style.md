@@ -3,7 +3,7 @@ type: claim
 title: Majority of classroom teachers have a facilitator teaching style
 description: Majority of classroom teachers have a facilitator teaching style
 id: classroom-teachers-mostly-facilitator-style
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

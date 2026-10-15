@@ -3,7 +3,7 @@ type: claim
 title: In a Florida RCT, Earobics® outperformed no-supplement control on several DIBELS subtests but showed no significant advantage over Lexia Early Reading
 description: In a Florida RCT, Earobics® outperformed no-supplement control on several DIBELS subtests but showed no significant advantage over Lexia Early Reading
 id: earobics-gale-2006-versus-control-and-lexia
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "The number of students reporting deep engagement in algebra grew yearly, reaching 2,074 by 2019 and exceeding the network's aim of 2,019"
 description: "The number of students reporting deep engagement in algebra grew yearly, reaching 2,074 by 2019 and exceeding the network's aim of 2,019"
 id: bmtn-student-deep-engagement-aim-exceeded
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

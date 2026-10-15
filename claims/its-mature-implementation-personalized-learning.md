@@ -3,7 +3,7 @@ type: claim
 title: Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM
 description: Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM
 id: its-mature-implementation-personalized-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

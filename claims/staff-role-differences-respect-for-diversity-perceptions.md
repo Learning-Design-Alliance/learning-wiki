@@ -3,7 +3,7 @@ type: claim
 title: Respect for diversity perceptions also varied by staff role, with prevention staff polarized and resource officers and counselors lower
 description: Respect for diversity perceptions also varied by staff role, with prevention staff polarized and resource officers and counselors lower
 id: staff-role-differences-respect-for-diversity-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

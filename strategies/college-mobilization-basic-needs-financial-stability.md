@@ -3,7 +3,7 @@ type: strategy
 id: college-mobilization-basic-needs-financial-stability
 title: "Mobilize community colleges to address low-income students' basic needs and financial stability to support completion"
 description: "The report concludes that \"community colleges can mobilize to address the needs of low-income students and students of color\" by integrating services that help students \"improve their financial knowledge, budgeting sk..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

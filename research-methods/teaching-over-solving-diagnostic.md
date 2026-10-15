@@ -3,7 +3,7 @@ type: research-method
 id: teaching-over-solving-diagnostic
 title: Teaching-over-solving diagnostic
 description: "The article proposes a lightweight diagnostic that reaggregates public tutoring benchmark scores into two composites: a solving composite (problem solving, solution correctness, mistake location, mistake correction) and a pedagogy composite (socratic questioning, scaffolding win rate, pedagogy instr"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

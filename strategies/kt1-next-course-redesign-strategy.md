@@ -3,7 +3,7 @@ type: strategy
 id: kt1-next-course-redesign-strategy
 title: Redesign AI-era physics courses around an unaided written examination with mock exams, prepared tutorial discussion, and research-shaped tasks as bonus work with scaffolding
 description: "The article's forward-looking plan for the next KT1 course: a written examination determines the final grade while homework counts only toward bonus points; multiple mock examinations let students practice standard pr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Effective leadership plays a pivotal role in guiding digital transformation in educational organizations
 description: Effective leadership plays a pivotal role in guiding digital transformation in educational organizations
 id: leadership-pivotal-digital-transformation-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

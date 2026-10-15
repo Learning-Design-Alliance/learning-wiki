@@ -3,7 +3,7 @@ type: claim
 title: "Only 8% of the exercise interventions induced behaviour change that was significant and measurable after the four-week intervention"
 description: "Only 8% of the exercise interventions induced behaviour change that was significant and measurable after the four-week intervention"
 id: megastudy-only-8-percent-persistent-behaviour-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

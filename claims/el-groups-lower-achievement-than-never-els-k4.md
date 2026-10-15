@@ -3,7 +3,7 @@ type: claim
 title: All three EL subgroups scored lower than never-ELs in math and reading throughout kindergarten to 4th grade
 description: All three EL subgroups scored lower than never-ELs in math and reading throughout kindergarten to 4th grade
 id: el-groups-lower-achievement-than-never-els-k4
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

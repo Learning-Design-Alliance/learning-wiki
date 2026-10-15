@@ -4,7 +4,7 @@ id: 22-item-self-report-instrument-measuring-contextual-support-trust-calibratio
 title: 22-item self-report instrument measuring contextual support, trust calibration, collaborative regulation, and perceived transfer gains
 description: A five-point Likert-scale instrument developed by Fan Bu et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

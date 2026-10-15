@@ -2,7 +2,7 @@
 type: theory
 title: Taxonomy of dropout prevention and intervention program types
 description: The review organizes the dropout intervention literature into a set of program types, presented in Table 1 with descriptions and study counts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

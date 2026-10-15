@@ -3,7 +3,7 @@ type: strategy
 id: genai-entry-after-attempt-in-srl-cycle
 title: "Place GenAI entry after the learner's initial task attempt rather than before it"
 description: "The article's regulatory recommendation from the discussion: GenAI's effect on perceived agency depends on where in the self-regulated learning cycle it enters by default."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

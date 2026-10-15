@@ -3,7 +3,7 @@ type: claim
 title: On the TWS-3 subtests in the 2006 RCT, Spelling Mastery favored the Predictable Words subtest (effect size 0.57, WWC-adjusted p = 0.07) over the Unpredictable Words subtest (effect size 0.11)
 description: On the TWS-3 subtests in the 2006 RCT, Spelling Mastery favored the Predictable Words subtest (effect size 0.57, WWC-adjusted p = 0.07) over the Unpredictable Words subtest (effect size 0.11)
 id: spelling-mastery-tws3-subtest-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

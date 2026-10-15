@@ -3,7 +3,7 @@ type: claim
 title: The Interchange series covered learning objectives more comprehensively than the Iranian high school textbooks
 description: The Interchange series covered learning objectives more comprehensively than the Iranian high school textbooks
 id: interchange-outnumbers-high-school-objectives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

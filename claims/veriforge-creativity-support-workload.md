@@ -3,7 +3,7 @@ type: claim
 title: VeriForge raises perceived creativity support and lowers workload relative to a same-retrieval baseline, with mixed survival after correction
 description: VeriForge raises perceived creativity support and lowers workload relative to a same-retrieval baseline, with mixed survival after correction
 id: veriforge-creativity-support-workload
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: AI proficiency moderates the association between course development satisfaction and academic adjustment, which is stronger among students with higher AI proficiency
 description: AI proficiency moderates the association between course development satisfaction and academic adjustment, which is stronger among students with higher AI proficiency
 id: ai-proficiency-moderates-course-satisfaction-academic-adjustment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

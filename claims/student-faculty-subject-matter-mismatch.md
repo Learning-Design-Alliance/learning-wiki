@@ -3,7 +3,7 @@ type: claim
 title: Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics
 description: Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics
 id: student-faculty-subject-matter-mismatch
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

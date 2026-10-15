@@ -3,7 +3,7 @@ type: claim
 title: Rizal Experiment showed literacy achieved more quickly in local and national languages but finding glossed over
 description: Rizal Experiment showed literacy achieved more quickly in local and national languages but finding glossed over
 id: rizal-experiment-local-language-faster-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

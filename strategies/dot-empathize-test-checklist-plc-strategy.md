@@ -3,7 +3,7 @@ type: strategy
 id: dot-empathize-test-checklist-plc-strategy
 title: "Use the DOT Framework's Empathize and Test/Feedback stages as practical checklists, and build professional learning communities around shared prompting and critique practices"
 description: "The article recommends that instructors treat the design thinking stages, particularly Empathize and Test/Feedback, as \"practical checklists for AI integration, moving beyond ad hoc experimentation toward structured,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

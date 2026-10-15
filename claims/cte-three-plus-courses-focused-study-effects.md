@@ -3,7 +3,7 @@ type: claim
 title: CTE participation produces positive effects on completion, postsecondary transition, and earnings mainly when students complete three or more focused CTE courses, with effects strongest in technical fields
 description: CTE participation produces positive effects on completion, postsecondary transition, and earnings mainly when students complete three or more focused CTE courses, with effects strongest in technical fields
 id: cte-three-plus-courses-focused-study-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

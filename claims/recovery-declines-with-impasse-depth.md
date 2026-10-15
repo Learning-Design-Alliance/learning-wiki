@@ -3,7 +3,7 @@ type: claim
 title: Next-turn recovery from impasses declines steadily as impasse depth increases, with help-seeking impasses declining most sharply
 description: Next-turn recovery from impasses declines steadily as impasse depth increases, with help-seeking impasses declining most sharply
 id: recovery-declines-with-impasse-depth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

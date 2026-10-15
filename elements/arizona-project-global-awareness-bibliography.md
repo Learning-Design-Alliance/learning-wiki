@@ -3,7 +3,7 @@ type: element
 id: arizona-project-global-awareness-bibliography
 title: Annotated bibliography of K-8 cultural and global awareness materials organized in 11 categories
 description: The article is a guide that provides, in one integrated document, a listing and brief description of materials located in the Project Resource Center at Arizona State University.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

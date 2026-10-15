@@ -3,7 +3,7 @@ type: claim
 title: Contingent tutoring held delegation at the level of an answer-on-request assistant while delivering more artifacts, one decision at a time
 description: Contingent tutoring held delegation at the level of an answer-on-request assistant while delivering more artifacts, one decision at a time
 id: contingent-tutor-delegation-held-delivery-rose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

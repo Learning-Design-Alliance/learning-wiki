@@ -3,7 +3,7 @@ type: claim
 title: The article argues that formal rules and enforcement mechanisms alone are insufficient to shape student AI-use behaviour in practice
 description: The article argues that formal rules and enforcement mechanisms alone are insufficient to shape student AI-use behaviour in practice
 id: rules-and-enforcement-insufficient-for-ai-behaviour
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: collaborative-agenda-validating-pedagogical-accompaniment
 title: Collaborative cross-cultural research agenda for validating AI-enabled pedagogical accompaniment
 description: The authors call for a coordinated agenda to move the framework beyond exploratory prototyping.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

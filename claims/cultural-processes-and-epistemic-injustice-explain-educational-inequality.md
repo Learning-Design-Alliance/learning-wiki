@@ -3,7 +3,7 @@ type: claim
 title: Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained
 description: Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained
 id: cultural-processes-and-epistemic-injustice-explain-educational-inequality
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

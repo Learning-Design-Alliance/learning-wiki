@@ -3,7 +3,7 @@ type: claim
 title: Predicted post-test distributions differed significantly from real distributions in four dimensions, with no significant difference only for Technology Acceptance
 description: Predicted post-test distributions differed significantly from real distributions in four dimensions, with no significant difference only for Technology Acceptance
 id: agent-distribution-significance-only-tech-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

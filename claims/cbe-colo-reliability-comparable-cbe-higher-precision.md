@@ -3,7 +3,7 @@ type: claim
 title: Marginal reliabilities of MAP Growth winter scores are comparable across engines and all in the 0.90s, with CBE showing slightly higher precision (lower SEM)
 description: Marginal reliabilities of MAP Growth winter scores are comparable across engines and all in the 0.90s, with CBE showing slightly higher precision (lower SEM)
 id: cbe-colo-reliability-comparable-cbe-higher-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

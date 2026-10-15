@@ -3,7 +3,7 @@ type: strategy
 id: adopt-ai-contextual-similarity-scoring-consistency
 title: Adopt AI-based contextual similarity scoring for mathematical essay items to ensure consistency and save cost and time
 description: The article recommends that teachers, evaluators and examination bodies use AI software such as AEEGS to score mathematical computation essay items, because human scoring of high volumes is subjective, time-consuming...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

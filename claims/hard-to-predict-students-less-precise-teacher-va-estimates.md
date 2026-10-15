@@ -3,7 +3,7 @@ type: claim
 title: Teachers of students with hard-to-predict achievement levels tend to have less precise value-added estimates than teachers of other students
 description: Teachers of students with hard-to-predict achievement levels tend to have less precise value-added estimates than teachers of other students
 id: hard-to-predict-students-less-precise-teacher-va-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

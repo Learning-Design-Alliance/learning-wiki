@@ -3,7 +3,7 @@ type: claim
 title: Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically
 description: Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically
 id: no-significant-path-differences-across-usage-frequency-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

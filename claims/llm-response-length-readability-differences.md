@@ -3,7 +3,7 @@ type: claim
 title: The three fine-tuned LLMs differ significantly in response length, readability, and similarity to posts
 description: The three fine-tuned LLMs differ significantly in response length, readability, and similarity to posts
 id: llm-response-length-readability-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: AI systems relying on black-box models should not be used for high-stakes applications
 description: AI systems relying on black-box models should not be used for high-stakes applications
 id: black-box-ai-not-for-high-stakes-applications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

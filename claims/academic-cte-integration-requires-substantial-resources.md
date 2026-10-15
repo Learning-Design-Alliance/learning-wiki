@@ -3,7 +3,7 @@ type: claim
 title: Incorporating academic learning into CTE requires substantial time, effort, and other resources
 description: Incorporating academic learning into CTE requires substantial time, effort, and other resources
 id: academic-cte-integration-requires-substantial-resources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

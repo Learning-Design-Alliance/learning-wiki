@@ -3,7 +3,7 @@ type: claim
 title: Human inter-rater reliability with a single rubric exceeded the ±5-point equivalence margin used for rubric-source comparisons
 description: Human inter-rater reliability with a single rubric exceeded the ±5-point equivalence margin used for rubric-source comparisons
 id: human-inter-rater-disagreement-exceeds-margin
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

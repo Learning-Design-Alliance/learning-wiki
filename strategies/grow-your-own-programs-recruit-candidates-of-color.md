@@ -3,7 +3,7 @@ type: strategy
 id: grow-your-own-programs-recruit-candidates-of-color
 title: Fund Grow Your Own programs to recruit more candidates of color than traditional educator preparation programs attract
 description: "Grow Your Own programs (GYOs) are \"community-focused recruitment programs that tend to attract more candidates of color than traditional educator preparation programs.\" The brief reports that Maryland, Texas, Missouri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

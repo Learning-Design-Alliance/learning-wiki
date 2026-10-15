@@ -3,7 +3,7 @@ type: claim
 title: "Beginning teachers borrow at much higher rates than experienced teachers, with about 65% of teachers in their first 10 years having ever borrowed versus 41.4% of those with more than 30 years"
 description: "Beginning teachers borrow at much higher rates than experienced teachers, with about 65% of teachers in their first 10 years having ever borrowed versus 41.4% of those with more than 30 years"
 id: novice-teachers-higher-borrowing-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

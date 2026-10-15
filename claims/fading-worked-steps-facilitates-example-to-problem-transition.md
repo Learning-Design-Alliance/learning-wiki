@@ -3,7 +3,7 @@ type: claim
 title: Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs
 description: Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs
 id: fading-worked-steps-facilitates-example-to-problem-transition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

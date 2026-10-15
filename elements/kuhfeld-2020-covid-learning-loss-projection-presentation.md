@@ -3,7 +3,7 @@ type: element
 id: kuhfeld-2020-covid-learning-loss-projection-presentation
 title: NWEA seminar presentation projecting COVID-19 learning loss and 2020-21 test score effects
 description: "A 2020 NWEA Research presentation (CEPA seminar) in which Megan Kuhfeld discusses \"a series of projections of COVID-19-related learning loss and its potential effect on test scores in the 2020-21 school year\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

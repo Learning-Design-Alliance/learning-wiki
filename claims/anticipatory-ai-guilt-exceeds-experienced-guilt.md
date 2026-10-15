@@ -3,7 +3,7 @@ type: claim
 title: Among academics, anticipatory AI guilt (credibility and cheating concerns) exceeds post-use guilt (remorse after AI use)
 description: Among academics, anticipatory AI guilt (credibility and cheating concerns) exceeds post-use guilt (remorse after AI use)
 id: anticipatory-ai-guilt-exceeds-experienced-guilt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

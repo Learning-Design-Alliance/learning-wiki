@@ -3,7 +3,7 @@ type: claim
 title: Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability
 description: Teachers designed tasks with dilemmas, unfamiliar scenarios, and differentiation intended to support transfer, without assessing capability
 id: capability-oriented-design-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

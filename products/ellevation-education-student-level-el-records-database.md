@@ -4,7 +4,7 @@ id: ellevation-education-student-level-el-records-database
 title: Ellevation Education student-level EL records database
 description: A longitudinal database constructed with Ellevation Education containing individual English-learner proficiency, assessment, demographic, grade-level, and reclassification records from 2016–17 to 2023–24 across four states.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

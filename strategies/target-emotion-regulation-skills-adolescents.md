@@ -3,7 +3,7 @@ type: strategy
 id: target-emotion-regulation-skills-adolescents
 title: Target emotion regulation skills in middle and high school youth to close the gap between emotional and cognitive control systems
 description: "The brief's second guideline states that, given the gap between adolescents' emotional and cognitive control systems in the brain, it is important to target emotion regulation skills for middle and high school age youth."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

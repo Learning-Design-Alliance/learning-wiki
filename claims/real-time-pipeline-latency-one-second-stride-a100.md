@@ -3,7 +3,7 @@ type: claim
 title: The end-to-end attention-estimation pipeline meets the one-second prediction stride on an NVIDIA A100 GPU, with warm latency of 50.65 ms per window and 1.02 ms for the temporal model
 description: The end-to-end attention-estimation pipeline meets the one-second prediction stride on an NVIDIA A100 GPU, with warm latency of 50.65 ms per window and 1.02 ms for the temporal model
 id: real-time-pipeline-latency-one-second-stride-a100
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

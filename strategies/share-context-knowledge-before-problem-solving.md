@@ -3,7 +3,7 @@ type: strategy
 id: share-context-knowledge-before-problem-solving
 title: "Check context familiarity by asking the class to share what they know about a problem's context before working on it"
 description: Before students work on a problem, the teacher can surface prior knowledge of its setting as a quick diagnostic of familiarity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

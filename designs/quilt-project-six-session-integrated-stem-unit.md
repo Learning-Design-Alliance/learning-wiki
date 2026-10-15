@@ -3,7 +3,7 @@ type: design
 id: quilt-project-six-session-integrated-stem-unit
 title: "Quilt Project: Six-Session Integrated STEM Unit"
 description: A six-session project developed for the GEMS afterschool club by expanding a quilt mathematics task.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

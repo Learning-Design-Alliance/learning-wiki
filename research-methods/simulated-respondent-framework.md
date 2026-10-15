@@ -3,7 +3,7 @@ type: research-method
 id: simulated-respondent-framework
 title: Simulated-respondent framework
 description: The framework bins student ability into L labeled intervals (Table 2, from Foundational to Elite mastery), prompts the LLM to answer as a student of a given ability level with the correct answer supplied, and trains it with an MSE loss on next-token option probabilities against interval-averaged MCM
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

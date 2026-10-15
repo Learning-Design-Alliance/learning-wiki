@@ -3,7 +3,7 @@ type: claim
 title: The review reports that insufficient prep time, curriculum-alignment difficulty, and low teacher confidence with new technologies are barriers to implementing simulations in K-12
 description: The review reports that insufficient prep time, curriculum-alignment difficulty, and low teacher confidence with new technologies are barriers to implementing simulations in K-12
 id: teacher-time-confidence-barriers-simulation-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' awareness of situational factors may weaken the link between perceived artificial autonomy and GenAI adoption intention"
 description: "Teachers' awareness of situational factors may weaken the link between perceived artificial autonomy and GenAI adoption intention"
 id: situational-awareness-weakens-autonomy-adoption-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

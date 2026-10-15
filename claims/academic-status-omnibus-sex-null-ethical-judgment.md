@@ -3,7 +3,7 @@ type: claim
 title: Academic status shows a significant overall association with classification accuracy, but sex does not; individual status contrasts are exploratory
 description: Academic status shows a significant overall association with classification accuracy, but sex does not; individual status contrasts are exploratory
 id: academic-status-omnibus-sex-null-ethical-judgment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

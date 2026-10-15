@@ -3,7 +3,7 @@ type: claim
 title: Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations
 description: Most participants described interest-personalized GenAI analogies as more engaging or memorable than generic technical explanations
 id: personalized-analogies-more-engaging-memorable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

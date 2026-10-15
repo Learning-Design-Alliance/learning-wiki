@@ -3,7 +3,7 @@ type: claim
 title: Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures
 description: Instructional clarity is a significant main effect on concept achievement, accounting for roughly half of score variance across measures
 id: instructional-clarity-main-effect-concept-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

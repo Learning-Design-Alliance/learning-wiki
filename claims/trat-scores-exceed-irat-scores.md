@@ -3,7 +3,7 @@ type: claim
 title: "Students' IRAT scores were consistently poorer than their TRAT scores, suggesting team collaboration benefits team test performance"
 description: "Students' IRAT scores were consistently poorer than their TRAT scores, suggesting team collaboration benefits team test performance"
 id: trat-scores-exceed-irat-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

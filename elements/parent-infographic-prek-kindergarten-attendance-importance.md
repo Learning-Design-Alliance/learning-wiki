@@ -3,7 +3,7 @@ type: element
 id: parent-infographic-prek-kindergarten-attendance-importance
 title: Parent-facing infographic on the importance of pre-kindergarten and kindergarten attendance
 description: "The publication is described as an \"Infographic for parents on the importance of attendance in pre-kindergarten and kindergarten.\" It is a communication artifact produced by Regional Educational Laboratory Mid-Atlanti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

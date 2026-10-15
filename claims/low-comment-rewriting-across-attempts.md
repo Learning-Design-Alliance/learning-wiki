@@ -3,7 +3,7 @@ type: claim
 title: "Students rarely rewrite specification comments: within the first 10 attempts, Unchanged (48.4%) and New (41.3%) dominate while substantial revisions total only 4.4%"
 description: "Students rarely rewrite specification comments: within the first 10 attempts, Unchanged (48.4%) and New (41.3%) dominate while substantial revisions total only 4.4%"
 id: low-comment-rewriting-across-attempts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

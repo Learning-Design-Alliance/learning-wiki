@@ -3,7 +3,7 @@ type: claim
 title: CSUB teacher residency completers rate their programs highly, averaging 4.3 out of 5.0 on the 2021 CTC completer survey
 description: CSUB teacher residency completers rate their programs highly, averaging 4.3 out of 5.0 on the 2021 CTC completer survey
 id: csub-residents-rate-programs-4-3-of-5
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

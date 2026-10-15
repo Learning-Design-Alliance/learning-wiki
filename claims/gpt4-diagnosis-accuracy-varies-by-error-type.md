@@ -3,7 +3,7 @@ type: claim
 title: "GPT-4's error-diagnosis accuracy varies by error type: near-perfect on correct answers, weakest on Wrong Field and multiple-error responses"
 description: "GPT-4's error-diagnosis accuracy varies by error type: near-perfect on correct answers, weakest on Wrong Field and multiple-error responses"
 id: gpt4-diagnosis-accuracy-varies-by-error-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

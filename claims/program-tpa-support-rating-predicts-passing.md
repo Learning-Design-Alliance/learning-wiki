@@ -3,7 +3,7 @@ type: claim
 title: Candidates from programs rated highest on TPA support have 1.7 times higher odds of passing than those from lowest-rated programs
 description: Candidates from programs rated highest on TPA support have 1.7 times higher odds of passing than those from lowest-rated programs
 id: program-tpa-support-rating-predicts-passing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The finding that single-discipline course takers perform as well as peers despite instruction-assessment mismatch runs counter to prevailing alignment assumptions
 description: The finding that single-discipline course takers perform as well as peers despite instruction-assessment mismatch runs counter to prevailing alignment assumptions
 id: alignment-assumption-complicated-by-growth-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

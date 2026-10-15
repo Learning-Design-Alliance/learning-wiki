@@ -3,7 +3,7 @@ type: strategy
 id: concrete-first-topic-sequence-for-reasoning-development
 title: Sequence concrete, observation-based content first and gradually increase hypothetical and theoretical content as reasoning develops
 description: The authors propose reordering the traditional conceptual physics sequence, which typically begins with mechanics (motion, force, energy) — the most theoretical and hardest content for this population.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

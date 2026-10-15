@@ -4,7 +4,7 @@ id: community-ecocycle
 title: Community Ecocycle
 description: A reflection and action framework published by Equal Measure and Mathematica to help philanthropic funders consider developmental phases and co-design investment approaches with communities pursuing place-based systems change.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

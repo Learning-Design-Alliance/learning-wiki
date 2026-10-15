@@ -3,7 +3,7 @@ type: claim
 title: Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind
 description: Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind
 id: middle-school-reading-stagnant-lowest-performers-behind
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

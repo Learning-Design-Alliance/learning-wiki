@@ -3,7 +3,7 @@ type: claim
 title: Open education is asserted to lack a solid theoretical or philosophical foundation
 description: Open education is asserted to lack a solid theoretical or philosophical foundation
 id: open-education-lacks-theoretical-foundation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

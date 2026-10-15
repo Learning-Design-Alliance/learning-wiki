@@ -3,7 +3,7 @@ type: claim
 title: Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas
 description: Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas
 id: demographics-differentiate-genai-personas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

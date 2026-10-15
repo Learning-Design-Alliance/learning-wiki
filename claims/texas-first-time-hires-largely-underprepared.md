@@ -3,7 +3,7 @@ type: claim
 title: "In 2021–22, only 28% of Texas first-time teacher hires held a standard certificate; 57% held a substandard intern certificate, emergency permit, or no certification at all"
 description: "In 2021–22, only 28% of Texas first-time teacher hires held a standard certificate; 57% held a substandard intern certificate, emergency permit, or no certification at all"
 id: texas-first-time-hires-largely-underprepared
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

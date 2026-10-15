@@ -3,7 +3,7 @@ type: claim
 title: Even bilingual children with limited heritage-language proficiency found creative ways to communicate different linguistic functions as needed
 description: Even bilingual children with limited heritage-language proficiency found creative ways to communicate different linguistic functions as needed
 id: limited-proficiency-children-creative-communicative-workarounds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

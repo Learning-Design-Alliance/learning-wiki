@@ -3,7 +3,7 @@ type: claim
 title: "California administrator induction is rated effective by over 90% of completers, with at least 85% reporting strong preparation on every CPSEL leadership skill"
 description: "California administrator induction is rated effective by over 90% of completers, with at least 85% reporting strong preparation on every CPSEL leadership skill"
 id: induction-rated-effective-cpsel-preparation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

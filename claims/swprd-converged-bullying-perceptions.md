@@ -3,7 +3,7 @@ type: claim
 title: After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school
 description: After school-wide positive and restorative discipline training, Black-White and LGBTQ-straight differences in perceived bullying converged at one majority-minority school
 id: swprd-converged-bullying-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

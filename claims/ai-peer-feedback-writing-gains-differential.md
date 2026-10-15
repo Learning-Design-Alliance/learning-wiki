@@ -3,7 +3,7 @@ type: claim
 title: AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion
 description: AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherenc...
 id: ai-peer-feedback-writing-gains-differential
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

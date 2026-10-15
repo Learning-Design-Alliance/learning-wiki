@@ -3,7 +3,7 @@ type: claim
 title: DysLexLens is moderately robust to paraphrased queries (Answer Relevancy 0.58) but sensitive to keyword-perturbed queries (0.34)
 description: DysLexLens is moderately robust to paraphrased queries (Answer Relevancy 0.58) but sensitive to keyword-perturbed queries (0.34)
 id: query-robustness-paraphrase-keyword-perturbation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

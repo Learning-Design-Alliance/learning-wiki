@@ -3,7 +3,7 @@ type: claim
 title: PARCC and MCAS scores show similar validity for predicting college grades
 description: PARCC and MCAS scores show similar validity for predicting college grades
 id: parcc-mcas-similar-college-grade-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

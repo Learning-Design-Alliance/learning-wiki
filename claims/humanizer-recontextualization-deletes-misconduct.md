@@ -3,7 +3,7 @@ type: claim
 title: "AI humanizer websites recontextualize detection evasion by deleting misconduct terms and substituting euphemisms like 'humanize' and 'improve flow'"
 description: "AI humanizer websites recontextualize detection evasion by deleting misconduct terms and substituting euphemisms like 'humanize' and 'improve flow'"
 id: humanizer-recontextualization-deletes-misconduct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

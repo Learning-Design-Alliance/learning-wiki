@@ -3,7 +3,7 @@ type: claim
 title: In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor
 description: In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor
 id: simulation-task-difficulty-ai-quality-set-overreliance-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

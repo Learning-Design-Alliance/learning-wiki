@@ -3,7 +3,7 @@ type: strategy
 id: five-priorities-michigan-teacher-shortage-policy
 title: "Five policy priorities to address Michigan's inequitable teacher shortage: fair funding, data systems, career attractiveness, administrator supports, and professional development"
 description: "The report proposes five priorities as a roadmap for sustained change: fair and adequate funding to support competitive salaries especially in high-poverty districts; improved state education data systems so policymak..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

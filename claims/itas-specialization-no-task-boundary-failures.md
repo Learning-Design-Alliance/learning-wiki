@@ -3,7 +3,7 @@ type: claim
 title: In a graduate QIS course pilot, the specialized Spoke-and-Wheel architecture showed no task-boundary failures across 75 student interactions, though no controlled comparison against the prototype was run
 description: In a graduate QIS course pilot, the specialized Spoke-and-Wheel architecture showed no task-boundary failures across 75 student interactions, though no controlled comparison against the prototype was run
 id: itas-specialization-no-task-boundary-failures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

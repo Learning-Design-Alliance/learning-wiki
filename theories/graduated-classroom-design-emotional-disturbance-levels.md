@@ -2,7 +2,7 @@
 type: theory
 title: Graduated classroom-design framework matching environmental control to three levels of emotional disturbance
 description: "The booklet organizes all its design schemes around a single axis: the degree of emotional disturbance of the children served."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

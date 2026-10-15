@@ -3,7 +3,7 @@ type: element
 id: thematic-bilingual-audio-dictionary
 title: Thematic Bilingual Audio Dictionary delivered via Telegram
 description: "A set of short audio vocabulary lessons created by the first researcher and delivered to students' mobile phones through the Telegram app."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

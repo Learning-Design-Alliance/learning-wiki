@@ -3,7 +3,7 @@ type: claim
 title: "GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users"
 description: "GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users"
 id: gcla-no-motivation-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

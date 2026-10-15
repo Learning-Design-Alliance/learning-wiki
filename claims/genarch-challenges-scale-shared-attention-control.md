@@ -3,7 +3,7 @@ type: claim
 title: Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation
 description: Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation
 id: genarch-challenges-scale-shared-attention-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

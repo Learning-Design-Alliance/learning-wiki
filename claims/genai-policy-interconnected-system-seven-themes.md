@@ -3,7 +3,7 @@ type: claim
 title: Students framed an effective GenAI course policy as an interconnected system in which knowledge, evaluation, collaboration, contextualization, autonomy, ethics, and institutional responsibility mutually shape one another
 description: Students framed an effective GenAI course policy as an interconnected system in which knowledge, evaluation, collaboration, contextualization, autonomy, ethics, and institutional responsibility mutually shape one another
 id: genai-policy-interconnected-system-seven-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

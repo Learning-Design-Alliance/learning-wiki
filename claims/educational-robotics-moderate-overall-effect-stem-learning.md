@@ -3,7 +3,7 @@ type: claim
 title: "Educational robotics has a moderate positive overall effect on K-16 students' STEM learning compared to non-robotics instruction"
 description: "Educational robotics has a moderate positive overall effect on K-16 students' STEM learning compared to non-robotics instruction"
 id: educational-robotics-moderate-overall-effect-stem-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Students' perceptions of ethicality and of rule compliance were strongly and positively correlated, with rule ratings consistently higher than ethicality ratings"
 description: "Students' perceptions of ethicality and of rule compliance were strongly and positively correlated, with rule ratings consistently higher than ethicality ratings"
 id: ethicality-and-rule-compliance-perceptions-strongly-correlated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

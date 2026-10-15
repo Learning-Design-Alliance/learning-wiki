@@ -4,7 +4,7 @@ id: performance-partnership-pilots-for-disconnected-youth-p3
 title: Performance Partnership Pilots for Disconnected Youth (P3)
 description: A federally supported initiative run by six U.S.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

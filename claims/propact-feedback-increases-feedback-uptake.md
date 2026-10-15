@@ -3,7 +3,7 @@ type: claim
 title: Proactive multimodal feedback significantly increases feedback uptake compared to control
 description: Proactive multimodal feedback significantly increases feedback uptake compared to control
 id: propact-feedback-increases-feedback-uptake
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

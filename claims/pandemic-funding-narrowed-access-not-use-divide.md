@@ -3,7 +3,7 @@ type: claim
 title: Emergency federal funding narrowed the digital access divide during the pandemic but did not close the digital use divide
 description: Emergency federal funding narrowed the digital access divide during the pandemic but did not close the digital use divide
 id: pandemic-funding-narrowed-access-not-use-divide
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

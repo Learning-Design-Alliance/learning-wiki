@@ -3,7 +3,7 @@ type: element
 id: scenario-based-simulated-interaction-assessments
 title: Scenario-based standardized assessments with simulated peer and teacher interaction
 description: ETS researchers developed technology-based assessments that emulate real interactions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

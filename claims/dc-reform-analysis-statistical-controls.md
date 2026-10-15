@@ -3,7 +3,7 @@ type: claim
 title: The DC reform analysis used advanced statistical methods to account for pre-reform differences between DC and other areas and general trends afterward
 description: The DC reform analysis used advanced statistical methods to account for pre-reform differences between DC and other areas and general trends afterward
 id: dc-reform-analysis-statistical-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

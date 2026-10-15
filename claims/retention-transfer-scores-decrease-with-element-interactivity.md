@@ -3,7 +3,7 @@ type: claim
 title: As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease
 description: As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease
 id: retention-transfer-scores-decrease-with-element-interactivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

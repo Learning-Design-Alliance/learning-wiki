@@ -3,7 +3,7 @@ type: design
 id: haiti-three-component-pilot-model
 title: Three-component pilot model combining infrastructure and technology, Creole digital content, and professional development with coaching
 description: The pilot model organizes implementation into three components.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

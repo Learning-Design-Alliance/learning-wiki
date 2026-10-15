@@ -4,7 +4,7 @@ id: dana-center-mathematics-pathways
 title: Dana Center Mathematics Pathways
 description: A mathematics pathways programme developed by the Charles A.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

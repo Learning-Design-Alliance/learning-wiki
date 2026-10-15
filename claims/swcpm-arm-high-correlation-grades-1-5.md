@@ -3,7 +3,7 @@ type: claim
 title: MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter
 description: MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter
 id: swcpm-arm-high-correlation-grades-1-5
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

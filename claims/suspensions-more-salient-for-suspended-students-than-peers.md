@@ -3,7 +3,7 @@ type: claim
 title: Suspensions are more salient for students who personally experience suspension than for their peers
 description: Suspensions are more salient for students who personally experience suspension than for their peers
 id: suspensions-more-salient-for-suspended-students-than-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

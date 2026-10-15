@@ -3,7 +3,7 @@ type: claim
 title: The book-organization benefit transfers to Llama3-8B, where Full outperforms RandomConcat (+0.86) and Natural Books (+1.51)
 description: The book-organization benefit transfers to Llama3-8B, where Full outperforms RandomConcat (+0.86) and Natural Books (+1.51)
 id: book-organization-transfers-llama3-8b
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

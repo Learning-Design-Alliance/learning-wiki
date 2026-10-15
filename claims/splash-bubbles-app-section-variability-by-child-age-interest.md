@@ -3,7 +3,7 @@ type: claim
 title: Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest
 description: Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest
 id: splash-bubbles-app-section-variability-by-child-age-interest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

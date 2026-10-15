@@ -3,7 +3,7 @@ type: claim
 title: Reading Apprenticeship® has potentially positive effects on grade point average in core subjects, based on one qualifying study
 description: Reading Apprenticeship® has potentially positive effects on grade point average in core subjects, based on one qualifying study
 id: reading-apprenticeship-potentially-positive-gpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

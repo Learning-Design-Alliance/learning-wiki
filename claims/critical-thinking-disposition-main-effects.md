@@ -3,7 +3,7 @@ type: claim
 title: Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction
 description: Critical thinking disposition showed significant positive main effects on motivation and learning outcomes across all dialogue formats, with no format interaction
 id: critical-thinking-disposition-main-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

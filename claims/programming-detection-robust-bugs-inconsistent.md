@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated programming code was reliably detected, but inserting beginner bugs had an inconsistent effect across the two programming questions
 description: LLM-generated programming code was reliably detected, but inserting beginner bugs had an inconsistent effect across the two programming questions
 id: programming-detection-robust-bugs-inconsistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

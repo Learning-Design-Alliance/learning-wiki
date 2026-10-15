@@ -3,7 +3,7 @@ type: design
 id: elementary-distributed-leadership-monitoring-pattern
 title: Distributed leadership with monitoring routines in elementary schools
 description: A school-level organizational pattern in which principals delegate leadership functions to staff (coaches, counselors, teachers) while maintaining regular instructional monitoring routines such as progress-report revi...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

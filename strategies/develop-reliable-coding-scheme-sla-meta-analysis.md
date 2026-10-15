@@ -3,7 +3,7 @@ type: strategy
 id: develop-reliable-coding-scheme-sla-meta-analysis
 title: Develop a reliable coding scheme as a distinct stage of an SLA meta-analysis
 description: "As the second of the review's four stages, meta-analysts in SLA should develop a reliable coding scheme for study features and outcomes before analyzing data."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

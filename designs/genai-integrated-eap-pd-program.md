@@ -3,7 +3,7 @@ type: design
 id: genai-integrated-eap-pd-program
 title: GenAI-integrated professional development program embedding ethical reasoning for EAP educators
 description: A field-tested professional development program for higher education EAP educators that integrates generative AI training with ethical reasoning.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

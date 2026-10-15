@@ -4,7 +4,7 @@ title: Gatekeeper course completion rates were slightly lower for CBE participan
 description: Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college
 id: cbe-gatekeeper-completion-lower-than-comparison
 aliases: [taaccct-cbe-gatekeeper-credential-comparisons, cbe-credential-completion-varied-by-college-unobservable-differences]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

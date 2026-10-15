@@ -3,7 +3,7 @@ type: claim
 title: Human–human pair programming fostered the highest perceptions of collaboration and social presence, surpassing both AI-assisted and individual conditions
 description: Human–human pair programming fostered the highest perceptions of collaboration and social presence, surpassing both AI-assisted and individual conditions
 id: human-pairing-highest-collaboration-social-presence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

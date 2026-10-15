@@ -3,7 +3,7 @@ type: strategy
 id: align-resources-and-engage-school-system
 title: Align resources with coherent improvement goals and engage constructively with the school system
 description: "The report's third and fourth lessons: \"adequate and sustained financial support for school improvement is essential, but as important is how that money is spent."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states
 description: The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states
 id: map-cat-longitudinal-construct-invariance-ten-states
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

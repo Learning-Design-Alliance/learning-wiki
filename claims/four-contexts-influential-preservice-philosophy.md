@@ -3,7 +3,7 @@ type: claim
 title: "Four contexts of mathematics teacher education described the experiences most influential to the preservice teacher's evolving philosophy of mathematics"
 description: "Four contexts of mathematics teacher education described the experiences most influential to the preservice teacher's evolving philosophy of mathematics"
 id: four-contexts-influential-preservice-philosophy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Illinois districts implementing PERA-era teacher evaluation systems experienced challenges cultivating buy-in and understanding among school personnel
 description: Illinois districts implementing PERA-era teacher evaluation systems experienced challenges cultivating buy-in and understanding among school personnel
 id: pera-districts-challenge-cultivating-buy-in-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

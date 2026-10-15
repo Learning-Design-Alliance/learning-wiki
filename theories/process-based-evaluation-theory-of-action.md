@@ -2,7 +2,7 @@
 type: theory
 title: Process-based theory of action for observation-driven teacher evaluation
 description: "The article articulates the mechanism by which observation-based evaluation is expected to improve achievement: iterative observation and conferencing change teacher practice in lesson planning, classroom environment,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

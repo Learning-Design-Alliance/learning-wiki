@@ -3,7 +3,7 @@ type: claim
 title: The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year
 description: The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year
 id: national-cyber-pathways-initiative-700-students-10-districts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

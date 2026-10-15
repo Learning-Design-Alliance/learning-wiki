@@ -3,7 +3,7 @@ type: claim
 title: Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects
 description: Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects
 id: rdd-robust-methods-need-larger-samples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

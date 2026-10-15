@@ -3,7 +3,7 @@ type: claim
 title: KIPP elementary schools have positive, statistically significant, and educationally meaningful impacts on three of four measures of reading and mathematics skills
 description: KIPP elementary schools have positive, statistically significant, and educationally meaningful impacts on three of four measures of reading and mathematics skills
 id: kipp-elementary-positive-impacts-three-of-four-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

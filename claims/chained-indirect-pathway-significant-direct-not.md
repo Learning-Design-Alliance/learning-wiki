@@ -3,7 +3,7 @@ type: claim
 title: The direct path from contextual support to perceived transfer gains was not statistically significant, whereas the chained indirect pathway through trust calibration and collaborative regulation was significant
 description: The direct path from contextual support to perceived transfer gains was not statistically significant, whereas the chained indirect pathway through trust calibration and collaborative regulation was significant
 id: chained-indirect-pathway-significant-direct-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

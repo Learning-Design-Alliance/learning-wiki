@@ -3,7 +3,7 @@ type: strategy
 id: peer-led-epportfolio-studio-and-longitudinal-pd
 title: Provide dedicated peer-led ePortfolio support focused on ePortfolio making skills, and scale professional development longitudinally with adoption
 description: The article describes two implementable supports for scaling ePortfolio.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

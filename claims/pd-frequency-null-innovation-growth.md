@@ -3,7 +3,7 @@ type: claim
 title: Increased participation in professional development was not significantly related to later gains in school orientation toward innovation
 description: Increased participation in professional development was not significantly related to later gains in school orientation toward innovation
 id: pd-frequency-null-innovation-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

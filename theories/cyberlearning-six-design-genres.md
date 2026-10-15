@@ -2,7 +2,7 @@
 type: theory
 title: Six emerging design genres organize cyberlearning design research
 description: "The report organizes cyberlearning design research into six general designs, which project leaders call genres: Community Mapping, Expressive Construction, Digital Performance Spaces, Virtual Peers and Coaches, Remote..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

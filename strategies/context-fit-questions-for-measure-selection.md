@@ -3,7 +3,7 @@ type: strategy
 id: context-fit-questions-for-measure-selection
 title: Use context-specific fit questions to decide whether a specific measure suits your setting
 description: "Before adopting a measure from the menu, work through the resource's context-specific questions to determine whether that specific measure is a good fit for your circumstances."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

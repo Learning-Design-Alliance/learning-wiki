@@ -3,7 +3,7 @@ type: claim
 title: Counter rises in both revision conditions, Endorse rises in peer-feedback revisions but declines in AI revisions, and Pronounce declines in both
 description: Counter rises in both revision conditions, Endorse rises in peer-feedback revisions but declines in AI revisions, and Pronounce declines in both
 id: counter-endorse-pronounce-subcategory-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

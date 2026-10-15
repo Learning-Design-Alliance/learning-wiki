@@ -4,7 +4,7 @@ id: hip-taxonomy
 title: HIP Taxonomy
 description: A taxonomy and implementation tool developed by IUPUI for designing, implementing, and scaling ePortfolio-based high-impact learning experiences.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

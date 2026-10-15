@@ -4,7 +4,7 @@ id: building-blocks
 title: Building Blocks
 description: Building Blocks is a preschool mathematics curriculum and intervention developed by Douglas H.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

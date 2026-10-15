@@ -3,7 +3,7 @@ type: claim
 title: Both effects are claimed to rely on equivalent changes in element interactivity, with the changes induced by different factors
 description: Both effects are claimed to rely on equivalent changes in element interactivity, with the changes induced by different factors
 id: equivalent-element-interactivity-changes-both-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

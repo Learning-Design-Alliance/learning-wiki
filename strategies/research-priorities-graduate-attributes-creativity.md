@@ -3,7 +3,7 @@ type: strategy
 id: research-priorities-graduate-attributes-creativity
 title: Direct further research toward new teacher roles, learning pathways and graduate attributes focused on imagination, creativity and innovation
 description: "The article's concluding research agenda states: \"it is important to focus further research on the new roles of teachers on new learning pathways for higher degree students, with a new set of graduate attributes, with..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Guest-mode usage dominates lightweight help-seeking, raising an equity concern that students without metacognitive support stay at shallow answer lookup
 description: Guest-mode usage dominates lightweight help-seeking, raising an equity concern that students without metacognitive support stay at shallow answer lookup
 id: guest-mode-equity-metacognitive-labor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Baseline coaches produced weaker or absent learning gains: RBF improved only failure count, MIA neither outcome"
 description: "Baseline coaches produced weaker or absent learning gains: RBF improved only failure count, MIA neither outcome"
 id: baselines-weak-or-absent-skill-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

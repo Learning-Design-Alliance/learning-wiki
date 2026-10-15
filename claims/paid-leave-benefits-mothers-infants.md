@@ -3,7 +3,7 @@ type: claim
 title: Paid parental leave is associated with maternal recovery, workforce retention, earnings, and longer nursing duration
 description: Paid parental leave is associated with maternal recovery, workforce retention, earnings, and longer nursing duration
 id: paid-leave-benefits-mothers-infants
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

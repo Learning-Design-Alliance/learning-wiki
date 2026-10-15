@@ -3,7 +3,7 @@ type: claim
 title: "African-American students' disproportionate retention was largely explained by lower prior test scores"
 description: "African-American students' disproportionate retention was largely explained by lower prior test scores"
 id: retention-racial-disparity-explained-by-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

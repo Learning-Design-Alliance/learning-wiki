@@ -3,7 +3,7 @@ type: design
 id: gsu-academic-chatbot-mainstay
 title: "Non-generative AI academic chatbot with TA-supported knowledge base and #quizme practice function"
 description: A text-based chatbot with non-generative AI capability that sent 2-3 scheduled, customized messages per week (about 40 per semester) to students in large online courses.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

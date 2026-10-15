@@ -3,7 +3,7 @@ type: claim
 title: Despite differences in topic and available research, evidence reviews typically favor evaluations that limit potential bias
 description: Despite differences in topic and available research, evidence reviews typically favor evaluations that limit potential bias
 id: evidence-reviews-favor-low-bias-evaluations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

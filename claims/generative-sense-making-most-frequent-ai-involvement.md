@@ -3,7 +3,7 @@ type: claim
 title: In AI-mediated SSH classrooms, generative sense-making is the most frequent category of AI involvement, with AI used predominantly as interpretive support rather than full substitute
 description: In AI-mediated SSH classrooms, generative sense-making is the most frequent category of AI involvement, with AI used predominantly as interpretive support rather than full substitute
 id: generative-sense-making-most-frequent-ai-involvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

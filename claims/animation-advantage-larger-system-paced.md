@@ -3,7 +3,7 @@ type: claim
 title: The animation advantage is larger when the animation is system-paced
 description: The animation advantage is larger when the animation is system-paced
 id: animation-advantage-larger-system-paced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

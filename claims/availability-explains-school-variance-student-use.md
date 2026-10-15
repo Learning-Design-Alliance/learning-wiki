@@ -3,7 +3,7 @@ type: claim
 title: Computer availability explains almost half of between-school differences in student computer use, with the strongest relationship in schools with insufficient access
 description: Computer availability explains almost half of between-school differences in student computer use, with the strongest relationship in schools with insufficient access
 id: availability-explains-school-variance-student-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

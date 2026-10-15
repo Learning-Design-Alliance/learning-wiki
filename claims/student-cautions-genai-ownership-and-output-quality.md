@@ -3,7 +3,7 @@ type: claim
 title: Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership
 description: Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership
 id: student-cautions-genai-ownership-and-output-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

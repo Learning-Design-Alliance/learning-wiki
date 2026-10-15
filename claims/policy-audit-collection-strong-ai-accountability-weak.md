@@ -3,7 +3,7 @@ type: claim
 title: In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak
 description: In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak
 id: policy-audit-collection-strong-ai-accountability-weak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

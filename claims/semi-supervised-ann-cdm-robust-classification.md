@@ -3,7 +3,7 @@ type: claim
 title: A semi-supervised ANN method combining DINA and DINO achieves appreciated classification performance across test conditions, especially when diagnostic quality is not high or the Q-matrix contains misspecified elements
 description: A semi-supervised ANN method combining DINA and DINO achieves appreciated classification performance across test conditions, especially when diagnostic quality is not high or the Q-matrix contains misspecified elements
 id: semi-supervised-ann-cdm-robust-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time
 description: Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time
 id: cf-facilitates-l2-grammar-explicit-implicit-durability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: strategy
 id: consortium-college-industry-university-certification-partnership
 title: Build certification-track career pathway programs through consortium colleges partnered with industry associations and universities
 description: The article describes a workforce training strategy in which a nine-college consortium led by Broward College, funded by a $24.5 million TAACCCT grant, developed certification track content and exams in eight supply c...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

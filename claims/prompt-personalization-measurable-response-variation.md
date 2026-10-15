@@ -3,7 +3,7 @@ type: claim
 title: Prompt-based personalization of an LLM/RAG teaching assistant produces measurable variation in response expression, length, and complexity across personalization conditions
 description: Prompt-based personalization of an LLM/RAG teaching assistant produces measurable variation in response expression, length, and complexity across personalization conditions
 id: prompt-personalization-measurable-response-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

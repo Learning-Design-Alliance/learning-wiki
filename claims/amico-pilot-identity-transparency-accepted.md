@@ -3,7 +3,7 @@ type: claim
 title: In an exploratory Italy–China pilot, participants engaged with the Amico system as a bounded supportive mediation and no major misunderstandings of system identity were observed
 description: In an exploratory Italy–China pilot, participants engaged with the Amico system as a bounded supportive mediation and no major misunderstandings of system identity were observed
 id: amico-pilot-identity-transparency-accepted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

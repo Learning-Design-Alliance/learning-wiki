@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

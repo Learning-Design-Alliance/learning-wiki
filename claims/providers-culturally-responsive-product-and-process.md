@@ -3,7 +3,7 @@ type: claim
 title: "BIPOC solution providers embed culturally responsive pedagogy features in both their R&D processes and their end products"
 description: "BIPOC solution providers embed culturally responsive pedagogy features in both their R&D processes and their end products"
 id: providers-culturally-responsive-product-and-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

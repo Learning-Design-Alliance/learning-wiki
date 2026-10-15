@@ -3,7 +3,7 @@ type: claim
 title: AI-attitude profiles differ significantly in career crafting, with High-Perception High-Vigilance and Positive Empowerment highest and Low-Perception Detached lowest
 description: AI-attitude profiles differ significantly in career crafting, with High-Perception High-Vigilance and Positive Empowerment highest and Low-Perception Detached lowest
 id: profiles-differ-in-career-crafting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

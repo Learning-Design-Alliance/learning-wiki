@@ -3,7 +3,7 @@ type: claim
 title: "In 2016-17 CPS ninth-grade math sections, 98 percent of teachers altered or created grading category titles rather than using Gradebook's defaults, producing 709 unique category titles"
 description: "In 2016-17 CPS ninth-grade math sections, 98 percent of teachers altered or created grading category titles rather than using Gradebook's defaults, producing 709 unique category titles"
 id: cps-gradebook-teachers-customized-category-titles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

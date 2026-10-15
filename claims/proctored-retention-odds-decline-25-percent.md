@@ -3,7 +3,7 @@ type: claim
 title: "On randomly assigned proctored retention items, odds of correct response on AI-susceptible items decline 25.0% cumulatively after ChatGPT's release"
 description: "On randomly assigned proctored retention items, odds of correct response on AI-susceptible items decline 25.0% cumulatively after ChatGPT's release"
 id: proctored-retention-odds-decline-25-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

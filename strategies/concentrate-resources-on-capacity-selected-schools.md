@@ -3,7 +3,7 @@ type: strategy
 id: concentrate-resources-on-capacity-selected-schools
 title: Concentrate greater resources on a smaller number of schools selected partly for implementation capacity
 description: "A lesson drawn from the Challenge's experience: \"it may be more effective to concentrate greater amounts of resources on a relatively small number of schools that are selected in part for their capacity to implement t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

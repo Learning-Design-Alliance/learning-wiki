@@ -3,7 +3,7 @@ type: claim
 title: Seven enablers of LA-based educational interventions were identified and validated by an international expert panel
 description: Seven enablers of LA-based educational interventions were identified and validated by an international expert panel
 id: seven-enablers-la-based-educational-interventions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)
 description: K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)
 id: six-behavioral-learner-profiles-kmeans-plus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

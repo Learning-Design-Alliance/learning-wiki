@@ -3,7 +3,7 @@ type: strategy
 id: slm-generate-llm-validate-synergy
 title: Use an SLM for rapid large-scale question generation with an LLM providing validation feedback
 description: "The authors recommend exploiting an abundance mindset with small language models: generate many candidate questions cheaply and locally, then validate carefully afterwards, rather than expecting one-shot quality."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

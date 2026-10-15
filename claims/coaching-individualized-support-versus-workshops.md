@@ -3,7 +3,7 @@ type: claim
 title: "Instructional coaching provides individualized support adapted to teachers' needs and classroom contexts, in contrast to traditional professional development workshops"
 description: "Instructional coaching provides individualized support adapted to teachers' needs and classroom contexts, in contrast to traditional professional development workshops"
 id: coaching-individualized-support-versus-workshops
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

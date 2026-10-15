@@ -3,7 +3,7 @@ type: claim
 title: Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness
 description: Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness
 id: youth-genai-attitudes-and-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

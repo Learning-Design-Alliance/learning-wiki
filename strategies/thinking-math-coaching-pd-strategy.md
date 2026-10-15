@@ -3,7 +3,7 @@ type: strategy
 id: thinking-math-coaching-pd-strategy
 title: Ongoing math-specialist coaching and curriculum-based professional development for implementing teachers
 description: "Each school is assigned \"a designated on-site instructional coach who is a math specialist\" supporting implementation monitoring, professional development, and coaching."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

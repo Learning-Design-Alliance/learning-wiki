@@ -4,7 +4,7 @@ title: Disadvantaged students in grades 4-8 receive less-effective teaching on a
 description: Disadvantaged students in grades 4-8 receive less-effective teaching on average than other students in the same grades
 id: disadvantaged-students-receive-less-effective-teaching
 aliases: [disadvantaged-students-less-effective-teaching]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

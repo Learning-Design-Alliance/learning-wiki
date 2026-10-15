@@ -3,7 +3,7 @@ type: claim
 title: "Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline"
 description: "Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline"
 id: below-norm-scores-improved-despite-lower-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

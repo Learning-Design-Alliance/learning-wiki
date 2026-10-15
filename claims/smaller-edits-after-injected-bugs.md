@@ -3,7 +3,7 @@ type: claim
 title: Students make smaller code changes and fewer edit-and-run attempts after injected bugs than after natural bugs
 description: Students make smaller code changes and fewer edit-and-run attempts after injected bugs than after natural bugs
 id: smaller-edits-after-injected-bugs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Reading Recovery improves writing conventions three years after the intervention, but the effect is significant only against one of the two comparison groups
 description: Reading Recovery improves writing conventions three years after the intervention, but the effect is significant only against one of the two comparison groups
 id: reading-recovery-improves-writing-conventions-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

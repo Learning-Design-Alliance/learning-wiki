@@ -3,7 +3,7 @@ type: claim
 title: The improvement index for Little Books on general reading achievement is +12 percentile points for each delivery variation, averaging +12 percentile points across the study
 description: The improvement index for Little Books on general reading achievement is +12 percentile points for each delivery variation, averaging +12 percentile points across the study
 id: little-books-improvement-index-plus-12-percentile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

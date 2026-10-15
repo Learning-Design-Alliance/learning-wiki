@@ -4,7 +4,7 @@ title: Adaptive testing yields better measurement precision than a fixed-form te
 description: Adaptive testing yields better measurement precision than a fixed-form test of the same length
 id: adaptive-testing-beats-fixed-form-precision-same-length
 aliases: [adaptive-testing-precision-advantage]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

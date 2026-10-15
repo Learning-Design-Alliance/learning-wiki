@@ -3,7 +3,7 @@ type: element
 id: aac-school-qes-protocol
 title: Registered qualitative evidence synthesis protocol on AAC use in school (PROSPERO CRD420251229480)
 description: A protocol for a qualitative evidence synthesis (QES) that will identify, review and collate findings from existing qualitative research on stakeholder experiences of AAC use for children with communication needs in c...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

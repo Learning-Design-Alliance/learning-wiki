@@ -3,7 +3,7 @@ type: claim
 title: The v2 synthetic generator was tuned for stricter trace-data realism with more incorrect code, retries, and longer dialogues
 description: The v2 synthetic generator was tuned for stricter trace-data realism with more incorrect code, retries, and longer dialogues
 id: astra-v2-generator-stricter-realism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

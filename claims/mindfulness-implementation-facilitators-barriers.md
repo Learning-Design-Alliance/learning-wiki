@@ -3,7 +3,7 @@ type: claim
 title: "Implementation of school mindfulness programs is facilitated by collegial teaching, administrative and parental support, and children's enthusiasm, and hindered by lack of time and disengaged students"
 description: "Implementation of school mindfulness programs is facilitated by collegial teaching, administrative and parental support, and children's enthusiasm, and hindered by lack of time and disengaged students"
 id: mindfulness-implementation-facilitators-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

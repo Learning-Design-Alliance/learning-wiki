@@ -3,7 +3,7 @@ type: claim
 title: Fewer than half of principals in Arizona, Nevada, and Utah remained at the same school from fall 2016 to fall 2020
 description: Fewer than half of principals in Arizona, Nevada, and Utah remained at the same school from fall 2016 to fall 2020
 id: fewer-than-half-principals-remained-four-years-az-nv-ut
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

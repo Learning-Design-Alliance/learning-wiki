@@ -3,7 +3,7 @@ type: strategy
 id: educational-developers-as-pedagogical-collaborators
 title: Reposition educational developers as active pedagogical collaborators in constructive alignment rather than technology implementers
 description: The article calls for a repositioning of educational developer roles away from narratives of technology implementers back towards active collaborators in constructive alignment processes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

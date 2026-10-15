@@ -3,7 +3,7 @@ type: claim
 title: The 1998-99 CPS bilingual education policy overhaul shifted thousands of students into the tested-but-excluded category, raising tested-and-included counts by more than 12,000
 description: The 1998-99 CPS bilingual education policy overhaul shifted thousands of students into the tested-but-excluded category, raising tested-and-included counts by more than 12,000
 id: bilingual-policy-overhaul-shifted-test-inclusion-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

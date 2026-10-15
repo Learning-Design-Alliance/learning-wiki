@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Odyssey® Math's mathematics achievement effects is rated medium to large, based on three studies of 2,768 students in 41 schools"
 description: "The evidence base for Odyssey® Math's mathematics achievement effects is rated medium to large, based on three studies of 2,768 students in 41 schools"
 id: odyssey-math-medium-to-large-extent-of-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

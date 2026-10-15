@@ -3,7 +3,7 @@ type: element
 id: salzburg-student-ratings-project
 title: Student Ratings of Teaching project at the University of Salzburg
 description: "The concrete evaluation context used in the article is the project \"Student Ratings of Teaching\" at the University of Salzburg, partly based on the project \"Evaluation in Education\", grant No."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

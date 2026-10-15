@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users
 description: ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users
 id: chatgpt-reduced-differentiation-verification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

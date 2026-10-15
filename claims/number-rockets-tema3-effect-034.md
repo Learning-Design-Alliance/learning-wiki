@@ -3,7 +3,7 @@ type: claim
 title: "Number Rockets tutoring significantly improves first graders' math performance on TEMA-3 with an effect size of +0.34 versus untutored controls"
 description: "Number Rockets tutoring significantly improves first graders' math performance on TEMA-3 with an effect size of +0.34 versus untutored controls"
 id: number-rockets-tema3-effect-034
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

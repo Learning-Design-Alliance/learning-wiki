@@ -3,7 +3,7 @@ type: claim
 title: "Institutional guidance cautions instructors about privacy (60% of institutions) while syllabi more often flag veracity of GenAI output and hindering learning"
 description: "Institutional guidance cautions instructors about privacy (60% of institutions) while syllabi more often flag veracity of GenAI output and hindering learning"
 id: concerns-privacy-institutional-veracity-syllabi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)"
 description: "A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)"
 id: retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

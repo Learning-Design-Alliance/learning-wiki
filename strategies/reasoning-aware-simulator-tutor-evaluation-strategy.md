@@ -3,7 +3,7 @@ type: strategy
 id: reasoning-aware-simulator-tutor-evaluation-strategy
 title: Use reasoning-aware student simulators to evaluate AI tutors, diagnose misconceptions, and support learner reflection
 description: The article recommends deploying student simulators that model both actions and internal reasoning as tools for educational system development.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "New Mexico LESC study: community schools operating more than 5 years with full pillar implementation showed better-than-average achievement growth"
 description: "New Mexico LESC study: community schools operating more than 5 years with full pillar implementation showed better-than-average achievement growth"
 id: nm-lesc-community-schools-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth"
 description: "LLaMA's LoRA adaptation compresses its prediction range to roughly 2.0–4.0, while Gemma maintains a broader distribution closer to the ground truth"
 id: llama-prediction-range-compression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

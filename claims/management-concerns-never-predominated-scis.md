@@ -3,7 +3,7 @@ type: claim
 title: Management concerns never predominated for any group in the SCIS implementation, contrary to other innovation studies
 description: Management concerns never predominated for any group in the SCIS implementation, contrary to other innovation studies
 id: management-concerns-never-predominated-scis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

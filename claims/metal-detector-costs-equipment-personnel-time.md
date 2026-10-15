@@ -3,7 +3,7 @@ type: claim
 title: Metal detectors impose substantial equipment, personnel, training and time costs on schools
 description: Metal detectors impose substantial equipment, personnel, training and time costs on schools
 id: metal-detector-costs-equipment-personnel-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

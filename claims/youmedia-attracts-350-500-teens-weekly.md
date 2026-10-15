@@ -3,7 +3,7 @@ type: claim
 title: YOUmedia attracts between 350 and 500 teens weekly, with African American males the largest single demographic group
 description: YOUmedia attracts between 350 and 500 teens weekly, with African American males the largest single demographic group
 id: youmedia-attracts-350-500-teens-weekly
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Cognitive Maturity disposition scores significantly declined during the WISE Agent intervention, interpreted as de-centering of naive optimism
 description: Cognitive Maturity disposition scores significantly declined during the WISE Agent intervention, interpreted as de-centering of naive optimism
 id: wise-agent-cognitive-maturity-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

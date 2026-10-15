@@ -3,7 +3,7 @@ type: claim
 title: LLMs diagnose Applying skills better than Knowing skills, but with higher evidence over-attribution and false-attribution
 description: LLMs diagnose Applying skills better than Knowing skills, but with higher evidence over-attribution and false-attribution
 id: applying-vs-knowing-skill-diagnosis-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

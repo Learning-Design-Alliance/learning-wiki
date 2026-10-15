@@ -2,7 +2,7 @@
 type: theory
 title: Procedural-declarative distinction in lexical knowledge
 description: "Robinson distinguishes the 'declarative' knowledge 'that' words have particular meanings from the 'procedural' knowledge of 'how' to realise those meanings in use, adopting Widdowson's term."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

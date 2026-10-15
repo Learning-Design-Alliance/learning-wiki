@@ -3,7 +3,7 @@ type: strategy
 id: non-generative-chatbot-knowledge-base-strategy
 title: Use a non-generative AI chatbot with a pre-programmed, human-curated knowledge base to answer student questions with pre-approved responses
 description: The strategy pairs a non-generative AI that algorithmically matches incoming student texts to a campus-specific knowledge base of pre-approved responses, with human administrators who answer unmatched questions and ad...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

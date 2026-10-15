@@ -3,7 +3,7 @@ type: strategy
 id: embed-ai-guided-workflows-explicit-dct-instruction
 title: Embed AI in guided accept/reject/justify workflows, teach digital critical thinking explicitly, and integrate institutional authorship standards
 description: "The article's three practical implications for AI-supported writing instruction."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

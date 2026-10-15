@@ -4,7 +4,7 @@ id: lovaas-model
 title: Lovaas Model
 description: An intensive early behavioral intervention programme developed at UCLA and delivered through the Lovaas Institute, combining one-to-one discrete-trial instruction, peer play, classroom inclusion, generalization activities, and parent training.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

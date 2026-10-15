@@ -3,7 +3,7 @@ type: claim
 title: Whole school magnets and magnets without selective admissions policies have generally been found more effective at integration that supports achievement gains
 description: Whole school magnets and magnets without selective admissions policies have generally been found more effective at integration that supports achievement gains
 id: whole-school-magnets-more-effective-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

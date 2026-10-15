@@ -3,7 +3,7 @@ type: claim
 title: "Asynchronous concurrent execution bounds overall latency to approximately the slowest individual model's inference time"
 description: "Asynchronous concurrent execution bounds overall latency to approximately the slowest individual model's inference time"
 id: async-concurrency-latency-bounded-by-slowest-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

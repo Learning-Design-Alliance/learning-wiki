@@ -3,7 +3,7 @@ type: claim
 title: Humanizer sites deploy mystification through opaque algorithm references, scale claims, and unexplained success-rate claims
 description: Humanizer sites deploy mystification through opaque algorithm references, scale claims, and unexplained success-rate claims
 id: humanizer-mystification-success-rate-claims
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

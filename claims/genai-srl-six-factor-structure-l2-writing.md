@@ -3,7 +3,7 @@ type: claim
 title: GenAI-supported SRL in L2 writing has a six-factor latent structure spanning cognitive, metacognitive, motivational, affective, social-behavioral, and environmental regulation
 description: GenAI-supported SRL in L2 writing has a six-factor latent structure spanning cognitive, metacognitive, motivational, affective, social-behavioral, and environmental regulation
 id: genai-srl-six-factor-structure-l2-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

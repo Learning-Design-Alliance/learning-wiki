@@ -2,7 +2,7 @@
 type: theory
 title: Dual coding theory as the explanatory account of video-supported L2 text comprehension
 description: "The article uses Paivio's dual coding theory (DCT) to explain why video plus narration plus text fosters comprehension."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

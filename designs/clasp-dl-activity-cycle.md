@@ -3,7 +3,7 @@ type: design
 id: clasp-dl-activity-cycle
 title: "CLASP discussion/laboratory activity cycle: small-group work on model-based activities, whole-class discussion, and homework integrated into the next DL meeting"
 description: "The CLASP discussion/laboratory (DL) is the core instructional setting: students in five-member groups at tables with a wall-mounted blackboard work through three activity cycles of 30 to 60 minutes each, twice weekly."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

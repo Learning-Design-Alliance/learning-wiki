@@ -3,7 +3,7 @@ type: strategy
 id: layered-workplace-genai-assessment-battery
 title: Four-layer workplace assessment battery with non-compensatory decision rules for competent GenAI use
 description: "The review proposes a four-layer workplace assessment keeping measurement targets separate: Layer 1 objective foundation (AICOS-S or GLAT), Layer 2 epistemic oversight (Critical Thinking in AI Use Scale plus a verific..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

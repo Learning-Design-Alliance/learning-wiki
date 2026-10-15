@@ -3,7 +3,7 @@ type: strategy
 id: cross-sector-expert-panels-during-data-disruptions
 title: Convene cross-sector expert panels to sustain policy-relevant evidence during data disruptions
 description: The article describes a webinar that “brings together academic and government experts” to discuss how education research can keep offering meaningful information to policymakers and practitioners after COVID data disr...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

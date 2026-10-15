@@ -3,7 +3,7 @@ type: strategy
 id: heterogeneous-grouping-for-science-projects
 title: Use Heterogeneous Groups for Projects and Homogeneous Groups for Skill Achievement
 description: The digest advises teachers to use homogeneous groups to help pupils achieve on their own level in specific skills, such as reading science current events, and to use heterogeneous groups for projects.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

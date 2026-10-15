@@ -3,7 +3,7 @@ type: design
 id: rubric-item-ai-feedback-guidance-table
 title: Rubric-item guidance table for delegating AI feedback by criterion
 description: Table 1 of the article provides per-criterion recommendations for instructors using AI feedback on laboratory reports, elaborated by the authors from the analyzed experience.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

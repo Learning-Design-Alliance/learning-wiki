@@ -4,7 +4,7 @@ id: digital-promises-competency-based-assessment-framework
 title: "Digital Promise's Competency-Based Assessment Framework"
 description: A framework created and maintained by Digital Promise to guide the design and accessibility review of competency-based micro-credentials on its platform.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

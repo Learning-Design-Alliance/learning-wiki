@@ -3,7 +3,7 @@ type: claim
 title: Post-baseline practice condition has a significant multivariate effect on combined posttest performance and observed practice effort after adaptive AI-assisted pretesting
 description: Post-baseline practice condition has a significant multivariate effect on combined posttest performance and observed practice effort after adaptive AI-assisted pretesting
 id: condition-multivariate-effect-posttest-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

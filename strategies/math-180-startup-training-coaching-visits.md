@@ -3,7 +3,7 @@ type: strategy
 id: math-180-startup-training-coaching-visits
 title: Support Math 180 teachers with initial start-up training plus 2-3 coaching visits during the year
 description: "In the studied implementations, teachers received \"an initial 2-hour to half-day start-up training and an average of 2-3 coaching visits during the year.\" This light-touch professional development model paired a short..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

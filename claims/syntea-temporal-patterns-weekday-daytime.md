@@ -3,7 +3,7 @@ type: claim
 title: Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students
 description: Syntea usage concentrates on weekdays and daytime hours, with part-time students shifting use to weekends and evenings relative to full-time students
 id: syntea-temporal-patterns-weekday-daytime
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

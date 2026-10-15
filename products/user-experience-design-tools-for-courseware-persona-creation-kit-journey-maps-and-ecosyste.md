@@ -4,7 +4,7 @@ id: user-experience-design-tools-for-courseware-persona-creation-kit-journey-map
 title: "User experience design tools for courseware: persona creation kit, journey maps, and ecosystem maps"
 description: "WestEd's freely available suite of participant-data-informed tools helps postsecondary gateway-math courseware designers examine learner and faculty needs, experiences, and ecosystems."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

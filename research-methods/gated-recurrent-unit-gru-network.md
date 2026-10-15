@@ -3,7 +3,7 @@ type: research-method
 id: gated-recurrent-unit-gru-network
 title: Gated Recurrent Unit (GRU) network
 description: The GRU is a recurrent neural network architecture used in the proposed model to capture temporal patterns in student engagement, quiz performance and content interaction.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

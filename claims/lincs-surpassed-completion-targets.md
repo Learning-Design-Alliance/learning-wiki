@@ -3,7 +3,7 @@ type: claim
 title: LINCS surpassed its targets for program completion, exceeding its proposal goal of preparing students for supply chain management positions
 description: LINCS surpassed its targets for program completion, exceeding its proposal goal of preparing students for supply chain management positions
 id: lincs-surpassed-completion-targets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

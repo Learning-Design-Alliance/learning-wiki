@@ -3,7 +3,7 @@ type: claim
 title: "Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations"
 description: "Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations"
 id: tna-chatbot-prompts-structure-user-interpretation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

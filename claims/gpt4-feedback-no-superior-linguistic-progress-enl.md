@@ -3,7 +3,7 @@ type: claim
 title: AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks
 description: AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks
 id: gpt4-feedback-no-superior-linguistic-progress-enl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

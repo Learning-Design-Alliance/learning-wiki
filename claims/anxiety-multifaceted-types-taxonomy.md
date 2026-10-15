@@ -3,7 +3,7 @@ type: claim
 title: Anxiety is a multifaceted construct with several differentiated types
 description: Anxiety is a multifaceted construct with several differentiated types
 id: anxiety-multifaceted-types-taxonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

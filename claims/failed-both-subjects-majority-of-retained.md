@@ -3,7 +3,7 @@ type: claim
 title: "Students who failed both reading and math made up the majority of retained students, and fewer than 20% of them passed both subjects in Summer Bridge"
 description: "Students who failed both reading and math made up the majority of retained students, and fewer than 20% of them passed both subjects in Summer Bridge"
 id: failed-both-subjects-majority-of-retained
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

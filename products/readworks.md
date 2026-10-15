@@ -4,7 +4,7 @@ id: readworks
 title: ReadWorks
 description: ReadWorks is a nonprofit digital platform that provides K–12 reading articles, comprehension and vocabulary supports, assessments, teacher resources, and accessibility features.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

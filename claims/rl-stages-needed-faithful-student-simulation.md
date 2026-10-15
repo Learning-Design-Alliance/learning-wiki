@@ -3,7 +3,7 @@ type: claim
 title: "Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation"
 description: "Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation"
 id: rl-stages-needed-faithful-student-simulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

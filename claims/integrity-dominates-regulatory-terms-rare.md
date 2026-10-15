@@ -3,7 +3,7 @@ type: claim
 title: Academic integrity terms dominate HI/HIM AI policy content while healthcare regulatory references (HIPAA, FERPA, IRB) appear infrequently
 description: Academic integrity terms dominate HI/HIM AI policy content while healthcare regulatory references (HIPAA, FERPA, IRB) appear infrequently
 id: integrity-dominates-regulatory-terms-rare
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

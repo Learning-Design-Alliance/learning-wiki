@@ -3,7 +3,7 @@ type: claim
 title: Chatbot outreach increased supplemental instruction tutoring attendance by about two percentage points, mediating a small share of the grade effect
 description: Chatbot outreach increased supplemental instruction tutoring attendance by about two percentage points, mediating a small share of the grade effect
 id: chatbot-increases-tutoring-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

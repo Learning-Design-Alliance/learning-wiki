@@ -3,7 +3,7 @@ type: claim
 title: Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning
 description: Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning
 id: significant-prepost-gains-ckt-pst
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "In simulation, LEA met or exceeded targets in Chat and Tutor modes while Quiz Mode's KC Alignment Score fell below target"
 description: "In simulation, LEA met or exceeded targets in Chat and Tutor modes while Quiz Mode's KC Alignment Score fell below target"
 id: lea-simulation-evaluation-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: ask-me-anything-ama
 title: Ask Me Anything (AMA)
 description: A Python and ChatGPT API chatbot developed by Saniya Vahedian Movahed et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

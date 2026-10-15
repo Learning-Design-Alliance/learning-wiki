@@ -3,7 +3,7 @@ type: claim
 title: Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns
 description: Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns
 id: ninth-grade-gpa-predicts-college-enrollment-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

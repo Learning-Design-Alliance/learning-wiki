@@ -3,7 +3,7 @@ type: claim
 title: Professional identity and AI literacy partially mediate AI-TPACK associations with innovation behavior, while AI-TK and AI-TPACK show indirect-only mediation and TSE mediation is only partially supported
 description: Professional identity and AI literacy partially mediate AI-TPACK associations with innovation behavior, while AI-TK and AI-TPACK show indirect-only mediation and TSE mediation is only partially supported
 id: mediation-of-ai-tpack-effects-on-innovation-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

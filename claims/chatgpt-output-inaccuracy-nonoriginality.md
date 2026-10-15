@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test"
 description: "ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test"
 id: chatgpt-output-inaccuracy-nonoriginality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -2,7 +2,7 @@
 type: theory
 title: ENA-based three-dimensional model of self-regulated learning linking learning strategies, time management modes, and course topics
 description: "A network analytic model in which epistemic network analysis (ENA) represents each student's self-regulated learning as a network whose nodes are codes from three dimensions: learning strategies, time management modes..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

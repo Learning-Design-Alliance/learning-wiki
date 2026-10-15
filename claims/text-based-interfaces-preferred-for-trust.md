@@ -3,7 +3,7 @@ type: claim
 title: Text-based conversational interfaces were preferred over speech or embodied formats in healthcare AI trust studies, attributed to perceptions of reliability
 description: Text-based conversational interfaces were preferred over speech or embodied formats in healthcare AI trust studies, attributed to perceptions of reliability
 id: text-based-interfaces-preferred-for-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

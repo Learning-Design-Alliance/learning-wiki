@@ -3,7 +3,7 @@ type: claim
 title: "Over-reliance on AI dialogue systems reduces students' critical and analytical thinking skills, especially when they become overly dependent on AI-generated content"
 description: "Over-reliance on AI dialogue systems reduces students' critical and analytical thinking skills, especially when they become overly dependent on AI-generated content"
 id: overreliance-ai-dialogue-reduces-critical-analytical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

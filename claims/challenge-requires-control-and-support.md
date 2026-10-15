@@ -3,7 +3,7 @@ type: claim
 title: Instruction must be challenging for learning gains, but raising challenge without classroom control and student support harms grades and engagement
 description: Instruction must be challenging for learning gains, but raising challenge without classroom control and student support harms grades and engagement
 id: challenge-requires-control-and-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

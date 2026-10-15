@@ -3,7 +3,7 @@ type: strategy
 id: mentefacto-map-review-criteria
 title: Use the Mentefacto Map to define keywords and inclusion/exclusion criteria in systematic reviews
 description: "The review demonstrates a replicable search-structuring strategy: a Mentefacto Map, a tool from Conceptual Pedagogy, is \"an ideogram that represents and conceptualizes a complex idea\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

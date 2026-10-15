@@ -3,7 +3,7 @@ type: strategy
 id: geocentric-heliocentric-model-debate
 title: Debate entre grupos asignados a los modelos geocéntrico y heliocéntrico para explorar explicaciones alternativas de los mismos fenómenos
 description: Tras leer textos que presentan las diferentes cosmovisiones sostenidas a lo largo de la historia, cada grupo de alumnos recibe uno de los dos modelos teóricos y confecciona una lista con los argumentos, explicaciones...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

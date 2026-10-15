@@ -3,7 +3,7 @@ type: theory
 id: teach-language-as-living-and-developing
 title: Teach language as living and developing, not as a set of dogmatic precepts
 description: "The report closes by endorsing the attitude Jespersen expressed in his 1909 grammar: representing English grammar not as a set of stiff dogmatic precepts marking some things correct and others absolutely wrong, but as..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

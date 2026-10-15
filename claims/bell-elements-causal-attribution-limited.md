@@ -3,7 +3,7 @@ type: claim
 title: The case study cannot distinguish which program elements caused the positive impacts
 description: The case study cannot distinguish which program elements caused the positive impacts
 id: bell-elements-causal-attribution-limited
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

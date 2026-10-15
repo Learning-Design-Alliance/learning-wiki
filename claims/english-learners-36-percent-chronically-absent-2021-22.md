@@ -3,7 +3,7 @@ type: claim
 title: By 2021–22, 36 percent of English learners were chronically absent versus 30 percent of students overall, reversing a prepandemic attendance advantage
 description: By 2021–22, 36 percent of English learners were chronically absent versus 30 percent of students overall, reversing a prepandemic attendance advantage
 id: english-learners-36-percent-chronically-absent-2021-22
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

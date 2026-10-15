@@ -3,7 +3,7 @@ type: strategy
 id: sustained-powerful-pd-for-qtel
 title: Provide sustained, powerful professional development with professional learning communities for QTEL implementation
 description: Walqui cautions that schools and districts must give teachers time to explore and experiment with the recommended practices, preferably through sustained professional development and professional learning communities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

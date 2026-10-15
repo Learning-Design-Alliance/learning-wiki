@@ -3,7 +3,7 @@ type: research-method
 id: srjudge-three-stage-select-reason-judge-framework-for-fine-grained-knowledge-concept-taggi
 title: "SRJudge: three-stage Select-Reason-Judge framework for fine-grained knowledge concept tagging"
 description: SRJudge decomposes knowledge concept tagging into three stages.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females"
 description: "Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females"
 id: minority-females-doubly-penalized-on-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

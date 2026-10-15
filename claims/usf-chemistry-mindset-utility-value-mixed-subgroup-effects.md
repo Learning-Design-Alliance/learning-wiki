@@ -3,7 +3,7 @@ type: claim
 title: A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students
 description: A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students
 id: usf-chemistry-mindset-utility-value-mixed-subgroup-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

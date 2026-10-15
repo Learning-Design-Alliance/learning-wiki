@@ -3,7 +3,7 @@ type: strategy
 id: select-interventions-addressing-specific-transition-challenges
 title: Policymakers select transition interventions that directly address particular transition challenges
 description: "The report recommends that policymakers use the variety of proposed interventions to match solutions to specific problems: \"The wide variety of interventions address a range of transition challenges, giving policymake..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

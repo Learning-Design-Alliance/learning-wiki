@@ -3,7 +3,7 @@ type: claim
 title: Experiment 2 replicates the unassisted-performance impairment with a pretest-based exclusion, but the aggregate skip-rate difference does not reach significance
 description: Experiment 2 replicates the unassisted-performance impairment with a pretest-based exclusion, but the aggregate skip-rate difference does not reach significance
 id: ai-assistance-impairs-performance-replication-exp2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

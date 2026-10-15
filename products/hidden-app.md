@@ -4,7 +4,7 @@ id: hidden-app
 title: "[HIDDEN APP]"
 description: A mobile AI-supported numeracy education system developed by Luiz Rodrigues et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

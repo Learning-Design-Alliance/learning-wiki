@@ -3,7 +3,7 @@ type: claim
 title: Eligibility for NIH loan repayment is associated with higher recruitment success of biomedical researchers
 description: Eligibility for NIH loan repayment is associated with higher recruitment success of biomedical researchers
 id: loan-repayment-eligibility-higher-recruitment-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

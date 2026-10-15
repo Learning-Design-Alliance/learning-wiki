@@ -3,7 +3,7 @@ type: claim
 title: "Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD"
 description: "Interactionist DA mediation in SCMC reveals learners' microgenetic movement through internalization levels within the ZPD"
 id: scmc-da-mediation-reveals-microgenetic-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

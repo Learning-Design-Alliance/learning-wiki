@@ -3,7 +3,7 @@ type: claim
 title: Yu Shulin and Lee Icy were the most productive WCF-in-L2-writing authors, Assessing Writing and Journal of Second Language Writing the leading journals, and University of Macau the leading institution
 description: Yu Shulin and Lee Icy were the most productive WCF-in-L2-writing authors, Assessing Writing and Journal of Second Language Writing the leading journals, and University of Macau the leading institution
 id: wcf-leading-authors-journals-institutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

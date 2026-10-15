@@ -3,7 +3,7 @@ type: claim
 title: "Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)"
 description: "Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs."
 id: school-leadership-associated-with-lower-turnover
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

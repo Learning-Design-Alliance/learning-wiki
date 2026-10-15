@@ -3,7 +3,7 @@ type: design
 id: deliberative-poll-quasi-experiment-model
 title: The Deliberative Poll as a quasi-experimental model of deliberative democracy
 description: The Deliberative Poll is a deliberative-democracy instrument in which a representative sample of citizens assembles to deliberate on a policy question, and its effects are studied quasi-experimentally.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

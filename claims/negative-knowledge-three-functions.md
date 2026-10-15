@@ -3,7 +3,7 @@ type: claim
 title: "Negative knowledge supports three functions in professional work: certainty, efficiency, and reflection"
 description: "Negative knowledge supports three functions in professional work: certainty, efficiency, and reflection"
 id: negative-knowledge-three-functions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

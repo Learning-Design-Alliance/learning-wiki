@@ -3,7 +3,7 @@ type: claim
 title: "Career adaptability positively predicts college students' career decisions"
 description: "Career adaptability positively predicts college students' career decisions"
 id: career-adaptability-positively-predicts-career-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

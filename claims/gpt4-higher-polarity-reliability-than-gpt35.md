@@ -3,7 +3,7 @@ type: claim
 title: GPT-4 demonstrated higher reliability of feedback than GPT-3.5, with higher F1 agreement with instructors on most assessment aspects
 description: GPT-4 demonstrated higher reliability of feedback than GPT-3.5, with higher F1 agreement with instructors on most assessment aspects
 id: gpt4-higher-polarity-reliability-than-gpt35
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

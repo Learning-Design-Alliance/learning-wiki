@@ -3,7 +3,7 @@ type: claim
 title: "Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap"
 description: "Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap"
 id: denver-restorative-justice-suspension-gap-narrowed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

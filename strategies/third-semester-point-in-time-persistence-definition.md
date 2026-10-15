@@ -3,7 +3,7 @@ type: strategy
 id: third-semester-point-in-time-persistence-definition
 title: Adopt a third-semester point-in-time persistence definition to report second-year college re-enrollment data up to six months earlier
 description: "The To&Through Project redefined college persistence to count students who immediately enrolled and were \"enrolled in college in the fall term of the second year after their graduation\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

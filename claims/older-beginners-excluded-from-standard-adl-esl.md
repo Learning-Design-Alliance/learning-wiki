@@ -3,7 +3,7 @@ type: claim
 title: Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults
 description: Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults
 id: older-beginners-excluded-from-standard-adl-esl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Being a year older at kindergarten entry leads to higher initial achievement
 description: Being a year older at kindergarten entry leads to higher initial achievement
 id: older-entry-higher-initial-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

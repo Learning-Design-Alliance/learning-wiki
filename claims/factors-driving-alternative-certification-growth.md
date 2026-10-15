@@ -3,7 +3,7 @@ type: claim
 title: Multiple workforce factors contributed to the growth of alternative teacher certification programs
 description: Multiple workforce factors contributed to the growth of alternative teacher certification programs
 id: factors-driving-alternative-certification-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

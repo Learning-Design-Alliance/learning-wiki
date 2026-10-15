@@ -3,7 +3,7 @@ type: claim
 title: "Courseware impact varied by context: positive on average in 4-year institutions but insignificant in 2-year colleges, more positive in biology, psychology, and math/statistics, and positive when the comparison course was face-to-face rather than the same modality."
 description: "Courseware impact varied by context: positive on average in 4-year institutions but insignificant in 2-year colleges, more positive in biology, psychology, and math/statistics, and positive when the comparison course..."
 id: ngcc-impact-moderators-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

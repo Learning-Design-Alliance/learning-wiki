@@ -3,7 +3,7 @@ type: strategy
 id: co-design-human-in-the-loop-ai-edtech-strategy
 title: "Center co-design with teachers and students throughout AI tool R&D, using human-in-the-loop workflows as a primary risk mitigation"
 description: "The report recommends that AI developers \"embrace and center the expertise of teachers and students by prioritizing co-design throughout a tool's R&D processes.\" Across risk sections, respondents described human-in-th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

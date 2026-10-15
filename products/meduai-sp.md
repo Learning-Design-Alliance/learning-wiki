@@ -4,7 +4,7 @@ id: meduai-sp
 title: MeduAI-SP
 description: MeduAI-SP is a web-based multi-agent LLM standardized-patient training platform developed by Yang et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

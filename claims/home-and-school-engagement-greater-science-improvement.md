@@ -4,7 +4,7 @@ title: Children who engaged in the program at both home and school made signific
 description: Children who engaged in the program at both home and school made significantly more improvement in science learning than children who implemented at school only
 id: home-and-school-engagement-greater-science-improvement
 aliases: [nico-nor-home-component-adds-science-gains]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

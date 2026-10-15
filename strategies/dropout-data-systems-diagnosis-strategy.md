@@ -3,7 +3,7 @@ type: strategy
 id: dropout-data-systems-diagnosis-strategy
 title: Use longitudinal student-level data systems to diagnose dropout scope and identify at-risk students before key transitions
 description: "The guide's first recommendation directs schools to build comprehensive, longitudinal, student-level databases with unique IDs covering absences, grade retention, and low achievement, and to review data regularly with..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

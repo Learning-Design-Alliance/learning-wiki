@@ -3,7 +3,7 @@ type: strategy
 id: risk-stratified-ai-misconception-screening
 title: "Deploy AI misconception screening in a risk-stratified way: revise vulnerable question values at authoring time, pair AI screening with mark-scheme-style reference reasoning, and use follow-up probing questions rather than binary classification"
 description: "The paper's implications-for-practice section recommends \"risk-stratified deployment rather than uniform automation\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

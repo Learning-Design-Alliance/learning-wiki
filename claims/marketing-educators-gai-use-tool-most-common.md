@@ -3,7 +3,7 @@ type: claim
 title: "Most surveyed marketing educators use GAI as a tool, followed by teammate and tutor, and 64% incorporate AI in their courses"
 description: "Most surveyed marketing educators use GAI as a tool, followed by teammate and tutor, and 64% incorporate AI in their courses"
 id: marketing-educators-gai-use-tool-most-common
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

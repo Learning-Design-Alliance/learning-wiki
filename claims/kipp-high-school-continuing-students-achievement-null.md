@@ -3,7 +3,7 @@ type: claim
 title: For students continuing from KIPP middle schools to KIPP high schools, achievement impacts are not statistically significant
 description: For students continuing from KIPP middle schools to KIPP high schools, achievement impacts are not statistically significant
 id: kipp-high-school-continuing-students-achievement-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets."
 description: "Under the mean-recall approximation, the maximum achievable learning rate is convex in the learner's review frequency budget, suggesting increasing returns at lower budgets."
 id: leitner-learning-rate-shows-increasing-returns-to-review-budget
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

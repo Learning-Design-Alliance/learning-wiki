@@ -3,7 +3,7 @@ type: claim
 title: The TBI advantage over SBI is larger under open-ended tasks than under structured tasks
 description: The TBI advantage over SBI is larger under open-ended tasks than under structured tasks
 id: tbi-advantage-larger-under-oet-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

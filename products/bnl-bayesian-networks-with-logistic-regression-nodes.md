@@ -4,7 +4,7 @@ id: bnl-bayesian-networks-with-logistic-regression-nodes
 title: BNL (Bayesian networks with logistic regression nodes)
 description: A Matlab toolbox for specifying Bayesian networks with logistic regression nodes and related statistical models, developed by Rijmen.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

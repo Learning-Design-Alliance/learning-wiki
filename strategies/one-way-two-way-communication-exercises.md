@@ -3,7 +3,7 @@ type: strategy
 id: one-way-two-way-communication-exercises
 title: Contrast one-way and two-way communication through drawing exercises
 description: "Supervisors experience communication failure directly: in one activity receivers may ask no questions while a sender describes shapes with his or her back turned; in a paired follow-up the receiver may question the se..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

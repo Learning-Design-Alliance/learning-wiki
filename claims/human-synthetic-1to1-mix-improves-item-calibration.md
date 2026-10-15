@@ -3,7 +3,7 @@ type: claim
 title: "Combining human and LLM-generated responses at a 1:1 ratio yields more accurate educational item calibration"
 description: "Combining human and LLM-generated responses at a 1:1 ratio yields more accurate educational item calibration"
 id: human-synthetic-1to1-mix-improves-item-calibration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

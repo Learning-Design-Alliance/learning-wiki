@@ -3,7 +3,7 @@ type: claim
 title: "Facial visual dynamics provide the most informative cues for attention estimation: the Visual GRU outperforms both the train-mean baseline and the Sensor GRU"
 description: "Facial visual dynamics provide the most informative cues for attention estimation: the Visual GRU outperforms both the train-mean baseline and the Sensor GRU"
 id: visual-gru-outperforms-sensor-gru-attention-estimation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

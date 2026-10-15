@@ -3,7 +3,7 @@ type: claim
 title: "A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used"
 description: "A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used"
 id: tool-effectiveness-depends-on-context-configuration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

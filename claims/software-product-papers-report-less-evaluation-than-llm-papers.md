@@ -3,7 +3,7 @@ type: claim
 title: Since 2023, software/product papers report markedly less evaluation detail than LLM papers in review automation
 description: Since 2023, software/product papers report markedly less evaluation detail than LLM papers in review automation
 id: software-product-papers-report-less-evaluation-than-llm-papers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

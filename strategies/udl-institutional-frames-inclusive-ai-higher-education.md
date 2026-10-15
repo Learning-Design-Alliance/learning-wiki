@@ -3,7 +3,7 @@ type: strategy
 id: udl-institutional-frames-inclusive-ai-higher-education
 title: "Ancrer l'usage de l'IA dans l'enseignement supérieur inclusif dans l'Universal Design for Learning et des cadres institutionnels dépassant la logique punitive"
 description: "L'article propose d'articuler outils d'IA et pratiques inclusives via l'Approche par Conception Universelle pour l'Apprentissage (UDL), qui « vise des curriculums flexibles adaptés à une gamme étendue de styles et d'a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

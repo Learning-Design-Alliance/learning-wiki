@@ -3,7 +3,7 @@ type: research-method
 id: logit-based-power-planning-for-clustered-education-rcts-with-binary-outcomes
 title: Logit-based power planning for clustered education RCTs with binary outcomes
 description: Because binary outcomes demand larger samples than continuous test-score or behavioral-scale outcomes, designers of clustered school-based RCTs should plan for more schools than the 40 to 60 typically used.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

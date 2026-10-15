@@ -4,7 +4,7 @@ id: oklahoma-teacher-and-leader-effectiveness-evaluation-system
 title: Oklahoma Teacher and Leader Effectiveness Evaluation System
 description: "Oklahoma's statewide system for evaluating teachers and school leaders, including value-added measures estimated from student test scores and related teacher and student information."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

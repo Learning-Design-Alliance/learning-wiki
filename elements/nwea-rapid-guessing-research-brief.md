@@ -3,7 +3,7 @@ type: element
 id: nwea-rapid-guessing-research-brief
 title: NWEA research brief on rapid guessing and test disengagement
 description: "A 2019 NWEA Research brief by Steven Wise and Megan Kuhfeld titled \"What happens when test takers disengage?"
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

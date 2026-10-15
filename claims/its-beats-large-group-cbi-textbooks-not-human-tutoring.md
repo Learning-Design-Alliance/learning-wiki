@@ -3,7 +3,7 @@ type: claim
 title: ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring
 description: ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring
 id: its-beats-large-group-cbi-textbooks-not-human-tutoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

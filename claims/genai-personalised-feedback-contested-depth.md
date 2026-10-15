@@ -3,7 +3,7 @@ type: claim
 title: GenAI can provide personalised feedback in group work, but the depth of personalisation is contested
 description: GenAI can provide personalised feedback in group work, but the depth of personalisation is contested
 id: genai-personalised-feedback-contested-depth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none
 description: All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none
 id: pd-models-and-curriculum-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

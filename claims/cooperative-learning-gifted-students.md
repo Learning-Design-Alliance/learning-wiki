@@ -3,7 +3,7 @@ type: claim
 title: Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking
 description: Cooperative learning shows benefits for gifted and high-ability students, though long-term evidence is lacking
 id: cooperative-learning-gifted-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

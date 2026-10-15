@@ -3,7 +3,7 @@ type: claim
 title: A null study finding can have multiple possible causes and requires interpretation before it informs decisions
 description: A null study finding can have multiple possible causes and requires interpretation before it informs decisions
 id: null-findings-require-interpretation-of-causes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

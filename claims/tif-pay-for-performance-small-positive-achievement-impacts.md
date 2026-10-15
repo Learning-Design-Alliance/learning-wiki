@@ -3,7 +3,7 @@ type: claim
 title: After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts
 description: After three years of Teacher Incentive Fund implementation, pay-for-performance bonuses had small positive impacts on student math and reading achievement in ten evaluation districts
 id: tif-pay-for-performance-small-positive-achievement-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

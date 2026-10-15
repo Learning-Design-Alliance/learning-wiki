@@ -3,7 +3,7 @@ type: claim
 title: "Educational robotics has a moderate-to-large effect on students' STEM learning performance"
 description: "Educational robotics has a moderate-to-large effect on students' STEM learning performance"
 id: educational-robotics-effect-learning-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

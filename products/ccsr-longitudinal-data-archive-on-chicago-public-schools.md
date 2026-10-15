@@ -4,7 +4,7 @@ id: ccsr-longitudinal-data-archive-on-chicago-public-schools
 title: CCSR longitudinal data archive on Chicago Public Schools
 description: A linked longitudinal administrative and survey database of Chicago Public Schools students, schools, personnel, achievement, course-taking, postsecondary outcomes, and organizational conditions maintained by the Consortium on Chicago School Research.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

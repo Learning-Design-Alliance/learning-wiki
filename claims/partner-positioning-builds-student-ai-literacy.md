@@ -3,7 +3,7 @@ type: claim
 title: "Partner-positioned teachers built students' AI literacy, while assistant and substitute teachers' transparency centered on gaming scores"
 description: "Partner-positioned teachers built students' AI literacy, while assistant and substitute teachers' transparency centered on gaming scores"
 id: partner-positioning-builds-student-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: AI-driven reforms frequently operate through an efficiency–sustainability substitution mechanism that redefines sustainability as operational performance
 description: AI-driven reforms frequently operate through an efficiency–sustainability substitution mechanism that redefines sustainability as operational performance
 id: efficiency-sustainability-substitution-mechanism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

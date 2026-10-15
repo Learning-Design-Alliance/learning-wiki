@@ -3,7 +3,7 @@ type: claim
 title: Improved second-grade outcomes were related to pre-k policy changes through greater access to full-day pre-k and subsequently improved kindergarten entry skills
 description: Improved second-grade outcomes were related to pre-k policy changes through greater access to full-day pre-k and subsequently improved kindergarten entry skills
 id: prek-access-kindergarten-entry-skills-pathway
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

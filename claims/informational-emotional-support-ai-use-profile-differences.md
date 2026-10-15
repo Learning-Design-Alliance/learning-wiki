@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy profiles differ in AI use for informational support (η² = .28) and emotional support (η² = .18)
 description: Self-efficacy profiles differ in AI use for informational support (η² = .28) and emotional support (η² = .18)
 id: informational-emotional-support-ai-use-profile-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

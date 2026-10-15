@@ -3,7 +3,7 @@ type: strategy
 id: planning-questions-not-prescriptions
 title: Use planning questions rather than fixed prescriptions when designing staff development program features
 description: "Because staff development programs differ in type and purpose, the authors replace the earlier edition's list of research-based recommendations with pertinent questions and comments attached to each of the nineteen pr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

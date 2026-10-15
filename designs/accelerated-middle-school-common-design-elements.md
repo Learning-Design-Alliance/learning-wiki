@@ -3,7 +3,7 @@ type: design
 id: accelerated-middle-school-common-design-elements
 title: "Accelerated middle schools share a common design: thematic cross-subject linking, experiential instruction, smaller classes, and added academic and social supports"
 description: "Despite varying somewhat in instructional approach, the programs share several common design elements: \"Classes are often linked thematically across multiple subjects\"; instruction is \"more experiential and 'hands on'..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

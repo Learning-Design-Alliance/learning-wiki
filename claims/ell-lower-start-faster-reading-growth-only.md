@@ -3,7 +3,7 @@ type: claim
 title: ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth
 description: ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth
 id: ell-lower-start-faster-reading-growth-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

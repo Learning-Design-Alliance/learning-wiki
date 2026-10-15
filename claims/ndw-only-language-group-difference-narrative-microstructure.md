@@ -3,7 +3,7 @@ type: claim
 title: All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children
 description: All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children
 id: ndw-only-language-group-difference-narrative-microstructure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

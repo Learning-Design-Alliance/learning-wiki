@@ -3,7 +3,7 @@ type: claim
 title: "Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer"
 description: "Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer"
 id: h3-product-process-dissociation-hypothesis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

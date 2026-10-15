@@ -3,7 +3,7 @@ type: claim
 title: Schools with YMHC members reported reductions in behavioral referrals and improved student attendance in Year 1
 description: Schools with YMHC members reported reductions in behavioral referrals and improved student attendance in Year 1
 id: ymhc-schools-reported-referral-and-attendance-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

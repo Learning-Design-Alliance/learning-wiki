@@ -3,7 +3,7 @@ type: claim
 title: "YMHC members completed more than 130 certifications by March 2025, and 46% found certifications instrumental in securing employment"
 description: "YMHC members completed more than 130 certifications by March 2025, and 46% found certifications instrumental in securing employment"
 id: ymhc-certifications-employment-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

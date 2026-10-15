@@ -3,7 +3,7 @@ type: claim
 title: Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles
 description: Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles
 id: human-ai-collaborative-personalized-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

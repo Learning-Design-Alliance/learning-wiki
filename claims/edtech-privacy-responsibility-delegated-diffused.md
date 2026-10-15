@@ -3,7 +3,7 @@ type: claim
 title: EdTech organizations delegate privacy responsibility to cloud providers, policy documents, and downstream institutions, diffusing accountability
 description: EdTech organizations delegate privacy responsibility to cloud providers, policy documents, and downstream institutions, diffusing accountability
 id: edtech-privacy-responsibility-delegated-diffused
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

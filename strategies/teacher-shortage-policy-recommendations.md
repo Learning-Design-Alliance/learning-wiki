@@ -3,7 +3,7 @@ type: strategy
 id: teacher-shortage-policy-recommendations
 title: "State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions"
 description: "The report recommends seven \"evidence-based approaches for resolving teacher shortages, which focus on recruiting and preparing more candidates, retaining new teachers through early-career mentoring, and improving tea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

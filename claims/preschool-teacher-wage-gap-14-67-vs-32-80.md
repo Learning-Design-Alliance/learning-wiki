@@ -3,7 +3,7 @@ type: claim
 title: "Preschool teachers' median hourly wage is more than $18 lower than kindergarten teachers' median hourly wage"
 description: "Preschool teachers' median hourly wage is more than $18 lower than kindergarten teachers' median hourly wage"
 id: preschool-teacher-wage-gap-14-67-vs-32-80
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

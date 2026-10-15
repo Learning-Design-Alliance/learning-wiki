@@ -3,7 +3,7 @@ type: claim
 title: "Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers"
 description: "Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers"
 id: principal-rater-severity-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

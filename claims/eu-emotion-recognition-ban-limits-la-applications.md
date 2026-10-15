@@ -3,7 +3,7 @@ type: claim
 title: "The EU AI Act's ban on emotion recognition in education restricts an area of potential application for learning analytics"
 description: "The EU AI Act's ban on emotion recognition in education restricts an area of potential application for learning analytics"
 id: eu-emotion-recognition-ban-limits-la-applications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

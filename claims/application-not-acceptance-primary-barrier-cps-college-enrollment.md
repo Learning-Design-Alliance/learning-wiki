@@ -3,7 +3,7 @@ type: claim
 title: Application, not acceptance, is the primary barrier preventing CPS students from enrolling in four-year colleges
 description: Application, not acceptance, is the primary barrier preventing CPS students from enrolling in four-year colleges
 id: application-not-acceptance-primary-barrier-cps-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

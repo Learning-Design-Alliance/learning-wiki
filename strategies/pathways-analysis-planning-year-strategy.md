@@ -3,7 +3,7 @@ type: strategy
 id: pathways-analysis-planning-year-strategy
 title: Conduct a data-intensive Pathways Analysis during the planning year to locate loss and momentum points
 description: The guide recommends that each cadre conduct a data-intensive Pathways Analysis early in the planning year, in partnership with the Community College Research Center, JBL Associates, and the RP Group.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

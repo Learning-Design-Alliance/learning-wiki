@@ -3,7 +3,7 @@ type: element
 id: pre-k-mathematics-program-element
 title: Pre-K Mathematics supplemental preschool program
 description: "Pre-K Mathematics is a supplemental mathematics program for preschool children that develops informal mathematical knowledge through three components: a set of 24 in-class, small-group activities with manipulatives; a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning
 description: EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning
 id: edtech-ai-messaging-individual-vs-social-curricula
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

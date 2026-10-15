@@ -3,7 +3,7 @@ type: theory
 title: "Krashen's input hypothesis and Monitor Model of second language acquisition"
 description: "Krashen's account of second language acquisition: subconscious acquisition from comprehensible input a little beyond the learner's current level, with consciously learned rules usable only as a monitor that edits output."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30

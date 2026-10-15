@@ -4,7 +4,7 @@ id: conversation-based-assessment-chat-log-corpus
 title: Conversation-based assessment chat log corpus
 description: A research dataset created by Ober et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

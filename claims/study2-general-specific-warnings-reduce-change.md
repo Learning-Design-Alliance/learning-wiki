@@ -3,7 +3,7 @@ type: claim
 title: In Study 2, both general and specific warnings at least marginally reduce attitude change, with no significant difference between them
 description: In Study 2, both general and specific warnings at least marginally reduce attitude change, with no significant difference between them
 id: study2-general-specific-warnings-reduce-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

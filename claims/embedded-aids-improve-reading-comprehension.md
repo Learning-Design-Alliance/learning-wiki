@@ -3,7 +3,7 @@ type: claim
 title: "Textual material treated with embedded aids produced 10-15% higher reading comprehension scores than conventional text, statistically significant at the .01 level, in a science-material study with approximately 200 tenth graders across three schools."
 description: "Textual material treated with embedded aids produced 10-15% higher reading comprehension scores than conventional text, statistically significant at the .01 level, in a science-material study with approximately 200 te..."
 id: embedded-aids-improve-reading-comprehension
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

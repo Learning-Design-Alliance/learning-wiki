@@ -3,7 +3,7 @@ type: claim
 title: The prespecified task–demand mapping produces the strongest within-teacher alignment of all six possible one-to-one assignments, supporting task-specific rather than arbitrary demand alignment
 description: The prespecified task–demand mapping produces the strongest within-teacher alignment of all six possible one-to-one assignments, supporting task-specific rather than arbitrary demand alignment
 id: task-demand-mapping-specificity-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

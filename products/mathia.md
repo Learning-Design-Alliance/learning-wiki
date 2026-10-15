@@ -4,7 +4,7 @@ id: mathia
 title: MATHia
 description: "MATHia is Carnegie Learning's adaptive mathematics intelligent tutoring system that analyzes students' step-by-step problem solving and provides personalized instruction and feedback toward mastery."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

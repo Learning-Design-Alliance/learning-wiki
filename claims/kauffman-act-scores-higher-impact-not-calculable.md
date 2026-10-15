@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School has higher ACT scores than the Kansas City high school average, but its impact on ACT scores could not be calculated
 description: The Kauffman School has higher ACT scores than the Kansas City high school average, but its impact on ACT scores could not be calculated
 id: kauffman-act-scores-higher-impact-not-calculable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

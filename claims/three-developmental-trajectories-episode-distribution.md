@@ -3,7 +3,7 @@ type: claim
 title: "Observed AI-mediated interpretive episodes distribute across three developmental trajectories — AI-dependent (35.71%), AI-enhanced (38.10%), and AI-critical (26.19%) — with fully critical engagement least frequent"
 description: "Observed AI-mediated interpretive episodes distribute across three developmental trajectories — AI-dependent (35.71%), AI-enhanced (38.10%), and AI-critical (26.19%) — with fully critical engagement least frequent"
 id: three-developmental-trajectories-episode-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

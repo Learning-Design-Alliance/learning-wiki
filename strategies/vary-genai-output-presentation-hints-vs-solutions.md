@@ -3,7 +3,7 @@ type: strategy
 id: vary-genai-output-presentation-hints-vs-solutions
 title: Design experimental studies that systematically vary how GenAI outputs are presented, comparing full solutions against structured hints or constructive feedback guardrails.
 description: The article recommends that future research on GenAI as tutoring systems should employ experimental designs that systematically vary how GenAI outputs are presented, such as providing full solutions versus guardrails...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

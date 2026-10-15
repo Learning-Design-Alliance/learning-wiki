@@ -3,7 +3,7 @@ type: design
 id: raf-procedure-human-in-the-loop
 title: "Report Assessment & Feedback (RAF) procedure with human-in-the-loop approval of all feedback reports"
 description: The RAF procedure is a flowchart (Figure 1) for AI-assisted report assessment.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

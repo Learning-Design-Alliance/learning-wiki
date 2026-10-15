@@ -3,7 +3,7 @@ type: element
 id: first-year-experience-course-element
 title: First year experience course (college success course / freshman seminar)
 description: First year experience courses are courses for first-year students in 2-year and 4-year colleges, often called college success courses or freshman seminars.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

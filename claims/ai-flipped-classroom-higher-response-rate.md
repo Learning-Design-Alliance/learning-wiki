@@ -3,7 +3,7 @@ type: claim
 title: The AI-enhanced flipped classroom yields significantly higher in-class response rates than both the flipped and traditional classrooms in pharmacology for international medical students
 description: The AI-enhanced flipped classroom yields significantly higher in-class response rates than both the flipped and traditional classrooms in pharmacology for international medical students
 id: ai-flipped-classroom-higher-response-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

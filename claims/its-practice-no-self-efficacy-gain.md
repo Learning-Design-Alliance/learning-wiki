@@ -3,7 +3,7 @@ type: claim
 title: ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant
 description: ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant
 id: its-practice-no-self-efficacy-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

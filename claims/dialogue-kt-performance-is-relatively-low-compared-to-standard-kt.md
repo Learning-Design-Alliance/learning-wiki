@@ -3,7 +3,7 @@ type: claim
 title: "Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task."
 description: "Knowledge tracing performance on tutoring dialogues is relatively low, with a maximum of around 76% AUC, which the authors take to show dialogueKT is a challenging task."
 id: dialogue-kt-performance-is-relatively-low-compared-to-standard-kt
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

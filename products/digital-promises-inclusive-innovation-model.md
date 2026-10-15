@@ -5,7 +5,7 @@ aliases: [inclusive-innovation]
 title: "Digital Promise's Inclusive Innovation model"
 description: An equity-centered research-and-development framework created by Digital Promise that places historically marginalized communities at the center of identifying, designing, developing, and implementing educational and workforce technologies.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

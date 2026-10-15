@@ -3,7 +3,7 @@ type: claim
 title: Before instruction, physics students show skepticism about LLM learning impacts, agreeing that over-reliance risks dependence, false confidence, and reduced conceptual understanding
 description: Before instruction, physics students show skepticism about LLM learning impacts, agreeing that over-reliance risks dependence, false confidence, and reduced conceptual understanding
 id: pre-instruction-skepticism-llm-learning-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

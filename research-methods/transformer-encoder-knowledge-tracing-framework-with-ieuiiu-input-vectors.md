@@ -3,7 +3,7 @@ type: research-method
 id: transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors
 title: Transformer-encoder knowledge tracing framework with IEU/IIU input vectors
 description: "A deep knowledge tracing framework for the ASSISTments dataset that predicts students' responses to end-of-unit test problems from action logs of in-unit assignments."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

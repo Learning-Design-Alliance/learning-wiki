@@ -3,7 +3,7 @@ type: claim
 title: "UCI/SEDET's 122 technical reports in 2025 yielded 286 formal recommendations and concerned cases and matters totaling US$ 94.8 million, with an August peak of US$ 19.1 million absorbed without bottlenecks"
 description: "UCI/SEDET's 122 technical reports in 2025 yielded 286 formal recommendations and concerned cases and matters totaling US$ 94.8 million, with an August peak of US$ 19.1 million absorbed without bottlenecks"
 id: uci-sedet-analytical-intensity-and-financial-volume
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

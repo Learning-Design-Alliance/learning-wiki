@@ -3,7 +3,7 @@ type: design
 id: five-stage-pedagogical-script-ai-co-creation
 title: 5-Stage Pedagogical Script for one-on-one AI co-creation sessions
 description: "A structured session protocol tutors follow to move clients from an \"Oracle\" mindset (expecting answers) to a \"Process Partner\" mindset (co-creating solutions)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

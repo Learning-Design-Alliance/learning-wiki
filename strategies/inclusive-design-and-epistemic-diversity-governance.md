@@ -3,7 +3,7 @@ type: strategy
 id: inclusive-design-and-epistemic-diversity-governance
 title: Use inclusive design, calibrated supports, and clear delegation norms to preserve learner agency and epistemic diversity
 description: "This governance-oriented strategy addresses the conditions under which Agentivism's learning mechanisms can operate well."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

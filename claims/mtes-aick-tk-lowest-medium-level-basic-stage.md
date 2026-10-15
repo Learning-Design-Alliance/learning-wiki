@@ -3,7 +3,7 @@ type: claim
 title: Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage
 description: Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage
 id: mtes-aick-tk-lowest-medium-level-basic-stage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

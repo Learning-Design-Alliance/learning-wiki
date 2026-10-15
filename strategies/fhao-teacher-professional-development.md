@@ -3,7 +3,7 @@ type: strategy
 id: fhao-teacher-professional-development
 title: Multi-format teacher professional development for implementing the Facing History and Ourselves curriculum
 description: "The program's professional development model combines an intensive Summer Institute, introductory workshops, online courses, and ongoing follow-up support."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

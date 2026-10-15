@@ -3,7 +3,7 @@ type: claim
 title: More than half of teachers in the evaluation districts did not know they were eligible for pay-for-performance bonuses
 description: More than half of teachers in the evaluation districts did not know they were eligible for pay-for-performance bonuses
 id: tif-more-than-half-of-teachers-unaware-of-bonus-eligibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

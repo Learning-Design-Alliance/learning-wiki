@@ -4,7 +4,7 @@ id: positive-behavioral-interventions-and-supports-pbis
 title: Positive Behavioral Interventions and Supports (PBIS)
 description: PBIS is an evidence-based, multitiered framework used by schools to organize data, systems, and behavioral practices through universal, targeted, and individualized supports.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

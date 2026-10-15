@@ -4,7 +4,7 @@ id: 5essentials
 title: 5Essentials
 description: A school-improvement measurement framework developed by the University of Chicago Consortium on School Research that organizes school survey profiles around five domains and their related measures.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

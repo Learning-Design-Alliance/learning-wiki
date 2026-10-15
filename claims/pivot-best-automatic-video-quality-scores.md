@@ -3,7 +3,7 @@ type: claim
 title: PIVOT achieves the best automatic video-quality scores among the compared educational video generation methods on 40 STEM topics
 description: PIVOT achieves the best automatic video-quality scores among the compared educational video generation methods on 40 STEM topics
 id: pivot-best-automatic-video-quality-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

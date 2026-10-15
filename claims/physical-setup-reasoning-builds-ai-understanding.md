@@ -3,7 +3,7 @@ type: claim
 title: Students developed AI understanding by reasoning about how physical setup and environmental conditions affect sensor perception and machine learning data quality
 description: Students developed AI understanding by reasoning about how physical setup and environmental conditions affect sensor perception and machine learning data quality
 id: physical-setup-reasoning-builds-ai-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

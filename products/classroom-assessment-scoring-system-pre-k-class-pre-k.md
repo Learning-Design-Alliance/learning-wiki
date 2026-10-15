@@ -4,7 +4,7 @@ id: classroom-assessment-scoring-system-pre-k-class-pre-k
 title: Classroom Assessment Scoring System Pre-K (CLASS Pre-K)
 description: A standardized observational assessment developed by Teachstone that rates the quality of teacher–child interactions across Emotional Support, Classroom Organization, and Instructional Support domains in early-childhood classrooms.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

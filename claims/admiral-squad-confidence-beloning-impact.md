@@ -3,7 +3,7 @@ type: claim
 title: "Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose"
 description: "Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose"
 id: admiral-squad-confidence-beloning-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

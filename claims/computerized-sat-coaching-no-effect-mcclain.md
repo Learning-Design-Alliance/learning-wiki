@@ -3,7 +3,7 @@ type: claim
 title: Two computerized SAT coaching programs showed no statistically significant effect on SAT scores (McClain, 1999)
 description: Two computerized SAT coaching programs showed no statistically significant effect on SAT scores (McClain, 1999)
 id: computerized-sat-coaching-no-effect-mcclain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

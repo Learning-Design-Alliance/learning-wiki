@@ -3,7 +3,7 @@ type: claim
 title: The review synthesized 110 studies on the effectiveness of remote learning practices in K-12 settings
 description: The review synthesized 110 studies on the effectiveness of remote learning practices in K-12 settings
 id: rel-ma-remote-learning-review-110-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

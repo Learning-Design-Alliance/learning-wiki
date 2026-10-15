@@ -4,7 +4,7 @@ id: whole-child-approach
 title: Whole Child Approach
 description: A framework for organizing education around developmental relationships, supportive environments, rich learning, skill and mindset development, and integrated supports, developed from the science of learning and development literature.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "NASBA approved an upskilling program built on the framework's outputs for continuing-professional-education credits"
 description: "NASBA approved an upskilling program built on the framework's outputs for continuing-professional-education credits"
 id: nasba-approved-cpe-program
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

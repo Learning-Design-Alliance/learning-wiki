@@ -3,7 +3,7 @@ type: claim
 title: Many children enter kindergarten without the foundational mathematics skills needed to succeed
 description: Many children enter kindergarten without the foundational mathematics skills needed to succeed
 id: children-enter-kindergarten-without-foundational-math-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

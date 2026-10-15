@@ -3,7 +3,7 @@ type: claim
 title: "The PSI did not improve teachers' perceptions of principals' performance"
 description: "The PSI did not improve teachers' perceptions of principals' performance"
 id: psi-no-improvement-teacher-perceptions-of-principals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

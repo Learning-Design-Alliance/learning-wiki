@@ -2,7 +2,7 @@
 type: theory
 title: "Fuller Teacher Concerns Theory: three developmental stages of teacher concerns"
 description: "The study's theoretical base is Fuller's Teacher Concerns Theory, which holds that teachers progress through three stages of concern as they develop professionally: \"a survival stage when teachers are preoccupied with..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

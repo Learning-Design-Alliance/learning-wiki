@@ -3,7 +3,7 @@ type: claim
 title: "Sound box training favored over sound sort training on phonological processing (Maslanka & Joseph 2002), with substantively important but non-significant differences averaging +11 percentile points"
 description: "Sound box training favored over sound sort training on phonological processing (Maslanka & Joseph 2002), with substantively important but non-significant differences averaging +11 percentile points"
 id: sound-box-favored-over-sound-sort-maslanka-joseph
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

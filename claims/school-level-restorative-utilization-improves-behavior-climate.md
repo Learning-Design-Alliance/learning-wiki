@@ -3,7 +3,7 @@ type: claim
 title: Schools that increased restorative practice utilization saw declines in misbehavior, gang membership, victimization, depressive symptoms, and substance abuse, and improvements in GPA and climate
 description: Schools that increased restorative practice utilization saw declines in misbehavior, gang membership, victimization, depressive symptoms, and substance abuse, and improvements in GPA and climate
 id: school-level-restorative-utilization-improves-behavior-climate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

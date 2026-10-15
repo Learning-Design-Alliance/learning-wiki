@@ -3,7 +3,7 @@ type: strategy
 id: partnerships-sustain-inquiry-innovations
 title: Sustain inquiry innovations through partnerships with business, universities, thought leadership, or institutional policy adoption
 description: The chapter distinguishes scale (spreading a practice) from sustainability (keeping it in use), noting sustainability requires a mechanism for covering recurring costs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

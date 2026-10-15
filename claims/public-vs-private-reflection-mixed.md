@@ -3,7 +3,7 @@ type: claim
 title: "Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing"
 description: "Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing"
 id: public-vs-private-reflection-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

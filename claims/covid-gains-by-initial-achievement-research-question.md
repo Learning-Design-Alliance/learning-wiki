@@ -3,7 +3,7 @@ type: claim
 title: "The brief compared pandemic achievement gains to pre-pandemic trends for students low- or high-achieving at the pandemic's start"
 description: "The brief compared pandemic achievement gains to pre-pandemic trends for students low- or high-achieving at the pandemic's start"
 id: covid-gains-by-initial-achievement-research-question
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Differential scaffold benefits were more salient for the more difficult learning concept
 description: Differential scaffold benefits were more salient for the more difficult learning concept
 id: scaffold-benefits-more-salient-for-difficult-concept
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

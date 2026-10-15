@@ -3,7 +3,7 @@ type: claim
 title: Accurate teacher-student data links are required when high-stakes teacher evaluation decisions include student achievement growth
 description: Accurate teacher-student data links are required when high-stakes teacher evaluation decisions include student achievement growth
 id: accurate-teacher-student-links-high-stakes-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

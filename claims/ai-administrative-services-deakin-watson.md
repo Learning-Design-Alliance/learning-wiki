@@ -3,7 +3,7 @@ type: claim
 title: Universities already use incipient AI such as IBM Watson to provide student advice around the clock, reducing administrative staffing needs
 description: Universities already use incipient AI such as IBM Watson to provide student advice around the clock, reducing administrative staffing needs
 id: ai-administrative-services-deakin-watson
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

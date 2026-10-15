@@ -3,7 +3,7 @@ type: claim
 title: Both educator groups rank research to inform best practices in teaching and learning as the most important research goal
 description: Both educator groups rank research to inform best practices in teaching and learning as the most important research goal
 id: best-practices-research-top-goal-educators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

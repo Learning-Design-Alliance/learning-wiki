@@ -3,7 +3,7 @@ type: claim
 title: "Student-reported LaTeX time overhead fell about 46% across the term, from 87 to 47 minutes per assignment"
 description: "Student-reported LaTeX time overhead fell about 46% across the term, from 87 to 47 minutes per assignment"
 id: latex-ramp-down-cost-reduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

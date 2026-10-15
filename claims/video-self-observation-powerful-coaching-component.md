@@ -3,7 +3,7 @@ type: claim
 title: Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers
 description: Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers
 id: video-self-observation-powerful-coaching-component
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

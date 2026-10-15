@@ -3,7 +3,7 @@ type: strategy
 id: foster-citizenship-prevent-silencing-ee
 title: Foster citizenship and prevent silencing of environmental conflicts and risks in school EE
 description: The article recommends that EE in schools and teacher training move beyond conservation toward a holistic, systemic, and interdisciplinary perspective, as recommended by Brazilian legislation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

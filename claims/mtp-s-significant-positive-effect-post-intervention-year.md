@@ -3,7 +3,7 @@ type: claim
 title: MTP-S produced a positive, statistically significant effect on general achievement in the post-intervention year with a new student cohort
 description: MTP-S produced a positive, statistically significant effect on general achievement in the post-intervention year with a new student cohort
 id: mtp-s-significant-positive-effect-post-intervention-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Educators' understanding of the TIF program improved in year two, but more than one-third of teachers still did not know they were eligible for a bonus and underestimated bonus size"
 description: "Educators' understanding of the TIF program improved in year two, but more than one-third of teachers still did not know they were eligible for a bonus and underestimated bonus size"
 id: tif-educator-understanding-improved-but-incomplete
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

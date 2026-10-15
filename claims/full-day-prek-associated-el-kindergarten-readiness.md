@@ -3,7 +3,7 @@ type: claim
 title: Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs
 description: Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs
 id: full-day-prek-associated-el-kindergarten-readiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

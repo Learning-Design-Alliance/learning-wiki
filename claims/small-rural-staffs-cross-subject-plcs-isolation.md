@@ -3,7 +3,7 @@ type: claim
 title: Small rural teaching staffs forced PLCs across grades and subjects, and teachers in four schools felt isolated from same-subject colleagues
 description: Small rural teaching staffs forced PLCs across grades and subjects, and teachers in four schools felt isolated from same-subject colleagues
 id: small-rural-staffs-cross-subject-plcs-isolation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

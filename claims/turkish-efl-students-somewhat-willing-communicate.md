@@ -3,7 +3,7 @@ type: claim
 title: Turkish EFL preparatory students were somewhat willing to communicate in English
 description: Turkish EFL preparatory students were somewhat willing to communicate in English
 id: turkish-efl-students-somewhat-willing-communicate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

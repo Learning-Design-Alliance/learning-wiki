@@ -3,7 +3,7 @@ type: strategy
 id: agentic-rag-and-context-aware-audio-upgrades
 title: Upgrade retrieval to Agentic RAG and adopt context-aware emotive narration to reduce cognitive load
 description: "The authors' stated future directions for the pipeline."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

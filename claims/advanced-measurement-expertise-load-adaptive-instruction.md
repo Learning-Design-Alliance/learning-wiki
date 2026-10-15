@@ -3,7 +3,7 @@ type: claim
 title: Adapting instruction to individual learners requires more advanced measurement of expertise and cognitive load
 description: Adapting instruction to individual learners requires more advanced measurement of expertise and cognitive load
 id: advanced-measurement-expertise-load-adaptive-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

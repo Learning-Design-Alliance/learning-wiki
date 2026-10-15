@@ -3,7 +3,7 @@ type: claim
 title: The WWC rates Connect with Kids as having potentially positive effects on behavior, limited by only one qualifying study
 description: The WWC rates Connect with Kids as having potentially positive effects on behavior, limited by only one qualifying study
 id: cwk-potentially-positive-rating-single-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

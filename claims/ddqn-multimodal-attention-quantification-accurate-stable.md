@@ -3,7 +3,7 @@ type: claim
 title: A DDQN-based attention quantification model trained on multimodal EEG-fNIRS features produces predicted attention levels at one-second temporal resolution
 description: A DDQN-based attention quantification model trained on multimodal EEG-fNIRS features produces predicted attention levels at one-second temporal resolution
 id: ddqn-multimodal-attention-quantification-accurate-stable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

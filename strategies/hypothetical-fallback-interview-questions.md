@@ -3,7 +3,7 @@ type: strategy
 id: hypothetical-fallback-interview-questions
 title: Hypothetical fallback questions for unexperienced course features
 description: For features students have not encountered, the protocol instructs switching to a hypothetical framing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers
 description: Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers
 id: west-kern-student-climate-survey-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

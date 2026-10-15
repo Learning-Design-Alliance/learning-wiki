@@ -3,7 +3,7 @@ type: claim
 title: Boundary compliance (S3) drives nearly all inter-model safety divergence, with a 53-point gap between the safest and least safe models
 description: Boundary compliance (S3) drives nearly all inter-model safety divergence, with a 53-point gap between the safest and least safe models
 id: boundary-compliance-drives-safety-divergence-academiclaw
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

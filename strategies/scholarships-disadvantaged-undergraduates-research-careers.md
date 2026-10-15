@@ -3,7 +3,7 @@ type: strategy
 id: scholarships-disadvantaged-undergraduates-research-careers
 title: Provide scholarships to talented disadvantaged undergraduates to encourage biomedical research careers
 description: The strategy is to award competitive scholarships to highly talented undergraduate science students from disadvantaged backgrounds in order to encourage them to pursue biomedical research careers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

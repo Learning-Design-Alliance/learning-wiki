@@ -3,7 +3,7 @@ type: design
 id: assessment-design-matrix-adm
 title: Assessment Design Matrix (ADM) linking graduate competencies, assessment strategies, and assessment methods
 description: The ADM is a tripartite structure that integrates graduate competencies, assessment strategies, and assessment methods into a practical guide for assessment designers.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

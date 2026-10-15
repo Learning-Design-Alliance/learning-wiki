@@ -3,7 +3,7 @@ type: claim
 title: Blind expert verification shows no overall preference for human over LLM qualitative coding when sources are judged symmetrically
 description: Blind expert verification shows no overall preference for human over LLM qualitative coding when sources are judged symmetrically
 id: blind-verification-no-overall-human-preference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

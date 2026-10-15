@@ -3,7 +3,7 @@ type: claim
 title: Warning effect size shows no significant heterogeneity across topics and studies
 description: Warning effect size shows no significant heterogeneity across topics and studies
 id: warning-effect-no-heterogeneity-across-topics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

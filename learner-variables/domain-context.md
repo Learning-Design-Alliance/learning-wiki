@@ -3,7 +3,7 @@ type: learner-variable
 id: domain-context
 title: Domain Context
 description: The sector, role or setting a scenario has to be placed in before a learner recognises it as their own.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02

@@ -3,7 +3,7 @@ type: claim
 title: "Human evaluators rate the framework's simulated solutions higher than the second-best setting across all model settings"
 description: "Human evaluators rate the framework's simulated solutions higher than the second-best setting across all model settings"
 id: human-evaluation-prefers-prototype-refine-simulations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

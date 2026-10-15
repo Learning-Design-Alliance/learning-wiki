@@ -3,7 +3,7 @@ type: claim
 title: d.tech teachers used design sprints to prototype and test classroom applications of learning sciences research, and the school plans data analysis to evaluate effects
 description: d.tech teachers used design sprints to prototype and test classroom applications of learning sciences research, and the school plans data analysis to evaluate effects
 id: design-sprints-prototype-learning-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

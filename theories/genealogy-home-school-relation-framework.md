@@ -2,7 +2,7 @@
 type: theory
 title: Genealogical framework for analyzing the home/school relation and parent involvement
 description: The article offers a genealogical account of the home/school relation, tracing how ideas about this relationship and parent involvement have been constructed over time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: savvy-interactive-visual-analytics-system
 title: SAVVY interactive visual analytics system
 description: SAVVY is a research-developed interactive visual analytics system that helps teachers analyze student attention patterns and revise instructional videos.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

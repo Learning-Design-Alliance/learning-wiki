@@ -3,7 +3,7 @@ type: theory
 title: Sociocultural Theory
 description: Sociocultural theory, developed from Vygotsky's work, holds that higher-order thinking develops first through social interaction and is then internalized, with learning most effective within a learner's Zone of Proximal Development.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

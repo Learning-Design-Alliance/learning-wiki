@@ -3,7 +3,7 @@ type: claim
 title: Community college students want to play a role in edtech evaluation and procurement decisions
 description: Community college students want to play a role in edtech evaluation and procurement decisions
 id: ccc-students-want-role-in-edtech-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

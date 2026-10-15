@@ -4,7 +4,7 @@ id: long-beach-early-learning-hub
 title: Long Beach Early Learning Hub
 description: "An online child-care and early-learning enrollment and assistance-finding platform developed collaboratively and hosted by the Mayor's Fund for Long Beach."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

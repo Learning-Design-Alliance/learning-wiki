@@ -3,7 +3,7 @@ type: strategy
 id: post-noticing-reflection-guides
 title: Close the feedback cycle with guided reflection on what was learned (post-noticing stage)
 description: After students complete contrastive-critical framing and transformed practice, the teacher asks them to reflect on what they learned during the entire feedback process, using reflection guides that explain the intende...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

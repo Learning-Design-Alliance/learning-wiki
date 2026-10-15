@@ -2,7 +2,7 @@
 type: theory
 title: "DiPietro's Strategic-Interaction Method: equal weight to form and function across three dimensions of conversational discourse"
 description: The Strategic-Interaction (S-I) Method, designed by Robert J.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness
 description: Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness
 id: interview-perceptions-problem-solving-plan-steps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

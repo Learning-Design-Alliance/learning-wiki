@@ -3,7 +3,7 @@ type: element
 id: seven-agency-profiles-companion-document
 title: Seven agency profiles companion document
 description: "The companion document is a released artifact presenting \"seven profiles, one for each agency in the study,\" describing each agency's experience with data-driven decision making groundwork."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Among LA articles that define privacy, control (15%) is the most common established definition; none define privacy as a commodity"
 description: "Among LA articles that define privacy, control (15%) is the most common established definition; none define privacy as a commodity"
 id: la-privacy-definitions-distribution-control-most-common
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

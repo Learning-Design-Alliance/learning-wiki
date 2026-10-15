@@ -4,7 +4,7 @@ id: journal-data-dashboard
 title: Journal Data Dashboard
 description: The Journal Data Dashboard is a multi-panel visualization and retrieval tool developed by Nguyen et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

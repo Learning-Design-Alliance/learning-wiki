@@ -3,7 +3,7 @@ type: research-method
 id: evidence-grounded-multimodal-lecture-to-kg-pipeline
 title: Evidence-grounded multimodal lecture-to-KG pipeline
 description: "An end-to-end pipeline combining \"timestamped automatic speech recognition (ASR), high-recall anchor selection, OCR, grounded vision-language extraction, validation, canonicalization, KG construction, and GraphRAG-style retrieval.\" Its design constraint is that \"a concept or relationship is promoted"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

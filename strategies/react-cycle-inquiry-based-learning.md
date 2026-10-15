@@ -3,7 +3,7 @@ type: strategy
 id: react-cycle-inquiry-based-learning
 title: Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning
 description: The article recommends embedding the ReACT cycle — reasoning, acting, observing, reflecting — into intelligent tutoring systems or classroom simulations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

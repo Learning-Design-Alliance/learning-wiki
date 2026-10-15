@@ -3,7 +3,7 @@ type: claim
 title: China has overtaken the US as the leading producer of AIEd higher education publications
 description: China has overtaken the US as the leading producer of AIEd higher education publications
 id: china-overtakes-us-ai-ed-he-publications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

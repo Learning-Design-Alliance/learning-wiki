@@ -3,7 +3,7 @@ type: claim
 title: Interviewees unanimously predicted College Promise will improve college enrollment, persistence, and completion, and most expected institutional changes
 description: Interviewees unanimously predicted College Promise will improve college enrollment, persistence, and completion, and most expected institutional changes
 id: perceived-promise-outcomes-enrollment-persistence-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Nearly two-thirds of graduates from academically advanced programs graduate with access to a selective or very selective four-year college
 description: Nearly two-thirds of graduates from academically advanced programs graduate with access to a selective or very selective four-year college
 id: cps-advanced-programs-two-thirds-selective-qualified
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

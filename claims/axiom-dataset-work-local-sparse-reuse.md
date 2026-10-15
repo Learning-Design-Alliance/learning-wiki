@@ -3,7 +3,7 @@ type: claim
 title: "The axiom dataset is work-local: 1,448 of 1,455 axioms map to exactly one work"
 description: "The axiom dataset is work-local: 1,448 of 1,455 axioms map to exactly one work"
 id: axiom-dataset-work-local-sparse-reuse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

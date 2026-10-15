@@ -3,7 +3,7 @@ type: claim
 title: Summer Bridge gains were relatively uniform across demographic and achievement groups, with highest-risk third graders benefiting most
 description: Summer Bridge gains were relatively uniform across demographic and achievement groups, with highest-risk third graders benefiting most
 id: summer-bridge-uniform-gains-across-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

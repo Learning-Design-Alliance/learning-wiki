@@ -3,7 +3,7 @@ type: claim
 title: "An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence"
 description: "An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence"
 id: cohort-support-improves-adult-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

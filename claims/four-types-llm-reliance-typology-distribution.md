@@ -3,7 +3,7 @@ type: claim
 title: "Undergraduate LLM reliance classifies into four types — Strategic (34.3%), Instrumental (30.9%), Dialogic (30.4%), and Dependent (4.5%) — using a threshold-based classification rule"
 description: "Undergraduate LLM reliance classifies into four types — Strategic (34.3%), Instrumental (30.9%), Dialogic (30.4%), and Dependent (4.5%) — using a threshold-based classification rule"
 id: four-types-llm-reliance-typology-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: AI is not yet ready to replace teachers but presents a real possibility to augment them
 description: AI is not yet ready to replace teachers but presents a real possibility to augment them
 id: ai-augments-not-replaces-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

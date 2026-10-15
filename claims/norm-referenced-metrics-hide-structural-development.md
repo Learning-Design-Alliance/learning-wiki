@@ -3,7 +3,7 @@ type: claim
 title: Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities
 description: Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities
 id: norm-referenced-metrics-hide-structural-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

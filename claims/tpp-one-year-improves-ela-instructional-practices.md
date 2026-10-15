@@ -3,7 +3,7 @@ type: claim
 title: "One year of Teacher Potential Project participation improved teachers' overall English language arts instructional practices relative to district curriculum and professional development"
 description: "One year of Teacher Potential Project participation improved teachers' overall English language arts instructional practices relative to district curriculum and professional development"
 id: tpp-one-year-improves-ela-instructional-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

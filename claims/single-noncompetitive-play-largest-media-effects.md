@@ -3,7 +3,7 @@ type: claim
 title: Single noncollaborative, noncompetitive play shows the largest learning effects, significantly larger than single competitive play
 description: Single noncollaborative, noncompetitive play shows the largest learning effects, significantly larger than single competitive play
 id: single-noncompetitive-play-largest-media-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

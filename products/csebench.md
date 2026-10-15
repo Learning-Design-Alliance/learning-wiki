@@ -4,7 +4,7 @@ id: csebench
 title: CSEBench
 description: CSEBench is a publicly released benchmark dataset of 624 expert-annotated multiple-choice English-proficiency items with human response data, developed by Shangchao Min et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

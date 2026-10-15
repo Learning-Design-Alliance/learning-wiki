@@ -4,7 +4,7 @@ id: north-carolina-generative-ai-implementation-recommendations
 title: North Carolina Generative AI Implementation Recommendations
 description: A framework issued by North Carolina to guide K–12 generative-AI implementation, including shared levels and disclosure recommendations for AI-assisted assessment work.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

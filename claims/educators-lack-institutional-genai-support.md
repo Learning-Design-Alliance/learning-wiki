@@ -3,7 +3,7 @@ type: claim
 title: Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration
 description: Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration
 id: educators-lack-institutional-genai-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

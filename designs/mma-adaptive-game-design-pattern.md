@@ -3,7 +3,7 @@ type: design
 id: mma-adaptive-game-design-pattern
 title: Adaptive game-based design combining scaffolding, embedded assessment, and narrative engagement
 description: "The program's design pattern combines a math curriculum with adaptive game-based learning: each game activity maps to a learning objective with \"an interactive instruction level, as well as several layers of scaffoldi..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

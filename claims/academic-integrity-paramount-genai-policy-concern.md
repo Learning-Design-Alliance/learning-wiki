@@ -3,7 +3,7 @@ type: claim
 title: "Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences"
 description: "Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences"
 id: academic-integrity-paramount-genai-policy-concern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Explicit metalinguistic feedback outperforms recasts on the delayed oral imitation posttest measuring implicit knowledge
 description: Explicit metalinguistic feedback outperforms recasts on the delayed oral imitation posttest measuring implicit knowledge
 id: metalinguistic-feedback-beats-recasts-delayed-oral-imitation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -2,7 +2,7 @@
 type: theory
 title: "Relational trust: effective social relationships in and around schools as a prime resource for school improvement"
 description: "Relational trust is the concept Bryk and Schneider develop to name \"how effective social relationships—which they term relational trust—can serve as a prime resource for school improvement.\" It is built from case stud..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

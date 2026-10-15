@@ -3,7 +3,7 @@ type: claim
 title: Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students
 description: Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students
 id: female-students-higher-ai-and-job-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Beginning teachers nationally earn about 20% less than other college graduates, a wage gap widening to 30% by mid-career"
 description: "Beginning teachers nationally earn about 20% less than other college graduates, a wage gap widening to 30% by mid-career"
 id: teacher-wage-gap-20-percent-widening-to-30
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

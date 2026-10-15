@@ -3,7 +3,7 @@ type: strategy
 id: data-informed-decision-matrix-swot
 title: Use a Data-Informed Decision Matrix linking data types to strategic questions
 description: "In response to Delphi experts' feedback that the term data use was too vague, the CSM-SU incorporates a Data-Informed Decision Matrix linking specific data types (quantitative and qualitative) to strategic questions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

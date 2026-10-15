@@ -3,7 +3,7 @@ type: claim
 title: "Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)"
 description: "Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)"
 id: faculty-ai-concerns-integrity-ethics-training-demand
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

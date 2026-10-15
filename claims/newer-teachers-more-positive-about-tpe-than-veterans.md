@@ -3,7 +3,7 @@ type: claim
 title: Newer teachers (0-3 years) hold more positive views of TPE than veteran teachers (10+ years)
 description: Newer teachers (0-3 years) hold more positive views of TPE than veteran teachers (10+ years)
 id: newer-teachers-more-positive-about-tpe-than-veterans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

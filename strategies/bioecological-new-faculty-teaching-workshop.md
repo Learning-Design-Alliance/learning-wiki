@@ -3,7 +3,7 @@ type: strategy
 id: bioecological-new-faculty-teaching-workshop
 title: "Teaching-oriented workshop for new faculty organized by the bioecological model's four dimensions"
 description: "The article illustrates the framework's utility through a teaching-oriented workshop for new faculty, who often arrive with limited teaching training."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

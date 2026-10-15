@@ -3,7 +3,7 @@ type: element
 id: industrial-development-courses-for-tribal-leaders
 title: EDA- and OEO-sponsored industrial development courses and training programs for tribal leaders and planners
 description: Beyond its four funding tools, EDA supported capacity-building activities for reservation leadership.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

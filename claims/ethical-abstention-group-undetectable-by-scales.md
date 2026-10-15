@@ -3,7 +3,7 @@ type: claim
 title: Approximately 13 percent of undergraduates decline AI use for ethical rather than practical reasons, a group undetectable through reliance-scale scores
 description: Approximately 13 percent of undergraduates decline AI use for ethical rather than practical reasons, a group undetectable through reliance-scale scores
 id: ethical-abstention-group-undetectable-by-scales
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

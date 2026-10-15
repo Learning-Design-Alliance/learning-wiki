@@ -3,7 +3,7 @@ type: strategy
 id: strategies-to-avoid-mitigate-small-biases
 title: Researchers should adopt strategies to avoid or mitigate small biases when powering studies for small impacts
 description: "The paper's second stated purpose is to \"recommend strategies researchers can use to avoid or mitigate these biases\" — the small biases that become consequential as studies are powered to detect smaller impacts."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

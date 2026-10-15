@@ -4,7 +4,7 @@ id: seven-categories-of-charter-school-core-functions-for-organizing-distress-in
 title: Seven categories of charter school core functions for organizing distress indicators
 description: A charter-school authorizer toolkit framework that organizes longitudinal review of school distress indicators across leadership, governing board, operations, financial management, talent, culture, and instruction.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: After the policy changes, distance to any pre-k did not change substantially for most student groups, while White and highest-income students lived farther from pre-k
 description: After the policy changes, distance to any pre-k did not change substantially for most student groups, while White and highest-income students lived farther from pre-k
 id: any-prek-access-unchanged-most-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "The article's supporting evidence is anecdotal and qualitative; empirical studies of impact on persistence, self-efficacy, and course climate are needed"
 description: "The article's supporting evidence is anecdotal and qualitative; empirical studies of impact on persistence, self-efficacy, and course climate are needed"
 id: micro-intervention-evidence-anecdotal-empirical-studies-needed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

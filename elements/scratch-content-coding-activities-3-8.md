@@ -3,7 +3,7 @@ type: element
 id: scratch-content-coding-activities-3-8
 title: Scratch coding activities expressing content as interactive illustrations, games, or stories
 description: "The deck proposes Scratch as a block-based coding environment for content-area algorithm lessons, stating \"Students will use Scratch to code: Rock Cycle, Animal Ecosystems, Story retellings or new endings\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

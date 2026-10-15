@@ -3,7 +3,7 @@ type: claim
 title: External reminders dramatically reduce forgetting of delayed intentions
 description: External reminders dramatically reduce forgetting of delayed intentions
 id: external-reminders-reduce-forgetting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

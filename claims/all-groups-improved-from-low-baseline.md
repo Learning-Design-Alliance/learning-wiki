@@ -3,7 +3,7 @@ type: claim
 title: All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention
 description: All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention
 id: all-groups-improved-from-low-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

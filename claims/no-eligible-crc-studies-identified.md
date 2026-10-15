@@ -3,7 +3,7 @@ type: claim
 title: No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness
 description: No eligible studies of collegiate recovery communities were identified, so there is no rigorous evidence on CRC effectiveness
 id: no-eligible-crc-studies-identified
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

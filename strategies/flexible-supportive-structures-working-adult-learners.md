@@ -3,7 +3,7 @@ type: strategy
 id: flexible-supportive-structures-working-adult-learners
 title: Provide flexible, supportive program structures — free tuition, Flex Lessons, personalized mentorship, and remote coursework — to enable working adult learners to persist
 description: "The article's findings point to program features that helped working ECE providers persist: 'TECTA offers free education paid for by the program, allowing ECE providers to access training and coursework without financ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Step-by-step explanations revealed one at a time, plus removed code auto-insertion and copy buttons, encouraged deeper engagement with generated explanations
 description: Step-by-step explanations revealed one at a time, plus removed code auto-insertion and copy buttons, encouraged deeper engagement with generated explanations
 id: step-by-step-friction-deeper-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

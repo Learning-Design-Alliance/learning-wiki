@@ -3,7 +3,7 @@ type: claim
 title: "Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development"
 description: "Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development"
 id: ai-chatbots-three-student-benefit-areas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

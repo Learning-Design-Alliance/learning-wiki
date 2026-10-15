@@ -3,7 +3,7 @@ type: strategy
 id: participatory-iterative-co-design-ct
 title: Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions
 description: "The report's fourth commitment grounds CT work in research-practice partnerships with co-design teams of learning scientists, district leaders, teachers, families, children, curriculum designers, and media developers."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

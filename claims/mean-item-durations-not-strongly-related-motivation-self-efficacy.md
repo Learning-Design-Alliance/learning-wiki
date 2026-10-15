@@ -3,7 +3,7 @@ type: claim
 title: Mean item response durations show no strong relationship with math motivation and self-efficacy in general
 description: Mean item response durations show no strong relationship with math motivation and self-efficacy in general
 id: mean-item-durations-not-strongly-related-motivation-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

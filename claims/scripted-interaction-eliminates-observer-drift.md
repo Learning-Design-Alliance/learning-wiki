@@ -3,7 +3,7 @@ type: claim
 title: "Scripted conversations with recurring task-relevant prompts nearly eliminate observer-rated persona drift, up to a 97% reduction for high-intensity education personas"
 description: "Scripted conversations with recurring task-relevant prompts nearly eliminate observer-rated persona drift, up to a 97% reduction for high-intensity education personas"
 id: scripted-interaction-eliminates-observer-drift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

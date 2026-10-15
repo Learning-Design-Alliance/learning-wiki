@@ -3,7 +3,7 @@ type: claim
 title: Offering SES to eligible applicants near the cutoff in oversubscribed districts has no statistically significant impact on reading or math achievement
 description: Offering SES to eligible applicants near the cutoff in oversubscribed districts has no statistically significant impact on reading or math achievement
 id: ses-offer-no-significant-impact-itt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping
 description: Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping
 id: interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

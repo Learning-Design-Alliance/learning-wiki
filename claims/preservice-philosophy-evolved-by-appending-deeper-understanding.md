@@ -3,7 +3,7 @@ type: claim
 title: "A preservice secondary mathematics teacher's philosophy evolved subtly over a year, appending a 'deeper understanding' view to his original absolutist theory of mathematics"
 description: "A preservice secondary mathematics teacher's philosophy evolved subtly over a year, appending a 'deeper understanding' view to his original absolutist theory of mathematics"
 id: preservice-philosophy-evolved-by-appending-deeper-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

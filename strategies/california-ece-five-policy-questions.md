@@ -3,7 +3,7 @@ type: strategy
 id: california-ece-five-policy-questions
 title: "Five policy questions for unifying, funding, and improving California's ECE system"
 description: "The report's Takeaways section sets forth five questions for policymakers: moving from \"a patchwork of disconnected programs to a more unified ECE system\"; increasing availability of high-quality, full-day programs; s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

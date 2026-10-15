@@ -3,7 +3,7 @@ type: claim
 title: Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit
 description: Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit
 id: mindset-intervention-effects-weak-subgroup-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

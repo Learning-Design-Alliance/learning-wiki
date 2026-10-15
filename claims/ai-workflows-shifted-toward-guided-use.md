@@ -3,7 +3,7 @@ type: claim
 title: "Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester"
 description: "Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester"
 id: ai-workflows-shifted-toward-guided-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

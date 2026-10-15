@@ -3,7 +3,7 @@ type: claim
 title: Students of color show fewer absences and less exclusionary discipline when taught by race-matched teachers
 description: Students of color show fewer absences and less exclusionary discipline when taught by race-matched teachers
 id: race-matched-teacher-discipline-absence-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: mini-breaks-during-lessons
 title: Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside
 description: "The brief recommends \"incorporating short breaks like drawing, listening to music, playing games, stretching, or going outside during lessons,\" which it says makes it easier for students to learn and digest new inform..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

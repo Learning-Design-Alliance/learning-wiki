@@ -3,7 +3,7 @@ type: claim
 title: "DSPy prompt optimization improves all radiotelephony evaluators, with the largest gain in accuracy (+7.9%)"
 description: "DSPy prompt optimization improves all radiotelephony evaluators, with the largest gain in accuracy (+7.9%)"
 id: dspy-optimization-communication-evaluator-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

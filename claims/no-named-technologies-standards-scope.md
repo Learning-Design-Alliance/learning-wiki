@@ -3,7 +3,7 @@ type: claim
 title: The authors declined requests to name specific technologies or focus the standards on AI, citing rapid technological change
 description: The authors declined requests to name specific technologies or focus the standards on AI, citing rapid technological change
 id: no-named-technologies-standards-scope
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

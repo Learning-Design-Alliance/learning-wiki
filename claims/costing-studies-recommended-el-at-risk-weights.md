@@ -3,7 +3,7 @@ type: claim
 title: Five school finance costing studies (2016–2023) recommended additional funding weights of 0.15–0.40 for EL students and 0.30–0.81 for low-income/at-risk students, equivalent to $1,548–$4,976 and $3,389–$8,357 in 2024 dollars
 description: Five school finance costing studies (2016–2023) recommended additional funding weights of 0.15–0.40 for EL students and 0.30–0.81 for low-income/at-risk students, equivalent to $1,548–$4,976 and $3,389–$8,357 in 2024...
 id: costing-studies-recommended-el-at-risk-weights
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

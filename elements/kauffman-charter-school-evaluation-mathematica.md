@@ -4,7 +4,7 @@ id: kauffman-charter-school-evaluation-mathematica
 aliases: [kauffman-charter-school-evaluation-project]
 title: Ewing Marion Kauffman Charter School Evaluation (Mathematica, 2011-2024)
 description: "The evaluation is an associated Mathematica project with the stated time frame 2011-2024, prepared for the Ewing Marion Kauffman Foundation, assessing the school's impacts on \"college enrollment and high school gradua..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

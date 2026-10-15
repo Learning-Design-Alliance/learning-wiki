@@ -3,7 +3,7 @@ type: claim
 title: Students rated AI-generated and instructor-created lecture slides as similar in quality in a real course
 description: Students rated AI-generated and instructor-created lecture slides as similar in quality in a real course
 id: students-rate-ai-slides-similar-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

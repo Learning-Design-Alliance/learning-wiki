@@ -3,7 +3,7 @@ type: design
 id: slo-thinking-through-components-matters-most
 title: In SLO implementation, the process of thinking through the inter-related components matters most
 description: "Drawing on fifteen years of SLO practice and research, the report holds that the value of Student Learning Objectives lies in the deliberative process rather than the compliance artifact: \"The process of thinking thro..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

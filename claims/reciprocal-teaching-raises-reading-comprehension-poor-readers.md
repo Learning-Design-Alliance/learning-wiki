@@ -3,7 +3,7 @@ type: claim
 title: The review reports reciprocal teaching of reading, an approach exemplifying cognitive apprenticeship, was remarkably effective in raising reading comprehension scores, especially for poor readers
 description: The review reports reciprocal teaching of reading, an approach exemplifying cognitive apprenticeship, was remarkably effective in raising reading comprehension scores, especially for poor readers
 id: reciprocal-teaching-raises-reading-comprehension-poor-readers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

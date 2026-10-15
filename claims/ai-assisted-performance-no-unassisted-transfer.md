@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted performance during skill-building does not transfer to subsequent unassisted performance
 description: AI-assisted performance during skill-building does not transfer to subsequent unassisted performance
 id: ai-assisted-performance-no-unassisted-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

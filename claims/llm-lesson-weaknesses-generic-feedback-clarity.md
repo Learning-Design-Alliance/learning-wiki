@@ -3,7 +3,7 @@ type: claim
 title: Lesson designers identify generic feedback and unclear title-page and instruction sections as key weaknesses of LLM-generated lessons
 description: Lesson designers identify generic feedback and unclear title-page and instruction sections as key weaknesses of LLM-generated lessons
 id: llm-lesson-weaknesses-generic-feedback-clarity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

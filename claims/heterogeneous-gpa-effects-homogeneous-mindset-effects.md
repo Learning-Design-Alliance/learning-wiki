@@ -3,7 +3,7 @@ type: claim
 title: Cross-school variability in the GPA treatment effect was significant while variability in the mindset treatment effect was not
 description: Cross-school variability in the GPA treatment effect was significant while variability in the mindset treatment effect was not
 id: heterogeneous-gpa-effects-homogeneous-mindset-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

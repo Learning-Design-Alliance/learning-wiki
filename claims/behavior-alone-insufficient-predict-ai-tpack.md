@@ -3,7 +3,7 @@ type: claim
 title: Behavioral patterns alone insufficiently predict AI-TPACK capacity because Cluster 3 is polarized between expert-level and surface-level integration
 description: Behavioral patterns alone insufficiently predict AI-TPACK capacity because Cluster 3 is polarized between expert-level and surface-level integration
 id: behavior-alone-insufficient-predict-ai-tpack
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

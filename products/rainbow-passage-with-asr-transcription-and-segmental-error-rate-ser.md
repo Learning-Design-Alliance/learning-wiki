@@ -4,7 +4,7 @@ id: rainbow-passage-with-asr-transcription-and-segmental-error-rate-ser
 title: Rainbow passage with ASR transcription and segmental error rate (SER)
 description: "A pronunciation diagnostic assessment that uses the Rainbow passage, automatic speech-to-text transcription, and segmental error-rate scoring to identify learners' pronunciation errors."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

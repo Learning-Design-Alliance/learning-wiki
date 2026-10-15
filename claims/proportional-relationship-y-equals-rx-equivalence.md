@@ -3,7 +3,7 @@ type: claim
 title: Data from any proportional relationship satisfies an equation of the form y = rx, and conversely
 description: Data from any proportional relationship satisfies an equation of the form y = rx, and conversely
 id: proportional-relationship-y-equals-rx-equivalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

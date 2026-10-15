@@ -3,7 +3,7 @@ type: claim
 title: "Creating and leading professional learning for colleagues increases teacher leaders' sense of professional efficacy"
 description: "Creating and leading professional learning for colleagues increases teacher leaders' sense of professional efficacy"
 id: leading-colleague-learning-builds-teacher-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

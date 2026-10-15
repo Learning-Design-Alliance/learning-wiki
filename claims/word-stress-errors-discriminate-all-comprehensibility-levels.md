@@ -3,7 +3,7 @@ type: claim
 title: Word stress errors discriminate between L2 learners of all comprehensibility levels
 description: Word stress errors discriminate between L2 learners of all comprehensibility levels
 id: word-stress-errors-discriminate-all-comprehensibility-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

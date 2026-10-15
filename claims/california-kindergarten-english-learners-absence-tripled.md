@@ -3,7 +3,7 @@ type: claim
 title: "California kindergarten English learners' chronic absenteeism nearly tripled from 14.5 percent in 2018–19 to 43.1 percent in 2021–22, easing only gradually to 37.1 percent in 2022–23"
 description: "California kindergarten English learners' chronic absenteeism nearly tripled from 14.5 percent in 2018–19 to 43.1 percent in 2021–22, easing only gradually to 37.1 percent in 2022–23"
 id: california-kindergarten-english-learners-absence-tripled
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

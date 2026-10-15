@@ -3,7 +3,7 @@ type: claim
 title: Perceived overall utility of generative AI differs significantly across the five platforms used, favoring platforms with structured task breakdowns
 description: Perceived overall utility of generative AI differs significantly across the five platforms used, favoring platforms with structured task breakdowns
 id: ai-platform-utility-differs-anova
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

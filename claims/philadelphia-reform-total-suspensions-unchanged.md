@@ -3,7 +3,7 @@ type: claim
 title: Total suspensions in Philadelphia remained unchanged following the discipline policy reform
 description: Total suspensions in Philadelphia remained unchanged following the discipline policy reform
 id: philadelphia-reform-total-suspensions-unchanged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

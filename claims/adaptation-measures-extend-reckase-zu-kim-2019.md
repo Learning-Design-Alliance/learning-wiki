@@ -3,7 +3,7 @@ type: claim
 title: The three test adaptation measures extend the prior work of Reckase, Zu, and Kim (2019)
 description: The three test adaptation measures extend the prior work of Reckase, Zu, and Kim (2019)
 id: adaptation-measures-extend-reckase-zu-kim-2019
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

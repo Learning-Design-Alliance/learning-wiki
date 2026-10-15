@@ -3,7 +3,7 @@ type: strategy
 id: access-first-exam-lever-strategy
 title: Address the access gap before depth stratification, and use examination reform as the primary lever
 description: "The article's policy findings prescribe sequencing and lever selection: \"the access gap and the Python–C++ trade-off are distinct problems needing distinct responses\", to be addressed \"in sequence, since depth stratif..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: instructor-kg-typed-chunk-corpus
 title: Instructor-curated knowledge graph and dual-readability typed chunk corpus for a dimensional modelling course
 description: The course knowledge is represented as a lightweight knowledge graph containing 43 concepts organised into thematic groups, connected through structural relations (is a, part of) and didactic relations (precedes, conf...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Exam environment critically moderates GenAI learning effects: significant large gains when GenAI is permitted during assessment (g = 0.76) versus non-significant slightly negative effects when it is not (g = -0.06)."
 description: "Exam environment critically moderates GenAI learning effects: significant large gains when GenAI is permitted during assessment (g = 0.76) versus non-significant slightly negative effects when it is not (g = -0.06)."
 id: exam-environment-moderates-genai-learning-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

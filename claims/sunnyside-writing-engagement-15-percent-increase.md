@@ -3,7 +3,7 @@ type: claim
 title: Sunnyside students participating in the Compact Writing Assignments pilot completed quarterly research papers at a rate more than 15 percent higher than non-participants
 description: Sunnyside students participating in the Compact Writing Assignments pilot completed quarterly research papers at a rate more than 15 percent higher than non-participants
 id: sunnyside-writing-engagement-15-percent-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

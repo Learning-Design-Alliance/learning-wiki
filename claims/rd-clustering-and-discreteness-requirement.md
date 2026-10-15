@@ -3,7 +3,7 @@ type: claim
 title: Author-reported RD findings count toward effectiveness ratings only if standard errors account for clustering of students at unique forcing variable values
 description: Author-reported RD findings count toward effectiveness ratings only if standard errors account for clustering of students at unique forcing variable values
 id: rd-clustering-and-discreteness-requirement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

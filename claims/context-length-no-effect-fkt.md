@@ -3,7 +3,7 @@ type: claim
 title: "Longer student histories do not improve LLM knowledge tracing: FKT AUC-ROC stays near 0.5-0.6 whether models see 50 or 400 prior interactions"
 description: "Longer student histories do not improve LLM knowledge tracing: FKT AUC-ROC stays near 0.5-0.6 whether models see 50 or 400 prior interactions"
 id: context-length-no-effect-fkt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

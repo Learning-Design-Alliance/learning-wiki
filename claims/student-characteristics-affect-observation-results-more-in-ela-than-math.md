@@ -3,7 +3,7 @@ type: claim
 title: Classroom student characteristics affect teacher observation results for some instruments, more often in English language arts than in math classes
 description: Classroom student characteristics affect teacher observation results for some instruments, more often in English language arts than in math classes
 id: student-characteristics-affect-observation-results-more-in-ela-than-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

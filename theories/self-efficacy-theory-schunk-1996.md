@@ -2,7 +2,7 @@
 type: theory
 title: "Self-efficacy theory: beliefs about one's capabilities to learn or perform behaviors at designated levels"
 description: "The paper presents self-efficacy theory as beliefs concerning one's capabilities to learn or perform behaviors at designated levels."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

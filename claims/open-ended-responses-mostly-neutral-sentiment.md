@@ -3,7 +3,7 @@ type: claim
 title: "90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative"
 description: "90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative"
 id: open-ended-responses-mostly-neutral-sentiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

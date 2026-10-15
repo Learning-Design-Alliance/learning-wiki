@@ -3,7 +3,7 @@ type: claim
 title: Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing
 description: Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing
 id: academic-disengagement-related-to-test-disengagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

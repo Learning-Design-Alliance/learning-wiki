@@ -3,7 +3,7 @@ type: claim
 title: The study examined how LLMs affected group dynamics, idea generation, consensus building, and overall productivity in team-based projects
 description: The study examined how LLMs affected group dynamics, idea generation, consensus building, and overall productivity in team-based projects
 id: llm-effects-on-group-dynamics-idea-generation-consensus-productivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

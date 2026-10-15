@@ -3,7 +3,7 @@ type: claim
 title: Answering early on few clues correlates with worse real-time proxy performance
 description: Answering early on few clues correlates with worse real-time proxy performance
 id: early-answering-correlates-worse-realtime-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: three-instructor-practices-ai-agents-sdpbl
 title: "Three instructor practices for introducing AI agents in SDPBL: foundation-first tutorials, continuous monitoring with timely intervention, and accountability for AI-generated code"
 description: Based on their SDPBL observations, the authors recommend three approaches for instructors adopting AI agents.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Survey data came primarily from teacher and student surveys conducted in 1994, with school counts varying by measure and wave
 description: Survey data came primarily from teacher and student surveys conducted in 1994, with school counts varying by measure and wave
 id: survey-waves-1994-primary-school-counts-vary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

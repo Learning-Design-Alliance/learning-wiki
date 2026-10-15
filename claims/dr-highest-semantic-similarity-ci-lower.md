@@ -3,7 +3,7 @@ type: claim
 title: Semantic similarity between human and AI discourse is highest in the Delegated Reasoning profile and significantly lower in Concerted Interpretation
 description: Semantic similarity between human and AI discourse is highest in the Delegated Reasoning profile and significantly lower in Concerted Interpretation
 id: dr-highest-semantic-similarity-ci-lower
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

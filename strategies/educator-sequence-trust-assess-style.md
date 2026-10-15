@@ -3,7 +3,7 @@ type: strategy
 id: educator-sequence-trust-assess-style
 title: "Sequence for educators: establish trust, assess group motivation and leadership, then choose a matching style before performing functions"
 description: "Linking the generated hypotheses, the article proposes an approach educators might use with community groups: \"First, an educator should establish a trusting relationship with the group.\" The educator then assesses th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

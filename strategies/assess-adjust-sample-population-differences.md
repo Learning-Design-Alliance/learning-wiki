@@ -3,7 +3,7 @@ type: strategy
 id: assess-adjust-sample-population-differences
 title: Assess and adjust for differences between the study sample and the target population
 description: The guide directs researchers to compare the recruited sample against the target population and to make statistical adjustments where the two differ.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

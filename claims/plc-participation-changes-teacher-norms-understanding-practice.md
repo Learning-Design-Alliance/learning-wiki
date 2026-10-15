@@ -3,7 +3,7 @@ type: claim
 title: "Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching"
 description: "Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching"
 id: plc-participation-changes-teacher-norms-understanding-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

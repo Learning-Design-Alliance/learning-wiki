@@ -4,7 +4,7 @@ id: duolingo
 title: Duolingo
 description: Duolingo is a language-learning software platform operated by Duolingo, Inc., offering courses, practice activities, and community discussion boards across many languages.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

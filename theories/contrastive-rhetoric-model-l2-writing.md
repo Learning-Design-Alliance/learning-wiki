@@ -2,7 +2,7 @@
 type: theory
 title: Contrastive Rhetoric Model of L2 writing
 description: "The Contrastive Rhetoric Model explains L2 writing through the influence of a writer's first language and culture."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

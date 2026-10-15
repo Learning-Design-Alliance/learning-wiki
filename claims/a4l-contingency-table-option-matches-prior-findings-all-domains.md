@@ -3,7 +3,7 @@ type: claim
 title: "The pipeline's contingency table option applied identically across all three domains reproduced previous descriptive findings"
 description: "The pipeline's contingency table option applied identically across all three domains reproduced previous descriptive findings"
 id: a4l-contingency-table-option-matches-prior-findings-all-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

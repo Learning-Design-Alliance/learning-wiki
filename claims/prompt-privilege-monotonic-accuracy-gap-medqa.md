@@ -3,7 +3,7 @@ type: claim
 title: LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users
 description: LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users
 id: prompt-privilege-monotonic-accuracy-gap-medqa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

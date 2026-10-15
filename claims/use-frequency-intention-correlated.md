@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT use frequency and intention to use are strongly positively correlated
 description: ChatGPT use frequency and intention to use are strongly positively correlated
 id: use-frequency-intention-correlated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

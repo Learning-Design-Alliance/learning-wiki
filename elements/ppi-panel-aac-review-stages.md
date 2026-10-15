@@ -3,7 +3,7 @@ type: element
 id: ppi-panel-aac-review-stages
 title: Public and patient involvement (PPI) panel embedded across all stages of the AAC evidence synthesis
 description: The protocol establishes a PPI panel of AAC-familiar stakeholders to support the review from the outset.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

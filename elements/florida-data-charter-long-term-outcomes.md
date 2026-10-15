@@ -3,7 +3,7 @@ type: element
 id: florida-data-charter-long-term-outcomes
 title: Florida statewide longitudinal data linking charter high school attendance to adult outcomes
 description: "The study uses administrative data from Florida to link students' charter high school attendance with later outcomes: high school graduation, college enrollment, college persistence, and earnings in adulthood."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

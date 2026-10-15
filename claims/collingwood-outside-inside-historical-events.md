@@ -3,7 +3,7 @@ type: claim
 title: "Collingwood argues historical knowledge differs from natural-science knowledge because historical events have both an observable 'outside' and an unobservable 'inside' of thought"
 description: "Collingwood argues historical knowledge differs from natural-science knowledge because historical events have both an observable 'outside' and an unobservable 'inside' of thought"
 id: collingwood-outside-inside-historical-events
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

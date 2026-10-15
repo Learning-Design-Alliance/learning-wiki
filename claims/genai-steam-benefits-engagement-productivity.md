@@ -3,7 +3,7 @@ type: claim
 title: Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy
 description: Recurring benefits of GenAI in STEAM education include engagement, teacher productivity, and creativity when supported by sound pedagogy
 id: genai-steam-benefits-engagement-productivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

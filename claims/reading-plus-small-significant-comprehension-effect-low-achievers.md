@@ -3,7 +3,7 @@ type: claim
 title: Reading Plus® produced a statistically significant positive effect on FCAT reading comprehension for low-achieving adolescent learners, with a small WWC-calculated effect of 0.06
 description: Reading Plus® produced a statistically significant positive effect on FCAT reading comprehension for low-achieving adolescent learners, with a small WWC-calculated effect of 0.06
 id: reading-plus-small-significant-comprehension-effect-low-achievers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

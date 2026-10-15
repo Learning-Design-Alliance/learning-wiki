@@ -3,7 +3,7 @@ type: claim
 title: "Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence"
 description: "Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence"
 id: qualitative-themes-ai-writing-motivation-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

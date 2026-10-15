@@ -3,7 +3,7 @@ type: element
 id: semantic-mapping-reading-technique
 title: Semantic mapping as a pre- and post-reading comprehension technique
 description: Semantic mapping is a classroom technique for teaching reading comprehension that integrates new information with prior knowledge.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

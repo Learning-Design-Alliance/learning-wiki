@@ -2,7 +2,7 @@
 type: theory
 title: Outcome-domain organization of social and character development measures
 description: The evaluation organizes its many measures into outcome domains, a grouping device for reporting effects across instruments and reporters.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

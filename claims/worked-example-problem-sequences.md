@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Example-first conditions outperformed problem-first conditions on an immediate circuit test
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

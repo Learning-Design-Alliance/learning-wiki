@@ -3,7 +3,7 @@ type: claim
 title: Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts
 description: Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts
 id: institutional-ai-governance-uneven
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

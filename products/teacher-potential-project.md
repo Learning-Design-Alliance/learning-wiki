@@ -4,7 +4,7 @@ id: teacher-potential-project
 title: Teacher Potential Project
 description: A professional-learning programme developed by EL Education that combines its Common Core State Standards-aligned language-arts curriculum with intensive professional development for teachers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

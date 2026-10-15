@@ -3,7 +3,7 @@ type: design
 id: genai-quality-expectations-linkage-model
 title: A model linking Australian and institutional quality expectations to GenAI realities in Malaysian-campus journalism education
 description: "The article contributes \"a model that links Australian and institutional quality expectations to the realities of GenAI in journalism education in Malaysia campus.\" The model connects external quality assurance requir..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

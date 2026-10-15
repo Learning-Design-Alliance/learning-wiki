@@ -3,7 +3,7 @@ type: strategy
 id: five-design-implications-qualitative-learning-analytics
 title: "Five design implications for qualitative learning analytics tools: unify creation and extraction, transparent encodings, preserve rare responses, flexible units of analysis, frequency as entry point"
 description: "The authors translate their integrated findings into five design implications for tools bringing quantitative technique into qualitative learning analytics: enable custom data uploads with insight extraction, make enc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details"
 description: "ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details"
 id: chatgpt-fabricates-references
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

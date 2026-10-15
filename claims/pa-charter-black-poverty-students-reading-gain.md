@@ -3,7 +3,7 @@ type: claim
 title: Black students in poverty attending charter schools gain about 35 additional days of learning in reading compared to their Black TPS peers in poverty, with no math difference
 description: Black students in poverty attending charter schools gain about 35 additional days of learning in reading compared to their Black TPS peers in poverty, with no math difference
 id: pa-charter-black-poverty-students-reading-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

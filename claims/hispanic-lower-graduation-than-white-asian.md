@@ -3,7 +3,7 @@ type: claim
 title: Hispanic students graduated at far lower rates than white and Asian ELL students despite similar course performance patterns
 description: Hispanic students graduated at far lower rates than white and Asian ELL students despite similar course performance patterns
 id: hispanic-lower-graduation-than-white-asian
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

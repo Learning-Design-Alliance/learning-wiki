@@ -3,7 +3,7 @@ type: strategy
 id: ai-cross-report-pattern-identification-for-teaching
 title: Use joint AI processing of report sets to identify recurring difficulties and guide collective feedback and teaching priorities
 description: Beyond individual review, the article proposes processing sets of reports to identify trends and recurring difficulties across submissions, such as treatment of uncertainties and significant figures, graph interpretat...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

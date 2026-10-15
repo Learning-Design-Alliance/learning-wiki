@@ -3,7 +3,7 @@ type: claim
 title: Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification
 description: Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification
 id: ai-feedback-interest-workload-timeliness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

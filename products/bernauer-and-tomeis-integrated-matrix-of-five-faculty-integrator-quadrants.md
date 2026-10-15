@@ -4,7 +4,7 @@ id: bernauer-and-tomeis-integrated-matrix-of-five-faculty-integrator-quadrants
 title: "Bernauer and Tomei's integrated matrix of five faculty integrator quadrants"
 description: A higher-education faculty-development framework that organizes competencies, objectives, and teaching practices into five stages of pedagogical and technology integration, from apprentice to master integrator.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

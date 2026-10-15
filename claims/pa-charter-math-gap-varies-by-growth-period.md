@@ -3,7 +3,7 @@ type: claim
 title: "Charter students' math disadvantage is concentrated in the first two growth periods, with performance similar to VCR peers by 2016-2017"
 description: "Charter students' math disadvantage is concentrated in the first two growth periods, with performance similar to VCR peers by 2016-2017"
 id: pa-charter-math-gap-varies-by-growth-period
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

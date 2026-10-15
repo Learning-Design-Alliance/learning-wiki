@@ -3,7 +3,7 @@ type: claim
 title: SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance
 description: SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance
 id: sble-unrelated-learning-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

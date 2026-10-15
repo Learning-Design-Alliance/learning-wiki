@@ -3,7 +3,7 @@ type: design
 id: ai-enhanced-course-set-computer-majors
 title: AI-enhanced course set spanning compulsory, elective, and practice categories
 description: Table 1 of the article catalogs representative reformed courses.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

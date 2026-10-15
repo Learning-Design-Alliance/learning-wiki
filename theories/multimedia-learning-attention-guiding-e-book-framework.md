@@ -2,7 +2,7 @@
 type: theory
 title: Cognitive theory of multimedia learning with the attention-guiding principle as a framework for e-book design
 description: "The article applies the cognitive theory of multimedia learning (Mayer & Moreno) together with Betrancourt's attention-guiding principle to explain how e-book features shape young bilingual readers' attention."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

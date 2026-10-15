@@ -3,7 +3,7 @@ type: claim
 title: "U.S. teacher attrition averages 8–9% annually, about twice the rate of Canada, Finland, and Singapore, and drives roughly 9 in 10 annual hires"
 description: U.S.
 id: us-teacher-attrition-twice-peer-nations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

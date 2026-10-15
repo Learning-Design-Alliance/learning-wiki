@@ -3,7 +3,7 @@ type: claim
 title: "Larger proportions of ELs classified for 6 or more years are meeting the ELPAC well-developed benchmark, rising from about 17% in 2020–21 to nearly 23% in 2022–23"
 description: "Larger proportions of ELs classified for 6 or more years are meeting the ELPAC well-developed benchmark, rising from about 17% in 2020–21 to nearly 23% in 2022–23"
 id: elpac-well-developed-rising-among-ltel-qualifiers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

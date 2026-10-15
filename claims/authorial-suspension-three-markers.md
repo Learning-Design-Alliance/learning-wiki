@@ -3,7 +3,7 @@ type: claim
 title: Authorial suspension is marked by a fluency-ownership gap, deferral of commitment despite exhausted deliberation, and an overview unavailable on withdrawal
 description: Authorial suspension is marked by a fluency-ownership gap, deferral of commitment despite exhausted deliberation, and an overview unavailable on withdrawal
 id: authorial-suspension-three-markers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

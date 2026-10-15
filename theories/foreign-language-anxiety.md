@@ -3,7 +3,7 @@ type: theory
 title: Foreign Language Anxiety
 description: "Horwitz, Horwitz and Cope's (1986) account of foreign language classroom anxiety as a situation-specific anxiety, built from communication apprehension, test anxiety and fear of negative evaluation, that can impair L2 learning and performance."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30

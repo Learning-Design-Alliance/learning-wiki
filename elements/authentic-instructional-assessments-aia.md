@@ -3,7 +3,7 @@ type: element
 id: authentic-instructional-assessments-aia
 title: Authentic Instructional Assessments (AIA)
 description: "Authentic Instructional Assessments are \"a detailed procedure and rubric for examining assessments and assignments\" used by each of the three case-study schools to monitor instructional practice."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

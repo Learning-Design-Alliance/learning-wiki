@@ -3,7 +3,7 @@ type: claim
 title: Higher-quality prompt engineering skills predict the quality of LLM output in goal-directed use of generative AI tools
 description: Higher-quality prompt engineering skills predict the quality of LLM output in goal-directed use of generative AI tools
 id: prompt-engineering-skill-predicts-llm-output-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

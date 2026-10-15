@@ -3,7 +3,7 @@ type: strategy
 id: matched-comparison-group-design-with-qualitative-mechanism-exploration
 title: Use a matched comparison group design with qualitative mechanism exploration to evaluate charter school impacts
 description: "The paper's evaluation approach pairs a quantitative impact estimate with qualitative description of school operations."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

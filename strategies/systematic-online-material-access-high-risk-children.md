@@ -3,7 +3,7 @@ type: strategy
 id: systematic-online-material-access-high-risk-children
 title: Provide systematic online material and ensure high-risk children have access to adequate learning environments ahead of school closures
 description: The review recommends that, to counter learning losses from future closures, policy makers and educators provide children with systematic online material and prioritize access for high-risk children.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "A DQN-trained battery storage policy reduced complete cost by 5.9% relative to no storage on a synthetic 24-h training-day rollout"
 description: "A DQN-trained battery storage policy reduced complete cost by 5.9% relative to no storage on a synthetic 24-h training-day rollout"
 id: dqn-bess-training-day-cost-reduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

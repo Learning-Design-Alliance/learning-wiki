@@ -3,7 +3,7 @@ type: claim
 title: Extracurricular involvement and adult mentorship are associated with reversal of gifted underachievement
 description: Extracurricular involvement and adult mentorship are associated with reversal of gifted underachievement
 id: extracurriculars-mentoring-reverse-underachievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

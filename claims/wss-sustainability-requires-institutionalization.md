@@ -3,7 +3,7 @@ type: claim
 title: The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative
 description: The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative
 id: wss-sustainability-requires-institutionalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

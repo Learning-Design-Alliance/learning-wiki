@@ -3,7 +3,7 @@ type: design
 id: identity-reflection-before-empathy-interviews
 title: Begin inclusive design work with teacher self-reflection on intersecting identities
 description: "Steps 0 and 1 of the exercise turn the teacher's gaze inward before any student contact."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

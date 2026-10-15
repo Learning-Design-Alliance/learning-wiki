@@ -3,7 +3,7 @@ type: design
 id: joint-engineering-decision-campus-ai-tutor
 title: Treat model choice, evidence selection, serving compatibility, and product design as a joint engineering decision when building a campus AI tutor
 description: "The article argues that a tutoring system's quality cannot be improved by swapping one component in isolation: latency, memory, retrieval, and product surfaces interact."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-13

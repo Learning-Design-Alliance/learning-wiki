@@ -3,7 +3,7 @@ type: claim
 title: P2 pillar means rose from 1.3 to 2.7 between two successive unmatched teams on the same sponsor problem
 description: P2 pillar means rose from 1.3 to 2.7 between two successive unmatched teams on the same sponsor problem
 id: case3-p2-pillar-mean-rose-between-cohorts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

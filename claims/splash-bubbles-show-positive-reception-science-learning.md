@@ -3,7 +3,7 @@ type: claim
 title: The Splash and Bubbles show was positively received, with most families reporting children enjoyed it and learned ocean science concepts
 description: The Splash and Bubbles show was positively received, with most families reporting children enjoyed it and learned ocean science concepts
 id: splash-bubbles-show-positive-reception-science-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

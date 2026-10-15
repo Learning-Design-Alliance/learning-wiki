@@ -3,7 +3,7 @@ type: claim
 title: A hybrid confidence measure combining model-based signals with dataset-derived aleatoric uncertainty achieves the highest AUROC and strongest accuracy gains in selective grading of LLM-graded short answers
 description: A hybrid confidence measure combining model-based signals with dataset-derived aleatoric uncertainty achieves the highest AUROC and strongest accuracy gains in selective grading of LLM-graded short answers
 id: hybrid-confidence-highest-auroc-selective-asag
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

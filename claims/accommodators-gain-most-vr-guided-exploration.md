@@ -3,7 +3,7 @@ type: claim
 title: Accommodator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes
 description: Accommodator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes
 id: accommodators-gain-most-vr-guided-exploration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

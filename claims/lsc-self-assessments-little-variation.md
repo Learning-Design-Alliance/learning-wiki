@@ -3,7 +3,7 @@ type: claim
 title: "LSC members' self-assessments show little variation among principals, teachers, parents, and community representatives, and fewer than 10 percent view their councils negatively"
 description: "LSC members' self-assessments show little variation among principals, teachers, parents, and community representatives, and fewer than 10 percent view their councils negatively"
 id: lsc-self-assessments-little-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Freshman attendance below 85 percent predicts non-graduation even among students with similar grades
 description: Freshman attendance below 85 percent predicts non-graduation even among students with similar grades
 id: freshman-attendance-predicts-graduation-independent-of-gpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

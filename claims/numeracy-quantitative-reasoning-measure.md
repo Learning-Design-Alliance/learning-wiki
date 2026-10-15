@@ -3,7 +3,7 @@ type: claim
 title: Numeracy is defined and used as a measure of the ability and disposition to make use of quantitative information in causal-inference tasks
 description: Numeracy is defined and used as a measure of the ability and disposition to make use of quantitative information in causal-inference tasks
 id: numeracy-quantitative-reasoning-measure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: claim
 title: "Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity"
 description: "Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity"
 id: cyberagents-qualitative-four-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

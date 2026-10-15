@@ -3,7 +3,7 @@ type: claim
 title: Most AIEd empirical studies use quantitative methods; qualitative approaches are nearly absent
 description: Most AIEd empirical studies use quantitative methods; qualitative approaches are nearly absent
 id: aied-quantitative-method-dominance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

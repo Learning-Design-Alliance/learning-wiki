@@ -3,7 +3,7 @@ type: claim
 title: Of 132 early literacy interventions evaluated by high-quality impact studies, 38 demonstrated effectiveness in at least one language or literacy outcome domain and 93 showed inconclusive effects
 description: Of 132 early literacy interventions evaluated by high-quality impact studies, 38 demonstrated effectiveness in at least one language or literacy outcome domain and 93 showed inconclusive effects
 id: 38-of-132-early-literacy-interventions-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: metacognitive-interview-form-for-younger-students
 title: Metacognitive Interview Form for Younger Students
 description: An informal, semi-structured NCREL reading assessment interview that elicits younger students’ awareness and use of metacognitive strategies before, during, and after reading.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

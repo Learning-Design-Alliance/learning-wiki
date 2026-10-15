@@ -3,7 +3,7 @@ type: strategy
 id: frame-risk-definitions-mcas-terms
 title: "Frame local risk definitions in MCAS terms: benchmarks near Partially Meeting identify students most in need, while benchmarks nearer Meeting Expectations identify students needing support to meet MCAS goals"
 description: The brief offers two framings for at-risk indicators anchored on the MCAS scale.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

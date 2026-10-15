@@ -3,7 +3,7 @@ type: claim
 title: Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years
 description: Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years
 id: chicago-turnaround-elementary-test-score-gains-gradual
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

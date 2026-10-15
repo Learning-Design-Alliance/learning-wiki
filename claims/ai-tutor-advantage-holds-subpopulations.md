@@ -3,7 +3,7 @@ type: claim
 title: The AI-tutoring advantage holds across prior-ability and scientific-attitude subpopulations
 description: The AI-tutoring advantage holds across prior-ability and scientific-attitude subpopulations
 id: ai-tutor-advantage-holds-subpopulations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

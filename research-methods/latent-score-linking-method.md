@@ -3,7 +3,7 @@ type: research-method
 id: latent-score-linking-method
 title: Latent-score linking method
 description: A prediction-model approach that links scores across different K-2 literacy assessments using test records already available in administrative data.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

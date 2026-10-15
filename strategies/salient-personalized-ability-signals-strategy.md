@@ -3,7 +3,7 @@ type: strategy
 id: salient-personalized-ability-signals-strategy
 title: Deliver salient, personalized ability signals to encourage educational investments
 description: "The paper recommends using customized signals of ability, such as a message in students' test-score results reports signaling their \"potential to succeed in Advanced Placement (AP) coursework,\" as a low-cost lever to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

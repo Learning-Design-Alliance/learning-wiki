@@ -3,7 +3,7 @@ type: claim
 title: Spending effects varied across schools but were positive for every school that experienced the LCFF funding infusion
 description: Spending effects varied across schools but were positive for every school that experienced the LCFF funding infusion
 id: lcff-spending-effects-positive-for-every-school-despite-heterogeneity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

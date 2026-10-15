@@ -3,7 +3,7 @@ type: claim
 title: "Gemini-3-flash achieved the highest rubric-item accuracy, ranging from 89% on Course 2 to over 99% on Course 1"
 description: "Gemini-3-flash achieved the highest rubric-item accuracy, ranging from 89% on Course 2 to over 99% on Course 1"
 id: gemini-3-flash-highest-rubric-item-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

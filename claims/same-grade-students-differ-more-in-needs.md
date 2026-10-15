@@ -3,7 +3,7 @@ type: claim
 title: Post-pandemic classrooms present teachers with students in the same grade who differ more in learning needs than before the pandemic
 description: Post-pandemic classrooms present teachers with students in the same grade who differ more in learning needs than before the pandemic
 id: same-grade-students-differ-more-in-needs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

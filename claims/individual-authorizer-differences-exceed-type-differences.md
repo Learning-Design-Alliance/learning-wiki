@@ -3,7 +3,7 @@ type: claim
 title: Differences among individual charter authorizers are likely greater than differences across authorizer types
 description: Differences among individual charter authorizers are likely greater than differences across authorizer types
 id: individual-authorizer-differences-exceed-type-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

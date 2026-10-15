@@ -3,7 +3,7 @@ type: claim
 title: Effect size heterogeneity in self-management interventions may be explained by grade level, disability status, and general versus special education setting
 description: Effect size heterogeneity in self-management interventions may be explained by grade level, disability status, and general versus special education setting
 id: self-management-heterogeneity-moderators-grade-disability-setting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

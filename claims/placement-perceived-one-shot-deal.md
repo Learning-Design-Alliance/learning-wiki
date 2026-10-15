@@ -3,7 +3,7 @@ type: claim
 title: Community college students experience assessment and placement as a one-day isolated event with minimal advance information, not as part of a continuous process
 description: Community college students experience assessment and placement as a one-day isolated event with minimal advance information, not as part of a continuous process
 id: placement-perceived-one-shot-deal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

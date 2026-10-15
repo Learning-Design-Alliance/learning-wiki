@@ -3,7 +3,7 @@ type: claim
 title: Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap
 description: Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap
 id: ai-simulation-safe-practice-environments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

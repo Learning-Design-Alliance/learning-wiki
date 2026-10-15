@@ -3,7 +3,7 @@ type: claim
 title: US K-12 teachers judge AI companion roles along a gradient from academic to intimate, ranking Romantic Partner most concerning and Tutor or Study Buddy most acceptable
 description: US K-12 teachers judge AI companion roles along a gradient from academic to intimate, ranking Romantic Partner most concerning and Tutor or Study Buddy most acceptable
 id: teachers-judge-ai-companions-academic-to-intimate-gradient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

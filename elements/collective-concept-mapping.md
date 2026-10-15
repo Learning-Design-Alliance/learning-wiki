@@ -4,7 +4,7 @@ id: collective-concept-mapping
 title: Collective Concept Mapping
 description: A group activity in which members pool individual interpretations to construct shared concept maps representing conceptions agreed upon by the group, making the interaction between individual and group knowledge visible.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

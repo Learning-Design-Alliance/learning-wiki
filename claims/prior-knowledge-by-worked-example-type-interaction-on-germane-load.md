@@ -3,7 +3,7 @@ type: claim
 title: Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load
 description: Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load
 id: prior-knowledge-by-worked-example-type-interaction-on-germane-load
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

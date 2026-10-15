@@ -3,7 +3,7 @@ type: claim
 title: Only about 53 percent of CPS students who were first-time freshmen in 2000-01 took the PSAE within four years, with rates varying by race and gender
 description: Only about 53 percent of CPS students who were first-time freshmen in 2000-01 took the PSAE within four years, with rates varying by race and gender
 id: psae-cohort-freshmen-53-percent-tested
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

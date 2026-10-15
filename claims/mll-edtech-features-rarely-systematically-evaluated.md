@@ -3,7 +3,7 @@ type: claim
 title: Only a minority of studies systematically evaluated features designed for multilingual learners
 description: Only a minority of studies systematically evaluated features designed for multilingual learners
 id: mll-edtech-features-rarely-systematically-evaluated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers
 description: Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers
 id: task-orientation-partially-mediates-ef-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

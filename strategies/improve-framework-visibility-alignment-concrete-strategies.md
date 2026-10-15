@@ -3,7 +3,7 @@ type: strategy
 id: improve-framework-visibility-alignment-concrete-strategies
 title: Improve visibility, alignment, and concrete strategies of the Transforming Schools Framework and resources
 description: "Based on interview findings, the report recommends improving Alaska's Trauma-Engaged Schools resources so that they are \"visible, are aligned to other initiatives, and provide concrete strategies for translating conce..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

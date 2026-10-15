@@ -3,7 +3,7 @@ type: claim
 title: AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners
 description: AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners
 id: ai-digital-divide-reinforces-inequality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

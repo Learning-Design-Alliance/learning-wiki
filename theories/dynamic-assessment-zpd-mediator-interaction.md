@@ -2,7 +2,7 @@
 type: theory
 title: Dynamic assessment and the zone of proximal development as a framework for mediator-learner interaction
 description: "The forum presents Poehner's (2014) account of dynamic assessment (DA) within Vygotsky's sociocultural theory."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

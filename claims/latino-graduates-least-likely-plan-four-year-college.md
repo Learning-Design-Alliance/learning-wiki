@@ -3,7 +3,7 @@ type: claim
 title: Latino CPS graduates who aspire to a four-year degree are least likely to plan to attend a four-year college after graduation
 description: Latino CPS graduates who aspire to a four-year degree are least likely to plan to attend a four-year college after graduation
 id: latino-graduates-least-likely-plan-four-year-college
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

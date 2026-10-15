@@ -4,7 +4,7 @@ id: five-considerations-framework-for-engaging-educational-partners-in-school-cl
 title: Five considerations framework for engaging educational partners in school climate improvement
 description: An Ojetunde et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: common-features-promising-ece-preparation-models
 title: Six common features of promising early educator preparation models
 description: "Across three case studies targeting different workforce segments, the report identifies shared design features: \"Local early educator pipelines and pathways,\" relationship-building among students, instructors, and sta..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

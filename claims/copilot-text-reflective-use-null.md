@@ -3,7 +3,7 @@ type: claim
 title: Text-based reflective use from Copilot Critical Engagement responses does not predict productive engagement, with limited coder reliability and a TA ceiling effect (exploratory null)
 description: Text-based reflective use from Copilot Critical Engagement responses does not predict productive engagement, with limited coder reliability and a TA ceiling effect (exploratory null)
 id: copilot-text-reflective-use-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

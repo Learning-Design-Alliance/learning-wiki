@@ -3,7 +3,7 @@ type: claim
 title: Teachers drawing Black- and Indian-accented agents predominantly depicted them as human, while British-accented agents were drawn as technology
 description: Teachers drawing Black- and Indian-accented agents predominantly depicted them as human, while British-accented agents were drawn as technology
 id: accent-shapes-drawn-agent-form-human-vs-technology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

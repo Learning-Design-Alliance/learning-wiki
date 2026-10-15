@@ -3,7 +3,7 @@ type: claim
 title: Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick
 description: Governance structures that exclude faculty and support staff responsible for implementation produce policies that do not stick
 id: exclusive-governance-produces-ignored-policies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

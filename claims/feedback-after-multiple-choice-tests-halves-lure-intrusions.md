@@ -3,7 +3,7 @@ type: claim
 title: Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective
 description: Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective
 id: feedback-after-multiple-choice-tests-halves-lure-intrusions
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: Participants required GSR context-knowledge of learning materials, educational strategies, and course information, with optional physical-environment perception
 description: Participants required GSR context-knowledge of learning materials, educational strategies, and course information, with optional physical-environment perception
 id: gsr-context-knowledge-materials-strategies-environment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

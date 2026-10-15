@@ -3,7 +3,7 @@ type: claim
 title: DCT provides a unified explanation for diverse educational topics and accommodates strategy-level theories within its mechanistic framework
 description: DCT provides a unified explanation for diverse educational topics and accommodates strategy-level theories within its mechanistic framework
 id: dct-unified-explanation-accommodates-strategy-theories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15
@@ -29,7 +29,7 @@ sources:
 
 ### Clark 1991
 
-Clark, J.M., Paivio, A. Dual coding theory and education. Educ Psychol Rev 3, 149–210 (1991).
+Clark, J.M., Paivio, A. Dual coding theory and education. Educ Psychol Rev 3, 149–210 (1991). https://doi.org/10.1007/BF01320076
 
 `q2 · i?` · `theoretical · r2`
 

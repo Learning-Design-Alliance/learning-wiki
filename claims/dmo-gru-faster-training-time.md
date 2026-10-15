@@ -3,7 +3,7 @@ type: claim
 title: DMO-GRU trains faster than the deep learning baselines, with a 98 s training time versus 150 s for CNN-GRU and 138 s for LSTM
 description: DMO-GRU trains faster than the deep learning baselines, with a 98 s training time versus 150 s for CNN-GRU and 138 s for LSTM
 id: dmo-gru-faster-training-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Engineering students perceive AI chatbot benefits as strongest for relief from competence frustration, moderate for autonomy, and weakest for relatedness
 description: Engineering students perceive AI chatbot benefits as strongest for relief from competence frustration, moderate for autonomy, and weakest for relatedness
 id: ai-chatbot-need-specific-benefits-engineering-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

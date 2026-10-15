@@ -3,7 +3,7 @@ type: claim
 title: No relationship existed between elementary reading achievement gains and selection of a model with a scientific research base
 description: No relationship existed between elementary reading achievement gains and selection of a model with a scientific research base
 id: elementary-reading-no-relationship-research-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

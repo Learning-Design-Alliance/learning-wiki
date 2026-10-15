@@ -3,7 +3,7 @@ type: strategy
 id: routinely-validate-longitudinal-construct-invariance
 title: Test publishers and users should routinely investigate longitudinal achievement construct invariance over time
 description: "The article recommends an ongoing validation practice: \"We strongly recommend that achievement test publishers and users continue investigating the longitudinal achievement construct and construct invariance over time..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

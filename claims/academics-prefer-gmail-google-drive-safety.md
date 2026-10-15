@@ -3,7 +3,7 @@ type: claim
 title: Academics most often name Gmail and Google Drive as the Web 2.0 tools they use to realise safety needs
 description: Academics most often name Gmail and Google Drive as the Web 2.0 tools they use to realise safety needs
 id: academics-prefer-gmail-google-drive-safety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

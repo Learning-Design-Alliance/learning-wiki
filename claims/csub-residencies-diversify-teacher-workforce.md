@@ -3,7 +3,7 @@ type: claim
 title: "CSUB residency participants are more racially diverse than California's general teacher population and better reflect the diversity of CSUB's student body than other credentialing pathways"
 description: "CSUB residency participants are more racially diverse than California's general teacher population and better reflect the diversity of CSUB's student body than other credentialing pathways"
 id: csub-residencies-diversify-teacher-workforce
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

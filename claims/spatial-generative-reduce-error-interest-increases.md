@@ -3,7 +3,7 @@ type: claim
 title: Spatial thinking and generative activity reduced monitoring error while higher interest increased it
 description: Spatial thinking and generative activity reduced monitoring error while higher interest increased it
 id: spatial-generative-reduce-error-interest-increases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

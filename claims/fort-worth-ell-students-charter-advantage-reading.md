@@ -3,7 +3,7 @@ type: claim
 title: Fort Worth charter school ELL students significantly outgrew district-school ELL students in reading growth
 description: Fort Worth charter school ELL students significantly outgrew district-school ELL students in reading growth
 id: fort-worth-ell-students-charter-advantage-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

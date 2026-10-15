@@ -3,7 +3,7 @@ type: claim
 title: "Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source"
 description: "Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source"
 id: essay-quality-improves-from-initial-to-revised
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

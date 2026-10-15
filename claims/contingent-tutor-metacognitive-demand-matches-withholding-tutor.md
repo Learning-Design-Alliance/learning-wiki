@@ -3,7 +3,7 @@ type: claim
 title: A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant
 description: A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant
 id: contingent-tutor-metacognitive-demand-matches-withholding-tutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

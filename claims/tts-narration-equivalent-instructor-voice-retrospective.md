@@ -3,7 +3,7 @@ type: claim
 title: In retrospective within-subject comparison, no core metric distinguished synthesized TTS narration from recorded instructor voice, and equivalence testing supported non-inferiority
 description: In retrospective within-subject comparison, no core metric distinguished synthesized TTS narration from recorded instructor voice, and equivalence testing supported non-inferiority
 id: tts-narration-equivalent-instructor-voice-retrospective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training
 description: VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training
 id: vr-training-higher-satisfaction-self-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

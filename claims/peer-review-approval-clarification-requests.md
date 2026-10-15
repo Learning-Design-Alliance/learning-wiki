@@ -3,7 +3,7 @@ type: claim
 title: Reviewers judged the protocol methodologically rigorous and approved it, while requesting clarification on NPT justification, grey-literature search detail, and analysis steps
 description: Reviewers judged the protocol methodologically rigorous and approved it, while requesting clarification on NPT justification, grey-literature search detail, and analysis steps
 id: peer-review-approval-clarification-requests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: learning-metrics-small-scale-first
 title: Use small-scale learning metrics during iteration and reserve proof metrics for later stages
 description: "The article advises defining meaningful metrics: \"Measuring gains in student learning can require large studies over long time periods.\" Instead, teams should use \"learning\" metrics that matter on a small scale to gui..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

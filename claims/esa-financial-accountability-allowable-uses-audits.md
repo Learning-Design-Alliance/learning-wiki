@@ -3,7 +3,7 @@ type: claim
 title: All ESA statutes list allowable uses of funds, but only 3 of 15 detail prohibited uses, and nearly all call for audits
 description: All ESA statutes list allowable uses of funds, but only 3 of 15 detail prohibited uses, and nearly all call for audits
 id: esa-financial-accountability-allowable-uses-audits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

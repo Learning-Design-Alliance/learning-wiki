@@ -3,7 +3,7 @@ type: claim
 title: "Education is now the most common first-author department affiliation in AIEd higher education research, at 28%"
 description: "Education is now the most common first-author department affiliation in AIEd higher education research, at 28%"
 id: education-department-most-common-ai-ed-he-affiliation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

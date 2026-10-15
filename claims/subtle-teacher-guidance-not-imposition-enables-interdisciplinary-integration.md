@@ -2,7 +2,7 @@
 type: claim
 title: Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation
 id: subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

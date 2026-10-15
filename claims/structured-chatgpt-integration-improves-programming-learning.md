@@ -3,7 +3,7 @@ type: claim
 title: "A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation"
 description: A 2026 text-mining review chapter reports that studies of ChatGPT in programming education find benefits where it is used with structured pedagogical guidance and teacher facilitation
 id: structured-chatgpt-integration-improves-programming-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

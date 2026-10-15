@@ -3,7 +3,7 @@ type: claim
 title: The outcomes study estimated associations between specific coaching activity types and student outcomes using multiple administrative data sources
 description: The outcomes study estimated associations between specific coaching activity types and student outcomes using multiple administrative data sources
 id: rethinks-outcomes-study-design-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

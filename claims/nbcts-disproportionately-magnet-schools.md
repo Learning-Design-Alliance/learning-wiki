@@ -3,7 +3,7 @@ type: claim
 title: NBCTs are more likely than other teachers to work in magnet schools and less likely to work in the poorest and predominantly African American schools
 description: NBCTs are more likely than other teachers to work in magnet schools and less likely to work in the poorest and predominantly African American schools
 id: nbcts-disproportionately-magnet-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

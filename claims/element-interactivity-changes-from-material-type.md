@@ -3,7 +3,7 @@ type: claim
 title: The element interactivity effect relies on changes in element interactivity due to changes in the type of material being learned
 description: The element interactivity effect relies on changes in element interactivity due to changes in the type of material being learned
 id: element-interactivity-changes-from-material-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

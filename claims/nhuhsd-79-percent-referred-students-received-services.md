@@ -3,7 +3,7 @@ type: claim
 title: From fall 2020 through December 2023, 79 percent of the 828 students referred to mental health services in NHUHSD received services from school-based or community-based providers
 description: From fall 2020 through December 2023, 79 percent of the 828 students referred to mental health services in NHUHSD received services from school-based or community-based providers
 id: nhuhsd-79-percent-referred-students-received-services
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

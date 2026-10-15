@@ -3,7 +3,7 @@ type: claim
 title: "RAGAS Faithfulness declines with curriculum distance from LEA's original course (0.685 to 0.499), while Answer Relevancy and Context Precision remain broadly stable across courses"
 description: "RAGAS Faithfulness declines with curriculum distance from LEA's original course (0.685 to 0.499), while Answer Relevancy and Context Precision remain broadly stable across courses"
 id: ragas-faithfulness-declines-cross-course
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: rdfowlskos-intervention-plan-vocabulary-with-shacl-constraint-layer
 title: RDF/OWL/SKOS intervention-plan vocabulary with SHACL constraint layer
 description: A competency-based education ontology extension developed by Ngoc Luyen Le et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

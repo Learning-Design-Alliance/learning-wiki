@@ -3,7 +3,7 @@ type: claim
 title: AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection
 description: AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection
 id: ai-text-detectors-ineffective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "GenAI use is positively associated with university students' self-reported critical analytical skills (total effect)"
 description: "GenAI use is positively associated with university students' self-reported critical analytical skills (total effect)"
 id: genai-use-positive-association-critical-thinking-total-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

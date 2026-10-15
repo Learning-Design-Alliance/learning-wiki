@@ -3,7 +3,7 @@ type: research-method
 id: projection-approach-combining-absenteeism-literature-estimates-with-summer-learning-patter
 title: Projection approach combining absenteeism-literature estimates with summer learning pattern analyses
 description: "The study's method is a projection framework rather than a direct measurement of pandemic learning loss."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

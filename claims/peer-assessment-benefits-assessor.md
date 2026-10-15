@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

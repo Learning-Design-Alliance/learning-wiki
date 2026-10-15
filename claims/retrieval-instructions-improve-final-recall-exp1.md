@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice instructions improved final recall of translations in Experiment 1
 description: Retrieval practice instructions improved final recall of translations in Experiment 1
 id: retrieval-instructions-improve-final-recall-exp1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

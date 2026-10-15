@@ -3,7 +3,7 @@ type: method
 id: science-textbook-symbolic-representation-taxonomy
 title: Taxonomy of ten symbolic representation types for heat and temperature in high school science textbooks
 description: "An appendix study applied and modified Hooper's mathematics taxonomy to symbolic representations of heat and temperature in three widely used LAUSD physical science textbooks."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

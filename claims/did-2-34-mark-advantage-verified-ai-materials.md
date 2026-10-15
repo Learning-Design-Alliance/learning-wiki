@@ -3,7 +3,7 @@ type: claim
 title: Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise
 description: Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise
 id: did-2-34-mark-advantage-verified-ai-materials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

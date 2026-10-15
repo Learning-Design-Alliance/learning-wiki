@@ -4,7 +4,7 @@ id: open-learning-initiative-oli
 title: Open Learning Initiative (OLI)
 description: "Open Learning Initiative is Carnegie Mellon University's online courseware and learning-platform project, offering openly available and credit-bearing courses with automated instructional and assessment features."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

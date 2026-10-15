@@ -3,7 +3,7 @@ type: strategy
 id: balance-ease-and-nuance-postsecondary-indicators
 title: States should weigh the tradeoff between easily measured indicators (understandable, low data burden) and more complex measures (greater nuance), and explore innovative readiness measures tied to long-term outcomes
 description: The brief recommends that states designing postsecondary readiness indicators deliberately trade off simplicity against nuance.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

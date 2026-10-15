@@ -3,7 +3,7 @@ type: claim
 title: Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline
 description: Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline
 id: journaling-system-improves-srl-all-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Qualitative data support the view that the four-day school week helps attract and retain teachers in rural districts
 description: Qualitative data support the view that the four-day school week helps attract and retain teachers in rural districts
 id: four-day-week-teacher-recruitment-qualitative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

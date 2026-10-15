@@ -3,7 +3,7 @@ type: claim
 title: Centralized district management of partnerships enabled community schools to deliver programs and services without the burden of managing partnerships
 description: Centralized district management of partnerships enabled community schools to deliver programs and services without the burden of managing partnerships
 id: centralized-partnership-management-frees-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

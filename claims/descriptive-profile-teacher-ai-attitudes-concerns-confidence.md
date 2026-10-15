@@ -3,7 +3,7 @@ type: claim
 title: Teachers report strongly positive attitudes toward AI, low concern, high confidence in using AI tools, and strong but uneven institutional support
 description: Teachers report strongly positive attitudes toward AI, low concern, high confidence in using AI tools, and strong but uneven institutional support
 id: descriptive-profile-teacher-ai-attitudes-concerns-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

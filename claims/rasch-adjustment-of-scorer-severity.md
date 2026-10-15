@@ -3,7 +3,7 @@ type: claim
 title: Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared
 description: Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared
 id: rasch-adjustment-of-scorer-severity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

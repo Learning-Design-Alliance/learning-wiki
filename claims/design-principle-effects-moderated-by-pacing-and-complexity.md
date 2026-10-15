@@ -3,7 +3,7 @@ type: claim
 title: "Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)"
 description: "Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)"
 id: design-principle-effects-moderated-by-pacing-and-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

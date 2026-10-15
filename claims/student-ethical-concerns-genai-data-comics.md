@@ -3,7 +3,7 @@ type: claim
 title: Students raised ethical concerns about GenAI-assisted data comic creation, most frequently misinformation, bias, ownership, and reduced trustworthiness
 description: Students raised ethical concerns about GenAI-assisted data comic creation, most frequently misinformation, bias, ownership, and reduced trustworthiness
 id: student-ethical-concerns-genai-data-comics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

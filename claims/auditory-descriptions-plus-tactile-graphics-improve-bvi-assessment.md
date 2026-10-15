@@ -3,7 +3,7 @@ type: claim
 title: "Combining voiced auditory descriptions with tactile graphics increased braille readers' likelihood of answering assessment items correctly"
 description: "Combining voiced auditory descriptions with tactile graphics increased braille readers' likelihood of answering assessment items correctly"
 id: auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

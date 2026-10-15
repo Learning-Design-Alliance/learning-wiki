@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for Read, Write & Type!™ is a single small-extent randomized trial, limiting confidence in the effectiveness ratings"
 description: "The evidence base for Read, Write & Type!™ is a single small-extent randomized trial, limiting confidence in the effectiveness ratings"
 id: rwt-evidence-base-single-small-trial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

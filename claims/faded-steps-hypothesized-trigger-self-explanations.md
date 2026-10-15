@@ -3,7 +3,7 @@ type: claim
 title: Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2
 description: Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2
 id: faded-steps-hypothesized-trigger-self-explanations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

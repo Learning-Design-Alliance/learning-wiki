@@ -3,7 +3,7 @@ type: claim
 title: "In Mnemosyne log data, setting memory strength equal to an item's Leitner deck position predicts recall better than number of past reviews, which beats constant strength."
 description: "In Mnemosyne log data, setting memory strength equal to an item's Leitner deck position predicts recall better than number of past reviews, which beats constant strength."
 id: leitner-deck-position-predicts-recall-better-than-review-count
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

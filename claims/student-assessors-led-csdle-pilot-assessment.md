@@ -3,7 +3,7 @@ type: claim
 title: "Student assessors led the pilot assessment of the Centering Students' Diverse Lived Experiences badge, shifting evaluation power toward student voice"
 description: "Student assessors led the pilot assessment of the Centering Students' Diverse Lived Experiences badge, shifting evaluation power toward student voice"
 id: student-assessors-led-csdle-pilot-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

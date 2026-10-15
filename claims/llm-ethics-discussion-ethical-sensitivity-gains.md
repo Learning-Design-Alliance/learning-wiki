@@ -3,7 +3,7 @@ type: claim
 title: Group ethical discussion with multiple LLM agents significantly increases ethical sensitivity in STEM undergraduates
 description: Group ethical discussion with multiple LLM agents significantly increases ethical sensitivity in STEM undergraduates
 id: llm-ethics-discussion-ethical-sensitivity-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

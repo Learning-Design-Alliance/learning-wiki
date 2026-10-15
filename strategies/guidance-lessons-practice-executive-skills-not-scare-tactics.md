@@ -3,7 +3,7 @@ type: strategy
 id: guidance-lessons-practice-executive-skills-not-scare-tactics
 title: Design guidance lessons that give adolescents practice in planning, anticipating consequences, and regulating behavior, and avoid scare tactics and lecturing
 description: "Because maturing prefrontal abilities such as planning, weighing risk and reward, and controlling impulses strengthen with practice, the review recommends guidance lessons that \"provide teens with opportunities to pra..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

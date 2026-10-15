@@ -3,7 +3,7 @@ type: strategy
 id: family-engagement-three-playbook-actions
 title: Families partner with schools on attendance and grades through belonging, collaborative support, and joint monitoring
 description: "The playbook recommends three implementable family actions: (1) build a community of belonging—talking with other parents and meeting with principals about family engagement, since high-quality engagement lays \"the fo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

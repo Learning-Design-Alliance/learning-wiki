@@ -3,7 +3,7 @@ type: claim
 title: "Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation"
 description: "Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation"
 id: clinical-supervision-effectiveness-inconclusive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: The report claims six core SoLD findings should reshape teacher preparation, including that the brain is malleable, variability is the norm, and relationships catalyze learning
 description: The report claims six core SoLD findings should reshape teacher preparation, including that the brain is malleable, variability is the norm, and relationships catalyze learning
 id: sold-core-findings-reshape-teacher-preparation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

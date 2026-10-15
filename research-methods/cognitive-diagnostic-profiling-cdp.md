@@ -3,7 +3,7 @@ type: research-method
 id: cognitive-diagnostic-profiling-cdp
 title: Cognitive Diagnostic Profiling (CDP)
 description: "CDP is a zero-shot framework that draws on cognitive diagnostic models \"to represent each simulated examinee as a binary attribute-mastery profile and prompts an LLM to generate item responses consistent with that profile.\" It proceeds in six steps: construct decomposition into binary attributes, ma"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

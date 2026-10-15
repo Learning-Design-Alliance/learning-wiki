@@ -3,7 +3,7 @@ type: claim
 title: "The most energy-efficient tested configuration consumes 1.8 mWh per query, a 43.8% reduction relative to the Qwen-7B FP16 baseline"
 description: "The most energy-efficient tested configuration consumes 1.8 mWh per query, a 43.8% reduction relative to the Qwen-7B FP16 baseline"
 id: energy-efficient-configuration-1-8-mwh-per-query
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

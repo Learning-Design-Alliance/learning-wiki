@@ -3,7 +3,7 @@ type: claim
 title: Scorers had difficulty distinguishing rubric scoring from everyday grading and AP scoring, and training took longer than expected
 description: Scorers had difficulty distinguishing rubric scoring from everyday grading and AP scoring, and training took longer than expected
 id: scorer-training-longer-than-expected-grading-confusion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

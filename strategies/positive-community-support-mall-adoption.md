@@ -3,7 +3,7 @@ type: strategy
 id: positive-community-support-mall-adoption
 title: Foster positive learning communities and supportive environments to strengthen MALL attitudes and intentions
 description: "Drawing on the significant SI→ATT and ATT→BI findings, the article recommends that educators \"foster a positive learning community, where sharing experiences can augment students' ATT towards MALL\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

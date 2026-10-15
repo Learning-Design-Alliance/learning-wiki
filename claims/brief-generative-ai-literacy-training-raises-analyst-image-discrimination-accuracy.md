@@ -3,7 +3,7 @@ type: claim
 title: "A 30-minute generative AI literacy training increased intelligence analysts' overall accuracy at distinguishing real from AI-generated images by 9 percentage points"
 description: "A 30-minute generative AI literacy training increased intelligence analysts' overall accuracy at distinguishing real from AI-generated images by 9 percentage points"
 id: brief-generative-ai-literacy-training-raises-analyst-image-discrimination-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

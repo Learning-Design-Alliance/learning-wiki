@@ -3,7 +3,7 @@ type: claim
 title: The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity
 description: The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity
 id: tefa-t-syntax-construct-validity-cfa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

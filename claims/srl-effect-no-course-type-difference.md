@@ -3,7 +3,7 @@ type: claim
 title: The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect
 description: The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect
 id: srl-effect-no-course-type-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

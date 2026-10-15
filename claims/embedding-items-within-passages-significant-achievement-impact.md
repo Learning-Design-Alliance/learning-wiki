@@ -3,7 +3,7 @@ type: claim
 title: Embedding comprehension items within reading passages significantly affects measured reading achievement compared with answering items at the end of the passage
 description: Embedding comprehension items within reading passages significantly affects measured reading achievement compared with answering items at the end of the passage
 id: embedding-items-within-passages-significant-achievement-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

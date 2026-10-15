@@ -3,7 +3,7 @@ type: element
 id: ncme-2020-effort-moderated-irt-presentation
 title: NCME 2020 presentation on effort-moderated IRT parameter estimation accuracy
 description: "A presentation delivered at the 2020 National Council on Measurement in Education virtual conference by James Soland and Joseph Rios, listed by NWEA Research under the topics of \"Measurement & scaling\" and \"School & t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

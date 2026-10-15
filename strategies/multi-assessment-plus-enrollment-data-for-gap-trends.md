@@ -3,7 +3,7 @@ type: strategy
 id: multi-assessment-plus-enrollment-data-for-gap-trends
 title: Use multiple national assessments plus course-enrollment data to track achievement-gap trends
 description: "The study's approach, as described, combines achievement data from \"three national assessments\" with \"enrollment in Algebra\" to examine trends in gender gaps in 8th grade STEM skills over the course of the pandemic."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

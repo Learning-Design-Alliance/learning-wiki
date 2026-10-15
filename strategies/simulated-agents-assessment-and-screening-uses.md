@@ -3,7 +3,7 @@ type: strategy
 id: simulated-agents-assessment-and-screening-uses
 title: Extend simulated teaching practice to student assessment and teacher screening uses
 description: "Beyond training, the authors propose two implementable uses: assigning simulated sections to students, where guiding agents to a solution may reveal the user's own understanding of material, and using EducaSim as one..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

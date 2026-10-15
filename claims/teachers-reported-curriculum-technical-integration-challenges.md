@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write
 description: Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write
 id: teachers-reported-curriculum-technical-integration-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

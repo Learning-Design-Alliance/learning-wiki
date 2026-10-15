@@ -3,7 +3,7 @@ type: claim
 title: "Inconsistency relates to creative process engagement through opposing indirect pathways: negative via hindrance appraisal and positive via challenge appraisal"
 description: "Inconsistency relates to creative process engagement through opposing indirect pathways: negative via hindrance appraisal and positive via challenge appraisal"
 id: dual-indirect-pathways-to-creative-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

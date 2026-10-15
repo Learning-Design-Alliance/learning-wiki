@@ -3,7 +3,7 @@ type: claim
 title: "In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station"
 description: "In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station"
 id: anatomage-vr-engagement-34-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

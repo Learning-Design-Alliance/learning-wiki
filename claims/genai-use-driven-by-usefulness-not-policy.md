@@ -3,7 +3,7 @@ type: claim
 title: "Over 80% of surveyed students reported GenAI use driven primarily by perceived usefulness rather than policy"
 description: "Over 80% of surveyed students reported GenAI use driven primarily by perceived usefulness rather than policy"
 id: genai-use-driven-by-usefulness-not-policy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

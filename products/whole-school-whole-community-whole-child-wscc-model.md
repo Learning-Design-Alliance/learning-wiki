@@ -4,7 +4,7 @@ id: whole-school-whole-community-whole-child-wscc-model
 title: Whole School, Whole Community, Whole Child (WSCC) model
 description: "A Centers for Disease Control and Prevention framework that organizes coordinated school health and education efforts across 10 components to support K–12 students' health, learning, and development."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

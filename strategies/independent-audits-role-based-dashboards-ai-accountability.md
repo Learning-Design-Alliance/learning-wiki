@@ -3,7 +3,7 @@ type: strategy
 id: independent-audits-role-based-dashboards-ai-accountability
 title: Establish AI-specific evaluation and accountability systems using independent audits, role-based dashboards, and privacy and equity safeguards
 description: The brief recommends districts collaborate with states and partners to build evaluation and accountability systems integrating independent audits of AI tools for accuracy, bias, accessibility, and explainability, plus...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

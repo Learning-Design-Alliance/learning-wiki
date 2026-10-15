@@ -4,7 +4,7 @@ id: script-step-based-coding-for-research-and-intelligent-programming-tutoring
 title: SCRIPT (Step-based Coding for Research and Intelligent Programming Tutoring)
 description: SCRIPT is a web-based intelligent tutoring system developed by Alina Deriyeva and colleagues for teaching Python programming while recording fine-grained learner data and supporting adaptable pedagogical and learner-model research.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

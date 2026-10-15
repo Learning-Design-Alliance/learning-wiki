@@ -3,7 +3,7 @@ type: claim
 title: Higher absence rates are the most important factor explaining why students with disabilities fail more courses and earn lower GPAs than students without identified disabilities
 description: Higher absence rates are the most important factor explaining why students with disabilities fail more courses and earn lower GPAs than students without identified disabilities
 id: absences-explain-course-performance-gaps-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

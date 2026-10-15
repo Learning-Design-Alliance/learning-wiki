@@ -3,7 +3,7 @@ type: claim
 title: Imagine Math effects were statistically significant for Indiana grades 3–5 (ES +0.13) but not for other grade bands or for Texas students
 description: Imagine Math effects were statistically significant for Indiana grades 3–5 (ES +0.13) but not for other grade bands or for Texas students
 id: imagine-math-indiana-grades-3-5-significant-texas-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

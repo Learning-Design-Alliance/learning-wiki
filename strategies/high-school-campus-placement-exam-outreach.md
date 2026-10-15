@@ -3,7 +3,7 @@ type: strategy
 id: high-school-campus-placement-exam-outreach
 title: Bring high school students onto community college campuses to take placement exams and discuss results with counselors before enrollment
 description: This strategy engages high school students in campus visits where they take actual placement examinations and immediately discuss results with counselors, so they learn where they stand in preparation for community co...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

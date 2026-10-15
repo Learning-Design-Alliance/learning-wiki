@@ -3,7 +3,7 @@ type: claim
 title: Most evaluators rated consistently, but about 3 percent were muted and 5 percent erratic, and about 10 percent of a sampled subset were extremely severe or lenient
 description: Most evaluators rated consistently, but about 3 percent were muted and 5 percent erratic, and about 10 percent of a sampled subset were extremely severe or lenient
 id: reach-evaluator-consistency-and-severity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

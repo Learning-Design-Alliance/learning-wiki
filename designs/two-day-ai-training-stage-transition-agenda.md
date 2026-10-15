@@ -3,7 +3,7 @@ type: design
 id: two-day-ai-training-stage-transition-agenda
 title: Two-day intensive training agenda sequenced to move learners from Stage 0 through Stage 4 transitions
 description: "Table 5 maps each activity of the 2-day hands-on AI/LLM training to the stage transition it facilitates: demystification of platforms moves Stage 0 to 1; hands-on API use, local model deployment, and RAG-based verific..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

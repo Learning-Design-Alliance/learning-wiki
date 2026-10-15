@@ -3,7 +3,7 @@ type: claim
 title: Over four months and four sessions, LLM-group participants performed worse than Brain-only participants at neural, linguistic, and scoring levels
 description: Over four months and four sessions, LLM-group participants performed worse than Brain-only participants at neural, linguistic, and scoring levels
 id: llm-group-worse-neural-linguistic-scoring-four-sessions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

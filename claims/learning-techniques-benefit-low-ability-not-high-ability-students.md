@@ -3,7 +3,7 @@ type: claim
 title: "In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students"
 description: "Across all techniques, the mean effect was d = 0.47 for low-ability students (58 effects, 13 studies) and d = -0.11 for high-ability students (28 effects, 6 studies); high-ability students showed negative effects for interleaved practice and summarization."
 id: learning-techniques-benefit-low-ability-not-high-ability-students
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13

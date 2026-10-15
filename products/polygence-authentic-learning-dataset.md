@@ -4,7 +4,7 @@ id: polygence-authentic-learning-dataset
 title: Polygence authentic learning dataset
 description: A large anonymized multimodal dataset of more than 100,000 hours of longitudinal one-on-one project-based tutoring interactions between PhD-level mentors and K–12 or pre-college students, collected and maintained by Polygence.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

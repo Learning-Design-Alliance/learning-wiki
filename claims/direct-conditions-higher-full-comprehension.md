@@ -3,7 +3,7 @@ type: claim
 title: Direct conditions descriptively show higher post-task full comprehension than Socratic conditions, with Direct + Full Context highest and Socratic + Full Context lowest
 description: Direct conditions descriptively show higher post-task full comprehension than Socratic conditions, with Direct + Full Context highest and Socratic + Full Context lowest
 id: direct-conditions-higher-full-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

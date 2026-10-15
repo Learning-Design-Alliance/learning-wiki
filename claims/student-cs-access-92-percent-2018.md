@@ -3,7 +3,7 @@ type: claim
 title: Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018
 description: Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018
 id: student-cs-access-92-percent-2018
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

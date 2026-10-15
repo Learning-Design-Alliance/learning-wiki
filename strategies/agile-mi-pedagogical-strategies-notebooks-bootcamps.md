@@ -3,7 +3,7 @@ type: strategy
 id: agile-mi-pedagogical-strategies-notebooks-bootcamps
 title: "Agile pedagogical strategies: interactive notebooks, bootcamps, and sustained educator professional learning"
 description: "Because multi-year degree redesign is slow, the paper recommends agile strategies to bridge skills gaps: interactive notebooks that let students reproduce and modify end-to-end ML workflows without weeks of software s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

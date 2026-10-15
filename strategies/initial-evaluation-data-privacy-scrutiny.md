@@ -3,7 +3,7 @@ type: strategy
 id: initial-evaluation-data-privacy-scrutiny
 title: During initial evaluation, scrutinize what data is collected, how it is stored and shared, and whether it is extraneous
 description: "The framework's data-privacy criterion asks evaluators to investigate \"what specific data is being collected from users, how safely that data is stored, and what is done with that data.\" The stated goal is that \"there..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

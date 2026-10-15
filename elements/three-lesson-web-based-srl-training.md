@@ -4,7 +4,7 @@ id: three-lesson-web-based-srl-training
 title: Three-Lesson Web-Based SRL Training
 description: "A web-based training on self-regulated learning that \"can be attended by virtually unlimited numbers of participants\" choosing their own time and place."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

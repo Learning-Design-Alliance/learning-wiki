@@ -2,7 +2,7 @@
 type: theory
 title: "Taxonomy of approaches to achievement/performance evaluation: norm-referenced, criterion-referenced, time-referenced, and stage-referenced"
 description: "The project's literature review organized achievement measurement into approaches displayed in Figure 1: population- or norm-referenced measurement (individual's relative position to others based on traditional psycho..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

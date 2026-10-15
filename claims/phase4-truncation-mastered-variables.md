@@ -3,7 +3,7 @@ type: claim
 title: Phase 4 low-guidance procedure was truncated for children who already demonstrated unconfounded designs
 description: Phase 4 low-guidance procedure was truncated for children who already demonstrated unconfounded designs
 id: phase4-truncation-mastered-variables
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

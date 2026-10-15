@@ -3,7 +3,7 @@ type: claim
 title: "Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit"
 description: "Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit"
 id: pipeline-components-complementary-ablation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "In SEM, all three self-efficacy dimensions are positively associated with AI use, with Excellence strongest (β = .47), followed by Communication (β = .31) and Attention (β = .22); the model explains 43% of variance"
 description: "In SEM, all three self-efficacy dimensions are positively associated with AI use, with Excellence strongest (β = .47), followed by Communication (β = .31) and Attention (β = .22); the model explains 43% of variance"
 id: sem-self-efficacy-dimensions-ai-use-associations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

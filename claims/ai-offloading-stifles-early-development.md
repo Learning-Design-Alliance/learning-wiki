@@ -3,7 +3,7 @@ type: claim
 title: Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills
 description: Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills
 id: ai-offloading-stifles-early-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

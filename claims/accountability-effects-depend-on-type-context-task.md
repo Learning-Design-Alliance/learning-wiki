@@ -3,7 +3,7 @@ type: claim
 title: Accountability can produce positive or negative effects depending on type, decision context, and task nature
 description: Accountability can produce positive or negative effects depending on type, decision context, and task nature
 id: accountability-effects-depend-on-type-context-task
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

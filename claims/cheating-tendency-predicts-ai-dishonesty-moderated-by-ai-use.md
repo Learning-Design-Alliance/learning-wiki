@@ -3,7 +3,7 @@ type: claim
 title: Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use
 description: Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use
 id: cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

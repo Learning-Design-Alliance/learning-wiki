@@ -3,7 +3,7 @@ type: claim
 title: Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures
 description: Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures
 id: remote-proctoring-supported-continuity-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

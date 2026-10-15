@@ -3,7 +3,7 @@ type: claim
 title: The ICAP Framework was found effective for assessing potential for active learning in an asynchronous online environment and identifying where design improvements are needed
 description: The ICAP Framework was found effective for assessing potential for active learning in an asynchronous online environment and identifying where design improvements are needed
 id: icap-effective-audit-tool-asynchronous-online
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Moderation analyses in reviewed SEL evaluations often lacked conceptual or empirical justification from prior literature or hypotheses
 description: Moderation analyses in reviewed SEL evaluations often lacked conceptual or empirical justification from prior literature or hypotheses
 id: unjustified-sel-moderation-analyses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

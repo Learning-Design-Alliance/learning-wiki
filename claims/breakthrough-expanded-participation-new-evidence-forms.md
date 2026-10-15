@@ -3,7 +3,7 @@ type: claim
 title: "Expanded participation and new forms of evidence: breakthroughs reach previously excluded populations and may require new metrics"
 description: "Expanded participation and new forms of evidence: breakthroughs reach previously excluded populations and may require new metrics"
 id: breakthrough-expanded-participation-new-evidence-forms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

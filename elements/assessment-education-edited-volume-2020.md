@@ -3,7 +3,7 @@ type: element
 id: assessment-education-edited-volume-2020
 title: "Assessment education edited volume (Tarasawa, Gotwals, & Jackson, 2020)"
 description: "An edited book published by Rowman & Littlefield in September 2020, edited by Beth Tarasawa, Amelia Gotwals, and Cara Jackson."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

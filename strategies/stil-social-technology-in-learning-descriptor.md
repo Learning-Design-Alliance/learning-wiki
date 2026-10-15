@@ -3,7 +3,7 @@ type: strategy
 id: stil-social-technology-in-learning-descriptor
 title: "Reserve \"social learning\" for platforms grounded in social learning theory; describe social-media-enabled platforms as \"STIL\" (Social Technology in Learning)"
 description: "The paper recommends that until a holistic online learning platform based on the fundamental principles of social learning theory exists, the term \"social learning\" should not describe platforms that merely include so..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

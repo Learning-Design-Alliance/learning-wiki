@@ -3,7 +3,7 @@ type: claim
 title: After the Focus on High Schools initiative, days absent, days tardy, and student suspensions were lower
 description: After the Focus on High Schools initiative, days absent, days tardy, and student suspensions were lower
 id: focus-high-schools-lower-absences-tardies-suspensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

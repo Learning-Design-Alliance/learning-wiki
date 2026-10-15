@@ -3,7 +3,7 @@ type: strategy
 id: guide-interests-choices-goal-setting-young-children
 title: Guide young students through investigating interests, making choices, and setting and attaining learning goals
 description: A concrete teaching activity in which teachers use the Self-Determined Learning Model of Instruction to walk young children through investigating their own interests, facilitating their choices, and supporting goal se...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -4,7 +4,7 @@ id: california-classified-school-employee-teacher-credentialing-program-grow-you
 title: California Classified School Employee Teacher Credentialing Program (Grow Your Own)
 description: A California state programme that funds and supports classified school employees and paraprofessionals in completing undergraduate education and teacher preparation to become credentialed teachers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

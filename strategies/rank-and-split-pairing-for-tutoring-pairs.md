@@ -3,7 +3,7 @@ type: strategy
 id: rank-and-split-pairing-for-tutoring-pairs
 title: Form tutoring pairs by ranking students by reading achievement and pairing across halves of the ranked list
 description: "A concrete pairing procedure for peer tutoring: \"the teacher ranks students from highest to lowest reading achievement."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: element
 id: covid-learning-data-visualizations-nwea
 title: Interactive data visualizations of COVID-19 reading and math achievement and growth
 description: NWEA built interactive data visualizations to accompany the report on learning during COVID-19.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

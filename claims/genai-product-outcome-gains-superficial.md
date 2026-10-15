@@ -3,7 +3,7 @@ type: claim
 title: Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning
 description: Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning
 id: genai-product-outcome-gains-superficial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

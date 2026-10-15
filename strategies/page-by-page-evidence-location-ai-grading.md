@@ -3,7 +3,7 @@ type: strategy
 id: page-by-page-evidence-location-ai-grading
 title: Grade long handwritten submissions page by page, asking the AI to identify where the credited evidence appears
 description: In Round II the AI was asked to grade submissions page by page and record where credited evidence appeared, since a single submission could exceed 30 scanned pages and relevant work may appear outside the expected ans...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

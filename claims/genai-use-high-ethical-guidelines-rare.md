@@ -3,7 +3,7 @@ type: claim
 title: "Most higher education institutions report faculty use of generative AI in teaching, but fewer than 15% have formal ethical guidelines"
 description: "Most higher education institutions report faculty use of generative AI in teaching, but fewer than 15% have formal ethical guidelines"
 id: genai-use-high-ethical-guidelines-rare
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

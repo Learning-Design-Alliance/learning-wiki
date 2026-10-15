@@ -3,7 +3,7 @@ type: claim
 title: "The most common answer transition after KITE feedback was Partially Correct to Correct, occurring in 14 of 44 cases (31.82%)"
 description: "The most common answer transition after KITE feedback was Partially Correct to Correct, occurring in 14 of 44 cases (31.82%)"
 id: kite-most-common-transition-partial-to-correct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

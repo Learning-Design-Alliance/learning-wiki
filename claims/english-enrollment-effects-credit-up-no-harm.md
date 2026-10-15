@@ -3,7 +3,7 @@ type: claim
 title: Taking English I instead of remedial English substantially increased English I credit earning with no adverse consequences, but no GPA or reading-test benefits
 description: Taking English I instead of remedial English substantially increased English I credit earning with no adverse consequences, but no GPA or reading-test benefits
 id: english-enrollment-effects-credit-up-no-harm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

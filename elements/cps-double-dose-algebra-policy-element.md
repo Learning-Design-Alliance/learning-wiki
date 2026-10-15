@@ -3,7 +3,7 @@ type: element
 id: cps-double-dose-algebra-policy-element
 title: Chicago Public Schools 2003 double-dose algebra policy with three structural guidelines for support courses
 description: A district-wide policy requiring all first-time ninth-graders scoring below the national median on the eighth-grade math test to enroll in a regular algebra class plus an additional algebra support class for a full ac...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: Within-student longitudinal (fixed-effects-style) design as an approach to causal inference in edtech efficacy evaluation
 description: "The article's methodological framework: using multi-year panel data so that \"each student as their own control\" serves as the identification strategy, \"eliminating confounding from time-invariant student factors (e.g...."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

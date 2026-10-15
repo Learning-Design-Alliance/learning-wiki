@@ -3,7 +3,7 @@ type: claim
 title: Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)
 description: Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)
 id: higher-self-efficacy-profiles-greater-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

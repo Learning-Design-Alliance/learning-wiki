@@ -3,7 +3,7 @@ type: claim
 title: ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends
 description: ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends
 id: assistments-long-term-math-impact-grade-8
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

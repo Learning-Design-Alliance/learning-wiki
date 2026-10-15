@@ -3,7 +3,7 @@ type: claim
 title: Phillips criticises social constructivism for advancing strong but untenable claims that are then qualified to the level of triteness
 description: Phillips criticises social constructivism for advancing strong but untenable claims that are then qualified to the level of triteness
 id: phillips-untenable-social-constructivist-claims
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

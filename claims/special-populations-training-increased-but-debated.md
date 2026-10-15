@@ -3,7 +3,7 @@ type: claim
 title: New programs increased training for leading special student populations, but sufficiency across all contexts remains debated
 description: New programs increased training for leading special student populations, but sufficiency across all contexts remains debated
 id: special-populations-training-increased-but-debated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

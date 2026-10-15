@@ -4,7 +4,7 @@ id: community-schools-approach
 title: Community schools approach
 description: A whole-child, whole-school, whole-community framework organized around integrated student supports, expanded learning opportunities, family and community engagement, and collaborative leadership, used by schools and community partners.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

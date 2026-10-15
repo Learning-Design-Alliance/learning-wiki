@@ -3,7 +3,7 @@ type: claim
 title: A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course
 description: A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course
 id: learning-diary-alone-no-significant-srl-gains-online-math-prep-course
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

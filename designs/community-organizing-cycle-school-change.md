@@ -3,7 +3,7 @@ type: design
 id: community-organizing-cycle-school-change
 title: Community organizing cycle as a model for school transformation
 description: The report describes the community organizing cycle as the change model embodied by the RCS campaign.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

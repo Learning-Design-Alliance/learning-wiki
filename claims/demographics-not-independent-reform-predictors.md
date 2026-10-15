@@ -3,7 +3,7 @@ type: claim
 title: Racial composition, student mobility, limited-English percentage, and low-income concentration are not independently related to reform implementation once school size is accounted for
 description: Racial composition, student mobility, limited-English percentage, and low-income concentration are not independently related to reform implementation once school size is accounted for
 id: demographics-not-independent-reform-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent
 description: Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent
 id: high-qualifications-needed-for-majority-graduation-odds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

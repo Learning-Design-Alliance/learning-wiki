@@ -3,7 +3,7 @@ type: strategy
 id: evidence-based-narrative-and-action-plans-from-diagnostics
 title: Use diagnostic survey results to craft an evidence-based school narrative and action plan
 description: The article recommends that after reviewing 5Essentials diagnostic results, school stakeholders jointly build an evidence-based account of their school.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

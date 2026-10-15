@@ -4,7 +4,7 @@ id: nao-humanoid-robot-with-choregraphe-programming-environment
 title: NAO humanoid robot with Choregraphe programming environment
 description: "SoftBank Robotics' NAO humanoid robot and Choregraphe visual programming environment enable developers to create multimodal behaviors using voice, vision, touch, and movement for educational and other applications."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

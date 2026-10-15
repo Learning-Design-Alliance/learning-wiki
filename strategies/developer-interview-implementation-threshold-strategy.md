@@ -3,7 +3,7 @@ type: strategy
 id: developer-interview-implementation-threshold-strategy
 title: Establish program-specific implementation thresholds through curriculum review and structured developer interviews
 description: "The study's strategy for defining fidelity begins with an expert review of student and teacher materials across structure, intended classroom interactions, and curriculum-embedded educative features, entered into a co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

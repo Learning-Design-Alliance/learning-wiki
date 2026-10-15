@@ -3,7 +3,7 @@ type: claim
 title: "A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention"
 description: "A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention"
 id: woot-math-rct-adaptivity-significant-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

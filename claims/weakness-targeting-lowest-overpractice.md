@@ -3,7 +3,7 @@ type: claim
 title: Weakness Targeting and Maximize Usual Case Improvement yield the lowest overpractice among unconstrained strategies in the equation-solving dataset
 description: Weakness Targeting and Maximize Usual Case Improvement yield the lowest overpractice among unconstrained strategies in the equation-solving dataset
 id: weakness-targeting-lowest-overpractice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

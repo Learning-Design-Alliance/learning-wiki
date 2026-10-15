@@ -3,7 +3,7 @@ type: claim
 title: HSGPA has a strong, positive relationship with college graduation that does not vary significantly in its linear slope across high schools
 description: HSGPA has a strong, positive relationship with college graduation that does not vary significantly in its linear slope across high schools
 id: hsgpa-strong-consistent-predictor-college-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

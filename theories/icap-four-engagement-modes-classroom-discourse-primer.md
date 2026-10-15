@@ -2,7 +2,7 @@
 type: theory
 title: "ICAP framework: four engagement modes from Interactive to Passive"
 description: The primer introduces the ICAP framework as a way of categorizing how students engage in learning activities based on observable behaviors.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Elementary schools with high poverty and high suspension rates have higher grade retention odds among similar-achieving students
 description: Elementary schools with high poverty and high suspension rates have higher grade retention odds among similar-achieving students
 id: elementary-school-poverty-suspension-retention-odds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

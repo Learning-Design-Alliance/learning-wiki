@@ -3,7 +3,7 @@ type: claim
 title: "Bundling multiple interventions is associated with relatively strong effects on developmental students' outcomes"
 description: "Bundling multiple interventions is associated with relatively strong effects on developmental students' outcomes"
 id: bundling-interventions-stronger-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

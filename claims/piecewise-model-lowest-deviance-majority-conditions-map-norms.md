@@ -3,7 +3,7 @@ type: claim
 title: "Across 90 grade-subject-level conditions, the three-piece piecewise model showed the lowest deviance for 64% of student-level and 78% of school-level models, outperforming both compound polynomial candidates"
 description: "Across 90 grade-subject-level conditions, the three-piece piecewise model showed the lowest deviance for 64% of student-level and 78% of school-level models, outperforming both compound polynomial candidates"
 id: piecewise-model-lowest-deviance-majority-conditions-map-norms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

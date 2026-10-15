@@ -3,7 +3,7 @@ type: claim
 title: "Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended"
 description: "Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended"
 id: grades-predict-enrollment-more-than-act-chicago
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In the full-sample analysis, baseline demographic and prior-achievement differences between treatment and matched comparison groups were minimal, with effect sizes below the WWC threshold
 description: In the full-sample analysis, baseline demographic and prior-achievement differences between treatment and matched comparison groups were minimal, with effect sizes below the WWC threshold
 id: air-tutors-full-sample-baseline-equivalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

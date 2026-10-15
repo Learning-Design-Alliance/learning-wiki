@@ -3,7 +3,7 @@ type: claim
 title: Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation
 description: Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation
 id: digital-competency-weakens-tac-alienation-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

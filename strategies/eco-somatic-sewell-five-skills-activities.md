@@ -3,7 +3,7 @@ type: strategy
 id: eco-somatic-sewell-five-skills-activities
 title: "Apply Sewell's five skills of ecological perception as eco-somatic listening activities"
 description: "The article translates Sewell's five skills of ecological perception—\"(1) paying attention; (2) perceiving relationships, contexts, and interfaces; (3) perceptual flexibility; (4) re-perceiving depth; and (5) using th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

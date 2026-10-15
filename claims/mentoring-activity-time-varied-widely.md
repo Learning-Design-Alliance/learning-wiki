@@ -3,7 +3,7 @@ type: claim
 title: Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month
 description: Time spent on specific mentoring activities varied widely, with some teachers never observed by mentors and others observed an hour or more a month
 id: mentoring-activity-time-varied-widely
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

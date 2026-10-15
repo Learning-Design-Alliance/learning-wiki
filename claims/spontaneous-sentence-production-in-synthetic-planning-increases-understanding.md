@@ -2,7 +2,7 @@
 type: claim
 title: "In one keystroke-logging study, spontaneous sentence production under minimal planning is associated with gains in writers' self-rated understanding and with lower initial text quality"
 id: spontaneous-sentence-production-in-synthetic-planning-increases-understanding
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

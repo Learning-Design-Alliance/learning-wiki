@@ -3,7 +3,7 @@ type: strategy
 id: backward-design-concept-column-first
 title: "Use backward design: complete the concept column first, mapping prior-knowledge, connecting, and application concepts before planning activities"
 description: In the Montebello project, teachers used a form of backward design (DiRanna et al., 2008) by beginning lesson designs with the concept column.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

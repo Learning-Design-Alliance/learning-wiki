@@ -3,7 +3,7 @@ type: claim
 title: Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access
 description: Inclusion of students with disabilities often falls short because efforts start from a place of exclusion, making students guests who must earn access
 id: disability-inclusion-starts-from-exclusion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

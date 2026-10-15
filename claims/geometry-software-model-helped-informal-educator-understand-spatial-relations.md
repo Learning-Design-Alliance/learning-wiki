@@ -3,7 +3,7 @@ type: claim
 title: A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations
 description: A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations
 id: geometry-software-model-helped-informal-educator-understand-spatial-relations
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -2,7 +2,7 @@
 type: theory
 title: A procedural goals-methods-facilities model for planning science facilities
 description: The paper presents a procedural model in which educational specifications are drafted by first defining goals, then determining instructional methods, then specifying facilities and services.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

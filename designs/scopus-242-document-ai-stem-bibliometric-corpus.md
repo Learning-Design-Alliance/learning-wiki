@@ -3,7 +3,7 @@ type: design
 id: scopus-242-document-ai-stem-bibliometric-corpus
 title: Scopus-derived 242-document bibliometric corpus and VOSviewer analysis pipeline for AI in STEM education (2015–2025)
 description: "The study's analytical dataset and pipeline: a Scopus search combining STEM terms, AI terms (AI, AI-Agent, GPT, LLM), and education terms over 2015–2025, English-language, yielding 2,146 documents (2,125 after dedupli..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

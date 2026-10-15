@@ -3,7 +3,7 @@ type: research-method
 id: two-metric-turn-level-evaluation-of-chatbot-scaffolding-and-student-uptake
 title: Two-metric turn-level evaluation of chatbot scaffolding and student uptake
 description: An evaluation pipeline that scores both sides of student-chatbot interactions at the turn level.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

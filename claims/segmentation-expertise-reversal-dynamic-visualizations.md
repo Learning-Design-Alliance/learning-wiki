@@ -3,7 +3,7 @@ type: claim
 title: "Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation"
 description: "Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation"
 id: segmentation-expertise-reversal-dynamic-visualizations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

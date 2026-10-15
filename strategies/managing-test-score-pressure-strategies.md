@@ -3,7 +3,7 @@ type: strategy
 id: managing-test-score-pressure-strategies
 title: Principals manage test-score pressure through targeted improvement, instructional coherence, and maximizing uninterrupted instructional time
 description: "Interviewed CPS principals described three ways of managing pressure to raise test scores: targeted improvement based on assessment data, increasing the coherence of instructional materials, and maximizing uninterrupt..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

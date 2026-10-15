@@ -4,7 +4,7 @@ id: hoot-reading
 title: Hoot Reading
 description: Hoot Reading is a proprietary-platform, video-based one-to-one literacy tutoring programme delivered by trained Hoot Reading teachers in partnership with schools and districts.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

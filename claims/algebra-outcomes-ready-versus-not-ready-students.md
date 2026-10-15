@@ -3,7 +3,7 @@ type: claim
 title: The brief examines how outcomes were affected for students who were or were not ready for 8th-grade Algebra
 description: The brief examines how outcomes were affected for students who were or were not ready for 8th-grade Algebra
 id: algebra-outcomes-ready-versus-not-ready-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

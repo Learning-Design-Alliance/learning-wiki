@@ -3,7 +3,7 @@ type: strategy
 id: sustainable-coordinator-funding-and-technical-assistance-strategy
 title: Provide sustainable, dedicated funding for community school coordinators plus technical assistance and capacity-building
 description: "The brief recommends that states provide \"a sustainable, long-term, dedicated funding stream for the coordinator position,\" noting some states put such staffing allocations into the formula for all high-poverty schools."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

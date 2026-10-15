@@ -3,7 +3,7 @@ type: strategy
 id: dedicated-informal-learning-survey-design
 title: Survey research on informal learning should use dedicated framing questions that prompt reflection before asking about learning activities
 description: The paper recommends that future survey research on informal learning establish benchmarks of the general incidence, basic contents and modes, and differential patterns of intentional informal learning.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

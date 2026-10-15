@@ -3,7 +3,7 @@ type: claim
 title: "OLI statistics students completed the semester's material in approximately half the regularly scheduled time"
 description: "OLI statistics students completed the semester's material in approximately half the regularly scheduled time"
 id: oli-accelerated-completion-half-semester-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

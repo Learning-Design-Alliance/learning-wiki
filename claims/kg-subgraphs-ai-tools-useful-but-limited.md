@@ -3,7 +3,7 @@ type: claim
 title: Retrieved knowledge-graph subgraphs suggest dyslexic learners perceive existing AI tools as useful but still limited
 description: Retrieved knowledge-graph subgraphs suggest dyslexic learners perceive existing AI tools as useful but still limited
 id: kg-subgraphs-ai-tools-useful-but-limited
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

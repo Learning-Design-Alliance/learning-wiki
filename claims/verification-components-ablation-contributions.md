@@ -3,7 +3,7 @@ type: claim
 title: "Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly"
 description: "Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly"
 id: verification-components-ablation-contributions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Prior chatbot exposure rather than general technological literacy is associated with willingness to use chatbots
 description: Prior chatbot exposure rather than general technological literacy is associated with willingness to use chatbots
 id: prior-ai-exposure-predicts-chatbot-uptake
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

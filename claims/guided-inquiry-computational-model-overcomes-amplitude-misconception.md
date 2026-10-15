@@ -3,7 +3,7 @@ type: claim
 title: A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students predict increasing gravitational-wave frequency, but only about half predicted increasing amplitude
 description: A demonstration-plus-guided-inquiry-plus-computational-model sequence helped most students predict increasing gravitational-wave frequency, but only about half predicted increasing amplitude
 id: guided-inquiry-computational-model-overcomes-amplitude-misconception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

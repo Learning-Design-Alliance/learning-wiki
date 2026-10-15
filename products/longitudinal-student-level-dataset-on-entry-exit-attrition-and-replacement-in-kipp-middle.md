@@ -4,7 +4,7 @@ id: longitudinal-student-level-dataset-on-entry-exit-attrition-and-replacement-i
 title: Longitudinal student-level dataset on entry, exit, attrition, and replacement in KIPP middle schools
 description: A longitudinal student-level dataset assembled by Ira Nichols-Barrer and colleagues to track entry, exit, attrition, and replacement in KIPP middle schools and compare student flows with nearby district-run schools.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

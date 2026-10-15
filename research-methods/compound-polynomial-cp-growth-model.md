@@ -3,7 +3,7 @@ type: research-method
 id: compound-polynomial-cp-growth-model
 title: Compound Polynomial (CP) growth model
 description: The CP model is a multilevel growth model whose design matrix combines a within-year (fall-to-spring) matrix with a between-year (spring-to-spring) polynomial matrix, so that both kinds of growth are estimated in one model.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

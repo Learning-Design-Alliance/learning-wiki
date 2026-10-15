@@ -3,7 +3,7 @@ type: claim
 title: "Undergraduate researchers' disciplinary identity differs based on the internal motivators of intellectual interest and grit"
 description: "Undergraduate researchers' disciplinary identity differs based on the internal motivators of intellectual interest and grit"
 id: disciplinary-identity-differs-by-intellectual-interest-and-grit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: District teams struggled to produce rigorous, reliable evidence for assessing their improvement work
 description: District teams struggled to produce rigorous, reliable evidence for assessing their improvement work
 id: districts-struggled-with-evidence-rigor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

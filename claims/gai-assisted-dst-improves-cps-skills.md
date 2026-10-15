@@ -3,7 +3,7 @@ type: claim
 title: GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students
 description: GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students
 id: gai-assisted-dst-improves-cps-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

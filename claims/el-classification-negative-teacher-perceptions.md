@@ -3,7 +3,7 @@ type: claim
 title: "English Learner classification in kindergarten negatively impacts teachers' perceptions of students' academic abilities, with a reduced negative effect in bilingual classroom settings"
 description: "English Learner classification in kindergarten negatively impacts teachers' perceptions of students' academic abilities, with a reduced negative effect in bilingual classroom settings"
 id: el-classification-negative-teacher-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

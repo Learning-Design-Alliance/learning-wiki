@@ -3,7 +3,7 @@ type: research-method
 id: five-level-scaffolding-scale-for-measuring-the-directness-of-assistance-in-llm-tutoring-re
 title: Five-level scaffolding scale for measuring the directness of assistance in LLM tutoring responses
 description: "The article operationalizes scaffolding as a five-level ordinal scale characterizing LLM responses by the amount of assistance they provide: L0 Minimal, L1 Prompting, L2 Hinting, L3 Explaining, and L4 Solving, where \"Higher levels provide more directly usable assistance and leave less of the task fo"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

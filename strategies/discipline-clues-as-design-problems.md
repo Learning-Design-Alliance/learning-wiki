@@ -3,7 +3,7 @@ type: strategy
 id: discipline-clues-as-design-problems
 title: Use discipline-specific clues as design problems to foster analyze and evaluate steps
 description: The article recommends selecting clues from different disciplines each week and requiring students to analyze them before creating original designs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

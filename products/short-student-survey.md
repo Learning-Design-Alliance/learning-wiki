@@ -4,7 +4,7 @@ id: short-student-survey
 title: Short student survey
 description: A study-specific student questionnaire created and administered by the evaluation team to measure mathematical experiences, belonging, self-efficacy, and perceptions of instructional implementation.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

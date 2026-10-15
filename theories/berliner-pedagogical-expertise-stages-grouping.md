@@ -2,7 +2,7 @@
 type: theory
 title: "Berliner's stages of pedagogical expertise development as a grouping framework for teacher expertise research"
 description: "The article applies Berliner's (1988) proposed model of pedagogical expertise development as a cross-sectional framework for grouping teachers by expertise stage."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Cross-sectional studies associate dependence-oriented conversational-AI scores with fatigue, lower critical thinking, procrastination, cognitive failures, and poorer well-being
 description: Cross-sectional studies associate dependence-oriented conversational-AI scores with fatigue, lower critical thinking, procrastination, cognitive failures, and poorer well-being
 id: cross-sectional-dependence-scores-correlate-fatigue-critical-thinking-wellbeing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

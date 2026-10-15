@@ -3,7 +3,7 @@ type: research-method
 id: eight-category-content-coding-framework-for-data-literacy-professional-development-materia
 title: Eight-category content coding framework for data-literacy professional development materials
 description: The materials analysis produced a coding framework for the knowledge and skills addressed by professional development texts on data use.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

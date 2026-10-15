@@ -3,7 +3,7 @@ type: claim
 title: "Racial disparities in TPA pass rates appear in low-performing programs but not in programs with passing rates above 90%"
 description: "Racial disparities in TPA pass rates appear in low-performing programs but not in programs with passing rates above 90%"
 id: racial-disparities-vary-with-program-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

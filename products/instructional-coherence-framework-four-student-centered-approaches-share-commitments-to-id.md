@@ -4,7 +4,7 @@ id: instructional-coherence-framework-four-student-centered-approaches-share-com
 title: "Instructional coherence framework: four student-centered approaches share commitments to identity, agency, equity, and community"
 description: A framework developed by Browning et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

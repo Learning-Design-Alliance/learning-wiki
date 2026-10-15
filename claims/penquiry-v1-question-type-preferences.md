@@ -3,7 +3,7 @@ type: claim
 title: In Study 1, learners preferred Penquiry V1 for part-scoped, specific-target and short questions, and favored the baseline for general topics and longer interpretive questions
 description: In Study 1, learners preferred Penquiry V1 for part-scoped, specific-target and short questions, and favored the baseline for general topics and longer interpretive questions
 id: penquiry-v1-question-type-preferences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

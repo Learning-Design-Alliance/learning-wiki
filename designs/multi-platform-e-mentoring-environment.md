@@ -3,7 +3,7 @@ type: design
 id: multi-platform-e-mentoring-environment
 title: Multi-platform e-mentoring environment (Google Classroom, Nearpod, Facebook, Padlet) with distinct pedagogical functions
 description: "The intervention combined four digital platforms, each with a distinct function: 'Google Classroom functioned as the main organizational platform through which participants accessed weekly tasks, instructional videos,..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

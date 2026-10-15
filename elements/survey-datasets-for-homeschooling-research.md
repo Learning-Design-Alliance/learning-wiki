@@ -3,7 +3,7 @@ type: element
 id: survey-datasets-for-homeschooling-research
 title: Nationally representative survey data sets for studying homeschooling (NHES, NSCH, state data)
 description: "The chapter assembles and describes survey data sources for homeschooling research, focusing \"principally on nationally representative cross-sections of U.S."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

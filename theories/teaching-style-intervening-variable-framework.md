@@ -2,7 +2,7 @@
 type: theory
 title: Teaching style as a relatively stable construct, measurable in variations of approach rather than content or methodology, intervening between inputs and outputs
 description: "The article defines teaching style as \"measurable variations in approaches used in teaching, rather than what is taught or, strictly speaking, the methodology used.\" Style is postulated to remain relatively constant f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: GPS-supported mobile language learning outside the classroom lets students integrate classroom knowledge with authentic daily-life needs
 description: GPS-supported mobile language learning outside the classroom lets students integrate classroom knowledge with authentic daily-life needs
 id: gps-mobile-learning-integrates-classroom-and-daily-life
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

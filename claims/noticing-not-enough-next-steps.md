@@ -3,7 +3,7 @@ type: claim
 title: "A practitioner brief, citing Heritage (2009), reports that teachers who can identify a stage of student learning cannot necessarily identify the next instructional steps"
 description: A practitioner brief, citing Heritage (2009), reports that teachers who can identify a stage of student learning cannot necessarily identify the next instructional steps
 id: noticing-not-enough-next-steps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

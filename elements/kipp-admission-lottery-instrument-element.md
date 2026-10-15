@@ -3,7 +3,7 @@ type: element
 id: kipp-admission-lottery-instrument-element
 title: KIPP middle school admission lotteries as a random assignment instrument for estimating long-term charter impacts
 description: "The study uses oversubscribed KIPP middle school admission lotteries as \"a random assignment instrument\" to estimate causal impacts of attendance on college outcomes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

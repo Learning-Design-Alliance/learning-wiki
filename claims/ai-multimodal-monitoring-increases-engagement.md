@@ -3,7 +3,7 @@ type: claim
 title: AI-powered multimodal approaches tracking emotional and physiological responses increase student engagement and motivation in collaborative learning
 description: AI-powered multimodal approaches tracking emotional and physiological responses increase student engagement and motivation in collaborative learning
 id: ai-multimodal-monitoring-increases-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

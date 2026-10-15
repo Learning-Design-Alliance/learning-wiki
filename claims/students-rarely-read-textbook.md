@@ -3,7 +3,7 @@ type: claim
 title: Students report rarely reading their physics textbooks, with half claiming never to have used it in an entire semester
 description: Students report rarely reading their physics textbooks, with half claiming never to have used it in an entire semester
 id: students-rarely-read-textbook
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

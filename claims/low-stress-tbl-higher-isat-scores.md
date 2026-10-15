@@ -3,7 +3,7 @@ type: claim
 title: "Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts"
 description: "Dental students in a revised low-stress TBL format scored higher on the individual summative assessment (iSAT) than medical students in the original high-stakes format, in a non-randomised comparison of two cohorts"
 id: low-stress-tbl-higher-isat-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

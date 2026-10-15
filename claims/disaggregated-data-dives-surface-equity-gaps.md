@@ -3,7 +3,7 @@ type: claim
 title: Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty
 description: Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty
 id: disaggregated-data-dives-surface-equity-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

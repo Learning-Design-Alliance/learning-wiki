@@ -3,7 +3,7 @@ type: claim
 title: "The on-track indicator is strongly related to students' likelihood of graduating"
 description: "The on-track indicator is strongly related to students' likelihood of graduating"
 id: on-track-indicator-related-to-graduation-likelihood
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

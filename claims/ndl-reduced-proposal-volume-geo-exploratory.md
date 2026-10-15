@@ -3,7 +3,7 @@ type: claim
 title: In exploratory synthetic control analyses, two GEO no-deadlines programs received 120 to 130 fewer proposals relative to their synthetic counterfactuals
 description: In exploratory synthetic control analyses, two GEO no-deadlines programs received 120 to 130 fewer proposals relative to their synthetic counterfactuals
 id: ndl-reduced-proposal-volume-geo-exploratory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

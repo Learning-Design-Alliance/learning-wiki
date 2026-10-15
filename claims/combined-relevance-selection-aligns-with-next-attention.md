@@ -3,7 +3,7 @@ type: claim
 title: "In offline validation, combined relevance-based secondary-AOI selection matched children's next attended AOI more often than random or single-distance selection"
 description: "In offline validation, combined relevance-based secondary-AOI selection matched children's next attended AOI more often than random or single-distance selection"
 id: combined-relevance-selection-aligns-with-next-attention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

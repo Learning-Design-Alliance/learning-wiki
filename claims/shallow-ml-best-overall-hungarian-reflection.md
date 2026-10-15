@@ -3,7 +3,7 @@ type: claim
 title: Shallow machine learning with SMOTE oversampling and Qwen3 embeddings achieves the best overall reflection-classification performance (0.7176) on Hungarian essays
 description: Shallow machine learning with SMOTE oversampling and Qwen3 embeddings achieves the best overall reflection-classification performance (0.7176) on Hungarian essays
 id: shallow-ml-best-overall-hungarian-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

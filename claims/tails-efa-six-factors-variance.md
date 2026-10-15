@@ -3,7 +3,7 @@ type: claim
 title: "Exploratory factor analysis identifies six factors aligned with the ED-AI framework, explaining 63.965% of total variance"
 description: "Exploratory factor analysis identifies six factors aligned with the ED-AI framework, explaining 63.965% of total variance"
 id: tails-efa-six-factors-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

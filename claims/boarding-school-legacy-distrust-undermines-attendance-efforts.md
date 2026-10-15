@@ -3,7 +3,7 @@ type: claim
 title: Historical legacy of boarding schools and biased attendance responses deepen generational distrust that undermines attendance partnerships with AI/AN families
 description: Historical legacy of boarding schools and biased attendance responses deepen generational distrust that undermines attendance partnerships with AI/AN families
 id: boarding-school-legacy-distrust-undermines-attendance-efforts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: my-reading-academy
 title: My Reading Academy
 description: My Reading Academy is an adaptive game-based foundational reading curriculum for pre-K through grade 2, providing phonemic-awareness, phonics, vocabulary, fluency, and comprehension instruction.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

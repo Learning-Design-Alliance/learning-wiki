@@ -3,7 +3,7 @@ type: claim
 title: Academy graduates report feeling more empowered and staying on the job longer
 description: Academy graduates report feeling more empowered and staying on the job longer
 id: academy-graduates-empowered-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

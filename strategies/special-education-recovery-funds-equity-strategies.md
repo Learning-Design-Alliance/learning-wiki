@@ -3,7 +3,7 @@ type: strategy
 id: special-education-recovery-funds-equity-strategies
 title: Direct Special Education Learning Recovery Support funds to equitable supports for students with disabilities, with bias training and diverse curriculum review
 description: "For special education, learning recovery, and SELPA needs, the brief directs that funds 'enable all educators to provide learning recovery support for pupils with disabilities and to provide adequate support to neurod..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

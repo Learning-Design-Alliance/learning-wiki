@@ -4,7 +4,7 @@ title: The DC school reforms were associated with larger than expected improveme
 description: The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress
 id: dc-reforms-larger-expected-grade4-math-reading-naep-gains
 aliases: [dc-reforms-larger-expected-grade4-math-reading-naep]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

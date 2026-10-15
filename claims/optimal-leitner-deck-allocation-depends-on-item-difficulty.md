@@ -3,7 +3,7 @@ type: claim
 title: Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.
 description: Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.
 id: optimal-leitner-deck-allocation-depends-on-item-difficulty
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

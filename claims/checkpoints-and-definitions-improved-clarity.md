@@ -3,7 +3,7 @@ type: claim
 title: Definitions, checkpoints, and staged pacing improved conceptual clarity for novice programmers
 description: Definitions, checkpoints, and staged pacing improved conceptual clarity for novice programmers
 id: checkpoints-and-definitions-improved-clarity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers
 description: Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers
 id: perry-street-teacher-retention-talent-reforms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

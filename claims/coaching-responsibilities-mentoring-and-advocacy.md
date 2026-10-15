@@ -3,7 +3,7 @@ type: claim
 title: "Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy"
 description: "Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy"
 id: coaching-responsibilities-mentoring-and-advocacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

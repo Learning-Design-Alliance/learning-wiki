@@ -3,7 +3,7 @@ type: strategy
 id: mindfulness-review-include-unpublished-feasibility
 title: Include unpublished studies and feasibility data when reviewing school mindfulness research
 description: "The review recommends that future syntheses of school-based mindfulness research locate both published and unpublished studies (e.g., doctoral theses), since these \"often contain supplementary information that could b..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

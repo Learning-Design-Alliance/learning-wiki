@@ -3,7 +3,7 @@ type: claim
 title: LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes
 description: LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes
 id: lora-improves-reference-answer-similarity-control-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

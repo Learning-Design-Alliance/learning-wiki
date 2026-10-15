@@ -3,7 +3,7 @@ type: strategy
 id: comprehensive-support-programs-completion-fund
 title: Fund comprehensive support programs combining direct financial, academic, and personal supports to improve completion for underserved students
 description: "The report recommends a new federal fund offering grants that support the development, evaluation, and scaling of completion strategies, including \"comprehensive support programs that provide direct financial, academi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

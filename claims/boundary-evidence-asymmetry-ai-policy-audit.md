@@ -3,7 +3,7 @@ type: claim
 title: University AI policies score higher on delegation boundaries than on evidence standards
 description: University AI policies score higher on delegation boundaries than on evidence standards
 id: boundary-evidence-asymmetry-ai-policy-audit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

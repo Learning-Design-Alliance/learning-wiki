@@ -3,7 +3,7 @@ type: claim
 title: "Practitioners most often name students with disabilities (37.4%) and multilingual learners (31.0%) as groups experiencing equity challenges with OpenSciEd."
 description: "Practitioners most often name students with disabilities (37.4%) and multilingual learners (31.0%) as groups experiencing equity challenges with OpenSciEd."
 id: openscied-equity-challenges-swd-and-mls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

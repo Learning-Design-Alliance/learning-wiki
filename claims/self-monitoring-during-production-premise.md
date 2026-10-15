@@ -3,7 +3,7 @@ type: claim
 title: Students can only improve if they develop the capacity to monitor the quality of their own work during actual production
 description: Students can only improve if they develop the capacity to monitor the quality of their own work during actual production
 id: self-monitoring-during-production-premise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

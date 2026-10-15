@@ -3,7 +3,7 @@ type: claim
 title: On benchmarks, GPT-3.5-turbo outperformed the fine-tuned Phi model in knowledge and story completion, while PhinetunEd scored best in story generation
 description: On benchmarks, GPT-3.5-turbo outperformed the fine-tuned Phi model in knowledge and story completion, while PhinetunEd scored best in story generation
 id: phinetuned-benchmark-comparison-gpt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories
 description: Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories
 id: genai-tools-multipurpose-multiple-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -4,7 +4,7 @@ title: "Reviews report that the split-attention benefit for novices reverses int
 description: Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners, citing Kalyuga et al. (1998) and Yeung et al. (1998)
 id: expertise-reversal-split-attention-redundancy-review
 aliases: [expertise-reversal-limits-contiguity-benefits]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

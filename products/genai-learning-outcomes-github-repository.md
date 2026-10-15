@@ -4,7 +4,7 @@ id: genai-learning-outcomes-github-repository
 title: GenAI-Learning-Outcomes GitHub repository
 description: A repository released by Jingwei Yi et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

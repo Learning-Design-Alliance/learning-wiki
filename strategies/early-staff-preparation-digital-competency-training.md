@@ -3,7 +3,7 @@ type: strategy
 id: early-staff-preparation-digital-competency-training
 title: Prepare educational staff early for digital transformation competency and train teachers to select and use appropriate communication technology tools
 description: "The article's concluding recommendation is that digital competency must be built into teacher preparation from the start: \"The competency component in digital transformation requires the preparation of educational sta..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

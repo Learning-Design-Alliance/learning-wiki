@@ -3,7 +3,7 @@ type: design
 id: assessment-resisting-unattributed-automation
 title: "Assessment without examinations: weight moved to in-class exercises, reflective writing, and a defended team project that resist unattributed automation"
 description: "This pattern rebuilds grading around tasks a language model cannot quietly ghost-write, on the bet that \"an assessment a model can silently complete is a weak assessment.\" The Spring 2026 grade comprised in-class exer..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

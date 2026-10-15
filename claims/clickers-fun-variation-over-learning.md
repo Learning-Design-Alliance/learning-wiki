@@ -3,7 +3,7 @@ type: claim
 title: "Students perceived clickers' greatest course impact as lesson variation and fun, with learning influence a distant second"
 description: "Students perceived clickers' greatest course impact as lesson variation and fun, with learning influence a distant second"
 id: clickers-fun-variation-over-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

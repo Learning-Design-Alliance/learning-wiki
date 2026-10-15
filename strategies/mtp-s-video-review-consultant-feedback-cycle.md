@@ -3,7 +3,7 @@ type: strategy
 id: mtp-s-video-review-consultant-feedback-cycle
 title: Cycle of videotaped instruction, consultant-selected segment review, and strategy conferencing
 description: "MTP-S coaching follows a recurring cycle: teachers submit videotaped sessions about twice a month; a consultant identifies brief segments for review; the teacher reviews the segments for their own behaviors and studen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

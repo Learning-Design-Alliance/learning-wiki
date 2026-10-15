@@ -3,7 +3,7 @@ type: claim
 title: "Mental effort and study time increase with a topic's element interactivity level, making them indicators of element interactivity"
 description: "Mental effort and study time increase with a topic's element interactivity level, making them indicators of element interactivity"
 id: mental-effort-study-time-indicate-element-interactivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

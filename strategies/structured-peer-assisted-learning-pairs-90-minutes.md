@@ -3,7 +3,7 @@ type: strategy
 id: structured-peer-assisted-learning-pairs-90-minutes
 title: Schedule about 90 minutes a week of structured peer-assisted learning in which pairs of students at different ability or proficiency levels work together on academic tasks
 description: "The guide's fifth recommendation, graded Strong, asks teachers of English learners to devote approximately 90 minutes a week to instructional activities in which pairs of students at different ability levels or differ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: More than one-half of Intensive Support students did not graduate high school in four years and more than 80 percent did not enroll directly in college
 description: More than one-half of Intensive Support students did not graduate high school in four years and more than 80 percent did not enroll directly in college
 id: condensed-eot-intensive-support-low-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

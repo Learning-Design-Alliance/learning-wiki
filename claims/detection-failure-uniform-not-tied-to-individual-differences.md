@@ -3,7 +3,7 @@ type: claim
 title: Chance-level identity discrimination is uniform across participants and not associated with AI literacy, personality, or demographics
 description: Chance-level identity discrimination is uniform across participants and not associated with AI literacy, personality, or demographics
 id: detection-failure-uniform-not-tied-to-individual-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

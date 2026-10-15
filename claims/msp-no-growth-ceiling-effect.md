@@ -3,7 +3,7 @@ type: claim
 title: "Modeling and Simulation Practices showed no measurable growth, attributed to a ceiling effect from students' high prior knowledge"
 description: "Modeling and Simulation Practices showed no measurable growth, attributed to a ceiling effect from students' high prior knowledge"
 id: msp-no-growth-ceiling-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

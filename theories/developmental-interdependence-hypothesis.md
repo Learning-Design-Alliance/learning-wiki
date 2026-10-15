@@ -3,7 +3,7 @@ type: theory
 title: "The developmental interdependence hypothesis: L2 competence depends partly on L1 competence at the onset of intensive L2 exposure"
 description: "The developmental interdependence hypothesis is the paper's central explanatory account of how first-language (L1) and second-language (L2) skills relate across development."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

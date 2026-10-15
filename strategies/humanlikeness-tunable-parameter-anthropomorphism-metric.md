@@ -3,7 +3,7 @@ type: strategy
 id: humanlikeness-tunable-parameter-anthropomorphism-metric
 title: Treat humanlikeness as a tunable design parameter and anthropomorphism as an evaluation metric
 description: "The review recommends that once the constructs are distinguished, designers can \"intentionally manipulating humanlike features of robots\" to systematically amplify or attenuate attribution of specific human qualities..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

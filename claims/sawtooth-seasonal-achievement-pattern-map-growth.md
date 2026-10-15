@@ -3,7 +3,7 @@ type: claim
 title: Mean achievement in the studied cohort shows a saw-tooth seasonal pattern, with within-year gains followed by summer declines (summer learning loss)
 description: Mean achievement in the studied cohort shows a saw-tooth seasonal pattern, with within-year gains followed by summer declines (summer learning loss)
 id: sawtooth-seasonal-achievement-pattern-map-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

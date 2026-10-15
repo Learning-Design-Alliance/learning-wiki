@@ -3,7 +3,7 @@ type: claim
 title: Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias
 description: Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias
 id: ai-nursing-education-risks-inequity-ethics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

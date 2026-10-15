@@ -3,7 +3,7 @@ type: claim
 title: Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest
 description: Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest
 id: incidental-vocabulary-retention-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

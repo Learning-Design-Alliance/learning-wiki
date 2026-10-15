@@ -3,7 +3,7 @@ type: claim
 title: "A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts"
 description: "A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts"
 id: ail-theory-practice-gap-he-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

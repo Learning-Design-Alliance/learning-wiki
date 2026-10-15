@@ -3,7 +3,7 @@ type: claim
 title: "New Mexico charter students' reading advantage emerges in the third year of enrollment, while math growth does not differ by years enrolled"
 description: "New Mexico charter students' reading advantage emerges in the third year of enrollment, while math growth does not differ by years enrolled"
 id: nm-charter-third-year-reading-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "CF effectiveness is mediated by multiple variables, including linguistic targets and learners' age"
 description: "CF effectiveness is mediated by multiple variables, including linguistic targets and learners' age"
 id: cf-effectiveness-mediated-by-linguistic-targets-and-age
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

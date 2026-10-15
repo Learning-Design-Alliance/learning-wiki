@@ -3,7 +3,7 @@ type: claim
 title: Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy
 description: Novice clinical learners show pervasive metacognitive calibration deficits, with overestimated performance and confidence exceeding accuracy
 id: novice-metacognitive-calibration-deficits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

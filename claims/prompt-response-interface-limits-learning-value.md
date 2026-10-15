@@ -3,7 +3,7 @@ type: claim
 title: Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs
 description: Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs
 id: prompt-response-interface-limits-learning-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)
 description: At a 1-day test delay, interleaved practice yields a moderate benefit over blocked practice (d = 0.42)
 id: interleaved-benefit-one-day-delay-d042
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

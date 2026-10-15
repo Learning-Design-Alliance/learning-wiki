@@ -3,7 +3,7 @@ type: strategy
 id: small-initial-block-then-interleave
 title: Include a small block of problems of a new skill at the start of an assignment, then interleave the rest
 description: "The authors state the findings \"do not suggest that blocked practice be avoided entirely\" and that \"a small block of problems might be optimal, especially at the outset of an assignment given immediately after student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

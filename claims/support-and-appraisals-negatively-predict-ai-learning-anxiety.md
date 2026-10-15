@@ -3,7 +3,7 @@ type: claim
 title: Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety
 description: Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety
 id: support-and-appraisals-negatively-predict-ai-learning-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Parents want more academic interaction with high schools, but schools focus communication on rules and problems
 description: Parents want more academic interaction with high schools, but schools focus communication on rules and problems
 id: parents-want-academic-interaction-schools-focus-rules
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: multi-payer-school-linked-fee-schedule
 title: Multi-Payer School-Linked Fee Schedule
 description: A California optional programme administered through Carelon that enables enrolled local educational agencies and designated school-linked providers to obtain reimbursement from commercial and Medi-Cal managed care plans for student mental health and substance use disorder services.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

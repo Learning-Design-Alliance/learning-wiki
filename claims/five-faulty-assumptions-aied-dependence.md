@@ -3,7 +3,7 @@ type: claim
 title: Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing
 description: Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing
 id: five-faulty-assumptions-aied-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

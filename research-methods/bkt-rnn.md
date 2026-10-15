@@ -3,7 +3,7 @@ type: research-method
 id: bkt-rnn
 title: BKT RNN
 description: "The BKT RNN is a PyTorch recurrent neural network layer whose cell dynamics exactly implement BKT's hidden Markov model forward algorithm, making the model fully differentiable and trainable with stochastic gradient descent on GPUs."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

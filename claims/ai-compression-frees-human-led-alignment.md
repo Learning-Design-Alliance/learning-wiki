@@ -3,7 +3,7 @@ type: claim
 title: AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment
 description: AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment
 id: ai-compression-frees-human-led-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

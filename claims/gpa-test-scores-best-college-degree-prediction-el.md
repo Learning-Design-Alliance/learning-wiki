@@ -3,7 +3,7 @@ type: claim
 title: GPA combined with test scores was the best prediction of college degree attainment for all English Learner groups, but the test-score relationship partly reflects school composition
 description: GPA combined with test scores was the best prediction of college degree attainment for all English Learner groups, but the test-score relationship partly reflects school composition
 id: gpa-test-scores-best-college-degree-prediction-el
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

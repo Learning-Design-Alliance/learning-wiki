@@ -3,7 +3,7 @@ type: claim
 title: "Student teachers' teaching efficacy follows a dip trajectory: it rises during on-campus preparation, falls to its lowest point at the midpoint of student teaching, and rebounds by the end"
 description: "Student teachers' teaching efficacy follows a dip trajectory: it rises during on-campus preparation, falls to its lowest point at the midpoint of student teaching, and rebounds by the end"
 id: efficacy-dips-midpoint-student-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

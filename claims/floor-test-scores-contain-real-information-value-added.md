@@ -3,7 +3,7 @@ type: claim
 title: "Test scores at the floor of a test's score scale contain real information about students' performance, so floor scores do not distort teacher value-added estimates"
 description: "Test scores at the floor of a test's score scale contain real information about students' performance, so floor scores do not distort teacher value-added estimates"
 id: floor-test-scores-contain-real-information-value-added
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

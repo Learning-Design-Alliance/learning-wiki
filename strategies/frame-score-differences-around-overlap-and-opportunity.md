@@ -3,7 +3,7 @@ type: strategy
 id: frame-score-differences-around-overlap-and-opportunity
 title: Frame subgroup score discussions around subgroup overlap and access to opportunity
 description: "The guide's second recommendation urges leaders to highlight that subgroup memberships overlap and that scores reflect lived educational opportunities shaped by systemic inequities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: More of the variance in linear growth lies at the school level for fall-to-spring than for spring-to-spring estimates, in some cases twice or three times as much
 description: More of the variance in linear growth lies at the school level for fall-to-spring than for spring-to-spring estimates, in some cases twice or three times as much
 id: more-school-level-variance-fall-to-spring-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

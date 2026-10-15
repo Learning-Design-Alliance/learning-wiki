@@ -3,7 +3,7 @@ type: design
 id: three-facilitation-roles-stem-plcs
 title: Three facilitation roles for STEM learning teams
 description: "Drawing on research the synthesis cites, facilitators of STEM learning teams fulfill three distinct roles: \"facilitating knowledge, including helping to find relevant STEM or STEM education expertise if/as needed; pro..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

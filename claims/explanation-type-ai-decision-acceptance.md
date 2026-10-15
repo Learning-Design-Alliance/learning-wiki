@@ -3,7 +3,7 @@ type: claim
 title: User acceptance of AI-driven decisions depends on explanation type, with sensitivity-analysis and certification explanations increasing acceptance
 description: User acceptance of AI-driven decisions depends on explanation type, with sensitivity-analysis and certification explanations increasing acceptance
 id: explanation-type-ai-decision-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: LearnLens reduces teacher feedback time, with half of teachers previously spending 10–30 minutes per assignment versus a median below 5 minutes with the system
 description: LearnLens reduces teacher feedback time, with half of teachers previously spending 10–30 minutes per assignment versus a median below 5 minutes with the system
 id: learnlens-reduces-teacher-feedback-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

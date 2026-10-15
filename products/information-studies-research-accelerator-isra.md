@@ -4,7 +4,7 @@ id: information-studies-research-accelerator-isra
 title: Information Studies Research Accelerator (ISRA)
 description: A first-year residential living-learning community programme run by its host institution to introduce undergraduate students to information studies research.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

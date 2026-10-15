@@ -4,7 +4,7 @@ id: five-year-longitudinal-cohort-dataset-of-4228-students-assessed-up-to-three-
 title: Five-year longitudinal cohort dataset of 4,228 students assessed up to three times per year comparing ever-SPED and never-SPED growth
 description: A research dataset assembled and analyzed by Angela Johnson (2021) that follows 4,228 students from kindergarten through fourth grade with repeated math and reading assessments to compare growth by special-education status and season.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

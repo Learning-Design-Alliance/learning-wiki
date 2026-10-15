@@ -3,7 +3,7 @@ type: claim
 title: Predicted correlates of LOA are borne out about half the time and predicted noncorrelates about 70 percent of the time
 description: Predicted correlates of LOA are borne out about half the time and predicted noncorrelates about 70 percent of the time
 id: loa-correlates-predictions-borne-out
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

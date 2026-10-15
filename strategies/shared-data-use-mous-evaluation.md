@@ -3,7 +3,7 @@ type: strategy
 id: shared-data-use-mous-evaluation
 title: Develop data-sharing memoranda of understanding and shared evaluation across child- and family-serving agencies
 description: "The report recommends that initiatives adopt the same or similar key measures of progress and to \"Develop data-sharing memoranda of understanding (MOUs) with other child- and family-serving public agencies and organiz..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

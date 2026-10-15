@@ -3,7 +3,7 @@ type: claim
 title: Most of the lockdown learning loss reflects reduced knowledge learned rather than transitory day-of-test influences
 description: Most of the lockdown learning loss reflects reduced knowledge learned rather than transitory day-of-test influences
 id: learning-loss-reflects-knowledge-learned-not-transitory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

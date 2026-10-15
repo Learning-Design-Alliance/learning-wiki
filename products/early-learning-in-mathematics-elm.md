@@ -4,7 +4,7 @@ id: early-learning-in-mathematics-elm
 title: Early Learning in Mathematics (ELM)
 description: A kindergarten core mathematics curriculum developed for whole-class delivery, comprising 120 45-minute lessons plus daily 15-minute calendar activities.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

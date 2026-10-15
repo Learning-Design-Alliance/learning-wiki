@@ -3,7 +3,7 @@ type: claim
 title: "Retained planning units showed a higher combined strategic-plus-reflective share in think-aloud speech than in interaction logs (59.4% vs 49.5%)"
 description: "Retained planning units showed a higher combined strategic-plus-reflective share in think-aloud speech than in interaction logs (59.4% vs 49.5%)"
 id: planning-strategic-reflective-higher-think-aloud
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

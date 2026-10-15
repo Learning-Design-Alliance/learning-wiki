@@ -3,7 +3,7 @@ type: claim
 title: "Adding a listening component to China's college-entrance English exam widened the rural-urban gap in college access by roughly 30 percent, as the article reports citing Li et al."
 description: "Adding a listening component to China's college-entrance English exam widened the rural-urban gap in college access by roughly 30 percent, as the article reports citing Li et al."
 id: china-listening-exam-widened-rural-urban-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

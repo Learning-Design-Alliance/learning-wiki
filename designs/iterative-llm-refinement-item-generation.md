@@ -3,7 +3,7 @@ type: design
 id: iterative-llm-refinement-item-generation
 title: Iterative LLM refinement strategy for generating course-tailored exam questions
 description: "A two-stage generation procedure, similar to Self-Refine, in which an LLM generator produces multiple-choice questions from instructor-provided course materials and an AI judge labels each question \"good\" or \"bad\"; la..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: four-design-objectives-course-specific-ai
 title: "Four educational design objectives for course-specific AI support: course-specificity, independent learning, transparency and trust, and complementing existing teaching"
 description: "The article organises Beacon's educational design around four objectives: providing course-specific academic support aligned with module outcomes; supporting independent learning through explanations and guidance rath..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

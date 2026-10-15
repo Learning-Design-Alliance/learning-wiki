@@ -3,7 +3,7 @@ type: pattern
 id: five-core-areas-classroom-technology-use
 title: Five core areas of classroom technology use as organizing units for assessment
 description: The Toolkit structures its materials around five recurring forms of student work with technology.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

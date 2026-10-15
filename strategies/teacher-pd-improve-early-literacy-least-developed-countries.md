@@ -3,7 +3,7 @@ type: strategy
 id: teacher-pd-improve-early-literacy-least-developed-countries
 title: Use teacher PD targeting pedagogical content knowledge, research-based practices, and print environments to improve early literacy instruction quality in low-resource countries
 description: The article draws implications for improving the quality of early literacy instruction in the least developed countries from its Rwanda trial results.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

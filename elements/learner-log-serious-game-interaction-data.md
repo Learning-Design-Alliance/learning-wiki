@@ -3,7 +3,7 @@ type: element
 id: learner-log-serious-game-interaction-data
 title: Learner log capturing learner-game and learner-teacher interaction data
 description: The learner log is a proposed component of the FTS implementation that should contain information related to Learner-game and Learner-teacher interaction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: guest-speaker-interviews-returnees
 title: Have students interview study-abroad returnees to learn about living abroad first hand
 description: Students prepare interview questions—beginners supported by structured question-writing tasks such as sentence-ordering worksheets—and interview returnees about their experiences overseas.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

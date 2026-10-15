@@ -3,7 +3,7 @@ type: claim
 title: Days in the study predict rising step counts but declining intention to follow chatbot advice regardless of empathetic condition
 description: Days in the study predict rising step counts but declining intention to follow chatbot advice regardless of empathetic condition
 id: days-in-study-step-counts-up-intention-down
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

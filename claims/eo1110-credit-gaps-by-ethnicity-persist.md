@@ -3,7 +3,7 @@ type: claim
 title: Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts
 description: Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts
 id: eo1110-credit-gaps-by-ethnicity-persist
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

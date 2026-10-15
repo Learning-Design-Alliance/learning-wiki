@@ -3,7 +3,7 @@ type: claim
 title: Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control
 description: Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control
 id: twelve-together-potentially-positive-staying-in-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Children's academic achievement at kindergarten entry has declined, per the article's abstract"
 description: "Children's academic achievement at kindergarten entry has declined, per the article's abstract"
 id: declining-achievement-kindergarten-entry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

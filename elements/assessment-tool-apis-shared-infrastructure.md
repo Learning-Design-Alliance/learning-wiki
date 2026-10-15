@@ -3,7 +3,7 @@ type: element
 id: assessment-tool-apis-shared-infrastructure
 title: Application programming interfaces as shared infrastructure for automated assessment tools
 description: "The report identifies two classes of software needed for computer-based automated assessment tools: individual tool applications and application programming interfaces."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

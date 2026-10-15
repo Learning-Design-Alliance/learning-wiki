@@ -3,7 +3,7 @@ type: claim
 title: Higher overall ECERS-R classroom quality is positively correlated with Modeling of Emotional Expressiveness and total ESOS score
 description: Higher overall ECERS-R classroom quality is positively correlated with Modeling of Emotional Expressiveness and total ESOS score
 id: classroom-quality-correlates-modeling-expressiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

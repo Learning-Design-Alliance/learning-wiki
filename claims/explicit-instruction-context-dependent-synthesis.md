@@ -3,7 +3,7 @@ type: claim
 title: "Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure"
 description: "Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure"
 id: explicit-instruction-context-dependent-synthesis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

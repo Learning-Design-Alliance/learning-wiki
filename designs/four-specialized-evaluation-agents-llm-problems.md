@@ -3,7 +3,7 @@ type: design
 id: four-specialized-evaluation-agents-llm-problems
 title: Four specialized evaluation agents for LLM-generated problems
 description: "The system employs four agents that each evaluate a different dimension of generated problems: an Authenticity agent evaluating whether the context is age-appropriate and likely to be relatable for middle school learn..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

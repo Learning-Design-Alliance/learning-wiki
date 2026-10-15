@@ -3,7 +3,7 @@ type: claim
 title: TFA teachers show no discernible effects on social studies achievement, based on one study
 description: TFA teachers show no discernible effects on social studies achievement, based on one study
 id: tfa-no-discernible-social-studies-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

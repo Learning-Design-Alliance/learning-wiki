@@ -3,7 +3,7 @@ type: claim
 title: Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning
 description: Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning
 id: hypermedia-usability-problems-hinder-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: claim
 title: "In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits"
 description: "In one university's records, minority students visit a drop-in tutoring center more often than Caucasian students, while first-generation and other students do not differ in visits"
 id: minority-students-more-tutoring-visits-lower-gpas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

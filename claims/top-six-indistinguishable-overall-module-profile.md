@@ -3,7 +3,7 @@ type: claim
 title: The top six models are statistically indistinguishable on overall ELBench score yet differ substantially at the module level, so module profiles are more informative than a single aggregate
 description: The top six models are statistically indistinguishable on overall ELBench score yet differ substantially at the module level, so module profiles are more informative than a single aggregate
 id: top-six-indistinguishable-overall-module-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

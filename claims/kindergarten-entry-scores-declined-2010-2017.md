@@ -3,7 +3,7 @@ type: claim
 title: Kindergarten-entry math and reading scores were mostly flat 2010-2014 then slightly declined by 2017, with median math down about 0.24 SD and reading down 0.14 SD
 description: Kindergarten-entry math and reading scores were mostly flat 2010-2014 then slightly declined by 2017, with median math down about 0.24 SD and reading down 0.14 SD
 id: kindergarten-entry-scores-declined-2010-2017
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

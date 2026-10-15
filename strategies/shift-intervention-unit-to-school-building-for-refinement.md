@@ -3,7 +3,7 @@ type: strategy
 id: shift-intervention-unit-to-school-building-for-refinement
 title: For refinement-level use, shift the unit of intervention from the individual to the school building
 description: The article proposes that interventions facilitating movement from nonuse to routine use differ from those needed for higher Levels of Use (IVB-VI).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

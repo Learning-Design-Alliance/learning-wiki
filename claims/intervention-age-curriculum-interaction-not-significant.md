@@ -3,7 +3,7 @@ type: claim
 title: The interaction of interventions with age and curricular undertaking is not significant at the .05 level
 description: The interaction of interventions with age and curricular undertaking is not significant at the .05 level
 id: intervention-age-curriculum-interaction-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -31,7 +31,7 @@ sources:
 
 ### Bautista 2015
 
-Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
+Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40. https://doi.org/10.3926/jotse.137
 
 `q2 · i?` · `causal · r1`
 

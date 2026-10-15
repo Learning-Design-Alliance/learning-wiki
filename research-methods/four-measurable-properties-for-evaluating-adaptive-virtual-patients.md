@@ -3,7 +3,7 @@ type: research-method
 id: four-measurable-properties-for-evaluating-adaptive-virtual-patients
 title: Four measurable properties for evaluating adaptive virtual patients
 description: "The article proposes four measurable properties an adaptive virtual patient should satisfy, each with its own metric: P1 Responsiveness (state changes in the direction the data predicts), P2 Gradual Build-up (the state \"climbs steadily across the session and only as the user earns it\"), P3 Faithful "
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

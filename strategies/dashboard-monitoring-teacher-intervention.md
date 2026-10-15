@@ -3,7 +3,7 @@ type: strategy
 id: dashboard-monitoring-teacher-intervention
 title: Use data dashboards and alerts so teachers monitor progress and intervene when students struggle
 description: As students use the program, teachers monitor progress through data dashboards and provide interventions when necessary.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

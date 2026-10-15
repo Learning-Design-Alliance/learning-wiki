@@ -3,7 +3,7 @@ type: claim
 title: In session 4, LLM-to-Brain participants showed weaker neural connectivity and under-engagement of alpha and beta networks, while Brain-to-LLM participants showed higher memory recall and re-engagement of occipito-parietal and prefrontal nodes
 description: In session 4, LLM-to-Brain participants showed weaker neural connectivity and under-engagement of alpha and beta networks, while Brain-to-LLM participants showed higher memory recall and re-engagement of occipito-pari...
 id: session4-llm-to-brain-weaker-connectivity-brain-to-llm-reengagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

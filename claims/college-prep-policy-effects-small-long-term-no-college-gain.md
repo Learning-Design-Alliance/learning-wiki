@@ -3,7 +3,7 @@ type: claim
 title: "Overall policy effects: lowest-ability students earned more ninth-grade credits but also failed more, and long-term outcomes were small to non-existent, with no increase in college entrance"
 description: "Overall policy effects: lowest-ability students earned more ninth-grade credits but also failed more, and long-term outcomes were small to non-existent, with no increase in college entrance"
 id: college-prep-policy-effects-small-long-term-no-college-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

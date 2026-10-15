@@ -3,7 +3,7 @@ type: claim
 title: Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning
 description: Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning
 id: physical-environment-affects-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

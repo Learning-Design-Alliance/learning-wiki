@@ -3,7 +3,7 @@ type: claim
 title: Feedback improves confidence calibration, and prior lure exposure inflates confidence in intrusions
 description: Feedback improves confidence calibration, and prior lure exposure inflates confidence in intrusions
 id: feedback-improves-confidence-calibration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

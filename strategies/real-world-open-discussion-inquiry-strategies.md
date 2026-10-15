@@ -3,7 +3,7 @@ type: strategy
 id: real-world-open-discussion-inquiry-strategies
 title: Use real-world problems, open-ended class discussions, and inquiry-oriented experiments as higher order thinking strategies
 description: "The article names three concrete classroom strategies for promoting higher order thinking: \"dealing in class with real-world problems, encouraging open-ended class discussions, and fostering inquiry-oriented experimen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

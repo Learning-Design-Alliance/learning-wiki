@@ -3,7 +3,7 @@ type: claim
 title: Supplemental analyses of I CAN Learn® in alternate second-year samples showed no effects that survived multiple-comparison adjustment
 description: Supplemental analyses of I CAN Learn® in alternate second-year samples showed no effects that survived multiple-comparison adjustment
 id: ican-learn-supplemental-alternate-samples-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -4,7 +4,7 @@ id: ohio-leap-and-california-cal-learn
 title: Ohio LEAP and California Cal-Learn
 description: "LEAP, run by Ohio, and Cal-Learn, run by California, are state welfare programs that use attendance, academic-performance, and completion bonuses or sanctions to support teen parents' school participation."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: dedicated-leader-monthly-cross-agency-meetings
 title: Sustain cross-agency collaboration through a dedicated district leader and monthly partner meetings
 description: PUSD created or renewed community partnerships to improve delivery of school-based mental health services, using the Administrator on Special Assignment position to foster collaboration among state and county agencies...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

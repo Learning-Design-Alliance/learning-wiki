@@ -3,7 +3,7 @@ type: element
 id: kipp-middle-school-selection-attrition-replacement-presentation
 title: Mathematica presentation on student selection, attrition, and replacement at KIPP middle schools
 description: "A presentation by Mathematica researchers, published April 9, 2011, addressing \"Student Selection, Attrition, and Replacement at KIPP Middle Schools.\" It was \"Prepared for: Arnold Ventures\" under the associated projec..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

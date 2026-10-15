@@ -3,7 +3,7 @@ type: research-method
 id: taxonomy-of-interaction-behaviors-with-ai-code-suggestions
 title: Taxonomy of interaction behaviors with AI code suggestions
 description: The article synthesizes fragmented prior characterizations of AI code completion interactions into a unified taxonomy of behavioral metrics.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

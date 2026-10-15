@@ -3,7 +3,7 @@ type: strategy
 id: set-confidentiality-rules-before-public-reflection
 title: When using public reflection, agree in advance with all parties on what information can and cannot be shared to preserve confidentiality
 description: The article advises that public reflection (blogs, discussion boards) carries a serious confidentiality risk for community partners and students, who may regret comments made out of inexperience.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

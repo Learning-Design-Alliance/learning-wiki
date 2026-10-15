@@ -3,7 +3,7 @@ type: claim
 title: vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group
 description: vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group
 id: vplc-assistments-no-significant-overall-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

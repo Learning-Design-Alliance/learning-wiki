@@ -3,7 +3,7 @@ type: claim
 title: Student-by-classroom interaction accounts for a substantial share of variation in noncognitive factors, indicating context-specific malleability
 description: Student-by-classroom interaction accounts for a substantial share of variation in noncognitive factors, indicating context-specific malleability
 id: student-classroom-interaction-variance-noncognitive-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

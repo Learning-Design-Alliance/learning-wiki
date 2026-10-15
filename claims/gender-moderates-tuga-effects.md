@@ -3,7 +3,7 @@ type: claim
 title: The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender
 description: The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender
 id: gender-moderates-tuga-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

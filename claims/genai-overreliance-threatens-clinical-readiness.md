@@ -3,7 +3,7 @@ type: claim
 title: "Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice"
 description: "Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice"
 id: genai-overreliance-threatens-clinical-readiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

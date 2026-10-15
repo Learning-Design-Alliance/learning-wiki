@@ -3,7 +3,7 @@ type: claim
 title: Ability in instructional design carries the highest second-order factor loading, followed by knowledge and personal attributes
 description: Ability in instructional design carries the highest second-order factor loading, followed by knowledge and personal attributes
 id: idc-ability-dimension-highest-loading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

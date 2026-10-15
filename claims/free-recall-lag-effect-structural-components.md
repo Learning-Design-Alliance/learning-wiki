@@ -3,7 +3,7 @@ type: claim
 title: Eliminating differential storage of structural components reduces the free-recall spacing effect at moderate to long lags
 description: Eliminating differential storage of structural components reduces the free-recall spacing effect at moderate to long lags
 id: free-recall-lag-effect-structural-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

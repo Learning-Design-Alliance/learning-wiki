@@ -3,7 +3,7 @@ type: claim
 title: MAIC-UI, generating interactive STEM courseware from instructor documents, reported gains in learning agency in classroom deployment (attributed)
 description: MAIC-UI, generating interactive STEM courseware from instructor documents, reported gains in learning agency in classroom deployment (attributed)
 id: maic-ui-learning-agency-gains-attributed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

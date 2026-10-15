@@ -3,7 +3,7 @@ type: claim
 title: "Most prospective teachers produced dynamic simulations rather than tutoring scripts, with 46% adding inquiry-oriented exploration"
 description: "Most prospective teachers produced dynamic simulations rather than tutoring scripts, with 46% adding inquiry-oriented exploration"
 id: most-prospective-teachers-produce-dynamic-simulations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

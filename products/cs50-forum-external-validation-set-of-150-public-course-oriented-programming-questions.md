@@ -4,7 +4,7 @@ id: cs50-forum-external-validation-set-of-150-public-course-oriented-programming
 title: CS50-Forum external validation set of 150 public course-oriented programming questions
 description: A dataset created by S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

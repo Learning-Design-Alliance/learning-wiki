@@ -3,7 +3,7 @@ type: claim
 title: Guardrails in the GPT Tutor largely eliminate the negative exam effect, though no positive exam effect is observed
 description: Guardrails in the GPT Tutor largely eliminate the negative exam effect, though no positive exam effect is observed
 id: gpt-tutor-exam-effect-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Anchored judge prompts restore score discrimination and raise the reward's agreement with independent human ratings (Spearman ρ 0.672→0.741)"
 description: "Anchored judge prompts restore score discrimination and raise the reward's agreement with independent human ratings (Spearman ρ 0.672→0.741)"
 id: judge-anchoring-raises-human-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

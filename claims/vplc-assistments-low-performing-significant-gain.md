@@ -3,7 +3,7 @@ type: claim
 title: Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments
 description: Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments
 id: vplc-assistments-low-performing-significant-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

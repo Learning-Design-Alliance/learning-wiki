@@ -3,7 +3,7 @@ type: claim
 title: Funding dual-enrollment courses at high school campuses addresses transportation-based access inequities
 description: Funding dual-enrollment courses at high school campuses addresses transportation-based access inequities
 id: dual-enrollment-campus-funding-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

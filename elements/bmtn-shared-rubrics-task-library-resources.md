@@ -3,7 +3,7 @@ type: element
 id: bmtn-shared-rubrics-task-library-resources
 title: "BMTN network resources: shared deep-engagement definitions and rubrics, a curated task library, and the Change Idea Summary Book"
 description: The network developed shared definitions of deep engagement with algebra and rubrics for each DEA (connect, justify, solve), built from teachers categorizing sample student work and revised through ongoing teacher fee...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

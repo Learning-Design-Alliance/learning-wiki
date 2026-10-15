@@ -3,7 +3,7 @@ type: claim
 title: "AI/AN students have comparatively low access to well-prepared teachers: 27 percent were taught mathematics by teachers with a mathematics degree, significantly lower than any comparison group"
 description: "AI/AN students have comparatively low access to well-prepared teachers: 27 percent were taught mathematics by teachers with a mathematics degree, significantly lower than any comparison group"
 id: ai-an-teacher-quality-access-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

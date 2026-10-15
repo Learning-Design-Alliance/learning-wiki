@@ -2,7 +2,7 @@
 type: theory
 title: "Schema theory as a theory of knowledge: networks of a superordinate concept with supporting information that interface with incoming information"
 description: "Schema theory, in its broadest sense, is \"a theory of knowledge\" (Rumelhart, 1980) concerning how material is organized, encoded and retrieved from memory."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

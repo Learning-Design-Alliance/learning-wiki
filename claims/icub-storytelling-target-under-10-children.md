@@ -3,7 +3,7 @@ type: claim
 title: Participants identified children under 10 as the intended target group for the storytelling robot, significantly more than all other age groups
 description: Participants identified children under 10 as the intended target group for the storytelling robot, significantly more than all other age groups
 id: icub-storytelling-target-under-10-children
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

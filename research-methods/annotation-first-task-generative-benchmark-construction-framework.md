@@ -3,7 +3,7 @@ type: research-method
 id: annotation-first-task-generative-benchmark-construction-framework
 title: Annotation-first, task-generative benchmark construction framework
 description: "MUSE's construction framework separates what an image contains from how a capability is queried: \"each artwork is annotated once with a reusable structured representation of its visual and semantic content, after which task-specific questions are instantiated through predefined generation rules.\" Th"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

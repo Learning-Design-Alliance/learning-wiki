@@ -3,7 +3,7 @@ type: claim
 title: "After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature"
 description: "After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature"
 id: aida-post-use-96-percent-quiz-most-liked
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

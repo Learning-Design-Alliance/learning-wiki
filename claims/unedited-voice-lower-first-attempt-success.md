@@ -3,7 +3,7 @@ type: claim
 title: Unedited voice prompts have lower odds of first-attempt success than text prompts on two of three Prompt Problems
 description: Unedited voice prompts have lower odds of first-attempt success than text prompts on two of three Prompt Problems
 id: unedited-voice-lower-first-attempt-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

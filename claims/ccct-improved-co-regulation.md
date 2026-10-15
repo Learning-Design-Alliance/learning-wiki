@@ -3,7 +3,7 @@ type: claim
 title: "CCCT participation improved prospective teachers' co-regulation situations (g = 0.512)"
 description: "CCCT participation improved prospective teachers' co-regulation situations (g = 0.512)"
 id: ccct-improved-co-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

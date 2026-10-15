@@ -3,7 +3,7 @@ type: claim
 title: The article documents the typical induction support provided to first-year elementary school teachers in urban districts around the country.
 description: The article documents the typical induction support provided to first-year elementary school teachers in urban districts around the country.
 id: portrait-first-year-urban-teacher-induction-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

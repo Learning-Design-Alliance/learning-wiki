@@ -3,7 +3,7 @@ type: claim
 title: Diagnostic model performance remains relatively stable across moderate hyperparameter ranges, with 8 attention heads and a 512 hidden dimension yielding optimal results
 description: Diagnostic model performance remains relatively stable across moderate hyperparameter ranges, with 8 attention heads and a 512 hidden dimension yielding optimal results
 id: hyperparameter-stability-oral-diagnostic-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

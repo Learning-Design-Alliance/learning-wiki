@@ -4,7 +4,7 @@ title: "Teacher coaching programs improve teachers' instructional practice by a 
 description: "Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies"
 id: coaching-pooled-instruction-effect-0-49-sd
 aliases: [coaching-meta-analysis-instruction-effects-p12]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

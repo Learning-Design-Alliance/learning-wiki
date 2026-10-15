@@ -3,7 +3,7 @@ type: claim
 title: The 2005 Chicago survey reached nearly 130,000 students, teachers, and principals
 description: The 2005 Chicago survey reached nearly 130,000 students, teachers, and principals
 id: 2005-chicago-survey-nearly-130000-participants
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

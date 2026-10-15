@@ -3,7 +3,7 @@ type: strategy
 id: equity-informed-genai-policies-and-reviewer-education
 title: Institutions should adopt equity-informed GenAI policies, require AI-use disclosure, and educate reviewers on World Englishes variation
 description: "The dialogue's contributors converge on institutional actions: developing inclusive guidelines for linguistic variation, promoting critical GenAI literacy, and providing editing support, so that reviewers, editors and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

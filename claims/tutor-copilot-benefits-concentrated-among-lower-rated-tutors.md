@@ -3,7 +3,7 @@ type: claim
 title: "Tutor CoPilot's benefit is largest for lower-rated and less-experienced tutors (9 p.p. and 7 p.p.), diminishing as tutor effectiveness increases"
 description: "Tutor CoPilot's benefit is largest for lower-rated and less-experienced tutors (9 p.p."
 id: tutor-copilot-benefits-concentrated-among-lower-rated-tutors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

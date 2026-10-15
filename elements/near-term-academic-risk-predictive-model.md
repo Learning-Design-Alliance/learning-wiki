@@ -3,7 +3,7 @@ type: element
 id: near-term-academic-risk-predictive-model
 title: Predictive model of near-term academic risk combining school and child welfare data
 description: The article describes a predictive model that uses both school data and child welfare data to flag students at risk of near-term academic problems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

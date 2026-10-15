@@ -3,7 +3,7 @@ type: claim
 title: A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom
 description: A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom
 id: multiple-scaffolds-dls-achievement-srl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

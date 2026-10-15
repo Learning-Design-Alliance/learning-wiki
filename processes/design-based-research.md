@@ -3,7 +3,7 @@ type: process
 id: design-based-research
 title: Design-Based Research
 description: A design process run as research. An intervention is designed and revised over repeated cycles in a real learning setting, in collaboration with practitioners, so that each cycle both improves the design and builds or tests theory about learning.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

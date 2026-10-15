@@ -3,7 +3,7 @@ type: claim
 title: "Students' expertise on the task may be an important prerequisite for accurate self-assessment"
 description: "Students' expertise on the task may be an important prerequisite for accurate self-assessment"
 id: task-expertise-prerequisite-ssa-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

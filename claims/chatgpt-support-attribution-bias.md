@@ -3,7 +3,7 @@ type: claim
 title: Open ChatGPT support produces stronger self-serving attribution bias than ChatGPT support with reflection
 description: Open ChatGPT support produces stronger self-serving attribution bias than ChatGPT support with reflection
 id: chatgpt-support-attribution-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

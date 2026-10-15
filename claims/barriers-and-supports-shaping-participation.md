@@ -3,7 +3,7 @@ type: claim
 title: Time constraints, limited capacity, funder expectations, and communication gaps were the most consistent barriers to participation, offset by recurring structures, relational trust, actionable data, and networked channels
 description: Time constraints, limited capacity, funder expectations, and communication gaps were the most consistent barriers to participation, offset by recurring structures, relational trust, actionable data, and networked chan...
 id: barriers-and-supports-shaping-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

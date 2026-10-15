@@ -3,7 +3,7 @@ type: strategy
 id: household-knowledge-interdisciplinary-thematic-unit
 title: "Interdisciplinary Unit Built on a Student's Household Knowledge"
 description: "A teacher uses knowledge of a student's household experience to create \"a series of interdisciplinary lessons centered around the theme\" drawn from that experience."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

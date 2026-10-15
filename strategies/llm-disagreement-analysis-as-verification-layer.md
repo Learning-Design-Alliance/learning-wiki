@@ -3,7 +3,7 @@ type: strategy
 id: llm-disagreement-analysis-as-verification-layer
 title: Use LLM-based de-identification as an additional verification layer to catch human redaction mistakes
 description: The article recommends running an LLM redaction pass alongside human de-identification and analyzing the disagreements between the two, so that human omissions can be caught and corrected.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

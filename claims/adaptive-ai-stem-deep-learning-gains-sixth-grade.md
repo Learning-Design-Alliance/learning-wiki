@@ -3,7 +3,7 @@ type: claim
 title: An adaptive AI-based STEM instructional program produced statistically significant differences favoring the experimental group across all deep learning dimensions in sixth-grade science
 description: An adaptive AI-based STEM instructional program produced statistically significant differences favoring the experimental group across all deep learning dimensions in sixth-grade science
 id: adaptive-ai-stem-deep-learning-gains-sixth-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

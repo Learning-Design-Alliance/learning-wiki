@@ -3,7 +3,7 @@ type: claim
 title: Documented GenAI-related challenges to active learning include cognitive debt, metacognitive laziness, unreflected acceptance, and overreliance on GenAI access
 description: Documented GenAI-related challenges to active learning include cognitive debt, metacognitive laziness, unreflected acceptance, and overreliance on GenAI access
 id: genai-risks-cognitive-debt-deskilling-overreliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

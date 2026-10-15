@@ -3,7 +3,7 @@ type: research-method
 id: engagement-forecasting-as-a-supervised-week-ahead-prediction-task-in-its
 title: Engagement forecasting as a supervised week-ahead prediction task in ITS
 description: "Engagement forecasting is framed as a supervised prediction task estimating a learner's next-week engagement from prior ITS interaction traces."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

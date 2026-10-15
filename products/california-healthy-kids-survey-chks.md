@@ -4,7 +4,7 @@ id: california-healthy-kids-survey-chks
 title: California Healthy Kids Survey (CHKS)
 description: "The California Department of Education's California Healthy Kids Survey, administered statewide with WestEd, is a K–12 survey system that measures student well-being, school conditions, and related behavioral-health outcomes."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

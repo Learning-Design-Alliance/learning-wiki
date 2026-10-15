@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated forum replies are more neutral and less varied in sentiment than human replies
 description: LLM-generated forum replies are more neutral and less varied in sentiment than human replies
 id: llm-replies-more-neutral-than-human
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

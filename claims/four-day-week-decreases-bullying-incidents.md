@@ -3,7 +3,7 @@ type: claim
 title: "Four-day school weeks decrease per-pupil bullying incidents among high school students by approximately 39%"
 description: "Four-day school weeks decrease per-pupil bullying incidents among high school students by approximately 39%"
 id: four-day-week-decreases-bullying-incidents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

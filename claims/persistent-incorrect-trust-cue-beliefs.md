@@ -3,7 +3,7 @@ type: claim
 title: Computing students hold persistent incorrect beliefs, basing trust judgments on cues no longer reliable to guarantee trustworthiness
 description: Computing students hold persistent incorrect beliefs, basing trust judgments on cues no longer reliable to guarantee trustworthiness
 id: persistent-incorrect-trust-cue-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

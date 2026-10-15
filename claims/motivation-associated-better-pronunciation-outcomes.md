@@ -3,7 +3,7 @@ type: claim
 title: Positive attitudes towards English and high motivation are associated with better pronunciation outcomes
 description: Positive attitudes towards English and high motivation are associated with better pronunciation outcomes
 id: motivation-associated-better-pronunciation-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students
 description: Learning conditions predict math grades across racial and socioeconomic groups, with larger associations for FRPL-eligible and Black students
 id: learning-conditions-predict-grades-across-demographics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

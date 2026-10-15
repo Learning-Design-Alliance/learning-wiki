@@ -3,7 +3,7 @@ type: claim
 title: Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff
 description: Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff
 id: educators-want-ai-time-savings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Students show the highest learning gains in classes that are both challenging and where students actually do work aligned with teachers' expectations; grades are higher in challenging classrooms with high support than in easier classrooms with little support"
 description: "Students show the highest learning gains in classes that are both challenging and where students actually do work aligned with teachers' expectations; grades are higher in challenging classrooms with high support than..."
 id: challenge-plus-support-highest-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

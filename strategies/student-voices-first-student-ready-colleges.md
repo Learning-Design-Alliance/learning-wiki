@@ -3,7 +3,7 @@ type: strategy
 id: student-voices-first-student-ready-colleges
 title: "Put student voices first: make colleges student-ready, give students agency over educational choices, and provide wraparound supports for basic needs"
 description: A funding and program-design strategy in which institutions center students rather than merely enrolling them.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

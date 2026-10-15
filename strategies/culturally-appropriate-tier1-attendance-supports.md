@@ -3,7 +3,7 @@ type: strategy
 id: culturally-appropriate-tier1-attendance-supports
 title: "Culturally appropriate Tier 1 attendance supports: recognize good and improved attendance, hold regular check-ins, and adapt school calendars"
 description: "The brief recommends expanding Tier 1 supports when chronic absenteeism affects many students, since high rates may indicate Tier 1 supports are not designed to meet AI/AN students' needs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

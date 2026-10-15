@@ -3,7 +3,7 @@ type: claim
 title: "Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit"
 description: "Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit"
 id: perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

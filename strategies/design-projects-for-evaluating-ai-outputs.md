@@ -3,7 +3,7 @@ type: strategy
 id: design-projects-for-evaluating-ai-outputs
 title: Design PjBL projects so students must evaluate, critique, and improve AI-generated outputs rather than prohibiting AI use
 description: Based on feedback that students increasingly use tools such as ChatGPT during project work, the authors recommend designing projects so that students must evaluate, critique, and improve AI-generated outputs rather th...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

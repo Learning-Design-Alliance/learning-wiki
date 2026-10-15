@@ -3,7 +3,7 @@ type: element
 id: ewing-marion-kauffman-charter-school
 title: Ewing Marion Kauffman Charter School
 description: "The Ewing Marion Kauffman School is \"a public charter school that serves students from low-income neighborhoods in Kansas City, Missouri\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

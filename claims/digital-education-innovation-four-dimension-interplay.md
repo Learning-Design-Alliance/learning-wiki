@@ -3,7 +3,7 @@ type: claim
 title: Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions
 description: Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions
 id: digital-education-innovation-four-dimension-interplay
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

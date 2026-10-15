@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' reported weekly use of the 5E instructional model for lesson planning rose from 13 percent to 42 percent over the Initiative"
 description: "Teachers' reported weekly use of the 5E instructional model for lesson planning rose from 13 percent to 42 percent over the Initiative"
 id: ngss-early-implementers-5e-use-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

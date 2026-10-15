@@ -3,7 +3,7 @@ type: strategy
 id: statewide-ai-formative-integration-edge-servers
 title: Integrate AI-formative tools state-wide and deploy offline-capable Edge AI servers
 description: "The article's forward-looking recommendation is directed at state education authorities: \"The study recommends state-wide curriculum integration of AI-formative tools and the deployment of offline-capable Edge AI serv..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

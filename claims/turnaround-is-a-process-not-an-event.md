@@ -3,7 +3,7 @@ type: claim
 title: School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership
 description: School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership
 id: turnaround-is-a-process-not-an-event
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: matched-comparison-plus-qualitative-mechanisms-charter-evaluation
 title: "Use a matched comparison group design plus qualitative mechanism exploration to evaluate a new charter school's educational and behavioral impacts"
 description: "The article's evaluation approach combines a quantitative impact estimate with qualitative mechanism exploration: \"a matched comparison group design to estimate the impacts of the Kauffman School on student achievemen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: mic-three-collaborative-structures-framework
 title: Three key collaborative structures for changing the dynamics of classroom instruction during standards implementation
 description: "The report proposes that standards implementation in mathematics rests on three collaborative structures: role-diverse sense-making teams, strategic partnerships with technical assistance providers, and empowered site..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

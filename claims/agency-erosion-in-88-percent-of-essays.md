@@ -3,7 +3,7 @@ type: claim
 title: "Agency erosion appeared in 88% of student essays, most often as erosion of independent effort"
 description: "Agency erosion appeared in 88% of student essays, most often as erosion of independent effort"
 id: agency-erosion-in-88-percent-of-essays
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

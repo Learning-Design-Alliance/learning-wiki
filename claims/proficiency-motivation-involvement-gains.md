@@ -3,7 +3,7 @@ type: claim
 title: Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains
 description: Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains
 id: proficiency-motivation-involvement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

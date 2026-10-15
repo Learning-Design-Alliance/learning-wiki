@@ -3,7 +3,7 @@ type: claim
 title: Teachers in Chicago TAP schools at the start of the program were about 20 percent more likely than teachers in comparison schools to remain in the same school three years later
 description: Teachers in Chicago TAP schools at the start of the program were about 20 percent more likely than teachers in comparison schools to remain in the same school three years later
 id: chicago-tap-increased-teacher-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

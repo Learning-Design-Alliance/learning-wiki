@@ -3,7 +3,7 @@ type: claim
 title: "The value-added models used for Oklahoma's spring 2016 results were updated relative to prior years"
 description: "The value-added models used for Oklahoma's spring 2016 results were updated relative to prior years"
 id: value-added-model-updates-spring-2016
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

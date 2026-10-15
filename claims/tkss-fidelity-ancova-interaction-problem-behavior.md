@@ -4,7 +4,7 @@ title: "Teachers' PBIS knowledge and fidelity (TKSS score) interacts with pre-to
 description: Teachers' PBIS knowledge and fidelity (TKSS score) interacts with pre-to-post change in problem behavior among students with emotional disturbance
 id: tkss-fidelity-ancova-interaction-problem-behavior
 aliases: [low-fidelity-pbis-smaller-student-improvements]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

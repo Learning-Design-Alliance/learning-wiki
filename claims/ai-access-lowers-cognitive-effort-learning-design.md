@@ -3,7 +3,7 @@ type: claim
 title: "AI chatbot access lowers teachers' perceived cognitive effort during learning design"
 description: "AI chatbot access lowers teachers' perceived cognitive effort during learning design"
 id: ai-access-lowers-cognitive-effort-learning-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

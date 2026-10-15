@@ -2,7 +2,7 @@
 type: theory
 title: Five common models of cooperative learning
 description: "The chapter organizes cooperative learning into a taxonomy of five models: \"The Structural Approach (Kagan, 1989), Group Investigation (Sharan & Sharan, 1992), Student Team Investigation (Aronson, Blaney, Stephan, Sik..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

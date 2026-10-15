@@ -3,7 +3,7 @@ type: claim
 title: Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance
 description: Successes of form-focused manipulation of input in adult L2 are illusory with respect to linguistic competence, affecting only performance
 id: form-focused-input-manipulation-illusory-for-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

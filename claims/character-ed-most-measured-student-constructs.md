@@ -3,7 +3,7 @@ type: claim
 title: Among specific student constructs, academic content, discipline issues, and interpersonal competencies were the most frequently measured outcomes in character education program studies
 description: Among specific student constructs, academic content, discipline issues, and interpersonal competencies were the most frequently measured outcomes in character education program studies
 id: character-ed-most-measured-student-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

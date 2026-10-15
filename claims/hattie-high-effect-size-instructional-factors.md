@@ -3,7 +3,7 @@ type: claim
 title: "Hattie's synthesis identifies lesson study, formative evaluation of teaching, discussion of learning, and feedback as instructional factors with high effect sizes on student learning"
 description: "Hattie's synthesis identifies lesson study, formative evaluation of teaching, discussion of learning, and feedback as instructional factors with high effect sizes on student learning"
 id: hattie-high-effect-size-instructional-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

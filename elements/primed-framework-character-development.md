@@ -3,7 +3,7 @@ type: element
 id: primed-framework-character-development
 title: "Berkowitz, Bier, and McCauley's PRIMED framework of effective character development features and practices"
 description: "An existing framework described in the article as Berkowitz, Bier, and McCauley's account of \"effective features and practices that support character development.\" The responding author engages it by proposing mechani..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

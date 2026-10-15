@@ -3,7 +3,7 @@ type: claim
 title: Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories
 description: Teachers find World History Project overwhelming in their initial adoption year and make substantial modifications across three main categories
 id: whp-first-year-overwhelm-and-modifications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

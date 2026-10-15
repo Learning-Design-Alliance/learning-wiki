@@ -3,7 +3,7 @@ type: claim
 title: In the Bramlett quasi-experiment, no comprehension subtest or ability-level subgroup showed a statistically significant CIRC effect after WWC adjustments
 description: In the Bramlett quasi-experiment, no comprehension subtest or ability-level subgroup showed a statistically significant CIRC effect after WWC adjustments
 id: circ-qed-subgroups-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders
 description: The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders
 id: factria-chatbot-usability-sus-70-84
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

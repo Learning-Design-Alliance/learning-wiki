@@ -3,7 +3,7 @@ type: strategy
 id: support-oriented-use-of-cheating-risk-predictions
 title: Use early cheating-risk predictions only for low-stakes support with human review, never for disciplinary decisions
 description: The article recommends treating model output as a trigger for timely academic guidance rather than as an accusation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

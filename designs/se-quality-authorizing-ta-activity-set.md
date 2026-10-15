@@ -3,7 +3,7 @@ type: design
 id: se-quality-authorizing-ta-activity-set
 title: Twelve common TA set-aside activities supporting quality authorizing, led by contracting providers and evaluating current practices
 description: The report identifies 12 common activities SE grantees funded to improve authorizer quality, ranging from contracting external providers and evaluating current authorizing practices to individualized TA, professional...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

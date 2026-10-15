@@ -4,7 +4,7 @@ id: anonymized-dutch-student-monitoring-test-score-dataset-covering-15-of-primar
 title: "Anonymized Dutch student-monitoring test-score dataset covering 15% of primary schools, 2017 to 2020"
 description: A confidential, anonymized dataset assembled by Engzell et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

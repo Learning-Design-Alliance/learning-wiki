@@ -3,7 +3,7 @@ type: claim
 title: Core GPA was unaffected immediately after closures, but closed-school students who were in grades 3-5 in the announcement year showed negative GPA effects three and four years post-closure
 description: Core GPA was unaffected immediately after closures, but closed-school students who were in grades 3-5 in the announcement year showed negative GPA effects three and four years post-closure
 id: delayed-gpa-effects-grades-3-5-closed-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

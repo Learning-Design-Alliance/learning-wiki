@@ -4,7 +4,7 @@ id: failure-free-reading
 title: Failure Free Reading
 description: Failure Free Reading is a scripted language-development and reading-intervention program for struggling Kindergarten–grade 12 readers, combining teacher instruction, talking software, workbook exercises, and independent reading activities.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

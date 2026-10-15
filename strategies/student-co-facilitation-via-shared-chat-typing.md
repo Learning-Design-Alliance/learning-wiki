@@ -3,7 +3,7 @@ type: strategy
 id: student-co-facilitation-via-shared-chat-typing
 title: Invite students to co-facilitate tasks by typing content into the shared whiteboard or chat
 description: "A concrete move from the article: the teacher designed slides with blanks and asked students \"to voluntarily help me type out the missing words, phrases or information as I explained verbally to the class\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

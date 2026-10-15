@@ -3,7 +3,7 @@ type: claim
 title: How school information is presented can affect how parents rank their school choices
 description: How school information is presented can affect how parents rank their school choices
 id: school-info-presentation-affects-school-rankings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

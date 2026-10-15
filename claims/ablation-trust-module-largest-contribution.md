@@ -3,7 +3,7 @@ type: claim
 title: "Ablations show the trustworthiness module contributes most to performance, and the explanation generator cuts human review time by 41%"
 description: "Ablations show the trustworthiness module contributes most to performance, and the explanation generator cuts human review time by 41%"
 id: ablation-trust-module-largest-contribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

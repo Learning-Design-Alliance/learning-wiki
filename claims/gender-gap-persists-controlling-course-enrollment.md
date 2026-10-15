@@ -3,7 +3,7 @@ type: claim
 title: Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings
 description: Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings
 id: gender-gap-persists-controlling-course-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

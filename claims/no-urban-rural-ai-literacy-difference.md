@@ -3,7 +3,7 @@ type: claim
 title: No significant urban–rural difference in AI literacy scores, though the p-value approaches threshold
 description: No significant urban–rural difference in AI literacy scores, though the p-value approaches threshold
 id: no-urban-rural-ai-literacy-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

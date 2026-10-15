@@ -3,7 +3,7 @@ type: claim
 title: "The lower a test's score ceiling, the more teacher value-added estimates shrink toward the average teacher, because ceiling scores contain imprecise information about achievement"
 description: "The lower a test's score ceiling, the more teacher value-added estimates shrink toward the average teacher, because ceiling scores contain imprecise information about achievement"
 id: lower-ceilings-shrink-value-added-toward-average
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

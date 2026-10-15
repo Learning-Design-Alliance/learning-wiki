@@ -3,7 +3,7 @@ type: strategy
 id: pre-teach-forms-before-journal-entries
 title: Pre-teach target language forms deductively before journal entries incorporate them
 description: In the intensive, syllabus-driven approach to focus on form, the teacher pre-teaches selected vocabulary, grammatical forms, or language functions in class, then assigns a journal entry requiring students to use those...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: In fifth-grade mathematics, ITBS scores declined while ISAT scores rose, a statistically significant difference in opposing trends
 description: In fifth-grade mathematics, ITBS scores declined while ISAT scores rose, a statistically significant difference in opposing trends
 id: fifth-grade-math-opposing-trends-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: ASK (Attitude, Skills, Knowledge) framework for analysing collaborative learning in PBL
 description: "The ASK framework classifies statements about collaborative learning into three dimensions: Attitudes (dispositions towards group work), Skills (capabilities needed for effective collaboration), and Knowledge (essenti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

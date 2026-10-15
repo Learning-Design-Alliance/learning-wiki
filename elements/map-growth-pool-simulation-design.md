@@ -3,7 +3,7 @@ type: element
 id: map-growth-pool-simulation-design
 title: MAP Growth grade-level item pool simulation design (on-grade, ±1-grade, and all-grade pools with on- and off-grade simulees)
 description: A simulation design crossing three item pool types (on-grade, ±1 grade, all-grade) with two simulee ability types (on-grade, off-grade), yielding six conditions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Teacher-student cyclical entrainment was considerably higher in the desirable-style teacher's classroom than in the struggling-style teacher's classroom"
 description: "Teacher-student cyclical entrainment was considerably higher in the desirable-style teacher's classroom than in the struggling-style teacher's classroom"
 id: coherence-entrainment-higher-desirable-style-classroom
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

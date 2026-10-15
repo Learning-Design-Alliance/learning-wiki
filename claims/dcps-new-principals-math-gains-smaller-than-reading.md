@@ -3,7 +3,7 @@ type: claim
 title: "New principals' math achievement gains followed a similar trend to reading but were smaller"
 description: "New principals' math achievement gains followed a similar trend to reading but were smaller"
 id: dcps-new-principals-math-gains-smaller-than-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

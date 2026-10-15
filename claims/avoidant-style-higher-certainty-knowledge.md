@@ -3,7 +3,7 @@ type: claim
 title: Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than participant-style peers
 description: Avoidant-style preservice teachers hold stronger certainty-of-knowledge beliefs than participant-style peers
 id: avoidant-style-higher-certainty-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them
 description: Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them
 id: pandemic-increased-teacher-vacancies-california-districts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

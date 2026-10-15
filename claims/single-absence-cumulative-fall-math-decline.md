@@ -3,7 +3,7 @@ type: claim
 title: Each single prior-year absence is associated with a .010 to .016 SD decrease in fall mathematics starting achievement the following year
 description: Each single prior-year absence is associated with a .010 to .016 SD decrease in fall mathematics starting achievement the following year
 id: single-absence-cumulative-fall-math-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

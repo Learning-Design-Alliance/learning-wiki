@@ -3,7 +3,7 @@ type: claim
 title: "A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance"
 description: "A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance"
 id: student-authored-instructor-ai-rules-accountability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

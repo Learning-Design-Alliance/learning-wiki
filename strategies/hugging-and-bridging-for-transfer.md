@@ -3,7 +3,7 @@ type: strategy
 id: hugging-and-bridging-for-transfer
 title: Hugging and Bridging for Transfer
 description: Hugging and bridging are two complementary teacher techniques for promoting transfer of learning — hugging builds similarity between the learning situation and its future use, while bridging helps learners abstract and connect knowledge across situations.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

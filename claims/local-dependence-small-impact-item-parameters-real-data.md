@@ -3,7 +3,7 @@ type: claim
 title: In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)
 description: In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)
 id: local-dependence-small-impact-item-parameters-real-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

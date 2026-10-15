@@ -3,7 +3,7 @@ type: element
 id: kipp-middle-school-college-enrollment-tracking-study
 title: KIPP middle school college-enrollment tracking study (Mathematica issue brief)
 description: A long-term tracking study, published as a Mathematica issue brief, evaluating whether KIPP middle schools affect college enrollment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

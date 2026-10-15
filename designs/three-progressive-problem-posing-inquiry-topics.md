@@ -3,7 +3,7 @@ type: design
 id: three-progressive-problem-posing-inquiry-topics
 title: Three progressive thematic inquiry lessons sequenced to develop problem posing ability
 description: "The instructional pattern is a sequence of three problem-based inquiry lessons layered onto regular lessons: \"Based on this content, we designed three progressive thematic inquiry lessons; the teaching content and obj..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

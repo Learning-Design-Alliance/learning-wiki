@@ -3,7 +3,7 @@ type: strategy
 id: plan-build-implement-pathways-design-process
 title: Plan-Build-Implement co-design process for developing Integrated Learning Pathways
 description: A three-phase iterative process co-designed with a nationwide cohort of districts to articulate learning pathways that integrate Portrait Skill Sets into core subject areas.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

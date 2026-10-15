@@ -3,7 +3,7 @@ type: claim
 title: Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult
 description: Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult
 id: multiple-contexts-generalization-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

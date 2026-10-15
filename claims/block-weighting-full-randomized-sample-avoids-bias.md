@@ -3,7 +3,7 @@ type: claim
 title: Blocks must be weighted to reflect the full randomized sample within the block, or biases result
 description: Blocks must be weighted to reflect the full randomized sample within the block, or biases result
 id: block-weighting-full-randomized-sample-avoids-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

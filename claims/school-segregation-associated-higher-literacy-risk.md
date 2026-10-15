@@ -3,7 +3,7 @@ type: claim
 title: School-level concentration of low income students and racial isolation are associated with higher early literacy risk rates
 description: School-level concentration of low income students and racial isolation are associated with higher early literacy risk rates
 id: school-segregation-associated-higher-literacy-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

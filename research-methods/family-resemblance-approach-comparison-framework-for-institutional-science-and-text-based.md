@@ -3,7 +3,7 @@ type: research-method
 id: family-resemblance-approach-comparison-framework-for-institutional-science-and-text-based
 title: Family resemblance approach comparison framework for institutional science and text-based generative systems
 description: "The study adapts the reconceptualized family resemblance approach, in which science is a cognitive-epistemic and social-institutional system, to compare institutional science with text-based conversational GenAI across five categories: aims and values, methods, practices, knowledge, and social-insti"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

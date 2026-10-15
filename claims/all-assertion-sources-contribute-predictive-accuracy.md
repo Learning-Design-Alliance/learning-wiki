@@ -3,7 +3,7 @@ type: claim
 title: All three assertion sources (word, corpus-derived, construct-derived) contribute to predictive accuracy
 description: All three assertion sources (word, corpus-derived, construct-derived) contribute to predictive accuracy
 id: all-assertion-sources-contribute-predictive-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

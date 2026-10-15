@@ -3,7 +3,7 @@ type: claim
 title: Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies
 description: Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies
 id: strong-evidence-fluency-building-activities-grades-4-9
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

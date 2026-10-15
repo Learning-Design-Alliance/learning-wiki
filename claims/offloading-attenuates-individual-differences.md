@@ -3,7 +3,7 @@ type: claim
 title: Offloading attenuates individual differences linked to unaided ability
 description: Offloading attenuates individual differences linked to unaided ability
 id: offloading-attenuates-individual-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Cost function analysis indicates substantially higher spending is needed for equal opportunity: weights of 2.49 for first-generation and 2.63 for students older than 24"
 description: "Cost function analysis indicates substantially higher spending is needed for equal opportunity: weights of 2.49 for first-generation and 2.63 for students older than 24"
 id: cost-function-weights-need-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

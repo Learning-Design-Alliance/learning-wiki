@@ -3,7 +3,7 @@ type: claim
 title: "RPLA failures are temporally distributed: ethical violations are rare in the first three turns and become significantly more frequent after turn 6"
 description: "RPLA failures are temporally distributed: ethical violations are rare in the first three turns and become significantly more frequent after turn 6"
 id: rpla-failure-onset-second-half-of-dialogue
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

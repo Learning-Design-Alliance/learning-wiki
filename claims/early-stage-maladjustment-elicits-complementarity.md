@@ -3,7 +3,7 @@ type: claim
 title: During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity
 description: During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity
 id: early-stage-maladjustment-elicits-complementarity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

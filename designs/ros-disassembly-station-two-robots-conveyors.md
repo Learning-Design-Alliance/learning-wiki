@@ -3,7 +3,7 @@ type: design
 id: ros-disassembly-station-two-robots-conveyors
 title: ROS-based disassembly station with two robots and conveyor belts as the project hardware platform
 description: The student project used a hardware disassembly station consisting of two robots and two conveyor belts, with a ROS backbone controlling the robots and adjunct installations.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

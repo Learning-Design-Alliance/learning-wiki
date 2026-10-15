@@ -3,7 +3,7 @@ type: claim
 title: "Community colleges' dual mission of degrees and workforce development is a competitive advantage for piloting new credentials"
 description: "Community colleges' dual mission of degrees and workforce development is a competitive advantage for piloting new credentials"
 id: dual-mission-advantage-new-credentials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

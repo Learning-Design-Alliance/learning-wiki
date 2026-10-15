@@ -3,7 +3,7 @@ type: design
 id: six-phase-curriculum-as-code-pipeline
 title: Six-phase AI-assisted instructional design pipeline under the Curriculum as Code paradigm
 description: "The article formalizes instructional material creation as an engineering process analogous to CI/CD pipelines, composed of six sequential phases: Context Injection, Pedagogical Calibration, Technical Calibration, Plan..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

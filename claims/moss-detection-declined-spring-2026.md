@@ -3,7 +3,7 @@ type: claim
 title: MOSS detected far fewer suspicious cases in Spring 2026 than in prior offerings, as LLM-assisted submissions lack similarity signals
 description: MOSS detected far fewer suspicious cases in Spring 2026 than in prior offerings, as LLM-assisted submissions lack similarity signals
 id: moss-detection-declined-spring-2026
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

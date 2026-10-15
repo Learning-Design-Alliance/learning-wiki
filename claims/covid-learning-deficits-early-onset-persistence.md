@@ -3,7 +3,7 @@ type: claim
 title: COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then
 description: COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then
 id: covid-learning-deficits-early-onset-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "72% of AIEd higher education studies focused on students as the intended users, 17% on instructors, and 11% on managers"
 description: "72% of AIEd higher education studies focused on students as the intended users, 17% on instructors, and 11% on managers"
 id: intended-users-ai-ed-he-students-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

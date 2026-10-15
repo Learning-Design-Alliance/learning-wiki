@@ -3,7 +3,7 @@ type: claim
 title: The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox
 description: The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox
 id: spacing-benefit-short-retention-no-peterson-paradox
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

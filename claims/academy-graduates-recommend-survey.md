@@ -3,7 +3,7 @@ type: claim
 title: In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague
 description: In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague
 id: academy-graduates-recommend-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

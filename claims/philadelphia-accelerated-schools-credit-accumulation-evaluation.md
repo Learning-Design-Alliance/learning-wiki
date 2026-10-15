@@ -3,7 +3,7 @@ type: claim
 title: "The evaluation also examines rates of credit accumulation for recent enrollees of Philadelphia's accelerated schools"
 description: "The evaluation also examines rates of credit accumulation for recent enrollees of Philadelphia's accelerated schools"
 id: philadelphia-accelerated-schools-credit-accumulation-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

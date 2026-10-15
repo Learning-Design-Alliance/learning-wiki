@@ -3,7 +3,7 @@ type: strategy
 id: refine-attrition-standards-via-max-tolerable-bias-definition
 title: Refine attrition standards by revisiting the definition of maximum tolerable bias
 description: "The authors recommend that evidence reviews seeking to improve attrition standards direct their efforts at the standard's bias-tolerance parameter rather than at other model inputs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

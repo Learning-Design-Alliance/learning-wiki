@@ -3,7 +3,7 @@ type: claim
 title: Indicator complexity varies from 1 to 23 measures (averaging just under seven), and states with more measures do not necessarily weight the indicator more
 description: Indicator complexity varies from 1 to 23 measures (averaging just under seven), and states with more measures do not necessarily weight the indicator more
 id: indicator-complexity-varies-no-weight-complexity-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

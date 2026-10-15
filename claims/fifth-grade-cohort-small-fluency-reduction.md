@@ -3,7 +3,7 @@ type: claim
 title: For fifth-grade struggling readers, the four interventions combined improved phonemic decoding on one measure but produced a small reduction in oral reading fluency one year after the interventions
 description: For fifth-grade struggling readers, the four interventions combined improved phonemic decoding on one measure but produced a small reduction in oral reading fluency one year after the interventions
 id: fifth-grade-cohort-small-fluency-reduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

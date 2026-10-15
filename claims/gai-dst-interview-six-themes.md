@@ -3,7 +3,7 @@ type: claim
 title: "Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance"
 description: "Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance"
 id: gai-dst-interview-six-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

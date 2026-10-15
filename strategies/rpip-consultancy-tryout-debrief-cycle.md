@@ -3,7 +3,7 @@ type: strategy
 id: rpip-consultancy-tryout-debrief-cycle
 title: "RPIP focus-group professional learning cycle: consultancy, four-week try-out with commitment and hypothesis, then artifact debrief"
 description: This professional learning strategy, used within the Research-Practice-Industry Partnership, had teachers share an instructional challenge in a modified consultancy design with peers and product experts, then commit t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: First-year MA translation students adopt a cautious, pragmatic approach to GenAI, combining NMT for drafting with LLMs for support tasks
 description: First-year MA translation students adopt a cautious, pragmatic approach to GenAI, combining NMT for drafting with LLMs for support tasks
 id: ma-students-cautious-pragmatic-genai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

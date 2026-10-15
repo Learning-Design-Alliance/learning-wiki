@@ -3,7 +3,7 @@ type: claim
 title: "A controlled experiment tested whether various types of negative feedback affect adult second-language learners' acquisition of abstract constraints on an overgeneralized rule (the English dative alternation)."
 description: "A controlled experiment tested whether various types of negative feedback affect adult second-language learners' acquisition of abstract constraints on an overgeneralized rule (the English dative alternation)."
 id: negative-feedback-types-dative-alternation-experiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

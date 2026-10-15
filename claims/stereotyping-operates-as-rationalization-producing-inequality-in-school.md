@@ -3,7 +3,7 @@ type: claim
 title: "In the analyzed school ethnography, stereotyping operates as a rationalization process that constructs uniformities, and the ghetto label privileges white culture's standards and evaluation networks"
 description: "In the analyzed school ethnography, stereotyping operates as a rationalization process that constructs uniformities, and the ghetto label privileges white culture's standards and evaluation networks"
 id: stereotyping-operates-as-rationalization-producing-inequality-in-school
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

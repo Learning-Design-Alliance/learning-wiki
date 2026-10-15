@@ -3,7 +3,7 @@ type: claim
 title: Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts
 description: Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts
 id: tti-20000-incentive-filled-90-percent-vacancies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ title: Among accepted students, FAFSA completion is associated with roughly 50 p
 description: Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment
 id: fafsa-completion-predicts-four-year-enrollment
 aliases: [fafsa-completion-associated-with-enrollment-chicago]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

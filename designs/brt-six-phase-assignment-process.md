@@ -3,7 +3,7 @@ type: design
 id: brt-six-phase-assignment-process
 title: Six-phase assignment process mapped to BRT cognitive steps
 description: "Each weekly assignment is structured under six phases corresponding to BRT's cognitive process dimensions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

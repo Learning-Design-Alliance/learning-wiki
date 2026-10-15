@@ -2,7 +2,7 @@
 type: theory
 title: Four design features of educator micro-credentials
 description: "The report names four design features that define educator micro-credentials: competency-based, on-demand, personalized, and shareable."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

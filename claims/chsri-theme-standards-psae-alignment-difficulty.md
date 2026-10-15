@@ -3,7 +3,7 @@ type: claim
 title: Some CHSRI small schools struggle to align their themes with CPS graduation standards and PSAE content, and accountability pressure is reshaping instruction
 description: Some CHSRI small schools struggle to align their themes with CPS graduation standards and PSAE content, and accountability pressure is reshaping instruction
 id: chsri-theme-standards-psae-alignment-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

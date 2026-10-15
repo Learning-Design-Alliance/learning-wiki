@@ -3,7 +3,7 @@ type: claim
 title: Coded prompt logs show different prompting strategies foreground different pedagogical themes, with technical prompts the largest strategy total (398 instances)
 description: Coded prompt logs show different prompting strategies foreground different pedagogical themes, with technical prompts the largest strategy total (398 instances)
 id: prompt-strategies-foreground-different-pedagogical-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The charter-school sector has grown to nearly 7,000 schools serving nearly 3 million students since 1992
 description: The charter-school sector has grown to nearly 7,000 schools serving nearly 3 million students since 1992
 id: charter-sector-growth-nearly-7000-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

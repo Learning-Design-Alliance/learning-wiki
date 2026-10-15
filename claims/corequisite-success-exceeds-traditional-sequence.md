@@ -3,7 +3,7 @@ type: claim
 title: First-year corequisite success rates exceeded those of the traditional developmental math sequence, which the report attributes to prior research showing 20 percent earning college-level math credit within three years and 6 percent within one year
 description: First-year corequisite success rates exceeded those of the traditional developmental math sequence, which the report attributes to prior research showing 20 percent earning college-level math credit within three years...
 id: corequisite-success-exceeds-traditional-sequence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: task-specific-pedagogical-instruction-assignment
 title: Attach task-specific pedagogical system instructions to each training example
 description: Following the idea of pedagogical instruction following, each selected training example is associated with a task-specific system instruction that explicitly describes the desired response behavior, determined by the...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

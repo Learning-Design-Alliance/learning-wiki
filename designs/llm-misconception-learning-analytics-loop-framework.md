@@ -3,7 +3,7 @@ type: design
 id: llm-misconception-learning-analytics-loop-framework
 title: Framework for closing the learning analytics loop via LLM-characterized misconceptions
 description: "A cyclical framework in which data collection and analysis pinpoint challenging topics, LLMs characterize underlying misconceptions, and this analysis informs two intervention pathways: \"cohort-level interventions for..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

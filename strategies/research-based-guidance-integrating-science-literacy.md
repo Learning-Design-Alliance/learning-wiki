@@ -3,7 +3,7 @@ type: strategy
 id: research-based-guidance-integrating-science-literacy
 title: Provide research-based guidance for effectively integrating science and literacy instruction
 description: "The brief's stated purpose includes moving beyond documenting benefits to telling educators how to integrate."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

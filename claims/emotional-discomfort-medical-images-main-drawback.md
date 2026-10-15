@@ -3,7 +3,7 @@ type: claim
 title: Emotional discomfort from viewing medical images was the dominant drawback of the annotation task, alongside repetitiveness
 description: Emotional discomfort from viewing medical images was the dominant drawback of the annotation task, alongside repetitiveness
 id: emotional-discomfort-medical-images-main-drawback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: integrate-measurement-with-instructional-psychology
 title: Integrate measurement knowledge with knowledge about instructional psychology for instructional decision-making
 description: "The paper concludes that \"for purposes of instruction and instructional decision-making, there is a need for the integration of measurement knowledge with knowledge about instructional psychology\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

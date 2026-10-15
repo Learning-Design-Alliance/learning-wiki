@@ -4,7 +4,7 @@ title: "A large-scale, rigorous study compared four elementary math curricula's 
 description: "A large-scale, rigorous study compared four elementary math curricula's effects on achievement across two years, first through second grade"
 id: four-curricula-two-year-elementary-math-study-design
 aliases: [four-curricula-two-year-achievement-study]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

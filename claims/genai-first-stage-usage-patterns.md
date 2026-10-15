@@ -3,7 +3,7 @@ type: claim
 title: "Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts"
 description: "Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts"
 id: genai-first-stage-usage-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

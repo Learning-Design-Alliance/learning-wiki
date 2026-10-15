@@ -3,7 +3,7 @@ type: claim
 title: Epistemic behavior does not mediate the relation of cognitive ability or curiosity with academic performance
 description: Epistemic behavior does not mediate the relation of cognitive ability or curiosity with academic performance
 id: epistemic-behavior-fails-to-mediate-academic-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

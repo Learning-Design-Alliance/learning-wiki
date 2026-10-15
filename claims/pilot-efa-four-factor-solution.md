@@ -3,7 +3,7 @@ type: claim
 title: Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings
 description: Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings
 id: pilot-efa-four-factor-solution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

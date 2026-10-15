@@ -4,7 +4,7 @@ id: shaping-our-appalachian-region-soar
 title: Shaping Our Appalachian Region (SOAR)
 description: A nonprofit regional revitalization programme that coordinates Appalachian individuals and organizations around shared values and goals, including technology, computer science education, and digital-economy workforce development.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

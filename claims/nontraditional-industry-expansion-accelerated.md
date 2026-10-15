@@ -3,7 +3,7 @@ type: claim
 title: Apprenticeship expansion into nontraditional industries such as healthcare and education accelerated during the pandemic
 description: Apprenticeship expansion into nontraditional industries such as healthcare and education accelerated during the pandemic
 id: nontraditional-industry-expansion-accelerated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

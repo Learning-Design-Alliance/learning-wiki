@@ -3,7 +3,7 @@ type: claim
 title: Find the Fit made no significant difference in college persistence into the third year after high school
 description: Find the Fit made no significant difference in college persistence into the third year after high school
 id: find-the-fit-no-persistence-effect-third-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

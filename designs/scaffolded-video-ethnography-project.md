@@ -3,7 +3,7 @@ type: design
 id: scaffolded-video-ethnography-project
 title: Scaffolded video ethnography project with peer assessment and self-reflection
 description: "The video project is the key component of a cross-cultural communication course: students videotape a five- to seven-minute interview with a native or experienced speaker about cross-cultural experiences, then give a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

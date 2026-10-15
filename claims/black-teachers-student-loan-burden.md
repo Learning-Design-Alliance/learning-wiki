@@ -3,7 +3,7 @@ type: claim
 title: Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt
 description: Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt
 id: black-teachers-student-loan-burden
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

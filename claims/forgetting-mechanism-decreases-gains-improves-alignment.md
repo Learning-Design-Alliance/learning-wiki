@@ -3,7 +3,7 @@ type: claim
 title: Adding a memory (forgetting) mechanism slightly decreases simulated learning gains overall yet improves alignment with human results, apparently by letting agents discard incorrect rules
 description: Adding a memory (forgetting) mechanism slightly decreases simulated learning gains overall yet improves alignment with human results, apparently by letting agents discard incorrect rules
 id: forgetting-mechanism-decreases-gains-improves-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

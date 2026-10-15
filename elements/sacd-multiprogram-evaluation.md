@@ -3,7 +3,7 @@ type: element
 id: sacd-multiprogram-evaluation
 title: SACD multiprogram evaluation of seven schoolwide programs
 description: "The multiprogram evaluation is the report's central artifact: a coordinated experimental evaluation of seven named SACD programs (4Rs, ABC, CSP, Love In a Big World, Positive Action, PATHS, and Second Step)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

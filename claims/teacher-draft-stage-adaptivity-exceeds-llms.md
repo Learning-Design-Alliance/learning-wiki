@@ -3,7 +3,7 @@ type: claim
 title: Teachers adapt feedback focus across draft stages in five types while the best model shows significant changes in only three
 description: Teachers adapt feedback focus across draft stages in five types while the best model shows significant changes in only three
 id: teacher-draft-stage-adaptivity-exceeds-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

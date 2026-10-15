@@ -3,7 +3,7 @@ type: claim
 title: "The NCLB era's focus on targets and sanctions without educator capacity-building or component alignment was a key barrier to implementing new standards"
 description: "The NCLB era's focus on targets and sanctions without educator capacity-building or component alignment was a key barrier to implementing new standards"
 id: nclb-targets-sanctions-without-capacity-barrier
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

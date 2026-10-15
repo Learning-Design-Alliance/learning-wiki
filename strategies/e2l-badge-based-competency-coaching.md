@@ -3,7 +3,7 @@ type: strategy
 id: e2l-badge-based-competency-coaching
 title: Badge-based competency coaching in which teachers design customized mastery paths and earn badges for demonstrated evidence of practice
 description: "This strategy has teachers work with a Data-Informed Growth Coach to design \"a customized path toward mastery of core instructional Best Practices and district-selected standards\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

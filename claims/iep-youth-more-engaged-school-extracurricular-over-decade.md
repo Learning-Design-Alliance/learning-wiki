@@ -3,7 +3,7 @@ type: claim
 title: Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities
 description: Over the past decade (2003–2012), high school youth with an IEP became more engaged in school and extracurricular activities
 id: iep-youth-more-engaged-school-extracurricular-over-decade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

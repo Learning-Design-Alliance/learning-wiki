@@ -3,7 +3,7 @@ type: claim
 title: "The review identifies three pathways of AI-empowered STEM education: technological leap to generative AI, integration into instructional systems, and value shift toward competency cultivation"
 description: "The review identifies three pathways of AI-empowered STEM education: technological leap to generative AI, integration into instructional systems, and value shift toward competency cultivation"
 id: three-pathways-ai-empowered-stem-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

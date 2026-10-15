@@ -3,7 +3,7 @@ type: claim
 title: Evidence exists for AI agents as collaborative partners, but more work is needed on how computing agents can best support learning of AI itself
 description: Evidence exists for AI agents as collaborative partners, but more work is needed on how computing agents can best support learning of AI itself
 id: ai-partners-evidence-but-more-work-needed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

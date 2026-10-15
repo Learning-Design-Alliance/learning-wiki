@@ -3,7 +3,7 @@ type: claim
 title: "MAIC's script generation function outscores baseline and human script generation on five Likert-rated dimensions"
 description: "MAIC's script generation function outscores baseline and human script generation on five Likert-rated dimensions"
 id: maic-funcgen-outperforms-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

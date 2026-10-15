@@ -3,7 +3,7 @@ type: claim
 title: The possibility that anxiety interferes with language learning has long interested scholars, teachers, and learners
 description: The possibility that anxiety interferes with language learning has long interested scholars, teachers, and learners
 id: anxiety-interferes-language-learning-long-interest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

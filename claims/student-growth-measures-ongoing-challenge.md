@@ -3,7 +3,7 @@ type: claim
 title: Incorporating measures of student growth into teacher evaluation systems remained an ongoing challenge for early adopter districts
 description: Incorporating measures of student growth into teacher evaluation systems remained an ongoing challenge for early adopter districts
 id: student-growth-measures-ongoing-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence
 description: Authors report that flexibility in sim access supports student agency while students tend to explore in a productive sequence
 id: flexibility-supports-agency-productive-sequence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

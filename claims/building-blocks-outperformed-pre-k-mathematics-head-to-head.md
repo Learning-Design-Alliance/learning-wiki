@@ -3,7 +3,7 @@ type: claim
 title: Building Blocks for Math outperformed Pre-K Mathematics with DLM Express in a head-to-head comparison on the Early Mathematics Assessment
 description: Building Blocks for Math outperformed Pre-K Mathematics with DLM Express in a head-to-head comparison on the Early Mathematics Assessment
 id: building-blocks-outperformed-pre-k-mathematics-head-to-head
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

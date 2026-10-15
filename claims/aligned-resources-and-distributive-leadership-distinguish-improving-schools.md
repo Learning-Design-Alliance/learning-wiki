@@ -3,7 +3,7 @@ type: claim
 title: Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role
 description: Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role
 id: aligned-resources-and-distributive-leadership-distinguish-improving-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

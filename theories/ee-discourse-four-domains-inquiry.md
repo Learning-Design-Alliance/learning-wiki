@@ -2,7 +2,7 @@
 type: theory
 title: Four domains of inquiry in environmental education discourse formed by intersecting ontological and axiological dimensions
 description: "The first conceptual map organizes environmental education-related discourse along two intersecting dimensions: a reality dimension (materialist versus immanence) and a valuation dimension (anthropocentric versus ecoc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

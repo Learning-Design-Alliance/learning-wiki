@@ -3,7 +3,7 @@ type: strategy
 id: direct-metacognitive-strategy-instruction-reading-curriculum
 title: Incorporate explicit direct instruction of metacognitive reading strategies into the reading curriculum
 description: "The article recommends that direct instruction of metacognitive strategies be built into EFL reading lessons: it \"should be explicit and relevant with reading tasks and should be prescribed in textbooks which are curr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

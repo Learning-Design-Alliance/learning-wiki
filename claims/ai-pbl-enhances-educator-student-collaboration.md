@@ -3,7 +3,7 @@ type: claim
 title: AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions
 description: AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions
 id: ai-pbl-enhances-educator-student-collaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

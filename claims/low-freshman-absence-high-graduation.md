@@ -3,7 +3,7 @@ type: claim
 title: Nearly 90 percent of Chicago freshmen who miss less than a week of school per semester graduate, regardless of 8th grade test scores
 description: Nearly 90 percent of Chicago freshmen who miss less than a week of school per semester graduate, regardless of 8th grade test scores
 id: low-freshman-absence-high-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

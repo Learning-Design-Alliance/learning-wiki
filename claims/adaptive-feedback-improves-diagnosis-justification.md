@@ -3,7 +3,7 @@ type: claim
 title: Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)
 description: Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)
 id: adaptive-feedback-improves-diagnosis-justification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

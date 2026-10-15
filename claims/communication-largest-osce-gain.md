@@ -3,7 +3,7 @@ type: claim
 title: The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance
 description: The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance
 id: communication-largest-osce-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

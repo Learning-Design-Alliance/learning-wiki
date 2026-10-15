@@ -3,7 +3,7 @@ type: claim
 title: "Educational robotics has a moderate effect on students' STEM learning attitudes"
 description: "Educational robotics has a moderate effect on students' STEM learning attitudes"
 id: educational-robotics-effect-learning-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

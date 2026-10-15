@@ -3,7 +3,7 @@ type: claim
 title: Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP
 description: Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP
 id: federal-policy-growth-modeling-requirements-nclb-rttp
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

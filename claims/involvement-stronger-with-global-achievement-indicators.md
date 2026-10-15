@@ -3,7 +3,7 @@ type: claim
 title: The parental involvement–achievement relationship is stronger for global achievement indicators (e.g., GPA) than for subject-specific indicators (e.g., math grade)
 description: The parental involvement–achievement relationship is stronger for global achievement indicators (e.g., GPA) than for subject-specific indicators (e.g., math grade)
 id: involvement-stronger-with-global-achievement-indicators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

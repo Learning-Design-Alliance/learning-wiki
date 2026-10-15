@@ -3,7 +3,7 @@ type: claim
 title: Users experienced a trade-off between conversational depth and interaction efficiency between the fine-tuned and baseline chatbots
 description: Users experienced a trade-off between conversational depth and interaction efficiency between the fine-tuned and baseline chatbots
 id: depth-efficiency-tradeoff-instructional-chatbots
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

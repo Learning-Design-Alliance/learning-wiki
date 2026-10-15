@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes
 description: Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes
 id: msr-mediation-ai-interaction-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

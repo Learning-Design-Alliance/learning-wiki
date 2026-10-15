@@ -3,7 +3,7 @@ type: strategy
 id: adaptive-hint-withholding-from-hint-prediction
 title: Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints
 description: The article proposes that a learning environment use a hint-taking prediction model to make adaptive decisions on showing hints, because learners misuse on-demand hints.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Instructional expenditures show the largest consistent association with achievement, with roughly 84% of variation in spending effectiveness driven by class size reductions, teacher salary increases, and reduced teacher turnover"
 description: "Instructional expenditures show the largest consistent association with achievement, with roughly 84% of variation in spending effectiveness driven by class size reductions, teacher salary increases, and reduced teach..."
 id: instructional-expenditures-class-size-teacher-salary-turnout-drive-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

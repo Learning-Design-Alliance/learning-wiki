@@ -3,7 +3,7 @@ type: claim
 title: A program is said to have an effect when the difference between program and non-program groups is statistically significant
 description: A program is said to have an effect when the difference between program and non-program groups is statistically significant
 id: effect-defined-as-statistically-significant-group-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

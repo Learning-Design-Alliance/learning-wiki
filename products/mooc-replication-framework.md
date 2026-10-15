@@ -4,7 +4,7 @@ id: mooc-replication-framework
 title: MOOC Replication Framework
 description: MORF, described by Gardner (2018), is a framework that supports controlled, privacy-preserving replication of predictive analyses across MOOC studies, courses, and datasets.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

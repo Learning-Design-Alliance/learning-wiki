@@ -3,7 +3,7 @@ type: claim
 title: "Some educators are concerned that students scoring at the bottom or top of a test's score distribution will negatively affect the value-added estimates of those students' teachers"
 description: "Some educators are concerned that students scoring at the bottom or top of a test's score distribution will negatively affect the value-added estimates of those students' teachers"
 id: educator-concern-floor-ceiling-value-added
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

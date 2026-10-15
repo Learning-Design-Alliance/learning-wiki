@@ -3,7 +3,7 @@ type: claim
 title: Editing and proofreading was the most prevalent category of GenAI use among PGR students, reported by over half of participants
 description: Editing and proofreading was the most prevalent category of GenAI use among PGR students, reported by over half of participants
 id: editing-proofreading-most-prevalent-genai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

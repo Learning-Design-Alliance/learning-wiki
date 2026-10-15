@@ -3,7 +3,7 @@ type: claim
 title: Paying middle-school students for attendance, behavior, uniforms, and homework yields marginally significant reading gains and non-significant math gains in Washington, DC
 description: Paying middle-school students for attendance, behavior, uniforms, and homework yields marginally significant reading gains and non-significant math gains in Washington, DC
 id: dc-input-incentives-marginal-reading-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

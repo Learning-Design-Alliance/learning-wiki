@@ -3,7 +3,7 @@ type: claim
 title: The PROMISE interim evaluation measured impacts on primary outcomes at 18 months after enrollment
 description: The PROMISE interim evaluation measured impacts on primary outcomes at 18 months after enrollment
 id: promise-impacts-measured-18-months
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

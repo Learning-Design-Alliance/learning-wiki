@@ -3,7 +3,7 @@ type: claim
 title: Change is a specialized instance of the general communication model
 description: Change is a specialized instance of the general communication model
 id: change-as-specialized-communication-instance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

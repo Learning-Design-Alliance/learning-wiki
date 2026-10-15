@@ -3,7 +3,7 @@ type: research-method
 id: five-class-taxonomy-of-knowledge-sources-for-synthesizing-stem-plc-knowledge
 title: Five-class taxonomy of knowledge sources for synthesizing STEM PLC knowledge
 description: "The synthesis organizes its evidence into five named classes of knowledge: Type 1, elaborated empirical studies since 1995 mostly in peer-reviewed journals; Type 2, empirical studies reported without method detail and non-empirical work such as theory building; Type 3, published expert knowledge and"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

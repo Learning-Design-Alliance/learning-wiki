@@ -3,7 +3,7 @@ type: claim
 title: Days lost to suspension at the Kauffman School are small on average relative to instructional time added by its extended school day and year
 description: Days lost to suspension at the Kauffman School are small on average relative to instructional time added by its extended school day and year
 id: kauffman-suspension-days-small-versus-extended-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

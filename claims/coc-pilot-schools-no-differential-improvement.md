@@ -3,7 +3,7 @@ type: claim
 title: Pilot CoC schools did not improve faster than non-pilot CoC schools or non-CoC schools on any measure
 description: Pilot CoC schools did not improve faster than non-pilot CoC schools or non-CoC schools on any measure
 id: coc-pilot-schools-no-differential-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

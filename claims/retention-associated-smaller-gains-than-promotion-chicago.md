@@ -3,7 +3,7 @@ type: claim
 title: Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades
 description: Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades
 id: retention-associated-smaller-gains-than-promotion-chicago
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: MOOC adoption remains limited to a small segment of higher education institutions, with most institutions deciding against or remaining undecided about MOOCs
 description: MOOC adoption remains limited to a small segment of higher education institutions, with most institutions deciding against or remaining undecided about MOOCs
 id: mooc-adoption-small-segment-institutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

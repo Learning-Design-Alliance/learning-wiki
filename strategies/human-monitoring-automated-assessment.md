@@ -3,7 +3,7 @@ type: strategy
 id: human-monitoring-automated-assessment
 title: Automated assessment outputs must retain human monitoring and never serve as official grades or sole decision bases
 description: An ethics and privacy requirement the article states for any future use of the dataset in automated assessment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

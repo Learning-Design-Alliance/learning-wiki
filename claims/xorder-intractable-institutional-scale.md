@@ -3,7 +3,7 @@ type: claim
 title: The xOrder fairness method proved inapplicable at institutional scale, with runtime scaling of approximately n^2.36
 description: The xOrder fairness method proved inapplicable at institutional scale, with runtime scaling of approximately n^2.36
 id: xorder-intractable-institutional-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

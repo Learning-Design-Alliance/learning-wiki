@@ -3,7 +3,7 @@ type: claim
 title: "Kindergarten convergence is not attributable to pre-K children's kindergarten classroom experiences but is attributable to preexisting individual differences"
 description: "Kindergarten convergence is not attributable to pre-K children's kindergarten classroom experiences but is attributable to preexisting individual differences"
 id: convergence-attributable-to-preexisting-differences-not-kindergarten-classrooms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

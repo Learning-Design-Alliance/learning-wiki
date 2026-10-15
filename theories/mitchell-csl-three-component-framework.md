@@ -2,7 +2,7 @@
 type: theory
 title: "Mitchell's critical service-learning framework: redistribution of power, social change, and authentic relationships"
 description: "The article presents Mitchell's (2008) critical service-learning model as a democratized, social-justice approach to service learning that adds three components to the traditional model."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

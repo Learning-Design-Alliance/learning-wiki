@@ -4,7 +4,7 @@ id: the-ai-assessment-scale-aias
 title: The AI Assessment Scale (AIAS)
 description: A scale-based framework developed by Perkins et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

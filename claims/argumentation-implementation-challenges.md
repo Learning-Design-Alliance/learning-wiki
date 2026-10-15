@@ -3,7 +3,7 @@ type: claim
 title: Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support
 description: Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support
 id: argumentation-implementation-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

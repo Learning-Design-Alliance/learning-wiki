@@ -3,7 +3,7 @@ type: strategy
 id: student-critical-mass-structuring
 title: "Structure R&D teams for student critical mass, processing time, and collaboration to dispel intimidation"
 description: "A strategy for amplifying student voice in education R&D teams based on findings from the Young (2022) study."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

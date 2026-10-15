@@ -3,7 +3,7 @@ type: claim
 title: "No behavioral measure of compliance with MetaTutor's stay-on-page and move-to-next-page prompts relates to learning gains"
 description: "No behavioral measure of compliance with MetaTutor's stay-on-page and move-to-next-page prompts relates to learning gains"
 id: no-learning-effect-for-metacognitive-monitoring-prompts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

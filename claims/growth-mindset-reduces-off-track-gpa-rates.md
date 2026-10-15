@@ -3,7 +3,7 @@ type: claim
 title: "The growth mindset intervention was estimated to prevent about 5.3% of US lower-achieving ninth-graders per year from being off track for graduation"
 description: "The growth mindset intervention was estimated to prevent about 5.3% of US lower-achieving ninth-graders per year from being off track for graduation"
 id: growth-mindset-reduces-off-track-gpa-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: TFA teachers show potentially positive effects on science achievement, based on one study
 description: TFA teachers show potentially positive effects on science achievement, based on one study
 id: tfa-potentially-positive-science-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

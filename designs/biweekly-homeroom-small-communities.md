@@ -3,7 +3,7 @@ type: design
 id: biweekly-homeroom-small-communities
 title: Biweekly homerooms as relationship-centered small communities
 description: McLane High School transformed its homeroom structure as a core RCS effort to build consistent relationships in a large school.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

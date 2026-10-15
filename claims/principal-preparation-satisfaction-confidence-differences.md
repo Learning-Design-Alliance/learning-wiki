@@ -3,7 +3,7 @@ type: claim
 title: LAUNCH principals report greater satisfaction and confidence in their preparation while NLNS principals report less confidence in operational management
 description: LAUNCH principals report greater satisfaction and confidence in their preparation while NLNS principals report less confidence in operational management
 id: principal-preparation-satisfaction-confidence-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

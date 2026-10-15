@@ -3,7 +3,7 @@ type: claim
 title: Read Naturally® shows potentially positive effects on writing for students with learning disabilities, with a substantively important but non-significant effect size on the WIAT Written Expression subtest
 description: Read Naturally® shows potentially positive effects on writing for students with learning disabilities, with a substantively important but non-significant effect size on the WIAT Written Expression subtest
 id: read-naturally-potentially-positive-writing-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

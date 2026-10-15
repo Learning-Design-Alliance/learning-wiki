@@ -3,7 +3,7 @@ type: strategy
 id: ceoforum-teacher-tech-integration-recommendations
 title: "CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages"
 description: The report issues a set of dated recommendations directed at educators, administrators, and business and community leaders.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

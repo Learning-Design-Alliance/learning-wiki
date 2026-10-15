@@ -3,7 +3,7 @@ type: claim
 title: The general polytomous testlet model recovers true item parameters well in simulation, with average correlations of 0.9680, 0.8608, and 0.9982 for discrimination and difficulty parameters
 description: The general polytomous testlet model recovers true item parameters well in simulation, with average correlations of 0.9680, 0.8608, and 0.9982 for discrimination and difficulty parameters
 id: polytomous-testlet-model-good-parameter-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

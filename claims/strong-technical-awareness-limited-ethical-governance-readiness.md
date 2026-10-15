@@ -3,7 +3,7 @@ type: claim
 title: Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness
 description: Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness
 id: strong-technical-awareness-limited-ethical-governance-readiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model
 description: GLAT shows robust structural validity and reliability under a 2-parameter logistic IRT model
 id: glat-2pl-structural-validity-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

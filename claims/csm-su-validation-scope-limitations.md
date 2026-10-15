@@ -3,7 +3,7 @@ type: claim
 title: "The study's scope is limited by English-only sources, a Cyprus-based Delphi panel, and interpretive synthesis"
 description: "The study's scope is limited by English-only sources, a Cyprus-based Delphi panel, and interpretive synthesis"
 id: csm-su-validation-scope-limitations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

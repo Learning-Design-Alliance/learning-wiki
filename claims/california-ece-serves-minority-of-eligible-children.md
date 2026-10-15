@@ -3,7 +3,7 @@ type: claim
 title: "California's subsidized ECE system serves only a minority of eligible children, with the lowest access among infants and toddlers"
 description: "California's subsidized ECE system serves only a minority of eligible children, with the lowest access among infants and toddlers"
 id: california-ece-serves-minority-of-eligible-children
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

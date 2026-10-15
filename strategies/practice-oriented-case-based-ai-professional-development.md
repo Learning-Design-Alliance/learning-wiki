@@ -3,7 +3,7 @@ type: strategy
 id: practice-oriented-case-based-ai-professional-development
 title: "Design AI-related teacher professional development as practice-oriented, case-based and connected to teachers' real pedagogical decisions"
 description: "Drawing on recent AI-focused literature, the review recommends orienting AI professional development toward teachers' actual practice."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

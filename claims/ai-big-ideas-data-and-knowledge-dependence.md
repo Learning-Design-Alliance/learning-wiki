@@ -3,7 +3,7 @@ type: claim
 title: Machine perception and learning depend on large, unbiased training data
 description: Machine perception and learning depend on large, unbiased training data
 id: ai-big-ideas-data-and-knowledge-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

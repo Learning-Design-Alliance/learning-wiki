@@ -3,7 +3,7 @@ type: claim
 title: Engaging students as partners in analyzing and discussing student experience data creates authentic engagement and signals responsiveness to students
 description: Engaging students as partners in analyzing and discussing student experience data creates authentic engagement and signals responsiveness to students
 id: students-as-partners-in-data-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

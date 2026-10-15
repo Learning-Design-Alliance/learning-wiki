@@ -4,7 +4,7 @@ id: ethical-ai-and-workforce-readiness-eawr-micro-credential-framework
 title: Ethical AI and Workforce Readiness (EAWR) micro-credential framework
 description: A proposed micro-credential framework by İsmail Şan et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

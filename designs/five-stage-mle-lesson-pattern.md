@@ -3,7 +3,7 @@ type: design
 id: five-stage-mle-lesson-pattern
 title: "Five-stage MLE lesson pattern: curiosity arousal, explicit goals, meaning mediation, critical questioning, and transfer task"
 description: "The article's Table 1 presents a five-stage English lesson enacting MLE: (1) arousing excitement and curiosity with materials, (2) announcing explicit learning goals, (3) mediating meaning through explanation and resp..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

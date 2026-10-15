@@ -3,7 +3,7 @@ type: claim
 title: "Retained regulation units showed a higher combined strategic-plus-reflective share in interaction logs than in think-aloud speech (69.3% vs 55.3%)"
 description: "Retained regulation units showed a higher combined strategic-plus-reflective share in interaction logs than in think-aloud speech (69.3% vs 55.3%)"
 id: regulation-strategic-reflective-higher-interaction-log
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

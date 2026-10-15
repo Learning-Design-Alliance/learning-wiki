@@ -3,7 +3,7 @@ type: claim
 title: The study distinguishes three EL service-history groups with distinct achievement and growth profiles
 description: The study distinguishes three EL service-history groups with distinct achievement and growth profiles
 id: three-el-service-history-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

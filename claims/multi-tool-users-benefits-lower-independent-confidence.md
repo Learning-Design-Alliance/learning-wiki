@@ -3,7 +3,7 @@ type: claim
 title: Multi-tool GenAI users report higher support, reliance, and benefit than single-tool users, but lower confidence working without GenAI
 description: Multi-tool GenAI users report higher support, reliance, and benefit than single-tool users, but lower confidence working without GenAI
 id: multi-tool-users-benefits-lower-independent-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

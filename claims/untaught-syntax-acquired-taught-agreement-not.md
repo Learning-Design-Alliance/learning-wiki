@@ -3,7 +3,7 @@ type: claim
 title: Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced
 description: Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced
 id: untaught-syntax-acquired-taught-agreement-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

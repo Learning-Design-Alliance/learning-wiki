@@ -2,7 +2,7 @@
 type: theory
 title: "Heritage-language motivation framework for indigenous HL2 learners: revitalisation, identity, and cultural participation"
 description: The article organises Māori HL2 learner motivation around the interplay of cultural revitalisation, identity, and access to cultural practices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

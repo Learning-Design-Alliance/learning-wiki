@@ -3,7 +3,7 @@ type: claim
 title: "Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use"
 description: "Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use"
 id: student-surveys-ai-use-guidance-checking-correctness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

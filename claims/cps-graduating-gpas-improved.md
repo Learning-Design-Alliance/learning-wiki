@@ -3,7 +3,7 @@ type: claim
 title: "CPS graduates' qualifications improved: students graduating with at least a 3.0 core GPA rose from 21 to 32 percent between 2006 and 2015"
 description: "CPS graduates' qualifications improved: students graduating with at least a 3.0 core GPA rose from 21 to 32 percent between 2006 and 2015"
 id: cps-graduating-gpas-improved
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

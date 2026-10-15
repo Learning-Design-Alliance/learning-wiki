@@ -3,7 +3,7 @@ type: strategy
 id: train-all-foundational-block-staff-og-plus
 title: Train all staff who deliver the foundational literacy block in IMSE OG+
 description: The summary recommends that implementation fidelity depends on training everyone who works with students during the foundational literacy block.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

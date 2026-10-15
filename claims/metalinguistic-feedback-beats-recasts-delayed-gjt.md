@@ -3,7 +3,7 @@ type: claim
 title: Explicit metalinguistic feedback outperforms recasts on the delayed grammaticality judgment posttest
 description: Explicit metalinguistic feedback outperforms recasts on the delayed grammaticality judgment posttest
 id: metalinguistic-feedback-beats-recasts-delayed-gjt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

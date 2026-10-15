@@ -3,7 +3,7 @@ type: claim
 title: Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) showed less error on a 24-h transfer test to a new target distance than Self-Before learners and their yoked counterparts.
 description: Learners who could decide after a trial whether to receive knowledge of results (Self-After, Self-Both) showed less error on a 24-h transfer test to a new target distance than Self-Before learners and their yoked coun...
 id: self-controlled-kr-decided-after-trial-improves-motor-transfer
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

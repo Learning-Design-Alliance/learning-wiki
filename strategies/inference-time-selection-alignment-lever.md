@@ -3,7 +3,7 @@ type: strategy
 id: inference-time-selection-alignment-lever
 title: Use inference-time selection with a small interpretable index as a pedagogical alignment lever between full RL retraining and greedy decoding
 description: "For practitioners, the article recommends keeping the model frozen and selecting among N stochastic candidate responses with an interpretable index rather than retraining: \"a useful pedagogical alignment lever sits be..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

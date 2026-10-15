@@ -3,7 +3,7 @@ type: element
 id: personalized-novel-sentence-generation-task
 title: Personalized novel-sentence generation task for L2 vocabulary lessons
 description: "An instructional task component in which learners write two to three personalized novel sentences for each target vocabulary item, based on a provided model answer, integrating the word's meaning, grammar, and persona..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

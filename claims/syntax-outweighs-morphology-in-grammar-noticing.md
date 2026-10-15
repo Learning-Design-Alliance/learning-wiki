@@ -3,7 +3,7 @@ type: claim
 title: "Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants"
 description: "Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants"
 id: syntax-outweighs-morphology-in-grammar-noticing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

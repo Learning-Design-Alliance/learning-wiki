@@ -3,7 +3,7 @@ type: claim
 title: Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor
 description: Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor
 id: students-prefer-and-trust-robot-storytelling-partner
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

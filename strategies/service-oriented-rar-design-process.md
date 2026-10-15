@@ -3,7 +3,7 @@ type: strategy
 id: service-oriented-rar-design-process
 title: Design a service-oriented resource allocation review using continuous improvement and design thinking, engaging LEAs and schools in design, pilot, and test phases before rollout.
 description: "The report recommends that states draw from \"principles of continuous improvement and design thinking\" to create a process supporting educational leaders from an end-user perspective at each design stage."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

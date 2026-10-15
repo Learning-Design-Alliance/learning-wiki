@@ -3,7 +3,7 @@ type: claim
 title: "Carnegie Learning attributes positive practitioner feedback to connecting research to participants' needs, lowering effort barriers, and compensating participation"
 description: "Carnegie Learning attributes positive practitioner feedback to connecting research to participants' needs, lowering effort barriers, and compensating participation"
 id: carnegie-learning-practitioner-engagement-tactics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

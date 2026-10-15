@@ -2,7 +2,7 @@
 type: theory
 title: "Piaget's taxonomy of play: practice games, symbolic games, and games with rules"
 description: "The paper presents Piaget's classification of children's play into three main categories that evolve with development."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

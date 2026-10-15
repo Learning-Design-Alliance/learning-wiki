@@ -3,7 +3,7 @@ type: claim
 title: Across the two qualifying studies, Talent Search shows an average improvement index of +17 percentile points on completing school
 description: Across the two qualifying studies, Talent Search shows an average improvement index of +17 percentile points on completing school
 id: talent-search-average-improvement-index-completing-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

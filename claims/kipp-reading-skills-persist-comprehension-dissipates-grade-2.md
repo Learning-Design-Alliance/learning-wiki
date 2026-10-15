@@ -3,7 +3,7 @@ type: claim
 title: The KIPP impact on reading skills persists over time, but impacts on reading comprehension largely dissipate by grade 2
 description: The KIPP impact on reading skills persists over time, but impacts on reading comprehension largely dissipate by grade 2
 id: kipp-reading-skills-persist-comprehension-dissipates-grade-2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

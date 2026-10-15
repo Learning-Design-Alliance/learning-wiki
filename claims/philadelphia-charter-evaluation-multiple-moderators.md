@@ -3,7 +3,7 @@ type: claim
 title: The evaluation examined charter school effects by years of operation, grades served, mission, and demographics, plus student composition and turnover
 description: The evaluation examined charter school effects by years of operation, grades served, mission, and demographics, plus student composition and turnover
 id: philadelphia-charter-evaluation-multiple-moderators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: research-method
 id: evidence-centered-design
 title: Evidence-Centered Design
 description: ECD is a principled assessment design framework that structures the rationales, choices, and consequences of assessment development.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

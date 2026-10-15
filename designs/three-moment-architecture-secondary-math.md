@@ -3,7 +3,7 @@ type: design
 id: three-moment-architecture-secondary-math
 title: Three Moment Architecture for secondary mathematics lessons with English Learners
 description: "Three Moment Architecture is a bounded instructional sequence in which a lesson, possibly spanning several class periods, moves through three distinct moments with different pedagogical purposes: Preparing the Learner..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

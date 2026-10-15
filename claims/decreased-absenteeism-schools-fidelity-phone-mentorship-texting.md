@@ -3,7 +3,7 @@ type: claim
 title: Schools in which chronic absenteeism decreased implemented phone calls, mentorship programs, and text messaging with moderate or high fidelity more frequently than schools in which it increased
 description: Schools in which chronic absenteeism decreased implemented phone calls, mentorship programs, and text messaging with moderate or high fidelity more frequently than schools in which it increased
 id: decreased-absenteeism-schools-fidelity-phone-mentorship-texting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

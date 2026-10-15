@@ -4,7 +4,7 @@ id: pyneuralogic-framework-for-lifted-relational-neural-symbolic-learning
 title: PyNeuraLogic framework for lifted relational neural-symbolic learning
 description: PyNeuraLogic is an open-source framework developed by Hooshyar et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

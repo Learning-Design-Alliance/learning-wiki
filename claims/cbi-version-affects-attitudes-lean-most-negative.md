@@ -3,7 +3,7 @@ type: claim
 title: Treatment version significantly affects student attitudes, with the lean program most negative and no-practice next
 description: Treatment version significantly affects student attitudes, with the lean program most negative and no-practice next
 id: cbi-version-affects-attitudes-lean-most-negative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

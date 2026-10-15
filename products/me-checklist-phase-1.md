@@ -4,7 +4,7 @@ id: me-checklist-phase-1
 title: "M&E Checklist Phase 1"
 description: A Mathematica-developed, Gates Foundation-supported checklist that guides stakeholders through designing, refining, and testing education solutions using a theory of change.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

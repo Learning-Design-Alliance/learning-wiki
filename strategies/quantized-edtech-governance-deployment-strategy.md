@@ -3,7 +3,7 @@ type: strategy
 id: quantized-edtech-governance-deployment-strategy
 title: Disclose quantization trade-offs, audit bias, and establish data governance before live deployment of quantized educational AI
 description: The article recommends a structured ethical governance framework for institutional deployment of quantized educational AI, with three interconnected concerns.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

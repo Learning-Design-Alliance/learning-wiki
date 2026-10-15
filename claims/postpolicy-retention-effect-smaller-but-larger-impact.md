@@ -3,7 +3,7 @@ type: claim
 title: The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger
 description: The postpolicy retention effect on dropout was smaller than the prepolicy retention relationship, but its systemwide impact was larger
 id: postpolicy-retention-effect-smaller-but-larger-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

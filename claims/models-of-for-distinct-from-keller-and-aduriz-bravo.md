@@ -3,7 +3,7 @@ type: claim
 title: "The article's use of models of and models for is similar to but distinct from prior uses of the terms in philosophy of science"
 description: "The article's use of models of and models for is similar to but distinct from prior uses of the terms in philosophy of science"
 id: models-of-for-distinct-from-keller-and-aduriz-bravo
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

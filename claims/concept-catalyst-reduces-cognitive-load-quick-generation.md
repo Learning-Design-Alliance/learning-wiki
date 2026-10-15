@@ -3,7 +3,7 @@ type: claim
 title: "A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI"
 description: "A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI"
 id: concept-catalyst-reduces-cognitive-load-quick-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

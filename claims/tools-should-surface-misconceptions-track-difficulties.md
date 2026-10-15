@@ -3,7 +3,7 @@ type: claim
 title: Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment
 description: Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment
 id: tools-should-surface-misconceptions-track-difficulties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

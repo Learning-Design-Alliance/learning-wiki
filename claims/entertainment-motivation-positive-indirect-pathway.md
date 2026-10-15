@@ -3,7 +3,7 @@ type: claim
 title: Entertainment motivation carries a positive indirect association between AI dependence and self-reported creativity, weakening as perceived AI literacy increases
 description: Entertainment motivation carries a positive indirect association between AI dependence and self-reported creativity, weakening as perceived AI literacy increases
 id: entertainment-motivation-positive-indirect-pathway
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

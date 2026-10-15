@@ -3,7 +3,7 @@ type: claim
 title: "Free-tier LLM detection performance varies widely and differs by corpus: gemini-2.0-flash leads on real data while the pattern detector leads on synthetic data for intent detection"
 description: "Free-tier LLM detection performance varies widely and differs by corpus: gemini-2.0-flash leads on real data while the pattern detector leads on synthetic data for intent detection"
 id: llm-detection-variability-across-corpus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

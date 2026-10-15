@@ -3,7 +3,7 @@ type: design
 id: a2pl-three-level-intervention
 title: "A2PL three-level intervention design: Person, Task, and Person x Task levels"
 description: The A2PL intervention operates at three levels.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

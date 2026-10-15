@@ -3,7 +3,7 @@ type: claim
 title: "Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults"
 description: "Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults"
 id: noise-impairs-children-listening-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

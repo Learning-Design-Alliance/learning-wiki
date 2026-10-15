@@ -3,7 +3,7 @@ type: strategy
 id: investigate-mentor-capacity-behind-topic-variation
 title: State and district leaders should collect information from mentors about how they chose activities and topics, to decide whether variation reflects teacher needs or insufficient mentor resources
 description: "Because mentoring activities and topics varied greatly across teachers, the report recommends that leaders gather evidence before acting: \"state and district leaders might consider collecting additional information fr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

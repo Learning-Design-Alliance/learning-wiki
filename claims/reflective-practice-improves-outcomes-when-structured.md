@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Reflective Practice Improves Outcomes When Structured
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

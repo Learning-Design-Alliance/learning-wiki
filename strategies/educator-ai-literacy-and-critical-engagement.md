@@ -3,7 +3,7 @@ type: strategy
 id: educator-ai-literacy-and-critical-engagement
 title: Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content
 description: "Among its educational implications, the article highlights the need for teacher capability: \"Teachers must be equipped not only to use AI tools but also to critically evaluate their outputs, understand their limitatio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

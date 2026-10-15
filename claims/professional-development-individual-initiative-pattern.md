@@ -3,7 +3,7 @@ type: claim
 title: Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it
 description: Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it
 id: professional-development-individual-initiative-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Residencies prepare teachers for high-need subjects and schools, with most NCTR-network graduates hired in shortage fields and Title I schools
 description: Residencies prepare teachers for high-need subjects and schools, with most NCTR-network graduates hired in shortage fields and Title I schools
 id: residencies-fill-high-need-positions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

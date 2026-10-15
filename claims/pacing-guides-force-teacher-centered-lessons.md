@@ -3,7 +3,7 @@ type: claim
 title: One policy report argues that rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding activities, especially in schools serving learners of color and those experiencing poverty
 description: Rigid pacing guides push teachers toward teacher-centered lessons and away from cognitively demanding, learner-centered activities, especially in schools serving learners of color and those experiencing poverty
 id: pacing-guides-force-teacher-centered-lessons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

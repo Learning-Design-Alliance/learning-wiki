@@ -3,7 +3,7 @@ type: design
 id: worked-examples-for-game-based-puzzle-problem-solving
 title: Before-the-problem complete worked examples for a game-based puzzle task
 description: A worked example intervention inserted between two rounds of a commercial computer puzzle game.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

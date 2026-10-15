@@ -3,7 +3,7 @@ type: claim
 title: "Ethical reflection is often addressed separately from technical and creative AI activities, showing weak co-occurrence with Social Reasoning (42%), Using AI (41%) and Creating with AI (55%)"
 description: "Ethical reflection is often addressed separately from technical and creative AI activities, showing weak co-occurrence with Social Reasoning (42%), Using AI (41%) and Creating with AI (55%)"
 id: ethics-weakly-integrated-with-technical-creative-ai-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

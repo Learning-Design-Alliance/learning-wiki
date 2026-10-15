@@ -3,7 +3,7 @@ type: strategy
 id: hls-decision-rule-guidelines
 title: Decision-rule guidelines for interpreting HLS responses, including weighted thresholds and preponderance-of-evidence profiles
 description: The paper summarizes guidelines for turning HLS responses into identification decisions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

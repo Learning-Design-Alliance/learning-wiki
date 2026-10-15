@@ -3,7 +3,7 @@ type: claim
 title: Gemini 2.0 Flash validated as a reliable LLM annotator of feedback focus types
 description: Gemini 2.0 Flash validated as a reliable LLM annotator of feedback focus types
 id: gemini-flash-reliable-feedback-focus-annotator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

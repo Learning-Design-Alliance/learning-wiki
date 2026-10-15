@@ -3,7 +3,7 @@ type: research-method
 id: two-type-validation-framework-technical-validation-and-physical-validation-of-ai-generated
 title: "Two-type validation framework: technical validation and physical validation of AI-generated simulations"
 description: The article names and describes two complementary validation types for LLM-generated simulations.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

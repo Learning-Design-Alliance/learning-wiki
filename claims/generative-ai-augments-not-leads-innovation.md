@@ -3,7 +3,7 @@ type: claim
 title: Generative AI platforms cannot yet independently lead meaningful innovation; at best they augment human intelligence for innovation
 description: Generative AI platforms cannot yet independently lead meaningful innovation; at best they augment human intelligence for innovation
 id: generative-ai-augments-not-leads-innovation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

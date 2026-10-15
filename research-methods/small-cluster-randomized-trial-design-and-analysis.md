@@ -3,7 +3,7 @@ type: research-method
 id: small-cluster-randomized-trial-design-and-analysis
 title: Small cluster-randomized trial design and analysis
 description: The article offers best practices for designing and analyzing cluster randomized controlled trials with ten or fewer clusters, contexts where it says meaningful effects may still be detectable.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

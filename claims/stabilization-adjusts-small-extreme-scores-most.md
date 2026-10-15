@@ -3,7 +3,7 @@ type: claim
 title: Stabilization makes larger adjustments to scores from smaller student groups and to more extreme scores, as expected
 description: Stabilization makes larger adjustments to scores from smaller student groups and to more extreme scores, as expected
 id: stabilization-adjusts-small-extreme-scores-most
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

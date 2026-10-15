@@ -3,7 +3,7 @@ type: claim
 title: Most students favour allowing ChatGPT in assessments if tasks require original thinking or guidance is provided
 description: Most students favour allowing ChatGPT in assessments if tasks require original thinking or guidance is provided
 id: students-favor-guided-chatgpt-allowed-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

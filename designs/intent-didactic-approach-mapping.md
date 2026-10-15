@@ -3,7 +3,7 @@ type: design
 id: intent-didactic-approach-mapping
 title: Intent-to-didactic-approach mapping structuring responses by Bloom level and typed chunk selection
 description: "The system elicited the instructor's actual response practice into a small set of declarative didactic approaches (Definition, Identification, Illustration, Explanation, Comparison, Complex synthesis), each targeting..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

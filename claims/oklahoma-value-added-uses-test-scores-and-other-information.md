@@ -3,7 +3,7 @@ type: claim
 title: "Oklahoma's 2013-2014 teacher value-added estimates combined test scores with other information about teachers and students"
 description: "Oklahoma's 2013-2014 teacher value-added estimates combined test scores with other information about teachers and students"
 id: oklahoma-value-added-uses-test-scores-and-other-information
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

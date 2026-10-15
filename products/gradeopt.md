@@ -4,7 +4,7 @@ id: gradeopt
 title: GradeOpt
 description: GradeOpt is a multi-agent LLM coding framework developed by Copur-Gencturk et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

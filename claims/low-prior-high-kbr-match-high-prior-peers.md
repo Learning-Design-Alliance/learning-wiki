@@ -3,7 +3,7 @@ type: claim
 title: "Low-prior-knowledge tutors with high %KBR outperformed their low-%KBR counterparts at post-test and scored statistically equivalent to high-prior peers"
 description: "Low-prior-knowledge tutors with high %KBR outperformed their low-%KBR counterparts at post-test and scored statistically equivalent to high-prior peers"
 id: low-prior-high-kbr-match-high-prior-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

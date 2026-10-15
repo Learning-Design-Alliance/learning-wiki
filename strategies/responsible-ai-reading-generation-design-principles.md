@@ -3,7 +3,7 @@ type: strategy
 id: responsible-ai-reading-generation-design-principles
 title: Five design principles for responsible implementation of AI-generated course readings
 description: "The article proposes a replicable set of implementation principles for instructors using AI-generated readings: \"treat generation as draft production; the instructor must review outputs and correct weak citations\", ma..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

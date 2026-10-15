@@ -3,7 +3,7 @@ type: research-method
 id: three-complementary-views-of-ai-integrated-writing-product-process-and-interaction
 title: "Three complementary views of AI-integrated writing: product, process, and interaction"
 description: "The article argues that understanding student writing in AI-mediated settings requires three complementary views: the product view characterizes the final artifact, the process view captures how the artifact develops over time, and the interaction view captures how the student engages with the AI du"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

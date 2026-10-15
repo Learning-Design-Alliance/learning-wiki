@@ -3,7 +3,7 @@ type: claim
 title: College enrollment and persistence did not improve after the science requirement, and college-going declined in later years
 description: College enrollment and persistence did not improve after the science requirement, and college-going declined in later years
 id: cps-science-requirement-no-college-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

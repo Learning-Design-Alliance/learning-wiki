@@ -3,7 +3,7 @@ type: claim
 title: The 2025 MAP Growth norming sample showed no systematic differences from the U.S. public school target population on selected school-level correlates, with no standardized mean difference reaching the 0.2 threshold
 description: The 2025 MAP Growth norming sample showed no systematic differences from the U.S.
 id: map-growth-2025-norms-sample-representativeness-no-smd-above-02
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

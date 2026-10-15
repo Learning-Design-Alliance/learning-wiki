@@ -3,7 +3,7 @@ type: claim
 title: Fidelity of FAST program-component delivery was high (97–98 percent overall), but reach to families fell far below design expectations
 description: Fidelity of FAST program-component delivery was high (97–98 percent overall), but reach to families fell far below design expectations
 id: fast-fidelity-high-reach-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies
 description: Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies
 id: coaching-pooled-achievement-effect-0-18-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

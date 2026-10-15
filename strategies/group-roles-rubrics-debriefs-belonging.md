@@ -3,7 +3,7 @@ type: strategy
 id: group-roles-rubrics-debriefs-belonging
 title: Use group roles, rotating roles, shared rubrics, and product-and-process debriefs to foster belonging in group work
 description: The primer offers concrete activities mapped to characteristics of collaborative learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

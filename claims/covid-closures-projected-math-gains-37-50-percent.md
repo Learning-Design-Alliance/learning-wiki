@@ -4,7 +4,7 @@ title: "Projected fall 2020 mathematics gains for returning students are approxi
 description: "Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains"
 id: covid-closures-projected-math-gains-37-50-percent
 aliases: [covid-projections-math-37-50-percent-gains]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

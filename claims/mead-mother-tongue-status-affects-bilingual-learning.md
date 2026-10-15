@@ -3,7 +3,7 @@ type: claim
 title: Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures
 description: Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures
 id: mead-mother-tongue-status-affects-bilingual-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

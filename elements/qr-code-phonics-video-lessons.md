@@ -3,7 +3,7 @@ type: element
 id: qr-code-phonics-video-lessons
 title: QR-code phonics video lessons embedded in decodable books, offered in 14 languages
 description: Each decodable book in the Literacy Packs includes a QR code linking to a 2-minute phonics video lesson.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

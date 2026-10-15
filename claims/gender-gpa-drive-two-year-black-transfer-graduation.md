@@ -3,7 +3,7 @@ type: claim
 title: For two-year black transfer students, gender and engineering GPA—not transfer status—drive graduation outcomes, with black women outperforming black men
 description: For two-year black transfer students, gender and engineering GPA—not transfer status—drive graduation outcomes, with black women outperforming black men
 id: gender-gpa-drive-two-year-black-transfer-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

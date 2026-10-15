@@ -4,7 +4,7 @@ id: itas-conversational-instructor-analytics-agent
 title: ITAS conversational instructor analytics agent
 description: ITAS is a conversational analytics agent that helps instructors and content developers query privacy-preserving aggregate learning-deployment data in natural language.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The NSF REU program was created in 1987 to strengthen the STEM workforce
 description: The NSF REU program was created in 1987 to strengthen the STEM workforce
 id: reu-created-1987-stem-workforce
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

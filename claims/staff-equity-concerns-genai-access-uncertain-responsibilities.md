@@ -3,7 +3,7 @@ type: claim
 title: Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.
 description: Staff highlight equity concerns about student access to and proficiency with GenAI tools and digital literacy, and are uncertain about staff responsibilities in training students.
 id: staff-equity-concerns-genai-access-uncertain-responsibilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

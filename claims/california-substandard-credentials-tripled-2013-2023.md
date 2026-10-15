@@ -3,7 +3,7 @@ type: claim
 title: California substandard credentials and permits tripled between 2013 and 2023 and made up more than half of new teaching authorizations issued in 2023
 description: California substandard credentials and permits tripled between 2013 and 2023 and made up more than half of new teaching authorizations issued in 2023
 id: california-substandard-credentials-tripled-2013-2023
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

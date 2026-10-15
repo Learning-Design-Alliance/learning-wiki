@@ -3,7 +3,7 @@ type: claim
 title: "Check & Connect shows no significant effect on completion by one year after expected graduation (supplemental fifth-year finding)"
 description: "Check & Connect shows no significant effect on completion by one year after expected graduation (supplemental fifth-year finding)"
 id: check-and-connect-fifth-year-completion-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

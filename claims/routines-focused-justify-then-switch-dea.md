@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' tested routines tended to focus on Justify in year one and most switched to a different deep-engagement area, most often Justify to Solve, in year two"
 description: "Teachers' tested routines tended to focus on Justify in year one and most switched to a different deep-engagement area, most often Justify to Solve, in year two"
 id: routines-focused-justify-then-switch-dea
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

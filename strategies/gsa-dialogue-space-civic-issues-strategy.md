@@ -3,7 +3,7 @@ type: strategy
 id: gsa-dialogue-space-civic-issues-strategy
 title: Use equity-oriented extracurricular clubs as spaces for sustained peer dialogue on urgent civic issues
 description: The article recommends that groups addressing equity and justice, such as GSAs, host peer dialogue on polarizing civic topics like immigration.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

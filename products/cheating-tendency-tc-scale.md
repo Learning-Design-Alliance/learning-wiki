@@ -4,7 +4,7 @@ id: cheating-tendency-tc-scale
 title: Cheating Tendency (TC) scale
 description: "A 20-item, four-dimension Likert self-report scale developed by Yilmaz A to measure undergraduate students' cognitive predisposition toward academic dishonesty, including AI-assisted cheating."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

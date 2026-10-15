@@ -3,7 +3,7 @@ type: claim
 title: CHSRI freshmen earned slightly higher core GPAs than similar students, though averages remained below a C
 description: CHSRI freshmen earned slightly higher core GPAs than similar students, though averages remained below a C
 id: chsri-freshman-core-gpa-slightly-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

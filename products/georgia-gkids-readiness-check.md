@@ -4,7 +4,7 @@ id: georgia-gkids-readiness-check
 title: Georgia GKIDS Readiness Check
 description: "A brief kindergarten readiness assessment in Georgia's yearlong GKIDS system, combining direct performance tasks and teacher observations across social-emotional learning, English language arts, and mathematics."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Students anthropomorphized the chatbot and built relationships with it through personal and social questions
 description: Students anthropomorphized the chatbot and built relationships with it through personal and social questions
 id: children-anthropomorphize-educational-chatbot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

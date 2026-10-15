@@ -3,7 +3,7 @@ type: claim
 title: Interviews with three science teachers corroborated the quantitative results, reporting perceived improvements in analytical reasoning, conceptual integration, inquiry-based exploration, and creative scientific thinking
 description: Interviews with three science teachers corroborated the quantitative results, reporting perceived improvements in analytical reasoning, conceptual integration, inquiry-based exploration, and creative scientific thinking
 id: teacher-interviews-corroborate-deep-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

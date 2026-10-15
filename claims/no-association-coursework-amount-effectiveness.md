@@ -3,7 +3,7 @@ type: claim
 title: No association between amount of teacher training coursework and classroom effectiveness
 description: No association between amount of teacher training coursework and classroom effectiveness
 id: no-association-coursework-amount-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

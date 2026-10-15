@@ -3,7 +3,7 @@ type: research-method
 id: coordination-based-evolutionary-game-theoretic-framework-of-student-ai-use-in-assessment
 title: Coordination-based evolutionary game-theoretic framework of student AI use in assessment
 description: The framework models student generative-AI use in assessment as a two-player symmetric coordination game in a well-mixed finite population, in which the institution is not a strategic player but shapes payoffs through assessment design.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

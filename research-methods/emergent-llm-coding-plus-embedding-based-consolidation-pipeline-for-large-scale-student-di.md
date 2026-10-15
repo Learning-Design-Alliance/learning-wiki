@@ -3,7 +3,7 @@ type: research-method
 id: emergent-llm-coding-plus-embedding-based-consolidation-pipeline-for-large-scale-student-di
 title: Emergent LLM coding plus embedding-based consolidation pipeline for large-scale student-discourse taxonomies
 description: A two-step methodological framework, framed as the LLM analog of open coding in grounded theory, for converting large student-tutor transcript corpora into interpretable discourse categories.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

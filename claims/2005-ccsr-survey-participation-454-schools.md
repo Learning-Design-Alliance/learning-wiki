@@ -3,7 +3,7 @@ type: claim
 title: The 2005 CCSR survey drew over 130,000 participants and produced reports for 454 schools
 description: The 2005 CCSR survey drew over 130,000 participants and produced reports for 454 schools
 id: 2005-ccsr-survey-participation-454-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

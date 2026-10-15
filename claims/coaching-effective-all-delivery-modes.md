@@ -3,7 +3,7 @@ type: claim
 title: "Coaching can be effective in all delivery modes: face-to-face, distance, and a combination"
 description: "Coaching can be effective in all delivery modes: face-to-face, distance, and a combination"
 id: coaching-effective-all-delivery-modes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

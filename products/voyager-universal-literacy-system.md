@@ -4,7 +4,7 @@ id: voyager-universal-literacy-system
 title: Voyager Universal Literacy System®
 description: Voyager Universal Literacy System® is a core reading curriculum developed for students through grade three, combining teacher-led individual, small-group, and whole-class literacy instruction with computer-based practice in phonological skills, comprehension, fluency, language development, and writi
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

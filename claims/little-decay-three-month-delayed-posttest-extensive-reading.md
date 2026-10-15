@@ -3,7 +3,7 @@ type: claim
 title: "Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)"
 description: "Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)"
 id: little-decay-three-month-delayed-posttest-extensive-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

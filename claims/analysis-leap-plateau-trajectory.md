@@ -3,7 +3,7 @@ type: claim
 title: Analytical competence showed a leap-plateau trajectory across sequential authentic-video workshops, improving mainly between Workshops 2 and 3
 description: Analytical competence showed a leap-plateau trajectory across sequential authentic-video workshops, improving mainly between Workshops 2 and 3
 id: analysis-leap-plateau-trajectory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations
 description: With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations
 id: contextual-spacing-effect-survives-orienting-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

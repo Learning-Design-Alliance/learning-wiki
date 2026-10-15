@@ -3,7 +3,7 @@ type: claim
 title: The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained
 description: The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained
 id: comprehensive-need-satisfaction-configuration-principal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

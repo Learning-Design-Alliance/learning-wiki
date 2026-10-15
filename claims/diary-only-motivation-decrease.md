@@ -3,7 +3,7 @@ type: claim
 title: Students who only kept learning diaries showed a decrease in their motivation
 description: Students who only kept learning diaries showed a decrease in their motivation
 id: diary-only-motivation-decrease
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

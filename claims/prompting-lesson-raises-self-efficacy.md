@@ -3,7 +3,7 @@ type: claim
 title: The 45-minute prompting lesson significantly increased prompting self-efficacy relative to a business-as-usual control lesson
 description: The 45-minute prompting lesson significantly increased prompting self-efficacy relative to a business-as-usual control lesson
 id: prompting-lesson-raises-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

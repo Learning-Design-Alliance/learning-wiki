@@ -3,7 +3,7 @@ type: claim
 title: "Correct word inference in reading requires knowing roughly 95-98% of surrounding words, corresponding to about 3,000-5,000 word families"
 description: "Correct word inference in reading requires knowing roughly 95-98% of surrounding words, corresponding to about 3,000-5,000 word families"
 id: vocabulary-coverage-thresholds-for-inference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

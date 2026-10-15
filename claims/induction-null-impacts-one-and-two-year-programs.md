@@ -3,7 +3,7 @@ type: claim
 title: The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program
 description: The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program
 id: induction-null-impacts-one-and-two-year-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

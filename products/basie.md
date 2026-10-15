@@ -4,7 +4,7 @@ id: basie
 title: BASIE
 description: A downloadable software tool released by John Deke et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

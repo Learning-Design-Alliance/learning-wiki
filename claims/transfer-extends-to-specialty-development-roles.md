@@ -3,7 +3,7 @@ type: claim
 title: Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles
 description: Training outcomes extend from individual clinical care to teaching, quality improvement, and specialty development roles
 id: transfer-extends-to-specialty-development-roles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

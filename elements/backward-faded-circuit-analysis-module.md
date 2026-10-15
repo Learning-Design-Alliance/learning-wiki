@@ -3,7 +3,7 @@ type: element
 id: backward-faded-circuit-analysis-module
 title: Backward-faded worked-example computer module for series and parallel circuit analysis
 description: A Director MX multimedia module that taught resistance calculation for parallel and series circuits through eight problems (two sets of four), each with three labeled solution steps revealed one at a time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -2,7 +2,7 @@
 type: theory
 title: Behaviorism frames reading fluency instruction as sub-skill training with response and feedback
 description: The review presents behaviorism as a theory in which information is passed from a more knowledgeable teacher to a less knowledgeable learner, and reading tasks are separated into smaller components.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

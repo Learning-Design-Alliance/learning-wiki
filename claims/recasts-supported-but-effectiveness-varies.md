@@ -3,7 +3,7 @@ type: claim
 title: The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes
 description: The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes
 id: recasts-supported-but-effectiveness-varies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

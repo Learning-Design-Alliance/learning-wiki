@@ -3,7 +3,7 @@ type: claim
 title: Coarse-grained tool design (5 phase-level tools) outperforms fine-grained decomposition (14 tools) for LLM-based ISD agents
 description: Coarse-grained tool design (5 phase-level tools) outperforms fine-grained decomposition (14 tools) for LLM-based ISD agents
 id: coarse-grained-phase-level-tools-outperform-fine-grained
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

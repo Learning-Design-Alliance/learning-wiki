@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy measures show high reliability and domain-specific validity
 description: Self-efficacy measures show high reliability and domain-specific validity
 id: self-efficacy-measures-reliable-domain-specific
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

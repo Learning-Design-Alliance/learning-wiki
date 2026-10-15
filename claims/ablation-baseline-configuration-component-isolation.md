@@ -3,7 +3,7 @@ type: claim
 title: Ablation baselines were configured to isolate the contribution of cross-modal attention, PPO clipping and Kalman filtering, but component-level results are not reported in the available text
 description: Ablation baselines were configured to isolate the contribution of cross-modal attention, PPO clipping and Kalman filtering, but component-level results are not reported in the available text
 id: ablation-baseline-configuration-component-isolation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

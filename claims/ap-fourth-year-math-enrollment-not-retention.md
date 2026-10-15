@@ -3,7 +3,7 @@ type: claim
 title: Taking AP courses or fourth-year math in senior year is associated with higher college enrollment but not with college retention
 description: Taking AP courses or fourth-year math in senior year is associated with higher college enrollment but not with college retention
 id: ap-fourth-year-math-enrollment-not-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

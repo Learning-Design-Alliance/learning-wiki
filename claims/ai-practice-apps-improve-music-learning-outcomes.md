@@ -3,7 +3,7 @@ type: claim
 title: "AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning"
 description: "AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning"
 id: ai-practice-apps-improve-music-learning-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

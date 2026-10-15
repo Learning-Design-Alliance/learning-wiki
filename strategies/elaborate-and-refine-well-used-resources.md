@@ -3,7 +3,7 @@ type: strategy
 id: elaborate-and-refine-well-used-resources
 title: Shift from developing and confirming new interventions to elaborating and refining well-used resources to address equity issues
 description: This strategy asks researchers to start from resources schools already use and refine them for equity, rather than injecting newly designed interventions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

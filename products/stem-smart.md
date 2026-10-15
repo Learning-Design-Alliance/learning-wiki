@@ -4,7 +4,7 @@ id: stem-smart
 title: STEM Smart
 description: "Stony Brook University's umbrella STEM outreach programme, comprising federally funded initiatives that provide mentoring, research and internship opportunities, career preparation, and tutoring across the STEM education pipeline."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

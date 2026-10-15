@@ -4,7 +4,7 @@ id: loss-and-momentum-framework-for-community-college-student-progression
 title: Loss and Momentum Framework for community college student progression
 description: A framework associated with Pathways Analysis that organizes community-college progression into connection, entry, progress, and completion stages and links common loss points to institutional momentum strategies.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

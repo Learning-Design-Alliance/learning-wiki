@@ -4,7 +4,7 @@ id: aicofe
 title: AICoFe
 description: AICoFe is a human-centered AI collaborative feedback system developed by Alvaro Becerra and colleagues that supports peer, self-, and teacher assessment through customized rubrics, multimodal performance recording, dashboards, and mediated AI-generated feedback.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

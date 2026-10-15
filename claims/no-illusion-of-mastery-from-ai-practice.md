@@ -3,7 +3,7 @@ type: claim
 title: "Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions"
 description: "Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions"
 id: no-illusion-of-mastery-from-ai-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

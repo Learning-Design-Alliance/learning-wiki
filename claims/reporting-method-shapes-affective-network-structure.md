@@ -3,7 +3,7 @@ type: claim
 title: Probe-caught affect reports show stronger self-loops among core epistemic states, while self-caught reports show more distributed transitions involving higher-arousal states
 description: Probe-caught affect reports show stronger self-loops among core epistemic states, while self-caught reports show more distributed transitions involving higher-arousal states
 id: reporting-method-shapes-affective-network-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

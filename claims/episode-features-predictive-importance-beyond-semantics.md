@@ -3,7 +3,7 @@ type: claim
 title: Episode-composition and transition features contribute predictive process evidence beyond semantics, with Epi.+Tran. reaching 0.136 permutation importance versus 0.084 for Sem. in the Both (Role) setting
 description: Episode-composition and transition features contribute predictive process evidence beyond semantics, with Epi.+Tran.
 id: episode-features-predictive-importance-beyond-semantics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: One focal student exhibited a critical-pragmatic humanistic AI literacy, conceptualizing AI as a manipulable tool and evaluating it by rhetorical efficiency
 description: One focal student exhibited a critical-pragmatic humanistic AI literacy, conceptualizing AI as a manipulable tool and evaluating it by rhetorical efficiency
 id: zhimo-critical-pragmatic-humanistic-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: School leaders should be viewed and trained as instructional leaders
 description: School leaders should be viewed and trained as instructional leaders
 id: school-leaders-as-instructional-leaders
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

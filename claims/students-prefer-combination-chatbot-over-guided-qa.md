@@ -3,7 +3,7 @@ type: claim
 title: "Most introductory physics students preferred a combination chatbot (guidance first, answers when stuck), while few preferred pure guided Q&A"
 description: "Most introductory physics students preferred a combination chatbot (guidance first, answers when stuck), while few preferred pure guided Q&A"
 id: students-prefer-combination-chatbot-over-guided-qa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

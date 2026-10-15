@@ -3,7 +3,7 @@ type: claim
 title: B2 problems required more effort than B1 problems, with lower success rates and greater variance in conversations, messages, and code executions
 description: B2 problems required more effort than B1 problems, with lower success rates and greater variance in conversations, messages, and code executions
 id: b2-problems-harder-more-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

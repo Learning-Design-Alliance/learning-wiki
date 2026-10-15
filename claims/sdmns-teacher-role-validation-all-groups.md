@@ -3,7 +3,7 @@ type: claim
 title: "Two inferred norms concern teachers' role, with the teacher-validation norm appearing in all participating groups"
 description: "Two inferred norms concern teachers' role, with the teacher-validation norm appearing in all participating groups"
 id: sdmns-teacher-role-validation-all-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

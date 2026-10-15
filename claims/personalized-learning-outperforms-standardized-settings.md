@@ -3,7 +3,7 @@ type: claim
 title: A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings
 description: "A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings"
 id: personalized-learning-outperforms-standardized-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

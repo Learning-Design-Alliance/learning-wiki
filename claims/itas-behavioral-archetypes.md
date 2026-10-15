@@ -3,7 +3,7 @@ type: claim
 title: Sustained deployment surfaced four behavioral archetypes — self-directed, tutor-reliant, late engager, and passive consumer — including patterns invisible to the reactive teaching system
 description: Sustained deployment surfaced four behavioral archetypes — self-directed, tutor-reliant, late engager, and passive consumer — including patterns invisible to the reactive teaching system
 id: itas-behavioral-archetypes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

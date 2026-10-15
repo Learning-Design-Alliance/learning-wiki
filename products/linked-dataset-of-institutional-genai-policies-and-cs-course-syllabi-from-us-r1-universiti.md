@@ -4,7 +4,7 @@ id: linked-dataset-of-institutional-genai-policies-and-cs-course-syllabi-from-us
 title: Linked dataset of institutional GenAI policies and CS course syllabi from U.S. R1 universities
 description: A research dataset created by Amrita Ganguly et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

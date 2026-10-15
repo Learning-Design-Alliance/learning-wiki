@@ -3,7 +3,7 @@ type: claim
 title: Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children
 description: Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children
 id: paths-preschool-improves-emotion-knowledge-social-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

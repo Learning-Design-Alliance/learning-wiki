@@ -4,7 +4,7 @@ id: pslc-datashop
 title: PSLC DataShop
 description: PSLC DataShop is a public repository of educational interaction data from online learning environments, maintained by the Pittsburgh Science of Learning Center for researchers to access and compare learning analyses.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

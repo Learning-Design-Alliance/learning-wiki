@@ -3,7 +3,7 @@ type: claim
 title: Real cohorts separate from marginal-preserving surrogates of themselves in all four years, while three of four synthetic cohorts do not
 description: Real cohorts separate from marginal-preserving surrogates of themselves in all four years, while three of four synthetic cohorts do not
 id: real-cohorts-separate-from-marginal-surrogates-synthetic-do-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

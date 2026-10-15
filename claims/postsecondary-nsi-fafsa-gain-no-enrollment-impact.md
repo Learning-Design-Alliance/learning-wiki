@@ -4,7 +4,7 @@ title: Well-matched postsecondary enrollment NSI raised FAFSA completion but did
 description: Well-matched postsecondary enrollment NSI raised FAFSA completion but did not significantly affect postsecondary enrollment after year two
 id: postsecondary-nsi-fafsa-gain-no-enrollment-impact
 aliases: [postsecondary-enrollment-nsi-fafsa-not-college-year-two, postsecondary-enrollment-nsi-fafsa-gains-no-enrollment-change]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

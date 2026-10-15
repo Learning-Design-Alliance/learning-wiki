@@ -3,7 +3,7 @@ type: claim
 title: Self-explanation prompting is potentially effective across a range of instructional conditions
 description: Self-explanation prompting is potentially effective across a range of instructional conditions
 id: self-explanation-effective-across-instructional-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

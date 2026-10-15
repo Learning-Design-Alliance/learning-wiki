@@ -3,7 +3,7 @@ type: claim
 title: Generation tasks show no significant overall treatment effect on L2 vocabulary Knowledge scores compared with baseline non-generative tasks
 description: Generation tasks show no significant overall treatment effect on L2 vocabulary Knowledge scores compared with baseline non-generative tasks
 id: generation-no-overall-knowledge-effect-l2-vocabulary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

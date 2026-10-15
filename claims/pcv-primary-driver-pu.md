@@ -3,7 +3,7 @@ type: claim
 title: Perceived contextual value is the primary driver of perceived usefulness of the contextual app
 description: Perceived contextual value is the primary driver of perceived usefulness of the contextual app
 id: pcv-primary-driver-pu
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Only eight of the 15 regular magnet elementary schools meet the consent decree desegregation standard, after white enrollment declined through the 1990s
 description: Only eight of the 15 regular magnet elementary schools meet the consent decree desegregation standard, after white enrollment declined through the 1990s
 id: half-regular-magnets-fail-desegregation-goals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

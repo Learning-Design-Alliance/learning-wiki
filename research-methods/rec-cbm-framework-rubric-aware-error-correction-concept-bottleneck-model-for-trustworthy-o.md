@@ -3,7 +3,7 @@ type: research-method
 id: rec-cbm-framework-rubric-aware-error-correction-concept-bottleneck-model-for-trustworthy-o
 title: "REC-CBM framework: rubric-aware error-correction concept bottleneck model for trustworthy open-ended grading"
 description: "REC-CBM is a concept bottleneck model for open-ended grading that integrates three components: a rubric-aware concept encoder that learns concept-specific representations over responses using a concept query bank, an ordinal pairwise calibration objective that preserves ranking structure among rubri"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

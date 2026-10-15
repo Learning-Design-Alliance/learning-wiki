@@ -3,7 +3,7 @@ type: claim
 title: Existing K-12 computing standards give AI minimal coverage
 description: Existing K-12 computing standards give AI minimal coverage
 id: csta-standards-minimal-ai-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

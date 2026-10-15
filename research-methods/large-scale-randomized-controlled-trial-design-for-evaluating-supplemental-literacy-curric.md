@@ -3,7 +3,7 @@ type: research-method
 id: large-scale-randomized-controlled-trial-design-for-evaluating-supplemental-literacy-curric
 title: Large-scale randomized controlled trial design for evaluating supplemental literacy curricula
 description: "The study's organizing method is \"a large-scale randomized controlled trial of the effects of four supplemental reading comprehension curricula.\" Impact analyses are conducted separately by study year, allowing effects to differ across years and across teacher subgroups defined by experience using t"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

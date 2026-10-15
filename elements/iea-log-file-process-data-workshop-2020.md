@@ -3,7 +3,7 @@ type: element
 id: iea-log-file-process-data-workshop-2020
 title: Three-day interactive webinar workshop on analyzing log file and process data from international large-scale assessments in education
 description: "The page announces a professional development event offered by the IEA together with DIPF and ZIB: \"a three-day workshop on analyzing log file and process data from international large-scale assessments in education\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

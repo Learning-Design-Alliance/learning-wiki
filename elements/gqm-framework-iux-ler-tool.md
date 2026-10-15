@@ -3,7 +3,7 @@ type: element
 id: gqm-framework-iux-ler-tool
 title: Goal-Question-Metrics (GQM) framework adapted for IUX research on LER technologies
 description: "The toolkit adapts the GQM framework, \"developed in 1984 at the Software Engineering Lab of the NASA Goddard Space Flight Center,\" as a \"systematic and goal-oriented approach\" to define, measure, and evaluate software..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

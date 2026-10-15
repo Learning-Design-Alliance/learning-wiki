@@ -3,7 +3,7 @@ type: claim
 title: "Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value"
 description: "Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value"
 id: student-concerns-ai-videos-quality-interaction-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

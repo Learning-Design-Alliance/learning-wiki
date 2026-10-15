@@ -3,7 +3,7 @@ type: claim
 title: Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning
 description: Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning
 id: reconstructed-teaching-beliefs-llm-era
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

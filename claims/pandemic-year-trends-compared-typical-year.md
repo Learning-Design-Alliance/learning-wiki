@@ -3,7 +3,7 @@ type: claim
 title: The webinar presents research comparing student academic trends during the pandemic year to a more typical school year
 description: The webinar presents research comparing student academic trends during the pandemic year to a more typical school year
 id: pandemic-year-trends-compared-typical-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

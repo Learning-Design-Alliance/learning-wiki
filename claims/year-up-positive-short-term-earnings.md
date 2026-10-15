@@ -3,7 +3,7 @@ type: claim
 title: Year Up is likely to increase short-term earnings for low-income young adults
 description: Year Up is likely to increase short-term earnings for low-income young adults
 id: year-up-positive-short-term-earnings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

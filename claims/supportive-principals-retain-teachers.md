@@ -3,7 +3,7 @@ type: claim
 title: Effective, supportive principals retain teachers, with the largest effects in high-need schools
 description: Effective, supportive principals retain teachers, with the largest effects in high-need schools
 id: supportive-principals-retain-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: micro-credentials-base-salary-increases
 title: Link earned micro-credentials to permanent base salary increases
 description: "The report's second incentive strategy is a compensation structure connecting salary advancement to earned micro-credentials, piloted by Kettle Moraine School District with unanimous school board approval in spring 20..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

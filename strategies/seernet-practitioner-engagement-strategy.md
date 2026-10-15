@@ -3,7 +3,7 @@ type: strategy
 id: seernet-practitioner-engagement-strategy
 title: Engaging practitioners through an advisory board, co-design office hours, and guiding-principles publications
 description: After finding a common practitioner database across DLPs unlikely and footprint reports risky for customer information, SEERNet adopted a broader engagement approach that engages educators rather than merely identifyi...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

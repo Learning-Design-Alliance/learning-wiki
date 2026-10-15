@@ -3,7 +3,7 @@ type: claim
 title: "The WWC's extent of evidence for Positive Action is moderate to large for behavior and academic achievement, with no qualifying studies addressing knowledge, attitudes, and values"
 description: "The WWC's extent of evidence for Positive Action is moderate to large for behavior and academic achievement, with no qualifying studies addressing knowledge, attitudes, and values"
 id: positive-action-extent-of-evidence-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

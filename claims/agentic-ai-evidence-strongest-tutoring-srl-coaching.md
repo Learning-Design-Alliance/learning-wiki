@@ -3,7 +3,7 @@ type: claim
 title: Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages
 description: Evidence for agentic AI in education is strongest for formative tutoring and SRL coaching, while orchestration and assessment applications remain at mid technology-readiness stages
 id: agentic-ai-evidence-strongest-tutoring-srl-coaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

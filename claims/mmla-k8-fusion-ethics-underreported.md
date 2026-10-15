@@ -3,7 +3,7 @@ type: claim
 title: K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data
 description: K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data
 id: mmla-k8-fusion-ethics-underreported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

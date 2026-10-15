@@ -4,7 +4,7 @@ title: Teachers with little or no pedagogical preparation are 2 to 3 times more 
 description: Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave teaching than comprehensively prepared teachers
 id: underprepared-teachers-leave-at-2-3-times-rate
 aliases: [underprepared-teachers-attrition-two-to-three-times, weak-preparation-predicts-teacher-attrition, full-preparation-halves-teacher-attrition]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

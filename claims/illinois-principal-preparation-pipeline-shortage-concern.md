@@ -3,7 +3,7 @@ type: claim
 title: A widespread concern is that lower enrollment will constrict the principal pipeline and lead to shortages of qualified candidates
 description: A widespread concern is that lower enrollment will constrict the principal pipeline and lead to shortages of qualified candidates
 id: illinois-principal-preparation-pipeline-shortage-concern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

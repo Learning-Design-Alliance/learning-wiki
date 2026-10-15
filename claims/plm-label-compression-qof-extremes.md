@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuned PLMs exhibit label compression toward mid-scale QoF scores, never predicting extreme labels 1 and 7
 description: Fine-tuned PLMs exhibit label compression toward mid-scale QoF scores, never predicting extreme labels 1 and 7
 id: plm-label-compression-qof-extremes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

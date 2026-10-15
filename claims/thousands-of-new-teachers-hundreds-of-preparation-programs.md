@@ -3,7 +3,7 @@ type: claim
 title: "Each year thousands of new teachers pass through hundreds of different teacher preparation programs before being hired to teach in the nation's schools"
 description: "Each year thousands of new teachers pass through hundreds of different teacher preparation programs before being hired to teach in the nation's schools"
 id: thousands-of-new-teachers-hundreds-of-preparation-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

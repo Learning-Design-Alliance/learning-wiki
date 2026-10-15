@@ -3,7 +3,7 @@ type: claim
 title: "Middle grades principals have lasting effects on students' high school outcomes and young-adult life outcomes, beyond contemporaneous achievement effects"
 description: "Middle grades principals have lasting effects on students' high school outcomes and young-adult life outcomes, beyond contemporaneous achievement effects"
 id: middle-grades-principals-lasting-effects-student-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding"
 description: "Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding"
 id: ai-learning-partner-tutor-redefinition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

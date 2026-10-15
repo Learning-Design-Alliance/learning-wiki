@@ -3,7 +3,7 @@ type: strategy
 id: six-recommendations-worker-centered-data-ecosystem
 title: Six recommendations for moving toward a data-driven, worker-centered learning ecosystem
 description: "The report's Next Steps section lists six actions to 'move toward a more data-driven, collaborative, worker-centered learning ecosystem': create awareness and demand among stakeholders; ensure equity and inclusion thr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

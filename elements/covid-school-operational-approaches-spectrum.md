@@ -3,7 +3,7 @@ type: element
 id: covid-school-operational-approaches-spectrum
 title: Spectrum of school operational approaches during COVID-19, from fully remote to fully in-person with hybrid approaches between
 description: The report situates hybrid instruction on a spectrum of pandemic-era school operational approaches.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

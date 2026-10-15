@@ -3,7 +3,7 @@ type: claim
 title: In a cluster randomized trial, CIRC produced a statistically significant positive effect on main idea identification (effect size 0.85) but not on inference questions
 description: In a cluster randomized trial, CIRC produced a statistically significant positive effect on main idea identification (effect size 0.85) but not on inference questions
 id: circ-rct-main-idea-significant-inference-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

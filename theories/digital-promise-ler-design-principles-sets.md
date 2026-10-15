@@ -2,7 +2,7 @@
 type: theory
 title: "Digital Promise's three principle sets for inclusive LER design"
 description: "The toolkit catalogs three Digital Promise principle sets developed with front-line workers, educators, employers, and other stakeholders: Inclusive Design principles (2022) such as \"Demonstrates evidence of skills an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Decisions participants volunteered were worded just as firmly as decisions the agent demanded, and revisions of earlier positions were rare
 description: Decisions participants volunteered were worded just as firmly as decisions the agent demanded, and revisions of earlier positions were rare
 id: demanded-versus-spontaneous-decisions-no-firmness-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

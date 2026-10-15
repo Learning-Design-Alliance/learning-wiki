@@ -3,7 +3,7 @@ type: strategy
 id: embed-ai-literacy-and-controllable-adaptive-interfaces
 title: Embed AI literacy as a credit-bearing module and design adaptive systems with transparent, user-controllable recommendation interfaces
 description: "Based on the finding that AI literacy buffers negative emotional effects, the article recommends that universities embed AI literacy as a credit-bearing module and that designers build adaptive systems with \"lucid, us..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: research-method
 id: activepassive-localglobal-coding-framework-for-llm-offloading-prompts
 title: Active/passive local/global coding framework for LLM offloading prompts
 description: "A four-way coding scheme applied to each of 564 learner prompts, capturing whether the learner \"remained somewhat active or was passive during a comprehension activity, and if the comprehension within a prompt was targetting local or global level\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

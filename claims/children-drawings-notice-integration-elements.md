@@ -3,7 +3,7 @@ type: claim
 title: "Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication"
 description: "Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication"
 id: children-drawings-notice-integration-elements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

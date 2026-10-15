@@ -3,7 +3,7 @@ type: strategy
 id: update-design-research-plan-with-findings-and-adjustments
 title: Iteratively update a design research plan with findings and resulting design adjustments
 description: "The template prescribes a planning-and-revision workflow: organizations first document their program, practice, or product, theory of change, learning objectives, and timeline, then carry out design research activities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

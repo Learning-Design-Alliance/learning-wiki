@@ -4,7 +4,7 @@ title: "Ninth-grade on-track NSI positively affected GPA, core course pass rates
 description: "Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation"
 id: ninth-grade-on-track-nsi-positive-gpa-pass-credits
 aliases: [9th-grade-on-track-nsi-positive-impacts-year-two]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

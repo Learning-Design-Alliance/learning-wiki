@@ -3,7 +3,7 @@ type: strategy
 id: use-equip-data-to-take-action
 title: "Use EQUIP data to take action: test new strategies, collect data again, and align professional development to surfaced needs"
 description: "The report recommends that teachers use EQUIP data to motivate change: try a new classroom strategy and collect data again to check for improvement, and use data from a department, grade level, or school to design or..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

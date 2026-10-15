@@ -4,7 +4,7 @@ id: courseware-initiative
 title: Courseware Initiative
 description: "A Gates Foundation initiative and theory-of-change framework that combines equity-centered digital courseware with instructors' evidence-based teaching practices to improve engagement and achievement, especially for students at risk of failing to earn course credit."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

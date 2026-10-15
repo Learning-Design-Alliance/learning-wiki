@@ -4,7 +4,7 @@ id: connect-with-kids
 title: Connect with Kids
 description: Connect with Kids is a character-education curriculum developed for elementary and secondary students that uses peer-story videos, lessons, activities, and schoolwide and community outreach to promote prosocial attitudes and positive behavior.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

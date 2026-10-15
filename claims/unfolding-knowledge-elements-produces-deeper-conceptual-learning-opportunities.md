@@ -2,7 +2,7 @@
 type: claim
 title: Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure
 id: unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

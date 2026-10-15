@@ -3,7 +3,7 @@ type: claim
 title: Each AgenticMath component contributes performance gains, with the review-revise loop playing a particularly important role
 description: Each AgenticMath component contributes performance gains, with the review-revise loop playing a particularly important role
 id: agenticmath-ablation-all-modules-contribute
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

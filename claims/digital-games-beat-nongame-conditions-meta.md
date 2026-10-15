@@ -3,7 +3,7 @@ type: claim
 title: Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)
 description: Digital game conditions significantly enhance K–16 student learning relative to nongame comparison conditions (g = 0.33)
 id: digital-games-beat-nongame-conditions-meta
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -4,7 +4,7 @@ id: longitudinal-middle-school-its-log-dataset-with-weekly-engagement-targets
 title: Longitudinal middle-school ITS log dataset with weekly engagement targets
 description: A longitudinal dataset of web-based intelligent tutoring system activity from 425 middle-school mathematics students, providing timestamped interaction logs and weekly practice-effort and skill-mastery targets for learning-analytics research.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

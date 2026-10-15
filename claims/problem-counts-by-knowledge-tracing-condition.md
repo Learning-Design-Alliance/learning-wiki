@@ -3,7 +3,7 @@ type: claim
 title: In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two
 description: In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two
 id: problem-counts-by-knowledge-tracing-condition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

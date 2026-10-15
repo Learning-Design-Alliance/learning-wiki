@@ -3,7 +3,7 @@ type: strategy
 id: conditional-growth-percentiles-peer-comparison
 title: Use conditional growth percentiles to judge whether a student grew like their academic peers
 description: "This strategy replaces binary met/not-met growth targets with a normative comparison of a student's growth to similar students nationwide."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: the-language-inquiry
 title: The Language Inquiry
 description: "Frogner's 100-item language-attitude questionnaire helps teachers assess their own and their students' attitudes toward language by comparing responses with benchmark judgments from ten linguists."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

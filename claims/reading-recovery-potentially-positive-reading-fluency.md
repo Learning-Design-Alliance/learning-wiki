@@ -3,7 +3,7 @@ type: claim
 title: Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial
 description: Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial
 id: reading-recovery-potentially-positive-reading-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

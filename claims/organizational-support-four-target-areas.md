@@ -3,7 +3,7 @@ type: claim
 title: "Organizational-level support targeted four areas: coordination and leadership, professional norms, monitoring of instruction and learning, and resources"
 description: "Organizational-level support targeted four areas: coordination and leadership, professional norms, monitoring of instruction and learning, and resources"
 id: organizational-support-four-target-areas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

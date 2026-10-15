@@ -4,7 +4,7 @@ id: ncte-transcript-dataset
 title: NCTE Transcript dataset
 description: A publicly available dataset of U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

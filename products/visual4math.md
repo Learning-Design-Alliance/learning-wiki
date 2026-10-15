@@ -4,7 +4,7 @@ id: visual4math
 title: Visual4Math
 description: Visual4Math is a web-based prototype developed by Zhengxu Li et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

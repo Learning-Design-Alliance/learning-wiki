@@ -3,7 +3,7 @@ type: strategy
 id: student-led-community-walks-cultural-humility
 title: Student-designed community walks that flip teacher and learner roles to build cultural humility
 description: "As part of staff development, teachers become learners during community walks: student-designed and student-led visits to the neighborhoods where students live, often ending with a meal in a family home or community g..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

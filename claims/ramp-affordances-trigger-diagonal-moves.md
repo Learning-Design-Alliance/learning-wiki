@@ -3,7 +3,7 @@ type: claim
 title: "Cell affordances determine agent movement: ramps trigger automatic diagonal transitions during path traversal"
 description: "Cell affordances determine agent movement: ramps trigger automatic diagonal transitions during path traversal"
 id: ramp-affordances-trigger-diagonal-moves
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

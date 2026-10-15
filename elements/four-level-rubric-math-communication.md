@@ -3,7 +3,7 @@ type: element
 id: four-level-rubric-math-communication
 title: Four-level rubric for evaluating mathematical communication skills
 description: "An assessment instrument (Table 1) that scores students' mathematical communication on three criteria — math vocabulary (words, terms), mathematical representation (symbols, number axis, models, drawings, graphs, char..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

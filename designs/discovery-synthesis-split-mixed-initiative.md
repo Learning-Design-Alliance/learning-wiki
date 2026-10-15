@@ -3,7 +3,7 @@ type: design
 id: discovery-synthesis-split-mixed-initiative
 title: "Discovery-synthesis split: system initiative over domain discovery, author initiative over narrative synthesis"
 description: "The article's organizing design framework divides cognitive labor in AI-assisted writing: the system takes initiative only over domain discovery, where the Illusion of Explanatory Depth renders authors unable to act f..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Research on distance and online learning has methodological issues that need to be addressed
 description: Research on distance and online learning has methodological issues that need to be addressed
 id: methodological-issues-distance-education-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Learning readiness is the WEC component most strongly associated with academic outcomes (0.1–0.15 SD)
 description: Learning readiness is the WEC component most strongly associated with academic outcomes (0.1–0.15 SD)
 id: learning-readiness-strongest-wec-component
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Chicago students gain most in achievement when strong academic press and strong social support occur together, and learn less when either is strong and the other weak
 description: Chicago students gain most in achievement when strong academic press and strong social support occur together, and learn less when either is strong and the other weak
 id: press-plus-support-combined-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed
 description: Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed
 id: pa-attrition-racial-gaps-grew-except-administrators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

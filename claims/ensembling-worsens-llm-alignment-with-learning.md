@@ -3,7 +3,7 @@ type: claim
 title: Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning
 description: Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning
 id: ensembling-worsens-llm-alignment-with-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

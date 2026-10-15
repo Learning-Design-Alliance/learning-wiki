@@ -3,7 +3,7 @@ type: claim
 title: "Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools"
 description: "Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools"
 id: few-prior-studies-online-instruction-operations-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

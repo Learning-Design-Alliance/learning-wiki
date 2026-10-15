@@ -3,7 +3,7 @@ type: claim
 title: "The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points"
 description: "The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points"
 id: cluster-performance-anova-tukey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

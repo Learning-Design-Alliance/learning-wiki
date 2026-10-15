@@ -4,7 +4,7 @@ id: reach-practice-framework-for-differentiated-instruction
 title: REACH practice framework for differentiated instruction
 description: A five-component framework developed by Rock et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

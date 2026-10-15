@@ -3,7 +3,7 @@ type: claim
 title: AI-supported PBL offerings showed higher A-rates and fewer low grades than pre-integration control offerings when including the COVID-19 year
 description: AI-supported PBL offerings showed higher A-rates and fewer low grades than pre-integration control offerings when including the COVID-19 year
 id: genai-pbl-higher-a-rates-fewer-low-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

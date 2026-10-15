@@ -3,7 +3,7 @@ type: claim
 title: "Nevada's refined instructional materials review process addresses prior problems of unclear, non-standard, and inequitable review, including rural districts' obstacles to participation"
 description: "Nevada's refined instructional materials review process addresses prior problems of unclear, non-standard, and inequitable review, including rural districts' obstacles to participation"
 id: nevada-refined-im-review-process-addresses-clarity-and-rural-equity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

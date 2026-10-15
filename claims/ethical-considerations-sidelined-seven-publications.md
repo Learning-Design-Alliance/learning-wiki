@@ -3,7 +3,7 @@ type: claim
 title: Ethical considerations are a sidelined research theme, addressed by only seven of 183 publications, mostly on stereotype perpetuation by generative AI
 description: Ethical considerations are a sidelined research theme, addressed by only seven of 183 publications, mostly on stereotype perpetuation by generative AI
 id: ethical-considerations-sidelined-seven-publications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

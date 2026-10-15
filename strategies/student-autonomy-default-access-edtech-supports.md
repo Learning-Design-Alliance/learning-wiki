@@ -3,7 +3,7 @@ type: strategy
 id: student-autonomy-default-access-edtech-supports
 title: Empower student autonomy by making supports student-facing and increasing default access, which can raise engagement and reduce barriers
 description: The report recommends having student-facing options available so students can choose whichever feature they need in the moment, and increasing access to and encouraging use of features such as audio support.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

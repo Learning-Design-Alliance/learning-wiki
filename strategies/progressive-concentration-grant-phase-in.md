@@ -3,7 +3,7 @@ type: strategy
 id: progressive-concentration-grant-phase-in
 title: Progressively phase in concentration grants for newly eligible districts to mitigate the funding cliff
 description: "The report recommends lowering concentration-grant eligibility (for example, to districts enrolling more than 45% high-need students) while progressively increasing grants so funding \"gradually ratchet up to reach fun..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

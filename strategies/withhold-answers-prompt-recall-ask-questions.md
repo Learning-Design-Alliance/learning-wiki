@@ -3,7 +3,7 @@ type: strategy
 id: withhold-answers-prompt-recall-ask-questions
 title: Design AI tutoring behaviors that withhold solutions, prompt recall, and ask critical questions
 description: "A concrete implementable recipe drawn from what students themselves requested and from learning-science principles: feedback that withholds the solution, prompts active recall, offers alternative explanations, and gui..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

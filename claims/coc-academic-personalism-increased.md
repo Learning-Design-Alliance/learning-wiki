@@ -3,7 +3,7 @@ type: claim
 title: Student reports of academic personalism increased dramatically in Culture of Calm schools relative to non-CoC schools (d = 1.1), though the substantive meaning is uncertain
 description: Student reports of academic personalism increased dramatically in Culture of Calm schools relative to non-CoC schools (d = 1.1), though the substantive meaning is uncertain
 id: coc-academic-personalism-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

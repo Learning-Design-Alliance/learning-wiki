@@ -3,7 +3,7 @@ type: strategy
 id: scaffold-confidence-hands-on-digital-literacy-classes
 title: Scaffold adults from beginning users to confident digital citizens with hands-on, competency-based classes and layered teacher support
 description: "Briya addresses parents' lack of confidence with technology by \"scaffolds their learners through the path from beginning user to confident digital citizen.\" Classes are designed to \"help students overcome their fears..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

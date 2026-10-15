@@ -3,7 +3,7 @@ type: claim
 title: "AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction"
 description: "AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction"
 id: ai-ibi-improves-creative-mathematical-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

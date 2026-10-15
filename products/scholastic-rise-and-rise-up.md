@@ -4,7 +4,7 @@ id: scholastic-rise-and-rise-up
 title: Scholastic RISE and RISE Up
 description: Scholastic RISE and RISE Up is a Scholastic Tier 2 small-group reading intervention programme for grades 1–5 that provides structured phonics, word study, comprehension, and guided-writing instruction through station-based materials and digital resources.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

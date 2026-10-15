@@ -3,7 +3,7 @@ type: design
 id: kindergarten-balance-scale-equal-sign-lesson-sequence
 title: Seven-Lesson Kindergarten Equal Sign Sequence
 description: "Seven lessons within an 18-lesson kindergarten early algebra intervention that \"focused specifically on developing students’ understandings of mathematical equivalence and fluency with equations\"."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

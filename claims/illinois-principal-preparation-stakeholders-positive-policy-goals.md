@@ -3,7 +3,7 @@ type: claim
 title: "Program representatives and statewide stakeholders were largely positive about the goals of Illinois' redesigned principal preparation policy"
 description: "Program representatives and statewide stakeholders were largely positive about the goals of Illinois' redesigned principal preparation policy"
 id: illinois-principal-preparation-stakeholders-positive-policy-goals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

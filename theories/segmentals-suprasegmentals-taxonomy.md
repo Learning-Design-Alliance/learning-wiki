@@ -2,7 +2,7 @@
 type: theory
 title: "Segmentals and suprasegmentals: two groups of language features involved in pronunciation"
 description: "The digest organizes pronunciation features into two groups: \"segmentals\" (the basic inventory of distinctive sounds, 40 phonemes in North American English) and \"suprasegmentals\" (stress, rhythm, adjustments in connec..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

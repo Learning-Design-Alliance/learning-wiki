@@ -3,7 +3,7 @@ type: claim
 title: Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance
 description: Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance
 id: hint-avoidance-related-greater-wheel-spinning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

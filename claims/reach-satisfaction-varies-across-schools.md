@@ -3,7 +3,7 @@ type: claim
 title: Teacher satisfaction with REACH was moderate overall but varied widely across schools
 description: Teacher satisfaction with REACH was moderate overall but varied widely across schools
 id: reach-satisfaction-varies-across-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

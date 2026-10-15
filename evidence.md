@@ -8,12 +8,12 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | | |
 |---|---|
-| Claims | 15,860 |
-| Evidence entries | 18,840 |
-| Distinct studies | 4,714 |
-| Claims resting on one study | 15,416 (97%) |
+| Claims | 15,855 |
+| Evidence entries | 18,831 |
+| Distinct studies | 4,713 |
+| Claims resting on one study | 15,411 (97%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 864 of 4,714 (18%) |
+| Studies reporting an effect size | 864 of 4,713 (18%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
@@ -22,7 +22,7 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 | causal | 67 | 504 | 190 | 332 | 1,093 |
 | quant-synthesis | 53 | 106 | 35 | 118 | 312 |
 | review | 59 | 297 | 88 | 124 | 568 |
-| associational | 30 | 558 | 263 | 247 | 1,098 |
+| associational | 30 | 557 | 263 | 247 | 1,097 |
 | qualitative | 96 | 253 | 66 | 82 | 497 |
 | design | 51 | 491 | 135 | 30 | 707 |
 | theoretical | 73 | 256 | 58 | 52 | 439 |
@@ -31,9 +31,9 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 697 (15%) | 2,939 (62%) | 961 (20%) | 117 (2%) |
+| 697 (15%) | 2,938 (62%) | 961 (20%) | 117 (2%) |
 
-**Studies per claim:** 0: 0, 1: 15,416, 2: 366, 3: 63, 4 or more: 15.
+**Studies per claim:** 0: 0, 1: 15,411, 2: 366, 3: 63, 4 or more: 15.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 

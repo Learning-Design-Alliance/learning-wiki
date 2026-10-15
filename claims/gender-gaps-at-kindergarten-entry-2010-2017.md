@@ -3,7 +3,7 @@ type: claim
 title: Female kindergarteners outscore males in math and reading at entry; the reading gap was stable while the small math gap narrowed slightly
 description: Female kindergarteners outscore males in math and reading at entry; the reading gap was stable while the small math gap narrowed slightly
 id: gender-gaps-at-kindergarten-entry-2010-2017
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

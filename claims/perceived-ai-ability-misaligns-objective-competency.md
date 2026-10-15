@@ -3,7 +3,7 @@ type: claim
 title: "Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities"
 description: "Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities"
 id: perceived-ai-ability-misaligns-objective-competency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

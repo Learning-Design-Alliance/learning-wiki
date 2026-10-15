@@ -3,7 +3,7 @@ type: claim
 title: State-of-the-art conversational agents (Blender and GPT-3) replied adequately to students but were well behind human performance in helping the student (reported from a dialogue study)
 description: State-of-the-art conversational agents (Blender and GPT-3) replied adequately to students but were well behind human performance in helping the student (reported from a dialogue study)
 id: conversational-agents-behind-human-helping-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

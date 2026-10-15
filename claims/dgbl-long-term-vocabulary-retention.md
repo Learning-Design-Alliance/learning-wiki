@@ -3,7 +3,7 @@ type: claim
 title: Digital game-based learning supports long-term retention of second-language vocabulary
 description: Digital game-based learning supports long-term retention of second-language vocabulary
 id: dgbl-long-term-vocabulary-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: A second randomized study in Louisiana and Texas found Air Reading students scored significantly higher on combined reading assessments (effect size +0.29)
 description: A second randomized study in Louisiana and Texas found Air Reading students scored significantly higher on combined reading assessments (effect size +0.29)
 id: air-reading-rct-2024-25-combined-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

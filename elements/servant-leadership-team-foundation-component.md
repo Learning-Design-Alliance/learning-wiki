@@ -3,7 +3,7 @@ type: element
 id: servant-leadership-team-foundation-component
 title: Servant leadership component of the Team Learning Foundation
 description: Servant leadership is the final component of the Team Learning Foundation, introduced through principles drawn from Hunter (2004).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

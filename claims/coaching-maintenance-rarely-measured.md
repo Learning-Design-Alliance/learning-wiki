@@ -3,7 +3,7 @@ type: claim
 title: Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed
 description: Most reviewed coaching studies did not collect maintenance data, so sustained use of coached practices cannot be confirmed
 id: coaching-maintenance-rarely-measured
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

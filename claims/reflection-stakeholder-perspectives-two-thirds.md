@@ -3,7 +3,7 @@ type: claim
 title: Most participants reported learning something new about GenAI and about two-thirds acknowledged engagement with perspectives beyond their own after the co-design activity
 description: Most participants reported learning something new about GenAI and about two-thirds acknowledged engagement with perspectives beyond their own after the co-design activity
 id: reflection-stakeholder-perspectives-two-thirds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: five-dimension-framework-for-operationalizing-hqim-implementation-fidelity
 title: Five-dimension framework for operationalizing HQIM implementation fidelity
 description: "The report defines implementation as \"a reduction in the translational difference between the essential, intended design elements of the curriculum and its enactment in classrooms\" and operationalizes five dimensions."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

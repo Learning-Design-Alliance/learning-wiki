@@ -3,7 +3,7 @@ type: claim
 title: Cohort purchasing through consolidated edtech procurement produced savings of nearly $200,000 and roughly 50 percent per-license discounts in Denver Public Schools
 description: Cohort purchasing through consolidated edtech procurement produced savings of nearly $200,000 and roughly 50 percent per-license discounts in Denver Public Schools
 id: dps-cohort-purchasing-savings-200000
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

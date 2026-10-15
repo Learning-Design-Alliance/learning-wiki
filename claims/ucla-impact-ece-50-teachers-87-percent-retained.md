@@ -3,7 +3,7 @@ type: claim
 title: "UCLA's IMPACT early childhood pathway prepared 50 fully licensed teachers across four cohorts, with 87% retained in the district for at least 3 years"
 description: "UCLA's IMPACT early childhood pathway prepared 50 fully licensed teachers across four cohorts, with 87% retained in the district for at least 3 years"
 id: ucla-impact-ece-50-teachers-87-percent-retained
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

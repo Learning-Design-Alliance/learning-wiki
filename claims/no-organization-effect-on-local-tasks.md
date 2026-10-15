@@ -3,7 +3,7 @@ type: claim
 title: Hierarchical versus single-level organization does not significantly affect performance on local tasks relying only on individual detailed steps
 description: Hierarchical versus single-level organization does not significantly affect performance on local tasks relying only on individual detailed steps
 id: no-organization-effect-on-local-tasks
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: SBLE presence is associated with higher levels of school crime and behavior incidents, driven by increased exclusionary discipline, in school-level analyses
 description: SBLE presence is associated with higher levels of school crime and behavior incidents, driven by increased exclusionary discipline, in school-level analyses
 id: sble-associated-higher-crime-behavior-school-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

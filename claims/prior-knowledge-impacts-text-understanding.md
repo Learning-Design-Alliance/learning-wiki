@@ -3,7 +3,7 @@ type: claim
 title: "Students' prior knowledge about a topic impacts their understanding of text as they read"
 description: "Students' prior knowledge about a topic impacts their understanding of text as they read"
 id: prior-knowledge-impacts-text-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

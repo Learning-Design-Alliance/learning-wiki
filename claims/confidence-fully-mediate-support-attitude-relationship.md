@@ -3,7 +3,7 @@ type: claim
 title: Teacher confidence fully mediates the relationship between institutional support and attitudes toward AI adoption
 description: Teacher confidence fully mediates the relationship between institutional support and attitudes toward AI adoption
 id: confidence-fully-mediate-support-attitude-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

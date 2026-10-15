@@ -3,7 +3,7 @@ type: claim
 title: Assessment accommodations, once adopted, tend to feel transitional rather than fully equal parts of an assessment
 description: Assessment accommodations, once adopted, tend to feel transitional rather than fully equal parts of an assessment
 id: accommodations-feel-transitional-not-fully-equal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

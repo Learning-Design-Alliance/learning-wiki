@@ -3,7 +3,7 @@ type: claim
 title: Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms
 description: Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms
 id: experts-predict-student-errors-and-classroom-events
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

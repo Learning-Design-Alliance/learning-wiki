@@ -2,7 +2,7 @@
 type: theory
 title: Three types of knowledge — social, physical, and logico-mathematical — require different ways of learning
 description: The handbook distinguishes three kinds of knowledge with different origins and learning pathways.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -2,7 +2,7 @@
 type: theory
 title: "Taxonomy of cooperative learning varieties and Kagan's content-free structures"
 description: "The bulletin organizes the main cooperative learning methods: Circles of Learning/Learning Together (an 18-step implementation), Jigsaw and its Jigsaw II and III variants, STAD, Teams-Games-Tournaments, and Group Inve..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

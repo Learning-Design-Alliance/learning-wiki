@@ -3,7 +3,7 @@ type: claim
 title: High-stakes testing accountability is pervasive in American K-12 schooling while its efficacy remains contested
 description: High-stakes testing accountability is pervasive in American K-12 schooling while its efficacy remains contested
 id: high-stakes-testing-pervasive-efficacy-contested
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

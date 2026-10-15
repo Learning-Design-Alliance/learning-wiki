@@ -3,7 +3,7 @@ type: claim
 title: Upper-intermediate EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF
 description: Upper-intermediate EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF
 id: proactive-fof-beats-reactive-upper-intermediate-grammar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

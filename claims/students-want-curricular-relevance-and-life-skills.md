@@ -3,7 +3,7 @@ type: claim
 title: Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application
 description: Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application
 id: students-want-curricular-relevance-and-life-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "The baseline country difference in GenAI pedagogical readiness was explained by exposure and institutional conditions: the Kazakhstan coefficient fell from B = 0.205 to a non-significant B = 0.041"
 description: "The baseline country difference in GenAI pedagogical readiness was explained by exposure and institutional conditions: the Kazakhstan coefficient fell from B = 0.205 to a non-significant B = 0.041"
 id: institutional-conditions-explain-genai-readiness-country-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

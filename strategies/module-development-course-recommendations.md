@@ -3,7 +3,7 @@ type: strategy
 id: module-development-course-recommendations
 title: Instructor recommendations for running a module-development course project
 description: "The authors distill their AY201b experience into implementable steps: \"we recommend beginning the module development project by providing students with brief in-class tutorials of the software technologies\"; hold regu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

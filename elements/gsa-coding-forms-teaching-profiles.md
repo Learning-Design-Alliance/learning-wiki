@@ -3,7 +3,7 @@ type: element
 id: gsa-coding-forms-teaching-profiles
 title: GSA coding forms and teaching-behavior profiles for self-analysis of videotaped lessons
 description: Each GSA manual directs the teacher to code a videotaped lesson on a Coding Form, marking a square each time a categorized behavior occurs, producing a permanent written record of the pattern and frequency of behaviors.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

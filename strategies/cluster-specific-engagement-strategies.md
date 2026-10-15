@@ -3,7 +3,7 @@ type: strategy
 id: cluster-specific-engagement-strategies
 title: Cluster-specific engagement and personalization strategies for the six learner profiles
 description: "The article proposes a rule-based decision mechanism that, once a learner is assigned to a behavioral cluster, tailors engagement strategy and personalization style to that cluster's characteristics."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

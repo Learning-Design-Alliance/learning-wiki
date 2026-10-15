@@ -3,7 +3,7 @@ type: claim
 title: Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms
 description: Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms
 id: collaborative-group-work-beats-competitive-classrooms-k12
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

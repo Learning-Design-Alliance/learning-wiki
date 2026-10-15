@@ -3,7 +3,7 @@ type: claim
 title: "Iranian EFL teachers' awareness of critical pedagogy differs significantly across academic degrees, with PhD holders most aware"
 description: "Iranian EFL teachers' awareness of critical pedagogy differs significantly across academic degrees, with PhD holders most aware"
 id: phd-holders-most-aware-of-critical-pedagogy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

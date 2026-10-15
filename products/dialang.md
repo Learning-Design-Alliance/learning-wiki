@@ -4,7 +4,7 @@ id: dialang
 title: DIALANG
 description: "DIALANG is a free adaptive web-based diagnostic language assessment system that reports learners' proficiency in relation to the Common European Framework of Reference for Languages and provides feedback and advice for progression."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

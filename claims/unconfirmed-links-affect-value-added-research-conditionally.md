@@ -3,7 +3,7 @@ type: claim
 title: Using unconfirmed teacher/student links in value-added models affects research differently depending on the circumstances of the data
 description: Using unconfirmed teacher/student links in value-added models affects research differently depending on the circumstances of the data
 id: unconfirmed-links-affect-value-added-research-conditionally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

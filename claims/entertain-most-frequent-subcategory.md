@@ -3,7 +3,7 @@ type: claim
 title: Entertain is the most frequently used heteroglossic subcategory across all draft types, decreasing in peer-feedback revisions but remaining relatively high in AI revisions
 description: Entertain is the most frequently used heteroglossic subcategory across all draft types, decreasing in peer-feedback revisions but remaining relatively high in AI revisions
 id: entertain-most-frequent-subcategory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

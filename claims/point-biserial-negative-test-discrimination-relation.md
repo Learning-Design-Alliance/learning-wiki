@@ -3,7 +3,7 @@ type: claim
 title: Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters
 description: Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters
 id: point-biserial-negative-test-discrimination-relation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

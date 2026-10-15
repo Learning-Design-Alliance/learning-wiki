@@ -3,7 +3,7 @@ type: claim
 title: "After REMind, children's expectations that confronting a bully would stop the bullying shifted toward a calibrated midpoint"
 description: "After REMind, children's expectations that confronting a bully would stop the bullying shifted toward a calibrated midpoint"
 id: remind-calibrated-bully-outcome-expectations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

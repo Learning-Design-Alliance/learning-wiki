@@ -3,7 +3,7 @@ type: claim
 title: Short-term gains from Air Tutors tutoring on district benchmark assessments did not persist to statewide math assessments 1 year later
 description: Short-term gains from Air Tutors tutoring on district benchmark assessments did not persist to statewide math assessments 1 year later
 id: air-tutors-short-term-gains-did-not-persist
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

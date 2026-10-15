@@ -3,7 +3,7 @@ type: strategy
 id: implement-self-monitoring-four-components-strategy
 title: Implement school-based self-monitoring by selecting and defining a target behavior, then adding self-assessment and self-recording
 description: "The article's implementation analysis supports a recipe: practitioners implementing self-monitoring should begin by \"selecting a target behavior\" and \"defining the target behavior\", then build in \"self-assessment, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

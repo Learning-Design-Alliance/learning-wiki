@@ -3,7 +3,7 @@ type: claim
 title: Teachers rate principal instructional leadership highly even in many bottom-quartile schools
 description: Teachers rate principal instructional leadership highly even in many bottom-quartile schools
 id: principal-instructional-leadership-ratings-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Type of AI moderated effect sizes: VR showed the largest pooled effect (gp = 1.28) and AR the smallest and non-significant in the post-test analysis"
 description: "Type of AI moderated effect sizes: VR showed the largest pooled effect (gp = 1.28) and AR the smallest and non-significant in the post-test analysis"
 id: ai-type-moderator-vr-largest-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

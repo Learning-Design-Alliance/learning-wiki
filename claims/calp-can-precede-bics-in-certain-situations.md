@@ -3,7 +3,7 @@ type: claim
 title: "The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations"
 description: "The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations"
 id: calp-can-precede-bics-in-certain-situations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

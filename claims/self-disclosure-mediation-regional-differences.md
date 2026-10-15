@@ -3,7 +3,7 @@ type: claim
 title: Mediation effects of self-disclosure preference on interpersonal behaviors are significant in HK adolescents but largely non-significant in US adolescents, where maladaptive coping mediates toward more bullying
 description: Mediation effects of self-disclosure preference on interpersonal behaviors are significant in HK adolescents but largely non-significant in US adolescents, where maladaptive coping mediates toward more bullying
 id: self-disclosure-mediation-regional-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

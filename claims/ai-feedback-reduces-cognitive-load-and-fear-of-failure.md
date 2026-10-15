@@ -3,7 +3,7 @@ type: claim
 title: The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment
 description: The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment
 id: ai-feedback-reduces-cognitive-load-and-fear-of-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: cross-segment-cross-sector-promise-team
 title: Build a College Promise team spanning internal campus units and external cross-segment and cross-sector partners
 description: The Guidebook directs teams to identify internal partners (leadership, faculty, trustees, foundation, students, financial aid, counseling, research, and special programs) and external partners (K-12 districts, four-ye...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

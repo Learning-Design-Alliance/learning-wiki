@@ -4,7 +4,7 @@ id: next-generation-school-accountability-initiative
 title: Next Generation School Accountability initiative
 description: "Utah's state school-accountability framework, administered by the Utah State Board of Education, that includes growth and equity indicators such as the Lowest Quartile measure."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

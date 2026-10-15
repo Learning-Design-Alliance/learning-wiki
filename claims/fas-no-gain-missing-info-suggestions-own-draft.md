@@ -3,7 +3,7 @@ type: claim
 title: "FAS support does not increase detection of missing information or improvement suggestions in students' internal feedback on their own drafts"
 description: "FAS support does not increase detection of missing information or improvement suggestions in students' internal feedback on their own drafts"
 id: fas-no-gain-missing-info-suggestions-own-draft
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

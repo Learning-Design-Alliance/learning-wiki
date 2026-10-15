@@ -2,7 +2,7 @@
 type: theory
 title: "Goffman's dramaturgical model: front and back regions and the two-part self"
 description: "The essay presents Goffman's theatrical metaphor as an entire incongruous model of society: \"Social life is viewed in terms of performers and teams wt, utilize front and back regions to foster an impression on an audi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

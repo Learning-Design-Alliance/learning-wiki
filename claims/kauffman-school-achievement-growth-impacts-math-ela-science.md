@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School produced substantial positive impacts on achievement growth in mathematics, English language arts, and science each year through 2021-22, except during the 2020-21 pandemic year
 description: The Kauffman School produced substantial positive impacts on achievement growth in mathematics, English language arts, and science each year through 2021-22, except during the 2020-21 pandemic year
 id: kauffman-school-achievement-growth-impacts-math-ela-science
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

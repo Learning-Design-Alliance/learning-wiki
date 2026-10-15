@@ -3,7 +3,7 @@ type: claim
 title: Teachers rated ChatGPT as improving lesson-planning efficiency, especially reducing planning time (average 4.2 on a 5-point scale)
 description: Teachers rated ChatGPT as improving lesson-planning efficiency, especially reducing planning time (average 4.2 on a 5-point scale)
 id: chatgpt-improves-lesson-planning-efficiency-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

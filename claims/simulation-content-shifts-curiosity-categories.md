@@ -3,7 +3,7 @@ type: claim
 title: The category distribution of student questions varies substantially across different simulations
 description: The category distribution of student questions varies substantially across different simulations
 id: simulation-content-shifts-curiosity-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: AI-peer integrated feedback produces significantly higher posttest behavioral engagement than conventional peer feedback in EFL writing
 description: AI-peer integrated feedback produces significantly higher posttest behavioral engagement than conventional peer feedback in EFL writing
 id: ai-peer-feedback-higher-behavioral-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

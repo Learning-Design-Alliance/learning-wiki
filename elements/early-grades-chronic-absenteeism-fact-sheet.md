@@ -3,7 +3,7 @@ type: element
 id: early-grades-chronic-absenteeism-fact-sheet
 title: Fact sheet on chronic absenteeism risk factors in the early grades for schools
 description: "This artifact is a fact sheet addressed to schools, published by Regional Educational Laboratory Mid-Atlantic on Nov 20, 2019, under the title \"Improving the School Attendance of New Jersey's Youngest Learners.\" It is..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

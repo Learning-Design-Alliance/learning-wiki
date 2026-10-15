@@ -3,7 +3,7 @@ type: claim
 title: "Generating peer feedback prior to internal feedback does not improve the quality of assessors' subsequent internal feedback"
 description: "Generating peer feedback prior to internal feedback does not improve the quality of assessors' subsequent internal feedback"
 id: peer-feedback-first-no-effect-internal-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

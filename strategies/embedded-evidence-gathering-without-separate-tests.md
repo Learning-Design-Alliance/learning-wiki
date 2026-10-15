@@ -3,7 +3,7 @@ type: strategy
 id: embedded-evidence-gathering-without-separate-tests
 title: Gather formative evidence through embedded, discipline-specific tasks rather than separate tests or language assessments
 description: The brief shows that evidence of content and language learning can be gathered through observing, questioning, listening, analyzing work, and conversations, interpreted against success criteria.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

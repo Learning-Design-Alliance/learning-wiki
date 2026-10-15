@@ -3,7 +3,7 @@ type: claim
 title: Positive and negative AI perceptions are strongly negatively co-related within individuals (τ = −0.819), refuting an ambivalent-attitude reading of aggregate frequencies
 description: Positive and negative AI perceptions are strongly negatively co-related within individuals (τ = −0.819), refuting an ambivalent-attitude reading of aggregate frequencies
 id: perception-polarisation-tau-negative-0819
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

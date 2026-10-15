@@ -3,7 +3,7 @@ type: claim
 title: Chronic absenteeism is studied as a factor in student achievement over two years, with the 10 percent absence threshold questioned as a trigger point for action
 description: Chronic absenteeism is studied as a factor in student achievement over two years, with the 10 percent absence threshold questioned as a trigger point for action
 id: chronic-absenteeism-achievement-two-year-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

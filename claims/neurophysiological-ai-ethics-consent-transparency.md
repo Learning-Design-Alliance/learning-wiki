@@ -3,7 +3,7 @@ type: claim
 title: Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development
 description: Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development
 id: neurophysiological-ai-ethics-consent-transparency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Two-thirds of teachers and 72 percent of principals believed the threat of retention motivated students to work harder
 description: Two-thirds of teachers and 72 percent of principals believed the threat of retention motivated students to work harder
 id: retention-threat-motivates-students-teacher-beliefs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

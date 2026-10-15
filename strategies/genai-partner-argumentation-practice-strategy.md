@@ -3,7 +3,7 @@ type: strategy
 id: genai-partner-argumentation-practice-strategy
 title: Use chat-based GenAI as a partner for students to practice argumentation and scientific claims, especially in larger courses
 description: The authors recommend using chat-based GenAI as a practice partner for argumentation skills.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

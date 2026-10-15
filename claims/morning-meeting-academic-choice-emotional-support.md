@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' use of Morning Meeting and Academic Choice relates to higher levels of emotionally supportive interactions in grade 3–5 classrooms"
 description: "Teachers' use of Morning Meeting and Academic Choice relates to higher levels of emotionally supportive interactions in grade 3–5 classrooms"
 id: morning-meeting-academic-choice-emotional-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: AI-related professional learning does not clearly moderate the within-teacher demand–AI allocation association
 description: AI-related professional learning does not clearly moderate the within-teacher demand–AI allocation association
 id: professional-learning-no-moderation-allocation-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: A procedure- and data-focused evaluation approach may have the most positive effect on student achievement over time
 description: A procedure- and data-focused evaluation approach may have the most positive effect on student achievement over time
 id: evaluation-approach-achievement-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

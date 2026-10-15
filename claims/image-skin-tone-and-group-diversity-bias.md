@@ -3,7 +3,7 @@ type: claim
 title: Single-person images are significantly biased toward light-skinned individuals, while multi-person images show more balanced gender and skin-tone diversity
 description: Single-person images are significantly biased toward light-skinned individuals, while multi-person images show more balanced gender and skin-tone diversity
 id: image-skin-tone-and-group-diversity-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

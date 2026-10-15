@@ -3,7 +3,7 @@ type: claim
 title: "The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not"
 description: "The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not"
 id: desirable-interpersonal-style-overall-coordination-complementarity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

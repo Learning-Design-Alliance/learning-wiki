@@ -2,7 +2,7 @@
 type: theory
 title: Expanded accountability
 description: A lens developed by Dr.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

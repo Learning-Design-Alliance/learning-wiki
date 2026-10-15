@@ -3,7 +3,7 @@ type: claim
 title: "Students' explanation (argument, presentation) levels improved after the intervention, though gains were smaller than in vocabulary"
 description: "Students' explanation (argument, presentation) levels improved after the intervention, though gains were smaller than in vocabulary"
 id: explanation-levels-improve-post-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: method-based-ethical-policies-process-assessment
 title: Move beyond generic AI policies to method-based ethical policies and process-oriented assessment
 description: The article recommends that ethical policy for AI in online education be tailored to specific teaching methods rather than generic, method-agnostic guidance, because each method places distinct pressures on authentici...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

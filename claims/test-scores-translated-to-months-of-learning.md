@@ -3,7 +3,7 @@ type: claim
 title: Researchers have translated test scores into months of learning to claim how many months or years students are behind in school
 description: Researchers have translated test scores into months of learning to claim how many months or years students are behind in school
 id: test-scores-translated-to-months-of-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

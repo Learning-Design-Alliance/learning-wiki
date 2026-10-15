@@ -3,7 +3,7 @@ type: design
 id: genai-agent-vipe-small-group-element
 title: GenAI agent embedded in VIPE small-group processes as an instructional component
 description: The element is a generative artificial intelligence-based agent (genAI agent) placed into the small group processes of student teams during a session of a well-established virtual interprofessional education methodology.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Workforce-context micro-credential success depends on sustained partnerships, employer recognition, higher-education credit linkage, and time-cost flexibility
 description: Workforce-context micro-credential success depends on sustained partnerships, employer recognition, higher-education credit linkage, and time-cost flexibility
 id: workforce-micro-credential-success-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

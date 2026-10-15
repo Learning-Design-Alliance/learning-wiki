@@ -3,7 +3,7 @@ type: claim
 title: Fixed degree structures struggle to keep pace with evolving knowledge, leading to program proliferation with marginal differentiation
 description: Fixed degree structures struggle to keep pace with evolving knowledge, leading to program proliferation with marginal differentiation
 id: fixed-degrees-struggle-with-evolving-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

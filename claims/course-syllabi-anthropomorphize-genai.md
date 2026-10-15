@@ -3,7 +3,7 @@ type: claim
 title: "Course syllabi anthropomorphize GenAI — 39% attribute living characteristics such as a GenAI Assistant — a theme absent from institutional guidelines"
 description: "Course syllabi anthropomorphize GenAI — 39% attribute living characteristics such as a GenAI Assistant — a theme absent from institutional guidelines"
 id: course-syllabi-anthropomorphize-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

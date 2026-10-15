@@ -3,7 +3,7 @@ type: claim
 title: Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before
 description: Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before
 id: school-climate-associated-with-lower-absences-post-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

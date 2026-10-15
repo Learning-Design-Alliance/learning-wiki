@@ -4,7 +4,7 @@ title: "Democracy Prep charter schools increase students' voting rates by about 
 description: "Democracy Prep charter schools increase students' voting rates by about 12 percentage points in the 2016 election"
 id: democracy-prep-increases-voting-rates-12-points
 aliases: [democracy-prep-lottery-voting-gain-12-points]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

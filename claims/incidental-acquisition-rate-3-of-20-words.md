@@ -3,7 +3,7 @@ type: claim
 title: Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages
 description: Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages
 id: incidental-acquisition-rate-3-of-20-words
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)
 description: Encoding variability across varied example contexts produces decontextualization supporting transfer (review reports DiVesta and Peverly)
 id: encoding-variability-decontextualization-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

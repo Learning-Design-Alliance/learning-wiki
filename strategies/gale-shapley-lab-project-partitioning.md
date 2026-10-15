@@ -3,7 +3,7 @@ type: strategy
 id: gale-shapley-lab-project-partitioning
 title: Partition projects across course lab sections using the Gale-Shapley algorithm before student-to-project assignment
 description: "To support courses with labs, the article describes a supplementary algorithm run before the main assignment: it computes teams needed per lab from an instructor-defined base team size, then treats lab-to-project allo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

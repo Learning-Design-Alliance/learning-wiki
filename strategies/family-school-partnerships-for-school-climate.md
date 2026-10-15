@@ -3,7 +3,7 @@ type: strategy
 id: family-school-partnerships-for-school-climate
 title: Invest in family-school partnerships, including access to families during the school day and student-family-educator co-creation
 description: "The brief recommends that educators \"incorporate access to families during the school day and create opportunities for student-family-educator partnerships to improve school climate.\" It cites external sources that me..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

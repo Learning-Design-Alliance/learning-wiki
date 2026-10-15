@@ -3,7 +3,7 @@ type: claim
 title: "University High School's suspensions dropped 78% and fights fell from more than 10 per semester to one in the 2023–24 school year after adopting the community school strategy"
 description: "University High School's suspensions dropped 78% and fights fell from more than 10 per semester to one in the 2023–24 school year after adopting the community school strategy"
 id: university-high-suspensions-fights-declined-community-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

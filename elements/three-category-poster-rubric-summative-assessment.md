@@ -3,7 +3,7 @@ type: element
 id: three-category-poster-rubric-summative-assessment
 title: Three-category rubric for summative assessment of inquiry poster presentations
 description: A rubric used to score individual poster presentations as a summative assessment of student learning in the inquiry.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

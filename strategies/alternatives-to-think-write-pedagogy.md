@@ -3,7 +3,7 @@ type: strategy
 id: alternatives-to-think-write-pedagogy
 title: Replacing think-write pedagogy with conversation-based writing activities
 description: "The paper's first recommendation is \"to consider alternative strategies to the think-write pedagogy\", in which writers work in isolation."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

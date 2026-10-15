@@ -3,7 +3,7 @@ type: strategy
 id: l2-anxiety-future-research-directions
 title: Future research should pursue the directions the authors outline for L2 anxiety research
 description: "The authors close by pointing the field toward further work: \"We discuss the findings in the context of theoretical and practical concerns, and we provide direction for future research.\" Researchers in L2 anxiety shou..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

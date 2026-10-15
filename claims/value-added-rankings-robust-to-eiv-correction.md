@@ -3,7 +3,7 @@ type: claim
 title: Value-added teacher rankings are insensitive to correcting measurement error in the pretest, with correlations of 0.91–0.99 for elementary and 0.77–0.98 for middle school teachers
 description: Value-added teacher rankings are insensitive to correcting measurement error in the pretest, with correlations of 0.91–0.99 for elementary and 0.77–0.98 for middle school teachers
 id: value-added-rankings-robust-to-eiv-correction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

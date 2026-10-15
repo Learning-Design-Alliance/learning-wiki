@@ -3,7 +3,7 @@ type: strategy
 id: ai-chatbot-feedback-writing-courses
 title: Provide timely automated feedback through an AI chatbot during EFL writing practice
 description: This strategy embeds an AI chatbot into writing courses so that learners receive immediate machine-generated assistance on their drafts rather than waiting for instructor feedback.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

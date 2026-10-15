@@ -3,7 +3,7 @@ type: claim
 title: Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005
 description: Chicago school organizational supports (leadership, professional capacity, parent involvement) improved across eras, but instructional quality did not, and student-reported teacher support declined after 2005
 id: organizational-gains-without-instructional-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: "Desirable difficulties: spacing and retrieval practice for L2 vocabulary"
 description: "The article organizes its rationale around desirable difficulties, defined as \"activities or situations which increase the difficulty of a task initially,\" which slow learning and can lower short-term performance whil..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

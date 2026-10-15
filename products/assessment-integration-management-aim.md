@@ -4,7 +4,7 @@ id: assessment-integration-management-aim
 title: Assessment Integration Management (AIM)
 description: Assessment Integration Management (AIM) is a web-based system for creating tests, uploading test models and item pools, and running large-scale computerized-based-exam simulations with configurable testing and student parameters.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

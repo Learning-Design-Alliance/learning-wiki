@@ -3,7 +3,7 @@ type: claim
 title: WWC improvement indices for Too Good for Violence are +18 percentile points for behavior and +16 for knowledge, attitudes, and values
 description: WWC improvement indices for Too Good for Violence are +18 percentile points for behavior and +16 for knowledge, attitudes, and values
 id: tgv-improvement-indices-18-16
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -4,7 +4,7 @@ id: strategic-data-use-in-education
 title: Strategic Data Use in Education
 description: "A Bill & Melinda Gates Foundation-supported initiative that ran from 2011 to 2015 and helped organizations and agencies build school-district capacity to generate and use data."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Quantitative research on homeschooling covers available data sources, estimates of homeschooled children, part-time homeschooling, and families' reasons for homeschooling"
 description: "Quantitative research on homeschooling covers available data sources, estimates of homeschooled children, part-time homeschooling, and families' reasons for homeschooling"
 id: quantitative-homeschooling-research-scope
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

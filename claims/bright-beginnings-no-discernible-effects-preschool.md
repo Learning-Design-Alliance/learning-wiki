@@ -3,7 +3,7 @@ type: claim
 title: "The Bright Beginnings preschool curriculum shows no discernible effects on preschool children's school readiness across oral language, print knowledge, phonological processing, and math domains"
 description: "The Bright Beginnings preschool curriculum shows no discernible effects on preschool children's school readiness across oral language, print knowledge, phonological processing, and math domains"
 id: bright-beginnings-no-discernible-effects-preschool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

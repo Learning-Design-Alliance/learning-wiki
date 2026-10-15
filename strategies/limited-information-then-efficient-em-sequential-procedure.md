@@ -3,7 +3,7 @@ type: strategy
 id: limited-information-then-efficient-em-sequential-procedure
 title: Explore candidate models with limited-information estimation first, then estimate the structured model with the efficient EM algorithm
 description: For settings where researchers have not yet settled on a model structure, the article recommends a two-stage workflow.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

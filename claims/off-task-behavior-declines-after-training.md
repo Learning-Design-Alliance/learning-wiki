@@ -3,7 +3,7 @@ type: claim
 title: "Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates"
 description: Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates
 id: off-task-behavior-declines-after-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

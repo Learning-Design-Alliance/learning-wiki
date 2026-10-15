@@ -3,7 +3,7 @@ type: claim
 title: CIRC shows no discernible effects on general reading achievement for beginning readers (effect size 0.02)
 description: CIRC shows no discernible effects on general reading achievement for beginning readers (effect size 0.02)
 id: circ-no-discernible-general-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

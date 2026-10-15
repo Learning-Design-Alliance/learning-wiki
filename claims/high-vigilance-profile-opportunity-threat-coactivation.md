@@ -3,7 +3,7 @@ type: claim
 title: The High-Perception High-Vigilance profile combines elevated AI use anxiety and STARA awareness with strong capability perceptions and AI creative self-efficacy
 description: The High-Perception High-Vigilance profile combines elevated AI use anxiety and STARA awareness with strong capability perceptions and AI creative self-efficacy
 id: high-vigilance-profile-opportunity-threat-coactivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

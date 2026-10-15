@@ -3,7 +3,7 @@ type: element
 id: data-driven-instruction-support-intervention
 title: Support for data-driven instruction intervention (coaching and support to schools for using student data)
 description: "An intervention evaluated in a random assignment study that involved \"providing coaching and support to schools to help them use student data to inform teachers’ instruction.\" It was examined for effects on \"teachers’..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

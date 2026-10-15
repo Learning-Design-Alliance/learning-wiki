@@ -3,7 +3,7 @@ type: claim
 title: Consonance and dissonance patterns form four components, including a dominant pattern linking valuing constructivist teaching/assessment for learning with dissonance
 description: Consonance and dissonance patterns form four components, including a dominant pattern linking valuing constructivist teaching/assessment for learning with dissonance
 id: four-patterns-consonance-dissonance-pca
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

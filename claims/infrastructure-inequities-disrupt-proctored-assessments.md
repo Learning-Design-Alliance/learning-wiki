@@ -3,7 +3,7 @@ type: claim
 title: Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings
 description: Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings
 id: infrastructure-inequities-disrupt-proctored-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

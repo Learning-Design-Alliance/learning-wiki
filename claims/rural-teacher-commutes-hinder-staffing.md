@@ -3,7 +3,7 @@ type: claim
 title: Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools
 description: Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools
 id: rural-teacher-commutes-hinder-staffing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

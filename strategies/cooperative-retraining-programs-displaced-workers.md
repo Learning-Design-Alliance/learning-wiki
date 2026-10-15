@@ -3,7 +3,7 @@ type: strategy
 id: cooperative-retraining-programs-displaced-workers
 title: Use updated occupational education and retraining programs, including cooperative on-the-job instruction, to re-employ workers displaced by technological change
 description: "The monograph recommends continuous programs of job training as prime importance for private and public enterprise and individual workers, stating that \"Widely varied and accepted occupational education and re-trainin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

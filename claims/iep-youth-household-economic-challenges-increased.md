@@ -3,7 +3,7 @@ type: claim
 title: Youth with an IEP are more likely than a decade ago to live in households facing economic challenges
 description: Youth with an IEP are more likely than a decade ago to live in households facing economic challenges
 id: iep-youth-household-economic-challenges-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: rlhf-next-step-post-training-education
 title: "Next-step post-training strategy: reinforcement learning from human feedback on authentic learning dialogues and scaling student feedback"
 description: "The article's forward-looking recommendation is to move beyond supervised fine-tuning toward RLHF using authentic learning dialogues, and to incorporate post-trained models into the student journey to quantify student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

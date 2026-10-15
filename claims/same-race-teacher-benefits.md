@@ -3,7 +3,7 @@ type: claim
 title: Students of color benefit academically and behaviorally from having teachers of the same race.
 description: Students of color benefit academically and behaviorally from having teachers of the same race.
 id: same-race-teacher-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

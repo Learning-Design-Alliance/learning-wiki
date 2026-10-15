@@ -3,7 +3,7 @@ type: strategy
 id: state-priorities-durable-cross-sector-systems-hmy
 title: State priorities for designing durable cross-sector systems supporting highly mobile youth
 description: "From the two state cases, the report distills priorities for state leaders: \"Align state-level policy while allowing local flexibility."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

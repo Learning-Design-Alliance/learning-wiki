@@ -4,7 +4,7 @@ id: collaborative-innovation
 title: Collaborative Innovation
 description: "White's Collaborative Innovation framework organizes collaborative work through four Practice Tenets and two Impact Tenets, with associated phases, protocols, and activities."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

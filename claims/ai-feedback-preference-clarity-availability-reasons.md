@@ -3,7 +3,7 @@ type: claim
 title: Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability
 description: Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability
 id: ai-feedback-preference-clarity-availability-reasons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs
 description: Human review remains essential after GPT-based codebook generation, producing a final refined SRL codebook of eleven constructs
 id: human-refinement-essential-gpt-codebooks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

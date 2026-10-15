@@ -3,7 +3,7 @@ type: strategy
 id: supervised-practicum-ai-focused-pedagogies
 title: Expand supervised practicum experiences in teacher preparation to include AI-focused pedagogies
 description: "The article recommends that teacher education programs expand supervised practicum experiences so teacher candidates learn AI-focused pedagogies: scaffolding students' iterative interrogation of AI responses, examinin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

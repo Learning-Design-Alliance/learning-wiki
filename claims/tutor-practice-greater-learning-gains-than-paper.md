@@ -3,7 +3,7 @@ type: claim
 title: Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets
 description: Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets
 id: tutor-practice-greater-learning-gains-than-paper
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

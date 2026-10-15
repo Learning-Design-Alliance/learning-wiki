@@ -3,7 +3,7 @@ type: claim
 title: "Building the concept map supported teachers' reflection, helping them synthesize what students should learn and iterate on their plans"
 description: "Building the concept map supported teachers' reflection, helping them synthesize what students should learn and iterate on their plans"
 id: concept-catalyst-concept-map-supports-teacher-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "The Chicago Annenberg Challenge had little impact on student academic achievement: rates of gain in Annenberg schools did not differ significantly from non-Annenberg schools"
 description: "The Chicago Annenberg Challenge had little impact on student academic achievement: rates of gain in Annenberg schools did not differ significantly from non-Annenberg schools"
 id: annenberg-no-significant-achievement-gain-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

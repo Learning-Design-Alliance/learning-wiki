@@ -3,7 +3,7 @@ type: claim
 title: Delphi and wider-review feedback led Level 4 to be repositioned as beyond AI literacy, clarifying the boundary of AI literacy
 description: Delphi and wider-review feedback led Level 4 to be repositioned as beyond AI literacy, clarifying the boundary of AI literacy
 id: sail-level-four-beyond-ai-literacy-boundary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

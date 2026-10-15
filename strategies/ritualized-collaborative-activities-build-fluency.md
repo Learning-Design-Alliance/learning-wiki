@@ -3,7 +3,7 @@ type: strategy
 id: ritualized-collaborative-activities-build-fluency
 title: Ritualize collaborative activities so students become fluent in the skills the ritual requires
 description: The primer recommends, following Kolodner (2003) and Kolodner et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

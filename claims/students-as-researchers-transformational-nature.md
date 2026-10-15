@@ -3,7 +3,7 @@ type: claim
 title: "The Students as Researchers project is transformational in nature, per the author's appraisal"
 description: "The Students as Researchers project is transformational in nature, per the author's appraisal"
 id: students-as-researchers-transformational-nature
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

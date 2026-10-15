@@ -3,7 +3,7 @@ type: claim
 title: Among RL papers statistically outperforming baselines, normalized learning gain was the most common effective reward source, used in over half of the papers (n = 10)
 description: Among RL papers statistically outperforming baselines, normalized learning gain was the most common effective reward source, used in over half of the papers (n = 10)
 id: normalized-learning-gain-effective-reward-source
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

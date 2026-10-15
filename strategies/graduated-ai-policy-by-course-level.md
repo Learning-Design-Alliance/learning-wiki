@@ -3,7 +3,7 @@ type: strategy
 id: graduated-ai-policy-by-course-level
 title: "Graduate the AI policy across the curriculum so that permitted AI use tracks each course's pedagogical purpose"
 description: "The strategy sets AI permissions course by course rather than adopting a single program-wide policy, because \"the pedagogical purpose of a course determines what AI use serves or subverts it.\" In the introductory prog..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

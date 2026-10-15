@@ -3,7 +3,7 @@ type: element
 id: understanding-types-of-evidence-guide
 title: "Understanding Types of Evidence: A Guide for Educators (Mathematica, 2016)"
 description: A practitioner guide published by Mathematica Policy Research on October 24, 2016, under its Effective Data Use area.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

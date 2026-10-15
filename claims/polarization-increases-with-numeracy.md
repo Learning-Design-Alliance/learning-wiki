@@ -3,7 +3,7 @@ type: claim
 title: Contrary to the science comprehension thesis, political polarization of data interpretation did not abate among the most numerate subjects but increased
 description: Contrary to the science comprehension thesis, political polarization of data interpretation did not abate among the most numerate subjects but increased
 id: polarization-increases-with-numeracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

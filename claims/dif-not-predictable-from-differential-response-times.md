@@ -3,7 +3,7 @@ type: claim
 title: DIF was found for four items but could not be anticipated from differential response times between boys and girls alone
 description: DIF was found for four items but could not be anticipated from differential response times between boys and girls alone
 id: dif-not-predictable-from-differential-response-times
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

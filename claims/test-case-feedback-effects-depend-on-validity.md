@@ -3,7 +3,7 @@ type: claim
 title: Effects of AI-generated test case feedback depend critically on feedback validity
 description: Effects of AI-generated test case feedback depend critically on feedback validity
 id: test-case-feedback-effects-depend-on-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

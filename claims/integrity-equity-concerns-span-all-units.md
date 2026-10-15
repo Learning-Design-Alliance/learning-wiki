@@ -3,7 +3,7 @@ type: claim
 title: Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently
 description: Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently
 id: integrity-equity-concerns-span-all-units
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

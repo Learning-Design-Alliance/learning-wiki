@@ -3,7 +3,7 @@ type: claim
 title: A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance
 description: A student began interacting with the sim within 10 seconds and verbalized sense-making without explicit guidance
 id: implicit-scaffolding-supports-immediate-exploration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

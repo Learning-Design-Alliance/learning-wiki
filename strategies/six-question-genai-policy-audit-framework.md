@@ -3,7 +3,7 @@ type: strategy
 id: six-question-genai-policy-audit-framework
 title: Use a six-question drafting and audit framework for GenAI assessment rules covering task rules, defaults, disclosure, contribution, verification, and hierarchy
 description: "The article proposes a six-question framework institutions can use to draft and audit GenAI assessment rules: task rule, default and authority, disclosure, contribution and authorship, verification, and hierarchy and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

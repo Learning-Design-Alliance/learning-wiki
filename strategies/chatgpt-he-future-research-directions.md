@@ -3,7 +3,7 @@ type: strategy
 id: chatgpt-he-future-research-directions
 title: Pursue future research on ChatGPT in higher education to fill the gaps the scoping review identifies
 description: The review sets out directions for future research in higher education as part of its proposed response to ChatGPT.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

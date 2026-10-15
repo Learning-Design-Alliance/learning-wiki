@@ -3,7 +3,7 @@ type: strategy
 id: pd-policy-recommendations
 title: Policy and practice recommendations for supporting evidence-based professional development
 description: The report offers seven policy recommendations, including adopting standards for PD design and funding, redesigning school schedules to increase time for collaboration and peer coaching, conducting regular needs asses...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

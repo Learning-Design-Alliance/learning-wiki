@@ -3,7 +3,7 @@ type: claim
 title: Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63
 description: Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63
 id: dropout-programs-or-163-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

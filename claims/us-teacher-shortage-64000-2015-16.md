@@ -3,7 +3,7 @@ type: claim
 title: The United States faced an estimated teacher shortage of approximately 64,000 teachers in 2015–16, projected to grow to as many as 112,000 by 2018
 description: The United States faced an estimated teacher shortage of approximately 64,000 teachers in 2015–16, projected to grow to as many as 112,000 by 2018
 id: us-teacher-shortage-64000-2015-16
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

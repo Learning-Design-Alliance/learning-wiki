@@ -3,7 +3,7 @@ type: claim
 title: The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).
 description: The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs.
 id: format-consistency-moderates-classroom-testing-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

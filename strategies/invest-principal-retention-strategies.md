@@ -3,7 +3,7 @@ type: strategy
 id: invest-principal-retention-strategies
 title: Invest in principal retention strategies that address the invisible tax on leaders of color
 description: The brief recommends retention investments so that teachers of color can grow into school leaders who have autonomy and support.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Equity disparities in GenAI Tutor use appear in how students engage, not in whether or how much they use the tool
 description: Equity disparities in GenAI Tutor use appear in how students engage, not in whether or how much they use the tool
 id: equity-in-how-not-how-much-genai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

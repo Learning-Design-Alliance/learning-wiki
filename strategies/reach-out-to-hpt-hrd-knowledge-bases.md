@@ -3,7 +3,7 @@ type: strategy
 id: reach-out-to-hpt-hrd-knowledge-bases
 title: Reach out to other disciplines, particularly Human Performance Technology and Human Resource Development, as involvement with educational change grows
 description: The digest recommends that practitioners include other knowledge bases, particularly the business-inspired domains of Human Performance Technology (HPT) and Human Resource Development (HRD), as their involvement with...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: "Largest professional development gains occur in practical application (+27%) and critical evaluation (+26%), with ethical awareness showing the smallest gain (+18%)"
 description: "Largest professional development gains occur in practical application (+27%) and critical evaluation (+26%), with ethical awareness showing the smallest gain (+18%)"
 id: pd-gains-largest-application-evaluation-smallest-ethics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

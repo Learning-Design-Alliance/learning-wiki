@@ -3,7 +3,7 @@ type: claim
 title: The RLMM recovers ability parameters on peg-solitaire boards with up to more than 23 million states, where tabular MDP-MM estimation is impractical
 description: The RLMM recovers ability parameters on peg-solitaire boards with up to more than 23 million states, where tabular MDP-MM estimation is impractical
 id: rlmm-scales-to-millions-of-states
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

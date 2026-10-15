@@ -3,7 +3,7 @@ type: claim
 title: Demographic diversity characteristics are inconsistently reported across published universal school-based SEL intervention evaluations
 description: Demographic diversity characteristics are inconsistently reported across published universal school-based SEL intervention evaluations
 id: inconsistent-diversity-reporting-sel-evaluations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

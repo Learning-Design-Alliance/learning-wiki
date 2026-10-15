@@ -3,7 +3,7 @@ type: claim
 title: "Several FRTF behavioral examples were not sorted better than chance, including actively listening to others (18.2%) and exploring implications of proposed solutions (9.4%)"
 description: "Several FRTF behavioral examples were not sorted better than chance, including actively listening to others (18.2%) and exploring implications of proposed solutions (9.4%)"
 id: frtf-behavioral-examples-below-chance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

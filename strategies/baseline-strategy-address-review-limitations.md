@@ -3,7 +3,7 @@ type: strategy
 id: baseline-strategy-address-review-limitations
 title: Use this methodological baseline to target improvements in interpreting risk of bias, reporting study funding, and citing protocols in systematic reviews
 description: "The review positions its findings as a baseline for quality-improvement work in evidence synthesis: \"This report may be used as a baseline for assessing effects of implementing strategies to address limitations identi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

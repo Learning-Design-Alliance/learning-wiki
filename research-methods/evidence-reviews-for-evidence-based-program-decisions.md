@@ -3,7 +3,7 @@ type: research-method
 id: evidence-reviews-for-evidence-based-program-decisions
 title: Evidence reviews for evidence-based program decisions
 description: "The article frames evidence reviews as \"projects that identify, assess, and summarize existing research in a given area\" that play an important role in supporting the quality of program evaluations and how findings are used."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

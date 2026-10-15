@@ -3,7 +3,7 @@ type: claim
 title: Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries
 description: Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries
 id: covid-deficits-larger-middle-income-countries
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

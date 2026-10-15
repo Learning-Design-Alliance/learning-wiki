@@ -2,7 +2,7 @@
 type: theory
 title: Seven-category disaggregation of U.S. private schools in the specialty school dashboard
 description: The appendix organizes private schools covered by the dashboard into a seven-part classification by religious affiliation and secular status.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

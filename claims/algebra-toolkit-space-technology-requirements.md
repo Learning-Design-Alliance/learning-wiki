@@ -3,7 +3,7 @@ type: claim
 title: "Toolkit implementation requires modest physical and technological infrastructure: one meeting space, one computer per participant, and 12 to 18 hours of internet connection"
 description: "Toolkit implementation requires modest physical and technological infrastructure: one meeting space, one computer per participant, and 12 to 18 hours of internet connection"
 id: algebra-toolkit-space-technology-requirements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

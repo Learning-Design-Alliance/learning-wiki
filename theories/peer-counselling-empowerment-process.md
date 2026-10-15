@@ -2,7 +2,7 @@
 type: theory
 title: Peer counselling empowerment as a process by which people, organizations and communities gain mastery over their lives
 description: "The paper defines peer counselling empowerment as \"a process that relates the mechanism by which people, organizations and the community gain mastery over their lives\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: organizational-partnerships-for-educator-development-dissemination
 title: Build organizational partnerships to disseminate educator development strategies
 description: The blueprint presents an approach to building organizational partnerships whose purpose is to share and strengthen educator development strategies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

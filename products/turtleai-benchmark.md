@@ -4,7 +4,7 @@ id: turtleai-benchmark
 title: TURTLEAI benchmark
 description: A publicly released benchmark comprising Turtle Graphics programming-task datasets, code-evaluation tools, and synthetic-data generation methods, developed by Chao Wen et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

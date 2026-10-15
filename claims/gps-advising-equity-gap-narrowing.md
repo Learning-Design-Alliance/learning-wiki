@@ -3,7 +3,7 @@ type: claim
 title: "Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy"
 description: "Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy"
 id: gps-advising-equity-gap-narrowing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

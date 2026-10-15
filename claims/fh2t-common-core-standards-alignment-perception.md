@@ -3,7 +3,7 @@ type: claim
 title: Educators perceived FH2T as strongly connected to Common Core Standards for Mathematical Content and uniquely integrating the Standards for Mathematical Practice
 description: Educators perceived FH2T as strongly connected to Common Core Standards for Mathematical Content and uniquely integrating the Standards for Mathematical Practice
 id: fh2t-common-core-standards-alignment-perception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

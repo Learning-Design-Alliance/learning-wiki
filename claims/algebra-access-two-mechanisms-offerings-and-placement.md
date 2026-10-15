@@ -3,7 +3,7 @@ type: claim
 title: The study examined both school Algebra offerings and student placement practices
 description: The study examined both school Algebra offerings and student placement practices
 id: algebra-access-two-mechanisms-offerings-and-placement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

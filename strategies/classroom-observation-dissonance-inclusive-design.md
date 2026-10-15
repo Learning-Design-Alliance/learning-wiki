@@ -3,7 +3,7 @@ type: strategy
 id: classroom-observation-dissonance-inclusive-design
 title: Observe the classroom for dissonance between what students say and what teachers see
 description: Step 3 directs teachers to observe their own classroom and interactions during CS/CT activities, attending to seating, self-formed groups, and which voices are heard.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

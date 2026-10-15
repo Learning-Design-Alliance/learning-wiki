@@ -3,7 +3,7 @@ type: claim
 title: Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)
 description: Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)
 id: fidelity-fallacy-serious-games
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

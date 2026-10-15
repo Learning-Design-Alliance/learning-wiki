@@ -3,7 +3,7 @@ type: research-method
 id: the-effort-moderated-irt-model-of-test-taking-motivation
 title: The effort-moderated IRT model of test-taking motivation
 description: The effort-moderated IRT model (S.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

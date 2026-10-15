@@ -2,7 +2,7 @@
 type: theory
 title: "Instructional program coherence framework: common framework, supportive working conditions, and strategic resource allocation"
 description: "The report defines instructional program coherence through three major conditions: a common instructional framework guiding curriculum, teaching, assessment, and learning climate; staff working conditions that support..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

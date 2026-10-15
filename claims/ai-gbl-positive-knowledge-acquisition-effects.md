@@ -3,7 +3,7 @@ type: claim
 title: AI-supported game-based learning shows positive learning effects across diverse subject domains in the majority of included studies
 description: AI-supported game-based learning shows positive learning effects across diverse subject domains in the majority of included studies
 id: ai-gbl-positive-knowledge-acquisition-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

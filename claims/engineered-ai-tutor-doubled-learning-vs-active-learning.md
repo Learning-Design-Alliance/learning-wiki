@@ -3,7 +3,7 @@ type: claim
 title: A carefully engineered AI tutor produced more than twice the learning of a strong active-learning class, in less time (Kestin et al., 2025, as reported)
 description: A carefully engineered AI tutor produced more than twice the learning of a strong active-learning class, in less time (Kestin et al., 2025, as reported)
 id: engineered-ai-tutor-doubled-learning-vs-active-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

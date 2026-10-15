@@ -3,7 +3,7 @@ type: strategy
 id: use-completer-surveys-accreditation-continuous-improvement
 title: Use state completer survey data within accreditation to flag struggling programs and expand subsidized high-quality clinical pathways for underserved candidates
 description: The report recommends that California policymakers use its completer survey system both to enforce accreditation standards and to support program improvement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

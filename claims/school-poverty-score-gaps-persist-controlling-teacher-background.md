@@ -3,7 +3,7 @@ type: claim
 title: Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials
 description: Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials
 id: school-poverty-score-gaps-persist-controlling-teacher-background
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

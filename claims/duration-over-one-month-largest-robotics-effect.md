@@ -3,7 +3,7 @@ type: claim
 title: Interventions longer than one month showed the largest effect size for robot-assisted STEM learning, though duration was not a significant moderator overall
 description: Interventions longer than one month showed the largest effect size for robot-assisted STEM learning, though duration was not a significant moderator overall
 id: duration-over-one-month-largest-robotics-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

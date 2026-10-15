@@ -3,7 +3,7 @@ type: strategy
 id: equity-focused-tutoring-targeting
 title: Target tutoring equity by prioritizing underserved students and using culturally reflective curriculum and formative data
 description: "The brief's equity focus runs through all five profiled states: grant applications prioritizing rural, low-income, and students-of-color communities (Colorado); implementing tutoring in ways that affirm students' iden..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

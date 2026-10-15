@@ -3,7 +3,7 @@ type: claim
 title: "Computing students show high objective cybersecurity knowledge, with over 75% answering five or more of seven Pew questions correctly"
 description: "Computing students show high objective cybersecurity knowledge, with over 75% answering five or more of seven Pew questions correctly"
 id: computing-students-high-objective-cybersecurity-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The NSF EXP collaboration network connected 238 researchers across 87 projects and 116 expertise areas
 description: The NSF EXP collaboration network connected 238 researchers across 87 projects and 116 expertise areas
 id: nsf-exp-network-238-researchers-87-projects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings
 description: Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings
 id: educator-buy-in-engagement-fidelity-edtech-pilots
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy
 description: Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy
 id: genai-metacognitive-laziness-and-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

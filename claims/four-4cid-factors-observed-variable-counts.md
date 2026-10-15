@@ -3,7 +3,7 @@ type: claim
 title: "FICSMath instructional experiences converge into four 4C/ID-aligned factors: complex tasks (4 items), whole-task concept overviews (17), procedural support (16), and practice opportunities (13)"
 description: "FICSMath instructional experiences converge into four 4C/ID-aligned factors: complex tasks (4 items), whole-task concept overviews (17), procedural support (16), and practice opportunities (13)"
 id: four-4cid-factors-observed-variable-counts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

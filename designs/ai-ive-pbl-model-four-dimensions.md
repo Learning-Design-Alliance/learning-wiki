@@ -3,7 +3,7 @@ type: design
 id: ai-ive-pbl-model-four-dimensions
 title: The AI-IVE-PBL model integrates an AI-enabled immersive virtual environment with project-based learning across four dimensions
 description: The article proposes a PBL in AI-IVE (AI-IVE-PBL) model that combines the advantages of an AI-enabled immersive virtual environment with the features of project-based learning.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

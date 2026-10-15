@@ -3,7 +3,7 @@ type: claim
 title: Kimi shows reasonable but weaker agreement with human examiners than ChatGPT (weighted kappa 0.571)
 description: Kimi shows reasonable but weaker agreement with human examiners than ChatGPT (weighted kappa 0.571)
 id: kimi-reasonable-human-grading-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

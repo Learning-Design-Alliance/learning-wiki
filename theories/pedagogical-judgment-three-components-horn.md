@@ -2,7 +2,7 @@
 type: theory
 title: "Pedagogical judgment as three interrelated components: action, reasoning, and responsibility"
 description: "Drawing on Horn (2020), the article treats teacher learning as the development of pedagogical judgment, defined as \"three interrelated but analytically distinct components\": pedagogical action (choices teachers make,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

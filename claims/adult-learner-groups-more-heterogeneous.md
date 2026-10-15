@@ -3,7 +3,7 @@ type: claim
 title: Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies
 description: Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies
 id: adult-learner-groups-more-heterogeneous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

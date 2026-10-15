@@ -3,7 +3,7 @@ type: claim
 title: Constituting AI as a critical file that returns questions instead of revisions is a design requirement for sustaining productive struggle
 description: Constituting AI as a critical file that returns questions instead of revisions is a design requirement for sustaining productive struggle
 id: ai-as-critical-file-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

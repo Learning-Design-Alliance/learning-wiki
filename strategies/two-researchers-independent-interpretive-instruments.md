@@ -3,7 +3,7 @@ type: strategy
 id: two-researchers-independent-interpretive-instruments
 title: "Use two researchers as independent instruments for interpretation instead of one researcher confirming the other's reliability"
 description: This strategy replaces conventional single-coder reliability checking with collaborative interpretation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

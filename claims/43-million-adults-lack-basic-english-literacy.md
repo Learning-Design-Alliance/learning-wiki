@@ -3,7 +3,7 @@ type: claim
 title: Nearly 43 million U.S. adults lack the basic English literacy skills required to succeed in the workforce and achieve economic self-sufficiency
 description: Nearly 43 million U.S.
 id: 43-million-adults-lack-basic-english-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

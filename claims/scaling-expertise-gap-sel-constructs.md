@@ -3,7 +3,7 @@ type: claim
 title: Little of the existing IRT scaling and linking expertise from large-scale educational assessment is applied to scaling psychological and social-emotional survey constructs
 description: Little of the existing IRT scaling and linking expertise from large-scale educational assessment is applied to scaling psychological and social-emotional survey constructs
 id: scaling-expertise-gap-sel-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

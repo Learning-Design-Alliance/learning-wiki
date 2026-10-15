@@ -3,7 +3,7 @@ type: claim
 title: Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge
 description: Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge
 id: automated-ai-assessment-high-impact-moderate-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

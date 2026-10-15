@@ -3,7 +3,7 @@ type: strategy
 id: assessment-twin-design-process-four-steps
 title: "Four-step assessment twin design process: identify vulnerabilities, align outcomes, select complementary tasks, develop interdependent marking schemes"
 description: The article proposes an implementable design process for building assessment twins.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

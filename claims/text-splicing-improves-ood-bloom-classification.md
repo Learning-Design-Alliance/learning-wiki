@@ -3,7 +3,7 @@ type: claim
 title: Text splicing into single sentences improves ML and BERT Bloom classification on the Scaria OOD dataset
 description: Text splicing into single sentences improves ML and BERT Bloom classification on the Scaria OOD dataset
 id: text-splicing-improves-ood-bloom-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

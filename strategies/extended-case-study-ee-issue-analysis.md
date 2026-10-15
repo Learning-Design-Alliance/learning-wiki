@@ -3,7 +3,7 @@ type: strategy
 id: extended-case-study-ee-issue-analysis
 title: "Extended Case Study approach: teacher-directed analysis of an environmental issue using primary and secondary sources"
 description: The Extended Case Study is one of two school-level approaches the newsletter recommends for global change instruction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

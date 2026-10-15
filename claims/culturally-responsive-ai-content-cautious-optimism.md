@@ -3,7 +3,7 @@ type: claim
 title: Educators cautiously support AI for culturally responsive content generation while fearing cultural biases and stereotypes in AI output
 description: Educators cautiously support AI for culturally responsive content generation while fearing cultural biases and stereotypes in AI output
 id: culturally-responsive-ai-content-cautious-optimism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

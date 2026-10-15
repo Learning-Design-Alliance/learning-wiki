@@ -3,7 +3,7 @@ type: claim
 title: "In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies"
 description: "In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies"
 id: gpt4-essay-score-inflation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

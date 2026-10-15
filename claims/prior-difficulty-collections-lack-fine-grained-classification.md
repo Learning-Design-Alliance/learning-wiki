@@ -3,7 +3,7 @@ type: claim
 title: Prior difficulty collections mostly lack fine-grained classification of student difficulties
 description: Prior difficulty collections mostly lack fine-grained classification of student difficulties
 id: prior-difficulty-collections-lack-fine-grained-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

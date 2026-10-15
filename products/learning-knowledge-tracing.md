@@ -4,7 +4,7 @@ id: learning-knowledge-tracing
 title: Learning Knowledge Tracing
 description: LKT is a logistic-regression learner-modeling framework released by Philip I.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

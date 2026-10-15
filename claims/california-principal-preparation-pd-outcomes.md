@@ -3,7 +3,7 @@ type: claim
 title: "In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains"
 description: "In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains"
 id: california-principal-preparation-pd-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

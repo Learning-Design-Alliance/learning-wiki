@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive strategies and prior coding experience significantly predict CT profile membership, with metacognition contributing more strongly
 description: Metacognitive strategies and prior coding experience significantly predict CT profile membership, with metacognition contributing more strongly
 id: metacognition-coding-experience-predict-ct-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

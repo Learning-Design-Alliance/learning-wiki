@@ -3,7 +3,7 @@ type: claim
 title: Experts rate AI-related competences for learners and educators as the highest-impact and most important AI-in-education trend
 description: Experts rate AI-related competences for learners and educators as the highest-impact and most important AI-in-education trend
 id: ai-competences-highest-rated-delphi-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

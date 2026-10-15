@@ -3,7 +3,7 @@ type: claim
 title: Shortest remediation paths respecting attribute prerequisites are shorter than random and full-coverage baseline paths
 description: Shortest remediation paths respecting attribute prerequisites are shorter than random and full-coverage baseline paths
 id: remediation-path-efficiency-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

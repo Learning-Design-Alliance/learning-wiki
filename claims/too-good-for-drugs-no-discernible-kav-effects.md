@@ -3,7 +3,7 @@ type: claim
 title: Too Good for Drugs shows no discernible effects on student knowledge, attitudes, and values across two randomized controlled trials
 description: Too Good for Drugs shows no discernible effects on student knowledge, attitudes, and values across two randomized controlled trials
 id: too-good-for-drugs-no-discernible-kav-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

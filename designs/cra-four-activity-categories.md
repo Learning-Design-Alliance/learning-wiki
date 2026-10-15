@@ -3,7 +3,7 @@ type: design
 id: cra-four-activity-categories
 title: Four activity categories scaffold CRA learning from reflection to redesign
 description: "The guide organizes course activities into four categories that progress from self-examination to system redesign: positionality and reflection; understanding the on-the-ground ecosystem of assessment; critically exam..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

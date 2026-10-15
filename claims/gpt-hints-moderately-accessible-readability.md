@@ -3,7 +3,7 @@ type: claim
 title: GPT-generated hints are moderately accessible by automated readability metrics (mean CAREC 0.128, mean CML2RI 3.95)
 description: GPT-generated hints are moderately accessible by automated readability metrics (mean CAREC 0.128, mean CML2RI 3.95)
 id: gpt-hints-moderately-accessible-readability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

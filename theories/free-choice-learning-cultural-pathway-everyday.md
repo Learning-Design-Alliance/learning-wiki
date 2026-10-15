@@ -2,7 +2,7 @@
 type: theory
 title: Free-choice learning as a cultural pathway framing everyday knowledge application
 description: The article frames learning through non-guided everyday problem-solving as free-choice learning, drawing on Falk, Storksdieck and Dierking.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

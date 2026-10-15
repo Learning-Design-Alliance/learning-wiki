@@ -3,7 +3,7 @@ type: claim
 title: Remediation requirements are not a primary driver of low college degree completion rates
 description: Remediation requirements are not a primary driver of low college degree completion rates
 id: remediation-not-primary-driver-low-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

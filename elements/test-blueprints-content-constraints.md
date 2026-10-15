@@ -3,7 +3,7 @@ type: element
 id: test-blueprints-content-constraints
 title: Test blueprints specifying content constraints for item selection
 description: Test blueprints are the mechanism by which achievement testing meets the practical requirement that administered items represent a target content domain.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

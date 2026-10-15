@@ -3,7 +3,7 @@ type: design
 id: ai-chatbot-high-school-learning-journey
 title: Non-linear AI literacy learning journey cycling through Understand, Evaluate, and Use
 description: "The report illustrates the framework in action through a high school lesson on AI chatbots, 'following a winding pathway of the three Modes of Engagement.' Students first learn how chatbots work, then responsibly tink..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

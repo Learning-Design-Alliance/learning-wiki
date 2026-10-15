@@ -3,7 +3,7 @@ type: claim
 title: LEARN reconceptualises scaffolding for GAI contexts as interactive, dialogic, and epistemically regulated interrogation of AI outputs
 description: LEARN reconceptualises scaffolding for GAI contexts as interactive, dialogic, and epistemically regulated interrogation of AI outputs
 id: gai-scaffolding-reconceptualised-epistemic-regulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

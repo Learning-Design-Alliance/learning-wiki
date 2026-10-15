@@ -3,7 +3,7 @@ type: design
 id: rural-multisite-member-rotation
 title: "Rural multisite rotation: each member works across a rotation of sites to maximize coverage where resources are scarce"
 description: In rural settings with severe workforce shortages, YMHC members are assigned across a rotation of sites (school, high school, alternative school, public library, restorative justice program) rather than a single place...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

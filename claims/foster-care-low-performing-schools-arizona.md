@@ -3,7 +3,7 @@ type: claim
 title: "Arizona students in foster care were less likely than all students statewide to attend the state's highest-performing schools"
 description: "Arizona students in foster care were less likely than all students statewide to attend the state's highest-performing schools"
 id: foster-care-low-performing-schools-arizona
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

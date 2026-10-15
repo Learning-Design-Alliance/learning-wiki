@@ -3,7 +3,7 @@ type: strategy
 id: edtech-research-promising-practices-strategy
 title: Ed-tech companies should use multi-method, multi-stakeholder research at every product stage and share results publicly
 description: "The report's closing recommendations enumerate promising practices: consult \"multiple learning science research resources across different disciplines\", form a scientific advisory board, \"Conduct user research using m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

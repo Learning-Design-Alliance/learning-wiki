@@ -3,7 +3,7 @@ type: claim
 title: "Co-design dialogue with museum educators revealed an unmet need for digital infrastructure, which students addressed with a bilingual cultural map extending the museum's spatial storytelling"
 description: "Co-design dialogue with museum educators revealed an unmet need for digital infrastructure, which students addressed with a bilingual cultural map extending the museum's spatial storytelling"
 id: museum-codesign-revealed-digital-infrastructure-need
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

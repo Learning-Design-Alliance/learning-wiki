@@ -3,7 +3,7 @@ type: research-method
 id: dohns-three-level-framework-of-competence-demands-applied-to-literacy-demands
 title: "Dohn's three-level framework of competence demands applied to literacy demands"
 description: "The paper uses Dohn's (2009a, b) context-level framework to analyze literacy demands as context-sensitive expectations placed on students at three interacting levels."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

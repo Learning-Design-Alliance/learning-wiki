@@ -3,7 +3,7 @@ type: claim
 title: Initial multiple-choice tests with plausible, competitive alternatives outperformed initial short-answer tests on final questions that were related to but not directly tested initially
 description: Initial multiple-choice tests with plausible, competitive alternatives outperformed initial short-answer tests on final questions that were related to but not directly tested initially
 id: competitive-multiple-choice-alternatives-benefit-related-untested-questions
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

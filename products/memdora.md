@@ -4,7 +4,7 @@ id: memdora
 title: Memdora
 description: Memdora is a cross-platform AI spaced-repetition software system developed and described by Ruiyang Zhang, offering browser-based capture, AI-generated study cards, and FSRS-6 scheduling for long-term retention.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -2,7 +2,7 @@
 type: theory
 title: "Behavioristic theory: children learn language through imitation of those around them, supported by models and reinforcement"
 description: The paper describes the behavioristic theory of language acquisition, which holds that children learn language by imitating individuals around them, with those around the child providing a model along with rewards tha...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

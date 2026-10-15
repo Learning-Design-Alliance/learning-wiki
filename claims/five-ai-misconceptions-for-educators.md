@@ -3,7 +3,7 @@ type: claim
 title: "Five common AI misconceptions debunked: AI does not think like humans, create original ideas, replace teachers, or guarantee accuracy, and well-designed AI use need not lower rigor"
 description: "Five common AI misconceptions debunked: AI does not think like humans, create original ideas, replace teachers, or guarantee accuracy, and well-designed AI use need not lower rigor"
 id: five-ai-misconceptions-for-educators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

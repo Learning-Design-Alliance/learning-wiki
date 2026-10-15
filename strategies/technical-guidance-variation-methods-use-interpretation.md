@@ -3,7 +3,7 @@ type: strategy
 id: technical-guidance-variation-methods-use-interpretation
 title: Provide technical guidance on the use and interpretation of methods for assessing variation in treatment effects
 description: "Beyond summarizing the research literature, the report \"provides technical guidance about the use and interpretation of these methods\" for assessing how impacts differ across students, educators, and schools."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

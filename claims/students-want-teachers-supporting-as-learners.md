@@ -3,7 +3,7 @@ type: claim
 title: Students trust and respect teachers who support them as learners through clear lessons, monitoring, feedback, and individualized support, not teachers who act as buddies
 description: Students trust and respect teachers who support them as learners through clear lessons, monitoring, feedback, and individualized support, not teachers who act as buddies
 id: students-want-teachers-supporting-as-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

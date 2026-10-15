@@ -3,7 +3,7 @@ type: strategy
 id: prompt-learners-to-continue-leveling-up
 title: Use design interventions that make the levels system visible and prompt continuation to encourage learners to level up
 description: "Because learner awareness of the levels system was relatively low, Duolingo added design elements giving learners \"a visual stand-in for how the levels system works\" and a pop-up with a redirect button shown upon fini..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

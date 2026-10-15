@@ -3,7 +3,7 @@ type: claim
 title: Full-scale LLM versions consistently achieve higher agreement with human grades than their mini and nano counterparts
 description: Full-scale LLM versions consistently achieve higher agreement with human grades than their mini and nano counterparts
 id: full-scale-llms-outperform-mini-nano-grading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

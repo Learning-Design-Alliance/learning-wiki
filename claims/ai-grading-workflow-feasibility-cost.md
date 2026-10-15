@@ -3,7 +3,7 @@ type: claim
 title: A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time
 description: A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time
 id: ai-grading-workflow-feasibility-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

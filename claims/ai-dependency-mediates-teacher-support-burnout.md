@@ -3,7 +3,7 @@ type: claim
 title: AI dependency mediates the relationship between teacher support and learning burnout
 description: AI dependency mediates the relationship between teacher support and learning burnout
 id: ai-dependency-mediates-teacher-support-burnout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

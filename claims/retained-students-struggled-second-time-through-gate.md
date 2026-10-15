@@ -3,7 +3,7 @@ type: claim
 title: Fewer than 60 percent of retained third and sixth graders in 1998 and 1999 raised their test scores to the promotional cutoff even with an extra January chance to pass
 description: Fewer than 60 percent of retained third and sixth graders in 1998 and 1999 raised their test scores to the promotional cutoff even with an extra January chance to pass
 id: retained-students-struggled-second-time-through-gate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

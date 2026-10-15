@@ -3,7 +3,7 @@ type: claim
 title: Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration
 description: Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration
 id: leaders-key-to-cross-sector-collaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

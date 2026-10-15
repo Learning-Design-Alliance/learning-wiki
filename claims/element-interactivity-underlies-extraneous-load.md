@@ -3,7 +3,7 @@ type: claim
 title: Element interactivity underlies extraneous cognitive load as well as intrinsic cognitive load
 description: Element interactivity underlies extraneous cognitive load as well as intrinsic cognitive load
 id: element-interactivity-underlies-extraneous-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

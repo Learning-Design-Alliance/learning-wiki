@@ -3,7 +3,7 @@ type: claim
 title: Students rate multimedia introductory activities as more instructive, interesting and fun than traditional introductory activities
 description: Students rate multimedia introductory activities as more instructive, interesting and fun than traditional introductory activities
 id: multimedia-introductory-activities-rated-more-motivating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

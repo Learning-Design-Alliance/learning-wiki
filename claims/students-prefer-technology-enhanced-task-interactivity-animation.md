@@ -3,7 +3,7 @@ type: claim
 title: Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems
 description: Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems
 id: students-prefer-technology-enhanced-task-interactivity-animation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

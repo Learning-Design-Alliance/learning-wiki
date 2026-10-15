@@ -3,7 +3,7 @@ type: claim
 title: Engagement with the unguided STORY MINE module was low, averaging fewer than 3 active login days over 12 weeks
 description: Engagement with the unguided STORY MINE module was low, averaging fewer than 3 active login days over 12 weeks
 id: story-mine-low-engagement-unguided
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

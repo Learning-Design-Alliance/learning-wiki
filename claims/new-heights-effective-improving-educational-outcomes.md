@@ -3,7 +3,7 @@ type: claim
 title: The New Heights program was found to be effective at improving educational outcomes for expectant and parenting students
 description: The New Heights program was found to be effective at improving educational outcomes for expectant and parenting students
 id: new-heights-effective-improving-educational-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

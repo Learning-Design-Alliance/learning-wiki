@@ -3,7 +3,7 @@ type: element
 id: accumulative-crosswise-validation-analysis
 title: "Accumulative Crosswise-Validation Analysis: within-row and between-column validity measurement"
 description: "Crosswise-Validation is AMOVA's core analytic operation, yielding sequential instrumentation validation outcomes analogous to ANOVA F-test critical values."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

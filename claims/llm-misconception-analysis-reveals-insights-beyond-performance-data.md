@@ -3,7 +3,7 @@ type: claim
 title: LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone
 description: LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone
 id: llm-misconception-analysis-reveals-insights-beyond-performance-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

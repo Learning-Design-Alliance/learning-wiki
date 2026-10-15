@@ -2,7 +2,7 @@
 type: theory
 title: "Three-level ordinal model of written reflection: descriptive, analytic, and integrative"
 description: "The article operationalizes reflection quality as a three-level ordinal scale modeled on Bradley's (1995) rubric for professional thinking."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

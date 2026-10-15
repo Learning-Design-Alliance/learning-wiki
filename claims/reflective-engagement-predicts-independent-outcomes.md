@@ -3,7 +3,7 @@ type: claim
 title: Within the bounded condition, stronger coded reflective engagement predicted higher Week 8 independent higher-order thinking
 description: Within the bounded condition, stronger coded reflective engagement predicted higher Week 8 independent higher-order thinking
 id: reflective-engagement-predicts-independent-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

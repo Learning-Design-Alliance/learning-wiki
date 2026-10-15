@@ -3,7 +3,7 @@ type: strategy
 id: pd-reflection-online-versus-f2f-differences
 title: "Support e-teachers' transition with professional development focused on reflecting on online-versus-F2F differences and the potential of the tools"
 description: Based on their findings, the authors recommend that e-teachers need opportunities to reconcile past and present forms of practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

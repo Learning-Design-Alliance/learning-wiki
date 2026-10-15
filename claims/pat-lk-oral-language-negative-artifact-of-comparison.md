@@ -3,7 +3,7 @@ type: claim
 title: The potentially negative oral language effect of phonological awareness plus letter knowledge training is likely an artifact of the comparison condition, not the intervention
 description: The potentially negative oral language effect of phonological awareness plus letter knowledge training is likely an artifact of the comparison condition, not the intervention
 id: pat-lk-oral-language-negative-artifact-of-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

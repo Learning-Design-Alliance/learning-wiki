@@ -3,7 +3,7 @@ type: claim
 title: Reading Recovery has potentially positive effects on alphabetics for beginning readers
 description: Reading Recovery has potentially positive effects on alphabetics for beginning readers
 id: reading-recovery-potentially-positive-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

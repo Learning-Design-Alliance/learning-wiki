@@ -3,7 +3,7 @@ type: claim
 title: School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys
 description: School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys
 id: principals-positive-assessment-abcte-certified-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

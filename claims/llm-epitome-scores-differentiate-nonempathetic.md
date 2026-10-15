@@ -3,7 +3,7 @@ type: claim
 title: LLM-annotated EPITOME scores show the Non-Empathetic chatbot expresses significantly lower empathy on all three dimensions, while Standard and Empathetic chatbots are not significantly different
 description: LLM-annotated EPITOME scores show the Non-Empathetic chatbot expresses significantly lower empathy on all three dimensions, while Standard and Empathetic chatbots are not significantly different
 id: llm-epitome-scores-differentiate-nonempathetic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

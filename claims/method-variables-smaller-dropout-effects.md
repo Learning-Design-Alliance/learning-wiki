@@ -3,7 +3,7 @@ type: claim
 title: Unpublished status and higher method quality are associated with smaller estimated effects of dropout programs
 description: Unpublished status and higher method quality are associated with smaller estimated effects of dropout programs
 id: method-variables-smaller-dropout-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

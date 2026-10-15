@@ -3,7 +3,7 @@ type: claim
 title: The text-based LLM compensates for noisy OCR input, generating contextually accurate explanations even when OCR produces jumbled text from UI screenshots
 description: The text-based LLM compensates for noisy OCR input, generating contextually accurate explanations even when OCR produces jumbled text from UI screenshots
 id: llm-compensates-for-noisy-ocr-input
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

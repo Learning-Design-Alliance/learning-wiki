@@ -4,7 +4,7 @@ id: pause-framework
 title: PAUSE framework
 description: A Vanderbilt University framework that guides recruitment and hiring teams through self-reflection and bias-interruption strategies.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

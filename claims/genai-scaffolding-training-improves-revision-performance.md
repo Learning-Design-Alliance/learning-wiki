@@ -3,7 +3,7 @@ type: claim
 title: "Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)"
 description: Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)
 id: genai-scaffolding-training-improves-revision-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

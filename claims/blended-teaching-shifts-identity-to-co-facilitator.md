@@ -3,7 +3,7 @@ type: claim
 title: "Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students"
 description: "Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students"
 id: blended-teaching-shifts-identity-to-co-facilitator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

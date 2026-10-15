@@ -4,7 +4,7 @@ id: teachers-sense-of-efficacy-scale-tses-24-item-long-form
 title: "Teachers' Sense of Efficacy Scale (TSES, 24-item long form)"
 description: "The Teachers' Sense of Efficacy Scale is a 24-item self-report assessment developed by Tschannen-Moran and Hoy to measure teachers' perceived efficacy in classroom management, student engagement, and instructional practices."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

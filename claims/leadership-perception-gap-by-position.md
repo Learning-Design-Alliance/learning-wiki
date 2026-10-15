@@ -3,7 +3,7 @@ type: claim
 title: Evaluations of leadership competency increase with hierarchical position in Vietnamese universities
 description: Evaluations of leadership competency increase with hierarchical position in Vietnamese universities
 id: leadership-perception-gap-by-position
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

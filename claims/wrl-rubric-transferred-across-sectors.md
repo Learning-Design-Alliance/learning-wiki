@@ -3,7 +3,7 @@ type: claim
 title: The WRL rubric transferred unchanged across four industry sectors, with research- and industry-mentored capstones yielding broadly comparable pillar profiles
 description: The WRL rubric transferred unchanged across four industry sectors, with research- and industry-mentored capstones yielding broadly comparable pillar profiles
 id: wrl-rubric-transferred-across-sectors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

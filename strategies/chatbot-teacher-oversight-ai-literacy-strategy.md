@@ -3,7 +3,7 @@ type: strategy
 id: chatbot-teacher-oversight-ai-literacy-strategy
 title: Implement custom AI chatbots as teacher-supported learning assistants with teacher oversight, curated databases, and AI literacy development
 description: The article recommends deploying domain-specific chatbots as assistants that support and relieve, not replace, teacher expertise.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

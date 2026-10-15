@@ -3,7 +3,7 @@ type: claim
 title: In the spring 2015 pilot, 19 of 27 teacher-survey measures met the 0.80 reliability threshold and all but one met 0.70; the Early Childhood Discipline measure was removed
 description: In the spring 2015 pilot, 19 of 27 teacher-survey measures met the 0.80 reliability threshold and all but one met 0.70; the Early Childhood Discipline measure was removed
 id: teacher-survey-pilot-reliability-19-of-27
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

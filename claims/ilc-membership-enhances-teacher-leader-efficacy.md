@@ -3,7 +3,7 @@ type: claim
 title: "Creating and leading professional learning for colleagues enhances teacher leaders' sense of professionalism and efficacy"
 description: "Creating and leading professional learning for colleagues enhances teacher leaders' sense of professionalism and efficacy"
 id: ilc-membership-enhances-teacher-leader-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

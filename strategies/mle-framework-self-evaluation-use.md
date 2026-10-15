@@ -3,7 +3,7 @@ type: strategy
 id: mle-framework-self-evaluation-use
 title: Use the quality-indicator framework as a self-evaluation instrument for teachers rather than an external ranking tool
 description: "The article recommends using the indicator grid as a tool of self-evaluation for questioning and examining one's own MLE experience, individually or in a community of practice."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Prior programming performance moderates the misalignment–performance association, with the cost concentrated in lower-performing teams
 description: Prior programming performance moderates the misalignment–performance association, with the cost concentrated in lower-performing teams
 id: prior-performance-moderates-ai-perception-misalignment-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

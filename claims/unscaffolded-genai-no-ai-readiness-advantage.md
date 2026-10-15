@@ -3,7 +3,7 @@ type: claim
 title: "Unscaffolded GenAI access produced no significant advantage in pre-service teachers' AI readiness compared with traditional learning"
 description: "Unscaffolded GenAI access produced no significant advantage in pre-service teachers' AI readiness compared with traditional learning"
 id: unscaffolded-genai-no-ai-readiness-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

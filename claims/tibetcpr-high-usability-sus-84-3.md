@@ -3,7 +3,7 @@ type: claim
 title: Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use
 description: Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use
 id: tibetcpr-high-usability-sus-84-3
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

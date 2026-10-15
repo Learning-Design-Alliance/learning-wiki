@@ -3,7 +3,7 @@ type: claim
 title: Proficiency projections estimate the probability of reaching Meets proficiency on the state test from fall, winter, or spring RIT scores
 description: Proficiency projections estimate the probability of reaching Meets proficiency on the state test from fall, winter, or spring RIT scores
 id: map-growth-proficiency-projections-rit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

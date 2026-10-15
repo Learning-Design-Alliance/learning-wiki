@@ -3,7 +3,7 @@ type: claim
 title: Pennsylvania charter school students show similar reading growth but weaker math growth (about 30 fewer days of learning) than matched TPS peers
 description: Pennsylvania charter school students show similar reading growth but weaker math growth (about 30 fewer days of learning) than matched TPS peers
 id: pa-charter-overall-similar-reading-weaker-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

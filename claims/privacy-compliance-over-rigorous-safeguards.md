@@ -3,7 +3,7 @@ type: claim
 title: Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used
 description: Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used
 id: privacy-compliance-over-rigorous-safeguards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

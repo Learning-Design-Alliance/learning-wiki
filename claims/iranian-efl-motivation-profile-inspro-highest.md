@@ -3,7 +3,7 @@ type: claim
 title: In the motivational profile of Iranian EFL learners, instrumentality-promotion received the highest mean, followed by ideal L2 self
 description: In the motivational profile of Iranian EFL learners, instrumentality-promotion received the highest mean, followed by ideal L2 self
 id: iranian-efl-motivation-profile-inspro-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

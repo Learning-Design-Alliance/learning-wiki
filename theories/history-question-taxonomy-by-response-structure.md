@@ -2,7 +2,7 @@
 type: theory
 title: A taxonomy of history questions classifies questions by the type and structure of the required response, not by surface interrogative form
 description: The report presents a taxonomy of the questions middle school students are expected to answer when studying history textbooks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

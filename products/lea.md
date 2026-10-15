@@ -4,7 +4,7 @@ id: lea
 title: LEA
 description: "LEA is an adaptive AI study-aid platform that infers higher-education learners' cognitive, motivational, and engagement states from behavioural and performance indicators to guide scaffolding."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

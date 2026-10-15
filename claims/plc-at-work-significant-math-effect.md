@@ -3,7 +3,7 @@ type: claim
 title: PLC at Work has a statistically significant positive effect on state-administered ACT Aspire math achievement scores (effect size = +0.08) after less than two years of implementation
 description: PLC at Work has a statistically significant positive effect on state-administered ACT Aspire math achievement scores (effect size = +0.08) after less than two years of implementation
 id: plc-at-work-significant-math-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

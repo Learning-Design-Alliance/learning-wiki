@@ -3,7 +3,7 @@ type: strategy
 id: community-engagement-first-step-pog
 title: Engage community constituents through multiple input methods as the first step in POG development
 description: "The brief recommends that engagement of community constituents be \"a critical first step in developing a POG,\" with leaders actively seeking input on the desired knowledge, abilities, and attributes of graduates."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

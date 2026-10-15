@@ -3,7 +3,7 @@ type: claim
 title: "44.8% of families used the sync feature; most of those enjoyed it, while 37.5% of non-users reported technical difficulties"
 description: "44.8% of families used the sync feature; most of those enjoyed it, while 37.5% of non-users reported technical difficulties"
 id: sync-feature-usage-and-difficulties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

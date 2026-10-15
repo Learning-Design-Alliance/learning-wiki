@@ -3,7 +3,7 @@ type: claim
 title: After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning
 description: After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning
 id: eight-encounters-form-meaning-recognition-exceed-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

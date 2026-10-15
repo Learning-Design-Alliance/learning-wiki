@@ -3,7 +3,7 @@ type: strategy
 id: appalachian-strengths-as-scaffolds-k8-ct
 title: Use named community strengths — kinship, hopes and dreams for the future, grit and resistance to injustice — as scaffolds in K-8 CS/CT instruction
 description: "The panel poses a focal discussion question asking how Appalachian strengths like \"kinship,\" \"ability to maintain hopes and dreams f or the future,\" \"grit and ability to resist injustice\" support in K-8 CS/CT educatio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "ELL parents generally place a high value on their children's education"
 description: "ELL parents generally place a high value on their children's education"
 id: ell-parents-value-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

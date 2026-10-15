@@ -3,7 +3,7 @@ type: claim
 title: Motivational outcomes are the most consistently positive dimension across AI-GBL studies
 description: Motivational outcomes are the most consistently positive dimension across AI-GBL studies
 id: ai-gbl-motivation-most-consistent-outcome
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

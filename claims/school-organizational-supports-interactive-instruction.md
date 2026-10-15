@@ -3,7 +3,7 @@ type: claim
 title: School organizational supports are associated with more interactive and less didactic instruction
 description: School organizational supports are associated with more interactive and less didactic instruction
 id: school-organizational-supports-interactive-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

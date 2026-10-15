@@ -3,7 +3,7 @@ type: claim
 title: AI-generated questions showed slightly higher average discrimination than standardized test questions (αAI = 1.3 vs αSTD = 1.2), with moderate evidence
 description: AI-generated questions showed slightly higher average discrimination than standardized test questions (αAI = 1.3 vs αSTD = 1.2), with moderate evidence
 id: ai-items-slightly-more-discriminating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: In OUSD dual enrollment courses, students most often identify the point person as their main source of support, at higher rates than the instructor, peers, or family
 description: In OUSD dual enrollment courses, students most often identify the point person as their main source of support, at higher rates than the instructor, peers, or family
 id: students-identify-point-person-main-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

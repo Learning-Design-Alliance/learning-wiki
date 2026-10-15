@@ -3,7 +3,7 @@ type: strategy
 id: lectura-proactiva-daily-small-group-delivery
 title: Schedule daily 50-minute small-group sessions of three to five students with a bilingual certified teacher
 description: The implementable delivery recipe the article describes is that “Students meet daily for 50 minutes with a bilingual certified teacher in small groups of three to five students.” This format pairs daily frequency, a 5...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

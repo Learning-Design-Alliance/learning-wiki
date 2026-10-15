@@ -3,7 +3,7 @@ type: strategy
 id: elaborative-interrogation-minimal-resource-adjunct
 title: Use elaborative interrogation (answering why a fact is true) as a low-resource strategy for science content that conflicts with student misconceptions
 description: "Elaborative interrogation asks learners to answer aloud the question \"Why is that fact true?\" for each to-be-learned statement, drawing on class, reading, and everyday knowledge."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

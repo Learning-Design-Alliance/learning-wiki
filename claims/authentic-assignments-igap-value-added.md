@@ -3,7 +3,7 @@ type: claim
 title: Exposure to high-quality assignments predicted substantially higher IGAP reading, mathematics, and writing performance (effect sizes 0.43, 0.64, 0.52)
 description: Exposure to high-quality assignments predicted substantially higher IGAP reading, mathematics, and writing performance (effect sizes 0.43, 0.64, 0.52)
 id: authentic-assignments-igap-value-added
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

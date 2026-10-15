@@ -3,7 +3,7 @@ type: claim
 title: Higher AI pedagogical scores are associated with exercise conversion in real student sessions
 description: Higher AI pedagogical scores are associated with exercise conversion in real student sessions
 id: pedagogical-score-predicts-exercise-conversion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

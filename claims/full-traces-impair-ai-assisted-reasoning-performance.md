@@ -3,7 +3,7 @@ type: claim
 title: Full reasoning traces impaired task performance relative to both answer-only and summary-trace conditions in AI-assisted LSAT reasoning
 description: Full reasoning traces impaired task performance relative to both answer-only and summary-trace conditions in AI-assisted LSAT reasoning
 id: full-traces-impair-ai-assisted-reasoning-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

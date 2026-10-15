@@ -3,7 +3,7 @@ type: claim
 title: Predominantly Hispanic and schools serving large numbers of African American and Hispanic students have lower standardized test scores than predominantly White schools even after adjusting for socioeconomic factors
 description: Predominantly Hispanic and schools serving large numbers of African American and Hispanic students have lower standardized test scores than predominantly White schools even after adjusting for socioeconomic factors
 id: school-level-achievement-gap-beyond-ses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

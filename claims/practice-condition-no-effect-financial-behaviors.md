@@ -3,7 +3,7 @@ type: claim
 title: Practice condition showed no significant association with self-reported financial behaviors about credit
 description: Practice condition showed no significant association with self-reported financial behaviors about credit
 id: practice-condition-no-effect-financial-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

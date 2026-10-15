@@ -3,7 +3,7 @@ type: claim
 title: Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria
 description: Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria
 id: learners-value-repeatable-practice-question-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

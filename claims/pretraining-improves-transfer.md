@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

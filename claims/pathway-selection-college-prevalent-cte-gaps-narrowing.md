@@ -3,7 +3,7 @@ type: claim
 title: College was the most prevalent postsecondary pathway selection, with CTE/non-CTE differences narrowing over time
 description: College was the most prevalent postsecondary pathway selection, with CTE/non-CTE differences narrowing over time
 id: pathway-selection-college-prevalent-cte-gaps-narrowing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

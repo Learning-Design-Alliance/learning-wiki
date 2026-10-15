@@ -4,7 +4,7 @@ id: multi-scale-portfolio-of-14-adoption-ready-computing-pjbl-project-packages
 title: Multi-scale portfolio of 14 adoption-ready computing PjBL project packages
 description: A portfolio developed by Suleiman et al.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

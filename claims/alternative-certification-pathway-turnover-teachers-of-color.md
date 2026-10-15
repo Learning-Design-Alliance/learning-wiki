@@ -3,7 +3,7 @@ type: claim
 title: Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover
 description: Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover
 id: alternative-certification-pathway-turnover-teachers-of-color
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

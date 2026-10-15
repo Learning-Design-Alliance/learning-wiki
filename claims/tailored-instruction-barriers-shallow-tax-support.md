@@ -3,7 +3,7 @@ type: claim
 title: Support for tax-funded tailored instruction is wide but shallow, with paying for adequate staff seen as the major barrier, cited by 86 percent of teachers
 description: Support for tax-funded tailored instruction is wide but shallow, with paying for adequate staff seen as the major barrier, cited by 86 percent of teachers
 id: tailored-instruction-barriers-shallow-tax-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

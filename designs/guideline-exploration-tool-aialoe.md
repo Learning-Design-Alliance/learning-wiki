@@ -3,7 +3,7 @@ type: design
 id: guideline-exploration-tool-aialoe
 title: Guideline exploration tool linking design guidelines to stakeholder statements
 description: "The article presents \"a guideline exploration tool that aids in the ideation of technologies by connecting the guidelines to stakeholder statements surfaced in the analysis process\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

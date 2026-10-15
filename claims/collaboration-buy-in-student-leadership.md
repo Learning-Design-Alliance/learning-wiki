@@ -3,7 +3,7 @@ type: claim
 title: Staff and students in three California schools describe collaboration among leaders, teachers and students as improving buy-in and creating student leadership opportunities
 description: Collaboration among school leaders, teachers, and students improved buy-in and created student leadership opportunities
 id: collaboration-buy-in-student-leadership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

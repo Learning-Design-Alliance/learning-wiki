@@ -3,7 +3,7 @@ type: claim
 title: ASAP showed no statistically significant effect on enrollment in any college at the sixth semester in the Scrivener et al. (2015) trial
 description: ASAP showed no statistically significant effect on enrollment in any college at the sixth semester in the Scrivener et al.
 id: asap-null-sixth-semester-any-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

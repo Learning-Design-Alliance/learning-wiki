@@ -3,7 +3,7 @@ type: claim
 title: Respondents from eligible-but-unfunded LEAs often held misconceptions about Title VII, particularly its eligibility requirements
 description: Respondents from eligible-but-unfunded LEAs often held misconceptions about Title VII, particularly its eligibility requirements
 id: title-vii-eligibility-misconceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

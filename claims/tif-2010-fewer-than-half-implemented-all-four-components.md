@@ -3,7 +3,7 @@ type: claim
 title: After the first year of implementation, fewer than half of 2010 TIF districts implemented all four required program components for teachers, though a large majority implemented at least three
 description: After the first year of implementation, fewer than half of 2010 TIF districts implemented all four required program components for teachers, though a large majority implemented at least three
 id: tif-2010-fewer-than-half-implemented-all-four-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

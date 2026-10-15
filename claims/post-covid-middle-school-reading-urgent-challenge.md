@@ -3,7 +3,7 @@ type: claim
 title: NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading
 description: NWEA researchers report an urgent post-COVID-19 academic recovery challenge in middle school reading
 id: post-covid-middle-school-reading-urgent-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: All program types show positive effects when controlling for other influences, with attendance monitoring and incentives, child care, community service, and school restructuring producing the best results
 description: All program types show positive effects when controlling for other influences, with attendance monitoring and incentives, child care, community service, and school restructuring producing the best results
 id: dropout-program-type-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

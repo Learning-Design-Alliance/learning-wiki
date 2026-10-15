@@ -3,7 +3,7 @@ type: claim
 title: "Spring 2016 was the third year Oklahoma's TLE provided value-added results to educators"
 description: "Spring 2016 was the third year Oklahoma's TLE provided value-added results to educators"
 id: tle-third-year-value-added-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

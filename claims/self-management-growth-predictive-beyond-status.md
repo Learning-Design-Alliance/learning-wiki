@@ -3,7 +3,7 @@ type: claim
 title: Growth in self-management predicts 9th-grade off-track status above and beyond 6th-grade status on that construct
 description: Growth in self-management predicts 9th-grade off-track status above and beyond 6th-grade status on that construct
 id: self-management-growth-predictive-beyond-status
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

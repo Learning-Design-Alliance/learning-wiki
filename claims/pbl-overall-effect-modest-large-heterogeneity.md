@@ -3,7 +3,7 @@ type: claim
 title: The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity
 description: The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity
 id: pbl-overall-effect-modest-large-heterogeneity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

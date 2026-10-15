@@ -3,7 +3,7 @@ type: claim
 title: Student perceptions of GenAI feedback functionalities diverged, with some finding them redundant when feedback was perceived as clear
 description: Student perceptions of GenAI feedback functionalities diverged, with some finding them redundant when feedback was perceived as clear
 id: divergent-perceptions-genai-feedback-redundancy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

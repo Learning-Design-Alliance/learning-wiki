@@ -3,7 +3,7 @@ type: strategy
 id: systematic-educator-training-for-playlist-implementation
 title: Provide systematic educator training on playlist content, activity implementation practices, technology troubleshooting, and content modification for age groups
 description: "The article's conclusion recommends that implementing science playlists in informal learning environments requires \"more systematic trainings to educators with the focus on understanding the playlist contents, best pr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

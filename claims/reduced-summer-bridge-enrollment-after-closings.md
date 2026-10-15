@@ -3,7 +3,7 @@ type: claim
 title: Displaced students were less likely to enroll in Summer Bridge the summer after their schools closed
 description: Displaced students were less likely to enroll in Summer Bridge the summer after their schools closed
 id: reduced-summer-bridge-enrollment-after-closings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

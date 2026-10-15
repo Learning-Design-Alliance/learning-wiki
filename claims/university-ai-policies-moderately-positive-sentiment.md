@@ -3,7 +3,7 @@ type: claim
 title: University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption
 description: University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption
 id: university-ai-policies-moderately-positive-sentiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

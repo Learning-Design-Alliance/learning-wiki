@@ -3,7 +3,7 @@ type: claim
 title: A dual-channel assumption for emotions is discussed as part of integrating emotion into cognitive load theory
 description: A dual-channel assumption for emotions is discussed as part of integrating emotion into cognitive load theory
 id: dual-channel-assumption-emotions-clt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

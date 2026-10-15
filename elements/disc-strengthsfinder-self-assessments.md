@@ -3,7 +3,7 @@ type: element
 id: disc-strengthsfinder-self-assessments
 title: DISC and StrengthsFinder 2.0 behavioral self-assessments for team self-understanding
 description: "Two established behavioral self-assessments are implemented in the course to grow students' understanding of their own and classmates' working strengths."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

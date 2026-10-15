@@ -3,7 +3,7 @@ type: claim
 title: "A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft"
 description: "A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft"
 id: fas-improves-peer-feedback-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

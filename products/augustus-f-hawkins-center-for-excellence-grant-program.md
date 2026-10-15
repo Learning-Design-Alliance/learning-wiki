@@ -4,7 +4,7 @@ id: augustus-f-hawkins-center-for-excellence-grant-program
 title: Augustus F. Hawkins Center for Excellence grant program
 description: A competitive federal grant programme administered by the U.S.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

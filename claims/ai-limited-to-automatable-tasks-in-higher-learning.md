@@ -3,7 +3,7 @@ type: claim
 title: AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning
 description: AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning
 id: ai-limited-to-automatable-tasks-in-higher-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

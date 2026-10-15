@@ -3,7 +3,7 @@ type: claim
 title: In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)
 description: In a 139-classroom scale-up cluster randomized trial (TRIAD), Building Blocks raised end-of-intervention REMA scores with an effect size of 0.55 (improvement index +21)
 id: building-blocks-hofer-2013-scale-up-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

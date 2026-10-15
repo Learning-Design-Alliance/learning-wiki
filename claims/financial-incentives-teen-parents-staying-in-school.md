@@ -4,7 +4,7 @@ title: Financial incentives for teen parents have potentially positive effects o
 description: Financial incentives for teen parents have potentially positive effects on staying in school, with a statistically significant dropout reduction in Cal-Learn but not in LEAP
 id: financial-incentives-teen-parents-staying-in-school
 aliases: [wwc-potentially-positive-rating-staying-in-school]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

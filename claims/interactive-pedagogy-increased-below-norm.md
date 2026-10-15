@@ -3,7 +3,7 @@ type: claim
 title: Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes
 description: Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes
 id: interactive-pedagogy-increased-below-norm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

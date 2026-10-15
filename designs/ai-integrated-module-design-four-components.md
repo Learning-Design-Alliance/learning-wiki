@@ -3,7 +3,7 @@ type: design
 id: ai-integrated-module-design-four-components
 title: AI-integrated module design combining lesson plans, videos, AI exercises, and curated readings
 description: "The course redesign organizes each module around \"four core components that support scaffolded learning—lesson plans, short videos, AI-focused exercises, and curated readings\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

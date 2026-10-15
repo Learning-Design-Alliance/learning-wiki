@@ -3,7 +3,7 @@ type: claim
 title: GPT-4.1-Mini with back-translation matches the best LLM-judge (GPT-5) at 10.3x lower evaluation cost
 description: GPT-4.1-Mini with back-translation matches the best LLM-judge (GPT-5) at 10.3x lower evaluation cost
 id: gpt-4-1-mini-backtranslation-matches-frontier-judge-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

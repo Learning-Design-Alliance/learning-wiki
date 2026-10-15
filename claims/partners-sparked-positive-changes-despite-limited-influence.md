@@ -3,7 +3,7 @@ type: claim
 title: External partners sparked documented improvements in instruction, parent involvement, and school climate
 description: External partners sparked documented improvements in instruction, parent involvement, and school climate
 id: partners-sparked-positive-changes-despite-limited-influence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

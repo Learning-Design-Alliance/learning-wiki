@@ -3,7 +3,7 @@ type: strategy
 id: student-led-conferences-gateway
 title: Student-led conferences in which students present their cumulative work, reflect, and set goals with families and advisors
 description: Gateway holds student-led conferences midway through the school year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

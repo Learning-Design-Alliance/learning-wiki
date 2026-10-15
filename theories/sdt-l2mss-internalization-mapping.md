@@ -2,7 +2,7 @@
 type: theory
 title: Internalization-based mapping between SDT motivation types and L2MSS self constructs
 description: The article organizes the two motivation theories along a shared internalization continuum.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

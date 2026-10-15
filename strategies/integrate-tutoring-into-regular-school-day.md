@@ -3,7 +3,7 @@ type: strategy
 id: integrate-tutoring-into-regular-school-day
 title: Integrate tutoring into the regular school day rather than scheduling it outside instructional time
 description: This recommendation advises districts to embed tutoring within the regular school day when structuring a selected program.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

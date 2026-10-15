@@ -3,7 +3,7 @@ type: claim
 title: Both cognitive vigilance and cognitive offloading mediate the relationship between pedagogical partnership and transformative learning
 description: Both cognitive vigilance and cognitive offloading mediate the relationship between pedagogical partnership and transformative learning
 id: dual-cognitive-pathways-mediate-partnership-transformation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Elementary student mobility in CPS is predominantly a within-district phenomenon, with CPS-to-CPS transfers accounting for 50-60 percent of school-year transfers and two-thirds of summer transfers
 description: Elementary student mobility in CPS is predominantly a within-district phenomenon, with CPS-to-CPS transfers accounting for 50-60 percent of school-year transfers and two-thirds of summer transfers
 id: elementary-mobility-within-district
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

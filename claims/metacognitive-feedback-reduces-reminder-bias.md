@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour
 description: In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour
 id: metacognitive-feedback-reduces-reminder-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Visualization analysis indicates the learned graph topology recovers interpretable relational structures such as modular node clusters and directed dependency hierarchies
 description: Visualization analysis indicates the learned graph topology recovers interpretable relational structures such as modular node clusters and directed dependency hierarchies
 id: adaptive-g-ukt-learned-topology-interpretable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: word-learning-strategies-context-morphology-cognates
 title: Teach word-learning strategies — context clues, word parts (morphology), and cognates — so students can independently figure out word meanings
 description: As part of intensive vocabulary instruction, teach word-learning strategies to help students independently figure out the meaning of words.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

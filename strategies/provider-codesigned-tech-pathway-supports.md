@@ -3,7 +3,7 @@ type: strategy
 id: provider-codesigned-tech-pathway-supports
 title: "Co-designed recommendations for education/training providers: partnerships, wrap-around supports, and equitable recruitment"
 description: "Worker and learner participants co-designed recommendations for education/training providers across four themes: increase awareness and exploration, improve access to educational and training opportunities, implement..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

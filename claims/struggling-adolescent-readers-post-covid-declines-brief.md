@@ -3,7 +3,7 @@ type: claim
 title: A NWEA brief highlights middle school reading as an urgent challenge in academic recovery, with evidence of post-COVID-19 declines among struggling adolescent readers
 description: A NWEA brief highlights middle school reading as an urgent challenge in academic recovery, with evidence of post-COVID-19 declines among struggling adolescent readers
 id: struggling-adolescent-readers-post-covid-declines-brief
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: RAEs are consistently prevalent across sports but with small effect sizes
 description: RAEs are consistently prevalent across sports but with small effect sizes
 id: rae-consistent-prevalence-small-effect-sizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

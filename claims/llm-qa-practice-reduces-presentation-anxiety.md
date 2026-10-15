@@ -3,7 +3,7 @@ type: claim
 title: "An LLM-based Q&A practice system reduced presentation anxiety and improved perceived preparedness among first-time conference participants"
 description: "An LLM-based Q&A practice system reduced presentation anxiety and improved perceived preparedness among first-time conference participants"
 id: llm-qa-practice-reduces-presentation-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

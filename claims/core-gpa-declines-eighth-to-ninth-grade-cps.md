@@ -3,7 +3,7 @@ type: claim
 title: "CPS students' core GPAs continue to decline between eighth and ninth grade despite steady improvement in both eighth- and ninth-grade grades"
 description: "CPS students' core GPAs continue to decline between eighth and ninth grade despite steady improvement in both eighth- and ninth-grade grades"
 id: core-gpa-declines-eighth-to-ninth-grade-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

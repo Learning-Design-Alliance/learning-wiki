@@ -3,7 +3,7 @@ type: claim
 title: "Most CAHIIM-accredited HI/HIM master's programs (40 of 48, 83%) have at least one publicly available AI-related document, and most documents are guidance rather than formal policy"
 description: "Most CAHIIM-accredited HI/HIM master's programs (40 of 48, 83%) have at least one publicly available AI-related document, and most documents are guidance rather than formal policy"
 id: most-cahiim-programs-have-ai-guidance-documents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

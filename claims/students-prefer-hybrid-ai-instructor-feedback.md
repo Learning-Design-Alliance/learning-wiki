@@ -3,7 +3,7 @@ type: claim
 title: First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone
 description: First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone
 id: students-prefer-hybrid-ai-instructor-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

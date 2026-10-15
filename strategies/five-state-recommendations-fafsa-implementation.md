@@ -3,7 +3,7 @@ type: strategy
 id: five-state-recommendations-fafsa-implementation
 title: Five state recommendations for implementing universal FAFSA policies equitably
 description: "Based on its findings, the report recommends that state legislators, state boards, and departments of education: provide dedicated funding for equitable implementation; include clear and accessible opt-out waivers; ad..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

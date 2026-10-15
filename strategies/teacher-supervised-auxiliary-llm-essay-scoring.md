@@ -3,7 +3,7 @@ type: strategy
 id: teacher-supervised-auxiliary-llm-essay-scoring
 title: Use reward-aligned LLM scoring as a teacher-supervised auxiliary tool for preliminary essay scoring at scale
 description: "The article positions RACES as \"an auxiliary scoring framework rather than a replacement for human raters\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

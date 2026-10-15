@@ -3,7 +3,7 @@ type: claim
 title: LLM alignment with expert teaching ratings does not predict, and is often negatively associated with, alignment with student learning gains
 description: LLM alignment with expert teaching ratings does not predict, and is often negatively associated with, alignment with student learning gains
 id: proxy-alignment-not-impact-alignment-llm-classroom
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Austin students' one-year growth in 2018-19 exceeded the state average in both reading and math"
 description: "Austin students' one-year growth in 2018-19 exceeded the state average in both reading and math"
 id: austin-overall-growth-above-state-2018-19
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "In the district study, teachers assigned articles above students' STAR Lexile levels (about 375 points higher on average), and greater STAR growth related to completing more, harder, and more accurate ReadWorks assignments"
 description: "In the district study, teachers assigned articles above students' STAR Lexile levels (about 375 points higher on average), and greater STAR growth related to completing more, harder, and more accurate ReadWorks assign..."
 id: readworks-assignment-difficulty-growth-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

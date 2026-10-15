@@ -4,7 +4,7 @@ id: accelerate-tn-all-corps-and-vetted-texas-tutor-corps
 title: Accelerate, TN ALL Corps, and Vetted Texas Tutor Corps
 description: These are statewide intensive-tutoring programmes run by Louisiana, Tennessee, and Texas education agencies, respectively, with dedicated public funding, approved or supported providers, tutor training, instructional materials, and implementation assistance.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

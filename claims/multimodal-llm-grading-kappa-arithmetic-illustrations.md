@@ -3,7 +3,7 @@ type: claim
 title: Multimodal LLMs grading handwritten student work achieved κ = 0.90 on arithmetic but κ ≈ 0.47 on interpreting student illustrations
 description: Multimodal LLMs grading handwritten student work achieved κ = 0.90 on arithmetic but κ ≈ 0.47 on interpreting student illustrations
 id: multimodal-llm-grading-kappa-arithmetic-illustrations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Community arts organizations expect to expand or shift services, including moving programming outside the school day and supporting fund use
 description: Community arts organizations expect to expand or shift services, including moving programming outside the school day and supporting fund use
 id: prop28-organizations-expect-to-expand-or-shift-services
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

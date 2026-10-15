@@ -3,7 +3,7 @@ type: claim
 title: AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated
 description: AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated
 id: ai-generated-ethics-materials-fabricated-citations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

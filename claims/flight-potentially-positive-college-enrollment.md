@@ -3,7 +3,7 @@ type: claim
 title: "FLIGHT may increase college enrollment among disadvantaged students, with 97% of the FLIGHT group versus 83% of the comparison group enrolling in college"
 description: "FLIGHT may increase college enrollment among disadvantaged students, with 97% of the FLIGHT group versus 83% of the comparison group enrolling in college"
 id: flight-potentially-positive-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

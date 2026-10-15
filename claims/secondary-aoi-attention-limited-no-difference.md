@@ -3,7 +3,7 @@ type: claim
 title: Attention allocated to the secondary AOI remained limited and did not differ significantly between conditions in duration or time to first fixation
 description: Attention allocated to the secondary AOI remained limited and did not differ significantly between conditions in duration or time to first fixation
 id: secondary-aoi-attention-limited-no-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

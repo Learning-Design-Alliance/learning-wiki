@@ -3,7 +3,7 @@ type: strategy
 id: guidelines-llm-qualitative-coding-pipelines
 title: Four guidelines for designing LLM-assisted qualitative coding pipelines
 description: The article distills its combined agreement and verification evidence into four guidelines for researchers designing large-scale coding pipelines.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

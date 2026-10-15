@@ -3,7 +3,7 @@ type: claim
 title: AI in VET is predominantly implemented through behaviorist or cognitively oriented instructional designs emphasizing drill-and-practice and adaptive feedback, while approaches fostering learner agency and critical reflection remain underrepresented
 description: AI in VET is predominantly implemented through behaviorist or cognitively oriented instructional designs emphasizing drill-and-practice and adaptive feedback, while approaches fostering learner agency and critical ref...
 id: ai-vet-behaviorist-designs-learner-agency-underrepresented
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

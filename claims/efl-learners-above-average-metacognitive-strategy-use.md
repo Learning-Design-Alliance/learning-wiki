@@ -3,7 +3,7 @@ type: claim
 title: Vietnamese EFL grade-11 learners report above-average overall metacognitive strategy use in reading
 description: Vietnamese EFL grade-11 learners report above-average overall metacognitive strategy use in reading
 id: efl-learners-above-average-metacognitive-strategy-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

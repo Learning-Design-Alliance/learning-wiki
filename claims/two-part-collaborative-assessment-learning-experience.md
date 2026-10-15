@@ -3,7 +3,7 @@ type: claim
 title: Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety
 description: Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety
 id: two-part-collaborative-assessment-learning-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

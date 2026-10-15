@@ -4,7 +4,7 @@ title: "Democracy Prep charter schools increase students' voter-registration rat
 description: "Democracy Prep charter schools increase students' voter-registration rates by about 16 percentage points"
 id: democracy-prep-increases-voter-registration-16-points
 aliases: [democracy-prep-lottery-registration-gain-16-points]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Conscientiousness exploratorily moderated the effect of ITS condition on subjective difficulty and enjoyment
 description: Conscientiousness exploratorily moderated the effect of ITS condition on subjective difficulty and enjoyment
 id: conscientiousness-moderates-difficulty-enjoyment-adaptive-its
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

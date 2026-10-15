@@ -3,7 +3,7 @@ type: claim
 title: Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring
 description: Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring
 id: teacher-characteristics-differ-by-certification-route
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

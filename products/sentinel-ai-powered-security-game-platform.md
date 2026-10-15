@@ -4,7 +4,7 @@ id: sentinel-ai-powered-security-game-platform
 title: Sentinel AI-powered security game platform
 description: Sentinel is a mobile game platform developed by Bingjun Li et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

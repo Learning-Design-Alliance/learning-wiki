@@ -4,7 +4,7 @@ id: learner-variability-project
 title: Learner Variability Project
 description: The Learner Variability Project, developed by Digital Promise, provides the Learner Variability Navigator web app and related research-based tools to help educators understand learner differences and select strategies.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

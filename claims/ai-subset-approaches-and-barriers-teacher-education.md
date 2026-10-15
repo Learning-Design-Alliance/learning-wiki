@@ -3,7 +3,7 @@ type: claim
 title: "In the AI-focused subset, professional development and teacher accompaniment (35.0%) and instructional design and assessment (32.5%) are the predominant approaches, with pedagogical limitations the main barrier"
 description: "In the AI-focused subset, professional development and teacher accompaniment (35.0%) and instructional design and assessment (32.5%) are the predominant approaches, with pedagogical limitations the main barrier"
 id: ai-subset-approaches-and-barriers-teacher-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

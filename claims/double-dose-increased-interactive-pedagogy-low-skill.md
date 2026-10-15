@@ -3,7 +3,7 @@ type: claim
 title: Double-dose algebra substantially increased interactive pedagogy for low-skill students (.55 SD, p<.001), unexplained by classroom compositional changes
 description: Double-dose algebra substantially increased interactive pedagogy for low-skill students (.55 SD, p<.001), unexplained by classroom compositional changes
 id: double-dose-increased-interactive-pedagogy-low-skill
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: paired-alternating-presentation-and-critique
 title: "Pair students to alternate presenting work and critically commenting on a partner's work to support each CRITO stage"
 description: "The paper states CRITO is compatible with most forms of collaborative or cooperative learning and recommends small group work, especially pairs, in which \"students alternate between presenting their work andlistening..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

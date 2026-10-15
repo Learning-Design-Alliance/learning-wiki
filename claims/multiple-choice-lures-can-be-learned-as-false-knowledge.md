@@ -3,7 +3,7 @@ type: claim
 title: Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs
 description: Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs
 id: multiple-choice-lures-can-be-learned-as-false-knowledge
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

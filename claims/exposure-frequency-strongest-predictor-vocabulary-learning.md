@@ -3,7 +3,7 @@ type: claim
 title: Number of exposures was the strongest predictor of incidental vocabulary learning of both word form and meaning
 description: Number of exposures was the strongest predictor of incidental vocabulary learning of both word form and meaning
 id: exposure-frequency-strongest-predictor-vocabulary-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

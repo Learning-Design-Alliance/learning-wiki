@@ -3,7 +3,7 @@ type: strategy
 id: empathy-interview-five-step-exercise
 title: Five-step empathy interview exercise for teachers designing inclusive computing pathways
 description: The article lays out a structured exercise teachers complete before designing an inclusive computing pathway.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

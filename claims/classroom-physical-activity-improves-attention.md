@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

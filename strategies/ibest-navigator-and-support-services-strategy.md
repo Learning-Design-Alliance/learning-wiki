@@ -3,7 +3,7 @@ type: strategy
 id: ibest-navigator-and-support-services-strategy
 title: "Wraparound student supports: navigator, financial supports, and job placement assistance"
 description: Beyond integrated instruction, I-BEST provides a bundle of non-instructional supports intended to keep students engaged.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

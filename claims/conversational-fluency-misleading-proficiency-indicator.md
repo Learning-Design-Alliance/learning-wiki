@@ -3,7 +3,7 @@ type: claim
 title: Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs
 description: Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs
 id: conversational-fluency-misleading-proficiency-indicator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

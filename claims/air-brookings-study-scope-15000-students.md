@@ -3,7 +3,7 @@ type: claim
 title: The AIR/Brookings study covered 15,000 students and 300 teachers in three districts over two to three years, with 74 percent Title I schools
 description: The AIR/Brookings study covered 15,000 students and 300 teachers in three districts over two to three years, with 74 percent Title I schools
 id: air-brookings-study-scope-15000-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

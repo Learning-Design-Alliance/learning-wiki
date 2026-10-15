@@ -3,7 +3,7 @@ type: strategy
 id: screen-and-target-swpbis-nonresponders
 title: Screen for and monitor children at risk of nonresponse to universal SWPBIS and target nonresponders for more intensive tiered interventions
 description: "The article recommends that, given demonstrated variation in SWPBIS responsiveness, \"school personnel should screen for and carefully monitor c hildren at risk for nonresponse and target nonresponders for more i ntens..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

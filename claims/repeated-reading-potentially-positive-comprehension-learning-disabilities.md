@@ -3,7 +3,7 @@ type: claim
 title: Repeated reading has potentially positive effects on reading comprehension for students with learning disabilities, with a small extent of evidence
 description: Repeated reading has potentially positive effects on reading comprehension for students with learning disabilities, with a small extent of evidence
 id: repeated-reading-potentially-positive-comprehension-learning-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

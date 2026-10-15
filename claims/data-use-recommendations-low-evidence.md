@@ -3,7 +3,7 @@ type: claim
 title: "All five of the guide's data-use recommendations are supported by low levels of evidence"
 description: "All five of the guide's data-use recommendations are supported by low levels of evidence"
 id: data-use-recommendations-low-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Student engagement with WCF is the current research hotspot, with engagement analyzed as cognitive, affective and behavioral dimensions
 description: Student engagement with WCF is the current research hotspot, with engagement analyzed as cognitive, affective and behavioral dimensions
 id: student-engagement-wcf-hotspot-tripartite
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

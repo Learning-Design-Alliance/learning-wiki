@@ -3,7 +3,7 @@ type: claim
 title: "LLM-based everyday learning is predominantly an individual activity, with 89% learning alone"
 description: "LLM-based everyday learning is predominantly an individual activity, with 89% learning alone"
 id: llm-learning-predominantly-individual
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

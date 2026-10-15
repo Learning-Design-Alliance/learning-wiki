@@ -2,7 +2,7 @@
 type: theory
 title: Four dimensions of connection underpin Powerful Learning
 description: "The framework organizes connection into four essential dimensions: connection to ideas (bridging new concepts to learners' mental maps for real-world problems), to self (building skills, dispositions, and positive lea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

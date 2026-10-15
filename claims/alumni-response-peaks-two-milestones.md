@@ -3,7 +3,7 @@ type: claim
 title: "Alumni survey responsiveness tends to peak at two milestones: the first year out and the fourth or fifth year out"
 description: "Alumni survey responsiveness tends to peak at two milestones: the first year out and the fourth or fifth year out"
 id: alumni-response-peaks-two-milestones
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

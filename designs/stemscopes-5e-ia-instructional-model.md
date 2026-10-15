@@ -3,7 +3,7 @@ type: design
 id: stemscopes-5e-ia-instructional-model
 title: 5E+IA instructional model with Concrete-Representational-Abstract progression
 description: "The program's organizing instructional pattern is the 5E+IA model: \"Engage, Explore, Explain, Elaborate, Evaluate, plus Intervention and Acceleration pathways.\" It structures whole-group instruction, small-group diffe..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

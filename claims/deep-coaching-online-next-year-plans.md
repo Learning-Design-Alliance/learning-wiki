@@ -3,7 +3,7 @@ type: claim
 title: A majority of edtech coaches plan to provide deep coaching online if closures extend, expecting modeling, observation, and planning to change
 description: A majority of edtech coaches plan to provide deep coaching online if closures extend, expecting modeling, observation, and planning to change
 id: deep-coaching-online-next-year-plans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

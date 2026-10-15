@@ -3,7 +3,7 @@ type: claim
 title: Curiosity is the primary driver and mistrust of accuracy the primary barrier to LLM adoption for learning
 description: Curiosity is the primary driver and mistrust of accuracy the primary barrier to LLM adoption for learning
 id: curiosity-driver-mistrust-barrier-llm-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

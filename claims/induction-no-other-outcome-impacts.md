@@ -3,7 +3,7 @@ type: claim
 title: Comprehensive teacher induction showed no impacts on outcomes other than student achievement
 description: Comprehensive teacher induction showed no impacts on outcomes other than student achievement
 id: induction-no-other-outcome-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

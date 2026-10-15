@@ -3,7 +3,7 @@ type: claim
 title: Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge
 description: Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge
 id: prior-knowledge-moderates-segmenting-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

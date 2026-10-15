@@ -3,7 +3,7 @@ type: claim
 title: Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic
 description: Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic
 id: worked-example-self-explanation-journal-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

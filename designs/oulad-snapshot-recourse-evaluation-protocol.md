@@ -3,7 +3,7 @@ type: design
 id: oulad-snapshot-recourse-evaluation-protocol
 title: OULAD snapshot evaluation protocol with leakage-excluded presentation-level split
 description: The evaluation protocol constructs two snapshots per eligible student per assessment, at t = d-14 and t = d-7 before the due day, using only information available up to snapshot time; post-t interactions and assessmen...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

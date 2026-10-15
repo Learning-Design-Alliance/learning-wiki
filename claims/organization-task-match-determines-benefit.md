@@ -3,7 +3,7 @@ type: claim
 title: "A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks"
 description: "A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks"
 id: organization-task-match-determines-benefit
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

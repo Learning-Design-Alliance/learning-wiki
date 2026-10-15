@@ -3,7 +3,7 @@ type: strategy
 id: teacher-strategies-alleviate-speaking-anxiety
 title: "Teacher strategies for alleviating EFL speaking anxiety: warm atmosphere, encouragement, L1 use, and learner-centered activities"
 description: "The article recommends a set of implementable classroom strategies for reducing students' anxiety in speaking English inside or outside the classroom."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

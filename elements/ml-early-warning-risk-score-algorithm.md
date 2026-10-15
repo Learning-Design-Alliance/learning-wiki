@@ -3,7 +3,7 @@ type: element
 id: ml-early-warning-risk-score-algorithm
 title: Machine learning early warning algorithm using in- and out-of-school data to estimate per-student, per-problem, per-quarter risk scores
 description: "The report describes an algorithm that uses \"a range of in- and out-of-school data to estimate the specific risk of each academic problem for each student in each quarter.\" Unlike simple prior-performance flags, it pr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

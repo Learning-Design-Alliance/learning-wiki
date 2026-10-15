@@ -3,7 +3,7 @@ type: claim
 title: Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training
 description: Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training
 id: llm-support-learning-across-education-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

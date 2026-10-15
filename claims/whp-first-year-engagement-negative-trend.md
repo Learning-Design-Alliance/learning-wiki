@@ -3,7 +3,7 @@ type: claim
 title: World History Project does not engage students more than business-as-usual curricula on first implementation, with somewhat negative perception trends
 description: World History Project does not engage students more than business-as-usual curricula on first implementation, with somewhat negative perception trends
 id: whp-first-year-engagement-negative-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

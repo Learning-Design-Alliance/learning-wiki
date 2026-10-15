@@ -3,7 +3,7 @@ type: claim
 title: Both AI and human tutoring produce larger GRE learning gains than a no-tutoring control
 description: Both AI and human tutoring produce larger GRE learning gains than a no-tutoring control
 id: ai-human-tutoring-beat-control-gre-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

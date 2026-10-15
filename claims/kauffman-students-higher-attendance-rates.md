@@ -3,7 +3,7 @@ type: claim
 title: Kauffman students had higher attendance rates than other similar students in Kansas City
 description: Kauffman students had higher attendance rates than other similar students in Kansas City
 id: kauffman-students-higher-attendance-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

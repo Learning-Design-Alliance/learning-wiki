@@ -3,7 +3,7 @@ type: strategy
 id: employer-convenings-identify-soft-skills
 title: Use employer convenings to identify the soft skills that local employers seek in new hires
 description: "The article's approach is to gather employers directly: it used \"a convening of regional employers in western Pennsylvania to describe soft skills that employers look for in new hires.\" Convening regional employers le..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect"
 description: "Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect"
 id: heterogeneity-random-effects-model-problem-solving-meta-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

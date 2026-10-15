@@ -3,7 +3,7 @@ type: claim
 title: Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict
 description: Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict
 id: ai-relational-buffer-eases-concession
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

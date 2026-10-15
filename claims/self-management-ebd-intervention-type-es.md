@@ -3,7 +3,7 @@ type: claim
 title: Self-instruction techniques yielded the highest mean effect size (2.71) among self-management intervention types, with self-monitoring the predominant technique used
 description: Self-instruction techniques yielded the highest mean effect size (2.71) among self-management intervention types, with self-monitoring the predominant technique used
 id: self-management-ebd-intervention-type-es
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: School mobility, especially frequent within-year moves, slows instructional pacing in schools with many mobile students
 description: School mobility, especially frequent within-year moves, slows instructional pacing in schools with many mobile students
 id: student-mobility-slows-instructional-pacing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: kipp-long-term-college-enrollment-persistence-project
 title: Associated project assessing long-term impacts of KIPP middle schools on college enrollment and persistence
 description: "Beyond the achievement brief, the page lists an associated project, \"Assessing the Long-Term Impacts of KIPP Middle Schools on College Enrollment and Persistence,\" with a stated time frame of 2018-2019 and prepared fo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

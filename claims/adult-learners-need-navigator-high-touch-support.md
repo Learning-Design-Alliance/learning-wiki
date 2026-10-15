@@ -3,7 +3,7 @@ type: claim
 title: The brief reports that adult learners often need high-touch support such as navigators through enrollment and financial aid
 description: The brief reports that adult learners often need high-touch support such as navigators through enrollment and financial aid
 id: adult-learners-need-navigator-high-touch-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

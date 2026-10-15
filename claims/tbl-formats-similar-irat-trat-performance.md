@@ -3,7 +3,7 @@ type: claim
 title: "Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts"
 description: "Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts"
 id: tbl-formats-similar-irat-trat-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

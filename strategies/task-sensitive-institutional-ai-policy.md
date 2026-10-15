@@ -3,7 +3,7 @@ type: strategy
 id: task-sensitive-institutional-ai-policy
 title: Design task-sensitive institutional AI policies rather than blanket permitted/prohibited distinctions
 description: "The article argues that because faculty and administrative staff use AI while also holding stronger integrity concerns and norm endorsement, policy \"requires a task-sensitive design, with different rules for idea gene..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

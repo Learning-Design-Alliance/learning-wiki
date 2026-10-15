@@ -3,7 +3,7 @@ type: strategy
 id: knowledge-ablation-and-downstream-kt-validation
 title: Test whether success depends on compiled knowledge via knowledge ablation and downstream Knowledge Tracing validation
 description: The article proposes two conceptual tests for judging whether the remaining black-box component is small enough for educational use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

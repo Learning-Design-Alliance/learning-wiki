@@ -4,7 +4,7 @@ id: sipps
 title: SIPPS
 description: SIPPS (Systematic Instruction in Phonological Awareness, Phonics, and Sight Words) is a structured-literacy curriculum developed and distributed by Collaborative Classroom for foundational reading instruction and intervention in grades K–12.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

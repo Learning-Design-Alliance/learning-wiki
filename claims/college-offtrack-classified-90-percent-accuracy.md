@@ -3,7 +3,7 @@ type: claim
 title: Students not on track for college enrollment and persistence can be classified with about 90 percent accuracy using a small set of predictors
 description: Students not on track for college enrollment and persistence can be classified with about 90 percent accuracy using a small set of predictors
 id: college-offtrack-classified-90-percent-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

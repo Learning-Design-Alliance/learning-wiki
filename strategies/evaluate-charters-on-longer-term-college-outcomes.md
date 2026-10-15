@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-charters-on-longer-term-college-outcomes
 title: Evaluate charter schools against longer-term outcomes such as college enrollment and completion, not only short-term achievement
 description: "The brief recommends looking beyond immediate test-score impacts when judging charter schools, examining \"if the charter middle schools included in the National Evaluation affected students’ college enrollment and com..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: CSU campuses implementing EO 1110 use corequisite support models in both math/quantitative reasoning and written communication courses, in three main configurations
 description: CSU campuses implementing EO 1110 use corequisite support models in both math/quantitative reasoning and written communication courses, in three main configurations
 id: csu-eo1110-corequisite-models-three-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction
 description: Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction
 id: its-meta-analysis-overall-effect-0-41
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

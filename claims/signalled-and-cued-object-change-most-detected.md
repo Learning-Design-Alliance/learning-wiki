@@ -3,7 +3,7 @@ type: claim
 title: "The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)"
 description: "The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)"
 id: signalled-and-cued-object-change-most-detected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

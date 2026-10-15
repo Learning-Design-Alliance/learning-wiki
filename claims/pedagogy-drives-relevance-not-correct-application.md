@@ -3,7 +3,7 @@ type: claim
 title: Pedagogically desired feedback is engaged with more (higher RelScore), but pedagogical quality shows little relation to whether actions are applied correctly (SuccScore)
 description: Pedagogically desired feedback is engaged with more (higher RelScore), but pedagogical quality shows little relation to whether actions are applied correctly (SuccScore)
 id: pedagogy-drives-relevance-not-correct-application
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

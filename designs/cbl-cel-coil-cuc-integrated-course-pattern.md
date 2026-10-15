@@ -3,7 +3,7 @@ type: design
 id: cbl-cel-coil-cuc-integrated-course-pattern
 title: Combining challenge-based learning, community-engaged learning, COIL, and cross-university collaboration in one course design
 description: The article presents a course-level design pattern in which societal engagement (via CBL and CEL), a global challenge, and collaboration (via COIL and a cross-university collaboration) are combined.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

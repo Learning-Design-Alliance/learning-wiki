@@ -3,7 +3,7 @@ type: claim
 title: Including or excluding calibration status 10 items in scoring has a negligible impact on Spanish student RIT scores for monolingual and bilingual students
 description: Including or excluding calibration status 10 items in scoring has a negligible impact on Spanish student RIT scores for monolingual and bilingual students
 id: status-10-items-negligible-score-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

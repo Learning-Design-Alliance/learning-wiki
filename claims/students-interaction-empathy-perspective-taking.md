@@ -3,7 +3,7 @@ type: claim
 title: Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)
 description: Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)
 id: students-interaction-empathy-perspective-taking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

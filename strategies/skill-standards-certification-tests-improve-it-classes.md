@@ -3,7 +3,7 @@ type: strategy
 id: skill-standards-certification-tests-improve-it-classes
 title: "Use skill standards and certification tests to improve schools' information technology classes"
 description: "The article describes skill standards and certification tests as prominent tools in recent school-improvement efforts: \"Skill standards and certification tests have figured prominently in recent efforts to improve sch..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

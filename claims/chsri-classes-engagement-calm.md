@@ -3,7 +3,7 @@ type: claim
 title: Observed classes in high-performing CHSRI schools showed high or medium student engagement and calm, well-behaved classrooms, with only one low-engagement class
 description: Observed classes in high-performing CHSRI schools showed high or medium student engagement and calm, well-behaved classrooms, with only one low-engagement class
 id: chsri-classes-engagement-calm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

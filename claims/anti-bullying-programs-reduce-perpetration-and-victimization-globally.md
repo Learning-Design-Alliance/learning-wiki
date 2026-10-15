@@ -3,7 +3,7 @@ type: claim
 title: School-based anti-bullying programs reduce bullying perpetration and victimization globally
 description: School-based anti-bullying programs reduce bullying perpetration and victimization globally
 id: anti-bullying-programs-reduce-perpetration-and-victimization-globally
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: pre-action-review-and-sentence-starters-for-cobi
 title: Use pre-action reviews and structured sentence starters to support high-integrity CoBi reflection
 description: "Based on Study 2's finding that revisiting was rushed, the authors \"concluded that future professional learning for teachers should emphasize that CoBi's feedback can also be conducted as a pre-action review at the st..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Propensity score matching was used to build a comparison group of Florida teachers for estimating ABCTE certification effects
 description: Propensity score matching was used to build a comparison group of Florida teachers for estimating ABCTE certification effects
 id: abcte-florida-propensity-score-matching-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

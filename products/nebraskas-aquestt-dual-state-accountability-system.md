@@ -4,7 +4,7 @@ id: nebraskas-aquestt-dual-state-accountability-system
 title: "Nebraska's AQuESTT Dual State Accountability System"
 description: A state accountability framework operated by the Nebraska Department of Education alongside the federal ESSA accountability system to evaluate and guide Nebraska schools and districts.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

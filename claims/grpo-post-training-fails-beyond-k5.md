@@ -3,7 +3,7 @@ type: claim
 title: GRPO post-training boosts in-scope K-5 capabilities but fails to recover Beyond-K-5 capabilities, even when post-trained on out-of-scope data
 description: GRPO post-training boosts in-scope K-5 capabilities but fails to recover Beyond-K-5 capabilities, even when post-trained on out-of-scope data
 id: grpo-post-training-fails-beyond-k5
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment"
 description: "Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment"
 id: confidence-obstacles-math-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: policy-considerations-math-classroom-conditions
 title: State, district, and school leaders can support positive math classroom conditions through guidance, teacher education, funding, shared vision, and data-informed reflection
 description: "The report's policy and practice considerations direct state policymakers to issue curriculum and instructional guidance articulating the importance of positive classroom conditions for math learning, ensure teacher e..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

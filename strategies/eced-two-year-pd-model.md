@@ -3,7 +3,7 @@ type: strategy
 id: eced-two-year-pd-model
 title: Two-year professional development model combining institutes, site visits, and remote monitoring
 description: "ECED's professional development spans both program years: a three-day teacher institute covering orientation, creating learning targets, pacing guides, unit frameworks, assessment blueprints and plans, and a vertical..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

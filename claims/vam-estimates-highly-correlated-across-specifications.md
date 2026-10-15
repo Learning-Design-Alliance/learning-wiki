@@ -3,7 +3,7 @@ type: claim
 title: Teacher value-added estimates are highly correlated across model specifications that differ in student and peer control variables
 description: Teacher value-added estimates are highly correlated across model specifications that differ in student and peer control variables
 id: vam-estimates-highly-correlated-across-specifications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

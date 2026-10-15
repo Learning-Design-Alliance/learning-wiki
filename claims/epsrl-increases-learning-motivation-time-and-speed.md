@@ -3,7 +3,7 @@ type: claim
 title: Students who use the ePSRL Management System spend more time learning per month and complete the course in fewer months than non-users
 description: Students who use the ePSRL Management System spend more time learning per month and complete the course in fewer months than non-users
 id: epsrl-increases-learning-motivation-time-and-speed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

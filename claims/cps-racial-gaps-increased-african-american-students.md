@@ -3,7 +3,7 @@ type: claim
 title: Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3
 description: Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3
 id: cps-racial-gaps-increased-african-american-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

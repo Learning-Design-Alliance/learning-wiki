@@ -3,7 +3,7 @@ type: claim
 title: Charter school entrants have similar or lower achievement than incumbents in all studied cities, suggesting no cream skimming
 description: Charter school entrants have similar or lower achievement than incumbents in all studied cities, suggesting no cream skimming
 id: credo-cohort1-charter-no-cream-skimming
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

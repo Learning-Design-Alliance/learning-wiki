@@ -3,7 +3,7 @@ type: claim
 title: "Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior"
 description: "Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior"
 id: five-design-factors-impact-parent-school-choice-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

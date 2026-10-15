@@ -3,7 +3,7 @@ type: strategy
 id: coaching-research-reporting-recommendations
 title: Describe coaching components, collect fidelity and maintenance data, and explore school-personnel and technology-based coaching in future coaching research
 description: "The review's implications for future research recommend that researchers carefully describe components of the coaching package used, such as coaching dosage and location, to increase accurate replication and identify..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

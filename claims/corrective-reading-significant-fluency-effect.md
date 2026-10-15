@@ -3,7 +3,7 @@ type: claim
 title: Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers
 description: Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers
 id: corrective-reading-significant-fluency-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

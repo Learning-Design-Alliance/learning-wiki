@@ -3,7 +3,7 @@ type: claim
 title: AI-section students framed the AI as a collaborative partner even when logs showed one-shot imperatives and rapid acceptance (Illusion of Dialogue)
 description: AI-section students framed the AI as a collaborative partner even when logs showed one-shot imperatives and rapid acceptance (Illusion of Dialogue)
 id: illusion-of-dialogue-partnership-framing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

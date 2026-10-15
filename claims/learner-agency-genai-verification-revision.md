@@ -3,7 +3,7 @@ type: claim
 title: Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment
 description: Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment
 id: learner-agency-genai-verification-revision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

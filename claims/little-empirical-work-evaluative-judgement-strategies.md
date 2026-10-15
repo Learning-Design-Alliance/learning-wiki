@@ -3,7 +3,7 @@ type: claim
 title: "Very little empirical work exists on the effectiveness of strategies for developing students' evaluative judgement"
 description: "Very little empirical work exists on the effectiveness of strategies for developing students' evaluative judgement"
 id: little-empirical-work-evaluative-judgement-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

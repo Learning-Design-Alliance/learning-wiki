@@ -3,7 +3,7 @@ type: claim
 title: Students taking courses online are less likely to remain enrolled at the university
 description: Students taking courses online are less likely to remain enrolled at the university
 id: online-course-taking-reduces-reenrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

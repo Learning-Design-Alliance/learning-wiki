@@ -3,7 +3,7 @@ type: claim
 title: Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year
 description: Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year
 id: freshman-year-room-for-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

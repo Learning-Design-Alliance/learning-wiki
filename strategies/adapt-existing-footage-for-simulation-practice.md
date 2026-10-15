@@ -3,7 +3,7 @@ type: strategy
 id: adapt-existing-footage-for-simulation-practice
 title: Adapt existing footage for branching simulation practice rather than only annotating it
 description: The article recommends using simulation templates to adapt existing footage so students get different kinds of practice beyond annotation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

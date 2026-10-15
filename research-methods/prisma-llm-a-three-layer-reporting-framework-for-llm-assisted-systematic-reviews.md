@@ -3,7 +3,7 @@ type: research-method
 id: prisma-llm-a-three-layer-reporting-framework-for-llm-assisted-systematic-reviews
 title: "PRISMA-LLM: a three-layer reporting framework for LLM-assisted systematic reviews"
 description: PRISMA-LLM is an evidence-informed reporting framework for LLM-assisted and AI-enabled systematic-review workflows, organized to complement PRISMA 2020.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Participants liked the co-created stories (mean likability 8.61) and perceived them as coherent (mean coherence 8.28) on a 1-10 scale
 description: Participants liked the co-created stories (mean likability 8.61) and perceived them as coherent (mean coherence 8.28) on a 1-10 scale
 id: icub-stories-liked-and-coherent-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

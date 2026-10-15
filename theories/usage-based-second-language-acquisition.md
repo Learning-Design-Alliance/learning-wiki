@@ -3,7 +3,7 @@ type: theory
 title: Usage-Based Second Language Acquisition
 description: "The usage-based account of second language learning: grammar develops gradually from experience of the language, as learners generalise from frequent, concrete item-based patterns to abstract form-meaning constructions."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-30

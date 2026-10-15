@@ -3,7 +3,7 @@ type: claim
 title: Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations
 description: Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations
 id: prior-studies-assume-no-unique-trajectories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

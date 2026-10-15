@@ -4,7 +4,7 @@ id: aacte-and-westat-pilot-survey-of-beginning-teachers-and-their-supervisors
 title: AACTE and Westat pilot survey of beginning teachers and their supervisors
 description: A state-oriented survey instrument developed by the American Association of Colleges for Teacher Education and Westat to collect information about beginning teachers’ classroom experiences, performance, and needs for educator-preparation program improvement and cross-program comparisons.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

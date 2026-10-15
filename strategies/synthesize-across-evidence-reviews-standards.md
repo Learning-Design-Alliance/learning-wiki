@@ -3,7 +3,7 @@ type: strategy
 id: synthesize-across-evidence-reviews-standards
 title: Consult multiple evidence reviews and attend to their differing standards when synthesizing evidence for decisions
 description: "Because reviews differ in how they assess elements such as attrition and in how they conceptualize effectiveness, decision makers synthesizing evidence across multiple program evaluations should attend to each review'..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

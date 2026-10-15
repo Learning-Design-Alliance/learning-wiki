@@ -3,7 +3,7 @@ type: claim
 title: "Unreliable AI-generated output is the most frequently reported technical limitation of AI-supported undergraduate EFL instruction, appearing in 22 of 54 studies (41%)"
 description: "Unreliable AI-generated output is the most frequently reported technical limitation of AI-supported undergraduate EFL instruction, appearing in 22 of 54 studies (41%)"
 id: unreliable-ai-output-most-frequent-technical-limitation-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

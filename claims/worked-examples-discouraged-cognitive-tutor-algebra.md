@@ -3,7 +3,7 @@ type: claim
 title: Use of worked examples in the Cognitive Tutor Algebra course was discouraged by collaborating instructors
 description: Use of worked examples in the Cognitive Tutor Algebra course was discouraged by collaborating instructors
 id: worked-examples-discouraged-cognitive-tutor-algebra
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

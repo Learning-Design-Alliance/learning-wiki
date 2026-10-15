@@ -3,7 +3,7 @@ type: claim
 title: Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project
 description: Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project
 id: chatgpt-flga-improves-performance-and-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

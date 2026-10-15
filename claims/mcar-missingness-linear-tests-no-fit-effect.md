@@ -3,7 +3,7 @@ type: claim
 title: MCAR item and response missingness in linear tests shows no differential effect on model fit across Designs 1 to 4
 description: MCAR item and response missingness in linear tests shows no differential effect on model fit across Designs 1 to 4
 id: mcar-missingness-linear-tests-no-fit-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

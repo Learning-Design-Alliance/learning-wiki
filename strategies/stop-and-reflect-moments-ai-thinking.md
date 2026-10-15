@@ -3,7 +3,7 @@ type: strategy
 id: stop-and-reflect-moments-ai-thinking
 title: Build in stop-and-reflect moments asking students what thinking they are doing versus what thinking the AI is doing
 description: "The guide recommends, in both its agency and metacognition sections, to \"Build in stop-and-reflect moments for students: What thinking are you doing?"
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

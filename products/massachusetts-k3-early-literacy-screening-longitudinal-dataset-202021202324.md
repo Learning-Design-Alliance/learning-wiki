@@ -4,7 +4,7 @@ id: massachusetts-k3-early-literacy-screening-longitudinal-dataset-202021202324
 title: Massachusetts K–3 early literacy screening longitudinal dataset (2020/21–2023/24)
 description: WestEd’s longitudinal dataset for the Massachusetts Department of Elementary and Secondary Education links K–3 early-literacy screening results with SIMS demographics, MCAS, ACCESS for ELLs, and school- and district-level contextual data to monitor literacy performance and reading risk.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

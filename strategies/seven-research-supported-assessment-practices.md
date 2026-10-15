@@ -3,7 +3,7 @@ type: strategy
 id: seven-research-supported-assessment-practices
 title: Adopt seven research-supported assessment practices that support classroom learning
 description: "The article's central offering is a set of seven research-supported assessment practices that principals and teachers can adopt."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

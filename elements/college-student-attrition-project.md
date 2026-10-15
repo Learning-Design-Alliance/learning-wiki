@@ -3,7 +3,7 @@ type: element
 id: college-student-attrition-project
 title: College Student Attrition Project
 description: The College Student Attrition Project was an evaluation conducted by the Survey Research Center at Princeton University.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

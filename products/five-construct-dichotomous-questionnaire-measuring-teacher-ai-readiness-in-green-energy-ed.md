@@ -4,7 +4,7 @@ id: five-construct-dichotomous-questionnaire-measuring-teacher-ai-readiness-in-g
 title: Five-construct dichotomous questionnaire measuring teacher AI readiness in green energy education
 description: A five-construct, 25-item binary questionnaire developed by Riandi Riandi et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

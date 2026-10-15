@@ -4,7 +4,7 @@ id: value-added-assessment-system-for-dc-schools-and-teachers
 title: Value-Added Assessment System for DC Schools and Teachers
 description: A district accountability assessment system prepared for and run by District of Columbia Public Schools to estimate school and teacher value added.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

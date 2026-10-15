@@ -3,7 +3,7 @@ type: claim
 title: In a small efficacy study, students using LecturaAgents showed the strongest post-learning assessment performance across learner groups
 description: In a small efficacy study, students using LecturaAgents showed the strongest post-learning assessment performance across learner groups
 id: lecturaagents-efficacy-study-assessment-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

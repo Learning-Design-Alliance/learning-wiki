@@ -3,7 +3,7 @@ type: claim
 title: Language becomes an operational medium in AI-supported design, with risks of narrowing exploration
 description: Language becomes an operational medium in AI-supported design, with risks of narrowing exploration
 id: language-operational-medium-design-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

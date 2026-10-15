@@ -3,7 +3,7 @@ type: claim
 title: "A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment"
 description: "A body of work standard setting process produced classification agreement rates ranging from 71% to 97% for an alternate portfolio assessment"
 id: body-of-work-agreement-rates-71-97
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

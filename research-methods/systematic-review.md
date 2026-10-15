@@ -3,7 +3,7 @@ type: research-method
 id: systematic-review
 title: Systematic review
 description: The article defines systematic reviews as a distinct genre of research synthesis.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

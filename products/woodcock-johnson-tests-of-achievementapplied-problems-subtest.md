@@ -4,7 +4,7 @@ id: woodcock-johnson-tests-of-achievementapplied-problems-subtest
 title: Woodcock-Johnson Tests of Achievement—Applied Problems subtest
 description: A standardized achievement subtest measuring applied mathematical problem-solving and early numeracy, developed and published as part of the Woodcock-Johnson assessment system by Riverside Insights.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "LiPS has mixed effects on alphabetics for beginning readers: positive and statistically significant in one trial, negative and substantively important (but not significant) in another"
 description: "LiPS has mixed effects on alphabetics for beginning readers: positive and statistically significant in one trial, negative and substantively important (but not significant) in another"
 id: lips-mixed-alphabetics-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

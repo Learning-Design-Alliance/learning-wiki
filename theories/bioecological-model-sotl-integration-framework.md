@@ -2,7 +2,7 @@
 type: theory
 title: The bioecological model as a framework for integrating SoTL research
 description: "The article proposes Bronfenbrenner's bioecological model as a theoretical framework for synthesizing SoTL findings in higher education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

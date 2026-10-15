@@ -3,7 +3,7 @@ type: claim
 title: "Students' mean self-rated impact of AI on their mechanics learning rose from 5.85 to 6.35 on a 0-10 scale"
 description: "Students' mean self-rated impact of AI on their mechanics learning rose from 5.85 to 6.35 on a 0-10 scale"
 id: perceived-ai-impact-rating-rose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

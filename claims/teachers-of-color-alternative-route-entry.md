@@ -3,7 +3,7 @@ type: claim
 title: Teachers of color were nearly twice as likely as White teachers to have entered teaching through an alternative certification route in 2020–21
 description: Teachers of color were nearly twice as likely as White teachers to have entered teaching through an alternative certification route in 2020–21
 id: teachers-of-color-alternative-route-entry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

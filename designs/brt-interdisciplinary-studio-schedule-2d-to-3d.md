@@ -3,7 +3,7 @@ type: design
 id: brt-interdisciplinary-studio-schedule-2d-to-3d
 title: 14-week interdisciplinary studio schedule progressing from 2D to 3D
 description: The course schedule structures a 14-week studio progressing from simple to complex across dimensional modes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Education leaders believe continuous improvement, when done well, can unearth issues of equity and reveal root causes of inequities in education systems
 description: Education leaders believe continuous improvement, when done well, can unearth issues of equity and reveal root causes of inequities in education systems
 id: ci-done-well-unearths-equity-issues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

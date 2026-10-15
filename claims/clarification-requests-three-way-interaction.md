@@ -3,7 +3,7 @@ type: claim
 title: Clarification requests show a three-way interaction of proficiency pairing, time and language, declining over time only in matched dyads and in the L1
 description: Clarification requests show a three-way interaction of proficiency pairing, time and language, declining over time only in matched dyads and in the L1
 id: clarification-requests-three-way-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

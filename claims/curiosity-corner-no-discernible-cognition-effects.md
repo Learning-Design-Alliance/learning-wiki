@@ -3,7 +3,7 @@ type: claim
 title: Curiosity Corner shows no discernible effects on cognition in the Chambers et al. quasi-experimental study
 description: Curiosity Corner shows no discernible effects on cognition in the Chambers et al.
 id: curiosity-corner-no-discernible-cognition-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

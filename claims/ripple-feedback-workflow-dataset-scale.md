@@ -3,7 +3,7 @@ type: claim
 title: The study dataset comprised 13,037 students, 51,296 student-authored resources, and 70 course offerings across three workflow conditions
 description: The study dataset comprised 13,037 students, 51,296 student-authored resources, and 70 course offerings across three workflow conditions
 id: ripple-feedback-workflow-dataset-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

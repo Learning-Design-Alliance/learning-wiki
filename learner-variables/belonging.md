@@ -3,7 +3,7 @@ type: learner-variable
 id: belonging
 title: Belonging
 description: Whether a learner expects to be treated as a full participant in this setting, and how much of their attention that question consumes.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02

@@ -3,7 +3,7 @@ type: claim
 title: Social media usage in higher education continues to grow, and future empirical research on its educational role is warranted
 description: Social media usage in higher education continues to grow, and future empirical research on its educational role is warranted
 id: social-media-growth-future-empirical-research-warranted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

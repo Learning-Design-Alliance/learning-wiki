@@ -3,7 +3,7 @@ type: claim
 title: Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments
 description: Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments
 id: srl-interventions-moderate-effect-online-blended
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: CTT and MFRM yield a positive, perfect correlation between item difficulty indices for open-ended items under a crossed design
 description: CTT and MFRM yield a positive, perfect correlation between item difficulty indices for open-ended items under a crossed design
 id: ctt-mfrm-difficulty-indices-perfect-correlation-open-ended
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

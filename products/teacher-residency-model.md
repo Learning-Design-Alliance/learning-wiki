@@ -3,7 +3,7 @@ type: product
 id: teacher-residency-model
 title: Teacher residency model
 description: A teacher-preparation programme model run by partnerships between local education agencies and institutions of higher education, combining credential coursework, a yearlong mentored clinical placement, and financial support for residents.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

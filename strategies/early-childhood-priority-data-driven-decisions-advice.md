@@ -3,7 +3,7 @@ type: strategy
 id: early-childhood-priority-data-driven-decisions-advice
 title: District and school leaders advise making early childhood a priority and using data to make every decision in school turnaround
 description: "In reflecting on their turnaround experience, Horace Mann's principal and superintendent offered direct advice to other leaders."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

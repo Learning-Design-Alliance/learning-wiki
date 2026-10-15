@@ -3,7 +3,7 @@ type: claim
 title: "Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality"
 description: "Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality"
 id: meta-analysis-variation-from-methodological-choices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

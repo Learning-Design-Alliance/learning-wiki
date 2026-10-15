@@ -3,7 +3,7 @@ type: claim
 title: "Agreement metrics and expert quality judgments diverge in both directions: human consensus can encode shared conservative bias that the verifier rejects in favor of LLM coding"
 description: "Agreement metrics and expert quality judgments diverge in both directions: human consensus can encode shared conservative bias that the verifier rejects in favor of LLM coding"
 id: agreement-quality-divergence-human-consensus-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Learners underuse effective learning strategies such as spacing and retrieval practice
 description: Learners underuse effective learning strategies such as spacing and retrieval practice
 id: learners-underuse-effective-learning-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

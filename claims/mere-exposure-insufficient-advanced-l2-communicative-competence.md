@@ -3,7 +3,7 @@ type: claim
 title: Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners
 description: Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners
 id: mere-exposure-insufficient-advanced-l2-communicative-competence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions
 description: Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions
 id: gender-performance-goal-orientation-females-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Student-AI interaction patterns shift dynamically between the input and output stages of CACI, with Fast Scanners most stable and Traditionalists least stable
 description: Student-AI interaction patterns shift dynamically between the input and output stages of CACI, with Fast Scanners most stable and Traditionalists least stable
 id: caci-cross-stage-pattern-shifts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

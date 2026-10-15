@@ -3,7 +3,7 @@ type: claim
 title: "Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment"
 description: "Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment"
 id: cogevolution-ablation-module-contributions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

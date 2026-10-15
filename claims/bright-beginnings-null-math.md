@@ -3,7 +3,7 @@ type: claim
 title: Bright Beginnings shows no discernible effects on preschool math (domain average effect size 0.07, not statistically significant)
 description: Bright Beginnings shows no discernible effects on preschool math (domain average effect size 0.07, not statistically significant)
 id: bright-beginnings-null-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

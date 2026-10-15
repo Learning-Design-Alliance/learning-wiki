@@ -3,7 +3,7 @@ type: claim
 title: Building Blocks has a potentially positive effect on preschool mathematics achievement, with a pooled effect size of 0.58 across three studies meeting WWC standards
 description: Building Blocks has a potentially positive effect on preschool mathematics achievement, with a pooled effect size of 0.58 across three studies meeting WWC standards
 id: building-blocks-potentially-positive-preschool-math-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

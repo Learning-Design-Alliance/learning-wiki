@@ -3,7 +3,7 @@ type: claim
 title: "AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays"
 description: "AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays"
 id: detector-61-3-percent-false-positives-non-native-toefl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

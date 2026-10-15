@@ -3,7 +3,7 @@ type: strategy
 id: explicit-teaching-srl-methods-online-blended
 title: Provide explicit teaching of SRL methods as structured guidance for regulating learning in online and blended settings
 description: The article recommends that educators give students structured guidance on regulating their own learning through explicit instruction in SRL methods.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

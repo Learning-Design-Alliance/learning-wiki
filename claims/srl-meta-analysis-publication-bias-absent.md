@@ -3,7 +3,7 @@ type: claim
 title: Publication-bias checks indicate the pooled effect is unlikely to result from publication bias
 description: Publication-bias checks indicate the pooled effect is unlikely to result from publication bias
 id: srl-meta-analysis-publication-bias-absent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

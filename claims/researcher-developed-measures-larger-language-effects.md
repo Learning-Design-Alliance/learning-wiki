@@ -3,7 +3,7 @@ type: claim
 title: Language and early writing interventions showed larger effects on researcher-developed than standardized outcome measures, while phonological awareness, print knowledge, and decoding effects were comparable across measure types
 description: Language and early writing interventions showed larger effects on researcher-developed than standardized outcome measures, while phonological awareness, print knowledge, and decoding effects were comparable across mea...
 id: researcher-developed-measures-larger-language-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

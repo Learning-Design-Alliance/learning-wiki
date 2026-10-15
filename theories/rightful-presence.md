@@ -3,7 +3,7 @@ type: theory
 title: Rightful Presence
 description: Rightful presence holds that equitable STEM learning spaces require treating marginalized learners as legitimate members with the power to reshape community norms, not just guests granted conditional access.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: strategy
 id: genai-curriculum-three-area-development-strategy
 title: Structure GenAI curriculum development around functionality, cross-context applications, and ethical-legal dimensions
 description: "This strategy implements the student-identified priority areas as a planning structure for GenAI curriculum development: build student capability in \"understanding and optimising GenAI functionality\", provide experien..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

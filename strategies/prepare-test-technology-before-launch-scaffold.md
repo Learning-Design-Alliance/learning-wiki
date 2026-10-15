@@ -3,7 +3,7 @@ type: strategy
 id: prepare-test-technology-before-launch-scaffold
 title: Prepare and test technology before launch, scaffold the learning curve, and leverage tech-savvy students as peer resources
 description: "The report's program lessons recommend that teachers using emerging technologies conduct substantial preparation to test drive the technology prior to introducing the project into the curriculum, since school firewall..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

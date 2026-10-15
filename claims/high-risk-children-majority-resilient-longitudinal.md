@@ -3,7 +3,7 @@ type: claim
 title: Prospective longitudinal studies of high-risk children found that a greater percentage became healthy, competent young adults than developed problems
 description: Prospective longitudinal studies of high-risk children found that a greater percentage became healthy, competent young adults than developed problems
 id: high-risk-children-majority-resilient-longitudinal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

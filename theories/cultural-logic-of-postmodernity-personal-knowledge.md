@@ -2,7 +2,7 @@
 type: theory
 title: Personal knowledge genres sit within the cultural logic of postmodernity, where specific empowerment can accompany overall social control
 description: The article locates narrative and storying genres within emergent cultural patterns of contemporary societies and economies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

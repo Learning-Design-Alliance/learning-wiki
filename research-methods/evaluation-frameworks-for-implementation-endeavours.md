@@ -3,7 +3,7 @@ type: research-method
 id: evaluation-frameworks-for-implementation-endeavours
 title: Evaluation frameworks for implementation endeavours
 description: "The fifth category, evaluation frameworks, provides \"a structure for evaluating implementation endeavours\" by specifying aspects of implementation that could be evaluated to determine implementation success."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

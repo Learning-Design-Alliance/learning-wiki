@@ -3,7 +3,7 @@ type: claim
 title: First year experience courses show a statistically significant positive effect on cumulative grade point average after one year, based on one study
 description: First year experience courses show a statistically significant positive effect on cumulative grade point average after one year, based on one study
 id: fye-courses-positive-gpa-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In the comprehension domain, one study of Fast ForWord showed statistically significant positive effects, two showed substantively important positive effects, and three showed indeterminate effects
 description: In the comprehension domain, one study of Fast ForWord showed statistically significant positive effects, two showed substantively important positive effects, and three showed indeterminate effects
 id: fast-forword-comprehension-mixed-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

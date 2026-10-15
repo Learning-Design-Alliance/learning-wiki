@@ -2,7 +2,7 @@
 type: theory
 title: Activity theory frames human activity as a system of six interacting elements (subject, object, tools, community, rules, division of labor)
 description: The article presents activity theory as a socio-cultural and historical lens for holistically analyzing human activity systems.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

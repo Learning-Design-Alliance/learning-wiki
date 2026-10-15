@@ -3,7 +3,7 @@ type: claim
 title: Inhibitory control is the strongest concurrent correlate of cognitive reappraisal among EF components
 description: Inhibitory control is the strongest concurrent correlate of cognitive reappraisal among EF components
 id: inhibitory-control-strongest-reappraisal-correlate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

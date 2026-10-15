@@ -3,7 +3,7 @@ type: claim
 title: School leaders allocated resources to expand organizational capacity around adoption and implementation of the Skyline ELA curriculum in grades K-2
 description: School leaders allocated resources to expand organizational capacity around adoption and implementation of the Skyline ELA curriculum in grades K-2
 id: leaders-allocated-resources-expand-organizational-capacity-skyline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

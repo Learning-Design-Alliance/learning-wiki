@@ -3,7 +3,7 @@ type: claim
 title: "Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'"
 description: "Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'"
 id: sociocultural-sla-demonizes-socially-resistant-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

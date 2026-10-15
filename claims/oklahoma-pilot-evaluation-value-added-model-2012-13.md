@@ -3,7 +3,7 @@ type: claim
 title: "Oklahoma's Pilot Teacher and Leader Evaluation System used a value-added model to estimate teacher and school effectiveness for 2012-2013 instruction"
 description: "Oklahoma's Pilot Teacher and Leader Evaluation System used a value-added model to estimate teacher and school effectiveness for 2012-2013 instruction"
 id: oklahoma-pilot-evaluation-value-added-model-2012-13
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

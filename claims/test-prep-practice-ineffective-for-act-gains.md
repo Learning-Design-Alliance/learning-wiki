@@ -3,7 +3,7 @@ type: claim
 title: Test strategies and item practice are not effective mechanisms for raising ACT scores; improvements are smaller the more class time goes to test preparation
 description: Test strategies and item practice are not effective mechanisms for raising ACT scores; improvements are smaller the more class time goes to test preparation
 id: test-prep-practice-ineffective-for-act-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

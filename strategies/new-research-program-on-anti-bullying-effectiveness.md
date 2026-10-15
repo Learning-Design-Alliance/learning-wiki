@@ -3,7 +3,7 @@ type: strategy
 id: new-research-program-on-anti-bullying-effectiveness
 title: Mount a new program of research on anti-bullying program effectiveness building on meta-analytic findings
 description: "The authors conclude that the evidence base from 44 evaluations is now sufficient to justify and guide a new wave of evaluation research: \"the time is ripe to mount a new program of research on the effectiveness of an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

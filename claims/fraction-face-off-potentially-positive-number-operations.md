@@ -3,7 +3,7 @@ type: claim
 title: "Fraction Face-Off! shows potentially positive effects on number and operations outcomes, with a WWC-calculated average effect size of 0.89 and improvement index of +31"
 description: "Fraction Face-Off!"
 id: fraction-face-off-potentially-positive-number-operations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

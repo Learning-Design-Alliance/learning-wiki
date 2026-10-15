@@ -3,7 +3,7 @@ type: claim
 title: Policy type and policy audience do not differ significantly by program delivery mode in CAHIIM HI/HIM programs
 description: Policy type and policy audience do not differ significantly by program delivery mode in CAHIIM HI/HIM programs
 id: no-delivery-mode-association-policy-type-audience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

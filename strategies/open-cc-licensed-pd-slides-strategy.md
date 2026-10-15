@@ -3,7 +3,7 @@ type: strategy
 id: open-cc-licensed-pd-slides-strategy
 title: Share professional development slides openly via short links and a Creative Commons license
 description: "The TAN project makes all professional development materials openly accessible: slides for every session are posted at a shared short link, and the presentation itself is licensed for reuse."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

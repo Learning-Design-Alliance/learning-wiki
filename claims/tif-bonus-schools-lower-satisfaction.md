@@ -3,7 +3,7 @@ type: claim
 title: Educators in schools offering pay-for-performance bonuses tended to be less satisfied than those in schools without bonuses
 description: Educators in schools offering pay-for-performance bonuses tended to be less satisfied than those in schools without bonuses
 id: tif-bonus-schools-lower-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

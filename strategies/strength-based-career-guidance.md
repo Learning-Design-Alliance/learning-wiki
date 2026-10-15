@@ -3,7 +3,7 @@ type: strategy
 id: strength-based-career-guidance
 title: "Strength-based guidance: recognizing and nurturing learners' inherent strengths rather than emphasizing deficits"
 description: "The report recommends that schools taking a personalized approach to career guidance use strength-based guidance, which 'focuses on recognizing and nurturing the inherent strengths and skills that each learner brings,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

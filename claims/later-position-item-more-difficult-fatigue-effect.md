@@ -3,7 +3,7 @@ type: claim
 title: "An item positioned later in one booklet was found more difficult by that booklet's test takers, attributed to fatigue effect"
 description: "An item positioned later in one booklet was found more difficult by that booklet's test takers, attributed to fatigue effect"
 id: later-position-item-more-difficult-fatigue-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

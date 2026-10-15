@@ -3,7 +3,7 @@ type: claim
 title: SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline
 description: SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline
 id: swpbis-effects-greatest-at-risk-high-risk-children
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

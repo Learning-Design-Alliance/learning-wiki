@@ -3,7 +3,7 @@ type: strategy
 id: scan-then-state-interviews-evidence-building
 title: "Two-stage evidence-building: document scan followed by targeted state interviews"
 description: "The study builds evidence in stages: first scanning available data, literature, and recent studies to produce this overview, then conducting interviews with staff and partners from a subset of states chosen using the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

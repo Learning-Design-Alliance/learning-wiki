@@ -4,7 +4,7 @@ id: early-steps
 title: Early Steps
 description: Early Steps is a structured one-to-one tutoring programme for first-grade pupils, delivered by tutors according to its named instructional schedule.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

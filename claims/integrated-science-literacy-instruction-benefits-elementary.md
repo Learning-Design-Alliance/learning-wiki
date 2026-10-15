@@ -3,7 +3,7 @@ type: claim
 title: Integrating science and literacy instruction benefits elementary students
 description: Integrating science and literacy instruction benefits elementary students
 id: integrated-science-literacy-instruction-benefits-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

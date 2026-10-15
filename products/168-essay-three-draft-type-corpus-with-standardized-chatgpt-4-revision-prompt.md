@@ -4,7 +4,7 @@ id: 168-essay-three-draft-type-corpus-with-standardized-chatgpt-4-revision-promp
 title: 168-essay three-draft-type corpus with standardized ChatGPT-4 revision prompt
 description: A research dataset created by Zhao et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

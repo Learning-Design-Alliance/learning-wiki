@@ -3,7 +3,7 @@ type: claim
 title: KIPP identifies principal candidates primarily from a talent pool of assistant principals, similar to the approach used by school districts
 description: KIPP identifies principal candidates primarily from a talent pool of assistant principals, similar to the approach used by school districts
 id: kipp-principal-candidates-from-ap-talent-pool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

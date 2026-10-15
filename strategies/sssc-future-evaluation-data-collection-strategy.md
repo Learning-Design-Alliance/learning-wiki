@@ -3,7 +3,7 @@ type: strategy
 id: sssc-future-evaluation-data-collection-strategy
 title: "Future SSSC evaluation work: collect data from directors, gather detailed activity data, and interview policymakers and practitioners to develop impact measures"
 description: "The article outlines the next phase of the WestEd JPRC evaluation: \"collecting additional data from SSSC directors; gathering detailed activity data from each SSSC; and conducting interviews and surveys with policymak..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

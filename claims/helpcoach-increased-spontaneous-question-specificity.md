@@ -3,7 +3,7 @@ type: claim
 title: HelpCoach increased spontaneous question specificity during chatbot problem-solving compared with pre-task training alone
 description: HelpCoach increased spontaneous question specificity during chatbot problem-solving compared with pre-task training alone
 id: helpcoach-increased-spontaneous-question-specificity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

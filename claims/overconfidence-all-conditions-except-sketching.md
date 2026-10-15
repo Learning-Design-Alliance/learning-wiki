@@ -3,7 +3,7 @@ type: claim
 title: Readers in all conditions except sketching were overconfident, with the most overconfidence in the photograph condition and the least in the sketching condition
 description: Readers in all conditions except sketching were overconfident, with the most overconfidence in the photograph condition and the least in the sketching condition
 id: overconfidence-all-conditions-except-sketching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: perception-surveys-monitor-evaluation-implementation
 title: Use teacher and administrator perception surveys to monitor evaluation-system implementation
 description: The brief demonstrates monitoring a district-wide evaluation overhaul by surveying the educators subject to it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

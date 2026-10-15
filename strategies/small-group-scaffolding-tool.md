@@ -3,7 +3,7 @@ type: strategy
 id: small-group-scaffolding-tool
 title: Small-Group Scaffolding Tool
 description: A six-step decision procedure that trains teachers to scaffold a small group's collective zone of proximal development, rather than an individual student's, during collaborative discussion.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: claim
 title: "CLARA's gains come from the interaction of structured representation, constrained annotation, and aggregation, not prompt engineering alone"
 description: "CLARA's gains come from the interaction of structured representation, constrained annotation, and aggregation, not prompt engineering alone"
 id: clara-contribution-decomposition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

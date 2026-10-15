@@ -3,7 +3,7 @@ type: claim
 title: "Builders' perceived control, satisfaction, and perceived quality show no detectable association with their measured visual atypicality, so convergence goes unnoticed from the inside"
 description: "Builders' perceived control, satisfaction, and perceived quality show no detectable association with their measured visual atypicality, so convergence goes unnoticed from the inside"
 id: perception-uncorrelated-with-measured-originality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

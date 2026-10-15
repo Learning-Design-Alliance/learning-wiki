@@ -3,7 +3,7 @@ type: claim
 title: Exclusionary discipline rates declined for all student subgroups in Maryland from 2009/10 to 2017/18
 description: Exclusionary discipline rates declined for all student subgroups in Maryland from 2009/10 to 2017/18
 id: maryland-exclusionary-discipline-declined-all-subgroups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

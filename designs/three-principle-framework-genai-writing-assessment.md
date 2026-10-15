@@ -3,7 +3,7 @@ type: design
 id: three-principle-framework-genai-writing-assessment
 title: "Three-principle framework for ethical GenAI integration in writing assessment: transparency, human mediation, reflective practice"
 description: "The paper proposes \"a three-principle framework (transparency, human mediation, reflective practice) for ethical GenAI integration in writing assessment.\" Transparency functions not merely as disclosure but as a pedag..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

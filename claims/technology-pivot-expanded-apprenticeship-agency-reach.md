@@ -3,7 +3,7 @@ type: claim
 title: State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic
 description: State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic
 id: technology-pivot-expanded-apprenticeship-agency-reach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

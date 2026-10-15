@@ -3,7 +3,7 @@ type: claim
 title: The connective and is multifunctional in L1 essays, functioning as resultive and other relations, which may explain its lower frequency in L2 writing
 description: The connective and is multifunctional in L1 essays, functioning as resultive and other relations, which may explain its lower frequency in L2 writing
 id: and-multifunctional-l1-essays
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

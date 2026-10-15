@@ -3,7 +3,7 @@ type: claim
 title: "Turkish undergraduates show a use-cognition gap: 77.7% use AI tools at least several times per week while formal AI education remains low"
 description: "Turkish undergraduates show a use-cognition gap: 77.7% use AI tools at least several times per week while formal AI education remains low"
 id: use-cognition-gap-turkish-undergraduates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

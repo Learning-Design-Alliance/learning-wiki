@@ -3,7 +3,7 @@ type: claim
 title: Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions
 description: Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions
 id: low-guidance-longer-time-on-task
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

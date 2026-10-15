@@ -3,7 +3,7 @@ type: claim
 title: Balanced Leadership® may increase school leader retention at the school (potentially positive effects rating)
 description: Balanced Leadership® may increase school leader retention at the school (potentially positive effects rating)
 id: balanced-leadership-potentially-positive-school-leader-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: "Instruction in STEAM AI literacy is predominantly technology-enhanced (82.1% of studies) rather than unplugged (17.9%)"
 description: "Instruction in STEAM AI literacy is predominantly technology-enhanced (82.1% of studies) rather than unplugged (17.9%)"
 id: steam-ai-literacy-instruction-technology-enhanced-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

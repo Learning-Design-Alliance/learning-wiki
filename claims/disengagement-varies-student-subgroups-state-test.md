@@ -3,7 +3,7 @@ type: claim
 title: Disengagement rates on the state summative test varied materially across gender, ethnicity, IEP status, LEP status, FRL status, and disability status
 description: Disengagement rates on the state summative test varied materially across gender, ethnicity, IEP status, LEP status, FRL status, and disability status
 id: disengagement-varies-student-subgroups-state-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

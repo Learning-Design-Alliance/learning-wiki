@@ -3,7 +3,7 @@ type: strategy
 id: author-must-solve-own-level
 title: Require authors to solve their own created levels before publishing, as a quality filter and a learning act in itself.
 description: In BOTS, a created level is not shared until its author demonstrates a working solution.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

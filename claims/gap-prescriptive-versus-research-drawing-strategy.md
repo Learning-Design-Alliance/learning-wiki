@@ -3,7 +3,7 @@ type: claim
 title: A gap exists between prescriptive readings on learner-generated drawing and research-based understandings
 description: A gap exists between prescriptive readings on learner-generated drawing and research-based understandings
 id: gap-prescriptive-versus-research-drawing-strategy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

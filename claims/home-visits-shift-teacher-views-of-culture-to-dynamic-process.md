@@ -3,7 +3,7 @@ type: claim
 title: Home visits in funds of knowledge research led teachers to see culture as a dynamic process rather than only dances, food and folklore.
 description: Home visits in funds of knowledge research led teachers to see culture as a dynamic process rather than only dances, food and folklore.
 id: home-visits-shift-teacher-views-of-culture-to-dynamic-process
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: GenAI can foster psychologically safe team interaction while risking reduced human interaction over time
 description: GenAI can foster psychologically safe team interaction while risking reduced human interaction over time
 id: genai-team-interaction-safety-and-reduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

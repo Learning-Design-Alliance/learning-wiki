@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' perceived severity of bullying predicts their likelihood of reacting to incidents of aggression"
 description: "Teachers' perceived severity of bullying predicts their likelihood of reacting to incidents of aggression"
 id: perceived-severity-predicts-teacher-reaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

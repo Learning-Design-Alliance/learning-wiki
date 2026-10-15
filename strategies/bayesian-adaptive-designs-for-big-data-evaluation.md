@@ -3,7 +3,7 @@ type: strategy
 id: bayesian-adaptive-designs-for-big-data-evaluation
 title: Use Bayesian adaptive designs to channel growing public-program data streams into evaluation
 description: The article recommends that evaluators of public programs adopt novel statistical methods, such as the Bayesian approach, to exploit increasingly rich data streams.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

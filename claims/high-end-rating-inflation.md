@@ -3,7 +3,7 @@ type: claim
 title: Principals inflated ratings at the high end of the scale, more often identifying instruction as distinguished than observers
 description: Principals inflated ratings at the high end of the scale, more often identifying instruction as distinguished than observers
 id: high-end-rating-inflation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

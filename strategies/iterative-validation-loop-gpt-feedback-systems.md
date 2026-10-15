@@ -3,7 +3,7 @@ type: strategy
 id: iterative-validation-loop-gpt-feedback-systems
 title: Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability
 description: "The article recommends that system developers and LA researchers incorporating LLMs into LA-supported feedback systems \"devise a way to validate and update GPT models regularly to improve the reliability of the genera..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

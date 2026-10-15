@@ -3,7 +3,7 @@ type: claim
 title: Developing outcomes-based contracts enabled districts to engage in collaborative, data-driven decision-making processes to select populations, outcomes, and pricing.
 description: Developing outcomes-based contracts enabled districts to engage in collaborative, data-driven decision-making processes to select populations, outcomes, and pricing.
 id: obc-contract-development-collaborative-data-driven-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

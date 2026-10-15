@@ -3,7 +3,7 @@ type: claim
 title: Lack of diversity in computing stems from social and structural barriers, not ability or interest
 description: Lack of diversity in computing stems from social and structural barriers, not ability or interest
 id: structural-barriers-not-ability-limit-computing-diversity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

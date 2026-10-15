@@ -3,7 +3,7 @@ type: strategy
 id: real-context-action-tasks-engineering
 title: Culminate engineering learning tasks in action within real contexts through industry, government, and NGO partnerships
 description: The practice-integrated pillar recommends that learning tasks end in real-world action rather than laboratory simulations or hypothetical projects, which the article says limit exposure to uncertainty, stakeholder div...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

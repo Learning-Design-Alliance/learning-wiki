@@ -3,7 +3,7 @@ type: research-method
 id: working-classification-of-chatbot-and-language-model-technologies-for-ai-coaching
 title: Working classification of chatbot and language-model technologies for AI coaching
 description: The review proposes a working taxonomy of coaching technologies, from rule-based programming (fixed rules and scripted responses) through task-oriented and ML-enhanced NLP/NLU chatbots to early LLMs and mass-market general-purpose LLMs.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

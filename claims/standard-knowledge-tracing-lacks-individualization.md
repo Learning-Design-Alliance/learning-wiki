@@ -3,7 +3,7 @@ type: claim
 title: Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge
 description: Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge
 id: standard-knowledge-tracing-lacks-individualization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

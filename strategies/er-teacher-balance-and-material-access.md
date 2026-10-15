@@ -3,7 +3,7 @@ type: strategy
 id: er-teacher-balance-and-material-access
 title: Balance ER implementation with teacher observation and access to materials, avoiding the view that ER is always superior
 description: The article draws two pedagogical cautions from its findings and the literature.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

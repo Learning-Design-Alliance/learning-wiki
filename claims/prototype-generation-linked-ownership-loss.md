@@ -3,7 +3,7 @@ type: claim
 title: Prototype generation is the only GenAI activity significantly associated with perceived loss of creativity or ownership
 description: Prototype generation is the only GenAI activity significantly associated with perceived loss of creativity or ownership
 id: prototype-generation-linked-ownership-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

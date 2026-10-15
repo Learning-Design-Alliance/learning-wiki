@@ -3,7 +3,7 @@ type: claim
 title: Instructors and students agree that personal gain is the primary value of experiential learning, with beauty and social good seen as important but of lesser significance
 description: Instructors and students agree that personal gain is the primary value of experiential learning, with beauty and social good seen as important but of lesser significance
 id: soka-experiential-learning-gain-primary-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

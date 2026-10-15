@@ -3,7 +3,7 @@ type: claim
 title: "Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking"
 description: "Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking"
 id: interactive-requires-constructive-turn-taking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

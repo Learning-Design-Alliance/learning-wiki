@@ -3,7 +3,7 @@ type: research-method
 id: four-options-for-accounting-for-co-teaching-in-value-added-models
 title: Four options for accounting for co-teaching in value-added models
 description: "The paper organizes the policy problem of co-teaching in value-added models around four named methods: \"the partial credit method, the teacher team method, the full roster method, and the full roster-plus method.\" Each option represents a different way of assigning credit for jointly taught students"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

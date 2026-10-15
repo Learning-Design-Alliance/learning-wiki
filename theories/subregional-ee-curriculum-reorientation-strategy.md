@@ -2,7 +2,7 @@
 type: theory
 title: Subregional strategy for reorienting school curricula towards environment and development education
 description: The IEEP strategy holds that because countries of a region share characteristics and benefit from exchanging information, resources and competences, curriculum harmonisation for environment and development education i...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

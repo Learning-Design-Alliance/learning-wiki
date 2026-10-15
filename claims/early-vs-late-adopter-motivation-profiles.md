@@ -3,7 +3,7 @@ type: claim
 title: Potential early adopters of micro-credentials are driven by intrinsic motivations and heavy informal professional learning, while late adopters are more experienced and driven by extrinsic motivations
 description: Potential early adopters of micro-credentials are driven by intrinsic motivations and heavy informal professional learning, while late adopters are more experienced and driven by extrinsic motivations
 id: early-vs-late-adopter-motivation-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

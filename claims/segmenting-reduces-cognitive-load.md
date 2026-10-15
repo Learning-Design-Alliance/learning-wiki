@@ -3,7 +3,7 @@ type: claim
 title: Segmentation reduces overall cognitive load during multimedia learning
 description: Segmentation reduces overall cognitive load during multimedia learning
 id: segmenting-reduces-cognitive-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

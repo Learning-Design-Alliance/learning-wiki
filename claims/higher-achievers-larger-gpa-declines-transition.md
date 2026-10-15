@@ -3,7 +3,7 @@ type: claim
 title: Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school
 description: Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school
 id: higher-achievers-larger-gpa-declines-transition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

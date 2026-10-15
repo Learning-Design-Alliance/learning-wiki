@@ -3,7 +3,7 @@ type: strategy
 id: shared-metacognition-practice-for-ai-outputs
 title: Use shared metacognition as the routine practice for educators and learners to critically evaluate AI-generated outputs
 description: As an implementable activity, the article recommends that educators and learners collectively monitor and manage their thinking when encountering AI-generated outputs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

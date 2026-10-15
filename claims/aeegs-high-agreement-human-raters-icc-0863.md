@@ -3,7 +3,7 @@ type: claim
 title: "AEEGS scores show high absolute agreement with 12 human expert raters' scores on mathematical Economics essay items (average-measures ICC = 0.863)"
 description: "AEEGS scores show high absolute agreement with 12 human expert raters' scores on mathematical Economics essay items (average-measures ICC = 0.863)"
 id: aeegs-high-agreement-human-raters-icc-0863
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

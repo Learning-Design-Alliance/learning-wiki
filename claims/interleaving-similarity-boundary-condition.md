@@ -3,7 +3,7 @@ type: claim
 title: Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse
 description: Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse
 id: interleaving-similarity-boundary-condition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

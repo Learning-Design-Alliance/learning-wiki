@@ -3,7 +3,7 @@ type: strategy
 id: inclusive-digital-strategies-ai-adult-education-policy
 title: Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education
 description: "The paper's policy recommendations center on inclusive digital strategies: \"A key priority is the development of inclusive digital strategies that ensure equitable access to AI-supported learning.\" This includes infra..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

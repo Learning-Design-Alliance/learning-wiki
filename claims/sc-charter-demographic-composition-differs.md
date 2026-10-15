@@ -3,7 +3,7 @@ type: claim
 title: South Carolina charter schools enroll larger shares of white students and smaller shares of students in poverty, ELLs, and special education students than TPS
 description: South Carolina charter schools enroll larger shares of white students and smaller shares of students in poverty, ELLs, and special education students than TPS
 id: sc-charter-demographic-composition-differs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

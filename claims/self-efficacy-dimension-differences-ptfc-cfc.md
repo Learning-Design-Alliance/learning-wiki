@@ -3,7 +3,7 @@ type: claim
 title: PTFC and CFC differ on general and future self-efficacy dimensions but not on grade-anxiety, in-class, or assignment dimensions
 description: PTFC and CFC differ on general and future self-efficacy dimensions but not on grade-anxiety, in-class, or assignment dimensions
 id: self-efficacy-dimension-differences-ptfc-cfc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: The study used pre- and post-semester surveys with Likert-scale literacy-confidence items and open-text ethical reflection, thematically analysed
 description: The study used pre- and post-semester surveys with Likert-scale literacy-confidence items and open-text ethical reflection, thematically analysed
 id: pre-post-survey-likert-open-text-genai-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

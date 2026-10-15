@@ -3,7 +3,7 @@ type: claim
 title: Open-source LLMs show persistent phonology deficits despite adequate mastery of other subskills
 description: Open-source LLMs show persistent phonology deficits despite adequate mastery of other subskills
 id: open-source-llm-phonology-deficit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

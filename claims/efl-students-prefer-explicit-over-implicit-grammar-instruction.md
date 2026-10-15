@@ -3,7 +3,7 @@ type: claim
 title: All student groups preferred explicit over implicit grammar instruction
 description: All student groups preferred explicit over implicit grammar instruction
 id: efl-students-prefer-explicit-over-implicit-grammar-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

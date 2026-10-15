@@ -3,7 +3,7 @@ type: claim
 title: AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains
 description: AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains
 id: aic-moderates-llm-learning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

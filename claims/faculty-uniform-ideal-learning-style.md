@@ -3,7 +3,7 @@ type: claim
 title: Faculty across departments describe the same ideal learning style for students
 description: Faculty across departments describe the same ideal learning style for students
 id: faculty-uniform-ideal-learning-style
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

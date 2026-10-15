@@ -3,7 +3,7 @@ type: claim
 title: In schools where students experience peer support for academic work, student learning is more likely
 description: In schools where students experience peer support for academic work, student learning is more likely
 id: peer-support-academic-work-learning-more-likely
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

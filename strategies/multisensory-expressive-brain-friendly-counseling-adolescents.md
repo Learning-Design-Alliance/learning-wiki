@@ -3,7 +3,7 @@ type: strategy
 id: multisensory-expressive-brain-friendly-counseling-adolescents
 title: Use brain-friendly, multisensory and expressive approaches and a partner (not authority) stance in counseling adolescents
 description: The review argues traditional talk therapy may not work with adolescents, whose language production and insight are still developing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Reasoning-trace exposure raised trust and hedonic appeal without performance benefits, shifting subjective appraisal of the interaction
 description: Reasoning-trace exposure raised trust and hedonic appeal without performance benefits, shifting subjective appraisal of the interaction
 id: trace-exposure-raises-trust-and-hedonic-appeal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

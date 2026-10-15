@@ -3,7 +3,7 @@ type: claim
 title: After the U.S. Department of Education offered assessment waivers to all 50 states in 2019-2020, many educators and policymakers advocated restarting assessment programs in 2020-2021 to evaluate teaching and learning and inform recovery policies
 description: After the U.S.
 id: assessment-restart-advocacy-after-2020-waivers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

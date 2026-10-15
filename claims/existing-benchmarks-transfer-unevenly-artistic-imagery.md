@@ -3,7 +3,7 @@ type: claim
 title: Performance on existing benchmarks transfers unevenly to artistic educational imagery
 description: Performance on existing benchmarks transfers unevenly to artistic educational imagery
 id: existing-benchmarks-transfer-unevenly-artistic-imagery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "The guide's recommendations rest on 21 studies meeting WWC standards, with participant samples ranging from 51 to 15,898 students"
 description: "The guide's recommendations rest on 21 studies meeting WWC standards, with participant samples ranging from 51 to 15,898 students"
 id: wwc-advising-evidence-base-21-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

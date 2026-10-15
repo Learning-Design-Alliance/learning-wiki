@@ -4,7 +4,7 @@ title: "Comprehensive teacher induction generated no significant improvements in
 description: "Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year"
 id: comprehensive-induction-no-classroom-practice-gains-first-year
 aliases: [teacher-induction-no-classroom-practice-gains-year-1]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

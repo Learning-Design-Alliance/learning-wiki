@@ -4,7 +4,7 @@ id: reasoning-mind-grade-5-common-core-curriculum-rm-cc5
 title: Reasoning Mind Grade 5 Common Core Curriculum (RM-CC5)
 description: RM-CC5 is an adaptive, blended Grade 5 mathematics core curriculum developed and operated by the nonprofit Reasoning Mind, with digital missions, mastery-based progression, teacher dashboards, and implementation support.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

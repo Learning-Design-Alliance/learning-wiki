@@ -3,7 +3,7 @@ type: claim
 title: "Federal McKinney-Vento funding is low and not allocated by homeless-student counts: $106.5 million in 2020–21, under $82 per identified student, reaching only a fraction of districts"
 description: "Federal McKinney-Vento funding is low and not allocated by homeless-student counts: $106.5 million in 2020–21, under $82 per identified student, reaching only a fraction of districts"
 id: mckinney-vento-funding-low-not-proportional-to-need
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines"
 description: "In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines"
 id: mastery-improves-engagement-attrition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

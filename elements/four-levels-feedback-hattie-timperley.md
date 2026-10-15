@@ -3,7 +3,7 @@ type: element
 id: four-levels-feedback-hattie-timperley
 title: Four-level feedback framework (task, processing, self-regulation, self-as-person) for supporting group learning
 description: "The primer's appendix presents Hattie and Timperley's (2007) four levels of feedback: about the task, about the processes involved in the task, about self-regulation, and about the self as a person."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

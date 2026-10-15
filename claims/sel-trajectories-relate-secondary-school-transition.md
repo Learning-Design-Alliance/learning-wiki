@@ -3,7 +3,7 @@ type: claim
 title: "Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school"
 description: "Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school"
 id: sel-trajectories-relate-secondary-school-transition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

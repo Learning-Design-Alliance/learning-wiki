@@ -3,7 +3,7 @@ type: strategy
 id: implementation-phase-supports
 title: "Implementation-phase supports: staff engagement, communication and action plans, thought partnership, and self-assessment rubrics"
 description: "During implementation, R15CC co-designs all-staff meetings and helps leaders connect authentically with staff; provides communication and action plan templates capturing \"the intended audience, key timelines, necessar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

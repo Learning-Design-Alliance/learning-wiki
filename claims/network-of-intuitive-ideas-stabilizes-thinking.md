@@ -3,7 +3,7 @@ type: claim
 title: "A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking"
 description: "A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking"
 id: network-of-intuitive-ideas-stabilizes-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

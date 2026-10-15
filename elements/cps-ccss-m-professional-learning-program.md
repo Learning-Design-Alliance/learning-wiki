@@ -3,7 +3,7 @@ type: element
 id: cps-ccss-m-professional-learning-program
 title: "CPS two-component CCSS-M professional learning program: districtwide train-the-trainer workshops plus intensive Deep Support for selected schools"
 description: The Chicago Public Schools Department of Mathematics, partnering with two local universities, built a professional learning program with two components.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In cities with individually targeted grant activities, more than three-quarters of grant participants collaborated across sectors
 description: In cities with individually targeted grant activities, more than three-quarters of grant participants collaborated across sectors
 id: individual-targeted-grants-three-quarters-cross-sector
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

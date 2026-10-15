@@ -3,7 +3,7 @@ type: strategy
 id: rigorous-culturally-sustaining-curricula-access
 title: Equitable access to rigorous and culturally sustaining curricula, including automatic advanced-coursework enrollment
 description: "The brief argues students must be challenged and encouraged to meet high expectations through rigorous, deeper learning and culturally sustaining curricula; when students 'both see themselves in the work and feel thei..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

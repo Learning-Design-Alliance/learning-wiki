@@ -3,7 +3,7 @@ type: strategy
 id: targeted-intensive-educator-mental-health-supports
 title: Provide targeted intensive supports for educators at elevated risk, including check-ins, buddy systems, and fast-access mental health services
 description: For educators at increased risk, the brief recommends regular mental health check-ins embedded into school culture and calendar, creative monitoring of cognitive, physical, emotional, and behavioral signs, buddy syste...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

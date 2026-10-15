@@ -3,7 +3,7 @@ type: research-method
 id: three-part-taxonomy-of-methods-for-studying-variation-in-treatment-effects
 title: Three-part taxonomy of methods for studying variation in treatment effects
 description: "The report organizes the quantitative methods literature into three research topics: subgroup (moderator) analyses using participants' characteristics \"measured before the intervention is implemented\"; subgroup analyses based on \"participants' experiences, mediators, and outcomes measured after prog"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

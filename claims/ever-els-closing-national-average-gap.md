@@ -3,7 +3,7 @@ type: claim
 title: Ever-ELs closed in on the national average by end of 4th grade, with Asian and White ever-ELs surpassing it in 2nd grade
 description: Ever-ELs closed in on the national average by end of 4th grade, with Asian and White ever-ELs surpassing it in 2nd grade
 id: ever-els-closing-national-average-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

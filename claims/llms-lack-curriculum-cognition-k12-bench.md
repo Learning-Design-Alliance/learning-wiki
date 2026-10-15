@@ -3,7 +3,7 @@ type: claim
 title: "Current LLMs lack robust curriculum cognition: even the best model reaches only 57.1% exact match on K12-Bench, with prerequisite and neighbor tasks hardest"
 description: "Current LLMs lack robust curriculum cognition: even the best model reaches only 57.1% exact match on K12-Bench, with prerequisite and neighbor tasks hardest"
 id: llms-lack-curriculum-cognition-k12-bench
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

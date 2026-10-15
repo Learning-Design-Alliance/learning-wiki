@@ -3,7 +3,7 @@ type: design
 id: llm-compiled-wiki-course-corpus
 title: LLM-compiled wiki knowledge representation over an authentic course corpus
 description: "An ingest-time knowledge representation in which a course corpus is compiled into a linked wiki: \"concept pages synthesized by an LLM, cross links between related pages, and citations from every page back to the raw s..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

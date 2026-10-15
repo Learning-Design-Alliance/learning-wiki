@@ -3,7 +3,7 @@ type: claim
 title: Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years
 description: Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years
 id: gpa-strongest-predictor-chicago-four-year-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Differences between AI-generated and teacher assessments of laboratory reports may stem from difficulties retrieving and interpreting equations, graphs, tables, and units, not only from model reasoning capabilities.
 description: Differences between AI-generated and teacher assessments of laboratory reports may stem from difficulties retrieving and interpreting equations, graphs, tables, and units, not only from model reasoning capabilities.
 id: ai-teacher-assessment-gaps-tied-to-evidence-retrieval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

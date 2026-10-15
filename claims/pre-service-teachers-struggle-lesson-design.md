@@ -3,7 +3,7 @@ type: claim
 title: Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework
 description: Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework
 id: pre-service-teachers-struggle-lesson-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

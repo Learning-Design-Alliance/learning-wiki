@@ -3,7 +3,7 @@ type: claim
 title: Grade-level clusters provided with ST Math scored higher on state math proficiency rates and scale scores than matched comparison clusters across grades 3-5
 description: Grade-level clusters provided with ST Math scored higher on state math proficiency rates and scale scores than matched comparison clusters across grades 3-5
 id: st-math-provided-schools-higher-math-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

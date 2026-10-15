@@ -3,7 +3,7 @@ type: claim
 title: The transitive construction is acquired earliest while the resultative construction poses difficulty even for advanced learners
 description: The transitive construction is acquired earliest while the resultative construction poses difficulty even for advanced learners
 id: transitive-earliest-resultative-hardest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

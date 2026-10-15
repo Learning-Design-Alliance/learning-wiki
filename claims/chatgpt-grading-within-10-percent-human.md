@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT's exam scores were within 10% of human grades 70% of the time in a study of AI-based grading"
 description: "ChatGPT's exam scores were within 10% of human grades 70% of the time in a study of AI-based grading"
 id: chatgpt-grading-within-10-percent-human
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

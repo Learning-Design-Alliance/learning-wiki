@@ -3,7 +3,7 @@ type: claim
 title: Validator failure patterns vary by interest topic and math curriculum unit
 description: Validator failure patterns vary by interest topic and math curriculum unit
 id: failure-patterns-vary-by-topic-and-curriculum-unit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

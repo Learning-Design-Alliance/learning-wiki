@@ -3,7 +3,7 @@ type: claim
 title: Retained sixth graders had lower achievement growth than promoted low-achieving counterparts
 description: Retained sixth graders had lower achievement growth than promoted low-achieving counterparts
 id: sixth-grade-retention-lowered-achievement-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

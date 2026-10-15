@@ -3,7 +3,7 @@ type: research-method
 id: the-socratic-test-framework
 title: The Socratic Test framework
 description: The Socratic Test is an adaptive, typed conversational assessment that standardizes the method of measurement without standardizing prompts.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

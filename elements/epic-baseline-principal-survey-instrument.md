@@ -3,7 +3,7 @@ type: element
 id: epic-baseline-principal-survey-instrument
 title: 2008 EPIC baseline principal/vice principal survey
 description: "A baseline survey of principals and vice principals in the three EPIC sites collected information on factors important for informing the implementation and evaluation of EPIC, including school administrators' knowledg..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

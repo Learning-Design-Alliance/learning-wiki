@@ -3,7 +3,7 @@ type: claim
 title: No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)
 description: No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)
 id: rm-cc5-no-differential-effects-prior-achievement-gender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

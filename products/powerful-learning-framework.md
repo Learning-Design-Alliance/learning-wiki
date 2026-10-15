@@ -4,7 +4,7 @@ id: powerful-learning-framework
 title: Powerful Learning framework
 description: A Digital Promise framework that organizes a vision of learning around fostering agency, purpose, and curiosity through connection to ideas, self, people, and place.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

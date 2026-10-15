@@ -3,7 +3,7 @@ type: claim
 title: "The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills"
 description: "The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills"
 id: ai-ibi-mainly-supports-creativity-and-affect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

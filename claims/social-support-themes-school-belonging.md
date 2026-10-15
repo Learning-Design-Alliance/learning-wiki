@@ -3,7 +3,7 @@ type: claim
 title: Social support factors (parent, peer, teacher) are among the themes associated with adolescent school belonging
 description: Social support factors (parent, peer, teacher) are among the themes associated with adolescent school belonging
 id: social-support-themes-school-belonging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

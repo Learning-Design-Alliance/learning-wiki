@@ -3,7 +3,7 @@ type: research-method
 id: graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models
 title: Graphical model framework for MML estimation of multidimensional IRT models
 description: The article presents a framework in which a multidimensional IRT model is represented as a directed acyclic graph whose nodes are random variables and whose edges encode conditional (in)dependence relations.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

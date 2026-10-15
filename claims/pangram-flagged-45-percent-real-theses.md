@@ -3,7 +3,7 @@ type: claim
 title: "Applied to 1,163 real master's theses, Pangram flagged 529 (45.5%) as containing AI-generated content, mostly at low-to-moderate levels"
 description: "Applied to 1,163 real master's theses, Pangram flagged 529 (45.5%) as containing AI-generated content, mostly at low-to-moderate levels"
 id: pangram-flagged-45-percent-real-theses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom"
 description: "Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom"
 id: mediation-ses-interaction-elaborated-utterances
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

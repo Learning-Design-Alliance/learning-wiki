@@ -3,7 +3,7 @@ type: claim
 title: The quantitative literature on parental involvement and achievement is sparse and inconsistent compared with a largely qualitative and nonempirical literature
 description: The quantitative literature on parental involvement and achievement is sparse and inconsistent compared with a largely qualitative and nonempirical literature
 id: parental-involvement-literature-largely-qualitative-inconsistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution
 description: Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution
 id: chatbot-quantile-effects-middle-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

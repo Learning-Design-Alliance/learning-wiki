@@ -3,7 +3,7 @@ type: claim
 title: Latent class analysis of roadblock responses identified three roughly equally sized administrator groups—Limited, Moderate, and Considerable Roadblocks—differing in breadth and depth of concern
 description: Latent class analysis of roadblock responses identified three roughly equally sized administrator groups—Limited, Moderate, and Considerable Roadblocks—differing in breadth and depth of concern
 id: three-roadblock-severity-groups-latent-class
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Low-poverty schools benefited more from the evaluation pilot than high-poverty schools, in both math and reading
 description: Low-poverty schools benefited more from the evaluation pilot than high-poverty schools, in both math and reading
 id: eitp-heterogeneity-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

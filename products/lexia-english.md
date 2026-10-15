@@ -4,7 +4,7 @@ id: lexia-english
 title: Lexia English
 description: Lexia English Language Development is a blended English-language-development programme from Lexia Learning for K–6 English Learners, combining student-directed digital lessons with teacher-led instruction and progress data.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

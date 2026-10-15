@@ -3,7 +3,7 @@ type: claim
 title: El Segundo Unified secured board funding for middle and high school wellness centers after observing Melbourne school wellness centers amid rising mental health needs
 description: El Segundo Unified secured board funding for middle and high school wellness centers after observing Melbourne school wellness centers amid rising mental health needs
 id: el-segundo-wellness-center-funding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

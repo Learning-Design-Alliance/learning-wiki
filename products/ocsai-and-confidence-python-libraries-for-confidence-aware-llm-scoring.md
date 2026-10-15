@@ -4,7 +4,7 @@ id: ocsai-and-confidence-python-libraries-for-confidence-aware-llm-scoring
 title: Ocsai and confidence Python libraries for confidence-aware LLM scoring
 description: Python libraries released by Organisciak et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

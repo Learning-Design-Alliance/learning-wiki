@@ -3,7 +3,7 @@ type: claim
 title: "Most of the signal in ACT scores appears to represent factors associated with the student's school rather than the student"
 description: "Most of the signal in ACT scores appears to represent factors associated with the student's school rather than the student"
 id: act-signal-represents-school-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

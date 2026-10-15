@@ -3,7 +3,7 @@ type: claim
 title: Closure and Restart, AUSL, and OSI models rehired fewer than 10 percent of prior teachers, and post-reform workforces were younger, less experienced, more likely white, and more likely provisionally certified
 description: Closure and Restart, AUSL, and OSI models rehired fewer than 10 percent of prior teachers, and post-reform workforces were younger, less experienced, more likely white, and more likely provisionally certified
 id: turnaround-teacher-workforce-replacement-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

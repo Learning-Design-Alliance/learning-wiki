@@ -3,7 +3,7 @@ type: strategy
 id: avp-content-gating-strategy
 title: Gate sensitive simulated-patient content behind an accumulated-skill threshold with constraint-first prompting
 description: "The article's implementation strategy is to release sensitive disclosure topics only as the trainee's accumulated skill crosses fixed thresholds."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

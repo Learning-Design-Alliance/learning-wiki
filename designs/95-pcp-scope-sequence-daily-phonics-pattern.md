@@ -3,7 +3,7 @@ type: design
 id: 95-pcp-scope-sequence-daily-phonics-pattern
 title: Structured scope-and-sequence lesson pattern with daily 20-30 minute explicit phonics instruction
 description: The program organizes instruction around a scope and sequence of lessons per grade — 25 lessons for Kindergarten and 30 lessons for each of Grades 1-5.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: train-students-before-peer-tutoring-roles
 title: Train students in tutor and group roles before routine use of peer tutoring or response groups
 description: Before peer tutoring or response groups are used routinely, students must be taught how to interact in their assigned roles.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

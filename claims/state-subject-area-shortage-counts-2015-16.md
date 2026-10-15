@@ -3,7 +3,7 @@ type: claim
 title: In 2015–16, 48 states plus DC reported special education teacher shortages, 42 reported mathematics shortages, and 40 reported science shortages
 description: In 2015–16, 48 states plus DC reported special education teacher shortages, 42 reported mathematics shortages, and 40 reported science shortages
 id: state-subject-area-shortage-counts-2015-16
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

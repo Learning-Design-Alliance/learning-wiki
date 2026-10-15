@@ -3,7 +3,7 @@ type: claim
 title: A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge
 description: A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge
 id: hierarchical-organization-improves-complex-task-performance
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

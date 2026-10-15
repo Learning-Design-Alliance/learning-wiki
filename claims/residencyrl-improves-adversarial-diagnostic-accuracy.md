@@ -3,7 +3,7 @@ type: claim
 title: "Multi-turn RL training in simulated clinical encounters improves diagnostic accuracy under adversarial conditions, raising rubric-based accuracy from 81.0% to 88.0%"
 description: "Multi-turn RL training in simulated clinical encounters improves diagnostic accuracy under adversarial conditions, raising rubric-based accuracy from 81.0% to 88.0%"
 id: residencyrl-improves-adversarial-diagnostic-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

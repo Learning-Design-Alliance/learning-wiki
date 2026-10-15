@@ -3,7 +3,7 @@ type: element
 id: spup-spoon-taped-to-cup-utensil
 title: "Spup: a spoon taped to a cup used as a fading utensil"
 description: The spup is a modified drinking utensil consisting of a large Maroon spoon taped to a blue cut-out cup, used to bridge spoon drinking and cup drinking.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

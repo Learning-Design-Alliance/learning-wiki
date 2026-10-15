@@ -3,7 +3,7 @@ type: claim
 title: Grade 8 mathematics scores in 2019 decreased at the 10th and 25th percentiles compared to 2017, while the average was 1 point higher than 2017 and 19 points higher than 1990
 description: Grade 8 mathematics scores in 2019 decreased at the 10th and 25th percentiles compared to 2017, while the average was 1 point higher than 2017 and 19 points higher than 1990
 id: naep-2019-grade-8-math-lower-percentiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

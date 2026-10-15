@@ -3,7 +3,7 @@ type: claim
 title: "71% of surveyed Miami-Dade coaches reported the program improved their job satisfaction, up from a pre-program baseline where none reported being completely satisfied"
 description: "71% of surveyed Miami-Dade coaches reported the program improved their job satisfaction, up from a pre-program baseline where none reported being completely satisfied"
 id: vils-coaches-71-percent-improved-job-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

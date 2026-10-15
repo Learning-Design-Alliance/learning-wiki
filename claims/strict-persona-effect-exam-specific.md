@@ -3,7 +3,7 @@ type: claim
 title: "The strict-persona vulnerability replicates on an independent machine-learning exam, but its direction is exam-specific: seven of 17 models improve because the persona cancels their over-marking"
 description: "The strict-persona vulnerability replicates on an independent machine-learning exam, but its direction is exam-specific: seven of 17 models improve because the persona cancels their over-marking"
 id: strict-persona-effect-exam-specific
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Students in foster care meet or exceed state standards at much lower rates than other students in English language arts and mathematics
 description: Students in foster care meet or exceed state standards at much lower rates than other students in English language arts and mathematics
 id: foster-care-low-caaspp-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

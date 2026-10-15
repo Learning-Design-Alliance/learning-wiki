@@ -4,7 +4,7 @@ title: School climate differences between BTO and other schools remain large and
 description: School climate differences between BTO and other schools remain large and significant after adjusting for student demographics and personnel resources
 id: climate-advantage-robust-to-controls
 aliases: [climate-gap-persists-with-controls]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

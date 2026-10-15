@@ -3,7 +3,7 @@ type: design
 id: digital-learning-environment-characteristics
 title: Digital learning environments characterized by problem- and project-centered, student-centered, collaborative, communicative, customized, productive and lifelong learning
 description: "The report enumerates the characteristics learning takes on once digital content is integrated into curriculum: problem and project centered, student-centered, collaborative, communicative, customized, productive, and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity
 description: AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity
 id: aifred-user-experience-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

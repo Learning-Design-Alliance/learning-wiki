@@ -4,7 +4,7 @@ id: relab-restricted-elaborated-code
 title: RELAB (restricted-ELABorated code)
 description: "RELAB is a classroom observation instrument developed by Stecher for coding teacher mediation, children's elaborated or restricted talk, classroom contexts, and child variables."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

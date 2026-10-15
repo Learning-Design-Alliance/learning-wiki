@@ -2,7 +2,7 @@
 type: theory
 title: "Three-type taxonomy of Philadelphia public high schools: alternative disciplinary, alternative accelerated, and neighborhood-zoned"
 description: The report organizes its descriptive analysis around a three-part classification of Philadelphia public high schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

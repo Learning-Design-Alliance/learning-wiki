@@ -3,7 +3,7 @@ type: claim
 title: In the RANCH study, increasing road traffic noise exposure was associated with enhanced episodic memory, an unexplained counter-intuitive finding
 description: In the RANCH study, increasing road traffic noise exposure was associated with enhanced episodic memory, an unexplained counter-intuitive finding
 id: ranch-road-traffic-noise-enhanced-episodic-memory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

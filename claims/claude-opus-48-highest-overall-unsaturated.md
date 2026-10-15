@@ -3,7 +3,7 @@ type: claim
 title: Claude Opus 4.8 has the highest overall score (0.803) and is the only model ranking in the top three on all three stages, yet does not saturate situated tutoring (0.773) or workflows (0.704)
 description: Claude Opus 4.8 has the highest overall score (0.803) and is the only model ranking in the top three on all three stages, yet does not saturate situated tutoring (0.773) or workflows (0.704)
 id: claude-opus-48-highest-overall-unsaturated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

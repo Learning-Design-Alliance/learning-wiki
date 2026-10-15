@@ -3,7 +3,7 @@ type: claim
 title: Dual language programs improved English literacy achievement, with a potentially positive effects rating based on one study
 description: Dual language programs improved English literacy achievement, with a potentially positive effects rating based on one study
 id: dual-language-programs-improve-literacy-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

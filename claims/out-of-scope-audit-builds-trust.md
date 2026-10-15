@@ -3,7 +3,7 @@ type: claim
 title: "The platform's out-of-scope audit protocol is designed to neutralize student distrust of AI error by rewarding verified hallucination reports"
 description: "The platform's out-of-scope audit protocol is designed to neutralize student distrust of AI error by rewarding verified hallucination reports"
 id: out-of-scope-audit-builds-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

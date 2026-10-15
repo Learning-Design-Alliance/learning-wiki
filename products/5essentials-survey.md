@@ -4,7 +4,7 @@ id: 5essentials-survey
 title: 5Essentials Survey
 description: The 5Essentials Survey is a statewide school-climate and organizational-conditions assessment developed by the University of Chicago Consortium on School Research and administered to Illinois students and teachers by the Illinois State Board of Education.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: figural-response-items-architecture
 title: Computer-delivered figural response test items for architecture
 description: "Figural response items are constructed-response items in which \"examinees must construct their answers and the responses consist of the generation or manipulation of figural material (e.g., graphs, pictures).\" In this..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

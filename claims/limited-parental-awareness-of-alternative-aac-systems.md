@@ -3,7 +3,7 @@ type: claim
 title: Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children
 description: Parental awareness of alternative AAC systems is limited, and only about one-third agree AAC systems are suitable for all children
 id: limited-parental-awareness-of-alternative-aac-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

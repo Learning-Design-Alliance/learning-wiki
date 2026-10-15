@@ -3,7 +3,7 @@ type: claim
 title: When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change
 description: When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change
 id: coaching-culture-increases-teacher-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

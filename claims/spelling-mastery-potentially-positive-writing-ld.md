@@ -3,7 +3,7 @@ type: claim
 title: Spelling Mastery has potentially positive effects on writing for students with learning disabilities, based on two RCTs with a small extent of evidence
 description: Spelling Mastery has potentially positive effects on writing for students with learning disabilities, based on two RCTs with a small extent of evidence
 id: spelling-mastery-potentially-positive-writing-ld
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -4,7 +4,7 @@ id: pittsburgh-value-added-models-teacher-school-contributions
 aliases: [pittsburgh-value-added-models-2012-13]
 title: Value-added models estimating teacher and school contributions to student achievement in Pittsburgh Public Schools
 description: Value-added models developed by Mathematica for Pittsburgh Public Schools, commissioned by the district and the Pittsburgh Federation of Teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

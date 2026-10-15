@@ -3,7 +3,7 @@ type: claim
 title: "One week later, the AI-access group's lead on unaided assessments shrinks to 3.9 pp (0.21 SD), short of statistical significance (p = 0.068)"
 description: A smaller AI-access learning gain persists one week later on unaided assessments (3.9 pp, 0.21 SD)
 id: genai-learning-gain-persists-one-week
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

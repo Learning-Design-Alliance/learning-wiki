@@ -3,7 +3,7 @@ type: claim
 title: "Nearly all teacher survey domains and scales correlate small-to-moderately (0.26 to 0.46) with supervisors' ratings of principals' leadership"
 description: "Nearly all teacher survey domains and scales correlate small-to-moderately (0.26 to 0.46) with supervisors' ratings of principals' leadership"
 id: survey-supervisor-rating-correlations-026-046
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: summer-loss-research-to-plan-closure-recovery
 title: Use summer learning loss research to help educators, policy makers, and families plan for and address impacts of extended school closures
 description: The brief recommends drawing on the established research base on summer learning loss as an analog for understanding the consequences of the COVID-19 pause in schooling.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

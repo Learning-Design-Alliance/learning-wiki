@@ -3,7 +3,7 @@ type: claim
 title: "Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies"
 description: "Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies"
 id: chatgpt-teaching-self-efficacy-cognitive-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

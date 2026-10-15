@@ -3,7 +3,7 @@ type: claim
 title: Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators
 description: Profiled New Mexico community schools showed improvement across attendance, graduation, achievement, climate, health access, and family engagement indicators
 id: nm-community-schools-improved-outcomes-three-sites
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

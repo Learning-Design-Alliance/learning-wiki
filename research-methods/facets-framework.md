@@ -3,7 +3,7 @@ type: research-method
 id: facets-framework
 title: FACETS framework
 description: The FACETS framework, introduced by Gordon et al.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

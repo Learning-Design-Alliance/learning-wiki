@@ -3,7 +3,7 @@ type: claim
 title: "Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs"
 description: "Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs"
 id: ai-math-risks-overreliance-errors-uncritical-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

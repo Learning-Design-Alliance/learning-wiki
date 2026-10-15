@@ -3,7 +3,7 @@ type: claim
 title: GPA fails to distinguish three pairs of learner groups that differ in standards-attainment patterns
 description: GPA fails to distinguish three pairs of learner groups that differ in standards-attainment patterns
 id: gpa-fails-to-distinguish-standards-profile-pairs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

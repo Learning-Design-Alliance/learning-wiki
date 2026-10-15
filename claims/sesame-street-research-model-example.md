@@ -3,7 +3,7 @@ type: claim
 title: Sesame Street is presented as a model of research-based educational media whose curriculum-plus-formative-and-summative-research model drove measurable impact
 description: Sesame Street is presented as a model of research-based educational media whose curriculum-plus-formative-and-summative-research model drove measurable impact
 id: sesame-street-research-model-example
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

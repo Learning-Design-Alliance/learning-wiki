@@ -3,7 +3,7 @@ type: strategy
 id: summer-programs-for-els
 title: Offer summer and out-of-school-time programs for current-ELs and dually-identified students
 description: "Because EL groups lost more learning during summers than never-ELs despite faster school-year growth, the author recommends that \"schools and communities might consider offering programs during summers and other out-o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

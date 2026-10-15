@@ -3,7 +3,7 @@ type: claim
 title: Students in foster care were consistently more likely than other high-need groups to attend a low-performing school
 description: Students in foster care were consistently more likely than other high-need groups to attend a low-performing school
 id: foster-care-low-performing-school-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

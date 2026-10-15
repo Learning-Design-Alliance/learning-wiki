@@ -3,7 +3,7 @@ type: design
 id: integrated-simulation-assessment-design-characteristics
 title: Integrated simulation performance assessment design characteristics
 description: "The report enumerates four design characteristics of its integrated simulation performance assessment: \"(a) relevant, project-based scenarios that include meaningful, real-world tasks; (b) individual and team processe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Current GenAI tools are not designed to support active learning and their apparent domain expertise is brittle
 description: Current GenAI tools are not designed to support active learning and their apparent domain expertise is brittle
 id: genai-tools-not-designed-for-active-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

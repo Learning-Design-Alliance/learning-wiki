@@ -3,7 +3,7 @@ type: claim
 title: Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size
 description: Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size
 id: multiple-sessions-moderator-games
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

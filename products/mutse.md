@@ -4,7 +4,7 @@ id: mutse
 title: MuTSE
 description: MuTSE is a web application developed by Rares-Alexandru Roșcan et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: couple-curriculum-reform-with-academic-behavior-strategies
 title: Couple subject-area curriculum reforms with comprehensive strategies to improve attendance and academic behaviors
 description: "Because course failures stem largely from student behaviors rather than skill alone, the brief recommends that \"policymakers should consider coupling double-dose with more comprehensive strategies designed to improve..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

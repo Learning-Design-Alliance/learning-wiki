@@ -4,7 +4,7 @@ id: edudata-and-eduktm-libraries
 title: EduData and EduKTM Open-Source Knowledge Tracing Libraries
 description: "The survey's authors released two open-source algorithm libraries: \"EduData that enables the download and preprocessing of KT-related datasets, and EduKTM that provides an extensible and unified implementation of exis..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: strategy
 id: problem-solving-mentoring-approach-classroom-management
 title: Guide mentees through a problem-solving approach to classroom management using open-ended questions, think time, and pre-emptive thinking about what works
 description: "In this case, the mentor guided the mentee through a problem-solving approach to classroom management before each lesson: she asked \"pertinent questions\", gave the mentee \"think time\", and provided opportunities to im..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Students' skill mastery for all five attributes improved during gameplay in The Nomads, with all quantiles differing significantly between halves"
 description: "Students' skill mastery for all five attributes improved during gameplay in The Nomads, with all quantiles differing significantly between halves"
 id: ccm-attribute-mastery-improved-during-gameplay
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

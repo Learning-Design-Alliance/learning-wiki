@@ -3,7 +3,7 @@ type: claim
 title: Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness
 description: Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness
 id: proxy-pretest-estimates-biased-but-informative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

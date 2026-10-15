@@ -2,7 +2,7 @@
 type: theory
 title: "Krashen's Monitor Model: acquisition versus learning as separate internal rule systems"
 description: "Krashen's Monitor Model divides classroom activities into acquisition activities, which expose students to comprehensible target language samples, and learning activities, which focus on particular language forms thro..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)
 description: Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)
 id: representational-fit-individual-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

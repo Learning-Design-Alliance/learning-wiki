@@ -3,7 +3,7 @@ type: claim
 title: Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).
 description: Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).
 id: teacher-perceived-cost-reduces-motivation-to-use-ai
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time
 description: District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time
 id: clear-expectations-learning-walks-reinforce-hqim-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

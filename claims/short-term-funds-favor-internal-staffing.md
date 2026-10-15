@@ -3,7 +3,7 @@ type: claim
 title: LEAs most frequently used short-term behavioral health funds to expand internal staffing and direct services rather than partnerships and structural investments
 description: LEAs most frequently used short-term behavioral health funds to expand internal staffing and direct services rather than partnerships and structural investments
 id: short-term-funds-favor-internal-staffing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

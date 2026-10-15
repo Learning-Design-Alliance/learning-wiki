@@ -3,7 +3,7 @@ type: claim
 title: The gap between Chicago Public Schools students and other Illinois students in ISAT reading is about half as large in eighth grade as in third grade
 description: The gap between Chicago Public Schools students and other Illinois students in ISAT reading is about half as large in eighth grade as in third grade
 id: cps-isat-reading-gap-narrows-upper-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

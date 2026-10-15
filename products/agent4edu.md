@@ -4,7 +4,7 @@ id: agent4edu
 title: Agent4Edu
 description: Agent4Edu is an LLM-based personalized learning simulator developed by Luis Marquez-Carpintero et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

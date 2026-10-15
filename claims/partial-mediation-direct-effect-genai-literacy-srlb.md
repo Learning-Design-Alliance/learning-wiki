@@ -3,7 +3,7 @@ type: claim
 title: The direct association between GenAI literacy and GenAI-assisted self-regulated learning behaviors remains significant after accounting for the mediators, indicating partial mediation
 description: The direct association between GenAI literacy and GenAI-assisted self-regulated learning behaviors remains significant after accounting for the mediators, indicating partial mediation
 id: partial-mediation-direct-effect-genai-literacy-srlb
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

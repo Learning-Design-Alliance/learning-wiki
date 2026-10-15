@@ -3,7 +3,7 @@ type: strategy
 id: invest-principal-professional-development
 title: Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color
 description: The brief recommends that states and districts form partnerships with universities, including HBCUs or nonprofits, to provide professional development for current leaders, aligned to the Professional Standards for Edu...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

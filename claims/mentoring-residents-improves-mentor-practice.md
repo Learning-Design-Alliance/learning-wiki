@@ -3,7 +3,7 @@ type: claim
 title: "Mentoring residents improves mentors' own teaching practice"
 description: "Mentoring residents improves mentors' own teaching practice"
 id: mentoring-residents-improves-mentor-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

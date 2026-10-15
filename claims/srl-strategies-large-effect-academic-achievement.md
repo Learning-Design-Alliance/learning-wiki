@@ -3,7 +3,7 @@ type: claim
 title: Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies
 description: Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies
 id: srl-strategies-large-effect-academic-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

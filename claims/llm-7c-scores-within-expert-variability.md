@@ -3,7 +3,7 @@ type: claim
 title: LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions
 description: LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions
 id: llm-7c-scores-within-expert-variability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: In a North Carolina middle school study, a teacher with 12 years of experience raised scores 0.08 SD in ELA and 0.18 SD in math versus a novice teacher, with returns persisting through 21–27 years
 description: In a North Carolina middle school study, a teacher with 12 years of experience raised scores 0.08 SD in ELA and 0.18 SD in math versus a novice teacher, with returns persisting through 21–27 years
 id: ladd-sorensen-middle-school-experience-returns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

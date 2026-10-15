@@ -2,7 +2,7 @@
 type: theory
 title: "Theoretical rationale for privileging pretests in bias control: high correlation with both outcome and selection process"
 description: The article offers an explanatory account of why pretest measures of the study outcome are privileged tools for controlling selection bias in observational studies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Oakland Unified high school participation in Linked Learning career pathways rose from 49% in 2014 to 87.7% in 2020–21"
 description: "Oakland Unified high school participation in Linked Learning career pathways rose from 49% in 2014 to 87.7% in 2020–21"
 id: linked-learning-pathway-participation-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

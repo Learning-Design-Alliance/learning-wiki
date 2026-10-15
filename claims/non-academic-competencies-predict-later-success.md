@@ -3,7 +3,7 @@ type: claim
 title: "Multiple non-academic competencies (leadership, sports-related skills, work habits, prosocial behavior, locus of control) appear to predict students' later success in higher education and the labor market"
 description: "Multiple non-academic competencies (leadership, sports-related skills, work habits, prosocial behavior, locus of control) appear to predict students' later success in higher education and the labor market"
 id: non-academic-competencies-predict-later-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

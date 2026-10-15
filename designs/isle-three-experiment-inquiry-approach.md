@@ -3,7 +3,7 @@ type: design
 id: isle-three-experiment-inquiry-approach
 title: "ISLE (Investigative Science Learning Environment): inquiry organized around observational, testing and application experiments"
 description: ISLE is an approach to physics teaching in which students build and test physics knowledge the way physicists do, starting from phenomena they observe with their own eyes and hands.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

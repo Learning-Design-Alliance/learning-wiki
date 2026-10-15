@@ -3,7 +3,7 @@ type: claim
 title: Feedback quality in LLM-generated lessons improved with three or more segments compared to one- or two-segment prompting
 description: Feedback quality in LLM-generated lessons improved with three or more segments compared to one- or two-segment prompting
 id: feedback-improves-three-or-more-segments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

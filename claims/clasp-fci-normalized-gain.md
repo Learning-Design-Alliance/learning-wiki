@@ -3,7 +3,7 @@ type: claim
 title: CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics
 description: CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics
 id: clasp-fci-normalized-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

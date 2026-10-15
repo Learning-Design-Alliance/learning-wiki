@@ -3,7 +3,7 @@ type: claim
 title: Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict
 description: Most high school suspensions in CPS resulted from student defiance and rule violations rather than physical conflict
 id: defiance-drives-most-high-school-suspensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

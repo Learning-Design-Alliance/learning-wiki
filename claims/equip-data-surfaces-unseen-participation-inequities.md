@@ -3,7 +3,7 @@ type: claim
 title: EQUIP data reports surfaced participation inequities that teachers were unaware of and motivated instructional change
 description: EQUIP data reports surfaced participation inequities that teachers were unaware of and motivated instructional change
 id: equip-data-surfaces-unseen-participation-inequities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

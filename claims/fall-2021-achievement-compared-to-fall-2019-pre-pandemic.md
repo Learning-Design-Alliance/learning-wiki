@@ -3,7 +3,7 @@ type: claim
 title: The 2021-22 COVID learning study investigated fall 2021 achievement versus pre-pandemic fall 2019 levels and fall 2019 to fall 2021 gains versus normative growth expectations
 description: The 2021-22 COVID learning study investigated fall 2021 achievement versus pre-pandemic fall 2019 levels and fall 2019 to fall 2021 gains versus normative growth expectations
 id: fall-2021-achievement-compared-to-fall-2019-pre-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

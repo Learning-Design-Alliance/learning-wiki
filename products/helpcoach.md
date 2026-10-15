@@ -4,7 +4,7 @@ id: helpcoach
 title: HelpCoach
 description: A research-developed in situ chat-interface add-on by Hyoungwook Jin and colleagues that monitors and scaffolds students’ targeted help-seeking during AI-supported problem solving.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: seven-item-parent-reported-aac-implementation-experience-score
 title: Seven-item parent-reported AAC implementation experience score
 description: A seven-item parent-reported questionnaire developed by Jarrar Hala et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

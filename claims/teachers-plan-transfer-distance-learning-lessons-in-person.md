@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed teachers planned to transfer what they learned during pandemic distance teaching to adapt future in-person teaching
 description: Most surveyed teachers planned to transfer what they learned during pandemic distance teaching to adapt future in-person teaching
 id: teachers-plan-transfer-distance-learning-lessons-in-person
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

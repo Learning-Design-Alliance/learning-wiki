@@ -3,7 +3,7 @@ type: claim
 title: "Comprehensive institutional GenAI guidelines translate to course-level guidelines at higher rates (48.3–71.4%) than moderately comprehensive ones (30.8–31.2%)"
 description: "Comprehensive institutional GenAI guidelines translate to course-level guidelines at higher rates (48.3–71.4%) than moderately comprehensive ones (30.8–31.2%)"
 id: comprehensive-institutional-guidelines-translate-to-course-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

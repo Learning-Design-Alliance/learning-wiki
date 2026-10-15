@@ -4,7 +4,7 @@ id: med2lab
 title: Med2Lab
 description: Med2Lab is a platform used in medical education to submit case vignettes, open-ended questions, rubrics, and deidentified student responses to GPT-4 for automated scoring and feedback.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

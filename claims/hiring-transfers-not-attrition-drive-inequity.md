@@ -3,7 +3,7 @@ type: claim
 title: Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access
 description: Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access
 id: hiring-transfers-not-attrition-drive-inequity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

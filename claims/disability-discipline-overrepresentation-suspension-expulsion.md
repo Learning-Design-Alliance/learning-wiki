@@ -3,7 +3,7 @@ type: claim
 title: "Students with disabilities are overrepresented in school discipline: 16 percent of enrollment but 25–28 percent of suspensions and expulsions"
 description: "Students with disabilities are overrepresented in school discipline: 16 percent of enrollment but 25–28 percent of suspensions and expulsions"
 id: disability-discipline-overrepresentation-suspension-expulsion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

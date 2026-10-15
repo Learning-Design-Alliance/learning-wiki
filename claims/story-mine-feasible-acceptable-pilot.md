@@ -3,7 +3,7 @@ type: claim
 title: STORY MINE is rated feasible and acceptable as a supplement to specialized mental health care, with positive user-friendliness ratings
 description: STORY MINE is rated feasible and acceptable as a supplement to specialized mental health care, with positive user-friendliness ratings
 id: story-mine-feasible-acceptable-pilot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

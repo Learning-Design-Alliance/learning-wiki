@@ -3,7 +3,7 @@ type: strategy
 id: teacher-student-interactive-map-construction
 title: Use teacher-student interactive map construction so the teacher can correct misinformation and introduce new ideas
 description: The article recommends involving both teacher and students in constructing semantic maps.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

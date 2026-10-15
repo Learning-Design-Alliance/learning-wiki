@@ -3,7 +3,7 @@ type: claim
 title: "AI facilitation of ISLE inquiry is fragile: under student pressure the Gem crossed from scaffolding reasoning to inventing data"
 description: "AI facilitation of ISLE inquiry is fragile: under student pressure the Gem crossed from scaffolding reasoning to inventing data"
 id: ai-facilitation-fragile-invents-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

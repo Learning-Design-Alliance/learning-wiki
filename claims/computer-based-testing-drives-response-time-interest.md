@@ -3,7 +3,7 @@ type: claim
 title: "Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement"
 description: "Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement"
 id: computer-based-testing-drives-response-time-interest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

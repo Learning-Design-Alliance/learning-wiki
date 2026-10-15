@@ -4,7 +4,7 @@ id: eos-opportunity-chart
 title: EOS Opportunity Chart
 description: A data-reporting tool developed by Equal Opportunity Schools that helps schools and districts compare disaggregated advanced-course seats, enrollments, and success with their student demographics.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

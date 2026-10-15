@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-agentic-engagement-teacher-decision-making-wcf
 title: "Prioritize student agentic engagement and teachers' decision-making in natural classroom WCF research"
 description: "The article recommends that future WCF research emphasize students' agentic engagement — described as \"students' reciprocal, constructive, and proactive actions to put forward their writing progress\" — and study teach..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

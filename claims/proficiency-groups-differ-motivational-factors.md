@@ -3,7 +3,7 @@ type: claim
 title: Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety
 description: Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety
 id: proficiency-groups-differ-motivational-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

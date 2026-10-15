@@ -3,7 +3,7 @@ type: claim
 title: Nearly all respondents said inadequate school time and opportunities for collaboration made cross-sector collaboration more difficult
 description: Nearly all respondents said inadequate school time and opportunities for collaboration made cross-sector collaboration more difficult
 id: inadequate-time-and-opportunities-hinder-collaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

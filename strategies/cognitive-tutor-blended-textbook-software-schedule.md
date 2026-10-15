@@ -3,7 +3,7 @@ type: strategy
 id: cognitive-tutor-blended-textbook-software-schedule
 title: Blended Cognitive Tutor® implementation alternating collaborative textbook periods with adaptive software lab periods
 description: "The curriculum's blended implementation splits weekly instruction between collaborative classroom work and individualized software work: \"three periods per week are spent using the textbook for classroom activities\" a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Passage cohesion showed no effect on delayed recall; means showed greater recall from less cohesive passages
 description: Passage cohesion showed no effect on delayed recall; means showed greater recall from less cohesive passages
 id: cohesion-no-effect-delayed-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

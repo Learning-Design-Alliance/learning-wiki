@@ -3,7 +3,7 @@ type: strategy
 id: mindful-moment-class-opening-strategy
 title: Begin class with a mindful moment to settle students’ minds and bodies in preparation for learning
 description: A deliberate pause at the start of class helps students settle their minds and bodies before learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

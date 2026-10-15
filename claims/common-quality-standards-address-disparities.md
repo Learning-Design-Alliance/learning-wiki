@@ -3,7 +3,7 @@ type: claim
 title: Setting common quality standards for all preschool classes helps address disparities in program quality requirements across the mixed delivery system
 description: Setting common quality standards for all preschool classes helps address disparities in program quality requirements across the mixed delivery system
 id: common-quality-standards-address-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

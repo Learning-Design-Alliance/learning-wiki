@@ -3,7 +3,7 @@ type: claim
 title: No significant differences emerged between GPT-3.5 Turbo and Claude 3 Opus on affective, collaborative, or performance measures
 description: No significant differences emerged between GPT-3.5 Turbo and Claude 3 Opus on affective, collaborative, or performance measures
 id: no-difference-gpt35-turbo-claude3-opus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

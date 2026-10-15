@@ -3,7 +3,7 @@ type: strategy
 id: select-self-management-configurations-from-review-evidence
 title: Select self-management configurations based on review evidence for specific intervention approaches
 description: "The review's stated purpose includes understanding \"the effectiveness of specific, commonly utilized intervention approaches\", and the authors state that \"Implications for selecting self-management configurations, as..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

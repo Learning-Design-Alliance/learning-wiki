@@ -3,7 +3,7 @@ type: strategy
 id: pattern-aware-prompting-topological-completeness
 title: Ground LLM prompts in retrieved structural patterns rather than node labels or keyword matching
 description: Pattern-aware prompt construction is a prompting strategy in which the LLM receives the partially recognized input graph together with the retrieved structural template, so reasoning focuses on abstract topology rathe...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

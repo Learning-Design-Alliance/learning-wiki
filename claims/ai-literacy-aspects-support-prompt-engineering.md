@@ -3,7 +3,7 @@ type: claim
 title: Certain aspects of AI literacy play a role in higher-quality prompt engineering by non-expert students
 description: Certain aspects of AI literacy play a role in higher-quality prompt engineering by non-expert students
 id: ai-literacy-aspects-support-prompt-engineering
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

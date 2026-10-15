@@ -3,7 +3,7 @@ type: claim
 title: Students evolved from passive users of GenAI to critical evaluators, developing strategies for bias detection and source validation
 description: Students evolved from passive users of GenAI to critical evaluators, developing strategies for bias detection and source validation
 id: students-passive-users-to-critical-evaluators-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

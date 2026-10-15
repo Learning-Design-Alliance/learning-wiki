@@ -3,7 +3,7 @@ type: claim
 title: "PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws"
 description: "PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws"
 id: pbl-evidence-base-equivocal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

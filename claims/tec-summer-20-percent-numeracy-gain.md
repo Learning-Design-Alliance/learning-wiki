@@ -3,7 +3,7 @@ type: claim
 title: "Students in the TEC Summer Learning Program showed a 20% pre-to-post gain in numeracy skills"
 description: "Students in the TEC Summer Learning Program showed a 20% pre-to-post gain in numeracy skills"
 id: tec-summer-20-percent-numeracy-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

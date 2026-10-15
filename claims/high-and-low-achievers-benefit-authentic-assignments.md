@@ -3,7 +3,7 @@ type: claim
 title: Both high- and low-prior-achieving students benefited from high-quality assignments, with math favoring low achievers and reading favoring high achievers
 description: Both high- and low-prior-achieving students benefited from high-quality assignments, with math favoring low achievers and reading favoring high achievers
 id: high-and-low-achievers-benefit-authentic-assignments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

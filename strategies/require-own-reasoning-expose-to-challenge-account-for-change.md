@@ -3,7 +3,7 @@ type: strategy
 id: require-own-reasoning-expose-to-challenge-account-for-change
 title: Require students to arrive with their own reasoning, expose it to AI challenge, and account for what changed
 description: "A design recommendation from the article's discussion: merely asking students to use AI critically is insufficient instructional design."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

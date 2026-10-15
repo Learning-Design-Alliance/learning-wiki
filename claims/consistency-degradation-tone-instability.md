@@ -3,7 +3,7 @@ type: claim
 title: Consistency degrades under multi-strategy evaluation for all personas, driven mainly by tone instability rather than logical contradiction
 description: Consistency degrades under multi-strategy evaluation for all personas, driven mainly by tone instability rather than logical contradiction
 id: consistency-degradation-tone-instability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: pilot-test-leader-evaluation-instrument-properties
 title: Evaluate a leadership-evaluation instrument on four measurement properties before high-stakes use
 description: "The study's approach was to examine a leader-evaluation tool across four measurement properties—\"score variation, internal consistency, score stability, and concurrent validity\"—during a multiyear pilot before full im..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

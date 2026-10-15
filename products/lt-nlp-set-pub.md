@@ -4,7 +4,7 @@ id: lt-nlp-set-pub
 title: LT_NLP_SET_pub
 description: A GitHub repository maintained by the review authors containing the code, study lists, prompts, codebooks, frozen response bases, and adjudication materials needed to audit and reconstruct the SET-NLP evidence map.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

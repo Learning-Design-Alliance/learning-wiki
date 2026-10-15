@@ -3,7 +3,7 @@ type: strategy
 id: elm-two-full-day-professional-development-strategy
 title: Provide teachers a full day of training before starting ELM and a second full day before the second half of the program
 description: "Because ELM is an explicit scripted core math program, the review recommends staged professional development: \"teachers receive a minimum of a full day of training prior to starting the program with an additional full..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: fraction-face-off-tutor-training-strategy
 title: Train tutors with an initial week plus twice-weekly hour-long follow-ups supported by structured manuals
 description: "The program's implementation strategy pairs structured manuals with sustained training: tutors \"receive a week of initial training, followed by two hour-long follow-ups each week.\" Tutoring is provided through AIR via..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

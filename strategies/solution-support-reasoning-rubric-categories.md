@@ -3,7 +3,7 @@ type: strategy
 id: solution-support-reasoning-rubric-categories
 title: Adapt science-inquiry rubric categories from claim-evidence-reasoning to solution-support-reasoning for engineering activities
 description: The authors recommend modifying the evaluation rubric when moving from science inquiry to engineering inquiry.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

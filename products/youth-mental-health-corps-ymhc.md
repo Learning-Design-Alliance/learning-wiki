@@ -4,7 +4,7 @@ id: youth-mental-health-corps-ymhc
 title: Youth Mental Health Corps (YMHC)
 description: Youth Mental Health Corps is a programme in which young adults provide supervised, relationship-centered mental-health navigation to school students while receiving training, credentials, and career preparation for behavioral-health work.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

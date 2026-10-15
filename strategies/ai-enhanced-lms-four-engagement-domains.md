@@ -3,7 +3,7 @@ type: strategy
 id: ai-enhanced-lms-four-engagement-domains
 title: Design AI-enhanced learning management systems that explicitly target engagement across cognitive, emotional, behavioral, and social domains
 description: "The review proposes its synthesis as a design foundation: \"this work offers a foundation for future AI-enhanced learning management systems designed primarily to enhance learner engagement across cognitive, emotional,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

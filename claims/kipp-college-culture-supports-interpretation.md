@@ -3,7 +3,7 @@ type: claim
 title: The authors interpret the combined middle-and-high-school college gains as possibly driven by college preparatory culture and college-related supports at KIPP high schools
 description: The authors interpret the combined middle-and-high-school college gains as possibly driven by college preparatory culture and college-related supports at KIPP high schools
 id: kipp-college-culture-supports-interpretation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: expand-freshman-success-to-non-core-courses
 title: Include non-core subject teachers in Freshman Success work and consider expanding the Freshman OnTrack metric to count non-core failures
 description: The report recommends extending freshman success strategies, which have focused on core courses, to all subjects.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

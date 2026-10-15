@@ -3,7 +3,7 @@ type: claim
 title: In a single-institution study, the joint system of Turnitin detection plus faculty judgement formally reported only 54.5 per cent of AI-generated submissions
 description: In a single-institution study, the joint system of Turnitin detection plus faculty judgement formally reported only 54.5 per cent of AI-generated submissions
 id: turnitin-joint-system-54-5-percent-reporting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

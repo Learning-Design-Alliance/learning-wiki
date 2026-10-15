@@ -3,7 +3,7 @@ type: strategy
 id: discipline-specific-genai-examples-strategy
 title: Share discipline-specific GenAI examples aligned with instructional needs to improve teacher adoption
 description: "The article recommends that instructional designers support GenAI adoption by providing concrete, discipline-relevant illustrations of GenAI use that match teachers' instructional needs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

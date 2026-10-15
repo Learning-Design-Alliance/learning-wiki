@@ -3,7 +3,7 @@ type: design
 id: multi-phase-leadership-academy-structure
 title: "Multi-phase professional learning structure: summer institute, school-year follow-ups, annual reunions, and pre-program needs assessment"
 description: "The Academy's design runs \"for three and a half days in August, followed by three additional full-day follow-up sessions later in the school year, plus annual two-day follow-up seminars (\"reunions\") for prior Academy..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

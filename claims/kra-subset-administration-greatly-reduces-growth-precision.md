@@ -3,7 +3,7 @@ type: claim
 title: "Administering the Kindergarten Readiness Assessment to a subset of students per classroom greatly reduces precision of schools' K-3 growth estimates"
 description: "Administering the Kindergarten Readiness Assessment to a subset of students per classroom greatly reduces precision of schools' K-3 growth estimates"
 id: kra-subset-administration-greatly-reduces-growth-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

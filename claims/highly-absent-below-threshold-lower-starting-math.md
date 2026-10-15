@@ -3,7 +3,7 @@ type: claim
 title: "Students highly absent (5-9.9% of days) in the prior year, below the chronic threshold, start the next year .14 to .22 SDs lower in mathematics than no-absence peers"
 description: "Students highly absent (5-9.9% of days) in the prior year, below the chronic threshold, start the next year .14 to .22 SDs lower in mathematics than no-absence peers"
 id: highly-absent-below-threshold-lower-starting-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

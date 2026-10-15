@@ -3,7 +3,7 @@ type: claim
 title: Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically
 description: Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically
 id: distributed-epistemic-agency-machine-authority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

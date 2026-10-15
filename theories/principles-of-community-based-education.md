@@ -3,7 +3,7 @@ type: theory
 id: principles-of-community-based-education
 title: Nine principles of community-based education grounded in democratic participation
 description: "The paper enumerates nine principles of community-based education drawn from various writers: self-determination, self-help, leadership development, localization, integrated delivery of services, reduced duplication o..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

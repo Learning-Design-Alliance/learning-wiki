@@ -3,7 +3,7 @@ type: claim
 title: Scaling model size improves performance within K-5 and at the boundary but does not recover Beyond-K-5 performance
 description: Scaling model size improves performance within K-5 and at the boundary but does not recover Beyond-K-5 performance
 id: scaling-helps-in-scope-not-beyond-k5
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

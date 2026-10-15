@@ -3,7 +3,7 @@ type: strategy
 id: use-creact-discussions-in-classroom
 title: "Use CREACT discussions in classroom environments to develop students' creative performance"
 description: "The authors recommend that \"discussions with CREACT can be conducted\" in classroom environments to help develop students' creative performance and creative thinking, and it \"is recommended to teachers and/or trainers..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

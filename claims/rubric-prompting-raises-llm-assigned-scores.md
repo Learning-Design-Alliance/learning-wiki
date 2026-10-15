@@ -3,7 +3,7 @@ type: claim
 title: Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels
 description: Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels
 id: rubric-prompting-raises-llm-assigned-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

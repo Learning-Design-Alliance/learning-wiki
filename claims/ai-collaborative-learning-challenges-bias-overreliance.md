@@ -3,7 +3,7 @@ type: claim
 title: Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs
 description: Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs
 id: ai-collaborative-learning-challenges-bias-overreliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

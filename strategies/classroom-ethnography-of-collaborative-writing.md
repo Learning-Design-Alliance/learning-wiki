@@ -3,7 +3,7 @@ type: strategy
 id: classroom-ethnography-of-collaborative-writing
 title: Classroom ethnography of social change in collaborative writing classrooms
 description: The paper closes with open problems and research opportunities for collaborative writing teachers.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

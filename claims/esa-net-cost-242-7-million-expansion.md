@@ -3,7 +3,7 @@ type: claim
 title: The estimated net cost of the Universal ESA expansion is $242.7 million in 2022–23, rising to $295.2 million in 2023–24
 description: The estimated net cost of the Universal ESA expansion is $242.7 million in 2022–23, rising to $295.2 million in 2023–24
 id: esa-net-cost-242-7-million-expansion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

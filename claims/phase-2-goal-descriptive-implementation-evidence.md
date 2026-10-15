@@ -3,7 +3,7 @@ type: claim
 title: "Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community"
 description: "Phase 2 of the M&E Checklist aims to develop descriptive evidence that a refined solution was successfully implemented in the priority community"
 id: phase-2-goal-descriptive-implementation-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

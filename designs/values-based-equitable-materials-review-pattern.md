@@ -3,7 +3,7 @@ type: design
 id: values-based-equitable-materials-review-pattern
 title: State instructional materials review designed around statewide core values of equity, access, inclusivity, community, and transparency
 description: "The refined Nevada process organizes materials adoption around the SEA strategic plan's core values — \"equity, access to quality, success, inclusivity, community, and transparency\" — and defines high-quality curricula..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

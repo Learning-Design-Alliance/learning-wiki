@@ -3,7 +3,7 @@ type: strategy
 id: design-contestable-ai-provenance-plurality
 title: "Design AI learning systems for inspectable, contestable use: provenance, represented uncertainty, user control and epistemic plurality"
 description: "The review's design implications prescribe that systems support \"claim-level provenance where feasible, distinguish retrieved evidence from model-generated synthesis, and make source limitations visible\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

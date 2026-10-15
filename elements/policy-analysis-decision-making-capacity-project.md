@@ -3,7 +3,7 @@ type: element
 id: policy-analysis-decision-making-capacity-project
 title: Policy Analysis and Decision-Making Capacity project (Phases 1-3)
 description: A project funded by the Office of Science and Data Policy within ASPE at the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

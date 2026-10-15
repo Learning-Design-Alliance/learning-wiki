@@ -3,7 +3,7 @@ type: claim
 title: "Meta-analysis beyond education found human-AI integration performed worse than the better performer alone in 58% of studies"
 description: "Meta-analysis beyond education found human-AI integration performed worse than the better performer alone in 58% of studies"
 id: human-ai-integration-underperforms-better-alone-58-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

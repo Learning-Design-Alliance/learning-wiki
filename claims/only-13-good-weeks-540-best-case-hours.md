@@ -3,7 +3,7 @@ type: claim
 title: Only 13 of 40 school weeks are reliably focused on grade-level curriculum, and best-case students receive about 540 annual instruction hours
 description: Only 13 of 40 school weeks are reliably focused on grade-level curriculum, and best-case students receive about 540 annual instruction hours
 id: only-13-good-weeks-540-best-case-hours
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

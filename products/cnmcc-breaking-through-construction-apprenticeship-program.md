@@ -4,7 +4,7 @@ id: cnmcc-breaking-through-construction-apprenticeship-program
 title: CNMCC Breaking Through Construction Apprenticeship Program
 description: A construction-apprenticeship program that integrates accelerated basic-skills instruction with streamlined curriculum, flexible delivery, industry links, alignment, and intensive support services, run by CNMCC.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

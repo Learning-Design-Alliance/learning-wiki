@@ -3,7 +3,7 @@ type: claim
 title: "A convergence screen excluding non-converged (item, parameter) pairs removed 1.9% of pairs from the benchmark comparison"
 description: "A convergence screen excluding non-converged (item, parameter) pairs removed 1.9% of pairs from the benchmark comparison"
 id: convergence-screen-removed-1-9-percent-pairs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: seven-courseware-integration-recommendations
 title: Seven recommendations for effective courseware integration by instructors
 description: "Based on findings from high-performing classes, the report offers seven recommendations: explore the courseware's instructional tools, redesign activities to leverage courseware data, interweave peer learning, make co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

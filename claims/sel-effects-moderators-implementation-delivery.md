@@ -3,7 +3,7 @@ type: claim
 title: "Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent"
 description: "Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent"
 id: sel-effects-moderators-implementation-delivery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

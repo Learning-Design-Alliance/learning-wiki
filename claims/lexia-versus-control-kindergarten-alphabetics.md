@@ -3,7 +3,7 @@ type: claim
 title: Lexia Early Reading outperforms no supplemental instruction on kindergarten alphabetics outcomes in Gale (2006), significant by author but not WWC calculations
 description: Lexia Early Reading outperforms no supplemental instruction on kindergarten alphabetics outcomes in Gale (2006), significant by author but not WWC calculations
 id: lexia-versus-control-kindergarten-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

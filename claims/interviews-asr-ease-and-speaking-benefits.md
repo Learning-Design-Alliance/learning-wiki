@@ -3,7 +3,7 @@ type: claim
 title: Interviews reveal ESL learners valued ASR for bypassing orthography and grammar concerns, pronunciation practice, self-efficacy, and user-friendly voice commands
 description: Interviews reveal ESL learners valued ASR for bypassing orthography and grammar concerns, pronunciation practice, self-efficacy, and user-friendly voice commands
 id: interviews-asr-ease-and-speaking-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

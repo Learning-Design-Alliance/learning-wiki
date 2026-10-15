@@ -4,7 +4,7 @@ id: four-cornerstones-of-a-fair-and-effective-school-funding-system-adequacy-equ
 title: "Four cornerstones of a fair and effective school funding system: adequacy, equity, transparency, and responsibility"
 description: An EdBuild-developed framework, summarized by The Education Trust–Midwest, for evaluating and reforming state school-funding systems through adequacy, equity, transparency, and responsibility.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

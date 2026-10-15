@@ -3,7 +3,7 @@ type: claim
 title: Studies are underway to examine the learning benefits of pedagogical partnership in information studies curricula
 description: Studies are underway to examine the learning benefits of pedagogical partnership in information studies curricula
 id: studies-underway-learning-benefits-pedagogical-partnership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

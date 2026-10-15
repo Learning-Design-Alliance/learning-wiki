@@ -3,7 +3,7 @@ type: claim
 title: "Most questionnaire respondents (96.88%) reported that GBSRI activities improved their writing, and collaborative activities were the most preferred"
 description: "Most questionnaire respondents (96.88%) reported that GBSRI activities improved their writing, and collaborative activities were the most preferred"
 id: gbsri-respondents-reported-writing-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

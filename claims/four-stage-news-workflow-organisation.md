@@ -3,7 +3,7 @@ type: claim
 title: "The taxonomy organises LLM-supported journalistic tasks into four stages: newsgathering, sensemaking, editing, and publication/distribution"
 description: "The taxonomy organises LLM-supported journalistic tasks into four stages: newsgathering, sensemaking, editing, and publication/distribution"
 id: four-stage-news-workflow-organisation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

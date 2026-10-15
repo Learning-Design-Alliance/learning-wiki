@@ -3,7 +3,7 @@ type: claim
 title: Security cameras show no evidence of improving school safety, and evidence does not support expanding metal detector use
 description: Security cameras show no evidence of improving school safety, and evidence does not support expanding metal detector use
 id: security-cameras-and-metal-detectors-lack-safety-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: develop-concepts-before-vocabulary-preteaching
 title: Develop mathematical concepts and working definitions before teaching formal terms, replacing vocabulary preteaching
 description: The brief recommends that teachers stop frontloading vocabulary and instead let students develop working definitions within meaningful tasks before learning succinct formal terms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

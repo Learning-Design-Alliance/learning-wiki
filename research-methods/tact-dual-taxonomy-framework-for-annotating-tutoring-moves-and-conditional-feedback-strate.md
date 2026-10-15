@@ -3,7 +3,7 @@ type: research-method
 id: tact-dual-taxonomy-framework-for-annotating-tutoring-moves-and-conditional-feedback-strate
 title: TACT dual-taxonomy framework for annotating tutoring moves and conditional feedback strategies
 description: TACT organizes ESL tutoring as a pedagogical decision space connecting learner-state annotation, tutor-strategy selection, and next-turn response generation.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

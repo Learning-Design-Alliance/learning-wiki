@@ -3,7 +3,7 @@ type: claim
 title: Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance
 description: Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance
 id: no-treatment-moderators-eb-pretest-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

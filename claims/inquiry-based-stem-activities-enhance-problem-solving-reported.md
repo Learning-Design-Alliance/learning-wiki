@@ -3,7 +3,7 @@ type: claim
 title: "The review reports, citing Karamustafaoğlu and Pektaş (2023), that inquiry-based STEM activities significantly enhance students' problem-solving skills and STEM awareness"
 description: "The review reports, citing Karamustafaoğlu and Pektaş (2023), that inquiry-based STEM activities significantly enhance students' problem-solving skills and STEM awareness"
 id: inquiry-based-stem-activities-enhance-problem-solving-reported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

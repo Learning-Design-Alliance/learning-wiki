@@ -3,7 +3,7 @@ type: claim
 title: "Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit"
 description: "Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit"
 id: practice-condition-no-effect-financial-metacognition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

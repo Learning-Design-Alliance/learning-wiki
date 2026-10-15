@@ -3,7 +3,7 @@ type: claim
 title: Non-cognitive-behavioral counseling, social work, and other therapeutic interventions show consistently negative effects, whereas self-control or social competency promotion instruction using cognitive-behavioral and behavioral instructional methods shows consistently positive effects
 description: Non-cognitive-behavioral counseling, social work, and other therapeutic interventions show consistently negative effects, whereas self-control or social competency promotion instruction using cognitive-behavioral and...
 id: cognitive-behavioral-prevention-positive-therapeutic-negative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

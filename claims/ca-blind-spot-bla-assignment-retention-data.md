@@ -3,7 +3,7 @@ type: claim
 title: California lacks public data linking bilingual credential attainment to classroom assignments, creating a statewide blind spot on return on investment
 description: California lacks public data linking bilingual credential attainment to classroom assignments, creating a statewide blind spot on return on investment
 id: ca-blind-spot-bla-assignment-retention-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

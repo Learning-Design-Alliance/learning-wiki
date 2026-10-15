@@ -4,7 +4,7 @@ id: day2day-environment-multimodal-longitudinal-dataset
 title: Day2Day Environment multimodal longitudinal dataset
 description: A longitudinal dataset created by Falkenstein Kim et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

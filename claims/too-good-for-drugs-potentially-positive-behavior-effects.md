@@ -3,7 +3,7 @@ type: claim
 title: Too Good for Drugs has potentially positive effects on student behavior, with a WWC-computed domain average effect size of 0.25 that is not statistically significant
 description: Too Good for Drugs has potentially positive effects on student behavior, with a WWC-computed domain average effect size of 0.25 that is not statistically significant
 id: too-good-for-drugs-potentially-positive-behavior-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

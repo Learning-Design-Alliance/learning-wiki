@@ -3,7 +3,7 @@ type: claim
 title: The educational value of GAI is contingent on pedagogical integration, not on the technology itself
 description: The educational value of GAI is contingent on pedagogical integration, not on the technology itself
 id: gai-value-contingent-on-pedagogical-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

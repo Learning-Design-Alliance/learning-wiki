@@ -3,7 +3,7 @@ type: claim
 title: An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits
 description: An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits
 id: llm-handles-natural-language-circuit-prompts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

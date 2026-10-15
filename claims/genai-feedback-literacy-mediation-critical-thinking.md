@@ -3,7 +3,7 @@ type: claim
 title: GenAI feedback literacy mediates the association between GenAI use and critical thinking, with near-complete mediation
 description: GenAI feedback literacy mediates the association between GenAI use and critical thinking, with near-complete mediation
 id: genai-feedback-literacy-mediation-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

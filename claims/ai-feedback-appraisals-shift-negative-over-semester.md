@@ -3,7 +3,7 @@ type: claim
 title: "Student appraisals became more critical over the semester, with actionable-support themes falling from 67% to 43%"
 description: "Student appraisals became more critical over the semester, with actionable-support themes falling from 67% to 43%"
 id: ai-feedback-appraisals-shift-negative-over-semester
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

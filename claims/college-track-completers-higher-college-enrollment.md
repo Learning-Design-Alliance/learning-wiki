@@ -3,7 +3,7 @@ type: claim
 title: College Track completers enrolled in college at higher rates than similar students, and were much more likely to enroll in four-year colleges
 description: College Track completers enrolled in college at higher rates than similar students, and were much more likely to enroll in four-year colleges
 id: college-track-completers-higher-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: 2025-map-growth-achievement-and-growth-norms
 title: 2025 MAP Growth Achievement and Growth Norms
 description: A NWEA release of national achievement and growth norms, percentiles, and norms tables for MAP Growth assessments across U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

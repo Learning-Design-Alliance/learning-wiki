@@ -3,7 +3,7 @@ type: claim
 title: In the Python-based CS1 course at UofT, GATs produced no significant overall or topic-specific immediate performance effects
 description: In the Python-based CS1 course at UofT, GATs produced no significant overall or topic-specific immediate performance effects
 id: gats-no-immediate-performance-effect-uoft
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

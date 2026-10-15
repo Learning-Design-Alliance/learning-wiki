@@ -3,7 +3,7 @@ type: claim
 title: Oklahoma educators received value-added results in spring 2016 based on instruction provided in the 2014–2015 school year
 description: Oklahoma educators received value-added results in spring 2016 based on instruction provided in the 2014–2015 school year
 id: oklahoma-tle-value-added-results-spring-2016
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

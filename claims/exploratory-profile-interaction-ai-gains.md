@@ -3,7 +3,7 @@ type: claim
 title: Exploratory, non-significant pattern suggests students with stronger learner profiles may show larger AI-assisted exam gains
 description: Exploratory, non-significant pattern suggests students with stronger learner profiles may show larger AI-assisted exam gains
 id: exploratory-profile-interaction-ai-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Nearly nine in ten students ranked a personalized video as their top choice
 description: Nearly nine in ten students ranked a personalized video as their top choice
 id: personalized-video-top-choice-88-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

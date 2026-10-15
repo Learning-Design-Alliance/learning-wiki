@@ -3,7 +3,7 @@ type: claim
 title: Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit
 description: Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit
 id: top-students-unnoticed-college-planning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

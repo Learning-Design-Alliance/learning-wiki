@@ -2,7 +2,7 @@
 type: theory
 title: TPACK framework as a foundation for teacher technology-integration knowledge
 description: "TPACK is presented as \"an influential foundation theory for teaching with technology integration research\", evolved from Shulman's PCK model by Mishra and Koehler (2006)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

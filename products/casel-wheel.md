@@ -4,7 +4,7 @@ id: casel-wheel
 title: CASEL Wheel
 description: A framework developed by CASEL that organizes five interrelated social and emotional learning competencies across classrooms, schools, families and caregivers, and communities.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

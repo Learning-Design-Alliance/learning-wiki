@@ -3,7 +3,7 @@ type: claim
 title: At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance
 description: At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance
 id: motivation-anxiety-correlate-with-programming-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

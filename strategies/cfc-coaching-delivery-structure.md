@@ -3,7 +3,7 @@ type: strategy
 id: cfc-coaching-delivery-structure
 title: Combine in-class demonstrations, weekly grade-level meetings, and monthly individual coaching visits for all teachers
 description: "CFC's delivery model combines three recurring coaching activities: district coaches provide in-class demonstrations, weekly grade-level meetings, and individual monthly visits to all teachers each month for co-teachin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

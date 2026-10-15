@@ -3,7 +3,7 @@ type: strategy
 id: interrogate-parent-involvement-for-equity
 title: Interrogate parent involvement constructs through a genealogical lens to advance equity
 description: "The article's approach implies that educators and researchers should critically examine taken-for-granted ideas about parent involvement and the home/school relation before designing involvement policies or practices."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

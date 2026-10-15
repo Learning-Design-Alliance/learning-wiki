@@ -3,7 +3,7 @@ type: strategy
 id: human-in-the-loop-teacher-validation-workflow
 title: "Human-in-the-loop validation workflow: hold all AI-generated teaching content in unreviewed status until a teacher manually approves it"
 description: "The strategy places teachers as essential validators in the content pipeline: AI-generated materials and quizzes are created automatically but held in unreviewed status, and teachers use a built-in Markdown editor to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

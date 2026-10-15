@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

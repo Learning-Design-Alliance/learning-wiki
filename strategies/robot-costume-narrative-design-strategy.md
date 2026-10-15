@@ -3,7 +3,7 @@ type: strategy
 id: robot-costume-narrative-design-strategy
 title: Invite students to design costumes and narratives for their robots as legitimate epistemic engagement
 description: "The authors made an intentional design choice to have students customize robot exteriors and craft meaningful stories, which \"positioned aesthetic, narrative, and expressive forms of engagement as legitimate alongside..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

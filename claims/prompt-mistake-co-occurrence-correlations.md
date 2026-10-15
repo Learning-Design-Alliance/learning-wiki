@@ -3,7 +3,7 @@ type: claim
 title: "Missing prompt-element types significantly co-occur: failure to provide appropriate functionality explanation correlates strongly with missing expected output/return and with extraneous elements"
 description: "Missing prompt-element types significantly co-occur: failure to provide appropriate functionality explanation correlates strongly with missing expected output/return and with extraneous elements"
 id: prompt-mistake-co-occurrence-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Metaphoric competence is proposed to be central to all aspects of language use, including grammatical and sociolinguistic competence
 description: Metaphoric competence is proposed to be central to all aspects of language use, including grammatical and sociolinguistic competence
 id: metaphoric-competence-central-to-language-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

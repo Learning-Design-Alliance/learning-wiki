@@ -3,7 +3,7 @@ type: claim
 title: Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills
 description: Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills
 id: pog-assessment-validity-reliability-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

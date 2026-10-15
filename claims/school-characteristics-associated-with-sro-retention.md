@@ -3,7 +3,7 @@ type: claim
 title: High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students
 description: High schools that retained SROs had higher suspension rates, were smaller, and served more socioeconomically disadvantaged students
 id: school-characteristics-associated-with-sro-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

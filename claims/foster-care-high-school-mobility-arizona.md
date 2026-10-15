@@ -3,7 +3,7 @@ type: claim
 title: Arizona students in foster care changed schools during the school year at about four times the rate of other students
 description: Arizona students in foster care changed schools during the school year at about four times the rate of other students
 id: foster-care-high-school-mobility-arizona
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

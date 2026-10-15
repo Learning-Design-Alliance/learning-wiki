@@ -3,7 +3,7 @@ type: claim
 title: The CLIP text-image alignment score failed to capture fine-tuning improvements, contradicting KID, CMMD, and human judgment
 description: The CLIP text-image alignment score failed to capture fine-tuning improvements, contradicting KID, CMMD, and human judgment
 id: clip-score-fails-to-capture-fine-tuning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

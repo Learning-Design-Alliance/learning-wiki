@@ -4,7 +4,7 @@ id: gbsri
 title: GBSRI
 description: GBSRI is a genre-based, self-regulated writing-instruction framework developed by the article’s authors for EFL writing instruction.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

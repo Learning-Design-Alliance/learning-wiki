@@ -3,7 +3,7 @@ type: claim
 title: "Many teachers' knowledge of students' GC and CoV increased in sophistication over the school year, and teachers reported the professional learning and just-in-time supports were helpful"
 description: "Many teachers' knowledge of students' GC and CoV increased in sophistication over the school year, and teachers reported the professional learning and just-in-time supports were helpful"
 id: teacher-knowledge-and-pl-supports-grew
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

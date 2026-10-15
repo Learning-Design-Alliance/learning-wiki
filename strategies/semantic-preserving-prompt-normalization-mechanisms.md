@@ -3,7 +3,7 @@ type: strategy
 id: semantic-preserving-prompt-normalization-mechanisms
 title: Normalize prompts via domain-consistent terminology substitution and clinical narrative restructuring that add no new information
 description: Qualitative analysis of PET rewrites identifies two concrete normalization mechanisms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

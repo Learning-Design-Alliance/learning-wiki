@@ -3,7 +3,7 @@ type: claim
 title: "Discrimination parameter recovery is weak (Pearson 0.31 for Qwen3.5-9B, below MathBERT's 0.35), with slope information partially lost through ability discretization"
 description: "Discrimination parameter recovery is weak (Pearson 0.31 for Qwen3.5-9B, below MathBERT's 0.35), with slope information partially lost through ability discretization"
 id: weak-discrimination-parameter-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

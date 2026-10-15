@@ -3,7 +3,7 @@ type: strategy
 id: pair-demand-with-support-when-raising-rigor
 title: Pair increased academic demand with increased teacher support when raising instructional rigor
 description: "The article argues that raising academic demand alone can backfire: students with a history of low achievement \"may become disengaged and stop trying when academic rigor increases without simultaneous eﬀorts to help t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

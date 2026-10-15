@@ -3,7 +3,7 @@ type: claim
 title: "School poverty (%FRL) accounts for about 50% of a school's median student achievement"
 description: "School poverty (%FRL) accounts for about 50% of a school's median student achievement"
 id: frl-accounts-for-half-of-school-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

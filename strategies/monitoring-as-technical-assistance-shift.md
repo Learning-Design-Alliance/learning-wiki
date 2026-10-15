@@ -3,7 +3,7 @@ type: strategy
 id: monitoring-as-technical-assistance-shift
 title: Shift state monitoring from compliance enforcement to technical assistance built on trust
 description: State leaders reported revamping monitoring processes by redirecting resources toward targeted technical assistance and support for evidence-based practices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning
 description: Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning
 id: failure-driven-scaffolding-higher-quality-constructive-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

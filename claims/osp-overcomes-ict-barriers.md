@@ -3,7 +3,7 @@ type: claim
 title: The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education
 description: The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education
 id: osp-overcomes-ict-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

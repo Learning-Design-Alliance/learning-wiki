@@ -3,7 +3,7 @@ type: claim
 title: School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year
 description: School closures severed longstanding social connections, producing grief and us-vs-them dynamics, with increased student fights and bullying especially in the first transition year
 id: closures-severed-connections-grief-us-them-dynamics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

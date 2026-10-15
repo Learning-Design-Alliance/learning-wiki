@@ -3,7 +3,7 @@ type: research-method
 id: simulation-based-framework-for-evaluating-learner-task-selection-strategies-and-system-con
 title: Simulation-based framework for evaluating learner task-selection strategies and system constraints in mastery-based ITS
 description: "A simulation framework that models mastery learning as a repeated problem-level decision cycle in which simulated learners select skills via predefined strategies, the system selects problems, performance is generated via AFM, and mastery is updated via BKT with a 95% mastery threshold."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

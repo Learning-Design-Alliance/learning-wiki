@@ -3,7 +3,7 @@ type: claim
 title: Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance
 description: Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance
 id: engagement-benefits-satisfaction-motivation-isolation-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

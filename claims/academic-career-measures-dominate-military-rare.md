@@ -3,7 +3,7 @@ type: claim
 title: "Postsecondary readiness indicators emphasize academic measures (98% of plans) and career measures (83%) far more than military measures (27%)"
 description: "Postsecondary readiness indicators emphasize academic measures (98% of plans) and career measures (83%) far more than military measures (27%)"
 id: academic-career-measures-dominate-military-rare
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

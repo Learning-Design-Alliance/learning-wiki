@@ -4,7 +4,7 @@ id: motibo
 title: MotiBo
 description: MotiBo is an interactive digital storytelling system designed by Fung et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

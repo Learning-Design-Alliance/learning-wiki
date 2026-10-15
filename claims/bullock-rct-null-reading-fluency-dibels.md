@@ -3,7 +3,7 @@ type: claim
 title: Bullock (2005) RCT found no statistically significant Accelerated Reader effects on reading fluency (DIBELS Oral Reading Fluency)
 description: Bullock (2005) RCT found no statistically significant Accelerated Reader effects on reading fluency (DIBELS Oral Reading Fluency)
 id: bullock-rct-null-reading-fluency-dibels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

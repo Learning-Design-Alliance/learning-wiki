@@ -3,7 +3,7 @@ type: claim
 title: Students in PBL experimental groups reported positive views of problem-based learning in qualitative follow-up interviews
 description: Students in PBL experimental groups reported positive views of problem-based learning in qualitative follow-up interviews
 id: pbl-students-positive-views-interviews
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

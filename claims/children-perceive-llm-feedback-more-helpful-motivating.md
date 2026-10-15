@@ -3,7 +3,7 @@ type: claim
 title: Children perceive LLM-generated adaptive feedback as more helpful and more motivating than generic guidance
 description: Children perceive LLM-generated adaptive feedback as more helpful and more motivating than generic guidance
 id: children-perceive-llm-feedback-more-helpful-motivating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

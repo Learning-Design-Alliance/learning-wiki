@@ -3,7 +3,7 @@ type: claim
 title: The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60
 description: The chatbot often provided more scaffold types than requested, and supplying classified question scope to the chatbot raised scaffold precision above .60
 id: chatbot-over-helping-scaffold-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

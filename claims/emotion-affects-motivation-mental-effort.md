@@ -3,7 +3,7 @@ type: claim
 title: Emotion affects motivation, which in turn affects mental effort investment during learning
 description: Emotion affects motivation, which in turn affects mental effort investment during learning
 id: emotion-affects-motivation-mental-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

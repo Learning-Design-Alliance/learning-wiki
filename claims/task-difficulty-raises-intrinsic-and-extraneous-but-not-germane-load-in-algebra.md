@@ -3,7 +3,7 @@ type: claim
 title: Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load
 description: Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load
 id: task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

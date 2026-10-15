@@ -3,7 +3,7 @@ type: claim
 title: "Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge"
 description: "Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge"
 id: worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

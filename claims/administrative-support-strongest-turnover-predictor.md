@@ -3,7 +3,7 @@ type: claim
 title: Teachers who strongly disagree that their administration is supportive are more than twice as likely to leave as those who strongly agree
 description: Teachers who strongly disagree that their administration is supportive are more than twice as likely to leave as those who strongly agree
 id: administrative-support-strongest-turnover-predictor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

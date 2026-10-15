@@ -3,7 +3,7 @@ type: research-method
 id: amova-accumulative-manifold-validation-analysis
 title: AMOVA (Accumulative Manifold Validation Analysis)
 description: AMOVA (Accumulative Manifold Validation Analysis) is a specialized statistical methodology for testing the internal and external validity of uniquely designed psychometric instruments.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

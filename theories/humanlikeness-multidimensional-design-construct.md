@@ -2,7 +2,7 @@
 type: theory
 title: Humanlikeness as a multidimensional design construct extending beyond physical appearance
 description: "The article argues humanlikeness should be defined broadly, extending beyond outward physical appearance: \"Humanlikeness may vary along multiple dimensions, including the number, salience, and specificity of features;..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

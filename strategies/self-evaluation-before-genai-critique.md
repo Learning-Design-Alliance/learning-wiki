@@ -3,7 +3,7 @@ type: strategy
 id: self-evaluation-before-genai-critique
 title: Require a rubric-aligned self-evaluation before students receive GenAI critique
 description: "A concrete sequencing strategy: students first evaluate their own draft against explicit criteria, then receive AI-generated critique."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

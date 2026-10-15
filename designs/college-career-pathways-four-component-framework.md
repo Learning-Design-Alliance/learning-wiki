@@ -3,7 +3,7 @@ type: design
 id: college-career-pathways-four-component-framework
 title: College and career pathways framework integrating CTE, core academics, work-based learning, and personalized supports
 description: "The report proposes a comprehensive high school redesign framework in which pathways \"integrate CTE and core academic curriculum, combine classroom and work-based learning, and align secondary and postsecondary progra..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

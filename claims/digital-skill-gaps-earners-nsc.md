@@ -3,7 +3,7 @@ type: claim
 title: Digital skill gaps are large and racialized among U.S. earners, and digital skill level correlates with earnings
 description: Digital skill gaps are large and racialized among U.S.
 id: digital-skill-gaps-earners-nsc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

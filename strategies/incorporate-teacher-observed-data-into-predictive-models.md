@@ -3,7 +3,7 @@ type: strategy
 id: incorporate-teacher-observed-data-into-predictive-models
 title: Incorporate teacher-observed data on behaviors, attitudes, and aspirations into predictive models
 description: "The article points to teachers as a source of information that statistical models usually miss, calling them \"a veritable treasure trove of data on student behaviors, attitudes, and aspirations.\" The strategy is to dr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

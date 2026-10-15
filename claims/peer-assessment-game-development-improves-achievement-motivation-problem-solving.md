@@ -3,7 +3,7 @@ type: claim
 title: "A peer assessment-based game development approach promotes elementary students' learning achievement, learning motivation and problem-solving skills more than conventional game development"
 description: "A peer assessment-based game development approach promotes elementary students' learning achievement, learning motivation and problem-solving skills more than conventional game development"
 id: peer-assessment-game-development-improves-achievement-motivation-problem-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

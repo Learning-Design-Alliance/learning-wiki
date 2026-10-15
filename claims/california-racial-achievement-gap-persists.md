@@ -3,7 +3,7 @@ type: claim
 title: Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students
 description: Racial achievement gaps persist among California middle and high school students, with Asian and White students reporting higher academic achievement than African American, American Indian, and Hispanic students
 id: california-racial-achievement-gap-persists
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

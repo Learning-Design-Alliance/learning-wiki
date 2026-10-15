@@ -3,7 +3,7 @@ type: claim
 title: "The AI-IVE-PBL model's learning-outcome advantages are attributed to fostering sustained idea-developing discourse (SIDD)"
 description: "The AI-IVE-PBL model's learning-outcome advantages are attributed to fostering sustained idea-developing discourse (SIDD)"
 id: sidd-mechanism-for-ai-ive-pbl-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

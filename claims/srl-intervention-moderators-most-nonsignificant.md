@@ -3,7 +3,7 @@ type: claim
 title: Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes
 description: Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes
 id: srl-intervention-moderators-most-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

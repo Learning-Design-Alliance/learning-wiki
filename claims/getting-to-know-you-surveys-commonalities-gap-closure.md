@@ -3,7 +3,7 @@ type: claim
 title: "Getting-to-know-you surveys that surface student-teacher commonalities improved relationships and grades, and closed achievement gaps for Black and Latinx students by more than 60% in one study"
 description: "Getting-to-know-you surveys that surface student-teacher commonalities improved relationships and grades, and closed achievement gaps for Black and Latinx students by more than 60% in one study"
 id: getting-to-know-you-surveys-commonalities-gap-closure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

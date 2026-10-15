@@ -2,7 +2,7 @@
 type: theory
 title: "Vygotsky's distinction between lower and higher mental functions"
 description: "The article enumerates Vygotsky's first central concept as a distinction between two kinds of cognitive processes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

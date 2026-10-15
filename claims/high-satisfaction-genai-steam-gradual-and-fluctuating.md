@@ -3,7 +3,7 @@ type: claim
 title: Students reported high satisfaction with GenAI in STEAM learning, following gradual-improvement and fluctuation patterns
 description: Students reported high satisfaction with GenAI in STEAM learning, following gradual-improvement and fluctuation patterns
 id: high-satisfaction-genai-steam-gradual-and-fluctuating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

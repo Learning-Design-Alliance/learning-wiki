@@ -3,7 +3,7 @@ type: claim
 title: "A classroom-based physical activity program (Energizers) increases children's daily in-school physical activity compared with no program"
 description: "A classroom-based physical activity program (Energizers) increases children's daily in-school physical activity compared with no program"
 id: energizers-increased-in-school-steps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

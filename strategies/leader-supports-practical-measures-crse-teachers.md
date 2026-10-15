@@ -3,7 +3,7 @@ type: strategy
 id: leader-supports-practical-measures-crse-teachers
 title: Leader supports for teachers using practical measures to advance CRSE
 description: "The brief specifies supports school and district leaders should provide: advocating for and modeling \"flexibility in policies related to assessment,\" targeted professional development and guidance on using practical m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies
 description: Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies
 id: teacher-modeling-internalizes-reading-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

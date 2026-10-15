@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT's biggest predicted disruption is its effect on knowledge work productivity, chiefly by providing a competent first draft"
 description: "ChatGPT's biggest predicted disruption is its effect on knowledge work productivity, chiefly by providing a competent first draft"
 id: chatgpt-first-draft-productivity-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

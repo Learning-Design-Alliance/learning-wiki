@@ -3,7 +3,7 @@ type: claim
 title: Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students
 description: Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students
 id: undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

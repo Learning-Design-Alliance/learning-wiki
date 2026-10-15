@@ -3,7 +3,7 @@ type: claim
 title: "Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition"
 description: "Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition"
 id: three-ct-profiles-preservice-teachers-lpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

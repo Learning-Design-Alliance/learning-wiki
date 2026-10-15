@@ -3,7 +3,7 @@ type: claim
 title: School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions
 description: School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions
 id: school-officials-use-aggregate-scores-for-monitoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

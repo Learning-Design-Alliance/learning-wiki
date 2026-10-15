@@ -2,7 +2,7 @@
 type: theory
 title: Six organizational conditions of early childhood education programs as higher-level essentials constructs
 description: "The framework organizes ECE program quality around \"six organizational conditions of early childhood education programs.\" Rasch item response theory modeling creates scales, and \"theory and exploratory factor analyses..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

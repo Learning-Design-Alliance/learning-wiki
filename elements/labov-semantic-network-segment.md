@@ -3,7 +3,7 @@ type: element
 id: labov-semantic-network-segment
 title: "Semantic network: content words connected by lines as the starting point of the production model"
 description: "The semantic network is the first of Labov's five segments of linguistic description."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

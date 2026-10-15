@@ -3,7 +3,7 @@ type: theory
 title: Language Acquisition Theory
 description: Competing accounts of how children acquire language — behaviorist/learning-theory, nativist, and social-interactionist — converge on the view that acquisition depends on both an innate biological readiness and rich environmental interaction, with neither alone being sufficient.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

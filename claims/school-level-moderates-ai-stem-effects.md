@@ -3,7 +3,7 @@ type: claim
 title: "School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten"
 description: "School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten"
 id: school-level-moderates-ai-stem-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

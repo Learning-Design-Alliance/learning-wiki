@@ -3,7 +3,7 @@ type: claim
 title: For Grade 4 students, the human teacher elicited significantly more utterances than the AI peer in every 4F reflection category, most pronouncedly for Future-oriented talk
 description: For Grade 4 students, the human teacher elicited significantly more utterances than the AI peer in every 4F reflection category, most pronouncedly for Future-oriented talk
 id: grade4-teacher-superior-all-4f-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

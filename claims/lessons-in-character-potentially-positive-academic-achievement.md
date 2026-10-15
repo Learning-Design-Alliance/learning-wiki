@@ -3,7 +3,7 @@ type: claim
 title: Lessons in Character has potentially positive effects on academic achievement, with statistically significant effects on mathematics grades and attendance in one randomized controlled trial
 description: Lessons in Character has potentially positive effects on academic achievement, with statistically significant effects on mathematics grades and attendance in one randomized controlled trial
 id: lessons-in-character-potentially-positive-academic-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

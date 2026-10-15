@@ -3,7 +3,7 @@ type: strategy
 id: distributional-reporting-standards-ai-evaluations
 title: Report distributional quantities alongside average effects when evaluating AI learning resources
 description: "The article proposes that evaluations of AI learning resources report, alongside any average effect, three distributional quantities: \"the change in the share of students below the grade boundaries that matter for pro..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

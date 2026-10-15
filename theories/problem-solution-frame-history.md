@@ -2,7 +2,7 @@
 type: theory
 title: Problem/Solution frame as a variation of the Goal frame for history text
 description: "The Problem/Solution frame arises from a variation of the Goal frame: the Problem is an event, condition, or series of events or conditions resulting in a state that is an obstacle to the attainment of the Goal."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

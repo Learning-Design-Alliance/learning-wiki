@@ -3,7 +3,7 @@ type: claim
 title: "In a 24-participant three-modality user study, learners' workflows and engagement with fundamental mechanics problems varied across instructional modalities"
 description: "In a 24-participant three-modality user study, learners' workflows and engagement with fundamental mechanics problems varied across instructional modalities"
 id: workflows-vary-across-mr-et-tc-modalities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

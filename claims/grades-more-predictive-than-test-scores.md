@@ -3,7 +3,7 @@ type: claim
 title: Course grades are more predictive than standardized test scores of high school and college success
 description: Course grades are more predictive than standardized test scores of high school and college success
 id: grades-more-predictive-than-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

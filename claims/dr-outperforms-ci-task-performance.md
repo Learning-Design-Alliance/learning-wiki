@@ -3,7 +3,7 @@ type: claim
 title: The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance
 description: The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance
 id: dr-outperforms-ci-task-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

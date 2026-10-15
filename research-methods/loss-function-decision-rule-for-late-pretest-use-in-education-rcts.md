@@ -3,7 +3,7 @@ type: research-method
 id: loss-function-decision-rule-for-late-pretest-use-in-education-rcts
 title: Loss-function decision rule for late pretest use in education RCTs
 description: Education RCTs often use pretest-posttest designs because including pretests improves the precision of estimated treatment effects.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment
 description: Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment
 id: chatgpt-hints-significant-gains-versus-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

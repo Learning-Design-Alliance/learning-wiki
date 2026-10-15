@@ -3,7 +3,7 @@ type: claim
 title: Poor indoor air quality harms student health and can hinder academic success directly or indirectly
 description: Poor indoor air quality harms student health and can hinder academic success directly or indirectly
 id: poor-iaq-harms-student-health-and-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

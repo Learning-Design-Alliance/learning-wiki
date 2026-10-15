@@ -3,7 +3,7 @@ type: claim
 title: "A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students"
 description: "A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students"
 id: racial-school-climate-gap-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

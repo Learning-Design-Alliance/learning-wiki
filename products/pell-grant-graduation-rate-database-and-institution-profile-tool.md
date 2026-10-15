@@ -4,7 +4,7 @@ id: pell-grant-graduation-rate-database-and-institution-profile-tool
 title: Pell Grant Graduation Rate Database and Institution Profile tool
 description: A publicly accessible database and profile tool created and maintained by The Education Trust that reports Pell and non-Pell graduation rates, enrollment shares, costs, and related institutional information for prospective students and policymakers.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: claim
 title: Interdisciplinary humanities units improve students' interdisciplinary competences
 id: interdisciplinary-humanities-units-improve-interdisciplinary-competences
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

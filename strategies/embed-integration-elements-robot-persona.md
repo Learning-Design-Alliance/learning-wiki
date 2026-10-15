@@ -3,7 +3,7 @@ type: strategy
 id: embed-integration-elements-robot-persona
 title: "Embed integration elements in the robot's persona and background so multicultural inclusion is addressed within regular activities"
 description: "The authors intrinsically added integration elements to the robot's personality and background rather than running separate inclusion activities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

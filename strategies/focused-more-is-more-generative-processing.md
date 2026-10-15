@@ -3,7 +3,7 @@ type: strategy
 id: focused-more-is-more-generative-processing
 title: Consider a focused more is more approach combining minimized extraneous processing with prompts for generative processing
 description: Because the less is more approach of applying signaling, contiguity, and coherence principles did not improve learning, the authors suggest that benefits of increasing processing in a useful way (generative processing...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

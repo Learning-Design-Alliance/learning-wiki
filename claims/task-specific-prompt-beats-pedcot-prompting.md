@@ -3,7 +3,7 @@ type: claim
 title: "A task-specific prompt with explicit guidance about correct-answer cases significantly outperforms literature-based PedCoT prompting on TM test cases (84% vs 59% accuracy)"
 description: "A task-specific prompt with explicit guidance about correct-answer cases significantly outperforms literature-based PedCoT prompting on TM test cases (84% vs 59% accuracy)"
 id: task-specific-prompt-beats-pedcot-prompting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

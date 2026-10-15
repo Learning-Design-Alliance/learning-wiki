@@ -3,7 +3,7 @@ type: strategy
 id: getting-started-steps-integrated-systems-of-care
 title: Five getting-started steps for building an integrated, school-based system of care
 description: "The guide prescribes five steps for LEAs beginning whole child work: examine the current system via needs assessment and asset mapping; identify a leadership team with key partners; identify long-term transformational..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

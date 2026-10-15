@@ -4,7 +4,7 @@ id: academic-parent-teacher-teams-aptt
 title: Academic Parent-Teacher Teams (APTT)
 description: Academic Parent-Teacher Teams (APTT) is a structured family-engagement programme, developed for implementation by schools and districts, in which teachers convene parents, share assessment data, and support learning activities at home.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

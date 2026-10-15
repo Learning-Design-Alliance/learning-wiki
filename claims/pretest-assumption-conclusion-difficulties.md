@@ -3,7 +3,7 @@ type: claim
 title: Before the intervention, most students could not write assumptions and conclusions, and only one student achieved the maximum pre-test score
 description: Before the intervention, most students could not write assumptions and conclusions, and only one student achieved the maximum pre-test score
 id: pretest-assumption-conclusion-difficulties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

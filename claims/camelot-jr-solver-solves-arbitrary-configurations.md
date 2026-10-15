@@ -3,7 +3,7 @@ type: claim
 title: "The hybrid qualitative-COM solver solves arbitrary Camelot Jr. configuration challenges within the game's problem space"
 description: The hybrid qualitative-COM solver solves arbitrary Camelot Jr.
 id: camelot-jr-solver-solves-arbitrary-configurations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

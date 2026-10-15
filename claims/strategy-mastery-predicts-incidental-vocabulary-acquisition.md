@@ -3,7 +3,7 @@ type: claim
 title: Mastery of incidental vocabulary learning strategies positively predicts L2 incidental vocabulary acquisition through reading
 description: Mastery of incidental vocabulary learning strategies positively predicts L2 incidental vocabulary acquisition through reading
 id: strategy-mastery-predicts-incidental-vocabulary-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

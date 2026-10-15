@@ -3,7 +3,7 @@ type: claim
 title: AI chatbots support skills development in writing, problem-solving, and group discussion facilitation
 description: AI chatbots support skills development in writing, problem-solving, and group discussion facilitation
 id: chatbot-skills-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

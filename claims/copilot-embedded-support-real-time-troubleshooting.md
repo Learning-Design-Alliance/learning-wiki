@@ -3,7 +3,7 @@ type: claim
 title: Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow
 description: Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow
 id: copilot-embedded-support-real-time-troubleshooting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

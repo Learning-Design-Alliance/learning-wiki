@@ -3,7 +3,7 @@ type: claim
 title: "Engagement profiles significantly moderated GATs' immediate performance effects: low- and high-engagement profiles benefited while the mid-engagement profile showed a small decrement"
 description: "Engagement profiles significantly moderated GATs' immediate performance effects: low- and high-engagement profiles benefited while the mid-engagement profile showed a small decrement"
 id: engagement-profiles-moderate-gat-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

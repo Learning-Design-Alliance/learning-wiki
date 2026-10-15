@@ -3,7 +3,7 @@ type: claim
 title: Newer LLM generations do not consistently agree better with human essay graders
 description: Newer LLM generations do not consistently agree better with human essay graders
 id: no-consistent-generational-improvement-llm-grading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

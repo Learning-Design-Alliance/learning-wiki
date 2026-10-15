@@ -3,7 +3,7 @@ type: claim
 title: AI dependency is positively associated with learning burnout among university students
 description: AI dependency is positively associated with learning burnout among university students
 id: ai-dependency-positively-associated-learning-burnout
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

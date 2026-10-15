@@ -3,7 +3,7 @@ type: claim
 title: A FACTRIA-aware chatbot increases the number of biasing sub-factors stakeholders consider when interpreting institutional analytics visualizations
 description: A FACTRIA-aware chatbot increases the number of biasing sub-factors stakeholders consider when interpreting institutional analytics visualizations
 id: factria-chatbot-increases-subfactors-considered
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

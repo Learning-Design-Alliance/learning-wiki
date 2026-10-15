@@ -3,7 +3,7 @@ type: claim
 title: Multi-session game conditions outperform nongame conditions while single-session games do not, though total play duration shows no association with effect size
 description: Multi-session game conditions outperform nongame conditions while single-session games do not, though total play duration shows no association with effect size
 id: multiple-sessions-benefit-single-session-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

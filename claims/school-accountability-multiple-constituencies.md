@@ -3,7 +3,7 @@ type: claim
 title: "Schooling's mix of public and private purposes requires accountability to multiple constituencies"
 description: "Schooling's mix of public and private purposes requires accountability to multiple constituencies"
 id: school-accountability-multiple-constituencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

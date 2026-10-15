@@ -3,7 +3,7 @@ type: claim
 title: Ten developmental experiences are proposed as key mechanisms whereby settings influence character development
 description: Ten developmental experiences are proposed as key mechanisms whereby settings influence character development
 id: ten-developmental-experiences-build-character
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

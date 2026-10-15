@@ -3,7 +3,7 @@ type: claim
 title: Access to 8th-grade Algebra remains highly inequitable across the United States
 description: Access to 8th-grade Algebra remains highly inequitable across the United States
 id: 8th-grade-algebra-access-inequitable-nationwide
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

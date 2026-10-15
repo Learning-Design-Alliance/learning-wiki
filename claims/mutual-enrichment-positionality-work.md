@@ -3,7 +3,7 @@ type: claim
 title: "The authors report that teachers' lives are enriched by students' deeper understanding of their own stories and openness to authentic stories of others"
 description: "The authors report that teachers' lives are enriched by students' deeper understanding of their own stories and openness to authentic stories of others"
 id: mutual-enrichment-positionality-work
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Power should be conceptualized as diffuse and structural, and as people's capacity to act under constraint"
 description: "Power should be conceptualized as diffuse and structural, and as people's capacity to act under constraint"
 id: power-as-structural-and-capacity-to-act
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

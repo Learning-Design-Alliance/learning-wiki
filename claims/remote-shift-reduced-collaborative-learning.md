@@ -3,7 +3,7 @@ type: claim
 title: Collaborative learning opportunities largely disappeared when courses shifted to remote instruction
 description: Collaborative learning opportunities largely disappeared when courses shifted to remote instruction
 id: remote-shift-reduced-collaborative-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

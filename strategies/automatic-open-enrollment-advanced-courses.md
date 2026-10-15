@@ -3,7 +3,7 @@ type: strategy
 id: automatic-open-enrollment-advanced-courses
 title: Adopt automatic enrollment and open enrollment policies for advanced courses to expand equitable access
 description: The brief recommends that states and districts adopt policies whereby students identified for advanced coursework through multiple measures are automatically enrolled unless their families opt them out, and adopt open...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

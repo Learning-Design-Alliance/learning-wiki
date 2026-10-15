@@ -3,7 +3,7 @@ type: claim
 title: Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments
 description: Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments
 id: bilingual-preschoolers-lowest-microstructure-interactions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: The GenAI-RTS is supported by a five-factor structure in which Strategic reliance comprises Deliberate Use and Critical Evaluation facets alongside Instrumental, Dependent, and Dialogic factors
 description: The GenAI-RTS is supported by a five-factor structure in which Strategic reliance comprises Deliberate Use and Critical Evaluation facets alongside Instrumental, Dependent, and Dialogic factors
 id: genai-rts-five-factor-structure-supported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

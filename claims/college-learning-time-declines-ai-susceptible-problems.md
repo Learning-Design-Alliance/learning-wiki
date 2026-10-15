@@ -3,7 +3,7 @@ type: claim
 title: "College students' learning time on AI-susceptible word problems declines 2.80% per quarter relative to graph-based problems after ChatGPT's release, cumulating to 26.9% over eleven quarters"
 description: "College students' learning time on AI-susceptible word problems declines 2.80% per quarter relative to graph-based problems after ChatGPT's release, cumulating to 26.9% over eleven quarters"
 id: college-learning-time-declines-ai-susceptible-problems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

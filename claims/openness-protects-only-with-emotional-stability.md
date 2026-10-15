@@ -3,7 +3,7 @@ type: claim
 title: Openness protects against well-being decline only when emotional stability is average or high
 description: Openness protects against well-being decline only when emotional stability is average or high
 id: openness-protects-only-with-emotional-stability
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

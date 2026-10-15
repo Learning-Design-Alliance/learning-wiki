@@ -3,7 +3,7 @@ type: claim
 title: Admission to a charter middle school does not affect college enrollment, per a lottery-based study of 31 charter middle schools
 description: Admission to a charter middle school does not affect college enrollment, per a lottery-based study of 31 charter middle schools
 id: charter-middle-admission-no-effect-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

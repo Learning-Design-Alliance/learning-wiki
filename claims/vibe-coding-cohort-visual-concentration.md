@@ -3,7 +3,7 @@ type: claim
 title: Vibe-coded websites built for 73 distinct businesses converge into roughly a dozen recurring visual designs despite an explicit originality incentive
 description: Vibe-coded websites built for 73 distinct businesses converge into roughly a dozen recurring visual designs despite an explicit originality incentive
 id: vibe-coding-cohort-visual-concentration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

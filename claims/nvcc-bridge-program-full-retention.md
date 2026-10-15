@@ -3,7 +3,7 @@ type: claim
 title: In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates
 description: In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates
 id: nvcc-bridge-program-full-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

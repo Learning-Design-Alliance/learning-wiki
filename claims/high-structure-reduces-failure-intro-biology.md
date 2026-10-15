@@ -3,7 +3,7 @@ type: claim
 title: High course structure significantly reduces failure rates in introductory biology independent of student ability, while moderate structure has a marginal effect
 description: High course structure significantly reduces failure rates in introductory biology independent of student ability, while moderate structure has a marginal effect
 id: high-structure-reduces-failure-intro-biology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

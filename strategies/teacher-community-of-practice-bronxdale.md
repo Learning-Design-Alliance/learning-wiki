@@ -3,7 +3,7 @@ type: strategy
 id: teacher-community-of-practice-bronxdale
 title: Teacher professional learning structured as an ongoing community of practice with trust, collaboration, and inquiry
 description: "The report describes Bronxdale's professional learning as a community of practice in which faculty \"come together regularly in different configurations to learn—much in the way that students learn, through inquiry, co..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: SDP workflow compliance shows the largest gain under the zero-paper constraint (d = 3.50, Δ = +1.83)
 description: SDP workflow compliance shows the largest gain under the zero-paper constraint (d = 3.50, Δ = +1.83)
 id: sdp-workflow-compliance-largest-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: design
 id: off-job-on-job-module-blend
 title: Blended off-the-job and on-the-job module structure for supervisor training
 description: The package organises learning as six free-standing modules sequenced so learning integrates with the workplace.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

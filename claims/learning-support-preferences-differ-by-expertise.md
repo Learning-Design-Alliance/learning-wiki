@@ -3,7 +3,7 @@ type: claim
 title: "The most effective forms of learning support differed by user expertise: beginners preferred at-a-glance visual cues while advanced users preferred the analysis console."
 description: "The most effective forms of learning support differed by user expertise: beginners preferred at-a-glance visual cues while advanced users preferred the analysis console."
 id: learning-support-preferences-differ-by-expertise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

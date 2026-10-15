@@ -3,7 +3,7 @@ type: claim
 title: Deliberate practice research is largely correlational with large unexplained variability in accumulated practice hours
 description: Deliberate practice research is largely correlational with large unexplained variability in accumulated practice hours
 id: deliberate-practice-correlational-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

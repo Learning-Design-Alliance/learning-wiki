@@ -3,7 +3,7 @@ type: claim
 title: Behavioural analytics alone cannot distinguish the cognitive origins of identical learner errors
 description: Behavioural analytics alone cannot distinguish the cognitive origins of identical learner errors
 id: behaviour-alone-insufficient-cognitive-origins
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

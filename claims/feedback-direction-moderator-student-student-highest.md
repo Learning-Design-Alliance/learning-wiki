@@ -3,7 +3,7 @@ type: claim
 title: "Feedback direction moderates effects: student-to-student feedback is most effective (d = 0.85), teacher-to-student d = 0.47, student-to-teacher d = 0.35"
 description: "Feedback direction moderates effects: student-to-student feedback is most effective (d = 0.85), teacher-to-student d = 0.47, student-to-teacher d = 0.35"
 id: feedback-direction-moderator-student-student-highest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

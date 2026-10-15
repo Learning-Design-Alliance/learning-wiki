@@ -3,7 +3,7 @@ type: claim
 title: "Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop"
 description: "Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop"
 id: penny-revision-and-chat-loops
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Rapid-guessing behavior varies by item and is significantly related to item length, item position, and presence of ancillary reading material
 description: Rapid-guessing behavior varies by item and is significantly related to item length, item position, and presence of ancillary reading material
 id: rapid-guessing-item-length-position-ancillary-material
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

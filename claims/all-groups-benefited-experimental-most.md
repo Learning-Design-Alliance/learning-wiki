@@ -3,7 +3,7 @@ type: claim
 title: All three groups benefited from the instructional intervention, with both experimental groups benefiting the most
 description: All three groups benefited from the instructional intervention, with both experimental groups benefiting the most
 id: all-groups-benefited-experimental-most
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

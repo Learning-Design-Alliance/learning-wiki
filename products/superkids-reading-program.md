@@ -4,7 +4,7 @@ id: superkids-reading-program
 title: Superkids Reading Program
 description: The Superkids Reading Program is a K–2 beginning-reading curriculum developed and provided by the Rowland Reading Foundation, covering phonemic awareness, phonics, vocabulary, comprehension, writing, and spelling.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

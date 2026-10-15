@@ -3,7 +3,7 @@ type: claim
 title: Feedback source does not significantly affect revised essay quality once initial draft quality is controlled
 description: Feedback source does not significantly affect revised essay quality once initial draft quality is controlled
 id: feedback-source-no-effect-on-revision-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Because learning theories are not operationalized into system structures, pedagogical use of digital resources is delegated to teachers' judgment at the moment of use"
 description: "Because learning theories are not operationalized into system structures, pedagogical use of digital resources is delegated to teachers' judgment at the moment of use"
 id: pedagogical-use-delegated-to-teacher-judgment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

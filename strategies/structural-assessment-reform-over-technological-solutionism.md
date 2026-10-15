@@ -3,7 +3,7 @@ type: strategy
 id: structural-assessment-reform-over-technological-solutionism
 title: Disrupt the performative assessment cycle through structural assessment reform rather than technological solutionism
 description: "The article argues that humanizer services are a diagnostic signal of a feedback loop in which assessment demands, student behavior, and commercial services are mutually implicated, and that \"disrupting this cycle mus..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

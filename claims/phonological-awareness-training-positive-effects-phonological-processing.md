@@ -3,7 +3,7 @@ type: claim
 title: Phonological Awareness Training has positive effects on phonological processing in preschool children, averaging +27 percentile points
 description: Phonological Awareness Training has positive effects on phonological processing in preschool children, averaging +27 percentile points
 id: phonological-awareness-training-positive-effects-phonological-processing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

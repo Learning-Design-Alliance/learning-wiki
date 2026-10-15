@@ -3,7 +3,7 @@ type: design
 id: tier1-tier2-reading-time-allocation-pattern
 title: "Tiered reading delivery pattern: 90 minutes whole-group core plus 30 minutes small-group Tier 2 for all struggling readers"
 description: "The studied program used a tiered time structure: \"all students, experimental and control, received 90 minutes of core reading instruction and 30 minutes of Tier 2 (supplemental) instruction.\" Core instruction is whol..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

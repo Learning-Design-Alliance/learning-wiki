@@ -3,7 +3,7 @@ type: claim
 title: Providing peer feedback can be more beneficial than receiving it because it is more cognitively engaging
 description: Providing peer feedback can be more beneficial than receiving it because it is more cognitively engaging
 id: providing-peer-feedback-more-cognitively-engaging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

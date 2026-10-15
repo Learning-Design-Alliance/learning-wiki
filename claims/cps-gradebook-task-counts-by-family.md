@@ -3,7 +3,7 @@ type: claim
 title: CPS ninth-grade math category families typically contained many tasks per semester—about 11 in assessments and 28 in assignments—except weekly categories, which typically contained only four tasks
 description: CPS ninth-grade math category families typically contained many tasks per semester—about 11 in assessments and 28 in assignments—except weekly categories, which typically contained only four tasks
 id: cps-gradebook-task-counts-by-family
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

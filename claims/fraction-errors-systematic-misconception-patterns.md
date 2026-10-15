@@ -3,7 +3,7 @@ type: claim
 title: Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error
 description: Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error
 id: fraction-errors-systematic-misconception-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

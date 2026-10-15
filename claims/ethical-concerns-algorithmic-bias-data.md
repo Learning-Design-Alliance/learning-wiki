@@ -3,7 +3,7 @@ type: claim
 title: Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data
 description: Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data
 id: ethical-concerns-algorithmic-bias-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

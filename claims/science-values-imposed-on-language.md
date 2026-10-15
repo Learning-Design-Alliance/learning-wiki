@@ -3,7 +3,7 @@ type: claim
 title: Scientists have imposed their values of precision, objectivity, and control on language, including attempts to build machines that use and create language as humans do
 description: Scientists have imposed their values of precision, objectivity, and control on language, including attempts to build machines that use and create language as humans do
 id: science-values-imposed-on-language
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

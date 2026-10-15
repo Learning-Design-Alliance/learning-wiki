@@ -2,7 +2,7 @@
 type: theory
 title: Multisite randomized trials as a design for estimating both average effects and cross-site variation
 description: "The article presents multisite randomized controlled trials, in which \"individuals are randomly assigned to alternative treatment arms within sites\", as a design that can estimate both the cross-site average effect of..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

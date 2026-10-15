@@ -3,7 +3,7 @@ type: strategy
 id: standards-profiles-targeted-support-strategy
 title: Use standards-based learner profiles to deliver targeted support and curriculum-level interventions in professional degree programs
 description: The article recommends that program coordinators use the identified standards-based profiles to tailor support rather than merely audit learners, and to trigger curriculum-level responses.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

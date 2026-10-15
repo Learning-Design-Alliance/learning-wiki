@@ -3,7 +3,7 @@ type: claim
 title: Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations
 description: Adult learners expect AI to enhance relevance through real-time goal monitoring, goal breakdown, career companionship, and networking recommendations
 id: ai-enhances-learning-relevance-goal-career
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

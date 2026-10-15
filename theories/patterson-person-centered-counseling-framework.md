@@ -2,7 +2,7 @@
 type: theory
 title: Person-centered (client-centered) counseling and psychotherapy as Patterson articulated it
 description: "The article presents person-centered counseling and psychotherapy as the framework Patterson championed, derived from Carl Rogers' philosophy."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

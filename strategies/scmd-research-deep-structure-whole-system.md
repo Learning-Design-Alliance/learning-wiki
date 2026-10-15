@@ -3,7 +3,7 @@ type: strategy
 id: scmd-research-deep-structure-whole-system
 title: Future SCMD research should move from surface units and isolated elements to the deep structure of the whole activity system
 description: "The article recommends that educational research on SCMD shift in two ways: from surface-level unit identification in transcripts to the deep structure of activity, and from isolated elements to the interconnected sys..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

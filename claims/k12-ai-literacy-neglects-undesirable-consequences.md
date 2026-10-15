@@ -3,7 +3,7 @@ type: claim
 title: Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality
 description: Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality
 id: k12-ai-literacy-neglects-undesirable-consequences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

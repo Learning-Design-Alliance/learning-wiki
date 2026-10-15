@@ -3,7 +3,7 @@ type: claim
 title: Students express concerns about GenAI, with non-users (never/rarely) significantly more concerned than other users, and concerns uncorrelated with knowledge
 description: Students express concerns about GenAI, with non-users (never/rarely) significantly more concerned than other users, and concerns uncorrelated with knowledge
 id: genai-concerns-nonusers-differ
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

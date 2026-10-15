@@ -3,7 +3,7 @@ type: claim
 title: Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding
 description: Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding
 id: students-perceive-chatgpt-valuable-learning-tool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

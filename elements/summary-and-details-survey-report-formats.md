@@ -3,7 +3,7 @@ type: element
 id: summary-and-details-survey-report-formats
 title: Summary and details report formats for school survey results
 description: The Consortium produces two report formats from the survey.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

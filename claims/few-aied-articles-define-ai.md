@@ -3,7 +3,7 @@ type: claim
 title: Only five of 146 AIEd articles provide an explicit definition of artificial intelligence
 description: Only five of 146 AIEd articles provide an explicit definition of artificial intelligence
 id: few-aied-articles-define-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

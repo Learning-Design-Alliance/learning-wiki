@@ -3,7 +3,7 @@ type: claim
 title: The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items
 description: The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items
 id: rba-item-bank-covers-14-los
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

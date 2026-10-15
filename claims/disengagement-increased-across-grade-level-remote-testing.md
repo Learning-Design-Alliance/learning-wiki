@@ -3,7 +3,7 @@ type: claim
 title: Student disengagement on an adaptive interim assessment gradually increased across grade level
 description: Student disengagement on an adaptive interim assessment gradually increased across grade level
 id: disengagement-increased-across-grade-level-remote-testing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: annenberg-assignment-collection-scoring-system
 title: Chicago Annenberg classroom assignment collection and scoring system
 description: Teachers in grades three, six, and eight submitted typical and challenging writing and mathematics assignments; teacher raters scored them against rubrics for construction of knowledge, written communication, and conn...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

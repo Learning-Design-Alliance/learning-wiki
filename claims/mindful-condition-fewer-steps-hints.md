@@ -3,7 +3,7 @@ type: claim
 title: Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students
 description: Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students
 id: mindful-condition-fewer-steps-hints
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

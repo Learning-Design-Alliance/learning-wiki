@@ -3,7 +3,7 @@ type: strategy
 id: rigorous-dual-enrollment-college-algebra-strategy
 title: Enroll college-ready high school students in rigorous dual enrollment college algebra classes to support college entry and completion
 description: The article presents dual enrollment in a rigorous college algebra class as a route from high school into postsecondary success.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

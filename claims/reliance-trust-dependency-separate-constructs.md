@@ -3,7 +3,7 @@ type: claim
 title: Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals
 description: Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals
 id: reliance-trust-dependency-separate-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

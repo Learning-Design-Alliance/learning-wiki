@@ -3,7 +3,7 @@ type: claim
 title: Learners in fully online courses reported positive perceived usefulness and perceived ease of use of both a goal-setting chatbot and a learning buddy chatbot
 description: Learners in fully online courses reported positive perceived usefulness and perceived ease of use of both a goal-setting chatbot and a learning buddy chatbot
 id: chatbots-positive-usefulness-ease-of-use-online
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

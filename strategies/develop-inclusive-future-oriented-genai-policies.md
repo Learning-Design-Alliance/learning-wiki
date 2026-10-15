@@ -3,7 +3,7 @@ type: strategy
 id: develop-inclusive-future-oriented-genai-policies
 title: Higher education leaders should develop more inclusive and future-oriented GenAI policies integrating social equity, interdisciplinary experimentation, and sustainability considerations
 description: The article recommends that higher education leadership move beyond widely embraced ethical and governance principles to address the components their sampled policies neglected.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

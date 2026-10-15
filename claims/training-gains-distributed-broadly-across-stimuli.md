@@ -3,7 +3,7 @@ type: claim
 title: Training gains were distributed broadly across the 97 stimulus images rather than concentrated in a small subset, though stimulus-level effects were heterogeneous
 description: Training gains were distributed broadly across the 97 stimulus images rather than concentrated in a small subset, though stimulus-level effects were heterogeneous
 id: training-gains-distributed-broadly-across-stimuli
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

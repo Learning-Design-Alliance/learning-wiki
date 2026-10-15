@@ -3,7 +3,7 @@ type: strategy
 id: certifying-entity-housing-and-sustainability-structures
 title: House the certifying entity within structures and policies that promote alignment, buy-in, and sustained funding
 description: The report recommends couching certification within larger systems of structures and policies that promote coherence and sustainability.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

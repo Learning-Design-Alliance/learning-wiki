@@ -3,7 +3,7 @@ type: claim
 title: A mixed-methods study addresses groupthink in newly formed student teams by introducing a genAI agent into small-group processes of a VIPE problem-based learning session
 description: A mixed-methods study addresses groupthink in newly formed student teams by introducing a genAI agent into small-group processes of a VIPE problem-based learning session
 id: genai-agent-vipe-small-groups-counters-groupthink
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

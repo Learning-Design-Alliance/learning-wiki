@@ -3,7 +3,7 @@ type: design
 id: supplemental-small-group-daily-reading-instruction-ell
 title: Supplemental small-group daily reading instruction pattern for struggling first-grade English learners
 description: The intervention pattern evaluated in both trials is daily supplemental reading instruction delivered in small groups of three to five students with homogeneous reading achievement, in a pull-out setting, as an additi...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

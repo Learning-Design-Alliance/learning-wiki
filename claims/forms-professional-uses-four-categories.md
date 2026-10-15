@@ -3,7 +3,7 @@ type: claim
 title: "Teachers used Forms for professional purposes: parent communication, professional learning, efficiency, and administrative tasks"
 description: "Teachers used Forms for professional purposes: parent communication, professional learning, efficiency, and administrative tasks"
 id: forms-professional-uses-four-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

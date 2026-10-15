@@ -3,7 +3,7 @@ type: claim
 title: "The greedy cycle-break algorithm functions as a safety mechanism: none of the five evaluation topics required prerequisite-edge removal"
 description: "The greedy cycle-break algorithm functions as a safety mechanism: none of the five evaluation topics required prerequisite-edge removal"
 id: cycle-break-safety-mechanism-concept-graphs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

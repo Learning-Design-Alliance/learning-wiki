@@ -3,7 +3,7 @@ type: claim
 title: "Students rated peers' work from their own country 3.6% higher than work from elsewhere"
 description: "Students rated peers' work from their own country 3.6% higher than work from elsewhere"
 id: in-group-favoritism-peer-grading-country
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

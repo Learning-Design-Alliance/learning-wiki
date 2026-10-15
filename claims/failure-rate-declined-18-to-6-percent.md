@@ -3,7 +3,7 @@ type: claim
 title: "Raw failure rates in the introductory biology course declined from 18.2% to 6.3% as course structure increased across quarters"
 description: "Raw failure rates in the introductory biology course declined from 18.2% to 6.3% as course structure increased across quarters"
 id: failure-rate-declined-18-to-6-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

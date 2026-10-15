@@ -3,7 +3,7 @@ type: claim
 title: The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type
 description: The effect of cooperative learning did not differ statistically by teaching style, outcome type, publication quality, bias status, or report type
 id: cooperative-learning-nonsignificant-moderators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

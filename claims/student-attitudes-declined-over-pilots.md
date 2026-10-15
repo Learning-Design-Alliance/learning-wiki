@@ -3,7 +3,7 @@ type: claim
 title: Student attitudes toward learning English and school declined slightly over both pilots, with the decline in believing school is a good place to learn statistically significant in both districts
 description: Student attitudes toward learning English and school declined slightly over both pilots, with the decline in believing school is a good place to learn statistically significant in both districts
 id: student-attitudes-declined-over-pilots
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

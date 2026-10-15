@@ -3,7 +3,7 @@ type: claim
 title: The self-report measure supports a refined 13-item, four-factor model with good fit
 description: The self-report measure supports a refined 13-item, four-factor model with good fit
 id: sr-measure-four-factor-cfa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: evolving-criteria-feedback-conferences
 title: Establish evaluative criteria as a creative project evolves through student-faculty feedback conferences
 description: "For courses where students pursue individual creative projects that cannot have strict behavioral objectives stated in advance, the author recommends that instructor and student \"establish evaluative criteria as the p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

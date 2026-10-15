@@ -3,7 +3,7 @@ type: claim
 title: "At least 97.5% of Reading items and 92.5% of Mathematics items passed the fit check, with 7 Reading and 23 Mathematics items flagged for misfit"
 description: "At least 97.5% of Reading items and 92.5% of Mathematics items passed the fit check, with 7 Reading and 23 Mathematics items flagged for misfit"
 id: map-k2-misfit-flagging-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

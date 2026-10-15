@@ -3,7 +3,7 @@ type: claim
 title: After PAIRR, most students prefer combined peer and AI feedback over either source alone
 description: After PAIRR, most students prefer combined peer and AI feedback over either source alone
 id: pairr-builds-confidence-in-ai-while-affirming-human-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

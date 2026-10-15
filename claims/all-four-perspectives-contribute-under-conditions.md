@@ -3,7 +3,7 @@ type: claim
 title: Methods derived from all four theoretical perspectives contribute to achievement gain under certain conditions
 description: Methods derived from all four theoretical perspectives contribute to achievement gain under certain conditions
 id: all-four-perspectives-contribute-under-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

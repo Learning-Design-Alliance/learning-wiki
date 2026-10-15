@@ -3,7 +3,7 @@ type: claim
 title: Effectiveness of AI-driven personalized learning is context-dependent, with CS and Mathematics students showing contrasting engagement and performance trajectories
 description: Effectiveness of AI-driven personalized learning is context-dependent, with CS and Mathematics students showing contrasting engagement and performance trajectories
 id: context-sensitive-personalization-disciplinary-backgrounds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

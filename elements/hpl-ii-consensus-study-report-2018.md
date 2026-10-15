@@ -3,7 +3,7 @@ type: element
 id: hpl-ii-consensus-study-report-2018
 title: "How People Learn II: Learners, Contexts, and Cultures (2018 consensus study report)"
 description: "The featured publication of this activity is \"How People Learn II: Learners, Contexts, and Cultures\", a Consensus Study Report completed in 2018."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

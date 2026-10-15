@@ -3,7 +3,7 @@ type: claim
 title: In a North Carolina high school study with teacher fixed effects, achievement returns to experience rose up to 20 years, from about 0.06 SD at 1–2 years to about 0.27 SD beyond 27 years
 description: In a North Carolina high school study with teacher fixed effects, achievement returns to experience rose up to 20 years, from about 0.06 SD at 1–2 years to about 0.27 SD beyond 27 years
 id: north-carolina-high-school-returns-twenty-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

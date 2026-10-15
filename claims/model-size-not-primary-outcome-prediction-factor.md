@@ -3,7 +3,7 @@ type: claim
 title: Model size is not the primary factor in outcome-prediction performance
 description: Model size is not the primary factor in outcome-prediction performance
 id: model-size-not-primary-outcome-prediction-factor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

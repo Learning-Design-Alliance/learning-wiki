@@ -3,7 +3,7 @@ type: claim
 title: Spanish Reading items show gradually increasing mean p values and stable discrimination with no negatively discriminating items
 description: Spanish Reading items show gradually increasing mean p values and stable discrimination with no negatively discriminating items
 id: spanish-reading-item-statistics-stable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

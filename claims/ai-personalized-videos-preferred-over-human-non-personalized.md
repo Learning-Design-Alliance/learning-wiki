@@ -3,7 +3,7 @@ type: claim
 title: Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison
 description: Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison
 id: ai-personalized-videos-preferred-over-human-non-personalized
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

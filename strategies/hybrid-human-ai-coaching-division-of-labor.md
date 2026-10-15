@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-human-ai-coaching-division-of-labor
 title: Use AI chatbots to assist human-led coaching with routine support between sessions while humans retain challenge and goal clarification
 description: The review recommends hybrid coaching in which AI chatbots are introduced into human-supervised environments or used as supplementary tools between sessions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

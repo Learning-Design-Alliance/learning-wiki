@@ -3,7 +3,7 @@ type: claim
 title: TACTutor shows no degradation relative to its Qwen backbone on external educational benchmarks, with scores rising on MRBench, TutorBench, LongTutor, and DeepTutor
 description: TACTutor shows no degradation relative to its Qwen backbone on external educational benchmarks, with scores rising on MRBench, TutorBench, LongTutor, and DeepTutor
 id: tactutor-no-degradation-external-benchmarks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

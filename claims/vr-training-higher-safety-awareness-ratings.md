@@ -3,7 +3,7 @@ type: claim
 title: VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)
 description: VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)
 id: vr-training-higher-safety-awareness-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

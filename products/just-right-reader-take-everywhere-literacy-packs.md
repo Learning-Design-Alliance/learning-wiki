@@ -4,7 +4,7 @@ id: just-right-reader-take-everywhere-literacy-packs
 title: Just Right Reader Take-Everywhere Literacy Packs
 description: A Just Right Reader take-home literacy package that provides skill-leveled decodable books, lesson plans, multilingual instructional videos, and writing activities for students to practice foundational reading skills.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "More GenAI-susceptible courses show no raised grade floor after ChatGPT: passing-margin and failing/withdrawal probabilities are null under both COVID assumptions"
 description: "More GenAI-susceptible courses show no raised grade floor after ChatGPT: passing-margin and failing/withdrawal probabilities are null under both COVID assumptions"
 id: no-raised-grade-floor-genai-susceptible-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: In 2012, youth with disabilities were more socioeconomically disadvantaged than their peers, more likely to live in low-income households and with parents receiving federal food benefits
 description: In 2012, youth with disabilities were more socioeconomically disadvantaged than their peers, more likely to live in low-income households and with parents receiving federal food benefits
 id: youth-disabilities-more-socioeconomically-disadvantaged-2012
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: "Empowerment in counselling defined as a five-part process of awareness, skill and capacity, exercise, non-infringement, and support for others' empowerment"
 description: The article defines empowerment in counselling by drawing on social work, community psychology, education, multicultural counselling, and feminist literatures.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

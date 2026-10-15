@@ -3,7 +3,7 @@ type: claim
 title: Games with irrelevant or no story relevance show larger learning effects than games with relevant narratives
 description: Games with irrelevant or no story relevance show larger learning effects than games with relevant narratives
 id: story-relevance-negative-moderator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

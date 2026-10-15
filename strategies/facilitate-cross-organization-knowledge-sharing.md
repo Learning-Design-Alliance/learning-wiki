@@ -3,7 +3,7 @@ type: strategy
 id: facilitate-cross-organization-knowledge-sharing
 title: Facilitate knowledge sharing between organizations experienced with evidence-based strategies and organizations seeking to use them
 description: "The brief proposes knowledge sharing between education organizations as a mechanism for spreading evidence-based strategies: \"One way to support the spread of evidence-based strategies is to facilitate knowledge shari..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

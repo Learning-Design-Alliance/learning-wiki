@@ -3,7 +3,7 @@ type: claim
 title: Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors
 description: Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors
 id: human-in-the-loop-ai-design-pf
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

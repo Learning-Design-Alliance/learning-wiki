@@ -3,7 +3,7 @@ type: claim
 title: Exploration of diversity is associated with all civic competence outcomes in community-based learning courses
 description: Exploration of diversity is associated with all civic competence outcomes in community-based learning courses
 id: diversity-enhances-all-civic-competence-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

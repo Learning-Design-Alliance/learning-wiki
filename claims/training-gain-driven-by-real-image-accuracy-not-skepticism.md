@@ -3,7 +3,7 @@ type: claim
 title: The training gain was driven by a 14.2-percentage-point improvement in accuracy on real images, while the gain on AI-generated images was not statistically significant
 description: The training gain was driven by a 14.2-percentage-point improvement in accuracy on real images, while the gain on AI-generated images was not statistically significant
 id: training-gain-driven-by-real-image-accuracy-not-skepticism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

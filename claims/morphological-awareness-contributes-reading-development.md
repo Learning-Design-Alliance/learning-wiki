@@ -3,7 +3,7 @@ type: claim
 title: Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness
 description: Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness
 id: morphological-awareness-contributes-reading-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

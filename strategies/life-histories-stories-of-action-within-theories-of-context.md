@@ -3,7 +3,7 @@ type: strategy
 id: life-histories-stories-of-action-within-theories-of-context
 title: "Move from life stories to life histories: collect stories of action within theories of context"
 description: The article recommends that educational research move beyond collecting personal narratives toward life history work that builds contextual background around the story.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

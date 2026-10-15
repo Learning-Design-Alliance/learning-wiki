@@ -3,7 +3,7 @@ type: claim
 title: "The GSTG likely contributed to a 23% increase in California-prepared preliminary teaching credentials between 2022–23 and 2023–24"
 description: "The GSTG likely contributed to a 23% increase in California-prepared preliminary teaching credentials between 2022–23 and 2023–24"
 id: gstg-associated-credential-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

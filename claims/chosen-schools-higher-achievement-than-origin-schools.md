@@ -3,7 +3,7 @@ type: claim
 title: In a subsample of large urban districts, the average achievement of schools chosen by Title I school choice users was consistently higher than the average achievement of the schools they came from
 description: In a subsample of large urban districts, the average achievement of schools chosen by Title I school choice users was consistently higher than the average achievement of the schools they came from
 id: chosen-schools-higher-achievement-than-origin-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

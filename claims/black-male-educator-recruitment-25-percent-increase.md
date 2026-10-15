@@ -3,7 +3,7 @@ type: claim
 title: One school district experienced a 25 percent increase in the recruitment of Black male educators through Inclusive Innovation
 description: One school district experienced a 25 percent increase in the recruitment of Black male educators through Inclusive Innovation
 id: black-male-educator-recruitment-25-percent-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

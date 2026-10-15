@@ -3,7 +3,7 @@ type: claim
 title: Behavioral intention has a statistically significant but weak positive effect on actual MALL usage behavior in EFL learning
 description: Behavioral intention has a statistically significant but weak positive effect on actual MALL usage behavior in EFL learning
 id: bi-weak-effect-actual-mall-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

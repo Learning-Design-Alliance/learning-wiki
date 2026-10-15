@@ -3,7 +3,7 @@ type: claim
 title: "AIHEd reviews focus mostly on General AIEd (47.0%) and Profiling and Prediction (28.8%), while key findings predominantly concern adaptive systems and personalisation (54.5%)"
 description: "AIHEd reviews focus mostly on General AIEd (47.0%) and Profiling and Prediction (28.8%), while key findings predominantly concern adaptive systems and personalisation (54.5%)"
 id: aihed-thematic-focus-adaptive-personalisation-predominance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

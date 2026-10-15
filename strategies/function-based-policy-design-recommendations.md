@@ -3,7 +3,7 @@ type: strategy
 id: function-based-policy-design-recommendations
 title: Institutions should define generative-AI prohibitions by function, distinguish generation from format conversion, and require validated evidential methods before sanctions
 description: "The paper's normative policy recommendations are that institutions should consider 'defining 'use of generative AI' by reference to function rather than platform identity; explicitly distinguishing content generation..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

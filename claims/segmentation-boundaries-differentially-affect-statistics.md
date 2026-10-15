@@ -3,7 +3,7 @@ type: claim
 title: Segmentation boundary choices differentially affect statistics computed on epistemic-game process data
 description: Segmentation boundary choices differentially affect statistics computed on epistemic-game process data
 id: segmentation-boundaries-differentially-affect-statistics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

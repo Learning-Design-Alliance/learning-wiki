@@ -3,7 +3,7 @@ type: claim
 title: "School and teacher effects on students' school experiences influence social and educational trajectories more than their effects on academic achievement measures"
 description: "School and teacher effects on students' school experiences influence social and educational trajectories more than their effects on academic achievement measures"
 id: school-experience-effects-outweigh-achievement-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

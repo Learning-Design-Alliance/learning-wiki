@@ -3,7 +3,7 @@ type: claim
 title: Most TTI teachers stayed on the job even after transfer payments ended
 description: Most TTI teachers stayed on the job even after transfer payments ended
 id: tti-teachers-stayed-after-payments-ended
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: school-sampling-with-replacement-schools-generalizability
 title: Select a sample of schools, including replacement schools when needed, to support generalizable impact studies
 description: "The guide recommends that researchers sample schools in a way that represents the target population, and plan for \"replacement schools, when needed\" when originally selected schools decline to participate."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

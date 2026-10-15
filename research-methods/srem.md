@@ -3,7 +3,7 @@ type: research-method
 id: srem
 title: SREM
 description: The article develops a shared random effects model (SREM) to estimate English proficiency development and time to reclassification simultaneously.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: GenAI consolidates multiple core pedagogical functions within a single technological interface, a scaling effect qualitatively distinct from prior educational tools
 description: GenAI consolidates multiple core pedagogical functions within a single technological interface, a scaling effect qualitatively distinct from prior educational tools
 id: genai-consolidates-pedagogical-functions-single-interface
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

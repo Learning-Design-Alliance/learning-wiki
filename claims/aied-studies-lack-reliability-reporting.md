@@ -3,7 +3,7 @@ type: claim
 title: "A meta-systematic review of AI in higher education found that 51.5% of articles lacked any reliability metrics or coding protocols"
 description: "A meta-systematic review of AI in higher education found that 51.5% of articles lacked any reliability metrics or coding protocols"
 id: aied-studies-lack-reliability-reporting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

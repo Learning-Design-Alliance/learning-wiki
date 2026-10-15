@@ -3,7 +3,7 @@ type: research-method
 id: human-validated-llm-reconstruction-of-syllabus-assessment-weights
 title: Human-validated LLM reconstruction of syllabus assessment weights
 description: The pipeline converts syllabus PDFs to Markdown and uses an LLM through a university-managed API gateway to reconstruct final-grade weights for each assessment category, which feed the continuous GenAI-susceptibility treatment variable.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

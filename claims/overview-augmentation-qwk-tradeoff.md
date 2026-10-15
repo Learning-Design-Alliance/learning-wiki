@@ -3,7 +3,7 @@ type: claim
 title: In the Overview dimension, augmentation produced a marginal QWK decrease (ΔQWK = −0.006) despite improving macro-F1, the only dimension with this trade-off
 description: In the Overview dimension, augmentation produced a marginal QWK decrease (ΔQWK = −0.006) despite improving macro-F1, the only dimension with this trade-off
 id: overview-augmentation-qwk-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Evaluation systems including alternative student growth measures showed a wider range of teacher performance than previous systems lacking growth measures
 description: Evaluation systems including alternative student growth measures showed a wider range of teacher performance than previous systems lacking growth measures
 id: growth-measures-widen-teacher-performance-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

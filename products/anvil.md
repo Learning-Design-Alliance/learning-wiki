@@ -4,7 +4,7 @@ id: anvil
 title: ANVIL
 description: ANVIL is an open-source generative software pipeline developed by Noviello et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

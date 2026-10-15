@@ -4,7 +4,7 @@ id: positive-action
 title: Positive Action
 description: A K–12 curriculum developed and delivered by Positive Action, Inc.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Popular plagiarism detection tools detect plagiarism in AI-assisted essays in less than 15% of cases"
 description: "Popular plagiarism detection tools detect plagiarism in AI-assisted essays in less than 15% of cases"
 id: plagiarism-detectors-below-15-percent-ai-essays
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

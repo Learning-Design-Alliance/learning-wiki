@@ -3,7 +3,7 @@ type: claim
 title: Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures
 description: Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures
 id: summer-learning-loss-insights-covid-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

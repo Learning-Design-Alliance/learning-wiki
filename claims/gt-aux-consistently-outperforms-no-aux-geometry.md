@@ -3,7 +3,7 @@ type: claim
 title: Reasoning with ground-truth auxiliary diagrams consistently outperforms reasoning from the original diagram alone on GeoVAD-Bench
 description: Reasoning with ground-truth auxiliary diagrams consistently outperforms reasoning from the original diagram alone on GeoVAD-Bench
 id: gt-aux-consistently-outperforms-no-aux-geometry
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

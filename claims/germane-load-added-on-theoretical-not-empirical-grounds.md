@@ -3,7 +3,7 @@ type: claim
 title: Germane cognitive load was added to the cognitive load framework on theoretical grounds rather than because of empirical results requiring the concept
 description: Germane cognitive load was added to the cognitive load framework on theoretical grounds rather than because of empirical results requiring the concept
 id: germane-load-added-on-theoretical-not-empirical-grounds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

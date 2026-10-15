@@ -3,7 +3,7 @@ type: claim
 title: Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures
 description: Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures
 id: ousd-passive-lecture-unchallenged-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9"
 description: "Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9"
 id: video-views-declined-across-quarter
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

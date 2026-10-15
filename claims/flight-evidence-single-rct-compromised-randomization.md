@@ -3,7 +3,7 @@ type: claim
 title: The supporting evidence for FLIGHT comes from a single randomized controlled trial with compromised random assignment
 description: The supporting evidence for FLIGHT comes from a single randomized controlled trial with compromised random assignment
 id: flight-evidence-single-rct-compromised-randomization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

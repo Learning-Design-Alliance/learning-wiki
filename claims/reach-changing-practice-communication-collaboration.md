@@ -3,7 +3,7 @@ type: claim
 title: Teachers and principals report REACH is changing teaching practice and improving communication and collaboration
 description: Teachers and principals report REACH is changing teaching practice and improving communication and collaboration
 id: reach-changing-practice-communication-collaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

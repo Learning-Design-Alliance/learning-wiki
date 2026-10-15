@@ -3,7 +3,7 @@ type: strategy
 id: alt-routes-staffing-disadvantaged-schools
 title: Use selective alternative certification routes as one lever for staffing disadvantaged schools, with expectations calibrated to route selectivity
 description: The brief addresses teacher shortages in disadvantaged schools by presenting evidence on alternative certification routes as a staffing strategy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

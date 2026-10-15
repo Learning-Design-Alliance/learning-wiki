@@ -3,7 +3,7 @@ type: claim
 title: Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics
 description: Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics
 id: virtual-charter-negative-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

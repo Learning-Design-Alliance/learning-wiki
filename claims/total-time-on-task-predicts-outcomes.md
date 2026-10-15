@@ -3,7 +3,7 @@ type: claim
 title: Total time on task in the DLP positively predicts both math and ELA outcomes
 description: Total time on task in the DLP positively predicts both math and ELA outcomes
 id: total-time-on-task-predicts-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

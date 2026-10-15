@@ -3,7 +3,7 @@ type: claim
 title: "21st CCLC elementary programs did not affect students' academic outcomes"
 description: "21st CCLC elementary programs did not affect students' academic outcomes"
 id: 21st-cclc-no-effect-academic-outcomes-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

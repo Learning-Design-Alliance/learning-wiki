@@ -3,7 +3,7 @@ type: claim
 title: In-person proctored nursing cohorts achieved significantly higher HESI scores and NCLEX readiness than remotely proctored (ProctorU) cohorts
 description: In-person proctored nursing cohorts achieved significantly higher HESI scores and NCLEX readiness than remotely proctored (ProctorU) cohorts
 id: in-person-proctored-higher-hesi-than-remote
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

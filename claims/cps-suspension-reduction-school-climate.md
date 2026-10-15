@@ -3,7 +3,7 @@ type: claim
 title: School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell
 description: School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell
 id: cps-suspension-reduction-school-climate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

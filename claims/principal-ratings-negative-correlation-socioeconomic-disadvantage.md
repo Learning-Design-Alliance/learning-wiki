@@ -3,7 +3,7 @@ type: claim
 title: Several component measure ratings and the overall rating had low, negative correlations with student socioeconomic disadvantage, suggesting possible bias against principals of more disadvantaged schools
 description: Several component measure ratings and the overall rating had low, negative correlations with student socioeconomic disadvantage, suggesting possible bias against principals of more disadvantaged schools
 id: principal-ratings-negative-correlation-socioeconomic-disadvantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases"
 description: "After workshops, students' active GenAI use concentrated in uncertain design phases and decreased or disappeared in more certain phases"
 id: genai-use-concentrates-in-uncertain-design-phases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

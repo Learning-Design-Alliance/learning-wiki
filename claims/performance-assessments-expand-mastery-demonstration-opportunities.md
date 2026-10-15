@@ -3,7 +3,7 @@ type: claim
 title: Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content
 description: Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content
 id: performance-assessments-expand-mastery-demonstration-opportunities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Schools in the United States have resegregated since 1988, with the share of intensely segregated non-white schools more than tripling from about 6% to 19% of all public schools"
 description: "Schools in the United States have resegregated since 1988, with the share of intensely segregated non-white schools more than tripling from about 6% to 19% of all public schools"
 id: resegregation-intensely-segregated-schools-tripled
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

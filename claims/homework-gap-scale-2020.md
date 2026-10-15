@@ -3,7 +3,7 @@ type: claim
 title: Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected
 description: Roughly 30 percent of U.S.
 id: homework-gap-scale-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

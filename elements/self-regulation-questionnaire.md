@@ -4,7 +4,7 @@ id: self-regulation-questionnaire
 title: Self-Regulation Questionnaire (SRQ)
 description: The Self-Regulation Questionnaire is a 63-item self-report instrument, built on the Miller and Brown seven-step model of self-regulation, that scores a person's overall self-regulation capacity as high, moderate, or low.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

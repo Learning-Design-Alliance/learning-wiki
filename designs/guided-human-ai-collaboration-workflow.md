@@ -3,7 +3,7 @@ type: design
 id: guided-human-ai-collaboration-workflow
 title: Guided human–AI collaboration workflow with five components and AI-use logging
 description: "An instructional component in which the experimental group received \"explicit instruction in a guided human–AI collaboration workflow built around five interrelated components\": problem framing and prompt design; gene..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

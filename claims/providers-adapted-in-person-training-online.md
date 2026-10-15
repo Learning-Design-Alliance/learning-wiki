@@ -3,7 +3,7 @@ type: claim
 title: Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly
 description: Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly
 id: providers-adapted-in-person-training-online
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

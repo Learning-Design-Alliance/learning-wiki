@@ -2,7 +2,7 @@
 type: claim
 title: Critical constructive feedback is neglected at multiple, independently measurable processing stages
 id: critical-constructive-feedback-is-neglected-at-multiple-stages
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

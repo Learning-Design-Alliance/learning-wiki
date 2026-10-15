@@ -3,7 +3,7 @@ type: claim
 title: "Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students"
 description: "Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students"
 id: double-dose-algebra-raised-test-scores-both-skill-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

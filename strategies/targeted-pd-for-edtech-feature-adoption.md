@@ -3,7 +3,7 @@ type: strategy
 id: targeted-pd-for-edtech-feature-adoption
 title: Provide targeted professional development to encourage teacher understanding and use of learner-variability features
 description: "Because survey data showed many teachers believed features could support learning but far fewer knew about or used them, and student data showed a student's teacher strongly predicts feature use, the report recommends..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

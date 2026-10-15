@@ -3,7 +3,7 @@ type: claim
 title: "Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding"
 description: "Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding"
 id: verbal-achievement-tests-may-underestimate-via-symbolic-mismatch
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

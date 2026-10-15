@@ -3,7 +3,7 @@ type: claim
 title: Material-oriented interventions such as complexity reduction, cueing/signaling, and text-picture integration are empirically tested support procedures for visual displays
 description: Material-oriented interventions such as complexity reduction, cueing/signaling, and text-picture integration are empirically tested support procedures for visual displays
 id: material-oriented-interventions-tested
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

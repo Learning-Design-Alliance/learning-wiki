@@ -3,7 +3,7 @@ type: claim
 title: Removing grid-search initialization of IRT discrimination and difficulty parameters drops scoring performance from QWK 0.747 to 0.705
 description: Removing grid-search initialization of IRT discrimination and difficulty parameters drops scoring performance from QWK 0.747 to 0.705
 id: psyscore-irt-initialization-ablation-qwk-drop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

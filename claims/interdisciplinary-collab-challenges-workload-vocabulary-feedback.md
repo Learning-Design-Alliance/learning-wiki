@@ -3,7 +3,7 @@ type: claim
 title: Interdisciplinary studio collaboration produced challenges including uneven workloads, vocabulary barriers, and difficulty giving cross-disciplinary feedback
 description: Interdisciplinary studio collaboration produced challenges including uneven workloads, vocabulary barriers, and difficulty giving cross-disciplinary feedback
 id: interdisciplinary-collab-challenges-workload-vocabulary-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

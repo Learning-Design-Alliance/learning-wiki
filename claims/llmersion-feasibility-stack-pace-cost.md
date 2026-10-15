@@ -3,7 +3,7 @@ type: claim
 title: A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour
 description: A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour
 id: llmersion-feasibility-stack-pace-cost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

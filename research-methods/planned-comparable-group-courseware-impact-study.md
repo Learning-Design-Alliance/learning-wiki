@@ -3,7 +3,7 @@ type: research-method
 id: planned-comparable-group-courseware-impact-study
 title: Planned Comparable-Group Courseware Impact Study
 description: "The article distills lessons from the NGCC evaluation about conducting impact studies: measuring impact requires an objective outcome measure, a comparison group, evidence of comparability, adequate numbers in both groups, and holding other influences constant."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

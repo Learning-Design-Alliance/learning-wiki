@@ -3,7 +3,7 @@ type: strategy
 id: gentle-promotion-preregistration-facebook-groups
 title: "Institutions should gently promote pre-registration hall and departmental Facebook groups while avoiding aggressive marketing, teaching or pastoral interventions in students' social space."
 description: The authors recommend that, because Facebook helps new students settle in, higher education institutions could act as a catalyst by publicising existing accommodation/hall and departmental Facebook groups to pre-regis...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

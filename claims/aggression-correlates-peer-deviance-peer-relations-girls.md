@@ -3,7 +3,7 @@ type: claim
 title: Both reactive and proactive aggression correlate positively with mild deviance, serious deviance, self-disclosure, and loyalty among high school girls
 description: Both reactive and proactive aggression correlate positively with mild deviance, serious deviance, self-disclosure, and loyalty among high school girls
 id: aggression-correlates-peer-deviance-peer-relations-girls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

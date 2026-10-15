@@ -3,7 +3,7 @@ type: research-method
 id: cosine-similarity-framework
 title: Cosine similarity framework
 description: The article introduces an angular-statistics framework in which item and test difficulty and discriminating values are obtained from the cosine of the angle between the observed score vector and the maximum possible score vector, involving inner products and vector lengths.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

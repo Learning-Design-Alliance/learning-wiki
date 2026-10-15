@@ -3,7 +3,7 @@ type: strategy
 id: redesign-assessments-for-ai-availability
 title: Redesign assessments and curricula so AI availability supports rather than impedes expertise growth
 description: For educational institutions, the paper recommends resolving the tension between short-term assignment completion and long-term capability building through objective redesign.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

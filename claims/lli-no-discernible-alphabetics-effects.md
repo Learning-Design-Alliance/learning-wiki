@@ -3,7 +3,7 @@ type: claim
 title: In the 2010 RCT, LLI showed no discernible effects on alphabetics (domain average effect size 0.13, not statistically significant)
 description: In the 2010 RCT, LLI showed no discernible effects on alphabetics (domain average effect size 0.13, not statistically significant)
 id: lli-no-discernible-alphabetics-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

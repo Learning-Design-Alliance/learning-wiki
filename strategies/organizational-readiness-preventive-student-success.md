@@ -3,7 +3,7 @@ type: strategy
 id: organizational-readiness-preventive-student-success
 title: "Treat Precision Education as organizational transformation: add advising capacity, response protocols, and financial supports around the model"
 description: "The paper argues technology is necessary but far from sufficient: at Georgia State \"the model was the smallest component,\" with effect coming from added advising staff, defined response protocols, financial supports,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

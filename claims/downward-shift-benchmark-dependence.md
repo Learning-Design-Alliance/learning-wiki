@@ -3,7 +3,7 @@ type: claim
 title: "Downward Bloom control is benchmark-dependent: repository-level tasks are easier to simplify than algorithmic puzzles"
 description: "Downward Bloom control is benchmark-dependent: repository-level tasks are easier to simplify than algorithmic puzzles"
 id: downward-shift-benchmark-dependence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

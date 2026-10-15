@@ -3,7 +3,7 @@ type: claim
 title: Qualitative analysis found staged disclosure sometimes withheld inaccurate diagnostic details, but some errors still shaped student revisions
 description: Qualitative analysis found staged disclosure sometimes withheld inaccurate diagnostic details, but some errors still shaped student revisions
 id: staged-disclosure-diagnostic-error-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

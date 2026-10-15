@@ -3,7 +3,7 @@ type: strategy
 id: seven-ai-learning-research-recommendations
 title: Seven research priorities for AI in learning, spanning expanded scenarios, teacher assistance, assessment, responsible AI, equity policy, stakeholder engagement, and ecosystem strengthening
 description: "The panel issued seven recommendations: investigate AI designs for an expanded range of learning scenarios; develop AI systems that assist teachers and improve teaching; intensify and expand research on AI for assessm..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: ggmnonreg
 title: GGMnonreg
 description: GGMnonreg is an R package that implements non-regularized Gaussian graphical-modeling methods for low-dimensional data, developed by Donald Williams.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

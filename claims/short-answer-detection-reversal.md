@@ -3,7 +3,7 @@ type: claim
 title: For short-answer questions, real student responses received higher LLM-likelihood estimates than LLM-generated responses, a reversal of the pattern in other tasks
 description: For short-answer questions, real student responses received higher LLM-likelihood estimates than LLM-generated responses, a reversal of the pattern in other tasks
 id: short-answer-detection-reversal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

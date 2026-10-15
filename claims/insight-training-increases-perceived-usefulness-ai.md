@@ -3,7 +3,7 @@ type: claim
 title: Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived usefulness of AI-based technologies
 description: Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived usefulness of AI-based technologies
 id: insight-training-increases-perceived-usefulness-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

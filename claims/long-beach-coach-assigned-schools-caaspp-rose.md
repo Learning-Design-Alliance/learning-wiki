@@ -3,7 +3,7 @@ type: claim
 title: Long Beach schools with assigned math coaches showed markedly and disproportionately rising CAASPP scores, though causation could not be tied to coaching
 description: Long Beach schools with assigned math coaches showed markedly and disproportionately rising CAASPP scores, though causation could not be tied to coaching
 id: long-beach-coach-assigned-schools-caaspp-rose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

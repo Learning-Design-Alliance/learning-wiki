@@ -3,7 +3,7 @@ type: claim
 title: "Static Knowledge Grounding and Dynamic Personal Memory are complementary: removing both yields the largest quality degradation"
 description: "Static Knowledge Grounding and Dynamic Personal Memory are complementary: removing both yields the largest quality degradation"
 id: skg-dpm-complementary-ablation-deeptutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

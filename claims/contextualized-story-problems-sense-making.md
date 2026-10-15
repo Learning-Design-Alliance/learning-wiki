@@ -3,7 +3,7 @@ type: claim
 title: Among the five lessons rated highly for both mathematical sense-making and student questioning and reasoning, contextualized story problems featured prominently
 description: Among the five lessons rated highly for both mathematical sense-making and student questioning and reasoning, contextualized story problems featured prominently
 id: contextualized-story-problems-sense-making
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

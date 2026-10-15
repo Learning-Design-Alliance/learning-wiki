@@ -3,7 +3,7 @@ type: theory
 id: trialogical-learning-design-characteristics
 title: Seven basic characteristics of trialogical learning processes
 description: "The paper enumerates seven features that any learning or knowledge creation process following the trialogical approach shows: activities organised around developing shared objects aimed at re-usable artefacts or pract..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

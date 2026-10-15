@@ -3,7 +3,7 @@ type: strategy
 id: sustain-pd-and-collaboration-throughout-edtech-pilot
 title: Maintain professional development and educator collaboration throughout an edtech pilot
 description: "A concrete implementation practice for district pilots: provide professional development before and during the pilot and build in educator collaboration."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

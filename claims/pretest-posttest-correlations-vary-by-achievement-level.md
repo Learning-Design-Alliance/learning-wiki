@@ -3,7 +3,7 @@ type: claim
 title: Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).
 description: Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).
 id: pretest-posttest-correlations-vary-by-achievement-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

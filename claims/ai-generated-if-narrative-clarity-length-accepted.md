@@ -3,7 +3,7 @@ type: claim
 title: AI-generated interactive-fiction learning scenarios are perceived as narratively clear and of appropriate length by STEM higher-education participants
 description: AI-generated interactive-fiction learning scenarios are perceived as narratively clear and of appropriate length by STEM higher-education participants
 id: ai-generated-if-narrative-clarity-length-accepted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

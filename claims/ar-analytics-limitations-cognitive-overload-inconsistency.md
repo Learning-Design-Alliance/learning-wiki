@@ -3,7 +3,7 @@ type: claim
 title: Reported limitations of AR enhanced analytics include cognitive overload from immersive environments, technological constraints, usability challenges, and inconsistent measurement approaches
 description: Reported limitations of AR enhanced analytics include cognitive overload from immersive environments, technological constraints, usability challenges, and inconsistent measurement approaches
 id: ar-analytics-limitations-cognitive-overload-inconsistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

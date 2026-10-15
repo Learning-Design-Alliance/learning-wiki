@@ -3,7 +3,7 @@ type: claim
 title: Way2Work Maryland did not affect postsecondary education and training outcomes, but more treatment group members completed high school within two years of enrollment
 description: Way2Work Maryland did not affect postsecondary education and training outcomes, but more treatment group members completed high school within two years of enrollment
 id: way2work-high-school-completion-gain-no-postsecondary-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

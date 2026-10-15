@@ -3,7 +3,7 @@ type: claim
 title: Student specification comments are predominantly natural language, except Return statements which show a high proportion of Strict-Code expressions
 description: Student specification comments are predominantly natural language, except Return statements which show a high proportion of Strict-Code expressions
 id: natural-language-except-strict-code-returns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

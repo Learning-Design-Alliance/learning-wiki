@@ -3,7 +3,7 @@ type: claim
 title: "A digital divide exists in Chicago students' home technology use, but schools do not strongly magnify it along racial or income lines"
 description: "A digital divide exists in Chicago students' home technology use, but schools do not strongly magnify it along racial or income lines"
 id: digital-divide-home-not-magnified-by-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

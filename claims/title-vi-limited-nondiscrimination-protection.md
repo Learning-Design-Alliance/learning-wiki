@@ -3,7 +3,7 @@ type: claim
 title: Title VI of the Civil Rights Act of 1964 is limited in ensuring nondiscrimination in public schools for three stated reasons
 description: Title VI of the Civil Rights Act of 1964 is limited in ensuring nondiscrimination in public schools for three stated reasons
 id: title-vi-limited-nondiscrimination-protection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

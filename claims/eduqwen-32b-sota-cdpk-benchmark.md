@@ -3,7 +3,7 @@ type: claim
 title: "The EduQwen 32B models achieve up to 96.52% accuracy on the CDPK Benchmark, surpassing the previous leaderboard leader Gemini-3 Pro at 90.55%"
 description: "The EduQwen 32B models achieve up to 96.52% accuracy on the CDPK Benchmark, surpassing the previous leaderboard leader Gemini-3 Pro at 90.55%"
 id: eduqwen-32b-sota-cdpk-benchmark
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

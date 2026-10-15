@@ -3,7 +3,7 @@ type: strategy
 id: lotteries-to-estimate-school-impacts
 title: Use school lotteries as a research design for estimating impacts of schools of choice on student outcomes
 description: "The article offers lessons for researchers who use lottery-based designs, stating that schools' admission lotteries can be used \"to estimate impacts of schools on student outcomes.\" Because oversubscribed schools allo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

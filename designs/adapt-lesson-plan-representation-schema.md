@@ -3,7 +3,7 @@ type: design
 id: adapt-lesson-plan-representation-schema
 title: Four-component lesson plan representation schema grounded in curriculum studies and differentiated instruction
 description: "AdaPT decomposes lesson plans into four components: curriculum standards, learning objectives, learning profile analysis, and learning tasks."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

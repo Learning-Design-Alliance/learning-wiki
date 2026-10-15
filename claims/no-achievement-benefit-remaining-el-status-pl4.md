@@ -3,7 +3,7 @@ type: claim
 title: ELPAC overall PL 4 students who exit EL status show minimal or no achievement differences one year later compared with those who remain, after controlling for SES
 description: ELPAC overall PL 4 students who exit EL status show minimal or no achievement differences one year later compared with those who remain, after controlling for SES
 id: no-achievement-benefit-remaining-el-status-pl4
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

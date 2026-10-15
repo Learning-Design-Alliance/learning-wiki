@@ -3,7 +3,7 @@ type: claim
 title: Providing the tutor with student mastery and practice-history context improved engagement and next-item correctness
 description: Providing the tutor with student mastery and practice-history context improved engagement and next-item correctness
 id: student-context-personalization-improves-tutor-metrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

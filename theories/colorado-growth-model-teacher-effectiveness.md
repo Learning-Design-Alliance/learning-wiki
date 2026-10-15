@@ -2,7 +2,7 @@
 type: theory
 title: Colorado Growth Model as a teacher-effectiveness measure based on student growth percentiles
 description: "The Colorado Growth Model (CGM) assigns each student a growth percentile by comparing the student's achievement to that of other students with similar past test scores; the median or average growth percentile of a tea..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

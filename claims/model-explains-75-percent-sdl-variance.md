@@ -3,7 +3,7 @@ type: claim
 title: "The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning"
 description: "The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning"
 id: model-explains-75-percent-sdl-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

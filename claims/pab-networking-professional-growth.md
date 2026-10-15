@@ -3,7 +3,7 @@ type: claim
 title: Participants reported professional growth through networking and collaboration within the RPIP
 description: Participants reported professional growth through networking and collaboration within the RPIP
 id: pab-networking-professional-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

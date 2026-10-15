@@ -3,7 +3,7 @@ type: claim
 title: Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct
 description: Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct
 id: genai-misconduct-linked-to-professional-conduct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

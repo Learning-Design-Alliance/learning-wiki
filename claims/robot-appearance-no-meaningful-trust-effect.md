@@ -3,7 +3,7 @@ type: claim
 title: "Robot appearance showed no meaningful effect on trust: pairwise robot differences did not reach significance after Bonferroni adjustment"
 description: "Robot appearance showed no meaningful effect on trust: pairwise robot differences did not reach significance after Bonferroni adjustment"
 id: robot-appearance-no-meaningful-trust-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: add-aspiration-questions-to-climate-surveys
 title: Add two or three college aspiration and expectation questions to existing school climate surveys to flag students needing readiness supports
 description: "The article recommends that K-12 districts already administering climate surveys \"including two or three questions about college expectations and aspirations could be helpful when those districts attempt to identify w..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

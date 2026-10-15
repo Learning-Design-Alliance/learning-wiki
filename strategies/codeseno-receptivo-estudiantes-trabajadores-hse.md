@@ -3,7 +3,7 @@ type: strategy
 id: codeseno-receptivo-estudiantes-trabajadores-hse
 title: Co-diseño receptivo con estudiantes y trabajadores HSE para tecnologías de transición
 description: El informe emplea metodologías receptivas y experiencias co-diseñadas para incluir a estudiantes y trabajadores de comunidades HSE en el diseño, desarrollo y prueba de tecnologías LER, dado que rara vez son invitados...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

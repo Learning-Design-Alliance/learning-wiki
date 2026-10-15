@@ -3,7 +3,7 @@ type: claim
 title: A key barrier to using MI Write is a lack of both curriculum integration and alignment
 description: A key barrier to using MI Write is a lack of both curriculum integration and alignment
 id: curriculum-integration-alignment-barrier-mi-write
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

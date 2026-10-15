@@ -3,7 +3,7 @@ type: strategy
 id: robust-orientation-for-parent-companion-apps
 title: Provide a robust orientation when introducing parents to a new second-screen companion app
 description: "Because an app for parents designed to accompany a children's show is a new type of tool for many families, the researchers conclude that a more robust orientation to the app would likely increase its effectiveness."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

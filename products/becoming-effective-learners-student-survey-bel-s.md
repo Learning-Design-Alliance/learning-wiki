@@ -4,7 +4,7 @@ id: becoming-effective-learners-student-survey-bel-s
 title: Becoming Effective Learners Student Survey (BEL-S)
 description: The BEL-S is a Rasch-based student self-report survey developed by Camille A.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed ed tech developers report their products are informed by research, but purchasers struggle to evaluate that research
 description: Most surveyed ed tech developers report their products are informed by research, but purchasers struggle to evaluate that research
 id: developers-report-research-informed-products
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies
 description: ChatGPT-generated synthesis claims benefits for personalized tutoring, automated essay grading, language translation, interactive learning, and adaptive learning, citing supporting studies
 id: chatgpt-education-benefits-taxonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

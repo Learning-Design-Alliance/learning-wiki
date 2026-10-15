@@ -3,7 +3,7 @@ type: claim
 title: Adults learn languages more quickly than children in the early stages of second language acquisition
 description: Adults learn languages more quickly than children in the early stages of second language acquisition
 id: adults-faster-early-stage-language-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

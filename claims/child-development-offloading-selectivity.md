@@ -3,7 +3,7 @@ type: claim
 title: Developmental change in offloading reflects metacognitive control, not knowledge
 description: Developmental change in offloading reflects metacognitive control, not knowledge
 id: child-development-offloading-selectivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

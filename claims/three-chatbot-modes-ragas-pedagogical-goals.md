@@ -3,7 +3,7 @@ type: claim
 title: "The three specialized chatbot modes achieved their distinct pedagogical goals on RAGAS metrics: Quick Mode highest faithfulness (0.92), Deep Understanding near-perfect context recall (0.98) with intentionally low answer relevancy, Exam Coach highest answer relevancy (0.82)"
 description: "The three specialized chatbot modes achieved their distinct pedagogical goals on RAGAS metrics: Quick Mode highest faithfulness (0.92), Deep Understanding near-perfect context recall (0.98) with intentionally low answ..."
 id: three-chatbot-modes-ragas-pedagogical-goals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

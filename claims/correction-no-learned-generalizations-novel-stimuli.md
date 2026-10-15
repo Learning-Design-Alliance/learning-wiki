@@ -3,7 +3,7 @@ type: claim
 title: Explicit correction did not produce evidence of learned morphological generalizations to novel stimuli in adult L2 learners
 description: Explicit correction did not produce evidence of learned morphological generalizations to novel stimuli in adult L2 learners
 id: correction-no-learned-generalizations-novel-stimuli
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

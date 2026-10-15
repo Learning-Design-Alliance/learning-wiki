@@ -3,7 +3,7 @@ type: strategy
 id: needs-assessment-baseline-and-projective-data
 title: Conduct a needs assessment combining baseline district data and projective opinion data before designing a middle school
 description: "Under the CMP, planners gather two types of data before redesign: baseline data from district records (attendance, achievement analyses, mobility, attitudes) and projective data based on the perceptions of teachers, p..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

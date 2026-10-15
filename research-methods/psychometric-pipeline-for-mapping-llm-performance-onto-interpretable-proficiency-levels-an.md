@@ -3,7 +3,7 @@ type: research-method
 id: psychometric-pipeline-for-mapping-llm-performance-onto-interpretable-proficiency-levels-an
 title: Psychometric pipeline for mapping LLM performance onto interpretable proficiency levels and subskill mastery
 description: "The article's organizing framework integrates educational measurement methods into LLM evaluation: \"we estimate item difficulty using a two-parameter logistic (2PL) item response theory (IRT) model fitted to responses from 2,050 Chinese EFL learners\", then conduct a Bookmark standard-setting study w"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

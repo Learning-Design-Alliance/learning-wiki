@@ -3,7 +3,7 @@ type: claim
 title: A six-factor measurement model of university governance shows convergent validity in the Vietnamese context
 description: A six-factor measurement model of university governance shows convergent validity in the Vietnamese context
 id: six-factor-governance-model-convergent-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

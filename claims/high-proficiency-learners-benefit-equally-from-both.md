@@ -3,7 +3,7 @@ type: claim
 title: High-proficiency L2 learners benefited equally from prompts and recasts
 description: High-proficiency L2 learners benefited equally from prompts and recasts
 id: high-proficiency-learners-benefit-equally-from-both
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

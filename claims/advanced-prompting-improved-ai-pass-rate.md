@@ -3,7 +3,7 @@ type: claim
 title: Advanced prompting improved the pass rate of AI-generated psychology submissions within a one-hour limit
 description: Advanced prompting improved the pass rate of AI-generated psychology submissions within a one-hour limit
 id: advanced-prompting-improved-ai-pass-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

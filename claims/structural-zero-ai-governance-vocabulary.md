@@ -3,7 +3,7 @@ type: claim
 title: "AI governance vocabulary (bias, transparency, privacy, accountability, regulation, fairness) is a structural zero in students' AI associative networks"
 description: "AI governance vocabulary (bias, transparency, privacy, accountability, regulation, fairness) is a structural zero in students' AI associative networks"
 id: structural-zero-ai-governance-vocabulary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

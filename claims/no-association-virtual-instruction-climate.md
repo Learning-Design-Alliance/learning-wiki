@@ -3,7 +3,7 @@ type: claim
 title: No association found between 2021/22 school climate scores and the amount of virtual and hybrid instruction in 2020/21
 description: No association found between 2021/22 school climate scores and the amount of virtual and hybrid instruction in 2020/21
 id: no-association-virtual-instruction-climate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

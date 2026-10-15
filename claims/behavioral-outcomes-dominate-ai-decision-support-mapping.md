@@ -3,7 +3,7 @@ type: claim
 title: Behavioral outcomes, especially performance and engagement, dominate the learning outcomes linked to AI-supported lecturer decisions
 description: Behavioral outcomes, especially performance and engagement, dominate the learning outcomes linked to AI-supported lecturer decisions
 id: behavioral-outcomes-dominate-ai-decision-support-mapping
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

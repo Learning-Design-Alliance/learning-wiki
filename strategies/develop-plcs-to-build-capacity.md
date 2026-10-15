@@ -3,7 +3,7 @@ type: strategy
 id: develop-plcs-to-build-capacity
 title: Develop professional learning communities as a strategy for building capacity for sustainable improvement
 description: "The review's forward-looking recommendation is that schools and systems develop professional learning communities as their route to capacity building: \"Developing professional learning communities appears to hold cons..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

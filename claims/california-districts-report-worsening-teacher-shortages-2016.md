@@ -3,7 +3,7 @@ type: claim
 title: "About 75% of surveyed California districts report a shortage of qualified teachers for 2016-17, and over 80% of these say shortages have worsened since 2013-14"
 description: "About 75% of surveyed California districts report a shortage of qualified teachers for 2016-17, and over 80% of these say shortages have worsened since 2013-14"
 id: california-districts-report-worsening-teacher-shortages-2016
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: As of 2023-24, California was the only state using four criteria for exiting EL classification
 description: As of 2023-24, California was the only state using four criteria for exiting EL classification
 id: california-only-state-four-exit-criteria
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

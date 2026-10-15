@@ -2,7 +2,7 @@
 type: theory
 title: A data-driven, ten-type taxonomy of teacher feedback on open-ended mathematics responses
 description: "This taxonomy organizes teacher-authored feedback into 10 empirically derived types: Direct Correction, Targeted Affirmation, Hinting, Non-verbal Affirmation, Rhetorical Question, Show Your Work, Generic Comment, Dire..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

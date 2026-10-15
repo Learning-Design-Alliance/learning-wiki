@@ -3,7 +3,7 @@ type: strategy
 id: six-step-emancipatory-aied-design-methodology
 title: "Six-step design methodology: elicit values, minimal intervention, multi-level multi-outcome evaluation, iterate, simulate scale, sunset"
 description: The paper outlines a design process expanding design thinking, value-sensitive design, and participatory design.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

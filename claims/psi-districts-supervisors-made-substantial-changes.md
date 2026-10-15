@@ -3,7 +3,7 @@ type: claim
 title: Districts and principal supervisors made substantial changes to principal supervision as a result of the PSI
 description: Districts and principal supervisors made substantial changes to principal supervision as a result of the PSI
 id: psi-districts-supervisors-made-substantial-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

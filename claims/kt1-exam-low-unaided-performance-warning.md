@@ -3,7 +3,7 @@ type: claim
 title: "Written examination scores were low and confounded, providing a serious warning about students' unaided performance on foundational calculations"
 description: "Written examination scores were low and confounded, providing a serious warning about students' unaided performance on foundational calculations"
 id: kt1-exam-low-unaided-performance-warning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

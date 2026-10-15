@@ -3,7 +3,7 @@ type: claim
 title: National gender-equality and human-development indicators show no consistent correlation with sex differences in mathematics or reading across the decade
 description: National gender-equality and human-development indicators show no consistent correlation with sex differences in mathematics or reading across the decade
 id: no-consistent-correlation-gender-equality-sex-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

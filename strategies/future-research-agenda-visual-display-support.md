@@ -3,7 +3,7 @@ type: strategy
 id: future-research-agenda-visual-display-support
 title: "Pursue three lines of future research on supporting learning from visual displays: explanations, promising procedures, and neglected issues"
 description: "The review closes by outlining \"fruitful lines of further research\" with three specific foci: (a) testing the tentative explanations the authors provide \"on the basis of the best available evidence,\" (b) examining \"pr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

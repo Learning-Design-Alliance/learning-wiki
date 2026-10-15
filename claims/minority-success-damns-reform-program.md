@@ -3,7 +3,7 @@ type: claim
 title: "Black and Latino students' success in progressive mathematics triggers system reactions questioning the program's rigor"
 description: "Black and Latino students' success in progressive mathematics triggers system reactions questioning the program's rigor"
 id: minority-success-damns-reform-program
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

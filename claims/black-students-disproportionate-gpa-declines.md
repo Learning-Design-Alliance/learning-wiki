@@ -3,7 +3,7 @@ type: claim
 title: High- and middle-achieving Black students saw core GPA declines at least twice as large as White peers with similar eighth-grade GPAs
 description: High- and middle-achieving Black students saw core GPA declines at least twice as large as White peers with similar eighth-grade GPAs
 id: black-students-disproportionate-gpa-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

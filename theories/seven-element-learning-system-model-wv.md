@@ -2,7 +2,7 @@
 type: theory
 title: The seven-element learning system model developed in the workshop
 description: The workshop planning group developed a learning system model as an expansion of the basic input-processes-output with feedback loop model from systems analysis, adapting the instructional model of Kibler, Gegala, Bar...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Educational YouTube videos about ChatGPT fall into three structurally distinct discourse groups: learning-oriented scaffolding (G1), skill-building retrieval practice (G2), and output/productivity orientation (G3)"
 description: "Educational YouTube videos about ChatGPT fall into three structurally distinct discourse groups: learning-oriented scaffolding (G1), skill-building retrieval practice (G2), and output/productivity orientation (G3)"
 id: three-chatgpt-youtube-discourse-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

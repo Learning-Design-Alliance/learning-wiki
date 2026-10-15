@@ -3,7 +3,7 @@ type: claim
 title: "Teachers and students report strong satisfaction with ConnectED, with 94% of teachers willing to reuse it"
 description: "Teachers and students report strong satisfaction with ConnectED, with 94% of teachers willing to reuse it"
 id: connected-high-teacher-student-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

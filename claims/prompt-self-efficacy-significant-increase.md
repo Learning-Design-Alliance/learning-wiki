@@ -3,7 +3,7 @@ type: claim
 title: Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)
 description: Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)
 id: prompt-self-efficacy-significant-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

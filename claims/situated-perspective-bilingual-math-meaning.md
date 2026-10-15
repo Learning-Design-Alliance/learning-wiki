@@ -3,7 +3,7 @@ type: claim
 title: "Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)"
 description: "Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)"
 id: situated-perspective-bilingual-math-meaning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

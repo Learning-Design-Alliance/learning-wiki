@@ -3,7 +3,7 @@ type: claim
 title: The Discussion phase, comprising Reflection and Communication, can occur at any point during inquiry-based learning and connects to all other phases
 description: The Discussion phase, comprising Reflection and Communication, can occur at any point during inquiry-based learning and connects to all other phases
 id: discussion-phase-occurs-at-any-point
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

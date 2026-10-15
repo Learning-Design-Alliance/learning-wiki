@@ -3,7 +3,7 @@ type: claim
 title: "Equity-oriented leadership preparation through applied and reflective learning can deepen aspiring principals' understanding of bias and equitable practices"
 description: "Equity-oriented leadership preparation through applied and reflective learning can deepen aspiring principals' understanding of bias and equitable practices"
 id: equity-oriented-principal-preparation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

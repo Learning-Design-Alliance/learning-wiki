@@ -3,7 +3,7 @@ type: strategy
 id: knowledge-tracing-future-research-directions
 title: Future Research Directions for Knowledge Tracing
 description: "The survey closes by noting \"there are still a substantial number of problems that require urgent resolution.\" It names six directions: interpretable KT, including educational theories such as the Rasch model or trans..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

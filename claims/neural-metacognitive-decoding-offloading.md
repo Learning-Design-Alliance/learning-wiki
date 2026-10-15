@@ -3,7 +3,7 @@ type: claim
 title: Offloading is decodable from metacognitive monitoring and control brain processes
 description: Offloading is decodable from metacognitive monitoring and control brain processes
 id: neural-metacognitive-decoding-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

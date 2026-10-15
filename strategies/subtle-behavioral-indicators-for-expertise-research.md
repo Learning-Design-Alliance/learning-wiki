@@ -3,7 +3,7 @@ type: strategy
 id: subtle-behavioral-indicators-for-expertise-research
 title: Use finer-grained behavioral indicators such as transition rate, pacing, momentum, and accountability to study teaching expertise
 description: Because total-percentage time measures did not distinguish expertise groups, the authors recommend studying molecular behavioral quantities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

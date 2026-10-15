@@ -3,7 +3,7 @@ type: claim
 title: The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn
 description: The most cited barriers to adult learning are situational, but adults also face internal barriers such as low confidence in their ability to learn
 id: adult-learner-barriers-situational-and-internal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

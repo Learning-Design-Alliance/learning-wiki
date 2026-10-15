@@ -3,7 +3,7 @@ type: strategy
 id: homeless-student-funding-policy-strategy
 title: "Four-part policy strategy: increase funding, revise allocation formulas, expand allowable uses, and improve spending data"
 description: "The report recommends that policymakers \"consider increasing funding, making changes to funding distribution, expanding allowable uses of federal funding, and improving the quality of information about the use of fund..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

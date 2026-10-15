@@ -3,7 +3,7 @@ type: strategy
 id: ai-tutor-first-exposure-flipped-strategy
 title: "Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills"
 description: "The article recommends deploying AI tutoring as students' first substantial engagement with new material so class time can be spent on advanced problem solving, project-based learning and group work, in a flipped-clas..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

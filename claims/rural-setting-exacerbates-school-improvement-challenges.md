@@ -3,7 +3,7 @@ type: claim
 title: "Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face"
 description: "Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face"
 id: rural-setting-exacerbates-school-improvement-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: developmental-critical-model-ai-ssh
 title: Developmental-Critical Model for AI-Mediated SSH Pedagogy with Six Checkpoints
 description: A three-stage pedagogical framework guiding learners from AI-dependent toward AI-critical interpretation, grounded in cognitive-developmental theory, hermeneutics, and critical pedagogy.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

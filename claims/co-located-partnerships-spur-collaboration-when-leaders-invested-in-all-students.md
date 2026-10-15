@@ -3,7 +3,7 @@ type: claim
 title: Purposeful school partnerships, particularly among two or more schools located in the same building, spurred collaboration when leaders were invested in all students in the building
 description: Purposeful school partnerships, particularly among two or more schools located in the same building, spurred collaboration when leaders were invested in all students in the building
 id: co-located-partnerships-spur-collaboration-when-leaders-invested-in-all-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

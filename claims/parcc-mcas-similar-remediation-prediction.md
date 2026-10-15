@@ -4,7 +4,7 @@ title: MCAS and PARCC scores similarly predict which students need remedial cour
 description: MCAS and PARCC scores similarly predict which students need remedial coursework in college
 id: parcc-mcas-similar-remediation-prediction
 aliases: [mcas-and-parcc-similar-remediation-predictions]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

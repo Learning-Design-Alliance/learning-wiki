@@ -3,7 +3,7 @@ type: strategy
 id: scenario-targeted-metacognitive-interventions
 title: "Scenario-targeted professional development interventions matched to learners' current metacognitive configuration"
 description: "The article recommends replacing generic metacognitive training with interventions designed for a learner's diagnosed scenario."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

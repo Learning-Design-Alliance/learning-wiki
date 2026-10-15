@@ -3,7 +3,7 @@ type: claim
 title: Vivaldi first-year on-track counts fluctuated between 24 and 31 across the classes of 1997–2001
 description: Vivaldi first-year on-track counts fluctuated between 24 and 31 across the classes of 1997–2001
 id: vivaldi-first-year-on-track-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

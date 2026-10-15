@@ -3,7 +3,7 @@ type: claim
 title: "PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age"
 description: "PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age"
 id: psi-effect-increases-with-grade-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

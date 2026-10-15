@@ -3,7 +3,7 @@ type: claim
 title: Session intensity and duration distributions flagged physically impossible persistence as severe statistical outliers
 description: Session intensity and duration distributions flagged physically impossible persistence as severe statistical outliers
 id: session-intensity-duration-outlier-flagging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

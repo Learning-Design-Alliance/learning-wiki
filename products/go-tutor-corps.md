@@ -4,7 +4,7 @@ id: go-tutor-corps
 title: GO Tutor Corps
 description: GO Tutor Corps is a school-based high-impact mathematics tutoring programme that provides individualized or small-group tutoring, structured sessions, and progress monitoring for students needing additional academic support.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice
 description: HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice
 id: hqim-teacher-guides-vary-in-educative-guidance-depth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words
 description: Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words
 id: reading-times-drop-three-four-encounters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

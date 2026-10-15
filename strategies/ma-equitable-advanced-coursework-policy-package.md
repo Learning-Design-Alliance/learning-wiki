@@ -3,7 +3,7 @@ type: strategy
 id: ma-equitable-advanced-coursework-policy-package
 title: "State policy package to expand equitable access to advanced coursework: credit transparency, automatic enrollment with opt-out, fee removal, disaggregated data reporting, and belonging supports"
 description: "The brief recommends that Massachusetts require public higher education institutions to be \"transparent and consistent in awarding college credit\" (e.g., Bills S.838 and H.1280, barring minimum score requirements abov..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

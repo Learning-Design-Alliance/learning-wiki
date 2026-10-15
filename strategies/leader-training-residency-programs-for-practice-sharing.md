@@ -3,7 +3,7 @@ type: strategy
 id: leader-training-residency-programs-for-practice-sharing
 title: Use intensive training and residency programs for school leaders to share best practices across district-charter schools
 description: The report describes intensive training and residency programs for school leaders as a mechanism that helped facilitate sharing of best practices among collaborating schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

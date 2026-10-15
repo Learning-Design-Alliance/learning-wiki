@@ -3,7 +3,7 @@ type: claim
 title: GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity
 description: GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity
 id: genai-properties-serve-flourishing-vision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

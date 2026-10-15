@@ -3,7 +3,7 @@ type: claim
 title: A pilot AIDA-supported induction course reached 354 new students and supported early-stage orientation, yet further development and upscaling of AIDA subsequently stalled
 description: A pilot AIDA-supported induction course reached 354 new students and supported early-stage orientation, yet further development and upscaling of AIDA subsequently stalled
 id: aida-induction-pilot-then-stalled-upscaling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

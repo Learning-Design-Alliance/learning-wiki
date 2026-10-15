@@ -3,7 +3,7 @@ type: claim
 title: Edtech coaches supported families with IT tasks, platform training, and home learning environment guidance during closures
 description: Edtech coaches supported families with IT tasks, platform training, and home learning environment guidance during closures
 id: coach-support-to-families-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

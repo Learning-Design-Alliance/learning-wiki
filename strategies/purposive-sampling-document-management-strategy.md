@@ -3,7 +3,7 @@ type: strategy
 id: purposive-sampling-document-management-strategy
 title: Purposive school sampling plus careful document coding, cleaning, and archiving for longitudinal assignment and student-work research
 description: "The project selected an initial purposive sample of 11 networks and then two or three schools each, intending \"to create a purposive sample of schools that would allow us to understand reasons for more or less success..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

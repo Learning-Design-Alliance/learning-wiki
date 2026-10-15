@@ -3,7 +3,7 @@ type: claim
 title: "Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application"
 description: "Washington's insistence on the correctness of his Tuskegee method stifled the emergence of new ideas and narrowed his system's application"
 id: washington-tuskegee-method-stifled-new-ideas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

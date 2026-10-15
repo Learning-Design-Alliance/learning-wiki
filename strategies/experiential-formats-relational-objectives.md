@@ -3,7 +3,7 @@ type: strategy
 id: experiential-formats-relational-objectives
 title: Use direct-experience formats — simulation games, extracurricular activities, action learning, peer teaching — to pursue relational-domain objectives
 description: The article recommends learning environments that let learners explore social relationships through direct experience, in simulated or real-world formats, on the premise that one leads by leading rather than by readin...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

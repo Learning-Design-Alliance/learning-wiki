@@ -3,7 +3,7 @@ type: claim
 title: Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video
 description: Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video
 id: vs-higher-purposefulness-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

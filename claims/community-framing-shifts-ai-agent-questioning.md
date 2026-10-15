@@ -3,7 +3,7 @@ type: claim
 title: "Community topic framing shifts AI agent discourse: the philosophy submolt shows a 31.3% question rate versus 7.4% in general"
 description: "Community topic framing shifts AI agent discourse: the philosophy submolt shows a 31.3% question rate versus 7.4% in general"
 id: community-framing-shifts-ai-agent-questioning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine
 description: SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine
 id: sdp-ep-partnerships-enabled-new-data-use-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

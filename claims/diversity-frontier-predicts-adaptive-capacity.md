@@ -3,7 +3,7 @@ type: claim
 title: Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting
 description: Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting
 id: diversity-frontier-predicts-adaptive-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

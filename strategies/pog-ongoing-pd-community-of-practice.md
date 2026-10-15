@@ -3,7 +3,7 @@ type: strategy
 id: pog-ongoing-pd-community-of-practice
 title: Invest in ongoing educator professional development and an assessment community of practice for POG success
 description: The brief states the success of a POG will likely hinge on the ongoing professional growth of educators tasked with facilitating POG competency learning, and that investing in ongoing PD is crucial with dedicated fund...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

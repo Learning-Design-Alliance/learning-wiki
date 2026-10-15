@@ -3,7 +3,7 @@ type: strategy
 id: ai-peer-integrated-feedback-cycle-strategy
 title: Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring
 description: "The article's implementable procedure: students draft an essay, submit it to ChatGPT-4 with a standardized core prompt targeting the four rubric dimensions, revise, then complete conventional rubric-based peer review..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

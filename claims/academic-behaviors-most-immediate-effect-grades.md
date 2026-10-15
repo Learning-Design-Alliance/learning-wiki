@@ -3,7 +3,7 @@ type: claim
 title: Academic behaviors have the most immediate effect on course grades; directly targeting grit is not an evidenced lever
 description: Academic behaviors have the most immediate effect on course grades; directly targeting grit is not an evidenced lever
 id: academic-behaviors-most-immediate-effect-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

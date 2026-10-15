@@ -3,7 +3,7 @@ type: claim
 title: Eighth graders in the Breakthrough Collaborative math tutoring pilot showed math score growth from beginning to end of year at both affiliates, similar to a national pre-pandemic sample
 description: Eighth graders in the Breakthrough Collaborative math tutoring pilot showed math score growth from beginning to end of year at both affiliates, similar to a national pre-pandemic sample
 id: breakthrough-tutoring-math-gains-similar-national-sample
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

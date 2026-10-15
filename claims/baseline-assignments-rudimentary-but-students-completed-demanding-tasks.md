@@ -3,7 +3,7 @@ type: claim
 title: A 1998 baseline study found typical Chicago assignments were mostly rudimentary basic-skills exercises, but most students completed the more demanding tasks they were given
 description: A 1998 baseline study found typical Chicago assignments were mostly rudimentary basic-skills exercises, but most students completed the more demanding tasks they were given
 id: baseline-assignments-rudimentary-but-students-completed-demanding-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

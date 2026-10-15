@@ -3,7 +3,7 @@ type: strategy
 id: onboard-new-ai-assistants-via-configuration-payloads
 title: Onboard new educational AI assistants to shared analytics via configuration payloads, not new code
 description: "The authors recommend that future educational AI assistants adopt the pipeline's existing statistical options by writing an analysis configuration payload rather than new analysis code."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

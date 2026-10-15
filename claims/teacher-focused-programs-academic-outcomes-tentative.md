@@ -3,7 +3,7 @@ type: claim
 title: "Students' academic outcomes tentatively benefit from teacher-focused classroom management programs"
 description: "Students' academic outcomes tentatively benefit from teacher-focused classroom management programs"
 id: teacher-focused-programs-academic-outcomes-tentative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

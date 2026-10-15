@@ -4,7 +4,7 @@ id: grasha-riechmann-learning-style-inventory
 title: Grasha-Riechmann Learning Style Inventory
 description: "A 60-item Likert-scale assessment developed by Anthony Grasha to measure students' social-interaction learning-style preferences across independent-dependent, avoidant-participant, and collaborative-competitive dimensions; this study used a Turkish adaptation."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

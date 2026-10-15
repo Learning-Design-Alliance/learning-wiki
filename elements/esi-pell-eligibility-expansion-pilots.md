@@ -3,7 +3,7 @@ type: element
 id: esi-pell-eligibility-expansion-pilots
 title: Experimental Sites Initiative Pell eligibility pilots
 description: Two experimental expansions to Pell Grant eligibility piloted between 2012 and 2017 to aid recovery from the Great Recession.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

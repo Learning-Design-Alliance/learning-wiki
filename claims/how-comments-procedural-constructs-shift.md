@@ -3,7 +3,7 @@ type: claim
 title: "Students shift toward How comments for procedural constructs: 94.3% of Multi-Step-Block and 57.3% of Loop-Iteration comments were How comments"
 description: "Students shift toward How comments for procedural constructs: 94.3% of Multi-Step-Block and 57.3% of Loop-Iteration comments were How comments"
 id: how-comments-procedural-constructs-shift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

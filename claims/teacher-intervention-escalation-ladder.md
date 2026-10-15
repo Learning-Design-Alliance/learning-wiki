@@ -3,7 +3,7 @@ type: claim
 title: "Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer"
 description: "Within their jurisdiction, teachers describe a four-step escalation ladder: teach the whole class, watch and take note, talk one-on-one, and refer"
 id: teacher-intervention-escalation-ladder
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

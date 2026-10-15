@@ -3,7 +3,7 @@ type: claim
 title: Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own
 description: Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own
 id: proactive-highlighting-reveals-latent-knowledge-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

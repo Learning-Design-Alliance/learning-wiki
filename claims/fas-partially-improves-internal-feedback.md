@@ -3,7 +3,7 @@ type: claim
 title: "FAS support partially improves internal feedback: more comments on and fewer ignored erroneous elements in students' own drafts"
 description: "FAS support partially improves internal feedback: more comments on and fewer ignored erroneous elements in students' own drafts"
 id: fas-partially-improves-internal-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

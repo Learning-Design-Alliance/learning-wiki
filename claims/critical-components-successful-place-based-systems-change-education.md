@@ -3,7 +3,7 @@ type: claim
 title: Research identifies critical components of successful place-based systems change in education
 description: Research identifies critical components of successful place-based systems change in education
 id: critical-components-successful-place-based-systems-change-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

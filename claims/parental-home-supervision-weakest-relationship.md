@@ -3,7 +3,7 @@ type: claim
 title: "Parental home supervision has the weakest relationship with students' academic achievement among involvement components"
 description: "Parental home supervision has the weakest relationship with students' academic achievement among involvement components"
 id: parental-home-supervision-weakest-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

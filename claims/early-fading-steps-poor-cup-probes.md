@@ -3,7 +3,7 @@ type: claim
 title: Cup-drinking performance was poor during early fading steps and improved only near the terminal step
 description: Cup-drinking performance was poor during early fading steps and improved only near the terminal step
 id: early-fading-steps-poor-cup-probes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

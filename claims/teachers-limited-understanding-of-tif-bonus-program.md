@@ -3,7 +3,7 @@ type: claim
 title: "Many teachers had only a limited understanding of the TIF bonus program: about 40 percent of eligible teachers knew they could receive a bonus, and teachers typically estimated the maximum bonus at about 40 percent of the actual maximum"
 description: "Many teachers had only a limited understanding of the TIF bonus program: about 40 percent of eligible teachers knew they could receive a bonus, and teachers typically estimated the maximum bonus at about 40 percent of..."
 id: teachers-limited-understanding-of-tif-bonus-program
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

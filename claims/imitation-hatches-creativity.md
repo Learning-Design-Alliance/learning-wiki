@@ -3,7 +3,7 @@ type: claim
 title: Creativity in IDC starts with imitation, which the commentary argues hatches rather than opposes creation
 description: Creativity in IDC starts with imitation, which the commentary argues hatches rather than opposes creation
 id: imitation-hatches-creativity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

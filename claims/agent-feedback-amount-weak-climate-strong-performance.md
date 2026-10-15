@@ -3,7 +3,7 @@ type: claim
 title: In the expectations meta-analysis, the amount of feedback agents provided had only a meager relation to performance (r = .07) whereas the climate agents created had a strong one (r = .36)
 description: In the expectations meta-analysis, the amount of feedback agents provided had only a meager relation to performance (r = .07) whereas the climate agents created had a strong one (r = .36)
 id: agent-feedback-amount-weak-climate-strong-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

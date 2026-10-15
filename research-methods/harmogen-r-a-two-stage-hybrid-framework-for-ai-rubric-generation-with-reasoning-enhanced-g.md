@@ -3,7 +3,7 @@ type: research-method
 id: harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-g
 title: "HARMOGEN-R: a two-stage hybrid framework for AI rubric generation with reasoning-enhanced generation and low-temperature synthesis"
 description: HARMOGEN-R (Hybrid Assessment Rubric Model Generation with Reasoning) is a two-stage rubric generation pipeline.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

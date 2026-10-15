@@ -3,7 +3,7 @@ type: claim
 title: Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)
 description: Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)
 id: students-lasting-personal-growth-experiences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

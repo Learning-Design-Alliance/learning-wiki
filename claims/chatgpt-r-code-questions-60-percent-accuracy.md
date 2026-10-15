@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT could not execute R code for statistics MCQs, achieving 60% accuracy when its code was run with corrected dataset naming"
 description: "ChatGPT could not execute R code for statistics MCQs, achieving 60% accuracy when its code was run with corrected dataset naming"
 id: chatgpt-r-code-questions-60-percent-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

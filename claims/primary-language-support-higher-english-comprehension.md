@@ -3,7 +3,7 @@ type: claim
 title: Primary-language (Spanish) oral instructions yielded significantly higher English reading comprehension than English-only instructions
 description: Primary-language (Spanish) oral instructions yielded significantly higher English reading comprehension than English-only instructions
 id: primary-language-support-higher-english-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: FORAP-packaged projects were deployed in 44 classroom trials across seven universities over four academic years, reaching about 2,000 students
 description: FORAP-packaged projects were deployed in 44 classroom trials across seven universities over four academic years, reaching about 2,000 students
 id: forap-44-classroom-trials-seven-universities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

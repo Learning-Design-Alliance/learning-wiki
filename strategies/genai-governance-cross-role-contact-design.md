@@ -3,7 +3,7 @@ type: strategy
 id: genai-governance-cross-role-contact-design
 title: Design GenAI governance and cross-role contact around integrity disputes, the principal site of sustained faculty-student contact
 description: "The article's discussion draws implications for governance, pedagogical design, and cross-role contact design from its finding that adversarial integrity themes dominate faculty-student contact."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

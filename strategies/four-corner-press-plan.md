@@ -3,7 +3,7 @@ type: strategy
 id: four-corner-press-plan
 title: "The Four Corner Press: balancing personally and professionally inviting behavior with one's self and others"
 description: "The authors call the plan for Invitational Education the 'Four Corner Press,' with four corners: '1) being personally inviting with one's self, 2) being personally inviting with others, 3) being professionally invitin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

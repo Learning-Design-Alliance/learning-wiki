@@ -3,7 +3,7 @@ type: strategy
 id: genai-integration-feedback-literacy-reflective-course-design
 title: Structure GenAI integration in higher education around feedback-literacy curricula and reflective course design
 description: "The article draws a practical implication for universities: because the association between GenAI use and self-reported critical analytical skills runs mainly through feedback literacy and is strongest among reflectiv..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

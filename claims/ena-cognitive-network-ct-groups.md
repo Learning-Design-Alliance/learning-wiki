@@ -3,7 +3,7 @@ type: claim
 title: ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students
 description: ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students
 id: ena-cognitive-network-ct-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

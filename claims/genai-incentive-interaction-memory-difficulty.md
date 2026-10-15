@@ -3,7 +3,7 @@ type: claim
 title: Prior genAI access and incentives interact on perceived difficulty of the memory test
 description: Prior genAI access and incentives interact on perceived difficulty of the memory test
 id: genai-incentive-interaction-memory-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

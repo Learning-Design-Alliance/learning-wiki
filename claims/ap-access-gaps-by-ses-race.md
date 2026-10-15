@@ -3,7 +3,7 @@ type: claim
 title: High-SES graduates were more than three times as likely as low-SES graduates to take an AP course in 2003-04
 description: High-SES graduates were more than three times as likely as low-SES graduates to take an AP course in 2003-04
 id: ap-access-gaps-by-ses-race
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

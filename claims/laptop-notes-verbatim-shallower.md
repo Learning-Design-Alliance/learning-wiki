@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

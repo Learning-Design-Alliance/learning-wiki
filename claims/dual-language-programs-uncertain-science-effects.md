@@ -3,7 +3,7 @@ type: claim
 title: Dual language programs showed uncertain effects on science achievement
 description: Dual language programs showed uncertain effects on science achievement
 id: dual-language-programs-uncertain-science-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: K-12 and higher education educators express generally positive feelings about research on digital learning platforms, with no negative respondents
 description: K-12 and higher education educators express generally positive feelings about research on digital learning platforms, with no negative respondents
 id: educators-positive-feelings-dlp-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

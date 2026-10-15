@@ -4,7 +4,7 @@ id: ccc-product-badges
 title: CCC product badges
 description: A set of three competency-based badges proposed for vendors to demonstrate alignment of educational products with community college student and faculty priorities, including diverse lived experiences, continuous improvement, and faculty agency and connection.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

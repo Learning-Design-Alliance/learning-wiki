@@ -3,7 +3,7 @@ type: claim
 title: "Pairwise statistical tests confirm random forest's performance differences from other models are statistically significant (p < 0.05)"
 description: "Pairwise statistical tests confirm random forest's performance differences from other models are statistically significant (p < 0.05)"
 id: statistical-tests-confirm-random-forest-superiority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

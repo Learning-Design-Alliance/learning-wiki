@@ -3,7 +3,7 @@ type: claim
 title: "Users of a student success information system showed only a surface-level understanding of privacy, with FERPA serving as the extent of many interviewees' privacy knowledge"
 description: "Users of a student success information system showed only a surface-level understanding of privacy, with FERPA serving as the extent of many interviewees' privacy knowledge"
 id: surface-level-privacy-understanding-users
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

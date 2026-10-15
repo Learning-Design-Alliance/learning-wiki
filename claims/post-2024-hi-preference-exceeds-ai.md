@@ -3,7 +3,7 @@ type: claim
 title: From 2024 onward, yearly mean preference for investing in human intelligence exceeds that for artificial intelligence, with the largest within-year divergence in 2026
 description: From 2024 onward, yearly mean preference for investing in human intelligence exceeds that for artificial intelligence, with the largest within-year divergence in 2026
 id: post-2024-hi-preference-exceeds-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

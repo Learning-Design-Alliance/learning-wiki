@@ -3,7 +3,7 @@ type: claim
 title: "Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions"
 description: "Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions"
 id: peer-monitoring-exceeds-social-presence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

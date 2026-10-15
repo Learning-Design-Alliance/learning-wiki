@@ -3,7 +3,7 @@ type: design
 id: five-ct-competencies-organizing-k12-content
 title: Five key computational thinking competencies organizing K-12 content
 description: "The pathway conceptualizes content at every grade level as relating to one of five competencies: \"Abstraction, Data Collection and Analysis, Algorithmic Thinking, Building Models & Simulations, and Decomposition.\" Thi..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker
 description: Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker
 id: sdt-path-strengths-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

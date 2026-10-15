@@ -3,7 +3,7 @@ type: strategy
 id: institutional-state-federal-faculty-diversity-actions
 title: Institutional, state, and federal actions to increase faculty diversity
 description: "The report recommends a multi-level action set: institutions should develop specific targets for increasing Black and Latino faculty, increase recruitment and retention funds, create opportunities for students to conn..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

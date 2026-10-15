@@ -3,7 +3,7 @@ type: research-method
 id: child-centered-ai-safety-evaluation-framework-integrating-expert-guidelines-with-real-worl
 title: Child-centered AI safety evaluation framework integrating expert guidelines with real-world AI incident data
 description: "The article introduces an evaluation framework for child safety in generative AI that combines two resources: expert-proposed child safety guidelines and AI incident databases."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

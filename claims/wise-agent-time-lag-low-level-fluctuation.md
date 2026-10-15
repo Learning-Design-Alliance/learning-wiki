@@ -3,7 +3,7 @@ type: claim
 title: Low-level students showed stage-based fluctuation with a time-lag effect in which thinking improvement preceded writing improvement, while high-level students remained stable
 description: Low-level students showed stage-based fluctuation with a time-lag effect in which thinking improvement preceded writing improvement, while high-level students remained stable
 id: wise-agent-time-lag-low-level-fluctuation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

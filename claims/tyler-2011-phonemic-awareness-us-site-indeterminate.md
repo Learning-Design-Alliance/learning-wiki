@@ -3,7 +3,7 @@ type: claim
 title: Tyler et al. (2011) found no statistically significant differences between a phonemic awareness intervention and a morphosyntactic intervention at the US site (indeterminate effect)
 description: Tyler et al.
 id: tyler-2011-phonemic-awareness-us-site-indeterminate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

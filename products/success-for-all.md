@@ -4,7 +4,7 @@ id: success-for-all
 title: Success for All
 description: Success for All is a comprehensive K–5 school reform and reading programme developed and operated by the Success for All Foundation for schools serving students at risk of reading difficulty.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

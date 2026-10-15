@@ -3,7 +3,7 @@ type: strategy
 id: closed-goal-oriented-tasks-encourage-negotiation
 title: Set up closed, goal-oriented tasks with a limited number of possible outcomes to encourage negotiation of meaning in CMC
 description: "Following Pica, Kanagy and Falodun (1993), the chapter endorses Pellettieri's (2000) recommendation to \"set up goal-oriented tasks with a limited number of possible outcomes to encourage negotiation of meaning\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

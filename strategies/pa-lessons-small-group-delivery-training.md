@@ -3,7 +3,7 @@ type: strategy
 id: pa-lessons-small-group-delivery-training
 title: Deliver PA Lessons in small groups of 4-5 students with one teacher, supported by 90-minute virtual training
 description: "The article specifies the delivery conditions under which the program is intended to work: it is \"Best used in small group settings with 1 teacher to 4-5 students\", teachers receive a \"90-minute virtual training\", and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

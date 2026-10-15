@@ -3,7 +3,7 @@ type: claim
 title: Students perceived eight GenAI roles but lacked engagement and a sense of achievement
 description: Students perceived eight GenAI roles but lacked engagement and a sense of achievement
 id: eight-perceived-genai-roles-low-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

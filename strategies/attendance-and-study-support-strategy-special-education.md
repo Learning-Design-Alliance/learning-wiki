@@ -3,7 +3,7 @@ type: strategy
 id: attendance-and-study-support-strategy-special-education
 title: Support freshman success for students with disabilities through attendance-boosting measures and study-habit support tailored to learning and mild cognitive disabilities
 description: "The report recommends that educators focus on freshman-year course performance for students receiving special education services and students two or more years below grade level, since helping them \"pass more courses..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

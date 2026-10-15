@@ -3,7 +3,7 @@ type: strategy
 id: offer-synchronous-and-recorded-lecture-options
 title: Offer lectures both live (synchronously) and as posted recordings so students with connectivity, work, or time-zone constraints are not disadvantaged
 description: During the spring 2020 shift, case study institutions commonly built in options by delivering the same lecture in real time and as an asynchronous recording.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: stepped-care-tiered-response-architecture-chatbot
 title: "Stepped Care Model response architecture: chatbot tone, language and support intensity escalate proportionally with detected stress severity"
 description: "The article applies the Stepped Care Model, described as \"a well recognised framework for a clinical approach of escalating intensity, tone and type of support in accordance with the level of stress detected\", as the..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

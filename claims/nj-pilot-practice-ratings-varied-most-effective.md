@@ -3,7 +3,7 @@ type: claim
 title: "Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective"
 description: "Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective"
 id: nj-pilot-practice-ratings-varied-most-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Educators reported the promotion policy increased parental concern about student progress
 description: Educators reported the promotion policy increased parental concern about student progress
 id: promotion-policy-increased-parental-concern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

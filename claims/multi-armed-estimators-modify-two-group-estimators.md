@@ -3,7 +3,7 @@ type: claim
 title: Design-based estimators for two-group designs require modification for multi-armed designs when comparing pairs of research groups
 description: Design-based estimators for two-group designs require modification for multi-armed designs when comparing pairs of research groups
 id: multi-armed-estimators-modify-two-group-estimators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

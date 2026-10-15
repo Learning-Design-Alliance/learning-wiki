@@ -3,7 +3,7 @@ type: claim
 title: Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher
 description: Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher
 id: gender-differences-ai-perceptions-limited-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

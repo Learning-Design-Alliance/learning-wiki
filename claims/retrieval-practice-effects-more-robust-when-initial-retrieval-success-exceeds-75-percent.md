@@ -3,7 +3,7 @@ type: claim
 title: A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects
 description: A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects
 id: retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

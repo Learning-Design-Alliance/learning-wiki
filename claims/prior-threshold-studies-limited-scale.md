@@ -3,7 +3,7 @@ type: claim
 title: Prior threshold-method comparison studies typically used simulated or small-scale data, or non-CAT large-scale data with few items
 description: Prior threshold-method comparison studies typically used simulated or small-scale data, or non-CAT large-scale data with few items
 id: prior-threshold-studies-limited-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

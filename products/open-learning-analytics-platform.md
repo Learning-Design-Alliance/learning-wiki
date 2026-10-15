@@ -4,7 +4,7 @@ id: open-learning-analytics-platform
 title: Open Learning Analytics Platform
 description: "An open learning-analytics software platform developed by the article's authors for educational stakeholders to implement, visualize, and integrate learning-analytics indicators."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

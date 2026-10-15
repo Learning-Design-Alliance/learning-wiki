@@ -3,7 +3,7 @@ type: claim
 title: Most states adopted and most principals and teachers reported implementing college- and career-readiness-focused state standards in 2013-14
 description: Most states adopted and most principals and teachers reported implementing college- and career-readiness-focused state standards in 2013-14
 id: most-states-adopted-college-career-readiness-standards-2013-14
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

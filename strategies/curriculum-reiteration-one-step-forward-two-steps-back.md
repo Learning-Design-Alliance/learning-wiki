@@ -3,7 +3,7 @@ type: strategy
 id: curriculum-reiteration-one-step-forward-two-steps-back
 title: Build regular reiteration of previously covered vocabulary topics into the EFL curriculum
 description: The authors recommend that, because the curriculum allocates only about a month to 100-120 target lexemes, courses should systematically revisit previously covered topics.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

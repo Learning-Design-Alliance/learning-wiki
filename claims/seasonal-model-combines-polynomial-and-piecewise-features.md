@@ -3,7 +3,7 @@ type: claim
 title: The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses
 description: The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses
 id: seasonal-model-combines-polynomial-and-piecewise-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

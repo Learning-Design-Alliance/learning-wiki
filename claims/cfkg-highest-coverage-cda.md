@@ -3,7 +3,7 @@ type: claim
 title: The CF–KG model attains the highest coverage (0.736) and cross-domain accuracy (0.741) among all compared recommenders
 description: The CF–KG model attains the highest coverage (0.736) and cross-domain accuracy (0.741) among all compared recommenders
 id: cfkg-highest-coverage-cda
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

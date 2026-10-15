@@ -3,7 +3,7 @@ type: strategy
 id: multiple-strategies-modeling-problems
 title: Encourage children to model and discuss multiple solution strategies for number problems instead of hunting for clue words
 description: "Across items and tasks, the guide urges that children be encouraged to model problems of joining, separating, and comparing rather than looking for clue words like 'more than' or 'difference'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Redshirted children may gain a physical maturity advantage over peers, which some parents cite for sports
 description: Redshirted children may gain a physical maturity advantage over peers, which some parents cite for sports
 id: redshirting-physical-maturity-advantage-sports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

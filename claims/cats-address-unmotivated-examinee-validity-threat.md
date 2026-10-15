@@ -3,7 +3,7 @@ type: claim
 title: CATs can effectively address the validity threat posed by unmotivated examinees in low-stakes testing
 description: CATs can effectively address the validity threat posed by unmotivated examinees in low-stakes testing
 id: cats-address-unmotivated-examinee-validity-threat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

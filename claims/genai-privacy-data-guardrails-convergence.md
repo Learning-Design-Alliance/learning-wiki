@@ -3,7 +3,7 @@ type: claim
 title: Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services
 description: Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services
 id: genai-privacy-data-guardrails-convergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

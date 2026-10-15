@@ -3,7 +3,7 @@ type: claim
 title: Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation
 description: Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation
 id: genai-disclosure-attribution-convergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

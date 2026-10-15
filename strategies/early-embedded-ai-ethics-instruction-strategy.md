@@ -3,7 +3,7 @@ type: strategy
 id: early-embedded-ai-ethics-instruction-strategy
 title: Embed explicit AI ethics instruction early and use scenario-based, guidance-oriented teaching
 description: "Based on the finding that students' ethical judgments form early in the transition to higher education and that uncertainty persists around modified AI content, the authors recommend institutions \"intentionally embedd..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

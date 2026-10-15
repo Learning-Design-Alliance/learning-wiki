@@ -3,7 +3,7 @@ type: claim
 title: A 1997 New York City report found that increasing resource room instructional group sizes from 5 to at most 8 students per teacher led to decreases in reading achievement
 description: A 1997 New York City report found that increasing resource room instructional group sizes from 5 to at most 8 students per teacher led to decreases in reading achievement
 id: gottlieb-1997-group-size-increase-lowered-reading-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

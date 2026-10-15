@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT users began information seeking with narrow, specified queries far more often than Google users
 description: ChatGPT users began information seeking with narrow, specified queries far more often than Google users
 id: chatgpt-narrow-starting-queries
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

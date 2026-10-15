@@ -4,7 +4,7 @@ id: readable-english
 title: Readable English
 description: Readable English is a branded reading intervention programme developed and delivered by Readable English, combining an adaptive conversion tool with sequenced scripted phonics-to-comprehension lessons for struggling readers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

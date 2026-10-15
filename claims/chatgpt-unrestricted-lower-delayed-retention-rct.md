@@ -3,7 +3,7 @@ type: claim
 title: Review reports a randomized trial in which unrestricted ChatGPT study produced lower delayed retention than traditional methods
 description: Review reports a randomized trial in which unrestricted ChatGPT study produced lower delayed retention than traditional methods
 id: chatgpt-unrestricted-lower-delayed-retention-rct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

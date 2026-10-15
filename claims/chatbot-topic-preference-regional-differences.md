@@ -3,7 +3,7 @@ type: claim
 title: "US and HK adolescents differ in conversation-topic preferences: HK adolescents more often prefer instrumental help-seeking and self-disclosure, while US adolescents more often report nothing to say to chatbots"
 description: "US and HK adolescents differ in conversation-topic preferences: HK adolescents more often prefer instrumental help-seeking and self-disclosure, while US adolescents more often report nothing to say to chatbots"
 id: chatbot-topic-preference-regional-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Implementation of the pay-for-performance policy differed from the envisioned approach, with about 40 percent of teachers unaware they were eligible for a performance bonus
 description: Implementation of the pay-for-performance policy differed from the envisioned approach, with about 40 percent of teachers unaware they were eligible for a performance bonus
 id: pay-for-performance-implementation-gap-bonus-unawareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

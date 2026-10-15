@@ -3,7 +3,7 @@ type: strategy
 id: csr-embedded-scheduling-strategy
 title: Schedule CSR within regular ELA and content-area instruction, spreading sessions across teachers in secondary settings
 description: "CSR is implemented inside existing timetabled lessons rather than as a pull-out program: \"50 minutes a day, two to three times a week, during regular English language arts or content area instruction.\" In secondary se..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

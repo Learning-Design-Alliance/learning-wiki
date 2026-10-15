@@ -3,7 +3,7 @@ type: claim
 title: "Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures"
 description: "Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures"
 id: hybridization-of-authorship-argumentation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

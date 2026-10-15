@@ -3,7 +3,7 @@ type: strategy
 id: expand-ib-dp-urban-districts-college-readiness
 title: Implement or expand IB Diploma Programs in urban neighborhood high schools to promote college readiness
 description: "The release presents the neighborhood IB DP as a \"bold experiment that paid off\" and states its findings \"have important implications for other urban districts interested in implementing or expanding IB DP programs.\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

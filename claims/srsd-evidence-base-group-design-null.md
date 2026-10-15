@@ -3,7 +3,7 @@ type: claim
 title: No SRSD study met WWC group design standards; 10 of 14 eligible single-case design studies met pilot standards with reservations
 description: No SRSD study met WWC group design standards; 10 of 14 eligible single-case design studies met pilot standards with reservations
 id: srsd-evidence-base-group-design-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

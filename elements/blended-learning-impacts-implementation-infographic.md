@@ -3,7 +3,7 @@ type: element
 id: blended-learning-impacts-implementation-infographic
 title: Infographic overview of blended learning impacts and implementation
 description: "A research-review infographic from Regional Educational Laboratory Mid-Atlantic that \"provides an overview of blended learning, its impact on student achievement, and best practices for successful implementation.\" It..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

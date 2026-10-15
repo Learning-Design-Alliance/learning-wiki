@@ -3,7 +3,7 @@ type: claim
 title: AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics
 description: AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics
 id: ai-pbl-assessment-underdeveloped-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

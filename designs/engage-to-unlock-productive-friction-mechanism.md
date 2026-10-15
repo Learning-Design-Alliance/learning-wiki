@@ -3,7 +3,7 @@ type: design
 id: engage-to-unlock-productive-friction-mechanism
 title: "Engage-to-Unlock: engagement-based access as a productive-friction mechanism for GenAI"
 description: Engage-to-Unlock is an interaction method in which generative capabilities become available only after users show task-relevant engagement.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

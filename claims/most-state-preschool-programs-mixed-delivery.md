@@ -3,7 +3,7 @@ type: claim
 title: Most state-funded preschool programs use a mixed delivery system, with some states serving over half of children in non-LEA settings
 description: Most state-funded preschool programs use a mixed delivery system, with some states serving over half of children in non-LEA settings
 id: most-state-preschool-programs-mixed-delivery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Placing heavier cognitive demands on learners can be counterproductive in mapping tasks
 description: Placing heavier cognitive demands on learners can be counterproductive in mapping tasks
 id: heavy-cognitive-demands-of-mapping-can-be-counterproductive
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

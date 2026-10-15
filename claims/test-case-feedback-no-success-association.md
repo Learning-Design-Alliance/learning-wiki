@@ -3,7 +3,7 @@ type: claim
 title: Failing test case feedback shows no significant association with eventual success
 description: Failing test case feedback shows no significant association with eventual success
 id: test-case-feedback-no-success-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: research-method
 id: three-paths-of-student-ai-interaction-typology
 title: Three Paths of Student-AI Interaction typology
 description: "A typological framework identifying three qualitatively distinct modes of student-AI engagement: Passive Review (student accepts AI output with minimal scrutiny, unidirectional, limited higher-order opportunity), Direct Question (transactional gap-filling with surface evaluation, moderate opportunit"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

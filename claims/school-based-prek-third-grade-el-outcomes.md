@@ -3,7 +3,7 @@ type: claim
 title: ELs who attended a school-based CPS pre-k showed better third-grade attendance, grades, test scores, and English proficiency than peers who did not
 description: ELs who attended a school-based CPS pre-k showed better third-grade attendance, grades, test scores, and English proficiency than peers who did not
 id: school-based-prek-third-grade-el-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

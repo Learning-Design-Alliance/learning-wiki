@@ -3,7 +3,7 @@ type: claim
 title: "High-poverty schools' high achievers had roughly even odds of above-average growth, and 75th-percentile growth would be needed to close the readiness gap"
 description: "High-poverty schools' high achievers had roughly even odds of above-average growth, and 75th-percentile growth would be needed to close the readiness gap"
 id: above-average-growth-probability-high-poverty-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: collearn-human-ai-co-learning-loop
 title: "Human–AI co-learning loop: persistent learner-state memory, adaptive question generation, and a transparent evidence view"
 description: "CoLearn operationalises the ideal tutor as a loop in which the learner practises while the agent refines a persistent memory of the learner's mastery and misconceptions."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: default-sort-order-academic-performance-strategy
 title: Default school-listing sort order to academic performance rather than distance from home
 description: "A specific, implementable interface strategy: when presenting school options to parents, set the default ordering of listings by academic performance rather than by proximity."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

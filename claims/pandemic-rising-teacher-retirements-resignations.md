@@ -3,7 +3,7 @@ type: claim
 title: Retirements and resignations rose in some districts during the pandemic and leaders expect higher retirement rates next year
 description: Retirements and resignations rose in some districts during the pandemic and leaders expect higher retirement rates next year
 id: pandemic-rising-teacher-retirements-resignations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

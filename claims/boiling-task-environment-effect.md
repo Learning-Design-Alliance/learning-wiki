@@ -3,7 +3,7 @@ type: claim
 title: Learning environment had a less significant impact on causal mechanistic reasoning on the boiling point task, with a small effect size of 0.168
 description: Learning environment had a less significant impact on causal mechanistic reasoning on the boiling point task, with a small effect size of 0.168
 id: boiling-task-environment-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

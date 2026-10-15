@@ -3,7 +3,7 @@ type: claim
 title: Children’s SSI applications bounced back to some extent as students returned to in-person learning
 description: Children’s SSI applications bounced back to some extent as students returned to in-person learning
 id: ssi-applications-rebounded-with-in-person-return
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)
 description: AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)
 id: ai-grading-run-to-run-reliability-icc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

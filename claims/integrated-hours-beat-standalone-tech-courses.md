@@ -3,7 +3,7 @@ type: claim
 title: Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses
 description: Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses
 id: integrated-hours-beat-standalone-tech-courses
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

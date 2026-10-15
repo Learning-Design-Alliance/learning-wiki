@@ -3,7 +3,7 @@ type: strategy
 id: llm-judge-correctness-definition-prompts
 title: Define correctness explicitly in LLM-as-a-judge prompts, offering behavior-focused and construction-focused rubric variants
 description: The LLM-as-a-judge approach prompts the model with the program description, the code line with its number, and the student explanation, asking only for a correctness judgment.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

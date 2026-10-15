@@ -3,7 +3,7 @@ type: strategy
 id: atc-title-i-salary-supplement-strategy
 title: Reward service in high-poverty Title I schools with a salary supplement and portable credential for recognized effective teachers
 description: The proposed ATC strategy ties tangible rewards to service in high-poverty schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

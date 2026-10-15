@@ -3,7 +3,7 @@ type: element
 id: nwea-research-partnership-map
 title: NWEA research partnership map visualizing collaborations with universities, foundations, think tanks, and school systems
 description: "The research partnership map is an interactive data visualization that lets users \"explore this interactive map to learn more about some of our research partnerships.\" It documents that NWEA researchers work \"through..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "A student-teacher racial/ethnic parity gap persists: in 2011–12, 44% of students but only 17.3% of teachers were minority"
 description: "A student-teacher racial/ethnic parity gap persists: in 2011–12, 44% of students but only 17.3% of teachers were minority"
 id: persistent-student-teacher-parity-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

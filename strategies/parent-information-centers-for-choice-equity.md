@@ -3,7 +3,7 @@ type: strategy
 id: parent-information-centers-for-choice-equity
 title: Establish parent-staffed Parent Information Centers to equalize access to the choice process
 description: "To \"level the playing field\" so parents across racial, ethnic, and socioeconomic groups can make informed choices, the plan calls for Parent Information Centers."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

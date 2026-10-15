@@ -3,7 +3,7 @@ type: strategy
 id: arc-based-selective-delegation-grading
 title: Use accuracy-rejection curves with reliability analysis to select operating points for selective delegation in human-in-the-loop grading
 description: The article recommends that educators and system designers use accuracy-rejection curves together with reliability analysis as a principled basis for selective grading decisions, rather than thresholds chosen solely f...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

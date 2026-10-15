@@ -3,7 +3,7 @@ type: claim
 title: Feedback givers agree on exact urgency tiers only about a fifth of the time, with most disagreements off by a single tier
 description: Feedback givers agree on exact urgency tiers only about a fifth of the time, with most disagreements off by a single tier
 id: low-urgency-rank-agreement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

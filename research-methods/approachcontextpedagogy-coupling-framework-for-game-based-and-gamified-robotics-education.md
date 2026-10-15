@@ -3,7 +3,7 @@ type: research-method
 id: approachcontextpedagogy-coupling-framework-for-game-based-and-gamified-robotics-education
 title: Approach–context–pedagogy coupling framework for game-based and gamified robotics education
 description: "The review's organizing framework holds that instructional approach (GBL vs."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

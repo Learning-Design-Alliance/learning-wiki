@@ -3,7 +3,7 @@ type: claim
 title: Student uptake is only weakly and inconsistently correlated with chatbot scaffolding in real-world deployments
 description: Student uptake is only weakly and inconsistently correlated with chatbot scaffolding in real-world deployments
 id: weak-inconsistent-scaffolding-uptake-correlation-real-world
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

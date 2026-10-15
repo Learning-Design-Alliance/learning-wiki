@@ -3,7 +3,7 @@ type: claim
 title: Unfettered GPT-4 access during practice harms subsequent unassisted exam performance in high school mathematics
 description: Unfettered GPT-4 access during practice harms subsequent unassisted exam performance in high school mathematics
 id: gpt-base-harms-unassisted-exam-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

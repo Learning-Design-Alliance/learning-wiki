@@ -3,7 +3,7 @@ type: claim
 title: Skill-level leakage is strongest for communication style and personality, not explicit demographics
 description: Skill-level leakage is strongest for communication style and personality, not explicit demographics
 id: leakage-strongest-communication-personality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

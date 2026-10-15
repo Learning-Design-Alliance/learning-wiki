@@ -3,7 +3,7 @@ type: claim
 title: The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale
 description: The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale
 id: friday-institute-mooc-ed-implementation-gap-micro-credentials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

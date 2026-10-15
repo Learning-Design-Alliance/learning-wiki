@@ -3,7 +3,7 @@ type: claim
 title: Mobile language learning apps are used mainly for vocabulary learning among surveyed app users
 description: Mobile language learning apps are used mainly for vocabulary learning among surveyed app users
 id: mall-vocabulary-most-supported-skill
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

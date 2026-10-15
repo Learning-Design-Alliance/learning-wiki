@@ -3,7 +3,7 @@ type: claim
 title: Precisely coordinated transitions among spatial-orientational behavioral clusters help stabilize local patterns of student thinking
 description: Precisely coordinated transitions among spatial-orientational behavioral clusters help stabilize local patterns of student thinking
 id: behavioral-clusters-stabilize-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

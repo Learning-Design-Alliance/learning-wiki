@@ -2,7 +2,7 @@
 type: claim
 title: Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity
 id: ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: claim
 title: "Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study"
 description: "Young developing readers rely more heavily on semantic and syntactic information for word-level analysis than adult readers, per Schwantes' study"
 id: young-readers-rely-on-semantic-syntactic-context-for-word-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning
 description: Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning
 id: ai-video-viewing-yields-quiz-scores-4-3
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Using multiple data sources, including site-specific data, helped schools develop a more comprehensive understanding of their school climate
 description: Using multiple data sources, including site-specific data, helped schools develop a more comprehensive understanding of their school climate
 id: multiple-data-sources-holistic-climate-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

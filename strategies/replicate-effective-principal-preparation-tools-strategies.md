@@ -3,7 +3,7 @@ type: strategy
 id: replicate-effective-principal-preparation-tools-strategies
 title: Use evaluation findings to guide replication of effective principal preparation tools and strategies across charter, traditional public, and preparation-field settings
 description: "The evaluation positions its findings as usable beyond KIPP: they \"can guide the replication of effective tools and strategies that increase the number of highly effective principals among other charter and traditiona..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

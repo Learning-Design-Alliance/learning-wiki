@@ -4,7 +4,7 @@ id: factria-framework-of-factors-in-the-analytical-process-and-the-data-context-
 title: FACTRIA (Framework of Factors in the Analytical process and the data Context for Responsible Institutional Analytics)
 description: A flexible, evidence-informed framework proposed by Marques et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

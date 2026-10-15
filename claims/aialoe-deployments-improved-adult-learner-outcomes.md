@@ -3,7 +3,7 @@ type: claim
 title: AI-ALOE technology deployments were associated with improved adult learner outcomes, including higher course grades and retention for Jill Watson and higher-quality written work for SMART, though VERA outcomes varied by course structure
 description: AI-ALOE technology deployments were associated with improved adult learner outcomes, including higher course grades and retention for Jill Watson and higher-quality written work for SMART, though VERA outcomes varied...
 id: aialoe-deployments-improved-adult-learner-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

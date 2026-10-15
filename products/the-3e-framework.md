@@ -4,7 +4,7 @@ id: the-3e-framework
 title: The 3E framework
 description: The 3E framework is a rubric-based assessment developed by Masum Hasan et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

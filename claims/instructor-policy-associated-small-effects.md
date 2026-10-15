@@ -3,7 +3,7 @@ type: claim
 title: Perceived instructor policy is associated with GenAI task use, confidence, reliance, and perceived benefits, with small effect sizes
 description: Perceived instructor policy is associated with GenAI task use, confidence, reliance, and perceived benefits, with small effect sizes
 id: instructor-policy-associated-small-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

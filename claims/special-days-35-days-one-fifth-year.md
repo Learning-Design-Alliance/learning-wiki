@@ -3,7 +3,7 @@ type: claim
 title: Special days consume roughly 35 days per school year, about one-fifth of the year, with instructional reductions of 20 to 100 percent
 description: Special days consume roughly 35 days per school year, about one-fifth of the year, with instructional reductions of 20 to 100 percent
 id: special-days-35-days-one-fifth-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

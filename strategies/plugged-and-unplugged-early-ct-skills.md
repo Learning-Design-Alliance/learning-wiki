@@ -3,7 +3,7 @@ type: strategy
 id: plugged-and-unplugged-early-ct-skills
 title: Design early learning (K-3) CT opportunities both plugged and unplugged, with devices leveraged where appropriate
 description: The guide recommends that computational thinking skills, as the foundation for any computational problem solving, be integrated into early learning opportunities in K-3 both with and without computational devices.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

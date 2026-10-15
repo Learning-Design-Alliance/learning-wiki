@@ -3,7 +3,7 @@ type: claim
 title: Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding
 description: Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding
 id: blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

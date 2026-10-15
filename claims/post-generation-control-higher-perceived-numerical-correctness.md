@@ -3,7 +3,7 @@ type: claim
 title: Primary mathematics teachers rate post-generation control significantly higher than pre- and mid-generation control on perceived numerical correctness of generated visuals
 description: Primary mathematics teachers rate post-generation control significantly higher than pre- and mid-generation control on perceived numerical correctness of generated visuals
 id: post-generation-control-higher-perceived-numerical-correctness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

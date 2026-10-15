@@ -3,7 +3,7 @@ type: claim
 title: Higher prior proficiency is associated with faster step-level response-time propensities
 description: Higher prior proficiency is associated with faster step-level response-time propensities
 id: higher-proficiency-faster-step-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

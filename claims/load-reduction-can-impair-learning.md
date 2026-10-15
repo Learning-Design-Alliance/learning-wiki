@@ -3,7 +3,7 @@ type: claim
 title: Reduction of cognitive load can sometimes impair learning rather than enhance it
 description: Reduction of cognitive load can sometimes impair learning rather than enhance it
 id: load-reduction-can-impair-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

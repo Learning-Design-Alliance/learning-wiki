@@ -3,7 +3,7 @@ type: claim
 title: In an 18-participant user study, the system received a 4.00/5 overall recommendation, with hallucination resistance rated 4.44/5 and highest ratings for ease of starting a conversation (4.39/5) and response relevance and accuracy (4.06/5)
 description: In an 18-participant user study, the system received a 4.00/5 overall recommendation, with hallucination resistance rated 4.44/5 and highest ratings for ease of starting a conversation (4.39/5) and response relevance...
 id: user-study-18-participants-recommendation-4-of-5
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

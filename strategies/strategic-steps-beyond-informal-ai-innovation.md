@@ -3,7 +3,7 @@ type: strategy
 id: strategic-steps-beyond-informal-ai-innovation
 title: "Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots"
 description: "The article enumerates five implementable institutional actions: \"Recognise AI-driven curriculum redesign in workload models so innovation is not dependent on unrecognised effort by individual educators\"; embed AI-ena..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

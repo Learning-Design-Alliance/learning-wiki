@@ -3,7 +3,7 @@ type: strategy
 id: early-intervention-mtss-investment-return
 title: Invest state discretionary dollars in early intervention systems such as MTSS to reduce later intensive supports
 description: State leaders recommended using state discretionary dollars to fund initiatives strengthening connections between general and special education, such as multi-tiered system of supports (MTSS), in which LEAs develop in...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

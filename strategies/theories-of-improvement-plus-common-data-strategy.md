@@ -3,7 +3,7 @@ type: strategy
 id: theories-of-improvement-plus-common-data-strategy
 title: Ground annual improvement cycles in explicit theories of improvement and shared common achievement data rather than in vision-statement refinement alone
 description: The report recommends that collaborative improvement communities anchor annual inquiry cycles in explicit theories of improvement and shared evidence.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

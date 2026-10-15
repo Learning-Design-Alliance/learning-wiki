@@ -3,7 +3,7 @@ type: claim
 title: Kindergarten entry-age effects do not differ by gender or race
 description: Kindergarten entry-age effects do not differ by gender or race
 id: entry-age-effects-no-gender-race-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

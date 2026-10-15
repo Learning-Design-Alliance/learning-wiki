@@ -3,7 +3,7 @@ type: claim
 title: Summer learning loss is common but not inevitable among K-12 students
 description: Summer learning loss is common but not inevitable among K-12 students
 id: summer-slide-common-but-not-inevitable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

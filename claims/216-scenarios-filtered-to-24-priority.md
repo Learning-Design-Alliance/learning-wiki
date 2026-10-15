@@ -3,7 +3,7 @@ type: claim
 title: Combinatorial enumeration yields 216 scenarios, filtered to 24 priority scenarios across three developmental tiers
 description: Combinatorial enumeration yields 216 scenarios, filtered to 24 priority scenarios across three developmental tiers
 id: 216-scenarios-filtered-to-24-priority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

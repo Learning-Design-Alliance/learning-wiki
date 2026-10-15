@@ -3,7 +3,7 @@ type: claim
 title: "In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust positively, with Chat Mode the strongest performer"
 description: "In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust positively, with Chat Mode the strongest performer"
 id: lea-pilot-positive-usability-chat-quiz-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "In operational reading-test data, ignoring local dependence inflates reliability estimates, with passage-based alpha 2.3%-4.9% lower than item-based alpha across six test forms"
 description: "In operational reading-test data, ignoring local dependence inflates reliability estimates, with passage-based alpha 2.3%-4.9% lower than item-based alpha across six test forms"
 id: real-data-reliability-overestimated-2-3-to-4-9-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

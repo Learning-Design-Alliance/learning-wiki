@@ -3,7 +3,7 @@ type: strategy
 id: leverage-strengths-to-mitigate-challenges
 title: Leverage what students do well and enjoy to address their learning challenges
 description: "After identifying specific strengths across the whole child framework, teachers are prompted to brainstorm how those strengths can support growth areas: \"How can I leverage what students do well and enjoy doing to add..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

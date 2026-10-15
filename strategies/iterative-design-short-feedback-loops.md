@@ -3,7 +3,7 @@ type: strategy
 id: iterative-design-short-feedback-loops
 title: Use iterative design with short feedback loops and multiple user-feedback methods during product development
 description: "The guide recommends working closely with users during development through iterative design, defined via the OET guide as \"the process of using short feedback loops to define assumptions, create prototypes, and obtain..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

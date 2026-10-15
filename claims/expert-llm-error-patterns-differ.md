@@ -3,7 +3,7 @@ type: claim
 title: Human experts and LLMs show qualitatively different error patterns in outcome prediction
 description: Human experts and LLMs show qualitatively different error patterns in outcome prediction
 id: expert-llm-error-patterns-differ
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

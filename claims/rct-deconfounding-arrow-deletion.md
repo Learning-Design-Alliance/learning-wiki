@@ -3,7 +3,7 @@ type: claim
 title: Randomized experiments de-confound by deleting back-door paths, but imperfect compliance can reintroduce confounding
 description: Randomized experiments de-confound by deleting back-door paths, but imperfect compliance can reintroduce confounding
 id: rct-deconfounding-arrow-deletion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

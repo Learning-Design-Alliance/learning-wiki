@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

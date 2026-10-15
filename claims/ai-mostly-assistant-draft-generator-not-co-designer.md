@@ -3,7 +3,7 @@ type: claim
 title: "AI most often serves as an assistant or draft generator (33.3% of studies) in teacher-AI design collaboration, while co-designer or partner roles appear in only 13.3%"
 description: "AI most often serves as an assistant or draft generator (33.3% of studies) in teacher-AI design collaboration, while co-designer or partner roles appear in only 13.3%"
 id: ai-mostly-assistant-draft-generator-not-co-designer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

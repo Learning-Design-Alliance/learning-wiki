@@ -3,7 +3,7 @@ type: claim
 title: "The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strategies (time-management, effort regulation)"
 description: "The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strate..."
 id: combined-condition-improved-specific-srl-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

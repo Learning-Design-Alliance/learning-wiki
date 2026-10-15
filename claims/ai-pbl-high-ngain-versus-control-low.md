@@ -3,7 +3,7 @@ type: claim
 title: AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)
 description: AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)
 id: ai-pbl-high-ngain-versus-control-low
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

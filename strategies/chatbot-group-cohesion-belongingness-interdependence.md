@@ -3,7 +3,7 @@ type: strategy
 id: chatbot-group-cohesion-belongingness-interdependence
 title: Support group cohesion by cultivating belongingness and interdependence through the chatbot
 description: This strategy directs chatbot design toward reinforcing group cohesion by cultivating a sense of belonging and interdependence within teams.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

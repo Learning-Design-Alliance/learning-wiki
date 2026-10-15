@@ -3,7 +3,7 @@ type: claim
 title: Deterrence layers failed because seeds changed parameters rather than task structure, scaffolding exposed solution steps, and hidden grading verified output consistency rather than authorship or understanding
 description: Deterrence layers failed because seeds changed parameters rather than task structure, scaffolding exposed solution steps, and hidden grading verified output consistency rather than authorship or understanding
 id: why-qiskit-deterrence-layers-failed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

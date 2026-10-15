@@ -3,7 +3,7 @@ type: claim
 title: Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent
 description: Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent
 id: low-trust-systematic-verification-genai-outputs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

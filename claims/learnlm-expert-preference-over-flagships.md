@@ -3,7 +3,7 @@ type: claim
 title: Pedagogy experts prefer LearnLM over contemporaneous flagship models across comparative assessment categories
 description: Pedagogy experts prefer LearnLM over contemporaneous flagship models across comparative assessment categories
 id: learnlm-expert-preference-over-flagships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

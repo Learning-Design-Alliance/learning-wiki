@@ -3,7 +3,7 @@ type: strategy
 id: critical-thinking-and-philosophy-courses-in-teacher-education
 title: Include courses on critical thinking and philosophy of education in teacher training programs
 description: Based on the finding that critical thinking dispositions associate with contemporary educational philosophy preference, the authors recommend that teacher education programs offer courses on critical thinking and educ...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: rapid-cycle-edtech-pilot-best-practices
 title: Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results
 description: "This strategy packages the eight best practices Digital Promise identified for district ed-tech pilots: articulate the instructional need, use clear criteria to review products, involve educators in planning, support..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

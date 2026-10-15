@@ -3,7 +3,7 @@ type: strategy
 id: directly-teach-elaborative-processing-strategies
 title: Directly teach students when, why, and how to elaborate on new information
 description: The report recommends teaching students when, why, and how to elaborate on new information, since trained elaboration produced better delayed recall than merely asking questions that stimulate elaboration production,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

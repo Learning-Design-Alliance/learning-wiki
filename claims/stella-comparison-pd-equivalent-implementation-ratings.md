@@ -3,7 +3,7 @@ type: claim
 title: An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration
 description: An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration
 id: stella-comparison-pd-equivalent-implementation-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

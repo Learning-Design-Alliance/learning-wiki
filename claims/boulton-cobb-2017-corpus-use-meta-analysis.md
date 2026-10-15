@@ -3,7 +3,7 @@ type: claim
 title: A meta-analysis of corpus use in language learning was published in Language Learning in 2017 by Boulton and Cobb.
 description: A meta-analysis of corpus use in language learning was published in Language Learning in 2017 by Boulton and Cobb.
 id: boulton-cobb-2017-corpus-use-meta-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

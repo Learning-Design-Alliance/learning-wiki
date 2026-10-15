@@ -3,7 +3,7 @@ type: claim
 title: End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective
 description: End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective
 id: chatbot-student-attitudes-null-survey-selective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

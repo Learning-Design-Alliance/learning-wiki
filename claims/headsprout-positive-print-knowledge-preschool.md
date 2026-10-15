@@ -3,7 +3,7 @@ type: claim
 title: Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children
 description: Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children
 id: headsprout-positive-print-knowledge-preschool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

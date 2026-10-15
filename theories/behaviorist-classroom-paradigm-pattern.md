@@ -3,7 +3,7 @@ type: theory
 id: behaviorist-classroom-paradigm-pattern
 title: "The behaviorist classroom paradigm: teacher as enforcer, passive learner, reward and punishment, predetermined knowledge"
 description: "The review's Table 1 lays out the behaviorist paradigm across objectives, teaching theory, and the student's role."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

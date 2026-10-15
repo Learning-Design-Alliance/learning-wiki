@@ -3,7 +3,7 @@ type: claim
 title: Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play
 description: Vocabulary performance shifted from B1–B2 CEFR levels at pre-test to B2–C1 at post-test after four weeks of Mangomon play
 id: cefr-band-shift-business-vocabulary-mangomon
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

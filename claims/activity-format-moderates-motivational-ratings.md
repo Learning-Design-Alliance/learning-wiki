@@ -3,7 +3,7 @@ type: claim
 title: Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats
 description: Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats
 id: activity-format-moderates-motivational-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

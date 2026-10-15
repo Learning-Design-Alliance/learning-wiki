@@ -3,7 +3,7 @@ type: claim
 title: GenAI-supported peer feedback groups achieved higher structural complexity of argumentation artifacts than peer-feedback-only groups
 description: GenAI-supported peer feedback groups achieved higher structural complexity of argumentation artifacts than peer-feedback-only groups
 id: genai-peer-feedback-raises-argument-structural-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

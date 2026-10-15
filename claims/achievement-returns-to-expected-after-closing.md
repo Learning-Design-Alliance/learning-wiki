@@ -3,7 +3,7 @@ type: claim
 title: "One year after leaving closing schools, displaced students' reading and math achievement returned to expected levels, with no additional negative or positive effects"
 description: "One year after leaving closing schools, displaced students' reading and math achievement returned to expected levels, with no additional negative or positive effects"
 id: achievement-returns-to-expected-after-closing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

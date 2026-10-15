@@ -3,7 +3,7 @@ type: claim
 title: "The most significant reported benefit of AI in instructional design is assistance with administrative and repetitive tasks (18 of 28 studies, 64.2%)"
 description: "The most significant reported benefit of AI in instructional design is assistance with administrative and repetitive tasks (18 of 28 studies, 64.2%)"
 id: ai-benefit-administrative-repetitive-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

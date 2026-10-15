@@ -3,7 +3,7 @@ type: claim
 title: Principals in implementation networks reported moderate school improvement from working with external partners and other network schools, attributed largely to teacher collaboration
 description: Principals in implementation networks reported moderate school improvement from working with external partners and other network schools, attributed largely to teacher collaboration
 id: network-participation-moderate-school-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

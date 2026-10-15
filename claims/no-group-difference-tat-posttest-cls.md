@@ -3,7 +3,7 @@ type: claim
 title: No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction
 description: No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction
 id: no-group-difference-tat-posttest-cls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

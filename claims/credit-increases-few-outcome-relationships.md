@@ -3,7 +3,7 @@ type: claim
 title: District-level increases in total, science, fine arts, or world languages credit requirements between 2012/13 and 2017/18 showed few relationships with student academic outcomes
 description: District-level increases in total, science, fine arts, or world languages credit requirements between 2012/13 and 2017/18 showed few relationships with student academic outcomes
 id: credit-increases-few-outcome-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

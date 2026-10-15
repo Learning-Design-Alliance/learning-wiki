@@ -3,7 +3,7 @@ type: claim
 title: Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group
 description: Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group
 id: deliberate-practice-increases-student-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

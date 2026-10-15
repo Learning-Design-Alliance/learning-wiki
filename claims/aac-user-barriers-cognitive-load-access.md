@@ -3,7 +3,7 @@ type: claim
 title: AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access
 description: AAC users report device useability difficulties, high cognitive load when learning communication systems, and poor physical and sensory access
 id: aac-user-barriers-cognitive-load-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

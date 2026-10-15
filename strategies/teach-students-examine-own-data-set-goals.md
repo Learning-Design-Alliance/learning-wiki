@@ -3,7 +3,7 @@ type: strategy
 id: teach-students-examine-own-data-set-goals
 title: Teach students to examine their own data and set learning goals
 description: Teachers instruct students in using their own assessment data to develop personal achievement goals and guide learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

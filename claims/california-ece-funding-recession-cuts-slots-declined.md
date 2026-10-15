@@ -3,7 +3,7 @@ type: claim
 title: "California ECE funding suffered over $1 billion in recession-era cuts, eliminating roughly 25% of child care slots between 2008 and 2013, and funding remains below pre-recession levels"
 description: "California ECE funding suffered over $1 billion in recession-era cuts, eliminating roughly 25% of child care slots between 2008 and 2013, and funding remains below pre-recession levels"
 id: california-ece-funding-recession-cuts-slots-declined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

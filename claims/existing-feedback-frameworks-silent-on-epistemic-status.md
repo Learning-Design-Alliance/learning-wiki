@@ -3,7 +3,7 @@ type: claim
 title: Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions
 description: Established feedback frameworks do not address the epistemic status of feedback tasks relevant to automation decisions
 id: existing-feedback-frameworks-silent-on-epistemic-status
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: The online vocabulary intervention did not significantly improve reading comprehension
 description: The online vocabulary intervention did not significantly improve reading comprehension
 id: online-vocabulary-intervention-no-comprehension-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

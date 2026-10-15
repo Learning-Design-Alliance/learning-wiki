@@ -3,7 +3,7 @@ type: claim
 title: "Learner repair following feedback differed by setting: prompts yielded the largest proportion of repair in French immersion, recasts in Japanese immersion"
 description: "Learner repair following feedback differed by setting: prompts yielded the largest proportion of repair in French immersion, recasts in Japanese immersion"
 id: repair-patterns-vary-by-feedback-type-and-setting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

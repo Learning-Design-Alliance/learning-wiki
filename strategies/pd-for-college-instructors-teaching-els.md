@@ -3,7 +3,7 @@ type: strategy
 id: pd-for-college-instructors-teaching-els
 title: "Prepare college instructors to support English Learners' language and academic development in dual enrollment courses"
 description: The authors recommend that future work examine professional development for college faculty teaching dual enrollment participants from K-12 EL backgrounds.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

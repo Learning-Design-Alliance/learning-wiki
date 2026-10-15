@@ -4,7 +4,7 @@ id: sukoon
 title: Sukoon
 description: A web application developed by Muhammad Fahad Bashir that combines Random Forest stress-severity classification with a culturally aware LLM chatbot to provide wellness guidance for Pakistani university students.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Sex differences in mathematics and reading are strongly and inversely correlated across nations in all four PISA assessments
 description: Sex differences in mathematics and reading are strongly and inversely correlated across nations in all four PISA assessments
 id: across-nation-inverse-correlation-math-reading-sex-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

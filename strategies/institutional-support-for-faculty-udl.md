@@ -3,7 +3,7 @@ type: strategy
 id: institutional-support-for-faculty-udl
 title: Support faculty UDL uptake through shared resources, discussion forums, responsive accessibility services, and recognition of accessible design work
 description: "The article recommends a bundle of institutional supports to improve the acceptability of UDL among professors: additional resources, forums to discuss common challenges, better support from accessibility services, an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

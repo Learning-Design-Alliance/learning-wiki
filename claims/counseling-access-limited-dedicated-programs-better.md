@@ -3,7 +3,7 @@ type: claim
 title: Many community college students lack individual access to a counselor to discuss placement results, and students in dedicated programs report greater counseling satisfaction
 description: Many community college students lack individual access to a counselor to discuss placement results, and students in dedicated programs report greater counseling satisfaction
 id: counseling-access-limited-dedicated-programs-better
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

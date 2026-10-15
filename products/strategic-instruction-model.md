@@ -4,7 +4,7 @@ id: strategic-instruction-model
 title: Strategic Instruction Model
 description: Strategic Instruction Model (SIM) is a multi-tiered adolescent-literacy curriculum and instructional programme created and disseminated by the University of Kansas Center for Research on Learning, including its Learning Strategies Curriculum variants Xtreme Reading and Fusion Reading.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

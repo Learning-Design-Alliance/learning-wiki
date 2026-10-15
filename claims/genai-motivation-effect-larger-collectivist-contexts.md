@@ -3,7 +3,7 @@ type: claim
 title: "GenAI's motivational effect is larger in collectivistic than individualistic cultural contexts (exploratory)"
 description: "GenAI's motivational effect is larger in collectivistic than individualistic cultural contexts (exploratory)"
 id: genai-motivation-effect-larger-collectivist-contexts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

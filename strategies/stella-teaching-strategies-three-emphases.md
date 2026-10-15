@@ -3,7 +3,7 @@ type: strategy
 id: stella-teaching-strategies-three-emphases
 title: STeLLA® teaching strategies for explaining, identifying, and engaging science concepts
 description: "STeLLA® trains teachers in instructional strategies emphasizing three areas: explaining science concepts using accurate descriptions, analogies, visual displays or models, and other representations that minimize stude..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

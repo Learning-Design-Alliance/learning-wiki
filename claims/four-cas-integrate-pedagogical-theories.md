@@ -3,7 +3,7 @@ type: claim
 title: Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification
 description: Four reviewed CAs explicitly integrate pedagogical theories, including the Vygotskian perspective, the 4C/ID model, scaffolding, and gamification
 id: four-cas-integrate-pedagogical-theories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

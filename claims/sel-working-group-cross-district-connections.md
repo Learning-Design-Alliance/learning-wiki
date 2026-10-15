@@ -3,7 +3,7 @@ type: claim
 title: District leaders reported the working group created a valued cross-district network, with 96 percent forming new connections to colleagues
 description: District leaders reported the working group created a valued cross-district network, with 96 percent forming new connections to colleagues
 id: sel-working-group-cross-district-connections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

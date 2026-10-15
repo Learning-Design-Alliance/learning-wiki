@@ -3,7 +3,7 @@ type: claim
 title: Non-test-based indicators such as graduation rates are poorly suited to stabilization models assuming normal distributions, which may impose excessive adjustments
 description: Non-test-based indicators such as graduation rates are poorly suited to stabilization models assuming normal distributions, which may impose excessive adjustments
 id: non-test-based-indicators-poorly-suited-to-stabilization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

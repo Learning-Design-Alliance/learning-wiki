@@ -3,7 +3,7 @@ type: claim
 title: SEDA growth estimates show a high degree of congruence with MAP Growth-based estimates overall
 description: SEDA growth estimates show a high degree of congruence with MAP Growth-based estimates overall
 id: seda-map-growth-high-overall-congruence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

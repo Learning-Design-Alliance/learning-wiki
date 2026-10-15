@@ -3,7 +3,7 @@ type: claim
 title: "Background characteristics independently predict 9th-grade off-track indicators: boys are 1.7 times as likely to be suspended and 3.5 times as likely to have a GPA below a C than girls"
 description: "Background characteristics independently predict 9th-grade off-track indicators: boys are 1.7 times as likely to be suspended and 3.5 times as likely to have a GPA below a C than girls"
 id: background-covariates-predict-off-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

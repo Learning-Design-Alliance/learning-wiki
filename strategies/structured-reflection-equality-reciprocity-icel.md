@@ -3,7 +3,7 @@ type: strategy
 id: structured-reflection-equality-reciprocity-icel
 title: Incorporate structured reflective exercises on equality, reciprocity, positionality and bias into any (I)CEL exercise for staff and students
 description: "The article recommends that \"reflective exercises are incorporated into any (I)CEL exercise among both staff and students, including with a specific focus on equality and reciprocity\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

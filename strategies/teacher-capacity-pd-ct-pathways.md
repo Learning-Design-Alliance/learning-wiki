@@ -3,7 +3,7 @@ type: strategy
 id: teacher-capacity-pd-ct-pathways
 title: Build teacher capacity through iterative, equity-centered professional development for pathway implementation
 description: In Year 3 of the partnership, development activities supported pilot teachers to implement the inclusive pathway by designing, implementing, and iterating on professional development resources for teachers (largely, K...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

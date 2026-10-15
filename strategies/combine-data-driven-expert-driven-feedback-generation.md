@@ -3,7 +3,7 @@ type: strategy
 id: combine-data-driven-expert-driven-feedback-generation
 title: Combine data-driven and expert-driven approaches, and add a filter network, to mitigate non-factual output in automated feedback
 description: The article recommends hybrid approaches to address the drawbacks of data-driven feedback generation, which the authors describe as data hungry and not always controllable.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

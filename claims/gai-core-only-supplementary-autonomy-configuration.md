@@ -3,7 +3,7 @@ type: claim
 title: GAI use appears as a core condition only in a supplementary autonomy–relatedness configuration with low unique coverage
 description: GAI use appears as a core condition only in a supplementary autonomy–relatedness configuration with low unique coverage
 id: gai-core-only-supplementary-autonomy-configuration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated"
 description: "Funnel plot and Egger's test indicate publication bias in the PBL tutor-background data, and trim-and-fill suggests the overall effect is overestimated"
 id: publication-bias-pbl-tutor-meta-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: strategy
 id: sustained-focus-on-one-essential-support
 title: Select one essential support area to improve—chosen for community interest, need, or buy-in—and continue working on it, since improvement in any essential positively impacts student success
 description: "The brief advises: \"The most important thing is to select an area to work on, and continue working to improve it.\" It states the best focus area is one \"that the school community has interest in, need for, and/or buy-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

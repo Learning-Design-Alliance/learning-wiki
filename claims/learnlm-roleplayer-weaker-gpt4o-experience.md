@@ -3,7 +3,7 @@ type: claim
 title: Role-playing learners report weaker experiences with GPT-4o than with LearnLM, Gemini 1.5 Pro, and Claude 3.5 Sonnet
 description: Role-playing learners report weaker experiences with GPT-4o than with LearnLM, Gemini 1.5 Pro, and Claude 3.5 Sonnet
 id: learnlm-roleplayer-weaker-gpt4o-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

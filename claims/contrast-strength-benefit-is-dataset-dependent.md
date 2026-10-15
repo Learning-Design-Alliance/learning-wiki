@@ -3,7 +3,7 @@ type: claim
 title: The benefit of high- versus low-contrast sampling depends on the dataset
 description: The benefit of high- versus low-contrast sampling depends on the dataset
 id: contrast-strength-benefit-is-dataset-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

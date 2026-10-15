@@ -3,7 +3,7 @@ type: strategy
 id: cross-stakeholder-ai-education-action-recommendations
 title: Cross-stakeholder policy, research, and practice actions for collaborative AI initiatives in education
 description: Based on the Delphi findings and persona reflections, the article recommends actions assigned to policymakers (PM), researchers (RE), and practitioners (PR), organised under six goals including fostering knowledge exc...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

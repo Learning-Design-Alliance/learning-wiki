@@ -3,7 +3,7 @@ type: claim
 title: Age category, skill level and sport context moderate RAE magnitude
 description: Age category, skill level and sport context moderate RAE magnitude
 id: rae-moderators-age-skill-sport-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

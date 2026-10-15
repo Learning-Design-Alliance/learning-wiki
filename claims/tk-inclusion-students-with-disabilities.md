@@ -3,7 +3,7 @@ type: claim
 title: "87% of TK classrooms were inclusive of students with disabilities, and most LEAs provided adaptations and additional staff, though rising special education needs strained resources"
 description: "87% of TK classrooms were inclusive of students with disabilities, and most LEAs provided adaptations and additional staff, though rising special education needs strained resources"
 id: tk-inclusion-students-with-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

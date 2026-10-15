@@ -3,7 +3,7 @@ type: strategy
 id: family-community-student-engagement-sead-partnerships
 title: Family, community, and student engagement as full partners in SEAD policy and practice
 description: "The brief holds that strong partnerships between educators, students, families, and communities are essential for SEAD: when educators engage the communities they serve, they gain deeper understanding of students' str..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

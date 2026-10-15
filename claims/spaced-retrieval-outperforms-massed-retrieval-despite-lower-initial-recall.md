@@ -3,7 +3,7 @@ type: claim
 title: Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention
 description: Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention
 id: spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

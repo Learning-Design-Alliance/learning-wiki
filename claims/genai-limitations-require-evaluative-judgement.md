@@ -3,7 +3,7 @@ type: claim
 title: GenAI feedback limitations require students to exercise evaluative judgement
 description: GenAI feedback limitations require students to exercise evaluative judgement
 id: genai-limitations-require-evaluative-judgement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

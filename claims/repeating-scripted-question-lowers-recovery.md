@@ -3,7 +3,7 @@ type: claim
 title: "After a failed scripted question, repeating it is followed by lower recovery than switching to addressing the student's error"
 description: "After a failed scripted question, repeating it is followed by lower recovery than switching to addressing the student's error"
 id: repeating-scripted-question-lowers-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

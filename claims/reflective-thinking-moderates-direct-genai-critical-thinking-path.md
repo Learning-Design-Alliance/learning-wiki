@@ -3,7 +3,7 @@ type: claim
 title: "Reflective thinking moderates the direct GenAI use–critical thinking path: positive at low reflectivity, non-significant at high reflectivity"
 description: "Reflective thinking moderates the direct GenAI use–critical thinking path: positive at low reflectivity, non-significant at high reflectivity"
 id: reflective-thinking-moderates-direct-genai-critical-thinking-path
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation
 description: Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation
 id: program-district-collaboration-coherent-principal-preparation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

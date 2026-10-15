@@ -3,7 +3,7 @@ type: claim
 title: Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.
 description: Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.
 id: nico-nor-digital-tools-complement-hands-on
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

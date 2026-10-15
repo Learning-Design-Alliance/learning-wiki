@@ -3,7 +3,7 @@ type: strategy
 id: district-partnership-pathways-principal-pipeline
 title: Use district-preparation program partnerships to create pathways identifying high quality educators for district leadership positions
 description: The report recommends leveraging the deeper and more collaborative partnerships between districts and preparation programs required under the new policy as a pipeline strategy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

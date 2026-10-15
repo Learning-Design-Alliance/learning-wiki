@@ -3,7 +3,7 @@ type: claim
 title: Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains
 description: Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains
 id: post-covid-recovery-diverges-across-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

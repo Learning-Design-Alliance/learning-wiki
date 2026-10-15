@@ -4,7 +4,7 @@ id: mentor-tech
 title: Mentor Tech
 description: Mentor Tech is a Texas Tech University programme that supports underrepresented students through matched faculty mentoring, workshops, community connections, and scholarships.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

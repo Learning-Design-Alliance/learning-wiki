@@ -3,7 +3,7 @@ type: claim
 title: "Classroom management demands reduce Chicago students' daily instruction to roughly 240 minutes despite a 300-minute allocation"
 description: "Classroom management demands reduce Chicago students' daily instruction to roughly 240 minutes despite a 300-minute allocation"
 id: management-reduces-daily-instruction-240-minutes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

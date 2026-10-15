@@ -3,7 +3,7 @@ type: claim
 title: Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages
 description: Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages
 id: error-versus-mistake-analysis-procedure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

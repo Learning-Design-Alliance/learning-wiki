@@ -3,7 +3,7 @@ type: strategy
 id: age-appropriate-writing-strategies-pow-outlining
 title: Describe and model age-appropriate writing strategies, sequencing basic strategies before complex ones
 description: "The guide advises matching strategy instruction to grade level: \"Focus on basic strategies, such as POW (Pick ideas, Organize their notes, Write and say more) and brainstorming and ordering, in 1st or 2nd grade,\" whil..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

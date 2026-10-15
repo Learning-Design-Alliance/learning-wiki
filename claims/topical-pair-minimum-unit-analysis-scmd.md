@@ -3,7 +3,7 @@ type: claim
 title: The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research
 description: The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research
 id: topical-pair-minimum-unit-analysis-scmd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

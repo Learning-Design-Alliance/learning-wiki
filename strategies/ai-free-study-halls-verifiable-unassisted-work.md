@@ -3,7 +3,7 @@ type: strategy
 id: ai-free-study-halls-verifiable-unassisted-work
 title: Provide AI-free proctored spaces so some take-home work is verifiably unassisted
 description: "The article proposes institutional interventions such as AI-free study halls: lightly proctored workspaces where students check in and out to complete portions of take-home assignments using nothing beyond simple word..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

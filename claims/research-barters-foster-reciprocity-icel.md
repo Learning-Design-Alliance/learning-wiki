@@ -3,7 +3,7 @@ type: claim
 title: Nonfunded research barters, initiated by Global South partners, can foster reciprocity in ICEL without transactional funding
 description: Nonfunded research barters, initiated by Global South partners, can foster reciprocity in ICEL without transactional funding
 id: research-barters-foster-reciprocity-icel
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

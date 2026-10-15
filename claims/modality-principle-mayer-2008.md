@@ -3,7 +3,7 @@ type: claim
 title: "Modality principle: graphics with spoken text beat graphics with printed text for transfer"
 description: "Modality principle: graphics with spoken text beat graphics with printed text for transfer"
 id: modality-principle-mayer-2008
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

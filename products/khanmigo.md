@@ -4,7 +4,7 @@ id: khanmigo
 title: Khanmigo
 description: "Khanmigo is Khan Academy's GPT-4-powered educational tutoring app, offering guided tutoring, writing, debate, chat, practice, and other interactive learning activities."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

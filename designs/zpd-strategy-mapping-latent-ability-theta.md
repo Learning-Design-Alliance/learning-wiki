@@ -3,7 +3,7 @@ type: design
 id: zpd-strategy-mapping-latent-ability-theta
 title: "ZPD-aligned strategy mapping: deterministic mapping of latent ability θ to explicit instruction, targeted scaffolding, or intellectual challenge"
 description: "PsyScore defines a deterministic mapping from estimated ability to a pedagogical control token: explicit directive instruction for struggling learners (θ < −1.0), targeted scaffolding for developing learners (−1.0 ≤ θ..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: 5e-learning-cycle-leader-professional-learning
 title: Design professional learning for leaders using a 5E learning cycle
 description: A district science coordinator interviewed for the framework describes designing professional learning for educators using the 5E Instructional Model, structuring the day as a learning cycle in which adult participant...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

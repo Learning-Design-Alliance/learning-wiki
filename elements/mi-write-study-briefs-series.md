@@ -3,7 +3,7 @@ type: element
 id: mi-write-study-briefs-series
 title: MI Write study briefs series for multiple audiences
 description: "The study results are communicated through \"a series of briefs summarizing results of the MI Write study for different audiences (teachers, students and families, school and district leaders, and tool designers and in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

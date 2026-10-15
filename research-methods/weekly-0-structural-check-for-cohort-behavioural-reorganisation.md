@@ -3,7 +3,7 @@ type: research-method
 id: weekly-0-structural-check-for-cohort-behavioural-reorganisation
 title: Weekly β0 structural check for cohort behavioural reorganisation
 description: "A structural summary of how a cohort divides in each week: learners are represented as points in a feature space, connected when Euclidean distance falls below a threshold ε, and β0 counts the connected components of the graph, read as \"the number of distinct behavioural groups the cohort forms that"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

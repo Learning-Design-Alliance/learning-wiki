@@ -3,7 +3,7 @@ type: claim
 title: Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers
 description: Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers
 id: growth-measures-combined-with-observations-in-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

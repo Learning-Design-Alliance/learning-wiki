@@ -3,7 +3,7 @@ type: claim
 title: No significant differences in one-year learning gains between schools with NBCT clusters and similar schools
 description: No significant differences in one-year learning gains between schools with NBCT clusters and similar schools
 id: nbct-clusters-no-learning-gain-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

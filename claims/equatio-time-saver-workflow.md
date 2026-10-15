@@ -3,7 +3,7 @@ type: claim
 title: "Teachers described Equatio as a time-saver for creating instructional materials, with 42% of survey respondents strongly agreeing it saves them time"
 description: "Teachers described Equatio as a time-saver for creating instructional materials, with 42% of survey respondents strongly agreeing it saves them time"
 id: equatio-time-saver-workflow
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

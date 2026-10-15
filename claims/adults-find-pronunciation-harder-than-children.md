@@ -3,7 +3,7 @@ type: claim
 title: Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat
 description: Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat
 id: adults-find-pronunciation-harder-than-children
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

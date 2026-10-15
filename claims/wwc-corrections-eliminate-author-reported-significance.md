@@ -3,7 +3,7 @@ type: claim
 title: Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons
 description: Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons
 id: wwc-corrections-eliminate-author-reported-significance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

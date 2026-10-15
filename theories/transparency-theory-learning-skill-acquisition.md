@@ -2,7 +2,7 @@
 type: theory
 title: "Transparency theory: a holistic, tacit-skill account of learning and language acquisition"
 description: Transparency theory, articulated by Brown, Warner, and Williams (1985), is a view of learning and skill acquisition growing out of the psychological tradition emphasizing the functional and holistic aspects of human p...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

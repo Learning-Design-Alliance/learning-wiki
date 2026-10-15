@@ -3,7 +3,7 @@ type: strategy
 id: task-adapted-vit-over-zero-shot-vlm-scoring
 title: Use lightweight task-adapted vision backbones rather than zero-shot multimodal foundation models for rubric-aligned drawing scoring
 description: When scoring student drawings at scale, adapt a pretrained vision transformer with LoRA rather than relying on zero-shot vision-language models.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

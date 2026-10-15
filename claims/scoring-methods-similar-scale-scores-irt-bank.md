@@ -3,7 +3,7 @@ type: claim
 title: Summed scoring and IRT pattern scoring produce very similar scale score means and failing rates within any equating procedure
 description: Summed scoring and IRT pattern scoring produce very similar scale score means and failing rates within any equating procedure
 id: scoring-methods-similar-scale-scores-irt-bank
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

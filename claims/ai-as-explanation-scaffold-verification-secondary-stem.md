@@ -3,7 +3,7 @@ type: claim
 title: Secondary students most frequently use generative AI for step-by-step theoretical explanation and for checking their own solutions, more than for calculations
 description: Secondary students most frequently use generative AI for step-by-step theoretical explanation and for checking their own solutions, more than for calculations
 id: ai-as-explanation-scaffold-verification-secondary-stem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

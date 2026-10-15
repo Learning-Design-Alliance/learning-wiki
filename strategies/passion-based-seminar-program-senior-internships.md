@@ -3,7 +3,7 @@ type: strategy
 id: passion-based-seminar-program-senior-internships
 title: Passion-based seminar program culminating in senior internships
 description: "UCLA-CS uses a seminar program, driven by teachers' passions and partner availability, to expand course offerings despite small size and limited staff; topics range from robotics to Latin American film, and new course..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

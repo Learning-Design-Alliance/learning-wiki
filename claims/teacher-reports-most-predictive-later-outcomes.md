@@ -3,7 +3,7 @@ type: claim
 title: "Teacher reports of noncognitive skills are the most predictive of children's later cognitive outcomes and school behavior"
 description: "Teacher reports of noncognitive skills are the most predictive of children's later cognitive outcomes and school behavior"
 id: teacher-reports-most-predictive-later-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

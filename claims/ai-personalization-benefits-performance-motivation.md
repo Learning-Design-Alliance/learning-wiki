@@ -3,7 +3,7 @@ type: claim
 title: Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation
 description: Reviewed studies indicate AI-enabled personalization benefits both academic performance and student motivation
 id: ai-personalization-benefits-performance-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

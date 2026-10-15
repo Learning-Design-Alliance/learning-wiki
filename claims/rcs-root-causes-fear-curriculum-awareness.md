@@ -3,7 +3,7 @@ type: claim
 title: "The RCS Core Team's root cause analysis identified fear and political influence, lack of comprehensive and inclusive curriculum, and lack of awareness as central causes of the discourse challenge"
 description: "The RCS Core Team's root cause analysis identified fear and political influence, lack of comprehensive and inclusive curriculum, and lack of awareness as central causes of the discourse challenge"
 id: rcs-root-causes-fear-curriculum-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations"
 description: "Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations"
 id: mixed-anxiety-remote-proctored-exams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

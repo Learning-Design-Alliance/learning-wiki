@@ -3,7 +3,7 @@ type: claim
 title: More frequent AI use is strongly associated with more positive AI perception scores across all dimensions, but not causally
 description: More frequent AI use is strongly associated with more positive AI perception scores across all dimensions, but not causally
 id: ai-use-frequency-associated-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

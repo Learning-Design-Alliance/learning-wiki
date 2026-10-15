@@ -3,7 +3,7 @@ type: claim
 title: Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years
 description: Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years
 id: long-term-ell-52-percent-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

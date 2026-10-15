@@ -3,7 +3,7 @@ type: claim
 title: Leaders caution that disaggregating data by student demographics is only the beginning of using continuous improvement for equity, not its entirety
 description: Leaders caution that disaggregating data by student demographics is only the beginning of using continuous improvement for equity, not its entirety
 id: data-disaggregation-beginning-not-entirety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

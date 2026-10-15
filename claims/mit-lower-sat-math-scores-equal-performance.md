@@ -3,7 +3,7 @@ type: claim
 title: Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes
 description: Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes
 id: mit-lower-sat-math-scores-equal-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

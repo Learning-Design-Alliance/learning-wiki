@@ -3,7 +3,7 @@ type: claim
 title: Pressure templates mostly elicit their intended sycophancy subtypes, with limited but non-zero cross-mode leakage
 description: Pressure templates mostly elicit their intended sycophancy subtypes, with limited but non-zero cross-mode leakage
 id: subtype-templates-elicit-intended-channels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

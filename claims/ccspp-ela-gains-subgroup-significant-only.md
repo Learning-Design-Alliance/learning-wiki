@@ -3,7 +3,7 @@ type: claim
 title: ELA gains in CCSPP schools (0.05 SD) were not statistically significant overall but were significant for English learners and, at p < 0.10, for socioeconomically disadvantaged and Black students
 description: ELA gains in CCSPP schools (0.05 SD) were not statistically significant overall but were significant for English learners and, at p < 0.10, for socioeconomically disadvantaged and Black students
 id: ccspp-ela-gains-subgroup-significant-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

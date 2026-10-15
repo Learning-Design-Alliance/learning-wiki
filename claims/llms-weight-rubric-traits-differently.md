@@ -3,7 +3,7 @@ type: claim
 title: Different LLMs rely on different subsets of rubric traits when assigning essay scores
 description: Different LLMs rely on different subsets of rubric traits when assigning essay scores
 id: llms-weight-rubric-traits-differently
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

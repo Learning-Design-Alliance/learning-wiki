@@ -3,7 +3,7 @@ type: claim
 title: "In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction"
 description: In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction
 id: srl-strategies-associated-lower-digital-distraction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

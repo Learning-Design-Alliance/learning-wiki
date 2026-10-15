@@ -4,7 +4,7 @@ id: e-class-survey-for-assessing-student-views-of-experiments-in-physics-lab-cou
 title: E-CLASS survey for assessing student views of experiments in physics lab courses
 description: E-CLASS is a pre/post survey assessment developed by physics education researchers to measure undergraduate students’ views, strategies, habits of mind, and attitudes concerning experimental physics.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

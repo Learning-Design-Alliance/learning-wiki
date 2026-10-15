@@ -3,7 +3,7 @@ type: design
 id: facilitated-complex-problem-solving-condition
 title: Facilitated complex problem solving (FCPS) condition
 description: "FCPS is the comparison condition in this study: it is \"the same as the PF condition except that students received instructional facilitation throughout their lessons.\" It serves as the design component that isolates t..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

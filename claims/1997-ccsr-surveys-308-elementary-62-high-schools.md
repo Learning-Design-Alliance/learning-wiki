@@ -3,7 +3,7 @@ type: claim
 title: The 1997 Chicago Annenberg surveys reached 308 elementary schools and 62 high schools with response rates high enough to receive individual school reports
 description: The 1997 Chicago Annenberg surveys reached 308 elementary schools and 62 high schools with response rates high enough to receive individual school reports
 id: 1997-ccsr-surveys-308-elementary-62-high-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

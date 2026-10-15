@@ -3,7 +3,7 @@ type: claim
 title: Inquiry activities can be especially beneficial for students in low-income schools, yet resource demands can impede equitable scaling
 description: Inquiry activities can be especially beneficial for students in low-income schools, yet resource demands can impede equitable scaling
 id: inquiry-benefits-low-income-equity-tension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

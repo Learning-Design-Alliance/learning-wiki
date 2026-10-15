@@ -3,7 +3,7 @@ type: claim
 title: "Stand-alone TK classrooms increased to 77% of TK classrooms in 2023–24 while TK–kindergarten combination classes fell to 20%"
 description: "Stand-alone TK classrooms increased to 77% of TK classrooms in 2023–24 while TK–kindergarten combination classes fell to 20%"
 id: tk-stand-alone-classrooms-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

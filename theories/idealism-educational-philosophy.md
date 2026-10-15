@@ -3,7 +3,7 @@ type: theory
 title: Idealism (Educational Philosophy)
 description: For Idealists, ideas rather than sensory experience are the only true reality; teaching therefore focuses on moral excellence and the "subjects of the mind," delivered through lecture and Socratic dialogue meant to bring universal forms to consciousness.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

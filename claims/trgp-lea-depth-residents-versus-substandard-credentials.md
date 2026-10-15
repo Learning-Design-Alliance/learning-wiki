@@ -3,7 +3,7 @@ type: claim
 title: "In a minority of host LEAs did TRGP residents reach one quarter of substandard credentials issued: 7 of 19 special education LEAs and 7 of 16 STEM LEAs"
 description: "In a minority of host LEAs did TRGP residents reach one quarter of substandard credentials issued: 7 of 19 special education LEAs and 7 of 16 STEM LEAs"
 id: trgp-lea-depth-residents-versus-substandard-credentials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

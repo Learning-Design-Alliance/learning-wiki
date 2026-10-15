@@ -3,7 +3,7 @@ type: claim
 title: The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals
 description: The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals
 id: retention-interval-one-to-six-days-largest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

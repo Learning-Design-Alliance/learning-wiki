@@ -3,7 +3,7 @@ type: claim
 title: Black, Hispanic, and poverty students enrolled in charter schools show stronger growth trends than the same subgroups citywide in several cities
 description: Black, Hispanic, and poverty students enrolled in charter schools show stronger growth trends than the same subgroups citywide in several cities
 id: credo-cohort1-charter-subgroup-stronger-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

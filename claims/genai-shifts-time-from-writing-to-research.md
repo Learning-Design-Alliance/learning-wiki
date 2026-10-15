@@ -3,7 +3,7 @@ type: claim
 title: AI access shifts learning-time composition away from writing toward reading and searching, with total learning time unchanged
 description: AI access shifts learning-time composition away from writing toward reading and searching, with total learning time unchanged
 id: genai-shifts-time-from-writing-to-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Lexia Reading has potentially positive effects on alphabetics for beginning readers
 description: Lexia Reading has potentially positive effects on alphabetics for beginning readers
 id: lexia-reading-potentially-positive-alphabetics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

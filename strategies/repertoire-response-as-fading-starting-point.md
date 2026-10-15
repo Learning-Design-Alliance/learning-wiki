@@ -3,7 +3,7 @@ type: strategy
 id: repertoire-response-as-fading-starting-point
 title: "Choose fading starting points by identifying a response already in the child's repertoire"
 description: The article proposes that when a child refuses a target consumable or utensil, the clinician should first identify a related response the child already performs and begin fading from that response.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

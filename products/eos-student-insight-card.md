@@ -4,7 +4,7 @@ id: eos-student-insight-card
 title: EOS Student Insight Card
 description: "Equal Opportunity Schools' assessment tool compiles students' interests, aspirations, motivation, and trusted-staff recommendations to inform access to advanced coursework."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

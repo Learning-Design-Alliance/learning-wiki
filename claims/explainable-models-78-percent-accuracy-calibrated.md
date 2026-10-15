@@ -3,7 +3,7 @@ type: claim
 title: "Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities"
 description: "Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities"
 id: explainable-models-78-percent-accuracy-calibrated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

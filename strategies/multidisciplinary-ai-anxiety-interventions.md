@@ -3,7 +3,7 @@ type: strategy
 id: multidisciplinary-ai-anxiety-interventions
 title: Address AI Anxiety through multidisciplinary solutions spanning educational, technological, regulatory, and ethical guidelines
 description: The article recommends that AI Anxiety be tackled through coordinated interventions across four domains.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

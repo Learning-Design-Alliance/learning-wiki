@@ -2,7 +2,7 @@
 type: claim
 title: Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests
 id: co-design-tools-support-balancing-standards-and-student-interests
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

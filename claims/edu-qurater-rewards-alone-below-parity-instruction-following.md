@@ -3,7 +3,7 @@ type: claim
 title: "Edu-QuRater rewards alone raise pedagogical-quality win rate (77.70%) but fall below parity on instruction following (40.54%), consistent with over-optimizing a proxy reward"
 description: "Edu-QuRater rewards alone raise pedagogical-quality win rate (77.70%) but fall below parity on instruction following (40.54%), consistent with over-optimizing a proxy reward"
 id: edu-qurater-rewards-alone-below-parity-instruction-following
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

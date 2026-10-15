@@ -3,7 +3,7 @@ type: claim
 title: "Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases"
 description: "Across 133 K-12 ML activities, a technical and a societal perspective on the same algorithm co-occur in roughly 3% of cases"
 id: critical-technical-gap-k12-ml-activities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Startup Summer participants launched businesses at much higher rates (71 percent) than other alumni respondents (24 percent)
 description: Startup Summer participants launched businesses at much higher rates (71 percent) than other alumni respondents (24 percent)
 id: startup-summer-participants-higher-business-launch-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

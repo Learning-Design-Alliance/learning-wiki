@@ -4,7 +4,7 @@ id: project-cal-well
 title: Project Cal-Well
 description: Project Cal-Well is a California Department of Education initiative, funded through a SAMHSA grant, that helps local educational agencies build sustainable school- and community-based mental health systems.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

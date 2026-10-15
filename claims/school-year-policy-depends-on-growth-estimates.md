@@ -4,7 +4,7 @@ title: Policy decisions such as shortening or extending the school year depend o
 description: Policy decisions such as shortening or extending the school year depend on accurate within-year learning estimates
 id: school-year-policy-depends-on-growth-estimates
 aliases: [school-year-policy-requires-accurate-within-year-growth-estimates]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

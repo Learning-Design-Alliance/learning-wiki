@@ -3,7 +3,7 @@ type: claim
 title: LLM feedback for students marked by race, language, disability, gender, or motivation shows positive feedback bias and feedback withholding bias — more praise and less substantive critique than for unmarked counterparts
 description: LLM feedback for students marked by race, language, disability, gender, or motivation shows positive feedback bias and feedback withholding bias — more praise and less substantive critique than for unmarked counterparts
 id: marked-students-praise-withholding-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

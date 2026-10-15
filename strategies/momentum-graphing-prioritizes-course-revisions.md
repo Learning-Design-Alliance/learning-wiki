@@ -3,7 +3,7 @@ type: strategy
 id: momentum-graphing-prioritizes-course-revisions
 title: Use Student Momentum graphing to target and prioritize course revisions within limited designer time and resources
 description: "The authors advance M graphing as a resource-efficient design tool: rather than concluding an entire course needs revision from its overall dropout rate, designers can identify Course Walls and revise only specific ar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

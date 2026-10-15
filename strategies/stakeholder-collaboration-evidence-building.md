@@ -3,7 +3,7 @@ type: strategy
 id: stakeholder-collaboration-evidence-building
 title: Collaborate with stakeholders from the priority community throughout evidence building
 description: The checklist directs users to carry out the evidence-building process in collaboration with stakeholders from a priority community.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

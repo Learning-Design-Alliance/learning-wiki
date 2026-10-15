@@ -3,7 +3,7 @@ type: element
 id: covid-closures-learning-loss-webinar-nwea
 title: "COVID-19 closures & learning loss webinar (NWEA Research, April 2020)"
 description: A NWEA Research presentation and webinar, dated April 2020 and authored by Beth Tarasawa and Megan Kuhfeld, addressing the implications of COVID-19 school closures for student achievement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

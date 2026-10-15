@@ -3,7 +3,7 @@ type: claim
 title: "A three-step structured multimodal dialogue intervention corrected 82% of baseline errors and raised multimodal accuracy to 95%, with visual processing errors corrected at 100% but context misinterpretation errors resistant"
 description: "A three-step structured multimodal dialogue intervention corrected 82% of baseline errors and raised multimodal accuracy to 95%, with visual processing errors corrected at 100% but context misinterpretation errors res..."
 id: structured-dialogue-corrects-82-percent-llm-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

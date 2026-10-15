@@ -3,7 +3,7 @@ type: strategy
 id: policy-changes-restore-science-access
 title: Pursue policy, materials, and professional development changes to restore science as a core content area for all students
 description: "The report's closing recommendations target national, state, and local levels: change accountability systems so performance in science is an indicator; develop new standards-based instructional materials that \"include..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

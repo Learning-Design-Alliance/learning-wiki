@@ -3,7 +3,7 @@ type: claim
 title: Marginal luck probabilities diagnose question calibration, flagging questions 7–9 as prone to over-performance and question 12 as particularly challenging
 description: Marginal luck probabilities diagnose question calibration, flagging questions 7–9 as prone to over-performance and question 12 as particularly challenging
 id: luck-marginals-question-calibration-diagnostic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

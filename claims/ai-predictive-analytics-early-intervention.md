@@ -3,7 +3,7 @@ type: claim
 title: Reviewed studies indicate AI predictive analytics can project student progress, group learners by risk, and enable early intervention
 description: Reviewed studies indicate AI predictive analytics can project student progress, group learners by risk, and enable early intervention
 id: ai-predictive-analytics-early-intervention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

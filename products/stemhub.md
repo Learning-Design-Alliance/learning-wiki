@@ -4,7 +4,7 @@ id: stemhub
 title: STEMHub
 description: STEMHub is a modular AI-enhanced personalised and adaptive learning platform developed by Nwogo et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

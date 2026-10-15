@@ -3,7 +3,7 @@ type: claim
 title: District leaders report that building a shared instructional vision before curriculum adoption lays the foundation for successful IM implementation
 description: District leaders report that building a shared instructional vision before curriculum adoption lays the foundation for successful IM implementation
 id: shared-vision-before-hqim-adoption-foundation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

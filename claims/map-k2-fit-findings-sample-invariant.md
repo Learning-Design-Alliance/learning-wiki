@@ -3,7 +3,7 @@ type: claim
 title: Item fit findings were the same regardless of whether the AllYr or LatestYr response sample was used
 description: Item fit findings were the same regardless of whether the AllYr or LatestYr response sample was used
 id: map-k2-fit-findings-sample-invariant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

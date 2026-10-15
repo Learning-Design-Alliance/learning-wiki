@@ -3,7 +3,7 @@ type: claim
 title: Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits
 description: Charter schools show favorable high school graduation and college-entry results suggesting possible long-term benefits
 id: charter-schools-favorable-graduation-and-college-entry-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

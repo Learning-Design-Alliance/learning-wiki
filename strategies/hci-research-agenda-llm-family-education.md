@@ -3,7 +3,7 @@ type: strategy
 id: hci-research-agenda-llm-family-education
 title: "Research agenda for HCI on LLM-based family education: broader representations, capability–activity alignment, changing labor, and negotiable rules"
 description: The review derives a grounded research agenda from limitations identified across the reviewed studies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

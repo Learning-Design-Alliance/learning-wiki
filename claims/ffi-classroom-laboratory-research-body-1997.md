@@ -3,7 +3,7 @@ type: claim
 title: Classroom and laboratory research on form-focused instruction and second language acquisition constitutes a reviewable body of work as of 1997
 description: Classroom and laboratory research on form-focused instruction and second language acquisition constitutes a reviewable body of work as of 1997
 id: ffi-classroom-laboratory-research-body-1997
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Career adaptability partially mediates the negative effect of AI anxiety on career decisions, accounting for 63.35% of the total effect"
 description: "Career adaptability partially mediates the negative effect of AI anxiety on career decisions, accounting for 63.35% of the total effect"
 id: career-adaptability-mediation-ai-anxiety-career-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

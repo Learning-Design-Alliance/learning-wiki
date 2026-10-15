@@ -3,7 +3,7 @@ type: claim
 title: Three out of four surveyed California districts reported teacher shortages in fall 2016, and most said shortages were worsening
 description: Three out of four surveyed California districts reported teacher shortages in fall 2016, and most said shortages were worsening
 id: california-districts-teacher-shortages-2016-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

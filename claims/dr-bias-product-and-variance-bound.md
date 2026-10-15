@@ -3,7 +3,7 @@ type: claim
 title: "Analytically, the DR estimator's bias is bounded by the product of propensity and imputation errors, and its generalization bound contains a variance term scaling with squared imputation error"
 description: "Analytically, the DR estimator's bias is bounded by the product of propensity and imputation errors, and its generalization bound contains a variance term scaling with squared imputation error"
 id: dr-bias-product-and-variance-bound
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

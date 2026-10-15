@@ -3,7 +3,7 @@ type: design
 id: three-pedagogical-expression-strategies-vr-lighting
 title: Three pedagogical expression strategies for VR lighting instruction
 description: From analysis of five beginner-level stage lighting courses, the authors identified three recurring strategies for VR implementation.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

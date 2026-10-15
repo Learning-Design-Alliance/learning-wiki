@@ -3,7 +3,7 @@ type: claim
 title: GAI use is weakly positively associated with basic psychological need satisfaction among medical undergraduates
 description: GAI use is weakly positively associated with basic psychological need satisfaction among medical undergraduates
 id: gai-use-weakly-associated-need-satisfaction-medical-undergraduates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

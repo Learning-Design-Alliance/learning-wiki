@@ -3,7 +3,7 @@ type: claim
 title: IPSD piloted its CT competency map in 2019-2020 in schools including a subset of its Title I equity-goal schools, paired with professional development
 description: IPSD piloted its CT competency map in 2019-2020 in schools including a subset of its Title I equity-goal schools, paired with professional development
 id: ipsd-competency-map-pilot-title-i-pd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

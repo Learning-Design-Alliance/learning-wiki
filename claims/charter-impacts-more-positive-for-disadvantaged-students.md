@@ -3,7 +3,7 @@ type: claim
 title: Charter middle school impacts were more positive for more disadvantaged schools and students and more negative for the more advantaged
 description: Charter middle school impacts were more positive for more disadvantaged schools and students and more negative for the more advantaged
 id: charter-impacts-more-positive-for-disadvantaged-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

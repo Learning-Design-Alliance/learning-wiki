@@ -3,7 +3,7 @@ type: claim
 title: Much remains unknown about charter school performance, particularly at the elementary level
 description: Much remains unknown about charter school performance, particularly at the elementary level
 id: charter-elementary-school-performance-little-known
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

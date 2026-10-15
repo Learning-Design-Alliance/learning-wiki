@@ -3,7 +3,7 @@ type: claim
 title: Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving
 description: Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving
 id: teachers-of-color-higher-turnover-mover-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: intended-impact-evaluation-strategy
 title: Include an explicit intended-impact target in NLP evaluation and use noise-robust designs rather than only point estimates
 description: "The article recommends that evaluators in domains with delayed, aggregated, or confounded outcomes adopt designs that stay robust under noise: \"multifacet decom- positions, decision studies, hierarchical rater models,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

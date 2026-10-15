@@ -3,7 +3,7 @@ type: strategy
 id: one-stop-benefits-screening-case-management
 title: Provide on-campus one-stop benefits screening, application assistance, and case management to reduce nonacademic barriers to persistence
 description: The strategy connects enrolled students to federal, state, and local benefits (food stamps, WIC, Medicaid) plus wraparound services (tax preparation, financial counseling, legal services, child care, housing) through...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In the first writing task, teacher feedback contained significantly more items than AI-assisted peer feedback, especially on vocabulary errors and technical details
 description: In the first writing task, teacher feedback contained significantly more items than AI-assisted peer feedback, especially on vocabulary errors and technical details
 id: teacher-feedback-more-items-first-task-vocabulary-technical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

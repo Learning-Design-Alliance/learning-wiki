@@ -3,7 +3,7 @@ type: strategy
 id: plc-building-transfer-strategy-common-interests-communication
 title: "Transfer strategy for building PLCs through innovation projects: common interests, communication systems, and peer learning of practices"
 description: "In the conclusion the article proposes that the I3P model's results \"can be transferred to other fields of knowledge or educational contexts\" if certain conditions are established."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: element
 id: mind-the-kinder-gap-journal-article
 title: "Companion journal article: Mind the kinder-gap — new data on children's math and reading skills at kindergarten entry"
 description: A journal article listed on the page as associated research for the school-entry trends study.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

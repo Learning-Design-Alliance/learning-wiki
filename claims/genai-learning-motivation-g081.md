@@ -4,7 +4,7 @@ title: GenAI-assisted education produces significantly higher learning motivatio
 description: GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)
 id: genai-learning-motivation-g081
 aliases: [genai-positive-average-effect-learning-motivation-g-0764]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

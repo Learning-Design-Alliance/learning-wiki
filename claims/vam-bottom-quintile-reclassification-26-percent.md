@@ -3,7 +3,7 @@ type: claim
 title: "Up to 26% of teachers in the bottom value-added quintile under one specification are ranked higher under another specification"
 description: "Up to 26% of teachers in the bottom value-added quintile under one specification are ranked higher under another specification"
 id: vam-bottom-quintile-reclassification-26-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

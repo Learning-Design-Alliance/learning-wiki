@@ -3,7 +3,7 @@ type: claim
 title: In a large-scale 106-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 0.48 (improvement index +18)
 description: In a large-scale 106-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 0.48 (improvement index +18)
 id: building-blocks-clements-2011-scale-up-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: element
 id: nwea-working-paper-ell-self-efficacy-achievement-gap
 title: NWEA working paper on English Language Learners, self-efficacy, and the achievement gap
 description: "An associated NWEA working paper titled \"English Language Learners, self-efficacy, and the achievement gap: understanding the relationship between academic and social-emotional growth\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

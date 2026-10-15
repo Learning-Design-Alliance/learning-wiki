@@ -3,7 +3,7 @@ type: claim
 title: Las oportunidades percibidas de los LER incluyen tener todo en un solo lugar, conectar con puestos de trabajo y auto-traducción de destrezas
 description: Las oportunidades percibidas de los LER incluyen tener todo en un solo lugar, conectar con puestos de trabajo y auto-traducción de destrezas
 id: oportunidades-percibidas-lers-un-solo-lugar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

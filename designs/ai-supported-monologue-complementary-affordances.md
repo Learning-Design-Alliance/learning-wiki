@@ -3,7 +3,7 @@ type: design
 id: ai-supported-monologue-complementary-affordances
 title: "Complementary-affordances account: AI dialogue as supported monologue versus human dialogue as interactional-competence practice"
 description: "The article's explanatory framework holds that AI and human dialogue \"create distinct but complementary conditions for L2 practice.\" AI dialogue \"structurally approximates supported monologue\": sustained output with f..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

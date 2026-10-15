@@ -3,7 +3,7 @@ type: strategy
 id: institutionalize-equity-organizational-leverage
 title: Institutionalize equity efforts through organizational leverage, critical mass, and embedded strategic plans
 description: "Drawing on the Texas Tech case study, the report describes moving from discrete programs to institution-wide equity infrastructure: a visible executive-level diversity presence (\"organizational leverage\"), a critical..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

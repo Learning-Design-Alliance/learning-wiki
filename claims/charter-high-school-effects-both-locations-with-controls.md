@@ -3,7 +3,7 @@ type: claim
 title: Charter high school effects on attainment hold in both Chicago and Florida after controlling for prior charter middle school enrollment
 description: Charter high school effects on attainment hold in both Chicago and Florida after controlling for prior charter middle school enrollment
 id: charter-high-school-effects-both-locations-with-controls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

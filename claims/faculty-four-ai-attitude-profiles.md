@@ -3,7 +3,7 @@ type: claim
 title: Faculty attitudes toward AI fall into four profiles—optimistic, critical, critically reflective, and neutral—and optimistic faculty with high AI self-efficacy are more likely to adopt AI
 description: Faculty attitudes toward AI fall into four profiles—optimistic, critical, critically reflective, and neutral—and optimistic faculty with high AI self-efficacy are more likely to adopt AI
 id: faculty-four-ai-attitude-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

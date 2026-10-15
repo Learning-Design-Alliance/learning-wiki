@@ -3,7 +3,7 @@ type: claim
 title: Across five clustered education RCTs, finite-population and super-population estimators yield identical findings on statistical significance
 description: Across five clustered education RCTs, finite-population and super-population estimators yield identical findings on statistical significance
 id: clustered-rct-estimators-identical-significance-findings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

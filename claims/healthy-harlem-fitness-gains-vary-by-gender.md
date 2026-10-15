@@ -3,7 +3,7 @@ type: claim
 title: "Healthy Harlem generally increased students' fitness levels, with variation by gender"
 description: "Healthy Harlem generally increased students' fitness levels, with variation by gender"
 id: healthy-harlem-fitness-gains-vary-by-gender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

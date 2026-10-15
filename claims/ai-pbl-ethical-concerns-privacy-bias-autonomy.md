@@ -3,7 +3,7 @@ type: claim
 title: "Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy"
 description: "Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy"
 id: ai-pbl-ethical-concerns-privacy-bias-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

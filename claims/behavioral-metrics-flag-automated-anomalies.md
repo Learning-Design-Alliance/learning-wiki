@@ -3,7 +3,7 @@ type: claim
 title: Macro-level behavioral metrics flagged anomalies consistent with automated workflows and off-platform AI code synthesis
 description: Macro-level behavioral metrics flagged anomalies consistent with automated workflows and off-platform AI code synthesis
 id: behavioral-metrics-flag-automated-anomalies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

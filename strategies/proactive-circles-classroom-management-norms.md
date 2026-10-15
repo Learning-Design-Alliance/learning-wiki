@@ -3,7 +3,7 @@ type: strategy
 id: proactive-circles-classroom-management-norms
 title: Use RJ strategies such as proactive circles to manage classrooms and establish norms beyond discipline
 description: "Experts described teachers managing classrooms using RJ strategies such as \"proactive\" circles to discuss subject matter."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

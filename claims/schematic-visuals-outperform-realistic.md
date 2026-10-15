@@ -3,7 +3,7 @@ type: claim
 title: Schematic visual games show larger learning effects than realistic games, which show no significant benefit over nongame conditions
 description: Schematic visual games show larger learning effects than realistic games, which show no significant benefit over nongame conditions
 id: schematic-visuals-outperform-realistic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

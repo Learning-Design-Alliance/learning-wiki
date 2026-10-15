@@ -3,7 +3,7 @@ type: claim
 title: During member checks, multilingual 8th-grade students contested both LLM classifications of their talk and the coding scheme itself, especially the Off-task and Claim codes
 description: During member checks, multilingual 8th-grade students contested both LLM classifications of their talk and the coding scheme itself, especially the Off-task and Claim codes
 id: students-contest-llm-talk-classifications-and-coding-scheme
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

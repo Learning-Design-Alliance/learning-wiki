@@ -3,7 +3,7 @@ type: element
 id: repeated-reading-practice-procedure
 title: Repeated reading practice procedure
 description: "Repeated reading is an academic practice, without a single developer, that \"aims to increase oral reading fluency.\" In the described implementation, \"a student sits in a quiet location with a teacher and reads a passa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

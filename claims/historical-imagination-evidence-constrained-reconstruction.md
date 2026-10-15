@@ -3,7 +3,7 @@ type: claim
 title: Because past events cannot be observed, historians must necessarily use imagination to reconstruct the past, and the resulting picture is legitimate rather than fictional when constrained by evidence
 description: Because past events cannot be observed, historians must necessarily use imagination to reconstruct the past, and the resulting picture is legitimate rather than fictional when constrained by evidence
 id: historical-imagination-evidence-constrained-reconstruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

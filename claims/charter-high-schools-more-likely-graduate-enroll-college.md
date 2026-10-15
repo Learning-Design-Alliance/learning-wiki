@@ -3,7 +3,7 @@ type: claim
 title: Students attending charter high schools are more likely to graduate from high school and enroll in college
 description: Students attending charter high schools are more likely to graduate from high school and enroll in college
 id: charter-high-schools-more-likely-graduate-enroll-college
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: veriforge
 title: VeriForge
 description: VeriForge is a mixed-initiative writing environment developed by Ruqi Sun et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

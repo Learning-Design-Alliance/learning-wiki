@@ -3,7 +3,7 @@ type: strategy
 id: misconception-aware-contrastive-remediation-videos
 title: Misconception-aware contrastive remediation videos triggered by incorrect quiz answers
 description: "When a learner answers a quiz question incorrectly, the system generates \"a targeted explanatory video contrasting the incorrect reasoning with the correct solution\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

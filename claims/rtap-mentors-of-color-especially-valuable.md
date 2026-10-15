@@ -3,7 +3,7 @@ type: claim
 title: Mentors of color were especially valuable to apprentices of color, who wanted more intentional mentor matching
 description: Mentors of color were especially valuable to apprentices of color, who wanted more intentional mentor matching
 id: rtap-mentors-of-color-especially-valuable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

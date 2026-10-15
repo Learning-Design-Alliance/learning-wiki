@@ -3,7 +3,7 @@ type: claim
 title: Teachers used new instructional practices they had learned while delivering the summer programs
 description: Teachers used new instructional practices they had learned while delivering the summer programs
 id: summer-programs-teachers-adopted-new-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Writing tasks with metacognitive prompts yield larger learning effects than writing tasks without such prompts (d = 0.44 vs. 0.26)
 description: Writing tasks with metacognitive prompts yield larger learning effects than writing tasks without such prompts (d = 0.44 vs.
 id: metacognitive-prompts-larger-writing-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: district-supports-for-climate-data-use
 title: Structure data collection timing, capacity-building, and community engagement to enable climate data use
 description: "The report's implications section recommends that districts and states structure supports around the enabling conditions observed in the cases."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

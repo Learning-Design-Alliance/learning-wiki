@@ -3,7 +3,7 @@ type: claim
 title: RT propensity shows no reliable main effect on learning rate, while prior proficiency is positively associated with learning rate
 description: RT propensity shows no reliable main effect on learning rate, while prior proficiency is positively associated with learning rate
 id: no-main-effect-rt-propensity-learning-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

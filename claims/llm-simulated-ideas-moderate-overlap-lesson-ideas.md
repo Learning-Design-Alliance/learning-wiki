@@ -3,7 +3,7 @@ type: claim
 title: LLM-simulated student ideas moderately overlap with teacher- and student-generated lesson ideas (mean cosine similarity 0.52), with larger LLMs slightly outperforming Mistral-7B
 description: LLM-simulated student ideas moderately overlap with teacher- and student-generated lesson ideas (mean cosine similarity 0.52), with larger LLMs slightly outperforming Mistral-7B
 id: llm-simulated-ideas-moderate-overlap-lesson-ideas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

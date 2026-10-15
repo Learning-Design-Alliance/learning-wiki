@@ -3,7 +3,7 @@ type: claim
 title: African and Asian students did not differ significantly in their answers about ChatGPT
 description: African and Asian students did not differ significantly in their answers about ChatGPT
 id: no-background-difference-in-chatgpt-opinions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

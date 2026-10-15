@@ -3,7 +3,7 @@ type: strategy
 id: which-one-doesnt-belong-low-stakes-warmup
 title: "Use low-stakes, multiple-entry warm-ups like \"Which One Doesn't Belong?\" to reduce fear of wrong answers"
 description: "Teachers opened lessons with warm-up questions projected on the board that \"offers multiple points of entry for differently skilled students and does not have a single correct answer.\" Students first shared with an el..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

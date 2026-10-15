@@ -3,7 +3,7 @@ type: design
 id: proportional-relationship-common-contexts
 title: Six common contexts where proportional relationships arise
 description: "The paper enumerates the everyday and mathematical settings where, in its words, 'common sense informs us that a proportional relationship is at play': unit conversion and exchange rates, constant rates, percentages,..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

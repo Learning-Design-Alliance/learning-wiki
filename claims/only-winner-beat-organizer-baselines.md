@@ -3,7 +3,7 @@ type: claim
 title: Only the challenge winner clearly beat the organizer baselines; most shortlisted systems have not yet improved on a commercial generator or well-chosen human-made video
 description: Only the challenge winner clearly beat the organizer baselines; most shortlisted systems have not yet improved on a commercial generator or well-chosen human-made video
 id: only-winner-beat-organizer-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

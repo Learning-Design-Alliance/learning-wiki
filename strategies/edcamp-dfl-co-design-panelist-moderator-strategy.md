@@ -3,7 +3,7 @@ type: strategy
 id: edcamp-dfl-co-design-panelist-moderator-strategy
 title: Co-design professional learning with educators as panelists and moderators
 description: The series invited educators during registration to volunteer as panelists or breakout moderators, then prepared selected volunteers in a pre-Edcamp background building session with a content expert, resources, guidin...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

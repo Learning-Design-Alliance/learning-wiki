@@ -3,7 +3,7 @@ type: claim
 title: The 2020 Post-Secondary Attainment Index is 27 percent, and no race/ethnicity and gender group reaches the 75 percent aspiration benchmark
 description: The 2020 Post-Secondary Attainment Index is 27 percent, and no race/ethnicity and gender group reaches the 75 percent aspiration benchmark
 id: cps-pai-27-percent-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

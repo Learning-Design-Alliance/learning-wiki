@@ -3,7 +3,7 @@ type: strategy
 id: classify-ai-tools-by-governance-mechanism
 title: Classify and design AI teaching tools by governance mechanism, using transferable design questions rather than generic tool categories
 description: "The article applies its framework to four published tools as a transfer test and concludes that responsible AI integration \"should be studied at the level of governance mechanisms\", since questions such as whether a t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

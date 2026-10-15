@@ -4,7 +4,7 @@ id: unesco-ai-competency-framework-for-students
 title: UNESCO AI Competency Framework for Students
 description: A UNESCO curricular framework that organizes 12 AI competencies across four dimensions and three progression levels to guide educators in preparing school students for safe, meaningful, and responsible engagement with AI.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

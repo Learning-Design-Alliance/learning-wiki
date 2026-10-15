@@ -3,7 +3,7 @@ type: design
 id: san-diego-stem-community-advisory-committee
 title: San Diego STEM Pathways Community Advisory Committee (CAC)
 description: The CAC is a cross-sector coalition formed in 2024 to lay the groundwork for regional STEM pathway initiatives.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

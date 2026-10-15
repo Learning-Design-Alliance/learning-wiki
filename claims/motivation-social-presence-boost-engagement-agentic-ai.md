@@ -3,7 +3,7 @@ type: claim
 title: Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning
 description: Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning
 id: motivation-social-presence-boost-engagement-agentic-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

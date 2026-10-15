@@ -3,7 +3,7 @@ type: claim
 title: The GenAI feedback group showed a statistically significant post-intervention improvement in the Task Strategies dimension of SRL compared with the tutor group
 description: The GenAI feedback group showed a statistically significant post-intervention improvement in the Task Strategies dimension of SRL compared with the tutor group
 id: genai-feedback-improved-task-strategies-srl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

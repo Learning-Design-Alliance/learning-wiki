@@ -3,7 +3,7 @@ type: claim
 title: CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters
 description: CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters
 id: ctat-robust-psychometric-properties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

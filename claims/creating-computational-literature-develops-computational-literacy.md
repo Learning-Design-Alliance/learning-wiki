@@ -2,7 +2,7 @@
 type: claim
 title: Creating computational literature develops computational literacy even when code modification is minor
 id: creating-computational-literature-develops-computational-literacy
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

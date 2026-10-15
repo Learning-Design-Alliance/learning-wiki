@@ -3,7 +3,7 @@ type: claim
 title: AI literacy requires discipline-specific calibration beyond prompt-writing skills
 description: AI literacy requires discipline-specific calibration beyond prompt-writing skills
 id: ai-literacy-discipline-specific-calibration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

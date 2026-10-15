@@ -3,7 +3,7 @@ type: claim
 title: Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation
 description: Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation
 id: oversubscribed-charter-middle-schools-prevalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

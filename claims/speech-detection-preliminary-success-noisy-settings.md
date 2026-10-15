@@ -3,7 +3,7 @@ type: claim
 title: "Speech detection showed preliminary success but remained challenging in noisy settings, particularly for speaker differentiation, children's voices, and diverse dialects"
 description: "Speech detection showed preliminary success but remained challenging in noisy settings, particularly for speaker differentiation, children's voices, and diverse dialects"
 id: speech-detection-preliminary-success-noisy-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

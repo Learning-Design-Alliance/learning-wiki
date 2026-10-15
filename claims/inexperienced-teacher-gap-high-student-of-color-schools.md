@@ -3,7 +3,7 @@ type: claim
 title: "In 2016, 17.2% of teachers in high student of color enrollment schools were in their first or second year, compared to 9.1% in low-enrollment schools, and the gap widened from 2014 to 2016"
 description: "In 2016, 17.2% of teachers in high student of color enrollment schools were in their first or second year, compared to 9.1% in low-enrollment schools, and the gap widened from 2014 to 2016"
 id: inexperienced-teacher-gap-high-student-of-color-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

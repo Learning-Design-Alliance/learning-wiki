@@ -3,7 +3,7 @@ type: claim
 title: Neither promotion nor retention significantly closed the achievement gap of low-achieving students close to the cutoff, and the lowest achievers deteriorated further
 description: Neither promotion nor retention significantly closed the achievement gap of low-achieving students close to the cutoff, and the lowest achievers deteriorated further
 id: retention-social-promotion-no-gap-closing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

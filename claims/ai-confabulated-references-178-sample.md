@@ -3,7 +3,7 @@ type: claim
 title: Of 178 reference sources produced by AI dialogue systems, 69 lacked a DOI and 28 could not be found via Google search and had no existing DOI
 description: Of 178 reference sources produced by AI dialogue systems, 69 lacked a DOI and 28 could not be found via Google search and had no existing DOI
 id: ai-confabulated-references-178-sample
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Prompted, unprompted, and slide-based learning conditions yield statistically comparable multiple-choice performance
 description: Prompted, unprompted, and slide-based learning conditions yield statistically comparable multiple-choice performance
 id: no-multiple-choice-difference-prompted-ai-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

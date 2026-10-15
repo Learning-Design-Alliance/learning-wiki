@@ -3,7 +3,7 @@ type: claim
 title: ARPG+ produces higher final prompt quality than unguided, template, and rule-based conditions among simulated learners
 description: ARPG+ produces higher final prompt quality than unguided, template, and rule-based conditions among simulated learners
 id: arpg-plus-higher-prompt-quality-than-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

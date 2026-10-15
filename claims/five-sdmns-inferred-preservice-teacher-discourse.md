@@ -3,7 +3,7 @@ type: claim
 title: "Five socio-didactic-mathematical norms can be inferred from pre-service secondary mathematics teachers' discourse while solving a didactic-mathematical task"
 description: "Five socio-didactic-mathematical norms can be inferred from pre-service secondary mathematics teachers' discourse while solving a didactic-mathematical task"
 id: five-sdmns-inferred-preservice-teacher-discourse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: cultivate-approach-goals-manage-ai-feedback-anxiety
 title: Teachers cultivate approach-oriented goals and help students manage AI-feedback anxiety in AI-assisted language learning
 description: "The article's practical implications recommend that instructors actively foster adaptive motivational patterns in AI-assisted language education: they should \"actively cultivate mastery-approach and performance-approa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

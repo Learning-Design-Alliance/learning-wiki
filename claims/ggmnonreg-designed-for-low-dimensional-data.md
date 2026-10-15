@@ -3,7 +3,7 @@ type: claim
 title: Non-regularized graphical model methods are specifically designed for low-dimensional data common in the social-behavioral sciences
 description: Non-regularized graphical model methods are specifically designed for low-dimensional data common in the social-behavioral sciences
 id: ggmnonreg-designed-for-low-dimensional-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap
 description: On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap
 id: rf-xgboost-beat-thresholds-and-llms-on-course-overlap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Plotting experience against OSCE results showed no effect of years of emergency department experience on consent-taking skill scores
 description: Plotting experience against OSCE results showed no effect of years of emergency department experience on consent-taking skill scores
 id: ed-experience-no-effect-osce-consent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

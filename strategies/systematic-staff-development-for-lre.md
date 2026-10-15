@@ -3,7 +3,7 @@ type: strategy
 id: systematic-staff-development-for-lre
 title: Use systematic staff development to build teacher capacity for LRE
 description: The digest states that LRE effectiveness depends on teacher knowledge and skill and that systematic and extensive staff development can build the needed knowledge, skills, and attitudes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Student academic ability varied across quarters but not systematically with changes in course structure
 description: Student academic ability varied across quarters but not systematically with changes in course structure
 id: student-ability-varied-not-with-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

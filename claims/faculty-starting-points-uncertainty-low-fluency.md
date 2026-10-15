@@ -3,7 +3,7 @@ type: claim
 title: "Entering faculty were characterized by uncertainty rather than opposition: mean AI perception was 3.22 on a five-point scale and mean self-rated fluency was 1.89 on a six-point scale"
 description: "Entering faculty were characterized by uncertainty rather than opposition: mean AI perception was 3.22 on a five-point scale and mean self-rated fluency was 1.89 on a six-point scale"
 id: faculty-starting-points-uncertainty-low-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

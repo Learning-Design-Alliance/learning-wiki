@@ -3,7 +3,7 @@ type: strategy
 id: norms-for-individualizing-instruction-and-goal-setting
 title: Use norms to individualize instruction, set achievement goals, and evaluate performance
 description: The report frames normative data as a practical tool for educators making instructional decisions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -2,7 +2,7 @@
 type: theory
 title: "Pebble-in-the-Pond instructional design: a content-first, task-centered development model"
 description: The Pebble-in-the-Pond model is an instructional development approach in which designers specify real-world content before objectives or strategy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

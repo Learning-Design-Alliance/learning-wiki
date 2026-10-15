@@ -3,7 +3,7 @@ type: claim
 title: Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment
 description: Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment
 id: ai-enhances-adult-learner-autonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

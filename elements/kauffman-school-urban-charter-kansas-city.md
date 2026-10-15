@@ -3,7 +3,7 @@ type: element
 id: kauffman-school-urban-charter-kansas-city
 title: Ewing Marion Kauffman charter school in Kansas City, founded by the Kauffman Foundation
 description: The Ewing Marion Kauffman School is an urban charter school in Kansas City established by the Kauffman Foundation after years of operating local education programs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

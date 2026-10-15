@@ -3,7 +3,7 @@ type: claim
 title: "Turnover is highest in ESL/bilingual education (19.0%), foreign languages (18.3%), CTE (17.5%), and special education (16.4%)"
 description: "Turnover is highest in ESL/bilingual education (19.0%), foreign languages (18.3%), CTE (17.5%), and special education (16.4%)"
 id: high-need-field-teachers-higher-turnover
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

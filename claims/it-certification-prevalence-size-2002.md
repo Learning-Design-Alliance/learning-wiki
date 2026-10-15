@@ -3,7 +3,7 @@ type: claim
 title: The study documents the prevalence and size of IT skill certification programs in 2002
 description: The study documents the prevalence and size of IT skill certification programs in 2002
 id: it-certification-prevalence-size-2002
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

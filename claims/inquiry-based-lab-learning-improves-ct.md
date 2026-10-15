@@ -3,7 +3,7 @@ type: claim
 title: Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills
 description: Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills
 id: inquiry-based-lab-learning-improves-ct
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

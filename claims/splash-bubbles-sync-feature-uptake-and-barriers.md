@@ -3,7 +3,7 @@ type: claim
 title: Sync feature uptake declined between survey and interview, with non-users citing unawareness, technical difficulties, or single-device viewing
 description: Sync feature uptake declined between survey and interview, with non-users citing unawareness, technical difficulties, or single-device viewing
 id: splash-bubbles-sync-feature-uptake-and-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

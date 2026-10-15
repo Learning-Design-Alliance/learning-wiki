@@ -3,7 +3,7 @@ type: element
 id: mandatory-random-student-drug-testing-programs
 title: Mandatory-random student drug testing programs for high school students
 description: "Mandatory-random student drug testing is a school-based intervention approach whose effectiveness was evaluated in the study introduced by this executive summary, titled \"The Effectiveness of Mandatory-Random Student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: seven-features-effective-professional-learning
 title: Design professional learning with seven research-supported features
 description: "The brief distills research on professional development into seven design features: programs are \"most likely to improve teachers’ practice when they (1) focus on specific curriculum content, (2) actively engage teach..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

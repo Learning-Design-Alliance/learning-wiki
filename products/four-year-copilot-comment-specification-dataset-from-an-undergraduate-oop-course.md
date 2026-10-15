@@ -4,7 +4,7 @@ id: four-year-copilot-comment-specification-dataset-from-an-undergraduate-oop-co
 title: Four-year Copilot comment-specification dataset from an undergraduate OOP course
 description: A reconstructed longitudinal dataset of anonymized student comments, Copilot-generated Java code, and test results from four offerings of an undergraduate object-oriented programming activity.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

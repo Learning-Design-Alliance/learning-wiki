@@ -3,7 +3,7 @@ type: claim
 title: "Both institutional and course-level guidance emphasize transparency and acknowledging or citing GenAI use, with 83% of syllabi providing explicit citation guidance"
 description: "Both institutional and course-level guidance emphasize transparency and acknowledging or citing GenAI use, with 83% of syllabi providing explicit citation guidance"
 id: both-levels-emphasize-citation-transparency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

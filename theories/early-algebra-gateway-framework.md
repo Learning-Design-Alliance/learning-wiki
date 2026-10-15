@@ -2,7 +2,7 @@
 type: theory
 title: Early Algebra as a gateway to advanced high school math, STEM majors, and higher lifetime earnings
 description: "The brief frames early Algebra as \"a key gateway to advanced high school math, STEM majors, and higher lifetime earnings.\" This gateway framing organizes the equity analysis: unequal access to 8th-grade Algebra is tre..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Human evaluators' prioritization of essential features was significantly better for low-quality essays than for average- and high-scoring essays"
 description: "Human evaluators' prioritization of essential features was significantly better for low-quality essays than for average- and high-scoring essays"
 id: human-prioritization-varies-by-essay-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

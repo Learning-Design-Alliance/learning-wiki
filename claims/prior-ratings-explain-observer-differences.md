@@ -3,7 +3,7 @@ type: claim
 title: "Differences between principal and observer ratings at the high end of the scale were explained largely by teachers' previous evaluation ratings"
 description: "Differences between principal and observer ratings at the high end of the scale were explained largely by teachers' previous evaluation ratings"
 id: prior-ratings-explain-observer-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

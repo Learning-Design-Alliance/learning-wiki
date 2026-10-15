@@ -3,7 +3,7 @@ type: claim
 title: Feature-based models (LLM-extracted features plus metadata in random forest and gradient boosting) outperform direct LLM estimation, dummy regressor, TF-IDF, and metadata-only benchmarks, with correlations up to r = .87
 description: Feature-based models (LLM-extracted features plus metadata in random forest and gradient boosting) outperform direct LLM estimation, dummy regressor, TF-IDF, and metadata-only benchmarks, with correlations up to r = .87
 id: feature-based-llm-models-outperform-direct-estimation-and-benchmarks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

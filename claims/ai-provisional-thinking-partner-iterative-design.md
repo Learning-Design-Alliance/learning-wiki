@@ -3,7 +3,7 @@ type: claim
 title: Teachers treated AI as a provisional thinking partner whose outputs required iterative adaptation rather than automatic adoption
 description: Teachers treated AI as a provisional thinking partner whose outputs required iterative adaptation rather than automatic adoption
 id: ai-provisional-thinking-partner-iterative-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

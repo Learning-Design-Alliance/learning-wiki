@@ -3,7 +3,7 @@ type: claim
 title: The sequential pathway from AI literacy through LMS quality and blended-learning satisfaction to academic performance is significant (β = .263, p < .001)
 description: The sequential pathway from AI literacy through LMS quality and blended-learning satisfaction to academic performance is significant (β = .263, p < .001)
 id: sequential-mediation-pathway-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

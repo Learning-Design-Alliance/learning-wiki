@@ -3,7 +3,7 @@ type: claim
 title: Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI
 description: Publication counts in the selected sample increased in 2023 and 2024, coinciding with growing attention to large language models and generative AI
 id: ai-math-publications-growth-2023-2024-llm-shift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

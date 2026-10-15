@@ -2,7 +2,7 @@
 type: theory
 title: "Language function framework for describing bilingual children's communicative functions in home settings"
 description: "The study applies \"a language function framework\" to provide \"a descriptive analysis of the communicative functions performed by these children.\" It organizes analysis of home language use around the functions childre..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

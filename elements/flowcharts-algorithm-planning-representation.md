@@ -3,7 +3,7 @@ type: element
 id: flowcharts-algorithm-planning-representation
 title: Flowcharts as a representation for planning algorithms
 description: "The deck introduces flowcharts as a planning representation, defining them as \"A diagram that shows a process, made up of boxes representing steps, decision, inputs and outputs\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

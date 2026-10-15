@@ -3,7 +3,7 @@ type: claim
 title: Per-pitch BKT attains the highest accuracy, lowest BCE and lowest Brier score of the four model families, but lower AUC than IRT
 description: Per-pitch BKT attains the highest accuracy, lowest BCE and lowest Brier score of the four model families, but lower AUC than IRT
 id: bkt-highest-accuracy-lower-auc-than-irt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

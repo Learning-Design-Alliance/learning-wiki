@@ -3,7 +3,7 @@ type: claim
 title: Preparation-purpose homework benefits students more than same-day extra-time homework
 description: Preparation-purpose homework benefits students more than same-day extra-time homework
 id: preparation-homework-beats-same-day-homework
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

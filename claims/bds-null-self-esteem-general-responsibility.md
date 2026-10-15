@@ -3,7 +3,7 @@ type: claim
 title: Building Decision Skills plus service learning showed no statistically significant effects on self-esteem, general social responsibility, or anticipated community participation
 description: Building Decision Skills plus service learning showed no statistically significant effects on self-esteem, general social responsibility, or anticipated community participation
 id: bds-null-self-esteem-general-responsibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

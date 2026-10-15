@@ -3,7 +3,7 @@ type: claim
 title: Projected COVID-19 learning loss was not universal, with the top third of students potentially making gains in reading
 description: Projected COVID-19 learning loss was not universal, with the top third of students potentially making gains in reading
 id: covid-learning-loss-not-universal-top-third-reading-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation
 description: Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation
 id: genai-accelerates-routine-sysadmin-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

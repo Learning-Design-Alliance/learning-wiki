@@ -3,7 +3,7 @@ type: strategy
 id: easing-census-funding-equity-options
 title: Ease census funding equity concerns through targeted policy options
 description: "The brief discusses options for easing funding equity concerns that arise under census funding, in which \"aid levels are based primarily on total district enrollment and a fixed amount per student.\" It presents these..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

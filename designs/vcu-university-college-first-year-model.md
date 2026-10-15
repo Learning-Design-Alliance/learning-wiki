@@ -3,7 +3,7 @@ type: design
 id: vcu-university-college-first-year-model
 title: "VCU University College model: cohort-based first-year core curriculum with centralized support and proactive advising"
 description: "Virginia Commonwealth University's University College, launched in 2006, is built around \"a cohesive core curriculum with a limited set of course options and small class sizes,\" taught by dedicated cross-disciplinary..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Most stakeholders believe College Promise programs will persist in California, with sustainability contingent on political and financial support
 description: Most stakeholders believe College Promise programs will persist in California, with sustainability contingent on political and financial support
 id: promise-viability-sustainability-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: social-academic-and-emotional-behavior-risk-screener-saebrs
 title: Social, Academic, and Emotional Behavior Risk Screener (SAEBRS)
 description: SAEBRS is a universal screening assessment for students’ social, academic, and emotional behavior risk, used by schools and districts to identify needs and guide mental-health supports.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

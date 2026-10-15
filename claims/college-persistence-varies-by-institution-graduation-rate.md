@@ -3,7 +3,7 @@ type: claim
 title: "The review reports that equally qualified Chicago graduates' college persistence differed systematically depending on the institutional graduation rates of the colleges they attended"
 description: "The review reports that equally qualified Chicago graduates' college persistence differed systematically depending on the institutional graduation rates of the colleges they attended"
 id: college-persistence-varies-by-institution-graduation-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

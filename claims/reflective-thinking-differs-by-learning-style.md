@@ -3,7 +3,7 @@ type: claim
 title: "Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions"
 description: "Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions"
 id: reflective-thinking-differs-by-learning-style
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

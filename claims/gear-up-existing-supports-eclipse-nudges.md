@@ -3,7 +3,7 @@ type: claim
 title: Existing GEAR UP supports may have eclipsed the benefits of behavioral-nudge text messaging
 description: Existing GEAR UP supports may have eclipsed the benefits of behavioral-nudge text messaging
 id: gear-up-existing-supports-eclipse-nudges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

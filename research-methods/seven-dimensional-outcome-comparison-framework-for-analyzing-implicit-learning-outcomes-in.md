@@ -3,7 +3,7 @@ type: research-method
 id: seven-dimensional-outcome-comparison-framework-for-analyzing-implicit-learning-outcomes-in
 title: Seven-dimensional outcome comparison framework for analyzing implicit learning outcomes in summative assessments
 description: "The article develops and applies a comparison framework that identifies characteristics of summative assessments in seven dimensions: cognitive process, transferability, depth of analysis, interdependence, novelty, scaffolding and communication."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

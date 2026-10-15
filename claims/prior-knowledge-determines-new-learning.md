@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Prior Knowledge Determines New Learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

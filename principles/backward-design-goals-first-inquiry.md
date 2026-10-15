@@ -3,7 +3,7 @@ type: principle
 id: backward-design-goals-first-inquiry
 title: "Use backward design: define process, attitudinal, and content goals before designing the inquiry activity"
 description: The article recommends designing inquiry activities by specifying goals first and then building the activity to convey them.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: The evaluation covers 43 KIPP middle schools across 13 states and the District of Columbia and is the most rigorous large-scale evaluation of KIPP charters to date
 description: The evaluation covers 43 KIPP middle schools across 13 states and the District of Columbia and is the most rigorous large-scale evaluation of KIPP charters to date
 id: kipp-evaluation-43-schools-13-states
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

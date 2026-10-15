@@ -3,7 +3,7 @@ type: strategy
 id: blended-summer-edtech-in-person-checkins
 title: Blend virtual ed-tech practice with regular in-person meetings and check-ins in summer learning programs
 description: The report recommends that districts deliver summer ed-tech programs as structured, blended models combining virtual practice with live interaction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

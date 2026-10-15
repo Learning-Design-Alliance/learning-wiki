@@ -3,7 +3,7 @@ type: claim
 title: AMOVA uses a null-hypothesis rejection cutoff at a TPE score of 2.45, which rounds via the nearest-integer function to 3.00
 description: AMOVA uses a null-hypothesis rejection cutoff at a TPE score of 2.45, which rounds via the nearest-integer function to 3.00
 id: amova-null-hypothesis-cutoff-245-rounds-to-300
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

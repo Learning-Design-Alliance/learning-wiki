@@ -3,7 +3,7 @@ type: claim
 title: Teachers varied in Data Routine enactment, with Sensemaking about the Data least common, and sensemaking activities were strongly associated with open-ended questioning
 description: Teachers varied in Data Routine enactment, with Sensemaking about the Data least common, and sensemaking activities were strongly associated with open-ended questioning
 id: data-routine-sensemaking-least-common-open-questioning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

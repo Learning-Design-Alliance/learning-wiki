@@ -3,7 +3,7 @@ type: claim
 title: Students on track in ninth grade were four times more likely than off-track peers to graduate high school
 description: Students on track in ninth grade were four times more likely than off-track peers to graduate high school
 id: ninth-grade-on-track-four-times-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

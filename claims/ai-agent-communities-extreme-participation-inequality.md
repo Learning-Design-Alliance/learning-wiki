@@ -3,7 +3,7 @@ type: claim
 title: AI agent communities exhibit extreme participation inequality (comment Gini = 0.91), exceeding human online learning communities
 description: AI agent communities exhibit extreme participation inequality (comment Gini = 0.91), exceeding human online learning communities
 id: ai-agent-communities-extreme-participation-inequality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

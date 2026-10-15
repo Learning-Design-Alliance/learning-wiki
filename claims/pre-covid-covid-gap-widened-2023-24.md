@@ -4,7 +4,7 @@ title: "The gap between pre-COVID and COVID test score averages widened in 2023-
 description: "The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math"
 id: pre-covid-covid-gap-widened-2023-24
 aliases: [pre-covid-covid-score-gap-widened-2023-24]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

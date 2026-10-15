@@ -3,7 +3,7 @@ type: claim
 title: In the interest-development context, naming the theory without full references produced the most practical and usable codebook, while supplying full papers enhanced theoretical alignment but reduced applicability
 description: In the interest-development context, naming the theory without full references produced the most practical and usable codebook, while supplying full papers enhanced theoretical alignment but reduced applicability
 id: naming-theory-most-practical-prompting-strategy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

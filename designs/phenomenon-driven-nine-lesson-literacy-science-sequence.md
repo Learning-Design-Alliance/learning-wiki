@@ -3,7 +3,7 @@ type: design
 id: phenomenon-driven-nine-lesson-literacy-science-sequence
 title: "Nine-lesson phenomenon-driven sequence: introduce phenomenon, observe, question, experiment, share data, read, revise model, extend"
 description: "The guide sketches a nine-lesson sequence (approximately 45 minutes each) driven by a single phenomenon: why some playground surfaces are hotter than others."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: guided-to-autonomous-ai-exploration-with-reflection
 title: Structure AI training as a preparatory phase followed by practical progression from guided to autonomous exploration culminating in critical reflection
 description: "The review found training generally comprised a preparatory phase followed by a practical phase, \"progressing from guided to autonomous exploration of AI tools and culminating in critical reflection on the developed p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

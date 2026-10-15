@@ -3,7 +3,7 @@ type: claim
 title: Segmentation increases learning time
 description: Segmentation increases learning time
 id: segmenting-increases-learning-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

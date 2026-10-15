@@ -3,7 +3,7 @@ type: claim
 title: Students distinguish learning-support GenAI uses from substitutionary uses, with uncertainty highest for minimally modified AI content
 description: Students distinguish learning-support GenAI uses from substitutionary uses, with uncertainty highest for minimally modified AI content
 id: learning-support-versus-substitutionary-genai-judgment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

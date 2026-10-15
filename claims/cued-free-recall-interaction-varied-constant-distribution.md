@@ -3,7 +3,7 @@ type: claim
 title: In Experiment 1, the type-of-recall by varied-constant by distribution interaction was significant, with a massed-distributed effect only in constant cued recall and a distribution effect in both free-recall conditions
 description: In Experiment 1, the type-of-recall by varied-constant by distribution interaction was significant, with a massed-distributed effect only in constant cued recall and a distribution effect in both free-recall conditions
 id: cued-free-recall-interaction-varied-constant-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

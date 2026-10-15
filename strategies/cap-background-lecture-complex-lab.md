@@ -3,7 +3,7 @@ type: strategy
 id: cap-background-lecture-complex-lab
 title: Cap the background lecture for a complex research-based lab at about an hour and expect students to ask questions while working
 description: For labs whose background differs greatly from other experiments, the authors recommend aiming for concision in the lab lecture.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

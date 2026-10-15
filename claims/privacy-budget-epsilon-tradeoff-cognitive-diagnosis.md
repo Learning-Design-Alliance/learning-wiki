@@ -3,7 +3,7 @@ type: claim
 title: ε=2.0 provides the best privacy–utility balance, while ε=0.5 introduces excessive noise that degrades performance below baseline on ASSIST09
 description: ε=2.0 provides the best privacy–utility balance, while ε=0.5 introduces excessive noise that degrades performance below baseline on ASSIST09
 id: privacy-budget-epsilon-tradeoff-cognitive-diagnosis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

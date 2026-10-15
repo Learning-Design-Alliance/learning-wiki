@@ -3,7 +3,7 @@ type: claim
 title: The Struggling profile exhibited a fragmented AI-support pattern, with strong ENA connections between foundational scaffolding and irrelevant/off-task responses alongside cognitive offloading and collaborative impasse
 description: The Struggling profile exhibited a fragmented AI-support pattern, with strong ENA connections between foundational scaffolding and irrelevant/off-task responses alongside cognitive offloading and collaborative impasse
 id: struggling-profile-fragmented-ai-support-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

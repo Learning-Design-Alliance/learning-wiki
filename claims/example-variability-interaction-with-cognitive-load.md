@@ -3,7 +3,7 @@ type: claim
 title: Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction
 description: Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction
 id: example-variability-interaction-with-cognitive-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

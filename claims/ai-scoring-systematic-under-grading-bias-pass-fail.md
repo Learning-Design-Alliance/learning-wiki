@@ -3,7 +3,7 @@ type: claim
 title: "AI scoring shows a systematic conservative bias, under-grading writing so 15.3% (2024) and 16.5% (2025) of human-passing tests would fail under AI scoring"
 description: "AI scoring shows a systematic conservative bias, under-grading writing so 15.3% (2024) and 16.5% (2025) of human-passing tests would fail under AI scoring"
 id: ai-scoring-systematic-under-grading-bias-pass-fail
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

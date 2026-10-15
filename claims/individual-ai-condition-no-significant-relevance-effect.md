@@ -3,7 +3,7 @@ type: claim
 title: The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition
 description: The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition
 id: individual-ai-condition-no-significant-relevance-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

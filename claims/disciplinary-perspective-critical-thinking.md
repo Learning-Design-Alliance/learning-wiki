@@ -3,7 +3,7 @@ type: claim
 title: Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines
 description: Weinstein argues critical thinking needs a disciplinary perspective incorporating substantive methodological criteria from within disciplines
 id: disciplinary-perspective-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

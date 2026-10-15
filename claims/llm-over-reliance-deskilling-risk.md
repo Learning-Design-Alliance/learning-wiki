@@ -3,7 +3,7 @@ type: claim
 title: The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.
 description: The convenience and low opportunity cost of LLMs poses a risk of over-reliance, deskilling, and reduced judgment competence when learners outsource tasks that are essential learning opportunities.
 id: llm-over-reliance-deskilling-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

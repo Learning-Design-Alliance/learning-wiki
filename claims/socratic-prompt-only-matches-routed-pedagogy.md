@@ -3,7 +3,7 @@ type: claim
 title: In the Opus-only ablation, a prompt-only Socratic instruction outscores the full routed policy on judged pedagogy at near-tied helpfulness
 description: In the Opus-only ablation, a prompt-only Socratic instruction outscores the full routed policy on judged pedagogy at near-tied helpfulness
 id: socratic-prompt-only-matches-routed-pedagogy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

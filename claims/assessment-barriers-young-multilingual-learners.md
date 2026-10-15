@@ -3,7 +3,7 @@ type: claim
 title: Assessment of young multilingual learners is hampered by a dearth of valid, linguistically appropriate measures and by English-only administration
 description: Assessment of young multilingual learners is hampered by a dearth of valid, linguistically appropriate measures and by English-only administration
 id: assessment-barriers-young-multilingual-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

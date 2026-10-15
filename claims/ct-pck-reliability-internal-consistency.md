@@ -3,7 +3,7 @@ type: claim
 title: The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69
 description: The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69
 id: ct-pck-reliability-internal-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: No studies meeting WWC group design standards exist for UCSMP Geometry, Advanced Algebra, Functions Statistics and Trigonometry, or Precalculus and Discrete Mathematics
 description: No studies meeting WWC group design standards exist for UCSMP Geometry, Advanced Algebra, Functions Statistics and Trigonometry, or Precalculus and Discrete Mathematics
 id: no-evidence-other-ucsmp-secondary-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

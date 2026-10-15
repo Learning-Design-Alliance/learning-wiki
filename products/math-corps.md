@@ -4,7 +4,7 @@ id: math-corps
 title: Math Corps
 description: Math Corps is an intensive summer mathematics camp for middle school students founded and operated by Wayne State University, with replication sites supported through NSF funding.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

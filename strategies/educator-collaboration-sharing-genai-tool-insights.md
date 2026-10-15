@@ -3,7 +3,7 @@ type: strategy
 id: educator-collaboration-sharing-genai-tool-insights
 title: Educators share experiences, strategies, and insights about generative AI tools to keep the education community informed
 description: "Given the dynamic landscape of AI technologies, the article recommends collaboration among educators: sharing experiences, strategies, and insights about generative AI tools can help the education community stay infor..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

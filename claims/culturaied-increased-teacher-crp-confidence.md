@@ -3,7 +3,7 @@ type: claim
 title: "Using CulturAIEd increased K-12 teachers' confidence in identifying opportunities for cultural responsiveness"
 description: "Using CulturAIEd increased K-12 teachers' confidence in identifying opportunities for cultural responsiveness"
 id: culturaied-increased-teacher-crp-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

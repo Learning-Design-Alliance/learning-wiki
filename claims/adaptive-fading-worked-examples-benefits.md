@@ -3,7 +3,7 @@ type: claim
 title: Adaptive fading of worked examples based on current skill level produced better learning outcomes than fixed fading or tutored problem solving
 description: Adaptive fading of worked examples based on current skill level produced better learning outcomes than fixed fading or tutored problem solving
 id: adaptive-fading-worked-examples-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

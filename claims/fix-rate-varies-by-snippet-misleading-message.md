@@ -3,7 +3,7 @@ type: claim
 title: Fix rate varied substantially across buggy snippets, with snippet A lowest because the standard interpreter message pointed to the non-offending line
 description: Fix rate varied substantially across buggy snippets, with snippet A lowest because the standard interpreter message pointed to the non-offending line
 id: fix-rate-varies-by-snippet-misleading-message
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

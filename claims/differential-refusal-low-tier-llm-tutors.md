@@ -3,7 +3,7 @@ type: claim
 title: "Safety-aligned LLM tutors refuse educational requests asymmetrically, with low-resource students facing the highest refusal rates (76.7% vs 62.2%)"
 description: "Safety-aligned LLM tutors refuse educational requests asymmetrically, with low-resource students facing the highest refusal rates (76.7% vs 62.2%)"
 id: differential-refusal-low-tier-llm-tutors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

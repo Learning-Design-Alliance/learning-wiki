@@ -3,7 +3,7 @@ type: strategy
 id: zpd-masked-rl-content-sequencing
 title: "Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)"
 description: The adaptive training component treats content sequencing as a sequential decision problem solved with Proximal Policy Optimization.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

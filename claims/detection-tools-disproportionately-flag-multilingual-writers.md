@@ -3,7 +3,7 @@ type: claim
 title: The review reports that AI detection tools disproportionately flag multilingual writers, which the authors frame as digital structural violence
 description: The review reports that AI detection tools disproportionately flag multilingual writers, which the authors frame as digital structural violence
 id: detection-tools-disproportionately-flag-multilingual-writers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

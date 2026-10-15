@@ -3,7 +3,7 @@ type: strategy
 id: identify-connect-evaluate-attrition-intervention-process
 title: "Three-step attrition-combating process: identify at-risk students with administrative data, connect them to outreach programs, then evaluate the intervention"
 description: "The article proposes that any cost-efficient initiative against student attrition follow three sequential steps: \"First, students at risk need to be identified using available administrative data; second, at-risk stud..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

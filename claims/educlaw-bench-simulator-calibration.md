@@ -3,7 +3,7 @@ type: claim
 title: The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts
 description: The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts
 id: educlaw-bench-simulator-calibration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

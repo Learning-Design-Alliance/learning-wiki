@@ -3,7 +3,7 @@ type: strategy
 id: ee-training-infusion-or-separate-course
 title: "Address preservice teachers' EE teaching efficacy through infusion across methods courses or a separate EE course"
 description: Based on the finding of combined negative self-efficacy and positive outcome expectancy, the author concludes preservice teachers are receptive and ready to receive training in EE teaching.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

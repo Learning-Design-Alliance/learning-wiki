@@ -3,7 +3,7 @@ type: claim
 title: Internet-based Entrez use grew dramatically in 1994 while CD-ROM subscriptions plateaued
 description: Internet-based Entrez use grew dramatically in 1994 while CD-ROM subscriptions plateaued
 id: internet-entrez-use-grew-cd-rom-plateaued
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

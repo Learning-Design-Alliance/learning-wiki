@@ -3,7 +3,7 @@ type: claim
 title: "School climate functions as a setting-level indicator: students entering schools where they feel safe and supported attend more and earn higher grades, and Chicago's five essential supports survey responses are highly predictive of teacher and school performance"
 description: "School climate functions as a setting-level indicator: students entering schools where they feel safe and supported attend more and earn higher grades, and Chicago's five essential supports survey responses are highly..."
 id: school-climate-setting-level-indicator-five-supports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

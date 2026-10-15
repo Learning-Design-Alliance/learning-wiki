@@ -3,7 +3,7 @@ type: claim
 title: In long-term assessments, personnel reporting high combat exposure have higher odds of screening positive for PTSD and depression than personnel reporting lower exposure
 description: In long-term assessments, personnel reporting high combat exposure have higher odds of screening positive for PTSD and depression than personnel reporting lower exposure
 id: deployment-high-combat-exposure-long-term-ptsd-depression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors
 description: The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors
 id: sel-domains-less-stable-than-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

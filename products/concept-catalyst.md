@@ -4,7 +4,7 @@ id: concept-catalyst
 title: Concept Catalyst
 description: Concept Catalyst is an LLM-assisted web tool developed by Singh et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

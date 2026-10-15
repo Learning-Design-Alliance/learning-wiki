@@ -3,7 +3,7 @@ type: claim
 title: Collegial interaction among adopting teachers increased over time, spanning informational, personal, management, consequence, and collaboration concerns
 description: Collegial interaction among adopting teachers increased over time, spanning informational, personal, management, consequence, and collaboration concerns
 id: increasing-collegial-interaction-across-concern-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

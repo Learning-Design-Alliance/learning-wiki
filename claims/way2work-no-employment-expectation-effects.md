@@ -3,7 +3,7 @@ type: claim
 title: Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment
 description: Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment
 id: way2work-no-employment-expectation-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

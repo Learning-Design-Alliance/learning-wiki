@@ -3,7 +3,7 @@ type: strategy
 id: solver-as-tutoring-hint-engine-spatial-games
 title: Use the solver as a hint engine for intelligent tutoring of spatial reasoning in puzzle games
 description: "The authors propose deploying the human-centric solver as the core of an educational tool: 'the system can serve as a core engine for an intelligent tutoring system, providing meaningful, human-like hints tailored to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

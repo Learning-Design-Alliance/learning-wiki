@@ -3,7 +3,7 @@ type: strategy
 id: interpretive-grounding-before-ai-use
 title: Reinforce interpretive grounding by having learners engage primary materials before using AI tools
 description: "A pedagogical implication the article draws for SSH education in AI-mediated contexts: ensure that learners engage directly with primary materials before using AI tools, in line with hermeneutic principles emphasizing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

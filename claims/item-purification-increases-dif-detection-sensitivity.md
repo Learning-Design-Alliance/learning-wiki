@@ -3,7 +3,7 @@ type: claim
 title: Item purification made both DIF methods more sensitive, flagging more items
 description: Item purification made both DIF methods more sensitive, flagging more items
 id: item-purification-increases-dif-detection-sensitivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

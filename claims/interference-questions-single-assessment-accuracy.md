@@ -3,7 +3,7 @@ type: claim
 title: Current instruction affects previously learned knowledge (interference), calling into question the accuracy of any single assessment
 description: Current instruction affects previously learned knowledge (interference), calling into question the accuracy of any single assessment
 id: interference-questions-single-assessment-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

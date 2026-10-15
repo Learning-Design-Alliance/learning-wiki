@@ -4,7 +4,7 @@ id: reading-apprenticeship
 title: Reading Apprenticeship
 description: "Reading Apprenticeship® is a secondary-school academic literacy curriculum and professional-learning programme developed and provided by WestEd to support students' reading comprehension, engagement, and metacognitive awareness."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

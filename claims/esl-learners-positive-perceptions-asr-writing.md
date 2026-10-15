@@ -3,7 +3,7 @@ type: claim
 title: Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use
 description: Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use
 id: esl-learners-positive-perceptions-asr-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

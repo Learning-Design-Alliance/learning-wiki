@@ -3,7 +3,7 @@ type: claim
 title: Proportions of significant CT gains vary by instructional approach, but approach alone does not determine effectiveness
 description: Proportions of significant CT gains vary by instructional approach, but approach alone does not determine effectiveness
 id: instructional-approach-alone-does-not-determine-ct-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

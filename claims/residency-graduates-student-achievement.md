@@ -3,7 +3,7 @@ type: claim
 title: Students of residency graduates show achievement outcomes comparable to or better than other novices, with gains emerging over time
 description: Students of residency graduates show achievement outcomes comparable to or better than other novices, with gains emerging over time
 id: residency-graduates-student-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: district-charter-collaboration-grant-survey
 title: District-Charter Collaboration Grant program evaluation survey
 description: A survey of district and charter school educators (teachers and principals) sampled from 21 cross-sector collaboration activities across the seven grantee cities in 2014-2015, conducted by Mathematica for the Gates Fo...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

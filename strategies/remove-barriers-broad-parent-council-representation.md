@@ -3,7 +3,7 @@ type: strategy
 id: remove-barriers-broad-parent-council-representation
 title: Remove participation barriers and use broad outreach to ensure fair representation on parent councils
 description: The brief holds that all families in a community should have a fair opportunity to participate in a parent council, since broad representation brings different perspectives.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

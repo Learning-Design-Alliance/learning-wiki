@@ -3,7 +3,7 @@ type: claim
 title: System compensation as implemented is not a satisfactory adaptive variable
 description: System compensation as implemented is not a satisfactory adaptive variable
 id: system-compensation-unsatisfactory-adaptive-variable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

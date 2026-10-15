@@ -3,7 +3,7 @@ type: claim
 title: Smaller schools and schools with lower student mobility show significantly stronger instructional pacing even after controlling for prior achievement and poverty
 description: Smaller schools and schools with lower student mobility show significantly stronger instructional pacing even after controlling for prior achievement and poverty
 id: school-size-mobility-affect-pacing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

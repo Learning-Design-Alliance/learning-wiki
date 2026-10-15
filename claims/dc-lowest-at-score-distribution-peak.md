@@ -3,7 +3,7 @@ type: claim
 title: DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely
 description: DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely
 id: dc-lowest-at-score-distribution-peak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: research-method
 id: causal-mediation-analysis-of-teacher-practice-in-education-randomized-trials
 title: Causal mediation analysis of teacher practice in education randomized trials
 description: "The report defines a mediator as \"an intermediate outcome that is measured after random assignment and that can be affected by the treatment.\" Its Figure 2.1 path model posits that intervention services improve teacher knowledge, which improves teacher practices, which improve student test scores, w"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: school-wide-information-system-swis
 title: School-Wide Information System (SWIS)
 description: An internet-based data-entry and reporting system developed for schools to collect, manage, and analyze office discipline referral data for behavior-support decision making.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

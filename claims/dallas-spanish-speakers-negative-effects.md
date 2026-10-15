@@ -3,7 +3,7 @@ type: claim
 title: Financial incentives for reading books produce negative achievement effects for Spanish-speaking students in Dallas, consistent with a crowd-out hypothesis
 description: Financial incentives for reading books produce negative achievement effects for Spanish-speaking students in Dallas, consistent with a crowd-out hypothesis
 id: dallas-spanish-speakers-negative-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: multiyear-implementation-u-shaped-outcomes
 title: Plan for multiyear implementation support because outcome trajectories are U-shaped, with short-term declines preceding long-term gains
 description: The report warns that in some restorative implementation studies, outcomes over time are U-shaped, so institutions should secure funding structured to support multiple years of implementation and communicate that fund...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

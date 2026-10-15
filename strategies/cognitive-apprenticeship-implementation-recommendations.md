@@ -3,7 +3,7 @@ type: strategy
 id: cognitive-apprenticeship-implementation-recommendations
 title: "Implement cognitive apprenticeship in technical mathematics only after requiring lab attendance, training teachers in coaching, building teachers' technical knowledge, and allotting more lab time"
 description: "Based on the formative evaluation of the quasi-experiment, the authors propose that the cognitive apprenticeship method \"should be further explored after the following suggestions have been incorporated: (1) Student a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

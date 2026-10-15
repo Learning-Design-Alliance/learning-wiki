@@ -3,7 +3,7 @@ type: claim
 title: "A multi-source study identifies eight key areas of ethical consideration regarding teachers' use of AI for student feedback"
 description: "A multi-source study identifies eight key areas of ethical consideration regarding teachers' use of AI for student feedback"
 id: eight-ethical-areas-teacher-ai-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

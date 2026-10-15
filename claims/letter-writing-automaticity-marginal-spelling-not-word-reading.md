@@ -3,7 +3,7 @@ type: claim
 title: Letter writing automaticity is marginally related to spelling (b = .11, p = .06) but not uniquely related to word reading (b = -.07, p = .28) in kindergartners
 description: Letter writing automaticity is marginally related to spelling (b = .11, p = .06) but not uniquely related to word reading (b = -.07, p = .28) in kindergartners
 id: letter-writing-automaticity-marginal-spelling-not-word-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

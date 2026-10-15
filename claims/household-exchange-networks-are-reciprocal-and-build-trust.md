@@ -3,7 +3,7 @@ type: claim
 title: "In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities."
 description: "In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities."
 id: household-exchange-networks-are-reciprocal-and-build-trust
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

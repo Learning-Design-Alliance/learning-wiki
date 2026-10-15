@@ -4,7 +4,7 @@ title: Persistence and performance costs concentrate among participants who used
 description: Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls
 id: persistence-costs-concentrated-among-direct-solution-users
 aliases: [genai-usage-mode-predicts-independent-performance]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

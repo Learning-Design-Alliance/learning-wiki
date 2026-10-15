@@ -3,7 +3,7 @@ type: claim
 title: Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts
 description: Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts
 id: instructions-increase-learning-time-allocation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

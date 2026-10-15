@@ -3,7 +3,7 @@ type: claim
 title: Frustration under the contingent tutor sat between the answer-on-request assistant and the question-only tutor
 description: Frustration under the contingent tutor sat between the answer-on-request assistant and the question-only tutor
 id: contingent-tutor-frustration-between-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: executive-llm-adaptive-assessment-method
 title: Executive LLM adaptive assessment method
 description: "The Executive LLM is a single LLM that generates responses for all AI teammates, has access to the pedagogical rubrics, and is prompted to \"create situations that will allow the subject to demonstrate their skill, so that their skill level can be quantitatively inferred\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

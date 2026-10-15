@@ -3,7 +3,7 @@ type: claim
 title: Double-dose algebra improved test scores but did not reduce algebra failure rates
 description: Double-dose algebra improved test scores but did not reduce algebra failure rates
 id: double-dose-did-not-improve-failure-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

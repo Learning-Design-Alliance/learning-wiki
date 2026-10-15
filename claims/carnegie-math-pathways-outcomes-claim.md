@@ -3,7 +3,7 @@ type: claim
 title: Carnegie Math Pathways students earned college-level math credits at three to four times the rate of peers in traditional sequences and graduated at double the rate
 description: Carnegie Math Pathways students earned college-level math credits at three to four times the rate of peers in traditional sequences and graduated at double the rate
 id: carnegie-math-pathways-outcomes-claim
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

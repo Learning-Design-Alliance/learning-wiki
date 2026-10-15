@@ -3,7 +3,7 @@ type: claim
 title: Students with weak eighth grade basic skills have the poorest attendance, but cutting is widespread even among top achievers (42 percent on or above grade level were moderate to extreme truants)
 description: Students with weak eighth grade basic skills have the poorest attendance, but cutting is widespread even among top achievers (42 percent on or above grade level were moderate to extreme truants)
 id: weak-skills-predict-truancy-but-cutting-widespread
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

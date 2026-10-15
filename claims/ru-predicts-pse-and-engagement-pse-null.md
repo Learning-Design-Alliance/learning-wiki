@@ -3,7 +3,7 @@ type: claim
 title: Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)
 description: Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)
 id: ru-predicts-pse-and-engagement-pse-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

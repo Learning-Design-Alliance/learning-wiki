@@ -3,7 +3,7 @@ type: claim
 title: Repeated negative alerts for one student prompted the teacher to revisit her and shift from explanation to inquiry, and reorganization of her engagement occurred only after this second intervention
 description: Repeated negative alerts for one student prompted the teacher to revisit her and shift from explanation to inquiry, and reorganization of her engagement occurred only after this second intervention
 id: repeated-alerts-prompt-iterative-instructional-revision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Regional differences in program effectiveness: North America led for perpetration, Scandinavia for victimization, with no clear overall pattern"
 description: "Regional differences in program effectiveness: North America led for perpetration, Scandinavia for victimization, with no clear overall pattern"
 id: anti-bullying-effectiveness-varies-by-region
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

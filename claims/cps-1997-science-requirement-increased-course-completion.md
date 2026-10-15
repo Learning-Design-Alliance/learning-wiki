@@ -3,7 +3,7 @@ type: claim
 title: "Chicago's 1997 three-year college-preparatory science graduation requirement more than doubled the percentage of graduates completing three or more years of science"
 description: "Chicago's 1997 three-year college-preparatory science graduation requirement more than doubled the percentage of graduates completing three or more years of science"
 id: cps-1997-science-requirement-increased-course-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

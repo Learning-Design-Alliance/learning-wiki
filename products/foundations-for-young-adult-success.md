@@ -4,7 +4,7 @@ id: foundations-for-young-adult-success
 title: Foundations for Young Adult Success
 description: "A UChicago Consortium framework that organizes developmental conditions and experiences supporting young people's successful transition to adulthood."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

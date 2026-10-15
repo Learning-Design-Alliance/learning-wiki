@@ -3,7 +3,7 @@ type: claim
 title: "Ninth-grade teachers' grade effects are stable across years"
 description: "Ninth-grade teachers' grade effects are stable across years"
 id: teacher-grade-effects-stable-across-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

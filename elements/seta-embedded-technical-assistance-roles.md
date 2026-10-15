@@ -3,7 +3,7 @@ type: element
 id: seta-embedded-technical-assistance-roles
 title: "SETA (Scientific and Engineering Technical Assistance) roles as embedded technical expertise in education R&D"
 description: SETAs are embedded technical experts in the ARPA tradition who provide continuity, systems-level insight, and rapid response capacity across short-term, high-ambition research programs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

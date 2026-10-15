@@ -3,7 +3,7 @@ type: strategy
 id: ethics-curriculum-with-integrated-service-learning
 title: Pairing an ethics curriculum with integrated community service learning
 description: "The article describes implementing Building Decision Skills inside an elective community service course in which \"the service-learning activities that were integrated into the curriculum involved working off campus tw..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

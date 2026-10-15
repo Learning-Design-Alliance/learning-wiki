@@ -3,7 +3,7 @@ type: strategy
 id: integrate-mr-visualization-physical-interaction
 title: Integrate mixed-reality visualization with physical interaction rather than relying on a single modality
 description: "The article's first design guideline recommends combining tangibility and mixed reality in engineering learning tools, because participants valued the combination and reported improved conceptual understanding and han..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

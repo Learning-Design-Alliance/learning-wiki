@@ -3,7 +3,7 @@ type: strategy
 id: non-arts-subjects-apply-arts-sel-mechanisms
 title: Educators in non-arts subjects can apply the mechanisms by which arts learning supports social-emotional development
 description: The report argues arts education is well-suited to social-emotional development but not unique in this regard.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

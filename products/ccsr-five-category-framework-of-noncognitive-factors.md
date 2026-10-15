@@ -4,7 +4,7 @@ id: ccsr-five-category-framework-of-noncognitive-factors
 title: CCSR five-category framework of noncognitive factors
 description: A research-synthesis framework developed by the University of Chicago Consortium on Chicago School Research (CCSR) that organises noncognitive factors into academic behaviors, academic perseverance, social skills, learning strategies, and academic mindsets.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

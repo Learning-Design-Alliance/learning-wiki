@@ -3,7 +3,7 @@ type: strategy
 id: consequence-analysis-for-ethical-administrative-choices
 title: Use consequence analysis grounded in social science concepts to make ethical administrative choices concrete
 description: The paper recommends that administrators facing non-routine decisions involving competing values elaborate alternatives, their probable consequences, and ways of dealing with those consequences, grounding determinatio...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure
 description: Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure
 id: extensive-reading-improves-vocabulary-and-spelling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

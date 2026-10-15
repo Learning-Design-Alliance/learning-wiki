@@ -4,7 +4,7 @@ id: genai-srl-scale-and-genai-srl-12-short-form
 title: GenAI-SRL scale and GenAI-SRL-12 short form
 description: A self-report assessment developed by Xiaoqi Wang et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

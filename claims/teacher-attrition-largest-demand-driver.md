@@ -3,7 +3,7 @@ type: claim
 title: "High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages"
 description: "High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages"
 id: teacher-attrition-largest-demand-driver
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

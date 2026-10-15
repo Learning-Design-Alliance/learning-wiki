@@ -3,7 +3,7 @@ type: claim
 title: Content analysis of project reports identified five factors contributing to PLC formation (common interests, communication systems, mutual learning, collaborative work, UNAL values) and three hindering factors (administrative management, project scheduling, personal non-compliance)
 description: Content analysis of project reports identified five factors contributing to PLC formation (common interests, communication systems, mutual learning, collaborative work, UNAL values) and three hindering factors (admini...
 id: plc-formation-contributing-hindering-factors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

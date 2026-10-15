@@ -3,7 +3,7 @@ type: design
 id: bronxdale-whole-school-design-pattern
 title: Whole-school design pattern combining community vision, inquiry instruction with social-emotional supports, restorative discipline, and a professional community of practice
 description: "The report identifies a constellation of four mutually reinforcing school-design factors that it argues produced Bronxdale's outcomes: \"a compelling vision of students and school as a caring, safe, collaborative commu..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: dbagent
 title: DBagent
 description: DBagent is a course-specific LLM-based educational agent developed by Li et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

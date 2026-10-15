@@ -3,7 +3,7 @@ type: claim
 title: "No significant difference in perceived learning across the three modes (p = .845), despite the unrestricted mode's nearly double objective learning delta"
 description: "No significant difference in perceived learning across the three modes (p = .845), despite the unrestricted mode's nearly double objective learning delta"
 id: no-perceived-learning-difference-across-modes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

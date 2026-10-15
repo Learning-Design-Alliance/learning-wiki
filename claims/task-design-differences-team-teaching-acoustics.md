@@ -3,7 +3,7 @@ type: claim
 title: Collaborative tasks elicit higher loudness-dynamics components in team-teacher talk than individual tasks, which show higher spectral-slope and voice-quality components
 description: Collaborative tasks elicit higher loudness-dynamics components in team-teacher talk than individual tasks, which show higher spectral-slope and voice-quality components
 id: task-design-differences-team-teaching-acoustics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

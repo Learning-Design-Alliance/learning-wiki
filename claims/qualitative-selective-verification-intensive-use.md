@@ -3,7 +3,7 @@ type: claim
 title: High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment
 description: High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment
 id: qualitative-selective-verification-intensive-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

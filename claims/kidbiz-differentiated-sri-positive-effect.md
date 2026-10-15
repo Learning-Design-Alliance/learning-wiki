@@ -3,7 +3,7 @@ type: claim
 title: "Tracey and Young (2004): grade 5 students using differentiated KidBiz3000® outscored comparison students on the SRI (effect size 0.29)"
 description: "Tracey and Young (2004): grade 5 students using differentiated KidBiz3000® outscored comparison students on the SRI (effect size 0.29)"
 id: kidbiz-differentiated-sri-positive-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

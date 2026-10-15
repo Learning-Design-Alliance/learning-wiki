@@ -3,7 +3,7 @@ type: claim
 title: Challenge emotions mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors, with a relatively small indirect effect
 description: Challenge emotions mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors, with a relatively small indirect effect
 id: challenge-emotions-mediation-genai-literacy-srlb
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

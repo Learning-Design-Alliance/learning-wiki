@@ -3,7 +3,7 @@ type: strategy
 id: literacy-champion-school-level-contact
 title: Appoint a Literacy Champion as school-level contact to support A2i rollout
 description: "This implementation strategy calls for identifying a 'Literacy Champion' who \"serves as the main school-level contact and resource as teachers begin the A2i rollout\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses
 description: Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses
 id: instructor-content-engagement-associated-lower-distraction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

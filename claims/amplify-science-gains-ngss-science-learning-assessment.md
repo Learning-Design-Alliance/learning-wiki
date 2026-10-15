@@ -3,7 +3,7 @@ type: claim
 title: 1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on an NGSS-focused three-dimensional science learning assessment (g = 0.24)
 description: 1st graders in Amplify Science intervention classrooms significantly outperformed comparison classrooms on an NGSS-focused three-dimensional science learning assessment (g = 0.24)
 id: amplify-science-gains-ngss-science-learning-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

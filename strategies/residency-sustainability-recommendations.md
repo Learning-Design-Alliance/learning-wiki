@@ -3,7 +3,7 @@ type: strategy
 id: residency-sustainability-recommendations
 title: "Recommendations for sustainable and affordable residency programs: align with LEA strategy, engage system leaders, dedicate sustainability roles, and run affordability analyses"
 description: "In response to evaluation findings, WestEd's team generated recommendations for state leadership and for residency programs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

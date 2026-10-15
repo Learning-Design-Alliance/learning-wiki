@@ -3,7 +3,7 @@ type: claim
 title: The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide
 description: The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide
 id: school-info-presentation-affects-parent-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

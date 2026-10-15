@@ -3,7 +3,7 @@ type: claim
 title: Effective AI use positively influences sustainable learning performance
 description: Effective AI use positively influences sustainable learning performance
 id: effective-ai-use-improves-sustainable-learning-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

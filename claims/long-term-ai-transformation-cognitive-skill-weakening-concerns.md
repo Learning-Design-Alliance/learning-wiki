@@ -3,7 +3,7 @@ type: claim
 title: Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills
 description: Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills
 id: long-term-ai-transformation-cognitive-skill-weakening-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: mai-ai-metacognitive-awareness-inventory-for-artificial-intelligence
 title: "MAI-AI: Metacognitive Awareness Inventory for Artificial Intelligence"
 description: A 29-item AI-centered Likert self-report instrument developed by Pau Benazet i Montobbio et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

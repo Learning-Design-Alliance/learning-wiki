@@ -3,7 +3,7 @@ type: claim
 title: "Strategic pre-task planning has a clear positive influence on the complexity of learners' task performance"
 description: "Strategic pre-task planning has a clear positive influence on the complexity of learners' task performance"
 id: strategic-planning-enhances-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

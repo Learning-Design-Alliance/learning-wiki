@@ -3,7 +3,7 @@ type: element
 id: adjustable-open-cavity-hene-laser-apparatus
 title: Adjustable open-cavity HeNe laser apparatus with Fabry-Perot mode monitoring and RF spectrum analyzer beat detection
 description: An undergraduate laboratory apparatus combining an adjustable open-cavity HeNe laser (28 cm plasma tube, Brewster window, sliding output coupler over roughly 38–54 cm), an intra-cavity iris forcing TEM00 operation, a...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods
 description: Self-efficacy correlates positively with conceptual understanding in both flipped classroom methods
 id: self-efficacy-correlates-conceptual-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

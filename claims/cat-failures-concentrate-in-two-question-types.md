@@ -3,7 +3,7 @@ type: claim
 title: "Correct-answer-trap cases concentrate in specific question types where common flawed reasoning happens to produce the correct numerical answer, with the top two question types accounting for 71% of all TM cases"
 description: "Correct-answer-trap cases concentrate in specific question types where common flawed reasoning happens to produce the correct numerical answer, with the top two question types accounting for 71% of all TM cases"
 id: cat-failures-concentrate-in-two-question-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

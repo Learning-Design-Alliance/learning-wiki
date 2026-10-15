@@ -4,7 +4,7 @@ id: prisma-2020-systematic-review-corpus-of-27-studies-on-ai-based-collaborative
 title: PRISMA 2020 systematic review corpus of 27 studies on AI-based collaborative learning in higher education
 description: A corpus of 27 English-language empirical, case-study, or meta-analytic studies published from 2014 to 2024 on AI-based collaborative learning in higher education, selected from Scopus using PRISMA 2020 procedures by Kovari (2025).
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Hedonic appeal, not trust, carries the indirect path from trace exposure to performance overestimation, consistent with a processing-fluency account
 description: Hedonic appeal, not trust, carries the indirect path from trace exposure to performance overestimation, consistent with a processing-fluency account
 id: hedonic-appeal-mediates-overestimation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

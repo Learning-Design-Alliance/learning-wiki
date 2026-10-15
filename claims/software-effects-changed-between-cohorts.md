@@ -3,7 +3,7 @@ type: claim
 title: Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness
 description: Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness
 id: software-effects-changed-between-cohorts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "A biology learning chatbot system had a positive impact on grade 7 students' biology learning achievement in a quasi-experiment"
 description: "A biology learning chatbot system had a positive impact on grade 7 students' biology learning achievement in a quasi-experiment"
 id: biology-chatbot-improves-learning-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

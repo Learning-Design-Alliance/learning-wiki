@@ -3,7 +3,7 @@ type: strategy
 id: tutoring-leads-progress-monitoring-alignment
 title: Align tutoring to core instruction and monitor progress throughout the year via school-based Tutoring Leads
 description: "Education Corps embeds implementation infrastructure around tutoring: school-based Tutoring Leads work with Ed Corps staff to identify eligible students and coordinate scheduling, tutoring is aligned and scheduled to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

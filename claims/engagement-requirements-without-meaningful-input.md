@@ -3,7 +3,7 @@ type: claim
 title: State community engagement requirements such as public hearings can often be satisfied without obtaining meaningful community input, and collecting feedback differs from proactively assessing community needs
 description: State community engagement requirements such as public hearings can often be satisfied without obtaining meaningful community input, and collecting feedback differs from proactively assessing community needs
 id: engagement-requirements-without-meaningful-input
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

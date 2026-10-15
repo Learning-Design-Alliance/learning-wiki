@@ -3,7 +3,7 @@ type: claim
 title: Hardly any K-12 AI learning experiences assessed whether students understood AI concepts after the learning experience
 description: Hardly any K-12 AI learning experiences assessed whether students understood AI concepts after the learning experience
 id: k12-ai-literacy-lacking-outcome-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Expert evaluators rate PIVOT higher than TheoremExplainAgent across nearly all instructional dimensions, with the largest gains in Physics and Computer Science
 description: Expert evaluators rate PIVOT higher than TheoremExplainAgent across nearly all instructional dimensions, with the largest gains in Physics and Computer Science
 id: expert-evaluation-pivot-outperforms-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: math-mysteries
 title: Math Mysteries
 description: A teacher-developed, AI-powered, storytelling-based gamified mathematics learning platform for middle school students, created using Google AI Studio by the Song et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

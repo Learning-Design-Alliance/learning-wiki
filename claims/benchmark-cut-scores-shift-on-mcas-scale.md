@@ -3,7 +3,7 @@ type: claim
 title: Screening assessment benchmarks indicating significant risk shift up and down on the MCAS scale within and across grades, so students with the same skills may be classified differently at different times
 description: Screening assessment benchmarks indicating significant risk shift up and down on the MCAS scale within and across grades, so students with the same skills may be classified differently at different times
 id: benchmark-cut-scores-shift-on-mcas-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

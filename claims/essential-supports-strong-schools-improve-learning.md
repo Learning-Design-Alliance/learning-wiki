@@ -3,7 +3,7 @@ type: claim
 title: Schools strong in the essential supports are more likely to improve student learning over time
 description: Schools strong in the essential supports are more likely to improve student learning over time
 id: essential-supports-strong-schools-improve-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

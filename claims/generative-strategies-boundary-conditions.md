@@ -3,7 +3,7 @@ type: claim
 title: The effectiveness of each generative learning strategy is subject to potential boundary conditions discussed in the review
 description: The effectiveness of each generative learning strategy is subject to potential boundary conditions discussed in the review
 id: generative-strategies-boundary-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

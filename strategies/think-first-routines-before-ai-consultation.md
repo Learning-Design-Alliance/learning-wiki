@@ -3,7 +3,7 @@ type: strategy
 id: think-first-routines-before-ai-consultation
 title: Make the distribution of epistemic responsibility an explicit object of instruction, including think-first routines before consulting the AI
 description: The authors suggest teachers make explicit which parts of a task students want AI to support, which processes they are expected to practice themselves, and how to recognize when assistance has begun to substitute for...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

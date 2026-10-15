@@ -3,7 +3,7 @@ type: claim
 title: The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools
 description: The study is the largest experimental-design study of multiple math curricula, covering 110 schools with this report based on the first cohort of 39 schools
 id: largest-experimental-study-of-math-curricula-110-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

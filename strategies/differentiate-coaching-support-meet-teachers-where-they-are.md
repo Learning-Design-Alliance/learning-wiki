@@ -3,7 +3,7 @@ type: strategy
 id: differentiate-coaching-support-meet-teachers-where-they-are
 title: Differentiate coaching support to meet teachers where they are, establish clear DLS expectations, and provide coaches additional training for consistent messaging
 description: "The evaluators recommend that because teachers have varying experience and expertise, \"coaches must meet the teachers where they are, rather than simply advocating for DLS tool use.\" They further recommend situating t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

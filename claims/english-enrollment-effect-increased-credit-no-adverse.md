@@ -3,7 +3,7 @@ type: claim
 title: Taking English I instead of remedial English increased English credit earning with no adverse consequences on failure rates or test scores
 description: Taking English I instead of remedial English increased English credit earning with no adverse consequences on failure rates or test scores
 id: english-enrollment-effect-increased-credit-no-adverse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

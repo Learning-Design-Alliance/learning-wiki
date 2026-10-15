@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' visions most often broadened through wider action strategies, futures thinking, and methodological variety"
 description: "Teachers' visions most often broadened through wider action strategies, futures thinking, and methodological variety"
 id: broadening-markers-teacher-ai-visions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

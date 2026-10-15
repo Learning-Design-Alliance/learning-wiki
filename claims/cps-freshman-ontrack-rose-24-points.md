@@ -3,7 +3,7 @@ type: claim
 title: CPS Freshman OnTrack rates rose 24 percentage points, from 64 percent for the Class of 2006 to 88 percent for the Class of 2019
 description: CPS Freshman OnTrack rates rose 24 percentage points, from 64 percent for the Class of 2006 to 88 percent for the Class of 2019
 id: cps-freshman-ontrack-rose-24-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

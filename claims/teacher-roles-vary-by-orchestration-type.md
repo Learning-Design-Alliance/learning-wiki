@@ -3,7 +3,7 @@ type: claim
 title: Teacher roles vary by orchestration type, with content-related and ethical roles prominent when the teacher intervenes in AI-generated feedback, and a knowledge-transmitter role emerging in explain-the-screen
 description: Teacher roles vary by orchestration type, with content-related and ethical roles prominent when the teacher intervenes in AI-generated feedback, and a knowledge-transmitter role emerging in explain-the-screen
 id: teacher-roles-vary-by-orchestration-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

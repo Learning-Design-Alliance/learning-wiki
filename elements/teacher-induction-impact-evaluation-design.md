@@ -3,7 +3,7 @@ type: element
 id: teacher-induction-impact-evaluation-design
 title: Randomized impact evaluation design for teacher induction programs
 description: "A study-design artifact: a randomized impact evaluation of high-intensity teacher induction programs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

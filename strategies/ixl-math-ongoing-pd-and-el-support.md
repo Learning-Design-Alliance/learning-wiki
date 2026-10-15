@@ -3,7 +3,7 @@ type: strategy
 id: ixl-math-ongoing-pd-and-el-support
 title: Add ongoing professional development and increased support for EL students when implementing IXL Math
 description: "Based on teacher feedback from the implementation survey, the page identifies two improvement areas for IXL Math implementations: \"adding ongoing professional development and increased support for EL students.\" IXL's..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

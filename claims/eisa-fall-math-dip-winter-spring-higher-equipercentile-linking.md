@@ -3,7 +3,7 @@ type: claim
 title: EISA-based MAP Growth testing produced slightly lower fall Mathematics scores but higher winter and spring Mathematics scores than traditional MAP Growth, and equipercentile linking was used to align the two versions for norming
 description: EISA-based MAP Growth testing produced slightly lower fall Mathematics scores but higher winter and spring Mathematics scores than traditional MAP Growth, and equipercentile linking was used to align the two versions...
 id: eisa-fall-math-dip-winter-spring-higher-equipercentile-linking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Student-reported instructional quality declined during remote learning, most sharply in middle-grade science and academic press, and had not recovered to pre-pandemic levels by 2022-23
 description: Student-reported instructional quality declined during remote learning, most sharply in middle-grade science and academic press, and had not recovered to pre-pandemic levels by 2022-23
 id: instructional-quality-declined-remote-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

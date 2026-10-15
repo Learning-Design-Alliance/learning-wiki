@@ -3,7 +3,7 @@ type: strategy
 id: dc-method-selection-guidance
 title: "Select a DC estimation method based on score distribution shape, the user's measurement background, and the intended audience"
 description: The article provides guidelines for choosing among LL-DC, PS-DC, and W-DC depending on data distribution and audience.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -4,7 +4,7 @@ id: quality-teaching-for-english-learners-qtel
 title: Quality Teaching for English Learners (QTEL)
 description: QTEL is a professional-development and instructional programme that supports educators in teaching rigorous academic content and academic English simultaneously to secondary English Learners.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

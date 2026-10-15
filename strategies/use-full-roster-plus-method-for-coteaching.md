@@ -3,7 +3,7 @@ type: strategy
 id: use-full-roster-plus-method-for-coteaching
 title: Policymakers and model developers should use the Full Roster-Plus Method to account for co-teaching in value-added models
 description: The article recommends that policymakers addressing co-teaching in value-added models adopt the Full Roster-Plus Method, which treats co-teachers as teams with each teacher receiving equal credit for co-taught students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

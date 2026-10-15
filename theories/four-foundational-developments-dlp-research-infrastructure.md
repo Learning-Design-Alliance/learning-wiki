@@ -2,7 +2,7 @@
 type: theory
 title: Four foundational developments framework for DLPs-as-research-infrastructure
 description: "The article organizes the history of DLP-based research infrastructure into four building blocks: \"data repositories, data collection services, research design interfaces, and research communities.\" Each advance carri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: calpads-student-level-longitudinal-course-record-dataset
 title: CALPADS student-level longitudinal course record dataset
 description: A California Department of Education administrative dataset containing student-level longitudinal K–12 course records for federal reporting and education research.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

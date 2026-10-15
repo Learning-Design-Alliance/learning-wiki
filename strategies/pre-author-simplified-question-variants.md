@@ -3,7 +3,7 @@ type: strategy
 id: pre-author-simplified-question-variants
 title: Pre-author simplified question variants rather than generating them on the fly
 description: "The article recommends that simplification \"must be authored, not improvised\": pre-authoring simplified variants of each question, rather than generating them on the fly, kept behavior predictable and appropriate for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

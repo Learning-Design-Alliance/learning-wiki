@@ -3,7 +3,7 @@ type: claim
 title: "Experts at the NISS Ingram Olkin Forum shared statistical and data-analytic challenges in researching COVID-19's impact on U.S. schools"
 description: "Experts at the NISS Ingram Olkin Forum shared statistical and data-analytic challenges in researching COVID-19's impact on U.S."
 id: covid-schools-statistical-challenges-forum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

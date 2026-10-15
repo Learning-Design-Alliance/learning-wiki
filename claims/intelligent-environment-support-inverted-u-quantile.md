@@ -3,7 +3,7 @@ type: claim
 title: School-based intelligent environment support shows an inverted U-shaped quantile pattern, stronger at lower-to-middle competence levels
 description: School-based intelligent environment support shows an inverted U-shaped quantile pattern, stronger at lower-to-middle competence levels
 id: intelligent-environment-support-inverted-u-quantile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

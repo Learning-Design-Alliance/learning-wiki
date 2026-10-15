@@ -2,7 +2,7 @@
 type: theory
 title: "Three-stage skill trajectory: Basic, Intermediate, and Advanced technology use"
 description: "The Toolkit's Conceptual Frameworks describe a developmental trajectory of technology sophistication."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Window 1 profiles complicate the assumption that greater pre-query effort signals better progress: Cold Start learners completed at 97% while Struggling learners completed at 67%"
 description: "Window 1 profiles complicate the assumption that greater pre-query effort signals better progress: Cold Start learners completed at 97% while Struggling learners completed at 67%"
 id: pre-query-effort-completion-descriptive-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

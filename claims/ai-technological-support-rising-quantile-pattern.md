@@ -3,7 +3,7 @@ type: claim
 title: AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels
 description: AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels
 id: ai-technological-support-rising-quantile-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

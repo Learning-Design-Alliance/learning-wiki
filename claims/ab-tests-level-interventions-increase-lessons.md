@@ -3,7 +3,7 @@ type: claim
 title: "Randomized A/B tests of interventions encouraging higher-level study increased lessons completed per level by more than 10% and increased overall studying activity"
 description: "Randomized A/B tests of interventions encouraging higher-level study increased lessons completed per level by more than 10% and increased overall studying activity"
 id: ab-tests-level-interventions-increase-lessons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

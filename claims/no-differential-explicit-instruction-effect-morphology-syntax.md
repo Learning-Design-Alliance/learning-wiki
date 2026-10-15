@@ -3,7 +3,7 @@ type: claim
 title: No differential effect of explicit instruction depending on the variable morphology/syntax
 description: No differential effect of explicit instruction depending on the variable morphology/syntax
 id: no-differential-explicit-instruction-effect-morphology-syntax
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

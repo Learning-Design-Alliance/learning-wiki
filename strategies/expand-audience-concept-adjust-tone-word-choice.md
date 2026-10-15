@@ -3,7 +3,7 @@ type: strategy
 id: expand-audience-concept-adjust-tone-word-choice
 title: "Expand students' concept of audience by writing the same topic for different audiences"
 description: "The guide recommends designing writing activities that naturally lend themselves to different audiences, helping students generate a list of potential audiences for an assignment, and having students \"practice writing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

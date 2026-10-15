@@ -3,7 +3,7 @@ type: claim
 title: At baseline, mechanics-specific AI use was inversely related to course performance, but the direction of causation is indistinguishable
 description: At baseline, mechanics-specific AI use was inversely related to course performance, but the direction of causation is indistinguishable
 id: baseline-mechanics-ai-use-inversely-related-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

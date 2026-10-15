@@ -3,7 +3,7 @@ type: strategy
 id: four-recommendations-math-in-science
 title: Four recommendations for deepening mathematics integration in science investigations
 description: "From study findings, the report offers four interrelated recommendations: present data collection and representation methods in ways that enable increased focus on mathematical reasoning; explicitly highlight the role..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Cognitive Tutor® Algebra I shows no discernible effects on general mathematics achievement for secondary students
 description: Cognitive Tutor® Algebra I shows no discernible effects on general mathematics achievement for secondary students
 id: cognitive-tutor-algebra-i-no-discernible-general-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

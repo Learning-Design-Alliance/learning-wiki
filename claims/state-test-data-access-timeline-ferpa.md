@@ -3,7 +3,7 @@ type: claim
 title: Gaining access to state test data involves FERPA constraints and data-request processes typically taking one to six months for review and approval
 description: Gaining access to state test data involves FERPA constraints and data-request processes typically taking one to six months for review and approval
 id: state-test-data-access-timeline-ferpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

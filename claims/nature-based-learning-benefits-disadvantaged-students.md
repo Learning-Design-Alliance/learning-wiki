@@ -3,7 +3,7 @@ type: claim
 title: Nature-based learning appears to work especially well for disadvantaged and disengaged students, potentially narrowing achievement gaps
 description: Nature-based learning appears to work especially well for disadvantaged and disengaged students, potentially narrowing achievement gaps
 id: nature-based-learning-benefits-disadvantaged-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

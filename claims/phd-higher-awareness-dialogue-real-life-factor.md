@@ -3,7 +3,7 @@ type: claim
 title: "PhD teachers show significantly higher awareness than MA teachers of incorporating dialogue and learners' real life into second language instruction"
 description: "PhD teachers show significantly higher awareness than MA teachers of incorporating dialogue and learners' real life into second language instruction"
 id: phd-higher-awareness-dialogue-real-life-factor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

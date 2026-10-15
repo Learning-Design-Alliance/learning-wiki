@@ -3,7 +3,7 @@ type: strategy
 id: critical-actions-plan-do-reflect-revise-ngss
 title: Eleven critical actions executed through a Plan-Do-Reflect-Revise cycle
 description: "Domain 2 enumerates eleven critical actions leaders take to implement the NGSS: aligning policies, allocating funding, assessing the system, building a shared vision, designing and implementing professional learning,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

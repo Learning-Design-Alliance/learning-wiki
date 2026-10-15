@@ -4,7 +4,7 @@ id: edugage-dataset
 title: EduGage dataset
 description: A multimodal learning-engagement dataset released by Zikang Leng and colleagues, containing synchronized sensor streams, engagement-probe ratings, video metadata, and quiz responses from self-guided video-learning sessions for participant-independent engagement-modeling research.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

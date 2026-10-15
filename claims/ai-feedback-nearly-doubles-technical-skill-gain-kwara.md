@@ -3,7 +3,7 @@ type: claim
 title: STEM students using real-time AI feedback achieved nearly double the mean gain score of students receiving conventional human-led instruction
 description: STEM students using real-time AI feedback achieved nearly double the mean gain score of students receiving conventional human-led instruction
 id: ai-feedback-nearly-doubles-technical-skill-gain-kwara
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

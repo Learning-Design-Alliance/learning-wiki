@@ -3,7 +3,7 @@ type: claim
 title: SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over elementary school
 description: SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over elementary school
 id: swpbis-reduces-growth-teacher-reported-bullying
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

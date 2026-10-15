@@ -4,7 +4,7 @@ id: pychometrik
 title: Pychometrik
 description: Pychometrik is a Python-based item-analysis and Rasch item-calibration tool developed by NWEA for psychometricians calibrating assessment items.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

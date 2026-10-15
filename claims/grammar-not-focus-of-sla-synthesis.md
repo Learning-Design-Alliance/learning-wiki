@@ -3,7 +3,7 @@ type: claim
 title: "Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods"
 description: "Grammatical skill is not the focus of Second Language Acquisition, per the study's synthesis of SLA theories and methods"
 id: grammar-not-focus-of-sla-synthesis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

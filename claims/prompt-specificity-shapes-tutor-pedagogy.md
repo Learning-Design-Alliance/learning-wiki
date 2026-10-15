@@ -3,7 +3,7 @@ type: claim
 title: "Prompt specificity changes AI tutor pedagogy: a no-direct-answer guardrail alone produces uniform questioning, while a detailed guided protocol produces varied, impasse-sensitive responses"
 description: "Prompt specificity changes AI tutor pedagogy: a no-direct-answer guardrail alone produces uniform questioning, while a detailed guided protocol produces varied, impasse-sensitive responses"
 id: prompt-specificity-shapes-tutor-pedagogy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

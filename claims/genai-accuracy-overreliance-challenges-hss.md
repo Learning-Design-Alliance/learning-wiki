@@ -3,7 +3,7 @@ type: claim
 title: Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern
 description: Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern
 id: genai-accuracy-overreliance-challenges-hss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

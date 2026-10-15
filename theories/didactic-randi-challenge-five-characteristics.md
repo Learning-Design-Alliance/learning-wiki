@@ -2,7 +2,7 @@
 type: theory
 title: Didactic Randi Challenge (DRC) framework with five necessary characteristics
 description: A DRC is a challenge that, according to the article, cannot be met under established laws of nature but would be easy to meet if certain pseudoscientific claims were correct, with enormous rewards for meeting it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: human-ai-colearning-research-directions
 title: "Research directions: scaffold reasoning without displacing epistemic agency and rethink curricula to preserve core human capabilities"
 description: If the observed reversal reflects genuine cognitive reappraisal, the article recommends research directions at the intersection of human-centered AI, education, and human–AI co-learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

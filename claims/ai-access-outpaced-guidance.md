@@ -3,7 +3,7 @@ type: claim
 title: Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use
 description: Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use
 id: ai-access-outpaced-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

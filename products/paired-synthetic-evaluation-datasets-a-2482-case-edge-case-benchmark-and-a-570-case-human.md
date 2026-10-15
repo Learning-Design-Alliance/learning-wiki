@@ -4,7 +4,7 @@ id: paired-synthetic-evaluation-datasets-a-2482-case-edge-case-benchmark-and-a-5
 title: "Paired synthetic evaluation datasets: a 2,482-case edge-case benchmark and a 570-case human-reviewed egregious-failure set"
 description: A dataset pair created by Chris Rohlfs et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

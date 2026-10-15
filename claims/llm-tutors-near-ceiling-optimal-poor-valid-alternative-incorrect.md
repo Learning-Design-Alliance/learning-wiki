@@ -3,7 +3,7 @@ type: claim
 title: LLM feedback agents classify optimal logic proof steps near-ceiling but perform poorly on valid-alternative and incorrect solutions
 description: LLM feedback agents classify optimal logic proof steps near-ceiling but perform poorly on valid-alternative and incorrect solutions
 id: llm-tutors-near-ceiling-optimal-poor-valid-alternative-incorrect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

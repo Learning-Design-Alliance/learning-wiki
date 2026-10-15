@@ -3,7 +3,7 @@ type: claim
 title: Internal experimenters were perceived as significantly more potent than external experimenters, and external subjects rated their experimenters higher on Activity
 description: Internal experimenters were perceived as significantly more potent than external experimenters, and external subjects rated their experimenters higher on Activity
 id: ie-experimenters-perceived-more-potent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

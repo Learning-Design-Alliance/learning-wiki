@@ -3,7 +3,7 @@ type: claim
 title: Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions
 description: Social dynamics — trust, friendship, openness, and rudeness — shape the effectiveness of dialogic interactions
 id: trust-and-social-dynamics-shape-dialogic-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

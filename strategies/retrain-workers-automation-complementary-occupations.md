@@ -3,7 +3,7 @@ type: strategy
 id: retrain-workers-automation-complementary-occupations
 title: Retrain workers for occupations complementary to, rather than competing with, automation
 description: The report recommends public policy responses to AI-driven automation of tasks, which it says will likely increase productivity and wealth but reduce demand for some automatable skills.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

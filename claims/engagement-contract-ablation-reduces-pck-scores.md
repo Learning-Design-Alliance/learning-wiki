@@ -3,7 +3,7 @@ type: claim
 title: Removing the engagement contract reduces judged engagement, adaptive scores, readability, and engagement-move counts in pedagogical video generation
 description: Removing the engagement contract reduces judged engagement, adaptive scores, readability, and engagement-move counts in pedagogical video generation
 id: engagement-contract-ablation-reduces-pck-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Task-specific fine-tuning substantially improves open-source LLMs on MedGame Bench and narrows the gap with commercial models
 description: Task-specific fine-tuning substantially improves open-source LLMs on MedGame Bench and narrows the gap with commercial models
 id: fine-tuning-improves-open-source-llms-medgame-bench
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

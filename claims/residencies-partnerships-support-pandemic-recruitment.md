@@ -3,7 +3,7 @@ type: claim
 title: Teacher residencies and preparation partnerships proved important to district recruitment during the pandemic
 description: Teacher residencies and preparation partnerships proved important to district recruitment during the pandemic
 id: residencies-partnerships-support-pandemic-recruitment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

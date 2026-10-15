@@ -3,7 +3,7 @@ type: claim
 title: Pilot studies in computing-related majors report measurable improvements in student engagement, self-efficacy, and learning outcomes
 description: Pilot studies in computing-related majors report measurable improvements in student engagement, self-efficacy, and learning outcomes
 id: pilot-studies-measurable-improvements-engagement-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

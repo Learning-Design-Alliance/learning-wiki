@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation"
 description: "Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation"
 id: stages-of-concern-developmental-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

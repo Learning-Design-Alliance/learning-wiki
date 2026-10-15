@@ -2,7 +2,7 @@
 type: theory
 title: "Existential hope framework: a psychological stance grounded in existential trust, meaning, and agency under radical uncertainty"
 description: "The article proposes an integrative framework in which existential hope is \"a foundational psychological stance toward life and the future, grounded in existential trust, sustained by a sense of meaning, and expressed..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

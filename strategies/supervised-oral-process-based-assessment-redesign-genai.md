@@ -3,7 +3,7 @@ type: strategy
 id: supervised-oral-process-based-assessment-redesign-genai
 title: "Redesign assessment toward supervised, oral, process-based and authentic formats to verify students' own reasoning under GenAI"
 description: Participants described moving away from unsupervised written essays toward more face-to-face, oral and closely supervised assessment in response to GenAI.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

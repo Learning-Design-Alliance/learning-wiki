@@ -3,7 +3,7 @@ type: research-method
 id: item-characteristic-curve-unsigned-area-method-for-dif-detection-under-item-response-theor
 title: Item characteristic curve (unsigned area) method for DIF detection under item response theory
 description: The ICC method compares item characteristic curves estimated separately for reference and focal groups, computing the unsigned area between the male and female curves as a DIF index, using a probability index developed by Linn.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

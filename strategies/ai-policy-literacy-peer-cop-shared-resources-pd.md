@@ -3,7 +3,7 @@ type: strategy
 id: ai-policy-literacy-peer-cop-shared-resources-pd
 title: Embed AI policy literacy, peer-led communities of practice, and shared AI resources into professional development
 description: "The article's recommendations for professional development design are threefold: \"embedding artificial intelligence policy literacy into professional development, fostering peer-led communities of practice, and creati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

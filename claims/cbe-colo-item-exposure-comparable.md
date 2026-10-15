@@ -3,7 +3,7 @@ type: claim
 title: "Item exposure rates are comparable across engines, with most items below 10%, and the CBE Reading item-use rate is lower than COLO's"
 description: "Item exposure rates are comparable across engines, with most items below 10%, and the CBE Reading item-use rate is lower than COLO's"
 id: cbe-colo-item-exposure-comparable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

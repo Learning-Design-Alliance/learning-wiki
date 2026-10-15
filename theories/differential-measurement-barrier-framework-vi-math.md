@@ -2,7 +2,7 @@
 type: theory
 title: "Barriers framework: differential item functioning as the mechanism of math inaccessibility for students with visual impairments"
 description: "The brief organizes its findings around a barriers account of math inaccessibility: some assessment items function differently for students with visual impairments who use screen readers than for other students, creat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

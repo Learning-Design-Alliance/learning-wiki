@@ -3,7 +3,7 @@ type: claim
 title: "Per-topic performance varied: NP-completeness scored highest ROUGE-1 F1 (0.1285), sorting algorithms highest pedagogical quality (0.8250), and recurrence relations lowest pedagogical quality (0.6629)"
 description: "Per-topic performance varied: NP-completeness scored highest ROUGE-1 F1 (0.1285), sorting algorithms highest pedagogical quality (0.8250), and recurrence relations lowest pedagogical quality (0.6629)"
 id: algorag-topic-specific-performance-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

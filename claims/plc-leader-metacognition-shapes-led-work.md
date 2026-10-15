@@ -3,7 +3,7 @@ type: claim
 title: "PLC leaders' recognition of their own metacognition impacted the type of work they led in the PLC"
 description: "PLC leaders' recognition of their own metacognition impacted the type of work they led in the PLC"
 id: plc-leader-metacognition-shapes-led-work
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit
 description: Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit
 id: deliberate-practice-expands-memory-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

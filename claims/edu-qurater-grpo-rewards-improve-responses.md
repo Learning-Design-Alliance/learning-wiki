@@ -3,7 +3,7 @@ type: claim
 title: "In held-out pairwise judge evaluation, combining Edu-QuRater and answer-structure GRPO rewards yields the highest pedagogical-quality win rate (81.08%) while retaining instruction-following above parity (68.24%) against the Qwen3-4B base model"
 description: "In held-out pairwise judge evaluation, combining Edu-QuRater and answer-structure GRPO rewards yields the highest pedagogical-quality win rate (81.08%) while retaining instruction-following above parity (68.24%) again..."
 id: edu-qurater-grpo-rewards-improve-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

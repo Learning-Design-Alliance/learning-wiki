@@ -3,7 +3,7 @@ type: claim
 title: Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring
 description: Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring
 id: locally-developed-performance-assessments-teacher-collaborative-scoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In a control experiment on data of known construction, the check is calibrated, can be passed, and separability from marginals is not fidelity
 description: In a control experiment on data of known construction, the check is calibrated, can be passed, and separability from marginals is not fidelity
 id: structural-check-calibrated-passable-separability-not-fidelity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

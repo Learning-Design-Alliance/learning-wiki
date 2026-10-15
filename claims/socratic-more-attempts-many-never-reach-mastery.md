@@ -3,7 +3,7 @@ type: claim
 title: "Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold"
 description: "Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold"
 id: socratic-more-attempts-many-never-reach-mastery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

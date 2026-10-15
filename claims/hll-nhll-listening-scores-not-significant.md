@@ -3,7 +3,7 @@ type: claim
 title: Heritage learners scored only slightly higher than non-heritage learners on listening tasks, with no statistically significant group difference
 description: Heritage learners scored only slightly higher than non-heritage learners on listening tasks, with no statistically significant group difference
 id: hll-nhll-listening-scores-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

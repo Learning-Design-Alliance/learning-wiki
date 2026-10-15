@@ -3,7 +3,7 @@ type: claim
 title: "LLMs agree strongly with their own consensus grades (most ICC > 0.8), far more than with human teachers' grades"
 description: "LLMs agree strongly with their own consensus grades (most ICC > 0.8), far more than with human teachers' grades"
 id: llm-high-consensus-agreement-circularity-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Using all collected physiological features improves exam-grade prediction accuracy to 96% over the 80% achieved by prior EDA-only analyses"
 description: "Using all collected physiological features improves exam-grade prediction accuracy to 96% over the 80% achieved by prior EDA-only analyses"
 id: multivariate-features-improve-accuracy-over-eda-only-benchmark
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

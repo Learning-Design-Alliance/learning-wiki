@@ -3,7 +3,7 @@ type: claim
 title: "Latinx two-year college students' spring-to-fall return rates declined most among race/ethnicity and gender groups in 2020"
 description: "Latinx two-year college students' spring-to-fall return rates declined most among race/ethnicity and gender groups in 2020"
 id: cps-2020-latinx-two-year-return-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

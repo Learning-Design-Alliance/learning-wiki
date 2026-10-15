@@ -3,7 +3,7 @@ type: claim
 title: Rapid guessing did not appear to substantively affect teacher value-added estimates under the value-added specifications used
 description: Rapid guessing did not appear to substantively affect teacher value-added estimates under the value-added specifications used
 id: rapid-guessing-no-substantive-effect-value-added
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Representation-alignment tension between expert externalization and novice comprehension
 description: Representation-alignment tension between expert externalization and novice comprehension
 id: representation-alignment-tension-expert-novice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

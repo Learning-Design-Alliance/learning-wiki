@@ -3,7 +3,7 @@ type: claim
 title: The literature review reports a converging consensus that middle school is the ideal time to begin career exploration
 description: The literature review reports a converging consensus that middle school is the ideal time to begin career exploration
 id: middle-school-ideal-time-career-exploration-consensus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

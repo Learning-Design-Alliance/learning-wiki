@@ -3,7 +3,7 @@ type: method
 id: evidence-centered-design
 title: Evidence-Centered Design
 description: A design method for assessment that works backwards from the claim you want to make — name the competency, then the observable behaviour that would be evidence for it, then the task that elicits that behaviour.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03

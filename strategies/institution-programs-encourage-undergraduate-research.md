@@ -3,7 +3,7 @@ type: strategy
 id: institution-programs-encourage-undergraduate-research
 title: Institutions and undergraduate programs can use motivation profiles to encourage student participation in research
 description: "The authors draw implications for \"institutions and undergraduate programs desiring to encourage students to participate in undergraduate research\", based on their finding that disciplinary identity reflects internal..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

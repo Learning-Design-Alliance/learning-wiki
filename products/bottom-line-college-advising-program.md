@@ -4,7 +4,7 @@ id: bottom-line-college-advising-program
 title: Bottom Line College Advising Program
 description: A branded, multi-year college-access and persistence advising program developed and operated by the nonprofit Bottom Line for low-income and first-generation students.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

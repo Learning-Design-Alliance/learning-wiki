@@ -3,7 +3,7 @@ type: claim
 title: Nature-based instruction improves academic achievement over traditional instruction, with larger gains at larger doses
 description: Nature-based instruction improves academic achievement over traditional instruction, with larger gains at larger doses
 id: nbi-outperforms-traditional-instruction-dose-response
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: strategy
 id: multiple-access-strategies-diverse-ec-candidates
 title: Reduce barriers for diverse early childhood credential candidates through cost subsidies, flexible course logistics, cohort community, outreach, and specialized advising
 description: "Across the studied programs and pathways, the report identifies common strategies to attract people to early childhood education and reduce credential barriers for diverse candidates: subsidizing costs and offering fi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

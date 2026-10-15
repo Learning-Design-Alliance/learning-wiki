@@ -3,7 +3,7 @@ type: claim
 title: "Digital competence development is the most frequently reported advantage (76.1%) of digitally supported teacher education strategies"
 description: "Digital competence development is the most frequently reported advantage (76.1%) of digitally supported teacher education strategies"
 id: digital-competence-development-most-frequent-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

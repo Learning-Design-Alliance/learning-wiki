@@ -3,7 +3,7 @@ type: strategy
 id: role-play-teacher-training-scripted-spelling-programs
 title: Prepare teachers through modeled, role-played practice with critique until they master the scripted instructional procedures
 description: Both reviewed RCTs used a common implementation-support model in which the study authors trained teachers by modeling the correct instructional procedures, having teachers practice through role-playing, and critiquing...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Predictive analytics can benefit education only if educators heed how their use should differ from industry
 description: Predictive analytics can benefit education only if educators heed how their use should differ from industry
 id: predictive-analytics-benefit-heed-schooling-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

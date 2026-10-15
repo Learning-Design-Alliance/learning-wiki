@@ -3,7 +3,7 @@ type: claim
 title: "Pilot students reported structural limitations of AI-SEE: AI-tool entry barriers, limited hands-on time, and partial disconnection between ethics instruction and routine engineering decisions"
 description: "Pilot students reported structural limitations of AI-SEE: AI-tool entry barriers, limited hands-on time, and partial disconnection between ethics instruction and routine engineering decisions"
 id: ai-see-reported-structural-limitations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

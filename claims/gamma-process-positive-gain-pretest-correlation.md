@@ -3,7 +3,7 @@ type: claim
 title: When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score
 description: When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score
 id: gamma-process-positive-gain-pretest-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

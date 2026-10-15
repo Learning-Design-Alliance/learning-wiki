@@ -3,7 +3,7 @@ type: claim
 title: Response-format reliability is a distinct evaluation concern, with invalid response rates varying independently of model scale
 description: Response-format reliability is a distinct evaluation concern, with invalid response rates varying independently of model scale
 id: invalid-response-rates-distinct-evaluation-concern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

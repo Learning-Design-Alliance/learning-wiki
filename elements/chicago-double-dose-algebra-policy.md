@@ -3,7 +3,7 @@ type: element
 id: chicago-double-dose-algebra-policy
 title: "Chicago's double-dose algebra policy (two periods of algebra with teacher supports)"
 description: "An instructional support strategy in which \"First-time ninth-grade students who tested below the national median on the eighth-grade math test enrolled in two periods of algebra coursework—a regular algebra class and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

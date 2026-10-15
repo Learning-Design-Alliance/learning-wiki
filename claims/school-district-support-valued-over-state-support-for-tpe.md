@@ -3,7 +3,7 @@ type: claim
 title: Educators report that district and school support for TPE is more helpful than state support
 description: Educators report that district and school support for TPE is more helpful than state support
 id: school-district-support-valued-over-state-support-for-tpe
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

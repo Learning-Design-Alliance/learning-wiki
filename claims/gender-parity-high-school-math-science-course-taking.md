@@ -3,7 +3,7 @@ type: claim
 title: High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus
 description: High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus
 id: gender-parity-high-school-math-science-course-taking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

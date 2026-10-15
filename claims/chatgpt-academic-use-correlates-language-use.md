@@ -3,7 +3,7 @@ type: claim
 title: Academic use of ChatGPT correlates most strongly with its use for language-related tasks
 description: Academic use of ChatGPT correlates most strongly with its use for language-related tasks
 id: chatgpt-academic-use-correlates-language-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

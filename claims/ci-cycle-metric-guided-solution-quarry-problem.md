@@ -3,7 +3,7 @@ type: claim
 title: A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
 description: A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric
 id: ci-cycle-metric-guided-solution-quarry-problem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

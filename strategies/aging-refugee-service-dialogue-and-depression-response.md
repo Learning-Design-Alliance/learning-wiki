@@ -3,7 +3,7 @@ type: strategy
 id: aging-refugee-service-dialogue-and-depression-response
 title: Increase dialogue between aging and refugee service organizations and address depression in elderly refugees
 description: "As continuing needs, the digest recommends a beginning dialog between the aging and refugee service organizations, noting \"There is much the two fields canlearn from each other\", and the development of demonstration p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

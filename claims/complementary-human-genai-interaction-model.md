@@ -3,7 +3,7 @@ type: claim
 title: Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance
 description: Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance
 id: complementary-human-genai-interaction-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

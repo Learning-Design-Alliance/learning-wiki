@@ -3,7 +3,7 @@ type: design
 id: large-school-conversion-into-small-charter-schools
 title: Large high school divided into multiple small charter schools as a turnaround design
 description: This whole-school design pattern converts one existing, underperforming public high school into a set of smaller autonomous charter schools sharing the same neighborhood catchment.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

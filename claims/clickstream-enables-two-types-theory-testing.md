@@ -3,7 +3,7 @@ type: claim
 title: "Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts"
 description: "Enriched DLP data enable two types of theory testing: sustained observation of individuals in a single setting and modeling the same type of learner across contexts"
 id: clickstream-enables-two-types-theory-testing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

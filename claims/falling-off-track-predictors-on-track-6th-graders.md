@@ -3,7 +3,7 @@ type: claim
 title: Among students starting 6th grade on track, being male, Black, Hispanic, or attending a higher low-income school is associated with falling off track
 description: Among students starting 6th grade on track, being male, Black, Hispanic, or attending a higher low-income school is associated with falling off track
 id: falling-off-track-predictors-on-track-6th-graders
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

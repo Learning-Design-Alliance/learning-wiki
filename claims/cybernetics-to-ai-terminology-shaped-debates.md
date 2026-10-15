@@ -3,7 +3,7 @@ type: claim
 title: Early conceptual and terminological choices, such as the shift from cybernetics to artificial intelligence, have shaped current AI-in-education debates
 description: Early conceptual and terminological choices, such as the shift from cybernetics to artificial intelligence, have shaped current AI-in-education debates
 id: cybernetics-to-ai-terminology-shaped-debates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

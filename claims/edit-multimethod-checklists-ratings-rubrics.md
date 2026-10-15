@@ -3,7 +3,7 @@ type: claim
 title: The EDIT uses a multimethod approach gathering evidence with checklists, ratings, and rubrics
 description: The EDIT uses a multimethod approach gathering evidence with checklists, ratings, and rubrics
 id: edit-multimethod-checklists-ratings-rubrics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

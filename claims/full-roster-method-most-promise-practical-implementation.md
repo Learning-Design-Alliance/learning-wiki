@@ -3,7 +3,7 @@ type: claim
 title: The Full Roster Method offers the most promise for robust, practical implementation among the three co-teaching value-added methods considered.
 description: The Full Roster Method offers the most promise for robust, practical implementation among the three co-teaching value-added methods considered.
 id: full-roster-method-most-promise-practical-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

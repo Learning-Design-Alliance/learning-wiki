@@ -3,7 +3,7 @@ type: claim
 title: Trust in customized agents was associated with clear, accurate, and contextually aligned feedback
 description: Trust in customized agents was associated with clear, accurate, and contextually aligned feedback
 id: trust-customized-agents-accuracy-contextual-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

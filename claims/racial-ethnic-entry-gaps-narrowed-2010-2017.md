@@ -3,7 +3,7 @@ type: claim
 title: Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading
 description: Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading
 id: racial-ethnic-entry-gaps-narrowed-2010-2017
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

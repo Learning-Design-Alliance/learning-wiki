@@ -3,7 +3,7 @@ type: claim
 title: Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization
 description: Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization
 id: errors-as-feedback-fossilization-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

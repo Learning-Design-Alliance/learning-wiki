@@ -3,7 +3,7 @@ type: strategy
 id: retrieval-practice-three-classroom-strategies
 title: Implement retrieval practice in class through everything-you-know recall, multi-representation flashcards, and practice test questions that differ from the actual test
 description: "The article describes three concrete retrieval-practice routines a math teacher used: a student tells a peer or teacher everything they know about an area to be assessed, flashcards containing multiple representations..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

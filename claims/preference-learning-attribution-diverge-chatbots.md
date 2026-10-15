@@ -3,7 +3,7 @@ type: claim
 title: In a user study, the GPT-4o-mini baseline was preferred overall, but participants more often attributed learning to the fine-tuned TeachingCoach model
 description: In a user study, the GPT-4o-mini baseline was preferred overall, but participants more often attributed learning to the fine-tuned TeachingCoach model
 id: preference-learning-attribution-diverge-chatbots
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

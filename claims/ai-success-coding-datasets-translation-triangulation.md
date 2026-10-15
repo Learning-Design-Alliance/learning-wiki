@@ -3,7 +3,7 @@ type: claim
 title: Across 28 K-12 AI pilot projects, AI demonstrated success at categorizing and coding datasets, translating language, and triangulating qualitative findings with quantitative data
 description: Across 28 K-12 AI pilot projects, AI demonstrated success at categorizing and coding datasets, translating language, and triangulating qualitative findings with quantitative data
 id: ai-success-coding-datasets-translation-triangulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: statbot
 title: StatBot
 description: StatBot is a retrieval-augmented GPT-4 chatbot developed and deployed by Yuan-Hsuan Lee et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving
 description: Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving
 id: metacognitive-illusion-blocking-interleaving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

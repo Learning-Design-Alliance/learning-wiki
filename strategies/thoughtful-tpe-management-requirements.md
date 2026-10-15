@@ -3,7 +3,7 @@ type: strategy
 id: thoughtful-tpe-management-requirements
 title: Manage TPE as a district-wide priority with clear expectations, training, principal evaluation, and technology platforms
 description: "The report describes how effective district leaders make teacher and principal evaluation manageable by treating it as a district-wide priority: they set clear expectations tied to instruction, train principals and te..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

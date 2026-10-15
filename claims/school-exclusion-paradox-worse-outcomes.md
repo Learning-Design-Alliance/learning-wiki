@@ -3,7 +3,7 @@ type: claim
 title: School exclusionary policies paradoxically worsen dropout, delinquency, and achievement
 description: School exclusionary policies paradoxically worsen dropout, delinquency, and achievement
 id: school-exclusion-paradox-worse-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

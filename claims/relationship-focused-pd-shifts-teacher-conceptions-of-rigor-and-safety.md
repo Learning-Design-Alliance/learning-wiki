@@ -2,7 +2,7 @@
 type: claim
 title: Relationship-focused PD shifts teacher conceptions of rigor and safety in argumentation instruction
 id: relationship-focused-pd-shifts-teacher-conceptions-of-rigor-and-safety
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

@@ -3,7 +3,7 @@ type: strategy
 id: weighted-student-based-funding-formulas
 title: Weighted student-based funding formulas that allocate resources according to student needs
 description: "The report describes weighted funding formulas that fund schools based on the number of students, applying a \"weight\" based on the number and concentration of students from low-income families, English learners, foste..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

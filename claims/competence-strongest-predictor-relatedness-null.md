@@ -3,7 +3,7 @@ type: claim
 title: Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect
 description: Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect
 id: competence-strongest-predictor-relatedness-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

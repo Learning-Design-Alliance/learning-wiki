@@ -3,7 +3,7 @@ type: claim
 title: Capabilities and skills are explicitly addressed in only 3 of 36 reviewed GenAI studies, marking a gap in AI-literacy and educator-capability research
 description: Capabilities and skills are explicitly addressed in only 3 of 36 reviewed GenAI studies, marking a gap in AI-literacy and educator-capability research
 id: capabilities-skills-addressed-in-only-3-of-36-genai-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

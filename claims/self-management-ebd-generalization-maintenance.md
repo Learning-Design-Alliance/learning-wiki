@@ -3,7 +3,7 @@ type: claim
 title: The review found evidence supporting generalization and maintenance of self-management intervention effects for students with emotional and behavioral disorders
 description: The review found evidence supporting generalization and maintenance of self-management intervention effects for students with emotional and behavioral disorders
 id: self-management-ebd-generalization-maintenance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

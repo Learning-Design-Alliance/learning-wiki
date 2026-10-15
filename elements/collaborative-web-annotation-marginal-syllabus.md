@@ -3,7 +3,7 @@ type: element
 id: collaborative-web-annotation-marginal-syllabus
 title: "Collaborative web annotation (Marginal Syllabus): low-bandwidth asynchronous discussion with social justice intent"
 description: Collaborative annotation with the open-source Hypothes.is tool engages learners in co-construction and critique of knowledge.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

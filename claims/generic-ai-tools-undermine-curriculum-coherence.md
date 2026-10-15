@@ -3,7 +3,7 @@ type: claim
 title: Generic AI tools can undermine curriculum coherence and pedagogical goals, producing low-quality artifacts that do not match district beliefs
 description: Generic AI tools can undermine curriculum coherence and pedagogical goals, producing low-quality artifacts that do not match district beliefs
 id: generic-ai-tools-undermine-curriculum-coherence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

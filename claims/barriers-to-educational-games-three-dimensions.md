@@ -3,7 +3,7 @@ type: claim
 title: Educational game adoption is hindered along socio-cultural, educational, and technological dimensions, including social rejection, limited accessibility to games and technology, and high development costs.
 description: Educational game adoption is hindered along socio-cultural, educational, and technological dimensions, including social rejection, limited accessibility to games and technology, and high development costs.
 id: barriers-to-educational-games-three-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

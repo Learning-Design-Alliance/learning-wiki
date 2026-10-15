@@ -3,7 +3,7 @@ type: claim
 title: Newark charter school ELL students showed markedly above-state-average growth in both subjects in 2018-19
 description: Newark charter school ELL students showed markedly above-state-average growth in both subjects in 2018-19
 id: newark-charter-ell-growth-vs-state
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

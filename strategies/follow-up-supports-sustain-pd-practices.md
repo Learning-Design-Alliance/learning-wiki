@@ -3,7 +3,7 @@ type: strategy
 id: follow-up-supports-sustain-pd-practices
 title: Provide various forms of follow-up to sustain new practices learned in PD
 description: "The report warns that even inspiring PD can \"ultimately fall flat if there are no supports for teachers to sustain the change in the months and years that follow.\" Recommended follow-up structures include principals a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

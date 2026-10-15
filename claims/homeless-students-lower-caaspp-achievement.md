@@ -3,7 +3,7 @@ type: claim
 title: "Students experiencing homelessness meet or exceed state achievement standards at far lower rates (29% ELA, 19% mathematics) than students statewide (48%, 37%)"
 description: "Students experiencing homelessness meet or exceed state achievement standards at far lower rates (29% ELA, 19% mathematics) than students statewide (48%, 37%)"
 id: homeless-students-lower-caaspp-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

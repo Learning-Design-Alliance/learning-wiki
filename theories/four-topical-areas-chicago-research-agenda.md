@@ -2,7 +2,7 @@
 type: theory
 title: "Four topical areas organize Chicago school reform research: governance, teaching and learning, quality of schools, and systemic change"
 description: The Consortium organizes its research agenda around four major topical areas, each containing key concerns that pass what it calls an essential-strand test for reweaving an urban school system.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

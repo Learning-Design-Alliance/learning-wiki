@@ -3,7 +3,7 @@ type: element
 id: algorithm-vocabulary-ten-terms-3-8
 title: Ten-term algorithm vocabulary set for grades 3-8
 description: "The deck specifies a vocabulary set labeled \"Words to teach\" for algorithm lessons."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

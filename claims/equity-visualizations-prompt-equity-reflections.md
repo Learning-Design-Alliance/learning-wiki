@@ -3,7 +3,7 @@ type: claim
 title: Only equity visualizations disaggregated by race/ethnicity and gender prompted teachers to reflect on how race/ethnicity or gender may impact student classroom experiences
 description: Only equity visualizations disaggregated by race/ethnicity and gender prompted teachers to reflect on how race/ethnicity or gender may impact student classroom experiences
 id: equity-visualizations-prompt-equity-reflections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

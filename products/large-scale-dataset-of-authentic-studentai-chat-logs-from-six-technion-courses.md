@@ -4,7 +4,7 @@ id: large-scale-dataset-of-authentic-studentai-chat-logs-from-six-technion-cours
 title: Large-scale dataset of authentic student–AI chat logs from six Technion courses
 description: An anonymized, IRB-approved dataset of authentic undergraduate student–AI interaction logs collected across six Technion courses and released by Taelin Karidi et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

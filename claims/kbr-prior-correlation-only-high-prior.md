@@ -3,7 +3,7 @@ type: claim
 title: "%KBR correlated with prior knowledge only among high-prior students, not among low-prior students"
 description: "%KBR correlated with prior knowledge only among high-prior students, not among low-prior students"
 id: kbr-prior-correlation-only-high-prior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

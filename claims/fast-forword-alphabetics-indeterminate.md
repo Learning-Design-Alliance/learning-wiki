@@ -3,7 +3,7 @@ type: claim
 title: Both studies of Fast ForWord in the alphabetics domain showed indeterminate effects, with no statistically significant or substantively important effects
 description: Both studies of Fast ForWord in the alphabetics domain showed indeterminate effects, with no statistically significant or substantively important effects
 id: fast-forword-alphabetics-indeterminate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

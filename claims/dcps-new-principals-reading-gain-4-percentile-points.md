@@ -3,7 +3,7 @@ type: claim
 title: "After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools"
 description: "After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools"
 id: dcps-new-principals-reading-gain-4-percentile-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

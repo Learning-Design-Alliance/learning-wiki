@@ -3,7 +3,7 @@ type: claim
 title: The authors interpret the same-offense discipline gap as suggesting possible implicit bias against Black students and students with disabilities
 description: The authors interpret the same-offense discipline gap as suggesting possible implicit bias against Black students and students with disabilities
 id: implicit-bias-possible-discipline-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

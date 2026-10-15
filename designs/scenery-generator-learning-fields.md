@@ -3,7 +3,7 @@ type: design
 id: scenery-generator-learning-fields
 title: Configurable scenery generator instantiating formal and informal learning fields
 description: The scenery generator instantiates scenarios as parameterized learning fields with spatial structure, participant roles, resources, communication channels, schedules, norms, and evaluation expectations.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

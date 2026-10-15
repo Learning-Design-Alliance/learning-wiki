@@ -3,7 +3,7 @@ type: design
 id: carp-content-area-review-panels-nevada
 title: Content Area Review Panels (CARPs)
 description: "CARPs are the Nevada panels that \"Evaluate and rate instructional materials submitted by publishers.\" Per Table 1, they include subject-matter experts, content-area and special education teachers, curriculum directors..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

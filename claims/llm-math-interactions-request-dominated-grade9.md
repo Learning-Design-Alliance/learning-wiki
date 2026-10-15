@@ -3,7 +3,7 @@ type: claim
 title: "Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation"
 description: "Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation"
 id: llm-math-interactions-request-dominated-grade9
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

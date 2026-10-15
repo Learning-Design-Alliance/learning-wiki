@@ -3,7 +3,7 @@ type: claim
 title: Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession
 description: Piecemeal educator policymaking overburdens educators and can drive talented educators out of the profession
 id: piecemeal-educator-policymaking-drains-talent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

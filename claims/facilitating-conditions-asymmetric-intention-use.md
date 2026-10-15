@@ -3,7 +3,7 @@ type: claim
 title: "Facilitating conditions showed an asymmetric pattern: no significant effect on behavioral intention but a significant positive effect on use behavior"
 description: "Facilitating conditions showed an asymmetric pattern: no significant effect on behavioral intention but a significant positive effect on use behavior"
 id: facilitating-conditions-asymmetric-intention-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

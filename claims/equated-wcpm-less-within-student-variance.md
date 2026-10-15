@@ -3,7 +3,7 @@ type: claim
 title: Equated WCPM scores show much less within-student variance than raw WCPM scores, indicating reduced passage-difficulty fluctuations
 description: Equated WCPM scores show much less within-student variance than raw WCPM scores, indicating reduced passage-difficulty fluctuations
 id: equated-wcpm-less-within-student-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

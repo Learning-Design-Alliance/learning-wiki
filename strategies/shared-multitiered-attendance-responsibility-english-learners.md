@@ -3,7 +3,7 @@ type: strategy
 id: shared-multitiered-attendance-responsibility-english-learners
 title: "Build shared districtwide and schoolwide responsibility for multilingual learners' attendance through a multitiered approach with a strong foundational tier"
 description: "The brief recommends that a collective commitment to English learners' attendance begin with \"adopting a multitiered approach, with a strong focus on the foundational tier,\" which creates positive conditions for learn..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

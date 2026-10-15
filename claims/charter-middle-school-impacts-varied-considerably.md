@@ -3,7 +3,7 @@ type: claim
 title: Impacts of charter middle schools on achievement varied considerably across schools and students
 description: Impacts of charter middle schools on achievement varied considerably across schools and students
 id: charter-middle-school-impacts-varied-considerably
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

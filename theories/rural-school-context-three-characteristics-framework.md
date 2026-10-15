@@ -2,7 +2,7 @@
 type: theory
 title: "Three rural setting characteristics distinguishing rural SIG schools' improvement contexts"
 description: "The brief organizes rural context around three characteristics that distinguish rural SIG schools from nonrural ones and may influence improvement efforts: \"distance to an urban center or metropolitan area,\" \"geograph..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

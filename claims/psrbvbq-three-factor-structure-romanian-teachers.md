@@ -3,7 +3,7 @@ type: claim
 title: The 18-item PSRBVBQ yields a balanced three-factor structure (perceived severity, likelihood of responding to the bully, likelihood of responding to the victim) in Romanian middle school teachers
 description: The 18-item PSRBVBQ yields a balanced three-factor structure (perceived severity, likelihood of responding to the bully, likelihood of responding to the victim) in Romanian middle school teachers
 id: psrbvbq-three-factor-structure-romanian-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

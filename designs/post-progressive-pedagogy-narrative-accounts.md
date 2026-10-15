@@ -3,7 +3,7 @@ type: design
 id: post-progressive-pedagogy-narrative-accounts
 title: "Post-progressive pedagogy through narrative game play: developing narrative accounts of scientific phenomena as a mechanism for scientific argumentation"
 description: "The article proposes that location-based augmented reality games can create a \"post-progressive\" pedagogy in which students are immersed in authentic scientific inquiry and required to perform in adult scientific disc..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

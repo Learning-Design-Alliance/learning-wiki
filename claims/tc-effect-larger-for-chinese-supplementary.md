@@ -3,7 +3,7 @@ type: claim
 title: A supplementary analysis restricted to TC and control nonword primes shows the TC effect is marginally larger for Chinese than Japanese speakers
 description: A supplementary analysis restricted to TC and control nonword primes shows the TC effect is marginally larger for Chinese than Japanese speakers
 id: tc-effect-larger-for-chinese-supplementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

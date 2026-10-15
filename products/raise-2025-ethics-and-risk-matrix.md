@@ -4,7 +4,7 @@ id: raise-2025-ethics-and-risk-matrix
 title: RAISE 2025 Ethics and Risk Matrix
 description: A supplementary fillable framework proposed by Allison (2026) for authors to identify, assess, and report ethical risks and mitigation strategies in educational AI studies.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

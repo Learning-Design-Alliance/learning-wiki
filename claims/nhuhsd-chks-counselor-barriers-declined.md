@@ -3,7 +3,7 @@ type: claim
 title: "Secondary students' reported barriers to talking to a counselor or therapist declined in NHUHSD's California Healthy Kids Survey data"
 description: "Secondary students' reported barriers to talking to a counselor or therapist declined in NHUHSD's California Healthy Kids Survey data"
 id: nhuhsd-chks-counselor-barriers-declined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

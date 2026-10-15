@@ -3,7 +3,7 @@ type: claim
 title: In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation
 description: In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation
 id: sdt-needs-positive-learning-motivation-agentic-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

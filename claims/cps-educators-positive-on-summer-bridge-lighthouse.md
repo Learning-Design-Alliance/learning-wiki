@@ -3,7 +3,7 @@ type: claim
 title: Most Chicago teachers and principals reported that Summer Bridge and Lighthouse had positive effects on participating students
 description: Most Chicago teachers and principals reported that Summer Bridge and Lighthouse had positive effects on participating students
 id: cps-educators-positive-on-summer-bridge-lighthouse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

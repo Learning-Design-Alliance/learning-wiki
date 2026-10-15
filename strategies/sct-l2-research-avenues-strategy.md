@@ -3,7 +3,7 @@ type: strategy
 id: sct-l2-research-avenues-strategy
 title: Pursue SCT-L2 research on L2 as a psychological tool, the teaching-learning dialectic, Dynamic Assessment, and comparative theory work
 description: "Lantolf names four promising research avenues for sociocultural theory in second language development: whether L2 users can mediate their thinking through the L2 as a psychological tool; the teaching-learning dialecti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

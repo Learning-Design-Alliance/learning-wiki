@@ -3,7 +3,7 @@ type: claim
 title: SAILS completers had completed only 1.5 additional college courses after two years
 description: SAILS completers had completed only 1.5 additional college courses after two years
 id: sails-only-1-5-additional-courses-two-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

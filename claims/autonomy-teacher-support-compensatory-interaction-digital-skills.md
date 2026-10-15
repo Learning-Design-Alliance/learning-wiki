@@ -3,7 +3,7 @@ type: claim
 title: The effect of autonomy on digital skills is conditional on teacher support, acting as a compensatory mechanism when teacher support is low
 description: The effect of autonomy on digital skills is conditional on teacher support, acting as a compensatory mechanism when teacher support is low
 id: autonomy-teacher-support-compensatory-interaction-digital-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

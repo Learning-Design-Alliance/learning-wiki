@@ -3,7 +3,7 @@ type: strategy
 id: weigh-control-versus-agency-in-genai-integration
 title: When integrating GenAI, deliberately weigh control-oriented structures against designs that promote learner agency and creativity
 description: "Drawing on the historical tension the article traces between Anderson's structured tutoring systems and Papert's constructionist approach, this strategy directs integration decisions toward the agency end of the spect..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

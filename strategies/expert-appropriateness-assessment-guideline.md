@@ -3,7 +3,7 @@ type: strategy
 id: expert-appropriateness-assessment-guideline
 title: Use expert appropriateness assessment of a designed learning model as the basis for further system development and future outcome studies
 description: The article recommends treating expert evaluation of a newly designed learning model as an initial design-stage checkpoint before implementation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

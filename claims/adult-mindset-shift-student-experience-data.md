@@ -3,7 +3,7 @@ type: claim
 title: Educators need a shift in adult mindsets—from evaluative/accountability data use toward improvement-oriented use—for student experience data to improve practice
 description: Educators need a shift in adult mindsets—from evaluative/accountability data use toward improvement-oriented use—for student experience data to improve practice
 id: adult-mindset-shift-student-experience-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

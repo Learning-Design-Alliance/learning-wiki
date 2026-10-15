@@ -3,7 +3,7 @@ type: claim
 title: In college groups, no correlation was found between frequency of negotiation of meaning and vocabulary score
 description: In college groups, no correlation was found between frequency of negotiation of meaning and vocabulary score
 id: college-no-negotiation-vocabulary-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

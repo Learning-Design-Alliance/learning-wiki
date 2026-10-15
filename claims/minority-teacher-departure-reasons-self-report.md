@@ -3,7 +3,7 @@ type: claim
 title: Minority teachers who depart rarely cite retirement; dissatisfaction, pursuit of better jobs, and personal reasons dominate their reported turnover reasons
 description: Minority teachers who depart rarely cite retirement; dissatisfaction, pursuit of better jobs, and personal reasons dominate their reported turnover reasons
 id: minority-teacher-departure-reasons-self-report
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

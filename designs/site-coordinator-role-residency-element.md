@@ -3,7 +3,7 @@ type: design
 id: site-coordinator-role-residency-element
 title: Site coordinator role combining field supervision, coaching, seminar teaching, mentor training, and governance facilitation
 description: "The site coordinator, a role common to US PREP residency transformation sites, fulfills the responsibilities of traditional university field supervisors—\"supervising, coaching, and conducting observations for resident..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

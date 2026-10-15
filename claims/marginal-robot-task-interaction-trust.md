@@ -3,7 +3,7 @@ type: claim
 title: The interaction between robot appearance and task on trust was only marginal, suggesting appearance may slightly modulate expectations without determining trust
 description: The interaction between robot appearance and task on trust was only marginal, suggesting appearance may slightly modulate expectations without determining trust
 id: marginal-robot-task-interaction-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

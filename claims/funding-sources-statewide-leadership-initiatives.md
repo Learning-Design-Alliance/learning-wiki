@@ -3,7 +3,7 @@ type: claim
 title: States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives
 description: States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives
 id: funding-sources-statewide-leadership-initiatives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

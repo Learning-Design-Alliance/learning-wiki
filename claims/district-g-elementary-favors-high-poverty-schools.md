@@ -3,7 +3,7 @@ type: claim
 title: "District G shows the opposite pattern: highest-poverty elementary schools were most likely to have highest-performing teachers"
 description: "District G shows the opposite pattern: highest-poverty elementary schools were most likely to have highest-performing teachers"
 id: district-g-elementary-favors-high-poverty-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

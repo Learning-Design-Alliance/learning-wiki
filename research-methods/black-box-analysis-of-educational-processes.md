@@ -3,7 +3,7 @@ type: research-method
 id: black-box-analysis-of-educational-processes
 title: Black box analysis of educational processes
 description: "The paper's central framework is black box analysis: the examination of the internal character and content of educational processes that lie between documented inputs (instructional formats) and outcomes."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

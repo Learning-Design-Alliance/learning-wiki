@@ -2,7 +2,7 @@
 type: theory
 title: A framework that balances Type I and Type II errors for addressing the multiple testing problem in social policy impact evaluations
 description: The article presents a framework for handling the multiple testing problem in social policy impact evaluations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

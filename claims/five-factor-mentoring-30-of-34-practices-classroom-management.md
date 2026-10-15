@@ -3,7 +3,7 @@ type: claim
 title: "Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment"
 description: "Most attributes and practices of the five-factor mentoring model (30 of 34) provided input into a first-practicum mentee's classroom management, with no overt evidence on aims, curriculum, timetabling or assessment"
 id: five-factor-mentoring-30-of-34-practices-classroom-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

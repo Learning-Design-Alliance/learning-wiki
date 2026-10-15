@@ -2,7 +2,7 @@
 type: theory
 title: "The Early Education Essentials framework: six organizational essential supports for ECE programs"
 description: "The Early Education Essentials is a measurement and organizing framework adapting the UChicago Consortium's 5Essentials for early childhood settings, comprising teacher/staff and parent surveys of organizational condi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

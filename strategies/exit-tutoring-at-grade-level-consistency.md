@@ -3,7 +3,7 @@ type: strategy
 id: exit-tutoring-at-grade-level-consistency
 title: Exit students from tutoring once they consistently read at the average level for their grade
 description: Reading Recovery® defines a mastery-based exit criterion rather than a fixed program length.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Successful transcriptions of videos using Dirac notation, eigenstate derivations, and vector calculus indicate generalized capability beyond introductory physics
 description: Successful transcriptions of videos using Dirac notation, eigenstate derivations, and vector calculus indicate generalized capability beyond introductory physics
 id: transcription-capability-beyond-introductory-physics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

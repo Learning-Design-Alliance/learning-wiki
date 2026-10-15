@@ -4,7 +4,7 @@ id: digital-equity-competencies-for-k-12-school-systems
 title: Digital Equity Competencies for K-12 School Systems
 description: A framework defining the knowledge, skills, and mindsets that teachers, instructional technology coaches, and administrators need to advance digital equity across five domains.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

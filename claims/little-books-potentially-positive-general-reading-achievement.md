@@ -3,7 +3,7 @@ type: claim
 title: Using Little Books in kindergarten produces potentially positive effects on general reading achievement, with all three delivery variations (home only, school only, and home and school) outperforming a comparison condition on the Metropolitan Readiness Test
 description: Using Little Books in kindergarten produces potentially positive effects on general reading achievement, with all three delivery variations (home only, school only, and home and school) outperforming a comparison cond...
 id: little-books-potentially-positive-general-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

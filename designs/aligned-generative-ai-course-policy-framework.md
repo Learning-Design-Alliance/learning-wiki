@@ -3,7 +3,7 @@ type: design
 id: aligned-generative-ai-course-policy-framework
 title: Aligned Generative AI Course Policy framework for deciding allowed and unallowed GenAI use per task
 description: "The article presents an Aligned Generative AI Course Policy as a design framework in which \"the allowed and unallowed uses of GenAI tools are described in a transparent manner for students.\" Rather than a blanket cour..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

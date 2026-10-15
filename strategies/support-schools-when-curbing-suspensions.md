@@ -3,7 +3,7 @@ type: strategy
 id: support-schools-when-curbing-suspensions
 title: Provide schools, administrators, and teachers with supports and resources when curbing suspension use
 description: The article recommends that districts planning to roll back suspensions consider what supports schools need to make the change work.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

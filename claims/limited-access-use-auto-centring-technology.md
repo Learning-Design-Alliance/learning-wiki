@@ -3,7 +3,7 @@ type: claim
 title: Access to and consistent use of automated centring technology remain limited among CT radiographers
 description: Access to and consistent use of automated centring technology remain limited among CT radiographers
 id: limited-access-use-auto-centring-technology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

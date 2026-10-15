@@ -3,7 +3,7 @@ type: design
 id: community-integrated-data-system-ucla-cs
 title: Community Integrated Data System for coordinating student supports
 description: "During the COVID-19 pandemic, UCLA-CS partnered with UCLA's Life Course Intervention Research Network to create a Community Integrated Data System (CIDS) that helps three support teams, faculty, and staff communicate..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

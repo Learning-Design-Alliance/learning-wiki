@@ -3,7 +3,7 @@ type: claim
 title: Initial meta-analyses indicate the effect of AI chatbots and generative AI on learning outcomes is lower in secondary education than in higher education
 description: Initial meta-analyses indicate the effect of AI chatbots and generative AI on learning outcomes is lower in secondary education than in higher education
 id: ai-effect-lower-secondary-than-higher-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

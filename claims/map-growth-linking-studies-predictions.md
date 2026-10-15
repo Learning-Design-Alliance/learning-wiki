@@ -3,7 +3,7 @@ type: claim
 title: Linking studies connect MAP Growth scores to state summative proficiency predictions and external measures
 description: Linking studies connect MAP Growth scores to state summative proficiency predictions and external measures
 id: map-growth-linking-studies-predictions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

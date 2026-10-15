@@ -3,7 +3,7 @@ type: claim
 title: "Leading LLMs hallucinated legal authorities in 58%-88% of tested cases while failing to recognise incorrect legal assumptions in prompts"
 description: "Leading LLMs hallucinated legal authorities in 58%-88% of tested cases while failing to recognise incorrect legal assumptions in prompts"
 id: llms-hallucinate-legal-authorities-58-88
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

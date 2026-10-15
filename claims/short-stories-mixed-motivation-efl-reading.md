@@ -3,7 +3,7 @@ type: claim
 title: Short stories as classroom tools improved motivation toward L2 reading for most but not all EFL students
 description: Short stories as classroom tools improved motivation toward L2 reading for most but not all EFL students
 id: short-stories-mixed-motivation-efl-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

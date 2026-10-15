@@ -3,7 +3,7 @@ type: claim
 title: Degree of anthropomorphism attributed to the agent was shaped by both interaction modality and, within audio conditions, voice accent
 description: Degree of anthropomorphism attributed to the agent was shaped by both interaction modality and, within audio conditions, voice accent
 id: anthropomorphism-shaped-by-modality-and-accent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

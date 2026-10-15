@@ -3,7 +3,7 @@ type: claim
 title: "Slezak argues the Edinburgh strong programme's core claims are flawed, while Suchting defends Bloor's social constructivist account against those criticisms"
 description: "Slezak argues the Edinburgh strong programme's core claims are flawed, while Suchting defends Bloor's social constructivist account against those criticisms"
 id: slezak-suchting-strong-programme-debate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -2,7 +2,7 @@
 type: theory
 title: "Common underlying proficiency (CUP): interdependence of L1 and L2 academic language proficiency"
 description: "The common underlying proficiency (CUP) is Cummins's construct for the interdependence between L1 and L2 CALP."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

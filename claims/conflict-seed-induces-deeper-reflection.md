@@ -3,7 +3,7 @@ type: claim
 title: "Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation"
 description: "Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation"
 id: conflict-seed-induces-deeper-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

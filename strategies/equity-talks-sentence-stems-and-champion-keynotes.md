@@ -3,7 +3,7 @@ type: strategy
 id: equity-talks-sentence-stems-and-champion-keynotes
 title: Open convenings with equity sentence stems and equity champion keynotes to build trust and shared commitment
 description: The article describes opening the convening with an equity-related icebreaker and framing talks to build common language around diversity, equity, and inclusion.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Spacing out retrieval practice produces better long-term retention than massing it
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

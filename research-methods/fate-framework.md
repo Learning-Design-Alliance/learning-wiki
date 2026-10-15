@@ -3,7 +3,7 @@ type: research-method
 id: fate-framework
 title: FATE framework
 description: The article organizes the evaluation of multimodal learning analytics around four dimensions synthesized from prior FATE research in AI and learning analytics.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

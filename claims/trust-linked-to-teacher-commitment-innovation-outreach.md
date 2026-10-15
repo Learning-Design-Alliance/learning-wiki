@@ -3,7 +3,7 @@ type: claim
 title: High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility
 description: High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility
 id: trust-linked-to-teacher-commitment-innovation-outreach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

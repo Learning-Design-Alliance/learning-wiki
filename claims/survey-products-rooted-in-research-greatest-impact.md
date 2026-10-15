@@ -3,7 +3,7 @@ type: claim
 title: A strong majority of surveyed edtech products agree that products rooted in learning sciences research have the greatest impact on learning
 description: A strong majority of surveyed edtech products agree that products rooted in learning sciences research have the greatest impact on learning
 id: survey-products-rooted-in-research-greatest-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

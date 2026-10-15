@@ -3,7 +3,7 @@ type: claim
 title: The v4.1 redesign achieved tool-free serviceability, with disassembly workload reduction consistent across all measures and disassembly rated near-perfectly easy
 description: The v4.1 redesign achieved tool-free serviceability, with disassembly workload reduction consistent across all measures and disassembly rated near-perfectly easy
 id: tool-free-serviceability-disassembly-ease
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners
 description: Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners
 id: l2-motivation-predicts-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

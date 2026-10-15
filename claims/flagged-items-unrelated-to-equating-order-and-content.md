@@ -3,7 +3,7 @@ type: claim
 title: The number of flagged items was unrelated to equating order, and flagged items showed no meaningful content-property pattern
 description: The number of flagged items was unrelated to equating order, and flagged items showed no meaningful content-property pattern
 id: flagged-items-unrelated-to-equating-order-and-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

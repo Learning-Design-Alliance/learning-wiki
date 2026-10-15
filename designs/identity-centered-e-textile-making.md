@@ -3,7 +3,7 @@ type: design
 id: identity-centered-e-textile-making
 title: Identity-Centered E-Textile Making
 description: A maker pattern combining e-textiles (sewable circuits, LEDs, microcontrollers) with explicit invitation for participants to author identity into their design choices, so STEM making and identity expression develop together rather than separately.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

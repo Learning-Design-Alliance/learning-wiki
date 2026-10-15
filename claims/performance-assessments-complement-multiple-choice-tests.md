@@ -3,7 +3,7 @@ type: claim
 title: States integrate performance-based assessments as a complement or alternative to traditional multiple-choice tests within a broader assessment strategy
 description: States integrate performance-based assessments as a complement or alternative to traditional multiple-choice tests within a broader assessment strategy
 id: performance-assessments-complement-multiple-choice-tests
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

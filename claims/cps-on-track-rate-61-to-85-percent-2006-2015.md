@@ -3,7 +3,7 @@ type: claim
 title: "Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015"
 description: "Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015"
 id: cps-on-track-rate-61-to-85-percent-2006-2015
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

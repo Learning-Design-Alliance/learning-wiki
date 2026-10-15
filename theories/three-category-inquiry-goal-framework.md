@@ -2,7 +2,7 @@
 type: theory
 title: "Three-category goal framework for inquiry design: process goals, attitudinal goals, and content goals"
 description: The article organizes its learning goals into three interrelated categories.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

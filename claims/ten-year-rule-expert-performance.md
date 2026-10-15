@@ -3,7 +3,7 @@ type: claim
 title: Even the most talented performers need around 10 years of intense involvement to reach international level
 description: Even the most talented performers need around 10 years of intense involvement to reach international level
 id: ten-year-rule-expert-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

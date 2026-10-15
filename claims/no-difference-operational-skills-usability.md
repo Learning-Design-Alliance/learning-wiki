@@ -3,7 +3,7 @@ type: claim
 title: No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability
 description: No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability
 id: no-difference-operational-skills-usability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

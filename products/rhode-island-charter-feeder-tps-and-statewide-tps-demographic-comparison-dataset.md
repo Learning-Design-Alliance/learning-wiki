@@ -4,7 +4,7 @@ id: rhode-island-charter-feeder-tps-and-statewide-tps-demographic-comparison-dat
 title: Rhode Island charter, feeder TPS, and statewide TPS demographic comparison dataset
 description: A demographic comparison dataset compiled in the 2023 Charter School Performance in Rhode Island report, covering Rhode Island charter schools, feeder traditional public schools, and statewide traditional public schools.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

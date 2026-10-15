@@ -4,7 +4,7 @@ id: chicago-high-school-redesign-initiative
 title: Chicago High School Redesign Initiative
 description: A school-redesign initiative that supported the creation and development of small Chicago public high schools through partnerships among Chicago Public Schools, funders, and participating school communities.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

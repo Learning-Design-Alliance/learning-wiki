@@ -3,7 +3,7 @@ type: claim
 title: AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making
 description: AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making
 id: ai-enhances-teaching-administration-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: MAP Growth spring RIT cut scores classify students as proficient or not proficient on the MCA-III Mathematics test with 0.87–0.90 overall accuracy
 description: MAP Growth spring RIT cut scores classify students as proficient or not proficient on the MCA-III Mathematics test with 0.87–0.90 overall accuracy
 id: map-growth-cut-scores-classification-accuracy-mca-iii
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

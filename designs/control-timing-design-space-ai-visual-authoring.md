@@ -3,7 +3,7 @@ type: design
 id: control-timing-design-space-ai-visual-authoring
 title: "Control timing as a design dimension for AI-assisted visual authoring: pre-, mid-, and post-generation control"
 description: "The article introduces \"control timing\" as a key design dimension in AI-assisted visual authoring, operationalized through three interaction paradigms that differ in when teachers intervene relative to AI output."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

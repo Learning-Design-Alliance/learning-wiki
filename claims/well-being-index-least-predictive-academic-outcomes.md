@@ -3,7 +3,7 @@ type: claim
 title: The emotional well-being index has the least predictive power on academic outcomes, with effect sizes in the hundredth-of-a-SD range
 description: The emotional well-being index has the least predictive power on academic outcomes, with effect sizes in the hundredth-of-a-SD range
 id: well-being-index-least-predictive-academic-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

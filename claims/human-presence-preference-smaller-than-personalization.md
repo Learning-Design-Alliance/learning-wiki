@@ -3,7 +3,7 @@ type: claim
 title: Students preferred human-recorded over AI-generated videos when personalization was held constant, but this effect was smaller than the personalization effect
 description: Students preferred human-recorded over AI-generated videos when personalization was held constant, but this effect was smaller than the personalization effect
 id: human-presence-preference-smaller-than-personalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

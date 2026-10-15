@@ -3,7 +3,7 @@ type: claim
 title: Expectancy-Value beliefs govern the intensity of LLM reliance while AI skills determine its type, indicating the two predictor systems require separate interventions
 description: Expectancy-Value beliefs govern the intensity of LLM reliance while AI skills determine its type, indicating the two predictor systems require separate interventions
 id: evt-beliefs-predict-reliance-intensity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

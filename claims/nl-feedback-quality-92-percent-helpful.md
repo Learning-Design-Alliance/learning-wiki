@@ -3,7 +3,7 @@ type: claim
 title: GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation
 description: GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation
 id: nl-feedback-quality-92-percent-helpful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

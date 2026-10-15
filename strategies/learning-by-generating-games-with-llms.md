@@ -3,7 +3,7 @@ type: strategy
 id: learning-by-generating-games-with-llms
 title: Learning by generating games with LLMs, supported by prompting pedagogy
 description: The article proposes that students learn educational content by designing and making games with generative AI tools, extending constructionist gaming.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

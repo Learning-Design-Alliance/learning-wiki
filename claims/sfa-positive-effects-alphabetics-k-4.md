@@ -3,7 +3,7 @@ type: claim
 title: SFA® shows positive effects on alphabetics for beginning readers in grades K–4
 description: SFA® shows positive effects on alphabetics for beginning readers in grades K–4
 id: sfa-positive-effects-alphabetics-k-4
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: gateway-learning-seminar-courses
 title: Learning seminar courses that teach students how to learn by addressing behaviors, mindsets, and habits that undermine learning
 description: Gateway offers learning seminar courses and reading intervention classes as part of its system of supports.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

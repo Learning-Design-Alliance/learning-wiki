@@ -3,7 +3,7 @@ type: claim
 title: For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates
 description: For novel material (impulse-momentum theorem), no statistical difference emerges among group-based styles with verbal TA interaction; the tutorial material itself dominates
 id: novel-material-instructor-support-less-important
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Extending maximum sequence length from 50 to 100 does not lead to consistent knowledge-tracing performance improvements; negative changes appear more frequently across models and datasets
 description: Extending maximum sequence length from 50 to 100 does not lead to consistent knowledge-tracing performance improvements; negative changes appear more frequently across models and datasets
 id: longer-sequence-length-no-consistent-pkt-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

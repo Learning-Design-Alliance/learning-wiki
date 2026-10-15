@@ -3,7 +3,7 @@ type: claim
 title: Distributed blueprints with differing district pacing guides risk testing students on content they had no opportunity to learn
 description: Distributed blueprints with differing district pacing guides risk testing students on content they had no opportunity to learn
 id: distributed-blueprint-otl-pacing-guide-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

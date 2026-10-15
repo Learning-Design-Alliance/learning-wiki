@@ -3,7 +3,7 @@ type: strategy
 id: adapt-genai-codesign-across-disciplines-sociotechnical-framing
 title: Adapt the guided inquiry policy co-design activity across disciplines, framing AI as a sociotechnical system
 description: The authors offer a forward-looking design recommendation for instructors adapting the activity beyond technical fields.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

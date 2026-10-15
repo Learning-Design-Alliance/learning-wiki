@@ -3,7 +3,7 @@ type: claim
 title: Clustering of association rules yields four distinct strategy-combination profiles characterizing lower digital distraction
 description: Clustering of association rules yields four distinct strategy-combination profiles characterizing lower digital distraction
 id: four-clusters-lower-distraction-strategy-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

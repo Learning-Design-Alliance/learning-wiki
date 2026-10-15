@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test"
 description: "ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test"
 id: chatgpt-interactive-conversational-capability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

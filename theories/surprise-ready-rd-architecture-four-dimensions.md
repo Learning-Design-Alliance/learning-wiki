@@ -2,7 +2,7 @@
 type: theory
 title: "Four-dimension contrast of legacy versus strategic-surprise-ready R&D architecture"
 description: "The paper's organizing framework contrasts legacy educational R&D with a strategic-surprise-ready architecture along four dimensions: framing commitments, problem definition, project/talent model, and focal outcomes."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

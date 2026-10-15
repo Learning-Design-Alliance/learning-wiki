@@ -3,7 +3,7 @@ type: claim
 title: A multisensory tablet with tonal and vibration feedback produced no significant difference in graphics-comprehension accuracy compared with tactile graphics
 description: A multisensory tablet with tonal and vibration feedback produced no significant difference in graphics-comprehension accuracy compared with tactile graphics
 id: multisensory-tablet-no-difference-tactile-graphics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

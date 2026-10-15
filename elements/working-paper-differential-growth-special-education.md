@@ -3,7 +3,7 @@ type: element
 id: working-paper-differential-growth-special-education
 title: "Working paper and research brief: Understanding differential growth during school years and summers for students in special education"
 description: "The page lists two associated NWEA artifacts: a working paper and a research brief, both titled \"Understanding differential growth during school years and summers for students in special education.\" They underpin the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

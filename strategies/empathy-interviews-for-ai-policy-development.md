@@ -3,7 +3,7 @@ type: strategy
 id: empathy-interviews-for-ai-policy-development
 title: Conduct empathy interviews to understand user experiences with technology
 description: "Empathy interviews are \"open-ended conversations with a predetermined protocol\" that help educators build relationships with learners and understand their needs and identities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

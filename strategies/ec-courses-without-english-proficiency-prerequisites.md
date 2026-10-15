@@ -3,7 +3,7 @@ type: strategy
 id: ec-courses-without-english-proficiency-prerequisites
 title: Select dual enrollment courses without English language proficiency requirements or prerequisites to make Early College linguistically accessible
 description: This implementable design move addresses the gatekeeping the article documents, where fluent-English-proficiency policies can deny ELs entry to advanced coursework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

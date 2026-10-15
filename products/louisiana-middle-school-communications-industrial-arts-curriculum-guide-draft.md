@@ -4,7 +4,7 @@ id: louisiana-middle-school-communications-industrial-arts-curriculum-guide-draf
 title: Louisiana middle-school communications industrial arts curriculum guide (draft)
 description: A Louisiana state curriculum guide for grades 6–9 that organizes communications-focused industrial arts instruction in drafting, electricity-electronics, graphic arts, and photography around performance objectives, activities, and resources.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

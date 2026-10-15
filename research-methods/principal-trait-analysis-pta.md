@@ -3,7 +3,7 @@ type: research-method
 id: principal-trait-analysis-pta
 title: Principal Trait Analysis (PTA)
 description: "PTA is a data-driven methodology that \"produces a representative set of textual descriptions we callprincipal traitsfrom a corpus of human collaborator-AI collaborative conversation sessions.\" It runs four stages: LLM-prompted behavior-observation extraction (generic or theory-lens), embedding-based"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

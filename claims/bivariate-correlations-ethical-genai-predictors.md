@@ -3,7 +3,7 @@ type: claim
 title: All six predictor constructs correlate positively and significantly with ethical GenAI use, ranging from r = 0.370 to r = 0.507
 description: All six predictor constructs correlate positively and significantly with ethical GenAI use, ranging from r = 0.370 to r = 0.507
 id: bivariate-correlations-ethical-genai-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

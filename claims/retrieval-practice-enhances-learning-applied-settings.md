@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice enhances learning across domains and the lifespan in applied educational settings
 description: Retrieval practice enhances learning across domains and the lifespan in applied educational settings
 id: retrieval-practice-enhances-learning-applied-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

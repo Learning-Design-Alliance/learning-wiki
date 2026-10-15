@@ -3,7 +3,7 @@ type: claim
 title: DMO-GRU attains the lowest MAE and RMSE and the highest R2 score among the compared regression models for forecasting student success
 description: DMO-GRU attains the lowest MAE and RMSE and the highest R2 score among the compared regression models for forecasting student success
 id: dmo-gru-lowest-regression-error-highest-r2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

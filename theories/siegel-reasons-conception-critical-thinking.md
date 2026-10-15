@@ -2,7 +2,7 @@
 type: theory
 title: "Siegel's reasons conception: critical thinking as being appropriately moved by reasons"
 description: "Harvey Siegel's plenary paper presents a conception in which critical thinking is closely linked to reasons and rationality: 'a critical thinker is one who is appropriately moved by reasons.' The account has two essen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

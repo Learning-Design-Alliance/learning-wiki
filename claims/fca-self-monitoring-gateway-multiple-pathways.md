@@ -3,7 +3,7 @@ type: claim
 title: Formal concept analysis identifies self-monitoring as the primary developmental gateway and multiple viable pathways to expertise
 description: Formal concept analysis identifies self-monitoring as the primary developmental gateway and multiple viable pathways to expertise
 id: fca-self-monitoring-gateway-multiple-pathways
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

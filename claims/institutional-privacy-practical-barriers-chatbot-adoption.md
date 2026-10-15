@@ -3,7 +3,7 @@ type: claim
 title: Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value
 description: Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value
 id: institutional-privacy-practical-barriers-chatbot-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

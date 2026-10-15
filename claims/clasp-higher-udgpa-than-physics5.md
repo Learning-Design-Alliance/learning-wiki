@@ -3,7 +3,7 @@ type: claim
 title: Bioscience students who took the CLASP series had statistically significantly higher upper-division GPAs than students who took the traditional Physics 5 series
 description: Bioscience students who took the CLASP series had statistically significantly higher upper-division GPAs than students who took the traditional Physics 5 series
 id: clasp-higher-udgpa-than-physics5
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

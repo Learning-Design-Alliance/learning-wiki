@@ -3,7 +3,7 @@ type: claim
 title: Only bioscience graduates who took CLASP (2000-2001) had significantly higher UDGPA than transfer students in their majors, unlike 1993-1994 graduates and non-bioscience majors
 description: Only bioscience graduates who took CLASP (2000-2001) had significantly higher UDGPA than transfer students in their majors, unlike 1993-1994 graduates and non-bioscience majors
 id: clasp-bio-freshmen-beat-transfers-udgpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

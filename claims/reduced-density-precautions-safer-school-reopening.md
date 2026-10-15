@@ -3,7 +3,7 @@ type: claim
 title: Reducing student density in classrooms and shared school spaces, combined with precautions such as physical distancing, some mask wearing, and good ventilation, allows for a safer school reopening during COVID-19
 description: Reducing student density in classrooms and shared school spaces, combined with precautions such as physical distancing, some mask wearing, and good ventilation, allows for a safer school reopening during COVID-19
 id: reduced-density-precautions-safer-school-reopening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

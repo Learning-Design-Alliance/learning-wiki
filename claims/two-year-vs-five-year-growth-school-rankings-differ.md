@@ -3,7 +3,7 @@ type: claim
 title: School growth estimates based on two years of data correlate around .55–.58 with estimates based on all five elementary years, below the .90 threshold at which ESSA accountability determinations would likely change
 description: School growth estimates based on two years of data correlate around .55–.58 with estimates based on all five elementary years, below the .90 threshold at which ESSA accountability determinations would likely change
 id: two-year-vs-five-year-growth-school-rankings-differ
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

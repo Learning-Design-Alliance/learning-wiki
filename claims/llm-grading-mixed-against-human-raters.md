@@ -3,7 +3,7 @@ type: claim
 title: "LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks"
 description: "LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks"
 id: llm-grading-mixed-against-human-raters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

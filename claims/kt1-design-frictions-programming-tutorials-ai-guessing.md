@@ -3,7 +3,7 @@ type: claim
 title: "Course design created frictions: undeclared programming prerequisites, copied AI-generated tutorial solutions, intimidating blackboard turns, and AI-guessing cycles for students lacking evaluation knowledge"
 description: "Course design created frictions: undeclared programming prerequisites, copied AI-generated tutorial solutions, intimidating blackboard turns, and AI-guessing cycles for students lacking evaluation knowledge"
 id: kt1-design-frictions-programming-tutorials-ai-guessing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

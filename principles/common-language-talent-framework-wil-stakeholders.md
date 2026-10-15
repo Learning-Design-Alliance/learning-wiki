@@ -3,7 +3,7 @@ type: principle
 id: common-language-talent-framework-wil-stakeholders
 title: Use a shared talent framework to give WIL stakeholders a common language for communicating about talent
 description: Because WIL programs rely on co-creation among employers, students, and educators whose perspectives on talent vary widely, the article recommends giving stakeholders a shared framework so they can coordinate efforts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

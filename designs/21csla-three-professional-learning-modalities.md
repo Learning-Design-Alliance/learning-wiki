@@ -3,7 +3,7 @@ type: design
 id: 21csla-three-professional-learning-modalities
 title: "Three synergistic professional learning modalities: communities of practice, localized professional learning, and coaching"
 description: 21CSLA regional academies deliver professional learning through three primary modalities.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

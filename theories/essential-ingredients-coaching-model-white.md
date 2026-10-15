@@ -2,7 +2,7 @@
 type: theory
 title: "White et al.'s coherent model of coaching's essential ingredients: coach factors, teacher factors, and coach-teacher interaction factors"
 description: "The paper presents White et al.'s (2015) organization of research findings on coaching's \"essential ingredients\" into a coherent model with three factor groups."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

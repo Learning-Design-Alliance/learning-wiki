@@ -3,7 +3,7 @@ type: claim
 title: Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps
 description: Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps
 id: community-schools-comprehensive-positive-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

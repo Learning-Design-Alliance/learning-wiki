@@ -3,7 +3,7 @@ type: strategy
 id: four-teacher-evaluation-techniques-communicative-class
 title: "Evaluate student contributions through praising, encouraging, quoting students' words, and gestures"
 description: The article presents four evaluation techniques for communicative reading classrooms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

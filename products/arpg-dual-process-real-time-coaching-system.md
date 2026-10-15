@@ -4,7 +4,7 @@ id: arpg-dual-process-real-time-coaching-system
 title: ARPG+ dual-process real-time coaching system
 description: ARPG+ is a real-time AI coaching system developed by Ye et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Shrinkage had no statistically significant effect on the relative probability that teachers of hard-to-predict students received consequences
 description: Shrinkage had no statistically significant effect on the relative probability that teachers of hard-to-predict students received consequences
 id: shrinkage-no-significant-effect-consequences-hard-to-predict
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

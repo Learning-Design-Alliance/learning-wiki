@@ -3,7 +3,7 @@ type: claim
 title: Teacher leaders can play a valuable role in supporting the professional learning of their colleagues
 description: Teacher leaders can play a valuable role in supporting the professional learning of their colleagues
 id: teacher-leaders-support-colleague-professional-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

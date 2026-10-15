@@ -3,7 +3,7 @@ type: design
 id: scoe-cost-mtss-referral-coordination
 title: Coordination of Services Teams (COST) link students to mental health supports within a multi-tiered system of supports
 description: "COST is SCOE's coordination mechanism linking students in Sacramento County schools to mental health supports within a multi-tiered system of supports (MTSS)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

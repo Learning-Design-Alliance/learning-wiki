@@ -3,7 +3,7 @@ type: claim
 title: "ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district"
 description: "ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district"
 id: iccsd-cs-enrollment-unrepresentative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

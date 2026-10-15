@@ -3,7 +3,7 @@ type: claim
 title: Newark charter school students outgrew the state average in both reading and math in 2018-19
 description: Newark charter school students outgrew the state average in both reading and math in 2018-19
 id: newark-charter-growth-vs-state-2018-19
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

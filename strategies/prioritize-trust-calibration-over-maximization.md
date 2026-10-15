@@ -3,7 +3,7 @@ type: strategy
 id: prioritize-trust-calibration-over-maximization
 title: Prioritize trust calibration over trust maximization when evaluating explainability and other design factors
 description: The review recommends that research on AI design factors focus on fostering appropriate levels of trust rather than simply increasing trust.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

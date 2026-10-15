@@ -3,7 +3,7 @@ type: strategy
 id: match-input-estimation-method-to-required-accuracy
 title: Match the input-parameter estimation method (managerial estimates vs. time study) to the accuracy the simulation purpose requires
 description: The report advises choosing how to determine simulation input parameters according to the purpose of the run.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

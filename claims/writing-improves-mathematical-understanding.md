@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathematics indistinguishable from those in science and social studies, in one meta-analysis"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

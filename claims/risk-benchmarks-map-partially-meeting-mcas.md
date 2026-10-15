@@ -3,7 +3,7 @@ type: claim
 title: Grade 3 screener benchmark scores marking any level of risk map to MCAS ELA scores from mid Partially Meeting Expectations to the beginning of Meeting Expectations
 description: Grade 3 screener benchmark scores marking any level of risk map to MCAS ELA scores from mid Partially Meeting Expectations to the beginning of Meeting Expectations
 id: risk-benchmarks-map-partially-meeting-mcas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes"
 description: "Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes"
 id: engagement-mode-orthogonal-to-instructional-task
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

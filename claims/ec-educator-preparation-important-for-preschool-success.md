@@ -3,7 +3,7 @@ type: claim
 title: "Early childhood educators' formal preparation and child development skills are particularly important for successful public preschool programs"
 description: "Early childhood educators' formal preparation and child development skills are particularly important for successful public preschool programs"
 id: ec-educator-preparation-important-for-preschool-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

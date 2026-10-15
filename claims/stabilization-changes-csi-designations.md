@@ -3,7 +3,7 @@ type: claim
 title: Stabilizing test-based indicators produced substantial changes in simulated CSI designations, with larger schools replacing smaller schools
 description: Stabilizing test-based indicators produced substantial changes in simulated CSI designations, with larger schools replacing smaller schools
 id: stabilization-changes-csi-designations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning
 description: Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning
 id: more-challenges-lower-post-covid-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

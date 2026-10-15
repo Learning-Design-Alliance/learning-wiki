@@ -3,7 +3,7 @@ type: claim
 title: Faster CPS groups show stronger transitions among curiosity and optimism, while slower groups show stronger transitions among confusion, conflict, and frustration
 description: Faster CPS groups show stronger transitions among curiosity and optimism, while slower groups show stronger transitions among confusion, conflict, and frustration
 id: faster-slower-groups-affective-transition-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

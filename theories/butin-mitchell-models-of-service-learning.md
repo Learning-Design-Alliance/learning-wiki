@@ -2,7 +2,7 @@
 type: theory
 title: "Competing conceptual models of service-learning: Butin's four perspectives and Mitchell's traditional/critical distinction"
 description: "The paper reviews two framings of CSL's conceptual diversity."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

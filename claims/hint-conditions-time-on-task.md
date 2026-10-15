@@ -3,7 +3,7 @@ type: claim
 title: Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time
 description: Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time
 id: hint-conditions-time-on-task
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

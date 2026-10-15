@@ -3,7 +3,7 @@ type: claim
 title: TRGP residents were prepared in 31 of 1,019 districts across 21 of 58 counties, concentrated in central and southern California while many rural high-need counties did not participate
 description: TRGP residents were prepared in 31 of 1,019 districts across 21 of 58 counties, concentrated in central and southern California while many rural high-need counties did not participate
 id: trgp-geographic-concentration-rural-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

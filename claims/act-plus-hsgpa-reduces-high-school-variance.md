@@ -3,7 +3,7 @@ type: claim
 title: Combining ACT scores with HSGPAs reduces high school variance in college graduation rates relative to HSGPA-only models
 description: Combining ACT scores with HSGPAs reduces high school variance in college graduation rates relative to HSGPA-only models
 id: act-plus-hsgpa-reduces-high-school-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

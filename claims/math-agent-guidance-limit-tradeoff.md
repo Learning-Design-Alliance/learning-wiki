@@ -3,7 +3,7 @@ type: claim
 title: Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement
 description: Limiting verbose Math Agent guidance sharply reduced answer giveaway but decreased cognitive engagement
 id: math-agent-guidance-limit-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

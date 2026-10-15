@@ -3,7 +3,7 @@ type: claim
 title: Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education
 description: Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education
 id: genai-hybrid-policy-guidelines-governance-consensus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

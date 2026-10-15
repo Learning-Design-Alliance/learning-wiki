@@ -3,7 +3,7 @@ type: strategy
 id: ethical-safeguards-ai-tefl-tools-strategy
 title: Manage ethical risks of AI-driven TEFL tools through data protection policies, fairness audits, human oversight, and balanced-use design
 description: The review identifies three primary ethical concerns—data privacy and security, AI bias and fairness, and technology addiction and balanced use—and recommends concrete management strategies for each.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

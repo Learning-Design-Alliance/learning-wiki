@@ -2,7 +2,7 @@
 type: theory
 title: "Habermas's communicative theory and Kantian limited objectivity as grounding for objective standards in Constructivism"
 description: "The paper argues that Habermas's communicative theory of meaning, in which claims of validity and truth are decided by resolving normative rightness through discursive argumentation, supports Constructivism threefold:..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

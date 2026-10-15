@@ -3,7 +3,7 @@ type: claim
 title: The theory-into-game profile appears only in Grades 1–5 and the traditional comprehensive profile is absent in Grade 1
 description: The theory-into-game profile appears only in Grades 1–5 and the traditional comprehensive profile is absent in Grade 1
 id: grade-specific-profile-presence-theory-into-game
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

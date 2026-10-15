@@ -3,7 +3,7 @@ type: claim
 title: Professional community within a school environment is associated with a small but significant positive effect on student achievement (d=.25)
 description: Professional community within a school environment is associated with a small but significant positive effect on student achievement (d=.25)
 id: professional-community-small-significant-achievement-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

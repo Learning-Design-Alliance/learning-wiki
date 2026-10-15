@@ -3,7 +3,7 @@ type: strategy
 id: strategy-imagining-past-two-question-sets
 title: Use a strategy for imagining the past built on two sets of guiding questions applied to primary source documents
 description: "The author outlines an instructional strategy, developed directly out of Collingwood's theory, in which students inquire into a past topic using primary source documents."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Post-pandemic summer school is studied for its effects on student achievement and district academic recovery
 description: Post-pandemic summer school is studied for its effects on student achievement and district academic recovery
 id: post-pandemic-summer-school-achievement-recovery-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

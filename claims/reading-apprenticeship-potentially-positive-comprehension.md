@@ -3,7 +3,7 @@ type: claim
 title: The WWC rates Reading Apprenticeship® as having potentially positive effects on comprehension for adolescent learners, based on one study
 description: The WWC rates Reading Apprenticeship® as having potentially positive effects on comprehension for adolescent learners, based on one study
 id: reading-apprenticeship-potentially-positive-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

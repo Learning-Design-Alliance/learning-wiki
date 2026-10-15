@@ -3,7 +3,7 @@ type: claim
 title: "One LoRA adapter fine-tuned on the two exams' pooled ~3,900 dual-graded examples brings five small open models to parity or better with a human grader and makes them insensitive to harsh personas"
 description: "One LoRA adapter fine-tuned on the two exams' pooled ~3,900 dual-graded examples brings five small open models to parity or better with a human grader and makes them insensitive to harsh personas"
 id: lora-finetuning-llm-grader-parity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

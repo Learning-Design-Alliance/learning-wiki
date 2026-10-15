@@ -3,7 +3,7 @@ type: claim
 title: The anticipation of where to stop the unit-rate count remained inconsistent and prompt-dependent across subsequent episodes with harder numbers
 description: The anticipation of where to stop the unit-rate count remained inconsistent and prompt-dependent across subsequent episodes with harder numbers
 id: mdc-stop-anticipation-remains-prompt-dependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

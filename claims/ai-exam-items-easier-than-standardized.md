@@ -3,7 +3,7 @@ type: claim
 title: AI-generated exam questions were somewhat easier than standardized-test questions, with average difficulty βAI = −0.45 versus βSTD = 0.35
 description: AI-generated exam questions were somewhat easier than standardized-test questions, with average difficulty βAI = −0.45 versus βSTD = 0.35
 id: ai-exam-items-easier-than-standardized
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

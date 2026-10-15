@@ -3,7 +3,7 @@ type: claim
 title: Translating test scores into months of learning has major downsides despite its perceived accessibility
 description: Translating test scores into months of learning has major downsides despite its perceived accessibility
 id: months-of-learning-translation-major-downsides
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

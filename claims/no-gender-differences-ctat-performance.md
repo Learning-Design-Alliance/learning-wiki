@@ -3,7 +3,7 @@ type: claim
 title: No significant gender differences in CTAT performance within either educational pathway
 description: No significant gender differences in CTAT performance within either educational pathway
 id: no-gender-differences-ctat-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

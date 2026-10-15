@@ -3,7 +3,7 @@ type: claim
 title: During a year-long AI curriculum, most students maintained or moved upward in motivational profile, with substantial upward transitions out of the Disengaged profile
 description: During a year-long AI curriculum, most students maintained or moved upward in motivational profile, with substantial upward transitions out of the Disengaged profile
 id: upward-motivational-transitions-year-ai-curriculum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

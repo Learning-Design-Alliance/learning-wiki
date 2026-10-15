@@ -3,7 +3,7 @@ type: claim
 title: Similarity-based retrieval degrades as the Knowledge Base grows, consistent with the fan effect, stalling the agent
 description: Similarity-based retrieval degrades as the Knowledge Base grows, consistent with the fan effect, stalling the agent
 id: fan-effect-kb-growth-retrieval-degradation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

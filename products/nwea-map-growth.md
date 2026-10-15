@@ -4,7 +4,7 @@ id: nwea-map-growth
 title: NWEA MAP Growth
 description: NWEA MAP Growth is a computer-adaptive achievement assessment and associated longitudinal achievement database developed and administered by NWEA.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

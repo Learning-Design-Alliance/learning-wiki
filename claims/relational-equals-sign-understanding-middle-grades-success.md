@@ -3,7 +3,7 @@ type: claim
 title: Relational understandings of the equals sign are associated with middle grades mathematics success
 description: Relational understandings of the equals sign are associated with middle grades mathematics success
 id: relational-equals-sign-understanding-middle-grades-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

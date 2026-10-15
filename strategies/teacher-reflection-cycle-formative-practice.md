@@ -3,7 +3,7 @@ type: strategy
 id: teacher-reflection-cycle-formative-practice
 title: Teacher reflection cycle for adopting a formative assessment practice
 description: "The brief details a seven-step cycle: choose a formative assessment practice, learn about it through reading, videos, or peer observation, set an instructional learning goal, develop success criteria, share the goal a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

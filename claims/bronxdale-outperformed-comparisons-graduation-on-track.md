@@ -3,7 +3,7 @@ type: claim
 title: Bronxdale students outperformed comparison-group, borough, and city high schools on graduation rates and on-track credit indicators in 2017–18
 description: Bronxdale students outperformed comparison-group, borough, and city high schools on graduation rates and on-track credit indicators in 2017–18
 id: bronxdale-outperformed-comparisons-graduation-on-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

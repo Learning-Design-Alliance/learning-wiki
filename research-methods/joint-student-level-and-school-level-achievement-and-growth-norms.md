@@ -3,7 +3,7 @@ type: research-method
 id: joint-student-level-and-school-level-achievement-and-growth-norms
 title: Joint student-level and school-level achievement and growth norms
 description: The 2020 norms treat student-level and school-level norming as a joint enterprise rather than separate products.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: World of Words produced a large, statistically significant effect on taught-word sorting performance (effect size 0.94) in a two-site Head Start study
 description: World of Words produced a large, statistically significant effect on taught-word sorting performance (effect size 0.94) in a two-site Head Start study
 id: world-of-words-sorting-task-large-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

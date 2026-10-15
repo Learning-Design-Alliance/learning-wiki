@@ -3,7 +3,7 @@ type: design
 id: hqim-implementation-teacher-survey-instrument
 title: Tri-annual teacher survey operationalizing dosage, adherence, instructional quality, and support
 description: "A teacher self-report survey administered \"three times annually during the 2024–2027 study period\" to all participating grades 6–8 teachers, designed to take no longer than 30 minutes per administration."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

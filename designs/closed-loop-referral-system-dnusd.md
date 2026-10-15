@@ -3,7 +3,7 @@ type: design
 id: closed-loop-referral-system-dnusd
 title: Closed-loop referral system linking DNUSD wellness centers with community and county behavioral health providers
 description: DNUSD established a closed-loop referral system with Project Cal-Well support after earlier referrals to community partners were often lost to waiting lists and lacked follow-up communication.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

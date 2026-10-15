@@ -3,7 +3,7 @@ type: strategy
 id: post-entry-mentorship-support-alternative-stem-programs
 title: Provide mentorship and outreach support after program entry to sustain persistence in alternative STEM programs
 description: "The article's findings point to support structures timed to program phases: mentorship received after applying increased the likelihood of course completion, and peer study groups helped students without work obligati..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

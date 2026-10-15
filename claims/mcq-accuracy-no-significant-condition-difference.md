@@ -3,7 +3,7 @@ type: claim
 title: "MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations"
 description: "MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations"
 id: mcq-accuracy-no-significant-condition-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

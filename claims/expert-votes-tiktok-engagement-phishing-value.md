@@ -3,7 +3,7 @@ type: claim
 title: Expert reviewers rated the TikTok mini-game most engaging and the Text Phishing Detective game highest in learning value
 description: Expert reviewers rated the TikTok mini-game most engaging and the Text Phishing Detective game highest in learning value
 id: expert-votes-tiktok-engagement-phishing-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

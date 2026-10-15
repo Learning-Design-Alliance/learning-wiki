@@ -3,7 +3,7 @@ type: claim
 title: Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance
 description: Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance
 id: icc-classroom-effects-gain-scores-15-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

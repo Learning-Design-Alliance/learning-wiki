@@ -3,7 +3,7 @@ type: claim
 title: "Senior high school majors' background affects calculus conceptual understanding and self-efficacy, with no method-by-major interaction"
 description: "Senior high school majors' background affects calculus conceptual understanding and self-efficacy, with no method-by-major interaction"
 id: majors-background-affects-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

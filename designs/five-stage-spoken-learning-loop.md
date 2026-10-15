@@ -3,7 +3,7 @@ type: design
 id: five-stage-spoken-learning-loop
 title: Five-stage spoken learning loop with supplementary visual affordances
 description: "Kutti AI's interaction design is \"a spoken conversation with five stages\": welcome (a single large haptic-enabled control), spoken lesson delivery paced with natural pauses, voice response captured by a large micropho..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

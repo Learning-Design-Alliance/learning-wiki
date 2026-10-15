@@ -3,7 +3,7 @@ type: strategy
 id: design-mobile-learning-around-frequent-features
 title: Design mobile learning around the features students already use frequently, while recognising this is not a panacea
 description: "The article recommends that mobile learning design take the target users' existing feature-use patterns into account."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

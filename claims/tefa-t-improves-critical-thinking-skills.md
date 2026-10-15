@@ -3,7 +3,7 @@ type: claim
 title: "The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction"
 description: "The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction"
 id: tefa-t-improves-critical-thinking-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -2,7 +2,7 @@
 type: theory
 title: Intertextuality and hypertextuality as twin modes of convergence operationalizing online education
 description: The article treats intertextuality—words and texts always interacting and effectuating new semiotic realities—as a synonym for integration, reciprocity, and structural unboundedness, and a philosophy of learning descr...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "The Skill-Application Paradox: stopped competitive programmers self-report higher theoretical confidence than active peers yet show significantly weaker practice habits and peer support"
 description: "The Skill-Application Paradox: stopped competitive programmers self-report higher theoretical confidence than active peers yet show significantly weaker practice habits and peer support"
 id: skill-application-paradox-cp-attrition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

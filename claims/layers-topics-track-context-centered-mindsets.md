@@ -3,7 +3,7 @@ type: claim
 title: "In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences"
 description: "In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences"
 id: layers-topics-track-context-centered-mindsets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

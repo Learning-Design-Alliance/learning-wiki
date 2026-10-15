@@ -3,7 +3,7 @@ type: claim
 title: Social interdependence, not role interdependence or specialization, correlates with performance and well-being
 description: Social interdependence, not role interdependence or specialization, correlates with performance and well-being
 id: social-interdependence-predicts-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

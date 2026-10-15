@@ -3,7 +3,7 @@ type: strategy
 id: community-partner-sel-alignment
 title: Align school and community partner SEL efforts through common language and coordinated communication
 description: The page recommends integrating SEL across the school day and out-of-school time by aligning with community partners.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: polya-method-six-step-verbal-problem-strategy
 title: "Polya Method: a six-step heuristic strategy for solving verbal problems"
 description: "The Polya Method (PM) is a heuristic instructional strategy derived from Polya's How to Solve It, operationalized here as six programmed steps: read the problem carefully; decide what question the problem asks and cho..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

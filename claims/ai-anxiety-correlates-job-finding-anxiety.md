@@ -3,7 +3,7 @@ type: claim
 title: "AI anxiety is moderately and positively correlated with university students' job finding anxiety"
 description: "AI anxiety is moderately and positively correlated with university students' job finding anxiety"
 id: ai-anxiety-correlates-job-finding-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

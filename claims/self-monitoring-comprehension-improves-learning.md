@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

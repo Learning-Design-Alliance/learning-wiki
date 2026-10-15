@@ -3,7 +3,7 @@ type: strategy
 id: regular-fairness-audits-and-proactive-bias-mitigation
 title: Regularly audit ML models for fairness and proactively apply bias mitigation during model training
 description: This strategy directs practitioners of predictive analytics in education to treat fairness as an ongoing operational concern rather than a one-time check.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

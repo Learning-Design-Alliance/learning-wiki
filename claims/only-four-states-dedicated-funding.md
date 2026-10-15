@@ -3,7 +3,7 @@ type: claim
 title: Only four states (California, Massachusetts, New York, Washington) dedicate state funding specifically to students experiencing homelessness
 description: Only four states (California, Massachusetts, New York, Washington) dedicate state funding specifically to students experiencing homelessness
 id: only-four-states-dedicated-funding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

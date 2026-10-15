@@ -3,7 +3,7 @@ type: claim
 title: SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades
 description: SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades
 id: sat-underpredicts-girls-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

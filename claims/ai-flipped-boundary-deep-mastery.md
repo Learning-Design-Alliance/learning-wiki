@@ -3,7 +3,7 @@ type: claim
 title: The AI-enhanced flipped classroom improves comprehensive assessment and pre-class preparation/PPT quality over the flipped classroom, but not in-class presentation performance or professional knowledge mastery
 description: The AI-enhanced flipped classroom improves comprehensive assessment and pre-class preparation/PPT quality over the flipped classroom, but not in-class presentation performance or professional knowledge mastery
 id: ai-flipped-boundary-deep-mastery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

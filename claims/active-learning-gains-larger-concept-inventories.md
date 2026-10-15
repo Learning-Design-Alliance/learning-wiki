@@ -3,7 +3,7 @@ type: claim
 title: Active learning gains are larger on concept inventories than on instructor-written course examinations
 description: Active learning gains are larger on concept inventories than on instructor-written course examinations
 id: active-learning-gains-larger-concept-inventories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

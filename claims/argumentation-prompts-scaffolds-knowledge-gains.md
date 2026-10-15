@@ -3,7 +3,7 @@ type: claim
 title: Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing arguments produce significantly more domain-specific and domain-general knowledge
 description: Prompts and scaffolds for paraphrasing, criticizing, questioning, and synthesizing arguments produce significantly more domain-specific and domain-general knowledge
 id: argumentation-prompts-scaffolds-knowledge-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

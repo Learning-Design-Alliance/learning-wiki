@@ -3,7 +3,7 @@ type: research-method
 id: varia-four-property-formalisation-of-the-aiaa-integrity-via-variation-hypothesis
 title: VARIA four-property formalisation of the AIAA integrity-via-variation hypothesis
 description: VARIA formalises the claim that an LLM can generate assessment variant sets that are simultaneously surface-distinct, construct-equivalent, rubric-applicable and difficulty-matched.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

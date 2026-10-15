@@ -3,7 +3,7 @@ type: claim
 title: K-2 literacy assessments are positively correlated, with MAP showing the strongest correlations with the other assessments
 description: K-2 literacy assessments are positively correlated, with MAP showing the strongest correlations with the other assessments
 id: k2-literacy-assessments-positively-correlated-map-strongest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

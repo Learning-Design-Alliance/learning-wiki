@@ -3,7 +3,7 @@ type: claim
 title: In simulation, the mean-recall approximation matches the clocked-delay Leitner Queue Network for small arrival rates, and its phase-transition threshold appears to be a conservative lower bound.
 description: In simulation, the mean-recall approximation matches the clocked-delay Leitner Queue Network for small arrival rates, and its phase-transition threshold appears to be a conservative lower bound.
 id: mean-recall-approximation-matches-clocked-delay-simulation-at-low-arrival-rates
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

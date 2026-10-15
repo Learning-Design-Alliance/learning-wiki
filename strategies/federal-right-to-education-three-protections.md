@@ -3,7 +3,7 @@ type: strategy
 id: federal-right-to-education-three-protections
 title: "A federal right to education should include three essential protections: foundational opportunities, equitable provision, and a federal forum"
 description: "The report proposes that, balancing state and local control with a limited federal role, the federal government provide \"at least three essential protections through a federal right to education\": recognition of a fed..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2
 description: Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2
 id: nd-prefer-teams-of-3-to-5-nt-prefer-pairs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

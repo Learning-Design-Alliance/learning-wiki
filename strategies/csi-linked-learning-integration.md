@@ -3,7 +3,7 @@ type: strategy
 id: csi-linked-learning-integration
 title: Integrate the community schools initiative with Linked Learning and CTE through joint planning, cofunded positions, and instructional-department placement
 description: "LAUSD integrated its CSI with district strategies sharing common goals, especially Linked Learning and Career Technical Education, reinforcing each approach's strengths."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

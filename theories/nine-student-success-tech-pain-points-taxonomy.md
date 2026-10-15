@@ -2,7 +2,7 @@
 type: theory
 title: Nine common pain points districts encounter when implementing student success technology platforms
 description: "From a Digital Promise field scan including \"conversations with 50 individuals from 30 organizations including schools and districts, technology vendors, intermediaries, researchers, and strategic partners,\" the repor..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

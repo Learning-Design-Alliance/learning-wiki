@@ -3,7 +3,7 @@ type: strategy
 id: youmedia-staff-certification-and-flexible-rules
 title: Staff certification processes and flexible rule reevaluation to protect equipment and maintain a safe, productive youth-driven space
 description: In a youth-driven voluntary space, staff established and enforced rules while remaining flexible, reevaluating them regularly in response to how teens used the space.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

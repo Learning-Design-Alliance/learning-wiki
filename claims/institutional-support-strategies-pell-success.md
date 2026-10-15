@@ -3,7 +3,7 @@ type: claim
 title: Highlighted institutions attribute Pell success to deliberate support strategies, with peer mentoring and fixed tuition associated with gains
 description: Highlighted institutions attribute Pell success to deliberate support strategies, with peer mentoring and fixed tuition associated with gains
 id: institutional-support-strategies-pell-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

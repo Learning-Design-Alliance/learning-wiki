@@ -3,7 +3,7 @@ type: claim
 title: "Robot adaptiveness effects on human autonomy are mixed: autonomy-supportive behaviours and as-needed assistance help, but mere choice or high interactivity may not"
 description: "Robot adaptiveness effects on human autonomy are mixed: autonomy-supportive behaviours and as-needed assistance help, but mere choice or high interactivity may not"
 id: robot-adaptiveness-mixed-autonomy-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

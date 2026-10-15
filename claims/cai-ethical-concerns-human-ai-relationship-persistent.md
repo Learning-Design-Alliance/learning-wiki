@@ -3,7 +3,7 @@ type: claim
 title: Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns
 description: Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns
 id: cai-ethical-concerns-human-ai-relationship-persistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

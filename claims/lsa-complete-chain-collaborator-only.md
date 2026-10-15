@@ -3,7 +3,7 @@ type: claim
 title: Only the Collaborator group shows a complete significant sequential metacognitive chain from orientation through elaboration; the Replacement Tool group shows only self-loops
 description: Only the Collaborator group shows a complete significant sequential metacognitive chain from orientation through elaboration; the Replacement Tool group shows only self-loops
 id: lsa-complete-chain-collaborator-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

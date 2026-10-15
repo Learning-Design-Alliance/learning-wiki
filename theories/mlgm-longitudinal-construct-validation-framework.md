@@ -2,7 +2,7 @@
 type: theory
 title: Multiple-indicator latent-growth modelling (MLGM) as a framework for validating longitudinal achievement constructs
 description: MLGM is a second-order latent growth model, a multivariate extension of the first-order latent growth curve model, in which observed indicators are item clusters (goal scores) rather than total scores.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

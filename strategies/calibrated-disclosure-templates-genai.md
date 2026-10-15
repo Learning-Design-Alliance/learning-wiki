@@ -3,7 +3,7 @@ type: strategy
 id: calibrated-disclosure-templates-genai
 title: Calibrated disclosure templates scaled to risk of the permitted use
 description: "The article proposes a three-tier disclosure model: no disclosure for embedded low-risk functions such as basic spellcheck; a one-line disclosure for external language editing; and a short process note only where an a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

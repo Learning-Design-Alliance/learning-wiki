@@ -3,7 +3,7 @@ type: claim
 title: Intensive LLM use in educational contexts may lead to an accumulation of cognitive debt that weakens critical thinking and epistemic ownership
 description: Intensive LLM use in educational contexts may lead to an accumulation of cognitive debt that weakens critical thinking and epistemic ownership
 id: llm-cognitive-debt-weakens-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

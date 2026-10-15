@@ -2,7 +2,7 @@
 type: theory
 title: Concerns Based Adoption Model (CBAM) stages of concern
 description: The CBAM, developed by the Research and Development Center for Teacher Education in Austin, Texas, is a developmental model of innovation adoption proposing that adopters progress through a predictable sequence of sev...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

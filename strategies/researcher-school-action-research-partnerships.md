@@ -3,7 +3,7 @@ type: strategy
 id: researcher-school-action-research-partnerships
 title: Researchers partner with individual school communities through intervention and action research to build local problem-solving capacity
 description: The agenda calls for researchers to work with individual school communities over time to help clarify problems and identify solutions, in arrangements the report characterizes as intervention research, organizational...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

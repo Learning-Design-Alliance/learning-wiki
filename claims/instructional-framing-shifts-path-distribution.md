@@ -3,7 +3,7 @@ type: claim
 title: A reflection-structured assignment produced predominantly Strategic Dialogue content, offering preliminary, non-causal evidence that instructional framing may shift path distribution
 description: A reflection-structured assignment produced predominantly Strategic Dialogue content, offering preliminary, non-causal evidence that instructional framing may shift path distribution
 id: instructional-framing-shifts-path-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

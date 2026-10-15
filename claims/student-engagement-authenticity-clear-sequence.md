@@ -3,7 +3,7 @@ type: claim
 title: Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones
 description: Students responded most positively to projects that felt authentic and were organized in a clear sequence with manageable milestones
 id: student-engagement-authenticity-clear-sequence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

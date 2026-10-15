@@ -4,7 +4,7 @@ id: reach-recognizing-educators-advancing-chicagos-students
 title: "REACH (Recognizing Educators Advancing Chicago's Students)"
 description: "REACH is Chicago Public Schools' teacher-evaluation programme combining classroom observations using a modified Danielson Framework rubric with student-growth measures and evaluator certification."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

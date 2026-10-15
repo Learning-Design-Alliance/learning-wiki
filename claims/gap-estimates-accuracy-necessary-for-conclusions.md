@@ -3,7 +3,7 @@ type: claim
 title: Achievement gap estimates are widely used to measure the effectiveness and fairness of the education system, so their accuracy and unbiasedness are necessary for appropriate conclusions
 description: Achievement gap estimates are widely used to measure the effectiveness and fairness of the education system, so their accuracy and unbiasedness are necessary for appropriate conclusions
 id: gap-estimates-accuracy-necessary-for-conclusions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

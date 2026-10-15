@@ -3,7 +3,7 @@ type: strategy
 id: five-considerations-protective-bta-implementation
 title: Five research-based considerations for implementing school-based BTA systems positively and protectively
 description: "The report distills the research into five considerations for policymakers so that BTA systems, \"which are now required in most states and districts, to be positive and protective of students and schools,\" rest on key..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

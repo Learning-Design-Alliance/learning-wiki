@@ -3,7 +3,7 @@ type: design
 id: shared-dialogue-foundation-methods
 title: "Shared-dialogue foundation methods: team-defined mission, behavioral standards, cultural intelligence, and self-assessments"
 description: "This pattern is the article's own enumerated set of methods for creating a student shared dialogue before and during an international interdisciplinary service-learning course."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

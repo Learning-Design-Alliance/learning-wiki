@@ -3,7 +3,7 @@ type: strategy
 id: measure-process-and-delayed-outcomes-ai-learning-research
 title: Study learning with AI by varying the interactional arrangement and measuring process and delayed reduced-support outcomes
 description: This strategy operationalizes Agentivism for research design.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

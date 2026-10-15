@@ -3,7 +3,7 @@ type: claim
 title: "An online word error rate checker correlates strongly with the study's segmental error rate measure, offering a quick pronunciation accuracy score"
 description: "An online word error rate checker correlates strongly with the study's segmental error rate measure, offering a quick pronunciation accuracy score"
 id: wer-tool-correlates-with-ser
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

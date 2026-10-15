@@ -3,7 +3,7 @@ type: design
 id: ousd-point-person-support-model
 title: OUSD open-access dual enrollment support model with the Point Person role
 description: "Oakland Unified School District's support model for open-access dual enrollment centers on the Point Person: \"a designated K–12 staff member in each dual enrollment classroom whose explicit role is to stay in proactiv..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks
 description: LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks
 id: llm-llm-agreement-exceeds-llm-human-classroom-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

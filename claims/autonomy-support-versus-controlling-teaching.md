@@ -3,7 +3,7 @@ type: claim
 title: Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students
 description: Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students
 id: autonomy-support-versus-controlling-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

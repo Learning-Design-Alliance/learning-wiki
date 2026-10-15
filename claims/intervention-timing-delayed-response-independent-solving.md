@@ -3,7 +3,7 @@ type: claim
 title: Effective intervention timing in AI-based instruction does not always mean immediate response; the interval between student difficulty and teacher intervention can allow independent problem solving
 description: Effective intervention timing in AI-based instruction does not always mean immediate response; the interval between student difficulty and teacher intervention can allow independent problem solving
 id: intervention-timing-delayed-response-independent-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

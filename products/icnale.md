@@ -4,7 +4,7 @@ id: icnale
 title: ICNALE
 description: ICNALE is a controlled learner corpus of argumentative English essays from Asian EFL learners and native English speakers, created and maintained by the International Corpus Network of Asian Learners of English.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

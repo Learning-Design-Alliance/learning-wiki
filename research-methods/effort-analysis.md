@@ -3,7 +3,7 @@ type: research-method
 id: effort-analysis
 title: Effort analysis
 description: "Effort analysis is a method for conducting \"effort-related individual score validation\" of achievement test data."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

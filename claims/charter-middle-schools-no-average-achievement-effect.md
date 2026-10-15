@@ -3,7 +3,7 @@ type: claim
 title: In the earlier National Evaluation of Charter Middle Schools, admission to about 30 charter middle schools produced no significant average effects on achievement, though some schools improved achievement
 description: In the earlier National Evaluation of Charter Middle Schools, admission to about 30 charter middle schools produced no significant average effects on achievement, though some schools improved achievement
 id: charter-middle-schools-no-average-achievement-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

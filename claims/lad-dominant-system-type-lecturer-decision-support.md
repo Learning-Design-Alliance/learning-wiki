@@ -3,7 +3,7 @@ type: claim
 title: Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment
 description: Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment
 id: lad-dominant-system-type-lecturer-decision-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Seven state AI guidance documents share seven major themes, including human-centered use, AI literacy, equity, and data privacy, though not all themes appear in all documents
 description: Seven state AI guidance documents share seven major themes, including human-centered use, AI literacy, equity, and data privacy, though not all themes appear in all documents
 id: seven-state-ai-guidance-seven-common-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

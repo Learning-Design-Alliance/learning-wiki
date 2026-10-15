@@ -3,7 +3,7 @@ type: claim
 title: "AI literacy instruction widened a confidence-knowledge gap: students' perceived understanding of AI tools increased significantly after instruction while actual knowledge improved minimally"
 description: "AI literacy instruction widened a confidence-knowledge gap: students' perceived understanding of AI tools increased significantly after instruction while actual knowledge improved minimally"
 id: ai-literacy-confidence-knowledge-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

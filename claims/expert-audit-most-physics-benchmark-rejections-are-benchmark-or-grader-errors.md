@@ -3,7 +3,7 @@ type: claim
 title: "Expert audit attributes 95.20% of audited benchmark rejections to benchmark or grader errors rather than model errors"
 description: "Expert audit attributes 95.20% of audited benchmark rejections to benchmark or grader errors rather than model errors"
 id: expert-audit-most-physics-benchmark-rejections-are-benchmark-or-grader-errors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

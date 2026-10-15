@@ -4,7 +4,7 @@ id: bridges-educator-site
 title: Bridges Educator Site
 description: The Bridges Educator Site is a web-based platform operated by The Math Learning Center that provides digital Bridges curriculum materials, interactive displays, and optional digital manipulatives for teachers and students.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Noninstructional cognitive-behavioral and behavioral methods programs are also effective
 description: Noninstructional cognitive-behavioral and behavioral methods programs are also effective
 id: noninstructional-cognitive-behavioral-programs-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

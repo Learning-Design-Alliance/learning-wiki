@@ -3,7 +3,7 @@ type: claim
 title: GPT models achieved high polarity agreement with instructors only for positive feedback on the Topic aspect, and could not reliably assess the other rubric aspects
 description: GPT models achieved high polarity agreement with instructors only for positive feedback on the Topic aspect, and could not reliably assess the other rubric aspects
 id: gpt-polarity-agreement-low-except-topic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

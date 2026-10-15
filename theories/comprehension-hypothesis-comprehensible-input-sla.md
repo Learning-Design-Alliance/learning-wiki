@@ -2,7 +2,7 @@
 type: theory
 title: "The Comprehension Hypothesis: comprehensible input as the crucial ingredient of second language acquisition"
 description: The Comprehension Hypothesis (CH) states that language is acquired when learners understand messages, i.e.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

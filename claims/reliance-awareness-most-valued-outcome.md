@@ -3,7 +3,7 @@ type: claim
 title: Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop
 description: Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop
 id: reliance-awareness-most-valued-outcome
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

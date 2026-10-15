@@ -3,7 +3,7 @@ type: strategy
 id: connect-ct-to-appalachian-ingenuity
 title: Connect computer science learning to Appalachian ingenuity and community identity to move it from novelty to change
 description: "The presentation's current guiding question is connecting computational thinking with what district leader Neil Arnett calls Appalachian ingenuity: asking \"Who are the community makers?"
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

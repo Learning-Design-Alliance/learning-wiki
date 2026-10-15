@@ -3,7 +3,7 @@ type: claim
 title: Neither feedback mode produced differential improvements in syntactic complexity; a general time effect appeared only in the first task
 description: Neither feedback mode produced differential improvements in syntactic complexity; a general time effect appeared only in the first task
 id: syntactic-complexity-no-differential-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

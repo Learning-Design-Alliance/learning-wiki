@@ -4,7 +4,7 @@ title: In web-based high-school distance education, e-teachers widened the objec
 description: In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning
 id: e-teachers-widen-object-toward-independent-learning
 aliases: [e-teacher-shift-to-facilitator-role]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

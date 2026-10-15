@@ -3,7 +3,7 @@ type: claim
 title: Teacher support directly and positively predicts learning engagement in AI-assisted English learning
 description: Teacher support directly and positively predicts learning engagement in AI-assisted English learning
 id: teacher-support-direct-effect-engagement-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

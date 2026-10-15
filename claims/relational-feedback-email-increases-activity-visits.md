@@ -3,7 +3,7 @@ type: claim
 title: "More than 30% of identified at-risk students visited previously unengaged learning activities within two weeks of the relational feedback email"
 description: "More than 30% of identified at-risk students visited previously unengaged learning activities within two weeks of the relational feedback email"
 id: relational-feedback-email-increases-activity-visits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

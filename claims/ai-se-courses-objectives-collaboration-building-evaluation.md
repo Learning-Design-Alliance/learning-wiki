@@ -3,7 +3,7 @@ type: claim
 title: Among AI-assisted software engineering courses with public objectives, human-AI collaboration, tool development, and evaluation are the most common learning-objective themes
 description: Among AI-assisted software engineering courses with public objectives, human-AI collaboration, tool development, and evaluation are the most common learning-objective themes
 id: ai-se-courses-objectives-collaboration-building-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: three-role-taxonomy-of-genai-operationalization-in-grading-workflows
 title: Three-role taxonomy of GenAI operationalization in grading workflows
 description: The review organizes how GenAI is operationalized in assessment workflows by the role the model plays.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

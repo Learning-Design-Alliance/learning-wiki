@@ -3,7 +3,7 @@ type: claim
 title: The article analyzes the consequences of explaining the various cognitive load effects in terms of element interactivity
 description: The article analyzes the consequences of explaining the various cognitive load effects in terms of element interactivity
 id: cognitive-load-effects-reexplained-via-element-interactivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

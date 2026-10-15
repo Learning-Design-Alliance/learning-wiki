@@ -3,7 +3,7 @@ type: claim
 title: District-provided instructional resources supported strong practices only when instruction-ready and tied to professional learning; other resources showed a null or negative relationship
 description: District-provided instructional resources supported strong practices only when instruction-ready and tied to professional learning; other resources showed a null or negative relationship
 id: instruction-ready-resources-tied-to-professional-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework
 description: Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework
 id: grades-better-predictor-than-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

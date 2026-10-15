@@ -3,7 +3,7 @@ type: claim
 title: SMART® tutoring produced statistically significant positive effects on oral reading fluency on both first- and second-grade passages
 description: SMART® tutoring produced statistically significant positive effects on oral reading fluency on both first- and second-grade passages
 id: smart-significant-oral-reading-fluency-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

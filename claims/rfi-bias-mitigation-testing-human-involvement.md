@@ -3,7 +3,7 @@ type: claim
 title: "Respondents proposed testing and monitoring (61.9%) and human involvement (22.7%) as leading mitigations for algorithmic bias"
 description: "Respondents proposed testing and monitoring (61.9%) and human involvement (22.7%) as leading mitigations for algorithmic bias"
 id: rfi-bias-mitigation-testing-human-involvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The early elementary math curriculum used by schools mattered for student achievement in first and second grade
 description: The early elementary math curriculum used by schools mattered for student achievement in first and second grade
 id: curriculum-choice-mattered-early-elementary-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

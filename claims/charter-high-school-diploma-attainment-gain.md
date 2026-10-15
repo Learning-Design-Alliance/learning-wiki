@@ -3,7 +3,7 @@ type: claim
 title: Charter middle school students who attend a charter high school are 7 to 15 percentage points more likely to earn a standard diploma than those who transition to a traditional public high school
 description: Charter middle school students who attend a charter high school are 7 to 15 percentage points more likely to earn a standard diploma than those who transition to a traditional public high school
 id: charter-high-school-diploma-attainment-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

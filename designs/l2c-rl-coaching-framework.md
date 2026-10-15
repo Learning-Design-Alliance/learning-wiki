@@ -3,7 +3,7 @@ type: design
 id: l2c-rl-coaching-framework
 title: "Learning to Coach (L2C): an RL pipeline combining adaptive blending, a skill-change PFA, and a surrogate reward"
 description: "L2C is the article's trainable coaching framework built on the Coaching Game formalism."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

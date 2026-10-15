@@ -3,7 +3,7 @@ type: strategy
 id: pbl-meta-analysis-best-practices
 title: "Follow transparent, replicable meta-analysis practices tailored to PBL: multiple databases, gray literature, full heterogeneity reporting, funnel plots with Egger's test, and RVE for dependent outcomes"
 description: "This strategy distills the article's recommendations for conducting a PBL meta-analysis."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

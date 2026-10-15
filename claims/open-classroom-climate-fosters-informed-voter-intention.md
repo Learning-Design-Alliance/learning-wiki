@@ -3,7 +3,7 @@ type: claim
 title: "An open classroom climate fosters adolescents' intention to be an informed voter"
 description: "An open classroom climate fosters adolescents' intention to be an informed voter"
 id: open-classroom-climate-fosters-informed-voter-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

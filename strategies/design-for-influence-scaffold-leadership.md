@@ -3,7 +3,7 @@ type: strategy
 id: design-for-influence-scaffold-leadership
 title: Design for influence, not simply participation, and scaffold without replacing partner leadership
 description: "The report's lessons for the field urge practitioners to go beyond representation: \"Inviting people to meetings, gathering feedback, or including representatives on a team does not necessarily create shared leadership..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

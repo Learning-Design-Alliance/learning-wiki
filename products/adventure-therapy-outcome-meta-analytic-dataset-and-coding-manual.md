@@ -4,7 +4,7 @@ id: adventure-therapy-outcome-meta-analytic-dataset-and-coding-manual
 title: Adventure therapy outcome meta-analytic dataset and coding manual
 description: A meta-analytic dataset and coding manual assembled by Daniel J.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

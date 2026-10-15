@@ -3,7 +3,7 @@ type: claim
 title: Shallow, copy-pasting engagement occurred but was not the dominant mode of GenAI Tutor use, and was lowest during exam preparation
 description: Shallow, copy-pasting engagement occurred but was not the dominant mode of GenAI Tutor use, and was lowest during exam preparation
 id: shallow-engagement-not-dominant-mode
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

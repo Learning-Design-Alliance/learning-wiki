@@ -3,7 +3,7 @@ type: claim
 title: Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs
 description: Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs
 id: minor-position-bias-and-partial-guessing-in-small-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: element
 id: five-million-student-summer-learning-patterns-analysis
 title: Analysis of typical summer learning patterns of five million students as a basis for COVID-19 loss projections
 description: "The paper bases its COVID-19 learning-loss projections partly on \"analyses of typical summer learning patterns of five million students,\" combining this empirical basis with \"estimates from prior literature\" on the im..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

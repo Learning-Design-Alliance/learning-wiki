@@ -3,7 +3,7 @@ type: claim
 title: "AI anxiety directly and negatively predicts college students' career decisions"
 description: "AI anxiety directly and negatively predicts college students' career decisions"
 id: ai-anxiety-negatively-predicts-career-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

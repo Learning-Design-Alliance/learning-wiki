@@ -3,7 +3,7 @@ type: strategy
 id: prosody-instruction-activities-strategy
 title: Teach prosody through dramatized contrasts, slashed passages, and modeled expression
 description: This strategy focuses instructional time on reading with expression.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

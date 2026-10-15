@@ -2,7 +2,7 @@
 type: theory
 title: "Three-phase framework of teacher roles in collaborative learning: before, during, and after"
 description: "The primer organizes the teacher's role in collaborative learning around three phases attributed to Kaendler et al."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

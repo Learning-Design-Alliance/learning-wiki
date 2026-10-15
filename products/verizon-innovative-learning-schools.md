@@ -4,7 +4,7 @@ id: verizon-innovative-learning-schools
 title: Verizon Innovative Learning Schools
 description: A Verizon and Digital Promise programme that equips Title I middle and high schools with devices, connectivity, digital-skills training, STEM curriculum, and dedicated learning-coach support.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

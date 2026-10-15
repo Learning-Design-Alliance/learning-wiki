@@ -3,7 +3,7 @@ type: claim
 title: Teacher-Principal Trust improved only marginally significantly, and Student-Teacher Trust, Program Coherence, Quality Professional Development, and Teacher-Parent Trust showed no significant differential change
 description: Teacher-Principal Trust improved only marginally significantly, and Student-Teacher Trust, Program Coherence, Quality Professional Development, and Teacher-Parent Trust showed no significant differential change
 id: coc-other-climate-measures-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

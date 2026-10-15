@@ -3,7 +3,7 @@ type: claim
 title: The frozen BETO-2019 design and the modern e5-base encoder are numerically close on Spanish, with no descriptive separation on either task
 description: The frozen BETO-2019 design and the modern e5-base encoder are numerically close on Spanish, with no descriptive separation on either task
 id: frozen-beto-and-e5-no-descriptive-separation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

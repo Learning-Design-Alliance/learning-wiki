@@ -3,7 +3,7 @@ type: claim
 title: Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable
 description: Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable
 id: choice-autonomy-rarely-tested-in-retention-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

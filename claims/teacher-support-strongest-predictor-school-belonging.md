@@ -3,7 +3,7 @@ type: claim
 title: Teacher support is the strongest predictor of school belonging
 description: Teacher support is the strongest predictor of school belonging
 id: teacher-support-strongest-predictor-school-belonging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

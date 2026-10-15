@@ -4,7 +4,7 @@ id: what-works-clearinghouse-wwc-database-of-reviewed-studies
 title: What Works Clearinghouse (WWC) database of reviewed studies
 description: A database maintained by the U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Rubin's socio-stylistics of writing: style as both a function of individual identity and the social matrix"
 description: "Socio-stylistics of writing is Donald Rubin's concept, introduced in Composing Social Identity in Written Language, holding that \"style is at once a function of the writer's idiosyncratic identity, and at the same tim..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

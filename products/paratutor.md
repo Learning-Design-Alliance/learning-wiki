@@ -4,7 +4,7 @@ id: paratutor
 title: ParaTutor
 description: ParaTutor is a multi-agent LLM-based home math word-problem tutoring system developed by LUO Lan and colleagues that supports parent–child tutoring with phase-specific scaffolding and interactive visual grounding.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

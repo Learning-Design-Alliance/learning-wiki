@@ -3,7 +3,7 @@ type: strategy
 id: evaluate-ai-sp-with-endpoint-and-process-outcomes
 title: Evaluate AI standardized patient systems with both endpoint and process-sensitive outcomes
 description: "The article recommends that \"Future evaluations of LLM-based simulated patient systems should therefore include both endpoint and process-sensitive outcomes.\" Diagnostic correctness should be complemented by measures..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

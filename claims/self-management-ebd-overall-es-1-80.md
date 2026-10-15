@@ -3,7 +3,7 @@ type: claim
 title: Academic self-management interventions for students with emotional and behavioral disorders show a large overall mean effect size of 1.80 across 22 studies
 description: Academic self-management interventions for students with emotional and behavioral disorders show a large overall mean effect size of 1.80 across 22 studies
 id: self-management-ebd-overall-es-1-80
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

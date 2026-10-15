@@ -3,7 +3,7 @@ type: claim
 title: Business cycle fluctuations have non-linear impacts on female graduate school enrollment
 description: Business cycle fluctuations have non-linear impacts on female graduate school enrollment
 id: nonlinear-unemployment-effects-female-graduate-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

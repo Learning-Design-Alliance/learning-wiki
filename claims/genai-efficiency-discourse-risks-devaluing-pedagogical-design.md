@@ -3,7 +3,7 @@ type: claim
 title: The current GenAI discourse promises efficiencies while automation of pedagogical design risks devaluing the educational process and undermining educator expertise
 description: The current GenAI discourse promises efficiencies while automation of pedagogical design risks devaluing the educational process and undermining educator expertise
 id: genai-efficiency-discourse-risks-devaluing-pedagogical-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: inject-exercise-platform-ixp
 title: INJECT Exercise Platform (IXP)
 description: An open-source platform developed by the INJECT team for delivering tabletop exercise scenarios, coordinating team interactions, and recording activity data for assessment.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Principals' attitudes toward and framing of the REACH evaluation system shaped teachers' engagement with the evaluation process"
 description: "Principals' attitudes toward and framing of the REACH evaluation system shaped teachers' engagement with the evaluation process"
 id: principal-attitudes-shape-teacher-evaluation-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

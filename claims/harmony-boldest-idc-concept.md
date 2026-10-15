@@ -3,7 +3,7 @@ type: claim
 title: "The commentary poses harmony as IDC's boldest and most challenging concept for Western readers"
 description: "The commentary poses harmony as IDC's boldest and most challenging concept for Western readers"
 id: harmony-boldest-idc-concept
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Double-dose algebra was discontinued before its benefits were documented, though subsequent research found long-term benefits
 description: Double-dose algebra was discontinued before its benefits were documented, though subsequent research found long-term benefits
 id: double-dose-algebra-discontinued-prematurely
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

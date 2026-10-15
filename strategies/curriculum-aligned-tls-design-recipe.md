@@ -3,7 +3,7 @@ type: strategy
 id: curriculum-aligned-tls-design-recipe
 title: Design science education materials through curriculum-aligned teaching-learning sequences specifying driving questions, competency-based objectives, scientific practices and student activities
 description: "The article recommends grounding science teaching-learning proposals in curriculum-aligned design: education materials should specify \"thedriving problem/questions, the learning objectives focused on competency acquis..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

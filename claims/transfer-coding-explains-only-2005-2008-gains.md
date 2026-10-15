@@ -3,7 +3,7 @@ type: claim
 title: Data coding issues could account for some graduation-rate improvement between 2005 and 2008, but not for improvements in subsequent years
 description: Data coding issues could account for some graduation-rate improvement between 2005 and 2008, but not for improvements in subsequent years
 id: transfer-coding-explains-only-2005-2008-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: active-genai-assignments-structured-reflection
 title: Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs
 description: The review recommends that educators craft assignments incorporating generative AI that require students to critique AI-generated text and reflect on what the AI did well or poorly, rather than banning the tools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

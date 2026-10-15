@@ -3,7 +3,7 @@ type: strategy
 id: explicit-prompting-instruction-before-llm-tasks
 title: Provide explicit prompting instruction and expert scaffolding before or during novice LLM activities
 description: "Based on the observed limits of trial-and-error prompting, the authors recommend that educators guide trial-and-error efforts through explicit instruction: encouraging more effective prompts using expert-informed tech..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

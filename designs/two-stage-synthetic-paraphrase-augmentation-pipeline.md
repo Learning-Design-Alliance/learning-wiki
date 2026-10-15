@@ -3,7 +3,7 @@ type: design
 id: two-stage-synthetic-paraphrase-augmentation-pipeline
 title: "Two-stage data preparation pipeline: rule-based synthetic generation plus LLM paraphrase augmentation without data leakage"
 description: "The pipeline first generates synthetic score-level-1 samples in the training partition only, using \"template-based generation (40%), quality degradation (35%), and a combined approach (25%)\", including truncation to 2..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models
 description: Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models
 id: gmm-two-clusters-delayed-start
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

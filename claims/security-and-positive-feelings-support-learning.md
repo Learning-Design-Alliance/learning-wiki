@@ -3,7 +3,7 @@ type: claim
 title: Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter
 description: Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter
 id: security-and-positive-feelings-support-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

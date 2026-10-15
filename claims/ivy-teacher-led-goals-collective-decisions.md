@@ -3,7 +3,7 @@ type: claim
 title: At Ivy Elementary, teachers lead grade-level goal setting and participate in school-level decisions, with the principal empowering staff
 description: At Ivy Elementary, teachers lead grade-level goal setting and participate in school-level decisions, with the principal empowering staff
 id: ivy-teacher-led-goals-collective-decisions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

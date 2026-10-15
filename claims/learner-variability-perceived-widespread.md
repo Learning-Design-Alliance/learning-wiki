@@ -3,7 +3,7 @@ type: claim
 title: Roughly eight in ten of the public, parents, and teachers perceive a great deal or good amount of learner variability across students and across school subjects
 description: Roughly eight in ten of the public, parents, and teachers perceive a great deal or good amount of learner variability across students and across school subjects
 id: learner-variability-perceived-widespread
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

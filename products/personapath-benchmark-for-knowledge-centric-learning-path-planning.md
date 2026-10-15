@@ -4,7 +4,7 @@ id: personapath-benchmark-for-knowledge-centric-learning-path-planning
 title: PersonaPath benchmark for Knowledge-Centric learning path planning
 description: A benchmark introduced by Yu Liu et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

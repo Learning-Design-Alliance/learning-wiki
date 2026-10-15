@@ -3,7 +3,7 @@ type: claim
 title: The eligible evidence base for FBA-based interventions consists entirely of single-case design studies, 17 of which met pilot standards
 description: The eligible evidence base for FBA-based interventions consists entirely of single-case design studies, 17 of which met pilot standards
 id: fba-evidence-base-single-case-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

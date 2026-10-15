@@ -3,7 +3,7 @@ type: strategy
 id: participation-driven-voice-oriented-event-settings
 title: Organize community education events with participation-driven and voice-oriented settings covering time, location, hybrid access, transportation, and feedback channels
 description: "The article summarizes its event-design considerations into two categories: \"participation-driven environment settings\", covering time, location, hybrid, transportation, and room arrangement to accommodate community m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

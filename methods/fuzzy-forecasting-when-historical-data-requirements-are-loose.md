@@ -3,7 +3,7 @@ type: method
 id: fuzzy-forecasting-when-historical-data-requirements-are-loose
 title: Use fuzzy forecasting when historical data are scarce but experience knowledge is available, because the method tolerates imperfect data
 description: "The article recommends fuzzy time series forecasting where accurate historical data are hard to obtain, because experience knowledge can be used \"from thevery beginning until theend of the whole forecasting process\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

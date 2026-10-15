@@ -3,7 +3,7 @@ type: claim
 title: Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality
 description: Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality
 id: species-eulogy-fosters-more-than-human-recognition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

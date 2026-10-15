@@ -3,7 +3,7 @@ type: strategy
 id: deliberate-counter-positioning-pedagogy
 title: "Pedagogy of deliberate counter-positioning: use generative AI in reverse so students interrogate generated positions"
 description: "The article's educational recommendation is to exploit the same systems in reverse rather than prohibit them: since the risk is the system's \"tendency to resolve instead of provoke\", teachers can have systems generate..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

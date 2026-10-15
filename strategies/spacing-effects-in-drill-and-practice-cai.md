@@ -3,7 +3,7 @@ type: strategy
 id: spacing-effects-in-drill-and-practice-cai
 title: Spacing effects are best manipulated within the drill-and-practice category of CAI
 description: The dissertation reviews five categories of computer assisted instruction — tutorials, drill-and-practice, simulation, instructional games, and problem-solving — and argues that while spaced practice and spaced review...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

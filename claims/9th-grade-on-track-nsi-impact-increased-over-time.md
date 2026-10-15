@@ -3,7 +3,7 @@ type: claim
 title: The impact of the 9th-grade on-track NSI appeared to increase over time
 description: The impact of the 9th-grade on-track NSI appeared to increase over time
 id: 9th-grade-on-track-nsi-impact-increased-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

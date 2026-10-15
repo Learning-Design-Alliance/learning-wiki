@@ -3,7 +3,7 @@ type: claim
 title: Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower
 description: Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower
 id: rq-higher-relevancy-lower-grounding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

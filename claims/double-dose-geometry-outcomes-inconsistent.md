@@ -3,7 +3,7 @@ type: claim
 title: "Evidence on the policy's effects on 10th-grade geometry outcomes was inconsistent across groups and years"
 description: "Evidence on the policy's effects on 10th-grade geometry outcomes was inconsistent across groups and years"
 id: double-dose-geometry-outcomes-inconsistent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

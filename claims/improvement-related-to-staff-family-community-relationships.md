@@ -3,7 +3,7 @@ type: claim
 title: School improvement is related to staff interactions, staff relationships with families, and ties to the broader school community
 description: School improvement is related to staff interactions, staff relationships with families, and ties to the broader school community
 id: improvement-related-to-staff-family-community-relationships
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

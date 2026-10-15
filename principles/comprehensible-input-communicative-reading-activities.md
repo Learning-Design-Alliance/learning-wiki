@@ -3,7 +3,7 @@ type: principle
 id: comprehensible-input-communicative-reading-activities
 title: "Adjust delivery to students' proficiency so language input is comprehensible during communicative reading activities"
 description: The article holds that in communicative activities the focus is not on particular grammatical forms but on experiencing the relationship between language use and task fulfilment, so delivery must be adjusted to studen...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Parents offer a unique perspective best captured by a distinct sixth essential, Parent Voice
 description: Parents offer a unique perspective best captured by a distinct sixth essential, Parent Voice
 id: parent-voice-distinct-sixth-essential
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

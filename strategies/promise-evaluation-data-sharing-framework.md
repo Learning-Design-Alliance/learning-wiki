@@ -3,7 +3,7 @@ type: strategy
 id: promise-evaluation-data-sharing-framework
 title: Design an evaluation and research framework with mapped data landscapes, program measures, and data-sharing agreements
 description: "Step 8 of the Guidebook directs teams to map their institution's data landscape, develop evaluation and research questions, identify program measures, establish data-sharing agreements, and share data with stakeholder..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

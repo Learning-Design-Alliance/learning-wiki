@@ -3,7 +3,7 @@ type: strategy
 id: arcs-attention-strategies
 title: "ARCS attention strategies: perceptual arousal, inquiry arousal and variability"
 description: "Attention is the first ARCS component, described as strategies \"for arousing and sustaining curiosity and interest\"."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

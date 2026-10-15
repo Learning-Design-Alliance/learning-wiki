@@ -3,7 +3,7 @@ type: claim
 title: The gender gap in deliberation disappears under unanimous rule with few women or majority rule with many women
 description: The gender gap in deliberation disappears under unanimous rule with few women or majority rule with many women
 id: gender-gap-disappears-rule-composition-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

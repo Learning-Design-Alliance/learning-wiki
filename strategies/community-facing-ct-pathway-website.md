@@ -3,7 +3,7 @@ type: strategy
 id: community-facing-ct-pathway-website
 title: Make the computational thinking pathway visible to the wider community through a public website
 description: "The report advises making the pathway \"visible not just to teachers but to the wider community.\" Talladega was the first of the three Core districts to develop a community-facing website that defined CT for parents an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

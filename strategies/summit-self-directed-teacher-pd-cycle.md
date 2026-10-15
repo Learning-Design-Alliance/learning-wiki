@@ -3,7 +3,7 @@ type: strategy
 id: summit-self-directed-teacher-pd-cycle
 title: Self-directed professional learning cycle in recurring two-week PD chunks with public goals and study groups
 description: The paper profiles Summit Public Schools, where every teacher participates in at least 40 days of professional development per year mirroring the student self-directed learning model.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

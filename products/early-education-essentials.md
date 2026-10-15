@@ -4,7 +4,7 @@ id: early-education-essentials
 title: Early Education Essentials
 description: Early Ed Essentials is a teacher- and parent-survey assessment system developed by the Ounce of Prevention Fund and the University of Chicago Consortium to measure organizational supports in school- and center-based early-childhood education settings.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: start-rd-without-formal-office
 title: "Start R&D without a formal office: a single school initiative paired with strategic research support can yield meaningful change"
 description: "Drawn from the rural district use case's lessons learned, this strategy holds that formal R&D infrastructure is not a prerequisite."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

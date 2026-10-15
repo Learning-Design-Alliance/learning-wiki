@@ -3,7 +3,7 @@ type: research-method
 id: mbp-kt
 title: MBP-KT
 description: MBP-KT is a three-component framework for knowledge tracing.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

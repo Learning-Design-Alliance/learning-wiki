@@ -3,7 +3,7 @@ type: claim
 title: "US AI regulation shifted dramatically in early 2025: the AI Bill of Rights and Executive Order 14110 were revoked and replaced by a deregulation-focused executive order"
 description: "US AI regulation shifted dramatically in early 2025: the AI Bill of Rights and Executive Order 14110 were revoked and replaced by a deregulation-focused executive order"
 id: us-ai-policy-shift-deregulation-2025
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers
 description: CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers
 id: cmo-impact-linked-intense-teacher-coaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

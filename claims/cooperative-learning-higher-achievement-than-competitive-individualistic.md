@@ -4,7 +4,7 @@ title: "Three practitioner digests report, second-hand, Johnson and Johnson's fi
 description: "Three practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning"
 id: cooperative-learning-higher-achievement-than-competitive-individualistic
 aliases: [johnson-meta-analysis-cooperative-achievement, cooperative-learning-meta-analysis-higher-achievement]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

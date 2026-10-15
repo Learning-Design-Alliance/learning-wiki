@@ -3,7 +3,7 @@ type: claim
 title: Students on the four-day school week have lower English language arts and math test scores over time than peers on five-day schedules
 description: Students on the four-day school week have lower English language arts and math test scores over time than peers on five-day schedules
 id: four-day-week-lower-ela-math-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

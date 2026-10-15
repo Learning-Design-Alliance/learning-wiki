@@ -3,7 +3,7 @@ type: claim
 title: Students most often report hybrid interaction modes with generative AI, with passive task delegation and verification-only use as smaller patterns
 description: Students most often report hybrid interaction modes with generative AI, with passive task delegation and verification-only use as smaller patterns
 id: hybrid-ai-interaction-modes-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

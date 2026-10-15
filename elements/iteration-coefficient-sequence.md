@@ -3,7 +3,7 @@ type: element
 id: iteration-coefficient-sequence
 title: Iteration-coefficient sequences as the controllable design element of stochastic approximation
 description: "In the procedure analyzed by the article, the iteration coefficients are the designable component: they scale each update of the estimate, and their properties determine whether the sequence converges."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

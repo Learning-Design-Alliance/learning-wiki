@@ -3,7 +3,7 @@ type: claim
 title: Course-level sample truncation can produce M-bias that helps explain difficult-to-interpret negative associations between LMS behaviour and student success
 description: Course-level sample truncation can produce M-bias that helps explain difficult-to-interpret negative associations between LMS behaviour and student success
 id: m-bias-gasevic-2016-lms-behaviour
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

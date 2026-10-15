@@ -3,7 +3,7 @@ type: claim
 title: Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabulary recall, in contrast to prior short-term findings
 description: Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabulary recall, in contrast to prior short-term findings
 id: generation-no-detriment-l2-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

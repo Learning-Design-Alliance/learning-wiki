@@ -3,7 +3,7 @@ type: strategy
 id: differentiated-stage-sensitive-t2i-pedagogy
 title: Differentiate T2I pedagogy by student profile and adopt a stage-sensitive approach to AI literacy and assessment in studio courses
 description: "Based on the finding that students with different competence levels and risk perceptions engage with T2I tools differently across task stages, the article recommends that instructors \"identify diﬀerent student proﬁles..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

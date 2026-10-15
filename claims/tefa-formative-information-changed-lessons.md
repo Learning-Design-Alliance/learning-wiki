@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information
 description: Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information
 id: tefa-formative-information-changed-lessons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

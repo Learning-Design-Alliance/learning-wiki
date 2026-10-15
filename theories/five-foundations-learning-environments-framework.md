@@ -2,7 +2,7 @@
 type: theory
 title: Five-foundations framework for learning environments
 description: "The paper classifies learning environments by five underlying foundations: psychological, pedagogical, technological, cultural, and pragmatic."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Despite longer AI-led sessions, the proportion of student-generated dialogue was markedly and significantly lower with the AI than with the teacher in both grades
 description: Despite longer AI-led sessions, the proportion of student-generated dialogue was markedly and significantly lower with the AI than with the teacher in both grades
 id: ai-conversational-dominance-lower-student-contribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

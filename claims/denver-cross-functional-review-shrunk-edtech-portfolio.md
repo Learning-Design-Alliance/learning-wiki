@@ -3,7 +3,7 @@ type: claim
 title: "Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars"
 description: "Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars"
 id: denver-cross-functional-review-shrunk-edtech-portfolio
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students
 description: Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students
 id: ninth-grade-gpa-predicts-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

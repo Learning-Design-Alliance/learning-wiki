@@ -3,7 +3,7 @@ type: strategy
 id: more-rigorous-studies-adult-learner-strategies
 title: Conduct more rigorous studies of instructional and support strategies for adult learners
 description: "The report's forward-looking recommendation is that the field conduct \"more rigorous studies\" of adult education strategies."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

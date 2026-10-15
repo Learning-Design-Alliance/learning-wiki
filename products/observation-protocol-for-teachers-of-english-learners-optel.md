@@ -4,7 +4,7 @@ id: observation-protocol-for-teachers-of-english-learners-optel
 title: Observation Protocol for Teachers of English Learners (OPTEL)
 description: "OPTEL is an observation protocol developed with the Region 15 Comprehensive Center for the California Department of Education to support standardized evaluation of English learners' English proficiency during academic learning and reclassification decisions."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

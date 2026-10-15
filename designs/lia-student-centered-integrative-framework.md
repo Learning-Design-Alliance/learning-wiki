@@ -3,7 +3,7 @@ type: design
 id: lia-student-centered-integrative-framework
 title: "LIA's student-centered organizational framework integrating teaching, research, and extension"
 description: The paper proposes an organizational framework in which a stable student-elected administrative board governs a dynamic portfolio of student-led projects, with faculty acting as mentors.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

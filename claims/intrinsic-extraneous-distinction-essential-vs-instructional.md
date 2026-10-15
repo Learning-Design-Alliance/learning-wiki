@@ -3,7 +3,7 @@ type: claim
 title: Intrinsic and extraneous load are distinguished by whether element interactivity is essential to the task or a function of instructional procedures
 description: Intrinsic and extraneous load are distinguished by whether element interactivity is essential to the task or a function of instructional procedures
 id: intrinsic-extraneous-distinction-essential-vs-instructional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

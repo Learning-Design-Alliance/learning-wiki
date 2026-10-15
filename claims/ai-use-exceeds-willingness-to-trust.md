@@ -3,7 +3,7 @@ type: claim
 title: "Heavy AI use coexists with low trust: two thirds of respondents in a 47-country survey use AI regularly while less than half are willing to trust it"
 description: "Heavy AI use coexists with low trust: two thirds of respondents in a 47-country survey use AI regularly while less than half are willing to trust it"
 id: ai-use-exceeds-willingness-to-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

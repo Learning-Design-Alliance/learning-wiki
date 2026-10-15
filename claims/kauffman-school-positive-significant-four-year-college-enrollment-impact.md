@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School has a positive and statistically significant impact on four-year college enrollment
 description: The Kauffman School has a positive and statistically significant impact on four-year college enrollment
 id: kauffman-school-positive-significant-four-year-college-enrollment-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

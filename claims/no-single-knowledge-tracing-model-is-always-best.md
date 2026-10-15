@@ -3,7 +3,7 @@ type: claim
 title: The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.
 description: The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.
 id: no-single-knowledge-tracing-model-is-always-best
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

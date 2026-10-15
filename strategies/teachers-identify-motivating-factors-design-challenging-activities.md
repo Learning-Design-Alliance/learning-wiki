@@ -3,7 +3,7 @@ type: strategy
 id: teachers-identify-motivating-factors-design-challenging-activities
 title: "Teachers should identify students' motivating factors and design interesting, challenging activities to build L2 self-efficacy"
 description: "Based on the finding that L2 motivation gives rise to L2 self-efficacy, the article recommends that teachers identify students' motivating factors and adapt methodologies, materials, and the learning environment to st..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

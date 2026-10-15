@@ -3,7 +3,7 @@ type: claim
 title: Small isolated effects on family conflict (negative) and parent-teacher joining (positive) appeared but were not enduring and may be spurious
 description: Small isolated effects on family conflict (negative) and parent-teacher joining (positive) appeared but were not enduring and may be spurious
 id: fast-isolated-small-effects-possibly-spurious
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "LLM-based essay grading is not fully reproducible: repeated ChatGPT sessions on the same submissions show only moderate consistency (Krippendorff's alpha 0.625)"
 description: "LLM-based essay grading is not fully reproducible: repeated ChatGPT sessions on the same submissions show only moderate consistency (Krippendorff's alpha 0.625)"
 id: llm-grading-session-variability-limited-reproducibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

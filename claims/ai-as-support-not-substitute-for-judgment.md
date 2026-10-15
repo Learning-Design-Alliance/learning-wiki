@@ -3,7 +3,7 @@ type: claim
 title: AI functioned primarily as a source of preliminary ideas and cognitive support rather than as a substitute for professional judgment, with students identifying contextual limitations of AI recommendations
 description: AI functioned primarily as a source of preliminary ideas and cognitive support rather than as a substitute for professional judgment, with students identifying contextual limitations of AI recommendations
 id: ai-as-support-not-substitute-for-judgment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

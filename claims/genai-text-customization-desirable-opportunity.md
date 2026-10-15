@@ -3,7 +3,7 @@ type: claim
 title: Educators broadly view AI-generated text customization to student interests and reading levels as a desirable opportunity, particularly for ELs
 description: Educators broadly view AI-generated text customization to student interests and reading levels as a desirable opportunity, particularly for ELs
 id: genai-text-customization-desirable-opportunity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

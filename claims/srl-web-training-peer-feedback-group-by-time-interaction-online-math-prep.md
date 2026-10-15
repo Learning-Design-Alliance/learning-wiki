@@ -3,7 +3,7 @@ type: claim
 title: In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains
 description: In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + dia...
 id: srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

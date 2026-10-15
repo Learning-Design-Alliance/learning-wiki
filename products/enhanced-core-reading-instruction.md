@@ -4,7 +4,7 @@ id: enhanced-core-reading-instruction
 title: Enhanced Core Reading Instruction
 description: Enhanced Core Reading Instruction is a structured literacy intervention programme with professional development materials for teachers, interventionists, and literacy leaders.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

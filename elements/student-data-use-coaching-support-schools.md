@@ -3,7 +3,7 @@ type: element
 id: student-data-use-coaching-support-schools
 title: "Coaching and support to schools for using student data to inform teachers' instruction"
 description: "This element is the intervention evaluated in the study: providing coaching and support to schools to help them use student data to inform teachers' instruction."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

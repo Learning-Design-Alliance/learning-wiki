@@ -3,7 +3,7 @@ type: claim
 title: "Within-year improvements in overall learning conditions predict large gains in students' I am Valued beliefs"
 description: "Within-year improvements in overall learning conditions predict large gains in students' I am Valued beliefs"
 id: cultivate-composite-predicts-valued-belief-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

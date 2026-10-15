@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites
 description: Many education evaluations have sufficient power to detect precise impacts only for relatively large subgroups of sites
 id: power-limited-to-large-site-subgroups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

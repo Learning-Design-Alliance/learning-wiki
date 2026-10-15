@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration"
 description: "ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration"
 id: chatgpt-support-or-superficial-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

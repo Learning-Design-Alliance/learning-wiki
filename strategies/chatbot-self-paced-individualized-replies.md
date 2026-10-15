@@ -3,7 +3,7 @@ type: strategy
 id: chatbot-self-paced-individualized-replies
 title: Use an educational chatbot to let learners study at their own pace with replies suited to their specific needs
 description: This strategy deploys a conversational agent inside an e-learning system so that each learner receives replies matched to their specific needs and can progress at their own speed.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

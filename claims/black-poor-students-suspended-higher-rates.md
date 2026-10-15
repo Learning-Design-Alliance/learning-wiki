@@ -3,7 +3,7 @@ type: claim
 title: Black and poor students are suspended from US schools at higher rates than White and nonpoor students
 description: Black and poor students are suspended from US schools at higher rates than White and nonpoor students
 id: black-poor-students-suspended-higher-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Only the Standard two-week-interval treatment showed a statistically significant improvement over the Baseline treatment
 description: Only the Standard two-week-interval treatment showed a statistically significant improvement over the Baseline treatment
 id: standard-two-week-spacing-significant-over-baseline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

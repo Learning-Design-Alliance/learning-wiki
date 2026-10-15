@@ -3,7 +3,7 @@ type: design
 id: gulf-of-envisioning-framework-prompting
 title: Gulf of Envisioning framework as a design lens for prompting instruction
 description: The article adopts the Gulf of Envisioning framework (Subramonyam et al.) to explain why learners may fail even when using powerful AI tools, and uses it to organize its intervention.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

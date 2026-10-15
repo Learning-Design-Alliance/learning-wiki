@@ -3,7 +3,7 @@ type: claim
 title: In its traditional treatment, germane cognitive load is essentially indistinguishable from intrinsic load and may be a redundant concept
 description: In its traditional treatment, germane cognitive load is essentially indistinguishable from intrinsic load and may be a redundant concept
 id: germane-load-indistinguishable-from-intrinsic-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

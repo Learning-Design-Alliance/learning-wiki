@@ -3,7 +3,7 @@ type: claim
 title: Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data
 description: Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data
 id: dkt-comparable-to-complex-kt-architectures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

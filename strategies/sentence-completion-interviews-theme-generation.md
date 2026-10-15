@@ -3,7 +3,7 @@ type: strategy
 id: sentence-completion-interviews-theme-generation
 title: Use sentence completion interviews to elicit learner concerns and generate group themes
 description: The guide describes sentence completion interviews as a way to elicit what concerns learners, especially when a group was formed around a convenient meeting time rather than a theme.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

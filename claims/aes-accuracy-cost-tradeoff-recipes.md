@@ -3,7 +3,7 @@ type: claim
 title: The four grading recipes exhibit an accuracy-cost tradeoff, with the most accurate recipe costing roughly five times the balanced alternative
 description: The four grading recipes exhibit an accuracy-cost tradeoff, with the most accurate recipe costing roughly five times the balanced alternative
 id: aes-accuracy-cost-tradeoff-recipes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: early-engagement-tailored-support-coordinated-rollout
 title: Engage campus stakeholders early, provide tailored ongoing support, and coordinate related initiatives when rolling out systemwide student success reforms
 description: "Lessons from EO 1110 implementation for future initiatives: \"provide early and ongoing communication and supports that are tailored to campus needs,\" \"support campuses to build capacity for cross-functional collaborat..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

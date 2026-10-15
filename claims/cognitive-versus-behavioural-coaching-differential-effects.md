@@ -3,7 +3,7 @@ type: claim
 title: Cognitive-only coaching increased deep and achieving learning approaches, academic self-concept, and reduced test anxiety and anxiety/depression, but academic performance declined relative to control; behavioural-only coaching decreased test anxiety and increased academic performance with no other effects.
 description: Cognitive-only coaching increased deep and achieving learning approaches, academic self-concept, and reduced test anxiety and anxiety/depression, but academic performance declined relative to control; behavioural-only...
 id: cognitive-versus-behavioural-coaching-differential-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

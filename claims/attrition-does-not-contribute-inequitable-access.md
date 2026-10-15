@@ -3,7 +3,7 @@ type: claim
 title: Teacher attrition patterns do not contribute to inequitable access to effective teachers
 description: Teacher attrition patterns do not contribute to inequitable access to effective teachers
 id: attrition-does-not-contribute-inequitable-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

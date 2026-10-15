@@ -3,7 +3,7 @@ type: claim
 title: NSCH and Wisconsin data track NHES homeschooling estimates until 2007, then diverge with a flat or slightly downward trend from 2007 to 2012
 description: NSCH and Wisconsin data track NHES homeschooling estimates until 2007, then diverge with a flat or slightly downward trend from 2007 to 2012
 id: nsch-wisconsin-diverge-from-nhes-after-2007
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

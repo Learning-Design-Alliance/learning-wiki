@@ -3,7 +3,7 @@ type: claim
 title: "Feedback quality did not differ by students' language status for either human evaluators or ChatGPT"
 description: "Feedback quality did not differ by students' language status for either human evaluators or ChatGPT"
 id: feedback-quality-no-language-status-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

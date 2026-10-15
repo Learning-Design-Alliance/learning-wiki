@@ -4,7 +4,7 @@ title: Multisyllabic word-reading instruction for struggling readers in grades 4
 description: Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies
 id: strong-evidence-multisyllabic-word-reading-instruction-grades-4-9
 aliases: [multisyllabic-word-reading-instruction-strong-evidence-grades-4-9]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

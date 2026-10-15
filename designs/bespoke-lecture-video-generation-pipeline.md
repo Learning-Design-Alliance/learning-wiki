@@ -3,7 +3,7 @@ type: design
 id: bespoke-lecture-video-generation-pipeline
 title: "Bespoke: a five-stage pipeline that regenerates a complete industry-personalized lecture video from a seed transcript"
 description: Bespoke is a directed acyclic pipeline that takes a seed lecture transcript, a learner profile (healthcare, finance, energy, or generic), and a target duration, and compiles a new lecture video with slides, narration,...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

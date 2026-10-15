@@ -3,7 +3,7 @@ type: claim
 title: "More than three of four ESSA plans (41 of 53, 77%) include a postsecondary readiness indicator as a scoring element in state accountability systems"
 description: "More than three of four ESSA plans (41 of 53, 77%) include a postsecondary readiness indicator as a scoring element in state accountability systems"
 id: 77-percent-essa-plans-postsecondary-readiness-indicator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

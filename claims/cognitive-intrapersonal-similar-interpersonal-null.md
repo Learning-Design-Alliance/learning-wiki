@@ -3,7 +3,7 @@ type: claim
 title: Game benefits are similar in magnitude for cognitive and intrapersonal outcomes, while the single interpersonal outcome was not significant
 description: Game benefits are similar in magnitude for cognitive and intrapersonal outcomes, while the single interpersonal outcome was not significant
 id: cognitive-intrapersonal-similar-interpersonal-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

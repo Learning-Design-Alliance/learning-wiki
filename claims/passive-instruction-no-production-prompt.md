@@ -3,7 +3,7 @@ type: claim
 title: Passive instructional events such as texts do not explicitly prompt students to produce written or spoken output
 description: Passive instructional events such as texts do not explicitly prompt students to produce written or spoken output
 id: passive-instruction-no-production-prompt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

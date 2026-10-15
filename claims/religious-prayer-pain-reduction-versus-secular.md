@@ -3,7 +3,7 @@ type: claim
 title: "Religious prayer reduced pain intensity by 11% and unpleasantness by 26% relative to secular prayer through non-opioid mechanisms"
 description: "Religious prayer reduced pain intensity by 11% and unpleasantness by 26% relative to secular prayer through non-opioid mechanisms"
 id: religious-prayer-pain-reduction-versus-secular
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

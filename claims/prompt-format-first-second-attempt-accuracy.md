@@ -3,7 +3,7 @@ type: claim
 title: Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts produce higher second-attempt accuracy
 description: Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts produce higher second-attempt accuracy
 id: prompt-format-first-second-attempt-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

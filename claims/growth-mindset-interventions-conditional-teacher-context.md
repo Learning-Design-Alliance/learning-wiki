@@ -3,7 +3,7 @@ type: claim
 title: Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context
 description: Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context
 id: growth-mindset-interventions-conditional-teacher-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

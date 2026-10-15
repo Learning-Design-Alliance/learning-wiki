@@ -3,7 +3,7 @@ type: element
 id: cmp2-revised-visuals-lesson
 title: Revised CMP2 mathematics lesson visuals based on signaling, contiguity, and coherence principles
 description: The revised lesson was derived from Connected Mathematics 2 (CMP2) and covered graphing independent and dependent variables, set in a story about planning a long-distance bike trip.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

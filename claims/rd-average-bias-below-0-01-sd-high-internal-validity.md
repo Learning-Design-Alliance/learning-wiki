@@ -3,7 +3,7 @@ type: claim
 title: Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff
 description: Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff
 id: rd-average-bias-below-0-01-sd-high-internal-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

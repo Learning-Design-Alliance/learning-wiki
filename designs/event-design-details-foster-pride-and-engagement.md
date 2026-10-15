@@ -3,7 +3,7 @@ type: design
 id: event-design-details-foster-pride-and-engagement
 title: Event design details—offsite venues, elevated BIPOC vendors, compelling speakers, and intentional branding—foster pride and engagement
 description: Across the LEAs, Design Teams emphasized event-planning details that make events feel high in quality and foster pride and value among participating teachers.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

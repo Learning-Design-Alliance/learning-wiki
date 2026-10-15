@@ -3,7 +3,7 @@ type: claim
 title: Peer programs, including cooperative learning strategies, were concluded to be the single most effective school-based approach for reducing youth alcohol and drug use
 description: Peer programs, including cooperative learning strategies, were concluded to be the single most effective school-based approach for reducing youth alcohol and drug use
 id: peer-programs-most-effective-drug-use-prevention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

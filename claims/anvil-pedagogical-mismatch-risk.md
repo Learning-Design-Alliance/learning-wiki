@@ -3,7 +3,7 @@ type: claim
 title: Educators identify a risk of pedagogical mismatch when generated animations fail to preserve key constraints of the target concept
 description: Educators identify a risk of pedagogical mismatch when generated animations fail to preserve key constraints of the target concept
 id: anvil-pedagogical-mismatch-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

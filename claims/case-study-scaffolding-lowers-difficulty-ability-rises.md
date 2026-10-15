@@ -3,7 +3,7 @@ type: claim
 title: Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily
 description: Case study shows tutor scaffolding lowers estimated task difficulty after errors while student ability rises steadily
 id: case-study-scaffolding-lowers-difficulty-ability-rises
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

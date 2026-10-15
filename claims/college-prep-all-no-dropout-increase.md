@@ -4,7 +4,7 @@ title: Requiring all students to take college-prep ninth-grade courses did not i
 description: Requiring all students to take college-prep ninth-grade courses did not increase dropout or reduce graduation, including for low-ability students
 id: college-prep-all-no-dropout-increase
 aliases: [college-prep-mandate-no-dropout-increase]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

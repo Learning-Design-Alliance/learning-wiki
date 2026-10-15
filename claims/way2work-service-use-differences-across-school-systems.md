@@ -3,7 +3,7 @@ type: claim
 title: Service use differed across local school systems in Way2Work Maryland
 description: Service use differed across local school systems in Way2Work Maryland
 id: way2work-service-use-differences-across-school-systems
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Operational resolution records require workflow-semantic checks before interpretation: one administrator accounts for 72.7% of attributed human resolutions, most administrative closures occur in synchronous bulk events, and the accepted_derived field encodes resolver identity rather than acceptance"
 description: "Operational resolution records require workflow-semantic checks before interpretation: one administrator accounts for 72.7% of attributed human resolutions, most administrative closures occur in synchronous bulk event..."
 id: resolution-record-semantics-attribution-and-coding-caveats
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

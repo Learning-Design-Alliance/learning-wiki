@@ -3,7 +3,7 @@ type: claim
 title: Students hold cautious trust in the course-specific RAG system, expressing some level of trust but not treating it as an authoritative source and indicating they would verify important information
 description: Students hold cautious trust in the course-specific RAG system, expressing some level of trust but not treating it as an authoritative source and indicating they would verify important information
 id: cautious-trust-in-course-specific-rag
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

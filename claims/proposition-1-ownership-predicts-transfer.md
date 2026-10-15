@@ -3,7 +3,7 @@ type: claim
 title: "Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone"
 description: "Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone"
 id: proposition-1-ownership-predicts-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: POG development approaches vary across states, with about a dozen state education agencies leading standardized statewide frameworks and other states leaving development to individual districts
 description: POG development approaches vary across states, with about a dozen state education agencies leading standardized statewide frameworks and other states leaving development to individual districts
 id: pog-development-approaches-vary-state-versus-district
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

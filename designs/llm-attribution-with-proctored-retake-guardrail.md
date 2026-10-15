@@ -3,7 +3,7 @@ type: design
 id: llm-attribution-with-proctored-retake-guardrail
 title: Allow LLM use with required attribution while increasing the weight of proctored assessments with retakes to guard against over-reliance
 description: Rather than banning or unconditionally allowing LLMs, the course permits their use with a required attribution statement on every code file, while grade weight shifts from programming assignments to proctored assessme...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

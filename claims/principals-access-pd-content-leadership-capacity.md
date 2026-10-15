@@ -3,7 +3,7 @@ type: claim
 title: Most U.S. elementary school principals report access to professional development content identified as important for building leadership capacity
 description: Most U.S.
 id: principals-access-pd-content-leadership-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

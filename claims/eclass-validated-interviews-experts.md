@@ -3,7 +3,7 @@ type: claim
 title: E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors
 description: E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors
 id: eclass-validated-interviews-experts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

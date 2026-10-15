@@ -2,7 +2,7 @@
 type: theory
 title: "MacIntyre et al.'s situational model of willingness to communicate in L2"
 description: The article describes WTC in a second language via the model of MacIntyre et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

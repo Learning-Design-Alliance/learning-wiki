@@ -3,7 +3,7 @@ type: claim
 title: Approximately two-thirds of teacher education students chose not to adopt GenAI in assessments even when its use was allowed
 description: Approximately two-thirds of teacher education students chose not to adopt GenAI in assessments even when its use was allowed
 id: two-thirds-students-declined-genai-when-allowed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

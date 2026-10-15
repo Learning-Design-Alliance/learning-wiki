@@ -3,7 +3,7 @@ type: claim
 title: "School value added can reflect school-specific influences on student achievement growth that are outside principals' control"
 description: "School value added can reflect school-specific influences on student achievement growth that are outside principals' control"
 id: value-added-reflects-influences-outside-principal-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

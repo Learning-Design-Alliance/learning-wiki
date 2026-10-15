@@ -3,7 +3,7 @@ type: claim
 title: Audit finds the stored context fields do not operationally distinguish contextual-scope Types C and D
 description: Audit finds the stored context fields do not operationally distinguish contextual-scope Types C and D
 id: context-type-c-d-not-operationally-distinguished
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

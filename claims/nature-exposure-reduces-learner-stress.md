@@ -3,7 +3,7 @@ type: claim
 title: Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress
 description: Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress
 id: nature-exposure-reduces-learner-stress
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

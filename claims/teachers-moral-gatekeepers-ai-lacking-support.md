@@ -3,7 +3,7 @@ type: claim
 title: Teachers are positioned as moral gatekeepers of AI use without adequate structural support
 description: Teachers are positioned as moral gatekeepers of AI use without adequate structural support
 id: teachers-moral-gatekeepers-ai-lacking-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

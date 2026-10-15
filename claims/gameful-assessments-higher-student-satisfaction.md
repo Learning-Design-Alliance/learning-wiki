@@ -3,7 +3,7 @@ type: claim
 title: Students taking gameful assessments report higher satisfaction than students taking traditional assessments in a Grades 3–7 mixed-methods study
 description: Students taking gameful assessments report higher satisfaction than students taking traditional assessments in a Grades 3–7 mixed-methods study
 id: gameful-assessments-higher-student-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

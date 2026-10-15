@@ -3,7 +3,7 @@ type: claim
 title: The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards
 description: The qualifying InsideTrack© study was an RCT across 17 lotteries in eight universities, with only seven 50/50 lotteries meeting WWC standards
 id: bettinger-baker-2014-rct-lottery-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

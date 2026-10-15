@@ -3,7 +3,7 @@ type: claim
 title: "The survey reports, citing Pu and Becker, that removing students' repeated interactions on the same exercises reduced AKT's performance to close to that of DKVMN."
 description: "The survey reports, citing Pu and Becker, that removing students' repeated interactions on the same exercises reduced AKT's performance to close to that of DKVMN."
 id: attentive-knowledge-tracing-benefits-from-repeated-interactions
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

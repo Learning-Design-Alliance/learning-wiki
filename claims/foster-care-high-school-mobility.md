@@ -3,7 +3,7 @@ type: claim
 title: Students in foster care change schools far more often than other students, with many moving multiple times within a school year
 description: Students in foster care change schools far more often than other students, with many moving multiple times within a school year
 id: foster-care-high-school-mobility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Academic achievement of students in foster care improved before the pandemic but lost all gains afterward, with only 19 percent meeting ELA standards in 2022–23
 description: Academic achievement of students in foster care improved before the pandemic but lost all gains afterward, with only 19 percent meeting ELA standards in 2022–23
 id: foster-care-achievement-pandemic-reversal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

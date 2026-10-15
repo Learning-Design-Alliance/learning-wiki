@@ -3,7 +3,7 @@ type: claim
 id: eight-day-review-improves-five-week-science-test-versus-one-day-review
 title: Eight-day review improved a five-week science test versus one-day review in a simulated university classroom
 description: In one simulated undergraduate science lecture, reviewing after eight days rather than one day improved delayed factual scores; the higher-level result depended on analysis choice.
-status: draft
+status: review
 evidence_strength: moderate
 generated:
   by: codex/unspecified

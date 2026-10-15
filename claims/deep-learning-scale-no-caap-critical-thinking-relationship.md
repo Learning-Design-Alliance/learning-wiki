@@ -3,7 +3,7 @@ type: claim
 title: "Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year"
 description: "Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year"
 id: deep-learning-scale-no-caap-critical-thinking-relationship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

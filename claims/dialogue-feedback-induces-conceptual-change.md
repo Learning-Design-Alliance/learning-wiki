@@ -3,7 +3,7 @@ type: claim
 title: Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment
 description: Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment
 id: dialogue-feedback-induces-conceptual-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

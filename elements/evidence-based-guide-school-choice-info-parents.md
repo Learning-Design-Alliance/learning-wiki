@@ -3,7 +3,7 @@ type: element
 id: evidence-based-guide-school-choice-info-parents
 title: Evidence-Based Guide on Presenting School Choice Information to Parents (with technical appendix)
 description: An evidence-based guide, published October 30, 2018 by the National Center for Education Evaluation and Regional Assistance, Institute of Education Sciences, U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

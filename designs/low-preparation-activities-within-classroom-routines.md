@@ -3,7 +3,7 @@ type: design
 id: low-preparation-activities-within-classroom-routines
 title: Supplemental literacy activities designed for low preparation and integration into existing classroom routines
 description: "The curriculum's activity format embeds supplemental skill work into ordinary classroom life."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

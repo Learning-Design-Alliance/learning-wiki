@@ -3,7 +3,7 @@ type: claim
 title: More frequent media consumption is associated with greater perceived ability to manage and critically analyze information
 description: More frequent media consumption is associated with greater perceived ability to manage and critically analyze information
 id: consumption-frequency-confidence-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ title: "Exposure to field trips to informal science institutions produces small 
 description: "Exposure to field trips to informal science institutions produces small positive effects on middle school students' standardized science test scores"
 id: field-trips-small-positive-science-score-effects
 aliases: [field-trips-positive-science-proficiency]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

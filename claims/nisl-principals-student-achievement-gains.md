@@ -3,7 +3,7 @@ type: claim
 title: "NISL-trained principals' schools outperformed comparable non-NISL schools in student achievement over a 4-year period"
 description: "NISL-trained principals' schools outperformed comparable non-NISL schools in student achievement over a 4-year period"
 id: nisl-principals-student-achievement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

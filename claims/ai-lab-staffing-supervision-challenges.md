@@ -3,7 +3,7 @@ type: claim
 title: Lab supervision, staffing, scheduling, and sustainability are key challenges for school AI labs
 description: Lab supervision, staffing, scheduling, and sustainability are key challenges for school AI labs
 id: ai-lab-staffing-supervision-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

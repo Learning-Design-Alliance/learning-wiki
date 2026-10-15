@@ -3,7 +3,7 @@ type: claim
 title: Seniors outperformed juniors in determining taxonomy and method-technique, but not in self-efficacy or strategy determination
 description: Seniors outperformed juniors in determining taxonomy and method-technique, but not in self-efficacy or strategy determination
 id: seniors-better-taxonomy-method-technique
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

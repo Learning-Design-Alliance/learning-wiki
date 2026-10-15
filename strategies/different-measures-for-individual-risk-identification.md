@@ -3,7 +3,7 @@ type: strategy
 id: different-measures-for-individual-risk-identification
 title: Use different measures or thresholds than the KEI cohort threshold when identifying individual students at risk of not reading proficiently
 description: Because the KEI threshold produced many individual-level misclassifications, the article advises districts seeking to target individual students to use other tools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

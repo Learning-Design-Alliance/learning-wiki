@@ -3,7 +3,7 @@ type: claim
 title: "Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument"
 description: "Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument"
 id: synchronous-suggestions-shape-subsequent-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

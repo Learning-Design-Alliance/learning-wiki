@@ -3,7 +3,7 @@ type: claim
 title: Fast Track produced a positive, statistically significant effect on emotional/internal behavior for children at risk of emotional disturbance after one year
 description: Fast Track produced a positive, statistically significant effect on emotional/internal behavior for children at risk of emotional disturbance after one year
 id: fast-track-positive-emotional-internal-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

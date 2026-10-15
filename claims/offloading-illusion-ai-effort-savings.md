@@ -3,7 +3,7 @@ type: claim
 title: People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated
 description: People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated
 id: offloading-illusion-ai-effort-savings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

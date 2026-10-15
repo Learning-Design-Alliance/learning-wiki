@@ -4,7 +4,7 @@ id: ada
 title: ADA
 description: ADA is a GDPR-compliant, GPT-4-based domain-specific AI chatbot developed by Cilia Ricarda Rücker for Socratic mathematics support, curriculum-grounded retrieval, and calculation verification in secondary education.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Algorithm aversion persists even among participants who saw the algorithm outperform the human forecaster
 description: Algorithm aversion persists even among participants who saw the algorithm outperform the human forecaster
 id: aversion-persists-after-seeing-model-outperform
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

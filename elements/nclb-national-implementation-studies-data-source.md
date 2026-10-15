@@ -3,7 +3,7 @@ type: element
 id: nclb-national-implementation-studies-data-source
 title: National Longitudinal Study of No Child Left Behind and Study of State Implementation of Accountability and Teacher Quality
 description: "Two national studies supplied the data for this report's trends on Title I parental choice options: the National Longitudinal Study of No Child Left Behind and the Study of State Implementation of Accountability and T..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

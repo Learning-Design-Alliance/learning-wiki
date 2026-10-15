@@ -3,7 +3,7 @@ type: principle
 id: behavioral-science-coursework-human-side-enterprise
 title: Require prospective industrial arts teachers to study behavioral and social science coursework on the human side of enterprise
 description: "The monograph recommends that teacher educators design or select courses describing \"the relationships ofmen with men, machines with machines, and men with machines,\" including fundamentals of human interaction at wor..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

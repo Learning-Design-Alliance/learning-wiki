@@ -3,7 +3,7 @@ type: claim
 title: Eight commonly cited determinant frameworks converge on five general types of implementation determinants
 description: Eight commonly cited determinant frameworks converge on five general types of implementation determinants
 id: five-determinant-types-across-eight-frameworks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: For Grade 5 students the AI peer elicited more factual statements but far fewer Feelings utterances than the teacher, with no significant differences in Findings or Future
 description: For Grade 5 students the AI peer elicited more factual statements but far fewer Feelings utterances than the teacher, with no significant differences in Findings or Future
 id: grade5-ai-facts-strong-feelings-weak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

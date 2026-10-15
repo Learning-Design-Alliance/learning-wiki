@@ -3,7 +3,7 @@ type: claim
 title: Integrating AI in CS assessment raises concerns about academic integrity, algorithmic bias, transparency, and ethical evaluation
 description: Integrating AI in CS assessment raises concerns about academic integrity, algorithmic bias, transparency, and ethical evaluation
 id: ai-assessment-integrity-bias-transparency-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

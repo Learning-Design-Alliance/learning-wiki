@@ -3,7 +3,7 @@ type: claim
 title: LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated
 description: LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated
 id: llm-as-judge-human-level-agreement-with-validation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

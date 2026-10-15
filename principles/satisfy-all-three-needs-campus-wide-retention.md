@@ -3,7 +3,7 @@ type: principle
 id: satisfy-all-three-needs-campus-wide-retention
 title: Retention initiatives should satisfy all three basic psychological needs across the whole campus environment
 description: "The article's central design recommendation is that retention initiatives be offered throughout the college environment and in each classroom, creating institutional cultures that satisfy students' needs for autonomy,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Limited school staff time is a crucial obstacle impeding cross-sector collaboration
 description: Limited school staff time is a crucial obstacle impeding cross-sector collaboration
 id: limited-staff-time-obstacle-collaboration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

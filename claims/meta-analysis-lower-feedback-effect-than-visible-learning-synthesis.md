@@ -3,7 +3,7 @@ type: claim
 title: Meta-analysis yields a lower feedback effect (d = 0.48) than the Visible Learning meta-synthesis (d = 0.79), with three synthesized values overestimated
 description: Meta-analysis yields a lower feedback effect (d = 0.48) than the Visible Learning meta-synthesis (d = 0.79), with three synthesized values overestimated
 id: meta-analysis-lower-feedback-effect-than-visible-learning-synthesis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

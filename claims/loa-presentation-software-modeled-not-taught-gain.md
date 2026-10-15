@@ -3,7 +3,7 @@ type: claim
 title: Presentation software adoption rose even though it was modeled by instructors rather than directly taught
 description: Presentation software adoption rose even though it was modeled by instructors rather than directly taught
 id: loa-presentation-software-modeled-not-taught-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

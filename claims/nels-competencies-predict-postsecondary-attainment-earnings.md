@@ -3,7 +3,7 @@ type: claim
 title: NELS indicators of math skills, work habits, leadership, teamwork and sports-related skills, and locus of control are related to postsecondary earnings and to the likelihood of attending and completing postsecondary education
 description: NELS indicators of math skills, work habits, leadership, teamwork and sports-related skills, and locus of control are related to postsecondary earnings and to the likelihood of attending and completing postsecondary e...
 id: nels-competencies-predict-postsecondary-attainment-earnings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

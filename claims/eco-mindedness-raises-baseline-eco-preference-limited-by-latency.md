@@ -3,7 +3,7 @@ type: claim
 title: Stronger eco-mindedness raises initial eco-mode preference, but this advantage diminishes as response latency increases
 description: Stronger eco-mindedness raises initial eco-mode preference, but this advantage diminishes as response latency increases
 id: eco-mindedness-raises-baseline-eco-preference-limited-by-latency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

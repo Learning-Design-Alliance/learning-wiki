@@ -3,7 +3,7 @@ type: strategy
 id: structured-notetaking-verbatim-context-review
 title: "Notetaking practices: verbatim statements, contextual notes, and 24-hour review"
 description: "The notetaker guidance instructs staff to 'document participants' statements in their own words' to ensure accuracy and provide direct quotes, to take 'contextual details such as participant demographics..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

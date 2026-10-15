@@ -3,7 +3,7 @@ type: claim
 title: SWPBIS training showed no significant effect on school-level third- and fifth-grade math and reading proficiency gains
 description: SWPBIS training showed no significant effect on school-level third- and fifth-grade math and reading proficiency gains
 id: swpbis-no-significant-achievement-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

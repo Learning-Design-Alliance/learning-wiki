@@ -3,7 +3,7 @@ type: claim
 title: A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion
 description: A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion
 id: map-cat-unidimensional-factor-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

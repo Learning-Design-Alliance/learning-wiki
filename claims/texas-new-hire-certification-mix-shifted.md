@@ -3,7 +3,7 @@ type: claim
 title: Newly hired Texas teachers with standard or intern certificates declined sharply over the past decade while uncertified new hires became the largest category
 description: Newly hired Texas teachers with standard or intern certificates declined sharply over the past decade while uncertified new hires became the largest category
 id: texas-new-hire-certification-mix-shifted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

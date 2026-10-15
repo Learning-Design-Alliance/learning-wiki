@@ -3,7 +3,7 @@ type: claim
 title: "Low-income children's test scores drop relative to higher-income peers during the summer months"
 description: "Low-income children's test scores drop relative to higher-income peers during the summer months"
 id: low-income-summer-test-score-drop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

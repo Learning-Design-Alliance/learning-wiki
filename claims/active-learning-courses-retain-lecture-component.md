@@ -3,7 +3,7 @@ type: claim
 title: Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy
 description: Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy
 id: active-learning-courses-retain-lecture-component
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

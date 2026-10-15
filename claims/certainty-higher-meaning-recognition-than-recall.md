@@ -3,7 +3,7 @@ type: claim
 title: L2 learners report higher certainty for meaning recognition than for meaning recall or form recognition of newly encountered words
 description: L2 learners report higher certainty for meaning recognition than for meaning recall or form recognition of newly encountered words
 id: certainty-higher-meaning-recognition-than-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

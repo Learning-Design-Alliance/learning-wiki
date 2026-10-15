@@ -2,7 +2,7 @@
 type: theory
 title: "Capacity versus motivation as competing explanations of individual differences in children's divergent ideational production"
 description: The article frames two competing explanations for why children differ on divergent-thinking tasks.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

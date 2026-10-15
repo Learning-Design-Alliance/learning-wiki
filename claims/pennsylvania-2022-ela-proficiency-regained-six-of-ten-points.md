@@ -3,7 +3,7 @@ type: claim
 title: By spring 2022, Pennsylvania grades 5–8 English language arts proficiency had regained 6 points of a 10-point pandemic-era drop relative to rates predicted for 2021
 description: By spring 2022, Pennsylvania grades 5–8 English language arts proficiency had regained 6 points of a 10-point pandemic-era drop relative to rates predicted for 2021
 id: pennsylvania-2022-ela-proficiency-regained-six-of-ten-points
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: In its first 3-year grant cycle, 21CSLA served approximately 8,300 California leaders through 333 communities of practice and localized professional learning offerings plus coaching for hundreds of leaders
 description: In its first 3-year grant cycle, 21CSLA served approximately 8,300 California leaders through 333 communities of practice and localized professional learning offerings plus coaching for hundreds of leaders
 id: 21csla-served-8300-leaders-first-cycle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

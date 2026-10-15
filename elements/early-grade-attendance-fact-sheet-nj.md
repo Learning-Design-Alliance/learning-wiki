@@ -3,7 +3,7 @@ type: element
 id: early-grade-attendance-fact-sheet-nj
 title: Fact sheet guiding districts and schools on early-grade attendance strategies
 description: The article is a fact sheet produced for districts and schools addressing chronic absenteeism in the early grades.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

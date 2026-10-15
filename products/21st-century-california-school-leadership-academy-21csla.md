@@ -4,7 +4,7 @@ id: 21st-century-california-school-leadership-academy-21csla
 title: 21st Century California School Leadership Academy (21CSLA)
 description: "A statewide California initiative administered by UC Berkeley's State Center in partnership with UCLA and the California Subject Matter Project that provides free professional learning, communities of practice, and coaching for PreK–12 educational leaders."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

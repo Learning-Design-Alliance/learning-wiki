@@ -3,7 +3,7 @@ type: element
 id: family-data-dive-school-inquiry-tools
 title: "School data tools for family and LSC inquiry: CIWP, 5Essentials, CPS School Profiles, To&Through, and ISBE report card"
 description: "The playbook's Data Dive section assembles six data sources parents and LSC members can use to learn about their school: the Continuous Improvement Work Plan, 5Essentials Survey results, CPS School Profiles (covering..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

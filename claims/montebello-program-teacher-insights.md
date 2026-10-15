@@ -3,7 +3,7 @@ type: claim
 title: In the Montebello blended science-language program, sentence frames limited student responses and teachers raised their expectations of English learners
 description: In the Montebello blended science-language program, sentence frames limited student responses and teachers raised their expectations of English learners
 id: montebello-program-teacher-insights
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

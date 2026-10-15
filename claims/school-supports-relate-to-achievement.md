@@ -3,7 +3,7 @@ type: claim
 title: School Supports Including Academic Press, Social Support, and Instructional Program Coherence Relate to Achievement
 description: School Supports Including Academic Press, Social Support, and Instructional Program Coherence Relate to Achievement
 id: school-supports-relate-to-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

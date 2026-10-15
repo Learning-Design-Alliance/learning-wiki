@@ -3,7 +3,7 @@ type: element
 id: student-needs-assessment-template-advising
 title: Student needs assessment template for designing comprehensive advising
 description: A sample template (Figure 1.2, from Achieving the Dream, 2018) that advising teams can use to begin evaluating the extent of student need on campus.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

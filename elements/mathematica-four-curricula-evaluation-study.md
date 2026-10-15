@@ -3,7 +3,7 @@ type: element
 id: mathematica-four-curricula-evaluation-study
 title: Mathematica national evaluation of four early elementary math curricula
 description: A large-scale, national study conducted by Mathematica Policy Research for the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

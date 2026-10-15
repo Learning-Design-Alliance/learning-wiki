@@ -3,7 +3,7 @@ type: strategy
 id: three-part-state-response-enrollment-decline
 title: "Three-part state response: align funding policy with enrollment and student needs, build local capacity for managing change, and conduct strategic communication and case-making"
 description: "The brief recommends that state leaders pursue three coordinated actions in response to sustained enrollment decline: aligning funding policy with changing enrollment and student needs, providing forecasting tools, te..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

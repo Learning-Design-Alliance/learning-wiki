@@ -3,7 +3,7 @@ type: claim
 title: Declarative memory shows no association with regular past tense learning under any CF type
 description: Declarative memory shows no association with regular past tense learning under any CF type
 id: declarative-memory-null-regular-past-tense
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

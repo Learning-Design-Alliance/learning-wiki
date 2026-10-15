@@ -3,7 +3,7 @@ type: strategy
 id: icap-prompts-template-professional-development
 title: Develop ICAP-based activity prompts, revise templates, and provide professional development for online course designers
 description: "The article recommends a set of implementable steps for raising active learning in asynchronous online courses: develop prompts using the ICAP Framework, signal lower-level activities differently in templates, keep a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

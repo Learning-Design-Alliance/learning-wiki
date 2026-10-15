@@ -3,7 +3,7 @@ type: claim
 title: "Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge"
 description: "Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge"
 id: ai-tutor-pace-adaptation-strengthened-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

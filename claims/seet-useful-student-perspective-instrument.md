@@ -3,7 +3,7 @@ type: claim
 title: The Student Electronic Exit Ticket (SEET) is useful for gathering student perspectives on coherence, relevance, and participation during OpenSciEd enactment
 description: The Student Electronic Exit Ticket (SEET) is useful for gathering student perspectives on coherence, relevance, and participation during OpenSciEd enactment
 id: seet-useful-student-perspective-instrument
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

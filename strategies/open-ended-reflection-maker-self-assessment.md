@@ -3,7 +3,7 @@ type: strategy
 id: open-ended-reflection-maker-self-assessment
 title: Use open-ended reflection questions as self-assessment in place of end-of-unit tests
 description: The paper recommends reflection as a powerful self-assessment tool usable for formal summative purposes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

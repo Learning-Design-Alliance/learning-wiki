@@ -3,7 +3,7 @@ type: claim
 title: "Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%"
 description: "Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%"
 id: rubric-wording-lower-grading-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

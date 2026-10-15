@@ -3,7 +3,7 @@ type: claim
 title: Educators reported the LVN strategy bank improved their understanding, use, and identification of strategies
 description: Educators reported the LVN strategy bank improved their understanding, use, and identification of strategies
 id: lvn-strategy-bank-improves-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

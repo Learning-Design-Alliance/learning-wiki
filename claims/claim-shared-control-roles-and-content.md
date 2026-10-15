@@ -3,7 +3,7 @@ type: claim
 title: During pairing, both teachers and students favored shared decision-making over full student control for roles, partners, and collaboration content.
 description: During pairing, both teachers and students favored shared decision-making over full student control for roles, partners, and collaboration content.
 id: claim-shared-control-roles-and-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Alder nearly doubled the proportion of enrolled residents from historically underrepresented groups, from 45% in 2010–11 to 83% in 2022–23"
 description: "Alder nearly doubled the proportion of enrolled residents from historically underrepresented groups, from 45% in 2010–11 to 83% in 2022–23"
 id: alder-underrepresented-enrollment-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

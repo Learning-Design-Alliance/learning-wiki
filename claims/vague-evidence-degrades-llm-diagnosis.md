@@ -3,7 +3,7 @@ type: claim
 title: LLM diagnostic performance drops sharply when student responses contain vague rather than evident evidence
 description: LLM diagnostic performance drops sharply when student responses contain vague rather than evident evidence
 id: vague-evidence-degrades-llm-diagnosis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

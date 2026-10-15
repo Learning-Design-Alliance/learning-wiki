@@ -3,7 +3,7 @@ type: claim
 title: In unguided GenAI collaboration, ethnic minority preparatory students’ strategy talk co-occurred with passive sharing and uncritical acceptance, forming a plan-and-paste loop
 description: In unguided GenAI collaboration, ethnic minority preparatory students’ strategy talk co-occurred with passive sharing and uncritical acceptance, forming a plan-and-paste loop
 id: unguided-strategy-talk-plan-and-paste-loop
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

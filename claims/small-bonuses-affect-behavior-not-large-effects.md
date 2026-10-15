@@ -3,7 +3,7 @@ type: claim
 title: Small career-ladder bonuses can affect teacher behavior without necessarily producing large effects
 description: Small career-ladder bonuses can affect teacher behavior without necessarily producing large effects
 id: small-bonuses-affect-behavior-not-large-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

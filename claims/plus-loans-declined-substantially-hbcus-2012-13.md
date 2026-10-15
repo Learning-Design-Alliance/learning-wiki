@@ -3,7 +3,7 @@ type: claim
 title: PLUS loan volume at HBCUs declined substantially in 2012-13 after credit standards were tightened
 description: PLUS loan volume at HBCUs declined substantially in 2012-13 after credit standards were tightened
 id: plus-loans-declined-substantially-hbcus-2012-13
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance"
 description: "LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance"
 id: llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Familiarity with ChatGPT is positively correlated with frequency of academic use
 description: Familiarity with ChatGPT is positively correlated with frequency of academic use
 id: chatgpt-familiarity-correlates-academic-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training
 description: In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training
 id: gamified-modules-beat-mimecast-phishing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

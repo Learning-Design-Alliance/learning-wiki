@@ -3,7 +3,7 @@ type: claim
 title: "K-means clustering of stage-level CACI observations yields four student-AI interaction patterns: Intensive Engagers, Fast Scanners, Traditionalists, and Frequent Switchers"
 description: "K-means clustering of stage-level CACI observations yields four student-AI interaction patterns: Intensive Engagers, Fast Scanners, Traditionalists, and Frequent Switchers"
 id: four-caci-interaction-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Off-the-shelf LLMs without domain-specific fine-tuning suggested true root causes among their zero-shot debugging recommendations for buggy analog circuits
 description: Off-the-shelf LLMs without domain-specific fine-tuning suggested true root causes among their zero-shot debugging recommendations for buggy analog circuits
 id: llms-zero-shot-true-root-cause-suggestions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

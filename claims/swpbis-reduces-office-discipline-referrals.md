@@ -3,7 +3,7 @@ type: claim
 title: SWPBIS reduces the odds of receiving an office discipline referral
 description: SWPBIS reduces the odds of receiving an office discipline referral
 id: swpbis-reduces-office-discipline-referrals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

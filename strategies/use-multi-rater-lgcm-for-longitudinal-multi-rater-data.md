@@ -3,7 +3,7 @@ type: strategy
 id: use-multi-rater-lgcm-for-longitudinal-multi-rater-data
 title: Use the multi-rater latent growth curve model when estimating growth from longitudinal multi-rater data
 description: The article recommends its model for researchers analyzing longitudinal data in which multiple raters evaluate psychological or social-emotional constructs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

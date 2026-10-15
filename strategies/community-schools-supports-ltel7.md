@@ -3,7 +3,7 @@ type: strategy
 id: community-schools-supports-ltel7
 title: Invest in additional whole-child supports for LTEL7 students, such as those provided by community schools
 description: The report recommends ensuring all students including those designated as LTEL7 have access to adequate schooling resources and necessary whole child supports.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

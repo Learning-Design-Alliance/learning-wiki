@@ -3,7 +3,7 @@ type: claim
 title: AI Tutors are positioned as cognition interpretation agents that read behavioural signals as indicators of underlying cognition structures over time
 description: AI Tutors are positioned as cognition interpretation agents that read behavioural signals as indicators of underlying cognition structures over time
 id: ai-tutor-cognition-interpretation-layer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

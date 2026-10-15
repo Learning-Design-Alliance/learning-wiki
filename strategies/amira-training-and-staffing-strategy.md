@@ -3,7 +3,7 @@ type: strategy
 id: amira-training-and-staffing-strategy
 title: Implement Amira with no special staff qualifications, roughly two hours of initial teacher training plus a one-hour follow-up data deep-dive
 description: "The summary states that \"No special qualifications or certification are required to implement Amira.\" Teachers typically receive 2 hours of in-person or remote training covering Amira Assessment, Amira Practice, loggi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

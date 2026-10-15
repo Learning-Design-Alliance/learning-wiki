@@ -3,7 +3,7 @@ type: strategy
 id: platform-instrumentation-open-research-recommendations
 title: Prioritize process-data instrumentation, open collaboration, and dissemination in learning platforms
 description: "In its conclusion the report recommends future directions for advancing platform-embedded research: platforms should \"prioritize the instrumentation of robust process data as a core feature,\" adopt standardized data f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

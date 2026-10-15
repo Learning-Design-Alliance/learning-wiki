@@ -3,7 +3,7 @@ type: claim
 title: "Lack of pricing transparency in the edtech market made OBC pricing decisions challenging, with pricing varying up to 40% between districts."
 description: "Lack of pricing transparency in the edtech market made OBC pricing decisions challenging, with pricing varying up to 40% between districts."
 id: edtech-pricing-transparency-challenges-obc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

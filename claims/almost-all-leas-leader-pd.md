@@ -3,7 +3,7 @@ type: claim
 title: Almost all LEAs planned professional development for principals and site leaders on early childhood topics
 description: Almost all LEAs planned professional development for principals and site leaders on early childhood topics
 id: almost-all-leas-leader-pd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: phoneme-awareness-instruction-in-kindergarten-beginning-reading
 title: Include phoneme awareness instruction in kindergarten beginning reading programs to improve early literacy outcomes
 description: "The article's stated implication is that \"Implications for improving beginning reading instruction\" follow from the finding that phoneme awareness training improved kindergarten children's phoneme segmentation, letter..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.
 description: AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.
 id: drafting-support-largest-ownership-decrease
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

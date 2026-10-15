@@ -4,7 +4,7 @@ id: trait-emotional-intelligence-questionnaire-teique-30-items-four-factors
 title: Trait Emotional Intelligence Questionnaire (TEIQue, 30 items, four factors)
 description: A 30-item self-report questionnaire measuring 15 facets of trait emotional intelligence grouped into Emotionality, Sociability, Well-Being, and Self-Control, developed by Petrides and colleagues.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

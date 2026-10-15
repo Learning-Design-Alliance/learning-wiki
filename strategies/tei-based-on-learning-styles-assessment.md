@@ -3,7 +3,7 @@ type: strategy
 id: tei-based-on-learning-styles-assessment
 title: "Adapt student assessment using technology-enhanced items developed based on students' learning styles"
 description: "The authors propose adapting student assessment by developing technology-enhanced items (TEIs) based on students' learning styles."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

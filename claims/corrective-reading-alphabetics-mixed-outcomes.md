@@ -3,7 +3,7 @@ type: claim
 title: Corrective Reading showed statistically significant positive effects on two of four alphabetics outcomes, but the alphabetics domain average effect was neither significant nor substantively important
 description: Corrective Reading showed statistically significant positive effects on two of four alphabetics outcomes, but the alphabetics domain average effect was neither significant nor substantively important
 id: corrective-reading-alphabetics-mixed-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

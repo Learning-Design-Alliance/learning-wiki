@@ -3,7 +3,7 @@ type: claim
 title: GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects
 description: GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects
 id: genai-llm-strongest-evidence-cognitive-communication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

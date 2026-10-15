@@ -3,7 +3,7 @@ type: claim
 title: CW-FIT has positive effects on student behavior, with strong WWC evidence across six studies in kindergarten through grade 10
 description: CW-FIT has positive effects on student behavior, with strong WWC evidence across six studies in kindergarten through grade 10
 id: cw-fit-positive-effects-student-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

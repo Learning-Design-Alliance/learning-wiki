@@ -3,7 +3,7 @@ type: claim
 title: "Fewer than half of secondary staff strongly agreed that their schools foster instructional equity (46%) or respect for diversity (45%)"
 description: "Fewer than half of secondary staff strongly agreed that their schools foster instructional equity (46%) or respect for diversity (45%)"
 id: fewer-than-half-staff-strongly-agree-equity-diversity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

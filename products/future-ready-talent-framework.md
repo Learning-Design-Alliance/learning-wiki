@@ -4,7 +4,7 @@ id: future-ready-talent-framework
 title: Future Ready Talent Framework
 description: A conceptual framework synthesized by Pretti et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

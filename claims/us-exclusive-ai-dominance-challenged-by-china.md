@@ -3,7 +3,7 @@ type: claim
 title: The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China
 description: The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China
 id: us-exclusive-ai-dominance-challenged-by-china
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

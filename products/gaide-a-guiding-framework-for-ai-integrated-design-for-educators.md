@@ -4,7 +4,7 @@ id: gaide-a-guiding-framework-for-ai-integrated-design-for-educators
 title: "GAIDE: A Guiding Framework for AI-Integrated Design for Educators"
 description: "Song et al.'s GAIDE framework guides K–12 teachers through AI understanding, iterative collaborative design and prototyping, and reflection on ethical application when creating AI-powered learning technologies."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

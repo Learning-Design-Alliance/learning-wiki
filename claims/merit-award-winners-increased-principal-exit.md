@@ -4,7 +4,7 @@ title: "Merit award winners were nearly three times as likely to leave their sch
 description: "Merit award winners were nearly three times as likely to leave their school the following year (16.9% vs 5.9%), mostly leaving the district"
 id: merit-award-winners-increased-principal-exit
 aliases: [merit-award-winners-twice-likely-to-exit-school]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

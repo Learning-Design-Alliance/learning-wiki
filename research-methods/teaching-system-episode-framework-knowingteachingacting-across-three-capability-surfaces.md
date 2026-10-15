@@ -3,7 +3,7 @@ type: research-method
 id: teaching-system-episode-framework-knowingteachingacting-across-three-capability-surfaces
 title: "Teaching-system episode framework: knowing–teaching–acting across three capability surfaces"
 description: "The article proposes that tutor-agent readiness requires three separable capability surfaces: Stage 1 pedagogical judgment (a bounded teacher decision from packaged evidence), Stage 2 situated tutoring (a history-dependent adaptive teaching policy over a multi-turn episode), and Stage 3 end-to-end L"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

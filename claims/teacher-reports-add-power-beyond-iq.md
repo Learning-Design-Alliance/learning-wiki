@@ -3,7 +3,7 @@ type: claim
 title: Teacher reports of noncognitive skills add predictive power beyond baseline IQ for most school outcomes
 description: Teacher reports of noncognitive skills add predictive power beyond baseline IQ for most school outcomes
 id: teacher-reports-add-power-beyond-iq
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

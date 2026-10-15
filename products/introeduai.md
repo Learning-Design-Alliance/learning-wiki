@@ -4,7 +4,7 @@ id: introeduai
 title: IntroEduAI
 description: IntroEduAI is an educational platform developed to deliver programming assignments, automatically evaluate student responses with large language models against instructor-authored rubrics, and generate response-level feedback and assignment-level reports.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

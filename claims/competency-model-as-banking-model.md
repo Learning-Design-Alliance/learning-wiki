@@ -3,7 +3,7 @@ type: claim
 title: The competency model of AI literacy functions as a Freirean banking model, training users to adapt rather than transform
 description: The competency model of AI literacy functions as a Freirean banking model, training users to adapt rather than transform
 id: competency-model-as-banking-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

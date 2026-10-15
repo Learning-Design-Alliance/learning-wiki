@@ -3,7 +3,7 @@ type: claim
 title: African-American students travel farther to attend magnet elementary schools than students of other ethnicities
 description: African-American students travel farther to attend magnet elementary schools than students of other ethnicities
 id: african-american-students-travel-farthest-to-magnets
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

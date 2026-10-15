@@ -3,7 +3,7 @@ type: claim
 title: Bayesian adaptive design benefits evaluators by allowing smaller and more informative studies
 description: Bayesian adaptive design benefits evaluators by allowing smaller and more informative studies
 id: bayesian-adaptive-smaller-informative-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

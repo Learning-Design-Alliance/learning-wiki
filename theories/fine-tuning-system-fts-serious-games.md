@@ -2,7 +2,7 @@
 type: theory
 title: "The Fine-Tuning System (FTS): a scaffolding regulator that generates and fades learning support in serious games"
 description: "The Fine-Tuning System (FTS) is the paper's proposed mechanism for calibrating scaffolding in serious games to learners' changing needs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

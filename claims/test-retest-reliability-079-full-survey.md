@@ -3,7 +3,7 @@ type: claim
 title: "The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good"
 description: "The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good"
 id: test-retest-reliability-079-full-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

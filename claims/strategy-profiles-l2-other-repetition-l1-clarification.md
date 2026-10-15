@@ -3,7 +3,7 @@ type: claim
 title: "Within-language strategy profiles differ: other-repetition prevails in the L2 while clarification requests prevail in the L1, with negative feedback least used"
 description: "Within-language strategy profiles differ: other-repetition prevails in the L2 while clarification requests prevail in the L1, with negative feedback least used"
 id: strategy-profiles-l2-other-repetition-l1-clarification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

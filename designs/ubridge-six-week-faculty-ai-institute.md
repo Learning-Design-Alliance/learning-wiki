@@ -3,7 +3,7 @@ type: design
 id: ubridge-six-week-faculty-ai-institute
 title: "UBRIDGE Institute: a six-week synchronous interdisciplinary faculty development program for ethical AI integration"
 description: "The UBRIDGE (Universal design, Bloom's taxonomy, Reflection, Integration, Design thinking, Growth mindset, Ethics) Institute was a six-session synchronous Zoom program, two hours weekly, for interdisciplinary faculty..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

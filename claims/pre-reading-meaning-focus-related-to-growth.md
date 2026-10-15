@@ -3,7 +3,7 @@ type: claim
 title: "Focusing students' attention on the meaning of a text before reading, such as introducing the topic and encouraging predictions, is among the practices most consistently related to student growth"
 description: "Focusing students' attention on the meaning of a text before reading, such as introducing the topic and encouraging predictions, is among the practices most consistently related to student growth"
 id: pre-reading-meaning-focus-related-to-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

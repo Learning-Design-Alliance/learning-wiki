@@ -3,7 +3,7 @@ type: claim
 title: Immediate unsupported application on a new passage showed no material-condition effect and no Proficiency × Material interaction, indicating no short-term dependence cost
 description: Immediate unsupported application on a new passage showed no material-condition effect and no Proficiency × Material interaction, indicating no short-term dependence cost
 id: no-short-term-dependence-cost-unsupported-application
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

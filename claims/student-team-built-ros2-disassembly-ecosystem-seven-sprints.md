@@ -3,7 +3,7 @@ type: claim
 title: In a winter 2025/2026 student project, a student team incrementally built a ROS2 software ecosystem for automated disassembly of brick assemblies across seven sprints
 description: In a winter 2025/2026 student project, a student team incrementally built a ROS2 software ecosystem for automated disassembly of brick assemblies across seven sprints
 id: student-team-built-ros2-disassembly-ecosystem-seven-sprints
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

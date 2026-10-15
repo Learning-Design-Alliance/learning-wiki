@@ -3,7 +3,7 @@ type: strategy
 id: decomposition-provincial-regional-school-planning
 title: Decomposition-based optimization separating provincial subproblems from regional coordination for large-scale school planning
 description: To improve scalability on large regional instances, the article introduces a decomposition-based optimization strategy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

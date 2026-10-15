@@ -3,7 +3,7 @@ type: claim
 title: "A Alabama coalition's provider-recruitment effort coincided with FCPK access rising from 7.9% to 21.4% of children in central Alabama between 2014 and 2018"
 description: "A Alabama coalition's provider-recruitment effort coincided with FCPK access rising from 7.9% to 21.4% of children in central Alabama between 2014 and 2018"
 id: bold-goals-coalition-fcpk-access-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

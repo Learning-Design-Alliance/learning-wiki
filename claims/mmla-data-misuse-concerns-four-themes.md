@@ -3,7 +3,7 @@ type: claim
 title: "Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity"
 description: "Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity"
 id: mmla-data-misuse-concerns-four-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

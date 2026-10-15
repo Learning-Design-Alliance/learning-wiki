@@ -3,7 +3,7 @@ type: strategy
 id: stakeholder-value-norm-matrix-strategy
 title: Use the stakeholder-by-value norm matrix as actionable rules for implementing ethical AIED
 description: "The review proposes its combined matrix as a practical tool: ethical norms are treated as \"actionable rules that could be used to achieve the desired behaviours described by the EVs\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

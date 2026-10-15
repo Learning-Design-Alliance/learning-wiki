@@ -4,7 +4,7 @@ id: math-with-matt
 title: Math with Matt
 description: Math with Matt is a CTAT-based intelligent tutoring system developed by Rief et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

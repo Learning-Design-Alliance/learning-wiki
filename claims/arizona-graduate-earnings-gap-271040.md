@@ -3,7 +3,7 @@ type: claim
 title: Arizona high school graduates are predicted to earn $271,040 more over a lifetime than dropouts, net of ability and motivation adjustments
 description: Arizona high school graduates are predicted to earn $271,040 more over a lifetime than dropouts, net of ability and motivation adjustments
 id: arizona-graduate-earnings-gap-271040
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

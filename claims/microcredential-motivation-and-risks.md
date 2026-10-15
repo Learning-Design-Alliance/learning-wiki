@@ -3,7 +3,7 @@ type: claim
 title: Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy
 description: Micro-credentials function as motivational aids and carry perceived risks around credibility, visibility, and privacy
 id: microcredential-motivation-and-risks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

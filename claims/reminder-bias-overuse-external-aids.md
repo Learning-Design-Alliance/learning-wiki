@@ -3,7 +3,7 @@ type: claim
 title: Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias
 description: Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias
 id: reminder-bias-overuse-external-aids
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

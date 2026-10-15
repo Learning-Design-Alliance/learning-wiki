@@ -3,7 +3,7 @@ type: theory
 title: Critical Thinking
 description: Critical thinking is the skill and disposition to analyze the reliability and validity of information — asking key questions, evaluating evidence, reasoning logically and objectively, and expressing conclusions clearly — applied across, not just within, a single subject.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

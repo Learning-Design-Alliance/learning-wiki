@@ -3,7 +3,7 @@ type: claim
 title: "A single difficulty-weighted SFT run on a vision-language base model reaches 61.64% overall accuracy on TutorBench, surpassing Gemini-3 Pro (58.52%)"
 description: "A single difficulty-weighted SFT run on a vision-language base model reaches 61.64% overall accuracy on TutorBench, surpassing Gemini-3 Pro (58.52%)"
 id: difficulty-weighted-sft-transfers-tutorbench
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

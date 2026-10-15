@@ -3,7 +3,7 @@ type: claim
 title: "Integration of psychological care appears most effective when it operates on multiple levels: routine distress assessment, frontline psycho-education and access to specialist interventions"
 description: "Integration of psychological care appears most effective when it operates on multiple levels: routine distress assessment, frontline psycho-education and access to specialist interventions"
 id: layered-psychological-care-model-diabetes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

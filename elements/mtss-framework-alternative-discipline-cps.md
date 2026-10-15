@@ -3,7 +3,7 @@ type: element
 id: mtss-framework-alternative-discipline-cps
 title: Multi-Tiered System of Supports (MTSS) framework for alternative discipline approaches in CPS
 description: CPS adopted a Multi-Tiered System of Supports (MTSS), also known as Response to Intervention (RtI), to guide the use of alternative discipline approaches.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

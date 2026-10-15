@@ -3,7 +3,7 @@ type: element
 id: four-test-score-principal-performance-measures
 title: Four principal performance measures based on student test scores
 description: "The study assessed four principal performance measures based on student test scores: average achievement, adjusted average achievement, school value-added, and adjusted school value-added."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

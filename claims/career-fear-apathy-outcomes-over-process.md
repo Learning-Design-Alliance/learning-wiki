@@ -3,7 +3,7 @@ type: claim
 title: "Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science"
 description: "Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science"
 id: career-fear-apathy-outcomes-over-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

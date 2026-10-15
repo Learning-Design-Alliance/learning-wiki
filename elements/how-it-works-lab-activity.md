@@ -3,7 +3,7 @@ type: element
 id: how-it-works-lab-activity
 title: How-it-works laboratory activities in which students discover underlying physics
 description: "A recurring laboratory activity type is planned in every lab edition: \"it was always planned in the lab at least an activity that we can call How it works.\" The authors report this activity type is very stimulating be..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Academically advanced students default to traditional feeder colleges: over 40 percent of four-year enrollees attend one of the six most popular CPS colleges"
 description: "Academically advanced students default to traditional feeder colleges: over 40 percent of four-year enrollees attend one of the six most popular CPS colleges"
 id: cps-advanced-students-default-feeder-colleges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

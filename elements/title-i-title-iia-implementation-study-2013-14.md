@@ -3,7 +3,7 @@ type: element
 id: title-i-title-iia-implementation-study-2013-14
 title: "Study of Title I and Title II-A implementation: nationally representative 2013-14 surveys of states, districts, principals, and teachers"
 description: "A national study of the implementation of policies promoted through Title I and Title II-A of the Elementary and Secondary Education Act, conducted as part of the project \"Improving America's Schools\" (time frame 2011..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Reading-as-the-reader perspective-taking improves young writers' revision and new drafting of descriptive essays in both 5th and 9th grade"
 description: "Reading-as-the-reader perspective-taking improves young writers' revision and new drafting of descriptive essays in both 5th and 9th grade"
 id: reading-as-the-reader-improves-revision-and-drafting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: anti-oppressive-co-design-practices
 title: "Anti-oppressive co-design meeting practices: land acknowledgements, shared roles, breakout discussions, multiple input modes"
 description: "The team adopted an explicitly anti-oppressive and anti-colonial approach to advisory group meetings, listing practices such as \"taking turns doing a personal land acknowledgement\", checking in as a group, sharing rol..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: state-investments-diversify-educator-workforce
 title: Multi-pronged state investments to diversify and retain the educator workforce
 description: The brief recommends states diversify the educator workforce through loan forgiveness and reimbursement programs to attract students of color into preparation programs, rigorous program approval standards compelling p...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

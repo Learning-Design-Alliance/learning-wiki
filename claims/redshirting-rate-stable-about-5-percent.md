@@ -3,7 +3,7 @@ type: claim
 title: "Kindergarten redshirting rates have remained around 5% of kindergarteners for roughly two decades"
 description: "Kindergarten redshirting rates have remained around 5% of kindergarteners for roughly two decades"
 id: redshirting-rate-stable-about-5-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

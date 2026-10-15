@@ -2,7 +2,7 @@
 type: theory
 title: "GBSRI framework: four stages with seven steps integrating SFL genre-based teaching-learning cycles with social-cognitive self-regulated learning phases"
 description: "GBSRI integrates three genre-based teaching-learning cycles (Macken-Horarik 2002, Derewianka 2003, Hyland 2004) with three self-regulated learning models (Schmitz & Wiese 2006; Schunk & Zimmerman 2007; Zimmerman 2013)."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

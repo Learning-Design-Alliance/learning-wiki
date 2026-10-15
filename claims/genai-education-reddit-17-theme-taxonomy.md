@@ -3,7 +3,7 @@ type: claim
 title: "GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records"
 description: "GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records"
 id: genai-education-reddit-17-theme-taxonomy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

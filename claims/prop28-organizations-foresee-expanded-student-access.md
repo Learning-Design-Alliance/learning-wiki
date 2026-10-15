@@ -3,7 +3,7 @@ type: claim
 title: The majority of surveyed arts organizations foresee Prop 28 AMS expanding student access to the arts
 description: The majority of surveyed arts organizations foresee Prop 28 AMS expanding student access to the arts
 id: prop28-organizations-foresee-expanded-student-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: method
 id: multimediatizing-didactized-content-direct-expression
 title: "Multimediatizing: express didactized content directly in multimedia form rather than digitizing pre-edited media"
 description: "The principle of multimediatizing \"consists in the direct expression of a didactized content into a multimedia form\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: strategy
 id: dig-into-item-level-survey-responses
 title: "Dig into item-level survey responses: examine how students and teachers answer specific questions as a starting point for learning and responding"
 description: "The brief's tip instructs leaders to \"dig into your data!"
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

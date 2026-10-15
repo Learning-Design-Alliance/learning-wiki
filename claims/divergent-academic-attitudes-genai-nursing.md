@@ -3,7 +3,7 @@ type: claim
 title: Nursing academics hold divergent attitudes toward GenAI, from scepticism to pragmatic acceptance, and worry it may replace rather than support student learning
 description: Nursing academics hold divergent attitudes toward GenAI, from scepticism to pragmatic acceptance, and worry it may replace rather than support student learning
 id: divergent-academic-attitudes-genai-nursing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

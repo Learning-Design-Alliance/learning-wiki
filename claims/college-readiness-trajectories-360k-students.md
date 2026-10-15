@@ -3,7 +3,7 @@ type: claim
 title: Large-scale longitudinal study measures middle school academic trajectories relative to college readiness benchmarks for more than 360,000 US students
 description: Large-scale longitudinal study measures middle school academic trajectories relative to college readiness benchmarks for more than 360,000 US students
 id: college-readiness-trajectories-360k-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

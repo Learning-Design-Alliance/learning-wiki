@@ -3,7 +3,7 @@ type: claim
 title: Evidence for teacher-side effects of AI-based instruction is mostly perceptual or indirect, and teacher orchestration was not directly associated with student achievement in the largest quantitative study
 description: Evidence for teacher-side effects of AI-based instruction is mostly perceptual or indirect, and teacher orchestration was not directly associated with student achievement in the largest quantitative study
 id: teacher-side-effects-mostly-perceptual-leite-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

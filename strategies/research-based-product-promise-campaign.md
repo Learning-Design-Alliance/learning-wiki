@@ -3,7 +3,7 @@ type: strategy
 id: research-based-product-promise-campaign
 title: Sign the Research-Based Product Promise to signal organizational commitment to research-based learning tools
 description: The Research-Based Product Promise is a public pledge campaign through which individuals and organizations signal commitment to developing, purchasing, and/or using learning tools that incorporate research in their de...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

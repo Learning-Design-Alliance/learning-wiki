@@ -3,7 +3,7 @@ type: claim
 title: Under busy or normal queue load, the New Student First (NSF) strategy significantly increases the percentage of students who receive help compared with FCFS, LWF, and VLWF
 description: Under busy or normal queue load, the New Student First (NSF) strategy significantly increases the percentage of students who receive help compared with FCFS, LWF, and VLWF
 id: nsf-strategy-increases-helped-students-busy-normal-queues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

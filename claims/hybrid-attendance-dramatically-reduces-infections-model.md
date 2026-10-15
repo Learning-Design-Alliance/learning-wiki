@@ -3,7 +3,7 @@ type: claim
 title: Hybrid approaches with smaller masked groups attending part-time dramatically reduce total likely infections, and most outside infections produce zero additional in-school infections
 description: Hybrid approaches with smaller masked groups attending part-time dramatically reduce total likely infections, and most outside infections produce zero additional in-school infections
 id: hybrid-attendance-dramatically-reduces-infections-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

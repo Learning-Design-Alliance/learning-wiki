@@ -3,7 +3,7 @@ type: claim
 title: Sierra Middle School staff attrition was cut nearly in half after the 2023–24 school year
 description: Sierra Middle School staff attrition was cut nearly in half after the 2023–24 school year
 id: sierra-staff-attrition-cut-nearly-in-half
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

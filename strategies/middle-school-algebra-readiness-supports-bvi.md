@@ -3,7 +3,7 @@ type: strategy
 id: middle-school-algebra-readiness-supports-bvi
 title: Begin targeted math support for BVI students in middle school, focusing on algebra-predictive topics with systematic differentiated instruction and inclusive assessment
 description: "The review recommends starting support for BVI students' propensity to lag in mathematics in middle school, because success in algebra is a predictor for future college and career success."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

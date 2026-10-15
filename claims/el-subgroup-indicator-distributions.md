@@ -3,7 +3,7 @@ type: claim
 title: "Indicator performance differs across EL subgroups: former and late-arriving ELs had stronger ninth-grade GPAs and attendance than never ELs, while long-term ELs without IEPs had much lower GPAs"
 description: "Indicator performance differs across EL subgroups: former and late-arriving ELs had stronger ninth-grade GPAs and attendance than never ELs, while long-term ELs without IEPs had much lower GPAs"
 id: el-subgroup-indicator-distributions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

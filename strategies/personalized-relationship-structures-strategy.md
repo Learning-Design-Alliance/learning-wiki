@@ -3,7 +3,7 @@ type: strategy
 id: personalized-relationship-structures-strategy
 title: Design schools for strong, personalized relationships through small learning communities, looping, advisory systems, teaching teams, and longer grade spans
 description: The report recommends designing schools so students are well-known and supported by creating small schools or learning communities within schools, looping teachers with students for more than one year, creating adviso...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

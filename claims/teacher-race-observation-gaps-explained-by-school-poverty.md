@@ -3,7 +3,7 @@ type: claim
 title: "Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores"
 description: "Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores"
 id: teacher-race-observation-gaps-explained-by-school-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

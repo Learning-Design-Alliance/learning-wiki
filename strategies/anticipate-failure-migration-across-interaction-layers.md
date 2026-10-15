@@ -3,7 +3,7 @@ type: strategy
 id: anticipate-failure-migration-across-interaction-layers
 title: Treat added output structure in AI problem solving systems as a tradeoff, anticipating failure migration across interaction layers
 description: "For designers of AI-assisted problem solving systems, the article recommends that adding structure to model outputs, such as constrained executable reasoning, \"should be understood as a tradeoff rather than an unambig..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

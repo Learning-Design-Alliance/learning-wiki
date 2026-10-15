@@ -3,7 +3,7 @@ type: claim
 title: Theoretical results establish content fidelity, rendering stability, entropy boundedness, and integrity convergence for the BAVD model
 description: Theoretical results establish content fidelity, rendering stability, entropy boundedness, and integrity convergence for the BAVD model
 id: bavd-theoretical-properties-fidelity-stability-convergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

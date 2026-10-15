@@ -3,7 +3,7 @@ type: claim
 title: "The TC effect grows with prime time: it is significantly larger at 300 ms than at 60 ms and 150 ms, and does not decrease with longer prime time"
 description: "The TC effect grows with prime time: it is significantly larger at 300 ms than at 60 ms and 150 ms, and does not decrease with longer prime time"
 id: tc-effect-increases-with-prime-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -4,7 +4,7 @@ title: Older entrants show higher kindergarten growth rates but lower growth rat
 description: Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades
 id: entry-age-growth-rate-tradeoff
 aliases: [school-entry-age-early-advantage-fades-by-later-grades]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

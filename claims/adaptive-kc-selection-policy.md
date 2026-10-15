@@ -3,7 +3,7 @@ type: claim
 title: "KT4EQG's education-value objective produces an adaptive KC-selection policy: weaker students are given better-mastered concepts and stronger students progressively more challenging ones"
 description: "KT4EQG's education-value objective produces an adaptive KC-selection policy: weaker students are given better-mastered concepts and stronger students progressively more challenging ones"
 id: adaptive-kc-selection-policy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

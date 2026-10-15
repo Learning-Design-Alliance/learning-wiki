@@ -3,7 +3,7 @@ type: claim
 title: CF treatment improved regular past tense performance on both GJT and EIT with large effects
 description: CF treatment improved regular past tense performance on both GJT and EIT with large effects
 id: cf-treatment-improves-regular-past-tense-gjt-eit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

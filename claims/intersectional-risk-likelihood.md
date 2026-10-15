@@ -3,7 +3,7 @@ type: claim
 title: The likelihood of being identified as at risk increases as historically underserved background characteristics intersect, with variation by gender and race/ethnicity, and school characteristics also matter
 description: The likelihood of being identified as at risk increases as historically underserved background characteristics intersect, with variation by gender and race/ethnicity, and school characteristics also matter
 id: intersectional-risk-likelihood
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

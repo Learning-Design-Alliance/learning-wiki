@@ -3,7 +3,7 @@ type: claim
 title: Among students overweight or obese at baseline who received both Get Fit and Prevention, BMI z-scores and overweight/obesity prevalence were reduced
 description: Among students overweight or obese at baseline who received both Get Fit and Prevention, BMI z-scores and overweight/obesity prevalence were reduced
 id: healthy-harlem-bmi-reduction-baseline-overweight-get-fit-prevention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Magnet schools typically show positive effects on achievement, graduation, motivation, and integration, though integration varies widely by district
 description: Magnet schools typically show positive effects on achievement, graduation, motivation, and integration, though integration varies widely by district
 id: magnet-schools-positive-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

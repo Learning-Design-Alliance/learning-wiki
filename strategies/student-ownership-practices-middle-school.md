@@ -3,7 +3,7 @@ type: strategy
 id: student-ownership-practices-middle-school
 title: Build student ownership through student-led conferences, town halls, and college and career readiness activities
 description: "The article recommends a bundle of student-agency practices: Student-Led Conferences in which all students engage \"in reflective academic discussions that promote ownership of their learning,\" monthly Town Halls to ad..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

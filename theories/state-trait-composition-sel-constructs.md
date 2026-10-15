@@ -2,7 +2,7 @@
 type: theory
 title: State-trait composition framework for social-emotional learning constructs
 description: "The page names an associated journal article, \"Examining the state-trait composition of social-emotional learning constructs: Implications for practice, policy, and evaluation\", which frames SEL competencies as constr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

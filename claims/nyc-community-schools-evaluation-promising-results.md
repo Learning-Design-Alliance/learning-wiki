@@ -3,7 +3,7 @@ type: claim
 title: An evaluation of the New York City community schools initiative found increased graduation rates, increased elementary and middle school mathematics achievement, and reductions in chronic absenteeism.
 description: An evaluation of the New York City community schools initiative found increased graduation rates, increased elementary and middle school mathematics achievement, and reductions in chronic absenteeism.
 id: nyc-community-schools-evaluation-promising-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

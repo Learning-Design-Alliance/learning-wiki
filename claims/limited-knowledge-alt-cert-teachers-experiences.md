@@ -3,7 +3,7 @@ type: claim
 title: Little is known about teachers certified through alternative certification programs and their experiences after certification
 description: Little is known about teachers certified through alternative certification programs and their experiences after certification
 id: limited-knowledge-alt-cert-teachers-experiences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

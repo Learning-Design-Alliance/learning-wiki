@@ -3,7 +3,7 @@ type: claim
 title: Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs
 description: Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs
 id: response-time-metadata-gap-social-emotional-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

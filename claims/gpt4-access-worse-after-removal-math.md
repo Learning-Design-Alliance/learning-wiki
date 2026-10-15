@@ -3,7 +3,7 @@ type: claim
 title: High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)
 description: High-school students given GPT-4 access solved more problems in the moment but performed worse than controls once the tool was removed (review attribution)
 id: gpt4-access-worse-after-removal-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

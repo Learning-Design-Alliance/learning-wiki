@@ -3,7 +3,7 @@ type: claim
 title: "A review of four major CALL journals found 50% of articles targeting 'advanced' proficiency levels had learner populations of only B1 level"
 description: "A review of four major CALL journals found 50% of articles targeting 'advanced' proficiency levels had learner populations of only B1 level"
 id: call-journals-advanced-claim-b1-populations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

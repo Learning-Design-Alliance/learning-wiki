@@ -3,7 +3,7 @@ type: claim
 title: "The report measures how novice teachers' effectiveness changes with experience relative to veteran teachers' change in effectiveness"
 description: "The report measures how novice teachers' effectiveness changes with experience relative to veteran teachers' change in effectiveness"
 id: dcps-impact-novice-versus-veteran-effectiveness-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

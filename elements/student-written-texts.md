@@ -4,7 +4,7 @@ id: student-written-texts
 title: Student-Written Texts
 description: Learner-authored texts used as supplementary reading resources in literacy instruction.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

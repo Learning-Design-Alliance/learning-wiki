@@ -3,7 +3,7 @@ type: claim
 title: In a large multi-site cluster randomized study, BARR improved PSAT/NMSQT math scores in one cohort but the second cohort performed similarly to comparison students
 description: In a large multi-site cluster randomized study, BARR improved PSAT/NMSQT math scores in one cohort but the second cohort performed similarly to comparison students
 id: barr-cluster-randomized-psat-math-mixed-cohorts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

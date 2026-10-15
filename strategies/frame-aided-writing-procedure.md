@@ -3,7 +3,7 @@ type: strategy
 id: frame-aided-writing-procedure
 title: Frame-aided writing procedure for authors of historical explanations
 description: A concrete writing recipe in which authors construct a frame map of the to-be-explained content, sorting notes into the slots of a Problem/Solution frame map to reveal the depth, breadth, and detail of available infor...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

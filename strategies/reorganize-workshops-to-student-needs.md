@@ -3,7 +3,7 @@ type: strategy
 id: reorganize-workshops-to-student-needs
 title: "Reorganize workshop modules in response to students' dynamic requirements as the semester unfolds"
 description: The article recommends dynamically adjusting GenAI workshop modules during a design studio semester.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

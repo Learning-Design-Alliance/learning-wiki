@@ -3,7 +3,7 @@ type: claim
 title: By macro cycle two, faculty reported no changes were needed to five of the six overarching standards, indicating acceptance
 description: By macro cycle two, faculty reported no changes were needed to five of the six overarching standards, indicating acceptance
 id: mc2-acceptance-five-of-six-standards
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

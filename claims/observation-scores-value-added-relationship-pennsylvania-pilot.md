@@ -3,7 +3,7 @@ type: claim
 title: Phase 1 of the Pennsylvania pilot examined whether teachers with higher classroom observation scores on specific professional practices tended to have greater value-added impacts on student achievement
 description: Phase 1 of the Pennsylvania pilot examined whether teachers with higher classroom observation scores on specific professional practices tended to have greater value-added impacts on student achievement
 id: observation-scores-value-added-relationship-pennsylvania-pilot
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

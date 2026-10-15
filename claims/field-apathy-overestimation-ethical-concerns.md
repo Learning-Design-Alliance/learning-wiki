@@ -3,7 +3,7 @@ type: claim
 title: "Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers"
 description: "Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers"
 id: field-apathy-overestimation-ethical-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

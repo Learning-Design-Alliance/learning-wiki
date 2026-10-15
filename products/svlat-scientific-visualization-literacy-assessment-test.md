@@ -4,7 +4,7 @@ id: svlat-scientific-visualization-literacy-assessment-test
 title: "SVLAT: Scientific Visualization Literacy Assessment Test"
 description: SVLAT is a standardized test developed by Patrick Phuoc Do et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

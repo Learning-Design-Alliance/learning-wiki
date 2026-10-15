@@ -3,7 +3,7 @@ type: strategy
 id: embed-wellbeing-strategies-daily-routines
 title: Embed practical stress-management and self-care strategies into existing daily routines
 description: "This strategy holds that prioritizing wellbeing is \"as much a shift of mindset as it is a change in behavior,\" and that educators should embed practical, accessible strategies into what they already do."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

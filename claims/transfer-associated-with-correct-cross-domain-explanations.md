@@ -3,7 +3,7 @@ type: claim
 title: Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain
 description: Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain
 id: transfer-associated-with-correct-cross-domain-explanations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

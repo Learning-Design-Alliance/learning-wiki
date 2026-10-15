@@ -3,7 +3,7 @@ type: claim
 title: Classical description logic cannot model non-crisp knowledge, and fuzzy and probabilistic DL extensions substantially increase reasoning complexity, limiting practical use
 description: Classical description logic cannot model non-crisp knowledge, and fuzzy and probabilistic DL extensions substantially increase reasoning complexity, limiting practical use
 id: dl-crisp-limitation-fuzzy-probabilistic-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

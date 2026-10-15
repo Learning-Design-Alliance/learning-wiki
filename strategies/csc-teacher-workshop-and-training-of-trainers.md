@@ -3,7 +3,7 @@ type: strategy
 id: csc-teacher-workshop-and-training-of-trainers
 title: One-day teacher workshop plus optional training-of-trainers for implementing CSC
 description: "The program's professional development model centers on a one-day workshop: \"Teachers participate in a one-day workshop in which they explore the program components, discuss ways to build caring and supportive environ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

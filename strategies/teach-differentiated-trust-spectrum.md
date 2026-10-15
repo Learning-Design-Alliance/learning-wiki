@@ -3,7 +3,7 @@ type: strategy
 id: teach-differentiated-trust-spectrum
 title: Teach differentiated trust in knowledge sources as part of the social-institutional dimension of science education
 description: The article argues that because students already navigate sources varying sharply in reliability and the generative model adds a source with opaque institutional backing, epistemic trust must be taught as a spectrum r...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

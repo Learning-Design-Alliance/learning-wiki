@@ -3,7 +3,7 @@ type: claim
 title: "AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building"
 description: "AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building"
 id: ai-agent-validation-rate-within-human-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

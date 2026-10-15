@@ -3,7 +3,7 @@ type: strategy
 id: gamifying-learning-materials-with-generative-ai
 title: Educators gamify learning materials or create learning games using generative AI with iterative, phased prompting
 description: The article proposes that teachers use LLMs and generative AI to gamify teaching or generate learning games, for instance by supporting generation of artwork, code, or game levels, or adapting popular board games such...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -2,7 +2,7 @@
 type: theory
 title: "Reflective Judgment Framework: a three-level developmental model of reasoning about ill-defined problems"
 description: "The Reflective Judgment Framework (RJF), developed by King and Kitchener, is \"a developmental model describing the changing patterns of reasoning over a person's life-span,\" assessed by analyzing interviews about ill-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

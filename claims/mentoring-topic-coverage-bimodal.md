@@ -3,7 +3,7 @@ type: claim
 title: "Topic coverage was bimodal: about a third of teachers received moderate or substantial guidance on all 10 topics while another third received guidance on three or fewer"
 description: "Topic coverage was bimodal: about a third of teachers received moderate or substantial guidance on all 10 topics while another third received guidance on three or fewer"
 id: mentoring-topic-coverage-bimodal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

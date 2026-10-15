@@ -3,7 +3,7 @@ type: claim
 title: No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments
 description: No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments
 id: vs-av-no-difference-observation-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

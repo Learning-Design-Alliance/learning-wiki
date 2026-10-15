@@ -3,7 +3,7 @@ type: claim
 title: The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear
 description: The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear
 id: vcp-rubric-lacked-calibration-and-clarity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

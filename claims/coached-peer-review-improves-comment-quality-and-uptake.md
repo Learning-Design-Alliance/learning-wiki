@@ -3,7 +3,7 @@ type: claim
 title: "Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback"
 description: "Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback"
 id: coached-peer-review-improves-comment-quality-and-uptake
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

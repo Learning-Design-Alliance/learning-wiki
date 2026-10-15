@@ -3,7 +3,7 @@ type: strategy
 id: bottom-up-codesign-top-down-sponsorship-genai-embedding
 title: "Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI"
 description: "The article's lessons-learned set for embedding GenAI at institutional scale: bring together diverse experts and facilitate their collaboration; secure senior institutional oversight so innovation aligns with prioriti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

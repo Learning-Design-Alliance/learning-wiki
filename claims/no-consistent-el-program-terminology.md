@@ -3,7 +3,7 @@ type: claim
 title: Districts use no consistent way of referring to English Learner programs and their offices
 description: Districts use no consistent way of referring to English Learner programs and their offices
 id: no-consistent-el-program-terminology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

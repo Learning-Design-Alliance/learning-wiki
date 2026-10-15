@@ -3,7 +3,7 @@ type: claim
 title: "Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction"
 description: "Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction"
 id: self-efficacy-positive-career-persistence-agriculture-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

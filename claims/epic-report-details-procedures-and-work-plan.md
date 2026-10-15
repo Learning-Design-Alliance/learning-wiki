@@ -3,7 +3,7 @@ type: claim
 title: The EPIC evaluation design report documents estimation procedures, partner-level operations, and a work plan
 description: The EPIC evaluation design report documents estimation procedures, partner-level operations, and a work plan
 id: epic-report-details-procedures-and-work-plan
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

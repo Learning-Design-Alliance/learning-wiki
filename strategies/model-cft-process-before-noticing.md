@@ -3,7 +3,7 @@ type: strategy
 id: model-cft-process-before-noticing
 title: Train and model the collaborative feedback process before students notice gaps (pre-noticing stage)
 description: Before students engage in while-noticing tasks, the teacher trains them by clearly explaining and modeling the CFT process several times, negotiating feedback goals, quality, time, and pace, and showing students how t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: editorial-policymaker-policy-engagement-practices
 title: Editorial mandates and policymaker practices to close the AI × SEL policy gap
 description: "For editors and reviewers, the review recommends that journal editorial boards mandate a \"Policy and Practice\" section in submissions, especially for studies claiming to guide educational stakeholders, and that papers..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

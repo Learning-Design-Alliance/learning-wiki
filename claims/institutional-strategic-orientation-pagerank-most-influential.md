@@ -3,7 +3,7 @@ type: claim
 title: Institutional strategic orientation most strongly influences the other enablers (PageRank 0.2430)
 description: Institutional strategic orientation most strongly influences the other enablers (PageRank 0.2430)
 id: institutional-strategic-orientation-pagerank-most-influential
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "The most common purpose of AI in instructional design is enhancing or assisting the design process itself (22 of 28 studies, 78.5%)"
 description: "The most common purpose of AI in instructional design is enhancing or assisting the design process itself (22 of 28 studies, 78.5%)"
 id: ai-mostly-enhances-assists-id-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

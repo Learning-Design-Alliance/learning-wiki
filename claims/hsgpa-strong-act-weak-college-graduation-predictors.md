@@ -3,7 +3,7 @@ type: claim
 title: HSGPAs have a strong, consistent relationship with college graduation that is larger than school effects, while ACT scores have a weak relationship smaller than high school effects with slopes varying by school
 description: HSGPAs have a strong, consistent relationship with college graduation that is larger than school effects, while ACT scores have a weak relationship smaller than high school effects with slopes varying by school
 id: hsgpa-strong-act-weak-college-graduation-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

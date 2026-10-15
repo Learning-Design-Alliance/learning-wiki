@@ -3,7 +3,7 @@ type: claim
 title: CPS eleventh-grade PSAE participation in 2004 fell below the NCLB 95 percent requirement even after counting alternative assessments
 description: CPS eleventh-grade PSAE participation in 2004 fell below the NCLB 95 percent requirement even after counting alternative assessments
 id: cps-psae-participation-below-nclb-95-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

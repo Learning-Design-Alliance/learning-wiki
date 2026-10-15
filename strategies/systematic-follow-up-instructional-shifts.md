@@ -3,7 +3,7 @@ type: strategy
 id: systematic-follow-up-instructional-shifts
 title: Design for long-range engagement and systematic follow-up in teacher professional learning
 description: "The report's fourth lesson holds that lasting pedagogical change is more likely when teachers can try new strategies, receive feedback, address challenges, and iteratively improve across multiple workshops."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

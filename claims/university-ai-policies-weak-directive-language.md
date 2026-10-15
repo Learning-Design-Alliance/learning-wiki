@@ -3,7 +3,7 @@ type: claim
 title: University AI policies overwhelmingly use weaker, suggestive language rather than strong directive language
 description: University AI policies overwhelmingly use weaker, suggestive language rather than strong directive language
 id: university-ai-policies-weak-directive-language
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

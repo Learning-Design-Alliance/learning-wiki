@@ -3,7 +3,7 @@ type: claim
 title: The brief argues the design-based approach has advantages relative to model-based approaches such as HLM
 description: The brief argues the design-based approach has advantages relative to model-based approaches such as HLM
 id: design-based-advantages-over-model-based-approaches
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: integrate-reason-feeling-self-relationship-concept-context
 title: Reconstruct Kohlberg-style moral education to integrate reason and feeling, self and relationship, and concept and context, using real problem situations instead of hypothetical dilemmas
 description: "The article's reconstruction of Kohlberg's moral education specifies four integrations drawn from Dewey: moral judgment \"involves reason and feeling, self and relationship, concept and context.\" Justice as a sole fixe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

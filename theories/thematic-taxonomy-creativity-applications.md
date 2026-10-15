@@ -2,7 +2,7 @@
 type: theory
 title: Thematic classification of creativity applications into creativity-based learning, problem-based learning, and differentiated instruction, plus method and approach categories
 description: The article organizes creativity-related applications along two axes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

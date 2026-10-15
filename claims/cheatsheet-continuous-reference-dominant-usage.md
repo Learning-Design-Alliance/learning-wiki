@@ -3,7 +3,7 @@ type: claim
 title: Most students used cheat sheets as an occasional backup or continuous aid rather than a one-time reference
 description: Most students used cheat sheets as an occasional backup or continuous aid rather than a one-time reference
 id: cheatsheet-continuous-reference-dominant-usage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Preservice teachers moved directly from attending to shaping more often than from attending to interpreting, and attending–interpreting links remained comparatively weak
 description: Preservice teachers moved directly from attending to shaping more often than from attending to interpreting, and attending–interpreting links remained comparatively weak
 id: attending-shaping-over-attending-interpreting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

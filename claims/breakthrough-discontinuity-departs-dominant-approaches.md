@@ -3,7 +3,7 @@ type: claim
 title: "Discontinuity: breakthrough innovations introduce new models that depart from dominant approaches"
 description: "Discontinuity: breakthrough innovations introduce new models that depart from dominant approaches"
 id: breakthrough-discontinuity-departs-dominant-approaches
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

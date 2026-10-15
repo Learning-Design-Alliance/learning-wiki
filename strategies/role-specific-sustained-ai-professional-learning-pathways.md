@@ -3,7 +3,7 @@ type: strategy
 id: role-specific-sustained-ai-professional-learning-pathways
 title: Invest in sustained, role-specific, discipline-specific professional learning and structured student AI literacy pathways across PK16
 description: The brief recommends ongoing, collaborative, subject-specific professional learning rather than one-off tool trainings, noting that using AI to support ELA instruction differs from math instruction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

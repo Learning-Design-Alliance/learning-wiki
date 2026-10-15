@@ -3,7 +3,7 @@ type: claim
 title: "National out-of-school suspension rates rose from 4% in 1973 to a peak of 7% in 2009–10, then fell to 5% by 2017–18 while remaining above 1970s levels"
 description: "National out-of-school suspension rates rose from 4% in 1973 to a peak of 7% in 2009–10, then fell to 5% by 2017–18 while remaining above 1970s levels"
 id: suspension-rates-rose-then-declined-1973-2018
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: ngss-implementation-leadership-framework
 title: NGSS Implementation Leadership Framework
 description: A framework for guiding leaders and leadership development in implementing the Next Generation Science Standards, developed for the NGSS education community.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

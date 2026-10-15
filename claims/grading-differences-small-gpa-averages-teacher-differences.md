@@ -3,7 +3,7 @@ type: claim
 title: "Differences in grading practices across teachers and schools are small relative to students' actual academic preparation, and GPAs average out those differences"
 description: "Differences in grading practices across teachers and schools are small relative to students' actual academic preparation, and GPAs average out those differences"
 id: grading-differences-small-gpa-averages-teacher-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

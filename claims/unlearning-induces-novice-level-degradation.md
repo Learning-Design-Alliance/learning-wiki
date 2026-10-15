@@ -3,7 +3,7 @@ type: claim
 title: Machine unlearning induces progressively stronger novice-level performance in an LLM teachable agent, with accuracy and F1 declining as the unlearning ratio increases
 description: Machine unlearning induces progressively stronger novice-level performance in an LLM teachable agent, with accuracy and F1 declining as the unlearning ratio increases
 id: unlearning-induces-novice-level-degradation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

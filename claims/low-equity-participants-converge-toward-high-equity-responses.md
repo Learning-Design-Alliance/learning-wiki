@@ -3,7 +3,7 @@ type: claim
 title: "Low-equity participants' simulation responses converged over successive simulations toward those of a high-equity reference group"
 description: "Low-equity participants' simulation responses converged over successive simulations toward those of a high-equity reference group"
 id: low-equity-participants-converge-toward-high-equity-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

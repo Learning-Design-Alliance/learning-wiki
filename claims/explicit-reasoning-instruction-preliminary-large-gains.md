@@ -3,7 +3,7 @@ type: claim
 title: Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)
 description: Preliminary explicit instruction in scientific reasoning patterns (e.g., IAT statement construction) produced much larger LCTSR gains (g = 0.68) than courses without such intervention (g = 0.11)
 id: explicit-reasoning-instruction-preliminary-large-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

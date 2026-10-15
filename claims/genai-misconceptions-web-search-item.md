@@ -3,7 +3,7 @@ type: claim
 title: Undergraduate students’ genAI knowledge contains specific confident misconceptions, most prevalently that AI chatbots perform web searches
 description: Undergraduate students’ genAI knowledge contains specific confident misconceptions, most prevalently that AI chatbots perform web searches
 id: genai-misconceptions-web-search-item
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

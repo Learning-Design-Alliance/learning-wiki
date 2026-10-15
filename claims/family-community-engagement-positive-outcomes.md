@@ -3,7 +3,7 @@ type: claim
 title: Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates
 description: Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates
 id: family-community-engagement-positive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

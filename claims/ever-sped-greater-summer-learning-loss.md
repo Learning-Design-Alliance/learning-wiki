@@ -3,7 +3,7 @@ type: claim
 title: Ever-SPED students lost more learning than never-SPED students during every summer from kindergarten through 4th grade
 description: Ever-SPED students lost more learning than never-SPED students during every summer from kindergarten through 4th grade
 id: ever-sped-greater-summer-learning-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

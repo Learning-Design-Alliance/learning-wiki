@@ -3,7 +3,7 @@ type: claim
 title: "A physics-education review reports one study (Ding et al. 2023) in which high-trust students agreed with ChatGPT's answers 100% of the time although those answers were 82% accurate"
 description: "Students' trust in ChatGPT was not equivalent to its scientific accuracy: high-trust students agreed with responses 100% of the time despite 82% mean response accuracy"
 id: trust-not-equivalent-to-ai-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

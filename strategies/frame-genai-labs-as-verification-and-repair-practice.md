@@ -3,7 +3,7 @@ type: strategy
 id: frame-genai-labs-as-verification-and-repair-practice
 title: Frame GenAI labs explicitly as verification and repair practice alongside prompting
 description: "The article's deployment strategy: at the start of the activity, students were explicitly warned that the code generation model was likely to make mistakes, then instructed to carefully read generated code and manuall..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: dynamic-learning-project
 title: Dynamic Learning Project
 description: A school-based instructional technology coaching programme run by Digital Promise that places full-time coaches in underserved schools to support teachers through iterative coaching cycles, modeling, co-teaching, and reflection.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

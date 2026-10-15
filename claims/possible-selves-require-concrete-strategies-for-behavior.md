@@ -3,7 +3,7 @@ type: claim
 title: The review reports that connecting possible selves to concrete strategies is an essential precursor to positive behavior, beyond merely holding possible selves
 description: The review reports that connecting possible selves to concrete strategies is an essential precursor to positive behavior, beyond merely holding possible selves
 id: possible-selves-require-concrete-strategies-for-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

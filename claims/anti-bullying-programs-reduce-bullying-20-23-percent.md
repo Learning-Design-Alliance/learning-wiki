@@ -3,7 +3,7 @@ type: claim
 title: "School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average"
 description: "School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average"
 id: anti-bullying-programs-reduce-bullying-20-23-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

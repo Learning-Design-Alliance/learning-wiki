@@ -3,7 +3,7 @@ type: claim
 title: Similar introductory lessons on the same topics were observed across grades separated by multiple years, indicating little curricular development
 description: Similar introductory lessons on the same topics were observed across grades separated by multiple years, indicating little curricular development
 id: similar-lessons-across-grades-little-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

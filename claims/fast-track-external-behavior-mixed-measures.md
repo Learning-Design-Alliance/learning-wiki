@@ -3,7 +3,7 @@ type: claim
 title: Fast Track showed positive, statistically significant effects on some external behavior measures after one year, with no significant differences on eight other measures
 description: Fast Track showed positive, statistically significant effects on some external behavior measures after one year, with no significant differences on eight other measures
 id: fast-track-external-behavior-mixed-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

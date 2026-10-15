@@ -3,7 +3,7 @@ type: strategy
 id: shared-support-plan-before-micro-credential-pilots
 title: Share a full support plan—vision, choices, incentives, supports, and timeline—before micro-credential implementation
 description: "Drawing on dozens of pilots across six states, CTQ's Jennifer Barnett reports that \"We find a great deal of success when a theory of action and a shared plan for support are present.\" The support plan should be shared..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

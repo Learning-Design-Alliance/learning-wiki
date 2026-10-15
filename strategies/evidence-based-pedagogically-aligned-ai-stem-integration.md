@@ -3,7 +3,7 @@ type: strategy
 id: evidence-based-pedagogically-aligned-ai-stem-integration
 title: "Integrate AI-enabled personalized STEM education with teacher participation, project-based collaboration, and cross-disciplinary task design, matched to students' cognitive developmental level"
 description: "The article advocates an \"evidence-based and pedagogically aligned integration of AI-enabled personalized STEM education\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Lower-performing LLMs show higher variance across pedagogy subject categories and peak in Technology and General categories
 description: Lower-performing LLMs show higher variance across pedagogy subject categories and peak in Technology and General categories
 id: low-performing-models-subject-variance-technology-general
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: training-plus-biweekly-coaching-and-site-visits-for-co-regulation
 title: Support facilitator uptake of co-regulation through in-person training plus biweekly coaching calls and classroom site visits
 description: "The study's support model paired initial and refresher in-person trainings for facilitators and program administrators with ongoing coaching: \"The study team also held biweekly coaching calls to provide ongoing suppor..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

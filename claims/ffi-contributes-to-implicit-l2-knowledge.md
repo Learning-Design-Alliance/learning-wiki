@@ -3,7 +3,7 @@ type: claim
 title: "Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production"
 description: "Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production"
 id: ffi-contributes-to-implicit-l2-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

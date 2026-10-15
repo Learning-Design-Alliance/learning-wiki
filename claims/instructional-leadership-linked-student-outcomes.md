@@ -3,7 +3,7 @@ type: claim
 title: "Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers"
 description: "Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers"
 id: instructional-leadership-linked-student-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

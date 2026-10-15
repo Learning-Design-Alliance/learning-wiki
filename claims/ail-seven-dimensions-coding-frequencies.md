@@ -3,7 +3,7 @@ type: claim
 title: Iterative coding of 27 AIL sources yields seven dimensions, with technical, application and critical-thinking dimensions most frequent and legal/regulatory knowledge rarest
 description: Iterative coding of 27 AIL sources yields seven dimensions, with technical, application and critical-thinking dimensions most frequent and legal/regulatory knowledge rarest
 id: ail-seven-dimensions-coding-frequencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Perry Preschool participants given opportunities to plan and make decisions were significantly less involved in drug use, delinquency, teen pregnancy, and school failure at age 19
 description: Perry Preschool participants given opportunities to plan and make decisions were significantly less involved in drug use, delinquency, teen pregnancy, and school failure at age 19
 id: perry-preschool-participation-reduced-problem-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

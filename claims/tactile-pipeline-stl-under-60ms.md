@@ -3,7 +3,7 @@ type: claim
 title: The pipeline generates print-ready binary STL files for all five chart types in under 60 ms on a 150×150 mm plate
 description: The pipeline generates print-ready binary STL files for all five chart types in under 60 ms on a 150×150 mm plate
 id: tactile-pipeline-stl-under-60ms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

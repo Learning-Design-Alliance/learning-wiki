@@ -3,7 +3,7 @@ type: claim
 title: Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study
 description: Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study
 id: robot-storytelling-higher-enjoyment-than-explanation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: On the final exam, high performers had more dominant strategy–time-management links than low performers, who showed dominant catching-up, ahead-with-errors, and video-revision links
 description: On the final exam, high performers had more dominant strategy–time-management links than low performers, who showed dominant catching-up, ahead-with-errors, and video-revision links
 id: final-exam-subtracted-network-group-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

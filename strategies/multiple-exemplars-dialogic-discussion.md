@@ -3,7 +3,7 @@ type: strategy
 id: multiple-exemplars-dialogic-discussion
 title: Use multiple exemplars with scaffolded discussion rather than mere provision, balancing teacher guidance against student co-construction
 description: The paper recommends providing multiple, different exemplars discussed with peers and teachers to uncover the range of quality indicators, rather than merely uploading exemplars with little discussion.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

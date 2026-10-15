@@ -3,7 +3,7 @@ type: claim
 title: PBIS effects on collegial leadership and institutional integrity were significant only when implementation fidelity was included in the model
 description: PBIS effects on collegial leadership and institutional integrity were significant only when implementation fidelity was included in the model
 id: pbis-collegial-leadership-fidelity-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

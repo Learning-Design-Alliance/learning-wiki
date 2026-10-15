@@ -3,7 +3,7 @@ type: claim
 title: "Teachers find Ecree's feedback less useful when it does not align with their typical content sequence and grading standards"
 description: "Teachers find Ecree's feedback less useful when it does not align with their typical content sequence and grading standards"
 id: ecree-feedback-less-useful-when-misaligned
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

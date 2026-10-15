@@ -3,7 +3,7 @@ type: claim
 title: Open Court Reading© has potentially positive effects on general reading achievement for beginning readers, with a small extent of evidence
 description: Open Court Reading© has potentially positive effects on general reading achievement for beginning readers, with a small extent of evidence
 id: open-court-reading-potentially-positive-general-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

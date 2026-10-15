@@ -3,7 +3,7 @@ type: design
 id: jordan-chatbot-unit-specific-gpt4o-agent
 title: "Jordan Chatbot: a unit-specific GPT-4o pedagogical support agent grounded in constructivist and socio-cultural learning theory"
 description: The Jordan Chatbot is a human-centred, pedagogical support agent built on the GPT-4o large language model and deployed as a unit-specific conversational agent within the LMS.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

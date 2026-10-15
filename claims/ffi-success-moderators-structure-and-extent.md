@@ -3,7 +3,7 @@ type: claim
 title: The success of form-focused instruction in building implicit knowledge depends on the choice of target structure and the extent of the instruction
 description: The success of form-focused instruction in building implicit knowledge depends on the choice of target structure and the extent of the instruction
 id: ffi-success-moderators-structure-and-extent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

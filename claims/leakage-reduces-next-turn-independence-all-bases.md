@@ -3,7 +3,7 @@ type: claim
 title: Answer-revealing tutor turns are followed by less independent student work on every tutor base, a deterministic judge-invariant result
 description: Answer-revealing tutor turns are followed by less independent student work on every tutor base, a deterministic judge-invariant result
 id: leakage-reduces-next-turn-independence-all-bases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

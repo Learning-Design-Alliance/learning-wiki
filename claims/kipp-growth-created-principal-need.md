@@ -3,7 +3,7 @@ type: claim
 title: "KIPP's rapid growth over two decades created an enormous need for strong principals to lead its schools"
 description: "KIPP's rapid growth over two decades created an enormous need for strong principals to lead its schools"
 id: kipp-growth-created-principal-need
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

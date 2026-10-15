@@ -3,7 +3,7 @@ type: claim
 title: Adapting situational crime prevention techniques in an Australian business capstone reportedly reduced misconduct cases from 183 to 27 within a year
 description: Adapting situational crime prevention techniques in an Australian business capstone reportedly reduced misconduct cases from 183 to 27 within a year
 id: situational-crime-prevention-reduced-misconduct-183-to-27
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

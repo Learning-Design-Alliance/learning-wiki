@@ -3,7 +3,7 @@ type: strategy
 id: link-implementation-and-impact-findings
 title: Link implementation and impact findings when analyzing and reporting impact studies
 description: "The guide recommends that analyses and reporting connect implementation data to impact estimates: it 'presents strategies for analysis and reporting about these topics, and also for linking implementation and impact f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

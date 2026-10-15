@@ -3,7 +3,7 @@ type: claim
 title: Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates
 description: Sufficient clinical feedback predicts TPA passing for preservice candidates but not for internship candidates
 id: clinical-feedback-predicts-tpa-passing-preservice-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

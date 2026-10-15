@@ -3,7 +3,7 @@ type: claim
 title: GenAI-assisted education produces significantly higher academic achievement than non-GenAI-assisted approaches (g = 0.40)
 description: GenAI-assisted education produces significantly higher academic achievement than non-GenAI-assisted approaches (g = 0.40)
 id: genai-higher-academic-achievement-g040
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

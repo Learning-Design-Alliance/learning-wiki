@@ -3,7 +3,7 @@ type: design
 id: sustainable-development-pedagogy-sdp-model
 title: Sustainable Development Pedagogy (SDP) AI model converting zero-paper mandates into design catalysts
 description: "The SDP model (Talebzadeh, 2025b) is an operational constraint framework that integrates \"mandatory paperless protocols and fully digitalized assessment workflows\" directly into the IAT model."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -4,7 +4,7 @@ id: after-school-teacher-research-labs
 title: After-School Teacher Research Labs
 description: "Study groups in which teacher-researchers and university-based researchers \"discuss research findings, and to plan, develop, and support innovations in instruction\"."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

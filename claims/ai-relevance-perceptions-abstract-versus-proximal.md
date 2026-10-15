@@ -3,7 +3,7 @@ type: claim
 title: Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications
 description: Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications
 id: ai-relevance-perceptions-abstract-versus-proximal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

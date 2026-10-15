@@ -3,7 +3,7 @@ type: claim
 title: Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups
 description: Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups
 id: challengge-thirteen-studies-excluded
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

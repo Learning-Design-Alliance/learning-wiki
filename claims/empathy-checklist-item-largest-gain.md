@@ -3,7 +3,7 @@ type: claim
 title: The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items
 description: The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items
 id: empathy-checklist-item-largest-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

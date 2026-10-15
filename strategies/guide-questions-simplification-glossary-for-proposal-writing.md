@@ -3,7 +3,7 @@ type: strategy
 id: guide-questions-simplification-glossary-for-proposal-writing
 title: Pair team-based discovery learning with detailed guiding questions, simplified texts, and glossaries of unfamiliar terms
 description: "The article recommends that team-based discovery learning \"operates more optimally if it is followed by relevant sets of deta il guiding questions reflecting the detailed content of each reputable journal articles for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

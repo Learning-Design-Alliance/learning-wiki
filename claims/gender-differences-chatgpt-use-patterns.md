@@ -3,7 +3,7 @@ type: claim
 title: "Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers"
 description: "Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers"
 id: gender-differences-chatgpt-use-patterns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

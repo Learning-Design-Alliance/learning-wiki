@@ -3,7 +3,7 @@ type: claim
 title: Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse
 description: Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse
 id: community-socratic-circle-built-comfort-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

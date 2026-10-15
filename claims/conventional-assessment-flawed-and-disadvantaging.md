@@ -3,7 +3,7 @@ type: claim
 title: Conventional higher-education assessment practices are argued to be flawed, compartmentalised, standardised and disadvantaging to many students
 description: Conventional higher-education assessment practices are argued to be flawed, compartmentalised, standardised and disadvantaging to many students
 id: conventional-assessment-flawed-and-disadvantaging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

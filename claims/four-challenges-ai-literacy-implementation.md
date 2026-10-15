@@ -3,7 +3,7 @@ type: claim
 title: "Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers"
 description: "Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers"
 id: four-challenges-ai-literacy-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

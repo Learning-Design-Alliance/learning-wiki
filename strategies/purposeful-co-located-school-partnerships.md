@@ -3,7 +3,7 @@ type: strategy
 id: purposeful-co-located-school-partnerships
 title: Establish purposeful partnerships among co-located schools with leaders invested in all students in the building
 description: The report identifies purposeful school partnerships, especially among two or more schools sharing a building, as an activity that spurred collaboration across district and charter schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

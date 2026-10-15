@@ -3,7 +3,7 @@ type: claim
 title: "Micro-interventions work by targeting the cognitive appraisal sequence: altering primary appraisal of threat and bolstering secondary appraisal of coping resources"
 description: "Micro-interventions work by targeting the cognitive appraisal sequence: altering primary appraisal of threat and bolstering secondary appraisal of coping resources"
 id: micro-intervention-targets-cognitive-appraisal-sequence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: A literature review investigated whether assessment metadata can provide information on SEL constructs
 description: A literature review investigated whether assessment metadata can provide information on SEL constructs
 id: literature-review-assessment-metadata-sel
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

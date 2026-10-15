@@ -3,7 +3,7 @@ type: claim
 title: A formal curriculum that includes citizenship projects and courses also appears to be an effective type of citizenship education
 description: A formal curriculum that includes citizenship projects and courses also appears to be an effective type of citizenship education
 id: formal-curriculum-citizenship-projects-courses-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

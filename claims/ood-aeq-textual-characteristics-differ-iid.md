@@ -3,7 +3,7 @@ type: claim
 title: AI-generated OOD question datasets are longer, syntactically deeper, and overlap less with Bloom trigger verbs than human-curated IID data
 description: AI-generated OOD question datasets are longer, syntactically deeper, and overlap less with Bloom trigger verbs than human-curated IID data
 id: ood-aeq-textual-characteristics-differ-iid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: A broadened, context-aware conception of scientific excellence encompassing resilience, mentorship, community impact, flexibility, and navigation of structural challenges
 description: The editorial proposes an alternative view of excellence that goes beyond narrow measurable indicators such as high-impact publications, citation scores, and institutional prestige.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

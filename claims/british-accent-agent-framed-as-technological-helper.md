@@ -3,7 +3,7 @@ type: claim
 title: A British-accented agent was framed as a background technological helper and othered rather than integrated as a peer
 description: A British-accented agent was framed as a background technological helper and othered rather than integrated as a peer
 id: british-accent-agent-framed-as-technological-helper
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

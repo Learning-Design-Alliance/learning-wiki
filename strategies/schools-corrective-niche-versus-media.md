@@ -3,7 +3,7 @@ type: strategy
 id: schools-corrective-niche-versus-media
 title: Schools should stake out a corrective niche that complements and balances event-centered media
 description: "The essay recommends that schools select a niche complementing other educative agencies: correcting distortions, supplying missing detail, and asserting the value of long-term trends where media attend to short-term e..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

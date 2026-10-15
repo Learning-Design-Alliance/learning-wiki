@@ -3,7 +3,7 @@ type: claim
 title: Ablating expert-informed structural components lowered LLM-judge scores on all dimensions, with largest drops in challenge quality, intent alignment, and domain grounding
 description: Ablating expert-informed structural components lowered LLM-judge scores on all dimensions, with largest drops in challenge quality, intent alignment, and domain grounding
 id: ablation-structural-components-lower-judge-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

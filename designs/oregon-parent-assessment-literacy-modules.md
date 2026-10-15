@@ -3,7 +3,7 @@ type: design
 id: oregon-parent-assessment-literacy-modules
 title: Oregon parent assessment-literacy modules
 description: "Oregon's Department of Education, working with Behavioral Research & Teaching at the University of Oregon and other partners, \"created five modules on topics such as the purpose of statewide assessments, how to make s..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

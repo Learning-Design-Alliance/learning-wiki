@@ -3,7 +3,7 @@ type: claim
 title: University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task
 description: University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task
 id: genai-literacy-groups-differ-in-ena-interaction-structure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

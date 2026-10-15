@@ -3,7 +3,7 @@ type: element
 id: amova-cluster-axiom-manifold-consistency
 title: AMOVA Cluster Axiom for Manifold Consistency
 description: The AMOVA Cluster Axiom for Manifold Consistency is a logical-mathematical rule governing how psychometric research instrument (psyri) items are grouped, equated by the article with research reliability.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

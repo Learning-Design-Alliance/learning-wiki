@@ -3,7 +3,7 @@ type: claim
 title: The portfolio adds context to holistic review that readers say helps level the playing field for applicants from under-resourced high schools
 description: The portfolio adds context to holistic review that readers say helps level the playing field for applicants from under-resourced high schools
 id: portfolio-adds-equity-context-holistic-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Annenberg schools showed no significant differences from non-Annenberg schools in student social and psychological outcomes, some of which weakened
 description: Annenberg schools showed no significant differences from non-Annenberg schools in student social and psychological outcomes, some of which weakened
 id: annenberg-social-outcomes-no-difference-some-weakened
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

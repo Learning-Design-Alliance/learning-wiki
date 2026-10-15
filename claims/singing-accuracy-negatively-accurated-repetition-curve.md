@@ -3,7 +3,7 @@ type: claim
 title: Note-level singing correctness rises with practice repetition in a negatively accelerated curve, gaining about 7 percentage points over 30 repetitions
 description: Note-level singing correctness rises with practice repetition in a negatively accelerated curve, gaining about 7 percentage points over 30 repetitions
 id: singing-accuracy-negatively-accurated-repetition-curve
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

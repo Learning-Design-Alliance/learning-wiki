@@ -3,7 +3,7 @@ type: claim
 title: "In one quasi-experimental study of Chicago teachers, a classroom one SD higher on a quality index raised the same teacher's observation scores by 0.07 SD and student survey ratings by 0.13 SD"
 description: In one quasi-experimental study of Chicago teachers, a classroom one SD higher on a quality index raised the same teacher's observation scores by 0.07 SD and student survey ratings by 0.13 SD
 id: classroom-composition-affects-teacher-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: compass-care
 title: Compass Care
 description: Compass Care is a family-centered wraparound programme run by a Compass Care Team to support chronically absent students and their caregivers through attendance and engagement barriers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

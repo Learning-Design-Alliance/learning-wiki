@@ -3,7 +3,7 @@ type: element
 id: cube-tower-permutation-task-sequence
 title: Cube-tower permutation enumeration task sequence
 description: An instructional sequence representing permutations of n objects as n-cube towers built from multi-colored connecting cubes in vertical orientation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

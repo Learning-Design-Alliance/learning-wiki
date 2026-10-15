@@ -3,7 +3,7 @@ type: claim
 title: "The article argues that memorization-centered management education faces three specific challenges: theory-practice disconnection, textbook lag, and simulation-reality divide"
 description: "The article argues that memorization-centered management education faces three specific challenges: theory-practice disconnection, textbook lag, and simulation-reality divide"
 id: three-challenges-memorization-management-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

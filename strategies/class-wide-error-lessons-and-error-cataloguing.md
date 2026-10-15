@@ -3,7 +3,7 @@ type: strategy
 id: class-wide-error-lessons-and-error-cataloguing
 title: Design class-wide grammar lessons from common journal errors, and let students catalogue their own errors
 description: The author suggests two further corrective approaches.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

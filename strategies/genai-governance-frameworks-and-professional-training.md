@@ -3,7 +3,7 @@ type: strategy
 id: genai-governance-frameworks-and-professional-training
 title: Institutions should respond to GenAI with clear governance frameworks and structured professional training programs for staff.
 description: "The article recommends institutional-level responses to staff survey findings: clear governance frameworks for GenAI use and structured professional training programs for educators."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

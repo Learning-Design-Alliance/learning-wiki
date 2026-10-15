@@ -3,7 +3,7 @@ type: claim
 title: "Depressive symptoms are detected in 26.35% of secondary vocational students"
 description: "Depressive symptoms are detected in 26.35% of secondary vocational students"
 id: vocational-students-depression-detection-26-35-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

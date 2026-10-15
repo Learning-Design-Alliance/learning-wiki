@@ -3,7 +3,7 @@ type: strategy
 id: teacher-co-design-human-centered-ai-systems
 title: Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations
 description: "The reflections panel recommends human-centered AI in learning: 'Empower and involve teachers (in addition to subject matter experts, learning scientists, and technologists) from the beginning as co-designers of AI-ba..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

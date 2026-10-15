@@ -3,7 +3,7 @@ type: claim
 title: EIR® showed large alphabetics effect sizes and improvement indices of +29 to +42 percentile points in the one qualifying study
 description: EIR® showed large alphabetics effect sizes and improvement indices of +29 to +42 percentile points in the one qualifying study
 id: eir-alphabetics-effect-sizes-improvement-index
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

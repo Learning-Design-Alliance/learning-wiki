@@ -3,7 +3,7 @@ type: design
 id: ai-supported-e-mentoring-model-ismael-2026
 title: AI-supported e-mentoring model integrating human mentoring with AI-driven support across engagement, analysis, feedback, and reflection cycles
 description: The article proposes a dynamic, iterative e-mentoring system in which pre-service teachers generate inputs through learning activities, teaching practice, and reflective interaction; an AI system analyzes these inputs...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

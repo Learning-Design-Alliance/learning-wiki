@@ -3,7 +3,7 @@ type: claim
 title: Single noncollaborative, noncompetitive play shows the largest learning effects; single competitive play shows no benefit relative to nongame conditions
 description: Single noncollaborative, noncompetitive play shows the largest learning effects; single competitive play shows no benefit relative to nongame conditions
 id: single-noncompetitive-play-largest-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: strategy
 id: guide-adult-students-srl-skills-within-course-via-technology
 title: Guide adult students through self-regulated learning skills within the course of study using educational technology
 description: "The article's practitioner notes recommend that educators \"should not assume that all adult students are self-regulated learners with effective study skills\" and that guiding adult students through learning and applyi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: The objective-based AI literacy assessment demonstrates psychometric stability with high reliability (KR-20 = 0.862) and approximate unidimensionality
 description: The objective-based AI literacy assessment demonstrates psychometric stability with high reliability (KR-20 = 0.862) and approximate unidimensionality
 id: ob-ai-literacy-assessment-psychometrically-stable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

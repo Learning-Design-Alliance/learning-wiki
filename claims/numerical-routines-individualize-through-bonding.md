@@ -2,7 +2,7 @@
 type: claim
 title: Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding
 id: numerical-routines-individualize-through-bonding
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

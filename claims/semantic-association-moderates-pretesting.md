@@ -3,7 +3,7 @@ type: claim
 title: Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs
 description: Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs
 id: semantic-association-moderates-pretesting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

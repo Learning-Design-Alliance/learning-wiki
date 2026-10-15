@@ -3,7 +3,7 @@ type: claim
 title: The pre-post meta-analysis of EAI effects did not reach statistical significance (g∆ = 0.552, p = .070)
 description: The pre-post meta-analysis of EAI effects did not reach statistical significance (g∆ = 0.552, p = .070)
 id: eai-prepost-meta-analysis-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

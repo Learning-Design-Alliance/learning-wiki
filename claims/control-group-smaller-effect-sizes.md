@@ -3,7 +3,7 @@ type: claim
 title: Studies using a no-input control group yield significantly smaller effect sizes, protecting against overestimation
 description: Studies using a no-input control group yield significantly smaller effect sizes, protecting against overestimation
 id: control-group-smaller-effect-sizes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

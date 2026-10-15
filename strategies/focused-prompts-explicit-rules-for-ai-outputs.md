@@ -3,7 +3,7 @@ type: strategy
 id: focused-prompts-explicit-rules-for-ai-outputs
 title: Use focused prompts naming educator decisions and explicit rules for knowledge sources when prompting AI
 description: "This strategy specifies how to prompt AI during prototyping: name the specific decisions educators need to make, request a small number of concrete options, and require the AI to draw on a defined set of research and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations
 description: Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations
 id: mastery-positive-affective-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

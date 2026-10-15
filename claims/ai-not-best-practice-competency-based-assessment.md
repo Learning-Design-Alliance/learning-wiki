@@ -3,7 +3,7 @@ type: claim
 title: AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable
 description: AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable
 id: ai-not-best-practice-competency-based-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

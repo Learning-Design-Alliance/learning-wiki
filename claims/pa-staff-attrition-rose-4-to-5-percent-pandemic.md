@@ -3,7 +3,7 @@ type: claim
 title: Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic
 description: Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic
 id: pa-staff-attrition-rose-4-to-5-percent-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

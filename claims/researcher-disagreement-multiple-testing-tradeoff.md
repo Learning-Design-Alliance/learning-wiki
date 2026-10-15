@@ -3,7 +3,7 @@ type: claim
 title: Researchers disagree about using multiple testing procedures and the trade-off between type I error and statistical power (type II error)
 description: Researchers disagree about using multiple testing procedures and the trade-off between type I error and statistical power (type II error)
 id: researcher-disagreement-multiple-testing-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

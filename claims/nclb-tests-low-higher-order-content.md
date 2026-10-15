@@ -3,7 +3,7 @@ type: claim
 title: State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying
 description: State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying
 id: nclb-tests-low-higher-order-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

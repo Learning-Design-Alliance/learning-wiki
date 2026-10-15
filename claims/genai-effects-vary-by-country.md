@@ -3,7 +3,7 @@ type: claim
 title: "Regional context moderates GenAI effects: positive in China and Pakistan, negative in Korea and Turkey"
 description: "Regional context moderates GenAI effects: positive in China and Pakistan, negative in Korea and Turkey"
 id: genai-effects-vary-by-country
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

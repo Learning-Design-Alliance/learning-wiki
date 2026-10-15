@@ -3,7 +3,7 @@ type: claim
 title: Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences
 description: Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences
 id: consistent-hqim-use-does-not-guarantee-equitable-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

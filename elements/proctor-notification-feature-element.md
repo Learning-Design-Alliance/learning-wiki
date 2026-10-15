@@ -3,7 +3,7 @@ type: element
 id: proctor-notification-feature-element
 title: Proctor notification feature for detecting and responding to student disengagement
 description: A notification mechanism within a testing platform that alerts proctors when students disengage.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

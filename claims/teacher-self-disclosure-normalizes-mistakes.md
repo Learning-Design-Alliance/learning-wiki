@@ -3,7 +3,7 @@ type: claim
 title: "The authors claim that making teachers' own mistakes, struggles, and fears central to the curriculum lessens students' fear of making mistakes in a new endeavor"
 description: "The authors claim that making teachers' own mistakes, struggles, and fears central to the curriculum lessens students' fear of making mistakes in a new endeavor"
 id: teacher-self-disclosure-normalizes-mistakes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

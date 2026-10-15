@@ -3,7 +3,7 @@ type: claim
 title: Class size reduction shows a negative, statistically non-significant effect on mathematics achievement (pooled SMD ‐0.03)
 description: Class size reduction shows a negative, statistically non-significant effect on mathematics achievement (pooled SMD ‐0.03)
 id: class-size-reduction-negative-nonsignificant-math-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

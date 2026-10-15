@@ -3,7 +3,7 @@ type: strategy
 id: brief-interviewer-training-moral-injury
 title: Provide brief interviewer training on the moral injury concept and interview structure
 description: "Based on feasibility feedback, the authors recommend preparing interviewers with concise training so they can judge what counts as a morally injurious experience and use the interview's structure confidently."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

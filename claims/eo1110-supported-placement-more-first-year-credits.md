@@ -3,7 +3,7 @@ type: claim
 title: "Under EO 1110, students in QR placement categories III and IV attempted and earned more baccalaureate credits in their first year than comparable 'not college ready' students did in 2017"
 description: "Under EO 1110, students in QR placement categories III and IV attempted and earned more baccalaureate credits in their first year than comparable 'not college ready' students did in 2017"
 id: eo1110-supported-placement-more-first-year-credits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: research-method
 id: design-based-implementation-research-dbir
 title: Design-Based Implementation Research (DBIR)
 description: DBIR is an emerging research-and-development approach the article positions as the process for co-developing its differentiated instruction practice framework.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

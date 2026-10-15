@@ -4,7 +4,7 @@ id: canfields-learning-styles-inventory-and-instructional-styles-inventory
 title: "Canfield's Learning Styles Inventory and Instructional Styles Inventory"
 description: "A pair of multidimensional inventories developed by Canfield to assess students' learning styles and teachers' instructional styles and compare their congruence for instructional counselling."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

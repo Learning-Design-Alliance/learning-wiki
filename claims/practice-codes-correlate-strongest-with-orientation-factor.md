@@ -3,7 +3,7 @@ type: claim
 title: In joint analysis, Practice codes correlate most strongly with AI pedagogical orientation, while Epistemic codes show a weaker positive association
 description: In joint analysis, Practice codes correlate most strongly with AI pedagogical orientation, while Epistemic codes show a weaker positive association
 id: practice-codes-correlate-strongest-with-orientation-factor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

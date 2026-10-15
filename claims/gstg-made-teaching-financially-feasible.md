@@ -3,7 +3,7 @@ type: claim
 title: Golden State Teacher Grant recipients reported the scholarship made teaching financially feasible and led them to plan longer stays in high-need schools
 description: Golden State Teacher Grant recipients reported the scholarship made teaching financially feasible and led them to plan longer stays in high-need schools
 id: gstg-made-teaching-financially-feasible
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

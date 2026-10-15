@@ -3,7 +3,7 @@ type: design
 id: phoenix-voice-llm-peer-agent-group-learning
 title: "Phoenix: a voice-based, non-embodied LLM conversational peer agent for group learning"
 description: "Phoenix is a \"voice-based, non-embodied conversational agent that joins real-time group discussions through spoken dialogue with multiple participants\", positioned as an equal peer supporting knowledge co-construction..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

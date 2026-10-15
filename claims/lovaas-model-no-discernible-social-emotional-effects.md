@@ -3,7 +3,7 @@ type: claim
 title: The Lovaas Model has no discernible effects on social-emotional development and behavior for children with disabilities
 description: The Lovaas Model has no discernible effects on social-emotional development and behavior for children with disabilities
 id: lovaas-model-no-discernible-social-emotional-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

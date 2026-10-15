@@ -3,7 +3,7 @@ type: claim
 title: No evidence that learning effects differ by variety of player actions or by inclusion of additional nongame instruction
 description: No evidence that learning effects differ by variety of player actions or by inclusion of additional nongame instruction
 id: variety-actions-and-supplemental-instruction-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

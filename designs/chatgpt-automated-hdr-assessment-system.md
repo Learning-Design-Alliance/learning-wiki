@@ -3,7 +3,7 @@ type: design
 id: chatgpt-automated-hdr-assessment-system
 title: ChatGPT-based automated HDR assessment system (problem generation, scoring, and feedback pipeline)
 description: An LLM-based automated environment built with ChatGPT (GPT-4o) that integrates three prompts—problem generation, scoring, and feedback—into one system handling the full HDR assessment cycle.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Perceived fairness partially mediates the effect of decision-making agent on decision acceptance, accounting for 67.52% of the total effect"
 description: "Perceived fairness partially mediates the effect of decision-making agent on decision acceptance, accounting for 67.52% of the total effect"
 id: perceived-fairness-mediates-agent-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

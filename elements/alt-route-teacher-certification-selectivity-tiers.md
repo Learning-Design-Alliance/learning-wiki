@@ -3,7 +3,7 @@ type: element
 id: alt-route-teacher-certification-selectivity-tiers
 title: "Alternative teacher certification routes compared in the IES studies: highly selective (Teach For America, Teaching Fellows) and less selective routes"
 description: The brief organizes two IES studies around a selectivity distinction among alternative teacher routes.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

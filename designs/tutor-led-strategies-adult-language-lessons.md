@@ -3,7 +3,7 @@ type: design
 id: tutor-led-strategies-adult-language-lessons
 title: "Tutor-led strategy set for effective adult language lessons: structure, small steps, early success, continuous practice and constant re-use"
 description: "The guide enumerates tutor-led strategies that \"enhance this particular process and make the learning more effective\": structure the learning so material is \"coherent and meaningful, with supporting interconnections m..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

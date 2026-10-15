@@ -3,7 +3,7 @@ type: claim
 title: Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use
 description: Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use
 id: working-memory-mixed-moderator-interleaving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

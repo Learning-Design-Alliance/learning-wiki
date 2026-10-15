@@ -3,7 +3,7 @@ type: claim
 title: Implementation data show teachers shifted independent practice toward in-class ASSISTments assignments, a change the study links to more equitable access for rural students with limited home connectivity
 description: Implementation data show teachers shifted independent practice toward in-class ASSISTments assignments, a change the study links to more equitable access for rural students with limited home connectivity
 id: assistments-classwork-shift-rural-equity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

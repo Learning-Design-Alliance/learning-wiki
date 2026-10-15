@@ -3,7 +3,7 @@ type: claim
 title: "The genAI tool's integration into each student team was an intentional pedagogical technique targeting factors contributing to groupthink in rapidly formed teams"
 description: "The genAI tool's integration into each student team was an intentional pedagogical technique targeting factors contributing to groupthink in rapidly formed teams"
 id: genai-integration-intentional-pedagogical-technique
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

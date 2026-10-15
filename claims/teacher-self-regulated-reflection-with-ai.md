@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported using AI within planning-monitoring-evaluation-revision cycles interpreted as teacher-level self-regulation
 description: Teachers reported using AI within planning-monitoring-evaluation-revision cycles interpreted as teacher-level self-regulation
 id: teacher-self-regulated-reflection-with-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: physics-of-life-sciences-textbook-mckay
 title: Physics of the Life Sciences draft textbook (McKay)
 description: A draft calculus-based textbook by Prof.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: communities-of-practice-for-ai-governance
 title: Foster communities of practice for AI governance instead of rigid top-down policies
 description: "The article recommends that universities move away from rigid, top-down AI policies and instead foster \"communities of practice,\" collaborative spaces where faculty, staff, and students navigate AI implementation toge..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

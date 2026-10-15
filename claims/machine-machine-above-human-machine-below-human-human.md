@@ -3,7 +3,7 @@ type: claim
 title: Machine–machine agreement exceeds human–machine agreement but remains below human–human agreement
 description: Machine–machine agreement exceeds human–machine agreement but remains below human–human agreement
 id: machine-machine-above-human-machine-below-human-human
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: element
 id: kipp-leadership-development-investment
 title: KIPP leadership development investment for network scale-up
 description: "As part of its scale-up effort, the KIPP charter network invested heavily in developing new and existing leaders; the article states that \"To expand the network of KIPP charter schools, KIPP invested heavily in the de..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

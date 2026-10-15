@@ -2,7 +2,7 @@
 type: theory
 title: Conceptual change theory distinguishes misconceptions from uncertainty, implying different teaching approaches
 description: "The article applies conceptual change theory to teacher knowledge of dyslexia, arguing that the instructional response depends on the learner's status: \"Research on conceptual change suggests a different teaching appr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

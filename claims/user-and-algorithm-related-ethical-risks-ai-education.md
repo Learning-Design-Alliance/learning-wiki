@@ -3,7 +3,7 @@ type: claim
 title: Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education
 description: Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education
 id: user-and-algorithm-related-ethical-risks-ai-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The highest decomposition level (five segments) performed slightly worse than the three-segment approach, suggesting non-monotonic benefits of decomposition
 description: The highest decomposition level (five segments) performed slightly worse than the three-segment approach, suggesting non-monotonic benefits of decomposition
 id: five-segment-decomposition-slightly-worse-than-three
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

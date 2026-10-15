@@ -3,7 +3,7 @@ type: claim
 title: "Fewer than 18% of 136 examined SEL frameworks explicitly reference culture and diversity"
 description: "Fewer than 18% of 136 examined SEL frameworks explicitly reference culture and diversity"
 id: fewer-than-18-percent-sel-frameworks-reference-culture
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

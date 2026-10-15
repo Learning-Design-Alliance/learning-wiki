@@ -3,7 +3,7 @@ type: claim
 title: Testing students with off-grade ability using on-grade item pools substantially diminishes measurement precision compared with all-grade pools
 description: Testing students with off-grade ability using on-grade item pools substantially diminishes measurement precision compared with all-grade pools
 id: off-grade-ability-on-grade-pools-diminished-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

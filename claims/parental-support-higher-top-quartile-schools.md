@@ -3,7 +3,7 @@ type: claim
 title: Parental support for student learning is substantially higher in top-quartile schools than in bottom-quartile schools
 description: Parental support for student learning is substantially higher in top-quartile schools than in bottom-quartile schools
 id: parental-support-higher-top-quartile-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

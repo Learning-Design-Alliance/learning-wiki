@@ -3,7 +3,7 @@ type: claim
 title: Assessments are framed as one indicator among many of student impact from COVID-19
 description: Assessments are framed as one indicator among many of student impact from COVID-19
 id: assessments-one-indicator-among-many-covid-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed teachers report accounting for learner prior knowledge and material complexity in instructional design
 description: Most surveyed teachers report accounting for learner prior knowledge and material complexity in instructional design
 id: teachers-account-for-prior-knowledge-and-complexity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

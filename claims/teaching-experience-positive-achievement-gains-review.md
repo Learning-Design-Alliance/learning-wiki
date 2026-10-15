@@ -3,7 +3,7 @@ type: claim
 title: "Teaching experience is positively and significantly associated with student achievement gains throughout a teacher's career, per a review of 30 studies"
 description: "Teaching experience is positively and significantly associated with student achievement gains throughout a teacher's career, per a review of 30 studies"
 id: teaching-experience-positive-achievement-gains-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard
 description: Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard
 id: expert-triad-high-inter-rater-reliability-bash-grading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

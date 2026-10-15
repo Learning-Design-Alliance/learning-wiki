@@ -3,7 +3,7 @@ type: strategy
 id: chatgpt-supplementary-tool-human-interaction-balance
 title: Use ChatGPT as a supplementary tool for grammar, writing, and conversational practice so teachers can focus on higher-order thinking skills, while integrating human interaction to offset emotional detachment
 description: "The article recommends integrating ChatGPT into the classroom as a supplementary aid rather than prohibiting it: \"ChatGPT serves as a supplementary tool for aiding grammar,writing,andconversationalpractice\", allowing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

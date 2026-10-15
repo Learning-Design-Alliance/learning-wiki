@@ -3,7 +3,7 @@ type: claim
 title: School survey reports benchmark each school against demographically similar schools and the whole system over a ten-year period
 description: School survey reports benchmark each school against demographically similar schools and the whole system over a ten-year period
 id: survey-reports-benchmark-similar-schools-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

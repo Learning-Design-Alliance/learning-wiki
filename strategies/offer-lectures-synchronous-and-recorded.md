@@ -3,7 +3,7 @@ type: strategy
 id: offer-lectures-synchronous-and-recorded
 title: Offer course lectures both live and as posted recordings to balance equity of access with schedule and accountability
 description: "The report describes a strategy that emerged at the case study institutions: \"Building in options by ofering lectures both in real time and as recordings posted online emerged as a common strategy at the case study in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In simulation, AI-assisted students showed increased scores and reduced solving time, attributed to personalized assistance
 description: In simulation, AI-assisted students showed increased scores and reduced solving time, attributed to personalized assistance
 id: simulation-ai-assisted-students-score-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "Reported prior exposure to machine-read instructional material rose from 44.5% to 69.9% between sessions, an effect of the study itself rather than a baseline difference"
 description: "Reported prior exposure to machine-read instructional material rose from 44.5% to 69.9% between sessions, an effect of the study itself rather than a baseline difference"
 id: carryover-machine-read-exposure-rose-between-sessions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: stakeholder-involvement-defining-privacy-la
 title: Involve key stakeholders directly in defining privacy and designing LA systems
 description: The article recommends that LA scholars involve students, teachers, parents, and institutions directly in defining privacy and in designing privacy-protecting LA.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: School-level differences in grades are small and largely explained by attendance and course characteristics
 description: School-level differences in grades are small and largely explained by attendance and course characteristics
 id: school-grade-variance-small-explained
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

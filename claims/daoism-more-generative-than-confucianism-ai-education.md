@@ -3,7 +3,7 @@ type: claim
 title: Daoism offers a more generative framework than Confucianism for thinking about education in an AI-shaped world because it pursues understanding of reality rather than social hierarchy
 description: Daoism offers a more generative framework than Confucianism for thinking about education in an AI-shaped world because it pursues understanding of reality rather than social hierarchy
 id: daoism-more-generative-than-confucianism-ai-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

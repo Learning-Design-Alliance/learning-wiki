@@ -3,7 +3,7 @@ type: claim
 title: GAI-related and GAI-unrelated AI tools show no significant difference in their moderating effects on K-12 STEM learning outcomes
 description: GAI-related and GAI-unrelated AI tools show no significant difference in their moderating effects on K-12 STEM learning outcomes
 id: gai-usage-no-moderating-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS"
 description: "Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS"
 id: task-difficulty-adaptation-no-learning-benefit-second-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

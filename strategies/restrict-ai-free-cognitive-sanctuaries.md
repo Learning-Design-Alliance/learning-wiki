@@ -3,7 +3,7 @@ type: strategy
 id: restrict-ai-free-cognitive-sanctuaries
 title: "Restrict: preserve AI-free cognitive sanctuaries where unassisted capability is practiced and assessed"
 description: "The first part of the article's four-part framework directs educational settings to preserve AI-free spaces so that baseline human capability remains observable."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

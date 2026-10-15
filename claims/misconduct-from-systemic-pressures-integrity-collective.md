@@ -3,7 +3,7 @@ type: claim
 title: Academic misconduct emerges primarily from systemic pressures rather than individual moral failure, and academic integrity is a collective epistemic practice institutions must sustain
 description: Academic misconduct emerges primarily from systemic pressures rather than individual moral failure, and academic integrity is a collective epistemic practice institutions must sustain
 id: misconduct-from-systemic-pressures-integrity-collective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

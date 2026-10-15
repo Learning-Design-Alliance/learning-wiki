@@ -3,7 +3,7 @@ type: claim
 title: Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity
 description: Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity
 id: toxic-stress-disrupts-self-regulation-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

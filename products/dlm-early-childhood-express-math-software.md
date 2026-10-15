@@ -4,7 +4,7 @@ id: dlm-early-childhood-express-math-software
 title: DLM Early Childhood Express Math software
 description: DLM Early Childhood Express Math software, developed by Douglas H.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

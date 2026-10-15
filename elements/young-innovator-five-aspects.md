@@ -3,7 +3,7 @@ type: element
 id: young-innovator-five-aspects
 title: "Young innovator attribute framework: five synthesized aspects"
 description: The article synthesizes desired characteristics of young innovators from seven prior sources (Jeffrey et al., 2009; Wongtienlai et al., 2019; Tonghom et al., 2017; National Innovation Agency, 2022; Phatrawat, 2020; Ts...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

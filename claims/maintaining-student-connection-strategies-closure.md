@@ -3,7 +3,7 @@ type: claim
 title: New York charter schools kept students connected during closure through community events, multi-channel communication, and existing structures, with about two-thirds taking above-and-beyond steps for inactive students
 description: New York charter schools kept students connected during closure through community events, multi-channel communication, and existing structures, with about two-thirds taking above-and-beyond steps for inactive students
 id: maintaining-student-connection-strategies-closure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

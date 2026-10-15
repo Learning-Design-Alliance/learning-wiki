@@ -3,7 +3,7 @@ type: claim
 title: Most individual argument structure and quality dimensions showed no significant differences across the three peer feedback conditions
 description: Most individual argument structure and quality dimensions showed no significant differences across the three peer feedback conditions
 id: null-results-argument-dimensions-genai-peer-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

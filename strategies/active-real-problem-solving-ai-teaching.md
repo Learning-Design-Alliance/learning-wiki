@@ -3,7 +3,7 @@ type: strategy
 id: active-real-problem-solving-ai-teaching
 title: Teach AI through holistic, active, collaborative pedagogical strategies starting from real problem solving
 description: For meaningful learning of AI to take place, the review states AI teaching must use holistic, active, and collaborative pedagogical strategies in which real problem solving is the starting point of the learning process.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

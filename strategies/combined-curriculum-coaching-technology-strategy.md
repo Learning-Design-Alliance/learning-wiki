@@ -3,7 +3,7 @@ type: strategy
 id: combined-curriculum-coaching-technology-strategy
 title: Combine curriculum redesign, in-person counseling and mentoring, and technology platforms to support health career students
 description: "Virginia RETHINKS pursued student success in health sciences through a bundle of strategies: redesigning and creating curriculum in developmental education and health-related courses, offering in-person counseling and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

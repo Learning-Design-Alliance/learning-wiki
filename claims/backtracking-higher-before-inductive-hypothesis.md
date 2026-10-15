@@ -3,7 +3,7 @@ type: claim
 title: Students backtracked far more before applying the inductive hypothesis than after, suggesting difficulty finding where to place it
 description: Students backtracked far more before applying the inductive hypothesis than after, suggesting difficulty finding where to place it
 id: backtracking-higher-before-inductive-hypothesis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

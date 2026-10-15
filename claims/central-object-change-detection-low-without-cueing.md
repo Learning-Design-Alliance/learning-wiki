@@ -3,7 +3,7 @@ type: claim
 title: "Change in the most-focused central object was detected at a low rate (41.66%) unless it was signalled and cued"
 description: "Change in the most-focused central object was detected at a low rate (41.66%) unless it was signalled and cued"
 id: central-object-change-detection-low-without-cueing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

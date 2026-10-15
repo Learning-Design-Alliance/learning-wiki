@@ -3,7 +3,7 @@ type: claim
 title: Actual classroom use of AI among Ghanaian pre-service science teachers is moderate despite strong intentions, indicating an intention-practice gap
 description: Actual classroom use of AI among Ghanaian pre-service science teachers is moderate despite strong intentions, indicating an intention-practice gap
 id: intention-practice-gap-ai-use-ghanaian-pre-service-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

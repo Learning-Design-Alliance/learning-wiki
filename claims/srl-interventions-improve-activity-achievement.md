@@ -3,7 +3,7 @@ type: claim
 title: SRL interventions are effective in improving both SRL activity and achievement in higher education
 description: SRL interventions are effective in improving both SRL activity and achievement in higher education
 id: srl-interventions-improve-activity-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

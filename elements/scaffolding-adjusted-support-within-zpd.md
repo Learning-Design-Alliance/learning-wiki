@@ -4,7 +4,7 @@ id: scaffolding-adjusted-support-within-zpd
 title: "Scaffolding: adjusting support to the child's level of development"
 description: "The paper identifies scaffolding as a key teaching skill within the ZPD: \"Scaffolding is an instructional process by which the teacher adjusts or modifies the amount and type of support offered to the child that is be..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -2,7 +2,7 @@
 type: theory
 title: Type M and Type S error framework (Gelman and Carlin) for characterizing inferential errors from statistical significance filtering
 description: "This commentary organizes the inferential mistakes examined by Simpson (2022) and Sims et al (2022) using the \"'Type M' (magnitude) and 'Type S' (sign) errors described by Gelman and Carlin (2014).\" Type M errors conc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

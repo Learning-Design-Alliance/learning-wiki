@@ -3,7 +3,7 @@ type: claim
 title: Higher stated education and SES levels receive responses with more positive sentiment, an implicit bias that can disadvantage lower-education users
 description: Higher stated education and SES levels receive responses with more positive sentiment, an implicit bias that can disadvantage lower-education users
 id: education-ses-sentiment-bias-qa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

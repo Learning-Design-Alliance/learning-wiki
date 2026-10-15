@@ -3,7 +3,7 @@ type: claim
 title: Head Start shows no discernible effects on social-emotional development for 3- and 4-year-old children
 description: Head Start shows no discernible effects on social-emotional development for 3- and 4-year-old children
 id: head-start-no-discernible-social-emotional-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

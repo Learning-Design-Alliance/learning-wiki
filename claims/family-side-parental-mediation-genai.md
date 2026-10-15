@@ -3,7 +3,7 @@ type: claim
 title: Family-side evidence on GenAI guidance is thin, largely descriptive, and centered on parental beliefs and mediation strategies
 description: Family-side evidence on GenAI guidance is thin, largely descriptive, and centered on parental beliefs and mediation strategies
 id: family-side-parental-mediation-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

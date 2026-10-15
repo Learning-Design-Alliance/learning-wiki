@@ -3,7 +3,7 @@ type: claim
 title: Per-period ability distributions implied by the linked calibrations agree closely with the pooled benchmark, checking the linking independently of the items
 description: Per-period ability distributions implied by the linked calibrations agree closely with the pooled benchmark, checking the linking independently of the items
 id: ability-distribution-agreement-linking-check
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Students fear that declaring AI use will lead to lower marks even when permitted, creating a 'Disclosure Trap' that drives AI use underground"
 description: "Students fear that declaring AI use will lead to lower marks even when permitted, creating a 'Disclosure Trap' that drives AI use underground"
 id: disclosure-trap-penalty-for-transparency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

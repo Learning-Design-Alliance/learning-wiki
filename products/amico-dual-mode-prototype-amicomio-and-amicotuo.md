@@ -4,7 +4,7 @@ id: amico-dual-mode-prototype-amicomio-and-amicotuo
 title: Amico dual-mode prototype (AmicoMio and AmicoTuo)
 description: A Benedetti-developed AI-mediated educational interaction device, deployable as a digital agent or social robot, that provides either procedural task guidance or reflective dialogue under age-sensitive configuration and governance constraints.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

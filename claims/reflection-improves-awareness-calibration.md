@@ -3,7 +3,7 @@ type: claim
 title: Reflection improves correspondence between perceived and behavioral reliance on ChatGPT
 description: Reflection improves correspondence between perceived and behavioral reliance on ChatGPT
 id: reflection-improves-awareness-calibration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

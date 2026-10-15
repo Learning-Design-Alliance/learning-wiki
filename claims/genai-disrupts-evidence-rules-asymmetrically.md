@@ -3,7 +3,7 @@ type: claim
 title: GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands
 description: GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands
 id: genai-disrupts-evidence-rules-asymmetrically
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: large-heterogeneous-attendance-zones
 title: Design large, contiguous, heterogeneous attendance zones with equivalent programs and limited transport time
 description: "The guide specifies zone design rules: \"Zones should be large enough to encompass heterogeneous population groups but small enough to limit student transportation time toand from school within the zone to not more tha..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

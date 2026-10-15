@@ -3,7 +3,7 @@ type: claim
 title: Negative emotional associations of AI-adaptive environments are pronounced among students with low AI literacy but substantially attenuated among those with high AI literacy
 description: Negative emotional associations of AI-adaptive environments are pronounced among students with low AI literacy but substantially attenuated among those with high AI literacy
 id: simple-slopes-ai-literacy-low-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

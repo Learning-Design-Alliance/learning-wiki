@@ -3,7 +3,7 @@ type: strategy
 id: role-specific-ai-professional-learning-leadership
 title: Invest in dedicated instructional technology leadership roles and role-specific professional learning for AI literacy
 description: "The report's third use case illustrates Recommendation 3—investing 'in role-specific professional learning aligned to grade levels and disciplines to build educator capacity for teaching AI literacy.' In May 2025 Alle..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

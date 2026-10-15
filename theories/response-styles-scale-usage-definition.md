@@ -2,7 +2,7 @@
 type: theory
 title: Response styles as scale-usage differences independent of true score
 description: Response styles are patterns in how survey respondents use Likert scale categories.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

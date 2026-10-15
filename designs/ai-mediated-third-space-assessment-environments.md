@@ -3,7 +3,7 @@ type: design
 id: ai-mediated-third-space-assessment-environments
 title: "AI-mediated third space assessment environments connecting formal curriculum with students' interests, experiences, and learning needs"
 description: "Drawing on third space theory, the paper argues that AI agents implemented \"within relational and ethically governed environments\" can help mediate assessment settings that \"connect formal curriculum with students' in..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

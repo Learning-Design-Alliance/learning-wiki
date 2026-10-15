@@ -3,7 +3,7 @@ type: claim
 title: SMS use improved both vocabulary retention and reading comprehension among Iranian EFL learners relative to a control group
 description: SMS use improved both vocabulary retention and reading comprehension among Iranian EFL learners relative to a control group
 id: sms-vocabulary-retention-reading-comprehension-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

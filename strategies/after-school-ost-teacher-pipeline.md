@@ -3,7 +3,7 @@ type: strategy
 id: after-school-ost-teacher-pipeline
 title: Build an after-school/OST-to-teaching pipeline to recruit teachers of color
 description: "The brief identifies an underutilized strategy: \"recruit and prepare those who have experience working in after-school or out-of-school time (OST) programs to enter the teaching profession.\" It proposes three ways: es..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

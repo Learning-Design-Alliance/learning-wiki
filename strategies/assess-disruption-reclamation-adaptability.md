@@ -3,7 +3,7 @@ type: strategy
 id: assess-disruption-reclamation-adaptability
 title: Assess disruption and reclamation with rubric levels of adaptability and automated disruption-reclamation profiles
 description: "The paper recommends assessing learners' responses to lost or compromised opportunities through rubrics describing levels of adaptability, from disengagement to transformative reclamation that improves upon the origin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

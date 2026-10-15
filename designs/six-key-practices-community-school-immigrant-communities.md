@@ -3,7 +3,7 @@ type: design
 id: six-key-practices-community-school-immigrant-communities
 title: Six key practices of a community school serving immigrant, multilingual communities
 description: "The report distills UCLA Community School's approach into six key practices: knowing and building on a community's history, assets, and culture; developing and articulating desired core competencies; nurturing shared..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

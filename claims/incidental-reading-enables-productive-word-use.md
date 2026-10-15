@@ -3,7 +3,7 @@ type: claim
 title: Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not
 description: Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not
 id: incidental-reading-enables-productive-word-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

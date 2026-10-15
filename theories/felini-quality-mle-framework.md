@@ -2,7 +2,7 @@
 type: theory
 title: A systematic framework of 35 indicators grouped under five quality criteria for MLE in Italian elementary schools
 description: "The article presents a systematic framework of \"35 indicators for good MLE activities in Italian elementary schools.\" The indicators are organized under five quality criteria — teaching methods, actors, organization,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

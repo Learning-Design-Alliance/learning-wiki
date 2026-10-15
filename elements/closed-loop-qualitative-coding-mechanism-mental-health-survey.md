@@ -3,7 +3,7 @@ type: element
 id: closed-loop-qualitative-coding-mechanism-mental-health-survey
 title: Closed-loop qualitative coding mechanism for student mental health interviews
 description: "A qualitative analysis mechanism built on three thematic questions following the sequence \"current situation perception (focus point) → obstacle identification (pain points) → solution pathways (best practices).\" It u..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

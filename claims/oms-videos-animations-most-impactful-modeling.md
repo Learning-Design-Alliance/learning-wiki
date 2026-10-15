@@ -3,7 +3,7 @@ type: claim
 title: "In a Web-based teacher education course, screen-capture videos and Flash animations modeling the instructor's internal problem-solving processes were the elements students most strongly associated with cognitive apprenticeship modeling"
 description: "In a Web-based teacher education course, screen-capture videos and Flash animations modeling the instructor's internal problem-solving processes were the elements students most strongly associated with cognitive appre..."
 id: oms-videos-animations-most-impactful-modeling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

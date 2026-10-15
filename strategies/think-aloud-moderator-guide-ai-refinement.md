@@ -3,7 +3,7 @@ type: strategy
 id: think-aloud-moderator-guide-ai-refinement
 title: Use structured think-aloud sessions with a semi-structured moderator guide to capture student feedback for iterative AI tool refinement
 description: "The strategy runs think-aloud sessions in which students verbalize thoughts and expectations while using an AI tool in real time, guided by a semi-structured moderator's guide covering preparation, session flow, and p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

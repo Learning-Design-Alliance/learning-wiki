@@ -3,7 +3,7 @@ type: claim
 title: "The review's purpose is to stimulate research on learner-generated drawing, with the framework intended to guide and organize future research efforts"
 description: "The review's purpose is to stimulate research on learner-generated drawing, with the framework intended to guide and organize future research efforts"
 id: drawing-review-purpose-stimulate-future-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

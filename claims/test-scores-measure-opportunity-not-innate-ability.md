@@ -3,7 +3,7 @@ type: claim
 title: Test scores measure accumulated knowledge at a moment in time, not innate student ability
 description: Test scores measure accumulated knowledge at a moment in time, not innate student ability
 id: test-scores-measure-opportunity-not-innate-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Metacognitive strategy use correlates positively with EFL reading comprehension achievement (r = .54)
 description: Metacognitive strategy use correlates positively with EFL reading comprehension achievement (r = .54)
 id: metacognitive-strategy-use-reading-achievement-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

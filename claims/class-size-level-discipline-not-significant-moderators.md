@@ -3,7 +3,7 @@ type: claim
 title: Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning
 description: Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning
 id: class-size-level-discipline-not-significant-moderators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

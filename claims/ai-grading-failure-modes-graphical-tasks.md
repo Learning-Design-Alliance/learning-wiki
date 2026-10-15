@@ -3,7 +3,7 @@ type: claim
 title: AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels
 description: AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels
 id: ai-grading-failure-modes-graphical-tasks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

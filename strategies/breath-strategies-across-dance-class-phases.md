@@ -3,7 +3,7 @@ type: strategy
 id: breath-strategies-across-dance-class-phases
 title: Thread conscious breathing strategies through warm-up, center work, and class conclusion
 description: "The article recommends embedding breath attention at multiple points in the technique class: in warm-up \"for the purpose of gaining focus, bodily awareness, and energy activation\"; in center-floor and across-the-floor..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

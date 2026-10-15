@@ -3,7 +3,7 @@ type: claim
 title: Clicker vote patterns show no significant effect on homework explanation quality, though correct-correct students tended to explain best
 description: Clicker vote patterns show no significant effect on homework explanation quality, though correct-correct students tended to explain best
 id: clicker-vote-patterns-null-on-homework-explanations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

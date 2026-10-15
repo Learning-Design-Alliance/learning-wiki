@@ -3,7 +3,7 @@ type: claim
 title: Treatment classrooms used technology far more intensively than control classrooms, whose technology use remained supplemental
 description: Treatment classrooms used technology far more intensively than control classrooms, whose technology use remained supplemental
 id: rm-cc5-treatment-higher-technology-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: geoweave
 title: GeoWeave
 description: A post-training framework developed by Zhitong Dong et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

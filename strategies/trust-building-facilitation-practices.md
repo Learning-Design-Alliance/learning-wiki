@@ -3,7 +3,7 @@ type: strategy
 id: trust-building-facilitation-practices
 title: Build trusting relationships among workgroup participants through structured facilitation
 description: "The R15CC team deliberately cultivated meaningful and trusting relationships among participants as \"an essential foundation for authentically sharing opinions and experiences.\" Practices included purposefully assignin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

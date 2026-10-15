@@ -3,7 +3,7 @@ type: claim
 title: Children described the chatbot in five themes — knowledge, utility, fun, smart, and limitations — and showed varied, partial understanding of how it works
 description: Children described the chatbot in five themes — knowledge, utility, fun, smart, and limitations — and showed varied, partial understanding of how it works
 id: children-describe-chatbot-five-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

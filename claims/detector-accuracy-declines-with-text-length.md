@@ -3,7 +3,7 @@ type: claim
 title: Detector accuracy declined significantly as text length increased, with both detectors performing best on short texts
 description: Detector accuracy declined significantly as text length increased, with both detectors performing best on short texts
 id: detector-accuracy-declines-with-text-length
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

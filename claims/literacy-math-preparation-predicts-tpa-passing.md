@@ -3,7 +3,7 @@ type: claim
 title: Elementary and special education candidates from programs rated higher on literacy and math preparation have higher odds of passing the TPA
 description: Elementary and special education candidates from programs rated higher on literacy and math preparation have higher odds of passing the TPA
 id: literacy-math-preparation-predicts-tpa-passing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

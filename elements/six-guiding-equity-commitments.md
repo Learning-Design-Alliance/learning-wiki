@@ -3,7 +3,7 @@ type: element
 id: six-guiding-equity-commitments
 title: "Six guiding commitments accompany the framework: reflect deeply, recognize intersectionality, anti-oppression, trauma awareness, trust-based relationships, learning and unlearning"
 description: The co-design process produced a set of commitments that guide how the framework is used, developed after in-person participants emphasized the need for principles giving context for how the framework should be unders...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: Manual team formation required over 20 hours of instructor effort, while the algorithm produced assignments in milliseconds
 description: Manual team formation required over 20 hours of instructor effort, while the algorithm produced assignments in milliseconds
 id: algorithm-reduces-instructor-workload-milliseconds
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

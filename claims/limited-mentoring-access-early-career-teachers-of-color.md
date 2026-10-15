@@ -3,7 +3,7 @@ type: claim
 title: Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers
 description: Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers
 id: limited-mentoring-access-early-career-teachers-of-color
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: A majority of surveyed students want institutional training on professional and ethical AI tool use
 description: A majority of surveyed students want institutional training on professional and ethical AI tool use
 id: students-want-ai-training-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

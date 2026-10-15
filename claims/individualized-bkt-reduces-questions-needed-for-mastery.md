@@ -3,7 +3,7 @@ type: claim
 title: "The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tutoring system reduced by about half the questions required for 20% of students to achieve mastery."
 description: "The survey reports, citing Lee and Brunskill, that individualized BKT in an intelligent tutoring system reduced by about half the questions required for 20% of students to achieve mastery."
 id: individualized-bkt-reduces-questions-needed-for-mastery
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

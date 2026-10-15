@@ -3,7 +3,7 @@ type: claim
 title: Starting interaction with the Empathetic chatbot is associated with the least attrition in the six-week study
 description: Starting interaction with the Empathetic chatbot is associated with the least attrition in the six-week study
 id: empathetic-condition-least-attrition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

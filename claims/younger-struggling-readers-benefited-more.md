@@ -3,7 +3,7 @@ type: claim
 title: "Younger struggling readers benefited more: the interventions generally helped third-grade cohort students more than fifth-grade cohort students"
 description: "Younger struggling readers benefited more: the interventions generally helped third-grade cohort students more than fifth-grade cohort students"
 id: younger-struggling-readers-benefited-more
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

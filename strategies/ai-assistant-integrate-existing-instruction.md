@@ -3,7 +3,7 @@ type: strategy
 id: ai-assistant-integrate-existing-instruction
 title: Integrate AI assistants with existing curricula and teaching practices rather than replacing instruction
 description: "Coursemojo's design approach positions the AI assistant as a complement to the teacher: it is \"designed to 'supercharge the work that is already happening in classrooms' through seamless integration with existing curr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

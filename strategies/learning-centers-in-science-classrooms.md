@@ -3,7 +3,7 @@ type: strategy
 id: learning-centers-in-science-classrooms
 title: Set Up Learning Centers with More Tasks Than Any One Pupil Can Complete
 description: The digest recommends setting up learning centers in the classroom with more tasks available than what any one pupil can complete, so each learner chooses what to work on.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

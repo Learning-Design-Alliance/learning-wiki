@@ -3,7 +3,7 @@ type: claim
 title: Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams
 description: Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams
 id: genai-homework-advantage-no-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

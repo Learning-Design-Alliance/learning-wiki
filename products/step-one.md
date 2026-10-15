@@ -4,7 +4,7 @@ id: step-one
 title: Step One
 description: Step One is a free age-friendly pre-beginning ESL and U.S.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

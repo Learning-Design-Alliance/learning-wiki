@@ -2,7 +2,7 @@
 type: theory
 title: "Two foundational conceptualizations of global awareness: earth as one interdependent system and humankind as one family"
 description: The Project is built on two foundational conceptualizations that define what global awareness means at the K-8 level.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

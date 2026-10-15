@@ -3,7 +3,7 @@ type: claim
 title: "Country classifications of control type differ sharply by domain: mixed control dominates assessment, internal control dominates curriculum"
 description: "Country classifications of control type differ sharply by domain: mixed control dominates assessment, internal control dominates curriculum"
 id: control-type-classification-counts-by-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

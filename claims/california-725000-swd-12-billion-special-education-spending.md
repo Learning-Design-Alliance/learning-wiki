@@ -3,7 +3,7 @@ type: claim
 title: California serves more than 725,000 K-12 students with disabilities and invests roughly $12 billion annually in special education, with LEA unrestricted funds covering the majority of spending
 description: California serves more than 725,000 K-12 students with disabilities and invests roughly $12 billion annually in special education, with LEA unrestricted funds covering the majority of spending
 id: california-725000-swd-12-billion-special-education-spending
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

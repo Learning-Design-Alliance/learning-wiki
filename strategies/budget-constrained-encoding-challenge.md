@@ -3,7 +3,7 @@ type: strategy
 id: budget-constrained-encoding-challenge
 title: Use a budget-constrained image encoding challenge to force explicit tradeoffs between spatial and color resolution
 description: Teams receive a grayscale astronomy photograph, a science-case goal (e.g., mapping sunspots), and a limited budget with a transmission cost per pixel and color bit, so they cannot maintain fidelity in both spatial and...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

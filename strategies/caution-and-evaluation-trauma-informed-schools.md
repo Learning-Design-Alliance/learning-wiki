@@ -3,7 +3,7 @@ type: strategy
 id: caution-and-evaluation-trauma-informed-schools
 title: Proceed with caution in adopting trauma-informed approaches and begin evaluating them, including descriptive and qualitative research on implementation
 description: "Based on the empty evidence base, the review recommends that school leaders, policymakers, and school mental health professionals \"proceed with caution in their embrace of a trauma‐informed approach as an overarching..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

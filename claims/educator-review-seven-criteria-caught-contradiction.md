@@ -3,7 +3,7 @@ type: claim
 title: Educator review of LLM-generated lesson material addressed seven criteria derived from generation records and caught a self-contradictory worked example before delivery
 description: Educator review of LLM-generated lesson material addressed seven criteria derived from generation records and caught a self-contradictory worked example before delivery
 id: educator-review-seven-criteria-caught-contradiction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

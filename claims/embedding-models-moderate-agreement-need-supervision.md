@@ -3,7 +3,7 @@ type: claim
 title: Sentence embedding models reach only moderate agreement and need human supervision for open-ended grading
 description: Sentence embedding models reach only moderate agreement and need human supervision for open-ended grading
 id: embedding-models-moderate-agreement-need-supervision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

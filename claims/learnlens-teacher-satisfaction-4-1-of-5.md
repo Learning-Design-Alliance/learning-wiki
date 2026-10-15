@@ -3,7 +3,7 @@ type: claim
 title: Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5
 description: Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5
 id: learnlens-teacher-satisfaction-4-1-of-5
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Peer support for academic work declines as Chicago students move from sixth through tenth grade
 description: Peer support for academic work declines as Chicago students move from sixth through tenth grade
 id: peer-academic-support-declines-across-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

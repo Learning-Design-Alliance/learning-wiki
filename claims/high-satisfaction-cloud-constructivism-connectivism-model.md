@@ -3,7 +3,7 @@ type: claim
 title: Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model
 description: Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model
 id: high-satisfaction-cloud-constructivism-connectivism-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Detection-led responses to AI in assessment face validity, fairness and trust limits
 description: Detection-led responses to AI in assessment face validity, fairness and trust limits
 id: detection-limits-validity-fairness-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

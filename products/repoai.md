@@ -4,7 +4,7 @@ id: repoai
 title: RepoAI
 description: RepoAI is an open GitHub repository initiative run by LIA that provides AI tutorials, implementation examples, educational materials, and software artifacts for students, educators, and self-directed learners.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

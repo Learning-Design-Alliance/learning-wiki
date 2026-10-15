@@ -3,7 +3,7 @@ type: research-method
 id: five-axis-evidence-map-framework-a-technical-axis-read-against-four-value-dimensions
 title: "Five-axis evidence map framework: a technical axis read against four value dimensions"
 description: "The review's organizing framework separates technical sophistication (RQ1: tasks, methods, technological families, contexts) from four analytically separate value dimensions (RQ2–RQ5)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

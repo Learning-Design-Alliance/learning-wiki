@@ -3,7 +3,7 @@ type: strategy
 id: dramatic-reading-shareback-strategy
 title: Schedule an engaging, playful shareback (including dramatic readings of generated text) immediately after the Generation activity
 description: "When delivering the LLMs Unplugged Fundamentals lessons, the author recommends that facilitators leave space after generation for groups to share their model's output aloud."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

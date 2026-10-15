@@ -3,7 +3,7 @@ type: element
 id: promise-neighborhoods-case-studies-project
 title: "Promise Neighborhoods Case Studies: a 2014-2015 multi-site profile project for the Promise Neighborhoods Institute at PolicyLink"
 description: Promise Neighborhoods Case Studies is the associated project under which this site profile was produced, with a stated time frame of 2014-2015.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

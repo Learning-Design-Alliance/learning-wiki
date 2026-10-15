@@ -3,7 +3,7 @@ type: claim
 title: Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning
 description: Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning
 id: cognitive-offloading-reduces-engagement-critical-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

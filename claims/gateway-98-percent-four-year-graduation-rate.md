@@ -3,7 +3,7 @@ type: claim
 title: "Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities"
 description: "Gateway students graduate at high rates, including 100% of African American, Latina/o, and students with disabilities"
 id: gateway-98-percent-four-year-graduation-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

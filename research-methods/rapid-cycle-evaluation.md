@@ -3,7 +3,7 @@ type: research-method
 id: rapid-cycle-evaluation
 title: Rapid-cycle evaluation
 description: "Rapid-cycle evaluation is presented as an approach organizations can use when decision-makers 'often lack timely and reliable evidence of whether such changes produce the expected results.' The page frames it as a 'decision support tool for continuous program and quality improvement,' applied to 'sm"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

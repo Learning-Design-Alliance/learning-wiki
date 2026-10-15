@@ -3,7 +3,7 @@ type: claim
 title: "Perceived warmth and competence of an AI tutor positively predict learners' willingness to use it in the future"
 description: "Perceived warmth and competence of an AI tutor positively predict learners' willingness to use it in the future"
 id: warmth-competence-predict-tutor-willingness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

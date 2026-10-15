@@ -3,7 +3,7 @@ type: strategy
 id: six-engagement-mechanisms-trust-calibration
 title: Six engagement-based incentive mechanisms that build evaluative moments into chatbot interaction
 description: "The article transfers misinformation-intervention logic to conversational AI: \"Engagement-based incentive mechanisms remove this dependence by building evaluative moments into the flow of interaction itself.\" Table 1..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

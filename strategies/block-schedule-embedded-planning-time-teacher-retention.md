@@ -3,7 +3,7 @@ type: strategy
 id: block-schedule-embedded-planning-time-teacher-retention
 title: Sustainable block schedule with embedded planning and professional learning time to retain teachers
 description: "Oakland International uses an A/B block schedule with 55- or 105-minute blocks that gives teachers \"approximately 90 minutes embedded in each school day and an additional hour after students are released early on Wedn..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

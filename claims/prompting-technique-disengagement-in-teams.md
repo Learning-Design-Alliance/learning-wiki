@@ -3,7 +3,7 @@ type: claim
 title: Prompting technique distribution shifts in teams, driven by students reporting no technique at all
 description: Prompting technique distribution shifts in teams, driven by students reporting no technique at all
 id: prompting-technique-disengagement-in-teams
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

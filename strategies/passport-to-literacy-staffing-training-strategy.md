@@ -3,7 +3,7 @@ type: strategy
 id: passport-to-literacy-staffing-training-strategy
 title: Staff Passport to Literacy with trained paraprofessional interventionists receiving 8 hours of training over 2 days
 description: "The program's staffing model uses paraprofessionals as interventionists: \"Reading instruction is provided by trained interventionists in small groups of 4-7 students."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

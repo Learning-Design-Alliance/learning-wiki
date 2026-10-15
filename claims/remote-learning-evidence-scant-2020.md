@@ -3,7 +3,7 @@ type: claim
 title: Evidence on what works in remote learning is scant, prompting schools and teachers to try many approaches
 description: Evidence on what works in remote learning is scant, prompting schools and teachers to try many approaches
 id: remote-learning-evidence-scant-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

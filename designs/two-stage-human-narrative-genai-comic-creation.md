@@ -3,7 +3,7 @@ type: design
 id: two-stage-human-narrative-genai-comic-creation
 title: Two-stage data comic creation pattern separating human-led narrative design from human–AI co-creation of visual elements
 description: The article describes a two-stage production process for building data comics with GenAI assistance.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

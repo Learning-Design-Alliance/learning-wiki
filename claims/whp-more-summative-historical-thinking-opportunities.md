@@ -3,7 +3,7 @@ type: claim
 title: World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula
 description: World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula
 id: whp-more-summative-historical-thinking-opportunities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

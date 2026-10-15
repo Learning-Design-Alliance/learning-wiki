@@ -3,7 +3,7 @@ type: strategy
 id: teach-fewer-problems-deeply
 title: Teach fewer mathematics problems more deeply rather than covering more problems broadly
 description: "The paper's forward-looking recommendation is that what matters is quality of engagement over quantity of coverage: \"not how much we teach but how well, not how many problems students practice but how well students un..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

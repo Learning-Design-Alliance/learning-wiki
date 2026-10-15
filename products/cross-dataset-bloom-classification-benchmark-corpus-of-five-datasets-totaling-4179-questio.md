@@ -4,7 +4,7 @@ id: cross-dataset-bloom-classification-benchmark-corpus-of-five-datasets-totalin
 title: Cross-dataset Bloom classification benchmark corpus of five datasets totaling 4,179 questions
 description: A benchmark corpus assembled by Abdolali Faraji et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

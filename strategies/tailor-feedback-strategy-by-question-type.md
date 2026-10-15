@@ -3,7 +3,7 @@ type: strategy
 id: tailor-feedback-strategy-by-question-type
 title: "Tailor feedback strategies by question type: discourage MCQ trial-and-error and scaffold open-ended revision"
 description: "Based on the divergent engagement patterns by question type, the authors recommend differentiating feedback design: \"For MCQs, systems should discourage superficial trial-and-error behaviors and focus on guiding conce..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: own-thinking-before-generative-ai-productive-struggle
 title: Have learners bring their own thinking before using generative AI to enable productive struggle
 description: "Under the Foster Metacognition practice, the framework recommends encouraging \"learners to bring their own thinking and ideas to the table before using generative AI, allowing them to engage more deeply in their own t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

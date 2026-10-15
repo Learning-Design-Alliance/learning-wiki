@@ -3,7 +3,7 @@ type: strategy
 id: consider-in-person-and-virtual-tutoring-options
 title: Consider both in-person and virtual tutoring options when selecting a math tutoring program
 description: This recommendation advises school districts exploring math tutoring programs to weigh both in-person and virtual delivery formats rather than restricting consideration to one modality.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

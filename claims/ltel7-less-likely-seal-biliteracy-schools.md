@@ -3,7 +3,7 @@ type: claim
 title: "Students designated as LTEL7 are less likely to attend schools offering the Seal of Biliteracy (78.3% vs. 83.5% of other ever-ELs)"
 description: "Students designated as LTEL7 are less likely to attend schools offering the Seal of Biliteracy (78.3% vs."
 id: ltel7-less-likely-seal-biliteracy-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

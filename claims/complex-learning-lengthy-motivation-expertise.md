@@ -3,7 +3,7 @@ type: claim
 title: "Complex learning is lengthy, requiring instruction to account for learners' motivational states and expertise development"
 description: "Complex learning is lengthy, requiring instruction to account for learners' motivational states and expertise development"
 id: complex-learning-lengthy-motivation-expertise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

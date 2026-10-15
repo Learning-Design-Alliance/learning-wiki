@@ -3,7 +3,7 @@ type: claim
 title: The authors argue the IRLA may help bridge screening and intensive, systematic instruction
 description: The authors argue the IRLA may help bridge screening and intensive, systematic instruction
 id: irla-bridging-screening-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

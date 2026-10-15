@@ -3,7 +3,7 @@ type: claim
 title: PF students reported more awareness of knowledge gaps than example observers, but awareness of knowledge gaps did not correlate with conceptual knowledge acquisition
 description: PF students reported more awareness of knowledge gaps than example observers, but awareness of knowledge gaps did not correlate with conceptual knowledge acquisition
 id: knowledge-gap-awareness-not-linked-to-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

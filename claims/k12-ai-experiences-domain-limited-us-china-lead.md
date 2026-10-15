@@ -3,7 +3,7 @@ type: claim
 title: K-12 AI learning experiences concentrate on technical, conceptual and applied skills in specific domains, while implementation schemes are led by the US and China
 description: K-12 AI learning experiences concentrate on technical, conceptual and applied skills in specific domains, while implementation schemes are led by the US and China
 id: k12-ai-experiences-domain-limited-us-china-lead
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

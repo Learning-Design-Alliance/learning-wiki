@@ -2,7 +2,7 @@
 type: theory
 title: Self-regulated learning as a motivational, cyclical process of goal setting, monitoring, and control
 description: The review frames self-regulated learning as a cognitive-motivational approach in which learners actively manage their own learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

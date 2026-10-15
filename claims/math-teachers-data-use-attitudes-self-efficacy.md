@@ -3,7 +3,7 @@ type: claim
 title: Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM
 description: Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM
 id: math-teachers-data-use-attitudes-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

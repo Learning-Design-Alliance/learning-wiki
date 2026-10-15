@@ -4,7 +4,7 @@ title: A Bayesian adaptive design can yield superior inference to a standard des
 description: A Bayesian adaptive design can yield superior inference to a standard design using less than one third the sample size under identified conditions
 id: bayesian-adaptive-superior-inference-smaller-samples
 aliases: [bayesian-adaptive-superior-inference-smaller-trials]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

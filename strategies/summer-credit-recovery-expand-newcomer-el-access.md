@@ -3,7 +3,7 @@ type: strategy
 id: summer-credit-recovery-expand-newcomer-el-access
 title: "Offer summer credit recovery to expand newcomer English learners' access to academic subjects"
 description: "The article investigates a summer credit recovery program aimed at expanding high school newcomer ELs' access to academic subjects, in which students recover or earn credits outside the regular school year."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

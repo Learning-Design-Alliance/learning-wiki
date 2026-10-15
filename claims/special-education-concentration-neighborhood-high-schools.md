@@ -3,7 +3,7 @@ type: claim
 title: Special education enrollment in ninth grade rose from 11.5 percent in 1993-94 to 16.4 percent in 1999-00, concentrating students with disabilities in neighborhood high schools
 description: Special education enrollment in ninth grade rose from 11.5 percent in 1993-94 to 16.4 percent in 1999-00, concentrating students with disabilities in neighborhood high schools
 id: special-education-concentration-neighborhood-high-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

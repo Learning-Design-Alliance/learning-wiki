@@ -3,7 +3,7 @@ type: claim
 title: Feedback channel is a non-significant moderator of feedback effects
 description: Feedback channel is a non-significant moderator of feedback effects
 id: feedback-channel-non-significant-moderator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

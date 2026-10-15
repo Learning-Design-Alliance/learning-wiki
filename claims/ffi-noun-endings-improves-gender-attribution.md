@@ -3,7 +3,7 @@ type: claim
 title: "Form-focused instruction on noun endings significantly increases French immersion students' ability to correctly assign grammatical gender, with gains maintained on delayed posttests"
 description: "Form-focused instruction on noun endings significantly increases French immersion students' ability to correctly assign grammatical gender, with gains maintained on delayed posttests"
 id: ffi-noun-endings-improves-gender-attribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

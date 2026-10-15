@@ -3,7 +3,7 @@ type: claim
 title: Most pilot teachers used the Write to Succeed practices and found them easy to use and helpful for students, with ease of use increasing across semesters
 description: Most pilot teachers used the Write to Succeed practices and found them easy to use and helpful for students, with ease of use increasing across semesters
 id: wts-practices-used-and-rated-helpful
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

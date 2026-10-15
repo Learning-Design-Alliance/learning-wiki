@@ -3,7 +3,7 @@ type: strategy
 id: replicate-cross-cultural-studies-with-in-country-comparison
 title: Replicate cross-cultural psychosocial studies with additional samples and in-country comparison groups
 description: "The authors recommend that cross-cultural findings warrant replication with additional sample groups of first-generation Asian immigrants, and that administering \"the same test on Koreans in Korea would be helpful to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

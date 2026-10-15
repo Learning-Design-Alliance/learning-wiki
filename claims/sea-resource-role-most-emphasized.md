@@ -3,7 +3,7 @@ type: claim
 title: The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans.
 description: The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans.
 id: sea-resource-role-most-emphasized
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

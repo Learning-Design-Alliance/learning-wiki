@@ -2,7 +2,7 @@
 type: theory
 title: Collaborative learning in adult literacy is defined by nine interlocking characteristics
 description: "The guide presents collaborative learning (CL) as an approach to adult literacy instruction defined by nine characteristics: it is participatory, critical, student-centered, based on dialogue, transforms passivity int..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

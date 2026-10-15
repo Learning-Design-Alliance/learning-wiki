@@ -3,7 +3,7 @@ type: element
 id: splash-bubbles-learning-blueprint-ngss
 title: Learning blueprint aligned to NGSS
 description: A learning blueprint developed to guide the design of all project resources, including the app and research instrumentation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

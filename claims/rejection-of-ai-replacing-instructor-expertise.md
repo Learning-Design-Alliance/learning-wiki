@@ -3,7 +3,7 @@ type: claim
 title: Practitioners near-universally reject AI as a replacement for instructor expertise while affirming its supportive, collaborative role
 description: Practitioners near-universally reject AI as a replacement for instructor expertise while affirming its supportive, collaborative role
 id: rejection-of-ai-replacing-instructor-expertise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

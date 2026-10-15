@@ -3,7 +3,7 @@ type: claim
 title: Test scores of students in both closed and welcoming schools were negatively affected, with closed-school students showing the largest negative effect
 description: Test scores of students in both closed and welcoming schools were negatively affected, with closed-school students showing the largest negative effect
 id: test-scores-negatively-affected-closed-and-welcoming-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

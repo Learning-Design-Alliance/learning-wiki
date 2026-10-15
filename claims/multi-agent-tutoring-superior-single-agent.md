@@ -3,7 +3,7 @@ type: claim
 title: Multi-agent tutoring architectures show superior behaviour modelling and feedback compared to single-agent or rule-based tutors
 description: Multi-agent tutoring architectures show superior behaviour modelling and feedback compared to single-agent or rule-based tutors
 id: multi-agent-tutoring-superior-single-agent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

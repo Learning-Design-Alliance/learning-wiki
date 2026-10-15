@@ -3,7 +3,7 @@ type: claim
 title: Self-disclosure, loyalty, and mild deviance significantly and positively predict reactive aggression among high school girls
 description: Self-disclosure, loyalty, and mild deviance significantly and positively predict reactive aggression among high school girls
 id: self-disclosure-loyalty-mild-deviance-predict-reactive-aggression-girls
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

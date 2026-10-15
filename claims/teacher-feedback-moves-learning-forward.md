@@ -3,7 +3,7 @@ type: claim
 title: Teacher feedback as part of formative assessment has been shown by multiple studies to move student learning forward
 description: Teacher feedback as part of formative assessment has been shown by multiple studies to move student learning forward
 id: teacher-feedback-moves-learning-forward
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

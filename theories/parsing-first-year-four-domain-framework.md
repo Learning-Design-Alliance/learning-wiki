@@ -2,7 +2,7 @@
 type: theory
 title: "Terenzini and Reason's four-domain conceptual framework for first-year college outcomes"
 description: "The study's conceptual framework expands Astin's Inputs-Environment-Outputs approach and Terenzini, Springer, Pascarella, and Nora's college effects model."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

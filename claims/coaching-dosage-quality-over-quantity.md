@@ -3,7 +3,7 @@ type: claim
 title: No specific coaching dosage is established as necessary; coaching outcomes appear more sensitive to coaching quality than dosage, with sustained duration favoring comprehensive coaching
 description: No specific coaching dosage is established as necessary; coaching outcomes appear more sensitive to coaching quality than dosage, with sustained duration favoring comprehensive coaching
 id: coaching-dosage-quality-over-quantity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

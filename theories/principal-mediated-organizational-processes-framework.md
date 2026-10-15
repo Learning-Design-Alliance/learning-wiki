@@ -2,7 +2,7 @@
 type: theory
 title: "School organizational processes mediating principal influence: a five-process framework"
 description: "The chapter organizes principal influence around a set of school organizational processes that mediate achievement growth: \"parent-teacher trust, school climate, professional capacity, instructional guidance, and teac..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

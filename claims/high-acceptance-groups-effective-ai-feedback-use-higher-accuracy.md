@@ -3,7 +3,7 @@ type: claim
 title: High-acceptance groups made more effective use of AI feedback during revision, resulting in higher accuracy scores
 description: High-acceptance groups made more effective use of AI feedback during revision, resulting in higher accuracy scores
 id: high-acceptance-groups-effective-ai-feedback-use-higher-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

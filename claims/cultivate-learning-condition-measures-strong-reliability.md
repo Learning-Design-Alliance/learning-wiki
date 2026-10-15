@@ -3,7 +3,7 @@ type: claim
 title: All nine Cultivate learning condition measures show strong Rasch person reliability (0.82-0.87) in CPS administrations
 description: All nine Cultivate learning condition measures show strong Rasch person reliability (0.82-0.87) in CPS administrations
 id: cultivate-learning-condition-measures-strong-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

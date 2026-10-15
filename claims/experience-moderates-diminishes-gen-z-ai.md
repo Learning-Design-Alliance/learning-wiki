@@ -3,7 +3,7 @@ type: claim
 title: Experience influences all predictive factors of AI adoption, but its impact diminishes as experience increases
 description: Experience influences all predictive factors of AI adoption, but its impact diminishes as experience increases
 id: experience-moderates-diminishes-gen-z-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

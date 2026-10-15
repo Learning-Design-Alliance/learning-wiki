@@ -3,7 +3,7 @@ type: claim
 title: LLM assistance value in VR instruction varies with instructional intent type
 description: LLM assistance value in VR instruction varies with instructional intent type
 id: llm-assistance-value-varies-with-intent-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

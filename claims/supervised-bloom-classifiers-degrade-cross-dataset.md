@@ -3,7 +3,7 @@ type: claim
 title: Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets
 description: Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets
 id: supervised-bloom-classifiers-degrade-cross-dataset
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

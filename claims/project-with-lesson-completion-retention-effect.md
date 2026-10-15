@@ -3,7 +3,7 @@ type: claim
 title: Justice-involved youth who remained at their sites completed an average of 11.0 of 12 Project With lessons, while those who left early completed 5.4
 description: Justice-involved youth who remained at their sites completed an average of 11.0 of 12 Project With lessons, while those who left early completed 5.4
 id: project-with-lesson-completion-retention-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

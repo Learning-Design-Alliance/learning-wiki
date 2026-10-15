@@ -3,7 +3,7 @@ type: claim
 title: Australian universities show an escalating trend toward contingent academic appointments and a declining trend in continuing teaching-and-research staff
 description: Australian universities show an escalating trend toward contingent academic appointments and a declining trend in continuing teaching-and-research staff
 id: contingent-academic-employment-trend-australia
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

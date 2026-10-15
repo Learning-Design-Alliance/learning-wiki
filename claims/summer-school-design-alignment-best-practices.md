@@ -3,7 +3,7 @@ type: claim
 title: The brief evaluates how summer program design and implementation aligned with recommended best practices
 description: The brief evaluates how summer program design and implementation aligned with recommended best practices
 id: summer-school-design-alignment-best-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

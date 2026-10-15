@@ -3,7 +3,7 @@ type: design
 id: in-school-data-guided-tutoring-supplements-classroom
 title: Supplement classroom instruction with consistent in-school tutoring sessions that use student performance data to guide instruction
 description: "The article describes a tutoring model in which sessions occur during the school day, are consistent across the year, and use \"student performance data to guide instruction.\" Tutoring is intended to supplement, not re..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-08

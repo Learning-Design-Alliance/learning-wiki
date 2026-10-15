@@ -3,7 +3,7 @@ type: strategy
 id: cheatsheet-creation-structured-learning-activity
 title: Frame cheat sheet creation as a structured learning activity rather than merely permitting notes
 description: "This strategy positions instructors to present cheat sheet preparation as part of the learning process itself: \"By framing cheat sheet creation as a structured learning activity, rather than simply permitting students..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

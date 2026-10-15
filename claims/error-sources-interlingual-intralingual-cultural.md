@@ -3,7 +3,7 @@ type: claim
 title: Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies
 description: Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies
 id: error-sources-interlingual-intralingual-cultural
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

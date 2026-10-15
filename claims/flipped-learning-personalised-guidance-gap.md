@@ -3,7 +3,7 @@ type: claim
 title: Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address
 description: Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address
 id: flipped-learning-personalised-guidance-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

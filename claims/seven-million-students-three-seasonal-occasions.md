@@ -4,7 +4,7 @@ title: Seasonal growth patterns were examined with math and reading scores for o
 description: Seasonal growth patterns were examined with math and reading scores for over seven million K-8 students across three within-year test occasions
 id: seven-million-students-three-seasonal-occasions
 aliases: [seven-million-student-three-season-dataset-growth-linearity]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

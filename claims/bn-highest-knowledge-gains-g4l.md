@@ -3,7 +3,7 @@ type: claim
 title: In a classroom study of the G4L system, the Bayesian knowledge propagation algorithm demonstrated the highest knowledge gains, and log-data analysis revealed significant differences in self-regulated learning patterns between learners
 description: In a classroom study of the G4L system, the Bayesian knowledge propagation algorithm demonstrated the highest knowledge gains, and log-data analysis revealed significant differences in self-regulated learning patterns...
 id: bn-highest-knowledge-gains-g4l
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

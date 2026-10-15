@@ -3,7 +3,7 @@ type: research-method
 id: combined-tssna-and-ona-method
 title: Combined tSSNA and ONA method
 description: This analytic method combines temporal socio-semantic network analysis (tSSNA) and ordered network analysis (ONA) to analyze collaborative knowledge creation.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

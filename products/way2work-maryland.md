@@ -4,7 +4,7 @@ id: way2work-maryland
 title: Way2Work Maryland
 description: A U.S.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

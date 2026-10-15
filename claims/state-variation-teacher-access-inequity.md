@@ -3,7 +3,7 @@ type: claim
 title: State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools
 description: State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools
 id: state-variation-teacher-access-inequity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

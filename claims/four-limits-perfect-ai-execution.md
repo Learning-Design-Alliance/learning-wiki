@@ -3,7 +3,7 @@ type: claim
 title: "Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation"
 description: "Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation"
 id: four-limits-perfect-ai-execution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

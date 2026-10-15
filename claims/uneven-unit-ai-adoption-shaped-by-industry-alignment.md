@@ -3,7 +3,7 @@ type: claim
 title: AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment
 description: AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment
 id: uneven-unit-ai-adoption-shaped-by-industry-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

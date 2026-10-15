@@ -3,7 +3,7 @@ type: claim
 title: About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades
 description: About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades
 id: online-charter-schools-200-schools-200000-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

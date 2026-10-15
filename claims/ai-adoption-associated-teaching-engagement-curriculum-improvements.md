@@ -3,7 +3,7 @@ type: claim
 title: AI adoption in higher education is associated with improved teaching practices, learner engagement and curriculum innovation
 description: AI adoption in higher education is associated with improved teaching practices, learner engagement and curriculum innovation
 id: ai-adoption-associated-teaching-engagement-curriculum-improvements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

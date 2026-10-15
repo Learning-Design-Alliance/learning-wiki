@@ -3,7 +3,7 @@ type: claim
 title: Adaptive systems and personalisation research in AIHEd spans five subcategories, with chatbots/virtual assistants the most reviewed (n = 20)
 description: Adaptive systems and personalisation research in AIHEd spans five subcategories, with chatbots/virtual assistants the most reviewed (n = 20)
 id: aihed-adaptive-systems-five-subcategories-chatbots
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

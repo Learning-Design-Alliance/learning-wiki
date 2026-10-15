@@ -3,7 +3,7 @@ type: strategy
 id: transparency-and-district-ai-vetting-policies
 title: Design AI literacy tools with transparency in development and establish district policies for vetting AI tools
 description: Drawing on educator concerns about bias, inaccuracies, and data privacy, the report recommends that AI tools for reading be designed with English Learners at the forefront.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

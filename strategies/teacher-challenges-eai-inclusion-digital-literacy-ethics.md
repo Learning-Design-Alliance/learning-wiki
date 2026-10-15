@@ -3,7 +3,7 @@ type: strategy
 id: teacher-challenges-eai-inclusion-digital-literacy-ethics
 title: Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension
 description: "The review identifies challenges teachers must take on when including AI in education, adapted from Flores-Vivar & García-Peñalvo (2023), across dimensions such as accessibility, intelligent tutoring, virtual facilita..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

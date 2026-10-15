@@ -2,7 +2,7 @@
 type: theory
 title: "Gombert's stage model: metalinguistic awareness develops after linguistic competence, via epilinguistic awareness"
 description: "The paper adopts Gombert's (1992) account in which children pass from an initial stage of epilinguistic awareness, which \"does not involve conscious awareness or intentional manipulation of language as an object\", to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

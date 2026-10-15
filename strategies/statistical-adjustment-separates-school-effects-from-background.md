@@ -3,7 +3,7 @@ type: strategy
 id: statistical-adjustment-separates-school-effects-from-background
 title: Use statistical adjustment to separate school effects from family resources and prior learning when rating schools
 description: "The report describes a strategy in which a state education agency, here the Louisiana Department of Education working with Mathematica, uses a statistical model on administrative data to estimate each school's contrib..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

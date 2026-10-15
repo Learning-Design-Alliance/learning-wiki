@@ -3,7 +3,7 @@ type: claim
 title: Most remote courses used both synchronous and asynchronous delivery mechanisms
 description: Most remote courses used both synchronous and asynchronous delivery mechanisms
 id: remote-courses-mixed-synchronous-asynchronous-delivery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

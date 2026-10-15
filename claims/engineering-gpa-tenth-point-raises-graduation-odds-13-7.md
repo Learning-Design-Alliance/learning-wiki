@@ -3,7 +3,7 @@ type: claim
 title: Each tenth of a grade point increase in engineering GPA raises the odds of six-year engineering graduation for black students by 13.7 percent
 description: Each tenth of a grade point increase in engineering GPA raises the odds of six-year engineering graduation for black students by 13.7 percent
 id: engineering-gpa-tenth-point-raises-graduation-odds-13-7
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

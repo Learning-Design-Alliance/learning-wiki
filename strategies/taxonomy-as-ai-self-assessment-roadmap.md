@@ -3,7 +3,7 @@ type: strategy
 id: taxonomy-as-ai-self-assessment-roadmap
 title: Use the taxonomy as a self-assessment and strategic-planning roadmap for institutional AI adoption
 description: "The article recommends that educational institutions use the ten-domain taxonomy as a self-assessment tool: by mapping existing AI initiatives to the domains, leaders can identify gaps in their AI strategy and priorit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

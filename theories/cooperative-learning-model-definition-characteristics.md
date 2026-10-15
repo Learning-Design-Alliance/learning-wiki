@@ -2,7 +2,7 @@
 type: theory
 title: Cooperative learning model as a student-centered active-learning model with distinguishing characteristics
 description: The article defines cooperative learning as a student-centered learning model in which students work in small groups around a common goal by helping each other learn, as an instantiation of active learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

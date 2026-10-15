@@ -3,7 +3,7 @@ type: claim
 title: Within General Capability, model spread concentrates in competition mathematics (AIME), which dominates the aggregate score
 description: Within General Capability, model spread concentrates in competition mathematics (AIME), which dominates the aggregate score
 id: aime-dominates-general-capability-spread
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

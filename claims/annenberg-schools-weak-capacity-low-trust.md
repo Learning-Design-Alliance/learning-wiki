@@ -3,7 +3,7 @@ type: claim
 title: Many Annenberg schools had weak human and social resources, including low trust among teachers, limiting their capacity for school development
 description: Many Annenberg schools had weak human and social resources, including low trust among teachers, limiting their capacity for school development
 id: annenberg-schools-weak-capacity-low-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

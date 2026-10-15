@@ -3,7 +3,7 @@ type: claim
 title: Monthly coaching sessions helped teachers use and integrate MI Write with their instruction
 description: Monthly coaching sessions helped teachers use and integrate MI Write with their instruction
 id: monthly-coaching-helped-teachers-integrate-mi-write
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

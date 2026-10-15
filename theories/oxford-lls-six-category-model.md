@@ -2,7 +2,7 @@
 type: theory
 title: "Oxford's (1990) language learning strategy model with six strategy categories"
 description: "The study's conceptual framework is Oxford's (1990) LLS model, chosen \"due to its thorough categorization of LLSs and for its frequent mention and use in the literature.\" The model divides LLSs into six groups: \"memor..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Feedback type shifts engagement by question type: educator feedback yields more MCQ submissions while AI feedback trends toward more open-ended revisions, with no overall difference"
 description: "Feedback type shifts engagement by question type: educator feedback yields more MCQ submissions while AI feedback trends toward more open-ended revisions, with no overall difference"
 id: feedback-type-shifts-engagement-by-question-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

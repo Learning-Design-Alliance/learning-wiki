@@ -3,7 +3,7 @@ type: strategy
 id: compare-ai-texts-with-peer-reviewed-sources
 title: Embed ethical inquiry into AI-supported instruction by having learners compare AI-generated texts with peer-reviewed sources
 description: "This strategy positions AI use inside a critical-comparison activity: learners evaluate AI-generated output against peer-reviewed sources to build critical awareness and reduce misuse."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

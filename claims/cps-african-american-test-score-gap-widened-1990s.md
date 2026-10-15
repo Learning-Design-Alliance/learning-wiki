@@ -3,7 +3,7 @@ type: claim
 title: The CPS test score gap between African-American students and other ethnic groups widened over the decade because Asian, white, and Latino scores improved at faster rates
 description: The CPS test score gap between African-American students and other ethnic groups widened over the decade because Asian, white, and Latino scores improved at faster rates
 id: cps-african-american-test-score-gap-widened-1990s
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: ai-lesson-plans-as-drafts-requiring-teacher-adaptation
 title: Treat AI-generated lesson plans as drafts requiring teacher evaluation, adaptation, and pedagogical judgment
 description: The article recommends that educators treat AI-generated lesson plans as starting points rather than finished products, applying critical evaluation and adaptation before classroom use.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

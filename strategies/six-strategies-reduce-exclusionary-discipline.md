@@ -3,7 +3,7 @@ type: strategy
 id: six-strategies-reduce-exclusionary-discipline
 title: Six-part state and local policy strategy for reducing exclusionary discipline and suspension gaps
 description: "The report recommends that states and districts eliminate zero-tolerance policies and restrict suspensions for minor offenses; support evidence-based alternatives such as \"schoolwide restorative practices and teaching..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

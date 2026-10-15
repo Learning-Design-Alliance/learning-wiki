@@ -3,7 +3,7 @@ type: claim
 title: Post-session subjective ratings favored the adaptive system for the expressive persona but showed a reversed adaptivity disadvantage for the guarded persona
 description: Post-session subjective ratings favored the adaptive system for the expressive persona but showed a reversed adaptivity disadvantage for the guarded persona
 id: avp-subjective-ratings-persona-divergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: kldf
 title: KLDF
 description: A KIPP programme that disseminates KIPP school-leadership preparation strategies to leaders and schools outside KIPP and to the broader principal-preparation field.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

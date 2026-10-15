@@ -3,7 +3,7 @@ type: claim
 title: Structured developmental annotation (CLARA) achieves stronger alignment with developmental references than readability-based and direct prompting baselines
 description: Structured developmental annotation (CLARA) achieves stronger alignment with developmental references than readability-based and direct prompting baselines
 id: clara-outperforms-readability-and-prompting-baselines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

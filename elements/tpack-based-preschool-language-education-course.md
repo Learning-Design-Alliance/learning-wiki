@@ -3,7 +3,7 @@ type: element
 id: tpack-based-preschool-language-education-course
 title: TPACK-based Preschool Language Education course (objectives, content, learning organization, assessment)
 description: A 13-week course integrating the TPACK framework into Preschool Language Education for pre-service preschool teachers.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

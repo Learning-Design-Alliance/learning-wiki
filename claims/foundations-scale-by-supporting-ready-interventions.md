@@ -3,7 +3,7 @@ type: claim
 title: Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled
 description: Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled
 id: foundations-scale-by-supporting-ready-interventions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

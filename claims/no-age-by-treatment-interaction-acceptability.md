@@ -3,7 +3,7 @@ type: claim
 title: No significant interaction between age group and treatment type in acceptability ratings
 description: No significant interaction between age group and treatment type in acceptability ratings
 id: no-age-by-treatment-interaction-acceptability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

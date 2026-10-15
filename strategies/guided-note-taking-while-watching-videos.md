@@ -3,7 +3,7 @@ type: strategy
 id: guided-note-taking-while-watching-videos
 title: Assign guided or scaffolded note-taking to be completed while watching lecture videos to keep video viewing active rather than passive
 description: Instructors in the case study courses assigned guided lecture outlines or note-taking activities that students completed while watching recorded lectures and submitted for credit.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

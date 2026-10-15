@@ -3,7 +3,7 @@ type: claim
 title: Among SLO districts the most frequently reported benefit was increased collaboration, while alternative assessment-based value-added models were perceived as fairer than SLOs
 description: Among SLO districts the most frequently reported benefit was increased collaboration, while alternative assessment-based value-added models were perceived as fairer than SLOs
 id: collaboration-benefit-versus-vam-fairness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: theory
 title: Realism (Educational Philosophy)
 description: Realism holds that reality exists independent of the human mind and is understood through careful observation and logic; teaching therefore centers on basic skills, memorization, and mastery of facts demonstrated through observation and applied experimentation.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

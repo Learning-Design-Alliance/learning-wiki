@@ -3,7 +3,7 @@ type: claim
 title: Only 3 of 183 publications on generative AI in secondary STEM education address learning about generative AI rather than learning with it
 description: Only 3 of 183 publications on generative AI in secondary STEM education address learning about generative AI rather than learning with it
 id: three-of-183-address-learning-about-generative-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

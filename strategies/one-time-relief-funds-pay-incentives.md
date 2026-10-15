@@ -3,7 +3,7 @@ type: strategy
 id: one-time-relief-funds-pay-incentives
 title: Use one-time federal relief funds for temporary pay incentives, including hazard pay, to retain and attract educators during the pandemic
 description: The brief suggests school systems invest one-time ARP ESSER funds in temporary increases to educator pay given increased demand, burden, and risk during the pandemic.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

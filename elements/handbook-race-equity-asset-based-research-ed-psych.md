@@ -3,7 +3,7 @@ type: element
 id: handbook-race-equity-asset-based-research-ed-psych
 title: Handbook of Race, Equity, and Asset-Based Research in Educational Psychology (Routledge)
 description: An edited scholarly volume, edited by Francesca A.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

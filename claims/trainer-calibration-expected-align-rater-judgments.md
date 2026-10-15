@@ -3,7 +3,7 @@ type: claim
 title: Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level
 description: Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level
 id: trainer-calibration-expected-align-rater-judgments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

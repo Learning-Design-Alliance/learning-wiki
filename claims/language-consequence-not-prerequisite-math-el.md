@@ -3,7 +3,7 @@ type: claim
 title: Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners
 description: Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners
 id: language-consequence-not-prerequisite-math-el
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

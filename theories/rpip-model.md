@@ -2,7 +2,7 @@
 type: theory
 title: Research-Practice-Industry Partnership (RPIP) model
 description: "The RPIP model extends research-practice partnerships by bringing industry into a three-sector collaboration in which \"representatives from all three sectors collaborate to develop new learnings that benefit all parti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

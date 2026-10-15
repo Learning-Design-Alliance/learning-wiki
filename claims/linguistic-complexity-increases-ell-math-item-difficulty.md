@@ -3,7 +3,7 @@ type: claim
 title: Greater linguistic complexity increases the difficulty of English-language math items for ELLs compared to non-ELLs of equivalent math proficiency
 description: Greater linguistic complexity increases the difficulty of English-language math items for ELLs compared to non-ELLs of equivalent math proficiency
 id: linguistic-complexity-increases-ell-math-item-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

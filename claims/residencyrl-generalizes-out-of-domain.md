@@ -3,7 +3,7 @@ type: claim
 title: Procedural competencies from simulation-based RL training generalize to out-of-domain benchmarks including AMIE Mx, AgentClinic, and CRAFT-MD
 description: Procedural competencies from simulation-based RL training generalize to out-of-domain benchmarks including AMIE Mx, AgentClinic, and CRAFT-MD
 id: residencyrl-generalizes-out-of-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

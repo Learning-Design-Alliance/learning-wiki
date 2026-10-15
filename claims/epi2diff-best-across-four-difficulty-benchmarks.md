@@ -3,7 +3,7 @@ type: claim
 title: Epi2Diff achieves the best performance across all four item-difficulty test sets and all reported metrics, outperforming SLM fine-tuning, LLM prompting, and supervised LLM adaptation baselines
 description: Epi2Diff achieves the best performance across all four item-difficulty test sets and all reported metrics, outperforming SLM fine-tuning, LLM prompting, and supervised LLM adaptation baselines
 id: epi2diff-best-across-four-difficulty-benchmarks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

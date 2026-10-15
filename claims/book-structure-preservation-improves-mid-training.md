@@ -3,7 +3,7 @@ type: claim
 title: Preserving book-level document structure during mid-training improves downstream performance beyond identical content split into sections (+1.02 mean)
 description: Preserving book-level document structure during mid-training improves downstream performance beyond identical content split into sections (+1.02 mean)
 id: book-structure-preservation-improves-mid-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

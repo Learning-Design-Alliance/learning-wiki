@@ -3,7 +3,7 @@ type: claim
 title: "Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4"
 description: "Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4"
 id: proficiency-moderates-gloss-vocabulary-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

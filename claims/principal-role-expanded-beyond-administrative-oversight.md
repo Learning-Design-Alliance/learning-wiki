@@ -3,7 +3,7 @@ type: claim
 title: "The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration"
 description: "The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration"
 id: principal-role-expanded-beyond-administrative-oversight
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "The large majority (71.2%) of Universal ESA users had not previously attended a public school, adding new costs to the state education budget"
 description: "The large majority (71.2%) of Universal ESA users had not previously attended a public school, adding new costs to the state education budget"
 id: universal-esa-majority-not-previously-public-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

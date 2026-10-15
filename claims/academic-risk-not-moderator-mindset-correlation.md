@@ -3,7 +3,7 @@ type: claim
 title: Academic risk status does not significantly moderate the mind-set–achievement correlation
 description: Academic risk status does not significantly moderate the mind-set–achievement correlation
 id: academic-risk-not-moderator-mindset-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

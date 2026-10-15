@@ -3,7 +3,7 @@ type: claim
 title: "Undergraduate students were the most studied academic level in AIEd higher education research, at 72% of studies"
 description: "Undergraduate students were the most studied academic level in AIEd higher education research, at 72% of studies"
 id: undergraduates-most-studied-ai-ed-he
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

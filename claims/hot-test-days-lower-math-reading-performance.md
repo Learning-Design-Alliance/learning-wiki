@@ -3,7 +3,7 @@ type: claim
 title: Environmental temperatures on test days are associated with student math and reading performance, per the report this appendix documents
 description: Environmental temperatures on test days are associated with student math and reading performance, per the report this appendix documents
 id: hot-test-days-lower-math-reading-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

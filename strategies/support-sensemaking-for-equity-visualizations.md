@@ -3,7 +3,7 @@ type: strategy
 id: support-sensemaking-for-equity-visualizations
 title: Support teachers with sensemaking routines and training when deploying equity visualizations
 description: "The article's Notes for Practice state that \"Teachers need support to engage in sensemaking when using visualizations of equity from their classroom to use them more frequently as compared to visualizations that don't..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

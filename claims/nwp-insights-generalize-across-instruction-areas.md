@@ -3,7 +3,7 @@ type: claim
 title: "Insights from the National Writing Project's teacher-leader preparation are presented as relevant for facilitating professional learning in all areas of instruction"
 description: "Insights from the National Writing Project's teacher-leader preparation are presented as relevant for facilitating professional learning in all areas of instruction"
 id: nwp-insights-generalize-across-instruction-areas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

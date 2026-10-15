@@ -3,7 +3,7 @@ type: claim
 title: "Grades 10-11 GPA estimates from CALPADS and UC data agreed closely: over 95% of students within three tenths of a point and the at-or-above-3 conclusion matched for 97%"
 description: "Grades 10-11 GPA estimates from CALPADS and UC data agreed closely: over 95% of students within three tenths of a point and the at-or-above-3 conclusion matched for 97%"
 id: calpads-uc-gpa-alignment-close
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

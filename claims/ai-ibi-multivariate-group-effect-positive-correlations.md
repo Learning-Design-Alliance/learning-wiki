@@ -3,7 +3,7 @@ type: claim
 title: Multivariate analysis confirmed a significant overall group effect, and all outcome variables correlated positively in both groups
 description: Multivariate analysis confirmed a significant overall group effect, and all outcome variables correlated positively in both groups
 id: ai-ibi-multivariate-group-effect-positive-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

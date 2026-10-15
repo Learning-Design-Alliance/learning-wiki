@@ -3,7 +3,7 @@ type: strategy
 id: parent-teacher-collaboration-independent-tasks-patience
 title: Parent-teacher collaboration on independent self-care tasks and patience training to promote EF
 description: "The teachers' guidelines propose that parents and teachers jointly train children to perform daily tasks independently (e.g., following verbal instructions, choosing clothes) and to wait rather than have desires immed..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

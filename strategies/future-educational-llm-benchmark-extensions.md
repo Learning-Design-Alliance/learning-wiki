@@ -3,7 +3,7 @@ type: strategy
 id: future-educational-llm-benchmark-extensions
 title: Extend educational LLM benchmarking toward multilingual contexts, real classroom interaction data, and targeted training for identified capability gaps
 description: The authors close by recommending next steps for educational LLM evaluation and development.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

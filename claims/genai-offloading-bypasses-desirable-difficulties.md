@@ -3,7 +3,7 @@ type: claim
 title: Immediate LLM explanations risk bypassing the generative processes required for durable understanding
 description: Immediate LLM explanations risk bypassing the generative processes required for durable understanding
 id: genai-offloading-bypasses-desirable-difficulties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

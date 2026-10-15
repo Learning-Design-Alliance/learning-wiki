@@ -3,7 +3,7 @@ type: strategy
 id: seven-tips-early-math-family-engagement
 title: Seven practical tips for integrating early math into family engagement programs
 description: "The brief distills the experiences of five Heising-Simons Foundation grantees into seven implementable tips for practitioners: \"build on successful family engagement approaches and ensure staff buy-in; focus on develo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

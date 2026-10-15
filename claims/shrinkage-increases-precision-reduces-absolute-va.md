@@ -3,7 +3,7 @@ type: claim
 title: Empirical Bayes shrinkage increases the precision of value-added estimates and reduces their absolute value for teachers of hard-to-predict students
 description: Empirical Bayes shrinkage increases the precision of value-added estimates and reduces their absolute value for teachers of hard-to-predict students
 id: shrinkage-increases-precision-reduces-absolute-va
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

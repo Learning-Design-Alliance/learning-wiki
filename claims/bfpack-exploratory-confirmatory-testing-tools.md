@@ -3,7 +3,7 @@ type: claim
 title: BFpack provides both Bayesian exploratory and confirmatory hypothesis testing tools with equality and order constraints
 description: BFpack provides both Bayesian exploratory and confirmatory hypothesis testing tools with equality and order constraints
 id: bfpack-exploratory-confirmatory-testing-tools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

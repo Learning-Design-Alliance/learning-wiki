@@ -4,7 +4,7 @@ id: progfeed
 title: PROGFEED
 description: PROGFEED is a longitudinal dataset released by Hasnain Heickal et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Distortive effects of disengagement on school means were diluted by the high proportion of students exhibiting no non-effortful behavior
 description: Distortive effects of disengagement on school means were diluted by the high proportion of students exhibiting no non-effortful behavior
 id: disengagement-diluted-by-engaged-majority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: instruction-study
 title: Instruction Study
 description: A Chicago Public Schools district-wide dataset created by Stevens et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

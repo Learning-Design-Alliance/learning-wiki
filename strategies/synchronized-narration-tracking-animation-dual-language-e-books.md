@@ -3,7 +3,7 @@ type: strategy
 id: synchronized-narration-tracking-animation-dual-language-e-books
 title: Embed synchronized audio narration with finger-tracking animation in dual-language e-books to support independent bilingual reading
 description: "The authors recommend designing dual-language e-books with \"synchronized dual-channel (visual and audio) inputs and attention-guiding cues\" so children reading independently attend to print in both their dominant and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

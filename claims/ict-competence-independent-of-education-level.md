@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' ICT-use competence is high and statistically independent of educational level"
 description: "Teachers' ICT-use competence is high and statistically independent of educational level"
 id: ict-competence-independent-of-education-level
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Centering teachers of color as leaders, designers, and implementers throughout design is the most broadly appreciated aspect of the Design Team process
 description: Centering teachers of color as leaders, designers, and implementers throughout design is the most broadly appreciated aspect of the Design Team process
 id: centering-teacher-of-color-voice-distributed-leadership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

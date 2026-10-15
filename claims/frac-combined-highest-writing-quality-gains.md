@@ -3,7 +3,7 @@ type: claim
 title: In AI-assisted writing, the combined FRAC+APCA intervention produced the highest writing quality gains, with FRAC alone exceeding APCA alone, across T1–T3
 description: In AI-assisted writing, the combined FRAC+APCA intervention produced the highest writing quality gains, with FRAC alone exceeding APCA alone, across T1–T3
 id: frac-combined-highest-writing-quality-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

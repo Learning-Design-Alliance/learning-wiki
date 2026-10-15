@@ -3,7 +3,7 @@ type: strategy
 id: middle-school-career-awareness-outreach
 title: Begin career-awareness outreach in middle school to build the pipeline for high-demand fields
 description: "NVCC's CCTI health science project reaches students before high school because, in Johnson's words, \"awareness must begin while students are in middle school.\" The college partners with Virginia Hospital Center to off..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

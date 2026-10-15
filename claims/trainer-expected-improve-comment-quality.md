@@ -3,7 +3,7 @@ type: claim
 title: The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based
 description: The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based
 id: trainer-expected-improve-comment-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

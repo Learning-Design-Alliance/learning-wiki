@@ -3,7 +3,7 @@ type: claim
 title: Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)
 description: Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)
 id: growth-mindset-potentially-positive-academic-achievement-postsecondary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

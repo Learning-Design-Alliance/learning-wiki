@@ -4,7 +4,7 @@ id: science-student-electronic-exit-ticket-seet
 title: Science Student Electronic Exit Ticket (SEET)
 description: A web-based application developed by Ali Raza and colleagues that collects student experience exit-ticket surveys and provides whole-class and demographic-disaggregated visualizations for teachers.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

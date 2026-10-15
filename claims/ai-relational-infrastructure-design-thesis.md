@@ -3,7 +3,7 @@ type: claim
 title: "Design thesis: AI in socio-emotional teacher development is acceptable and potentially valuable when it functions as relational infrastructure rather than a substitutive emotional agent, evaluated through relational densification"
 description: "Design thesis: AI in socio-emotional teacher development is acceptable and potentially valuable when it functions as relational infrastructure rather than a substitutive emotional agent, evaluated through relational d..."
 id: ai-relational-infrastructure-design-thesis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

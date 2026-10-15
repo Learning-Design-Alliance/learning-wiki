@@ -3,7 +3,7 @@ type: claim
 title: Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement
 description: Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement
 id: spring-2025-map-growth-modest-math-recovery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

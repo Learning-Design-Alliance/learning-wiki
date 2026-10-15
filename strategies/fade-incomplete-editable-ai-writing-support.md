@@ -3,7 +3,7 @@ type: strategy
 id: fade-incomplete-editable-ai-writing-support
 title: "Design AI writing support to reduce ownership loss: fade AI interactions over time, generate incomplete text requiring rewriting, and make the chatbox editable"
 description: "Based on their finding that AI support at different writing stages has different ownership costs, the authors present three design implications for AI writing tools: \"temporally fading out AI interactions, generating..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

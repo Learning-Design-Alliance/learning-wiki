@@ -3,7 +3,7 @@ type: strategy
 id: support-tla-adoption-success-experiences-no-audit
 title: Support teacher analytics adoption by providing success experiences, avoiding audit use, and offering individual options alongside team discussions
 description: "To promote adoption of analytics-informed teacher inquiry, the article recommends that TLA \"should not become tools for auditing teachers' practices\" and should provide \"possibilities for teachers' self-analysis even..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

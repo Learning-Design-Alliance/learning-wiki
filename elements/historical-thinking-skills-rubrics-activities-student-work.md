@@ -3,7 +3,7 @@ type: element
 id: historical-thinking-skills-rubrics-activities-student-work
 title: Rubrics for Examining Historical Thinking Skills in High School World History Activities and Student Work
 description: A two-part rubric toolkit created and validated for evaluating the Gates Ventures World History Project curriculum.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

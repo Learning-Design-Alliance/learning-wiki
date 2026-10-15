@@ -3,7 +3,7 @@ type: strategy
 id: mid-quality-few-shot-examples-to-reduce-degradation
 title: Reduce mid-range degradation by including more mid-quality examples in few-shot prompts and developing locally validated task-specific prompts
 description: "The article's future-work agenda proposes testing \"whether including more mid-quality examples in few-shot prompts can reduce the observed degradation in scoring\", developing task-specific prompts as a human-in-the-lo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

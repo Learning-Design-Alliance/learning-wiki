@@ -3,7 +3,7 @@ type: research-method
 id: epistemological-move-analysis-ema
 title: Epistemological Move Analysis (EMA)
 description: "Epistemological Move Analysis is an analytical approach that analyzes a teacher's role in students' learning process, used in this study to examine how the teacher directed children's learning."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

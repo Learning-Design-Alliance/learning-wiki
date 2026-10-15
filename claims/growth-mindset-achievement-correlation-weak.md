@@ -3,7 +3,7 @@ type: claim
 title: The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)
 description: The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)
 id: growth-mindset-achievement-correlation-weak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

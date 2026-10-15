@@ -3,7 +3,7 @@ type: strategy
 id: workshop-packet-operationalize-communicative-competence-theory
 title: Teacher training packets operationalize communicative competence theory through workshop activities, pre/posttests, and guided discussion rather than expert knowledge alone
 description: The packet converts theories of communicative competence into classroom practice through a workshop approach containing agendas, objectives, activities, pre/posttests, transparencies, and guided discussion items, so t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

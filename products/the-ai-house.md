@@ -4,7 +4,7 @@ id: the-ai-house
 title: The AI House
 description: A four-layer pedagogical framework developed by Vinicius Santana Gomes for training public-sector employees to use generative AI safely, practically, and in compliance with legal and governance requirements.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

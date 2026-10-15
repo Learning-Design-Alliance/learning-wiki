@@ -3,7 +3,7 @@ type: claim
 title: Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth
 description: Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth
 id: higher-order-thinking-questions-related-to-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

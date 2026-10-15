@@ -3,7 +3,7 @@ type: claim
 title: Between schools, principal leadership has small positive indirect relationships with test-score gains and GPA through the learning climate and classroom instruction
 description: Between schools, principal leadership has small positive indirect relationships with test-score gains and GPA through the learning climate and classroom instruction
 id: leadership-achievement-between-schools-via-climate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

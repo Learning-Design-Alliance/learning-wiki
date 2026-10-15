@@ -3,7 +3,7 @@ type: claim
 title: "White and Asian staff report more positive school climates than African American and Hispanic staff, irrespective of their school's student racial composition"
 description: "White and Asian staff report more positive school climates than African American and Hispanic staff, irrespective of their school's student racial composition"
 id: staff-climate-perceptions-vary-by-staff-race
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

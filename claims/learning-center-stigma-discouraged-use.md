@@ -3,7 +3,7 @@ type: claim
 title: "Students avoided a district's learning centers because of stigma that the centers were only for struggling students"
 description: "Students avoided a district's learning centers because of stigma that the centers were only for struggling students"
 id: learning-center-stigma-discouraged-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

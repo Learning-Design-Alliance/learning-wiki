@@ -4,7 +4,7 @@ id: metatutor
 title: MetaTutor
 description: MetaTutor is a hypermedia-based intelligent tutoring system developed by educational technology researchers that uses pedagogical agents and self-regulated-learning tools to support learners studying scientific content.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

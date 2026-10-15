@@ -3,7 +3,7 @@ type: claim
 title: There is no evidence that arming school staff improves school safety, and one study found an armed guard present was associated with more deaths in school shootings
 description: There is no evidence that arming school staff improves school safety, and one study found an armed guard present was associated with more deaths in school shootings
 id: arming-staff-no-evidence-of-safety-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

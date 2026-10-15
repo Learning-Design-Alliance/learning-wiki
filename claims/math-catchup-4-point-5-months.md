@@ -3,7 +3,7 @@ type: claim
 title: The average student needs an estimated 4.5 additional months of schooling to catch up in math
 description: The average student needs an estimated 4.5 additional months of schooling to catch up in math
 id: math-catchup-4-point-5-months
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

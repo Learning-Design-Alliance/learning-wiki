@@ -3,7 +3,7 @@ type: claim
 title: As a Tier 2 intervention, Bridge to Reading schools significantly outperformed comparison peers on spring NWEA MAP Reading (ES +0.33), with significant effects at both grade levels
 description: As a Tier 2 intervention, Bridge to Reading schools significantly outperformed comparison peers on spring NWEA MAP Reading (ES +0.33), with significant effects at both grade levels
 id: bridge-to-reading-tier2-michigan-es-033
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

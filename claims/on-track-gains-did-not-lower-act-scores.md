@@ -3,7 +3,7 @@ type: claim
 title: "Rising ninth-grade on-track rates did not negatively affect schools' average ACT scores"
 description: "Rising ninth-grade on-track rates did not negatively affect schools' average ACT scores"
 id: on-track-gains-did-not-lower-act-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

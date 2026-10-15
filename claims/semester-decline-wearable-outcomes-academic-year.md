@@ -3,7 +3,7 @@ type: claim
 title: "Wearable outcomes declined significantly across the academic year, including a 5.2% reduction in RMSSD and roughly 680 fewer steps per day by Week 33"
 description: "Wearable outcomes declined significantly across the academic year, including a 5.2% reduction in RMSSD and roughly 680 fewer steps per day by Week 33"
 id: semester-decline-wearable-outcomes-academic-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

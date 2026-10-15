@@ -3,7 +3,7 @@ type: claim
 title: "California's teacher workforce is aging, with about 40% age 50 or older and 14% age 60 or older"
 description: "California's teacher workforce is aging, with about 40% age 50 or older and 14% age 60 or older"
 id: aging-teacher-workforce-retirement-wave
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

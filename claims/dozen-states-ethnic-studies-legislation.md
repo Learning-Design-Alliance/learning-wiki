@@ -3,7 +3,7 @@ type: claim
 title: More than a dozen states have introduced legislation supporting ethnic studies or similar inclusive coursework in K-12 education
 description: More than a dozen states have introduced legislation supporting ethnic studies or similar inclusive coursework in K-12 education
 id: dozen-states-ethnic-studies-legislation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

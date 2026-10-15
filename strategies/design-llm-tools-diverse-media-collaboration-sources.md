@@ -3,7 +3,7 @@ type: strategy
 id: design-llm-tools-diverse-media-collaboration-sources
 title: Design AI-powered informal learning tools that include diverse media types, enable collaboration, provide sources, and support different learner types
 description: The authors derive actionable design guidelines from their empirical findings on LLM use in everyday learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

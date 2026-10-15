@@ -3,7 +3,7 @@ type: design
 id: cogtax-four-level-command-line-taxonomy
 title: "CogTax: a four-level cognitive taxonomy integrating cognitive complexity and operational impact via a maximum rule"
 description: "CogTax is a four-level cognitive taxonomy for command-line computing education that integrates two dimensions: cognitive complexity C, derived from Bloom's Revised Taxonomy, and operational impact O, the degree to whi..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

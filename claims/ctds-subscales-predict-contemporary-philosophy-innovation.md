@@ -3,7 +3,7 @@ type: claim
 title: "Critical thinking disposition subscales jointly explain about 14% of contemporary educational philosophy preference, with innovation the only significant predictor"
 description: "Critical thinking disposition subscales jointly explain about 14% of contemporary educational philosophy preference, with innovation the only significant predictor"
 id: ctds-subscales-predict-contemporary-philosophy-innovation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -4,7 +4,7 @@ id: six-state-strategies-educator-diversity
 aliases: [six-state-strategies-educator-workforce-diversity]
 title: Six state-level strategies for increasing the racial diversity of the educator workforce
 description: "The brief enumerates six strategies states should pursue to \"create the right policy conditions to support educator preparation programs, districts, and schools in their efforts to prepare, recruit, and retain teacher..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints
 description: Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints
 id: genai-hints-effective-but-require-validation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

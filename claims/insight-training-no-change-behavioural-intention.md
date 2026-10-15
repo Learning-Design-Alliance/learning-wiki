@@ -3,7 +3,7 @@ type: claim
 title: Behavioural intention to use AI-based technologies does not change significantly following the INSIGHT training, despite increases in perceived usefulness and ease of use
 description: Behavioural intention to use AI-based technologies does not change significantly following the INSIGHT training, despite increases in perceived usefulness and ease of use
 id: insight-training-no-change-behavioural-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

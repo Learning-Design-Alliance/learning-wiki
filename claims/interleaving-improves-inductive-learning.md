@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

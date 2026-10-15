@@ -3,7 +3,7 @@ type: claim
 title: Students preferring combination-style chatbots had higher total EBAPS scores than students preferring direct-answer chatbots (nominal significance only)
 description: Students preferring combination-style chatbots had higher total EBAPS scores than students preferring direct-answer chatbots (nominal significance only)
 id: combination-preferrers-higher-total-ebaps-than-answer-preferrers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

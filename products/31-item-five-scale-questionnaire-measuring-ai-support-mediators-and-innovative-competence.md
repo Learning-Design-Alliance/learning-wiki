@@ -4,7 +4,7 @@ id: 31-item-five-scale-questionnaire-measuring-ai-support-mediators-and-innovati
 title: 31-item five-scale questionnaire measuring AI support, mediators, and innovative competence
 description: A Chinese five-scale Likert questionnaire developed by Liu Xu et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: AI anxiety is positively and significantly correlated with job search anxiety among health sciences students
 description: AI anxiety is positively and significantly correlated with job search anxiety among health sciences students
 id: ai-anxiety-correlates-job-search-anxiety-health-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off
 description: Deciding whether to collect and use late pretest data in RCTs involves a variance-bias trade-off
 id: late-pretest-variance-bias-tradeoff
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

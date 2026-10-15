@@ -3,7 +3,7 @@ type: claim
 title: Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence
 description: Large group size (4-5 members) limited individual participation and may have inflated self-assessed confidence
 id: large-group-size-limited-participation-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

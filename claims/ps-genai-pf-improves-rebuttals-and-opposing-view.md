@@ -3,7 +3,7 @@ type: claim
 title: The PS-GenAI-PF group outperformed the PF group on rebuttal data and warrant and on addressing the opposing view
 description: The PS-GenAI-PF group outperformed the PF group on rebuttal data and warrant and on addressing the opposing view
 id: ps-genai-pf-improves-rebuttals-and-opposing-view
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

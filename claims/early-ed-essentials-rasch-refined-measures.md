@@ -3,7 +3,7 @@ type: claim
 title: Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)
 description: Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)
 id: early-ed-essentials-rasch-refined-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

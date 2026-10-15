@@ -3,7 +3,7 @@ type: claim
 title: The routine rule for selecting the graph threshold makes naive comparisons of β0 between two datasets invalid
 description: The routine rule for selecting the graph threshold makes naive comparisons of β0 between two datasets invalid
 id: rule-selected-thresholds-make-cross-dataset-beta0-comparison-invalid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

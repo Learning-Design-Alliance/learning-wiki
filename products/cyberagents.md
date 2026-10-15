@@ -4,7 +4,7 @@ id: cyberagents
 title: CyberAGENTS
 description: A custom orchestrator-worker framework developed by Hornung et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

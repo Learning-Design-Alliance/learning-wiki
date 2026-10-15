@@ -3,7 +3,7 @@ type: element
 id: writing-toolkit-teachers-guide-reflection-tools
 title: "Teacher's Guide with activities, self-reflection, and goal-setting tools"
 description: "The Teacher's Guide contains activities to be completed during and between PLC sessions, extending the professional learning into teachers' own classrooms."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

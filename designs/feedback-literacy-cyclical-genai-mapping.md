@@ -3,7 +3,7 @@ type: design
 id: feedback-literacy-cyclical-genai-mapping
 title: Feedback literacy capacities mapped onto a cyclical forethought-control-retrospect engagement model
 description: "The framework integrates Carless and Boud's feedback literacy, \"comprising four interdependent elements: (a) appreciating feedback; (b) making judgments; (c) managing affect; and (d) taking action\", with Zhan et al.'s..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

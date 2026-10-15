@@ -3,7 +3,7 @@ type: claim
 title: SFT reliably teaches the two output contracts but cannot raise interactive-HTML quality, which declines monotonically with update count
 description: SFT reliably teaches the two output contracts but cannot raise interactive-HTML quality, which declines monotonically with update count
 id: sft-teaches-contracts-not-html-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

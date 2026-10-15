@@ -3,7 +3,7 @@ type: claim
 title: BFpack handles common statistical analyses with default priors and data missing at random
 description: BFpack handles common statistical analyses with default priors and data missing at random
 id: bfpack-default-priors-missing-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

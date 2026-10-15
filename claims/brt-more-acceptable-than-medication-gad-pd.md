@@ -3,7 +3,7 @@ type: claim
 title: "Behavioral Relaxation Training is rated more acceptable than medication for GAD comorbid with Parkinson's disease by both younger and older adults"
 description: "Behavioral Relaxation Training is rated more acceptable than medication for GAD comorbid with Parkinson's disease by both younger and older adults"
 id: brt-more-acceptable-than-medication-gad-pd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

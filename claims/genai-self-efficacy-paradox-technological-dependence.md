@@ -4,7 +4,7 @@ title: Frequent generative AI use enhances perceived confidence and efficiency b
 description: Frequent generative AI use enhances perceived confidence and efficiency but increases technological dependence among university students
 id: genai-self-efficacy-paradox-technological-dependence
 aliases: [genai-use-confidence-dependence-paradox]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

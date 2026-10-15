@@ -3,7 +3,7 @@ type: strategy
 id: use-college-choice-data-to-support-college-going-decisions
 title: "Use data on students' college application and enrollment choices to support college-going decisions"
 description: "The brief presents data analysis as a tool for supporting students' college-going decisions, motivated by the recognition of \"the importance of using data to support students' college-going decisions.\" It describes a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

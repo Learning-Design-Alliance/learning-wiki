@@ -3,7 +3,7 @@ type: claim
 title: An Executive LLM focused on a skill elicits significantly more skill-related evidence than Independent Agents, with a crossover effect between skills
 description: An Executive LLM focused on a skill elicits significantly more skill-related evidence than Independent Agents, with a crossover effect between skills
 id: executive-llm-elicits-more-skill-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

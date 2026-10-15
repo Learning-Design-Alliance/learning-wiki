@@ -3,7 +3,7 @@ type: design
 id: hypergamification-bidirectional-lms-game-integration
 title: "Hypergamification: bidirectional LMS-game integration where the whole game environment is generated from LMS content"
 description: "Hypergamification is the authors' proposed concept in which a complete game environment, not just isolated game design elements, is generated from LMS learning materials and course structure, and gameplay translates b..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

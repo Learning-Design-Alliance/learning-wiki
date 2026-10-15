@@ -3,7 +3,7 @@ type: theory
 title: "Cultural Processes to Inequality: Identification and Rationalization"
 description: "A framework the article adopts from Lamont, Beljean and Clair (2014) in which inequality is produced through two meso-level cultural processes: identification (stigmatization and racialization) and rationalization (st..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

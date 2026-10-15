@@ -3,7 +3,7 @@ type: claim
 title: Students found AI feedback helpful and actionable more often than not across a semester of reflective writing
 description: Students found AI feedback helpful and actionable more often than not across a semester of reflective writing
 id: students-find-ai-feedback-helpful-more-often-than-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: TRACE outperforms LSTM, GNN and XGBoost baselines on grade prediction
 description: TRACE outperforms LSTM, GNN and XGBoost baselines on grade prediction
 id: trace-outperforms-lstm-gnn-xgboost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: LLMs across five models generate diverse erroneous Java code, with mean AST edit distances varying by model and prompting strategy
 description: LLMs across five models generate diverse erroneous Java code, with mean AST edit distances varying by model and prompting strategy
 id: llms-generate-diverse-erroneous-java-code-varying-by-model-and-prompt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

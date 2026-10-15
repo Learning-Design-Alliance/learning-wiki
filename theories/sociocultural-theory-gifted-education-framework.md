@@ -2,7 +2,7 @@
 type: theory
 title: Sociocultural theory as a framework for gifted education
 description: "The essay proposes applying Vygotsky's sociocultural theory to gifted education, arguing the field lacks a widely accepted theoretical framework."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

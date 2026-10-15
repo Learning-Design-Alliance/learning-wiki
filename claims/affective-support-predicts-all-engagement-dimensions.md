@@ -3,7 +3,7 @@ type: claim
 title: "Only support for affective engagement predicts its matching engagement dimension; behavioral and cognitive support do not, contradicting the ACE framework's alignment"
 description: "Only support for affective engagement predicts its matching engagement dimension; behavioral and cognitive support do not, contradicting the ACE framework's alignment"
 id: affective-support-predicts-all-engagement-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: design
 id: functional-complementarity-ai-human-clinical-education
 title: Functional complementarity model of AI and human roles in clinical skills education
 description: "The article proposes that AI and human educators need not perform identical instructional work: \"AI agents may be especially useful for repetitive practice, consistent role-play, checklist monitoring, Socratic prompti..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

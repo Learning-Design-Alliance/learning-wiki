@@ -3,7 +3,7 @@ type: claim
 title: "Among low baseline self-efficacy students, favorability toward a format moderated its benefit: tutor favorability favored tutor gains, paper unfavorability favored paper gains"
 description: "Among low baseline self-efficacy students, favorability toward a format moderated its benefit: tutor favorability favored tutor gains, paper unfavorability favored paper gains"
 id: favorability-moderates-format-benefit-low-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

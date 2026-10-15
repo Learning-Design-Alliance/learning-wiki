@@ -3,7 +3,7 @@ type: claim
 title: The Rothstein test can reject VAMs even when students are randomly assigned conditional on the covariates in the model
 description: The Rothstein test can reject VAMs even when students are randomly assigned conditional on the covariates in the model
 id: rothstein-test-rejects-vams-random-assignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

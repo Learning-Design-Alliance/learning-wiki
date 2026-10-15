@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not
 description: Retrieval practice enhances performance on final inference and transfer questions relative to restudying, although a single-word fill-in-the-blank task did not
 id: retrieval-practice-improves-final-inference-and-transfer-questions
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

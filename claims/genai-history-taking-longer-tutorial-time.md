@@ -3,7 +3,7 @@ type: claim
 title: GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking
 description: GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking
 id: genai-history-taking-longer-tutorial-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

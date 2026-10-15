@@ -3,7 +3,7 @@ type: claim
 title: Content-related adaptation (n = 53 papers) outnumbers guidance-related adaptation (n = 36) in RL-based educational applications
 description: Content-related adaptation (n = 53 papers) outnumbers guidance-related adaptation (n = 36) in RL-based educational applications
 id: rl-education-content-adaptation-outnumbers-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -4,7 +4,7 @@ id: liberatory-space-framework-for-black-student-thriving
 title: Liberatory Space framework for Black student thriving
 description: "A framework developed for Long Beach Unified School District's Black Community to guide the design of environments that promote Black students' belonging, identity affirmation, agency, and achievement."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

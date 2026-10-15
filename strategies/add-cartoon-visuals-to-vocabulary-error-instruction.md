@@ -3,7 +3,7 @@ type: strategy
 id: add-cartoon-visuals-to-vocabulary-error-instruction
 title: Add humorous cartoon visuals to verbal vocabulary instruction targeting confusing lexical items
 description: The article recommends that language instructors who mainly follow verbal approaches adopt more balanced methods by adding visuals when addressing lexical error issues, and that material writers include visuals in tex...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

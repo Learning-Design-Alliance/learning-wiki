@@ -4,7 +4,7 @@ id: gems-space-science-sequence
 title: GEMS® Space Science Sequence
 description: A grades 3–5 space-science curriculum developed by the Lawrence Hall of Science at the University of California, Berkeley, comprising four units and 24 class sessions with teacher guides and materials.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

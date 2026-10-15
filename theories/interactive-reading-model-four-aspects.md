@@ -2,7 +2,7 @@
 type: theory
 title: "Interactive model of reading: four interacting aspects of the reading process"
 description: "The paper defines reading as an active thinking process with four interacting aspects: readers use both reader-based and text-based inferencing to construct meaning, elaborate what and how they read, continually monit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

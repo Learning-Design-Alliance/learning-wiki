@@ -3,7 +3,7 @@ type: claim
 title: Rootless Podman isolation maintained containment with no observed privilege escalation or cross-identity contamination under classroom load
 description: Rootless Podman isolation maintained containment with no observed privilege escalation or cross-identity contamination under classroom load
 id: rootless-podman-containment-no-violations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

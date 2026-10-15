@@ -3,7 +3,7 @@ type: element
 id: considerations-reopening-pennsylvania-schools-publication
 title: Considerations for Reopening Pennsylvania Schools (REL Mid-Atlantic publication, June 2020)
 description: A publication produced by the Regional Educational Laboratory Mid-Atlantic, published June 29, 2020, authored by Brian Gill, Ravi Goyal, Jacob Hartog, John Hotchkiss, and Danielle DeLisle.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

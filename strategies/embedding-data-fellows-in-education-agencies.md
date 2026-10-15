@@ -3,7 +3,7 @@ type: strategy
 id: embedding-data-fellows-in-education-agencies
 title: Embedding data fellows inside education agencies to build data use from within
 description: The SDP and EP fellowship programs place analysts inside education agencies to work on agency-specific data projects, an approach the report frames as changing education agencies from the inside out.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

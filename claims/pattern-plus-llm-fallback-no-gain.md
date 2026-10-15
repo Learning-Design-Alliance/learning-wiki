@@ -3,7 +3,7 @@ type: claim
 title: Combining the pattern detector with an LLM fallback does not improve joint detection accuracy over the LLM alone
 description: Combining the pattern detector with an LLM fallback does not improve joint detection accuracy over the LLM alone
 id: pattern-plus-llm-fallback-no-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

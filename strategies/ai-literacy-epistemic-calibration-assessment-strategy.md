@@ -3,7 +3,7 @@ type: strategy
 id: ai-literacy-epistemic-calibration-assessment-strategy
 title: Teach AI literacy as epistemic calibration and design assessment that preserves visible spaces for human reasoning and ownership
 description: "The article's discussion recommends that universities first avoid assuming lower AI enthusiasm reflects a deficit in capability or openness, since for some high-achieving students scepticism \"may represent a thoughtfu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

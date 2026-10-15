@@ -3,7 +3,7 @@ type: claim
 title: A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention
 description: A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention
 id: retrieval-practice-implementation-case-newell
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: GATs produced no reliable immediate learning-experience effects on frustration, cognitive load, or situational interest at either institution
 description: GATs produced no reliable immediate learning-experience effects on frustration, cognitive load, or situational interest at either institution
 id: gats-no-immediate-experience-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

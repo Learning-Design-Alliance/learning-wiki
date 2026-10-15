@@ -3,7 +3,7 @@ type: claim
 title: "Light AI-assisted edits to human-written abstracts are flagged by commercial detectors at 64–80% (Pangram) and 38–49% (GPTZero) rates"
 description: "Light AI-assisted edits to human-written abstracts are flagged by commercial detectors at 64–80% (Pangram) and 38–49% (GPTZero) rates"
 id: light-ai-edits-flagged-at-high-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

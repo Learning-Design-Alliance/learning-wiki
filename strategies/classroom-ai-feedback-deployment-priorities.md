@@ -3,7 +3,7 @@ type: strategy
 id: classroom-ai-feedback-deployment-priorities
 title: "Deployment priorities for classroom AI feedback tools: latency ceiling, adaptive onboarding, and verifier transparency"
 description: "Based on their user study, the authors recommend three deployment priorities for classroom AI feedback systems: meeting a sub-15-second latency expectation via inference batching and on-device caching; adaptive onboar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

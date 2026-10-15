@@ -3,7 +3,7 @@ type: strategy
 id: strategy-detail-verify-card-review
 title: Strategy-detail-verify educator review of generated representation variants
 description: "The paper recommends structuring instructor review of each generated card representation in three levels, adapted from SPHERE's strategy-detail-verify workflow."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

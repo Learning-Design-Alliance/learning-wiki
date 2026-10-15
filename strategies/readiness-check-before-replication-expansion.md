@@ -3,7 +3,7 @@ type: strategy
 id: readiness-check-before-replication-expansion
 title: Conduct readiness checks and align systems to local student need before replication, expansion, or merger
 description: "The report recommends concrete pre-expansion steps: \"Prior to a decision to expand or replicate, conduct a readiness check* to identify the strengths and weaknesses of the school's program, the network's capacity to e..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

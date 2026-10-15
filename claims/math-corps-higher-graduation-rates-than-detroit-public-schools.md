@@ -3,7 +3,7 @@ type: claim
 title: Math Corps students had much higher graduation rates than Detroit Public Schools students overall
 description: Math Corps students had much higher graduation rates than Detroit Public Schools students overall
 id: math-corps-higher-graduation-rates-than-detroit-public-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

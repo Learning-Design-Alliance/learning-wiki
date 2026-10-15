@@ -3,7 +3,7 @@ type: claim
 title: KIPP Atlanta middle school impacts on proficiency generally increase across grade levels
 description: KIPP Atlanta middle school impacts on proficiency generally increase across grade levels
 id: kipp-atlanta-impacts-increase-across-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

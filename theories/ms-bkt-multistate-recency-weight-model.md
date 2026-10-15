@@ -2,7 +2,7 @@
 type: theory
 title: "MS-BKT: a multistate knowledge tracing model with data-driven recency weights replacing the learning rate"
 description: "MS-BKT is a knowledge tracing architecture that keeps BKT's HMM structure but makes two changes: the knowledge node expands from 2 to 21 states, and a recency weight parameter R replaces the transition probability p(T..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

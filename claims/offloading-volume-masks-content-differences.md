@@ -3,7 +3,7 @@ type: claim
 title: Volume of offloading masks differences between offloading processes that become visible when profiling what is offloaded
 description: Volume of offloading masks differences between offloading processes that become visible when profiling what is offloaded
 id: offloading-volume-masks-content-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

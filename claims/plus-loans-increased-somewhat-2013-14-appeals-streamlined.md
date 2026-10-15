@@ -3,7 +3,7 @@ type: claim
 title: PLUS loans at HBCUs increased somewhat in 2013-14 after the Department of Education streamlined the PLUS appeals process
 description: PLUS loans at HBCUs increased somewhat in 2013-14 after the Department of Education streamlined the PLUS appeals process
 id: plus-loans-increased-somewhat-2013-14-appeals-streamlined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

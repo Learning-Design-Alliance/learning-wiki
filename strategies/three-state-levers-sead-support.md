@@ -3,7 +3,7 @@ type: strategy
 id: three-state-levers-sead-support
 title: "State leaders support local SEAD implementation through three levers: prioritizing SEAD in state goals, providing equity-focused guidance and funding, and making data public"
 description: "The brief identifies three key levers state leaders can use to support local implementation of six SEAD policy areas: prioritizing SEAD policies in state goals to set equity-lens expectations, providing \"evidence-base..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

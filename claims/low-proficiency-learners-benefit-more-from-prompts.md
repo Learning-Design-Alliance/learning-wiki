@@ -3,7 +3,7 @@ type: claim
 title: Low-proficiency L2 learners benefited significantly more from prompts than from recasts
 description: Low-proficiency L2 learners benefited significantly more from prompts than from recasts
 id: low-proficiency-learners-benefit-more-from-prompts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: No developing-region digital literacy framework in the review explicitly represents the copyright and licenses sub-competence
 description: No developing-region digital literacy framework in the review explicitly represents the copyright and licenses sub-competence
 id: copyright-licenses-absent-developing-region-frameworks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Multiple sources of student information can be accumulated to estimate teacher effectiveness
 description: Multiple sources of student information can be accumulated to estimate teacher effectiveness
 id: multiple-sources-accumulate-teacher-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

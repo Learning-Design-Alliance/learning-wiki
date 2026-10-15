@@ -3,7 +3,7 @@ type: claim
 title: "Blinded review identified 68% of ChatGPT-generated abstracts as chatbot-produced while 14% of authentic abstracts were misclassified as chatbot-generated"
 description: "Blinded review identified 68% of ChatGPT-generated abstracts as chatbot-produced while 14% of authentic abstracts were misclassified as chatbot-generated"
 id: chatgpt-abstract-detection-68-14-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

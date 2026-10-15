@@ -3,7 +3,7 @@ type: strategy
 id: multiliteracies-video-comprehension-activities
 title: Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities
 description: The article recommends that comprehension be taught through a curriculum of multiliteracies in which learners interpret text meanings through different modalities, such as visualizing and verbalizing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

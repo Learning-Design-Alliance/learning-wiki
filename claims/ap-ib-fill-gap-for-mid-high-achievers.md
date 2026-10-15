@@ -3,7 +3,7 @@ type: claim
 title: AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement
 description: AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement
 id: ap-ib-fill-gap-for-mid-high-achievers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

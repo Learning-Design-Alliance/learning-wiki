@@ -3,7 +3,7 @@ type: claim
 title: More fixations on the learning content after an add-subgoal prompt are associated with higher learning gains, suggesting complying with that prompt may not be effective
 description: More fixations on the learning content after an add-subgoal prompt are associated with higher learning gains, suggesting complying with that prompt may not be effective
 id: add-subgoal-prompt-compliance-may-not-help-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: claim
 title: Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students
 description: Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students
 id: third-space-distributes-authority-among-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: federal-annual-pell-data-reporting-strategy
 title: Require colleges to report Pell graduation data annually through integrated federal data collections
 description: The report recommends that the federal government integrate Pell status into regular IPEDS graduation-rate collections and require annual institutional reporting, acting when institutions do not perform.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

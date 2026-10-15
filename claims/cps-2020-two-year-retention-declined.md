@@ -3,7 +3,7 @@ type: claim
 title: "Two-year college retention of CPS first-year students continued to decline in 2020 (66.4% in 2019 vs. 61.9% in 2020)"
 description: "Two-year college retention of CPS first-year students continued to decline in 2020 (66.4% in 2019 vs."
 id: cps-2020-two-year-retention-declined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students perceived instructor feedback as significantly more useful than AI-generated feedback, with no significant differences on fairness, developmental value or encouragement
 description: Students perceived instructor feedback as significantly more useful than AI-generated feedback, with no significant differences on fairness, developmental value or encouragement
 id: instructor-feedback-perceived-more-useful-than-ai-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: The v4.1 redesign reduced mean developer assembly time from 21.4 to 13.7 minutes, but the first-attempt-only mean was 20.4 minutes, with the further reduction reflecting a junior learning effect
 description: The v4.1 redesign reduced mean developer assembly time from 21.4 to 13.7 minutes, but the first-attempt-only mean was 20.4 minutes, with the further reduction reflecting a junior learning effect
 id: assembly-time-reduction-learning-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

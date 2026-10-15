@@ -3,7 +3,7 @@ type: design
 id: aifred-robotic-projection-system
 title: "AIfred: desk-based robotic arm with end-effector projector delivering spatially co-located generative AI assistance"
 description: AIfred is a prototype combining a robotic arm with a mini projector at its end-effector, an OptiTrack motion-capture system tracking a desk object, and an overhead camera.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

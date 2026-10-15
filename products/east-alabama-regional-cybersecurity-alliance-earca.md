@@ -4,7 +4,7 @@ id: east-alabama-regional-cybersecurity-alliance-earca
 title: East Alabama Regional Cybersecurity Alliance (EARCA)
 description: A regional alliance run by partner school districts, industry, and postsecondary organizations in Alabama Workforce Region 2 to expand rural cybersecurity education, workforce preparation, and career opportunities.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

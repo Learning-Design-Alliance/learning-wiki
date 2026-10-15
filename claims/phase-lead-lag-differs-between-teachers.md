@@ -3,7 +3,7 @@ type: claim
 title: Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency
 description: Phase analysis showed Ethan leading the interaction with sameness in Communion and oppositeness in Agency, while Sam led in Communion but followed in Agency
 id: phase-lead-lag-differs-between-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

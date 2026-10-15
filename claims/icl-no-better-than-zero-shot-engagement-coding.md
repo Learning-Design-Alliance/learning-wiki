@@ -3,7 +3,7 @@ type: claim
 title: In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding
 description: In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding
 id: icl-no-better-than-zero-shot-engagement-coding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement
 description: Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement
 id: opt-out-consent-preferred-mmla
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

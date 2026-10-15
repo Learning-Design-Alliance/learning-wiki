@@ -3,7 +3,7 @@ type: strategy
 id: year-round-black-history-culture-integration
 title: Year-round integration of Black history, culture, and contributions across curriculum, environment, and programming
 description: "Under the Embracing Black Identity element, the brief recommends the Center \"Integrate Black history\" by incorporating \"Black history, culture, and contributions throughout the year while highlighting modern accomplis..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

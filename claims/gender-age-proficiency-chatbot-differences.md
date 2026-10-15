@@ -3,7 +3,7 @@ type: claim
 title: Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns
 description: Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns
 id: gender-age-proficiency-chatbot-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

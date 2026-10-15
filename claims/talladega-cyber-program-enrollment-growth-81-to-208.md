@@ -3,7 +3,7 @@ type: claim
 title: "Talladega County's cybersecurity program grew from 81 participating students in 2023-24 to 208 in 2024-25"
 description: "Talladega County's cybersecurity program grew from 81 participating students in 2023-24 to 208 in 2024-25"
 id: talladega-cyber-program-enrollment-growth-81-to-208
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

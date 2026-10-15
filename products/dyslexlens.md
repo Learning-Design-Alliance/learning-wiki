@@ -4,7 +4,7 @@ id: dyslexlens
 title: DysLexLens
 description: DysLexLens is a low-resource, evidence-traceable LLM framework developed by Dana Rezazadegan et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

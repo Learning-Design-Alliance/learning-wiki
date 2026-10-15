@@ -3,7 +3,7 @@ type: strategy
 id: micro-credential-cohort-model-strategy
 title: Implement micro-credentials through a peer cohort model with collaborative planning time
 description: "The report recommends organizing teachers into peer cohorts that pursue the same micro-credential together, treating professional learning as a social endeavor where teachers \"share problems of practice, questions, ex..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

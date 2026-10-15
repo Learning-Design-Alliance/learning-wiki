@@ -3,7 +3,7 @@ type: claim
 title: "CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0"
 description: "CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0"
 id: coi-presence-uneven-profile-mba
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

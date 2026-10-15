@@ -3,7 +3,7 @@ type: claim
 title: PPE schools showed larger percentage increases in proficient students than non-PPE schools on statewide ELA and mathematics assessments, 2015–2017
 description: PPE schools showed larger percentage increases in proficient students than non-PPE schools on statewide ELA and mathematics assessments, 2015–2017
 id: ppe-schools-achievement-gains-2015-2017
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

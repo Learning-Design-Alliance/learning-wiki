@@ -3,7 +3,7 @@ type: element
 id: study-carrel-individual-work-area
 title: Study carrel as an individual work area shielding a child from disturbance
 description: "The booklet defines and details the study carrel as a behaviour-support fixture: \"A carrel is a work area for individual study."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

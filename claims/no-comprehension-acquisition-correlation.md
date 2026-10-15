@@ -3,7 +3,7 @@ type: claim
 title: Differences in moment-to-moment comprehension do not correlate with gains in vocabulary recognition or acquisition of Japanese locative structures
 description: Differences in moment-to-moment comprehension do not correlate with gains in vocabulary recognition or acquisition of Japanese locative structures
 id: no-comprehension-acquisition-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

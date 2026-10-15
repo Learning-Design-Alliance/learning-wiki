@@ -3,7 +3,7 @@ type: claim
 title: "Middle schools with low-performing students with disabilities are disproportionately identified for Targeted Support and Improvement, accounting for 67% of TSI schools in one state"
 description: "Middle schools with low-performing students with disabilities are disproportionately identified for Targeted Support and Improvement, accounting for 67% of TSI schools in one state"
 id: middle-schools-disproportionately-identified-tsi-students-with-disabilities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

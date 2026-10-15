@@ -3,7 +3,7 @@ type: claim
 title: Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education
 description: Reviewed studies report experiential learning benefits for engagement, skills, confidence and outcomes in human services education
 id: experiential-learning-engagement-skills-ethical-reasoning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

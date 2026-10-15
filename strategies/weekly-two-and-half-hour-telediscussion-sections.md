@@ -3,7 +3,7 @@ type: strategy
 id: weekly-two-and-half-hour-telediscussion-sections
 title: Schedule telediscussion courses weekly in two-and-one-half-hour sections with discussion before and after each telelecture
 description: "Based on student agreement in the trial course, the author recommends that future telediscussion courses meet once a week in longer sections, \"with discussion of the telelecture both preceding and following the presen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

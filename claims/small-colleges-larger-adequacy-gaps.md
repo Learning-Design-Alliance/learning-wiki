@@ -3,7 +3,7 @@ type: claim
 title: Smaller community colleges tended to have larger adequacy gaps, with colleges under 4,001 students spending $1,871 (17 percent) below projected adequate cost
 description: Smaller community colleges tended to have larger adequacy gaps, with colleges under 4,001 students spending $1,871 (17 percent) below projected adequate cost
 id: small-colleges-larger-adequacy-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

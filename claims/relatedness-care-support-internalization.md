@@ -3,7 +3,7 @@ type: claim
 title: Positive teacher-student relationships fulfill relatedness needs and support internalization of learning
 description: Positive teacher-student relationships fulfill relatedness needs and support internalization of learning
 id: relatedness-care-support-internalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

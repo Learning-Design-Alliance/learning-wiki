@@ -3,7 +3,7 @@ type: claim
 title: "Students in foster care had the lowest proficiency of any group on California's grades 2-7 mathematics test"
 description: "Students in foster care had the lowest proficiency of any group on California's grades 2-7 mathematics test"
 id: foster-care-lowest-math-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

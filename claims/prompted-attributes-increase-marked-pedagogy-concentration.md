@@ -3,7 +3,7 @@ type: claim
 title: Explicitly prompting a student attribute produces large, systematic increases in the concentration of stereotype-aligned marked words in LLM-generated writing feedback
 description: Explicitly prompting a student attribute produces large, systematic increases in the concentration of stereotype-aligned marked words in LLM-generated writing feedback
 id: prompted-attributes-increase-marked-pedagogy-concentration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

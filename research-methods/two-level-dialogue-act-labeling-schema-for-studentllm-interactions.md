@@ -3,7 +3,7 @@ type: research-method
 id: two-level-dialogue-act-labeling-schema-for-studentllm-interactions
 title: Two-level dialogue act labeling schema for student–LLM interactions
 description: The authors developed a two-leveled dialogue act schema with 8 broad labels and 31 specific labels (Writing, Editing, Contextual Questions, Conceptual Questions, Verification, Context, Off Topic, Misc), built on prior co-programming work and their own systematic review of the conversations.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

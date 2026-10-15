@@ -3,7 +3,7 @@ type: research-method
 id: implementation-research-within-impact-studies-of-education-interventions
 title: Implementation research within impact studies of education interventions
 description: The guide is a practical resource for researchers who conduct implementation analyses as part of impact studies of education interventions.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The share of students earning at least an A rises in more susceptible courses after ChatGPT under the preferred bound, but the shift fails parallel trends and is read as descriptive, not causal
 description: The share of students earning at least an A rises in more susceptible courses after ChatGPT under the preferred bound, but the shift fails parallel trends and is read as descriptive, not causal
 id: at-least-a-share-increase-unstable-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

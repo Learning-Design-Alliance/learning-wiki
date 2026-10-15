@@ -3,7 +3,7 @@ type: claim
 title: Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior
 description: Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior
 id: scaffolding-little-incremental-exam-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: critics-three-component-ecosystem
 title: CRITICS three-component ecosystem for cross-lingual scientific knowledge transfer
 description: "The CRITICS approach integrates machine translation and educational technology as a three-component system: an LLM-based scientific document translation system, a Teaching and Learning Sequence (TLS) generator, and an..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

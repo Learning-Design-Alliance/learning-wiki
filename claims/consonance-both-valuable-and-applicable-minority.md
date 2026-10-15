@@ -3,7 +3,7 @@ type: claim
 title: A minority of prospective teachers show consonance, believing each conception dimension is both valuable and applicable
 description: A minority of prospective teachers show consonance, believing each conception dimension is both valuable and applicable
 id: consonance-both-valuable-and-applicable-minority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

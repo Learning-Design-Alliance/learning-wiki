@@ -3,7 +3,7 @@ type: claim
 title: The report provides an overview of federal support for state apprenticeship systems and variation across states in key characteristics
 description: The report provides an overview of federal support for state apprenticeship systems and variation across states in key characteristics
 id: report-overviews-federal-support-and-state-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

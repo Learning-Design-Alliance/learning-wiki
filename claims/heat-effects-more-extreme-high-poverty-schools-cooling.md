@@ -3,7 +3,7 @@ type: claim
 title: Heat effects on student performance may be more extreme for students in high-poverty schools where cooling conditions may be less reliable
 description: Heat effects on student performance may be more extreme for students in high-poverty schools where cooling conditions may be less reliable
 id: heat-effects-more-extreme-high-poverty-schools-cooling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

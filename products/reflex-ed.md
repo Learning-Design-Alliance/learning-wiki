@@ -4,7 +4,7 @@ id: reflex-ed
 title: RefleX ED
 description: RefleX ED is a tutor-support tool developed by Yilmaz et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

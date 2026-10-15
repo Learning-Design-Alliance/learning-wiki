@@ -3,7 +3,7 @@ type: claim
 title: Prompting alone could not keep the gpt-3.5-turbo model on-topic, while the text-davinci-002 engine stayed on-topic in the deployed chatbot
 description: Prompting alone could not keep the gpt-3.5-turbo model on-topic, while the text-davinci-002 engine stayed on-topic in the deployed chatbot
 id: gpt35-turbo-off-topic-prompting-insufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

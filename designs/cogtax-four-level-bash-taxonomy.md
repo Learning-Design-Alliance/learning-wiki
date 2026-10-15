@@ -3,7 +3,7 @@ type: design
 id: cogtax-four-level-bash-taxonomy
 title: "CogTax: a four-level taxonomy for bash command assessment combining cognitive complexity and operational impact"
 description: "CogTax classifies bash commands covered in a course by two integrated dimensions: \"cognitive complexity (C)\" and \"operational impact (O)\"."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

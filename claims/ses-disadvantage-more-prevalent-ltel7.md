@@ -3,7 +3,7 @@ type: claim
 title: "Socioeconomic disadvantage is more prevalent among California students designated as LTEL7 (89%) than other ever-ELs (80%)"
 description: "Socioeconomic disadvantage is more prevalent among California students designated as LTEL7 (89%) than other ever-ELs (80%)"
 id: ses-disadvantage-more-prevalent-ltel7
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: cooperative-structures-for-adult-classrooms
 title: Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation
 description: The handbook catalogs the most commonly used cooperative learning structures and advises teachers that knowing the concept matters more than the exact name.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: same-college-comparison-design-for-cbe-evaluation
 title: Compare CBE program participants with students in traditional online and brick-and-mortar programs at the same colleges
 description: "The evaluation's design compares CBE participants' education and employment outcomes \"to those of students enrolled in traditional online and brick-and-mortar information technology programs at the same colleges.\" Thi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

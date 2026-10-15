@@ -3,7 +3,7 @@ type: claim
 title: LLM-group participants reported low ownership of their essays and fell behind in their ability to quote from essays written minutes earlier
 description: LLM-group participants reported low ownership of their essays and fell behind in their ability to quote from essays written minutes earlier
 id: llm-group-low-ownership-poor-quoting-own-essays
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

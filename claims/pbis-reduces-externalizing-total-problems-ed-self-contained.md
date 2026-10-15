@@ -4,7 +4,7 @@ title: PBIS implementation is associated with significant pre-to-post reductions
 description: PBIS implementation is associated with significant pre-to-post reductions in externalizing and total problem behaviors of students with ED in self-contained settings
 id: pbis-reduces-externalizing-total-problems-ed-self-contained
 aliases: [pbis-reduces-syndrome-scores-ed-students, pbis-reduces-clinically-significant-behavior-problems]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

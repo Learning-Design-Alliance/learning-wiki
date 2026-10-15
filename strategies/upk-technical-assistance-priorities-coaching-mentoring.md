@@ -3,7 +3,7 @@ type: strategy
 id: upk-technical-assistance-priorities-coaching-mentoring
 title: Target state UPK technical assistance on coaching and mentoring, curriculum and assessment guidance, facilities, multilingual learner supports, and paraprofessional workforce investment
 description: Based on its 2022–23 survey of 1,384 LEAs, the report recommends that California target technical assistance and investments toward the needs LEAs themselves identified.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

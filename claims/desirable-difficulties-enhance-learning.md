@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words
 id: desirable-difficulties-enhance-learning
 aliases: [desirable-difficulties-improve-retention]
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

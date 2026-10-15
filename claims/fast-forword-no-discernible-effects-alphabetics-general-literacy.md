@@ -3,7 +3,7 @@ type: claim
 title: Fast ForWord has no discernible effects on alphabetics and general literacy achievement and potentially positive effects on reading fluency and comprehension for adolescent learners
 description: Fast ForWord has no discernible effects on alphabetics and general literacy achievement and potentially positive effects on reading fluency and comprehension for adolescent learners
 id: fast-forword-no-discernible-effects-alphabetics-general-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

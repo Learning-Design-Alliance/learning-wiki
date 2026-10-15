@@ -3,7 +3,7 @@ type: claim
 title: The Rothstein falsification test is not definitive in showing bias in VAM teacher effect estimates
 description: The Rothstein falsification test is not definitive in showing bias in VAM teacher effect estimates
 id: rothstein-test-not-definitive-evidence-of-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

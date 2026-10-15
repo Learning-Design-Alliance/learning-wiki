@@ -3,7 +3,7 @@ type: strategy
 id: departmentalize-upper-elementary-strongest-subjects
 title: Departmentalizing upper elementary instruction as a potential strategy for resource efficiency, achievement, and retention
 description: "The report describes departmentalizing as assigning upper elementary grade teachers to \"teach their strongest subjects to multiple classes\" rather than teaching all subjects to a single class."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

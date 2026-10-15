@@ -3,7 +3,7 @@ type: claim
 title: Prior-year heat exposure reduces learning, with about 3 times greater impact on Black and Hispanic/Latine students than White students
 description: Prior-year heat exposure reduces learning, with about 3 times greater impact on Black and Hispanic/Latine students than White students
 id: heat-exposure-racial-learning-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

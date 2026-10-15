@@ -3,7 +3,7 @@ type: claim
 title: Notetaking as a feedback tool facilitates resolution of lexical problems but leaves grammatical problems unresolved, suggesting reformulation as an alternative
 description: Notetaking as a feedback tool facilitates resolution of lexical problems but leaves grammatical problems unresolved, suggesting reformulation as an alternative
 id: notetaking-feedback-limits-grammar-resolution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

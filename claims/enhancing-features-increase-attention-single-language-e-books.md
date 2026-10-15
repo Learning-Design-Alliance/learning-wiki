@@ -3,7 +3,7 @@ type: claim
 title: Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin
 description: Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin
 id: enhancing-features-increase-attention-single-language-e-books
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

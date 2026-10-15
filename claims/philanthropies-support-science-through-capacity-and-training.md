@@ -3,7 +3,7 @@ type: claim
 title: Philanthropic organizations support basic science by funding scientists, building research capacity, and training new generations of scientists
 description: Philanthropic organizations support basic science by funding scientists, building research capacity, and training new generations of scientists
 id: philanthropies-support-science-through-capacity-and-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

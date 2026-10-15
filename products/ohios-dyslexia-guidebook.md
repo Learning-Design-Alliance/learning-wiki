@@ -3,7 +3,7 @@ type: product
 id: ohios-dyslexia-guidebook
 title: Ohio’s Dyslexia Guidebook
 description: A framework and implementation guide produced by the Ohio Department of Education and Workforce for universal literacy screening, dyslexia screening, and related instructional supports in Ohio schools.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

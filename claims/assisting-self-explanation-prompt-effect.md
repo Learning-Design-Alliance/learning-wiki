@@ -3,7 +3,7 @@ type: claim
 title: "The assisting self-explanation prompt effect: assisting prompts elicit high-quality self-explanations and deep understanding"
 description: "The assisting self-explanation prompt effect: assisting prompts elicit high-quality self-explanations and deep understanding"
 id: assisting-self-explanation-prompt-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

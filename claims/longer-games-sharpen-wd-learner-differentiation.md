@@ -3,7 +3,7 @@ type: claim
 title: The WD statistic is more useful for differentiating between simulated learner types when games are played longer
 description: The WD statistic is more useful for differentiating between simulated learner types when games are played longer
 id: longer-games-sharpen-wd-learner-differentiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

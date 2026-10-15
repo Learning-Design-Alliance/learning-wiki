@@ -3,7 +3,7 @@ type: claim
 title: Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment
 description: Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment
 id: five-learner-profiles-standards-attainment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

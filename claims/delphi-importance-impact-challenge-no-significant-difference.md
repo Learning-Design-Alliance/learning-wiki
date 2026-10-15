@@ -3,7 +3,7 @@ type: claim
 title: Experts rated overall importance of AI in education higher than impact and challenge, but the differences were not statistically significant
 description: Experts rated overall importance of AI in education higher than impact and challenge, but the differences were not statistically significant
 id: delphi-importance-impact-challenge-no-significant-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

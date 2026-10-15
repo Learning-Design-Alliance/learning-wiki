@@ -3,7 +3,7 @@ type: claim
 title: "Early Reading First had positive, statistically significant impacts on children's print and letter knowledge"
 description: "Early Reading First had positive, statistically significant impacts on children's print and letter knowledge"
 id: early-reading-first-positive-print-letter-knowledge-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

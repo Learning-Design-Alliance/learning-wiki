@@ -3,7 +3,7 @@ type: claim
 title: Tutors and trainee researchers most value supportive attitude, mastery of the research field, and accessibility in a research project supervisor
 description: Tutors and trainee researchers most value supportive attitude, mastery of the research field, and accessibility in a research project supervisor
 id: supervisor-desirable-characteristics-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

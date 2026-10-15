@@ -3,7 +3,7 @@ type: claim
 title: STeLLA content-plus-pedagogy PD produced greater student science gains than content-only training
 description: STeLLA content-plus-pedagogy PD produced greater student science gains than content-only training
 id: stella-outperformed-content-only-pd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

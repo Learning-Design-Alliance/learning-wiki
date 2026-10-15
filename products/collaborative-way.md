@@ -4,7 +4,7 @@ id: collaborative-way
 title: Collaborative Way
 description: A teamwork framework used by the Team Learning Foundation that structures collaboration around generous listening, direct communication, encouragement, commitment-keeping, appreciation, and a shared team mission.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

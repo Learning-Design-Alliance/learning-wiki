@@ -3,7 +3,7 @@ type: claim
 title: "The DMO-GRU model achieves the best classification results among the compared models, with 91.2% accuracy, 90.8% F1-score, 90.1% precision and 92.5% recall"
 description: "The DMO-GRU model achieves the best classification results among the compared models, with 91.2% accuracy, 90.8% F1-score, 90.1% precision and 92.5% recall"
 id: dmo-gru-best-classification-results
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers
 description: Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers
 id: sri-implementation-observations-modeling-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

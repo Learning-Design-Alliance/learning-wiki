@@ -3,7 +3,7 @@ type: claim
 title: "The Investigation phase divides into three sub-phases: Exploration or Experimentation leading to Data Interpretation"
 description: "The Investigation phase divides into three sub-phases: Exploration or Experimentation leading to Data Interpretation"
 id: investigation-exploration-experimentation-data-interpretation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

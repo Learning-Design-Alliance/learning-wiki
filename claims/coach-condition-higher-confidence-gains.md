@@ -3,7 +3,7 @@ type: claim
 title: Students in the Coach condition reported higher confidence in their own competence and a larger confidence gain over the seven weeks than unrestricted-AI students
 description: Students in the Coach condition reported higher confidence in their own competence and a larger confidence gain over the seven weeks than unrestricted-AI students
 id: coach-condition-higher-confidence-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

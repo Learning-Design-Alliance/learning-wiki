@@ -3,7 +3,7 @@ type: claim
 title: "Mathematics/science, special education, and foreign language teachers have predicted turnover rates 37%, 46%, and 87% greater than elementary teachers"
 description: "Mathematics/science, special education, and foreign language teachers have predicted turnover rates 37%, 46%, and 87% greater than elementary teachers"
 id: subject-area-turnover-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

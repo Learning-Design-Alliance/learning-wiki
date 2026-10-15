@@ -3,7 +3,7 @@ type: design
 id: cyberagents-competency-mapping-module
 title: Competency-mapping module organizing curriculum topics by difficulty, prerequisites, and concept clusters
 description: The competency-mapping module extracts structured competencies from course materials using a cybersecurity-specific competency schema.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance
 description: Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance
 id: ssrl-empirical-evidence-occurrence-and-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

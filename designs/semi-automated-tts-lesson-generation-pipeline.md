@@ -3,7 +3,7 @@ type: design
 id: semi-automated-tts-lesson-generation-pipeline
 title: Semi-automated three-stage human-in-the-loop pipeline for generating dialogue-based TTS lesson videos
 description: "A lesson-video generation workflow with three stages: LLM-based slide generation (Claude 3.5 Sonnet producing Marp Markdown slides), LLM-based TTS-optimized narration generation, and automated speech synthesis and int..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

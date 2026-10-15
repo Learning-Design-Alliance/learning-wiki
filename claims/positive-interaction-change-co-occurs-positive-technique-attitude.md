@@ -3,7 +3,7 @@ type: claim
 title: Positive perceptions of training and of the technique largely co-occurred across the two themes
 description: Positive perceptions of training and of the technique largely co-occurred across the two themes
 id: positive-interaction-change-co-occurs-positive-technique-attitude
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: select-evidence-based-mindfulness-programs-needs-assessment
 title: Select evidence-based mindfulness programs matched to school needs assessment data
 description: The brief advises selecting specific programs or strategies based on a needs assessment or analysis of schoolwide data to determine how, why, and to what ends to implement mindfulness, examining points in the day when...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

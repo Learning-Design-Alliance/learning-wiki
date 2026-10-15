@@ -3,7 +3,7 @@ type: claim
 title: Participation rates in Title I school choice and supplemental educational services were low
 description: Participation rates in Title I school choice and supplemental educational services were low
 id: title-i-choice-ses-low-participation-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

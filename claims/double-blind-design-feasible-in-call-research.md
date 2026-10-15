@@ -3,7 +3,7 @@ type: claim
 title: Double-blind experimental design can be successfully implemented in CALL-based pedagogical intervention research
 description: Double-blind experimental design can be successfully implemented in CALL-based pedagogical intervention research
 id: double-blind-design-feasible-in-call-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

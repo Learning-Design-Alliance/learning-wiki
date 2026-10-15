@@ -3,7 +3,7 @@ type: claim
 title: Premium-access GenAI users report greater perceived benefits than free-only users, largest for tasks beyond current expertise
 description: Premium-access GenAI users report greater perceived benefits than free-only users, largest for tasks beyond current expertise
 id: premium-access-greater-perceived-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

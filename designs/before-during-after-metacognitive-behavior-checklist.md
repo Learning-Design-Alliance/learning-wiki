@@ -3,7 +3,7 @@ type: design
 id: before-during-after-metacognitive-behavior-checklist
 title: Before-during-after metacognitive behavior checklist for reading lessons
 description: The article presents a table of metacognitive behaviors teachers exhibit before, during, and after a reading lesson.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

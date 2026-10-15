@@ -3,7 +3,7 @@ type: design
 id: fraction-face-off-cooperative-lesson-structure
 title: Tutor-introduces-then-cooperative-groups lesson structure with a sports theme
 description: "Each lesson follows a sequence in which tutors introduce \"concepts, skills, problem-solving strategies, and procedures,\" after which \"students work in groups, sharing solutions and helping others.\" Lessons have a spor..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

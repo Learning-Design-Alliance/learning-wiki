@@ -3,7 +3,7 @@ type: claim
 title: "Job Corps' effect on completing school is larger for older youth (18–24) than for younger youth (16–17)"
 description: "Job Corps' effect on completing school is larger for older youth (18–24) than for younger youth (16–17)"
 id: job-corps-completion-larger-older-youth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

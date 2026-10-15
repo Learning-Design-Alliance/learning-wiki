@@ -3,7 +3,7 @@ type: element
 id: ontogenic-analysis-kos
 title: Ontogenic analysis of knowledge organization systems
 description: Ontogenic analysis is the description of how a subject or a set of classes changes in a knowledge organization system over time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

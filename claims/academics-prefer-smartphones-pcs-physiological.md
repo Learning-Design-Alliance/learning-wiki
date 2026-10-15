@@ -3,7 +3,7 @@ type: claim
 title: Academics most often name smartphones and personal computers as the tools they use to realise physiological needs
 description: Academics most often name smartphones and personal computers as the tools they use to realise physiological needs
 id: academics-prefer-smartphones-pcs-physiological
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

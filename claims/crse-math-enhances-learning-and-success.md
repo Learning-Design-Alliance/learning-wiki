@@ -3,7 +3,7 @@ type: claim
 title: Research suggests that using culturally responsive and sustaining education practices in mathematics can enhance learning and academic success
 description: Research suggests that using culturally responsive and sustaining education practices in mathematics can enhance learning and academic success
 id: crse-math-enhances-learning-and-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

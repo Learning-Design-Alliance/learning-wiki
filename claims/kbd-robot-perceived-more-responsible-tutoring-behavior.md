@@ -3,7 +3,7 @@ type: claim
 title: Students perceive a KBD-configured generative social robot tutor as more aligned with responsible tutoring behavior than an identical non-KBD control robot
 description: Students perceive a KBD-configured generative social robot tutor as more aligned with responsible tutoring behavior than an identical non-KBD control robot
 id: kbd-robot-perceived-more-responsible-tutoring-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

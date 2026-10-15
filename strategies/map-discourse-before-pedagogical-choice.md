@@ -3,7 +3,7 @@ type: strategy
 id: map-discourse-before-pedagogical-choice
 title: Use inclusive visual maps of a discourse field to expose educators to multiple perspectives before making pedagogical and curricular choices
 description: The article recommends that educators facing a crowded, contested discourse field use social cartography to organize multiple perspectives visually before selecting among them.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

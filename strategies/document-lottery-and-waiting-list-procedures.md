@@ -3,7 +3,7 @@ type: strategy
 id: document-lottery-and-waiting-list-procedures
 title: Document the lotteries schools of choice conduct and their waiting-list admission procedures
 description: "The article describes, as part of its methodological guidance, the actual admission mechanisms schools of choice use: \"the lotteries charter schools conduct and procedures for admitting students from waiting lists.\" U..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

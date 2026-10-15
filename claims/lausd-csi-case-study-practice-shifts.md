@@ -3,7 +3,7 @@ type: claim
 title: Case-study community schools reported classroom practice shifts—including space arrangement, inclusive curricula, and restorative practices—that they attributed to CSI professional learning
 description: Case-study community schools reported classroom practice shifts—including space arrangement, inclusive curricula, and restorative practices—that they attributed to CSI professional learning
 id: lausd-csi-case-study-practice-shifts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

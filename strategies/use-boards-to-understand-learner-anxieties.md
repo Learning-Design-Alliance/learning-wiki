@@ -3,7 +3,7 @@ type: strategy
 id: use-boards-to-understand-learner-anxieties
 title: "Use online platform discussion boards as a window into learners' pandemic-related anxieties and needs"
 description: The article recommends that educators use Duolingo and other online platforms to understand the predicaments students face.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

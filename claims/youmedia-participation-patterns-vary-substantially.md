@@ -3,7 +3,7 @@ type: claim
 title: Participation at YOUmedia differs substantially across teens, spanning creation, homework, varied media use, and socializing
 description: Participation at YOUmedia differs substantially across teens, spanning creation, homework, varied media use, and socializing
 id: youmedia-participation-patterns-vary-substantially
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

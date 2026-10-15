@@ -3,7 +3,7 @@ type: element
 id: curriculum-analytics-lms-lo-assessment-tool
 title: Curriculum analytics tools integrated into institutional LMSs for LO assessment and visualization
 description: CA tools are learning analytics systems integrated into institutional LMSs that capture, store, and visualize LO assessment data reported by instructors at the end of each academic period.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

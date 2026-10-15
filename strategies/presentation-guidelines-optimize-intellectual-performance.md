@@ -3,7 +3,7 @@ type: strategy
 id: presentation-guidelines-optimize-intellectual-performance
 title: Present information in a manner that encourages learner activities optimizing intellectual performance
 description: "Cognitive load theory is described as \"designed to provide guidelines intended to assist in the presentation of information in a manner that encourages learner activities that optimize intellectual performance.\" As an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

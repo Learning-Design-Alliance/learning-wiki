@@ -3,7 +3,7 @@ type: strategy
 id: competency-course-specifications-benchmark-tasks
 title: "Frame course specifications in competencies and build in 'I can do...' benchmark tasks as informal assessment"
 description: "The guide recommends that since students' principal aim is to speak the target language, \"the course description should be framed in terms of competencies\", stating what students will be able to do by the end, with an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

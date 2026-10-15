@@ -3,7 +3,7 @@ type: claim
 title: Former participants desired more follow-up with their cohort and more support developing talent, managing resources, and cultivating organizational culture
 description: Former participants desired more follow-up with their cohort and more support developing talent, managing resources, and cultivating organizational culture
 id: kipp-leadership-participants-desire-more-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: 508-compliance-accessibility-tips-for-education-materials
 title: Apply Section 508 accessibility tips and tools when preparing presentations, Excel files, websites, and multimedia products
 description: "The guide is a practical resource that \"offers tips and tools for making materials, including presentations, websites, and multimedia products, accessible.\" It is aimed at staff in the Institute of Education Sciences'..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

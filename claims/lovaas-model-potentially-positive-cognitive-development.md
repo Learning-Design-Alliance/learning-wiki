@@ -3,7 +3,7 @@ type: claim
 title: The Lovaas Model has potentially positive effects on cognitive development for children with disabilities, with an improvement index of +27 percentile points
 description: The Lovaas Model has potentially positive effects on cognitive development for children with disabilities, with an improvement index of +27 percentile points
 id: lovaas-model-potentially-positive-cognitive-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

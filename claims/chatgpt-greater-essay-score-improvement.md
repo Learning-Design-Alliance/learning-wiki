@@ -3,7 +3,7 @@ type: claim
 title: The ChatGPT group achieves significantly greater essay score improvement than the other three groups
 description: The ChatGPT group achieves significantly greater essay score improvement than the other three groups
 id: chatgpt-greater-essay-score-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

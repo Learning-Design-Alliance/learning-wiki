@@ -3,7 +3,7 @@ type: claim
 title: "Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect"
 description: "Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect"
 id: book-sharing-dosage-moderates-language-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

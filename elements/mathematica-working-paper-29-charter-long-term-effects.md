@@ -3,7 +3,7 @@ type: element
 id: mathematica-working-paper-29-charter-long-term-effects
 title: "Mathematica Working Paper 29 on charter high schools' long-term attainment and earnings effects"
 description: A published working paper (Working Paper 29, published Jan 30, 2014) by Mathematica Policy Research in its Evidence/Publications series, categorized under Human Services, Education, and School Choice and Charters.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

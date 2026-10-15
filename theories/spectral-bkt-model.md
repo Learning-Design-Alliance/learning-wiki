@@ -2,7 +2,7 @@
 type: theory
 title: "Spectral BKT: a BKT variant combining feature compensation (3-gram observations) with model compensation (four latent states)"
 description: Spectral BKT is a reconceptualization of Bayesian Knowledge Tracing as a first-order HMM that applies two noise-handling paradigms from speech processing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: research-method
 id: countable-versus-dispositional-prompt-rule-audit
 title: Countable versus dispositional prompt-rule audit
 description: "The paper's organizing framework splits system-prompt instructions into two kinds."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Elementary students taught by teachers from less selective alternative routes had test scores similar to peers taught by traditional-route teachers
 description: Elementary students taught by teachers from less selective alternative routes had test scores similar to peers taught by traditional-route teachers
 id: elementary-less-selective-alt-routes-similar-traditional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

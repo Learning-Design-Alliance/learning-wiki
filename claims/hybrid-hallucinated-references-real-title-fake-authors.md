@@ -3,7 +3,7 @@ type: claim
 title: Of 30 verified hallucinated references, 13 appeared entirely fabricated and 17 were hybrid references combining a real title with fabricated authorship or metadata
 description: Of 30 verified hallucinated references, 13 appeared entirely fabricated and 17 were hybrid references combining a real title with fabricated authorship or metadata
 id: hybrid-hallucinated-references-real-title-fake-authors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

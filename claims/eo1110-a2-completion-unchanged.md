@@ -3,7 +3,7 @@ type: claim
 title: First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent
 description: First-year completion of the written communication (A2) requirement was similar across the 2017 and 2018 cohorts at approximately 80 percent
 id: eo1110-a2-completion-unchanged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

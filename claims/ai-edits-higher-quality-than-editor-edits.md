@@ -3,7 +3,7 @@ type: claim
 title: AI-generated rewrites of cover letters were rated higher for writing quality and more likely to secure hypothetical interviews than rewrites by professional human editors
 description: AI-generated rewrites of cover letters were rated higher for writing quality and more likely to secure hypothetical interviews than rewrites by professional human editors
 id: ai-edits-higher-quality-than-editor-edits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

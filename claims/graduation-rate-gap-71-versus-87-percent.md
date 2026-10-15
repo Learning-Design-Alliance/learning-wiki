@@ -3,7 +3,7 @@ type: claim
 title: In 2019–20, 71 percent of students with disabilities graduated high school within four years versus 87 percent of all students
 description: In 2019–20, 71 percent of students with disabilities graduated high school within four years versus 87 percent of all students
 id: graduation-rate-gap-71-versus-87-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

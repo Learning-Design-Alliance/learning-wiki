@@ -3,7 +3,7 @@ type: claim
 title: "Skill-equipped agents reproduce target users' attributes and language, enabling impersonation across unseen contexts"
 description: "Skill-equipped agents reproduce target users' attributes and language, enabling impersonation across unseen contexts"
 id: agent-level-impersonation-qa-acc-vocabgain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)
 description: Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)
 id: istation-sc-map-reading-growth-006
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

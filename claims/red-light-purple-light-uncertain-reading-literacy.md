@@ -3,7 +3,7 @@ type: claim
 title: Red Light, Purple Light shows uncertain effects on reading and literacy related achievement
 description: Red Light, Purple Light shows uncertain effects on reading and literacy related achievement
 id: red-light-purple-light-uncertain-reading-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

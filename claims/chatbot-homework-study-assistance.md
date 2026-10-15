@@ -3,7 +3,7 @@ type: claim
 title: AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support
 description: AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support
 id: chatbot-homework-study-assistance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

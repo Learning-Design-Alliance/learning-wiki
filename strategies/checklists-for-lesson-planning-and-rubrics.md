@@ -3,7 +3,7 @@ type: strategy
 id: checklists-for-lesson-planning-and-rubrics
 title: Use component-level checklists for lesson planning and rubric design
 description: "The Toolkit recommends that teachers use its Checklists as flexible instruments in two ways: pulling specific skill items when planning technology-rich lessons, and using them as criteria when designing rubrics to ass..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

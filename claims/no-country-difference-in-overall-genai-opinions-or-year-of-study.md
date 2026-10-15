@@ -3,7 +3,7 @@ type: claim
 title: "Canadian and Korean students did not differ significantly in overall opinions about GenAI's impact on academic integrity and learning quality, and academic progress did not affect scenario judgments"
 description: "Canadian and Korean students did not differ significantly in overall opinions about GenAI's impact on academic integrity and learning quality, and academic progress did not affect scenario judgments"
 id: no-country-difference-in-overall-genai-opinions-or-year-of-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

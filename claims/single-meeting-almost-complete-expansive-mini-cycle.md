@@ -3,7 +3,7 @@ type: claim
 title: A single meeting of self-regulating pre-service teachers contained an almost complete expansive mini-cycle of learning actions, with all expansive actions except consolidating the new practice
 description: A single meeting of self-regulating pre-service teachers contained an almost complete expansive mini-cycle of learning actions, with all expansive actions except consolidating the new practice
 id: single-meeting-almost-complete-expansive-mini-cycle
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

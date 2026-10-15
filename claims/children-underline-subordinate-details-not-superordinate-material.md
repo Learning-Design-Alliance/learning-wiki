@@ -3,7 +3,7 @@ type: claim
 title: Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences
 description: Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences
 id: children-underline-subordinate-details-not-superordinate-material
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

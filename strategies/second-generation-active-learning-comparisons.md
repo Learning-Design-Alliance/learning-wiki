@@ -3,7 +3,7 @@ type: strategy
 id: second-generation-active-learning-comparisons
 title: Conduct second-generation active learning research using carefully constructed comparisons that isolate specific course features
 description: "Building on the review's taxonomy, the authors recommend that researchers \"conduct second-generation research that analyzes which types of active learning and instructor behaviors are the most effective for student le..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

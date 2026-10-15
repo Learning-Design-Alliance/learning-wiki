@@ -3,7 +3,7 @@ type: claim
 title: Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing
 description: Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing
 id: simplification-and-glossary-supported-second-cycle-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

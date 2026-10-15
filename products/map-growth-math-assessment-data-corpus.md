@@ -4,7 +4,7 @@ id: map-growth-math-assessment-data-corpus
 title: MAP Growth math assessment data corpus
 description: A large corpus of NWEA MAP Growth mathematics assessment data, including standard and accessible test administrations, used to study item accessibility and quality for students with and without visual impairments.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

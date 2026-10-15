@@ -3,7 +3,7 @@ type: claim
 title: "Students in the TEC Summer Learning Program showed a 41% pre-to-post gain in mathematics vocabulary"
 description: "Students in the TEC Summer Learning Program showed a 41% pre-to-post gain in mathematics vocabulary"
 id: tec-summer-41-percent-math-vocabulary-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

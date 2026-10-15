@@ -3,7 +3,7 @@ type: strategy
 id: college-explorer-with-goal-setting-and-parent-conferences
 title: Use score-linked college exploration alongside goal setting and parent conferences to build post-secondary plans
 description: "The article recommends embedding the College Explorer in a wraparound planning routine: \"Together with goal setting and parent conferences, College Explorer can help students develop a plan, consider new possibilities..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

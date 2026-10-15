@@ -3,7 +3,7 @@ type: element
 id: ideas-western-man-expressionism-realism-course
 title: "Quinmester humanities course 'Ideas of Western Man: Expressionism and Realism' integrating literature, philosophy, art, and music"
 description: This is an authorized course of instruction for the Dade County quinmester program in English and humanities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

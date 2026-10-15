@@ -3,7 +3,7 @@ type: claim
 title: "GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect"
 description: "GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect"
 id: genai-motivation-null-moderators-function-duration-year-gender
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: AIEd research is dominated by computer science and STEM disciplines, with minimal educator involvement
 description: AIEd research is dominated by computer science and STEM disciplines, with minimal educator involvement
 id: aied-research-dominated-by-cs-stem
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

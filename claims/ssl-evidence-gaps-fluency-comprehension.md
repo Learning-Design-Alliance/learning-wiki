@@ -3,7 +3,7 @@ type: claim
 title: No studies meeting WWC standards addressed SSL effects on fluency, comprehension, or general reading achievement, and the extent of alphabetics evidence is small
 description: No studies meeting WWC standards addressed SSL effects on fluency, comprehension, or general reading achievement, and the extent of alphabetics evidence is small
 id: ssl-evidence-gaps-fluency-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

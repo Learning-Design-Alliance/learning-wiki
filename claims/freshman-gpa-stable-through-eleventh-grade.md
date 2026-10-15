@@ -3,7 +3,7 @@ type: claim
 title: Freshman GPA is highly stable, correlating 0.87 with eleventh-grade GPA
 description: Freshman GPA is highly stable, correlating 0.87 with eleventh-grade GPA
 id: freshman-gpa-stable-through-eleventh-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

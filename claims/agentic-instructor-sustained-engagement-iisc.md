@@ -3,7 +3,7 @@ type: claim
 title: An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment
 description: An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment
 id: agentic-instructor-sustained-engagement-iisc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

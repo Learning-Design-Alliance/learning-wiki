@@ -3,7 +3,7 @@ type: strategy
 id: weigh-alternatives-to-self-explanation-time-demands
 title: Consider alternatives to self-explanation — instructional explanations, sequenced problem solving, retrieval practice — given its time demands
 description: Because generating self-explanations takes considerable time and is not a widely reported study strategy, the article recommends considering alternative activities that achieve the same outcomes more efficiently.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

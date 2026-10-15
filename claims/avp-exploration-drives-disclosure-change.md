@@ -3,7 +3,7 @@ type: claim
 title: In the AVP, per-turn disclosure change responds to trainee exploration but not measurably to trainee empathy, and the static baseline shows no significant joint response
 description: In the AVP, per-turn disclosure change responds to trainee exploration but not measurably to trainee empathy, and the static baseline shows no significant joint response
 id: avp-exploration-drives-disclosure-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

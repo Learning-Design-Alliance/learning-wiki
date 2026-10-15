@@ -3,7 +3,7 @@ type: claim
 title: The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)
 description: The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)
 id: cft-hypertext-design-faster-test-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

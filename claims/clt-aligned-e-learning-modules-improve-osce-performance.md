@@ -3,7 +3,7 @@ type: claim
 title: CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)
 description: CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)
 id: clt-aligned-e-learning-modules-improve-osce-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

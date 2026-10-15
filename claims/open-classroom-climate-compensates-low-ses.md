@@ -3,7 +3,7 @@ type: claim
 title: An open classroom climate at school can partially compensate for the disadvantages of young people with low socioeconomic status
 description: An open classroom climate at school can partially compensate for the disadvantages of young people with low socioeconomic status
 id: open-classroom-climate-compensates-low-ses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

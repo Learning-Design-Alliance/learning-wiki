@@ -3,7 +3,7 @@ type: claim
 title: Learning gains from ChatGPT-generated hints were not statistically significantly different from human tutor-authored hints, though ChatGPT gains were numerically higher in all subjects
 description: Learning gains from ChatGPT-generated hints were not statistically significantly different from human tutor-authored hints, though ChatGPT gains were numerically higher in all subjects
 id: chatgpt-gains-equivalent-human-tutor-hints
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

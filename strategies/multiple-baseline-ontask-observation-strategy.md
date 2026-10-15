@@ -3,7 +3,7 @@ type: strategy
 id: multiple-baseline-ontask-observation-strategy
 title: Use a multiple-baseline across-classrooms observation routine to monitor on-task behavior around classroom activity breaks
 description: The study evaluated on-task behavior with a multiple-baseline across-classrooms design, observing students before and after Energizers activities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

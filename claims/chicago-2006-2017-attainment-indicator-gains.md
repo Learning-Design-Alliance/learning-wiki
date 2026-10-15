@@ -3,7 +3,7 @@ type: claim
 title: Between 2006 and 2017, Chicago Public Schools saw large rises in freshman on-track, graduation, and college enrollment, with the greatest on-track increases among Black and Latino males
 description: Between 2006 and 2017, Chicago Public Schools saw large rises in freshman on-track, graduation, and college enrollment, with the greatest on-track increases among Black and Latino males
 id: chicago-2006-2017-attainment-indicator-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

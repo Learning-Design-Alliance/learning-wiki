@@ -3,7 +3,7 @@ type: claim
 title: "Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs"
 description: "Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs"
 id: ablation-all-features-maximize-auc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

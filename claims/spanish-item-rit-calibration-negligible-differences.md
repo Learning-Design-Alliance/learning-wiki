@@ -3,7 +3,7 @@ type: claim
 title: Old (English-borrowed) and newly calibrated Spanish item RITs differ negligibly, with correlations of 0.98 and no statistically significant paired t-test differences
 description: Old (English-borrowed) and newly calibrated Spanish item RITs differ negligibly, with correlations of 0.98 and no statistically significant paired t-test differences
 id: spanish-item-rit-calibration-negligible-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

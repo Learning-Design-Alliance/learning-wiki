@@ -4,7 +4,7 @@ id: ed-trust-teacher-diversity-50-state-scan-data-tool
 title: Ed Trust Teacher Diversity 50-State Scan data tool
 description: "A publicly available Ed Trust data and rating tool that compares states' progress on educator-diversity policies using evidence-based criteria and three-level ratings."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

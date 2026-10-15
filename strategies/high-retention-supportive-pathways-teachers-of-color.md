@@ -3,7 +3,7 @@ type: strategy
 id: high-retention-supportive-pathways-teachers-of-color
 title: Build high-retention, supportive pathways into teaching for candidates of color
 description: The report recommends that states and districts underwrite preparation costs through service scholarships and loan forgiveness, fund teacher residencies with year-long apprenticeships and stipends, develop Grow Your O...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

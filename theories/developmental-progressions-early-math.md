@@ -2,7 +2,7 @@
 type: theory
 title: Developmental progressions as an organizing framework for early math instruction and assessment
 description: "Developmental progressions are \"sequences of skills and concepts that children acquire as they build math knowledge.\" The guide uses them as a road map: Recommendations 1 and 2 outline how each early math content area..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

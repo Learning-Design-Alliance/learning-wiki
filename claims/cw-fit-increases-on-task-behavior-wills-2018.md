@@ -3,7 +3,7 @@ type: claim
 title: In a multisite randomized replication trial, CW-FIT increased the percentage of time on-task in classes in kindergarten through grade 6
 description: In a multisite randomized replication trial, CW-FIT increased the percentage of time on-task in classes in kindergarten through grade 6
 id: cw-fit-increases-on-task-behavior-wills-2018
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

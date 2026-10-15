@@ -3,7 +3,7 @@ type: research-method
 id: graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode
 title: Graphical model framework for junction-tree estimation of multidimensional IRT growth models
 description: The article presents a framework in which a statistical model is represented as a directed acyclic graph, moralized, triangulated, and converted into a junction tree whose cliques define conditionally independent subsets of latent variables.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively
 description: In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively
 id: studychat-conceptual-positive-delegation-negative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

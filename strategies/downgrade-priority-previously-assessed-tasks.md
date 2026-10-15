@@ -3,7 +3,7 @@ type: strategy
 id: downgrade-priority-previously-assessed-tasks
 title: Downgrade assessment priority for tasks already assessed earlier in the course or program
 description: "A concrete move within the prioritization process: \"The instructor may find that the need to assess tasks which had been assessed earlier in the course (or, in the case of an upper-level course, earlier in the program..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

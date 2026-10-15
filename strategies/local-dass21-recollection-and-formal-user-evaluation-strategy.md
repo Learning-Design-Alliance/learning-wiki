@@ -3,7 +3,7 @@ type: strategy
 id: local-dass21-recollection-and-formal-user-evaluation-strategy
 title: Retrain and evaluate the wellness system on locally collected, clinically validated data, then run a formal user evaluation before wider deployment
 description: "The authors' stated forward plan is to move from the public training dataset to primary data: \"Future work will focus on collecting primary data from Pakistani university students using an Urdu-translated and clinical..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

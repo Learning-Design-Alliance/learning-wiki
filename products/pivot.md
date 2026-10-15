@@ -4,7 +4,7 @@ id: pivot
 title: PIVOT
 description: PIVOT is a three-stage pedagogy-guided generative video tutoring framework developed by Xinchen Ma et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

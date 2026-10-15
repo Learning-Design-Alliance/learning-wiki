@@ -3,7 +3,7 @@ type: strategy
 id: equip-data-collection-method-tradeoffs
 title: Weigh live, video, and customized nonverbal data collection methods when using EQUIP
 description: EQUIP can capture interactions live, via prerecorded video, or both, and although default discourse dimensions focus on verbal participation, the tool can be customized to capture nonverbal participation instead or in...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

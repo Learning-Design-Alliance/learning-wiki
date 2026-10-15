@@ -3,7 +3,7 @@ type: claim
 title: CA data visualization positioned LO attainment data as the central axis of curriculum decision-making in both institutions
 description: CA data visualization positioned LO attainment data as the central axis of curriculum decision-making in both institutions
 id: ca-visualization-central-axis-curriculum-decision-making
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

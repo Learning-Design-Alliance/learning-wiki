@@ -3,7 +3,7 @@ type: claim
 title: Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training
 description: Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training
 id: exposure-programs-increase-tech-pursuit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

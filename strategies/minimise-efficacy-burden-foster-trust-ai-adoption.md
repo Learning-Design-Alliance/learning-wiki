@@ -3,7 +3,7 @@ type: strategy
 id: minimise-efficacy-burden-foster-trust-ai-adoption
 title: Minimise efficacy burden and foster trust elements such as data security and privacy to support AI adoption
 description: "The article recommends that universities, policymakers and Big Tech support successful AI adoption among Gen Z students by reducing the demands placed on learners' self-efficacy and by building trust."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

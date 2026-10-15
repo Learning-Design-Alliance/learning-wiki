@@ -3,7 +3,7 @@ type: claim
 title: Most MMCA studies combine two or three modalities rather than four
 description: Most MMCA studies combine two or three modalities rather than four
 id: mmca-studies-mostly-two-or-three-modalities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

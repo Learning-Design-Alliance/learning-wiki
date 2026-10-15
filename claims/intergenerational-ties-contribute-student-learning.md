@@ -4,7 +4,7 @@ title: Intergenerational ties in the community contribute positively to student 
 description: Intergenerational ties in the community contribute positively to student learning, per research cited in the report
 id: intergenerational-ties-contribute-student-learning
 aliases: [intergenerational-ties-contribute-positively-student-learning]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

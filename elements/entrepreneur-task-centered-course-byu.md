@@ -3,7 +3,7 @@ type: element
 id: entrepreneur-task-centered-course-byu
 title: "Entrepreneur course: a task-centered online course teaching business startup to non-business majors"
 description: "Developed by Brigham Young University's Center for Instructional Technology and Outreach, the course teaches \"the fundamental steps for starting a business to non-business majors in developing countries.\" \"The whole t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

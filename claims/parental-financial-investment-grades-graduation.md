@@ -3,7 +3,7 @@ type: claim
 title: Greater parental financial investment associated with lower grades but higher graduation likelihood (review attribution)
 description: Greater parental financial investment associated with lower grades but higher graduation likelihood (review attribution)
 id: parental-financial-investment-grades-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

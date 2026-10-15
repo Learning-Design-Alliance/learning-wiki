@@ -4,7 +4,7 @@ id: longitudinal-sel-dataset-from-a-large-urban-district-with-about-3000-student
 title: Longitudinal SEL dataset from a large urban district with about 3,000 students per timepoint
 description: "A four-year longitudinal dataset of students' social-emotional learning scores used to model SEL status and growth as predictors of ninth-grade academic risk."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation"
 description: "The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation"
 id: tool-change-most-disruption-online-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

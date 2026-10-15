@@ -3,7 +3,7 @@ type: claim
 title: Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs
 description: Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs
 id: service-scholarships-recruit-retain-when-generous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

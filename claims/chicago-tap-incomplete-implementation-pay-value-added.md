@@ -3,7 +3,7 @@ type: claim
 title: Chicago TAP did not fully implement its performance-based pay or value-added components as intended
 description: Chicago TAP did not fully implement its performance-based pay or value-added components as intended
 id: chicago-tap-incomplete-implementation-pay-value-added
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Games with no story or irrelevant story context show larger learning effects than games with relevant story context
 description: Games with no story or irrelevant story context show larger learning effects than games with relevant story context
 id: irrelevant-story-larger-effects-than-relevant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

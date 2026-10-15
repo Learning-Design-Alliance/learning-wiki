@@ -3,7 +3,7 @@ type: claim
 title: Over four years, more than 250 ILC leaders provided multi-session professional learning to more than 32,000 California educators across more than 2,000 schools and at least 495 districts
 description: Over four years, more than 250 ILC leaders provided multi-session professional learning to more than 32,000 California educators across more than 2,000 schools and at least 495 districts
 id: ilc-reach-32000-educators-495-districts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

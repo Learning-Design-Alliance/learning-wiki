@@ -3,7 +3,7 @@ type: claim
 title: Per-pupil spending on English Learners in California was only about $1,000 more than for non–English Learner peers in recent years
 description: Per-pupil spending on English Learners in California was only about $1,000 more than for non–English Learner peers in recent years
 id: california-el-spending-gap-about-1000-per-pupil
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

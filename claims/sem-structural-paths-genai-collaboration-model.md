@@ -3,7 +3,7 @@ type: claim
 title: In the tested structural model, contextual support positively predicts trust calibration and collaborative regulation, trust calibration positively predicts collaborative regulation and perceived transfer gains, and collaborative regulation shows the strongest association with perceived transfer gains
 description: In the tested structural model, contextual support positively predicts trust calibration and collaborative regulation, trust calibration positively predicts collaborative regulation and perceived transfer gains, and c...
 id: sem-structural-paths-genai-collaboration-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

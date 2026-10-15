@@ -3,7 +3,7 @@ type: claim
 title: "Before expanded options, only 13% of CPS freshmen who failed spring Algebra I recovered the credit over the summer"
 description: "Before expanded options, only 13% of CPS freshmen who failed spring Algebra I recovered the credit over the summer"
 id: low-summer-algebra-credit-recovery-rate-before-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

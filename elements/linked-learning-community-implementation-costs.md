@@ -3,7 +3,7 @@ type: element
 id: linked-learning-community-implementation-costs
 title: Implementation cost profile of linked learning community programs
 description: Visher et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

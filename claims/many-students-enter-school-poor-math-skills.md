@@ -3,7 +3,7 @@ type: claim
 title: Many U.S. students enter elementary school with poor math skills
 description: Many U.S.
 id: many-students-enter-school-poor-math-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

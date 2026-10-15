@@ -3,7 +3,7 @@ type: strategy
 id: student-family-community-engagement-partnerships
 title: Center student, family, and community voice in policy and practice decisions
 description: The brief holds that strong partnerships between educators, students, families, and communities are essential for social, emotional, and academic development.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

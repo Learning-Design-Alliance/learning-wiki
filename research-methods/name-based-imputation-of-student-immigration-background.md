@@ -3,7 +3,7 @@ type: research-method
 id: name-based-imputation-of-student-immigration-background
 title: Name-based imputation of student immigration background
 description: Because second-generation immigrants with German citizenship cannot be identified from administrative records, the authors impute immigration background and region of origin from first and family names using the Humpert and Schneiderheinze method, drawing on name databases of around 200,000 first na
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

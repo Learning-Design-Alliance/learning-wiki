@@ -3,7 +3,7 @@ type: strategy
 id: scaffolded-activities-convert-genai-concerns-to-competencies
 title: "Design authentic, scaffolded activities that convert students' intuitive GenAI concerns into explicit ethical competencies"
 description: "The article recommends designing authentic, scaffolded assessment activities informed by students' existing GenAI use and concerns."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

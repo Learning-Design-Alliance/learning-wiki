@@ -3,7 +3,7 @@ type: claim
 title: Schools that missed AYP showed some positive subsequent achievement impacts under NCLB accountability
 description: Schools that missed AYP showed some positive subsequent achievement impacts under NCLB accountability
 id: missing-ayp-positive-achievement-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

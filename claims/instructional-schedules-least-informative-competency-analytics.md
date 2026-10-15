@@ -3,7 +3,7 @@ type: claim
 title: Instructional schedules are the least informative curriculum document type for 21st-century competency analytics, while detailed learning activity content is the most informative
 description: Instructional schedules are the least informative curriculum document type for 21st-century competency analytics, while detailed learning activity content is the most informative
 id: instructional-schedules-least-informative-competency-analytics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

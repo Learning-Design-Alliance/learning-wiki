@@ -2,7 +2,7 @@
 type: theory
 title: Three-axis typology of open educational practices
 description: "The article offers a typology of OEP that goes beyond OER use, situating each practice along three axes: \"From content-centric to process-centric; From teacher-centric to learner-centric; From primarily pedagogical to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

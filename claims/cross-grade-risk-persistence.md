@@ -3,7 +3,7 @@ type: claim
 title: Students at later grade levels were more likely to remain at risk across school years than students at earlier grade levels
 description: Students at later grade levels were more likely to remain at risk across school years than students at earlier grade levels
 id: cross-grade-risk-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

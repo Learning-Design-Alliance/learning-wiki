@@ -3,7 +3,7 @@ type: claim
 title: Identifying rapid guessing is important for the validity of achievement test scores, particularly with low-stakes tests
 description: Identifying rapid guessing is important for the validity of achievement test scores, particularly with low-stakes tests
 id: rapid-guessing-identification-important-for-score-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: CAI utilization in education is concentrated in pedagogical applications, with administrative, research, and healthcare-education applications least represented
 description: CAI utilization in education is concentrated in pedagogical applications, with administrative, research, and healthcare-education applications least represented
 id: cai-utilization-concentrated-pedagogical-applications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

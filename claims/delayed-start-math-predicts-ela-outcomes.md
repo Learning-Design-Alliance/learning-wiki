@@ -3,7 +3,7 @@ type: claim
 title: Delayed start during math practice predicts standardized ELA test performance (β=.10 SD, p<.001)
 description: Delayed start during math practice predicts standardized ELA test performance (β=.10 SD, p<.001)
 id: delayed-start-math-predicts-ela-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

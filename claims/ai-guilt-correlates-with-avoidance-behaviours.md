@@ -3,7 +3,7 @@ type: claim
 title: AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness
 description: AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness
 id: ai-guilt-correlates-with-avoidance-behaviours
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

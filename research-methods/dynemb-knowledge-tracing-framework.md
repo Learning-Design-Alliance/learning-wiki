@@ -3,7 +3,7 @@ type: research-method
 id: dynemb-knowledge-tracing-framework
 title: DynEmb knowledge tracing framework
 description: "DynEmb is a knowledge tracing framework with two independently trained components: QuestionEmb, which learns a static d-dimensional question embedding via regularized biased matrix factorization from student-question interactions, and StudentDyn, an RNN (an LSTM by default) whose hidden state serves"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

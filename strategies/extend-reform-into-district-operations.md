@@ -3,7 +3,7 @@ type: strategy
 id: extend-reform-into-district-operations
 title: Extend systemic reform deeply into central district operations such as budgeting, finance, human resources, and facilities
 description: The paper recommends that districts pursuing standards-based reform include central operations units in their core reform strategies, because in most districts reform has barely touched operations like budgeting and f...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

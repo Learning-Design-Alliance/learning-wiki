@@ -3,7 +3,7 @@ type: claim
 title: GPT-4 outperformed GPT-3.5 and human instructors in producing feedback containing effective feedback components such as feeding-up and process-level information
 description: GPT-4 outperformed GPT-3.5 and human instructors in producing feedback containing effective feedback components such as feeding-up and process-level information
 id: gpt4-outperforms-on-effective-feedback-components
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

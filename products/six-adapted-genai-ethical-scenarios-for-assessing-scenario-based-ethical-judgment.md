@@ -4,7 +4,7 @@ id: six-adapted-genai-ethical-scenarios-for-assessing-scenario-based-ethical-jud
 title: Six adapted GenAI ethical scenarios for assessing scenario-based ethical judgment
 description: A six-item scenario-based assessment adapted from Dodson et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

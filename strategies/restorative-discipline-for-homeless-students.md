@@ -3,7 +3,7 @@ type: strategy
 id: restorative-discipline-for-homeless-students
 title: Use preventive disciplinary and restorative justice approaches rather than exclusionary discipline for students experiencing homelessness
 description: This strategy replaces school-removal discipline (suspensions and expulsions) with preventive and restorative approaches that repair relationships and address underlying causes of behavior.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

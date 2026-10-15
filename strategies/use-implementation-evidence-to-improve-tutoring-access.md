@@ -3,7 +3,7 @@ type: strategy
 id: use-implementation-evidence-to-improve-tutoring-access
 title: Use evaluation evidence on implementation quality, attendance, and relationships to guide tutoring program selection and improvement
 description: The brief positions its cross-program findings as decision support for actors working to expand effective tutoring.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

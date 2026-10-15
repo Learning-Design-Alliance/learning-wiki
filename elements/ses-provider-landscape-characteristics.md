@@ -3,7 +3,7 @@ type: element
 id: ses-provider-landscape-characteristics
 title: SES provider landscape and service delivery characteristics in oversubscribed districts
 description: The provider survey describes who delivered SES and how.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

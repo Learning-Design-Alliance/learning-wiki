@@ -3,7 +3,7 @@ type: claim
 title: Fewer students are replaced in the later years of KIPP middle school
 description: Fewer students are replaced in the later years of KIPP middle school
 id: fewer-student-replacements-in-later-middle-school-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

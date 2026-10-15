@@ -3,7 +3,7 @@ type: element
 id: mathematica-alt-cert-random-assignment-study
 title: Mathematica random assignment study of alternative routes to teacher certification
 description: A large-scale random assignment evaluation of alternative routes to teacher certification conducted by Mathematica for the U.S.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Most differences in evaluation scores between the Colorado Growth Model and value added are not related to the characteristics of students' teachers"
 description: "Most differences in evaluation scores between the Colorado Growth Model and value added are not related to the characteristics of students' teachers"
 id: cgm-value-added-differences-unrelated-to-teacher-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

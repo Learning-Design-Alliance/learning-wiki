@@ -3,7 +3,7 @@ type: design
 id: ubridge-integrated-theoretical-framework-udl-bloom-design-thinking
 title: "Integrated theoretical framework combining UDL, Bloom's Taxonomy, and design thinking for AI-focused faculty development"
 description: "The institute design rested on three complementary lenses treated as interconnected rather than separate: Universal Design for Learning as the inclusive framework, Bloom's Taxonomy as a cognitive framework for judging..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

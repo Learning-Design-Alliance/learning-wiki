@@ -3,7 +3,7 @@ type: claim
 title: The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling
 description: The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling
 id: hpl-ii-integrative-multifield-designs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

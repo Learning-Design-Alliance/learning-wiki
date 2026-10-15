@@ -3,7 +3,7 @@ type: claim
 title: Cognitive apprenticeship instruction produced no significant differences from traditional instruction on post-treatment problem-solving, final, and standardized mathematics exams in community college technical mathematics
 description: Cognitive apprenticeship instruction produced no significant differences from traditional instruction on post-treatment problem-solving, final, and standardized mathematics exams in community college technical mathema...
 id: cognitive-apprenticeship-no-significant-exam-differences-technical-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

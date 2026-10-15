@@ -3,7 +3,7 @@ type: claim
 title: AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres
 description: AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres
 id: ai-revision-podcasts-immediate-learning-gains-medical-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

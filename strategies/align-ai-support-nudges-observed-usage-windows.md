@@ -3,7 +3,7 @@ type: strategy
 id: align-ai-support-nudges-observed-usage-windows
 title: Align AI learning-support communication and nudges with empirically observed usage windows and adapt support to learner groups
 description: "The authors recommend that platform communication, reminders, and learning nudges be \"aligned with empirically observed usage windows rather than standard institutional schedules\", and that onboarding and communicatio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

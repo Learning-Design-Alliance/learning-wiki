@@ -3,7 +3,7 @@ type: claim
 title: "A relationship exists between students' relative age among their peers and their probability of disability classification"
 description: "A relationship exists between students' relative age among their peers and their probability of disability classification"
 id: relative-age-relates-disability-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

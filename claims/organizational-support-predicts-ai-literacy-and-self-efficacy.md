@@ -3,7 +3,7 @@ type: claim
 title: Organizational support positively predicts both AI literacy and technological self-efficacy among university faculty
 description: Organizational support positively predicts both AI literacy and technological self-efficacy among university faculty
 id: organizational-support-predicts-ai-literacy-and-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

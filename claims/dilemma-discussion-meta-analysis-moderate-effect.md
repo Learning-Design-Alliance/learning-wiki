@@ -3,7 +3,7 @@ type: claim
 title: "A meta-analysis of 55 studies found Kohlberg's dilemma discussion approach had a moderate to significant effect on moral education, and Just Community Schools provided a moral culture"
 description: "A meta-analysis of 55 studies found Kohlberg's dilemma discussion approach had a moderate to significant effect on moral education, and Just Community Schools provided a moral culture"
 id: dilemma-discussion-meta-analysis-moderate-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for Sound Partners is medium to large for alphabetics, fluency, and comprehension and small for general reading achievement
 description: The evidence base for Sound Partners is medium to large for alphabetics, fluency, and comprehension and small for general reading achievement
 id: sound-partners-extent-of-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

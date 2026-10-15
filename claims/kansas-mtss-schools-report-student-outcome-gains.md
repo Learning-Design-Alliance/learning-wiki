@@ -3,7 +3,7 @@ type: claim
 title: Most implementing schools report MTSS positively affecting benchmark scores, state assessment proficiency, discipline referrals, and special education referrals
 description: Most implementing schools report MTSS positively affecting benchmark scores, state assessment proficiency, discipline referrals, and special education referrals
 id: kansas-mtss-schools-report-student-outcome-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

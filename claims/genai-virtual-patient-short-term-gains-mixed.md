@@ -3,7 +3,7 @@ type: claim
 title: Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal
 description: Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal
 id: genai-virtual-patient-short-term-gains-mixed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

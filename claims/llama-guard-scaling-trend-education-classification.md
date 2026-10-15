@@ -3,7 +3,7 @@ type: claim
 title: Larger Llama Guard models outperform smaller ones on education-prompt classification, with the 8B model best in accuracy, recall, and F1
 description: Larger Llama Guard models outperform smaller ones on education-prompt classification, with the 8B model best in accuracy, recall, and F1
 id: llama-guard-scaling-trend-education-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

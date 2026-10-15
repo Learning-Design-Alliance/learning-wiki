@@ -2,7 +2,7 @@
 type: theory
 title: "CLST: framing knowledge tracing as language processing so a generative LLM can serve as a student's knowledge tracer"
 description: CLST is a framework that aligns a generative LLM to knowledge tracing by converting problem-solving histories into natural-language prompt sequences, a process the authors call knowledge tracing as language processing...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

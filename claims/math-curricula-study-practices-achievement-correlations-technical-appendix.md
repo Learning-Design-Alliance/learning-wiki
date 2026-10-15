@@ -3,7 +3,7 @@ type: claim
 title: The study analyzed data from classrooms using math curricula to correlate instructional practices with student achievement, and its technical appendix documents the data, curricula, and methods.
 description: The study analyzed data from classrooms using math curricula to correlate instructional practices with student achievement, and its technical appendix documents the data, curricula, and methods.
 id: math-curricula-study-practices-achievement-correlations-technical-appendix
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

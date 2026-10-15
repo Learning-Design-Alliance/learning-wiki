@@ -3,7 +3,7 @@ type: research-method
 id: messicks-seven-facets-of-validity
 title: "Messick's seven facets of validity"
 description: "The paper adopts Messick's taxonomy of validity facets to structure validation investigations in epistemic game contexts."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

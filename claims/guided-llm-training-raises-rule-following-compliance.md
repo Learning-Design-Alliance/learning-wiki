@@ -3,7 +3,7 @@ type: claim
 title: Prompt-literacy guidance produced higher transcript-coded rule-following compliance than unrestricted LLM access, driven by process-over-answer and stepwise-hint behaviors
 description: Prompt-literacy guidance produced higher transcript-coded rule-following compliance than unrestricted LLM access, driven by process-over-answer and stepwise-hint behaviors
 id: guided-llm-training-raises-rule-following-compliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

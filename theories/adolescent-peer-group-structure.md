@@ -3,7 +3,7 @@ type: theory
 title: Adolescent Peer Group Structure
 description: Adolescent peer relationships are organized through overlapping structures — small, interaction-based cliques and larger, reputation-based crowds — with individual acceptance further describable through sociometric status categories, and peer influence operating partly through homophily and partly through active peer contagion.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

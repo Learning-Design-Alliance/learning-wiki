@@ -2,7 +2,7 @@
 type: theory
 title: Competency-based education as a mastery-advancement model addressing flexibility and workforce-skill demands
 description: "The report describes competency-based education (CBE) as an instructional model in which \"students to move through material independently, advancing when they demonstrate content mastery.\" It situates CBE as a respons..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Subgroup advantages for low performers and Title I students exceed full-sample effects in two qualifying studies
 description: Subgroup advantages for low performers and Title I students exceed full-sample effects in two qualifying studies
 id: lexia-subgroup-advantages-low-performers-title-i
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: The WWC rated Arthur as having potentially positive effects rather than positive effects because only one study met evidence standards and it lacked a strong design
 description: The WWC rated Arthur as having potentially positive effects rather than positive effects because only one study met evidence standards and it lacked a strong design
 id: arthur-potentially-positive-rating-rationale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

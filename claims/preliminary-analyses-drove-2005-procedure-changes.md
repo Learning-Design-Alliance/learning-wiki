@@ -3,7 +3,7 @@ type: claim
 title: Preliminary analyses of the 2003 Puerto Rico data led to changes in administration and translation procedures for the 2005 assessment
 description: Preliminary analyses of the 2003 Puerto Rico data led to changes in administration and translation procedures for the 2005 assessment
 id: preliminary-analyses-drove-2005-procedure-changes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

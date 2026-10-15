@@ -3,7 +3,7 @@ type: strategy
 id: researcher-oriented-genai-guidelines-ai-literacy-dimensions
 title: Researcher-oriented GenAI guidelines that foreground each AI literacy dimension across diverse research tasks
 description: "Building on PGR students' practices and support expectations, the study proposed a two-layered framework of researcher-oriented GenAI guidelines intended as an \"illustrative and adaptable basis\" for supporting respons..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

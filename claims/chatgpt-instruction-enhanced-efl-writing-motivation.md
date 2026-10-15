@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size
 description: ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size
 id: chatgpt-instruction-enhanced-efl-writing-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

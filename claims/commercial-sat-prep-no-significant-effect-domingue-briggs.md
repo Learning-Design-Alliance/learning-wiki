@@ -3,7 +3,7 @@ type: claim
 title: "Commercial SAT preparation courses showed no statistically significant effect on SAT scores in a national propensity-score-matched sample (Domingue & Briggs, 2009)"
 description: "Commercial SAT preparation courses showed no statistically significant effect on SAT scores in a national propensity-score-matched sample (Domingue & Briggs, 2009)"
 id: commercial-sat-prep-no-significant-effect-domingue-briggs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

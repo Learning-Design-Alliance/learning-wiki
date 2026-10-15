@@ -3,7 +3,7 @@ type: claim
 title: "In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals"
 description: "In the Maker Learning @ Home cohort, feedback loops with cohort members redefined the initiative's outputs and goals"
 id: maker-cohort-amplifier-case
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

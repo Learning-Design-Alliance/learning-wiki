@@ -3,7 +3,7 @@ type: claim
 title: Instructional systems that do not explicitly develop evaluative expertise set up artificial but potentially removable performance ceilings
 description: Instructional systems that do not explicitly develop evaluative expertise set up artificial but potentially removable performance ceilings
 id: missing-evaluative-expertise-creates-performance-ceilings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

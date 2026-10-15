@@ -4,7 +4,7 @@ id: studenttracker-for-high-schools
 title: StudentTracker for High Schools
 description: A National Student Clearinghouse data service that enables states, districts, and schools to examine former K–12 students’ postsecondary enrollment, persistence, and completion outcomes.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

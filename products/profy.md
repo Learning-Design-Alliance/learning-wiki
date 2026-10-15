@@ -4,7 +4,7 @@ id: profy
 title: Profy
 description: Profy is a deep-learning automated pronunciation-feedback system developed by Kazuki Kawamura that evaluates learner speech against native-speaker data and highlights localized deviations for imitation-based skill practice.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

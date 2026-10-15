@@ -3,7 +3,7 @@ type: strategy
 id: governance-beyond-prohibition-detection
 title: Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection
 description: The article recommends that effective institutional governance extend beyond prohibition, detection, or general guidance toward establishing practical conditions that support AI literacy, learner agency, privacy prote...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Even students with stellar qualifications and strong plans can fail to enroll after career uncertainty, incomplete financial aid paperwork, and no extended adult conversation about college combine to make choice feel too risky
 description: Even students with stellar qualifications and strong plans can fail to enroll after career uncertainty, incomplete financial aid paperwork, and no extended adult conversation about college combine to make choice feel...
 id: combined-barriers-summer-melt-marco
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

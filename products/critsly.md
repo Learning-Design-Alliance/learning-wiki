@@ -4,7 +4,7 @@ id: critsly
 title: Critsly
 description: Critsly is a shared visual workspace for higher-education design critique, developed and reported by Nizam Kadir, combining artefact boards, critique history, guided reflection, persona lenses, and AI-generated feedback.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

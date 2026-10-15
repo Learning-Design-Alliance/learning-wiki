@@ -4,7 +4,7 @@ id: pedaco-a-dual-gatekeeping-human-ai-video-co-creation-system
 title: "PedaCo: a dual gatekeeping human-AI video co-creation system"
 description: PedaCo is a human-AI collaborative software system that helps educators generate and evaluate instructional videos using CTML-informed script review and automated post-synthesis metrics.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

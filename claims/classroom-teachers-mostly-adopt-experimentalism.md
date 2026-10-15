@@ -3,7 +3,7 @@ type: claim
 title: Majority of classroom teachers adopt experimentalist philosophy
 description: Majority of classroom teachers adopt experimentalist philosophy
 id: classroom-teachers-mostly-adopt-experimentalism
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

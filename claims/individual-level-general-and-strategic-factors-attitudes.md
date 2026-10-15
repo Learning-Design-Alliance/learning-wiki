@@ -3,7 +3,7 @@ type: claim
 title: At the individual level, both general and strategic leadership and climate are associated with Requirement and Openness attitudes, but only general factors with Appeal and Divergence
 description: At the individual level, both general and strategic leadership and climate are associated with Requirement and Openness attitudes, but only general factors with Appeal and Divergence
 id: individual-level-general-and-strategic-factors-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

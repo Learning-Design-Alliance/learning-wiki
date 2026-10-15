@@ -3,7 +3,7 @@ type: claim
 title: Rapid guessing on achievement tests varies across grades, subjects, and teachers
 description: Rapid guessing on achievement tests varies across grades, subjects, and teachers
 id: rapid-guessing-varies-grade-subject-teacher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

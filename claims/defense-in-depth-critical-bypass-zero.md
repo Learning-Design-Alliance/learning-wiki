@@ -3,7 +3,7 @@ type: claim
 title: Under defense-in-depth, all 171 multi-layer bypass events are rated severity S0 (no impact) because the tutor system prompt and provider filter absorbed residual leakage
 description: Under defense-in-depth, all 171 multi-layer bypass events are rated severity S0 (no impact) because the tutor system prompt and provider filter absorbed residual leakage
 id: defense-in-depth-critical-bypass-zero
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

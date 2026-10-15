@@ -3,7 +3,7 @@ type: claim
 title: The clearest AI-assisted advantages appeared on the stakeholder engagement, alternatives, implementation, and monitoring decision-making steps
 description: The clearest AI-assisted advantages appeared on the stakeholder engagement, alternatives, implementation, and monitoring decision-making steps
 id: ai-advantages-stakeholder-alternatives-implementation-monitoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

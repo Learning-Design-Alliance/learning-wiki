@@ -3,7 +3,7 @@ type: claim
 title: Self-discovery through errorful exploration is basically incompatible with error minimization in instruction
 description: Self-discovery through errorful exploration is basically incompatible with error minimization in instruction
 id: self-discovery-incompatible-with-error-minimization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time
 description: PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time
 id: pdsa-testing-routines-structure-teacher-reflection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

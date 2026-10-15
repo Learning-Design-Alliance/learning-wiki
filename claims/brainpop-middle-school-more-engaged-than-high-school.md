@@ -3,7 +3,7 @@ type: claim
 title: Middle school students used BrainPOP ESL far more than high school students and reported more positive experiences with the tool
 description: Middle school students used BrainPOP ESL far more than high school students and reported more positive experiences with the tool
 id: brainpop-middle-school-more-engaged-than-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

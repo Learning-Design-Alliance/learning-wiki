@@ -3,7 +3,7 @@ type: design
 id: conditions-for-successful-coaching-implementation
 title: Support successful coaching implementation by assigning coaches fewer classes, securing school leader commitment, and building teacher enthusiasm
 description: "The report identifies conditions that supported successful coaching implementation in the Puerto Rico pilot: \"Fewer classes assigned to the coach\", \"Commitment from school leaders to the coaching work\", and \"Enthusias..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

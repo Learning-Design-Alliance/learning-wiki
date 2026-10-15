@@ -3,7 +3,7 @@ type: claim
 title: Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education
 description: Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education
 id: llm-hallucination-risk-science-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

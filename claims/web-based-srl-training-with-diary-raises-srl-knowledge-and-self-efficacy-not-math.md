@@ -3,7 +3,7 @@ type: claim
 title: Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course
 description: Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospe...
 id: web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

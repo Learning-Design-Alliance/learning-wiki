@@ -3,7 +3,7 @@ type: strategy
 id: qwwndw-att-question-parking
 title: Set aside off-topic student questions as QWWNDW ATTs and tell students in advance that many questions will fall in this category
 description: Because starter pictures elicit many questions that do not match the content goals or cannot be answered with the materials, the facilitators sort them into a named holding category.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

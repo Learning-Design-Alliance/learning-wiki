@@ -3,7 +3,7 @@ type: claim
 title: Houston students made significantly greater math growth than the state average in 2018-19, but reading growth was not significantly different
 description: Houston students made significantly greater math growth than the state average in 2018-19, but reading growth was not significantly different
 id: houston-overall-growth-2018-19-math-positive-reading-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

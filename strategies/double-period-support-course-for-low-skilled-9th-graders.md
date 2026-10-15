@@ -3,7 +3,7 @@ type: strategy
 id: double-period-support-course-for-low-skilled-9th-graders
 title: Use double-period support courses to expand instructional time for low-skilled 9th-grade math students
 description: A strategy of expanding instructional time by adding a support course alongside the regular course for low-skilled students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

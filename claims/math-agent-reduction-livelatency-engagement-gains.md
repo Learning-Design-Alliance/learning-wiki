@@ -3,7 +3,7 @@ type: claim
 title: Reducing Math Agent output and disabling it for non-math courses reduced latency and increased behavioral engagement
 description: Reducing Math Agent output and disabling it for non-math courses reduced latency and increased behavioral engagement
 id: math-agent-reduction-livelatency-engagement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

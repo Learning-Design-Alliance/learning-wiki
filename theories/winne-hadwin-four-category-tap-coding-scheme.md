@@ -2,7 +2,7 @@
 type: theory
 title: "Four-category operationalization of Winne and Hadwin's four-stage SRL model for tutored problem-solving verbalizations"
 description: "The study operationalizes SRL in think-aloud transcripts as four categories grounded in Winne and Hadwin's four-stage model: \"processing information, planning, enacting, and realizing errors\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

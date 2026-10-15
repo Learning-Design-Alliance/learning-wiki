@@ -3,7 +3,7 @@ type: claim
 title: "Among live-evaluation RL-in-education papers reporting significant differences, a majority reported at least one intermediate (n = 5) or large (n = 6) Cohen's d effect on post-test learning outcomes"
 description: "Among live-evaluation RL-in-education papers reporting significant differences, a majority reported at least one intermediate (n = 5) or large (n = 6) Cohen's d effect on post-test learning outcomes"
 id: rl-education-effect-sizes-intermediate-large
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

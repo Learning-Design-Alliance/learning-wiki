@@ -3,7 +3,7 @@ type: claim
 title: Trauma-engaged practices performable by individual educators were implemented more than practices requiring school- or district-level coordination
 description: Trauma-engaged practices performable by individual educators were implemented more than practices requiring school- or district-level coordination
 id: individual-educator-practices-implemented-more-than-systems-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

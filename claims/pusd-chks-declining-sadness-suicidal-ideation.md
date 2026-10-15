@@ -3,7 +3,7 @@ type: claim
 title: Secondary students in PUSD reported declining rates of chronic sadness/hopelessness and suicidal ideation from 2020/21 to 2022/23
 description: Secondary students in PUSD reported declining rates of chronic sadness/hopelessness and suicidal ideation from 2020/21 to 2022/23
 id: pusd-chks-declining-sadness-suicidal-ideation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

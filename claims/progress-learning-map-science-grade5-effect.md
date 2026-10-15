@@ -3,7 +3,7 @@ type: claim
 title: Progress Learning shows a statistically significant positive effect on Grade 5 NWEA MAP science scores
 description: Progress Learning shows a statistically significant positive effect on Grade 5 NWEA MAP science scores
 id: progress-learning-map-science-grade5-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

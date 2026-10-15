@@ -3,7 +3,7 @@ type: element
 id: cps-stability-and-in-mobility-indicators
 title: "CPS mobility indicators: stability rate and in-mobility rate measured separately for school year and summer"
 description: "The report introduces two separate mobility indicators to address problems with conventional single-number mobility formulas, which it says combine \"two very different phenomena (exiting and entering a school)\" and ig..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

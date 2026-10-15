@@ -3,7 +3,7 @@ type: claim
 title: "Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates"
 description: "Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates"
 id: waivers-promoted-failing-students-1997
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: design
 id: osp-pairs-what-if-inquiry-pattern
 title: "OSP guided inquiry lesson pattern: pairs investigate with what-if scenarios, peer instruction, and class presentation"
 description: In the OSP how-to pattern, students typically work in pairs to investigate a physical phenomenon using the technology.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

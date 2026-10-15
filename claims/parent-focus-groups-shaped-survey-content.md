@@ -3,7 +3,7 @@ type: claim
 title: Parent focus groups showed parents could not report on specific classroom instructional interactions, so ambitious instruction items were developed for the teacher survey instead, and a new Teacher Care and Responsiveness towards Parents measure was created
 description: Parent focus groups showed parents could not report on specific classroom instructional interactions, so ambitious instruction items were developed for the teacher survey instead, and a new Teacher Care and Responsive...
 id: parent-focus-groups-shaped-survey-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

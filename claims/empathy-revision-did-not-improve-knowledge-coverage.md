@@ -3,7 +3,7 @@ type: claim
 title: "Strengthening an agent's empathic persona did not translate into broader knowledge delivery: the revised family-member agent had high role-play quality but the lowest knowledge coverage"
 description: "Strengthening an agent's empathic persona did not translate into broader knowledge delivery: the revised family-member agent had high role-play quality but the lowest knowledge coverage"
 id: empathy-revision-did-not-improve-knowledge-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

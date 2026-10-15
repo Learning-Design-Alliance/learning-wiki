@@ -3,7 +3,7 @@ type: claim
 title: "Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures"
 description: "Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures"
 id: male-oriented-item-content-biases-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

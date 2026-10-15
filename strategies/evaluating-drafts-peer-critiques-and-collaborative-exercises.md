@@ -3,7 +3,7 @@ type: strategy
 id: evaluating-drafts-peer-critiques-and-collaborative-exercises
 title: Evaluating drafts, peer critiques and collaborative exercises alongside finished writing
 description: The final recommendation is to consider alternate ways of evaluating student writing.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

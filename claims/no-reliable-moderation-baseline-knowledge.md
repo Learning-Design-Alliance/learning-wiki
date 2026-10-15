@@ -3,7 +3,7 @@ type: claim
 title: No reliable moderation of depth effects by baseline knowledge, though simple slopes suggest an exploratory pattern
 description: No reliable moderation of depth effects by baseline knowledge, though simple slopes suggest an exploratory pattern
 id: no-reliable-moderation-baseline-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

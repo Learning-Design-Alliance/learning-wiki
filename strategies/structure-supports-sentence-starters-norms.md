@@ -3,7 +3,7 @@ type: strategy
 id: structure-supports-sentence-starters-norms
 title: Provide structure and supports such as sentence starters, norms posters, guided questions, and explicit conflict-resolution teaching
 description: "The primer advises that teachers \"must provide structure and support to promote socially shared regulation of learning in a classroom rather than expecting it to occur naturally.\" Teachers should first show students h..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

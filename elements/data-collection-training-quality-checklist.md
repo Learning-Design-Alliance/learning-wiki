@@ -3,7 +3,7 @@ type: element
 id: data-collection-training-quality-checklist
 title: "Checklist 2: reporting data collection training and quality"
 description: "The second checklist addresses \"data collection training and quality,\" prompting researchers to report how data collectors were trained and what quality procedures were followed."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

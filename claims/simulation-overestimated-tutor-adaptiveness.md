@@ -3,7 +3,7 @@ type: claim
 title: "Tutor Mode's adaptive responsiveness was overestimated by simulation: only 3/8 pilot participants agreed LEA adapted appropriately when they expressed uncertainty"
 description: "Tutor Mode's adaptive responsiveness was overestimated by simulation: only 3/8 pilot participants agreed LEA adapted appropriately when they expressed uncertainty"
 id: simulation-overestimated-tutor-adaptiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

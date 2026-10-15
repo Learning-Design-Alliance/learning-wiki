@@ -3,7 +3,7 @@ type: claim
 title: Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple
 description: Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple
 id: serial-motor-task-complexity-age
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

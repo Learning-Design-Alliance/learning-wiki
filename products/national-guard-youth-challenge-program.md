@@ -4,7 +4,7 @@ id: national-guard-youth-challenge-program
 title: National Guard Youth ChalleNGe Program
 description: A National Guard-run residential programme for youth ages 16–18 who have left or been expelled from high school, combining GED preparation with quasi-military training and leadership, citizenship, service, life-skills, fitness, health, job-skills, and academic components.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

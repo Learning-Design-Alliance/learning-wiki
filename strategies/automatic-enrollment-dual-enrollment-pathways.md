@@ -3,7 +3,7 @@ type: strategy
 id: automatic-enrollment-dual-enrollment-pathways
 title: Automatic enrollment of historically underrepresented students into dual enrollment as part of pathway sequences
 description: "Recognizing that historically underrepresented students often do not self-select into advanced coursework, approximately one third of OUSD's schools \"take a proactive approach by using automatic enrollment,\" placing s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

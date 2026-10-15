@@ -4,7 +4,7 @@ id: quantway-college-with-corequisite-and-statway-college-with-corequisite-one-t
 title: Quantway College with Corequisite and Statway College with Corequisite one-term course sets
 description: Carnegie Math Pathways developed these one-term college-level quantitative-reasoning and statistics course sets with embedded developmental corequisite support for colleges serving students placed into developmental mathematics.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

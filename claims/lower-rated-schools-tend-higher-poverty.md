@@ -3,7 +3,7 @@ type: claim
 title: Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools
 description: Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools
 id: lower-rated-schools-tend-higher-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Schools high on both personalism and academic press show substantially higher student academic engagement than schools high on either alone
 description: Schools high on both personalism and academic press show substantially higher student academic engagement than schools high on either alone
 id: personalism-plus-academic-press-elevates-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

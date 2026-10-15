@@ -3,7 +3,7 @@ type: design
 id: p3-taxonomy-robotics-ai-curriculum
 title: Project-based robotics + AI curriculum structured by P3 Task Taxonomy with backward design
 description: "The curriculum comprised 10 lessons followed by a robotics engineering design challenge, aligned with K-12 CS standards and structured using Barak and Assal's P3 Task Taxonomy: Practice tasks with predefined solutions..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

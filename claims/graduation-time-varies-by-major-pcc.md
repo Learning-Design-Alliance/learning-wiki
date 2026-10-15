@@ -3,7 +3,7 @@ type: claim
 title: Estimated average graduation time differed by major, from 2 years for secondary/special education to 3.8 years for non-education majors
 description: Estimated average graduation time differed by major, from 2 years for secondary/special education to 3.8 years for non-education majors
 id: graduation-time-varies-by-major-pcc
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: llms-unplugged
 title: LLMs Unplugged
 description: A freely available CC BY-NC-SA collection of unplugged lessons, instructor notes, printable handouts, and optional n-gram booklet software tools created and hosted by Ben Swift for teaching language-model fundamentals and AI literacy.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

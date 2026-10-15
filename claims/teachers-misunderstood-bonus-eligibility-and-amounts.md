@@ -3,7 +3,7 @@ type: claim
 title: Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn
 description: Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn
 id: teachers-misunderstood-bonus-eligibility-and-amounts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

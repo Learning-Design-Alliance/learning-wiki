@@ -3,7 +3,7 @@ type: strategy
 id: crito-five-step-argument-assessment
 title: "CRITO: a five-step method for critically assessing one's own arguments (Conclusion, Reasons, Inference, Truth, Objections)"
 description: "CRITO is an acronymic method formed from \"the logical terms Conclusion, Reasons, Inference, Truth, and Objections.\" Students first identify a substantive, debatable conclusion, supply sufficient reasons, test the infe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

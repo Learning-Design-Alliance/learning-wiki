@@ -3,7 +3,7 @@ type: claim
 title: LCFF-induced spending increases of $1,000 per pupil for 3 consecutive years produced roughly a full grade-level increase in math and reading achievement in grades 3–8
 description: LCFF-induced spending increases of $1,000 per pupil for 3 consecutive years produced roughly a full grade-level increase in math and reading achievement in grades 3–8
 id: lcff-1000-per-pupil-three-years-full-grade-level-achievement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

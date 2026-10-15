@@ -3,7 +3,7 @@ type: claim
 title: "Socratic-mode participants progressively disengaged from the chatbot: message counts declined after question 5 and EEG engagement fell to its lowest value at question 10"
 description: "Socratic-mode participants progressively disengaged from the chatbot: message counts declined after question 5 and EEG engagement fell to its lowest value at question 10"
 id: socratic-mode-progressive-disengagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

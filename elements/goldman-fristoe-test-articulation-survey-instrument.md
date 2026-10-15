@@ -4,7 +4,7 @@ id: goldman-fristoe-test-articulation-survey-instrument
 title: "Goldman-Fristoe Test of Articulation as the survey's measurement instrument"
 description: The Goldman-Fristoe Test of Articulation, published by American Guidance Service, Inc., is the standardized instrument the study used to measure articulation disorders in the 412 tested children.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

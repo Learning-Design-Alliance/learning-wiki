@@ -3,7 +3,7 @@ type: claim
 title: "Comprehension effects of SpellRead™ differed between the two studies: Torgesen et al. found no significant effects while Rashotte et al. found significant effects on both outcomes"
 description: "Comprehension effects of SpellRead™ differed between the two studies: Torgesen et al."
 id: spellread-comprehension-inconsistent-across-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

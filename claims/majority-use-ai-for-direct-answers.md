@@ -3,7 +3,7 @@ type: claim
 title: The majority of AI-assisted participants self-report using the AI primarily to get answers directly, a pattern validated against chatlogs
 description: The majority of AI-assisted participants self-report using the AI primarily to get answers directly, a pattern validated against chatlogs
 id: majority-use-ai-for-direct-answers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

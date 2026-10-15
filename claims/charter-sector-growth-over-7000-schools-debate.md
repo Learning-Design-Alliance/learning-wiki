@@ -3,7 +3,7 @@ type: claim
 title: "The U.S. charter school sector has grown to more than 7,000 schools nationwide, prompting an active debate over charters' effects on the public school system and their regulation"
 description: The U.S.
 id: charter-sector-growth-over-7000-schools-debate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

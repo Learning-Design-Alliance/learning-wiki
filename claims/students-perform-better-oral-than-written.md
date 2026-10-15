@@ -3,7 +3,7 @@ type: claim
 title: Students performed better on oral measures than written measures in comparison studies
 description: Students performed better on oral measures than written measures in comparison studies
 id: students-perform-better-oral-than-written
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

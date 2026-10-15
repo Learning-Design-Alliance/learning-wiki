@@ -3,7 +3,7 @@ type: claim
 title: Participants used the Flowcode LLM across all stages of their design process, most frequently asking for code explanations
 description: Participants used the Flowcode LLM across all stages of their design process, most frequently asking for code explanations
 id: llm-use-across-design-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: seven-state-actions-improve-discipline-policy
 title: Seven state-level policy actions to improve school discipline equity
 description: "The brief enumerates seven criteria state leaders should prioritize: set clear goals for decreasing exclusionary discipline and reducing disparities; provide state agency human resources for technical assistance; ban..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

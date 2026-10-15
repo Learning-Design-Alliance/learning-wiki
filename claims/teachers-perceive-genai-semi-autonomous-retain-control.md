@@ -3,7 +3,7 @@ type: claim
 title: Teachers largely perceive GenAI as semi-autonomous and prefer to retain full control over their teaching
 description: Teachers largely perceive GenAI as semi-autonomous and prefer to retain full control over their teaching
 id: teachers-perceive-genai-semi-autonomous-retain-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

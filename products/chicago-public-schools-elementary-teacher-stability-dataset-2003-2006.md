@@ -4,7 +4,7 @@ id: chicago-public-schools-elementary-teacher-stability-dataset-2003-2006
 title: Chicago Public Schools elementary teacher stability dataset, 2003-2006
 description: A Chicago Public Schools data table reporting one-year teacher stability percentages for elementary schools across fall snapshots from 2003 through 2006.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

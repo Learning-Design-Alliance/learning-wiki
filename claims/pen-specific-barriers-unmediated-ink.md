@@ -3,7 +3,7 @@ type: claim
 title: "Unmediated pen input introduced new pen-specific barriers: lack of visual feedback on referential intent and high interaction cost of handwriting complex queries"
 description: "Unmediated pen input introduced new pen-specific barriers: lack of visual feedback on referential intent and high interaction cost of handwriting complex queries"
 id: pen-specific-barriers-unmediated-ink
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: self-assessment-of-place-based-systems-change-efforts
 title: Self-Assessment of Place-Based Systems Change Efforts
 description: A self-assessment instrument developed by Mathematica and Equal Measure to help community partnerships examine their strengths and identify areas for deeper place-based systems-change work.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

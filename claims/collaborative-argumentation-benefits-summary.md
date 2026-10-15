@@ -3,7 +3,7 @@ type: claim
 title: "Collaborative argumentation benefits students' motivation, content learning, domain argumentation, transferable argumentation skills, and knowledge-building practices"
 description: "Collaborative argumentation benefits students' motivation, content learning, domain argumentation, transferable argumentation skills, and knowledge-building practices"
 id: collaborative-argumentation-benefits-summary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

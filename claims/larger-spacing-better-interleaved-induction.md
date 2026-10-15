@@ -3,7 +3,7 @@ type: claim
 title: When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing
 description: When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing
 id: larger-spacing-better-interleaved-induction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support
 description: ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support
 id: chatgpt-dominant-platform-assessment-personalization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

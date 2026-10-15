@@ -3,7 +3,7 @@ type: claim
 title: Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies
 description: Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies
 id: pepper-technical-difficulties-most-reported-limitation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

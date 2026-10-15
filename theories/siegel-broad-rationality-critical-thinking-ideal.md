@@ -2,7 +2,7 @@
 type: theory
 title: "Siegel's broad rationality: critical thinking as an educational and moral ideal grounding Constructivism"
 description: "Drawing on Siegel's (1996) Rationality Redeemed?, the paper presents a broad notion of rationality with both epistemological and moral dimensions as a cognitive tool supporting Constructivism."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

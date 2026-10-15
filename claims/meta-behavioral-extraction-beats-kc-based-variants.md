@@ -3,7 +3,7 @@ type: claim
 title: Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity
 description: Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity
 id: meta-behavioral-extraction-beats-kc-based-variants
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

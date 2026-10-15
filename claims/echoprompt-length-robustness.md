@@ -3,7 +3,7 @@ type: claim
 title: "EchoPrompt's AUROC rises with text length, from an average of 75.8% in the shortest 1-40 word bin to 98.9% in the 321-360 bin on DetectRL Length"
 description: "EchoPrompt's AUROC rises with text length, from an average of 75.8% in the shortest 1-40 word bin to 98.9% in the 321-360 bin on DetectRL Length"
 id: echoprompt-length-robustness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

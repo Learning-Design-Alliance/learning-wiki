@@ -3,7 +3,7 @@ type: claim
 title: "High-poverty schools were overrepresented among New York charter schools that had not provided devices to students before building closure (86.8% of non-providers vs 79.3% of the sample)"
 description: "High-poverty schools were overrepresented among New York charter schools that had not provided devices to students before building closure (86.8% of non-providers vs 79.3% of the sample)"
 id: device-provision-equity-high-poverty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

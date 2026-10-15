@@ -3,7 +3,7 @@ type: claim
 title: A strategic resource-use exam playbook intervention raised final course grades in introductory statistics across two randomized cohorts, with a dosage effect for completing it twice
 description: A strategic resource-use exam playbook intervention raised final course grades in introductory statistics across two randomized cohorts, with a dosage effect for completing it twice
 id: exam-playbook-strategic-resource-use-raises-statistics-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

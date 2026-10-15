@@ -3,7 +3,7 @@ type: claim
 title: Spring first-time college enrollees differ from fall enrollees in race/ethnicity, gender, and high school GPA, but the impact on group enrollment rates is small
 description: Spring first-time college enrollees differ from fall enrollees in race/ethnicity, gender, and high school GPA, but the impact on group enrollment rates is small
 id: spring-enrollees-demographic-gpa-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

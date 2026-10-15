@@ -3,7 +3,7 @@ type: design
 id: etv-workbook-seminar-inservice-course
 title: Blended inservice course combining televised programs, programmed workbook sessions, and drive-in seminars
 description: "The course design distributes instruction across three mutually reinforcing components: television programs broadcast on the statewide ETV network, programmed workbook work sessions completed and mailed in by learners..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

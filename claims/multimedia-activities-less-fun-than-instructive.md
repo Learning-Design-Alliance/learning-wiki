@@ -3,7 +3,7 @@ type: claim
 title: Multimedia introductory activities are rated as more interesting and instructive than fun, while traditional activities are rated similarly on all three features
 description: Multimedia introductory activities are rated as more interesting and instructive than fun, while traditional activities are rated similarly on all three features
 id: multimedia-activities-less-fun-than-instructive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

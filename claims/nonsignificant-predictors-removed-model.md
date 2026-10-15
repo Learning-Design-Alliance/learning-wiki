@@ -3,7 +3,7 @@ type: claim
 title: English learner program type, student mobility, discipline rates, and teacher experience were not statistically significant predictors and were removed from the final model
 description: English learner program type, student mobility, discipline rates, and teacher experience were not statistically significant predictors and were removed from the final model
 id: nonsignificant-predictors-removed-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

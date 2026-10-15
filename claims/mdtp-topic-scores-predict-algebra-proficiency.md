@@ -3,7 +3,7 @@ type: claim
 title: MDTP scores on five of seven topics significantly predict grade 8 algebra I proficiency after controlling for grade 6 CST scale score
 description: MDTP scores on five of seven topics significantly predict grade 8 algebra I proficiency after controlling for grade 6 CST scale score
 id: mdtp-topic-scores-predict-algebra-proficiency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

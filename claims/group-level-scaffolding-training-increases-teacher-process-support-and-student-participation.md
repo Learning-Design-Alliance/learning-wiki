@@ -2,7 +2,7 @@
 type: claim
 title: Group-level scaffolding training increases teacher process support and student participation
 id: group-level-scaffolding-training-increases-teacher-process-support-and-student-participation
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

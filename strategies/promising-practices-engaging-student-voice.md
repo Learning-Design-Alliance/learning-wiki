@@ -3,7 +3,7 @@ type: strategy
 id: promising-practices-engaging-student-voice
 title: Engage student voice through safe sharing spaces, assumption removal, active listening, co-creation, and co-designed action plans
 description: "The brief lists promising practices for engaging student voice to inform school climate: create safe and supportive spaces for sharing with consent and confidentiality, remove previous assumptions about student experi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

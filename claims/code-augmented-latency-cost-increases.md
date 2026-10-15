@@ -3,7 +3,7 @@ type: claim
 title: Code-augmented interaction consistently increases median and tail latency, and costs per correct answer typically increase, with Gemini 2.5 Pro a notable outlier
 description: Code-augmented interaction consistently increases median and tail latency, and costs per correct answer typically increase, with Gemini 2.5 Pro a notable outlier
 id: code-augmented-latency-cost-increases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

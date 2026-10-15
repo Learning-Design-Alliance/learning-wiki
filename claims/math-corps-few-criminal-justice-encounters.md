@@ -3,7 +3,7 @@ type: claim
 title: Few Math Corps participants had encounters with the criminal justice system
 description: Few Math Corps participants had encounters with the criminal justice system
 id: math-corps-few-criminal-justice-encounters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

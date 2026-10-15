@@ -3,7 +3,7 @@ type: claim
 title: "Learners' sensitivity to frequency has implications for theories of implicit and explicit learning and their interactions"
 description: "Learners' sensitivity to frequency has implications for theories of implicit and explicit learning and their interactions"
 id: frequency-sensitivity-implications-implicit-explicit-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

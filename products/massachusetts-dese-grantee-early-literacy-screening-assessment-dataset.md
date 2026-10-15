@@ -4,7 +4,7 @@ id: massachusetts-dese-grantee-early-literacy-screening-assessment-dataset
 title: Massachusetts DESE grantee early literacy screening assessment dataset
 description: A dataset of K–3 literacy screening assessment scores collected by the Massachusetts Department of Elementary and Secondary Education from participating grantee schools and districts to analyze reading-risk patterns and inform intervention and resource targeting.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: School academic press is positively related to school-average reading and math achievement gains in Chicago middle grades
 description: School academic press is positively related to school-average reading and math achievement gains in Chicago middle grades
 id: academic-press-positive-achievement-gains-chicago
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

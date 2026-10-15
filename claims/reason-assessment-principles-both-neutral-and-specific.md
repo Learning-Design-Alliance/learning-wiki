@@ -3,7 +3,7 @@ type: claim
 title: Principles of reason assessment are both subject-neutral and subject-specific
 description: Principles of reason assessment are both subject-neutral and subject-specific
 id: reason-assessment-principles-both-neutral-and-specific
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

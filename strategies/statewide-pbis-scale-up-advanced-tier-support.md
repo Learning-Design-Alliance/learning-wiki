@@ -3,7 +3,7 @@ type: strategy
 id: statewide-pbis-scale-up-advanced-tier-support
 title: Sustain and resource statewide PBIS scale-up with emphasis on advanced-tier implementation support
 description: "Based on finding that only a minority of trained schools implemented all three tiers with fidelity, the authors recommend that \"statewide scale-up efforts need to continue to find ways to support PBIS implementation.\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

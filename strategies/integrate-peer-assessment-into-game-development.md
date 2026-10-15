@@ -3,7 +3,7 @@ type: strategy
 id: integrate-peer-assessment-into-game-development
 title: Integrate peer assessment into game development activities to deepen student learning
 description: The article proposes embedding peer assessment within student game development as a learning strategy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

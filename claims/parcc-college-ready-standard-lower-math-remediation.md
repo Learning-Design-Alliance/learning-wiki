@@ -3,7 +3,7 @@ type: claim
 title: In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable
 description: In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable
 id: parcc-college-ready-standard-lower-math-remediation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

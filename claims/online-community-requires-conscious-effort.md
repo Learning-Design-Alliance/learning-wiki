@@ -3,7 +3,7 @@ type: claim
 title: Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence
 description: Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence
 id: online-community-requires-conscious-effort
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)
 description: Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)
 id: plc-metacognition-lower-and-higher-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: multiple-raters-for-practice-ratings
 title: Use multiple raters for principal-assigned professional practice ratings to improve consistency
 description: The report recommends improving the professional practice measure by drawing on more than one rater per teacher, because school-level variation in principal-assigned ratings suggests standards may differ across schools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

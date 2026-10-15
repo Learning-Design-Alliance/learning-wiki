@@ -3,7 +3,7 @@ type: claim
 title: Students exhibit an inverted competence profile, endorsing creation-level GenAI tasks above several foundational items that would normally precede them
 description: Students exhibit an inverted competence profile, endorsing creation-level GenAI tasks above several foundational items that would normally precede them
 id: students-inverted-genai-competence-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words
 description: A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words
 id: language-facilitator-verbal-channel-limit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

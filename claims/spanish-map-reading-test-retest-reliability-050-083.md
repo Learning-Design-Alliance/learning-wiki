@@ -3,7 +3,7 @@ type: claim
 title: Spanish MAP Growth Reading test-retest reliability ranges from 0.50 at Grade K to 0.83 at Grade 5, with no estimate for Grades 6–8
 description: Spanish MAP Growth Reading test-retest reliability ranges from 0.50 at Grade K to 0.83 at Grade 5, with no estimate for Grades 6–8
 id: spanish-map-reading-test-retest-reliability-050-083
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

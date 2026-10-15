@@ -3,7 +3,7 @@ type: claim
 title: "Feeling unsafe in the classroom is consistently negatively related to middle school students' test scores"
 description: "Feeling unsafe in the classroom is consistently negatively related to middle school students' test scores"
 id: feeling-unsafe-classroom-negative-test-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

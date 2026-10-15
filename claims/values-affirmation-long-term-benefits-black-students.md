@@ -3,7 +3,7 @@ type: claim
 title: A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later
 description: "A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later"
 id: values-affirmation-long-term-benefits-black-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

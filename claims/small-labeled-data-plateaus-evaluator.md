@@ -3,7 +3,7 @@ type: claim
 title: "A model trained only on the 300-conversation BEA dataset plateaus at 74.84% average macro F1 due to limited data size and diversity"
 description: "A model trained only on the 300-conversation BEA dataset plateaus at 74.84% average macro F1 due to limited data size and diversity"
 id: small-labeled-data-plateaus-evaluator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

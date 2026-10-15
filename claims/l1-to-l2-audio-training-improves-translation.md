@@ -3,7 +3,7 @@ type: claim
 title: Audio lessons training vocabulary from L1 to L2 yield better L1-to-L2 translation than traditional L2-to-L1 training
 description: Audio lessons training vocabulary from L1 to L2 yield better L1-to-L2 translation than traditional L2-to-L1 training
 id: l1-to-l2-audio-training-improves-translation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

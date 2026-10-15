@@ -3,7 +3,7 @@ type: claim
 title: The reading achievement gap between cohort 1 and cohort 2 schools persisted into the second year, with the year 3 estimate no longer statistically significant
 description: The reading achievement gap between cohort 1 and cohort 2 schools persisted into the second year, with the year 3 estimate no longer statistically significant
 id: eitp-persistent-reading-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

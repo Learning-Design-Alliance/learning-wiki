@@ -3,7 +3,7 @@ type: strategy
 id: plc-method-identifying-improvement-areas
 title: Incorporate a method for identifying areas of improvement into PLC models
 description: "The authors recommend that \"professional learning community models could be enhanced if these models incorporate a method for identifying areas of improvement,\" since PLCs are means for school improvement rather than..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

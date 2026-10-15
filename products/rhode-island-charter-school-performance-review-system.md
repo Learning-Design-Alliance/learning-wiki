@@ -4,7 +4,7 @@ id: rhode-island-charter-school-performance-review-system
 title: Rhode Island Charter School Performance Review System
 description: A framework developed and administered by the Rhode Island Department of Education for approving, renewing, and revoking charter schools through standardized performance reviews, dashboards, and stakeholder processes.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

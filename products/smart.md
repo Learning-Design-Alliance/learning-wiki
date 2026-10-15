@@ -4,7 +4,7 @@ id: smart
 title: SMART®
 description: Start Making a Reader Today (SMART®) is a low-cost Oregon school-based programme that provides volunteer one-on-one reading tutoring and free books to K–2 students at risk of reading failure.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

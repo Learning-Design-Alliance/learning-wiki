@@ -3,7 +3,7 @@ type: claim
 title: Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF
 description: Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF
 id: reappraisal-and-suppression-reverse-linked-to-ef
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

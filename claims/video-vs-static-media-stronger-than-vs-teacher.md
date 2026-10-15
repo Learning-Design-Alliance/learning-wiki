@@ -3,7 +3,7 @@ type: claim
 title: Video replacing static media (e.g., text) benefits learning more than video replacing a teacher
 description: Video replacing static media (e.g., text) benefits learning more than video replacing a teacher
 id: video-vs-static-media-stronger-than-vs-teacher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

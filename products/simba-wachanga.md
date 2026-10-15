@@ -4,7 +4,7 @@ id: simba-wachanga
 title: Simba Wachanga
 description: A year-long interdisciplinary rites-of-passage programme for African-American boys, implemented by the East End Neighborhood House in Cleveland through Elders, resource people, and Big Brothers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

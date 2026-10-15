@@ -3,7 +3,7 @@ type: claim
 title: Students using ChatGPT 3.5 experience lower germane cognitive load than students using Google, the strongest of the three load differences
 description: Students using ChatGPT 3.5 experience lower germane cognitive load than students using Google, the strongest of the three load differences
 id: llm-search-lower-germane-cognitive-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

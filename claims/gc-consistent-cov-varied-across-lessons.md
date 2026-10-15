@@ -3,7 +3,7 @@ type: claim
 title: Teachers addressed graph comprehension consistently at high levels across observed lessons, while covariational reasoning enactment varied widely by lesson
 description: Teachers addressed graph comprehension consistently at high levels across observed lessons, while covariational reasoning enactment varied widely by lesson
 id: gc-consistent-cov-varied-across-lessons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers
 description: DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers
 id: dlp-versus-other-coaching-programs-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

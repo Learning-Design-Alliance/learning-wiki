@@ -3,7 +3,7 @@ type: claim
 title: "On the full propositional logic dataset, LLM-found bug fixing transformations explain 84.44% of pairs versus 71.57% for hand-picked mistakes"
 description: "On the full propositional logic dataset, LLM-found bug fixing transformations explain 84.44% of pairs versus 71.57% for hand-picked mistakes"
 id: llm-transformations-explain-more-propositional-pairs-than-hand-picked
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

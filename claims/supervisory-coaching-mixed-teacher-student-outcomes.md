@@ -3,7 +3,7 @@ type: claim
 title: Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors
 description: Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors
 id: supervisory-coaching-mixed-teacher-student-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

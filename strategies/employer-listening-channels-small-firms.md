@@ -3,7 +3,7 @@ type: strategy
 id: employer-listening-channels-small-firms
 title: Build direct employer-listening channels and AI-specific advisory structures for small and mid-sized firms
 description: For districts and program administrators, the brief recommends building direct employer-listening channels for small and mid-sized firms, which dominate Heartland employment but are underrepresented in national adopti...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

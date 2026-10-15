@@ -3,7 +3,7 @@ type: strategy
 id: stop-blocks-step-pacing-strategy
 title: Use STOP blocks as explicit pacing primitives to manage information overload in AI-as-instructor instruction
 description: STOP blocks are explicit pause directives embedded in module files that create hard boundaries in instruction delivery, addressing the risk that an AI agent instructed to teach a module generates thousands of words in...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

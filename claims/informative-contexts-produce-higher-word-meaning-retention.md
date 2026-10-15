@@ -3,7 +3,7 @@ type: claim
 title: Highly informative contexts produce higher retention of word meaning, with context affecting knowledge of meaning rather than form
 description: Highly informative contexts produce higher retention of word meaning, with context affecting knowledge of meaning rather than form
 id: informative-contexts-produce-higher-word-meaning-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

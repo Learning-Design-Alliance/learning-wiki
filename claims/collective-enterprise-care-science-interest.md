@@ -3,7 +3,7 @@ type: claim
 title: "Collective enterprise and care in equitable classroom cultures are positively associated with students' science interest"
 description: "Collective enterprise and care in equitable classroom cultures are positively associated with students' science interest"
 id: collective-enterprise-care-science-interest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

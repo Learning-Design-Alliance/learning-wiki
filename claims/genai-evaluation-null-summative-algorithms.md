@@ -3,7 +3,7 @@ type: claim
 title: Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly
 description: Evaluating GenAI-generated solutions produced no significant differences on midterm scores, final exam scores, course percentages, or normalized exam change relative to solving problems directly
 id: genai-evaluation-null-summative-algorithms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

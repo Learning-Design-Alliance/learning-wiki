@@ -3,7 +3,7 @@ type: claim
 title: Manualized COMP programs and other classroom management approaches do not differ significantly in effectiveness
 description: Manualized COMP programs and other classroom management approaches do not differ significantly in effectiveness
 id: comp-no-different-from-other-classroom-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

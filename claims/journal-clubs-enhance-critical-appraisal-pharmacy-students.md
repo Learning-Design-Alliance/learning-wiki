@@ -3,7 +3,7 @@ type: claim
 title: Journal club activities are reported to enhance critical appraisal skills and confidence among pharmacy students
 description: Journal club activities are reported to enhance critical appraisal skills and confidence among pharmacy students
 id: journal-clubs-enhance-critical-appraisal-pharmacy-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

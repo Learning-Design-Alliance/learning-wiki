@@ -3,7 +3,7 @@ type: strategy
 id: issue-investigation-and-action-approach
 title: "Issue Investigation and Action approach: developing lifelong skills for independent investigation and resolution of environmental issues"
 description: Issue Investigation and Action is the second school-level approach the newsletter recommends for global change instruction, contrasted with the more teacher-directed Extended Case Study.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

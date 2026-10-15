@@ -3,7 +3,7 @@ type: claim
 title: "After the co-designed AI session, community members' concerns about AI persisted but became more specific, concrete, and actionable"
 description: "After the co-designed AI session, community members' concerns about AI persisted but became more specific, concrete, and actionable"
 id: ai-concerns-persisted-but-became-specific
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

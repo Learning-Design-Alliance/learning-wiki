@@ -3,7 +3,7 @@ type: claim
 title: Social science students report higher job finding anxiety and AI anxiety than natural and applied field students, with small effect sizes
 description: Social science students report higher job finding anxiety and AI anxiety than natural and applied field students, with small effect sizes
 id: social-science-students-higher-job-finding-anxiety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

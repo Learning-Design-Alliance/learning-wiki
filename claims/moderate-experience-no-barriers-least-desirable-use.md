@@ -3,7 +3,7 @@ type: claim
 title: Instructors who reported moderate iPad experience and/or no barriers to technology integration demonstrated the least desirable student use patterns
 description: Instructors who reported moderate iPad experience and/or no barriers to technology integration demonstrated the least desirable student use patterns
 id: moderate-experience-no-barriers-least-desirable-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

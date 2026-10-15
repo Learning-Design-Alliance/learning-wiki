@@ -3,7 +3,7 @@ type: claim
 title: NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative
 description: NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative
 id: nlci-high-school-outcomes-lower-than-similar-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

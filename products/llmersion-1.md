@@ -4,7 +4,7 @@ id: llmersion-1
 title: LLMersion-1
 description: "Guo et al.'s open-source local language-learning software prototype integrates synchronized listening, reading, pronunciation, conversation, and writing practice, with the companion LLMersion Narrator for producing narrated audio and read-along video."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

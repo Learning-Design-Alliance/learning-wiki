@@ -3,7 +3,7 @@ type: claim
 title: Eight weeks of mindfulness-based stress reduction increases gray matter density in left hippocampus, PCC, left temporo-parietal junction, and cerebellum versus waitlist
 description: Eight weeks of mindfulness-based stress reduction increases gray matter density in left hippocampus, PCC, left temporo-parietal junction, and cerebellum versus waitlist
 id: mbsr-eight-weeks-gray-matter-increases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

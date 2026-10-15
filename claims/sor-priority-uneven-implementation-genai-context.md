@@ -3,7 +3,7 @@ type: claim
 title: Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support
 description: Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support
 id: sor-priority-uneven-implementation-genai-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

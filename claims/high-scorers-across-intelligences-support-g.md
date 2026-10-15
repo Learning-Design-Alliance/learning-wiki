@@ -3,7 +3,7 @@ type: claim
 title: Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence
 description: Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence
 id: high-scorers-across-intelligences-support-g
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

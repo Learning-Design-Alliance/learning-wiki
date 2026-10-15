@@ -3,7 +3,7 @@ type: element
 id: goesling-2019-cluster-trial-methods-review
 title: Methodological review and application search underlying the practical guide
 description: "The evidence base for the guide is a two-part review: the author \"reviewed summaries of the methodological literature on cluster randomized trials\" and then \"conducted a search to identify practical applications of th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

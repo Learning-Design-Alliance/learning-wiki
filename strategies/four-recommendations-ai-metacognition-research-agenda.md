@@ -3,7 +3,7 @@ type: strategy
 id: four-recommendations-ai-metacognition-research-agenda
 title: "Four-part research agenda: longitudinal studies, hybrid frameworks, ethical frameworks, and underrepresented STEM domains"
 description: "The review's conclusions propose four directions for advancing AI–metacognition research in STEM."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

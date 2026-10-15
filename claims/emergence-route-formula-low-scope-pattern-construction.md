@@ -3,7 +3,7 @@ type: claim
 title: Constructions typically emerge developmentally from formula, through low-scope pattern, to construction
 description: Constructions typically emerge developmentally from formula, through low-scope pattern, to construction
 id: emergence-route-formula-low-scope-pattern-construction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

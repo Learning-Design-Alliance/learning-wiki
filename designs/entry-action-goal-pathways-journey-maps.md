@@ -3,7 +3,7 @@ type: design
 id: entry-action-goal-pathways-journey-maps
 title: Journey maps structured as entry, action, and goal for learners and school systems
 description: The blueprint uses journey maps as a reusable design structure for codifying success criteria.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

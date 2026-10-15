@@ -3,7 +3,7 @@ type: learner-variable
 id: reading-and-language
 title: Reading and Language
 description: What a learner can read fluently, and whether the language of instruction is the one they think in.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02

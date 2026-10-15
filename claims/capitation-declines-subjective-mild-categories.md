@@ -3,7 +3,7 @@ type: claim
 title: Post-capitation disability-rate declines were concentrated in subjectively diagnosed categories and occurred more quickly in less severe categories
 description: Post-capitation disability-rate declines were concentrated in subjectively diagnosed categories and occurred more quickly in less severe categories
 id: capitation-declines-subjective-mild-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

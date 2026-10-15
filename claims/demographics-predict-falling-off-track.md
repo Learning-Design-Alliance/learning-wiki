@@ -3,7 +3,7 @@ type: claim
 title: Among students initially on-track, being male, Black, or Hispanic and attending higher-FRPL schools predict higher odds of falling off track in math
 description: Among students initially on-track, being male, Black, or Hispanic and attending higher-FRPL schools predict higher odds of falling off track in math
 id: demographics-predict-falling-off-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The initiative was associated with an overall increase in promotions to the next grade, concentrated among special education students
 description: The initiative was associated with an overall increase in promotions to the next grade, concentrated among special education students
 id: focus-high-schools-promotion-increase-special-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal
 description: Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal
 id: grades-rose-tests-attendance-fell
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

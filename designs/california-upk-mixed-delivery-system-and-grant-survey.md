@@ -3,7 +3,7 @@ type: design
 id: california-upk-mixed-delivery-system-and-grant-survey
 title: California universal prekindergarten mixed-delivery system and the 2022–23 UPK Planning and Implementation Grant Survey
 description: "California's UPK system is a mixed-delivery early learning arrangement comprising transitional kindergarten (TK), the California State Preschool Program (CSPP), Head Start, and locally funded early learning programs."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

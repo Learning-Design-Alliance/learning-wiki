@@ -4,7 +4,7 @@ id: foundationalassist-dataset
 title: FoundationalASSIST dataset
 description: FoundationalASSIST is a dataset of ASSISTments mathematics interactions containing complete question text, actual student responses, distractor selections, and Common Core knowledge-component alignments for developing and evaluating educational AI and knowledge-tracing models.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

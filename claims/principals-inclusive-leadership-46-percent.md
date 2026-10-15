@@ -3,7 +3,7 @@ type: claim
 title: An estimated 46 percent of Chicago elementary principals display inclusive leadership
 description: An estimated 46 percent of Chicago elementary principals display inclusive leadership
 id: principals-inclusive-leadership-46-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

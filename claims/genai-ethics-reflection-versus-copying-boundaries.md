@@ -3,7 +3,7 @@ type: claim
 title: Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking
 description: Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking
 id: genai-ethics-reflection-versus-copying-boundaries
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

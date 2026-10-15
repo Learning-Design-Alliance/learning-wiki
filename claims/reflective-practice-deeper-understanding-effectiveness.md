@@ -3,7 +3,7 @@ type: claim
 title: "Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness"
 description: "Reflective practice yields deeper understanding of teachers' own teaching style and greater classroom effectiveness"
 id: reflective-practice-deeper-understanding-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -4,7 +4,7 @@ id: grad-partnership-student-success-systems
 title: GRAD Partnership Student Success Systems
 description: A framework developed by the GRAD Partnership for organizing secondary-school supports around relationships, holistic data, strategic improvement actions, and student-centered mindsets.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

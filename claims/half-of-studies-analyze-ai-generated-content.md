@@ -3,7 +3,7 @@ type: claim
 title: Half of the original-research publications on generative AI in secondary STEM education analyze AI-generated content rather than human participants
 description: Half of the original-research publications on generative AI in secondary STEM education analyze AI-generated content rather than human participants
 id: half-of-studies-analyze-ai-generated-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

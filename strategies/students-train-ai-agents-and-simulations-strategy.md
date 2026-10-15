@@ -3,7 +3,7 @@ type: strategy
 id: students-train-ai-agents-and-simulations-strategy
 title: Have students develop and train AI agents and simulations in the domains they are learning, with validation and scaffolding
 description: In its scenario on developing professional practices, the article proposes coaching students to develop their own customizable AI agents for exploring a content area, or leveraging AI coding and rendering capacities t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

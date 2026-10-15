@@ -3,7 +3,7 @@ type: claim
 title: I-BEST has potentially positive effects on short-term employment (improvement index +10)
 description: I-BEST has potentially positive effects on short-term employment (improvement index +10)
 id: ibest-potentially-positive-short-term-employment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

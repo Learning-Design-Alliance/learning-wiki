@@ -3,7 +3,7 @@ type: claim
 title: Communication challenges were the most reported barrier to supporting English language learner students, cited by 63 percent of schools
 description: Communication challenges were the most reported barrier to supporting English language learner students, cited by 63 percent of schools
 id: ell-support-communication-challenges-most-reported
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

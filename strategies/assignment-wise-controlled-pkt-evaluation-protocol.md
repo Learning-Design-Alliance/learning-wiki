@@ -3,7 +3,7 @@ type: strategy
 id: assignment-wise-controlled-pkt-evaluation-protocol
 title: "Adopt an assignment-wise controlled evaluation protocol for PKT benchmarking: chronological alignment, causal rectification, and grid-search hyperparameter tuning on a single designated fold fixed across all folds"
 description: "This strategy is the article's controlled evaluation protocol for reliable and comparable programming knowledge tracing evaluation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

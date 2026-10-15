@@ -3,7 +3,7 @@ type: claim
 title: "Regular Upward Bound shows no detectable effects on postsecondary enrollment, financial aid application or receipt, or bachelor's or associate's degree completion"
 description: "Regular Upward Bound shows no detectable effects on postsecondary enrollment, financial aid application or receipt, or bachelor's or associate's degree completion"
 id: upward-bound-no-detectable-degree-enrollment-aid-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

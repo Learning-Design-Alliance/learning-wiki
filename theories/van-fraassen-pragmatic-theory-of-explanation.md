@@ -2,7 +2,7 @@
 type: theory
 title: Van Fraassen pragmatic theory of explanation as a theory of why-questions
 description: "The article presents Van Fraassen's (VF) pragmatic theory of explanation as \"essentally a theory of why-questons\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

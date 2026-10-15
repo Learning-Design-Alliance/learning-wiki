@@ -3,7 +3,7 @@ type: claim
 title: School stability for students in foster care improved from 62 percent to 66 percent but remained far below the roughly 90 percent rate of other groups
 description: School stability for students in foster care improved from 62 percent to 66 percent but remained far below the roughly 90 percent rate of other groups
 id: foster-care-school-stability-lower
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

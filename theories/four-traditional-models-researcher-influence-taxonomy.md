@@ -2,7 +2,7 @@
 type: theory
 title: Taxonomy of four traditional models of researcher influence on education policy
 description: "The report characterizes four traditional roles university-based educational researchers have played in influencing policy and practice: 'four basic models emerge: (1) creation of the big idea, (2) development and ide..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

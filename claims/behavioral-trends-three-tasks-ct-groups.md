@@ -3,7 +3,7 @@ type: claim
 title: "Behavioral trends across three tasks showed high CT students maintained stable independent coding while low CT students' AICA use fluctuated"
 description: "Behavioral trends across three tasks showed high CT students maintained stable independent coding while low CT students' AICA use fluctuated"
 id: behavioral-trends-three-tasks-ct-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

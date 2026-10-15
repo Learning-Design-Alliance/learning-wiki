@@ -3,7 +3,7 @@ type: strategy
 id: redi-parent-home-learning-packets
 title: Engage parents through home-learning packets with videos, tips, and activity suggestions
 description: "As part of REDI, parents receive take-home materials supporting the program's goals: \"Parents receive packets including videos, parenting tips, and suggestions for home learning activities.\" This extends the preschool..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

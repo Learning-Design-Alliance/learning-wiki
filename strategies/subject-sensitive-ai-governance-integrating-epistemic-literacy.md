@@ -3,7 +3,7 @@ type: strategy
 id: subject-sensitive-ai-governance-integrating-epistemic-literacy
 title: Transition from restrictive AI governance to frameworks that formally integrate operational and epistemic workflow competencies with subject-sensitive guidance
 description: "The article recommends moving beyond restrictive governance toward \"a framework that formally integrates overlapping operational and epistemic workflow competencies, emphasizing the need for subject-sensitive guidance..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

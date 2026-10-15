@@ -3,7 +3,7 @@ type: claim
 title: Socratic + No Context produces the highest query volume and Direct + No Context the longest messages
 description: Socratic + No Context produces the highest query volume and Direct + No Context the longest messages
 id: ai-ta-query-volume-and-message-length
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

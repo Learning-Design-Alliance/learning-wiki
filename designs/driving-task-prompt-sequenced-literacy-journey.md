@@ -3,7 +3,7 @@ type: design
 id: driving-task-prompt-sequenced-literacy-journey
 title: Sequenced literacy units organized around a Driving Task Prompt moving through comprehension, knowledge building, genre study, synthesis, and writing
 description: This pattern organizes curriculum units and modules around a Driving Task Prompt within a disciplinary-literacy framework.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

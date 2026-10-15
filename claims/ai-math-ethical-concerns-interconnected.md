@@ -3,7 +3,7 @@ type: claim
 title: The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education
 description: The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education
 id: ai-math-ethical-concerns-interconnected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: consortium-training-model-lower-pd-costs
 title: Use a consortium training model to lower professional development costs to individual districts
 description: "The report describes a consortium training model for delivering professional development across districts: \"The program can be implemented using a consortium training model, in which school leaders from multiple distr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

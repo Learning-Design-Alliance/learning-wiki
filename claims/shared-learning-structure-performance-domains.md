@@ -3,7 +3,7 @@ type: claim
 title: "The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains"
 description: "The framework's broader relevance rests on a shared learning structure of embodied skill, expert feedback, and self-monitoring, not direct equivalence across domains"
 id: shared-learning-structure-performance-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "School quality measures that exclude schools' impacts on socioemotional development underestimate or misidentify many impactful schools"
 description: "School quality measures that exclude schools' impacts on socioemotional development underestimate or misidentify many impactful schools"
 id: quality-metrics-excluding-sed-misidentify-impactful-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

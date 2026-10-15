@@ -4,7 +4,7 @@ id: cobi
 title: CoBi
 description: CoBi is an AI-based classroom-wide collaboration support system developed by Breideband et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

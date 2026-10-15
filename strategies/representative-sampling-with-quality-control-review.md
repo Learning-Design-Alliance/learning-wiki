@@ -3,7 +3,7 @@ type: strategy
 id: representative-sampling-with-quality-control-review
 title: Select representative reduced portfolios with quality-control review and geographic-bias limits for standard setting
 description: When full portfolios cannot be reviewed, select one entry per content strand whose subset performance most closely matches the whole-portfolio score, minimizing the z-score deviate difference.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: ITS effectiveness is not moderated by whether the ITS provides feedback or models student misconceptions
 description: ITS effectiveness is not moderated by whether the ITS provides feedback or models student misconceptions
 id: its-effect-not-moderated-by-feedback-or-misconception-modeling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: strategy
 id: classified-employee-credentialing-braided-supports
 title: Recruit classified school employees into teacher credentialing with braided funds plus individualized financial and non-financial supports
 description: The Classified School Employee Teacher Credentialing Program addresses teacher shortages by supporting credentialing of classified staff.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

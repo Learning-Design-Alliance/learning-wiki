@@ -4,7 +4,7 @@ id: tap-system
 title: TAP System
 description: A whole-school teacher evaluation, compensation, career-ladder, mentoring, and professional-development programme developed and operated by the National Institute for Excellence in Teaching.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

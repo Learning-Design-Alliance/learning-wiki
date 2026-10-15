@@ -3,7 +3,7 @@ type: strategy
 id: rct-design-youth-transition-demonstration
 title: Use a randomized controlled trial design to evaluate a transition-services demonstration for youth with disabilities
 description: "The report describes how the Vermont DVR supported a rigorous evaluation by relying on \"a randomized controlled trial design, recruiting 803 participants.\" Random assignment of enrolled youth to LLC or a control group..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

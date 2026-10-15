@@ -3,7 +3,7 @@ type: claim
 title: The general and coder models deploy distinct lexical strategies when raising cognitive demand, and neither deploys simplification vocabulary downward
 description: The general and coder models deploy distinct lexical strategies when raising cognitive demand, and neither deploys simplification vocabulary downward
 id: divergent-lexical-mutation-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

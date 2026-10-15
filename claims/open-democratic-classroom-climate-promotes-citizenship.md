@@ -3,7 +3,7 @@ type: claim
 title: An open and democratic classroom climate with discussion and dialogue appears to effectively promote citizenship development among secondary school students
 description: An open and democratic classroom climate with discussion and dialogue appears to effectively promote citizenship development among secondary school students
 id: open-democratic-classroom-climate-promotes-citizenship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

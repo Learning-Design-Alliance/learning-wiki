@@ -3,7 +3,7 @@ type: element
 id: rd-design-nclb-ayp-thresholds
 title: Regression discontinuity design applied to NCLB AYP thresholds in Title I schools
 description: "The report is an exploratory quasi-experimental study that \"use[s] a regression discontinuity design to examine the relationships between certain features of No Child Left Behind accountability and subsequent student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

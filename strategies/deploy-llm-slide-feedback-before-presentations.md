@@ -3,7 +3,7 @@ type: strategy
 id: deploy-llm-slide-feedback-before-presentations
 title: Deploy LLM-based slide feedback dashboards before oral presentations so students can iteratively revise slides when teacher feedback is infeasible at scale
 description: The article recommends combining LLM-based analysis with Learning Analytics dashboards to deliver timely, rubric-aligned formative feedback on slides before the oral presentation, addressing the problem that feedback...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

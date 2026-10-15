@@ -3,7 +3,7 @@ type: strategy
 id: analyze-and-inventory-before-edtech-purchase
 title: "Analyze & Inventory: use cross-departmental data analysis and an inventory of existing interventions before buying new edtech"
 description: "Step 1 of the framework directs leaders to begin \"with cross-departmental analysis of formative and summative data to identify priority learner populations, instructional gaps, and the root causes driving them.\" Simul..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "AI scheduling systems reportedly reduce administrative workload by up to 40% and enrollment prediction exceeds 85% accuracy (as reported in the reviewed literature)"
 description: "AI scheduling systems reportedly reduce administrative workload by up to 40% and enrollment prediction exceeds 85% accuracy (as reported in the reviewed literature)"
 id: ai-administrative-efficiency-reported-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

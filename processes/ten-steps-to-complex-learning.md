@@ -3,7 +3,7 @@ type: process
 id: ten-steps-to-complex-learning
 title: Ten Steps to Complex Learning
 description: The task-centred design process that produces a 4C/ID blueprint — specify the professional tasks first, group them into task classes of equal complexity ordered simple to complex, then derive the supporting theory and part-task practice from the tasks rather than the other way round.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-03

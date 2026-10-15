@@ -3,7 +3,7 @@ type: claim
 title: AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks
 description: AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks
 id: ai-online-learning-benefits-personalization-prediction-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

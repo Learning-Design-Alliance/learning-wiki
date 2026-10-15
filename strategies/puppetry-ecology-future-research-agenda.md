@@ -3,7 +3,7 @@ type: strategy
 id: puppetry-ecology-future-research-agenda
 title: Research agenda for extending puppetry as an ecology teaching tool
 description: "In its recommendations, the article directs future work at two gaps: persistence and teacher preparation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

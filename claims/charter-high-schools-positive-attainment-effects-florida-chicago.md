@@ -3,7 +3,7 @@ type: claim
 title: Charter high schools have positive effects on educational attainment in Florida and Chicago
 description: Charter high schools have positive effects on educational attainment in Florida and Chicago
 id: charter-high-schools-positive-attainment-effects-florida-chicago
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

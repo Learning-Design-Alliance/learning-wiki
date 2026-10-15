@@ -3,7 +3,7 @@ type: strategy
 id: kipp-atlanta-future-research-success-factors
 title: Future research should examine factors supporting long-term student success beyond measured impacts
 description: "The report closes by looking forward: it \"discusses study limitations and identifies opportunities for future research to better understand the factors that support long-term student success.\" As a strategy, this dire..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

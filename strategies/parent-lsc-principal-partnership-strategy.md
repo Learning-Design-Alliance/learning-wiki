@@ -3,7 +3,7 @@ type: strategy
 id: parent-lsc-principal-partnership-strategy
 title: Parents and LSC members partner with principals by learning the leadership team, reviewing the CIWP and school data, and fostering a welcoming school culture
 description: "The playbook gives families and Local School Council members concrete actions: get to know the principal and full leadership team by asking about the school vision and how leadership teams contribute; learn the Contin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

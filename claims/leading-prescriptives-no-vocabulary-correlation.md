@@ -3,7 +3,7 @@ type: claim
 title: "Prescriptives that lead the child's attention did not correlate significantly with productive vocabulary"
 description: "Prescriptives that lead the child's attention did not correlate significantly with productive vocabulary"
 id: leading-prescriptives-no-vocabulary-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

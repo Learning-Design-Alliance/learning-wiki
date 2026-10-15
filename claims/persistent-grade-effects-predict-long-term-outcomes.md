@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' persistent grade effects predict students' long-term outcomes"
 description: "Teachers' persistent grade effects predict students' long-term outcomes"
 id: persistent-grade-effects-predict-long-term-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

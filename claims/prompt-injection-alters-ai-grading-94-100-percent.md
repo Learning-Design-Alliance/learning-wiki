@@ -3,7 +3,7 @@ type: claim
 title: "Indirect prompt injections combining instruction manipulation, role-playing, and obfuscation altered AI-assigned grades with attack success rates of 94–100% while remaining undetected"
 description: "Indirect prompt injections combining instruction manipulation, role-playing, and obfuscation altered AI-assigned grades with attack success rates of 94–100% while remaining undetected"
 id: prompt-injection-alters-ai-grading-94-100-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness
 description: AI teaching agents differed most on knowledge-related dimensions and least on role-play quality, with adaptive difficulty calibration a shared weakness
 id: agents-differ-knowledge-not-role-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

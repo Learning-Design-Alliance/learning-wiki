@@ -3,7 +3,7 @@ type: claim
 title: The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others
 description: The different elements of the Engagement Framework are interrelated in practice, with gains in one dimension reinforcing others
 id: framework-elements-interrelated-in-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

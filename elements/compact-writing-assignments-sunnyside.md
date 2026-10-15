@@ -3,7 +3,7 @@ type: element
 id: compact-writing-assignments-sunnyside
 title: "Compact Writing Assignments: student-created diverse writing formats for social studies"
 description: "Compact Writing Assignments (CWAs) are student-created writing activities piloted in Sunnyside classrooms that \"introduc[e] diverse writing formats including script writing, text exchange, comic book, and response to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

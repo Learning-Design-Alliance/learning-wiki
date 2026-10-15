@@ -3,7 +3,7 @@ type: claim
 title: Students in foster care in Arizona constituted an at-risk subgroup demographically distinct from low-SES students
 description: Students in foster care in Arizona constituted an at-risk subgroup demographically distinct from low-SES students
 id: foster-care-distinct-from-low-ses-arizona
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

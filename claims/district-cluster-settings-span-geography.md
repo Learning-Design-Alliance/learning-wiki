@@ -3,7 +3,7 @@ type: claim
 title: California school districts with similar English Learner program settings span geographic boundaries
 description: California school districts with similar English Learner program settings span geographic boundaries
 id: district-cluster-settings-span-geography
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

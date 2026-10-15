@@ -3,7 +3,7 @@ type: claim
 title: "Graduates rate the Alder residency highly, with 97% rating it effective or very effective on the 2022–23 CTC completer survey"
 description: "Graduates rate the Alder residency highly, with 97% rating it effective or very effective on the 2022–23 CTC completer survey"
 id: alder-completer-survey-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

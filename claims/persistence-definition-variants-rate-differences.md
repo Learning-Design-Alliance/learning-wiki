@@ -3,7 +3,7 @@ type: claim
 title: Five persistence definition variants show similar predictiveness of completion, but the third-semester point-in-time definition yields persistence rates up to 14 percentage points higher than the continuous four-term definition
 description: Five persistence definition variants show similar predictiveness of completion, but the third-semester point-in-time definition yields persistence rates up to 14 percentage points higher than the continuous four-term...
 id: persistence-definition-variants-rate-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: Principle of likely need versus principle of repetition as competing accounts of lexical learning
 description: The chapter contrasts two learning principles underlying lexical organization.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

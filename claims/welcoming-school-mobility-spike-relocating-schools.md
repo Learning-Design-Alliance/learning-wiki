@@ -3,7 +3,7 @@ type: claim
 title: Welcoming-school students transferred out at higher-than-expected rates just before the merger, driven exclusively by the 14 welcoming schools that had to relocate into closed-school buildings
 description: Welcoming-school students transferred out at higher-than-expected rates just before the merger, driven exclusively by the 14 welcoming schools that had to relocate into closed-school buildings
 id: welcoming-school-mobility-spike-relocating-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Strict AI prohibitions can intensify students' moral conflict without preventing AI use"
 description: "Strict AI prohibitions can intensify students' moral conflict without preventing AI use"
 id: strict-ai-prohibition-intensifies-moral-conflict
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

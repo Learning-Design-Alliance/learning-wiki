@@ -3,7 +3,7 @@ type: claim
 title: "Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking"
 description: "Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking"
 id: teleologic-anthropomorphic-language-related-to-age-and-curriculum
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27
@@ -31,7 +31,7 @@ sources:
 
 ### Bautista 2015
 
-Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40.
+Bautista, R. G. (2015). Students' affordance of teleologic explanations and anthropomorphic language in eliciting concepts in physics. Journal of Technology and Science Education, 5(1), 31-40. https://doi.org/10.3926/jotse.137
 
 `q2 · i3` · `causal · r1`
 

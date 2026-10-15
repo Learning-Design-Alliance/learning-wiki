@@ -3,7 +3,7 @@ type: claim
 title: Adding writing prompts and essays to state English language arts assessments shifted classroom instruction toward writing
 description: Adding writing prompts and essays to state English language arts assessments shifted classroom instruction toward writing
 id: ela-writing-prompts-shift-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

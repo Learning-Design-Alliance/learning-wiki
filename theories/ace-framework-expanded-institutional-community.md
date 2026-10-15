@@ -2,7 +2,7 @@
 type: theory
 title: Academic Communities of Engagement (ACE) framework, expanded to include an institutional/school community of support
 description: The ACE framework explains how supports help online learners engage affectively, behaviorally, and cognitively.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

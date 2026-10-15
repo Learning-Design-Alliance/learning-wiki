@@ -3,7 +3,7 @@ type: claim
 title: BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial
 description: BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial
 id: barr-multisite-rct-map-math-es-008
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

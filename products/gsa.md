@@ -4,7 +4,7 @@ id: gsa
 title: GSA
 description: A teacher professional-development system that guides educators in videotaping, coding, and reviewing their own classroom teaching to identify strengths and areas for change.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

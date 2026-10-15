@@ -3,7 +3,7 @@ type: claim
 title: "AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education"
 description: "AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education"
 id: ai-motivation-research-china-higher-ed-concentration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

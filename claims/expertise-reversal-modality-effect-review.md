@@ -3,7 +3,7 @@ type: claim
 title: "The review reports that the modality effect reverses with expertise: audio-visual presentations helped inexperienced learners, but after further training a diagram-only condition showed a substantial advantage"
 description: "The review reports that the modality effect reverses with expertise: audio-visual presentations helped inexperienced learners, but after further training a diagram-only condition showed a substantial advantage"
 id: expertise-reversal-modality-effect-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

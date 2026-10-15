@@ -3,7 +3,7 @@ type: claim
 title: EO 1110 significantly increased first-year completion of the quantitative reasoning (B4) requirement, roughly doubling completion among students needing additional support
 description: EO 1110 significantly increased first-year completion of the quantitative reasoning (B4) requirement, roughly doubling completion among students needing additional support
 id: eo1110-increased-first-year-b4-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

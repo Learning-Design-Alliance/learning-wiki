@@ -3,7 +3,7 @@ type: design
 id: 5p-reflection-model-genai-era
 title: "5P reflection model: an iterative five-stage GenAI-aware reflection model"
 description: "The 5P Reflection Model is an iterative reflective model with five stages: Purpose, Process, Product, Pitfalls and Plan, with emotional factors considered across all stages."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

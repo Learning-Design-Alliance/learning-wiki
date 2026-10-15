@@ -3,7 +3,7 @@ type: claim
 title: Chatbot support for goal setting and social presence in fully online activities was evaluated through behavioral engagement from conversation records plus perceptions and interviews
 description: Chatbot support for goal setting and social presence in fully online activities was evaluated through behavioral engagement from conversation records plus perceptions and interviews
 id: chatbot-engagement-conversation-records-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

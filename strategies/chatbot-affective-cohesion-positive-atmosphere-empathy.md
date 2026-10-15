@@ -3,7 +3,7 @@ type: strategy
 id: chatbot-affective-cohesion-positive-atmosphere-empathy
 title: Support affective cohesion through positive atmosphere and empathy formation in chatbot dialogue
 description: This strategy cultivates emotional bonds among team members through mutual comprehension and empathy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

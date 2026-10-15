@@ -2,7 +2,7 @@
 type: theory
 title: Scaling up defined as achieving greater reach with predictable, measurable impact
 description: The chapter defines scaling up, building on McDonald et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: preschool-paths-curriculum
 title: Preschool PATHS® Curriculum
 description: A social-emotional learning curriculum used within the REDI programme to develop preschoolers’ self-regulation, self-awareness, social problem-solving, and emotional control.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

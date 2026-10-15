@@ -3,7 +3,7 @@ type: claim
 title: RTE is limited to selected-response items that must be answered before advancing
 description: RTE is limited to selected-response items that must be answered before advancing
 id: rte-limited-to-answered-selected-response-items
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

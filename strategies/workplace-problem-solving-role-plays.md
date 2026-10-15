@@ -3,7 +3,7 @@ type: strategy
 id: workplace-problem-solving-role-plays
 title: Teach workplace problem solving through case studies and role plays with a structured procedure
 description: Module 5 applies cultural knowledge to everyday work situations.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

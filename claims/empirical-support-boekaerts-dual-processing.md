@@ -3,7 +3,7 @@ type: claim
 title: "Empirical studies support Boekaerts' Dual Processing model, including task-specific appraisals predicting learning intention and neural-network prediction of performance groups"
 description: "Empirical studies support Boekaerts' Dual Processing model, including task-specific appraisals predicting learning intention and neural-network prediction of performance groups"
 id: empirical-support-boekaerts-dual-processing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

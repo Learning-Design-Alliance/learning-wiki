@@ -3,7 +3,7 @@ type: element
 id: university-enrollment-1971-1990-fuzzylised-dataset
 title: University enrollment dataset 1971–1990 with fuzzylised universe (13000, 20000)
 description: The article uses real enrollment data for a United States university from 1971 to 1990, with a maximum enrollment of 19328 and a minimum of 13055.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

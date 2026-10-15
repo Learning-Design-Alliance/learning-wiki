@@ -3,7 +3,7 @@ type: claim
 title: The trust–appropriate reliance relationship is non-linear, with the decline attenuating at higher trust and no reversal within the observed data
 description: The trust–appropriate reliance relationship is non-linear, with the decline attenuating at higher trust and no reversal within the observed data
 id: nonlinear-trust-reliance-no-optimal-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

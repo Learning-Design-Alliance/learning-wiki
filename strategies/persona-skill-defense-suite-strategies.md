@@ -3,7 +3,7 @@ type: strategy
 id: persona-skill-defense-suite-strategies
 title: "Defense suite for persona skills: online sanitization, post-hoc adversarial obfuscation, and semantic backdoor watermarking"
 description: "AntiSkillBench designs and evaluates four defense configurations intervening at different stages of the persona-skill lifecycle, covering \"online versus post-hoc intervention and active risk suppression versus passive..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

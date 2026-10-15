@@ -3,7 +3,7 @@ type: claim
 title: At-risk students are overrepresented in One-Star schools
 description: At-risk students are overrepresented in One-Star schools
 id: at-risk-students-overrepresented-one-star-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

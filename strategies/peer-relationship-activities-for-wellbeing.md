@@ -3,7 +3,7 @@ type: strategy
 id: peer-relationship-activities-for-wellbeing
 title: Encourage activities that support positive peer relationships through direct connections, clubs, and sports
 description: "The brief recommends fostering peer relationships \"whether through direct personal connections or through clubs and sports,\" as an important part of student well-being."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

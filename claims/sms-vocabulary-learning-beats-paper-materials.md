@@ -3,7 +3,7 @@ type: claim
 title: "In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print"
 description: "In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print"
 id: sms-vocabulary-learning-beats-paper-materials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

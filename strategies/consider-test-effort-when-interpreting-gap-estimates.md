@@ -3,7 +3,7 @@ type: strategy
 id: consider-test-effort-when-interpreting-gap-estimates
 title: Consider differential test effort when interpreting achievement gap estimates among student subgroups
 description: "This strategy follows from the brief's central concern: because \"test effort differs substantially across student gender and racial subgroups,\" achievement gap estimates drawn from low-stakes or standardized test data..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

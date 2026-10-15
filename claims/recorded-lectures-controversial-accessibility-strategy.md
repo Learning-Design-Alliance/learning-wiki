@@ -3,7 +3,7 @@ type: claim
 title: "Recorded lectures are a controversial accessibility strategy: faculty cite decimated attendance and poorer grades, while acknowledging benefits for some student groups"
 description: "Recorded lectures are a controversial accessibility strategy: faculty cite decimated attendance and poorer grades, while acknowledging benefits for some student groups"
 id: recorded-lectures-controversial-accessibility-strategy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

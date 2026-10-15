@@ -3,7 +3,7 @@ type: claim
 title: Passing individual microphones discouraged some students from asking questions during telelectures
 description: Passing individual microphones discouraged some students from asking questions during telelectures
 id: microphone-use-discourages-student-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

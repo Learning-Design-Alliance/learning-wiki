@@ -2,7 +2,7 @@
 type: claim
 title: Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones
 id: teacher-effectiveness-compounds-over-consecutive-years
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

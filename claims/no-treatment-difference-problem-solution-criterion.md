@@ -3,7 +3,7 @@ type: claim
 title: Polya and Dahmus methods do not differ on the problem solution criterion
 description: Polya and Dahmus methods do not differ on the problem solution criterion
 id: no-treatment-difference-problem-solution-criterion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

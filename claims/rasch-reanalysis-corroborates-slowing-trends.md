@@ -3,7 +3,7 @@ type: claim
 title: A Rasch-score re-analysis corroborates slowing and in some cases declining test score trends, with nine-year-olds an exception
 description: A Rasch-score re-analysis corroborates slowing and in some cases declining test score trends, with nine-year-olds an exception
 id: rasch-reanalysis-corroborates-slowing-trends
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

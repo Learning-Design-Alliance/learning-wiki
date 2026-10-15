@@ -3,7 +3,7 @@ type: claim
 title: After controlling for teacher and school background, school demographic characteristics were not significantly related to minority teacher turnover
 description: After controlling for teacher and school background, school demographic characteristics were not significantly related to minority teacher turnover
 id: school-demographics-not-related-to-minority-teacher-turnover
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

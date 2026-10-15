@@ -3,7 +3,7 @@ type: element
 id: covid-slide-research-brief-element
 title: "NWEA research brief 'The COVID-19 slide' with associated working paper, presentation, and technical appendix"
 description: This element is the NWEA Research brief of April 2020 by Megan Kuhfeld and Beth Tarasawa, which connects summer learning loss research to the potential achievement impacts of COVID-19 school closures.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

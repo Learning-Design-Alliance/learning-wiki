@@ -3,7 +3,7 @@ type: strategy
 id: learning-genie-implementation-staffing-strategy
 title: Implement Learning Genie with classroom teachers in regular workflow plus a site- or district-level implementation lead
 description: "The article's implementation model assigns the platform to \"classroom teachers\" as \"part of their regular instructional and assessment workflow,\" with \"no additional instructional staff are required.\" A site- or distr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

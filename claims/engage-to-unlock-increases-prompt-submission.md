@@ -3,7 +3,7 @@ type: claim
 title: Engage-to-Unlock participants submitted more prompts than both Standard Chatbot and Time-Matched Unlock participants
 description: Engage-to-Unlock participants submitted more prompts than both Standard Chatbot and Time-Matched Unlock participants
 id: engage-to-unlock-increases-prompt-submission
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

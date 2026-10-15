@@ -3,7 +3,7 @@ type: claim
 title: ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap
 description: ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap
 id: assistments-close-ethnic-achievement-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: In a California survey, 92 percent of elementary teachers reported limited time for science and 81 percent said English language arts and math emphasis made finding science time difficult
 description: In a California survey, 92 percent of elementary teachers reported limited time for science and 81 percent said English language arts and math emphasis made finding science time difficult
 id: california-elementary-science-time-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

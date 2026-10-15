@@ -3,7 +3,7 @@ type: design
 id: scoe-collective-impact-wellness-model
 title: Collective impact model aligning health and education systems for school-community mental health
 description: SCOE leaders organize their county-wide mental health work through a collective impact model that aligns health and education systems.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

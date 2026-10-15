@@ -3,7 +3,7 @@ type: claim
 title: More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school
 description: More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school
 id: access-proficiency-timing-fifth-grade-window
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
@@ -67,4 +67,4 @@ Descriptive comparison of the roughly one-fifth of began-as-EL students still cl
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
 - [Students who began as ELs were not overidentified for special education services relative to students never classified as ELs](els-not-overidentified-special-education.md) — related
 - [Longitudinal growth observed for current ELs likely underestimates total-cohort growth because students who reach English proficiency exit and are no longer assessed](el-exit-censorship-underestimates-growth.md) — related
-- [More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts](k-cohort-els-reaching-english-proficiency-earlier.md) — related
+- More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts — related

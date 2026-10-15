@@ -3,7 +3,7 @@ type: claim
 title: Teacher turnover costs districts billions annually and harms student achievement
 description: Teacher turnover costs districts billions annually and harms student achievement
 id: teacher-turnover-costs-and-achievement-harm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

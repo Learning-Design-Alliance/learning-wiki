@@ -4,7 +4,7 @@ id: supplemental-matrix-of-intervention-strategies-for-18-tier-2-literacy-interv
 title: Supplemental matrix of intervention strategies for 18 Tier 2 literacy interventions
 description: A study-developed matrix that organizes implementation strategies from 18 Tier 2 literacy interventions to help CNMI PSS staff assess feasibility and inform intervention selection or local design.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

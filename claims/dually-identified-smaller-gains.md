@@ -3,7 +3,7 @@ type: claim
 title: Dually-identified students make smaller gains than the all-student average across all grades in math and in kindergarten and 1st grade in reading
 description: Dually-identified students make smaller gains than the all-student average across all grades in math and in kindergarten and 1st grade in reading
 id: dually-identified-smaller-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

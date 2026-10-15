@@ -2,7 +2,7 @@
 type: theory
 title: "Johnson and Johnson's four basic elements of cooperative learning"
 description: "The review presents the Johnsons' account of what distinguishes cooperative learning from ordinary group work: \"interdependence among students seeking mutual goals through combined efforts\", face-to-face interaction,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

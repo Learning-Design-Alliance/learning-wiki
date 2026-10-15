@@ -3,7 +3,7 @@ type: claim
 title: AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development
 description: AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development
 id: ai-substitution-impedes-long-term-skill-development
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Displaced students in receiving schools with high student-teacher trust and teacher personal attention showed larger reading and math gains than those in low-support schools
 description: Displaced students in receiving schools with high student-teacher trust and teacher personal attention showed larger reading and math gains than those in low-support schools
 id: teacher-relationships-moderate-displaced-student-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

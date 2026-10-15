@@ -3,7 +3,7 @@ type: claim
 title: Student perceptions of safety and teacher perceptions of order improved in CPS high schools during the same period that OSS rates declined
 description: Student perceptions of safety and teacher perceptions of order improved in CPS high schools during the same period that OSS rates declined
 id: safety-perceptions-improved-as-oss-declined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

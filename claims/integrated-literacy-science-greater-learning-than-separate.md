@@ -3,7 +3,7 @@ type: claim
 title: Integrating literacy and science within authentic real-world experiences can produce greater learning in both areas than teaching either separately
 description: Integrating literacy and science within authentic real-world experiences can produce greater learning in both areas than teaching either separately
 id: integrated-literacy-science-greater-learning-than-separate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

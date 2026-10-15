@@ -3,7 +3,7 @@ type: claim
 title: Corrective Reading showed no statistically significant effects on reading comprehension outcomes
 description: Corrective Reading showed no statistically significant effects on reading comprehension outcomes
 id: corrective-reading-no-comprehension-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

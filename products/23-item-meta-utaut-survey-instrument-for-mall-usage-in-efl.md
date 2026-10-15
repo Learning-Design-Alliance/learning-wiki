@@ -4,7 +4,7 @@ id: 23-item-meta-utaut-survey-instrument-for-mall-usage-in-efl
 title: 23-item Meta-UTAUT survey instrument for MALL usage in EFL
 description: A 23-item, seven-domain Likert survey instrument adapted and translated by Tuan Thanh Nguyen to measure Vietnamese EFL learners’ acceptance and intended use of mobile-assisted language learning.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

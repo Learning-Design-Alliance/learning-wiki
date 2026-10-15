@@ -3,7 +3,7 @@ type: claim
 title: Differences in engagement and achievement between high- and low-GPA students grew more sharply during the pandemic among Chicago Connected participants than among eligible non-participants
 description: Differences in engagement and achievement between high- and low-GPA students grew more sharply during the pandemic among Chicago Connected participants than among eligible non-participants
 id: chicago-connected-participants-widening-gpa-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

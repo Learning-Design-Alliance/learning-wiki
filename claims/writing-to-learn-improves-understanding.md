@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Writing To Learn Improves Understanding
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

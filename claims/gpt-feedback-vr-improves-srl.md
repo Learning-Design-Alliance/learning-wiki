@@ -3,7 +3,7 @@ type: claim
 title: Self-regulated learning abilities improved significantly in the GPT-feedback VR group, supporting self-reflection, goal setting, and strategy adjustment
 description: Self-regulated learning abilities improved significantly in the GPT-feedback VR group, supporting self-reflection, goal setting, and strategy adjustment
 id: gpt-feedback-vr-improves-srl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

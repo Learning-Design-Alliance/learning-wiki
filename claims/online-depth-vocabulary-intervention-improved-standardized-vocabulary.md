@@ -3,7 +3,7 @@ type: claim
 title: A 16-week universally designed online depth-of-vocabulary intervention improved standardized vocabulary knowledge relative to a control group in fifth graders
 description: A 16-week universally designed online depth-of-vocabulary intervention improved standardized vocabulary knowledge relative to a control group in fifth graders
 id: online-depth-vocabulary-intervention-improved-standardized-vocabulary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

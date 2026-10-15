@@ -3,7 +3,7 @@ type: claim
 title: Higher levels of student involvement in self-monitoring lead to stronger intervention effects (preliminary evidence)
 description: Higher levels of student involvement in self-monitoring lead to stronger intervention effects (preliminary evidence)
 id: student-involvement-stronger-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

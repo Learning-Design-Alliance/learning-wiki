@@ -4,7 +4,7 @@ id: elevate-engine
 title: ELEVATE Engine
 description: A streaming, queue-based client-server software engine developed by Lorenzo Stacchio et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

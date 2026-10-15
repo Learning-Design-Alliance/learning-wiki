@@ -3,7 +3,7 @@ type: element
 id: philippine-adult-education-eight-type-taxonomy
 title: Schematic taxonomy of eight types of adult education in the Philippines (Table 2)
 description: "The article constructs a schematic analysis (Table 2) dividing Philippine adult education into eight types across two streams: formal vocational/technical (items 1-2: vocational trade high schools and post-secondary v..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

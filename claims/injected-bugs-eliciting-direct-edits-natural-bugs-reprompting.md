@@ -3,7 +3,7 @@ type: claim
 title: Injected bugs prompt more direct code edits while natural bugs prompt more reprompting in prompt-based programming tasks
 description: Injected bugs prompt more direct code edits while natural bugs prompt more reprompting in prompt-based programming tasks
 id: injected-bugs-eliciting-direct-edits-natural-bugs-reprompting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

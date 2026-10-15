@@ -3,7 +3,7 @@ type: claim
 title: A small question budget of about 200 suffices for strong hypothesis quality, with room to scale
 description: A small question budget of about 200 suffices for strong hypothesis quality, with room to scale
 id: small-budget-suffices-for-hypothesis-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

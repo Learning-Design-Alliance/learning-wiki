@@ -3,7 +3,7 @@ type: claim
 title: Faculty testing of AI chatbots on real student homework found feedback quality uneven, prompting-dependent, and focused on surface features
 description: Faculty testing of AI chatbots on real student homework found feedback quality uneven, prompting-dependent, and focused on surface features
 id: ai-chatbot-homework-feedback-limits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

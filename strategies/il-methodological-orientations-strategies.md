@@ -3,7 +3,7 @@ type: strategy
 id: il-methodological-orientations-strategies
 title: Methodological orientations and strategies for professors to promote integrated learning of civic competence
 description: The article offers ten methodological orientations and twelve methodological strategies for professors promoting civic and social competence through integrated learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

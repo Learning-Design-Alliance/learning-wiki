@@ -3,7 +3,7 @@ type: claim
 title: "A field study with 10 faculty across two institutions observed a 25% reduction in administrative load and improved LMS data utilization from agentic teaching-assistant systems"
 description: "A field study with 10 faculty across two institutions observed a 25% reduction in administrative load and improved LMS data utilization from agentic teaching-assistant systems"
 id: agentic-teaching-assistant-25-percent-admin-load-reduction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

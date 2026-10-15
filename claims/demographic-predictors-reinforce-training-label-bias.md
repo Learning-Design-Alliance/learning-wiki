@@ -3,7 +3,7 @@ type: claim
 title: Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies
 description: Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies
 id: demographic-predictors-reinforce-training-label-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: A short online growth mindset intervention improved ninth-grade core-course GPAs among lower-achieving students in a nationally representative US sample
 description: A short online growth mindset intervention improved ninth-grade core-course GPAs among lower-achieving students in a nationally representative US sample
 id: growth-mindset-raises-lower-achiever-gpas-national-experiment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

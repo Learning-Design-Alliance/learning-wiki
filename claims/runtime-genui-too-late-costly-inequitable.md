@@ -3,7 +3,7 @@ type: claim
 title: Runtime GenUI adaptation is too late, too costly, and accuracy-risky to be equitable at scale for learners needing non-default representations
 description: Runtime GenUI adaptation is too late, too costly, and accuracy-risky to be equitable at scale for learners needing non-default representations
 id: runtime-genui-too-late-costly-inequitable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

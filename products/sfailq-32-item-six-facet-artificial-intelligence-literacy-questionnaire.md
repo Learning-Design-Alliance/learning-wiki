@@ -4,7 +4,7 @@ id: sfailq-32-item-six-facet-artificial-intelligence-literacy-questionnaire
 title: "SFAILQ: 32-item Six-Facet Artificial Intelligence Literacy Questionnaire"
 description: A 32-item self-report assessment developed by Liu Qingqi et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

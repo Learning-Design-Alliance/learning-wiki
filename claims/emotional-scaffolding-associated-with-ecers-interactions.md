@@ -3,7 +3,7 @@ type: claim
 title: Better emotional scaffolding is associated with higher ECERS-R Interaction scores
 description: Better emotional scaffolding is associated with higher ECERS-R Interaction scores
 id: emotional-scaffolding-associated-with-ecers-interactions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Criterion-referenced tests require empirically-based construct validation studies
 description: Criterion-referenced tests require empirically-based construct validation studies
 id: criterion-referenced-tests-need-construct-validation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: strategic-partnerships-sustain-teacher-led-pd
 title: Build strategic relationships with district administrators, unions, county offices, universities, and funders to sustain teacher-led professional learning
 description: "The casebook's fifth lesson is that ILC teacher leaders gain the greatest traction by building relationships with district administrators, teachers associations, county offices of education, universities, and philanth..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Students rated DPs positively, did not distinguish the two LLMs, and disagreed with experts on the same DPs, rating feasibility significantly lower
 description: Students rated DPs positively, did not distinguish the two LLMs, and disagreed with experts on the same DPs, rating feasibility significantly lower
 id: student-perceptions-of-dps-differ-from-experts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

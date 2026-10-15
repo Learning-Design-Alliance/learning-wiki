@@ -3,7 +3,7 @@ type: claim
 title: Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change
 description: Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change
 id: reach-missed-observations-inability-to-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

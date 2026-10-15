@@ -3,7 +3,7 @@ type: strategy
 id: support-level-filtering-persistent-topics
 title: Use support-level filtering across cohorts to separate persistent from cohort-specific challenging topics
 description: A prioritization strategy in which a topic is considered persistently challenging only if it appears among the ten most difficult topics in at least two of three cohorts, with quizzes of two or more questions to ensur...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

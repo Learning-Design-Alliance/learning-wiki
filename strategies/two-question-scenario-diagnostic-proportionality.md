@@ -3,7 +3,7 @@ type: strategy
 id: two-question-scenario-diagnostic-proportionality
 title: Open proportional-reasoning work by asking two diagnostic questions about the scenario
 description: "The paper offers a worked-example routine for approaching any scenario: first ask 'Are there two measurable quantities in the scenario of interest that can, or do, adopt a variety of different values?' and then ask 'D..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

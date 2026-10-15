@@ -3,7 +3,7 @@ type: element
 id: aiim-thrive-studies-dissemination-products
 title: Studies of Arkansas AIIM and THRIVE with findings presentations and infographic products
 description: "The logic model lists two studies as partnership activities: \"Study of Arkansas AIIM\" and \"Study of Arkansas THRIVE.\" Each is paired with dissemination products — presenting findings and producing infographics summari..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

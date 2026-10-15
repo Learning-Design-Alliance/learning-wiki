@@ -3,7 +3,7 @@ type: strategy
 id: lli-three-day-training-with-on-site-coaching
 title: Provide LLI interventionists with 3-day formal training including follow-up on-site coaching
 description: The summary recommends that LLI Interventionists receive formal 3-day LLI training from Heinemann Publishing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: connect-ct-to-local-maker-heritage
 title: Connect computational thinking to local maker and problem-solver heritage to teach it responsively to local culture
 description: "The project's guiding hypothesis is that computational thinking should be taught not just as essential computing skills but in ways relating it to \"the maker, tinkerer, innovator, problem-solver heritage that exists i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: "Normalisation Process Theory's four domains as an analytic lens for how AAC practices become routine in classrooms"
 description: Normalisation Process Theory (NPT) is the deductive framework this protocol uses to analyse how AAC practices have or have not become routine in classrooms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

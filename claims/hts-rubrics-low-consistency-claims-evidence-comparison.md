@@ -3,7 +3,7 @@ type: claim
 title: Two rubric dimensions (claims and evidence, comparison) showed low inter-scorer consistency in the pilot
 description: Two rubric dimensions (claims and evidence, comparison) showed low inter-scorer consistency in the pilot
 id: hts-rubrics-low-consistency-claims-evidence-comparison
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

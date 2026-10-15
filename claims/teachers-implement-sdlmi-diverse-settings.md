@@ -3,7 +3,7 @@ type: claim
 title: Teachers can implement the Self-Determined Learning Model of Instruction across varied subjects and settings with students having diverse learning needs
 description: Teachers can implement the Self-Determined Learning Model of Instruction across varied subjects and settings with students having diverse learning needs
 id: teachers-implement-sdlmi-diverse-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

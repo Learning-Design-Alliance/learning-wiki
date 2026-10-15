@@ -3,7 +3,7 @@ type: strategy
 id: adaptive-discipline-specific-genai-feedback-solutions
 title: Develop adaptive and discipline-specific GenAI feedback solutions
 description: "The article's forward-looking design recommendation is that future GenAI feedback tools should be adaptive and tailored to disciplines."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

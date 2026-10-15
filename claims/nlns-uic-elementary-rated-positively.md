@@ -3,7 +3,7 @@ type: claim
 title: NLNS and UIC elementary schools rated more positively than non-program principal schools on several measures
 description: NLNS and UIC elementary schools rated more positively than non-program principal schools on several measures
 id: nlns-uic-elementary-rated-positively
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

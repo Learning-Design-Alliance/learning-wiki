@@ -3,7 +3,7 @@ type: element
 id: cer-framework-argumentation-toolkit
 title: Claim-Evidence-Reasoning (CER) framework and The Argumentation Toolkit
 description: "The CER framework (McNeill & Krajcik, 2011) has students \"formulate a claim, provide evidence, and offer reasoning for how the evidence logically connects to their claim\", as instantiated in The Argumentation Toolkit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: activity-system-analysis-as-csl-reflection-tool
 title: Use activity-system analysis (objectives, rules, norms, artifacts, division of labour) as a reflection tool for CSL participants
 description: "The paper recommends that CSL students and other participants use CHAT's analytical tools to reflect on their experiences: analyzing differences in the objectives, rules, norms, mediating artifacts, and division of la..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

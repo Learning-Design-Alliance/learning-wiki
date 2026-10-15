@@ -3,7 +3,7 @@ type: claim
 title: Impacts of the curricula were not statistically significantly larger after schools had one year of experience using them (Cohort 2 fifth graders).
 description: Impacts of the curricula were not statistically significantly larger after schools had one year of experience using them (Cohort 2 fifth graders).
 id: school-experience-did-not-enlarge-curriculum-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

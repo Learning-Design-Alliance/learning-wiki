@@ -3,7 +3,7 @@ type: claim
 title: Correlations between the number of prompt mistakes and number of messages sent were non-significant or weak, giving little evidence that mistake count influenced prompting effort
 description: Correlations between the number of prompt mistakes and number of messages sent were non-significant or weak, giving little evidence that mistake count influenced prompting effort
 id: mistake-count-message-count-weak-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

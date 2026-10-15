@@ -3,7 +3,7 @@ type: claim
 title: CBE shows better engine adaptivity than COLO, especially for extremely low or high achievement students
 description: CBE shows better engine adaptivity than COLO, especially for extremely low or high achievement students
 id: cbe-better-adaptivity-extreme-achievers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

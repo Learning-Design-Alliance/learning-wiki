@@ -3,7 +3,7 @@ type: claim
 title: 68 percent of K–12 districts experienced enrollment declines between 2018–19 and 2023–24 while still operating roughly the same number of schools
 description: 68 percent of K–12 districts experienced enrollment declines between 2018–19 and 2023–24 while still operating roughly the same number of schools
 id: 68-percent-districts-declining-enrollment-same-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

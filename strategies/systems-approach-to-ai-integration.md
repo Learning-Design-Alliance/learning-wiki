@@ -3,7 +3,7 @@ type: strategy
 id: systems-approach-to-ai-integration
 title: Adopt a systems approach to AI integration rather than spotlights or gaps
 description: "The article recommends that education systems move beyond single-issue spotlights (such as bias) or gap-gazing and instead take \"a systematic approach to AI that accounts for each system component.\" Considerations spa..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

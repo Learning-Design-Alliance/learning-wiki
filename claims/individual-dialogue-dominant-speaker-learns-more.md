@@ -3,7 +3,7 @@ type: claim
 title: In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings
 description: In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings
 id: individual-dialogue-dominant-speaker-learns-more
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

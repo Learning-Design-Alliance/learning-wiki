@@ -3,7 +3,7 @@ type: claim
 title: Participants reported that group processing affected their broader university experience and their experiences after university
 description: Participants reported that group processing affected their broader university experience and their experiences after university
 id: group-processing-affects-broader-university-and-post-university-experience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

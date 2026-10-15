@@ -2,7 +2,7 @@
 type: theory
 title: "Ellis's revised interaction hypothesis: noticing, comparison, and integration as the basic acquisitional procedures"
 description: "Ellis proposes that L2 acquisition involves three basic procedures: \"noticing\", \"comparison\", and \"integration\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

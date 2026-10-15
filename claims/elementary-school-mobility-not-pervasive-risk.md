@@ -3,7 +3,7 @@ type: claim
 title: "School mobility during elementary school did not appear to be a pervasive risk for children's functioning, though very high mobility rates could not be studied"
 description: "School mobility during elementary school did not appear to be a pervasive risk for children's functioning, though very high mobility rates could not be studied"
 id: elementary-school-mobility-not-pervasive-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Practice frequency, not cumulative usage time, was strongly associated with posttest presentation performance after controlling for baseline and demographics
 description: Practice frequency, not cumulative usage time, was strongly associated with posttest presentation performance after controlling for baseline and demographics
 id: practice-frequency-predicts-posttest-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

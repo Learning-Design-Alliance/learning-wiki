@@ -3,7 +3,7 @@ type: design
 id: special-r1-framework
 title: "Special-R1: disability-aware pedagogical RL coupling a two-dimensional adaptive prompt with a persona-aware Thinking Reward"
 description: Special-R1 is a framework extending pedagogical multi-turn RL to special education.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

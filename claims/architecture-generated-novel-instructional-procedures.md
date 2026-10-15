@@ -3,7 +3,7 @@ type: claim
 title: The cognitive architecture has been used to design a variety of novel instructional procedures
 description: The cognitive architecture has been used to design a variety of novel instructional procedures
 id: architecture-generated-novel-instructional-procedures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

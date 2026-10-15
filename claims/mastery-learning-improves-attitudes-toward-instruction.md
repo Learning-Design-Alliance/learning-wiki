@@ -3,7 +3,7 @@ type: claim
 title: "Mastery learning improves students' attitudes toward the instruction and toward the subject"
 description: "Students rated the instruction more positively in 16 of 18 studies (mean ES 0.63) and held more positive attitudes toward the subject in 12 of 14 (mean ES 0.40)."
 id: mastery-learning-improves-attitudes-toward-instruction
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13

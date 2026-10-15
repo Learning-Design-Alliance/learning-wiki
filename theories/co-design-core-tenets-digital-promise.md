@@ -2,7 +2,7 @@
 type: theory
 title: Co-design framework with core tenets of power sharing and inclusion, prioritizing relationships, and capability building
 description: "The report defines co-design as \"a process in which different stakeholders come together to find a solution to a shared problem through inclusive research and development,\" bringing together school communities, edtech..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

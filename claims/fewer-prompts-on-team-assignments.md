@@ -3,7 +3,7 @@ type: claim
 title: Students issue fewer prompts on team assignments, a medium-large within-student difference
 description: Students issue fewer prompts on team assignments, a medium-large within-student difference
 id: fewer-prompts-on-team-assignments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

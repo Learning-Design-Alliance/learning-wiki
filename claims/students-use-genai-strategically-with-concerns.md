@@ -3,7 +3,7 @@ type: claim
 title: Journalism students already use GenAI strategically but hold deep concerns about accuracy, originality and disclosure
 description: Journalism students already use GenAI strategically but hold deep concerns about accuracy, originality and disclosure
 id: students-use-genai-strategically-with-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

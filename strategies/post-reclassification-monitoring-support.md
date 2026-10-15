@@ -3,7 +3,7 @@ type: strategy
 id: post-reclassification-monitoring-support
 title: Integrate post-reclassification monitoring and support so students who exit EL status continue receiving integrated support in the general curriculum
 description: The brief recommends integrating post-reclassification monitoring more meaningfully, ensuring that students who exit EL status continue to receive integrated support that helps them thrive in the general curriculum.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

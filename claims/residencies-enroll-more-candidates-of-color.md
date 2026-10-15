@@ -3,7 +3,7 @@ type: claim
 title: Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.
 description: Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.
 id: residencies-enroll-more-candidates-of-color
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

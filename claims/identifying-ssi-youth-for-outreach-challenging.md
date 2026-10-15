@@ -3,7 +3,7 @@ type: claim
 title: Identifying SSI youth for outreach is challenging under the current transition system
 description: Identifying SSI youth for outreach is challenging under the current transition system
 id: identifying-ssi-youth-for-outreach-challenging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

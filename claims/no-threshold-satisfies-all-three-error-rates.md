@@ -3,7 +3,7 @@ type: claim
 title: No detection threshold simultaneously keeps original flag rates, light-edit capture, and AI-pool false negatives low
 description: No detection threshold simultaneously keeps original flag rates, light-edit capture, and AI-pool false negatives low
 id: no-threshold-satisfies-all-three-error-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

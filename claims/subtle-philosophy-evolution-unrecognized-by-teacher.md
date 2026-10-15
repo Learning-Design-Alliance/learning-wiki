@@ -3,7 +3,7 @@ type: claim
 title: "The preservice teacher's philosophical evolution was so subtle that he did not recognize alternative philosophical views of mathematics or perceive his student teaching would have differed without the program"
 description: "The preservice teacher's philosophical evolution was so subtle that he did not recognize alternative philosophical views of mathematics or perceive his student teaching would have differed without the program"
 id: subtle-philosophy-evolution-unrecognized-by-teacher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

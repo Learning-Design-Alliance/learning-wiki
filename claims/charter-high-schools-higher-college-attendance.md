@@ -3,7 +3,7 @@ type: claim
 title: Attending a charter high school is associated with an 8 to 10 percentage point higher likelihood of attending college
 description: Attending a charter high school is associated with an 8 to 10 percentage point higher likelihood of attending college
 id: charter-high-schools-higher-college-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

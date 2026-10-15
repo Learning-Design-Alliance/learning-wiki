@@ -3,7 +3,7 @@ type: claim
 title: A three-college consortium successfully implemented online competency-based programs as planned, meeting most implementation milestones and outcome targets
 description: A three-college consortium successfully implemented online competency-based programs as planned, meeting most implementation milestones and outcome targets
 id: cbe-consortium-implemented-programs-as-planned
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

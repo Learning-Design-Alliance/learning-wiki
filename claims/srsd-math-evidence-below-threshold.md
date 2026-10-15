@@ -3,7 +3,7 @@ type: claim
 title: Single-case design evidence for SRSD on math achievement does not reach the WWC threshold for inclusion in effectiveness ratings
 description: Single-case design evidence for SRSD on math achievement does not reach the WWC threshold for inclusion in effectiveness ratings
 id: srsd-math-evidence-below-threshold
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

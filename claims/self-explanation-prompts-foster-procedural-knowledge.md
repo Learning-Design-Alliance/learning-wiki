@@ -3,7 +3,7 @@ type: claim
 title: Both open and assisting self-explanation prompts foster procedural knowledge when learning with multiple representations, an effect mediated by self-explanations directed to domain principles
 description: Both open and assisting self-explanation prompts foster procedural knowledge when learning with multiple representations, an effect mediated by self-explanations directed to domain principles
 id: self-explanation-prompts-foster-procedural-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

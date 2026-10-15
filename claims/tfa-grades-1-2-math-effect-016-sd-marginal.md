@@ -3,7 +3,7 @@ type: claim
 title: TFA teachers in grades 1 and 2 had a positive effect on math achievement of 0.16 standard deviations that was almost statistically significant (p-value = 0.054)
 description: TFA teachers in grades 1 and 2 had a positive effect on math achievement of 0.16 standard deviations that was almost statistically significant (p-value = 0.054)
 id: tfa-grades-1-2-math-effect-016-sd-marginal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

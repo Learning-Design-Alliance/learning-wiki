@@ -3,7 +3,7 @@ type: claim
 title: Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments
 description: Traditional statistical inference methods may require prohibitively large sample sizes for complex factorial experiments
 id: classical-inference-prohibitive-sample-sizes-factorial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

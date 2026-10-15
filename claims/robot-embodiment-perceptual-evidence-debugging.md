@@ -3,7 +3,7 @@ type: claim
 title: "Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking"
 description: "Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking"
 id: robot-embodiment-perceptual-evidence-debugging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

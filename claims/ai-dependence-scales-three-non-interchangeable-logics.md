@@ -3,7 +3,7 @@ type: claim
 title: Available AI-dependence and attachment instruments follow three non-interchangeable measurement logics and do not converge on one stable construct
 description: Available AI-dependence and attachment instruments follow three non-interchangeable measurement logics and do not converge on one stable construct
 id: ai-dependence-scales-three-non-interchangeable-logics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

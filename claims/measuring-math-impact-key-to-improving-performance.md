@@ -3,7 +3,7 @@ type: claim
 title: "Measuring the impact of math instruction and interventions is key to improving students' overall math performance"
 description: "Measuring the impact of math instruction and interventions is key to improving students' overall math performance"
 id: measuring-math-impact-key-to-improving-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

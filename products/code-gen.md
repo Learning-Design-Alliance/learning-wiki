@@ -4,7 +4,7 @@ id: code-gen
 title: CODE-GEN
 description: CODE-GEN is a retrieval-augmented, dual-agent educational AI system developed by Xiaojing Duan et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

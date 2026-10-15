@@ -3,7 +3,7 @@ type: claim
 title: 1st graders in Amplify Science intervention classrooms performed similarly to comparison classrooms on a standardized reading assessment (effect size below 0.01)
 description: 1st graders in Amplify Science intervention classrooms performed similarly to comparison classrooms on a standardized reading assessment (effect size below 0.01)
 id: amplify-science-no-reading-assessment-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: three-open-ended-survey-questions-assessing-ct-practices-in-physics-contexts
 title: Three open-ended survey questions assessing CT practices in physics contexts
 description: A three-question open-ended survey instrument developed by Sean Savage et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

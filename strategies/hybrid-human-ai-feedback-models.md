@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-human-ai-feedback-models
 title: "Use hybrid human–AI feedback models that combine AI's and instructors' complementary strengths"
 description: "The authors propose hybrid feedback models enabling human–AI collaboration in feedback provision, described as \"a promising avenue for a scalable yet effective feedback practice.\" Two approaches are outlined: AI provi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

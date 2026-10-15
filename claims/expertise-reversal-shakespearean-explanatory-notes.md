@@ -3,7 +3,7 @@ type: claim
 title: Embedded explanatory notes improved Shakespearean text comprehension for novice readers but reversed for experts
 description: Embedded explanatory notes improved Shakespearean text comprehension for novice readers but reversed for experts
 id: expertise-reversal-shakespearean-explanatory-notes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

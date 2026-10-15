@@ -3,7 +3,7 @@ type: claim
 title: Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation
 description: Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation
 id: cte-students-college-coursework-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

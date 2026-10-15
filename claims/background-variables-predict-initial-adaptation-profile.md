@@ -3,7 +3,7 @@ type: claim
 title: Higher self-rated Japanese proficiency, more frequent AI use, and prior AI-related training predicted membership in the positive versus maladaptive adaptation profile at Time 1
 description: Higher self-rated Japanese proficiency, more frequent AI use, and prior AI-related training predicted membership in the positive versus maladaptive adaptation profile at Time 1
 id: background-variables-predict-initial-adaptation-profile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

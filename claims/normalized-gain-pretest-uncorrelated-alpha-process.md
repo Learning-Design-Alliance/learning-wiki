@@ -3,7 +3,7 @@ type: claim
 title: Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score
 description: Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score
 id: normalized-gain-pretest-uncorrelated-alpha-process
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

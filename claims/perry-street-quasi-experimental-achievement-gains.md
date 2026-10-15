@@ -3,7 +3,7 @@ type: claim
 title: A quasi-experimental evaluation found Perry Street students improved significantly more during turnaround than they would have at other traditional or charter schools
 description: A quasi-experimental evaluation found Perry Street students improved significantly more during turnaround than they would have at other traditional or charter schools
 id: perry-street-quasi-experimental-achievement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: planetary-health-climate-resilient-health-systems-course
 title: Planetary Health and Climate Resilient Health Systems course
 description: An interdisciplinary and international 6-week course at the intersection of global and planetary health, climate change, and health systems transformation, built by the EWUU alliance (TU/e, WUR, UU, UMCU) with St.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

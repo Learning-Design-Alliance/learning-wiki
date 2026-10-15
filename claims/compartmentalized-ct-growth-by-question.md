@@ -3,7 +3,7 @@ type: claim
 title: "Growth is compartmentalized by question: on the code-tracing prompt students grew in procedural code tracing while physics correctness improved only slightly"
 description: "Growth is compartmentalized by question: on the code-tracing prompt students grew in procedural code tracing while physics correctness improved only slightly"
 id: compartmentalized-ct-growth-by-question
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

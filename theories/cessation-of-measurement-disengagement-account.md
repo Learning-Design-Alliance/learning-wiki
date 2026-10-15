@@ -2,7 +2,7 @@
 type: theory
 title: Cessation-of-measurement account of test-taking disengagement identified via response time
 description: The chapter advances an account in which disengaged test taking is understood as a momentary cessation of measurement that can be identified using response time.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes
 description: Feedback is more effective for cognitive and physical outcomes than for motivational and behavioral outcomes
 id: feedback-outcome-measure-moderator-cognitive-physical
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: strategy
 id: adjust-task-design-pacing-scaffolding-ai-fatigue-points
 title: Use the AI Fatigue Model to adjust task design, pacing, and scaffolding at points where AI-related pressure is likely to increase
 description: "The article recommends that educators use the stage-based model diagnostically: identify points in the academic task cycle where cognitive or motivational pressure is likely to increase, then adjust task design, pacin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

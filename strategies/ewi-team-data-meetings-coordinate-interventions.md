@@ -3,7 +3,7 @@ type: strategy
 id: ewi-team-data-meetings-coordinate-interventions
 title: Run regular teacher-team data meetings around student-level indicator reports to identify struggling students, assign interventions, and coordinate support
 description: The report describes teacher and school staff teams that meet regularly around student-level indicator data as the operational core of early warning work.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Districts report severe substitute teacher shortages during the pandemic, straining remaining teachers who must cover absent colleagues' classes"
 description: "Districts report severe substitute teacher shortages during the pandemic, straining remaining teachers who must cover absent colleagues' classes"
 id: pandemic-substitute-teacher-shortage-strain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

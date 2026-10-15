@@ -3,7 +3,7 @@ type: claim
 title: Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate
 description: Most students needing Algebra I credit recovery failed multiple ninth-grade courses and few were on track to graduate
 id: algebra-failers-failed-multiple-courses-off-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

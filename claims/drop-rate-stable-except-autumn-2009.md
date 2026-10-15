@@ -3,7 +3,7 @@ type: claim
 title: Drop rates did not vary with course structure except for an increase in the final high-enrollment quarter
 description: Drop rates did not vary with course structure except for an increase in the final high-enrollment quarter
 id: drop-rate-stable-except-autumn-2009
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

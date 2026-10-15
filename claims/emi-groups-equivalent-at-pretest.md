@@ -3,7 +3,7 @@ type: claim
 title: Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness
 description: Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness
 id: emi-groups-equivalent-at-pretest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

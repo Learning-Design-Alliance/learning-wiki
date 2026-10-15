@@ -4,7 +4,7 @@ title: Consortium-wide, 35 percent of participants completed a grant-funded prog
 description: Consortium-wide, 35 percent of participants completed a grant-funded program of study, with high employment rates and wage growth above the national average
 id: cbe-participants-completion-employment-wages
 aliases: [cbe-consortium-35-percent-completion-high-employment-wage-growth, taaccct-cbe-35-percent-program-completion, taaccct-cbe-employment-wages-growth]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

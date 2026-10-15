@@ -3,7 +3,7 @@ type: claim
 title: Both included studies report high-fidelity implementation of eMINTS
 description: Both included studies report high-fidelity implementation of eMINTS
 id: emints-high-fidelity-implementation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: refocus-peer-feedback-and-exemplars-for-feedback-literacy
 title: Re-focus peer feedback and exemplar analysis as core curriculum activities with coaching and dialogue
 description: The article recommends making peer feedback and exemplar analysis core curriculum elements, re-focused explicitly towards developing feedback literacy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

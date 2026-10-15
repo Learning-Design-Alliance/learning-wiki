@@ -3,7 +3,7 @@ type: claim
 title: Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge
 description: Higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge
 id: extraneous-load-predicts-lower-post-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

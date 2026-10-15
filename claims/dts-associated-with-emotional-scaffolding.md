@@ -3,7 +3,7 @@ type: claim
 title: "Dialectical thinking support is positively associated with teachers' emotional scaffolding, reported for the first time"
 description: "Dialectical thinking support is positively associated with teachers' emotional scaffolding, reported for the first time"
 id: dts-associated-with-emotional-scaffolding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

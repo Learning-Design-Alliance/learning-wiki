@@ -3,7 +3,7 @@ type: claim
 title: AI-based proctoring systems trained on western behavioural norms may exacerbate cultural and social challenges in non-English-speaking regions
 description: AI-based proctoring systems trained on western behavioural norms may exacerbate cultural and social challenges in non-English-speaking regions
 id: ai-proctoring-western-norms-cultural-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

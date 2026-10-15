@@ -3,7 +3,7 @@ type: strategy
 id: strategy-instruction-at-ge5-vocabulary-mass
 title: Begin explicit strategy instruction once learners reach a reading age of GE 5 with a critical vocabulary mass in place
 description: "The article recommends timing reading and learning strategies instruction to the learner's vocabulary development: strategies become acquirable once fluent reading is possible."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

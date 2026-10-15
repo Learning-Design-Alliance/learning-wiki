@@ -3,7 +3,7 @@ type: claim
 title: SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children
 description: SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children
 id: swpbis-reduces-counseling-services
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

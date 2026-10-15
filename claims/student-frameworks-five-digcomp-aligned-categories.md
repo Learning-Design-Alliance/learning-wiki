@@ -3,7 +3,7 @@ type: claim
 title: Student-focused digital literacy frameworks most frequently emphasize five DigComp-aligned element categories, led by information and data literacy
 description: Student-focused digital literacy frameworks most frequently emphasize five DigComp-aligned element categories, led by information and data literacy
 id: student-frameworks-five-digcomp-aligned-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

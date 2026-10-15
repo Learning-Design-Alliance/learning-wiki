@@ -3,7 +3,7 @@ type: design
 id: exploratory-hands-on-career-exploration-pattern
 title: "Exploratory laboratory program pattern: hands-on experiences leading to tentative career decisions"
 description: A course-level pattern in which middle school students explore career fields through varied experiential modes before selecting secondary programs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

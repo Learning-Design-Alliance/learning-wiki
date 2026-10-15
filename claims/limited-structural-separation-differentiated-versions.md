@@ -3,7 +3,7 @@ type: claim
 title: Differentiated-AI EAP versions showed limited passage-level structural separation, with automated complexity metrics failing to classify intended proficiency labels
 description: Differentiated-AI EAP versions showed limited passage-level structural separation, with automated complexity metrics failing to classify intended proficiency labels
 id: limited-structural-separation-differentiated-versions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

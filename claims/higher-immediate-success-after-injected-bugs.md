@@ -3,7 +3,7 @@ type: claim
 title: Immediate success rates are higher after injected bugs than after natural bugs
 description: Immediate success rates are higher after injected bugs than after natural bugs
 id: higher-immediate-success-after-injected-bugs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

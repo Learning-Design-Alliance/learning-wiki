@@ -3,7 +3,7 @@ type: claim
 title: Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)
 description: Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)
 id: sm-effects-not-moderated-intervention-characteristics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

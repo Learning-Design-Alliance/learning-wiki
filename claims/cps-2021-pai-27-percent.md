@@ -3,7 +3,7 @@ type: claim
 title: "The 2021 Post-secondary Attainment Index for CPS ninth-graders is 27.0%, essentially unchanged from 2020"
 description: "The 2021 Post-secondary Attainment Index for CPS ninth-graders is 27.0%, essentially unchanged from 2020"
 id: cps-2021-pai-27-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

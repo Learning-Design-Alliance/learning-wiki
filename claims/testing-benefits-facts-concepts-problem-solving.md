@@ -3,7 +3,7 @@ type: claim
 title: Classroom testing benefits facts (g = 0.524), concept learning (g = 0.644), and knowledge application in problem solving (g = 0.453).
 description: Classroom testing benefits facts (g = 0.524), concept learning (g = 0.644), and knowledge application in problem solving (g = 0.453).
 id: testing-benefits-facts-concepts-problem-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

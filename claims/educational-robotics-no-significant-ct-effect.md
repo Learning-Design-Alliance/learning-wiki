@@ -3,7 +3,7 @@ type: claim
 title: "Educational robotics shows no significant effect on students' computational thinking in STEM education"
 description: "Educational robotics shows no significant effect on students' computational thinking in STEM education"
 id: educational-robotics-no-significant-ct-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

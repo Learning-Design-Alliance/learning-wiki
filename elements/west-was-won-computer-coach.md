@@ -3,7 +3,7 @@ type: element
 id: west-was-won-computer-coach
 title: "The West Was Won computer coach: observing student game play and intervening with hints at critical moments"
 description: "Burton and Brown's (1982) coach for the Plato arithmetic game \"How the West Was Won\" observes students as they play and gives hints or advice at critical moments."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: design
 id: prompt-literacy-cycle
 title: "Prompt Literacy Cycle: a five-stage recursive structure for daily prompting practice"
 description: The Prompt Literacy Cycle is the instructional tool nested within Phase Two of the framework, giving students a concrete, repeatable structure for developing prompt literacy at the level of daily practice.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

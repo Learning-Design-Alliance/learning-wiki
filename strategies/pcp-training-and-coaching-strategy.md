@@ -3,7 +3,7 @@ type: strategy
 id: pcp-training-and-coaching-strategy
 title: Implement PCP with initial 3-hour training plus semester follow-up sessions and onsite coaching
 description: "The recommended professional development model for PCP is \"Initial 3-hour training with follow up one-hour questions and answer sessions during each semester along with onsite coaching\", with the minimum being the 3-h..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

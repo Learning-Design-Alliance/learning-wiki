@@ -3,7 +3,7 @@ type: claim
 title: Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest
 description: Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest
 id: agentic-ai-invalidates-three-ai-literacy-assumptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

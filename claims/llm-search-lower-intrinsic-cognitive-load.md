@@ -3,7 +3,7 @@ type: claim
 title: Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task
 description: Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task
 id: llm-search-lower-intrinsic-cognitive-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

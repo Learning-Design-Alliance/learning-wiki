@@ -4,7 +4,7 @@ id: dreambox-math
 title: DreamBox Math
 description: "DreamBox Learning's adaptive online mathematics program for K–8 learners, designed to supplement classroom instruction through personalized, standards-aligned practice and instruction."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

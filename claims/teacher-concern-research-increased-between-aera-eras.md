@@ -3,7 +3,7 @@ type: claim
 title: "Research on five of six teacher-identified concerns increased between AERA's 2005–2014 and 2022–2025 conference eras, led by mental health (+670%) and technology/AI (+145%)"
 description: "Research on five of six teacher-identified concerns increased between AERA's 2005–2014 and 2022–2025 conference eras, led by mental health (+670%) and technology/AI (+145%)"
 id: teacher-concern-research-increased-between-aera-eras
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

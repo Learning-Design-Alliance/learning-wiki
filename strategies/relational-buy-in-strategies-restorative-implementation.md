@@ -3,7 +3,7 @@ type: strategy
 id: relational-buy-in-strategies-restorative-implementation
 title: "Build authentic stakeholder buy-in through relational strategies: show don't tell, slow down to speed up, engage resistors, and asset framing"
 description: "The brief recommends concrete relational strategies for leaders seeking buy-in for restorative practices: letting stakeholders experience practices firsthand ('show, don't tell'), making intentional time for relations..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: School entry age as a determinant of early-grade academic growth trajectories
 description: The article frames school entry age as a factor shaping academic growth through second grade, rather than only initial achievement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

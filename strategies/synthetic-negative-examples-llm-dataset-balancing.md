@@ -3,7 +3,7 @@ type: strategy
 id: synthetic-negative-examples-llm-dataset-balancing
 title: Generate synthetic negative explanations with a small language model to balance imbalanced educational scoring datasets
 description: To address class imbalance without oversampling techniques that require numerical features, the authors prompted a small language model (GPT-OSS 20b, chosen because it differs from the assessment model) to generate th...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

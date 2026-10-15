@@ -3,7 +3,7 @@ type: claim
 title: Collaborative conjecture map construction surfaced a tension between nuanced learning theory and limited technical capability
 description: Collaborative conjecture map construction surfaced a tension between nuanced learning theory and limited technical capability
 id: conjecture-map-surfaces-theory-technical-tension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

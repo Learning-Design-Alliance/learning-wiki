@@ -3,7 +3,7 @@ type: claim
 title: "87% of K-12 teachers ceased meaningful AI agent creation within three weeks of completing a two-day professional development workshop"
 description: "87% of K-12 teachers ceased meaningful AI agent creation within three weeks of completing a two-day professional development workshop"
 id: 87-percent-teachers-cease-ai-agent-creation-three-weeks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

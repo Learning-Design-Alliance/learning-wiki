@@ -3,7 +3,7 @@ type: claim
 title: "University of Houston residency completers retain in teaching at rates above state averages (93% after year one; 3- and 5-year retention 10 and 7 points above state averages for the 2019 cohort)"
 description: "University of Houston residency completers retain in teaching at rates above state averages (93% after year one; 3- and 5-year retention 10 and 7 points above state averages for the 2019 cohort)"
 id: uh-residency-completers-retention-above-state-average
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

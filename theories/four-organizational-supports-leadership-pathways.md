@@ -2,7 +2,7 @@
 type: theory
 title: Four organizational supports mediating leadership effects on instruction and learning
 description: The article organizes school leadership effects through the Bryk et al.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

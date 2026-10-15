@@ -3,7 +3,7 @@ type: claim
 title: Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit
 description: Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit
 id: personalization-improves-easy-kc-accuracy-algebra-its
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

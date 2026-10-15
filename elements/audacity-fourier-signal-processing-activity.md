@@ -3,7 +3,7 @@ type: element
 id: audacity-fourier-signal-processing-activity
 title: Audacity-based Fourier analysis activity for teaching signal processing in an authentic context
 description: A classroom activity in which students used Audacity, an open-source audio editing program, to generate tone and noise spectra, combine them, and perform a Fourier transform.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

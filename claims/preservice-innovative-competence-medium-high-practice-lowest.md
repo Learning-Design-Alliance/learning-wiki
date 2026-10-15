@@ -3,7 +3,7 @@ type: claim
 title: "Pre-service teachers' innovative competence is at a medium-to-high level, with innovation practice the lowest subdimension"
 description: "Pre-service teachers' innovative competence is at a medium-to-high level, with innovation practice the lowest subdimension"
 id: preservice-innovative-competence-medium-high-practice-lowest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

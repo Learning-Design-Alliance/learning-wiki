@@ -3,7 +3,7 @@ type: claim
 title: "The ESL curriculum within Bangladesh's CLT framework overlooks explicit pronunciation instruction, ignoring speaking and listening skills"
 description: "The ESL curriculum within Bangladesh's CLT framework overlooks explicit pronunciation instruction, ignoring speaking and listening skills"
 id: clt-curriculum-overlooks-explicit-pronunciation-bangladesh
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

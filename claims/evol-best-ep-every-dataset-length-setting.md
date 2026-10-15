@@ -3,7 +3,7 @@ type: claim
 title: Under deployment-free inference, at least one EVOL variant achieves the best test EP in every dataset–length setting across three datasets and eight baselines
 description: Under deployment-free inference, at least one EVOL variant achieves the best test EP in every dataset–length setting across three datasets and eight baselines
 id: evol-best-ep-every-dataset-length-setting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

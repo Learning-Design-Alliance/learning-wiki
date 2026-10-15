@@ -3,7 +3,7 @@ type: strategy
 id: lightweight-ai-fallibility-transparency-cues
 title: Use lightweight transparency cues about AI fallibility to encourage more cautious, help-seeking interaction strategies
 description: "The article recommends carefully designing how uncertainty is communicated in AI-supported learning environments, concluding that \"even minimal transparency cues about AI fallibility can meaningfully shape learners' i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

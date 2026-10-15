@@ -3,7 +3,7 @@ type: claim
 title: "Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform"
 description: "Philadelphia's 2012-2013 discipline reform produced a modest decline in suspensions for nonviolent infractions in the year of reform"
 id: philadelphia-reform-modest-decline-nonviolent-suspensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

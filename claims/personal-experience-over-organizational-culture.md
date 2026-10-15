@@ -3,7 +3,7 @@ type: claim
 title: "Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors"
 description: "Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors"
 id: personal-experience-over-organizational-culture
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

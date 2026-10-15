@@ -3,7 +3,7 @@ type: claim
 title: "Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)"
 description: "Revised post-teaching prompts (RPTAA) advanced candidates' capacity for more sophisticated analysis compared with the original prompts (PTAA)"
 id: revised-prompts-advance-sophisticated-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

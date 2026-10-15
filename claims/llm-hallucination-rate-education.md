@@ -3,7 +3,7 @@ type: claim
 title: "LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs"
 description: "LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs"
 id: llm-hallucination-rate-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

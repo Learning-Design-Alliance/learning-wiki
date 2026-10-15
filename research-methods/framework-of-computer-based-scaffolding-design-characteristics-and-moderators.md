@@ -3,7 +3,7 @@ type: research-method
 id: framework-of-computer-based-scaffolding-design-characteristics-and-moderators
 title: Framework of computer-based scaffolding design characteristics and moderators
 description: "The article organizes computer-based scaffolding research along several coded dimensions: context of use (problem-based, case-based, design-based, project-based, inquiry-based, modeling/visualization, problem solving), scaffolding change (none, fading, adding, fading/adding), scaffolding logic (none"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-13

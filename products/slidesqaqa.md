@@ -4,7 +4,7 @@ id: slidesqaqa
 title: slidesqaqa
 description: slidesqaqa is a Flask-based application that uses document extraction and multimodal LLM inference to analyze PDF presentation slides and generate hierarchical topics, slide-role classifications, learning goals, and context-aware comprehension questions.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

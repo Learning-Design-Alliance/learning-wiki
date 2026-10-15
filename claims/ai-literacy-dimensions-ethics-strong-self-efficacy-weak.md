@@ -3,7 +3,7 @@ type: claim
 title: Self-reported AI literacy was strongest in ethics and evaluation and weakest in self-efficacy, indicating uncertainty in applying AI to complex tasks
 description: Self-reported AI literacy was strongest in ethics and evaluation and weakest in self-efficacy, indicating uncertainty in applying AI to complex tasks
 id: ai-literacy-dimensions-ethics-strong-self-efficacy-weak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "An engagement-optimized RL tutor exhibits reward hacking, achieving the highest cumulative reward while producing minimal learning and a 70.8% behavioral-safety violation rate"
 description: "An engagement-optimized RL tutor exhibits reward hacking, achieving the highest cumulative reward while producing minimal learning and a 70.8% behavioral-safety violation rate"
 id: engagement-optimized-rl-tutor-reward-hacking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

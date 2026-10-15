@@ -4,7 +4,7 @@ id: rubric-aligned-concept-annotated-grading-benchmarks-rec-cbm
 title: Rubric-aligned concept-annotated grading benchmarks (REC-CBM)
 description: REC-CBM is a research dataset release that adds rubric-aligned, expert-validated concept annotations to the Mohler, ASAP 2.0, and MOCHA open-ended response-grading benchmarks for interpretable automated grading research.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

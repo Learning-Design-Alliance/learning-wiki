@@ -2,7 +2,7 @@
 type: theory
 title: Law-related education defined as citizenship education for a constitutional democracy
 description: The digest defines LRE as education for citizenship rather than specialized legal training.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving
 description: ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving
 id: chatgpt-steam-ibl-learner-advantages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Student test effort differs substantially across student gender and racial subgroups
 description: Student test effort differs substantially across student gender and racial subgroups
 id: test-effort-differs-across-gender-racial-subgroups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects"
 description: "Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects"
 id: empirical-support-zimmerman-srl-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

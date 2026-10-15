@@ -3,7 +3,7 @@ type: strategy
 id: spider-structured-aac-search-strategy
 title: Use SPIDER to structure inclusion criteria and search strings for a qualitative evidence synthesis of AAC in education
 description: The protocol operationalises its scope with the SPIDER tool (Sample, Phenomenon of Interest, Design, Evaluation, Research type).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: embed-tutoring-in-school-day-with-existing-staff
 title: Embed supplemental one-on-one tutoring within the school day using existing school support staff
 description: Rather than hiring external tutors or adding after-school programming, the Once program embeds daily 15-minute one-on-one tutoring into the school day using existing elementary school support staff such as paraprofess...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

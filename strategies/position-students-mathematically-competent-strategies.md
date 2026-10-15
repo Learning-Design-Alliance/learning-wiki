@@ -3,7 +3,7 @@ type: strategy
 id: position-students-mathematically-competent-strategies
 title: Position students as mathematically competent and build collaborative peer relationships to foster mathematics belonging
 description: "The report recommends teacher practices that foster social and mathematics belonging: positioning students as mathematically competent by highlighting the value of contributions and inviting students to justify thinki..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

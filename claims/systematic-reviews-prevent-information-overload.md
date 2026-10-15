@@ -3,7 +3,7 @@ type: claim
 title: Systematic reviews are designed to answer a question and prevent information overload for decision makers
 description: Systematic reviews are designed to answer a question and prevent information overload for decision makers
 id: systematic-reviews-prevent-information-overload
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

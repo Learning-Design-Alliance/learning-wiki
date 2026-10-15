@@ -3,7 +3,7 @@ type: strategy
 id: nsf-for-online-office-hours-scheduling
 title: Use New Student First scheduling for online office hours queues and FCFS for in-person queues
 description: "An implementable queue-management recipe derived from the simulation findings: instructors hosting online office hours should prioritize students who have not yet received help that day (NSF), falling back to FCFS whe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

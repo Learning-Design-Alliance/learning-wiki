@@ -3,7 +3,7 @@ type: claim
 title: "University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use"
 description: "University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use"
 id: student-ai-engagement-clusters-two-extremes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

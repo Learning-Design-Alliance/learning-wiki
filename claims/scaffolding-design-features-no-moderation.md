@@ -3,7 +3,7 @@ type: claim
 title: "Scaffolding's effect did not vary by customization (fading/adding), change logic, or scope, and motivation scaffolds alone showed no significant effect"
 description: "Scaffolding's effect did not vary by customization (fading/adding), change logic, or scope, and motivation scaffolds alone showed no significant effect"
 id: scaffolding-design-features-no-moderation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

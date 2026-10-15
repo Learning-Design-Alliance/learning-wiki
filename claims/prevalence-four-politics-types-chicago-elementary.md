@@ -3,7 +3,7 @@ type: claim
 title: "An estimated 39-46% of Chicago elementary schools show consolidated principal power while 23-32% show strong democracy"
 description: "An estimated 39-46% of Chicago elementary schools show consolidated principal power while 23-32% show strong democracy"
 id: prevalence-four-politics-types-chicago-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

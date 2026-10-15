@@ -3,7 +3,7 @@ type: claim
 title: Frequency of AI use predicts AI feedback preference, while comfort with technology and frequency of human feedback predict relative preference for AI over human grading
 description: Frequency of AI use predicts AI feedback preference, while comfort with technology and frequency of human feedback predict relative preference for AI over human grading
 id: regression-predictors-of-ai-assessment-preferences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

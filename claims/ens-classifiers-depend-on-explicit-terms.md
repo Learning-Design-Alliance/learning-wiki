@@ -3,7 +3,7 @@ type: claim
 title: Conventional classifiers and MentalBERT depend heavily on explicit mental health terms in Expressive Narrative Stories, while BERT(128) maintains robust accuracy without keyword cues
 description: Conventional classifiers and MentalBERT depend heavily on explicit mental health terms in Expressive Narrative Stories, while BERT(128) maintains robust accuracy without keyword cues
 id: ens-classifiers-depend-on-explicit-terms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Survey item sensitivity determines the parental permission pathway, from full waiver to active opt-in
 description: Survey item sensitivity determines the parental permission pathway, from full waiver to active opt-in
 id: survey-sensitivity-drives-parental-permission
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

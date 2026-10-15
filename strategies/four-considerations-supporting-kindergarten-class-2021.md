@@ -3,7 +3,7 @@ type: strategy
 id: four-considerations-supporting-kindergarten-class-2021
 title: District, school, and classroom leaders should apply four timely considerations to support kindergarten students entering school after COVID-19 enrollment disruptions
 description: The brief offers district, school, and classroom leaders a set of four considerations for supporting the kindergarten class of 2021, whose enrollment was affected by the COVID-19 pandemic.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

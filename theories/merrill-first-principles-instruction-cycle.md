@@ -2,7 +2,7 @@
 type: theory
 title: "First principles of instruction: a cycle of activation, demonstration, application, and integration in the context of real-world tasks"
 description: "The article builds on previously identified first principles of instruction, which \"describe a cycle of instructional phases consisting of activation, demonstration, application, and integration all in the context of..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

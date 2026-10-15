@@ -3,7 +3,7 @@ type: claim
 title: "The framework's first Goal I program goal is helping students understand interdisciplinary concepts through studies of human experience, with the remaining goals implicit in the illustrative objectives"
 description: "The framework's first Goal I program goal is helping students understand interdisciplinary concepts through studies of human experience, with the remaining goals implicit in the illustrative objectives"
 id: goal-i-program-goals-explication
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

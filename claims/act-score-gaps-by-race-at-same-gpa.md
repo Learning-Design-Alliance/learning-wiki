@@ -3,7 +3,7 @@ type: claim
 title: Among students with the same high grades, ACT scores differ substantially by race/ethnicity, a pattern the report flags as possible racial bias
 description: Among students with the same high grades, ACT scores differ substantially by race/ethnicity, a pattern the report flags as possible racial bias
 id: act-score-gaps-by-race-at-same-gpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

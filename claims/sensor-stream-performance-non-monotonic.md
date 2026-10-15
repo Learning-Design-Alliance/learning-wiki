@@ -3,7 +3,7 @@ type: claim
 title: Predictive performance of sensor configurations does not change monotonically with the number of sensing streams; preferred configuration depends on target metric and sensing cost
 description: Predictive performance of sensor configurations does not change monotonically with the number of sensing streams; preferred configuration depends on target metric and sensing cost
 id: sensor-stream-performance-non-monotonic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

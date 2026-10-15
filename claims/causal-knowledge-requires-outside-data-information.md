@@ -3,7 +3,7 @@ type: claim
 title: Causal knowledge cannot be derived from data analysis alone but requires outside information about the data-generation process
 description: Causal knowledge cannot be derived from data analysis alone but requires outside information about the data-generation process
 id: causal-knowledge-requires-outside-data-information
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

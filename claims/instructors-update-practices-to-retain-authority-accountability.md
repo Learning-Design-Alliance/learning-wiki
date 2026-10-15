@@ -3,7 +3,7 @@ type: claim
 title: Under GenAI power dynamics, many instructors updated teaching practices to retain authority and promote student accountability
 description: Under GenAI power dynamics, many instructors updated teaching practices to retain authority and promote student accountability
 id: instructors-update-practices-to-retain-authority-accountability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

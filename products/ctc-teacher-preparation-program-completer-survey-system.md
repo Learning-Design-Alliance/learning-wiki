@@ -4,7 +4,7 @@ id: ctc-teacher-preparation-program-completer-survey-system
 title: CTC teacher preparation program completer survey system
 description: "A statewide survey system run by the California Commission on Teacher Credentialing that collects California teacher-preparation completers' perceptions of preparedness and clinical training to support accreditation and program improvement."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

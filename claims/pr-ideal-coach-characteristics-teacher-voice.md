@@ -3,7 +3,7 @@ type: claim
 title: Teachers described an ideal technology coach as prepared, patient, observant, and using current research-based methods
 description: Teachers described an ideal technology coach as prepared, patient, observant, and using current research-based methods
 id: pr-ideal-coach-characteristics-teacher-voice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

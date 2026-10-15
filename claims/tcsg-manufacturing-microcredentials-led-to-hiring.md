@@ -3,7 +3,7 @@ type: claim
 title: In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice
 description: In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice
 id: tcsg-manufacturing-microcredentials-led-to-hiring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

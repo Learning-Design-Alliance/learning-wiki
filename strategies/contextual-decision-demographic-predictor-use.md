@@ -3,7 +3,7 @@ type: strategy
 id: contextual-decision-demographic-predictor-use
 title: "Decide whether to use demographic predictors case-by-case based on context: risk of discriminatory decision-making, who holds final choice, and stakes"
 description: The article offers a contextual decision framework rather than a blanket rule.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Immediate task success does not establish learning that persists without AI support
 description: Immediate task success does not establish learning that persists without AI support
 id: immediate-performance-not-evidence-of-independent-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

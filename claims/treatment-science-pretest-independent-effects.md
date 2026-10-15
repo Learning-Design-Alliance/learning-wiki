@@ -3,7 +3,7 @@ type: claim
 title: Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions
 description: Multimedia treatment, prior science level, and unit pre-test level each independently influence electricity achievement, with no significant two-way or three-way interactions
 id: treatment-science-pretest-independent-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

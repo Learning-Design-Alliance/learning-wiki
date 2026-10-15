@@ -3,7 +3,7 @@ type: design
 id: sustain-shcs-county-base-alongside-billing-initiatives
 title: Sustain school health centers with continued county operational funding alongside new billing initiatives
 description: "The report concludes that new billing revenues cannot by themselves sustain school health centers: \"New funding through the CYBHI's Fee Schedule and CalAIM's ECM benefit do not offer an obvious pathway to replace the..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

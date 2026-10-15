@@ -3,7 +3,7 @@ type: strategy
 id: journeys-pd-training-coaching
 title: Brief initial training plus follow-up courses and coaching for program implementation
 description: "The professional development model for Journeys begins with a \"Getting Started\" course focused on the vision of the program, use of the materials, and implementation of the key components."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

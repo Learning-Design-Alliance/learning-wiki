@@ -3,7 +3,7 @@ type: claim
 title: Students often do not know which questions to ask about college until it is too late, and want colleges to anticipate their information needs
 description: Students often do not know which questions to ask about college until it is too late, and want colleges to anticipate their information needs
 id: students-unknow-questions-until-too-late
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

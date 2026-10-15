@@ -3,7 +3,7 @@ type: claim
 title: The authors report five twenty-minute screenshare sessions can surface more actionable design insights than a 100-person survey
 description: The authors report five twenty-minute screenshare sessions can surface more actionable design insights than a 100-person survey
 id: five-screenshare-sessions-beat-large-survey
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

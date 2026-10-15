@@ -3,7 +3,7 @@ type: claim
 title: "Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy"
 description: "Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy"
 id: perceived-ai-literacy-buffers-direct-trust-association
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

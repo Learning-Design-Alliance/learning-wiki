@@ -3,7 +3,7 @@ type: strategy
 id: agentic-ai-education-future-priorities
 title: Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research
 description: "Drawing on the converging gaps across the reviewed literature, the review recommends that future work pursue \"longitudinal and real-world validation, stronger pedagogical grounding, more governed adoption of emerging..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

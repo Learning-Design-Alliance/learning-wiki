@@ -3,7 +3,7 @@ type: claim
 title: "Leadership coaching partnerships and instructional leadership team collaboration increased schools' capacity to use survey data"
 description: "Leadership coaching partnerships and instructional leadership team collaboration increased schools' capacity to use survey data"
 id: coaching-and-team-collaboration-support-data-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Chicago Public Schools improved dramatically between 1987 and 2017, with the biggest gains among students of color and low-income students
 description: Chicago Public Schools improved dramatically between 1987 and 2017, with the biggest gains among students of color and low-income students
 id: cps-decades-improvement-equitable-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

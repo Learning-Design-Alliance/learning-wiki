@@ -3,7 +3,7 @@ type: claim
 title: Students segregated into language cliques whenever allowed to choose peer interactions, despite the 50-50 enrollment design
 description: Students segregated into language cliques whenever allowed to choose peer interactions, despite the 50-50 enrollment design
 id: language-clique-segregation-peer-choice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

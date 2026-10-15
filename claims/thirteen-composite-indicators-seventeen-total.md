@@ -3,7 +3,7 @@ type: claim
 title: Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators
 description: Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators
 id: thirteen-composite-indicators-seventeen-total
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

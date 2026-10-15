@@ -3,7 +3,7 @@ type: claim
 title: Information risk perception is negatively associated with psychological and emotional support, daily life, and leisure and entertainment benefits
 description: Information risk perception is negatively associated with psychological and emotional support, daily life, and leisure and entertainment benefits
 id: information-risk-negative-emotional-daily-leisure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

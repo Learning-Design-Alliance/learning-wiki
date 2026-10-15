@@ -3,7 +3,7 @@ type: claim
 title: Prior residency experience of vetted EPPs and high district engagement enabled TCLAS uptake
 description: Prior residency experience of vetted EPPs and high district engagement enabled TCLAS uptake
 id: prior-experience-and-district-engagement-uptake
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

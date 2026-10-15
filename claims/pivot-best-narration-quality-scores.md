@@ -3,7 +3,7 @@ type: claim
 title: PIVOT achieves the best automatic narration-quality scores on Accuracy and Logical Flow dimensions
 description: PIVOT achieves the best automatic narration-quality scores on Accuracy and Logical Flow dimensions
 id: pivot-best-narration-quality-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

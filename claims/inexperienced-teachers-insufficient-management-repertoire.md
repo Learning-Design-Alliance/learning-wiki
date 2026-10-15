@@ -3,7 +3,7 @@ type: claim
 title: Inexperienced teachers report having an insufficient repertoire of classroom management strategies for misbehaving students
 description: Inexperienced teachers report having an insufficient repertoire of classroom management strategies for misbehaving students
 id: inexperienced-teachers-insufficient-management-repertoire
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

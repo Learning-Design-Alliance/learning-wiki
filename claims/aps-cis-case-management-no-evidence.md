@@ -3,7 +3,7 @@ type: claim
 title: The CIS case management component showed no evidence of improving student suspensions, attendance, or academic achievement
 description: The CIS case management component showed no evidence of improving student suspensions, attendance, or academic achievement
 id: aps-cis-case-management-no-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

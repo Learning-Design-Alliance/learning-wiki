@@ -3,7 +3,7 @@ type: strategy
 id: target-data-guidance-by-role
 title: Target data-system guidance separately to state officials, district-level staff, and system developers
 description: "The brief directs its recommendations and strategies at three distinct audiences: \"state officials, district-level staff, and system developers who seek to promote effective data use by decision makers and educators a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

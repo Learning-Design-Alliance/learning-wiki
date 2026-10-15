@@ -3,7 +3,7 @@ type: strategy
 id: multi-level-tutor-coaching-structure
 title: "Multi-level coaching structure for tutors: internal school coach plus program Coaching Specialist"
 description: "Math Corps sustains tutoring fidelity through two coaching layers: a school-appointed Internal Coach provides \"monthly coaching and feedback that focuses on ensuring high fidelity to the program\" plus on-demand schedu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

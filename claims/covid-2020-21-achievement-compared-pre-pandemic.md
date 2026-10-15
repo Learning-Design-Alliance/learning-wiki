@@ -3,7 +3,7 @@ type: claim
 title: The Learning during COVID-19 research investigated whether 2020-21 school-year gains and spring 2021 achievement differed from pre-pandemic trends and levels in reading and math.
 description: The Learning during COVID-19 research investigated whether 2020-21 school-year gains and spring 2021 achievement differed from pre-pandemic trends and levels in reading and math.
 id: covid-2020-21-achievement-compared-pre-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

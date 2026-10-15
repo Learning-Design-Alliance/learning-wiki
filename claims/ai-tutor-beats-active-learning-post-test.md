@@ -3,7 +3,7 @@ type: claim
 title: Students learn more with a research-based AI tutor than with in-class active learning on identical content (post-test scores)
 description: Students learn more with a research-based AI tutor than with in-class active learning on identical content (post-test scores)
 id: ai-tutor-beats-active-learning-post-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

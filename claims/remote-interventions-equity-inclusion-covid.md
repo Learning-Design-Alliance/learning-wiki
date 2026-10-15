@@ -3,7 +3,7 @@ type: claim
 title: Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions
 description: Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions
 id: remote-interventions-equity-inclusion-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

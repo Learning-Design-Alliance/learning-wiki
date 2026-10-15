@@ -3,7 +3,7 @@ type: claim
 title: "A closer-to-mastery task-selection constraint sharply reduces overpractice for the risk-averse strategy, with large Cohen's d effect sizes"
 description: "A closer-to-mastery task-selection constraint sharply reduces overpractice for the risk-averse strategy, with large Cohen's d effect sizes"
 id: closer-to-mastery-constraint-reduces-overpractice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

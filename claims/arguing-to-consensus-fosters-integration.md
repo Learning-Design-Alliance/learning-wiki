@@ -3,7 +3,7 @@ type: claim
 title: "When students argue to reach consensus rather than to convince or persuade, they commit to understanding and integrating others' ideas"
 description: "When students argue to reach consensus rather than to convince or persuade, they commit to understanding and integrating others' ideas"
 id: arguing-to-consensus-fosters-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

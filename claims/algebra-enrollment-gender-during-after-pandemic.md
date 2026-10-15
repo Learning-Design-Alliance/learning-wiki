@@ -3,7 +3,7 @@ type: claim
 title: The study explored whether 8th-grade Algebra enrollment varied by gender during and after the pandemic
 description: The study explored whether 8th-grade Algebra enrollment varied by gender during and after the pandemic
 id: algebra-enrollment-gender-during-after-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

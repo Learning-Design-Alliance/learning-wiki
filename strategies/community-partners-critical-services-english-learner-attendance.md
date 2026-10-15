@@ -3,7 +3,7 @@ type: strategy
 id: community-partners-critical-services-english-learner-attendance
 title: Partner with community-based organizations to deliver critical services, since districts and schools alone cannot reduce chronic absenteeism
 description: "The brief argues that \"Districts and schools alone cannot reduce chronic absenteeism—it really takes a collective,\" because community organizations bring cultural competency, capacity, and established trust."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

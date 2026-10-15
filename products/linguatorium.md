@@ -4,7 +4,7 @@ id: linguatorium
 title: Linguatorium
 description: Linguatorium is a web-based computer-assisted language-learning system that automatically generates and schedules vocabulary-learning activities under instructor curriculum control.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: A DataShop-derived cognitive model of problem-decomposition planning skills improved learner mastery when used to redesign a geometry cognitive tutor unit
 description: A DataShop-derived cognitive model of problem-decomposition planning skills improved learner mastery when used to redesign a geometry cognitive tutor unit
 id: datashop-model-improved-geometry-mastery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

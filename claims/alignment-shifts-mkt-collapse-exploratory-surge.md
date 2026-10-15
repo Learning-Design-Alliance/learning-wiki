@@ -3,7 +3,7 @@ type: claim
 title: GRPO alignment collapses Mathematical-Knowledge-for-Teaching utterances and surges Socratic-style Exploratory questions in tutor output
 description: GRPO alignment collapses Mathematical-Knowledge-for-Teaching utterances and surges Socratic-style Exploratory questions in tutor output
 id: alignment-shifts-mkt-collapse-exploratory-surge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: design
 id: theory-three-stage-hybrid-control-design-space
 title: "A three-stage design space for hybrid control in dynamic pairing: before, during, and after pairing up."
 description: "The article organizes the dynamic pairing process into a design space of control distribution across three stages: \"Stage 1—Before Pairing Up, Stage 2—During Pairing Up(pairing, collaboration, and unpairing), andStage..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

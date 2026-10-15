@@ -3,7 +3,7 @@ type: claim
 title: "Program dosage was low for many participants: nearly half of Talent Search participants received 10 or fewer hours of services a year"
 description: "Program dosage was low for many participants: nearly half of Talent Search participants received 10 or fewer hours of services a year"
 id: talent-search-low-dosage-half-participants
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

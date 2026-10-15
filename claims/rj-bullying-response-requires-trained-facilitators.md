@@ -3,7 +3,7 @@ type: claim
 title: RJ-based responses to bullying may help, but require trained adult facilitators and may leave victims uncomfortable facing bullies
 description: RJ-based responses to bullying may help, but require trained adult facilitators and may leave victims uncomfortable facing bullies
 id: rj-bullying-response-requires-trained-facilitators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

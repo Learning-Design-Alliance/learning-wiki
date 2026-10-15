@@ -3,7 +3,7 @@ type: claim
 title: Cluster profiles of student mathematics performance are dominated by overall ability, with most clusters being linear rescalings of average exam performance
 description: Cluster profiles of student mathematics performance are dominated by overall ability, with most clusters being linear rescalings of average exam performance
 id: cluster-profiles-dominated-by-overall-ability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

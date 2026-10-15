@@ -3,7 +3,7 @@ type: claim
 title: In university physics education, AI has been applied for tutoring and explanations, formative feedback and scaffolding, collaborative problem solving, simulation and modeling, instructional design, and AI literacy development
 description: In university physics education, AI has been applied for tutoring and explanations, formative feedback and scaffolding, collaborative problem solving, simulation and modeling, instructional design, and AI literacy dev...
 id: ai-university-physics-six-pedagogical-functions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

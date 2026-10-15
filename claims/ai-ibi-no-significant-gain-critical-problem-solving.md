@@ -3,7 +3,7 @@ type: claim
 title: "AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills"
 description: "AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills"
 id: ai-ibi-no-significant-gain-critical-problem-solving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

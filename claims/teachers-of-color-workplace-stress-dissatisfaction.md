@@ -3,7 +3,7 @@ type: claim
 title: Teachers of color report more workplace stress and dissatisfaction than White teachers
 description: Teachers of color report more workplace stress and dissatisfaction than White teachers
 id: teachers-of-color-workplace-stress-dissatisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

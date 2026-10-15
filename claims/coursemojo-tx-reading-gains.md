@@ -3,7 +3,7 @@ type: claim
 title: Coursemojo use was associated with higher STAAR reading and NWEA MAP scores in a Texas quasi-experiment
 description: Coursemojo use was associated with higher STAAR reading and NWEA MAP scores in a Texas quasi-experiment
 id: coursemojo-tx-reading-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

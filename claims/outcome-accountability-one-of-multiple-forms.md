@@ -3,7 +3,7 @@ type: claim
 title: Outcome-based accountability is only one of multiple forms of accountability, each invoking distinct motivational mechanisms
 description: Outcome-based accountability is only one of multiple forms of accountability, each invoking distinct motivational mechanisms
 id: outcome-accountability-one-of-multiple-forms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

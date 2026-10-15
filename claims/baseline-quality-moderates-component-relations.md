@@ -3,7 +3,7 @@ type: claim
 title: Baseline interaction quality moderates component-outcome relations, with strongest relations for teachers with the lowest baseline quality
 description: Baseline interaction quality moderates component-outcome relations, with strongest relations for teachers with the lowest baseline quality
 id: baseline-quality-moderates-component-relations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

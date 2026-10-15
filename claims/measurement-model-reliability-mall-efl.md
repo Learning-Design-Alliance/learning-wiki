@@ -3,7 +3,7 @@ type: claim
 title: The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power
 description: The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power
 id: measurement-model-reliability-mall-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

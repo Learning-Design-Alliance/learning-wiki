@@ -3,7 +3,7 @@ type: claim
 title: Words encountered in diverse contexts are recognized more accurately in a pseudolexical decision task
 description: Words encountered in diverse contexts are recognized more accurately in a pseudolexical decision task
 id: diverse-contexts-improve-pseudoword-recognition-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

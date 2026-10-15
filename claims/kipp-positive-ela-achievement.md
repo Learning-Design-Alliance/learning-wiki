@@ -3,7 +3,7 @@ type: claim
 title: KIPP charter schools have positive effects on English language arts achievement for middle and high school students
 description: KIPP charter schools have positive effects on English language arts achievement for middle and high school students
 id: kipp-positive-ela-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

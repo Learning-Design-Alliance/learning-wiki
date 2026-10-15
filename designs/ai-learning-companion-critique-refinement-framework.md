@@ -3,7 +3,7 @@ type: design
 id: ai-learning-companion-critique-refinement-framework
 title: "AI-as-learning-companion: leveraging LLM fallibility through a critique-refinement cycle to develop higher-order thinking"
 description: "The paper's central framework reframes generative AI errors and hallucinations as a pedagogical resource rather than a limitation."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

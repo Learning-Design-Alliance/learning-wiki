@@ -3,7 +3,7 @@ type: claim
 title: Task type strongly determines trust in educational robots, with highest trust for procedural instruction, moderate trust for teaching, and lowest trust when robots request personal information
 description: Task type strongly determines trust in educational robots, with highest trust for procedural instruction, moderate trust for teaching, and lowest trust when robots request personal information
 id: task-type-strong-determinant-robot-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

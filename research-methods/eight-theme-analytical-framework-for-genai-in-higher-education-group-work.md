@@ -3,7 +3,7 @@ type: research-method
 id: eight-theme-analytical-framework-for-genai-in-higher-education-group-work
 title: Eight-theme analytical framework for GenAI in higher-education group work
 description: "The review constructs eight recurring themes via reflexive thematic analysis of 18 studies: GenAI reconfigures knowledge development, reshapes higher-order thinking, mediates communication, transforms team interaction, improves administrative efficiency, provides personalised feedback, and raises da"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

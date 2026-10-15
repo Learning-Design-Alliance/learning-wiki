@@ -3,7 +3,7 @@ type: claim
 title: Low-income children show theory of mind development differences compared with typically studied higher-income samples
 description: Low-income children show theory of mind development differences compared with typically studied higher-income samples
 id: low-income-children-tom-development-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: culturally-responsive-strategies-adult-immigrant-instruction
 title: Incorporate culturally responsive strategies into adult immigrant instruction
 description: The article recommends instruction that encompasses cultural backgrounds by using learning materials and activities that allow for different levels of understanding.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

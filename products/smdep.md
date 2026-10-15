@@ -4,7 +4,7 @@ id: smdep
 title: SMDEP
 description: SMDEP is a free six-week residential science-enrichment programme run at 12 national sites for minority and socioeconomically disadvantaged undergraduates interested in medical or dental careers.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

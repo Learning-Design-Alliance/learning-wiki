@@ -3,7 +3,7 @@ type: claim
 title: Textual prompts yield significantly stronger continuing motivation than pictorial prompts
 description: Textual prompts yield significantly stronger continuing motivation than pictorial prompts
 id: textual-prompts-stronger-continuing-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

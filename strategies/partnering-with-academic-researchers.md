@@ -3,7 +3,7 @@ type: strategy
 id: partnering-with-academic-researchers
 title: Partner with academic researchers by approaching early, aligning motivations, and maintaining trust and transparency
 description: "The guide's appendix on partnering with academics advises reviewing literature for author information, exploring Digital Promise's map of education research, and participating in conferences."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

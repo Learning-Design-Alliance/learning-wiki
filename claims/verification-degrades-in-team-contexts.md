@@ -3,7 +3,7 @@ type: claim
 title: Verification behaviors degrade most in team contexts, with test-based verification falling and never fully recovering
 description: Verification behaviors degrade most in team contexts, with test-based verification falling and never fully recovering
 id: verification-degrades-in-team-contexts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

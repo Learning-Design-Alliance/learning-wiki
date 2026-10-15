@@ -3,7 +3,7 @@ type: claim
 title: Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction
 description: Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction
 id: clicker-participation-and-homework-completion-predict-exam-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

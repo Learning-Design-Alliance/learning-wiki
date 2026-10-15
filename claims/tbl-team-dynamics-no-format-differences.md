@@ -3,7 +3,7 @@ type: claim
 title: The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance
 description: The two TBL formats show no significant differences in perceived team communication, contribution, or peer assistance
 id: tbl-team-dynamics-no-format-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

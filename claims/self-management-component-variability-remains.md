@@ -3,7 +3,7 @@ type: claim
 title: Substantial variability exists in the specific components used across self-management interventions despite established effectiveness
 description: Substantial variability exists in the specific components used across self-management interventions despite established effectiveness
 id: self-management-component-variability-remains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

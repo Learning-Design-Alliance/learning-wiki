@@ -3,7 +3,7 @@ type: claim
 title: Charter sector improvement stems mainly from existing schools improving, and gains appear at elementary, middle, and high school levels but not multi-level schools
 description: Charter sector improvement stems mainly from existing schools improving, and gains appear at elementary, middle, and high school levels but not multi-level schools
 id: charter-gains-from-existing-schools-not-multilevel
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

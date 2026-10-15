@@ -3,7 +3,7 @@ type: claim
 title: The article treats metacognition and learning as a topic requiring explicit conceptual and methodological considerations
 description: The article treats metacognition and learning as a topic requiring explicit conceptual and methodological considerations
 id: metacognition-learning-conceptual-methodological-considerations-veenman-2006
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

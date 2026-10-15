@@ -3,7 +3,7 @@ type: claim
 title: Philadelphia schools varied significantly in how they implemented the discipline policy change
 description: Philadelphia schools varied significantly in how they implemented the discipline policy change
 id: philadelphia-discipline-reform-implementation-varied-significantly
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

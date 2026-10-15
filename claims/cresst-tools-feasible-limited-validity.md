@@ -3,7 +3,7 @@ type: claim
 title: CRESST assessment tools show feasibility in evaluation data, but reliability and validity information is limited
 description: CRESST assessment tools show feasibility in evaluation data, but reliability and validity information is limited
 id: cresst-tools-feasible-limited-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

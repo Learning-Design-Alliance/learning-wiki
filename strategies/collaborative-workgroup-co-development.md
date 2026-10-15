@@ -3,7 +3,7 @@ type: strategy
 id: collaborative-workgroup-co-development
 title: Facilitate a multi-session collaborative workgroup to co-develop state guidance
 description: R15CC designed and facilitated a highly collaborative six-session workgroup in which NDE staff and education leaders from across the state used evidence and research to make collaborative decisions about the MRI menu...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

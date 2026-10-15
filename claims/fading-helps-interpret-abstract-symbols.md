@@ -3,7 +3,7 @@ type: claim
 title: Concreteness fading helps learners interpret ambiguous or opaque abstract symbols in terms of well-understood concrete objects
 description: Concreteness fading helps learners interpret ambiguous or opaque abstract symbols in terms of well-understood concrete objects
 id: fading-helps-interpret-abstract-symbols
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

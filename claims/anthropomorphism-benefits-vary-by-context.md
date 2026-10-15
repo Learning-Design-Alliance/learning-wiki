@@ -3,7 +3,7 @@ type: claim
 title: A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations
 description: A conceptual framework paper reports, citing a meta-analysis (Roesler et al., 2021), that anthropomorphism benefits human-robot interaction with effects varying across task contexts and design implementations
 id: anthropomorphism-benefits-vary-by-context
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

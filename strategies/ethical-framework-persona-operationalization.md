@@ -3,7 +3,7 @@ type: strategy
 id: ethical-framework-persona-operationalization
 title: Operationalize abstract ethical frameworks as concrete LLM agent personas with demographic cues and value prioritizations
 description: "The authors found that instructing LLMs with naive ethical frameworks (e.g., \"adopt a deontological perspective\") often produced underspecified responses with vague language."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

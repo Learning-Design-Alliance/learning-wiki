@@ -3,7 +3,7 @@ type: claim
 title: Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations
 description: Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations
 id: multi-representational-learning-integration-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Hong Kong and Singaporean L2 students underuse discourse connectives overall compared with L1 writers, while Thai students do not differ significantly
 description: Hong Kong and Singaporean L2 students underuse discourse connectives overall compared with L1 writers, while Thai students do not differ significantly
 id: hk-sin-l2-underuse-dcs-overall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

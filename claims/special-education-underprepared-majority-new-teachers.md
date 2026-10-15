@@ -3,7 +3,7 @@ type: claim
 title: "Most new special education teachers in 2015–16 entered on substandard authorizations, outnumbering fully prepared entrants 2:1"
 description: "Most new special education teachers in 2015–16 entered on substandard authorizations, outnumbering fully prepared entrants 2:1"
 id: special-education-underprepared-majority-new-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Nearly all surveyed charter schools provided remote-learning professional development to teachers, compared with under half of district reopening plans
 description: Nearly all surveyed charter schools provided remote-learning professional development to teachers, compared with under half of district reopening plans
 id: charter-remote-learning-pd-nearly-universal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

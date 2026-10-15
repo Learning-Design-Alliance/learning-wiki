@@ -3,7 +3,7 @@ type: strategy
 id: image-quality-mitigations-handwritten-grading
 title: "Mitigate transcription failures through image-quality supports: quality review before submission, preview transcriptions, and multiple submission modes"
 description: Because most grading errors stem from transcription rather than rubric misapplication, the article recommends mitigations targeting image capture and preprocessing.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

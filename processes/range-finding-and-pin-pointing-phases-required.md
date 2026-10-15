@@ -3,7 +3,7 @@ type: process
 id: range-finding-and-pin-pointing-phases-required
 title: Include both range-finding and pin-pointing phases when applying the body of work method
 description: "The report stresses that the standard application of the body of work method involves two distinct phases: range-finding, where work samples cover the entire range sparsely, and pin-pointing, which uses only samples n..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

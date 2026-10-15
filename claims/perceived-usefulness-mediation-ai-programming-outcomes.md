@@ -3,7 +3,7 @@ type: claim
 title: Perceived usefulness of the AI assistant significantly and partially mediated the relationship between AI-assisted programming and collaborative outcomes and performance
 description: Perceived usefulness of the AI assistant significantly and partially mediated the relationship between AI-assisted programming and collaborative outcomes and performance
 id: perceived-usefulness-mediation-ai-programming-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

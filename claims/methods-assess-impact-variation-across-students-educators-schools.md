@@ -3,7 +3,7 @@ type: claim
 title: Quantitative methods exist for assessing how impacts of educational interventions on instructional practices and student learning differ across students, educators, and schools
 description: Quantitative methods exist for assessing how impacts of educational interventions on instructional practices and student learning differ across students, educators, and schools
 id: methods-assess-impact-variation-across-students-educators-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

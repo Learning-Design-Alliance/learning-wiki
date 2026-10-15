@@ -3,7 +3,7 @@ type: research-method
 id: three-criterion-framework-for-evaluating-test-mode-comparability
 title: Three-criterion framework for evaluating test mode comparability
 description: "The report organizes its comparability evaluation around three criteria drawn from the score-comparability literature: \"there are three general categories of criteria adopted in evaluating comparability: (1) content and construct validity, (2) psychometric properties and reliability, and (3) statist"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

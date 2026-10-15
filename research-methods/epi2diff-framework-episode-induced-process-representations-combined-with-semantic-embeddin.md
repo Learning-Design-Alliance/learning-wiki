@@ -3,7 +3,7 @@ type: research-method
 id: epi2diff-framework-episode-induced-process-representations-combined-with-semantic-embeddin
 title: "Epi2Diff framework: episode-induced process representations combined with semantic embeddings for item difficulty prediction"
 description: Epi2Diff (Episode to Difficulty) converts model-generated reasoning traces into sentence-level episode sequences and extracts compact features capturing reasoning effort.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

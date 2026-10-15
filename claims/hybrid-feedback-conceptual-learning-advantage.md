@@ -3,7 +3,7 @@ type: claim
 title: Hybrid feedback outperforms direct GenAI feedback on conceptual learning; the reflective–direct contrast is positive but non-significant
 description: Hybrid feedback outperforms direct GenAI feedback on conceptual learning; the reflective–direct contrast is positive but non-significant
 id: hybrid-feedback-conceptual-learning-advantage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

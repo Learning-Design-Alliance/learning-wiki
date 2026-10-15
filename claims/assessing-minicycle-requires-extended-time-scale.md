@@ -3,7 +3,7 @@ type: claim
 title: A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session
 description: A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session
 id: assessing-minicycle-requires-extended-time-scale
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: research-partner-for-target-setting
 title: Engage a research partner with evaluation expertise when setting targets for research questions
 description: "The guide specifies who can serve as the research partner in target-setting work: \"The research partner could be staff within the organization who have expertise in evaluation, or an external organization, technical a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls
 description: The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls
 id: vam-sensitivity-student-peer-controls-examined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

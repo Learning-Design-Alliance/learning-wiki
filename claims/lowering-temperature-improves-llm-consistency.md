@@ -3,7 +3,7 @@ type: claim
 title: "Lowering an LLM's temperature setting is one lever for improving output consistency"
 description: "Lowering an LLM's temperature setting is one lever for improving output consistency"
 id: lowering-temperature-improves-llm-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

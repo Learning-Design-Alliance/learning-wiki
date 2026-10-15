@@ -3,7 +3,7 @@ type: claim
 title: "The model explains 62.50% of variance in AI teaching innovation behavior, with moderate predictive relevance and good fit"
 description: "The model explains 62.50% of variance in AI teaching innovation behavior, with moderate predictive relevance and good fit"
 id: model-explains-variance-in-ai-teaching-innovation-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

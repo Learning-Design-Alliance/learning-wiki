@@ -3,7 +3,7 @@ type: claim
 title: Scenario type (social distance and power differential) did not appear to affect the overall number of nonverbal devices used
 description: Scenario type (social distance and power differential) did not appear to affect the overall number of nonverbal devices used
 id: scenario-type-no-effect-device-count
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Including agent role descriptions improves the classroom Manager Agent's decision precision"
 description: "Including agent role descriptions improves the classroom Manager Agent's decision precision"
 id: role-descriptions-improve-manager-agent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

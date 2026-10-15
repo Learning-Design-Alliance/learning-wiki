@@ -3,7 +3,7 @@ type: claim
 title: "Experts' AHP priorities cluster into three groups differing by seniority and LA expertise"
 description: "Experts' AHP priorities cluster into three groups differing by seniority and LA expertise"
 id: expert-priority-clusters-seniority-la-expertise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

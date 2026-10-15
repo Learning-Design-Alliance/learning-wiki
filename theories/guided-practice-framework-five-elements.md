@@ -3,7 +3,7 @@ type: theory
 title: "Guided practice framework: five interacting elements for analyzing close-to-the-classroom work with teachers"
 description: The authors define guided practice as face-to-face, close-to-the-classroom work on teaching and learning to teach, carried out under labels such as clinical supervision, coaching, advising and mentoring.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

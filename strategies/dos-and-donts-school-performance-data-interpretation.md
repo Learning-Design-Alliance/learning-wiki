@@ -3,7 +3,7 @@ type: strategy
 id: dos-and-donts-school-performance-data-interpretation
 title: "Apply a set of dos and don'ts when examining school performance data to decide school support options"
 description: "The publication offers decisionmakers a practical guidance strategy: as they examine school performance data and consider options for supporting schools, they should keep in mind a set of dos and don'ts."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

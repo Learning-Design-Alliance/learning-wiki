@@ -3,7 +3,7 @@ type: claim
 title: Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time
 description: Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time
 id: effective-pd-seven-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

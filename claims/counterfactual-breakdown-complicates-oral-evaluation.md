@@ -3,7 +3,7 @@ type: claim
 title: Oral and explanation-based evaluation of AI-leveraged projects is complicated because students may break down on counterfactual questions even when they did the work
 description: Oral and explanation-based evaluation of AI-leveraged projects is complicated because students may break down on counterfactual questions even when they did the work
 id: counterfactual-breakdown-complicates-oral-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

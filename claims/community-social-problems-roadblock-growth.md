@@ -3,7 +3,7 @@ type: claim
 title: "Administrators reporting social problems in the school's community as a top roadblock grew from 31 percent in 2009 to 43 percent in 2017"
 description: "Administrators reporting social problems in the school's community as a top roadblock grew from 31 percent in 2009 to 43 percent in 2017"
 id: community-social-problems-roadblock-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

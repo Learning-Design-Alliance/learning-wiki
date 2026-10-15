@@ -3,7 +3,7 @@ type: strategy
 id: invest-social-structure-and-standards-dlp-community
 title: Invest in social structures and cross-disciplinary standards to strengthen the DLP research community
 description: "The article's forward-looking recommendations are to \"Invest in a social structure to bridge, deepen, and sustain community connections\" and to \"Converge on cross-disciplinary standards and resources to support onboar..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

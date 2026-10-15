@@ -3,7 +3,7 @@ type: claim
 title: "Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped"
 description: "Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped"
 id: reflection-selective-not-blanket-ai-rejection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

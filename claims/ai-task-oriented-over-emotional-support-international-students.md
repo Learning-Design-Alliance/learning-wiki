@@ -3,7 +3,7 @@ type: claim
 title: International students use conversational AI predominantly for task-oriented academic and logistical support rather than for psychological or chronic emotional challenges
 description: International students use conversational AI predominantly for task-oriented academic and logistical support rather than for psychological or chronic emotional challenges
 id: ai-task-oriented-over-emotional-support-international-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

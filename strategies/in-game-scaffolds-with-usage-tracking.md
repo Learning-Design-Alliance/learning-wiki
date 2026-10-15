@@ -3,7 +3,7 @@ type: strategy
 id: in-game-scaffolds-with-usage-tracking
 title: Use in-game scaffolds with automatic feedback displays in math game tasks, monitoring scaffold use against mastery data
 description: "The article recommends data-driven decisions about in-game scaffolding: scaffold use was logged per item and correlated with CCM-estimated mastery."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

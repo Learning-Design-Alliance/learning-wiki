@@ -3,7 +3,7 @@ type: element
 id: pasco-real-time-data-acquisition-labs
 title: Pasco data acquisition hardware and software for real-time data collection and representation in modeling physics labs
 description: The technology intervention consisted of Pasco data acquisition hardware and data analysis software supporting real-time data collection and representation in hands-on labs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

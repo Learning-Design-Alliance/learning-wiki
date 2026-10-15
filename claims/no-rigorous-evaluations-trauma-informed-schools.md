@@ -3,7 +3,7 @@ type: claim
 title: No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search
 description: No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search
 id: no-rigorous-evaluations-trauma-informed-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

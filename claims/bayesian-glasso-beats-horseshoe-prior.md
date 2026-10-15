@@ -3,7 +3,7 @@ type: claim
 title: In simulations, the Bayesian GLASSO performed better than the Horseshoe prior for estimating symptom networks
 description: In simulations, the Bayesian GLASSO performed better than the Horseshoe prior for estimating symptom networks
 id: bayesian-glasso-beats-horseshoe-prior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

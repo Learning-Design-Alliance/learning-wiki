@@ -3,7 +3,7 @@ type: claim
 title: Mixed proficiency dyads negotiate for meaning more than matched proficiency dyads, irrespective of time and language
 description: Mixed proficiency dyads negotiate for meaning more than matched proficiency dyads, irrespective of time and language
 id: mixed-dyads-negotiate-more-than-matched
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

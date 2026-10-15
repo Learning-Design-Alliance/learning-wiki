@@ -3,7 +3,7 @@ type: claim
 title: One small evaluation of Achieve3000 found positive effects on the SRI but not Terra Nova (average effect size +0.16)
 description: One small evaluation of Achieve3000 found positive effects on the SRI but not Terra Nova (average effect size +0.16)
 id: achieve3000-small-study-positive-sri
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

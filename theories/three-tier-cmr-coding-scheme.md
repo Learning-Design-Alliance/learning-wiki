@@ -2,7 +2,7 @@
 type: theory
 title: Three-tiered hierarchical coding scheme for levels of causal mechanistic reasoning
 description: The article presents a three-tiered hierarchical coding scheme distinguishing noncausal mechanistic, causal, and causal mechanistic levels of explanation, used to analyze student responses to phenomenon-based tasks, i...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

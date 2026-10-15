@@ -3,7 +3,7 @@ type: claim
 title: Rapid AI generation may compress exploratory learning processes and reduce encounters with failure and material constraints
 description: Rapid AI generation may compress exploratory learning processes and reduce encounters with failure and material constraints
 id: ai-generation-compresses-learning-processes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

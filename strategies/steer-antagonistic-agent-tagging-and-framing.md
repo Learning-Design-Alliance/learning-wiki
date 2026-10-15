@@ -3,7 +3,7 @@ type: strategy
 id: steer-antagonistic-agent-tagging-and-framing
 title: Steer an antagonistic agent with point-level tagging and stance-level framing
 description: "The article recommends giving designers explicit mechanisms to steer agent pushback: \"(1)point-level tagging, in which they label each pushback point as useful, not useful, or with a custom tag, and discard irrelevant..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

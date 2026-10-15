@@ -3,7 +3,7 @@ type: claim
 title: "A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates"
 description: "A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates"
 id: sel-meta-analysis-graduation-increases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

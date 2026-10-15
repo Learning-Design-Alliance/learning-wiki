@@ -3,7 +3,7 @@ type: claim
 title: A construction-focused correctness rubric underperformed behavior-focused and undefined prompts for LLM scoring of code explanations
 description: A construction-focused correctness rubric underperformed behavior-focused and undefined prompts for LLM scoring of code explanations
 id: construction-rubric-underperformed-llm-scoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

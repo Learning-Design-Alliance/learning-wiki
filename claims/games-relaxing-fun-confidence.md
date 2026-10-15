@@ -3,7 +3,7 @@ type: claim
 title: Students view games as relaxing and fun, building confidence for speaking
 description: Students view games as relaxing and fun, building confidence for speaking
 id: games-relaxing-fun-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

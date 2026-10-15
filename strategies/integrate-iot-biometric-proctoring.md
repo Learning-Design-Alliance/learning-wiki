@@ -3,7 +3,7 @@ type: strategy
 id: integrate-iot-biometric-proctoring
 title: Integrate IoT and biometric technologies to augment the security, scalability, and operational efficiency of online proctoring systems
 description: The review recommends combining Internet of Things sensing and biometric verification with AI-based proctoring to strengthen security, scalability, and operational efficiency.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

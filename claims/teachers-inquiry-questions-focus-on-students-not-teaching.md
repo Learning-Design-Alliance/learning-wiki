@@ -3,7 +3,7 @@ type: claim
 title: Teachers pose inquiry questions mostly about their students, not their own teaching, indicating teaching data remains a novel concept
 description: Teachers pose inquiry questions mostly about their students, not their own teaching, indicating teaching data remains a novel concept
 id: teachers-inquiry-questions-focus-on-students-not-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

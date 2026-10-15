@@ -3,7 +3,7 @@ type: claim
 title: "Mentor teachers' own evaluation ratings were positively related to their student teachers' first-year effectiveness as teachers-of-record"
 description: "Mentor teachers' own evaluation ratings were positively related to their student teachers' first-year effectiveness as teachers-of-record"
 id: cps-mentor-evaluation-ratings-related-to-student-teachers-first-year-effectiveness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

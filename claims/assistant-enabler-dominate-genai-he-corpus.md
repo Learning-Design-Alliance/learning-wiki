@@ -3,7 +3,7 @@ type: claim
 title: "Assistant and Enabler entanglements dominate GenAI-in-higher-education research, each accounting for 42.16% of a 102-study corpus, while Synthesizer, Reimaginator, and Generator together constitute less than one fifth"
 description: "Assistant and Enabler entanglements dominate GenAI-in-higher-education research, each accounting for 42.16% of a 102-study corpus, while Synthesizer, Reimaginator, and Generator together constitute less than one fifth"
 id: assistant-enabler-dominate-genai-he-corpus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

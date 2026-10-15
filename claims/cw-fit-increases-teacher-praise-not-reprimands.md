@@ -3,7 +3,7 @@ type: claim
 title: CW-FIT substantially increases teacher praise statements but shows no statistically significant effect on some reprimand measures
 description: CW-FIT substantially increases teacher praise statements but shows no statistically significant effect on some reprimand measures
 id: cw-fit-increases-teacher-praise-not-reprimands
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

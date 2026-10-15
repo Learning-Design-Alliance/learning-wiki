@@ -3,7 +3,7 @@ type: claim
 title: The memory layer recorded 889 failure, verification, correction, or protocol-proxy events (9.26 per active day), making governance part of the operating environment
 description: The memory layer recorded 889 failure, verification, correction, or protocol-proxy events (9.26 per active day), making governance part of the operating environment
 id: governance-889-events-ger-9-26
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

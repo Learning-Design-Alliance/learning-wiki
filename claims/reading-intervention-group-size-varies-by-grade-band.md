@@ -3,7 +3,7 @@ type: claim
 title: Group size in grades 4–9 reading interventions typically varies, with smaller groups in grades 4 and 5 than in middle and high school elective reading courses
 description: Group size in grades 4–9 reading interventions typically varies, with smaller groups in grades 4 and 5 than in middle and high school elective reading courses
 id: reading-intervention-group-size-varies-by-grade-band
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: dynemb-skill-tag-concatenation-integration
 title: "Skill tag integration scheme: concatenating matrix-factorization question embeddings with one-hot skill tag embeddings, with l1-regularized tag-based initialization"
 description: "When manually labeled skill tags are available, DynEmb incorporates them by concatenating the latent question embedding learned via matrix factorization with a one-hot encoding of the question's skill tag, initializin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

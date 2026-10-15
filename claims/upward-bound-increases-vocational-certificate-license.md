@@ -3,7 +3,7 @@ type: claim
 title: Regular Upward Bound produces a statistically significant increase in the likelihood of earning a postsecondary certificate or license from a vocational school
 description: Regular Upward Bound produces a statistically significant increase in the likelihood of earning a postsecondary certificate or license from a vocational school
 id: upward-bound-increases-vocational-certificate-license
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

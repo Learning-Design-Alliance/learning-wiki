@@ -4,7 +4,7 @@ id: 32-item-global-citizenship-perspectives-questionnaire
 title: 32-item global citizenship perspectives questionnaire
 description: A 32-item, five-point Likert questionnaire adapted by Nguyen (2021) from the Morais and Ogden and Roberts and Wilson global-citizenship scales to measure social responsibility, global competence, and global civic engagement.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

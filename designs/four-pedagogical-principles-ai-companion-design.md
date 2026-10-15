@@ -3,7 +3,7 @@ type: design
 id: four-pedagogical-principles-ai-companion-design
 title: Four pedagogical principles for AI companion design derived from the HELF
 description: "Building on the Higher Education Learning Framework, the paper derives four principles for AI companion design: \"deep and interactive learning, which prompts learners to actively process and connect new knowledge thro..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

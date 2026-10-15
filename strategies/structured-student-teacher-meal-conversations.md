@@ -3,7 +3,7 @@ type: strategy
 id: structured-student-teacher-meal-conversations
 title: Use small shared-meal conversations among teachers, students, and a facilitator to surface student perspectives on assessment and strengthen relationships
 description: "The project organized teams of four — a teacher, two high school students, and a non-educator facilitator — to share a meal and discuss how a test or assessment \"might be redesigned so that everyone in the class will..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: read-180-additional-pd-and-teacher-observation
 title: Provide additional professional development and peer observation opportunities when implementing READ 180
 description: "Based on teacher interviews in the Milwaukee study, implementers of READ 180 should plan for more than the minimum training: \"Teachers recommended additional professional development for some program elements and bein..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

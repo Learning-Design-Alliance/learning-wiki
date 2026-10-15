@@ -3,7 +3,7 @@ type: claim
 title: Existing AI × SEL policy claims concentrate at macro and meso levels, with almost none at the classroom level
 description: Existing AI × SEL policy claims concentrate at macro and meso levels, with almost none at the classroom level
 id: policy-claims-macro-meso-dominance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

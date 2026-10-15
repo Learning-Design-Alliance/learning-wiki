@@ -3,7 +3,7 @@ type: claim
 title: Racial, ethnic, and cultural identity development emerged as the core need for students of color beyond academic subjects
 description: Racial, ethnic, and cultural identity development emerged as the core need for students of color beyond academic subjects
 id: identity-core-of-sead-for-students-of-color
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

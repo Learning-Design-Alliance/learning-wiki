@@ -3,7 +3,7 @@ type: claim
 title: "The AI review ruler's problem-level correlation weakens in an introductory course, where exam-level correlation is near zero and cohort composition dominates"
 description: "The AI review ruler's problem-level correlation weakens in an introductory course, where exam-level correlation is near zero and cohort composition dominates"
 id: cs101-introductory-course-applicability-boundary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' attention easily diverts to English learners' grammar, vocabulary, and pronunciation even when unrelated to the day's learning goal"
 description: "Teachers' attention easily diverts to English learners' grammar, vocabulary, and pronunciation even when unrelated to the day's learning goal"
 id: teacher-attention-diverted-el-grammar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

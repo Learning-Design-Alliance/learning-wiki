@@ -3,7 +3,7 @@ type: strategy
 id: combine-planning-materials-texts-advisor-webinars-college-advising
 title: Combine personalized planning materials, student text messaging, and advisor training webinars to enhance college advising
 description: This strategy pairs student-facing supports (personalized planning materials and text messaging) with advisor-facing training webinars to improve college advising.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

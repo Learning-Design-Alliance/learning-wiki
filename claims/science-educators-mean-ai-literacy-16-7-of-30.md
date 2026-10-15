@@ -3,7 +3,7 @@ type: claim
 title: In-service secondary science educators score a mean of 16.7 of 30 points on a validated general AI literacy test
 description: In-service secondary science educators score a mean of 16.7 of 30 points on a validated general AI literacy test
 id: science-educators-mean-ai-literacy-16-7-of-30
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

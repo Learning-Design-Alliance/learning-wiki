@@ -3,7 +3,7 @@ type: strategy
 id: university-district-partnership-practitioner-scholar-strategy
 title: Use university–district research partnerships to build district evaluation capacity and train practitioner-scholars
 description: "The article's strategy is a university–district research partnership in which the university provides district-driven research support and the partnership's projects serve as authentic training for practitioner-scholars."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

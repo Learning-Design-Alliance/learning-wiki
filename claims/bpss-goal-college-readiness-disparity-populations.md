@@ -3,7 +3,7 @@ type: claim
 title: The BPSS logic model targets increased college readiness among Arkansas student populations with persistent outcome disparities
 description: The BPSS logic model targets increased college readiness among Arkansas student populations with persistent outcome disparities
 id: bpss-goal-college-readiness-disparity-populations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

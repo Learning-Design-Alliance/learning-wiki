@@ -3,7 +3,7 @@ type: claim
 title: Students believe private companies neither have nor should have access to their educational data
 description: Students believe private companies neither have nor should have access to their educational data
 id: students-oppose-private-company-data-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

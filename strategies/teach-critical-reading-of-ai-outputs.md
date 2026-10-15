@@ -3,7 +3,7 @@ type: strategy
 id: teach-critical-reading-of-ai-outputs
 title: Teach students to read AI critically and discuss the difference between fluency and thought
 description: The article recommends valuing voice over polish and treating AI uncertainty as pedagogical opportunity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: In simulation the router matches the empirically optimal subject strategy in 8 of 13 subjects, but retreats to a safe strategy where gains are marginal
 description: In simulation the router matches the empirically optimal subject strategy in 8 of 13 subjects, but retreats to a safe strategy where gains are marginal
 id: router-subject-strategy-alignment-simulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: According to teachers, principals with elementary teaching experience provided more helpful and actionable direct instructional support in some cases
 description: According to teachers, principals with elementary teaching experience provided more helpful and actionable direct instructional support in some cases
 id: teaching-experience-principals-more-helpful-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: sipps-three-week-pd-support-cadence
 title: Provide implementation professional development and support approximately every three weeks
 description: "In the qualifying research, \"teachers met with program implementation staff for professional development and support approximately every three weeks.\" The program also offers varied professional learning formats — in-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

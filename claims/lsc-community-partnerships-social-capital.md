@@ -3,7 +3,7 @@ type: claim
 title: Principals credit LSCs with helping initiate new school-community partnerships, supporting the claim that LSCs build social capital in urban neighborhoods
 description: Principals credit LSCs with helping initiate new school-community partnerships, supporting the claim that LSCs build social capital in urban neighborhoods
 id: lsc-community-partnerships-social-capital
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: dash4emotion
 title: Dash4Emotion
 description: A research prototype developed by Osama Swidan that uses webcam-based facial-emotion classification to provide teachers with real-time individual alerts and class-level emotional summaries during students’ mathematics problem-solving.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

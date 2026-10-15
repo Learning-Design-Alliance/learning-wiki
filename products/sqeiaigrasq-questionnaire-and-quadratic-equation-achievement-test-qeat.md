@@ -4,7 +4,7 @@ id: sqeiaigrasq-questionnaire-and-quadratic-equation-achievement-test-qeat
 title: SQEIAIGRASQ questionnaire and Quadratic Equation Achievement Test (QEAT)
 description: A pair of validated instruments developed by Oladayo et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

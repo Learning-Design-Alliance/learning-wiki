@@ -3,7 +3,7 @@ type: claim
 title: "Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning"
 description: "Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning"
 id: diversity-dissociation-processing-versus-semantics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

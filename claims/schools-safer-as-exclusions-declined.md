@@ -3,7 +3,7 @@ type: claim
 title: "National school crime indicators show schools became safer as exclusionary discipline reductions were underway, with 79% of schools recording incidents in 2015-16 versus 85-89% in prior years"
 description: "National school crime indicators show schools became safer as exclusionary discipline reductions were underway, with 79% of schools recording incidents in 2015-16 versus 85-89% in prior years"
 id: schools-safer-as-exclusions-declined
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

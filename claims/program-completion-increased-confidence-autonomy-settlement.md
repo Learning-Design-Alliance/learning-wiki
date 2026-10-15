@@ -3,7 +3,7 @@ type: claim
 title: "Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society"
 description: "Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society"
 id: program-completion-increased-confidence-autonomy-settlement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

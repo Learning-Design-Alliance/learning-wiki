@@ -3,7 +3,7 @@ type: claim
 title: ARCS motivation did not significantly moderate any of the tested UTAUT3 acceptance pathways
 description: ARCS motivation did not significantly moderate any of the tested UTAUT3 acceptance pathways
 id: arcs-moderation-effects-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

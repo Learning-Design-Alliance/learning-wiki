@@ -3,7 +3,7 @@ type: claim
 title: Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed
 description: Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed
 id: asr-specific-error-types-no-significant-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

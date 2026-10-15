@@ -3,7 +3,7 @@ type: strategy
 id: integrate-ai-literacy-into-core-subjects
 title: Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject
 description: The review recommends leveraging AI literacy to enhance learning of disciplinary core subjects by integrating AI into their teaching, transferring AI knowledge and methods while staying within the framework of those s...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

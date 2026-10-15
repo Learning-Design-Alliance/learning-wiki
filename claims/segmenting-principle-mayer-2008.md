@@ -3,7 +3,7 @@ type: claim
 title: "Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation"
 description: "Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation"
 id: segmenting-principle-mayer-2008
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

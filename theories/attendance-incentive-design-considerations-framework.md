@@ -2,7 +2,7 @@
 type: theory
 title: A framework of design considerations for attendance incentives
 description: The article introduces a framework intended to fill a guidance gap around attendance incentives.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

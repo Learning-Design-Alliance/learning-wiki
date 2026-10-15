@@ -3,7 +3,7 @@ type: claim
 title: The peer assessment effect size is comparable in magnitude to a substantial fraction of measured achievement gaps in the course
 description: The peer assessment effect size is comparable in magnitude to a substantial fraction of measured achievement gaps in the course
 id: peer-assessment-effect-size-versus-achievement-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

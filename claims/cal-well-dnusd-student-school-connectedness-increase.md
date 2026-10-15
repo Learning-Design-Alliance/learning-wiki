@@ -3,7 +3,7 @@ type: claim
 title: The percentage of secondary students reporting high school connectedness on the CHKS increased from 32 percent to 36 percent
 description: The percentage of secondary students reporting high school connectedness on the CHKS increased from 32 percent to 36 percent
 id: cal-well-dnusd-student-school-connectedness-increase
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

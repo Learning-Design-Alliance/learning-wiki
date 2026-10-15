@@ -3,7 +3,7 @@ type: claim
 title: No existing framework in the reviewed literature combined all identified inquiry phases and sub-phases, prompting development of a synthesized framework
 description: No existing framework in the reviewed literature combined all identified inquiry phases and sub-phases, prompting development of a synthesized framework
 id: no-existing-framework-combining-all-inquiry-phases
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

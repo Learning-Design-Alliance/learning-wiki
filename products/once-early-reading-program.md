@@ -4,7 +4,7 @@ id: once-early-reading-program
 title: Once Early-Reading Program
 description: Once Early-Reading Program is a school-embedded early-literacy tutoring programme that provides scripted, laptop-delivered one-to-one structured-literacy sessions by trained paraprofessionals for PreK through first-grade students.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

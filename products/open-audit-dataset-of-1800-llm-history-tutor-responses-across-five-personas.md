@@ -4,7 +4,7 @@ id: open-audit-dataset-of-1800-llm-history-tutor-responses-across-five-personas
 title: Open audit dataset of 1,800 LLM history-tutor responses across five personas
 description: "Alexis Popovici et al.'s open corpus of 1,800 API-generated history-tutor responses across four LLMs, five student personas, and three prompt types for researchers and auditors evaluating educational AI bias."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

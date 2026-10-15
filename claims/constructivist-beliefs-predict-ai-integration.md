@@ -3,7 +3,7 @@ type: claim
 title: Teachers with constructivist beliefs are more likely to integrate educational AI-based tools than teachers with transmissive orientations (reported from a South Korean teacher study)
 description: Teachers with constructivist beliefs are more likely to integrate educational AI-based tools than teachers with transmissive orientations (reported from a South Korean teacher study)
 id: constructivist-beliefs-predict-ai-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: "NLP-based feedback generation for textual student answers in large courses reduced grading effort by up to 85% with high precision (reported from Bernius et al.)"
 description: "NLP-based feedback generation for textual student answers in large courses reduced grading effort by up to 85% with high precision (reported from Bernius et al.)"
 id: nlp-feedback-reduced-grading-effort-85-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

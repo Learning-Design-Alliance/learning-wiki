@@ -3,7 +3,7 @@ type: claim
 title: "Many U.S. children lack access to early learning programs: only 54% of 3- and 4-year-olds attend any preschool and 35% of eligible children participate in Head Start"
 description: Many U.S.
 id: ece-access-gaps-preschool-head-start-participation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

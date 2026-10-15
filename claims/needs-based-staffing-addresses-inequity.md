@@ -3,7 +3,7 @@ type: claim
 title: Shifting staffing decisions from a per-pupil formula to needs-based allocation addresses staffing resource inequities
 description: Shifting staffing decisions from a per-pupil formula to needs-based allocation addresses staffing resource inequities
 id: needs-based-staffing-addresses-inequity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

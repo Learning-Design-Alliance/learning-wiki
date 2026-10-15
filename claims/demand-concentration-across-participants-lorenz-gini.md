@@ -3,7 +3,7 @@ type: claim
 title: "Support demand across participants is concentrated: the most active decile accounts for 34.6% of queries and 42.9% of participants raised exactly one query"
 description: "Support demand across participants is concentrated: the most active decile accounts for 34.6% of queries and 42.9% of participants raised exactly one query"
 id: demand-concentration-across-participants-lorenz-gini
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

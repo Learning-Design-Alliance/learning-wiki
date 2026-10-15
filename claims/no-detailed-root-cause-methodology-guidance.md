@@ -3,7 +3,7 @@ type: claim
 title: Education research urges cultures of inquiry and root-cause determination but provides almost no detailed methodology for finding root causes
 description: Education research urges cultures of inquiry and root-cause determination but provides almost no detailed methodology for finding root causes
 id: no-detailed-root-cause-methodology-guidance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

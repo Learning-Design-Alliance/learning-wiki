@@ -3,7 +3,7 @@ type: claim
 title: The authors argue AI web agents have the potential to accelerate advancements in online learning by giving fast, low-cost insights
 description: The authors argue AI web agents have the potential to accelerate advancements in online learning by giving fast, low-cost insights
 id: ai-web-agents-accelerate-online-learning-advancements
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Bandura's four sources of self-efficacy as a framework for educator practice with marginalised students"
 description: "The paper applies Bandura's social cognitive theory, under which perceived self-efficacy refers to \"beliefs in one's capabilities to organize [sic] and execute the courses of action required to produce given attainmen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

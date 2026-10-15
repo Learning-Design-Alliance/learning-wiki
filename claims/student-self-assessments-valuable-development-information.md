@@ -3,7 +3,7 @@ type: claim
 title: "Students' self-assessments of social well-being and work habits provide valuable information about their development"
 description: "Students' self-assessments of social well-being and work habits provide valuable information about their development"
 id: student-self-assessments-valuable-development-information
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

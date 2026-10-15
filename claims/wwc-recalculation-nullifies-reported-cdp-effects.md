@@ -3,7 +3,7 @@ type: claim
 title: Statistically significant effects reported by the CDP studies were not statistically significant as recalculated by the WWC
 description: Statistically significant effects reported by the CDP studies were not statistically significant as recalculated by the WWC
 id: wwc-recalculation-nullifies-reported-cdp-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

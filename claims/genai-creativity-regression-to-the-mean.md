@@ -3,7 +3,7 @@ type: claim
 title: "GenAI use in creative contexts tends toward regression to the mean: less skilled users improve while higher skilled users decline"
 description: "GenAI use in creative contexts tends toward regression to the mean: less skilled users improve while higher skilled users decline"
 id: genai-creativity-regression-to-the-mean
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

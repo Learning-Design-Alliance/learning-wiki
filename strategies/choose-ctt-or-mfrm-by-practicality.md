@@ -3,7 +3,7 @@ type: strategy
 id: choose-ctt-or-mfrm-by-practicality
 title: Choose CTT or MFRM for open-ended test development based on practicality and reported detail, not difficulty results
 description: "Because the two theories yield similar item difficulty indices for open-ended questions, the article recommends that decisions between them should prioritize \"other proper ties, such as ease of use and the comprehensi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

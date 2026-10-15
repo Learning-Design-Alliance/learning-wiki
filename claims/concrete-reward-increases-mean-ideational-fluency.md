@@ -3,7 +3,7 @@ type: claim
 title: "Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions"
 description: "Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions"
 id: concrete-reward-increases-mean-ideational-fluency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

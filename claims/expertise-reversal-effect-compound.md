@@ -3,7 +3,7 @@ type: claim
 title: "Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases"
 description: "Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases"
 id: expertise-reversal-effect-compound
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

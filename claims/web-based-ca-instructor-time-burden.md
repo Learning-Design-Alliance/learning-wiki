@@ -3,7 +3,7 @@ type: claim
 title: Integrating cognitive apprenticeship methods in a Web-based course required a significant and largely unbounded instructor time investment
 description: Integrating cognitive apprenticeship methods in a Web-based course required a significant and largely unbounded instructor time investment
 id: web-based-ca-instructor-time-burden
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

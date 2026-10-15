@@ -3,7 +3,7 @@ type: claim
 title: AI literacy positively predicts AI-TPACK among Chinese pre-service science teachers
 description: AI literacy positively predicts AI-TPACK among Chinese pre-service science teachers
 id: ai-literacy-predicts-ai-tpack-preservice-science-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

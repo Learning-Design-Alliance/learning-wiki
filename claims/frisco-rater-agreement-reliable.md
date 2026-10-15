@@ -3,7 +3,7 @@ type: claim
 title: "Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions"
 description: "Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions"
 id: frisco-rater-agreement-reliable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Label type, victim age, and their interaction showed no significant effects on treatment amenability subscales (capacity to change, treatment ineffectiveness, incapacitation)
 description: Label type, victim age, and their interaction showed no significant effects on treatment amenability subscales (capacity to change, treatment ineffectiveness, incapacitation)
 id: treatment-amenability-subscales-null-manova
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

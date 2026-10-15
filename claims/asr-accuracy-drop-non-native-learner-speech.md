@@ -3,7 +3,7 @@ type: claim
 title: Pre-deep-learning speech recognition was markedly less accurate on non-native speech, undermining automated oral feedback for learners, as the article reports citing prior studies
 description: Pre-deep-learning speech recognition was markedly less accurate on non-native speech, undermining automated oral feedback for learners, as the article reports citing prior studies
 id: asr-accuracy-drop-non-native-learner-speech
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

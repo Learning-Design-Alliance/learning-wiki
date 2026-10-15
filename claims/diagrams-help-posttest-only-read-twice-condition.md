@@ -3,7 +3,7 @@ type: claim
 title: Diagrams improved posttest accuracy only in the read-twice condition, not in the questioning conditions
 description: Diagrams improved posttest accuracy only in the read-twice condition, not in the questioning conditions
 id: diagrams-help-posttest-only-read-twice-condition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

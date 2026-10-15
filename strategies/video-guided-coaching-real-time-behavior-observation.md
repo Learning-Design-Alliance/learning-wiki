@@ -3,7 +3,7 @@ type: strategy
 id: video-guided-coaching-real-time-behavior-observation
 title: Use fine-grained observation of real-time teacher and student behavior in video-guided coaching to analyze interactional fit
 description: "The article's practical implication is a general suggestion for teacher education and in-service professional development, especially when video-guided coaching is used."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

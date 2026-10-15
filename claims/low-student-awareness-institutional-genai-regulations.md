@@ -3,7 +3,7 @@ type: claim
 title: "Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware)"
 description: "Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware)"
 id: low-student-awareness-institutional-genai-regulations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

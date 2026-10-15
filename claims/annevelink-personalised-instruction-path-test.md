@@ -3,7 +3,7 @@ type: claim
 title: Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations
 description: Smaller classes related to more interactions; task-directed and praising interactions linked to more time on task and higher achievement, but organisational and personal interactions rose contrary to expectations
 id: annevelink-personalised-instruction-path-test
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

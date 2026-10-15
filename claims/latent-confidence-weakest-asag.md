@@ -3,7 +3,7 @@ type: claim
 title: Latent (token-probability) confidence is the weakest single-source confidence signal for LLM-based ASAG, with the lowest AUROC and worst calibration
 description: Latent (token-probability) confidence is the weakest single-source confidence signal for LLM-based ASAG, with the lowest AUROC and worst calibration
 id: latent-confidence-weakest-asag
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

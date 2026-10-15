@@ -3,7 +3,7 @@ type: claim
 title: "The AI education session was associated with a drop in attendees reporting they did not know enough to say about AI, from 23% to 0%"
 description: "The AI education session was associated with a drop in attendees reporting they did not know enough to say about AI, from 23% to 0%"
 id: dont-know-responses-dropped-to-zero
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

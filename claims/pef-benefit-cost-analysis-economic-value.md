@@ -3,7 +3,7 @@ type: claim
 title: "A benefit-cost analysis of DC's Early Childhood Educator Pay Equity Fund finds the initiative to address educator pay gaps has economic value"
 description: "A benefit-cost analysis of DC's Early Childhood Educator Pay Equity Fund finds the initiative to address educator pay gaps has economic value"
 id: pef-benefit-cost-analysis-economic-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

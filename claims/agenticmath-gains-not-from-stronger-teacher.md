@@ -3,7 +3,7 @@ type: claim
 title: Under the same teacher model, AgenticMath outperforms prior data-generation methods, indicating gains arise from framework design rather than teacher strength
 description: Under the same teacher model, AgenticMath outperforms prior data-generation methods, indicating gains arise from framework design rather than teacher strength
 id: agenticmath-gains-not-from-stronger-teacher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

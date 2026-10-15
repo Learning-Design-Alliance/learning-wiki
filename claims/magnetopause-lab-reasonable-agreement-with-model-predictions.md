@@ -3,7 +3,7 @@ type: claim
 title: Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics
 description: Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics
 id: magnetopause-lab-reasonable-agreement-with-model-predictions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

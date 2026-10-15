@@ -3,7 +3,7 @@ type: claim
 title: BTA implementation data are often partial, inconsistent, or unreliable, hindering accountability at scale
 description: BTA implementation data are often partial, inconsistent, or unreliable, hindering accountability at scale
 id: bta-data-collection-inconsistent-texas
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

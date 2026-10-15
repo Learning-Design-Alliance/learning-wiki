@@ -3,7 +3,7 @@ type: claim
 title: CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development
 description: CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development
 id: capt-strong-segmentals-weak-prosody
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

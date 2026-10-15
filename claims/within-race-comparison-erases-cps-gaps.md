@@ -3,7 +3,7 @@ type: claim
 title: When compared within racial/ethnic groups, large CPS-versus-rest-of-state gaps disappear, and some CPS groups outperform their counterparts
 description: When compared within racial/ethnic groups, large CPS-versus-rest-of-state gaps disappear, and some CPS groups outperform their counterparts
 id: within-race-comparison-erases-cps-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

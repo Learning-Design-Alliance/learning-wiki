@@ -3,7 +3,7 @@ type: claim
 title: Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies
 description: Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies
 id: cognitive-tutor-interactivity-benefits-varying-extents
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

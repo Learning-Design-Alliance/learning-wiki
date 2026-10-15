@@ -3,7 +3,7 @@ type: strategy
 id: instruction-guided-llm-annotation-interaction-labels
 title: Instruction-guided LLM annotation with human-in-the-loop prompt refinement for large-scale interaction labeling
 description: The article describes an annotation procedure using an instruction-guided LLM following a human-in-the-loop process to apply the taxonomy at scale.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

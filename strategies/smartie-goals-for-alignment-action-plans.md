@@ -3,7 +3,7 @@ type: strategy
 id: smartie-goals-for-alignment-action-plans
 title: Write SMARTIE action-plan goals that are specific, measurable, ambitious, realistic, time-bound, inclusive, and equitable
 description: "In Chapter 5, teams prioritize three to five high-level goals from the Chapter 4 tailoring activity and build an action plan in which \"goals should be\" SMARTIE: Specific, Measurable, Ambitious, Realistic, Time-bound,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

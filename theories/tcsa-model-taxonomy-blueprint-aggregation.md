@@ -2,7 +2,7 @@
 type: theory
 title: Taxonomy of seven TCSA models by interim blueprint design and score aggregation method
 description: "The review organizes through-course summative assessment models along two axes: interim blueprint design (distributed vs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

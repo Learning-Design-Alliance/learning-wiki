@@ -2,7 +2,7 @@
 type: theory
 title: "Bayesian Knowledge Tracing: a two-state Hidden Markov Model inferring skill mastery from response histories"
 description: "Bayesian Knowledge Tracing (BKT) is a student model used to infer a student's knowledge from their history of responses to skill-tagged problems and to predict future performance."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: element
 id: tam-five-domain-wat-c-survey-instrument
 title: TAM-grounded post-session survey instrument with five domains and 15 open-ended questions
 description: "A post-session Qualtrics survey completed by the same nine instructors was grounded in the Technology Acceptance Model and structured into five domains: perceived usefulness of advanced metrics and predictive scores,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

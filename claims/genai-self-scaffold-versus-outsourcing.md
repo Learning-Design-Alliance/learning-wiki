@@ -3,7 +3,7 @@ type: claim
 title: GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced
 description: GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced
 id: genai-self-scaffold-versus-outsourcing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

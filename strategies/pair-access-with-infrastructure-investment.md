@@ -3,7 +3,7 @@ type: strategy
 id: pair-access-with-infrastructure-investment
 title: Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets
 description: "The report recommends treating infrastructure investment as inseparable from technology adoption: \"upgrading network capacity, ensuring device access, addressing data privacy, and building in accessibility from the st..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

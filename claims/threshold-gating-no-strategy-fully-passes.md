@@ -3,7 +3,7 @@ type: claim
 title: Under illustrative property thresholds, no prompting strategy passes all measured AIAA properties in every model-blueprint cell; few-shot anchoring passes only 2 of 9 cells
 description: Under illustrative property thresholds, no prompting strategy passes all measured AIAA properties in every model-blueprint cell; few-shot anchoring passes only 2 of 9 cells
 id: threshold-gating-no-strategy-fully-passes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

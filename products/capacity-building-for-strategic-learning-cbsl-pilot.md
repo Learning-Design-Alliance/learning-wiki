@@ -4,7 +4,7 @@ id: capacity-building-for-strategic-learning-cbsl-pilot
 title: Capacity Building for Strategic Learning (CBSL) pilot
 description: "A Mathematica and Catalyst:Ed programme, supported by the Bill & Melinda Gates Foundation, that built nine K–12 education grantees’ equity-centered strategic-learning capacity through project scoping, provider matching, cohort learning, and thought partnership."
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

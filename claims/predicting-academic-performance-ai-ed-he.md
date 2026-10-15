@@ -3,7 +3,7 @@ type: claim
 title: Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance
 description: Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance
 id: predicting-academic-performance-ai-ed-he
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

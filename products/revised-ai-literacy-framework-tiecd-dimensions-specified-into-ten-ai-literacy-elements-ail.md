@@ -4,7 +4,7 @@ id: revised-ai-literacy-framework-tiecd-dimensions-specified-into-ten-ai-literac
 title: "Revised AI literacy framework: TIECD dimensions specified into ten AI Literacy Elements (AILEs)"
 description: A Niri et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

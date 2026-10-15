@@ -3,7 +3,7 @@ type: claim
 title: School-based self-management interventions significantly and positively impact classroom behaviors of school-age students with challenging behaviors (single-case design synthesis)
 description: School-based self-management interventions significantly and positively impact classroom behaviors of school-age students with challenging behaviors (single-case design synthesis)
 id: sm-interventions-improve-classroom-behaviors-scd-meta
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

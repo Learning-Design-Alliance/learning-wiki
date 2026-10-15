@@ -4,7 +4,7 @@ id: collaborative-strategic-reading
 title: Collaborative Strategic Reading
 description: A structured reading-comprehension program developed by Janette K.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

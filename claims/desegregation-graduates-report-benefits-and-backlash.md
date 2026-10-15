@@ -3,7 +3,7 @@ type: claim
 title: Graduates of desegregated 1970s high schools report both benefits from desegregation and experiences of backlash against it
 description: Graduates of desegregated 1970s high schools report both benefits from desegregation and experiences of backlash against it
 id: desegregation-graduates-report-benefits-and-backlash
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

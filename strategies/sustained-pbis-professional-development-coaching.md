@@ -3,7 +3,7 @@ type: strategy
 id: sustained-pbis-professional-development-coaching
 title: Sustained, needs-based PBIS professional development with in-classroom coaching to build teacher capacity
 description: The article describes a one-year professional development model in which eight self-contained ED teachers received 20 two-hour training sessions plus four classroom observations, with content guided by a needs assessm...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

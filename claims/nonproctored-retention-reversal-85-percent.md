@@ -3,7 +3,7 @@ type: claim
 title: "The same retention estimator applied to non-proctored assessment yields an opposite-signed 85% increase in odds of correct response on AI-susceptible items"
 description: "The same retention estimator applied to non-proctored assessment yields an opposite-signed 85% increase in odds of correct response on AI-susceptible items"
 id: nonproctored-retention-reversal-85-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

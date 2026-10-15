@@ -3,7 +3,7 @@ type: claim
 title: "Students' evaluative judgment of cGPT responses shifted from strict principle compliance toward contextual appropriateness"
 description: "Students' evaluative judgment of cGPT responses shifted from strict principle compliance toward contextual appropriateness"
 id: evolving-evaluative-judgment-cgpt-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

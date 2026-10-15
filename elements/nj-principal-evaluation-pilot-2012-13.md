@@ -3,7 +3,7 @@ type: element
 id: nj-principal-evaluation-pilot-2012-13
 title: "New Jersey's principal evaluation system pilot in 14 school districts (2012/13)"
 description: "New Jersey piloted its principal evaluation system, which combines measures of the quality of principals' school leadership practices with measures of student achievement growth, in \"14 school districts in 2012/13\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

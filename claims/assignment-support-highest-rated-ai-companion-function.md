@@ -3,7 +3,7 @@ type: claim
 title: "Assignment support was the highest-rated Class Companion function (83% Effective/Very Effective, M = 3.38), while assessing knowledge and skills was the lowest (71%)"
 description: "Assignment support was the highest-rated Class Companion function (83% Effective/Very Effective, M = 3.38), while assessing knowledge and skills was the lowest (71%)"
 id: assignment-support-highest-rated-ai-companion-function
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

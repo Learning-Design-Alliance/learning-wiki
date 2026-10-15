@@ -3,7 +3,7 @@ type: claim
 title: "A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment"
 description: "A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment"
 id: behaviorist-reinforcement-effective-positive-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

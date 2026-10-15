@@ -3,7 +3,7 @@ type: claim
 title: Forming implementation intentions produces a medium-to-large positive effect (d = .65) on goal attainment across 94 independent tests
 description: Forming implementation intentions produces a medium-to-large positive effect (d = .65) on goal attainment across 94 independent tests
 id: implementation-intentions-d65-goal-attainment-meta-analysis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading
 description: Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading
 id: secondary-students-top-metacognitive-behaviors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

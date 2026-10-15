@@ -3,7 +3,7 @@ type: claim
 title: Mixed effects modeling and OLS on cluster-aggregated data both control the Type I error rate in small cluster randomized trials
 description: Mixed effects modeling and OLS on cluster-aggregated data both control the Type I error rate in small cluster randomized trials
 id: mixed-effects-and-cluster-aggregated-ols-control-type-i-error-small-crcts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

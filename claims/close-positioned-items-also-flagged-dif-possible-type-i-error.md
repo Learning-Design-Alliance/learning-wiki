@@ -3,7 +3,7 @@ type: claim
 title: Some items positioned close together across booklets were also flagged as DIF, possibly due to Type I error from sampling
 description: Some items positioned close together across booklets were also flagged as DIF, possibly due to Type I error from sampling
 id: close-positioned-items-also-flagged-dif-possible-type-i-error
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

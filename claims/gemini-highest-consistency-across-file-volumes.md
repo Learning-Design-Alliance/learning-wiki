@@ -3,7 +3,7 @@ type: claim
 title: Gemini and Gemini Pro show the highest internal grading consistency across file upload volumes, with no clear monotonic lost-in-the-middle effect
 description: Gemini and Gemini Pro show the highest internal grading consistency across file upload volumes, with no clear monotonic lost-in-the-middle effect
 id: gemini-highest-consistency-across-file-volumes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Students struggle to manage math assignments alongside busy schedules, and faculty need efficient grading, due-date, and extension tools
 description: Students struggle to manage math assignments alongside busy schedules, and faculty need efficient grading, due-date, and extension tools
 id: task-time-management-gateway-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

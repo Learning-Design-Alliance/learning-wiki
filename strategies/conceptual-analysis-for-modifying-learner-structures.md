@@ -3,7 +3,7 @@ type: strategy
 id: conceptual-analysis-for-modifying-learner-structures
 title: Use conceptual-analysis methods to develop or modify the conceptual structures learners seem to have in their heads
 description: The book offers the method of conceptual analysis used in its model of units, plurality and number as a tool for educators.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

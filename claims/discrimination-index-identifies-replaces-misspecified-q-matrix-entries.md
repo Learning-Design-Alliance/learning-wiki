@@ -3,7 +3,7 @@ type: claim
 title: A discrimination index can empirically validate Q-matrix specifications by identifying and replacing misspecified entries in the Q-matrix
 description: A discrimination index can empirically validate Q-matrix specifications by identifying and replacing misspecified entries in the Q-matrix
 id: discrimination-index-identifies-replaces-misspecified-q-matrix-entries
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

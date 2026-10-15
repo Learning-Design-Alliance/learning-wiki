@@ -3,7 +3,7 @@ type: claim
 title: Mean rank ordering of the four video types was stable across both course offerings, with hypothetical human-recorded personalized videos ranked highest and AI-generated non-personalized lowest
 description: Mean rank ordering of the four video types was stable across both course offerings, with hypothetical human-recorded personalized videos ranked highest and AI-generated non-personalized lowest
 id: stable-mean-rank-ordering-four-video-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

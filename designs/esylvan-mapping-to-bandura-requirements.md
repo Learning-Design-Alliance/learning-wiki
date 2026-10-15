@@ -3,7 +3,7 @@ type: design
 id: esylvan-mapping-to-bandura-requirements
 title: "Mapping an online tutoring environment onto Bandura's four requirements"
 description: "The paper enumerates how eSylvan instantiated each of Bandura's four requirements in its design."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

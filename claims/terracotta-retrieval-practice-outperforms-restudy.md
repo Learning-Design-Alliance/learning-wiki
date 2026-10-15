@@ -3,7 +3,7 @@ type: claim
 title: In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams
 description: In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams
 id: terracotta-retrieval-practice-outperforms-restudy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: high-quality-principal-preparation-partnerships
 title: Develop high-quality principal preparation through district-university partnerships with internships and mentorship
 description: The brief recommends district-university partnerships with preparation programs that use evidence-based practices, giving candidates high-quality learning experiences aligned with district standards.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

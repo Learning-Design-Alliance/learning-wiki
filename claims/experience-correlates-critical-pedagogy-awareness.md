@@ -3,7 +3,7 @@ type: claim
 title: "Teaching experience is significantly and positively related to Iranian EFL teachers' awareness of all four critical pedagogy factors"
 description: "Teaching experience is significantly and positively related to Iranian EFL teachers' awareness of all four critical pedagogy factors"
 id: experience-correlates-critical-pedagogy-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -4,7 +4,7 @@ id: bmed-2300-benchmark-corpus-and-evaluation-harness
 title: BMED 2300 benchmark corpus and evaluation harness
 description: A benchmark dataset and evaluation harness developed by Md Zabirul Islam et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Hybrid quantum optimization is applicable to school aggregation as a proof of concept, with classical optimization currently advantaged
 description: Hybrid quantum optimization is applicable to school aggregation as a proof of concept, with classical optimization currently advantaged
 id: hybrid-quantum-school-aggregation-proof-of-concept
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

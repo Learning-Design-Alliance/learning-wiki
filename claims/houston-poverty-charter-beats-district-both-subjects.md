@@ -3,7 +3,7 @@ type: claim
 title: Students in poverty in Houston charter schools outperformed district-school students in poverty in both subjects
 description: Students in poverty in Houston charter schools outperformed district-school students in poverty in both subjects
 id: houston-poverty-charter-beats-district-both-subjects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

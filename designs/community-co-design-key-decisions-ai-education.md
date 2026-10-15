@@ -3,7 +3,7 @@ type: design
 id: community-co-design-key-decisions-ai-education
 title: "Co-designing community AI education through four key decisions: balanced topics, conceptual grounding, local relevance, and dialogical learning"
 description: This pattern describes the recurring design decisions the research team and community partners made when co-creating the AI education session.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

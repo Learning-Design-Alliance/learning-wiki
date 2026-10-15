@@ -3,7 +3,7 @@ type: claim
 title: CPS graduates took more than 6,000 distinct post-secondary paths, so continuous enrollment at one college was not the standard route to a credential
 description: CPS graduates took more than 6,000 distinct post-secondary paths, so continuous enrollment at one college was not the standard route to a credential
 id: cps-graduates-6000-college-paths
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

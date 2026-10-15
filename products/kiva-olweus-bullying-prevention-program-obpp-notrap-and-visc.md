@@ -4,7 +4,7 @@ id: kiva-olweus-bullying-prevention-program-obpp-notrap-and-visc
 title: "KiVa, Olweus Bullying Prevention Program (OBPP), NoTrap!, and ViSC"
 description: Four branded school-based anti-bullying programmes run by their respective developers and implementers for primary and secondary schools, using whole-school, classroom, individual, peer, online, and train-the-trainer interventions.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

@@ -4,7 +4,7 @@ id: simucase
 title: Simucase
 description: Simucase is a clinical simulation platform developed and operated by Simucase for speech-language pathology, audiology, and occupational therapy education.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

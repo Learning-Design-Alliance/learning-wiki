@@ -3,7 +3,7 @@ type: claim
 title: Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn
 description: Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn
 id: robot-exposure-mixed-direction-autonomy-agency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

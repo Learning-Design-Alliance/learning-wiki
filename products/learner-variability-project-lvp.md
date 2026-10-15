@@ -4,7 +4,7 @@ id: learner-variability-project-lvp
 title: Learner Variability Project (LVP)
 description: The Learner Variability Project, operated by Digital Promise, organizes research-based learner factors and instructional strategies into models intended for teachers and edtech developers serving diverse learners.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

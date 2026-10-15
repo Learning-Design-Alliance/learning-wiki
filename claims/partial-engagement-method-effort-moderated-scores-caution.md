@@ -3,7 +3,7 @@ type: claim
 title: A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated
 description: A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated
 id: partial-engagement-method-effort-moderated-scores-caution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

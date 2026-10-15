@@ -3,7 +3,7 @@ type: strategy
 id: idea-generation-techniques-menu
 title: Menu of techniques for generating new ideas in subsequent C/I iterations
 description: "In later iterations of the C/I cycle, the article recommends a menu of techniques for breaking fixed thought patterns and generating novel connections: \"Using a random word as a prompt to break a ﬁxed thought pattern/..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

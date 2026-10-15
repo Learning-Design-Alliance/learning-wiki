@@ -3,7 +3,7 @@ type: strategy
 id: monitor-el-classification-validity-vulnerable-groups
 title: Regularly examine the validity of classification instruments and procedures, monitoring accuracy for student groups prone to classification errors
 description: The report directs states and districts to regularly examine the frequency, types, and causes of misclassification errors, with special attention to migrant students, students with interrupted formal education, Native...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

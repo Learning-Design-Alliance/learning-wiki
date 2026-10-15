@@ -3,7 +3,7 @@ type: claim
 title: Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback
 description: Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback
 id: text-perceived-accuracy-control-editability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

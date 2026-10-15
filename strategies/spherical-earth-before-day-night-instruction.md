@@ -3,7 +3,7 @@ type: strategy
 id: spherical-earth-before-day-night-instruction
 title: Teach a scientific model of the spherical earth before introducing the cause of the day and night cycle
 description: "The article recommends sequencing: \"early childhood teachers should begin introducing the concept of a spherical earth to children and ensure that all children develop a scientific model of the earth prior to implemen..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

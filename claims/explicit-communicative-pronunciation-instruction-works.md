@@ -3,7 +3,7 @@ type: claim
 title: "Explicit pronunciation instruction improves controlled production of targeted sounds and prosody, with smaller and less certain gains in spontaneous speech"
 description: Explicit pronunciation instruction with communicative practice yields clear and demonstrable improvement, per the current research consensus
 id: explicit-communicative-pronunciation-instruction-works
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

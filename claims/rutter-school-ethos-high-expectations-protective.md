@@ -3,7 +3,7 @@ type: claim
 title: Schools fostering high self-esteem and social and scholastic success reduce the likelihood of emotional and behavioral disturbance
 description: Schools fostering high self-esteem and social and scholastic success reduce the likelihood of emotional and behavioral disturbance
 id: rutter-school-ethos-high-expectations-protective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: The proposed cognitive mechanisms explain both positive and negative effects of PS-I
 description: The proposed cognitive mechanisms explain both positive and negative effects of PS-I
 id: mechanisms-explain-positive-and-negative-ps-i-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

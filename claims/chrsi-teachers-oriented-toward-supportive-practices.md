@@ -3,7 +3,7 @@ type: claim
 title: "Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices"
 description: "Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices"
 id: chrsi-teachers-oriented-toward-supportive-practices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

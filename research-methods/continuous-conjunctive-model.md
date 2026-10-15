@@ -3,7 +3,7 @@ type: research-method
 id: continuous-conjunctive-model
 title: Continuous Conjunctive Model
 description: "The CCM is an extension of the NIDA cognitive diagnostic model that \"utilizes continuous variables instead of binary latent variables to represent attributes, thus it offers a more generalized diagnosis\" (Hong et al., 2015)."
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

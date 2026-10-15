@@ -3,7 +3,7 @@ type: claim
 title: Some VLMs perform near chance on binary judgments of student correctness, and error-assessment behavior is idiosyncratic across models
 description: Some VLMs perform near chance on binary judgments of student correctness, and error-assessment behavior is idiosyncratic across models
 id: binary-correctness-judgments-near-chance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

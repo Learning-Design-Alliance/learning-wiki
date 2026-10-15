@@ -3,7 +3,7 @@ type: strategy
 id: simulated-task-environments-inductive-learning-strategy
 title: Use simulated task environments for learning tasks so multimedia principles support inductive learning
 description: For the learning-task component, the chapter recommends having students work on learning tasks in simulated task environments.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

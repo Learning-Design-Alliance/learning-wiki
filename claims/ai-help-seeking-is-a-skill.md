@@ -3,7 +3,7 @@ type: claim
 title: Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking
 description: Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking
 id: ai-help-seeking-is-a-skill
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

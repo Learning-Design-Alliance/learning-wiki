@@ -3,7 +3,7 @@ type: claim
 title: During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists
 description: During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists
 id: middle-stage-lower-complementarity-successful-therapists
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

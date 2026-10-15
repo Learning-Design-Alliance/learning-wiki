@@ -3,7 +3,7 @@ type: strategy
 id: teach-srl-strategies-less-proficient-efl-learners
 title: Teach less-proficient EFL learners metacognitive strategies, effort regulation, and help-seeking, supported by goal-setting training
 description: "The article recommends that instructors teach the three strategy factors that predicted proficiency, noting \"these three factors are obviously pivotal for connecting with higher English proficiency, and they are teach..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

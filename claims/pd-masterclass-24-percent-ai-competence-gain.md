@@ -3,7 +3,7 @@ type: claim
 title: "A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes"
 description: "A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes"
 id: pd-masterclass-24-percent-ai-competence-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

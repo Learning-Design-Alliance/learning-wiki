@@ -3,7 +3,7 @@ type: strategy
 id: coach-autonomy-in-coaching-decisions
 title: Trust coaches to make decisions around coaching, granting autonomy while staying involved
 description: "The report's fifth action is giving coaches freedom to implement coaching with creativity and innovation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

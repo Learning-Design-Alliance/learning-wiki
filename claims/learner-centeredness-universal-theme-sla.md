@@ -3,7 +3,7 @@ type: claim
 title: Learner-centeredness is a universal theme across SLA theories and language teaching methods
 description: Learner-centeredness is a universal theme across SLA theories and language teaching methods
 id: learner-centeredness-universal-theme-sla
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

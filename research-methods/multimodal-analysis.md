@@ -3,7 +3,7 @@ type: research-method
 id: multimodal-analysis
 title: Multimodal analysis
 description: "Multimodal analysis is one of three methodological advances the report highlights, defined as \"Integrating multiple streams of data, such as audio, video, eye gaze, sensors, and clickstream data.\" The introduction elaborates it as \"the study of learning with data streams that include physical moveme"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

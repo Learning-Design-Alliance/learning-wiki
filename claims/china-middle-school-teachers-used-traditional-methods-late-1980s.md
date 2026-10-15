@@ -3,7 +3,7 @@ type: claim
 title: "Most teachers in China's middle schools used traditional grammar-focused methods in the late 1980s"
 description: "Most teachers in China's middle schools used traditional grammar-focused methods in the late 1980s"
 id: china-middle-school-teachers-used-traditional-methods-late-1980s
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

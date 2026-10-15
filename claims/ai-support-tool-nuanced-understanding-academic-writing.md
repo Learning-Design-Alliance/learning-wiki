@@ -3,7 +3,7 @@ type: claim
 title: "Students in an academic writing course developed a more nuanced understanding of AI's capabilities and limitations, engaging with it as a support tool rather than a substitute for original work"
 description: "Students in an academic writing course developed a more nuanced understanding of AI's capabilities and limitations, engaging with it as a support tool rather than a substitute for original work"
 id: ai-support-tool-nuanced-understanding-academic-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: design
 id: early-steps-daily-tutoring-session-structure
 title: "Daily one-to-one tutoring session structure: re-reading, word study, sentence writing, new books"
 description: "Early Steps sessions follow a repeating daily structure in which tutors use \"a series of leveled, non-phonetic books\" and \"follow a daily schedule of re-reading familiar books, systematic word study, sentence writing,..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension
 description: Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension
 id: no-statistical-trend-ai-usage-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

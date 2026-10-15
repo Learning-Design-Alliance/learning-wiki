@@ -3,7 +3,7 @@ type: claim
 title: HBCU enrollment continued to decline in 2013-14 despite the partial rebound in PLUS loans
 description: HBCU enrollment continued to decline in 2013-14 despite the partial rebound in PLUS loans
 id: hbcu-enrollment-continued-declining-2013-14
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

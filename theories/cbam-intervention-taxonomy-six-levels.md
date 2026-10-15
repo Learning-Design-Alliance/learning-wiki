@@ -2,7 +2,7 @@
 type: theory
 title: "Intervention Taxonomy: six levels of change-facilitating interventions from incident to policy"
 description: The Intervention Taxonomy classifies the actions that influence use of an innovation into six nested levels.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

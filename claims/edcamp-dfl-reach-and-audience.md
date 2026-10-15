@@ -3,7 +3,7 @@ type: claim
 title: The series reached nearly 1,200 registrations across four events, drawing experienced educators from 22 countries
 description: The series reached nearly 1,200 registrations across four events, drawing experienced educators from 22 countries
 id: edcamp-dfl-reach-and-audience
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

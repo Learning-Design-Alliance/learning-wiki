@@ -3,7 +3,7 @@ type: claim
 title: Between-term score correlations are moderate and lowest for Phonological Awareness
 description: Between-term score correlations are moderate and lowest for Phonological Awareness
 id: spanish-foundational-skills-between-term-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

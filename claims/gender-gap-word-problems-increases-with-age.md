@@ -3,7 +3,7 @@ type: claim
 title: Prior research attributes growing male superiority in word problem solving to age, with onset debated between sixth grade and high school
 description: Prior research attributes growing male superiority in word problem solving to age, with onset debated between sixth grade and high school
 id: gender-gap-word-problems-increases-with-age
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

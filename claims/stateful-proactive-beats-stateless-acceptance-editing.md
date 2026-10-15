@@ -3,7 +3,7 @@ type: claim
 title: Stateful proactive collaboration (L2) yields higher acceptance and lower editing effort than stateless proactive collaboration (L1), with lower acceptance in creative than scientific domains
 description: Stateful proactive collaboration (L2) yields higher acceptance and lower editing effort than stateless proactive collaboration (L1), with lower acceptance in creative than scientific domains
 id: stateful-proactive-beats-stateless-acceptance-editing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

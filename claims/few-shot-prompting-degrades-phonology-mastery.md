@@ -3,7 +3,7 @@ type: claim
 title: Few-shot prompting does not uniformly improve LLM performance and can degrade subskill mastery estimates, most notably for phonology
 description: Few-shot prompting does not uniformly improve LLM performance and can degrade subskill mastery estimates, most notably for phonology
 id: few-shot-prompting-degrades-phonology-mastery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Iterative redesign of a peer-feedback task increased class engagement across three rounds
 description: Iterative redesign of a peer-feedback task increased class engagement across three rounds
 id: iterative-task-redesign-increased-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

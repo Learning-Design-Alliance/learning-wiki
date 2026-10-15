@@ -3,7 +3,7 @@ type: claim
 title: Under-identification of SPED placement occurred two years after EL classification
 description: Under-identification of SPED placement occurred two years after EL classification
 id: underidentification-two-years-after-el-classification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

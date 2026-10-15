@@ -3,7 +3,7 @@ type: claim
 title: Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves
 description: Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves
 id: trust-intrinsic-motivation-rose-across-waves-invariance-held
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

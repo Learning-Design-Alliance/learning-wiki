@@ -2,7 +2,7 @@
 type: theory
 title: Science–literacy integration as a partnership for student success
 description: "The brief's organizing framing treats science and literacy not as separate subjects but as a \"Powerful Partnership for Student Success\", in which instruction in each domain supports the other."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

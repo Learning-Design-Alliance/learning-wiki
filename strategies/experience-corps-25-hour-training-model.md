@@ -3,7 +3,7 @@ type: strategy
 id: experience-corps-25-hour-training-model
 title: Provide at least 25 hours of targeted volunteer training, with at least half pre-service and the remainder throughout the year
 description: "New volunteers \"receive at least 25 hours of targeted training and coaching in literacy, behavior management, child development and other relevant areas\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: good-better-best-fit-micro-credential-selection
 title: "Use the Good, Better, Best Fit model to guide educators' selection of micro-credentials"
 description: The Good, Better, Best Fit model is a three-question framework educators use to select which micro-credentials to earn.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

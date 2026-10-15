@@ -3,7 +3,7 @@ type: claim
 title: The report classifies interviewed principals into a buy-in typology whose table records framework conferences, evaluation attitudes, description of teacher buy-in, changes in practice, and severity for 39 principals
 description: The report classifies interviewed principals into a buy-in typology whose table records framework conferences, evaluation attitudes, description of teacher buy-in, changes in practice, and severity for 39 principals
 id: eit-principal-buyin-typology-table
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

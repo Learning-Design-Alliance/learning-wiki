@@ -3,7 +3,7 @@ type: design
 id: cea-chatgpt-eportfolio-alignment-model
 title: "The CEA model: ChatGPT aligned with e-portfolio assessment as an integrated EFL learning framework"
 description: The CEA model integrates ChatGPT with e-portfolio assessment so that AI-generated individualized feedback and portfolio-based documentation, peer feedback, and reflection operate as one learning ecosystem.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

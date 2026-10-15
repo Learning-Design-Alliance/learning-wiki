@@ -3,7 +3,7 @@ type: strategy
 id: adoption-stage-professional-learning-funding
 title: During adoption, determine professional learning needs and secure sustainable funding for training before proceeding
 description: In the adoption stage, the framework directs districts to determine who needs professional learning and to what degree, and to schedule appropriate training.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

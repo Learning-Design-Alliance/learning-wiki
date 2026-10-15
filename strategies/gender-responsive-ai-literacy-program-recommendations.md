@@ -3,7 +3,7 @@ type: strategy
 id: gender-responsive-ai-literacy-program-recommendations
 title: Three design recommendations for gender-responsive AI literacy programs
 description: "The article closes with three recommendations for AI literacy program design grounded in its gender-disaggregated findings: \"(1) leverage workshops to increase female STEM career interest; (2) incorporate gender-speci..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

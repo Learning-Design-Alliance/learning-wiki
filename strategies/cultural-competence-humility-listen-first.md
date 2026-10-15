@@ -3,7 +3,7 @@ type: strategy
 id: cultural-competence-humility-listen-first
 title: "Build cultural competence and humility: engage and listen to communities before acting, using funded advisory boards and listening sessions"
 description: "A funder practice of directly engaging communities before acting, spending time \"listening to, understanding, and building trust in communities, rather than jumping right into developing or training community members...."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

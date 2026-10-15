@@ -3,7 +3,7 @@ type: claim
 title: In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test
 description: "In physics-based courses for non-science majors taught with active-engagement pedagogy, normalized gains were 0.38–0.42 on content tests but 0.06 on a scientific-reasoning test"
 id: reformed-pedagogy-content-gains-but-no-reasoning-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Most California College Promise programs use a last-dollar financial aid model, with coverage varying across tuition, fees, and books
 description: Most California College Promise programs use a last-dollar financial aid model, with coverage varying across tuition, fees, and books
 id: ca-promise-last-dollar-financial-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

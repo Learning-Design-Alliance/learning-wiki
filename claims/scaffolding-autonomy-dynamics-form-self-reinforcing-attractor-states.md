@@ -2,7 +2,7 @@
 type: claim
 title: Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction
 id: scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

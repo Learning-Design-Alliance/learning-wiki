@@ -3,7 +3,7 @@ type: strategy
 id: early-warning-data-and-credit-recovery-strategy
 title: Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress
 description: The district began providing real-time early warning data reports and credit recovery reports to high schools in 2008, and the biggest changes in graduation and on-track rates occurred afterward.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

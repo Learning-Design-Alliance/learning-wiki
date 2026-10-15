@@ -3,7 +3,7 @@ type: strategy
 id: seven-steps-creative-financing-strategy
 title: "7 Steps to Creative Financing: a stakeholder-team process for identifying financing for ed-tech"
 description: "This strategy is \"a new process and set of best practices designed to help districts identify the best means to financing ed-tech solutions.\" It assembles a diverse team of district stakeholders, end users, and local..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

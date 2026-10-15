@@ -3,7 +3,7 @@ type: strategy
 id: representational-nudges-challenge-reflection-cycles
 title: Use representational nudges and creative challenge-reflection cycles to move learners between mathematical exploration, conceptual reasoning, and pedagogical decision-making
 description: "Two cross-cutting mechanisms supported teachers' movement across MC, CK, and PCK: prompts for multiple representations and visualization, and cycles of creative challenge and metacognitive reflection."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

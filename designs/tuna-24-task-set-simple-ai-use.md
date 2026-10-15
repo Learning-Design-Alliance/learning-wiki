@@ -3,7 +3,7 @@ type: design
 id: tuna-24-task-set-simple-ai-use
 title: 24-task set derived from the Taxonomy of User Needs and Actions (TUNA) with easy and difficult variants
 description: "The article constructed a set of 24 tasks \"derived from the Taxonomy of User Needs and Actions (TUNA), a framework of different ways that people use AI based on different degrees of cognitive effort required.\" The tas..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

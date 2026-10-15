@@ -3,7 +3,7 @@ type: claim
 title: Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors
 description: Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors
 id: family-muac-uptake-barriers
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

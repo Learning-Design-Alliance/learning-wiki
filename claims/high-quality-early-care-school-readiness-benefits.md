@@ -3,7 +3,7 @@ type: claim
 title: High-quality early care is associated with school readiness, math and language gains, and reduced grade repetition and special education placement
 description: High-quality early care is associated with school readiness, math and language gains, and reduced grade repetition and special education placement
 id: high-quality-early-care-school-readiness-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

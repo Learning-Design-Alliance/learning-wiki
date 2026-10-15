@@ -3,7 +3,7 @@ type: strategy
 id: future-ai-motivation-research-recommendations
 title: Advance AI-motivation research through theory-driven, pedagogically explicit, longitudinal designs covering broader motivational constructs
 description: "The review's forward-looking recommendations urge researchers to move \"beyond isolated motivational outcomes and toward a coherent, theory-driven framework that integrates motivational theories, pedagogical design, an..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

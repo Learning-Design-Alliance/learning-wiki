@@ -3,7 +3,7 @@ type: claim
 title: "The study's correlational, cross-sectional design limits internal validity and causal interpretation"
 description: "The study's correlational, cross-sectional design limits internal validity and causal interpretation"
 id: correlational-design-limits-epistemic-freedom-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

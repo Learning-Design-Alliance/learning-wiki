@@ -3,7 +3,7 @@ type: claim
 title: Topic-level assistant question volume correlates significantly with student self-reported topic difficulty (Spearman ρ = 0.491, p = 0.008, 28 matched topics)
 description: Topic-level assistant question volume correlates significantly with student self-reported topic difficulty (Spearman ρ = 0.491, p = 0.008, 28 matched topics)
 id: question-volume-correlates-self-reported-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: CBO leaders cautioned that assessing WSS outcomes without accounting for district inputs obscures how resource allocation determines policy success
 description: CBO leaders cautioned that assessing WSS outcomes without accounting for district inputs obscures how resource allocation determines policy success
 id: wss-outcomes-need-input-transparency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

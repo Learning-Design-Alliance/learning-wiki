@@ -3,7 +3,7 @@ type: principle
 id: curriculum-embedded-teacher-led-sustained-pd
 title: Design professional development around curriculum-embedded, teacher-led, sustained learning
 description: "MISE's core guiding principles for professional development remained constant across a decade of adaptation."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

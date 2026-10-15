@@ -4,7 +4,7 @@ id: computing-career-intentions-survey-instrument-32-item-full-version-and-12-it
 title: Computing career intentions survey instrument (32-item full version and 12-item short form)
 description: A WestEd-developed survey, created with Google, that measures computing career intentions and related constructs such as coding self-efficacy, interest, support, and belonging among computing education participants.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

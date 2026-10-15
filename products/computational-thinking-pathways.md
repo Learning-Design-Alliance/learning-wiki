@@ -4,7 +4,7 @@ id: computational-thinking-pathways
 title: Computational Thinking Pathways
 description: A Digital Promise framework of system-wide K–12 computational-thinking learning progressions designed to support equitable participation through consistent, cumulative, and competency-based learning across classrooms and years.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

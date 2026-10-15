@@ -3,7 +3,7 @@ type: design
 id: cmp-active-collaborative-productive-struggle-pedagogy
 title: CMP active, collaborative pedagogy with productive struggle and productive persistence in the corequisite pairs
 description: "The instructional design carried from the original Quantway and Statway pathways into the new corequisite courses: student-centered, collaborative problem solving in authentic contexts, small-group productive struggle..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

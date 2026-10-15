@@ -3,7 +3,7 @@ type: principle
 id: complementary-delivery-modes-for-retrieval-tools
 title: Offer multiple delivery modes of a retrieval resource to complement different user needs
 description: "The article concludes that the CD-ROM, client/server, and WWW implementations of Entrez \"complement, rather than compete with one another\": WWW Entrez suits users who prefer a single software tool and can accept slowe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

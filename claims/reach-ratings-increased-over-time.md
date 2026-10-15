@@ -3,7 +3,7 @@ type: claim
 title: REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17
 description: REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17
 id: reach-ratings-increased-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

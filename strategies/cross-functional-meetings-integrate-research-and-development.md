@@ -3,7 +3,7 @@ type: strategy
 id: cross-functional-meetings-integrate-research-and-development
 title: Integrate educators and developers through regular cross-functional meetings so pedagogical intent survives technical implementation
 description: "The report's ReadWorks case study recommends that product managers, engineers, and educators meet regularly to transfer knowledge and surface changes immediately, since a research-based plan can end up \"unrecognizable..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

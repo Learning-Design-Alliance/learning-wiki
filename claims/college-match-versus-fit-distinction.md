@@ -3,7 +3,7 @@ type: claim
 title: Thoughtful, well-supported students distinguish college fit from college match, treating match as one but not the only component of fit
 description: Thoughtful, well-supported students distinguish college fit from college match, treating match as one but not the only component of fit
 id: college-match-versus-fit-distinction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

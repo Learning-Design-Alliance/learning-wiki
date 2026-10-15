@@ -3,7 +3,7 @@ type: claim
 title: College Track completers were more likely than similar students to apply to multiple colleges
 description: College Track completers were more likely than similar students to apply to multiple colleges
 id: college-track-completers-apply-multiple-colleges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

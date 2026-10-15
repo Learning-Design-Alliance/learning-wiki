@@ -3,7 +3,7 @@ type: claim
 title: The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)
 description: The post-test advantage of generative AI-supported instruction persists after controlling for pre-test performance (ANCOVA)
 id: genai-geometry-ancova-group-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

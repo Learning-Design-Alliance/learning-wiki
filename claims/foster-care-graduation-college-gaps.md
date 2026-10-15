@@ -3,7 +3,7 @@ type: claim
 title: Students in foster care graduate from high school and enroll in college at substantially lower rates than their peers
 description: Students in foster care graduate from high school and enroll in college at substantially lower rates than their peers
 id: foster-care-graduation-college-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

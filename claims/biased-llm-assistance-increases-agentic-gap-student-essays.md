@@ -3,7 +3,7 @@ type: claim
 title: Students assisted by a gender-biased LLM produce career-plan essays with a significantly larger male-female agentic gap than students in neutral-LLM and no-AI control conditions
 description: Students assisted by a gender-biased LLM produce career-plan essays with a significantly larger male-female agentic gap than students in neutral-LLM and no-AI control conditions
 id: biased-llm-assistance-increases-agentic-gap-student-essays
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

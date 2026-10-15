@@ -3,7 +3,7 @@ type: claim
 title: Beam search-based self-refinement improves simulated solution alignment with predicted student behavior
 description: Beam search-based self-refinement improves simulated solution alignment with predicted student behavior
 id: beam-search-self-refinement-improves-solution-simulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

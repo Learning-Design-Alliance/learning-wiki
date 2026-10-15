@@ -3,7 +3,7 @@ type: claim
 title: The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)
 description: The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)
 id: srl-effect-no-strategy-type-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

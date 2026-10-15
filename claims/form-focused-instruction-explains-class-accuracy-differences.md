@@ -3,7 +3,7 @@ type: claim
 title: "Between-class differences in structural accuracy were attributed, with some evidence, to differences in teachers' form-focused instruction"
 description: "Between-class differences in structural accuracy were attributed, with some evidence, to differences in teachers' form-focused instruction"
 id: form-focused-instruction-explains-class-accuracy-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

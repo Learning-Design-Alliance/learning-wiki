@@ -3,7 +3,7 @@ type: claim
 title: Ten years of repeated survey participation enables reporting of change over time in school climate measures
 description: Ten years of repeated survey participation enables reporting of change over time in school climate measures
 id: ten-years-survey-trend-reporting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

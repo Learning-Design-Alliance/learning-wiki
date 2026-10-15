@@ -3,7 +3,7 @@ type: claim
 title: Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects
 description: Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects
 id: anthropomorphism-no-clear-causal-effect-on-trust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -4,7 +4,7 @@ id: k-12-computer-science-framework
 title: K-12 Computer Science Framework
 description: A framework developed by ACM, CSTA, Code.org, and collaborating experts that defines core practices and concepts for K-12 computer science education.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

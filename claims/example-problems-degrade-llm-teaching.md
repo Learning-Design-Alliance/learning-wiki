@@ -3,7 +3,7 @@ type: claim
 title: Incorporating example problems does not necessarily improve LLM teaching and can degrade it via a shift to example-specific error correction
 description: Incorporating example problems does not necessarily improve LLM teaching and can degrade it via a shift to example-specific error correction
 id: example-problems-degrade-llm-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

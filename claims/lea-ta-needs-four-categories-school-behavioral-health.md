@@ -3,7 +3,7 @@ type: claim
 title: "LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students"
 description: "LEAs' technical assistance needs for school-based behavioral health span care coordination, sustainability, infrastructure, and services for students"
 id: lea-ta-needs-four-categories-school-behavioral-health
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

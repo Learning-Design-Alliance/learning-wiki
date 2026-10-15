@@ -3,7 +3,7 @@ type: claim
 title: Charter learning gains in each of the three growth periods do not differ statistically from TPS peers
 description: Charter learning gains in each of the three growth periods do not differ statistically from TPS peers
 id: wa-charter-gains-by-growth-period
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

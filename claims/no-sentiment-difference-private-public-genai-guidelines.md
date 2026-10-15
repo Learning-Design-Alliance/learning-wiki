@@ -3,7 +3,7 @@ type: claim
 title: Sentiment toward GenAI in university guidelines is highly positive and does not differ significantly between private and public institutions
 description: Sentiment toward GenAI in university guidelines is highly positive and does not differ significantly between private and public institutions
 id: no-sentiment-difference-private-public-genai-guidelines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

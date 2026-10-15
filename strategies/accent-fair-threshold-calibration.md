@@ -3,7 +3,7 @@ type: strategy
 id: accent-fair-threshold-calibration
 title: Calibrate coaching thresholds per L1 cohort and avoid penalizing identity-marking accent features
 description: "In its ethics statement, the survey sets out accent-fairness principles for deployed coaching systems: \"Calibrate thresholds per L1 cohort to account for systematic phonetic differences\"; report subgroup metrics such..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Dual language participants grew faster than nonparticipants in math during each school year in grades 2 to 5 but lost more learning during subsequent summers
 description: Dual language participants grew faster than nonparticipants in math during each school year in grades 2 to 5 but lost more learning during subsequent summers
 id: dual-language-math-faster-school-year-growth-greater-summer-loss
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

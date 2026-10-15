@@ -2,7 +2,7 @@
 type: theory
 title: Integrated conceptual framework distinguishing humanlikeness as design property from anthropomorphism as attribution process
 description: "The article defines humanlikeness as \"the degree to which an agent includes designed elements intended to mimic human characteristics, traits, features, processes, systems, and/or behaviors\" and anthropomorphism as th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

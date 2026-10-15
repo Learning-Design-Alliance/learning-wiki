@@ -4,7 +4,7 @@ id: blueprint-math-fellows-program
 title: Blueprint Math Fellows program
 description: A middle-school mathematics tutoring programme operated by Blueprint that uses AmeriCorps volunteers for daily in-person group tutoring supplemented by a web-based learning platform.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

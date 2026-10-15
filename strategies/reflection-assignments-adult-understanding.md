@@ -3,7 +3,7 @@ type: strategy
 id: reflection-assignments-adult-understanding
 title: "Use reflection assignments to check adult learners' understanding and participation change"
 description: "The article recommends that the educator ensure students display understanding during and at the end of a class session, and proposes reflection assignments as the mechanism: \"Reflection assignments are a good way to..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

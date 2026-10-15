@@ -3,7 +3,7 @@ type: claim
 title: Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness
 description: Attendance and effort, more than test scores or demographics, drive course grades, GPA, course failure, graduation, and college readiness
 id: attendance-effort-drive-grades-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Sustainable AI adoption depends on the interaction of three interdependent conditions: normative friction, governance-based equity, and epistemic integrity"
 description: "Sustainable AI adoption depends on the interaction of three interdependent conditions: normative friction, governance-based equity, and epistemic integrity"
 id: normative-friction-equity-epistemic-integrity-interdependent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

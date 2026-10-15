@@ -3,7 +3,7 @@ type: claim
 title: "The program's achievement effects were estimated statewide using nine years of longitudinal math and reading scores from 524 Missouri school districts"
 description: "The program's achievement effects were estimated statewide using nine years of longitudinal math and reading scores from 524 Missouri school districts"
 id: missouri-career-ladder-statewide-longitudinal-design
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

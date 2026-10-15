@@ -3,7 +3,7 @@ type: claim
 title: The PROMISE interim report estimated impacts across seven outcome domains for youth and families
 description: The PROMISE interim report estimated impacts across seven outcome domains for youth and families
 id: promise-interim-impact-outcome-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

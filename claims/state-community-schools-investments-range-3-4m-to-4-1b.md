@@ -3,7 +3,7 @@ type: claim
 title: State investments in community schools range from $3.4 million to $4.1 billion, mostly occurring within the past 3 years, drawing on state funds, federal ESSER funds, or both.
 description: State investments in community schools range from $3.4 million to $4.1 billion, mostly occurring within the past 3 years, drawing on state funds, federal ESSER funds, or both.
 id: state-community-schools-investments-range-3-4m-to-4-1b
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

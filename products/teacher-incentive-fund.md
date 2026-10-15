@@ -4,7 +4,7 @@ id: teacher-incentive-fund
 title: Teacher Incentive Fund
 description: A U.S.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

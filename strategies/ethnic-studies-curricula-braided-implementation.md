@@ -3,7 +3,7 @@ type: strategy
 id: ethnic-studies-curricula-braided-implementation
 title: Implement ethnic studies curricula with locally grounded development, compensated education partners, and sustained professional learning
 description: Ethnic Studies Local Support Grant funding addresses designing and implementing ethnic studies curriculum and graduation requirements.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

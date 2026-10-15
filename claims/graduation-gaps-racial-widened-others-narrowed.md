@@ -3,7 +3,7 @@ type: claim
 title: Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined
 description: Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined
 id: graduation-gaps-racial-widened-others-narrowed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

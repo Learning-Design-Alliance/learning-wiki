@@ -3,7 +3,7 @@ type: claim
 title: In the 10 evaluation districts, educators did not always understand the performance measures and pay-for-performance bonuses used for TIF
 description: In the 10 evaluation districts, educators did not always understand the performance measures and pay-for-performance bonuses used for TIF
 id: tif-educators-did-not-always-understand-measures-and-bonuses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

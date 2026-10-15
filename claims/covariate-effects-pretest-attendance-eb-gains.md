@@ -3,7 +3,7 @@ type: claim
 title: Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes
 description: Pretest, attendance, and EB status showed distinct covariate effects on specific literacy outcomes
 id: covariate-effects-pretest-attendance-eb-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

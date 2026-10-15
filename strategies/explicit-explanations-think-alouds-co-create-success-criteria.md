@@ -3,7 +3,7 @@ type: strategy
 id: explicit-explanations-think-alouds-co-create-success-criteria
 title: Make success criteria visible to students through explicit explanations, think-alouds, and co-construction
 description: "To communicate learning expectations, the brief recommends that \"Teachers can provide explicit explanations of the success criteria, conduct think-alouds about student work, and co-create the success criteria with stu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

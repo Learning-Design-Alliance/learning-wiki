@@ -3,7 +3,7 @@ type: design
 id: airis-framework-cognitively-activated-ai-augmentation
 title: "AIRIS: a three-phase framework for cognitively activated AI augmentation in physics instruction"
 description: AIRIS (Activate – Inquire – Reflect with Intelligent Support) is a three-phase instructional framework that structures student activities before, during, and after AI use in science education.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Teacher-centered philosophies correlate with formal-authority teaching styles
 description: Teacher-centered philosophies correlate with formal-authority teaching styles
 id: teacher-centered-philosophies-correlate-formal-authority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

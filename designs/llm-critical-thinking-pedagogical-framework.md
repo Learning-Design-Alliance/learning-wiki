@@ -3,7 +3,7 @@ type: design
 id: llm-critical-thinking-pedagogical-framework
 title: A design-oriented pedagogical framework for integrating LLMs to scaffold critical thinking in higher education
 description: The article proposes a normative, design-oriented framework grounded in Design-Based Research, instructional-design theory, AI ethics and Freirean critical pedagogy.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

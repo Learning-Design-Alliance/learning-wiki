@@ -3,7 +3,7 @@ type: claim
 title: PATHS topical sequencing follows a general-to-detailed continuum, the Simplifying Conditions Method, and synonymous and antonymous relationships
 description: PATHS topical sequencing follows a general-to-detailed continuum, the Simplifying Conditions Method, and synonymous and antonymous relationships
 id: paths-topical-sequencing-four-guidelines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

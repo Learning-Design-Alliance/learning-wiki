@@ -3,7 +3,7 @@ type: claim
 title: "GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators"
 description: "GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators"
 id: gai-rated-highly-effective-cognitive-presence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

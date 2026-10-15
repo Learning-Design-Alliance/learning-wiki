@@ -3,7 +3,7 @@ type: claim
 title: Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1
 description: Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1
 id: l1-transfer-efficient-until-outgrown
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

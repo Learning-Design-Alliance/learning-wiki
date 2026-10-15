@@ -2,7 +2,7 @@
 type: theory
 title: Flipped classroom as reversal of traditional class and self-study activities, fitting within blended learning
 description: "The review defines the flipped classroom as an educational technique with two parts: \"interactive group learning activities inside the classroom and direct personal computer‐based individual instruction outside the cl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

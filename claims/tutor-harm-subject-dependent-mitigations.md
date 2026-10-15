@@ -3,7 +3,7 @@ type: claim
 title: "Harm profiles are subject-dependent: metacognitive harm crosses 90% in all three subjects in multi-turn, peaking at 97.44% for Qwen2.5-32B in Mathematics"
 description: "Harm profiles are subject-dependent: metacognitive harm crosses 90% in all three subjects in multi-turn, peaking at 97.44% for Qwen2.5-32B in Mathematics"
 id: tutor-harm-subject-dependent-mitigations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

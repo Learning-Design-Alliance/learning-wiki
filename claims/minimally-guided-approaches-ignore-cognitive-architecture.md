@@ -3,7 +3,7 @@ type: claim
 title: Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence
 description: Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence
 id: minimally-guided-approaches-ignore-cognitive-architecture
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

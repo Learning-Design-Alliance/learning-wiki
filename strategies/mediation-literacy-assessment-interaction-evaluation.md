@@ -3,7 +3,7 @@ type: strategy
 id: mediation-literacy-assessment-interaction-evaluation
 title: Teach mediation literacy and redesign assessment and evaluation to measure interaction, not only satisfaction
 description: "Beyond generic AI literacy, the article argues \"Education-abroad students need a further capability: recognising what part of an encounter AI is performing, whether the task is administrative or educational, how much..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

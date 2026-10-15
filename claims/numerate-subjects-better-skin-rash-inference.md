@@ -3,7 +3,7 @@ type: claim
 title: Subjects highest in numeracy draw valid causal inferences from data better than less numerate subjects when the data are politically uncharged (skin rash treatment framing)
 description: Subjects highest in numeracy draw valid causal inferences from data better than less numerate subjects when the data are politically uncharged (skin rash treatment framing)
 id: numerate-subjects-better-skin-rash-inference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

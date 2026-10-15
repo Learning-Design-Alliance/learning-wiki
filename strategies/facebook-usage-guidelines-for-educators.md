@@ -3,7 +3,7 @@ type: strategy
 id: facebook-usage-guidelines-for-educators
 title: Adopt Facebook usage guidelines to encourage social media adoption in higher education teaching
 description: The review proposes Facebook usage guidelines that educators can adopt to encourage social media adoption in their teaching.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

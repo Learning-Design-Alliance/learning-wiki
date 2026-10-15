@@ -3,7 +3,7 @@ type: claim
 title: The effects of attending a bullying-reducing school on graduation are larger for students with a history of victimization
 description: The effects of attending a bullying-reducing school on graduation are larger for students with a history of victimization
 id: bullying-reduction-effects-larger-for-prior-victimized-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

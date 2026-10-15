@@ -3,7 +3,7 @@ type: claim
 title: Among similarly qualified seniors, the high school attended largely determines coursetaking patterns
 description: Among similarly qualified seniors, the high school attended largely determines coursetaking patterns
 id: school-determines-senior-coursetaking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

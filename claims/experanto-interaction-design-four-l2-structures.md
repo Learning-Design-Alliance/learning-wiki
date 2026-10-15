@@ -3,7 +3,7 @@ type: claim
 title: The study tested the interaction of explicit instruction with complexity and morphology/syntax across four L2 structures
 description: The study tested the interaction of explicit instruction with complexity and morphology/syntax across four L2 structures
 id: experanto-interaction-design-four-l2-structures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

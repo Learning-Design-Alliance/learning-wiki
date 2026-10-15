@@ -3,7 +3,7 @@ type: claim
 title: As teachers gain experience, their students are more likely to do better on measures beyond test scores, such as school attendance
 description: As teachers gain experience, their students are more likely to do better on measures beyond test scores, such as school attendance
 id: experience-benefits-beyond-test-scores-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

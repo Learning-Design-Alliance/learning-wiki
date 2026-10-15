@@ -3,7 +3,7 @@ type: claim
 title: Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks
 description: Constructivism is the major learning theory reflected in Iranian Pre-University ELT textbooks
 id: constructivism-dominates-iranian-pre-university-elt-textbooks
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

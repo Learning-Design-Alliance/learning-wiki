@@ -3,7 +3,7 @@ type: claim
 title: "Systematic review finds operational teaming most common (62.5%) and no empirical evidence of synergistic teacher-AI teaming"
 description: "Systematic review finds operational teaming most common (62.5%) and no empirical evidence of synergistic teacher-AI teaming"
 id: review-operational-teaming-most-common-no-synergistic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

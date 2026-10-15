@@ -3,7 +3,7 @@ type: design
 id: three-phase-practicum-e-mentoring-cycle
 title: "Three-phase practicum e-mentoring cycle: pre-practicum preparation, during-practicum supported practice, post-practicum reflection"
 description: The model operates across three interconnected phases.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

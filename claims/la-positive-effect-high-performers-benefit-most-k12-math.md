@@ -3,7 +3,7 @@ type: claim
 title: LA usage in K–12 mathematics has a generally positive effect on student learning, with high-performing students benefiting most
 description: LA usage in K–12 mathematics has a generally positive effect on student learning, with high-performing students benefiting most
 id: la-positive-effect-high-performers-benefit-most-k12-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

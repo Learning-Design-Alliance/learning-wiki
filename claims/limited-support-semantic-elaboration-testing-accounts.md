@@ -3,7 +3,7 @@ type: claim
 title: Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support
 description: Existing theoretical accounts attributing the testing effect to enhanced semantic elaboration receive limited support
 id: limited-support-semantic-elaboration-testing-accounts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: Youth workers at the treatment program treated admissions as a sudden procedural event rather than a gradual therapeutic process
 description: Youth workers at the treatment program treated admissions as a sudden procedural event rather than a gradual therapeutic process
 id: workers-treat-admissions-as-sudden-procedural-event
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

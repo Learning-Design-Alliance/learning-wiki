@@ -3,7 +3,7 @@ type: claim
 title: "The system's generated practice trajectories align with learner skill levels at a peak cosine similarity of 0.962 ± 0.014 at the primary difficulty level"
 description: "The system's generated practice trajectories align with learner skill levels at a peak cosine similarity of 0.962 ± 0.014 at the primary difficulty level"
 id: cmt-alignment-cosine-similarity-0962
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

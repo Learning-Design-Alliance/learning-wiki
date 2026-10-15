@@ -3,7 +3,7 @@ type: claim
 title: L1 glosses do not significantly improve EFL reading comprehension compared with no glosses
 description: L1 glosses do not significantly improve EFL reading comprehension compared with no glosses
 id: l1-glosses-no-reading-comprehension-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

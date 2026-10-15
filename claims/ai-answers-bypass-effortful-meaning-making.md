@@ -3,7 +3,7 @@ type: claim
 title: Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires
 description: Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires
 id: ai-answers-bypass-effortful-meaning-making
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

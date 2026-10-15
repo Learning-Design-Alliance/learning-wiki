@@ -3,7 +3,7 @@ type: claim
 title: Removing student major from the input marginally improves TRACE performance, suggesting major is recoverable from course history
 description: Removing student major from the input marginally improves TRACE performance, suggesting major is recoverable from course history
 id: major-ablation-no-predictive-signal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: funds-of-knowledge-mathematics-instruction
 title: "Build mathematics instruction on children's funds of knowledge uncovered through home visits and teacher study groups"
 description: "The review highlights Civil's (1996) work with elementary, working-class, language-minority children, in which the idea of \"funds of knowledge\" is used to develop teaching innovations that capitalize on the \"wealth of..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

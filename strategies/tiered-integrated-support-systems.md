@@ -3,7 +3,7 @@ type: strategy
 id: tiered-integrated-support-systems
 title: Organize integrated support systems as universal, supplemental, and intensive tiers
 description: The report recommends organizing integrated supports in tiers because all students experience different needs at different times.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

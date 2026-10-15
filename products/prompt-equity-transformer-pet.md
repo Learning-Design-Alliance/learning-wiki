@@ -4,7 +4,7 @@ id: prompt-equity-transformer-pet
 title: Prompt Equity Transformer (PET)
 description: An LLM-based accessibility middleware agent developed by Lier Jin et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit
 description: Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit
 id: any-clicker-pattern-beats-absence-except-lowest-quartile
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

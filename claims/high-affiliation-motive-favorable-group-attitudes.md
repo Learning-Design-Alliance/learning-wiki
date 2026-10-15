@@ -3,7 +3,7 @@ type: claim
 title: "In one study of undergraduate business majors in asynchronous online small groups, learners with high affiliation motive agreed more than low-affiliation learners with six of twelve attitude statements about group work"
 description: "In one study of undergraduate business majors in asynchronous online small groups, learners with high affiliation motive agreed more than low-affiliation learners with six of twelve attitude statements about group work"
 id: high-affiliation-motive-favorable-group-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

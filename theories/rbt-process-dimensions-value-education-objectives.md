@@ -2,7 +2,7 @@
 type: theory
 title: "Revised Bloom's Taxonomy process dimensions as a framework for framing value education objectives"
 description: "The article adopts Anderson and Krathwohl's (2001) Revised Bloom's Taxonomy, in which \"six process dimensions\" are named \"Remember, Understand, Apply, Analyze, Evaluate and Create.\" These dimensions \"represent a conti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

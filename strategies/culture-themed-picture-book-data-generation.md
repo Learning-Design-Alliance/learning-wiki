@@ -3,7 +3,7 @@ type: strategy
 id: culture-themed-picture-book-data-generation
 title: "Use a culture-themed children's book to generate data for K-2 glyph and graph activities."
 description: "This strategy has teachers anchor early data collection in a culture-themed children's book, using story content as the source of data students then organize."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

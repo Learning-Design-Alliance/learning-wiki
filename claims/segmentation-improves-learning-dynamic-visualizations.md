@@ -3,7 +3,7 @@ type: claim
 title: Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations
 description: Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations
 id: segmentation-improves-learning-dynamic-visualizations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -4,7 +4,7 @@ id: smarttutor
 title: SmartTutor
 description: A simulated Python tutoring environment developed by Oluseyi Olukolaa for testing pedagogical safety and adaptive tutoring policies in educational reinforcement-learning systems.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

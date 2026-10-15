@@ -3,7 +3,7 @@ type: claim
 title: Review findings are consistent across study design features; no moderator showed meaningful relationships
 description: Review findings are consistent across study design features; no moderator showed meaningful relationships
 id: sble-findings-consistent-across-design-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

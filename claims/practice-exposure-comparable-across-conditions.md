@@ -3,7 +3,7 @@ type: claim
 title: Interaction volume during AI-supported practice sessions did not differ significantly across conditions, supporting comparability of practice exposure
 description: Interaction volume during AI-supported practice sessions did not differ significantly across conditions, supporting comparability of practice exposure
 id: practice-exposure-comparable-across-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

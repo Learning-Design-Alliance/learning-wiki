@@ -3,7 +3,7 @@ type: claim
 title: Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers
 description: Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers
 id: elaborative-interrogation-reduces-confidence-in-errors
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

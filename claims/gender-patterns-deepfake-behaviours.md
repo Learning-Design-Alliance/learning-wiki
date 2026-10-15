@@ -3,7 +3,7 @@ type: claim
 title: "Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them"
 description: "Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them"
 id: gender-patterns-deepfake-behaviours
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

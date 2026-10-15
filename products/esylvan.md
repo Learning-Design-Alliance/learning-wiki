@@ -4,7 +4,7 @@ id: esylvan
 title: eSylvan
 description: "eSylvan was Sylvan Learning Centers' early Internet-based tutoring environment for delivering its reading, writing, and mathematics curriculum through teacher-led online sessions."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

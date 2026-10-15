@@ -3,7 +3,7 @@ type: strategy
 id: critical-thinking-fact-checking-llm-integration
 title: Adopt a clear pedagogical approach focused on critical thinking and fact-checking strategies when integrating LLMs into curricula
 description: The paper recommends that educational systems pair LLM use with a pedagogical approach centered on critical thinking and fact checking.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

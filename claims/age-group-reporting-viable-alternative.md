@@ -3,7 +3,7 @@ type: claim
 title: Grouping students by age instead of grade is a viable alternative for tracking ITBS score trends, mirroring the grade-group findings
 description: Grouping students by age instead of grade is a viable alternative for tracking ITBS score trends, mirroring the grade-group findings
 id: age-group-reporting-viable-alternative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

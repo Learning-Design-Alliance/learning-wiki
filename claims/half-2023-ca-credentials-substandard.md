@@ -3,7 +3,7 @@ type: claim
 title: Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials
 description: Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials
 id: half-2023-ca-credentials-substandard
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

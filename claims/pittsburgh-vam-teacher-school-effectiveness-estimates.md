@@ -3,7 +3,7 @@ type: claim
 title: "Value-added models were developed to estimate teachers' and schools' contributions to student achievement in Pittsburgh Public Schools"
 description: "Value-added models were developed to estimate teachers' and schools' contributions to student achievement in Pittsburgh Public Schools"
 id: pittsburgh-vam-teacher-school-effectiveness-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

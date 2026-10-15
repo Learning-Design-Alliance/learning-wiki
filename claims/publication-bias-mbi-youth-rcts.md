@@ -3,7 +3,7 @@ type: claim
 title: Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects
 description: Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects
 id: publication-bias-mbi-youth-rcts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

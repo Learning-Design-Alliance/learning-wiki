@@ -3,7 +3,7 @@ type: element
 id: four-principal-test-score-performance-measures
 title: Four principal performance measures based on student test scores evaluated in Pennsylvania
 description: "The report evaluates four principal performance measures based on student test scores: average achievement, adjusted average achievement, school value-added, and adjusted school value-added."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

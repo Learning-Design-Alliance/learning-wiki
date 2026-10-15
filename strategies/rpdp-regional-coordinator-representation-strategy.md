@@ -3,7 +3,7 @@ type: strategy
 id: rpdp-regional-coordinator-representation-strategy
 title: Represent small and rural districts in statewide materials review through regional professional development program coordinators
 description: "To ensure rural districts are well represented on statewide review panels, NDE carved out \"an explicit path for rural districts to communicate their needs and interests to their RPDPs, who represented them on content-..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

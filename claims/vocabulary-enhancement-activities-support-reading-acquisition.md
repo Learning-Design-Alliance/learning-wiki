@@ -3,7 +3,7 @@ type: claim
 title: Classroom experiments test whether instructional procedures that increase the salience and cognitive processing of targeted words in reading texts can support L2 vocabulary acquisition
 description: Classroom experiments test whether instructional procedures that increase the salience and cognitive processing of targeted words in reading texts can support L2 vocabulary acquisition
 id: vocabulary-enhancement-activities-support-reading-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

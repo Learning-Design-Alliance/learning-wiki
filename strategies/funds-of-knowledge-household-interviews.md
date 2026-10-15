@@ -3,7 +3,7 @@ type: strategy
 id: funds-of-knowledge-household-interviews
 title: Funds of Knowledge Household Interviews
 description: "Teachers visit students' homes as participant-observers \"with the purpose of identifying and documenting existing knowledge\", unlike traditional home visits about a student problem."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

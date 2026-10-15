@@ -3,7 +3,7 @@ type: claim
 title: Kazakhstani faculty reported higher baseline GenAI pedagogical readiness than Chinese faculty on all seven dimensions, with the largest differences in disciplinary transfer, prompt design, and basic understanding
 description: Kazakhstani faculty reported higher baseline GenAI pedagogical readiness than Chinese faculty on all seven dimensions, with the largest differences in disciplinary transfer, prompt design, and basic understanding
 id: kazakhstani-faculty-higher-baseline-genai-readiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

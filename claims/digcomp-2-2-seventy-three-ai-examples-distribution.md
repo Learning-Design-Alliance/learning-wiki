@@ -3,7 +3,7 @@ type: claim
 title: DigComp 2.2 added 73 novel AI examples, concentrated in communication and collaboration, problem solving, and information and data literacy
 description: DigComp 2.2 added 73 novel AI examples, concentrated in communication and collaboration, problem solving, and information and data literacy
 id: digcomp-2-2-seventy-three-ai-examples-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

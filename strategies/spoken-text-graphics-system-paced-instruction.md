@@ -3,7 +3,7 @@ type: strategy
 id: spoken-text-graphics-system-paced-instruction
 title: Use audio-visual (spoken text with graphics) presentation for system-paced, high element interactivity instruction
 description: The meta-analysis supports presenting textual information through an auditory mode while graphical information is presented visually, particularly when materials are system-paced and high in element interactivity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions
 description: Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions
 id: statistical-item-selection-conflicts-criterion-referenced-definition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

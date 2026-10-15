@@ -3,7 +3,7 @@ type: claim
 title: "Self-directed online learners' modeling behaviors cluster into three patterns—Observation, Construction, and Exploration—differing in engagement level"
 description: "Self-directed online learners' modeling behaviors cluster into three patterns—Observation, Construction, and Exploration—differing in engagement level"
 id: three-behavioral-patterns-self-directed-modeling
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

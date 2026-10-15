@@ -3,7 +3,7 @@ type: claim
 title: "In 2019, high school graduation rates were similar across Chicago community areas (mostly 70–90%) while rates for the same students varied much more by high school (49–99%)"
 description: "In 2019, high school graduation rates were similar across Chicago community areas (mostly 70–90%) while rates for the same students varied much more by high school (49–99%)"
 id: graduation-rates-similar-by-community-area-varied-by-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

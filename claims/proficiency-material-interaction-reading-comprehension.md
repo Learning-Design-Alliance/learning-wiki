@@ -3,7 +3,7 @@ type: claim
 title: The Proficiency × Material interaction on reading comprehension was significant, indicating heterogeneous material effects across proficiency strata
 description: The Proficiency × Material interaction on reading comprehension was significant, indicating heterogeneous material effects across proficiency strata
 id: proficiency-material-interaction-reading-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

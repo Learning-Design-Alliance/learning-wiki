@@ -3,7 +3,7 @@ type: claim
 title: Indexing LLM-generated artifacts nearly doubles retrieval recall on analytical queries compared with transcript-only retrieval, while direct queries perform comparably across configurations
 description: Indexing LLM-generated artifacts nearly doubles retrieval recall on analytical queries compared with transcript-only retrieval, while direct queries perform comparably across configurations
 id: artifact-indexing-improves-analytical-retrieval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

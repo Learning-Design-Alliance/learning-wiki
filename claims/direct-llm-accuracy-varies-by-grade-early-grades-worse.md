@@ -3,7 +3,7 @@ type: claim
 title: Direct LLM estimation accuracy varies by grade, performing worse for early grades; math grade K was worse than the dummy regressor and math grade 1 showed no significant prediction
 description: Direct LLM estimation accuracy varies by grade, performing worse for early grades; math grade K was worse than the dummy regressor and math grade 1 showed no significant prediction
 id: direct-llm-accuracy-varies-by-grade-early-grades-worse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

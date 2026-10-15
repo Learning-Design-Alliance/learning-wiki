@@ -3,7 +3,7 @@ type: strategy
 id: six-policy-areas-equitable-sead
 title: Six policy areas state leaders can implement to create equitable SEAD-supportive learning environments
 description: "The brief identifies six key policy issues for state and school leaders to create equitable and safe learning environments that promote positive SEAD: inclusive discipline and dress code policies, meaningful professio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

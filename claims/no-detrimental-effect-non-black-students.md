@@ -3,7 +3,7 @@ type: claim
 title: "Having a teacher highly effective for Black students shows no detrimental effect on non-Black students' test scores"
 description: "Having a teacher highly effective for Black students shows no detrimental effect on non-Black students' test scores"
 id: no-detrimental-effect-non-black-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

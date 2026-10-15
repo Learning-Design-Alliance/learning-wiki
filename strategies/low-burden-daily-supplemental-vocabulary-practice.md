@@ -3,7 +3,7 @@ type: strategy
 id: low-burden-daily-supplemental-vocabulary-practice
 title: Deploy spaced-repetition vocabulary practice as a low-burden daily supplement of a few minutes without changing existing pedagogy
 description: The article recommends using computer-based spaced repetition as a supplementary activity that takes only minutes a day and requires no modifications to usual classroom pedagogy.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

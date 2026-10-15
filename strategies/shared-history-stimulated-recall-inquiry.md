@@ -3,7 +3,7 @@ type: strategy
 id: shared-history-stimulated-recall-inquiry
 title: Shared history feedback inquiry using stimulated recall of time-lapse replays
 description: "Each week before new drawings, the previous week's time-lapse negatives are projected larger than life size and the artist is asked questions about how the drawings were made."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

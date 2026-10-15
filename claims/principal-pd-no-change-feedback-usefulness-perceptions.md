@@ -3,7 +3,7 @@ type: claim
 title: Teachers whose principals received the program were no more likely to report positive perceptions of the usefulness of the feedback provided
 description: Teachers whose principals received the program were no more likely to report positive perceptions of the usefulness of the feedback provided
 id: principal-pd-no-change-feedback-usefulness-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

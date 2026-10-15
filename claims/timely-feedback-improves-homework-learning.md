@@ -3,7 +3,7 @@ type: claim
 title: Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt
 description: Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt
 id: timely-feedback-improves-homework-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

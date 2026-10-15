@@ -3,7 +3,7 @@ type: claim
 title: "May 2026 token telemetry was cache-dominant: 82.9% of 73,950,305 recorded tokens were cache reads, suggesting persistent workflows shift the economic unit from cost per token to cost per completed artifact"
 description: "May 2026 token telemetry was cache-dominant: 82.9% of 73,950,305 recorded tokens were cache reads, suggesting persistent workflows shift the economic unit from cost per token to cost per completed artifact"
 id: cache-dominant-82-9-percent-tokens
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

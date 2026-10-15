@@ -3,7 +3,7 @@ type: claim
 title: "The 2023 Post-secondary Attainment Index for CPS ninth-graders is 31%, up 0.4 percentage points from 2022"
 description: "The 2023 Post-secondary Attainment Index for CPS ninth-graders is 31%, up 0.4 percentage points from 2022"
 id: cps-2023-pai-31-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

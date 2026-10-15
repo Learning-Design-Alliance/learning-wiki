@@ -3,7 +3,7 @@ type: claim
 title: SEDA and MAP Growth district growth estimates in mathematics correlate at .90 (precision-adjusted)
 description: SEDA and MAP Growth district growth estimates in mathematics correlate at .90 (precision-adjusted)
 id: seda-map-growth-math-growth-correlation-090
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity"
 description: "Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity"
 id: weird-bias-ai-trust-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

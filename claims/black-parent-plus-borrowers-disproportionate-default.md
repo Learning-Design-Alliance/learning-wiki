@@ -3,7 +3,7 @@ type: claim
 title: Black Parent PLUS borrowers default at disproportionately high rates compared with White parent borrowers
 description: Black Parent PLUS borrowers default at disproportionately high rates compared with White parent borrowers
 id: black-parent-plus-borrowers-disproportionate-default
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

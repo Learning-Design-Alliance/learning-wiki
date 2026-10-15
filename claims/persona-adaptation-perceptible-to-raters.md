@@ -3,7 +3,7 @@ type: claim
 title: Systems adapt to the specified learner persona in ways human raters can perceive, scoring well above chance in persona identification
 description: Systems adapt to the specified learner persona in ways human raters can perceive, scoring well above chance in persona identification
 id: persona-adaptation-perceptible-to-raters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

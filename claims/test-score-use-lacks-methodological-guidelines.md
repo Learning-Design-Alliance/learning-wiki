@@ -3,7 +3,7 @@ type: claim
 title: Approaches to test score use and test purpose lack well-developed methodological guidelines and established sources of evidence, unlike score interpretation
 description: Approaches to test score use and test purpose lack well-developed methodological guidelines and established sources of evidence, unlike score interpretation
 id: test-score-use-lacks-methodological-guidelines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Mastery learning effects are smaller in science than in mathematics, social studies, and language arts, contrary to theory, partly due to grade-level confounding
 description: Mastery learning effects are smaller in science than in mathematics, social studies, and language arts, contrary to theory, partly due to grade-level confounding
 id: mastery-science-smaller-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

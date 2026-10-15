@@ -3,7 +3,7 @@ type: claim
 title: IPMA identifies cognitive vigilance as the highest-importance, lowest-performance priority for intervention targeting transformative learning
 description: IPMA identifies cognitive vigilance as the highest-importance, lowest-performance priority for intervention targeting transformative learning
 id: ipma-vigilance-high-importance-low-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

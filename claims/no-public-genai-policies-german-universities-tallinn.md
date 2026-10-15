@@ -3,7 +3,7 @@ type: claim
 title: No public GenAI policies were found for German universities and Tallinn University of Technology among the sampled institutions
 description: No public GenAI policies were found for German universities and Tallinn University of Technology among the sampled institutions
 id: no-public-genai-policies-german-universities-tallinn
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

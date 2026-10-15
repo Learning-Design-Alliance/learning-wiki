@@ -3,7 +3,7 @@ type: claim
 title: Models can only be understood with respect to the aims and intentions of a cognitive agent, not solely in terms of representation
 description: Models can only be understood with respect to the aims and intentions of a cognitive agent, not solely in terms of representation
 id: models-understood-via-agent-aims-and-intentions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

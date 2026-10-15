@@ -3,7 +3,7 @@ type: strategy
 id: improve-voice-usability-native-language-options
 title: Improve voice prompting usability and offer native-language voice prompting before wider instructional adoption
 description: "The article's discussion and future-work sections recommend improving voice input so students gain \"student control over success\", listing better hardware, appropriate environments, native language options, explicit i..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

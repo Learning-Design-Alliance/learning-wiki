@@ -3,7 +3,7 @@ type: element
 id: four-early-elementary-math-curricula-evaluation-set
 title: "Four early elementary math curricula compared in the federal evaluation: Math Expressions, Saxon Math, Investigations in Number, Data, and Space, and Scott Foresman-Addison Wesley Mathematics"
 description: The evaluation compared four early elementary math programs, each a textbook-based curriculum with an associated instructional approach.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

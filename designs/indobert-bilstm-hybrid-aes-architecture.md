@@ -3,7 +3,7 @@ type: design
 id: indobert-bilstm-hybrid-aes-architecture
 title: Hybrid IndoBERT–BiLSTM automated essay scoring architecture with per-dimension classifiers
 description: "The IB-BiLSTM architecture \"combines IndoBERT as a contextual encoder with a two -layer Bidirectional LSTM (BiLSTM) as a sequential classifier.\" IndoBERT produces token-level embeddings of shape (batch × 128 × 768) fe..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Cumulative educational-experience account of emerging gender disparities in mathematics
 description: The article proposes that gendered performance patterns in elementary mathematics are best understood as the cumulative product of educational experiences rather than inherent ability differences.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

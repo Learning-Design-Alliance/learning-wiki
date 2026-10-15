@@ -3,7 +3,7 @@ type: claim
 title: "Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences"
 description: "Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences"
 id: simplicity-familiarity-drive-dashboard-preference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

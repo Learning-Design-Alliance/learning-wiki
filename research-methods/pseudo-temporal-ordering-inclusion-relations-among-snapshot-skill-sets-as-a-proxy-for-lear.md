@@ -3,7 +3,7 @@ type: research-method
 id: pseudo-temporal-ordering-inclusion-relations-among-snapshot-skill-sets-as-a-proxy-for-lear
 title: "Pseudo-temporal ordering: inclusion relations among snapshot skill sets as a proxy for learning progression"
 description: "The article proposes a framework in which, absent temporal logs, set-inclusion relations among learners' mastered-skill sets induce a pseudo-temporal axis: a learner whose mastered-skill set is a superset of another's can be viewed as a plausible later state."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

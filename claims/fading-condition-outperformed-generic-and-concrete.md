@@ -3,7 +3,7 @@ type: claim
 title: "A conference paper reports that, in McNeil and Fyfe (2012), undergraduates taught with concreteness fading outperformed those taught in generic or concrete conditions"
 description: "A conference paper reports that, in McNeil and Fyfe (2012), undergraduates taught with concreteness fading outperformed those taught in generic or concrete conditions"
 id: fading-condition-outperformed-generic-and-concrete
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

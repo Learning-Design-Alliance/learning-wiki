@@ -3,7 +3,7 @@ type: strategy
 id: adapt-stellar-inquiry-to-large-lecture-classes
 title: Adapt the paper-based stellar populations inquiry to large Astronomy 101 classes and test learning with and without the inquiry
 description: Because all materials are printed on paper, the authors propose scaling the inquiry up and evaluating it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Students taught with the Self-Determined Learning Model of Instruction gain in self-determination, but not significantly more than a delayed-treatment control group
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

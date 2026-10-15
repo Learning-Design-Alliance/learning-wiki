@@ -3,7 +3,7 @@ type: claim
 title: The report presents the first national study of high school and college information technology skill certification programs
 description: The report presents the first national study of high school and college information technology skill certification programs
 id: first-national-study-it-certification-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: coursekata
 title: CourseKata
 description: CourseKata is a non-profit online textbook platform that provides fully instrumented course materials with embedded assessments, coding activities, surveys, and learning-interaction data collection.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

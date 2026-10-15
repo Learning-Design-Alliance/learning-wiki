@@ -3,7 +3,7 @@ type: element
 id: mpg-skills-checklist-tests-ns34-li52
 title: MAP for Primary Grades Skills Checklist tests (NS34 and LI52) as the empirical data source
 description: "The study uses two computerized linear Skills Checklist tests from NWEA's Measures of Academic Progress for Primary Grades: the 34-item Number Sense (NS34) mathematics test and the 52-item Letter Identification (LI52)..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

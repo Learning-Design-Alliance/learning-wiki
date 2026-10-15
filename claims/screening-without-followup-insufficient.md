@@ -3,7 +3,7 @@ type: claim
 title: Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent
 description: Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent
 id: screening-without-followup-insufficient
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

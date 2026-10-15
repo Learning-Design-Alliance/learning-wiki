@@ -3,7 +3,7 @@ type: claim
 title: The seven levers can describe environments for robust understanding with or without AI, mapping onto the TRU dimensions
 description: The seven levers can describe environments for robust understanding with or without AI, mapping onto the TRU dimensions
 id: levers-map-to-tru-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

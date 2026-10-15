@@ -3,7 +3,7 @@ type: claim
 title: Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant
 description: Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant
 id: secondary-behavioural-outcomes-negligible-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Both ChatGPT feedback and peer feedback prompted doctoral students to actively exercise hard evaluative judgement in statistical analysis, through different challenges
 description: Both ChatGPT feedback and peer feedback prompted doctoral students to actively exercise hard evaluative judgement in statistical analysis, through different challenges
 id: both-feedback-modalities-prompt-hard-evaluative-judgement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

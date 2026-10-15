@@ -3,7 +3,7 @@ type: strategy
 id: resident-as-second-adult-in-tk-classroom-strategy
 title: Employ residency residents as the second adult in TK classrooms using assistant teacher or paraprofessional budget lines
 description: "The brief recommends that, given TK's child-to-adult ratio requirements, districts employ residency residents, with salary and benefits, as the second adult in the classroom \"using assistant teacher or paraprofessiona..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

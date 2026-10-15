@@ -3,7 +3,7 @@ type: claim
 title: "Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners"
 description: "Learner age/level moderates the benefit of negotiation of meaning: high school learners relied on it more than college learners"
 id: age-moderates-negotiation-benefit
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

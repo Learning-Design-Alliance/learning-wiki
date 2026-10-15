@@ -3,7 +3,7 @@ type: claim
 title: "Predictors of retention vary across grades: reading achievement is strongest in lower grades while math increases in importance later, and young-for-grade is the only predictor associated with greater retention probability"
 description: "Predictors of retention vary across grades: reading achievement is strongest in lower grades while math increases in importance later, and young-for-grade is the only predictor associated with greater retention probab..."
 id: retention-predictors-vary-by-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

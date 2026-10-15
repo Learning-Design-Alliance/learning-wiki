@@ -3,7 +3,7 @@ type: claim
 title: Teachers reported increasing encouragement of risk-taking while coaches were less confident teachers actually took risks
 description: Teachers reported increasing encouragement of risk-taking while coaches were less confident teachers actually took risks
 id: dlp-risk-taking-perception-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Three student-centered practices were associated with lower 2nd-grade math achievement
 description: Three student-centered practices were associated with lower 2nd-grade math achievement
 id: student-centered-practices-lower-second-grade-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

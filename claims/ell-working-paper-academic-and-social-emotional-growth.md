@@ -3,7 +3,7 @@ type: claim
 title: A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners
 description: A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners
 id: ell-working-paper-academic-and-social-emotional-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: dpt-hazards-framework-and-matched-questioning
 title: Dual-process reasoning hazards framework with hazard-matched questioning strategies
 description: Dual-process theories describe reasoning as the interplay of a fast, automatic Process 1 producing a provisional mental model and a slow, effortful Process 2 that evaluates it.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

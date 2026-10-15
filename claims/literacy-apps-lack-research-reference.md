@@ -4,7 +4,7 @@ title: More than 70 percent of the 180 most popular literacy applications refere
 description: More than 70 percent of the 180 most popular literacy applications referenced no research in their design
 id: literacy-apps-lack-research-reference
 aliases: [few-literacy-apps-mention-research-descriptions]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

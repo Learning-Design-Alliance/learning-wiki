@@ -4,7 +4,7 @@ id: proberai
 title: Prober.ai
 description: Prober.ai is a research-logging software platform that records consented participant sessions, events, drafts, challenges, unlocks, and reflection-coaching interactions for studying learning behavior.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

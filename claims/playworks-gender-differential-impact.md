@@ -3,7 +3,7 @@ type: claim
 title: "Playworks showed significant impact on some measures of girls' physical activity but no significant impact on measures of boys' physical activity"
 description: "Playworks showed significant impact on some measures of girls' physical activity but no significant impact on measures of boys' physical activity"
 id: playworks-gender-differential-impact
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention"
 description: "Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention"
 id: usefulness-ease-predict-attitude-intention-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

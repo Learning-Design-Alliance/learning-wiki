@@ -3,7 +3,7 @@ type: claim
 title: A single wave of pretest measures reduces selection bias in every examined case and eliminates it in half of them
 description: A single wave of pretest measures reduces selection bias in every examined case and eliminates it in half of them
 id: single-pretest-wave-reduces-selection-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

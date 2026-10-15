@@ -2,7 +2,7 @@
 type: theory
 title: "Remapping via the local/global dynamic yields four human/social responses to nature: control, submission, awe, reconstruction"
 description: "To deprivilege the first map, the authors remap EE-related discourse around the local/global locus of vision using two continua: an axiology of community (species beings versus social beings) and an epistemology of so..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

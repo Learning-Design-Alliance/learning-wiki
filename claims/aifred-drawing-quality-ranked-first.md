@@ -3,7 +3,7 @@ type: claim
 title: Drawings produced with AIfred are ranked best by independent art and design professors in 33 of 36 cases
 description: Drawings produced with AIfred are ranked best by independent art and design professors in 33 of 36 cases
 id: aifred-drawing-quality-ranked-first
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

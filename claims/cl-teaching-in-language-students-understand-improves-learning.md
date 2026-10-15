@@ -3,7 +3,7 @@ type: claim
 title: Teaching students in a language they understand benefits both language learning and broader learning
 description: Teaching students in a language they understand benefits both language learning and broader learning
 id: cl-teaching-in-language-students-understand-improves-learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

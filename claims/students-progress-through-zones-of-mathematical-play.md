@@ -2,7 +2,7 @@
 type: claim
 title: Middle-school students progress through zones of mathematical play in a designed digital game, taking varied conceptual paths to the same goal
 id: students-progress-through-zones-of-mathematical-play
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

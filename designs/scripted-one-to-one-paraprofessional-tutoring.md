@@ -3,7 +3,7 @@ type: design
 id: scripted-one-to-one-paraprofessional-tutoring
 title: Scripted one-to-one tutoring with fixed dosage and paraprofessional tutors
 description: "Galaxy Math operationalizes tutoring as a scripted, fixed-dosage, one-to-one delivery model: \"The program is scripted, and tutors are expected to follow the scripts without reading them or memorizing them.\" Sessions a..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

@@ -2,7 +2,7 @@
 type: theory
 title: "Body-listening framework: five components of somatic exploration for the dance technique class"
 description: The article proposes a pedagogical framework for infusing a somatic, body-listening approach into the dance technique class.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

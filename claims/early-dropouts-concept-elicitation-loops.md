@@ -3,7 +3,7 @@ type: claim
 title: Early dropouts are trapped in recursive concept-elicitation loops before reaching problem execution
 description: Early dropouts are trapped in recursive concept-elicitation loops before reaching problem execution
 id: early-dropouts-concept-elicitation-loops
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-
 title: A Toolkit to Support Evidence-Based Writing Instruction in Grades 2 Through 4
 description: A free professional-development toolkit providing guided activities and practices for educators to implement evidence-based writing instruction in grades 2 through 4 throughout the school year.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

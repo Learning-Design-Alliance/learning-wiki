@@ -2,7 +2,7 @@
 type: theory
 title: "Scaling depth is multidimensional: depth, sustainability, ownership, and evolution beyond participant counts"
 description: The chapter argues scale is not just a bigger n, drawing on Coburn (2003) and Clarke and Dede (2009).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

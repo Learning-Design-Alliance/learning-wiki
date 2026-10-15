@@ -3,7 +3,7 @@ type: strategy
 id: llm-assisted-course-tagging-confirmatory-role
 title: Use LLMs to generate initial course metadata labels, shifting human taggers to a confirmatory role
 description: "To lighten instructor load during data enrichment, CLICKSTREAM's early-stage AI features use large language models to automate tagging."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

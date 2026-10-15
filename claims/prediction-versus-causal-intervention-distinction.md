@@ -3,7 +3,7 @@ type: claim
 title: "Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change"
 description: "Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change"
 id: prediction-versus-causal-intervention-distinction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

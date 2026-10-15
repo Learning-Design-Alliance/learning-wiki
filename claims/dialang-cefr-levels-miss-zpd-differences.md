@@ -3,7 +3,7 @@ type: claim
 title: "Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture"
 description: "Learners placed at the same CEFR level by DIALANG differ in their ZPDs, which DIALANG's non-dynamic feedback does not capture"
 id: dialang-cefr-levels-miss-zpd-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

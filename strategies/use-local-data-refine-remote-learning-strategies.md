@@ -3,7 +3,7 @@ type: strategy
 id: use-local-data-refine-remote-learning-strategies
 title: Use local data to identify which remote learning strategies work best for your own students
 description: "The publication recommends that schools and teachers use their own data to refine remote learning strategies, asking which approaches \"work best in your schools and for your students.\" The e2i Coach is offered as the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

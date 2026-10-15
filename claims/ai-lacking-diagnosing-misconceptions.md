@@ -3,7 +3,7 @@ type: claim
 title: AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making
 description: AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making
 id: ai-lacking-diagnosing-misconceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

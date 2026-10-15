@@ -3,7 +3,7 @@ type: claim
 title: Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning
 description: Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning
 id: marginal-glosses-dictionary-recurrence-improve-incidental-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

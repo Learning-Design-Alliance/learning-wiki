@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution
 description: ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution
 id: chatgpt-lower-code-ownership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

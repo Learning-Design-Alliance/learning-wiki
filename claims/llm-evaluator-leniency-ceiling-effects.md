@@ -3,7 +3,7 @@ type: claim
 title: Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination
 description: Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination
 id: llm-evaluator-leniency-ceiling-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

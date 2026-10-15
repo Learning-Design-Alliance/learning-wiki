@@ -3,7 +3,7 @@ type: claim
 title: Multidistrict SELPAs without a large district received higher per pupil special education funding and had higher preK and K–12 inclusion rates than those with a large district
 description: Multidistrict SELPAs without a large district received higher per pupil special education funding and had higher preK and K–12 inclusion rates than those with a large district
 id: multidistrict-selpas-without-large-district-higher-funding-inclusion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

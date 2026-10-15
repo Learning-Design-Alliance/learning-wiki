@@ -3,7 +3,7 @@ type: claim
 title: Collaborative-style preservice teachers score higher on continuous and intentional thinking than avoidant and dependent styles
 description: Collaborative-style preservice teachers score higher on continuous and intentional thinking than avoidant and dependent styles
 id: collaborative-style-higher-continuous-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: subgroup-specific-el-support-strategies
 title: "Tailor indicator-based support by English Learner subgroup: raise former ELs' GPAs toward 3.0, monitor late-arriving ELs' grades and attendance through tenth grade, prioritize attendance and course passing for long-term ELs, and attendance for long-term ELs with IEPs"
 description: The study recommends subgroup-specific actions based on how each group performs on the strongest indicators.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

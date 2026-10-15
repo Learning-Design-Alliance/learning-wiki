@@ -3,7 +3,7 @@ type: strategy
 id: discussion-scaffolds-paraphrase-formulaic-expressions
 title: Scaffold mathematical discussion with paraphrasing, restating, formulaic expressions, elaborating questions, and key vocabulary in context
 description: "In the math warm-up vignette, the teacher supports English learners to express mathematical thinking with a listed set of strategies: \"paraphrasing and extending student speech, often with more precise vocabulary, res..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

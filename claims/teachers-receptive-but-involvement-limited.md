@@ -3,7 +3,7 @@ type: claim
 title: Teachers across sectors are receptive to collaboration on average, but the proportion of teachers involved in grant activities has been limited
 description: Teachers across sectors are receptive to collaboration on average, but the proportion of teachers involved in grant activities has been limited
 id: teachers-receptive-but-involvement-limited
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

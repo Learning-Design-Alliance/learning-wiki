@@ -3,7 +3,7 @@ type: claim
 title: LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms
 description: LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms
 id: llm-simulations-bridge-theory-practice-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

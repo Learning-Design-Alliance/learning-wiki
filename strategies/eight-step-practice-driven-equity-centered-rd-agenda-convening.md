@@ -3,7 +3,7 @@ type: strategy
 id: eight-step-practice-driven-equity-centered-rd-agenda-convening
 title: "Convene cross-sector stakeholders in a structured eight-step process to co-develop practice-driven, equity-centered R&D agendas"
 description: "The article describes a full-day convening process with eight steps: inviting a range of experts, preparing participants, facilitating equity talks, unpacking the challenge, thinking with research, closing the gaps, c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

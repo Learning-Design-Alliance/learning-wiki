@@ -3,7 +3,7 @@ type: claim
 title: More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages
 description: More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages
 id: gap-busting-charter-schools-exceed-state-averages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

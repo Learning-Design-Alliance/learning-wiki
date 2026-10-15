@@ -3,7 +3,7 @@ type: strategy
 id: administrator-math-leader-support-resources
 title: Provide administrator and math leader supports to reinforce the fraction trajectory across grades PK–8
 description: Beyond teacher-facing materials, the toolkit includes resources so leaders can reinforce fraction instruction.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

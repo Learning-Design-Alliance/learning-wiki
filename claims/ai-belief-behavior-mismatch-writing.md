@@ -3,7 +3,7 @@ type: claim
 title: "Students' stated beliefs about AI use diverge from their actual practice, including hidden or unrecognized policy-violating use"
 description: "Students' stated beliefs about AI use diverge from their actual practice, including hidden or unrecognized policy-violating use"
 id: ai-belief-behavior-mismatch-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

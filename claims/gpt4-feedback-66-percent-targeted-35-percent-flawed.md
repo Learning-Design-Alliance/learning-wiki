@@ -3,7 +3,7 @@ type: claim
 title: "GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer"
 description: "GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer"
 id: gpt4-feedback-66-percent-targeted-35-percent-flawed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

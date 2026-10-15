@@ -3,7 +3,7 @@ type: strategy
 id: asset-mapping-celebrate-strengths
 title: Use asset mapping to identify and celebrate existing strengths in the school and community
 description: "Asset mapping is \"an activity that focuses on the strengths that currently exist within a system or community,\" looking at the school, district, and surrounding community as a whole to identify assets worth celebratin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

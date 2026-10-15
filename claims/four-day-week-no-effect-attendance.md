@@ -3,7 +3,7 @@ type: claim
 title: Four-day school weeks have no detectable effect on high school attendance
 description: Four-day school weeks have no detectable effect on high school attendance
 id: four-day-week-no-effect-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

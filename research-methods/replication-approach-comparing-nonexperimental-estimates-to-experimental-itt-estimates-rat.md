@@ -3,7 +3,7 @@ type: research-method
 id: replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat
 title: Replication approach comparing nonexperimental estimates to experimental ITT estimates rather than CACE
 description: The article develops a replication method for within-study comparisons in settings with control-group noncompliance.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

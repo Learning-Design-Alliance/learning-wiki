@@ -3,7 +3,7 @@ type: claim
 title: Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment
 description: Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment
 id: few-business-schools-own-ai-policies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

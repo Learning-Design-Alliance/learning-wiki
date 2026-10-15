@@ -3,7 +3,7 @@ type: claim
 title: Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls
 description: Black and Latinx students were less likely than their peers to be in the On-Track category, and within each race/ethnicity group boys were less likely to be on-track than girls
 id: condensed-eot-race-gender-equity-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

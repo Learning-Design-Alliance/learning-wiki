@@ -3,7 +3,7 @@ type: strategy
 id: develop-perseverance-through-context-mindsets-strategies
 title: Develop perseverance indirectly by shaping classroom context, mindsets, and learning strategies rather than targeting grit directly
 description: "Because direct grit interventions lack evidentiary support, the review recommends teachers build perseverance indirectly: \"all students are more likely to demonstrate perseverance if the school or classroom context he..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

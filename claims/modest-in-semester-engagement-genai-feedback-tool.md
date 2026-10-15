@@ -3,7 +3,7 @@ type: claim
 title: Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool
 description: Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool
 id: modest-in-semester-engagement-genai-feedback-tool
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

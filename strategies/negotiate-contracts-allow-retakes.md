@@ -3,7 +3,7 @@ type: strategy
 id: negotiate-contracts-allow-retakes
 title: Negotiate learning contracts at the start of term and allow test retakes until mastery
 description: "This strategy combines the memo's two implementable moves: at the beginning of the term the teacher presents grading options and each student proposes specific work and criteria within those limits, and students are a..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

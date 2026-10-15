@@ -3,7 +3,7 @@ type: claim
 title: Both instructor and AI-generated feedback were perceived positively, with instructor feedback rated higher descriptively on all four perception dimensions
 description: Both instructor and AI-generated feedback were perceived positively, with instructor feedback rated higher descriptively on all four perception dimensions
 id: both-feedback-types-perceived-positively
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

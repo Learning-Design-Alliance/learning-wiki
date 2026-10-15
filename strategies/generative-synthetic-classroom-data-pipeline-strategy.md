@@ -3,7 +3,7 @@ type: strategy
 id: generative-synthetic-classroom-data-pipeline-strategy
 title: Human-in-the-loop generative pipeline for synthetic classroom training data with domain-expert validation
 description: "A reusable recipe for building synthetic training data for classroom understanding: consult teachers to select action classes, run a preliminary study of video generators to pick suitable models, generate uniform and..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

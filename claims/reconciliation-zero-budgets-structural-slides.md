@@ -3,7 +3,7 @@ type: claim
 title: The reconciliation phase filters non-instructional slides by zero-budgeting administrative and transition slides
 description: The reconciliation phase filters non-instructional slides by zero-budgeting administrative and transition slides
 id: reconciliation-zero-budgets-structural-slides
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

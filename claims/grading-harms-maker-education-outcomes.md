@@ -3,7 +3,7 @@ type: claim
 title: Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education
 description: Grading practices can diminish interest, encourage easier paths, and reduce quality of thinking in maker education
 id: grading-harms-maker-education-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

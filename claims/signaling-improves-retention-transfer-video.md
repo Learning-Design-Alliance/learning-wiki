@@ -3,7 +3,7 @@ type: claim
 title: Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video
 description: Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video
 id: signaling-improves-retention-transfer-video
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

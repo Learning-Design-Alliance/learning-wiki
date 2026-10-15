@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for UCSMP is small, with no studies meeting WWC group design standards without reservations
 description: The evidence base for UCSMP is small, with no studies meeting WWC group design standards without reservations
 id: ucsmp-small-evidence-base-no-unreserved-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

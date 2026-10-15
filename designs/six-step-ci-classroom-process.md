@@ -3,7 +3,7 @@ type: design
 id: six-step-ci-classroom-process
 title: "Six-step classroom C/I process: ideas, questions, positive comments, negative comments, metric, new ideas — cycled to refine the solution"
 description: "The article's process \"begins with statement by the instructor of a problem or goal, and then involves requests for: (1) ideas, (2) questions, (3) positive critical comments on the ideas, (4) negative critical comment..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

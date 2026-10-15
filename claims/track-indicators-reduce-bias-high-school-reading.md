@@ -3,7 +3,7 @@ type: claim
 title: Including track indicators in value-added models may reduce tracking-related bias for high school reading teachers
 description: Including track indicators in value-added models may reduce tracking-related bias for high school reading teachers
 id: track-indicators-reduce-bias-high-school-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

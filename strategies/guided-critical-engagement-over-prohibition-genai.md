@@ -3,7 +3,7 @@ type: strategy
 id: guided-critical-engagement-over-prohibition-genai
 title: Institutions should respond to generative AI in education with guided critical engagement rather than prohibition
 description: "The authors argue that because public sentiment remains positive while structural concerns grow, students and the public \"are not rejecting AI but are looking for frameworks to engage with it responsibly.\" They recomm..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

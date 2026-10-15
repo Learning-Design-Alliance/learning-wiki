@@ -3,7 +3,7 @@ type: design
 id: utah-usbe-rar-process
 title: Utah USBE resource allocation review process for schools eligible for comprehensive improvement support
 description: "The Utah State Board of Education, with WestEd's Region 15 Comprehensive Center, designed an RAR process beginning in March 2020 to help schools eligible for comprehensive improvement support."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: sustained-system-level-ai-integration-stem
 title: Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions
 description: "The article recommends that institutions prioritize long-term integration of AI tools rather than short-term or isolated interventions, stating that \"effective AI integration requires system-level planning and sustain..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

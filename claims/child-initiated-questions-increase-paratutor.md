@@ -3,7 +3,7 @@ type: claim
 title: Child-initiated questions increased in ParaTutor modes compared to baseline tutoring conditions
 description: Child-initiated questions increased in ParaTutor modes compared to baseline tutoring conditions
 id: child-initiated-questions-increase-paratutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

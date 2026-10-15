@@ -3,7 +3,7 @@ type: claim
 title: "CPS class of 2020 graduates enrolled in four-year colleges at rates similar to previous cohorts (41.8% in 2019 vs. 40.8% in 2020)"
 description: "CPS class of 2020 graduates enrolled in four-year colleges at rates similar to previous cohorts (41.8% in 2019 vs."
 id: cps-2020-four-year-enrollment-steady
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

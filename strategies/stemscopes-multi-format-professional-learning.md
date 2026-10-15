@@ -3,7 +3,7 @@ type: strategy
 id: stemscopes-multi-format-professional-learning
 title: Multi-format professional learning for curriculum implementation (on-site, virtual, blended, coaching)
 description: "The program offers professional development in multiple formats: \"webinars, in-person workshops, and blended formats,\" ranging \"from foundational training on curriculum content and platform use to ongoing support thro..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

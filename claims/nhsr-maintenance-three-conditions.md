@@ -3,7 +3,7 @@ type: claim
 title: Maintaining NHSR status requires no researcher access to identifiable records, no added procedures, and no non-standard prompts
 description: Maintaining NHSR status requires no researcher access to identifiable records, no added procedures, and no non-standard prompts
 id: nhsr-maintenance-three-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

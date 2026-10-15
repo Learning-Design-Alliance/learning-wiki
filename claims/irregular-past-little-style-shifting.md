@@ -3,7 +3,7 @@ type: claim
 title: Irregular past shows little style shifting across planning conditions
 description: Irregular past shows little style shifting across planning conditions
 id: irregular-past-little-style-shifting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

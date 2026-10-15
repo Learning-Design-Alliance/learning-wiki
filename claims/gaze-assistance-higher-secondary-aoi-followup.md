@@ -3,7 +3,7 @@ type: claim
 title: Gaze-based assistance produced a significantly higher follow-up fixation rate on the spoken secondary AOI than the baseline
 description: Gaze-based assistance produced a significantly higher follow-up fixation rate on the spoken secondary AOI than the baseline
 id: gaze-assistance-higher-secondary-aoi-followup
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

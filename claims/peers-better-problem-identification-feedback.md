@@ -3,7 +3,7 @@ type: claim
 title: Peers outperformed ChatGPT in identifying problems within essays
 description: Peers outperformed ChatGPT in identifying problems within essays
 id: peers-better-problem-identification-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

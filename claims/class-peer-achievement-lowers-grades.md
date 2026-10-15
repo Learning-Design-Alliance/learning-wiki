@@ -3,7 +3,7 @@ type: claim
 title: Grades are lower in classes with higher-achieving peers, consistent with teachers adjusting expectations rather than grading on a curve
 description: Grades are lower in classes with higher-achieving peers, consistent with teachers adjusting expectations rather than grading on a curve
 id: class-peer-achievement-lowers-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

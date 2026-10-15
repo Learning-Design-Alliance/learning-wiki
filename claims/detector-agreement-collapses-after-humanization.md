@@ -3,7 +3,7 @@ type: claim
 title: Inter-detector agreement between Pangram and GPTZero collapses after humanization, so a single vendor flag is not a reliable consensus signal
 description: Inter-detector agreement between Pangram and GPTZero collapses after humanization, so a single vendor flag is not a reliable consensus signal
 id: detector-agreement-collapses-after-humanization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

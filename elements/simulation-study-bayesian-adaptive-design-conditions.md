@@ -3,7 +3,7 @@ type: element
 id: simulation-study-bayesian-adaptive-design-conditions
 title: Simulation study of Bayesian adaptive design conditions
 description: The article includes a simulation study built around a randomized experiment of students in an online course as a motivating example.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

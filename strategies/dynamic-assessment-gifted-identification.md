@@ -3,7 +3,7 @@ type: strategy
 id: dynamic-assessment-gifted-identification
 title: "Use dynamic assessment to identify gifted learners' potential"
 description: "The essay recommends the field \"turn to experimenting with methods of dynamic assessment\" for identifying learning potential."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

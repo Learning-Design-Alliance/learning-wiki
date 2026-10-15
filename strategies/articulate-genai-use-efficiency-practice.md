@@ -3,7 +3,7 @@ type: strategy
 id: articulate-genai-use-efficiency-practice
 title: Help GenAI users articulate their use as an efficiency-enhancing practice to reduce negative peer evaluations
 description: "Based on the finding that perceived AI literacy buffers the negative trust association, the article recommends that users' GenAI use be framed and communicated as deliberate, competent practice."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

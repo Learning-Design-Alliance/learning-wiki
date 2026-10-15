@@ -3,7 +3,7 @@ type: claim
 title: A fine-tuned student model paired with GPT-4 produces conversational statistics closer to human-AI dialogues than two prompt-engineered base models
 description: A fine-tuned student model paired with GPT-4 produces conversational statistics closer to human-AI dialogues than two prompt-engineered base models
 id: fine-tuned-student-model-approximates-human-ai-dialogue
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

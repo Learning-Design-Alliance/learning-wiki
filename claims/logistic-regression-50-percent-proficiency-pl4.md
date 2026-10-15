@@ -3,7 +3,7 @@ type: claim
 title: In both analysis years and all tested grades, EL students reach a 50 percent chance of SBAC ELA proficiency within ELPAC overall PL 4
 description: In both analysis years and all tested grades, EL students reach a 50 percent chance of SBAC ELA proficiency within ELPAC overall PL 4
 id: logistic-regression-50-percent-proficiency-pl4
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

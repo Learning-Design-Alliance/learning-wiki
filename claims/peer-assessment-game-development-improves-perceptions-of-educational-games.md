@@ -3,7 +3,7 @@ type: claim
 title: "Peer assessment-based game development improves students' perceptions of the use of educational computer games"
 description: "Peer assessment-based game development improves students' perceptions of the use of educational computer games"
 id: peer-assessment-game-development-improves-perceptions-of-educational-games
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

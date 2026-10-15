@@ -3,7 +3,7 @@ type: strategy
 id: route-divergent-ai-scores-to-teacher-review
 title: Route divergent or linguistically weak AI-scored explanations to teachers as diagnostic signals for mindful human review
 description: As a mitigation for language bias, the article suggests human–AI collaboration in which disagreements between a teacher and an AI scorer serve as diagnostic signals flagging explanations for closer inspection.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Among LCAP planned actions referencing students in foster care in the 10 largest districts, very few were unique to foster care and an even smaller fraction of funds was
 description: Among LCAP planned actions referencing students in foster care in the 10 largest districts, very few were unique to foster care and an even smaller fraction of funds was
 id: lcap-actions-rarely-unique-to-foster-care
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

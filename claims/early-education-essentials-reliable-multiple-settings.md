@@ -3,7 +3,7 @@ type: claim
 title: The Early Education Essentials is reliable across multiple ECE settings
 description: The Early Education Essentials is reliable across multiple ECE settings
 id: early-education-essentials-reliable-multiple-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

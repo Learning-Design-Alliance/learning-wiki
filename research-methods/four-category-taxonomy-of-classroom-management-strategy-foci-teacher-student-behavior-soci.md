@@ -3,7 +3,7 @@ type: research-method
 id: four-category-taxonomy-of-classroom-management-strategy-foci-teacher-student-behavior-soci
 title: "Four-category taxonomy of classroom management strategy foci: teacher, student behavior, social-emotional development, and teacher–student relationships"
 description: The meta-analysis organizes classroom management programs by coding each included intervention for the presence or absence of four categories of strategies.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

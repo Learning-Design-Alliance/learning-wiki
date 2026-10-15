@@ -3,7 +3,7 @@ type: claim
 title: About half of teachers report access to data technologies, but roughly half lack confidence in their data skills and do not use digital data to plan and adjust teaching
 description: About half of teachers report access to data technologies, but roughly half lack confidence in their data skills and do not use digital data to plan and adjust teaching
 id: teachers-access-but-low-skill-and-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

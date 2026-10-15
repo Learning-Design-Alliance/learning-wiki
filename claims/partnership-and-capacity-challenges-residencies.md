@@ -3,7 +3,7 @@ type: claim
 title: Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability
 description: Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability
 id: partnership-and-capacity-challenges-residencies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

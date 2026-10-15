@@ -3,7 +3,7 @@ type: claim
 title: Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters
 description: Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters
 id: technology-disciplines-dominate-ai-literacy-design-underrepresented
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

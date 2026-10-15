@@ -3,7 +3,7 @@ type: claim
 title: Intensive interventions should be planned and provided based on data and guided by evidence-based practices
 description: Intensive interventions should be planned and provided based on data and guided by evidence-based practices
 id: intensive-interventions-data-based-evidence-guided
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

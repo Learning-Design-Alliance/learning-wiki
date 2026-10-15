@@ -3,7 +3,7 @@ type: claim
 title: "Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did"
 description: "Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did"
 id: ability-moderates-hierarchical-organization-benefit
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

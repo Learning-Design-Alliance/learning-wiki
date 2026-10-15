@@ -3,7 +3,7 @@ type: claim
 title: Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations
 description: Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations
 id: genai-performance-gains-assessment-caution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Retained monitoring units showed a higher combined strategic-plus-reflective share in think-aloud speech than in interaction logs (66.7% vs 41.3%)"
 description: "Retained monitoring units showed a higher combined strategic-plus-reflective share in think-aloud speech than in interaction logs (66.7% vs 41.3%)"
 id: monitoring-strategic-reflective-higher-think-aloud
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

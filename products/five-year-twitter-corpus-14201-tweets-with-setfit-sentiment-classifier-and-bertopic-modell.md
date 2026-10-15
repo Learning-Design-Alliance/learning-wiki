@@ -4,7 +4,7 @@ id: five-year-twitter-corpus-14201-tweets-with-setfit-sentiment-classifier-and-b
 title: Five-year Twitter corpus (14,201 tweets) with SetFit sentiment classifier and BERTopic modelling pipeline
 description: A researcher-created dataset and analysis pipeline comprising 14,201 English-language U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

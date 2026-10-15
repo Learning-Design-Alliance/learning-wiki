@@ -3,7 +3,7 @@ type: strategy
 id: code-review-interviews-ai-mitigation
 title: Use weekly oral code review interviews to incentivize students to understand AI-assisted code
 description: "This strategy replaces AI bans with formative oral assessments: after each weekly coding assignment, students explain their submitted code and justify implementation decisions to a trained TA in a 15-minute interview,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

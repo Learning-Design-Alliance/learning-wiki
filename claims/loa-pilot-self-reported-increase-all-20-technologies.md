@@ -3,7 +3,7 @@ type: claim
 title: Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology
 description: Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology
 id: loa-pilot-self-reported-increase-all-20-technologies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

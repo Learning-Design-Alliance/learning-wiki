@@ -3,7 +3,7 @@ type: strategy
 id: vibe-coding-rapid-educational-tool-development
 title: Use an AI-assisted vibe coding workflow with human pedagogical control to move educational tools from idea to classroom within days
 description: The strategy is to develop teacher-facing educational tools through natural-language prompting of an AI app builder (Lovable), with prompts drafted via an LLM (ChatGPT 5.2) and reviewed by a human author who defines i...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

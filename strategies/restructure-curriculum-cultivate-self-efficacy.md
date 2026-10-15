@@ -3,7 +3,7 @@ type: strategy
 id: restructure-curriculum-cultivate-self-efficacy
 title: Restructure the university curriculum with graded AI-technology courses and cultivate MTES self-efficacy to advance AI-TPACK
 description: The authors recommend that universities strengthen AI technology course introduction and training, differentiate curriculum by grade level, and build learning communities with project-task-driven peer-assisted learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

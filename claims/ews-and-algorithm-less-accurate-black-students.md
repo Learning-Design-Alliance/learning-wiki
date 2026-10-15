@@ -3,7 +3,7 @@ type: claim
 title: Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black
 description: Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black
 id: ews-and-algorithm-less-accurate-black-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

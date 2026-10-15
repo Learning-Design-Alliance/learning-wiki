@@ -3,7 +3,7 @@ type: claim
 title: Students hold a generally critical stance toward media influence on their opinions, with traditional formats inspiring more trust than digital platforms
 description: Students hold a generally critical stance toward media influence on their opinions, with traditional formats inspiring more trust than digital platforms
 id: media-influence-perception-trust-formats
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

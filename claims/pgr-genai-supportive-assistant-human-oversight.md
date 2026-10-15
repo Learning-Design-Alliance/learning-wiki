@@ -3,7 +3,7 @@ type: claim
 title: Nearly all postgraduate research students in the study used GenAI across multiple research stages, positioning it as a supportive assistant with human oversight retained
 description: Nearly all postgraduate research students in the study used GenAI across multiple research stages, positioning it as a supportive assistant with human oversight retained
 id: pgr-genai-supportive-assistant-human-oversight
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

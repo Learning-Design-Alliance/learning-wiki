@@ -3,7 +3,7 @@ type: strategy
 id: teachers-interface-textbooks-learners-adapt-strategies
 title: Teachers should act as interfaces between textbooks and learners, adapting strategies to individual learner variables
 description: The article recommends that because learners within one educational level differ in proficiency and prior knowledge, teachers should select, adopt, and present instructional strategies relevant to individuals rather t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

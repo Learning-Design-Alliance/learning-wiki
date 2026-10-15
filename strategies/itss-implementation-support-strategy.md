@@ -3,7 +3,7 @@ type: strategy
 id: itss-implementation-support-strategy
 title: Provide sustained developer support (training, coaching, progress reports, and rapid technical help) when implementing ITSS
 description: "The page prescribes an implementation support package: \"The developers offer 2 days for teachers and school leaders followed by 4 in-school coaching sessions.\" In the research, developers \"generated biweekly reports f..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

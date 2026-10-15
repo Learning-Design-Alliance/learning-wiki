@@ -3,7 +3,7 @@ type: strategy
 id: intervene-policy-organizational-practitioner-rae
 title: Direct policy, organizational and practitioner intervention to reduce RAE inequalities in developmental periods
 description: "The article recommends direct intervention at policy, organizational and practitioner levels to reduce and eliminate RAE-driven social inequality, especially during athletes' developmental periods."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

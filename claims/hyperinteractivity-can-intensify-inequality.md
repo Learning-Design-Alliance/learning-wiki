@@ -3,7 +3,7 @@ type: claim
 title: "Advanced technology's hyperinteractivity can intensify social inequality in education"
 description: "Advanced technology's hyperinteractivity can intensify social inequality in education"
 id: hyperinteractivity-can-intensify-inequality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

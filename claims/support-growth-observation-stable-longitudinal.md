@@ -3,7 +3,7 @@ type: claim
 title: Supportive competence grew continuously through Workshop 4 while basic observation ability remained stable across sequential AV workshops
 description: Supportive competence grew continuously through Workshop 4 while basic observation ability remained stable across sequential AV workshops
 id: support-growth-observation-stable-longitudinal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

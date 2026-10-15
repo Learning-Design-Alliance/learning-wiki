@@ -3,7 +3,7 @@ type: claim
 title: Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases
 description: Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases
 id: suspension-trends-secondary-decline-elementary-flat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

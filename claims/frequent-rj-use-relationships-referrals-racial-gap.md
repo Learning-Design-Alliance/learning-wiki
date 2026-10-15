@@ -3,7 +3,7 @@ type: claim
 title: Teachers who implemented restorative justice frequently had better student relationships and issued fewer referrals, with preliminary indications of reduced racial discipline gaps that were not fully eliminated
 description: Teachers who implemented restorative justice frequently had better student relationships and issued fewer referrals, with preliminary indications of reduced racial discipline gaps that were not fully eliminated
 id: frequent-rj-use-relationships-referrals-racial-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

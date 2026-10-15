@@ -3,7 +3,7 @@ type: claim
 title: Emotion was the rarest essay theme, raised ambivalently by a minority of students
 description: Emotion was the rarest essay theme, raised ambivalently by a minority of students
 id: emotion-rarest-essay-theme
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

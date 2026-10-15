@@ -3,7 +3,7 @@ type: claim
 title: Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings
 description: Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings
 id: low-salience-elements-need-extensive-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: Few schools used 5Essentials data for improvement, citing opaque data, principal-focused measures, and lack of district-wide strategy
 description: Few schools used 5Essentials data for improvement, citing opaque data, principal-focused measures, and lack of district-wide strategy
 id: few-schools-use-5essentials-data-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

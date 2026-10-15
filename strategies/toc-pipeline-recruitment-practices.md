@@ -3,7 +3,7 @@ type: strategy
 id: toc-pipeline-recruitment-practices
 title: "Grow-your-own and recruitment initiatives: alternative programs, Minority Serving Institutions, high-school pipeline programs, and district human-capital efforts to diversify the teacher workforce."
 description: "The report's Promising Practices section describes four approaches to building the pipeline of teachers of color: alternative preparation programs that recruit diverse candidates; Minority Serving Institutions, which..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

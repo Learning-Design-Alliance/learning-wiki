@@ -3,7 +3,7 @@ type: claim
 title: Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students
 description: Assignment to BookNook tutoring produces a small but statistically significant increase in reading growth on the NWEA MAP for grade 1-4 students
 id: booknook-small-positive-map-reading-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

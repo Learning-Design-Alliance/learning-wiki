@@ -3,7 +3,7 @@ type: strategy
 id: selective-teacher-transfer-incentives-strategy
 title: Offer selective financial transfer incentives to staff hard-to-staff schools with high-performing teachers
 description: "A district staffing strategy in which high-performing teachers are offered a large one-time payment — here $20,000 — to transfer into the district's hardest-to-staff schools."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

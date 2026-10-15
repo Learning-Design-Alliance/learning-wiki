@@ -3,7 +3,7 @@ type: claim
 title: Spacing content over time and interweaving different content strengthens learning and retention
 description: Spacing content over time and interweaving different content strengthens learning and retention
 id: spacing-interleaving-improve-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

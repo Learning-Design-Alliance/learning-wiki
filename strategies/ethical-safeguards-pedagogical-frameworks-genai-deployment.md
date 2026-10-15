@@ -3,7 +3,7 @@ type: strategy
 id: ethical-safeguards-pedagogical-frameworks-genai-deployment
 title: Adopt ethical safeguards and pedagogically grounded frameworks when deploying GenAI assessment tools
 description: This strategy directs educators and policymakers to pair any GenAI assessment deployment with explicit ethical safeguards and a pedagogically grounded framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

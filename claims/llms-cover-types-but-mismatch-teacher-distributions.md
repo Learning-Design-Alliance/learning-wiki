@@ -3,7 +3,7 @@ type: claim
 title: LLMs cover most teacher feedback focus types but fail to match teacher feedback focus distributions, with LearnLM closest
 description: LLMs cover most teacher feedback focus types but fail to match teacher feedback focus distributions, with LearnLM closest
 id: llms-cover-types-but-mismatch-teacher-distributions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

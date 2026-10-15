@@ -3,7 +3,7 @@ type: strategy
 id: program-managed-tutoring-with-specialist-data-meetings
 title: Operate high-dosage virtual tutoring with program-managed tutors and monthly literacy-specialist data meetings so school staff need no additional professional development
 description: The program hires and manages all tutors, provides a literacy specialist who oversees student outcomes and reports data monthly, and supplies a customer success manager for scheduling and technology.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

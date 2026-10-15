@@ -3,7 +3,7 @@ type: claim
 title: Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback
 description: Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback
 id: active-community-engagement-over-passive-feedback
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

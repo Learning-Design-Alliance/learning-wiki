@@ -2,7 +2,7 @@
 type: theory
 title: Responsive literacy coaching as a co-learner model grounded in trust and inquiry
 description: "The article articulates a framework of eight principles for responsive literacy coaching in which the coach embraces Cambourne's co-learner model rather than positioning herself as the expert."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

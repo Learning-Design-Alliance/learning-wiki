@@ -3,7 +3,7 @@ type: claim
 title: Risk perception is positively but more weakly associated with acceptance outcomes for AI-assisted English learning, with cautious interpretation warranted
 description: Risk perception is positively but more weakly associated with acceptance outcomes for AI-assisted English learning, with cautious interpretation warranted
 id: risk-perception-weak-positive-ai-english-acceptance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

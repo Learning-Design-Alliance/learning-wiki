@@ -3,7 +3,7 @@ type: strategy
 id: career-centric-reverse-academic-planning
 title: "Career-centric reverse academic planning: start from a career aspiration and map backward to courses, credentials, and experiences using skills taxonomies"
 description: Instead of choosing a major then exploring careers, students begin with a career aspiration and the system works backward to the courses, experiences, and credentials that reach it.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

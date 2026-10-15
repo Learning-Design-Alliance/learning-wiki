@@ -3,7 +3,7 @@ type: strategy
 id: ai-as-instrumental-adjunct-not-cognitive-surrogate
 title: "Position AI as an instrumental adjunct that amplifies, rather than attenuates, students' direct experiential engagement"
 description: "Drawing on the Neidan framework, this strategy holds that algorithmic systems in education should \"serve to amplify, rather than attenuate, the student's direct experiential engagement with knowledge.\" AI may function..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

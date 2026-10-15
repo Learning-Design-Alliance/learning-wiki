@@ -3,7 +3,7 @@ type: claim
 title: Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed
 description: Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed
 id: oversubscribed-charter-schools-differ-in-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

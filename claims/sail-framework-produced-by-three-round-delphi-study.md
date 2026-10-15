@@ -3,7 +3,7 @@ type: claim
 title: A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework
 description: A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework
 id: sail-framework-produced-by-three-round-delphi-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

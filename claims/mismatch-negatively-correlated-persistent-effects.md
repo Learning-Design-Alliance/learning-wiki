@@ -3,7 +3,7 @@ type: claim
 title: Grading mismatch correlates negatively with persistent effects, and total effects reflect mismatch more than persistent effects
 description: Grading mismatch correlates negatively with persistent effects, and total effects reflect mismatch more than persistent effects
 id: mismatch-negatively-correlated-persistent-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

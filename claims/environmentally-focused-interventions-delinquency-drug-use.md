@@ -3,7 +3,7 @@ type: claim
 title: Environmentally focused interventions appear to be particularly effective for reducing delinquency and drug use
 description: Environmentally focused interventions appear to be particularly effective for reducing delinquency and drug use
 id: environmentally-focused-interventions-delinquency-drug-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

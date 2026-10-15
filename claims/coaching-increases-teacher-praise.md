@@ -3,7 +3,7 @@ type: claim
 title: Teacher praise increased in every reviewed study that coached teachers to increase praise
 description: Teacher praise increased in every reviewed study that coached teachers to increase praise
 id: coaching-increases-teacher-praise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

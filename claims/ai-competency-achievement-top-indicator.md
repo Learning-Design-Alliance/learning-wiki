@@ -3,7 +3,7 @@ type: claim
 title: Student AI competency achievement and curriculum-AI frontier alignment dominate the indicator-level priority ranking
 description: Student AI competency achievement and curriculum-AI frontier alignment dominate the indicator-level priority ranking
 id: ai-competency-achievement-top-indicator
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

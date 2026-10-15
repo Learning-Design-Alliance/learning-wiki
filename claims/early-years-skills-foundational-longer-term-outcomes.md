@@ -3,7 +3,7 @@ type: claim
 title: Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes
 description: Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes
 id: early-years-skills-foundational-longer-term-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: asean-subregional-ee-curriculum-prototypes-for-primary-and-secondary-schools
 title: ASEAN subregional EE curriculum prototypes for primary and secondary schools and pre-/in-service teacher training
 description: "A set of adaptable environmental-education curriculum prototypes for primary and secondary schools and teacher education, developed by UNESCO-UNEP's International Environmental Education Programme with Malaysia's Curriculum Development Centre and the University of the Philippines' ISMED."
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

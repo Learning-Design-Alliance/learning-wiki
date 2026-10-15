@@ -3,7 +3,7 @@ type: claim
 title: The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year
 description: The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year
 id: covid-shutdowns-impacted-fall-2020-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

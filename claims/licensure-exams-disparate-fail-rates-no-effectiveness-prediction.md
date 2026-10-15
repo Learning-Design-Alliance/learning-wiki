@@ -3,7 +3,7 @@ type: claim
 title: Teacher licensure exams disproportionately fail teacher candidates of color without predicting teaching effectiveness
 description: Teacher licensure exams disproportionately fail teacher candidates of color without predicting teaching effectiveness
 id: licensure-exams-disparate-fail-rates-no-effectiveness-prediction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

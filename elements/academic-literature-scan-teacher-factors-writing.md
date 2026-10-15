@@ -3,7 +3,7 @@ type: element
 id: academic-literature-scan-teacher-factors-writing
 title: Academic literature scan on teacher factors in secondary writing
 description: "The evidence base for the brief is an academic literature scan that Mathematica conducted \"in partnership with teacher development and writing instruction experts.\" The scan's findings and conclusions underpin the bri..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

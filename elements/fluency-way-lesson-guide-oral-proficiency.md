@@ -3,7 +3,7 @@ type: element
 id: fluency-way-lesson-guide-oral-proficiency
 title: "The Fluency Way: a proposed lesson guide for oral English proficiency"
 description: "The Fluency Way is a prototype lesson guide the researcher formulated from the study's synthesized themes to encourage language fluency."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

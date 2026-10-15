@@ -3,7 +3,7 @@ type: claim
 title: "Mead observed that rapid change makes yesterday's knowledge useless, requiring education to teach coping with change rather than fixed content"
 description: "Mead observed that rapid change makes yesterday's knowledge useless, requiring education to teach coping with change rather than fixed content"
 id: mead-rapid-change-obsoletes-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

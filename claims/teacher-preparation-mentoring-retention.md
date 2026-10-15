@@ -3,7 +3,7 @@ type: claim
 title: "Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years"
 description: "Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years"
 id: teacher-preparation-mentoring-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

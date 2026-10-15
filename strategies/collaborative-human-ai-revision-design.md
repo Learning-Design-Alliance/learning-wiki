@@ -3,7 +3,7 @@ type: strategy
 id: collaborative-human-ai-revision-design
 title: Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases
 description: "The article proposes a \"Collaborative Human-AI Revision Design\" that systematically embeds prompt engineering into three writing phases."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

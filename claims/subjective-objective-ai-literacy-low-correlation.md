@@ -3,7 +3,7 @@ type: claim
 title: Perceived and objectively demonstrated AI literacy show only limited alignment in the same samples (pooled r = .055, interval including zero)
 description: Perceived and objectively demonstrated AI literacy show only limited alignment in the same samples (pooled r = .055, interval including zero)
 id: subjective-objective-ai-literacy-low-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

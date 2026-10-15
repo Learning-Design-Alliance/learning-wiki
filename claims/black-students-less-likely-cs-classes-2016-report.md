@@ -3,7 +3,7 @@ type: claim
 title: Black students are less likely than white students to attend schools offering computer science classes
 description: Black students are less likely than white students to attend schools offering computer science classes
 id: black-students-less-likely-cs-classes-2016-report
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

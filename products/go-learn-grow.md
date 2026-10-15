@@ -4,7 +4,7 @@ id: go-learn-grow
 title: Go-Learn-Grow
 description: The Go-Learn-Grow toolkit is a set of practical materials produced for the Regional Educational Laboratory Mid-Atlantic to help districts, schools, and early childhood providers improve pre-kindergarten and kindergarten attendance.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

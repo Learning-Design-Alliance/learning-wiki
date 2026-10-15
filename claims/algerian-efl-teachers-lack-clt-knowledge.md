@@ -3,7 +3,7 @@ type: claim
 title: Algerian university teachers of English lack sufficient knowledge of cognitive load theory
 description: Algerian university teachers of English lack sufficient knowledge of cognitive load theory
 id: algerian-efl-teachers-lack-clt-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

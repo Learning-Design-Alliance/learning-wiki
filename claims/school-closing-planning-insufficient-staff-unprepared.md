@@ -3,7 +3,7 @@ type: claim
 title: Staff in welcoming schools said the planning process for merging closed schools into welcoming schools was insufficient, leaving them unprepared
 description: Staff in welcoming schools said the planning process for merging closed schools into welcoming schools was insufficient, leaving them unprepared
 id: school-closing-planning-insufficient-staff-unprepared
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

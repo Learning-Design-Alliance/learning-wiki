@@ -3,7 +3,7 @@ type: claim
 title: Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers
 description: Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers
 id: alt-cert-teachers-no-worse-student-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

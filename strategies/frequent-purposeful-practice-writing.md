@@ -3,7 +3,7 @@ type: strategy
 id: frequent-purposeful-practice-writing
 title: Give frequent, purposeful practice writing integrated into class time
 description: Because the first hurdle for beginning writers is not writing at all, the manual directs GED teachers to give frequent writing opportunities that are purposeful, expected as a regular part of class time, and understoo...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

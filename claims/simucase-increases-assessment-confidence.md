@@ -3,7 +3,7 @@ type: claim
 title: Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course
 description: Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course
 id: simucase-increases-assessment-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

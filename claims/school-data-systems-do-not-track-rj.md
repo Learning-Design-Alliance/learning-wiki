@@ -3,7 +3,7 @@ type: claim
 title: Many district and school data systems do not track restorative justice efforts or outcomes for students exposed to RJ processes
 description: Many district and school data systems do not track restorative justice efforts or outcomes for students exposed to RJ processes
 id: school-data-systems-do-not-track-rj
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

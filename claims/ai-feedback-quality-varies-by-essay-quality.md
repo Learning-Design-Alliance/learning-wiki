@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT feedback quality varied by essay quality: accuracy declined as essay quality rose, prioritization was best for average essays, and supportive tone was lowest for low-quality essays"
 description: "ChatGPT feedback quality varied by essay quality: accuracy declined as essay quality rose, prioritization was best for average essays, and supportive tone was lowest for low-quality essays"
 id: ai-feedback-quality-varies-by-essay-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

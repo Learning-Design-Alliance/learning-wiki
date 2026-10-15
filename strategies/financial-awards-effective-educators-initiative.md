@@ -3,7 +3,7 @@ type: strategy
 id: financial-awards-effective-educators-initiative
 title: Offering financial awards to effective educators as part of a principal-training initiative
 description: "New Leaders for New Schools, a nonprofit committed to training school principals, heads an initiative that \"offers financial awards to effective educators.\" The strategy ties monetary recognition to identified educato..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

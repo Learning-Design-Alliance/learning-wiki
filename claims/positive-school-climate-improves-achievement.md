@@ -3,7 +3,7 @@ type: claim
 title: A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement
 description: A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement
 id: positive-school-climate-improves-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

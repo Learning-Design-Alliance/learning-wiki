@@ -3,7 +3,7 @@ type: claim
 title: Abrupt location or character changes mid-scenario co-occur with the lowest story-content coherence ratings
 description: Abrupt location or character changes mid-scenario co-occur with the lowest story-content coherence ratings
 id: abrupt-setting-changes-lowest-coherence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

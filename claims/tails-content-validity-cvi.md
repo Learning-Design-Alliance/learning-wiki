@@ -3,7 +3,7 @@ type: claim
 title: Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)
 description: Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)
 id: tails-content-validity-cvi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

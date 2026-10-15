@@ -3,7 +3,7 @@ type: claim
 title: "Blueprint Math Fellows tutoring raised middle school students' math test scores by 0.12 standard deviations relative to nonparticipant peers"
 description: "Blueprint Math Fellows tutoring raised middle school students' math test scores by 0.12 standard deviations relative to nonparticipant peers"
 id: blueprint-tutoring-012-sd-math-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Item discrimination screening removed eight items using a critical-ratio criterion above 3
 description: Item discrimination screening removed eight items using a critical-ratio criterion above 3
 id: critical-ratio-item-discrimination-screening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

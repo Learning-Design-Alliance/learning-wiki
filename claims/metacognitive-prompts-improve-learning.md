@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Metacognitive prompts improve learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

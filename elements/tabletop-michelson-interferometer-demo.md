@@ -3,7 +3,7 @@ type: element
 id: tabletop-michelson-interferometer-demo
 title: Tabletop Michelson interferometer demonstration for teaching wave interference and detector sensitivity
 description: A tabletop Michelson interferometer used as a demonstration supplementing a modified lesson on wave physics.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

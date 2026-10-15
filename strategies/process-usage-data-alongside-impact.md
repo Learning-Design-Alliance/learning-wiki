@@ -3,7 +3,7 @@ type: strategy
 id: process-usage-data-alongside-impact
 title: Use process and usage data alongside impact data in edtech evaluations
 description: "The article calls for 'evaluations that make greater use of process, implementation, and usage data as well as measures of impact'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

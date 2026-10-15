@@ -3,7 +3,7 @@ type: claim
 title: Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels
 description: Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels
 id: group-marginal-inferences-cat-skills-propensity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

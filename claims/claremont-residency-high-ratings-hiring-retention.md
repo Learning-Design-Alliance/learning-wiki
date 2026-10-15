@@ -3,7 +3,7 @@ type: claim
 title: Claremont residency completers rate the program highly and show strong hiring and retention outcomes
 description: Claremont residency completers rate the program highly and show strong hiring and retention outcomes
 id: claremont-residency-high-ratings-hiring-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

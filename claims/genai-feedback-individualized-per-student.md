@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT and DeepSeek feedback differed from student to student in technical content, repertoire and address style, providing an individualized approach
 description: ChatGPT and DeepSeek feedback differed from student to student in technical content, repertoire and address style, providing an individualized approach
 id: genai-feedback-individualized-per-student
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: element
 id: la-promise-neighborhood-two-community-site
 title: "Los Angeles Promise Neighborhood: a two-community Promise Neighborhoods implementation spanning Pacoima and Hollywood"
 description: The Los Angeles Promise Neighborhood is a Promise Neighborhoods implementation site profiled by Mathematica Policy Research for the Promise Neighborhoods Institute at PolicyLink.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

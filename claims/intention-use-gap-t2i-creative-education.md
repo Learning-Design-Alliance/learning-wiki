@@ -3,7 +3,7 @@ type: claim
 title: Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment
 description: Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment
 id: intention-use-gap-t2i-creative-education
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

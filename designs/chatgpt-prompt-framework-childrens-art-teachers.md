@@ -3,7 +3,7 @@ type: design
 id: chatgpt-prompt-framework-childrens-art-teachers
 title: "ChatGPT Prompt Framework for children's art teachers"
 description: "A ChatGPT prompt framework developed for children's art teachers to structure interactions with GPT-4o during lesson planning."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

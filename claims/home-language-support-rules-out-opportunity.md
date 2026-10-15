@@ -3,7 +3,7 @@ type: claim
 title: Multidisciplinary teams often provide home language support and delay referral to rule out lack of opportunity to learn before evaluating ML children
 description: Multidisciplinary teams often provide home language support and delay referral to rule out lack of opportunity to learn before evaluating ML children
 id: home-language-support-rules-out-opportunity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: "Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue"
 description: "Retrieval context has a sweet spot at Top-K = 10: raising it to 15 did not improve recall but significantly worsened context precision via the distraction issue"
 id: rag-top-k-10-sweet-spot-context-precision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

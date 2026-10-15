@@ -3,7 +3,7 @@ type: claim
 title: I-BEST has positive effects on industry-recognized credential, certificate, or license completion (improvement index +18 across three studies)
 description: I-BEST has positive effects on industry-recognized credential, certificate, or license completion (improvement index +18 across three studies)
 id: ibest-positive-effects-credential-completion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

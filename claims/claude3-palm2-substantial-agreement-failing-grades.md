@@ -3,7 +3,7 @@ type: claim
 title: Claude3 and PaLM2 show substantial agreement but fall short on identifying failing grades
 description: Claude3 and PaLM2 show substantial agreement but fall short on identifying failing grades
 id: claude3-palm2-substantial-agreement-failing-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

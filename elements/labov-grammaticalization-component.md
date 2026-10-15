@@ -3,7 +3,7 @@ type: element
 id: labov-grammaticalization-component
 title: "Grammaticalization component: supplies function words and labeled bracketings that make utterances sound smooth"
 description: Grammaticalization is the segment that takes over after orientation and lexicalization.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

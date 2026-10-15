@@ -3,7 +3,7 @@ type: claim
 title: PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented
 description: PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented
 id: ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

@@ -3,7 +3,7 @@ type: claim
 title: "Across seven kindergarten equivalence lessons, the teacher's sides-of-equation gesture (GSIDES) was coded 38 times, the most of any language or gesture code"
 description: "Across seven kindergarten equivalence lessons, the teacher's sides-of-equation gesture (GSIDES) was coded 38 times, the most of any language or gesture code"
 id: gsides-gesture-most-frequent-teacher-code-in-kindergarten-equal-sign-lessons
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

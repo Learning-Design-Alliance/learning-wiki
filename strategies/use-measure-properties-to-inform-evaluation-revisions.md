@@ -3,7 +3,7 @@ type: strategy
 id: use-measure-properties-to-inform-evaluation-revisions
 title: Use evidence about evaluation-measure properties to inform modifications of the principal evaluation system and state guidance to districts
 description: The report recommends that states and districts implementing new principal evaluation systems gather and use information about the properties of their measures.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

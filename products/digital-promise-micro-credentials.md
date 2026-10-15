@@ -4,7 +4,7 @@ id: digital-promise-micro-credentials
 title: Digital Promise Micro-credentials
 description: Digital Promise runs a platform and programme through which educators earn competency-based micro-credentials, with issuers including universities, nonprofits, districts, and the NEA.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

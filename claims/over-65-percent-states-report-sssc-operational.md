@@ -3,7 +3,7 @@ type: claim
 title: "Over 65% of surveyed states reported having a state school safety center, and over 96% of those centers were still operational"
 description: "Over 65% of surveyed states reported having a state school safety center, and over 96% of those centers were still operational"
 id: over-65-percent-states-report-sssc-operational
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

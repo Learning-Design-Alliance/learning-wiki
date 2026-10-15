@@ -3,7 +3,7 @@ type: claim
 title: Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged
 description: Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged
 id: females-broader-gains-career-interest-narrow-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

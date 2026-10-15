@@ -3,7 +3,7 @@ type: claim
 title: Adding friction to objectively meaningless tasks increases their appraised sense of purpose and meaning
 description: Adding friction to objectively meaningless tasks increases their appraised sense of purpose and meaning
 id: added-friction-increases-appraised-purpose
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

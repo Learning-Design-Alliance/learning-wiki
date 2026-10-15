@@ -3,7 +3,7 @@ type: claim
 title: No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales
 description: No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales
 id: genarch-null-did-collaborative-attitudes-teamwork
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

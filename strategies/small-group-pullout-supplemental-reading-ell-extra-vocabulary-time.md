@@ -3,7 +3,7 @@ type: strategy
 id: small-group-pullout-supplemental-reading-ell-extra-vocabulary-time
 title: Deliver supplemental reading instruction in small pull-out groups of two to three students with extra time for English vocabulary explanation
 description: In the reviewed study, the supplemental Reading Mastery instruction was delivered as a pull-out lasting 25-30 minutes a day, with most instruction conducted in groups of two to three students, though some one-to-one i...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

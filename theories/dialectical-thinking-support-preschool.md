@@ -2,7 +2,7 @@
 type: theory
 title: Dialectical thinking and its support in preschool education (DTS scale)
 description: "Following Veraksa (2006), the article defines dialectical thinking as \"a system of mental actions aimed at performing three types of tasks: understanding the process of development, solving contradictions, and creatin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

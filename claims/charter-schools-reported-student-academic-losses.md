@@ -3,7 +3,7 @@ type: claim
 title: Schools reported that about 40 percent of their students experienced considerable or major academic losses since March 2020
 description: Schools reported that about 40 percent of their students experienced considerable or major academic losses since March 2020
 id: charter-schools-reported-student-academic-losses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

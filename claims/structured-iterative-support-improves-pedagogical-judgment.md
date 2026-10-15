@@ -3,7 +3,7 @@ type: claim
 title: In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies
 description: In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies
 id: structured-iterative-support-improves-pedagogical-judgment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "New Mexico charter schools' relative performance improved across CREDO's 2009, 2013, and 2019 studies, though the comparison is only suggestive"
 description: "New Mexico charter schools' relative performance improved across CREDO's 2009, 2013, and 2019 studies, though the comparison is only suggestive"
 id: nm-charter-sector-improvement-trajectory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

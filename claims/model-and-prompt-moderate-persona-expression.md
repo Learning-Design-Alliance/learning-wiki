@@ -3,7 +3,7 @@ type: claim
 title: Model family and prompt format moderate the level of simulated ADHD persona expression
 description: Model family and prompt format moderate the level of simulated ADHD persona expression
 id: model-and-prompt-moderate-persona-expression
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

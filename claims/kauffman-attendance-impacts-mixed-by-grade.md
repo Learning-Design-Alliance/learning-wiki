@@ -3,7 +3,7 @@ type: claim
 title: Kauffman School attendance impacts were positive and significant in some grades and not significantly different from zero in others
 description: Kauffman School attendance impacts were positive and significant in some grades and not significantly different from zero in others
 id: kauffman-attendance-impacts-mixed-by-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

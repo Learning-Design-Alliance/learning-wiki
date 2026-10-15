@@ -3,7 +3,7 @@ type: strategy
 id: improvement-science-analytics-partnership-strategy
 title: Multi-stakeholder analytics partnership using improvement science with strict data governance
 description: The report recommends that districts, technology providers, and researchers form partnerships that use learning analytics for continuous improvement rather than evaluation.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

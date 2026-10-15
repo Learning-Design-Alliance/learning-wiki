@@ -3,7 +3,7 @@ type: claim
 title: K-2 assessment and latent scores predict third grade ELA grades with correlations from 0.52 to 0.63 in pre-pandemic cohorts
 description: K-2 assessment and latent scores predict third grade ELA grades with correlations from 0.52 to 0.63 in pre-pandemic cohorts
 id: k2-scores-predict-third-grade-ela-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

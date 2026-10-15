@@ -3,7 +3,7 @@ type: strategy
 id: five-key-qualities-successful-coach
 title: Five key qualities of a successful instructional technology coach
 description: "The report identifies five qualities of an effective coach: relationship builder, insider, strong communicator, tech believer, and experienced teacher."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

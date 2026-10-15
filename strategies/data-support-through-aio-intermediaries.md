@@ -3,7 +3,7 @@ type: strategy
 id: data-support-through-aio-intermediaries
 title: Support school data use through intermediary instructional officers rather than directly
 description: "The report recommends that DRE's instructional support work \"with school staff through the AIOs, who will serve as intermediaries,\" providing assistance from basic help understanding test score and gain results to hel..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

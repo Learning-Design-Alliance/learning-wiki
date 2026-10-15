@@ -2,7 +2,7 @@
 type: theory
 title: "Dialogism: the relation of one utterance to other utterances as the context informing all writing"
 description: "Dialogism, sometimes translated as intertextuality, is Bakhtin's term for the relation of one utterance to other utterances."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

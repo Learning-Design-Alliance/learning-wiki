@@ -3,7 +3,7 @@ type: element
 id: adlab-enculturation-elements
 title: Five enculturation elements of a classroom community of practice that encourage authentic practices of physicists
 description: "The article names five enculturation elements that the structural features and instructional choice produce and that are \"not typical of a classroom community\": \"Classroom norms and expectations\", \"Distributed experti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

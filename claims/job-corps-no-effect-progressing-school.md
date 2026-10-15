@@ -3,7 +3,7 @@ type: claim
 title: Job Corps shows no statistically significant or substantively important effect on years of schooling completed (progressing in school)
 description: Job Corps shows no statistically significant or substantively important effect on years of schooling completed (progressing in school)
 id: job-corps-no-effect-progressing-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

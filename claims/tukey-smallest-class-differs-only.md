@@ -3,7 +3,7 @@ type: claim
 title: Only the smallest class differs significantly from the other two; classes of 10 and 15 do not differ significantly
 description: Only the smallest class differs significantly from the other two; classes of 10 and 15 do not differ significantly
 id: tukey-smallest-class-differs-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

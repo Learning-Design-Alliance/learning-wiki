@@ -3,7 +3,7 @@ type: claim
 title: Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design
 description: Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design
 id: instructors-part-of-the-solution-frameshift
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

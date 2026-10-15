@@ -3,7 +3,7 @@ type: claim
 title: Instructors in their second or subsequent term using Lumen One made greater use of six of seven instructor-facing courseware components than first-term users.
 description: Instructors in their second or subsequent term using Lumen One made greater use of six of seven instructor-facing courseware components than first-term users.
 id: instructor-facing-use-increases-repeated-terms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

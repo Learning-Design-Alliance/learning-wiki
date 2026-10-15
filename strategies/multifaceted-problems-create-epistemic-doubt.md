@@ -3,7 +3,7 @@ type: strategy
 id: multifaceted-problems-create-epistemic-doubt
 title: Use context-rich multifaceted problems with TA scaffolding and group exams to create epistemic doubt in large introductory courses
 description: "The article describes a method of creating epistemic doubt in large introductory science courses where project-based experiences are impractical: students work in groups of two to three on multifaceted problems that \"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

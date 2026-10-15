@@ -3,7 +3,7 @@ type: claim
 title: Transfer of advanced competencies is limited by institutional case exposure, technical platforms, and multidisciplinary maturity rather than training deficiencies
 description: Transfer of advanced competencies is limited by institutional case exposure, technical platforms, and multidisciplinary maturity rather than training deficiencies
 id: advanced-competency-transfer-limited-by-institutional-resources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

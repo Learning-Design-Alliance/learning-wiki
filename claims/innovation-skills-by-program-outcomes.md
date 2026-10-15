@@ -3,7 +3,7 @@ type: claim
 title: "Learning and innovation skills outcomes: 15 innovations from the game design program and six from the mathematics CAI program, with all students working creatively with others"
 description: "Learning and innovation skills outcomes: 15 innovations from the game design program and six from the mathematics CAI program, with all students working creatively with others"
 id: innovation-skills-by-program-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

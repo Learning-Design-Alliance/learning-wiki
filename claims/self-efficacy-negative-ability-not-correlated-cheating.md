@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty
 description: Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty
 id: self-efficacy-negative-ability-not-correlated-cheating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

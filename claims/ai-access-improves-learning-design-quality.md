@@ -3,7 +3,7 @@ type: claim
 title: "AI chatbot access improves the quality of teachers' learning designs in higher education"
 description: "AI chatbot access improves the quality of teachers' learning designs in higher education"
 id: ai-access-improves-learning-design-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

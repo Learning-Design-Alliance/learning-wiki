@@ -3,7 +3,7 @@ type: strategy
 id: wts-pilot-informed-revisions-strategy
 title: Revise professional learning materials and structure in response to pilot feedback
 description: "The report describes concrete revisions made for the 2024/25 efficacy study based on teacher and coach feedback: materials were housed in NMPED's Canvas platform, one-page overviews and vignettes were added for each p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

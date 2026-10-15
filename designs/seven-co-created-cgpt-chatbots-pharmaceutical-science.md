@@ -3,7 +3,7 @@ type: design
 id: seven-co-created-cgpt-chatbots-pharmaceutical-science
 title: Seven unit-specific custom GPT chatbots for pharmaceutical science units
 description: "Seven custom GPT chatbots (cGPTs) were co-created for six undergraduate units in a Bachelor of Pharmaceutical Science program: Polymer Knowledge, Polymer Socratic, Physiology 1, Physiology 2, Medicinal Chemistry 1, Ph..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

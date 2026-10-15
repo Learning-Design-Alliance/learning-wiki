@@ -3,7 +3,7 @@ type: claim
 title: Students identify understanding and optimising GenAI functionality as a first priority area for curriculum development
 description: Students identify understanding and optimising GenAI functionality as a first priority area for curriculum development
 id: genai-functionality-priority-area
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

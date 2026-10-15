@@ -2,7 +2,7 @@
 type: theory
 title: Three-sector taxonomy of public schools for city-level performance comparison
 description: "The City Studies project organizes urban school performance analysis around a sector taxonomy: charter schools (public schools \"operated independently from the traditional school district, with autonomy in adapting sc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

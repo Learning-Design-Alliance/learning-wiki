@@ -3,7 +3,7 @@ type: design
 id: demystify-use-reflect-llm-intervention
 title: "Demystify, use, and reflect: a structured LLM-intervention course design positioning LLMs as tools for supported learning"
 description: "The course design centers on a structured intervention that works by \"demystifying LLMs, how they work, their capabilities, and their probabilistic nature and limitations, alongside guided use through prompting strate..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

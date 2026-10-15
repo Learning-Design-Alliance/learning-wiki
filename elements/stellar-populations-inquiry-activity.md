@@ -3,7 +3,7 @@ type: element
 id: stellar-populations-inquiry-activity
 title: Stellar Populations inquiry activity in which students construct their own Hertzsprung-Russell diagram from stellar images and spectra
 description: A two-day, paper-based inquiry for advanced high-school to senior college students in which students analyze pictures and spectra of stars, organize data via tables and plots, and build their own version of the Hertzs...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

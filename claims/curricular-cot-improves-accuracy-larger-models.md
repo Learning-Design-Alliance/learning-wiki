@@ -3,7 +3,7 @@ type: claim
 title: Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance
 description: Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance
 id: curricular-cot-improves-accuracy-larger-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

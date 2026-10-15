@@ -3,7 +3,7 @@ type: claim
 title: SFT and GRPO alignment gains reflect learned proficiency-conditioned generation rather than memorization or output collapse
 description: SFT and GRPO alignment gains reflect learned proficiency-conditioned generation rather than memorization or output collapse
 id: no-memorization-or-generation-collapse-in-trained-simulators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: family-child-care-apprenticeship-fcc-apprenticeship
 title: Family Child Care Apprenticeship (FCC Apprenticeship)
 description: A job-embedded apprenticeship pathway run by the SEIU Educator Training Center with community-college and local partner sites to provide family child care providers with coursework, coaching, advising, and financial support toward California Child Development Permits.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

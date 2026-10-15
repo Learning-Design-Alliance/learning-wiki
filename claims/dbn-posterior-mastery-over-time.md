@@ -3,7 +3,7 @@ type: claim
 title: DBN analysis shows wind direction and air movement reached the highest posterior mastery probabilities while other skills stayed flat or declined
 description: DBN analysis shows wind direction and air movement reached the highest posterior mastery probabilities while other skills stayed flat or declined
 id: dbn-posterior-mastery-over-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

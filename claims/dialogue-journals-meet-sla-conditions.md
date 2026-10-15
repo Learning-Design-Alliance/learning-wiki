@@ -3,7 +3,7 @@ type: claim
 title: Dialogue journals inherently meet conditions deemed necessary for second language acquisition
 description: Dialogue journals inherently meet conditions deemed necessary for second language acquisition
 id: dialogue-journals-meet-sla-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

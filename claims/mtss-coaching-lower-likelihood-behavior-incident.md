@@ -3,7 +3,7 @@ type: claim
 title: Students in MTSS-coached schools were significantly less likely to have at least one behavior incident
 description: Students in MTSS-coached schools were significantly less likely to have at least one behavior incident
 id: mtss-coaching-lower-likelihood-behavior-incident
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

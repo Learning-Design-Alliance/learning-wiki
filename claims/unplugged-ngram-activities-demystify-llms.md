@@ -3,7 +3,7 @@ type: claim
 title: Across approximately 400 workshop participants, learners report that hands-on n-gram activities build a new mental model of LLMs as probabilistic next-word generation at scale
 description: Across approximately 400 workshop participants, learners report that hands-on n-gram activities build a new mental model of LLMs as probabilistic next-word generation at scale
 id: unplugged-ngram-activities-demystify-llms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

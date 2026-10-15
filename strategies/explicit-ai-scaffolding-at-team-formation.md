@@ -3,7 +3,7 @@ type: strategy
 id: explicit-ai-scaffolding-at-team-formation
 title: Scaffold the transition into team work with explicit team-level AI norms and coding-inclusive team entry points
 description: "The article recommends treating the onset of collaboration as a design moment: instructors should \"consider designing team entry points that include meaningful coding components\" and run \"A targeted intervention at th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

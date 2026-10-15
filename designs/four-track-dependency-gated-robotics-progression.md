@@ -3,7 +3,7 @@ type: design
 id: four-track-dependency-gated-robotics-progression
 title: Four coordinated disciplinary tracks (ME, Build, EE, CS+AI) with dependency-gated progression
 description: "The curriculum organizes content into four coordinated tracks connecting disciplinary ideas to practical decisions: Mechanical Engineering connects geometry, balance, and motion to predictions; Build turns assembly in..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

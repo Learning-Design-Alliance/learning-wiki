@@ -3,7 +3,7 @@ type: claim
 title: Chronic absenteeism is extremely common among preschool students and declines substantially when children enter kindergarten
 description: Chronic absenteeism is extremely common among preschool students and declines substantially when children enter kindergarten
 id: preschool-chronic-absenteeism-extremely-high-declines-in-kindergarten
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

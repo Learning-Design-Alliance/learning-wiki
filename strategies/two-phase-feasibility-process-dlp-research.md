@@ -3,7 +3,7 @@ type: strategy
 id: two-phase-feasibility-process-dlp-research
 title: Use a two-phase feasibility process — a pre-submission platform feasibility letter and a post-award six-month feasibility phase — before research funds are committed
 description: SEERNet standardized how researchers establish that a proposed platform study is feasible before funds are committed.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

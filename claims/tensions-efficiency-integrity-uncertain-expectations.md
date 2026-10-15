@@ -3,7 +3,7 @@ type: claim
 title: Student reflections revealed tensions between efficiency and academic integrity, and uncertainty about institutional expectations of GenAI use
 description: Student reflections revealed tensions between efficiency and academic integrity, and uncertainty about institutional expectations of GenAI use
 id: tensions-efficiency-integrity-uncertain-expectations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

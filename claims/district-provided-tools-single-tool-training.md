@@ -3,7 +3,7 @@ type: claim
 title: Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms
 description: Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms
 id: district-provided-tools-single-tool-training
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

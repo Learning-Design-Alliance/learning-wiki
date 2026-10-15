@@ -3,7 +3,7 @@ type: claim
 title: "In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy"
 description: In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy
 id: self-generated-elaboration-improves-intellectual-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

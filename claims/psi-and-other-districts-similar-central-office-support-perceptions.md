@@ -3,7 +3,7 @@ type: claim
 title: Principal supervisors in PSI and other urban districts reported similar perceptions of central office support and structures
 description: Principal supervisors in PSI and other urban districts reported similar perceptions of central office support and structures
 id: psi-and-other-districts-similar-central-office-support-perceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

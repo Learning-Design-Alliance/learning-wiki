@@ -3,7 +3,7 @@ type: claim
 title: Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching
 description: Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching
 id: regular-tailored-support-helped-teachers-integrate-tools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

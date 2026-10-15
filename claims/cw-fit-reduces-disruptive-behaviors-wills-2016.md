@@ -3,7 +3,7 @@ type: claim
 title: In a cluster randomized trial, CW-FIT classes showed a lower percentage of time displaying disruptive behaviors than comparison classes over six months
 description: In a cluster randomized trial, CW-FIT classes showed a lower percentage of time displaying disruptive behaviors than comparison classes over six months
 id: cw-fit-reduces-disruptive-behaviors-wills-2016
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

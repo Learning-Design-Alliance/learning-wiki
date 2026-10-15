@@ -3,7 +3,7 @@ type: claim
 title: Actual classroom observation practice often differs from best practice, with principal-teacher perception gaps on measures and observer qualifications
 description: Actual classroom observation practice often differs from best practice, with principal-teacher perception gaps on measures and observer qualifications
 id: observation-practice-gaps-principal-teacher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

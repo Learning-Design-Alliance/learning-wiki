@@ -3,7 +3,7 @@ type: claim
 title: Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss
 description: Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss
 id: stealth-assessment-accuracy-and-bias-audits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

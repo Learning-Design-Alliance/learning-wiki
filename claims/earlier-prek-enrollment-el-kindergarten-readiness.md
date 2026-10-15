@@ -3,7 +3,7 @@ type: claim
 title: Enrolling in CPS pre-k before age four is associated with stronger kindergarten readiness in English language development and early reading for ELs
 description: Enrolling in CPS pre-k before age four is associated with stronger kindergarten readiness in English language development and early reading for ELs
 id: earlier-prek-enrollment-el-kindergarten-readiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

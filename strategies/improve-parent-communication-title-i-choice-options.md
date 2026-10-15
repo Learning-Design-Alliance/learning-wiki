@@ -3,7 +3,7 @@ type: strategy
 id: improve-parent-communication-title-i-choice-options
 title: Improve communication with parents about Title I choice options to raise participation
 description: "Because the report attributes low take-up of Title I school choice and supplemental educational services partly to \"problems communicating with parents,\" districts implementing these options should attend to how optio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

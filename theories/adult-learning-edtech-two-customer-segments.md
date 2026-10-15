@@ -2,7 +2,7 @@
 type: theory
 title: Two-segment customer taxonomy for the adult learning ed-tech market
 description: The guide organizes the adult learning market around two customer segments.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

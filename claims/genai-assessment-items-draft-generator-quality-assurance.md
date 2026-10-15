@@ -3,7 +3,7 @@ type: claim
 title: AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance
 description: AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance
 id: genai-assessment-items-draft-generator-quality-assurance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

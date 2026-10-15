@@ -3,7 +3,7 @@ type: claim
 title: Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors
 description: Exclusionary discipline disproportionately affects students of color from low-income families and students with disabilities, who receive harsher penalties than peers for similar behaviors
 id: exclusionary-discipline-disproportionate-penalties
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

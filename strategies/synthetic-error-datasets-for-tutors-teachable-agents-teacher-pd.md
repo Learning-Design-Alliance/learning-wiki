@@ -3,7 +3,7 @@ type: strategy
 id: synthetic-error-datasets-for-tutors-teachable-agents-teacher-pd
 title: Use synthetic LLM-generated error datasets for AI tutors, teachable agents, and teacher professional development
 description: "The article recommends three deployments of large-scale synthetic error datasets: training and evaluating automated tutoring systems so they can \"better diagnose and provide feedback on diverse, realistic student misc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

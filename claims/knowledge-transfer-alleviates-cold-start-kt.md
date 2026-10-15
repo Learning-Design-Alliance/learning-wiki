@@ -3,7 +3,7 @@ type: claim
 title: Modeling knowledge transfer within and across domains alleviates the cold-start problem on unseen concepts
 description: Modeling knowledge transfer within and across domains alleviates the cold-start problem on unseen concepts
 id: knowledge-transfer-alleviates-cold-start-kt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

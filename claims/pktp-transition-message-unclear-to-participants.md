@@ -3,7 +3,7 @@ type: claim
 title: "At the close of the first full year, PKTP's communication about the importance of transition was unclear to many teacher and parent participants"
 description: "At the close of the first full year, PKTP's communication about the importance of transition was unclear to many teacher and parent participants"
 id: pktp-transition-message-unclear-to-participants
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

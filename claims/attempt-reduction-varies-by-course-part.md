@@ -3,7 +3,7 @@ type: claim
 title: "Attempt-reduction patterns differed across course parts: Diagnostic and General Feedback were associated with fewer attempts for New Content, Single-Issue for Old Content"
 description: "Attempt-reduction patterns differed across course parts: Diagnostic and General Feedback were associated with fewer attempts for New Content, Single-Issue for Old Content"
 id: attempt-reduction-varies-by-course-part
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

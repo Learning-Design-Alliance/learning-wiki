@@ -3,7 +3,7 @@ type: claim
 title: Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use
 description: Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use
 id: detectors-insufficient-accuracy-high-stakes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: integrated-idc-teacher-preparation-curriculum
 title: Develop instructional design competence through integrated curricula combining knowledge, hands-on design practice, and personal attributes
 description: The article recommends that teacher preparation institutions use the validated competence model as a guideline for curriculum design, integrating knowledge components (curriculum and learner analysis), design capabili...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

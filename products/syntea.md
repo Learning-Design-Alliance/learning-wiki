@@ -4,7 +4,7 @@ id: syntea
 title: Syntea
 description: "Syntea is IU International University of Applied Sciences' AI-based learning-assistant software for question answering, interactive tutoring, personalized feedback, progress tracking, and exam preparation."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

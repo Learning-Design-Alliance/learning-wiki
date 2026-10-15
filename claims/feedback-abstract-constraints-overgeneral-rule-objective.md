@@ -3,7 +3,7 @@ type: claim
 title: "The study's objective was to determine empirically whether feedback can help learners learn abstract constraints on an overgeneral rule, not merely surface forms."
 description: "The study's objective was to determine empirically whether feedback can help learners learn abstract constraints on an overgeneral rule, not merely surface forms."
 id: feedback-abstract-constraints-overgeneral-rule-objective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

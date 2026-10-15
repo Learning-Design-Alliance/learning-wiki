@@ -3,7 +3,7 @@ type: claim
 title: The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise
 description: The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise
 id: expertise-reversal-changes-from-expertise-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Achievement disparities by student race/ethnicity widened substantively during the pandemic
 description: Achievement disparities by student race/ethnicity widened substantively during the pandemic
 id: covid-race-ethnicity-disparities-widened
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

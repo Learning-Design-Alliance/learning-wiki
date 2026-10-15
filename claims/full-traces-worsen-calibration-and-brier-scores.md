@@ -3,7 +3,7 @@ type: claim
 title: Full reasoning traces worsened calibration bias and Brier scores relative to both other conditions
 description: Full reasoning traces worsened calibration bias and Brier scores relative to both other conditions
 id: full-traces-worsen-calibration-and-brier-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

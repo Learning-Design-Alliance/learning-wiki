@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

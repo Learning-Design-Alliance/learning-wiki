@@ -3,7 +3,7 @@ type: claim
 title: Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution
 description: Existing arts-SEL research lacks the rigor to support strong empirical claims of direct causal contribution
 id: arts-sel-evidence-base-rigor-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

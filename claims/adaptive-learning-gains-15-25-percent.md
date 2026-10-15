@@ -3,7 +3,7 @@ type: claim
 title: "Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%"
 description: "Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%"
 id: adaptive-learning-gains-15-25-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

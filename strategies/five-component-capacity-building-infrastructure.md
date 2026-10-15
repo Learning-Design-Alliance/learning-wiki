@@ -3,7 +3,7 @@ type: strategy
 id: five-component-capacity-building-infrastructure
 title: Five-component systemwide support infrastructure for capacity building under next generation accountability
 description: "The report recommends that states and districts build a support infrastructure with five systemwide components for learning to improve: a systemwide culture grounded in \"learning to improve\"; strong pedagogical data-l..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

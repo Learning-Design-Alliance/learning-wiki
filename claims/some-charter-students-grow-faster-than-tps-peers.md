@@ -3,7 +3,7 @@ type: claim
 title: Some charter school students grow faster than their traditional public school peers
 description: Some charter school students grow faster than their traditional public school peers
 id: some-charter-students-grow-faster-than-tps-peers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

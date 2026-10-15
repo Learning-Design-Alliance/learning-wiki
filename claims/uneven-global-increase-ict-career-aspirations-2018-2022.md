@@ -3,7 +3,7 @@ type: claim
 title: Country-level ICT career aspirations increased globally but unevenly between PISA 2018 and 2022, with most systems showing moderate gains and a minority declining
 description: Country-level ICT career aspirations increased globally but unevenly between PISA 2018 and 2022, with most systems showing moderate gains and a minority declining
 id: uneven-global-increase-ict-career-aspirations-2018-2022
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

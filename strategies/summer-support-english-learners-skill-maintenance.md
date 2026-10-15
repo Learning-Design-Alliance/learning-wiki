@@ -3,7 +3,7 @@ type: strategy
 id: summer-support-english-learners-skill-maintenance
 title: Provide summer support to help English Learners maintain and develop academic skills
 description: "The article's forward-looking recommendation drawn from its seasonal findings: because ELs lost more than never-ELs during summers in both math and reading, the authors conclude that \"summer support is required to hel..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

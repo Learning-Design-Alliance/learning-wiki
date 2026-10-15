@@ -3,7 +3,7 @@ type: claim
 title: AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional
 description: AI scaffolding differs from human scaffolding in availability, feedback timing, and dynamic adjustment, making its developmental impact conditional
 id: ai-scaffolding-developmental-impact-conditional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

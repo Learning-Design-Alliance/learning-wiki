@@ -2,7 +2,7 @@
 type: theory
 title: Four-state keystroke-log operationalization of cognitive writing processes (planning, text production, local editing, jump editing)
 description: "The article operationalizes cognitive writing theory into four observable states classified automatically from keystroke logs: “A Long Pause state (P) generally associated with planning”; a Text Production state (T) c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

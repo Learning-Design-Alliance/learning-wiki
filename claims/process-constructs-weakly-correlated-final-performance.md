@@ -3,7 +3,7 @@ type: claim
 title: Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance
 description: Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance
 id: process-constructs-weakly-correlated-final-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

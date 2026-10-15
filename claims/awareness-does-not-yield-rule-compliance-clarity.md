@@ -3,7 +3,7 @@ type: claim
 title: Awareness of institutional GenAI regulations does not automatically translate into clarity about rule-compliant use
 description: Awareness of institutional GenAI regulations does not automatically translate into clarity about rule-compliant use
 id: awareness-does-not-yield-rule-compliance-clarity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

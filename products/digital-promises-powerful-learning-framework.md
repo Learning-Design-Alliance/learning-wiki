@@ -4,7 +4,7 @@ id: digital-promises-powerful-learning-framework
 title: "Digital Promise's Powerful Learning framework"
 description: A framework developed by Digital Promise that describes powerful teaching and learning through agency, purpose, curiosity, and connection.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

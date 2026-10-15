@@ -3,7 +3,7 @@ type: strategy
 id: audience-informed-design-priorities-digital-heritage
 title: Use audience-perception associations to set design priorities for digital lacquer-painting experiences, pending evaluation with real interfaces
 description: "The article proposes audience-informed design priorities rather than evidence of technological effectiveness: because perceived immersive affordance tracked sensible scene, \"museums could prioritize testable prototype..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

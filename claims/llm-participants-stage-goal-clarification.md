@@ -3,7 +3,7 @@ type: claim
 title: LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection
 description: LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection
 id: llm-participants-stage-goal-clarification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

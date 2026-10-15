@@ -3,7 +3,7 @@ type: claim
 title: Verbal analytical ability is not a significant predictor of second language success for childhood arrivals
 description: Verbal analytical ability is not a significant predictor of second language success for childhood arrivals
 id: verbal-analytical-ability-not-predictor-childhood-arrivals
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

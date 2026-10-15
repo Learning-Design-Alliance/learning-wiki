@@ -3,7 +3,7 @@ type: claim
 title: The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection
 description: The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection
 id: authenticity-through-design-not-detection
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: The interference dip disappears once instruction returns to vector-based topics such as magnetic fields
 description: The interference dip disappears once instruction returns to vector-based topics such as magnetic fields
 id: interference-disappears-when-vector-instruction-resumes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

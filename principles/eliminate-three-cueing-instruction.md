@@ -3,7 +3,7 @@ type: principle
 id: eliminate-three-cueing-instruction
 title: Eliminate three-cueing from elementary reading curricula and educator preparation materials
 description: "The toolkit defines three-cueing (also known as \"MSV\") as a practice teaching students to read using meaning, structure and syntax, and visual cues, and calls it \"a flawed literacy instructional practice.\" It directs..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

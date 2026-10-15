@@ -3,7 +3,7 @@ type: claim
 title: Both treatment and comparison students scored below the 7th-grade national norm on average, and bottom-quartile treatment students remained below the national average despite relative gains
 description: Both treatment and comparison students scored below the 7th-grade national norm on average, and bottom-quartile treatment students remained below the national average despite relative gains
 id: assistments-gains-below-national-norms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

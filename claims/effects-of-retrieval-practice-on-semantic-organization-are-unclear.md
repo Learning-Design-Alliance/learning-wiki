@@ -3,7 +3,7 @@ type: claim
 title: Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented
 description: Whether initial retrieval practice enhances semantic organization in final free recall is unclear, with results that may depend on how retrieval practice is implemented
 id: effects-of-retrieval-practice-on-semantic-organization-are-unclear
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: "A design-enactment gap in cognitive demand: 37.7% of conversations under-reached the teacher-targeted DOK level, and under-targeting increased with target ambition"
 description: "A design-enactment gap in cognitive demand: 37.7% of conversations under-reached the teacher-targeted DOK level, and under-targeting increased with target ambition"
 id: dok-under-targeting-gap-ai-dialogue
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

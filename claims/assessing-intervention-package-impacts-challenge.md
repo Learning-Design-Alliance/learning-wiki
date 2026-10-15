@@ -3,7 +3,7 @@ type: claim
 title: Assessing the impacts of a package of interventions whose pieces touch the entire student population is a common reform challenge
 description: Assessing the impacts of a package of interventions whose pieces touch the entire student population is a common reform challenge
 id: assessing-intervention-package-impacts-challenge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

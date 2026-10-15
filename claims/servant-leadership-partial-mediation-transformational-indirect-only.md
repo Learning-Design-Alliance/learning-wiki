@@ -3,7 +3,7 @@ type: claim
 title: Servant leadership exhibits complementary partial mediation via self-efficacy, whereas transformational leadership shows a small indirect-only effect
 description: Servant leadership exhibits complementary partial mediation via self-efficacy, whereas transformational leadership shows a small indirect-only effect
 id: servant-leadership-partial-mediation-transformational-indirect-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

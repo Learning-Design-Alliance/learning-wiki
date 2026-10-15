@@ -3,7 +3,7 @@ type: claim
 title: In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal
 description: In a meta-analytic database of ten studies, the latent EF factor model was preferred in seven samples, with two favoring the components model and one equal
 id: meta-analytic-replication-latent-ef-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: overlapping-windows-deck-reconciliation-strategy
 title: Use overlapping multi-slide windows and deck-level reconciliation rather than per-slide generation
 description: The article recommends processing slide decks with a sliding-window chunking strategy that stitches rendered thumbnails into multi-slide contact sheets to retain transitional context, followed by a dynamic reconciliat...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

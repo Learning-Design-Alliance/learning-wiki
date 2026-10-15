@@ -3,7 +3,7 @@ type: strategy
 id: iterative-co-development-toolkit-strategy
 title: Co-develop the toolkit with districts and refine it iteratively across cohorts
 description: The partnership builds the toolkit through joint development with participating districts rather than delivering a fixed product.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

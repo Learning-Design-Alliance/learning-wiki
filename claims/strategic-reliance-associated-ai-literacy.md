@@ -3,7 +3,7 @@ type: claim
 title: Strategic reliance is positively associated with AI literacy, and the reliance types differentiate students across writing process and outcome variables
 description: Strategic reliance is positively associated with AI literacy, and the reliance types differentiate students across writing process and outcome variables
 id: strategic-reliance-associated-ai-literacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

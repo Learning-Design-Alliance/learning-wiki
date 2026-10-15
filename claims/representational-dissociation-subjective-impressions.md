@@ -3,7 +3,7 @@ type: claim
 title: Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure
 description: Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure
 id: representational-dissociation-subjective-impressions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: ELs with identified disabilities made slower progress toward English skills and had lower attendance, and were more likely to opt out of bilingual services
 description: ELs with identified disabilities made slower progress toward English skills and had lower attendance, and were more likely to opt out of bilingual services
 id: els-with-disabilities-slower-progress-lower-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

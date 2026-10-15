@@ -3,7 +3,7 @@ type: claim
 title: Two attitude clusters differ significantly on preparedness, confidence, and interest (p<.0001), with Cluster 1 lower on Pew and GSE but not SeBIS, and reporting more word-of-mouth learning
 description: Two attitude clusters differ significantly on preparedness, confidence, and interest (p<.0001), with Cluster 1 lower on Pew and GSE but not SeBIS, and reporting more word-of-mouth learning
 id: two-attitude-clusters-differ-preparedness-confidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

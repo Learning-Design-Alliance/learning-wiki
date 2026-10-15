@@ -3,7 +3,7 @@ type: claim
 title: Schools with higher suspension rates have worse climates for learning, even compared to schools serving similar student populations
 description: Schools with higher suspension rates have worse climates for learning, even compared to schools serving similar student populations
 id: high-suspension-rates-worse-school-climate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

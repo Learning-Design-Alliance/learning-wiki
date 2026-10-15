@@ -3,7 +3,7 @@ type: claim
 title: Sentiment classification transfers to English under the unchanged protocol, with a frozen multilingual encoder the strongest arm at wF1 0.73 and LLMs matching it only with few-shot prompting
 description: Sentiment classification transfers to English under the unchanged protocol, with a frozen multilingual encoder the strongest arm at wF1 0.73 and LLMs matching it only with few-shot prompting
 id: english-sentiment-transfer-encoder-strongest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

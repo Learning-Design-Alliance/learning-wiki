@@ -3,7 +3,7 @@ type: claim
 title: L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned
 description: "L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned"
 id: incidental-vocabulary-learning-through-reading-for-meaning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

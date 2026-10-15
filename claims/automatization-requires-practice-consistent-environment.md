@@ -3,7 +3,7 @@ type: claim
 title: Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises
 description: Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises
 id: automatization-requires-practice-consistent-environment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

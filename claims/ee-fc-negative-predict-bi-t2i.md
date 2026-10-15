@@ -3,7 +3,7 @@ type: claim
 title: Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education
 description: Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education
 id: ee-fc-negative-predict-bi-t2i
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

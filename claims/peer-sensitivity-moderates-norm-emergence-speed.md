@@ -3,7 +3,7 @@ type: claim
 title: "In simulations, peer sensitivity (β) moderates how rapidly responsible AI-use norms emerge: strong peer sensitivity yields a sharp tipping-point transition, while weak peer sensitivity yields only gradual, marginal increases"
 description: "In simulations, peer sensitivity (β) moderates how rapidly responsible AI-use norms emerge: strong peer sensitivity yields a sharp tipping-point transition, while weak peer sensitivity yields only gradual, marginal in..."
 id: peer-sensitivity-moderates-norm-emergence-speed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

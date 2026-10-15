@@ -3,7 +3,7 @@ type: claim
 title: Majorities of teachers and evaluators question the effort required by REACH, saying it takes more effort than the results are worth
 description: Majorities of teachers and evaluators question the effort required by REACH, saying it takes more effort than the results are worth
 id: reach-effort-questioned-more-effort-than-results-worth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

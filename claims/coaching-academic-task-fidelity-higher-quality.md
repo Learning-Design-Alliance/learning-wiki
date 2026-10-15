@@ -3,7 +3,7 @@ type: claim
 title: Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors
 description: Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors
 id: coaching-academic-task-fidelity-higher-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

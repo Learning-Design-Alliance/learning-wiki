@@ -3,7 +3,7 @@ type: claim
 title: In Mnemosyne flashcard log data, adding a delay term improves the recall-prediction performance of exponential forgetting curve memory models.
 description: In Mnemosyne flashcard log data, adding a delay term improves the recall-prediction performance of exponential forgetting curve memory models.
 id: delay-term-improves-exponential-forgetting-curve-recall-prediction
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

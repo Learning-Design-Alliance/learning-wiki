@@ -3,7 +3,7 @@ type: strategy
 id: declare-genai-feedback-and-refinements
 title: Require students engaging GenAI for feedback to declare the feedback received and how they refined their work in response
 description: "The article's first recommendation from the case study: when students use GenAI for feedback, they should document the feedback and their response to it."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

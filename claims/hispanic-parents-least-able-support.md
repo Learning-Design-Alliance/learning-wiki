@@ -3,7 +3,7 @@ type: claim
 title: "Hispanic parents feel least able to support their children's high school work and report the least school support"
 description: "Hispanic parents feel least able to support their children's high school work and report the least school support"
 id: hispanic-parents-least-able-support
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

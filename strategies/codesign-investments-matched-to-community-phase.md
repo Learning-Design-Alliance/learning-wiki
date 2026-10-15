@@ -3,7 +3,7 @@ type: strategy
 id: codesign-investments-matched-to-community-phase
 title: "Co-design investment approaches matched to a community's developmental phase"
 description: "The article recommends that funders \"engage with communities to co-design investment approaches that better match communities' current and future assets and needs based on their developmental phase.\" This is an implem..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

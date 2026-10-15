@@ -3,7 +3,7 @@ type: claim
 title: A multi-task CNN-LSTM diagnostic model with attention-based fusion achieves correlations of 0.887, 0.862, 0.824, and 0.793 with human expert ratings across four oral proficiency dimensions under speaker-independent testing
 description: A multi-task CNN-LSTM diagnostic model with attention-based fusion achieves correlations of 0.887, 0.862, 0.824, and 0.793 with human expert ratings across four oral proficiency dimensions under speaker-independent te...
 id: cnn-lstm-multitask-oral-diagnostic-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

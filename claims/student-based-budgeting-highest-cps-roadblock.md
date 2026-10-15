@@ -3,7 +3,7 @@ type: claim
 title: Managing resources under student-based budgeting was the single most challenging roadblock CPS administrators reported since 1992, with 66 percent rating it a significant or complete roadblock in 2017
 description: Managing resources under student-based budgeting was the single most challenging roadblock CPS administrators reported since 1992, with 66 percent rating it a significant or complete roadblock in 2017
 id: student-based-budgeting-highest-cps-roadblock
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

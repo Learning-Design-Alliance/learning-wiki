@@ -3,7 +3,7 @@ type: claim
 title: Structured book synthesis outperforms matched independent document rephrasing (+1.17 mean), while rephrasing alone ties natural books
 description: Structured book synthesis outperforms matched independent document rephrasing (+1.17 mean), while rephrasing alone ties natural books
 id: structured-synthesis-beats-rephrasing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

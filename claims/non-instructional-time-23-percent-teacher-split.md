@@ -3,7 +3,7 @@ type: claim
 title: Non-instructional time averages 23 percent in observed Chicago elementary classrooms, with half of teachers at 14 percent and half at 30 percent
 description: Non-instructional time averages 23 percent in observed Chicago elementary classrooms, with half of teachers at 14 percent and half at 30 percent
 id: non-instructional-time-23-percent-teacher-split
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

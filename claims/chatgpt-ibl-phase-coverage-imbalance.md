@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT applications in STEAM IBL cluster in the investigation, conceptualization and discussion phases, leaving orientation and conclusion largely unexplored
 description: ChatGPT applications in STEAM IBL cluster in the investigation, conceptualization and discussion phases, leaving orientation and conclusion largely unexplored
 id: chatgpt-ibl-phase-coverage-imbalance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

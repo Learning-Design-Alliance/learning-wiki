@@ -3,7 +3,7 @@ type: strategy
 id: fas-supported-feedback-generation-strategy
 title: "Use a formative assessment script to structure students' generation of peer and internal feedback on performance products"
 description: "This strategy implements the study's manipulation: support students' feedback generation with a formative assessment script rather than leaving it unstructured."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

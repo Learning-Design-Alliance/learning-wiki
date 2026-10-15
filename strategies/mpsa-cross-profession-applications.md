@@ -3,7 +3,7 @@ type: strategy
 id: mpsa-cross-profession-applications
 title: Apply MPSA Cone across professions to interpret cognitive structure, stress, personnel selection, and robot design
 description: "The article proposes the MPSA Cone as an interpretive tool across diversified professions: in information technology, it \"may provide alternative inquiry and interpretations regarding human's cognitive structure\" when..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

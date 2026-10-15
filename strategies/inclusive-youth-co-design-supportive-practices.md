@@ -3,7 +3,7 @@ type: strategy
 id: inclusive-youth-co-design-supportive-practices
 title: "Supportive practices for inclusive youth co-design: reach beyond usual voices, respect time, ensure accessibility, and compensate fairly"
 description: Alongside partnering with youth, the report recommends four supporting practices for co-design.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Among TAM constructs, result demonstrability, intention to use, and ease of use received the highest ratings while output quality was lowest
 description: Among TAM constructs, result demonstrability, intention to use, and ease of use received the highest ratings while output quality was lowest
 id: tam-construct-means-asr-writing-study
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

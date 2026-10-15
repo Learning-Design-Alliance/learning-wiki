@@ -3,7 +3,7 @@ type: claim
 title: "Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children"
 description: "Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children"
 id: age-moderates-discovery-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

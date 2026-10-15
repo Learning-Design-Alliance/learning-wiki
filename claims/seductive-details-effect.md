@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

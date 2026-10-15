@@ -3,7 +3,7 @@ type: claim
 title: "Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of improved student achievement"
 description: "Widely implemented staff development (Madeline Hunter's ITIP) lacks empirical evidence of improved student achievement"
 id: itip-lacks-empirical-evidence-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

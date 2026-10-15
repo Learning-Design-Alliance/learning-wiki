@@ -3,7 +3,7 @@ type: claim
 title: After pairing, both groups favored saving progress over abrupt transitions and trusted data-informed future pairing over student-only ratings.
 description: After pairing, both groups favored saving progress over abrupt transitions and trusted data-informed future pairing over student-only ratings.
 id: claim-post-pairing-progress-and-data-informed-pairing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

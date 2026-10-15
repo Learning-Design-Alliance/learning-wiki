@@ -3,7 +3,7 @@ type: claim
 title: Teaching about Emotions is positively associated with ECERS-R Space and Furnishings quality in kindergarten groups
 description: Teaching about Emotions is positively associated with ECERS-R Space and Furnishings quality in kindergarten groups
 id: teaching-about-emotions-associated-with-space-and-furnishings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

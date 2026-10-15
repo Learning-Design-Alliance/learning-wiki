@@ -3,7 +3,7 @@ type: claim
 title: AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning
 description: AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning
 id: ai-performance-learning-gains-diverge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

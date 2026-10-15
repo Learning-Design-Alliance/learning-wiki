@@ -2,7 +2,7 @@
 type: theory
 title: Dual-responsibility framing of low-stakes testing programs
 description: "The article frames low-stakes testing programs as carrying a dual responsibility: test developers must both develop and administer a high-quality test that yields valid scores, and motivate examinees to put forth thei..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

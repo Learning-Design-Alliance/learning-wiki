@@ -3,7 +3,7 @@ type: claim
 title: Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use
 description: Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use
 id: baseline-relatedness-diminishes-perceived-ai-relatedness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

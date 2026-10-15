@@ -3,7 +3,7 @@ type: claim
 title: When applied by human evaluators, all four AI-generated rubrics met pooled scoring equivalence with a human-created baseline within a ±5-point margin
 description: When applied by human evaluators, all four AI-generated rubrics met pooled scoring equivalence with a human-created baseline within a ±5-point margin
 id: ai-rubrics-pooled-equivalence-human-evaluators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

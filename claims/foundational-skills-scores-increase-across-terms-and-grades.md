@@ -3,7 +3,7 @@ type: claim
 title: Foundational Skills test scores generally increased across terms and grades, with less growth observed at higher grades
 description: Foundational Skills test scores generally increased across terms and grades, with less growth observed at higher grades
 id: foundational-skills-scores-increase-across-terms-and-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

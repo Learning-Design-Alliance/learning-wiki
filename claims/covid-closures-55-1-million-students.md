@@ -3,7 +3,7 @@ type: claim
 title: COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time
 description: COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time
 id: covid-closures-55-1-million-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

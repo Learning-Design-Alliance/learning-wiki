@@ -3,7 +3,7 @@ type: claim
 title: Learners define engagement through cognitive, behavioral, and emotional criteria that align with the tripartite framework but differ across individuals
 description: Learners define engagement through cognitive, behavioral, and emotional criteria that align with the tripartite framework but differ across individuals
 id: learner-definitions-span-tripartite-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

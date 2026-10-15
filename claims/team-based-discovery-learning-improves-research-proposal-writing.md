@@ -3,7 +3,7 @@ type: claim
 title: "Team-based discovery learning improved EFL students' research proposal writing across two action-research cycles, with cycle-two average score 85.8 above the success criterion"
 description: "Team-based discovery learning improved EFL students' research proposal writing across two action-research cycles, with cycle-two average score 85.8 above the success criterion"
 id: team-based-discovery-learning-improves-research-proposal-writing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

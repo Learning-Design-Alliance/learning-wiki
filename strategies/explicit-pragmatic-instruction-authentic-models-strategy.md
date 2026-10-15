@@ -3,7 +3,7 @@ type: strategy
 id: explicit-pragmatic-instruction-authentic-models-strategy
 title: Design explicit pragmatic instruction with practice opportunities, feedback addressing both form and meaning, and authentic input models
 description: Based on the studies reviewed, the authors encourage L2 teachers to design activities and implement pragmatic instruction that is explicit (for instance metapragmatic explanations) and includes opportunities for pract...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

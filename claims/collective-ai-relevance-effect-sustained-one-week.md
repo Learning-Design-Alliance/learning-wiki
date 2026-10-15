@@ -3,7 +3,7 @@ type: claim
 title: "The collective generative AI intervention's effect on relevance as identification with math persisted one week later through its immediate effect"
 description: "The collective generative AI intervention's effect on relevance as identification with math persisted one week later through its immediate effect"
 id: collective-ai-relevance-effect-sustained-one-week
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

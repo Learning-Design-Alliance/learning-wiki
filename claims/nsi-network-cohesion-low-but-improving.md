@@ -3,7 +3,7 @@ type: claim
 title: Network cohesion in NSI increased over time but remained low, with about 16 percent of possible school-to-school connections realized
 description: Network cohesion in NSI increased over time but remained low, with about 16 percent of possible school-to-school connections realized
 id: nsi-network-cohesion-low-but-improving
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

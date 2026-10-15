@@ -3,7 +3,7 @@ type: claim
 title: Living in close geographic proximity to homicide is followed by lower attendance, test scores, GPA, and more disciplinary incidents for CPS students
 description: Living in close geographic proximity to homicide is followed by lower attendance, test scores, GPA, and more disciplinary incidents for CPS students
 id: proximity-homicide-lowers-student-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

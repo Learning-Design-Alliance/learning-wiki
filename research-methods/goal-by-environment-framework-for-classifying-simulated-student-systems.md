@@ -3,7 +3,7 @@ type: research-method
 id: goal-by-environment-framework-for-classifying-simulated-student-systems
 title: Goal-by-Environment framework for classifying simulated student systems
 description: "The article proposes organizing the simulated-student design space along two dimensions: behavioral goals (performance, learning, human aspects) and environment (subject domain, learner population, interaction modality)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

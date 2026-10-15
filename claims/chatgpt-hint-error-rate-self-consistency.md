@@ -3,7 +3,7 @@ type: claim
 title: "ChatGPT 3.5 produced low-quality hints for 32% of problems, reducible to near 0% for algebra and 13% for statistics via the self-consistency technique"
 description: "ChatGPT 3.5 produced low-quality hints for 32% of problems, reducible to near 0% for algebra and 13% for statistics via the self-consistency technique"
 id: chatgpt-hint-error-rate-self-consistency
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

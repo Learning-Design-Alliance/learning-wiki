@@ -3,7 +3,7 @@ type: claim
 title: "In the 2008-2009 school year, 39 percent of DCPS principals (51 individuals) did not return, as part of Chancellor Rhee's replacement reforms following mayoral control"
 description: "In the 2008-2009 school year, 39 percent of DCPS principals (51 individuals) did not return, as part of Chancellor Rhee's replacement reforms following mayoral control"
 id: dcps-39-percent-principals-did-not-return-2008-09
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

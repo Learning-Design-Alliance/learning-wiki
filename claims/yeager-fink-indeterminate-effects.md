@@ -3,7 +3,7 @@ type: claim
 title: Yeager et al. (2016) and Fink et al. (2018) found indeterminate effects on enrollment, credit completion, and chemistry final exam scores
 description: Yeager et al.
 id: yeager-fink-indeterminate-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

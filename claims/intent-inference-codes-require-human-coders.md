@@ -3,7 +3,7 @@ type: claim
 title: On codes requiring recognition of pedagogical intent not explicitly stated, LLMs over-apply and the blind verifier rejects their application in favor of human coding
 description: On codes requiring recognition of pedagogical intent not explicitly stated, LLMs over-apply and the blind verifier rejects their application in favor of human coding
 id: intent-inference-codes-require-human-coders
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: claim
 title: Personal connection to data supports critical data-literacy stance-taking
 id: personal-connection-to-data-supports-critical-data-literacy-stance-taking
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

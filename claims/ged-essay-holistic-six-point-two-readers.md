@@ -3,7 +3,7 @@ type: claim
 title: The GED essay is scored holistically on a six-point scale by two independent readers
 description: The GED essay is scored holistically on a six-point scale by two independent readers
 id: ged-essay-holistic-six-point-two-readers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

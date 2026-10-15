@@ -4,7 +4,7 @@ id: oatutor-open-adaptive-tutor
 title: OATutor (Open Adaptive Tutor)
 description: OATutor is an open-source adaptive tutoring platform developed by the OATutor Project for delivering online practice problems, learner hints, and instructional interaction data.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

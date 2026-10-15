@@ -4,7 +4,7 @@ id: blueprint-for-statewide-pathways-scaling
 title: Blueprint for Statewide Pathways Scaling
 description: A Babineau et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

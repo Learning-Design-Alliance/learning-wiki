@@ -3,7 +3,7 @@ type: claim
 title: Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions
 description: Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions
 id: existing-guidance-partial-ethical-coverage
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

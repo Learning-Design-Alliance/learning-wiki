@@ -3,7 +3,7 @@ type: design
 id: learning-interactives-generation-pipeline
 title: "Learning interactives generation pipeline: four stages from teacher request to guidance components"
 description: "Learning interactives are generated in four stages (Figure 2): Planning (from a teacher request to learning objectives and a simulation idea), Scaffolding (from objectives to K=5 levelled goals), Gen-UI (from idea and..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

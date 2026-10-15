@@ -3,7 +3,7 @@ type: method
 id: recency-adjustment-over-static-learning-rate
 title: Apply a recency adjustment to Bayesian knowledge-estimation updates instead of a static learning rate
 description: "The paper's concluding recommendation is that student-model designers consider replacing a static learning rate with a recency adjustment to Bayesian updates, because this \"can lead to better properties of knowledge e..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

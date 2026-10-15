@@ -2,7 +2,7 @@
 type: theory
 title: Cognitive Theory of Multimedia Learning (CTML) as applied to emergent bilingual instruction
 description: CTML (Mayer, 2014) holds that learners process multimedia messages through two channels — visual/pictorial and verbal/auditory — each limited in processing capacity; information is acquired through the channels, proce...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

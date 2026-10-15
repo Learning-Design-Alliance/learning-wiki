@@ -3,7 +3,7 @@ type: strategy
 id: implement-coherent-linked-student-database-foster-care
 title: Implement a coherent student database linking education, child welfare, mental health, and judicial systems rather than further studying data sharing
 description: "The experts' recommendation on data sharing is action rather than study: \"We don't need further study about data sharing, we just need to do it.\" They called for implementing \"a coherent student database that links wi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

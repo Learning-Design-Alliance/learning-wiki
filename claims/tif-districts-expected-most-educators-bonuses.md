@@ -3,7 +3,7 @@ type: claim
 title: TIF districts expected most educators would receive a bonus, inconsistent with guidance for challenging pay-for-performance
 description: TIF districts expected most educators would receive a bonus, inconsistent with guidance for challenging pay-for-performance
 id: tif-districts-expected-most-educators-bonuses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

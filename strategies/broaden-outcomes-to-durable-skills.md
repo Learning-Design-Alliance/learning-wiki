@@ -3,7 +3,7 @@ type: strategy
 id: broaden-outcomes-to-durable-skills
 title: Broaden measured outcomes beyond high-stakes assessments to include durable skills
 description: "The article calls for 'expanding what is measured beyond the narrow set of skills and knowledge captured on high-stakes assessments'."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

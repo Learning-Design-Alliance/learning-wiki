@@ -3,7 +3,7 @@ type: claim
 title: Family circumstances pile up to worsen preschool attendance, and parent beliefs about attendance importance are related to absence rates
 description: Family circumstances pile up to worsen preschool attendance, and parent beliefs about attendance importance are related to absence rates
 id: family-circumstances-and-parent-beliefs-relate-to-preschool-attendance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

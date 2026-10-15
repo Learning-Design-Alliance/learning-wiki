@@ -3,7 +3,7 @@ type: strategy
 id: match-writing-strategies-to-situations-wall-chart
 title: Guide students to select, match, and adapt writing strategies to situations
 description: "Beyond teaching strategies, the guide has students learn when and why to use them: \"Match a list of strategies with a list of situations in which they can be used."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

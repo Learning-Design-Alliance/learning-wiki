@@ -3,7 +3,7 @@ type: claim
 title: Unit-test-based evaluation shows consistently negative correlations with human judgment, disproportionately penalizing complex high-quality interactive designs
 description: Unit-test-based evaluation shows consistently negative correlations with human judgment, disproportionately penalizing complex high-quality interactive designs
 id: unit-test-negative-correlation-human-judgment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

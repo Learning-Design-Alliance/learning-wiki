@@ -3,7 +3,7 @@ type: strategy
 id: parent-home-writing-activities-tip-sheet
 title: Parents support elementary writing skills at home through everyday writing activities like writing stories, reviewing movies, and describing things around them
 description: This strategy, drawn from a tip sheet published by the National Center for Education Evaluation and Regional Assistance, positions parents as deliverers of writing practice at home for elementary school children.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

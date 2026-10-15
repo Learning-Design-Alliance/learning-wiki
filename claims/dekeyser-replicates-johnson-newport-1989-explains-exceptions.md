@@ -3,7 +3,7 @@ type: claim
 title: The study replicates Johnson and Newport (1989) and explains the apparent exceptions in that study
 description: The study replicates Johnson and Newport (1989) and explains the apparent exceptions in that study
 id: dekeyser-replicates-johnson-newport-1989-explains-exceptions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

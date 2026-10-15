@@ -3,7 +3,7 @@ type: claim
 title: In an online course, student performance can be examined in relationship to measures of student interaction and sense of presence using multiple independent and dependent variables.
 description: In an online course, student performance can be examined in relationship to measures of student interaction and sense of presence using multiple independent and dependent variables.
 id: online-performance-related-to-interaction-and-presence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

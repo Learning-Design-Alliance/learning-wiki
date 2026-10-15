@@ -3,7 +3,7 @@ type: claim
 title: Retrospective pre/post confidence rose on all four course learning objectives with large rank-biserial effects (N=159)
 description: Retrospective pre/post confidence rose on all four course learning objectives with large rank-biserial effects (N=159)
 id: retrospective-confidence-gains-me373
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: tutoring-expand-tutor-pool-not-group-size
 title: Expand the pool of potential tutors rather than expanding group sizes when scaling tutoring to all students
 description: "Responding to Louisiana's Accelerate guidance, the brief recommends that states seeking to tutor all students not enlarge groups beyond the research-based cap."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

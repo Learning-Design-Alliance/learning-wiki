@@ -3,7 +3,7 @@ type: strategy
 id: jigsaw-sharing-inquiry-posters
 title: Use jigsaw-style sharing so every student is responsible for all the material
 description: "After teams reproduce another team's image, decoded drawings are returned and each team splits up, sending one member to each facilitator to share results with one-third of the class."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

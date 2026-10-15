@@ -4,7 +4,7 @@ id: british-council-knowledge-based-vocabulary-lists-kvl-difficulty-dataset
 title: British Council Knowledge-based Vocabulary Lists (KVL) difficulty dataset
 description: "A dataset developed from the British Council's Knowledge-based Vocabulary Lists containing productive English-vocabulary test items and GLMM-based difficulty scores for Chinese, German, and Spanish learners of English."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

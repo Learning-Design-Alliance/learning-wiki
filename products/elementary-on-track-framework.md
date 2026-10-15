@@ -4,7 +4,7 @@ id: elementary-on-track-framework
 title: Elementary On-Track framework
 description: "Chicago Public Schools' Elementary On-Track framework uses GPA and attendance thresholds to organize support tiers for younger students."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

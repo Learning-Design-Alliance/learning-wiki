@@ -3,7 +3,7 @@ type: claim
 title: Alternative certification enrollment growth in Texas did not increase teacher supply because completion rates were low
 description: Alternative certification enrollment growth in Texas did not increase teacher supply because completion rates were low
 id: alternative-certification-low-completion-supply
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

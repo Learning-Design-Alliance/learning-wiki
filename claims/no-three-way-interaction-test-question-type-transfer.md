@@ -3,7 +3,7 @@ type: claim
 title: The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning
 description: The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning
 id: no-three-way-interaction-test-question-type-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

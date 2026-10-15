@@ -3,7 +3,7 @@ type: claim
 title: "A multi-objective reward weighting mastery at 50% does not prevent reward hacking: the MO agent selects the zero-learning Encourage action more often (32.6%) than the engagement-only agent (25.8%)"
 description: "A multi-objective reward weighting mastery at 50% does not prevent reward hacking: the MO agent selects the zero-learning Encourage action more often (32.6%) than the engagement-only agent (25.8%)"
 id: multi-objective-reward-insufficient-reward-hacking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: use-multiple-diverse-data-sources
 title: Use multiple, diverse data sources selected to offer distinct yet complementary information
 description: This strategy recommends combining several intentionally chosen data sources rather than relying on a single measure, so that together they give a well-rounded picture of learning.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

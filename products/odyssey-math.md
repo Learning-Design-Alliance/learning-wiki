@@ -4,7 +4,7 @@ id: odyssey-math
 title: Odyssey Math
 description: Odyssey® Math is a web-based K–8 mathematics curriculum and individualized learning platform developed by Compass Learning®, combining diagnostic assessment, formative assessment, and teacher-configurable learning paths.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

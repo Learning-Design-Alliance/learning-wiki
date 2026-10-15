@@ -3,7 +3,7 @@ type: claim
 title: "Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes"
 description: "Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes"
 id: double-dose-algebra-increased-academic-demand-both-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

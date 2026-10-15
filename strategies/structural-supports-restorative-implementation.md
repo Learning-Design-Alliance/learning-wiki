@@ -3,7 +3,7 @@ type: strategy
 id: structural-supports-restorative-implementation
 title: "Structural supports for restorative practices: funding, people, time, discipline policy, and equity"
 description: "The brief identifies structural supports that must be attended to for restorative practices to be implemented and sustained: rethinking success beyond fewer referrals, allocating or reallocating funding, building team..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

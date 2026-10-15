@@ -3,7 +3,7 @@ type: claim
 title: LLM use for debugging is significantly negatively correlated with student final grades
 description: LLM use for debugging is significantly negatively correlated with student final grades
 id: llm-debugging-negative-correlation-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

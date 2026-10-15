@@ -3,7 +3,7 @@ type: claim
 title: "Time constraints (47.3%) and course difficulty (27.7%) are the two largest barriers to completing the LC101 coursework phase"
 description: "Time constraints (47.3%) and course difficulty (27.7%) are the two largest barriers to completing the LC101 coursework phase"
 id: time-and-difficulty-largest-coursework-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Mapped against DigComp 2.2, developed-region frameworks cover communication and collaboration more widely while developing-region frameworks emphasize problem solving
 description: Mapped against DigComp 2.2, developed-region frameworks cover communication and collaboration more widely while developing-region frameworks emphasize problem solving
 id: regional-digcomp-coverage-developed-vs-developing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

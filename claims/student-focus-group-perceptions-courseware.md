@@ -3,7 +3,7 @@ type: claim
 title: Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns
 description: Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns
 id: student-focus-group-perceptions-courseware
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

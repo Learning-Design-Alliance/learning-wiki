@@ -3,7 +3,7 @@ type: claim
 title: All six Practitioner Advisory Board members reported that engaging with Merlyn Mind was a valuable use of their time and that their feedback was taken seriously
 description: All six Practitioner Advisory Board members reported that engaging with Merlyn Mind was a valuable use of their time and that their feedback was taken seriously
 id: pab-engagement-mutually-valued
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: element
 id: national-coaching-survey-2019
 title: National coaching survey of coaches, teachers, and administrators
 description: "A 2019 national online survey designed by Digital Promise and Learning Forward \"using validated survey questions from the Dynamic Learning Project,\" distributed via email on October 2, 2019 and closed October 22, 2019..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

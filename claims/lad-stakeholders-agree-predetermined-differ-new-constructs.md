@@ -3,7 +3,7 @@ type: claim
 title: Students and tutors rated predetermined LAD constructs similarly in importance but differed in suggesting and ranking new constructs
 description: Students and tutors rated predetermined LAD constructs similarly in importance but differed in suggesting and ranking new constructs
 id: lad-stakeholders-agree-predetermined-differ-new-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Teacher emotional support buffers the negative association between low math self-efficacy and low engagement
 description: Teacher emotional support buffers the negative association between low math self-efficacy and low engagement
 id: teacher-emotional-support-buffers-low-efficacy-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

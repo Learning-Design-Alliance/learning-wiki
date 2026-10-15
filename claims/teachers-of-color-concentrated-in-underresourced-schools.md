@@ -3,7 +3,7 @@ type: claim
 title: "Teachers of color disproportionately teach in schools serving more than 75% students of color and more than 75% students from low-income families"
 description: "Teachers of color disproportionately teach in schools serving more than 75% students of color and more than 75% students from low-income families"
 id: teachers-of-color-concentrated-in-underresourced-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

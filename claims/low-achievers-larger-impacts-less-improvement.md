@@ -3,7 +3,7 @@ type: claim
 title: Low achievers experienced larger initial pandemic impacts and less improvement during 2021-22
 description: Low achievers experienced larger initial pandemic impacts and less improvement during 2021-22
 id: low-achievers-larger-impacts-less-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

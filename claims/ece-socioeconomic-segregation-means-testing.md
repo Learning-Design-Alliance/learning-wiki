@@ -3,7 +3,7 @@ type: claim
 title: The ECE system is socioeconomically segregated because means-tested programs sort children by family income
 description: The ECE system is socioeconomically segregated because means-tested programs sort children by family income
 id: ece-socioeconomic-segregation-means-testing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: pippi-longstocking-experiential-teacher-education
 title: Use Pippi Longstocking experientially in pre-service teacher education to practice educational philosophies.
 description: The article recommends that instead of studying educational philosophies as abstract concepts, teacher educators use Pippi Longstocking as a case for experiential practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

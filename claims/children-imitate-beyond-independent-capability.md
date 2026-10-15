@@ -3,7 +3,7 @@ type: claim
 title: Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction
 description: Children, unlike animals, can imitate actions beyond their independent capabilities and profit from instruction
 id: children-imitate-beyond-independent-capability
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

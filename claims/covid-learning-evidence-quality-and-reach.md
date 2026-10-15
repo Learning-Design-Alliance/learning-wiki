@@ -3,7 +3,7 @@ type: claim
 title: The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias
 description: The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias
 id: covid-learning-evidence-quality-and-reach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

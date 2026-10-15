@@ -3,7 +3,7 @@ type: claim
 title: GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use
 description: GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use
 id: gcla-improves-hots
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

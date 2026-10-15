@@ -3,7 +3,7 @@ type: claim
 title: LLM-based assessment can replace similarity-based methods because it needs no ground-truth response and no correctness threshold
 description: LLM-based assessment can replace similarity-based methods because it needs no ground-truth response and no correctness threshold
 id: llm-assessment-needs-no-ground-truth-or-threshold
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

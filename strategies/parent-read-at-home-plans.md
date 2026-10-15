@@ -3,7 +3,7 @@ type: strategy
 id: parent-read-at-home-plans
 title: Provide parent read-at-home plans and home reading strategies for struggling readers
 description: "The toolkit recommends at-home reading strategies to help families support literacy development, including a \"Read-at-Home\" plan outlined in a parental contract, the individual reading plan, parent training workshops,..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

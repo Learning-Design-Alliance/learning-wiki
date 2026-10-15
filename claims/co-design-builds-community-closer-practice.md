@@ -3,7 +3,7 @@ type: claim
 title: Research question co-design builds community and moves research closer to practice
 description: Research question co-design builds community and moves research closer to practice
 id: co-design-builds-community-closer-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

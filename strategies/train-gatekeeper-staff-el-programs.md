@@ -3,7 +3,7 @@ type: strategy
 id: train-gatekeeper-staff-el-programs
 title: Train gatekeeper staff who answer calls, emails, and visits so they understand EL program structures and points of contact
 description: "The article identifies employees who respond to phone calls, emails, and in-person visits as \"important gatekeepers to valuable information about English Learner programs and services.\" It recommends that individuals..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

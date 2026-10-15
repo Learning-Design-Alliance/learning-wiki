@@ -3,7 +3,7 @@ type: claim
 title: In elementary grades, students in schools with extensive standards-related professional development reported significantly larger improvements in academic demand, rigor, instructional clarity, and teacher support than students in schools with limited professional development
 description: In elementary grades, students in schools with extensive standards-related professional development reported significantly larger improvements in academic demand, rigor, instructional clarity, and teacher support than...
 id: extensive-pd-larger-instructional-improvements-elementary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: raise-2025-checklist-v10-with-editable-supplementary-version
 title: RAISE 2025 Checklist (v1.0) with editable supplementary version
 description: A checklist created by Allison for standardising disclosure and review of AI-enabled educational research manuscripts across ten thematic domains.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

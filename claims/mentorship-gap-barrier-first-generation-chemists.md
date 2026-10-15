@@ -3,7 +3,7 @@ type: claim
 title: Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability
 description: Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability
 id: mentorship-gap-barrier-first-generation-chemists
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

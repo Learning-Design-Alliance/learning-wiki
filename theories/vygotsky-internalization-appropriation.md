@@ -2,7 +2,7 @@
 type: theory
 title: "Internalization and appropriation: complex mental processes begin as social activities and are gradually internalized and adapted"
 description: "The article describes internalization as the process by which children gradually internalize adults' directions so that they eventually give themselves directions, with complex mental processes beginning as social act..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

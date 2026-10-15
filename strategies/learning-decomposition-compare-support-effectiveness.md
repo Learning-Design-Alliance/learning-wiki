@@ -3,7 +3,7 @@ type: strategy
 id: learning-decomposition-compare-support-effectiveness
 title: "Learning decomposition: fit exponential learning curves to compare the relative effectiveness of types of pedagogical support"
 description: "Learning decomposition is a method for studying pedagogical support in which, per the review, \"Learning decomposition fits exponential learning curves to performance data, relating a student's later success to the amo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -2,7 +2,7 @@
 type: theory
 title: Learner variability as a multidimensional construct spanning cognitive, social, emotional, and background factors
 description: "The survey defines \"learner variability\" as a construct covering the abilities students have and the challenges they bring to learning."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: How students are sorted into classrooms by skill level can affect their achievement as much as the content they are taught
 description: How students are sorted into classrooms by skill level can affect their achievement as much as the content they are taught
 id: sorting-effect-comparable-to-curriculum-content
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

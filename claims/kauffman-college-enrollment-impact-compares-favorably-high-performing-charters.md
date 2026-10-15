@@ -3,7 +3,7 @@ type: claim
 title: "The Kauffman School's impact on four-year college enrollment compares favorably to the average effects observed for other high-performing charter schools"
 description: "The Kauffman School's impact on four-year college enrollment compares favorably to the average effects observed for other high-performing charter schools"
 id: kauffman-college-enrollment-impact-compares-favorably-high-performing-charters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

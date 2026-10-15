@@ -3,7 +3,7 @@ type: strategy
 id: four-recommendations-school-safety-reform
 title: Four district-level recommendations for improving school safety and student well-being regardless of position on the spectrum
 description: "Based on the case study and similar research, Ed Trust recommends four steps for any school or district: \"Provide clear messaging to principals and school staff on existing policies, including detailed guidance and su..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

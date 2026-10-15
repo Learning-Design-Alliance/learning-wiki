@@ -3,7 +3,7 @@ type: claim
 title: "Staffing challenges persisted for state preschool and Head Start classrooms, with vacancy rates of 5% and 11% that increased from the prior year"
 description: "Staffing challenges persisted for state preschool and Head Start classrooms, with vacancy rates of 5% and 11% that increased from the prior year"
 id: cspp-head-start-vacancies-increased
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

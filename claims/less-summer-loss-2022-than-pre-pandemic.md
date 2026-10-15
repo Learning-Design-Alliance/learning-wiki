@@ -3,7 +3,7 @@ type: claim
 title: Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends
 description: Students lost less ground over summer 2022 compared to pre-pandemic summer-loss trends
 id: less-summer-loss-2022-than-pre-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Race is influential but not determinative in school change: it slows and complicates reform without dictating outcomes"
 description: "Race is influential but not determinative in school change: it slows and complicates reform without dictating outcomes"
 id: race-influential-not-determinative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

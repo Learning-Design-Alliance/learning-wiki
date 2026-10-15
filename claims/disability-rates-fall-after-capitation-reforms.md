@@ -3,7 +3,7 @@ type: claim
 title: Disability rates tended to fall following state special education capitation finance reforms
 description: Disability rates tended to fall following state special education capitation finance reforms
 id: disability-rates-fall-after-capitation-reforms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

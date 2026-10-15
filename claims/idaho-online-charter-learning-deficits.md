@@ -3,7 +3,7 @@ type: claim
 title: Idaho online charter students show weaker math growth than TPS VCRs and lag brick-and-mortar charter students in both subjects
 description: Idaho online charter students show weaker math growth than TPS VCRs and lag brick-and-mortar charter students in both subjects
 id: idaho-online-charter-learning-deficits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

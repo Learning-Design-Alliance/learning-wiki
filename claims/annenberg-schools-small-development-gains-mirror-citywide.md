@@ -3,7 +3,7 @@ type: claim
 title: Annenberg elementary schools developed in small but potentially significant ways in leadership, professional community, parent and community support, and social trust, mostly mirroring citywide development patterns
 description: Annenberg elementary schools developed in small but potentially significant ways in leadership, professional community, parent and community support, and social trust, mostly mirroring citywide development patterns
 id: annenberg-schools-small-development-gains-mirror-citywide
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

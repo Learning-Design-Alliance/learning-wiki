@@ -3,7 +3,7 @@ type: claim
 title: "Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties"
 description: "Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties"
 id: teacher-remote-challenges-attention-not-technology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

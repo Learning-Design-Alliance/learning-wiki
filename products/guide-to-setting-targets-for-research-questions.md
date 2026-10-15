@@ -4,7 +4,7 @@ id: guide-to-setting-targets-for-research-questions
 title: Guide to Setting Targets for Research Questions
 description: A Mathematica practical guide prepared for the Gates Foundation to help organizations and research partners set and use targets in evidence-building work.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

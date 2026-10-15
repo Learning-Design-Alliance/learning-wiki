@@ -3,7 +3,7 @@ type: claim
 title: Group-based delivery is associated with more improvement in child language than individually delivered interventions
 description: Group-based delivery is associated with more improvement in child language than individually delivered interventions
 id: book-sharing-group-delivery-better-than-individual
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

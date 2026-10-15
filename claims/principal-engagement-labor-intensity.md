@@ -3,7 +3,7 @@ type: claim
 title: Over half of principals were highly engaged in the new evaluation system, while disengaged principals cited its labor intensity amid simultaneous district initiatives
 description: Over half of principals were highly engaged in the new evaluation system, while disengaged principals cited its labor intensity amid simultaneous district initiatives
 id: principal-engagement-labor-intensity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

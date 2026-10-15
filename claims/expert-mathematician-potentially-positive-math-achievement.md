@@ -3,7 +3,7 @@ type: claim
 title: The Expert Mathematician shows a positive but not statistically significant effect on middle school math achievement (effect size 0.35, improvement index +14 percentile points)
 description: The Expert Mathematician shows a positive but not statistically significant effect on middle school math achievement (effect size 0.35, improvement index +14 percentile points)
 id: expert-mathematician-potentially-positive-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

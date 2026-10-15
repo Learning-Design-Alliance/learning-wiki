@@ -3,7 +3,7 @@ type: claim
 title: "Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)"
 description: "Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)"
 id: fear-of-mistakes-top-speaking-anxiety-iranian-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

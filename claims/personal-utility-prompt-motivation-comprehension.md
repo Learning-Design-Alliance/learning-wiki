@@ -3,7 +3,7 @@ type: claim
 title: A personal utility prompt in journal writing improves learning motivation and comprehension
 description: A personal utility prompt in journal writing improves learning motivation and comprehension
 id: personal-utility-prompt-motivation-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

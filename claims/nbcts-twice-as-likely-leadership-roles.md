@@ -3,7 +3,7 @@ type: claim
 title: Board-certified teachers were twice as likely as other teachers to hold school leadership roles, and about two-thirds led professional development
 description: Board-certified teachers were twice as likely as other teachers to hold school leadership roles, and about two-thirds led professional development
 id: nbcts-twice-as-likely-leadership-roles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

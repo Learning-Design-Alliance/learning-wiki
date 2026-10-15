@@ -3,7 +3,7 @@ type: claim
 title: GRPO-with-PAR gains over SFT transfer to independent evaluators never used during policy optimization
 description: GRPO-with-PAR gains over SFT transfer to independent evaluators never used during policy optimization
 id: par-gains-transfer-to-independent-evaluators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

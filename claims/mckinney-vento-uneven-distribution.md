@@ -3,7 +3,7 @@ type: claim
 title: "Fewer than 24% of LEAs receive McKinney-Vento grants, and over one third of students experiencing homelessness attend districts receiving none"
 description: "Fewer than 24% of LEAs receive McKinney-Vento grants, and over one third of students experiencing homelessness attend districts receiving none"
 id: mckinney-vento-uneven-distribution
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

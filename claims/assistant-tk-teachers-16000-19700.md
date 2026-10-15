@@ -3,7 +3,7 @@ type: claim
 title: California will need at least 16,000 to 19,700 assistant TK teachers by 2025–26 under one-lead-one-assistant staffing
 description: California will need at least 16,000 to 19,700 assistant TK teachers by 2025–26 under one-lead-one-assistant staffing
 id: assistant-tk-teachers-16000-19700
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

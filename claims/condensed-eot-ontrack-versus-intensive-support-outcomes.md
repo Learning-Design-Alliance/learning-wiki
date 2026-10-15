@@ -3,7 +3,7 @@ type: claim
 title: Elementary students in the On-Track category graduated high school at more than twice the rate and enrolled in college at more than four times the rate of students in the Intensive Support category
 description: Elementary students in the On-Track category graduated high school at more than twice the rate and enrolled in college at more than four times the rate of students in the Intensive Support category
 id: condensed-eot-ontrack-versus-intensive-support-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

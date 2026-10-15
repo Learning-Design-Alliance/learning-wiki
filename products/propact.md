@@ -4,7 +4,7 @@ id: propact
 title: ProPACT
 description: "ProPACT is an AI-driven adaptive collaborative tutor that uses multimodal dyadic sensing and forecast-driven prompts to support undergraduate and master's students during pair-programming debugging."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

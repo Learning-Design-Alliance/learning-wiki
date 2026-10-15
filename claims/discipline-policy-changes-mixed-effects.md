@@ -3,7 +3,7 @@ type: claim
 title: "District policies discouraging suspensions show mixed effects: shortened suspensions were associated with improved attendance but worse school climate"
 description: "District policies discouraging suspensions show mixed effects: shortened suspensions were associated with improved attendance but worse school climate"
 id: discipline-policy-changes-mixed-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

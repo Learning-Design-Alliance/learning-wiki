@@ -3,7 +3,7 @@ type: element
 id: covid-19-slide-research-brief-element
 title: The COVID-19 slide research brief and technical appendix on summer learning loss and school closures
 description: A NWEA research brief with accompanying technical appendix and working paper, listed as associated research for the webinar.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

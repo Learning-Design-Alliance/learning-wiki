@@ -3,7 +3,7 @@ type: claim
 title: Secondary academic performance is predicted by cognitive ability more strongly than by curiosity
 description: Secondary academic performance is predicted by cognitive ability more strongly than by curiosity
 id: cognitive-ability-predicts-secondary-gpa-more-than-curiosity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

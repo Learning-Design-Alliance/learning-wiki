@@ -3,7 +3,7 @@ type: research-method
 id: multidimensional-evaluation-framework-separating-reference-answer-similarity-structured-ou
 title: Multidimensional evaluation framework separating reference-answer similarity, structured-output stability, and domain-specific correctness
 description: The article proposes an evaluation framework for educational question-answering models that combines automatic text metrics with structured-output features and bootstrap confidence intervals.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Experienced meditators show reduced default mode network activation with enhanced PCC–dorsolateral PFC connectivity during meditation
 description: Experienced meditators show reduced default mode network activation with enhanced PCC–dorsolateral PFC connectivity during meditation
 id: meditation-dmn-reduction-pcc-dlpfc-connectivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

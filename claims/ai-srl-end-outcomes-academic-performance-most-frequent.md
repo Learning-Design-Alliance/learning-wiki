@@ -3,7 +3,7 @@ type: claim
 title: AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance
 description: AI supporting SRL aims at end outcomes beyond SRL itself, most frequently improved academic performance
 id: ai-srl-end-outcomes-academic-performance-most-frequent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

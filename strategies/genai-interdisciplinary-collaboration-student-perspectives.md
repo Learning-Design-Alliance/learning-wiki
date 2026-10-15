@@ -3,7 +3,7 @@ type: strategy
 id: genai-interdisciplinary-collaboration-student-perspectives
 title: Foster interdisciplinary collaboration and actively include student perspectives in institutional GenAI responses.
 description: Beyond governance and training, the article recommends interdisciplinary collaboration and the active inclusion of student perspectives when institutions respond to GenAI.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

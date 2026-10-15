@@ -3,7 +3,7 @@ type: claim
 title: Adaptive G-UKT reportedly establishes competitive state-of-the-art knowledge tracing performance, particularly under sparse observation regimes
 description: Adaptive G-UKT reportedly establishes competitive state-of-the-art knowledge tracing performance, particularly under sparse observation regimes
 id: adaptive-g-ukt-competitive-performance-sparse-regimes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

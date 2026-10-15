@@ -3,7 +3,7 @@ type: claim
 title: Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest
 description: Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest
 id: trust-mixed-scrutiny-tracks-expertise
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

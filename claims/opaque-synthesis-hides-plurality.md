@@ -3,7 +3,7 @@ type: claim
 title: Conversational synthesis can hide source plurality behind one voice, weakening verification relative to search
 description: Conversational synthesis can hide source plurality behind one voice, weakening verification relative to search
 id: opaque-synthesis-hides-plurality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

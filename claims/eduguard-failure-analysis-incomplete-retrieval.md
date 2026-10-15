@@ -3,7 +3,7 @@ type: claim
 title: Manual error analysis finds incomplete retrieval is the most frequent failure category, ahead of code-semantics limits, bilingual retrieval gaps, and over-conservative refusals
 description: Manual error analysis finds incomplete retrieval is the most frequent failure category, ahead of code-semantics limits, bilingual retrieval gaps, and over-conservative refusals
 id: eduguard-failure-analysis-incomplete-retrieval
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

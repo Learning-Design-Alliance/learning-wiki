@@ -3,7 +3,7 @@ type: claim
 title: Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20
 description: Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al.
 id: mediator-cued-final-test-effects-of-retrieval-practice-may-be-small
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: A few countries follow relatively pure accountability logics, but most countries follow mixed forms
 description: A few countries follow relatively pure accountability logics, but most countries follow mixed forms
 id: most-countries-follow-mixed-accountability-logics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

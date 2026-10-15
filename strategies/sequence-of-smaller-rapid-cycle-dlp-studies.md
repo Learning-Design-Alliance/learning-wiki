@@ -3,7 +3,7 @@ type: strategy
 id: sequence-of-smaller-rapid-cycle-dlp-studies
 title: Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study
 description: The report recommends an iterative approach in which researchers use existing data, then run smaller studies that build upon one another.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

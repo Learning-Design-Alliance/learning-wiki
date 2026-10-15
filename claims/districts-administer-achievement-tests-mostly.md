@@ -3,7 +3,7 @@ type: claim
 title: About 90 percent of Illinois districts administer standardized achievement tests, with aptitude/IQ tests, career planning instruments, local CRTs, and diagnostic tests less common
 description: About 90 percent of Illinois districts administer standardized achievement tests, with aptitude/IQ tests, career planning instruments, local CRTs, and diagnostic tests less common
 id: districts-administer-achievement-tests-mostly
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

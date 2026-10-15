@@ -3,7 +3,7 @@ type: strategy
 id: independent-practice-cycles-for-ai-regulation
 title: Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time
 description: "Because regulation of cognition developed more slowly than knowledge under experiential learning, the article recommends that practitioners \"should rather offer spaces for independent use in which students can refine..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

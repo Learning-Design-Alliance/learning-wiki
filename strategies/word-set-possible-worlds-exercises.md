@@ -3,7 +3,7 @@ type: strategy
 id: word-set-possible-worlds-exercises
 title: Word-set exercises for contextualising vocabulary via imagined possible worlds
 description: "Word-set exercises are open-ended puzzles in which learners infer the intended reader, topic and purpose of a letter from lists of presented words, imagining 'possible worlds' that contextualise the lexis and accessin..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

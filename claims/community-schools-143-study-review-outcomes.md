@@ -3,7 +3,7 @@ type: claim
 title: A review of 143 studies found well-designed, fully implemented community schools improve attendance, achievement, behavior, and school climate
 description: A review of 143 studies found well-designed, fully implemented community schools improve attendance, achievement, behavior, and school climate
 id: community-schools-143-study-review-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

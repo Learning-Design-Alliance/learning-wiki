@@ -3,7 +3,7 @@ type: claim
 title: Peer tutoring has theoretical advantages as a teaching and learning method in higher education
 description: Peer tutoring has theoretical advantages as a teaching and learning method in higher education
 id: peer-tutoring-theoretical-advantages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

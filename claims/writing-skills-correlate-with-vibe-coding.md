@@ -3,7 +3,7 @@ type: claim
 title: Written-communication skills significantly correlate with vibe-coding performance, but the association does not remain significant after controlling for domain-general cognitive ability
 description: Written-communication skills significantly correlate with vibe-coding performance, but the association does not remain significant after controlling for domain-general cognitive ability
 id: writing-skills-correlate-with-vibe-coding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

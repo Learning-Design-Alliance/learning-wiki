@@ -3,7 +3,7 @@ type: claim
 title: Perceived school support positively predicts AI learning self-efficacy and AI perceived usefulness among Chinese undergraduates
 description: Perceived school support positively predicts AI learning self-efficacy and AI perceived usefulness among Chinese undergraduates
 id: school-support-predicts-ai-self-efficacy-usefulness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

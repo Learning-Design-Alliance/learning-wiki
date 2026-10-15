@@ -3,7 +3,7 @@ type: design
 id: four-dimensional-personalization-goals-time-pace-path
 title: "Four-dimensional personalization framework for study planning: goals, time, pace, and path"
 description: The four-dimensional personalization framework structures personalized study planning along four dimensions adapted from prior work on personalization in online learning.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

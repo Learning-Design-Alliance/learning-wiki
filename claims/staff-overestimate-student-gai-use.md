@@ -3,7 +3,7 @@ type: claim
 title: "Staff perceived students' use of GAI for academic purposes as more extensive than students reported themselves"
 description: "Staff perceived students' use of GAI for academic purposes as more extensive than students reported themselves"
 id: staff-overestimate-student-gai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

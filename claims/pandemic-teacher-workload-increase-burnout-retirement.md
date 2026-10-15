@@ -3,7 +3,7 @@ type: claim
 title: District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements
 description: District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements
 id: pandemic-teacher-workload-increase-burnout-retirement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

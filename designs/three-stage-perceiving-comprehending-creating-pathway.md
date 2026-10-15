@@ -3,7 +3,7 @@ type: design
 id: three-stage-perceiving-comprehending-creating-pathway
 title: Three-stage pedagogical pathway of Perceiving, Comprehending, and Creating AI mapped to black, grey, and white box progression
 description: "Drawing on the Beijing Normal University \"Black Box, Grey Box, White Box\" cognitive progression model, the article \"constructs a three-stage pedagogical pathway: 'Perceiving, Comprehending, and Creating.'\" Stage 1 (Gr..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

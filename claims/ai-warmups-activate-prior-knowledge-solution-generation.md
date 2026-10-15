@@ -3,7 +3,7 @@ type: claim
 title: Adult learners perceive AI-generated warm-up activities as activating prior knowledge for solution generation
 description: Adult learners perceive AI-generated warm-up activities as activating prior knowledge for solution generation
 id: ai-warmups-activate-prior-knowledge-solution-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: High school novices show large CT learning gains after using RoboBlockly Studio, improving Bebras performance from 1.28 to 2.88 of 4 tasks
 description: High school novices show large CT learning gains after using RoboBlockly Studio, improving Bebras performance from 1.28 to 2.88 of 4 tasks
 id: roboblockly-studio-bebras-ct-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

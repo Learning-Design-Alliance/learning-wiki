@@ -4,7 +4,7 @@ id: equity-centered-vendor-accountable-edtech-evaluation-system-model
 title: Equity-centered, vendor-accountable edtech evaluation system model
 description: A proposed community-college edtech evaluation and procurement framework from Van Nostrand et al.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

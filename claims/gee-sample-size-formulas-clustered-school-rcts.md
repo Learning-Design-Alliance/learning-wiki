@@ -3,7 +3,7 @@ type: claim
 title: Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods
 description: Sample size formulas for clustered designs with school- or teacher-level random assignment are derived using generalized estimating equation methods
 id: gee-sample-size-formulas-clustered-school-rcts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions"
 description: "Critical disposition is least spontaneous when confronting one's most basic prejudices or deeply held convictions"
 id: critical-temper-weakest-on-basic-prejudices
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: element
 id: lusd-custom-dashboard-intervention-suite
 title: "Lynwood Unified's custom dashboard and intervention tool suite (Secondary Data Dashboard, AIMS, LynPBIS+, LIVE, CAPS)"
 description: Lynwood Unified built a suite of in-house tools, developed by a Secondary Data Lead with software development skills, that integrate with the Aeries SIS and provide role-specific views for administrators, counselors,...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

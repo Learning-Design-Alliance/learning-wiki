@@ -3,7 +3,7 @@ type: claim
 title: Epistemic trust in AI-generated content did not differ significantly across the five AI platforms
 description: Epistemic trust in AI-generated content did not differ significantly across the five AI platforms
 id: epistemic-trust-stable-across-platforms
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

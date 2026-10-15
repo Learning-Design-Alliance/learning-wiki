@@ -3,7 +3,7 @@ type: claim
 title: React-ADDIE, integrating the ADDIE framework with ReAct-style reasoning, achieves the highest benchmark performance (86.49), outperforming pure theory-based agents and technique-only baselines
 description: React-ADDIE, integrating the ADDIE framework with ReAct-style reasoning, achieves the highest benchmark performance (86.49), outperforming pure theory-based agents and technique-only baselines
 id: react-addie-highest-isd-benchmark-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

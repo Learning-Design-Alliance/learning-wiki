@@ -3,7 +3,7 @@ type: strategy
 id: ohio-state-three-pronged-black-student-support
 title: "Ohio State's three-pronged approach: early college pipeline, continuous on-campus support, and national best-practice hub"
 description: "Ohio State attributes its gains to a \"three-pronged approach to boosting retention and completion among black students.\" The first prong, the Young Scholars Program, connects first-generation, low-income middle-school..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

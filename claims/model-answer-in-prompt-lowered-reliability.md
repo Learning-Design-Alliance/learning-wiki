@@ -3,7 +3,7 @@ type: claim
 title: Adding a model answer to the GPT-4 prompt was counterproductive, lowering scoring reliability
 description: Adding a model answer to the GPT-4 prompt was counterproductive, lowering scoring reliability
 id: model-answer-in-prompt-lowered-reliability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

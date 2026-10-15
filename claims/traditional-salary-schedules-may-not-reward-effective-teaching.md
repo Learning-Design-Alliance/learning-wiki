@@ -3,7 +3,7 @@ type: claim
 title: Traditional salary schedules may not reward effective teaching or give the most effective teachers incentives to work in high-need schools, motivating performance-based compensation
 description: Traditional salary schedules may not reward effective teaching or give the most effective teachers incentives to work in high-need schools, motivating performance-based compensation
 id: traditional-salary-schedules-may-not-reward-effective-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

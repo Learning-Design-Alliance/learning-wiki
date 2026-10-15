@@ -4,7 +4,7 @@ title: PALS has potentially positive effects on reading achievement for English 
 description: PALS has potentially positive effects on reading achievement for English language learners, with a combined effect size of 0.31 but no statistically significant effects on individual measures
 id: pals-potentially-positive-reading-effects-ells
 aliases: [pals-improvement-index-reading-12-percentile]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

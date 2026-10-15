@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

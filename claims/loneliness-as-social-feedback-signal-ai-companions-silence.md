@@ -3,7 +3,7 @@ type: claim
 title: Loneliness functions as a biological social-feedback signal that motivates relationship cultivation, and AI companions may silence that signal
 description: Loneliness functions as a biological social-feedback signal that motivates relationship cultivation, and AI companions may silence that signal
 id: loneliness-as-social-feedback-signal-ai-companions-silence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

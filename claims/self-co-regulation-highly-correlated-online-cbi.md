@@ -3,7 +3,7 @@ type: claim
 title: Self-regulation and co-regulation are significantly and highly correlated in an online case-based course
 description: Self-regulation and co-regulation are significantly and highly correlated in an online case-based course
 id: self-co-regulation-highly-correlated-online-cbi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Only one-third of CSR schools adopted reform models identified as having a scientific research base
 description: Only one-third of CSR schools adopted reform models identified as having a scientific research base
 id: one-third-csr-schools-research-based-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

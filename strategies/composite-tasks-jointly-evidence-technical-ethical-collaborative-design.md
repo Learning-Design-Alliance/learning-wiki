@@ -3,7 +3,7 @@ type: strategy
 id: composite-tasks-jointly-evidence-technical-ethical-collaborative-design
 title: Design composite STEAM tasks that jointly evidence technical fluency, ethical reasoning, collaborative practice and design iteration
 description: "The review's instructional implication is that STEAM instruction should move beyond technical fluency toward composite tasks."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

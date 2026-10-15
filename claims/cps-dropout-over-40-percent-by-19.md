@@ -3,7 +3,7 @@ type: claim
 title: Chicago Public Schools dropout rates remained high, with over 40 percent of students dropping out by age 19
 description: Chicago Public Schools dropout rates remained high, with over 40 percent of students dropping out by age 19
 id: cps-dropout-over-40-percent-by-19
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

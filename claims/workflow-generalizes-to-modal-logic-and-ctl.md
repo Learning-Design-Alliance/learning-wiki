@@ -3,7 +3,7 @@ type: claim
 title: "The workflow generalizes beyond propositional logic, explaining 79.39% of modal logic pairs and 35.89% of CTL pairs"
 description: "The workflow generalizes beyond propositional logic, explaining 79.39% of modal logic pairs and 35.89% of CTL pairs"
 id: workflow-generalizes-to-modal-logic-and-ctl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills
 description: The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills
 id: ca-methods-more-effective-than-traditional-writing-college
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

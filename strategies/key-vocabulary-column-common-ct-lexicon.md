@@ -3,7 +3,7 @@ type: strategy
 id: key-vocabulary-column-common-ct-lexicon
 title: Add a grade-by-grade Key Vocabulary column to give teachers a common CT lexicon and progress marker
 description: "In year two, when revisiting the pathway document, the district \"opted to add a “Key Vocabulary” column for each grade level, formally identifying the key terminology associated with CT (and CS) starting in Pre-K all..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

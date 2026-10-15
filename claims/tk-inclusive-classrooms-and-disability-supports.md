@@ -3,7 +3,7 @@ type: claim
 title: "87% of TK classrooms were reported as inclusive of students with disabilities, and use of instructional adaptations rose to 71% of LEAs"
 description: "87% of TK classrooms were reported as inclusive of students with disabilities, and use of instructional adaptations rose to 71% of LEAs"
 id: tk-inclusive-classrooms-and-disability-supports
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

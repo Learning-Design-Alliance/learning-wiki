@@ -3,7 +3,7 @@ type: claim
 title: Fading is associated with fewer unproductive learning events, which the authors link to better learning outcomes
 description: Fading is associated with fewer unproductive learning events, which the authors link to better learning outcomes
 id: fading-fewer-unproductive-learning-events
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

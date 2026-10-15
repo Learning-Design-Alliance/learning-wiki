@@ -3,7 +3,7 @@ type: claim
 title: Elementary principals most frequently want professional development on whole child education, with rural principals especially likely to want physical and mental health content
 description: Elementary principals most frequently want professional development on whole child education, with rural principals especially likely to want physical and mental health content
 id: principals-want-whole-child-pd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Descriptive user-study patterns suggest GPT output may scaffold lower-prior-knowledge IVDA students but reduce performance when prior knowledge is higher (CV)
 description: Descriptive user-study patterns suggest GPT output may scaffold lower-prior-knowledge IVDA students but reduce performance when prior knowledge is higher (CV)
 id: gpt-output-effect-depends-on-prior-knowledge-and-domain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

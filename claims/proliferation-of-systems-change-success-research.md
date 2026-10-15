@@ -3,7 +3,7 @@ type: claim
 title: Research on systems change success has proliferated as philanthropic interest grows
 description: Research on systems change success has proliferated as philanthropic interest grows
 id: proliferation-of-systems-change-success-research
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

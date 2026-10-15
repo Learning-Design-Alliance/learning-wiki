@@ -3,7 +3,7 @@ type: claim
 title: Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load
 description: Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load
 id: srl-moderates-indirect-ai-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

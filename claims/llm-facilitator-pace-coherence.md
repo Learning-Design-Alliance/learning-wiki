@@ -3,7 +3,7 @@ type: claim
 title: An LLM facilitator agent maintains pace and coherence in structured group ethics discussions
 description: An LLM facilitator agent maintains pace and coherence in structured group ethics discussions
 id: llm-facilitator-pace-coherence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

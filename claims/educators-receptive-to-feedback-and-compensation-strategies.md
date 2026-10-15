@@ -3,7 +3,7 @@ type: claim
 title: Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction
 description: Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction
 id: educators-receptive-to-feedback-and-compensation-strategies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

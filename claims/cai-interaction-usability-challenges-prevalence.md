@@ -3,7 +3,7 @@ type: claim
 title: "Interaction and usability challenges affect 85.3% of reviewed CAI articles, with usability problems most observable in mature rule-based agents"
 description: "Interaction and usability challenges affect 85.3% of reviewed CAI articles, with usability problems most observable in mature rule-based agents"
 id: cai-interaction-usability-challenges-prevalence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

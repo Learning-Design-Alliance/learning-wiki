@@ -3,7 +3,7 @@ type: claim
 title: "Kansas schools moved from exploration to initial implementation of MTSS between 2012 and 2014, while full implementation stayed near 8%"
 description: "Kansas schools moved from exploration to initial implementation of MTSS between 2012 and 2014, while full implementation stayed near 8%"
 id: kansas-mtss-schools-advance-implementation-stages
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

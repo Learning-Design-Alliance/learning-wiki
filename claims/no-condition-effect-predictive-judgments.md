@@ -3,7 +3,7 @@ type: claim
 title: "Instructional condition did not significantly affect readers' predictive judgments of understanding"
 description: "Instructional condition did not significantly affect readers' predictive judgments of understanding"
 id: no-condition-effect-predictive-judgments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

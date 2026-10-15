@@ -3,7 +3,7 @@ type: design
 id: daily-individualized-tutoring-rti-monitoring-pattern
 title: Daily individualized tutoring sessions with response-to-intervention progress monitoring
 description: "The program's instructional design combines daily one-to-one tutoring with continuous data use."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback
 description: All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback
 id: llm-feedback-fewer-attempts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

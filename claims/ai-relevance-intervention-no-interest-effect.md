@@ -3,7 +3,7 @@ type: claim
 title: "The generative AI relevance intervention did not significantly increase students' interest in the math class"
 description: "The generative AI relevance intervention did not significantly increase students' interest in the math class"
 id: ai-relevance-intervention-no-interest-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

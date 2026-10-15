@@ -3,7 +3,7 @@ type: claim
 title: Las personas y conexiones fueron los apoyos de transición más utilizados, seguidos por los servicios, entre estudiantes y trabajadores HSE
 description: Las personas y conexiones fueron los apoyos de transición más utilizados, seguidos por los servicios, entre estudiantes y trabajadores HSE
 id: personas-conexiones-apoyos-mas-utilizados
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

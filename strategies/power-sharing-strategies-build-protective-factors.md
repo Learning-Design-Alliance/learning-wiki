@@ -3,7 +3,7 @@ type: strategy
 id: power-sharing-strategies-build-protective-factors
 title: Adopt power-sharing and reciprocity strategies such as mentoring and cooperative learning to strengthen social bonds and build protective factors
 description: The article recommends that prevention strategies rebuild naturally occurring social networks by using approaches grounded in power sharing and reciprocity.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

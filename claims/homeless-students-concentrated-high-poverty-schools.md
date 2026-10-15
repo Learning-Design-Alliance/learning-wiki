@@ -3,7 +3,7 @@ type: claim
 title: "Approximately 57% of California students experiencing homelessness are enrolled in schools where more than 80% of students are eligible for free or reduced-price meals, compared with 34% of all students"
 description: "Approximately 57% of California students experiencing homelessness are enrolled in schools where more than 80% of students are eligible for free or reduced-price meals, compared with 34% of all students"
 id: homeless-students-concentrated-high-poverty-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

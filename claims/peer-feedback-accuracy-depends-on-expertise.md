@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

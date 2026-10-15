@@ -3,7 +3,7 @@ type: claim
 title: Effects of dropout programs on dropout odds are heterogeneous across studies
 description: Effects of dropout programs on dropout odds are heterogeneous across studies
 id: dropout-program-effects-heterogeneous
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

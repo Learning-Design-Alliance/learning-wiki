@@ -3,7 +3,7 @@ type: claim
 title: AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores
 description: AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores
 id: ai-pbl-higher-posttest-computational-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

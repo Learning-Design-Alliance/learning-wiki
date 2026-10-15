@@ -3,7 +3,7 @@ type: claim
 title: Whether timing, intensity, and duration of class size reduction moderate its effect remains an open question in the literature the review synthesises
 description: Whether timing, intensity, and duration of class size reduction moderate its effect remains an open question in the literature the review synthesises
 id: timing-intensity-duration-moderators-open-question
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

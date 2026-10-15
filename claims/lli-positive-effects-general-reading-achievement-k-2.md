@@ -3,7 +3,7 @@ type: claim
 title: Leveled Literacy Intervention has positive effects on general reading achievement, potentially positive effects on reading fluency, and no discernible effects on alphabetics for beginning readers in grades K–2
 description: Leveled Literacy Intervention has positive effects on general reading achievement, potentially positive effects on reading fluency, and no discernible effects on alphabetics for beginning readers in grades K–2
 id: lli-positive-effects-general-reading-achievement-k-2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

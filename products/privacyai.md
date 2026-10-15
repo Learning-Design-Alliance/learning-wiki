@@ -4,7 +4,7 @@ id: privacyai
 title: PrivacyAI
 description: PrivacyAI is an open-source GPT-4o-mini-based pipeline released by the authors for detecting, labeling, extracting, and verifying personally identifiable information in educational text.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

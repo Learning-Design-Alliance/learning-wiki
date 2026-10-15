@@ -3,7 +3,7 @@ type: strategy
 id: partner-with-iep-families-provide-clear-service-information
 title: District leaders should partner with families of students with IEPs and provide clear, accessible information so families can understand and compare how their child would be served
 description: "The article's policy and practice takeaways direct district leaders and policymakers to act on the barriers families faced."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

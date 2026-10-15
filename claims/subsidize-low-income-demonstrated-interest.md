@@ -3,7 +3,7 @@ type: claim
 title: "A numerical example explores subsidizing low-income students' costly demonstrated interest to reduce admission inequity"
 description: "A numerical example explores subsidizing low-income students' costly demonstrated interest to reduce admission inequity"
 id: subsidize-low-income-demonstrated-interest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

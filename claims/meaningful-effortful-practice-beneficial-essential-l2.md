@@ -3,7 +3,7 @@ type: claim
 title: Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition
 description: Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition
 id: meaningful-effortful-practice-beneficial-essential-l2
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

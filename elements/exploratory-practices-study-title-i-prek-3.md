@@ -3,7 +3,7 @@ type: element
 id: exploratory-practices-study-title-i-prek-3
 title: Exploratory study of instructional practices in prekindergarten through grade 3 in Title I schools
 description: "A study commissioned by the Institute of Education Sciences that \"collected extensive information about instructional practices in prekindergarten through grade 3 within Title I schools and examined the relationships..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

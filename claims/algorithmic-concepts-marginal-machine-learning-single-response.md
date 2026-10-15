@@ -3,7 +3,7 @@ type: claim
 title: "Algorithmic and technical-mechanism concepts are marginal in students' AI networks: machine learning was produced by a single participant across 436 respondents"
 description: "Algorithmic and technical-mechanism concepts are marginal in students' AI networks: machine learning was produced by a single participant across 436 respondents"
 id: algorithmic-concepts-marginal-machine-learning-single-response
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

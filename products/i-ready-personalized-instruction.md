@@ -4,7 +4,7 @@ id: i-ready-personalized-instruction
 title: i-Ready Personalized Instruction
 description: An online personalized reading-instruction program for grades K–8 that uses i-Ready Diagnostic data to assign lessons and monitor progress, developed and provided by Curriculum Associates.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

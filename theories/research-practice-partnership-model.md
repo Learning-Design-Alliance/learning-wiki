@@ -2,7 +2,7 @@
 type: theory
 title: Research-practice partnership model for improving problems of educational practice
 description: The report presents the research-practice partnership (RPP) as a collaboration model in which researchers and practitioners form trust-based relationships to address problems of practice.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: proactive-title-vii-information-dissemination
 title: State leaders should proactively disseminate Title VII information to eligible LEAs through trainings, webinars, fact sheets, and direct outreach
 description: Interview respondents recommended that state education agencies and Indian education departments be more proactive in sharing information with eligible LEAs about Title VII.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

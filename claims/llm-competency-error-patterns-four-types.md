@@ -3,7 +3,7 @@ type: claim
 title: "Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response"
 description: "Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response"
 id: llm-competency-error-patterns-four-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

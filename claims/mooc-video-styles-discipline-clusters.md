@@ -3,7 +3,7 @@ type: claim
 title: "MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric"
 description: "MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric"
 id: mooc-video-styles-discipline-clusters
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

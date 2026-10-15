@@ -3,7 +3,7 @@ type: strategy
 id: student-reflection-social-messages-after-teacher-modeling
 title: "Ask students to reflect on how they have been exposed to and impacted by society's messages about race, gender, and sexual identity, after the teacher has modeled vulnerability"
 description: "The article describes a sequencing move: the instructor first demonstrates honest self-assessment, then invites students into reflective work on social messages."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

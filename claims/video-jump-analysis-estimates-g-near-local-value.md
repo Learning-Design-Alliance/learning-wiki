@@ -3,7 +3,7 @@ type: claim
 title: Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g
 description: Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g
 id: video-jump-analysis-estimates-g-near-local-value
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

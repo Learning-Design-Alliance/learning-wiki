@@ -3,7 +3,7 @@ type: strategy
 id: use-community-demographic-data-for-school-planning
 title: Use community-area demographic descriptor data as an input to school planning and reform
 description: "The brief models a planning practice: compiling community-level descriptors about the children a school system serves and presenting them at a fine geographic grain so planners can use them."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

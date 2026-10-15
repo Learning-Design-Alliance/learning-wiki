@@ -3,7 +3,7 @@ type: strategy
 id: high-dosage-tutoring-response-strategy
 title: Deploy high dosage tutoring as a strategy to address post-pandemic academic risk
 description: "The brief presents high dosage tutoring as \"one strategy to address the needs\" of the increased share of at-risk students after the pandemic."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

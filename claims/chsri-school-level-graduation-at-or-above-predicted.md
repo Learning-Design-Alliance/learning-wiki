@@ -3,7 +3,7 @@ type: claim
 title: Nearly all CHSRI schools graduated at least as many students as predicted given the students they served
 description: Nearly all CHSRI schools graduated at least as many students as predicted given the students they served
 id: chsri-school-level-graduation-at-or-above-predicted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

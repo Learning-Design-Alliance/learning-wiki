@@ -3,7 +3,7 @@ type: claim
 title: "PROMISE's primary innovations over usual services were intensive case management, facilitating early work experiences, and a family focus"
 description: "PROMISE's primary innovations over usual services were intensive case management, facilitating early work experiences, and a family focus"
 id: promise-innovations-case-management-early-work-family-focus
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

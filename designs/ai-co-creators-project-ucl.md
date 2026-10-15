@@ -3,7 +3,7 @@ type: design
 id: ai-co-creators-project-ucl
 title: AI Co-Creators project
 description: The AI Co-Creators project is a student-staff co-creation initiative exploring generative AI in higher education assessments.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

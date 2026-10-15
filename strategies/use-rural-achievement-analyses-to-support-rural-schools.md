@@ -3,7 +3,7 @@ type: strategy
 id: use-rural-achievement-analyses-to-support-rural-schools
 title: "Use national rural-school achievement and growth analyses to help educators and policymakers understand and support rural schools' potential needs"
 description: The brief positions large-scale rural achievement analysis as an input for decision-making.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

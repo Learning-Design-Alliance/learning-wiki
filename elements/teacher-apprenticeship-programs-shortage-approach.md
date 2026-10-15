@@ -3,7 +3,7 @@ type: element
 id: teacher-apprenticeship-programs-shortage-approach
 title: Teacher apprenticeship programs as an approach to mitigating teacher shortages
 description: Teacher apprenticeship programs are presented as a relatively new approach to mitigating teacher shortages.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: flexible-implementation-structured-tutoring-preservice-tutors
 title: Exercise flexibility in timing, frequency, and tutor choice when implementing a highly structured tutoring program, and consider preservice teachers as tutors
 description: "The report suggests that schools and districts using a highly structured tutoring program \"might be able to exercise flexibility in when and how often tutoring is offered and by whom without compromising program quali..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

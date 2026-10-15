@@ -3,7 +3,7 @@ type: strategy
 id: educators-consider-learning-style-differences
 title: "Educators should internalize individual differences and consider the advantages and disadvantages of students' learning styles"
 description: Based on the finding that reflective thinking tendencies and epistemological beliefs differed by learning style, the article recommends that educators internalize individual differences and take the advantages and dis...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

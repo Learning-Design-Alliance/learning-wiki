@@ -4,7 +4,7 @@ id: agentschool
 title: AgentSchool
 description: AgentSchool is an LLM-powered multi-agent simulation system for modeling, inspecting, and comparing student–teacher interactions and learning trajectories in simulated educational settings.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

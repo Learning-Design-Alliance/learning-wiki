@@ -3,7 +3,7 @@ type: claim
 title: "Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation"
 description: "Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation"
 id: specialisation-demographic-stratification-linkedin
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

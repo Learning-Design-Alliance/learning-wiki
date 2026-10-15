@@ -3,7 +3,7 @@ type: claim
 title: KIPP charter schools have positive effects on mathematics achievement for middle and high school students
 description: KIPP charter schools have positive effects on mathematics achievement for middle and high school students
 id: kipp-positive-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

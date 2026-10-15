@@ -3,7 +3,7 @@ type: design
 id: online-growth-mindset-intervention-module-nslm
 title: Short online growth mindset intervention module (two self-administered sessions)
 description: A scalable, low-cost online module of two self-administered sessions of roughly 25 minutes each, delivered about 20 days apart during school hours, that teaches that intellectual abilities can be developed.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-13

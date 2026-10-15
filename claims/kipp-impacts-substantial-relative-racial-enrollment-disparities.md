@@ -3,7 +3,7 @@ type: claim
 title: The estimated KIPP middle school impacts are substantial relative to nationwide racial disparities in college enrollment
 description: The estimated KIPP middle school impacts are substantial relative to nationwide racial disparities in college enrollment
 id: kipp-impacts-substantial-relative-racial-enrollment-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

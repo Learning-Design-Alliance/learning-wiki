@@ -3,7 +3,7 @@ type: claim
 title: The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity
 description: The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity
 id: gaa-ls-reliability-convergent-discriminant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

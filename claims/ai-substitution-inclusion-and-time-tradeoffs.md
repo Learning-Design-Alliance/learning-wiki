@@ -3,7 +3,7 @@ type: claim
 title: Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge
 description: Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge
 id: ai-substitution-inclusion-and-time-tradeoffs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

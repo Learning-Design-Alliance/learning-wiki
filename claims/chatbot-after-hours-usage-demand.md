@@ -3,7 +3,7 @@ type: claim
 title: "Chatbot usage analytics show substantial after-hours demand, with 36.8% of interactions occurring outside standard working hours"
 description: "Chatbot usage analytics show substantial after-hours demand, with 36.8% of interactions occurring outside standard working hours"
 id: chatbot-after-hours-usage-demand
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

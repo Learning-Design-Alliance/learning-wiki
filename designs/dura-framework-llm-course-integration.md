@@ -3,7 +3,7 @@ type: design
 id: dura-framework-llm-course-integration
 title: "DURA (Demystify-Use-Reflect-Assess): a lightweight framework for incorporating LLMs into courses"
 description: "DURA is the article's four-component framework for updating courses to incorporate AI/LLMs: Demystify how LLMs work and how they affect learning; Use LLMs with guidance and attribution; Reflect on LLM use and problem-..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

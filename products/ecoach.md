@@ -4,7 +4,7 @@ id: ecoach
 title: ECoach
 description: ECoach is a web-based student-success coaching platform developed and operated by the University of Michigan to provide course-specific guidance, feedback, progress tracking, and study-support tools.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Automated CTML metrics show significant improvement in temporal contiguity and coherence for CTML-informed videos, while modality, redundancy, and image quality show no significant difference
 description: Automated CTML metrics show significant improvement in temporal contiguity and coherence for CTML-informed videos, while modality, redundancy, and image quality show no significant difference
 id: automated-metrics-temporal-contiguity-coherence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

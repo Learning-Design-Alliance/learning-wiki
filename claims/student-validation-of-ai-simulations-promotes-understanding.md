@@ -3,7 +3,7 @@ type: claim
 title: Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills
 description: Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills
 id: student-validation-of-ai-simulations-promotes-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

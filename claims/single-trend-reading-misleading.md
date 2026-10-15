@@ -3,7 +3,7 @@ type: claim
 title: Judging school improvement requires reading learning gain trends and output trends simultaneously, since either trend monitored alone can mislead
 description: Judging school improvement requires reading learning gain trends and output trends simultaneously, since either trend monitored alone can mislead
 id: single-trend-reading-misleading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

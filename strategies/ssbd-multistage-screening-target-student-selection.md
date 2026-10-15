@@ -3,7 +3,7 @@ type: strategy
 id: ssbd-multistage-screening-target-student-selection
 title: Use a multi-stage screening tool (SSBD) to nominate and rank at-risk students for behavioral intervention
 description: The program and its studies identify participants through a standardized multi-stage screening procedure.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: prepare-participate-reflect-mediation-log
 title: Prepare-participate-reflect sequence with a mediation log for AI use in education abroad
 description: "The article recommends structuring AI use as \"a prepare-participate-reflect sequence\": use AI to identify vocabulary, possible questions and areas of uncertainty; engage directly with the relevant person or setting wh..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

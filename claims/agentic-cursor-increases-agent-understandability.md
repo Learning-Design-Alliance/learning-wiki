@@ -3,7 +3,7 @@ type: claim
 title: "An agentic cursor increased participants' understanding and predictability of the AI agent's actions during collaborative writing"
 description: "An agentic cursor increased participants' understanding and predictability of the AI agent's actions during collaborative writing"
 id: agentic-cursor-increases-agent-understandability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

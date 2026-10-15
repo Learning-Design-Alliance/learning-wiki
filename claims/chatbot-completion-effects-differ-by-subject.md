@@ -3,7 +3,7 @@ type: claim
 title: "Course completion effects differed by subject: reduced DFW in Government and reduced dropping in Microeconomics"
 description: "Course completion effects differed by subject: reduced DFW in Government and reduced dropping in Microeconomics"
 id: chatbot-completion-effects-differ-by-subject
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Self-efficacy, perceived trust and performance expectancy influence Gen Z students' behavioural intention to adopt AI"
 description: "Self-efficacy, perceived trust and performance expectancy influence Gen Z students' behavioural intention to adopt AI"
 id: se-pt-pe-predict-bi-gen-z-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

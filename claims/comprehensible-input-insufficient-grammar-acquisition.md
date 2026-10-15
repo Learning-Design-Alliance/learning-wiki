@@ -3,7 +3,7 @@ type: claim
 title: Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency
 description: Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency
 id: comprehensible-input-insufficient-grammar-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

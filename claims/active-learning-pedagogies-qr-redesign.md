@@ -3,7 +3,7 @@ type: claim
 title: QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses
 description: QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses
 id: active-learning-pedagogies-qr-redesign
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

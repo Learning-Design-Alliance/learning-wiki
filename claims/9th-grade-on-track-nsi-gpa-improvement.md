@@ -3,7 +3,7 @@ type: claim
 title: 9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale
 description: 9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale
 id: 9th-grade-on-track-nsi-gpa-improvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

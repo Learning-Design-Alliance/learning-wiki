@@ -3,7 +3,7 @@ type: claim
 title: Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant
 description: Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant
 id: content-domain-effects-similar-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

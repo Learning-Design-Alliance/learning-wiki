@@ -3,7 +3,7 @@ type: claim
 title: Lesson ratings showed no statistically significant differences between lessons observed earlier versus later in the initiative on any dimension
 description: Lesson ratings showed no statistically significant differences between lessons observed earlier versus later in the initiative on any dimension
 id: no-rating-improvement-over-initiative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

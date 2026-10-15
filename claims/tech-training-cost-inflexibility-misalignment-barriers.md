@@ -3,7 +3,7 @@ type: claim
 title: Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities
 description: Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities
 id: tech-training-cost-inflexibility-misalignment-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

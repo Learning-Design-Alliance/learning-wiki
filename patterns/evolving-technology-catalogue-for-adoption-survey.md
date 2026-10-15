@@ -3,7 +3,7 @@ type: pattern
 id: evolving-technology-catalogue-for-adoption-survey
 title: Continually culling, clustering, and redefining the technology catalogue to track converging emergent technologies
 description: "The LoA instrument's technology list is treated as an evolving artifact: the authors report \"continually culling, refining, redefining and clustering our list of technologies\" to represent current emergent yet applica..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

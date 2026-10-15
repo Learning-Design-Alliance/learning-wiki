@@ -3,7 +3,7 @@ type: claim
 title: Skill portfolio diversity is positively associated with skill acquisition, occupational mobility, and transitions into lower-AI-exposure occupations
 description: Skill portfolio diversity is positively associated with skill acquisition, occupational mobility, and transitions into lower-AI-exposure occupations
 id: diversity-predicts-adaptive-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

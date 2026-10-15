@@ -3,7 +3,7 @@ type: claim
 title: Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14
 description: Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14
 id: shortage-burden-high-poverty-high-minority-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

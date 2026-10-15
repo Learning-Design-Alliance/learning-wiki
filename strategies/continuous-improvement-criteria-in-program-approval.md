@@ -3,7 +3,7 @@ type: strategy
 id: continuous-improvement-criteria-in-program-approval
 title: Embed data-driven continuous improvement criteria into state EPP program approval
 description: "The brief recommends that states embed data-driven continuous improvement criteria into their program approval processes, under which \"EPPs will be asked to demonstrate how they use information to inform ongoing impro..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

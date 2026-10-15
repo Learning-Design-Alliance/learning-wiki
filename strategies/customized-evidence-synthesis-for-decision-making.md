@@ -3,7 +3,7 @@ type: strategy
 id: customized-evidence-synthesis-for-decision-making
 title: Provide synthesized and customized evidence tailored to the state context
 description: "R15CC grounded participants' learning and decision-making in research by providing a literature review, scans of other states' approaches to ESSA requirements, and explanations of the strength of the research base \"cu..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

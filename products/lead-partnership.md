@@ -4,7 +4,7 @@ id: lead-partnership
 title: LEAD Partnership
 description: The LEAD Partnership is an Oklahoma State Department of Education-supported professional-development and implementation-support programme for early-childhood school leaders and prekindergarten and kindergarten teachers, focused on research-based early-learning practices.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

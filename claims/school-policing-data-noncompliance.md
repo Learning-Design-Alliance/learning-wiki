@@ -3,7 +3,7 @@ type: claim
 title: "Over 60% of the largest school districts reported zero school-related arrests, and no state had fully met ESSA school-policing report-card requirements"
 description: "Over 60% of the largest school districts reported zero school-related arrests, and no state had fully met ESSA school-policing report-card requirements"
 id: school-policing-data-noncompliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

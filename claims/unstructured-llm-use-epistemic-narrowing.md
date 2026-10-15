@@ -3,7 +3,7 @@ type: claim
 title: Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints
 description: Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints
 id: unstructured-llm-use-epistemic-narrowing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

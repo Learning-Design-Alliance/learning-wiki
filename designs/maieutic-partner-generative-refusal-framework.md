@@ -3,7 +3,7 @@ type: design
 id: maieutic-partner-generative-refusal-framework
 title: Maieutic Partner / Generative Refusal framework for Tools for Thought
 description: "The paper proposes shifting GenAI from a \"Co-author\" role to a \"Maieutic Partner\" that facilitates inquiry by strategically withholding text generation."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

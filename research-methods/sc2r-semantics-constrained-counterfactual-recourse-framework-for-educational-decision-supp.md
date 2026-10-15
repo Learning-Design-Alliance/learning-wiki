@@ -3,7 +3,7 @@ type: research-method
 id: sc2r-semantics-constrained-counterfactual-recourse-framework-for-educational-decision-supp
 title: "SC2R: semantics-constrained counterfactual recourse framework for educational decision support"
 description: "SC2R is a three-component pipeline for educational decision support: a predictive component estimating next-assessment success, an integer-programming recourse component generating candidate intervention plans over a discrete action space, and a semantic validation layer using SHACL."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

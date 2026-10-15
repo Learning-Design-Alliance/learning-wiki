@@ -3,7 +3,7 @@ type: claim
 title: Teachers use ChatGPT for personal and professional learning and resource generation, while students use it as a personal tutor for various learning purposes.
 description: Teachers use ChatGPT for personal and professional learning and resource generation, while students use it as a personal tutor for various learning purposes.
 id: chatgpt-teacher-resource-generation-student-personal-tutor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

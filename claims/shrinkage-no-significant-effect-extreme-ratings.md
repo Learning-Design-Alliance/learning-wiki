@@ -3,7 +3,7 @@ type: claim
 title: Shrinkage has no statistically significant effect on the relative probability that teachers of hard-to-predict students receive extreme value-added ratings
 description: Shrinkage has no statistically significant effect on the relative probability that teachers of hard-to-predict students receive extreme value-added ratings
 id: shrinkage-no-significant-effect-extreme-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

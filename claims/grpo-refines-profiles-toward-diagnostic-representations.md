@@ -3,7 +3,7 @@ type: claim
 title: GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation
 description: GRPO training shifts profiles from broad summaries toward diagnostic, behaviorally grounded representations that better support simulation
 id: grpo-refines-profiles-toward-diagnostic-representations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

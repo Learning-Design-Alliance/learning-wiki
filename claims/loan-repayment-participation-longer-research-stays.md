@@ -3,7 +3,7 @@ type: claim
 title: Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers
 description: Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers
 id: loan-repayment-participation-longer-research-stays
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

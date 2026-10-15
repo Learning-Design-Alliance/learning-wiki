@@ -3,7 +3,7 @@ type: claim
 title: "AI-supported lab manual design increased students' confidence in troubleshooting and data analysis"
 description: "AI-supported lab manual design increased students' confidence in troubleshooting and data analysis"
 id: ai-lab-manual-design-increased-confidence-troubleshooting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

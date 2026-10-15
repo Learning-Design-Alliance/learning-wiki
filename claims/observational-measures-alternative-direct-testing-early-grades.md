@@ -3,7 +3,7 @@ type: claim
 title: Observational measures spanning the preschool to elementary age range offer an alternative to direct testing of young children.
 description: Observational measures spanning the preschool to elementary age range offer an alternative to direct testing of young children.
 id: observational-measures-alternative-direct-testing-early-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

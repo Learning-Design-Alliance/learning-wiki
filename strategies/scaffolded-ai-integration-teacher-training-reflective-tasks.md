@@ -3,7 +3,7 @@ type: strategy
 id: scaffolded-ai-integration-teacher-training-reflective-tasks
 title: Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance
 description: The review recommends that Arab universities integrate AI tools into EL2 instruction in a scaffolded way, pairing AI use with teacher training and reflective tasks so that learners critically engage with AI output rat...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

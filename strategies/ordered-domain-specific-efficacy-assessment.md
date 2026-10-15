@@ -3,7 +3,7 @@ type: strategy
 id: ordered-domain-specific-efficacy-assessment
 title: Assess self-efficacy with ordered, domain-specific task hierarchies and brief exposure to sample tasks
 description: "The paper describes adapting Bandura's phobia-hierarchy assessment for academic domains: tasks are selected and ordered in difficulty within a domain (e.g., fraction problems ordered by number of terms and whether a l..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

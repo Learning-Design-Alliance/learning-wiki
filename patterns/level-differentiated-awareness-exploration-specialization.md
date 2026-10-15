@@ -3,7 +3,7 @@ type: pattern
 id: level-differentiated-awareness-exploration-specialization
 title: "Level-differentiated emphases: awareness, exploration, specialization"
 description: "The guide differentiates the function of industrial arts by school level: elementary school provides INSIGHTS into and AWARENESS of the industrial-technical society; junior high courses provide EXPLORATION of the adul..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

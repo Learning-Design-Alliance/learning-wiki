@@ -3,7 +3,7 @@ type: claim
 title: The LWPA advantage on the End-of-Unit exam persists after removing oral comprehension scores
 description: The LWPA advantage on the End-of-Unit exam persists after removing oral comprehension scores
 id: lwpa-advantage-persists-without-oral-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

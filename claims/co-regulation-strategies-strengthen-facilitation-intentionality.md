@@ -3,7 +3,7 @@ type: claim
 title: Facilitators reported that co-regulation strategies strengthened their facilitation and made their interactions with youth more intentional
 description: Facilitators reported that co-regulation strategies strengthened their facilitation and made their interactions with youth more intentional
 id: co-regulation-strategies-strengthen-facilitation-intentionality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

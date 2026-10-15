@@ -3,7 +3,7 @@ type: claim
 title: The study extends a previous paper that examined the 1995 earnings of a cohort of students who entered college in 1976
 description: The study extends a previous paper that examined the 1995 earnings of a cohort of students who entered college in 1976
 id: selectivity-study-extends-1976-cohort-1995-earnings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

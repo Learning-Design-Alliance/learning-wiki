@@ -3,7 +3,7 @@ type: claim
 title: Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies
 description: Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies
 id: plc-object-outcome-mismatch
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

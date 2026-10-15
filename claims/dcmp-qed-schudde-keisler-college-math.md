@@ -3,7 +3,7 @@ type: claim
 title: In a propensity-score-matched QED, DCMP students passed college-level math at much higher rates than a two-to-three-semester sequence comparison
 description: In a propensity-score-matched QED, DCMP students passed college-level math at much higher rates than a two-to-three-semester sequence comparison
 id: dcmp-qed-schudde-keisler-college-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

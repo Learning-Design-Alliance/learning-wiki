@@ -3,7 +3,7 @@ type: claim
 title: Earth and environmental science courses showed lower engagement, academic demand, clarity, and inquiry-based pedagogy than biology, chemistry, and physics
 description: Earth and environmental science courses showed lower engagement, academic demand, clarity, and inquiry-based pedagogy than biology, chemistry, and physics
 id: earth-environmental-science-lower-instructional-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

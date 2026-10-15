@@ -3,7 +3,7 @@ type: claim
 title: "The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures"
 description: "The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures"
 id: kipp-multiyear-study-mathematica-arnold
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

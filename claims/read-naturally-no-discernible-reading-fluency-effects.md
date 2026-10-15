@@ -3,7 +3,7 @@ type: claim
 title: Read Naturally® shows no discernible effects on reading fluency for students with learning disabilities, with small negative effect sizes on GORT-III accuracy and rate
 description: Read Naturally® shows no discernible effects on reading fluency for students with learning disabilities, with small negative effect sizes on GORT-III accuracy and rate
 id: read-naturally-no-discernible-reading-fluency-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

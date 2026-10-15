@@ -3,7 +3,7 @@ type: claim
 title: "A meta-analysis quantitatively verified the importance of three types of interaction in distance and online learning: among students, between instructor and students, and between students and content"
 description: "A meta-analysis quantitatively verified the importance of three types of interaction in distance and online learning: among students, between instructor and students, and between students and content"
 id: three-interaction-types-verified-meta-analysis-distance-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

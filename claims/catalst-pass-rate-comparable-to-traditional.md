@@ -3,7 +3,7 @@ type: claim
 title: The CATALST simulation-based statistics course achieved a high pass rate comparable to or better than the traditional course at the same institution
 description: The CATALST simulation-based statistics course achieved a high pass rate comparable to or better than the traditional course at the same institution
 id: catalst-pass-rate-comparable-to-traditional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

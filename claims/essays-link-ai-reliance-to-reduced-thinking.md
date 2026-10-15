@@ -3,7 +3,7 @@ type: claim
 title: "80% of IB student essays explicitly link reliance on AI to reduced thinking"
 description: "80% of IB student essays explicitly link reliance on AI to reduced thinking"
 id: essays-link-ai-reliance-to-reduced-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

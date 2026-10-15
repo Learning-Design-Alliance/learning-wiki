@@ -3,7 +3,7 @@ type: claim
 title: The multivariate normality assumption of the norming model was judged met for all domains and grades, despite some tail deviations in Q-Q plots
 description: The multivariate normality assumption of the norming model was judged met for all domains and grades, despite some tail deviations in Q-Q plots
 id: normality-assumption-met-foundational-skills-norming
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

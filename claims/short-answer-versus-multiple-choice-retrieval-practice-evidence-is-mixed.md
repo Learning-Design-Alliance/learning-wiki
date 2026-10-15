@@ -3,7 +3,7 @@ type: claim
 title: Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference
 description: Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference
 id: short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

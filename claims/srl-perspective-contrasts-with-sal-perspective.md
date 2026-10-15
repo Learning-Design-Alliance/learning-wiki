@@ -3,7 +3,7 @@ type: claim
 title: The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences
 description: The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences
 id: srl-perspective-contrasts-with-sal-perspective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

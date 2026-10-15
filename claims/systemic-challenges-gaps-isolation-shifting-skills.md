@@ -3,7 +3,7 @@ type: claim
 title: "Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands"
 description: "Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands"
 id: systemic-challenges-gaps-isolation-shifting-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

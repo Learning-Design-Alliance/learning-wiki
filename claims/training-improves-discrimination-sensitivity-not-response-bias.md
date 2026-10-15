@@ -3,7 +3,7 @@ type: claim
 title: Training improved discrimination sensitivity (d′) with only a small, non-significant criterion shift toward labeling images as AI-generated
 description: Training improved discrimination sensitivity (d′) with only a small, non-significant criterion shift toward labeling images as AI-generated
 id: training-improves-discrimination-sensitivity-not-response-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

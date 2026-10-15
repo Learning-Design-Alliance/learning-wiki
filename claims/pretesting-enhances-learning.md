@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Pretesting enhances learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

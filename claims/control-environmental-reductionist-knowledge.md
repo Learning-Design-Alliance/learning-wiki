@@ -3,7 +3,7 @@ type: claim
 title: Control-group students identified the three sustainability pillars but confined self-reported application largely to environmental considerations
 description: Control-group students identified the three sustainability pillars but confined self-reported application largely to environmental considerations
 id: control-environmental-reductionist-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

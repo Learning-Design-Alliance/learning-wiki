@@ -3,7 +3,7 @@ type: claim
 title: LSC parent and community members make a substantial time commitment to their schools, beyond formal council duties
 description: LSC parent and community members make a substantial time commitment to their schools, beyond formal council duties
 id: lsc-members-substantial-time-commitment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

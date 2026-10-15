@@ -3,7 +3,7 @@ type: claim
 title: "Nearly half of Black and Hispanic preschoolers attend schools where over 90% of students are students of color"
 description: "Nearly half of Black and Hispanic preschoolers attend schools where over 90% of students are students of color"
 id: preschool-racial-isolation-black-hispanic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: value-creating-principles-in-learning-objectives
 title: Incorporate value-creating principles within undergraduate course learning objectives to encourage transformative reflection and action
 description: "The authors recommend that, regardless of educational platform, instructors embed Makiguchian value-creating principles in undergraduate course learning objectives so that learning pursues \"not only..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

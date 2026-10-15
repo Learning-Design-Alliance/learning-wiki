@@ -2,7 +2,7 @@
 type: theory
 title: Declarative/procedural (D/P) model of L2 morphological learning
 description: "Ullman's declarative/procedural model holds that two memory systems support language: declarative memory, relying on medial temporal lobe circuitry, supports memorization of facts and item-based forms, while procedura..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: "RJ serves a preventative purpose by building students' social and emotional skills, not only responding to offenses"
 description: "RJ serves a preventative purpose by building students' social and emotional skills, not only responding to offenses"
 id: rj-preventative-social-emotional-skill-building
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

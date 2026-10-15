@@ -3,7 +3,7 @@ type: strategy
 id: advance-data-reports-with-debrief-protocols
 title: Send EQUIP data reports in advance of debriefs and use discussion protocols to guide data conversations
 description: To support teachers reviewing vulnerable data about their own practice, researchers deliberately emailed data reports before debriefing conversations, giving teachers time to process results.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Eleventh-grade students with ChatGPT access scored significantly higher than traditionally taught controls on the electronic magnetism post-test, with large effect sizes
 description: Eleventh-grade students with ChatGPT access scored significantly higher than traditionally taught controls on the electronic magnetism post-test, with large effect sizes
 id: chatgpt-access-improved-electronic-magnetism-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

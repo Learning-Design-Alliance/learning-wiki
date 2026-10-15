@@ -3,7 +3,7 @@ type: claim
 title: AI literacy strongly predicts LMS quality among non-STEM students (β = .814, p < .001)
 description: AI literacy strongly predicts LMS quality among non-STEM students (β = .814, p < .001)
 id: ai-literacy-predicts-lms-quality-knust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

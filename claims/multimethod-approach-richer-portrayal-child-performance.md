@@ -3,7 +3,7 @@ type: claim
 title: "A multimethod approach provides a richer portrayal of young children's performance than any single measure."
 description: "A multimethod approach provides a richer portrayal of young children's performance than any single measure."
 id: multimethod-approach-richer-portrayal-child-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

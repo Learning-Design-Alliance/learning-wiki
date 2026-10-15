@@ -3,7 +3,7 @@ type: strategy
 id: discipline-specific-transparency-toolkits
 title: Develop discipline-specific transparency toolkits coauthored by first-generation faculty covering the unwritten mechanics of academic chemistry careers
 description: The editorial proposes that chemistry departments and professional societies such as ACS and RSC develop toolkits that make explicit the hidden rules of academic careers, including editorial board appointments and PI...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

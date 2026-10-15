@@ -4,7 +4,7 @@ id: tough-as-nails-project
 aliases: [tough-as-nails-k8-ct-pathway-rpp]
 title: "Tough as Nails project: a K-8 coding pathway research-practice partnership in Kentucky Appalachia"
 description: "Tough as Nails, Nimble Fingers is an NSF-funded research-practice partnership (grants #1923314 and #2219401) creating a K-8 Computational Thinking Pathway in Floyd County and Pikeville Independent Schools by applying..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

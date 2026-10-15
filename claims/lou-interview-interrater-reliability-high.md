@@ -3,7 +3,7 @@ type: claim
 title: The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement
 description: The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement
 id: lou-interview-interrater-reliability-high
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

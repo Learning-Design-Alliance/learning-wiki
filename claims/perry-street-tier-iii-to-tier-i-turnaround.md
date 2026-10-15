@@ -3,7 +3,7 @@ type: claim
 title: "Perry Street moved from Tier III (lowest performing) to Tier I (highest performing) on DC's Performance Management Framework over five years of turnaround"
 description: "Perry Street moved from Tier III (lowest performing) to Tier I (highest performing) on DC's Performance Management Framework over five years of turnaround"
 id: perry-street-tier-iii-to-tier-i-turnaround
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

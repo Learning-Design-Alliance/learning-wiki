@@ -3,7 +3,7 @@ type: claim
 title: HMH Personal Math Trainer use was associated with math gains in grades 4, 5, and 8 but negatively associated in grade 7, and teacher-created assignments showed the strongest association
 description: HMH Personal Math Trainer use was associated with math gains in grades 4, 5, and 8 but negatively associated in grade 7, and teacher-created assignments showed the strongest association
 id: hmh-usage-grade-pattern-teacher-created-strongest
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

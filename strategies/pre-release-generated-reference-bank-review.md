@@ -3,7 +3,7 @@ type: strategy
 id: pre-release-generated-reference-bank-review
 title: Generate and validate a pilot reference bank before releasing an assignment to reveal convergence or ambiguity and decide what evidence the assessment should elicit
 description: Before students see an assignment, the instructor generates solutions from the exact handout and starter code, evaluates every output with the instructor tests, and inspects convergence per task.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

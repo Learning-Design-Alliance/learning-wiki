@@ -3,7 +3,7 @@ type: strategy
 id: accreditor-ai-policy-frameworks-faculty-development
 title: Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development
 description: "The article recommends that, given substantial variation in policy structure and content, \"accrediting bodies and professional organizations can help reduce variability by providing AI policy frameworks that integrate..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

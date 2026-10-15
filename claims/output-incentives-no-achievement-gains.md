@@ -3,7 +3,7 @@ type: claim
 title: Paying students for performance on standardized tests or for course grades does not increase achievement test scores in urban public schools
 description: Paying students for performance on standardized tests or for course grades does not increase achievement test scores in urban public schools
 id: output-incentives-no-achievement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

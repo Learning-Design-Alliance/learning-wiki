@@ -3,7 +3,7 @@ type: claim
 title: Schools with high promotion power for high school graduation tended also to have high promotion power for college enrollment
 description: Schools with high promotion power for high school graduation tended also to have high promotion power for college enrollment
 id: graduation-promotion-power-relates-college-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

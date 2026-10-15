@@ -3,7 +3,7 @@ type: claim
 title: Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance
 description: Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance
 id: motivational-disengagement-ai-reliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Perfectionism determined by others and perfectionism for others correlate negatively with subjective well-being, while self-perfectionism does not correlate significantly
 description: Perfectionism determined by others and perfectionism for others correlate negatively with subjective well-being, while self-perfectionism does not correlate significantly
 id: perfectionism-dimensions-negative-null-subjective-well-being
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

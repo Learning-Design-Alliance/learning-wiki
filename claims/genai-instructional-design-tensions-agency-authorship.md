@@ -3,7 +3,7 @@ type: claim
 title: AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity
 description: AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity
 id: genai-instructional-design-tensions-agency-authorship
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -2,7 +2,7 @@
 type: theory
 title: Tools, Themes, and Competencies framework for organizing a CT/CS pathway
 description: The presentation distinguishes three layers of a CT pathway.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

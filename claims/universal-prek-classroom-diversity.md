@@ -3,7 +3,7 @@ type: claim
 title: Universal PreK school-based classrooms are about as diverse as first-grade classrooms, while means-tested and community-based classrooms are more segregated
 description: Universal PreK school-based classrooms are about as diverse as first-grade classrooms, while means-tested and community-based classrooms are more segregated
 id: universal-prek-classroom-diversity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

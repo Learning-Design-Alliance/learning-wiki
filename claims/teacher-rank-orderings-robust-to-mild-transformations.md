@@ -3,7 +3,7 @@ type: claim
 title: Rank orderings of teachers do not change radically under mild scale transformations
 description: Rank orderings of teachers do not change radically under mild scale transformations
 id: teacher-rank-orderings-robust-to-mild-transformations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

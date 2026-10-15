@@ -3,7 +3,7 @@ type: claim
 title: Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings
 description: Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings
 id: spacing-benefits-diverse-learning-educational-settings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

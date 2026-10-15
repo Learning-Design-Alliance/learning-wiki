@@ -3,7 +3,7 @@ type: claim
 title: "MOOCs failed to deliver on their proponents' promises of transforming higher education"
 description: "MOOCs failed to deliver on their proponents' promises of transforming higher education"
 id: moocs-failed-to-deliver-on-promises
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

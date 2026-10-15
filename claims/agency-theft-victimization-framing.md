@@ -3,7 +3,7 @@ type: claim
 title: LLaMA produces a fivefold higher victimization-to-politics vocabulary ratio for the Roma persona (≈0.15) than for elite peers (≈0.03)
 description: LLaMA produces a fivefold higher victimization-to-politics vocabulary ratio for the Roma persona (≈0.15) than for elite peers (≈0.03)
 id: agency-theft-victimization-framing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

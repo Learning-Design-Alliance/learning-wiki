@@ -3,7 +3,7 @@ type: strategy
 id: open-ended-exploration-ai-feedback-design
 title: Design AI feedback and task scope to leave room for open-ended creative exploration
 description: "Because GPT feedback's impact on creativity was limited, the article points to the \"directive nature of GPT feedback or the structured scope of learning tasks, which may not have encouraged open-ended creative explora..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

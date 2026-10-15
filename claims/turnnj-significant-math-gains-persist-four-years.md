@@ -3,7 +3,7 @@ type: claim
 title: Enrollment in a TurnNJ school produced positive, statistically significant math achievement gains persisting up to four years, equal to an additional 1.8 years of learning after one year
 description: Enrollment in a TurnNJ school produced positive, statistically significant math achievement gains persisting up to four years, equal to an additional 1.8 years of learning after one year
 id: turnnj-significant-math-gains-persist-four-years
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

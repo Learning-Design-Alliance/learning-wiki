@@ -3,7 +3,7 @@ type: claim
 title: Abstraction and processing preferences, but not self-assessment, were significant predictors of perceived response complexity, abstraction, and processing style
 description: Abstraction and processing preferences, but not self-assessment, were significant predictors of perceived response complexity, abstraction, and processing style
 id: abstraction-processing-significant-self-assessment-not
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: four-recommendations-state-tests-experiments
 title: "Four recommendations for using state tests in education experiments: gauge alignment, ensure reliability, collect baseline data, and consider combining results carefully"
 description: "The paper's concluding chapter distills its guidance into four numbered recommendations for researchers considering state test data in RCTs."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

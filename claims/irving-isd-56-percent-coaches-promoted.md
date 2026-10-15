@@ -3,7 +3,7 @@ type: claim
 title: "In Irving ISD, 56% of educators who served as program coaches since 2017 were promoted to new positions"
 description: "In Irving ISD, 56% of educators who served as program coaches since 2017 were promoted to new positions"
 id: irving-isd-56-percent-coaches-promoted
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

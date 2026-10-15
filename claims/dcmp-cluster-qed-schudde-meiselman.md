@@ -3,7 +3,7 @@ type: claim
 title: In a cluster QED across two cohorts, DCMP increased the share of students ever passing a college-level math class by the end of the second semester
 description: In a cluster QED across two cohorts, DCMP increased the share of students ever passing a college-level math class by the end of the second semester
 id: dcmp-cluster-qed-schudde-meiselman
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

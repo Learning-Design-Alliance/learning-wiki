@@ -2,7 +2,7 @@
 type: theory
 title: "Three-component framework of global citizenship: social responsibility, global competence, and global civic engagement"
 description: The article adopts a conceptual framework in which global citizenship comprises three components.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

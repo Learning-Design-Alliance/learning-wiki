@@ -3,7 +3,7 @@ type: claim
 title: Across two randomized studies, Air Reading shows a weighted average effect size of +0.20 on reading achievement, meeting the Strong standard
 description: Across two randomized studies, Air Reading shows a weighted average effect size of +0.20 on reading achievement, meeting the Strong standard
 id: air-reading-weighted-average-effect-020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

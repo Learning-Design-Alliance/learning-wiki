@@ -4,7 +4,7 @@ title: The average student needs the equivalent of 4.8 additional months of scho
 description: The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math
 id: months-of-schooling-needed-to-catch-up-2023-24
 aliases: [catch-up-requires-additional-months-reading-math]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

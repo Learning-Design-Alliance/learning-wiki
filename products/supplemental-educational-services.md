@@ -4,7 +4,7 @@ id: supplemental-educational-services
 title: Supplemental Educational Services
 description: A No Child Left Behind programme administered through states and approved public or private providers to offer free out-of-school tutoring and academic support to eligible students in low-performing schools.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

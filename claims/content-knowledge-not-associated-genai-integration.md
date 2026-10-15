@@ -3,7 +3,7 @@ type: claim
 title: Content knowledge is not significantly associated with self-perceived knowledge in any technology-integrated GenAI domain
 description: Content knowledge is not significantly associated with self-perceived knowledge in any technology-integrated GenAI domain
 id: content-knowledge-not-associated-genai-integration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

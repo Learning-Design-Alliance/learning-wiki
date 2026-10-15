@@ -3,7 +3,7 @@ type: strategy
 id: three-part-reflective-llm-lesson
 title: "Three-part reflective lesson on LLM use: hands-on problem solving with and without LLMs, instruction on LLM internals, and discussion of educational-impacts research"
 description: The article describes a two-session lesson combining a problem-solving activity in which students solve a physics problem with an LLM then attempt a transfer problem without one, instruction on LLM internal functionin...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

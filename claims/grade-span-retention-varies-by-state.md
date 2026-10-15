@@ -3,7 +3,7 @@ type: claim
 title: "Each state's lowest four-year principal retention rate occurred at a different grade span"
 description: "Each state's lowest four-year principal retention rate occurred at a different grade span"
 id: grade-span-retention-varies-by-state
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

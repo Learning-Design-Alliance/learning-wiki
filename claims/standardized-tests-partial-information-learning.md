@@ -3,7 +3,7 @@ type: claim
 title: Standardized tests measure only part of what teachers expect students to learn and are not taken in all subjects
 description: Standardized tests measure only part of what teachers expect students to learn and are not taken in all subjects
 id: standardized-tests-partial-information-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

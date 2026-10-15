@@ -3,7 +3,7 @@ type: claim
 title: Implementation intentions promote initiation of goal striving, shielding of ongoing pursuit, disengagement from failing courses of action, and conservation of capability
 description: Implementation intentions promote initiation of goal striving, shielding of ongoing pursuit, disengagement from failing courses of action, and conservation of capability
 id: implementation-intentions-four-self-regulatory-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Humans are more certain when judging that facilitation is not needed than when judging it is
 description: Humans are more certain when judging that facilitation is not needed than when judging it is
 id: humans-certain-when-not-facilitating
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

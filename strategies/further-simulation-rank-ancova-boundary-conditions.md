@@ -3,7 +3,7 @@ type: strategy
 id: further-simulation-rank-ancova-boundary-conditions
 title: Conduct further simulation studies to map boundary conditions of the rank ANCOVA power advantage
 description: "The authors recommend extending the simulation program to identify when the rank transform approach's power advantage holds."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

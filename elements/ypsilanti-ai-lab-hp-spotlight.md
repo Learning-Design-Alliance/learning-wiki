@@ -3,7 +3,7 @@ type: element
 id: ypsilanti-ai-lab-hp-spotlight
 title: "Ypsilanti AI Lab: a centrally located, professional-grade AI learning space"
 description: The Ypsilanti Community High School AI lab is a school-based learning space launched in March 2025 with high-end workstations, audio-visual equipment, and AI tools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

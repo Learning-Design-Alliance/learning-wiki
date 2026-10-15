@@ -3,7 +3,7 @@ type: claim
 title: Emerging empirical studies report positive associations between generative AI use and international-student adaptation
 description: Emerging empirical studies report positive associations between generative AI use and international-student adaptation
 id: ai-use-positive-adaptation-associations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

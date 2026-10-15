@@ -3,7 +3,7 @@ type: claim
 title: Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator
 description: Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator
 id: anvil-educators-instructor-control-editability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

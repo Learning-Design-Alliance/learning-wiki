@@ -3,7 +3,7 @@ type: claim
 title: Six closed-model configurations grade at or below the human inter-grader floor of 2.61/35 on the CV exam, with the best reaching MAE 1.64
 description: Six closed-model configurations grade at or below the human inter-grader floor of 2.61/35 on the CV exam, with the best reaching MAE 1.64
 id: closed-llm-graders-below-human-floor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

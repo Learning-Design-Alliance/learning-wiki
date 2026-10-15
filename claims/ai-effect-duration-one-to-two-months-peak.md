@@ -3,7 +3,7 @@ type: claim
 title: Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration
 description: Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration
 id: ai-effect-duration-one-to-two-months-peak
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

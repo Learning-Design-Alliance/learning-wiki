@@ -3,7 +3,7 @@ type: claim
 title: Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns
 description: Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns
 id: switchable-ai-roles-neutrality-authority-tension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

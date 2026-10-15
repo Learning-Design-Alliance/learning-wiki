@@ -3,7 +3,7 @@ type: claim
 title: Active participation and commitment of teaching staff were essential for successful CA-supported LO assessment, fostered by clear actionable data and institutional support
 description: Active participation and commitment of teaching staff were essential for successful CA-supported LO assessment, fostered by clear actionable data and institutional support
 id: faculty-engagement-essential-for-ca-assessment-success
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

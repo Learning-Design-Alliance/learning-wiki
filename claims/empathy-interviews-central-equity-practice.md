@@ -3,7 +3,7 @@ type: claim
 title: Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity
 description: Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity
 id: empathy-interviews-central-equity-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

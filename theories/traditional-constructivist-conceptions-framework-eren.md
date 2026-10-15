@@ -2,7 +2,7 @@
 type: theory
 title: Traditional versus constructivist conceptions of teaching/learning framework
 description: "The article organizes prospective teachers' conceptions about teaching/learning under two philosophically grounded categories: traditional and constructivist conceptions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

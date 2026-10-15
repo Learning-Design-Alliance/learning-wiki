@@ -3,7 +3,7 @@ type: claim
 title: Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning
 description: Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning
 id: goal-orientations-predict-engagement-ai-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

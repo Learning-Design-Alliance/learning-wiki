@@ -3,7 +3,7 @@ type: claim
 title: GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited
 description: GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited
 id: genai-privacy-bias-accuracy-concerns-limited-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

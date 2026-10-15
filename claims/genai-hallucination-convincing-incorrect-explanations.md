@@ -3,7 +3,7 @@ type: claim
 title: Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation
 description: Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation
 id: genai-hallucination-convincing-incorrect-explanations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The WWC rates PALS as having potentially positive effects on alphabetics, no discernible effects on fluency, and mixed effects on comprehension for beginning readers
 description: The WWC rates PALS as having potentially positive effects on alphabetics, no discernible effects on fluency, and mixed effects on comprehension for beginning readers
 id: pals-wwc-effectiveness-ratings-three-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

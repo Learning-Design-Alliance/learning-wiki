@@ -3,7 +3,7 @@ type: design
 id: five-component-student-profile-structure
 title: Five-component structured student profile capturing knowledge and dialogue behavior
 description: "Each generated profile has a fixed structure with five sections: Knowledge State (estimated KC mastery as correct over total attempts), Knowledge Acquisition (how mastery changes over time), Misconception (recurring m..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

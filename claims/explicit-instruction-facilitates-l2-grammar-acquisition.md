@@ -3,7 +3,7 @@ type: claim
 title: Explicit instruction facilitates the acquisition of L2 grammar
 description: Explicit instruction facilitates the acquisition of L2 grammar
 id: explicit-instruction-facilitates-l2-grammar-acquisition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

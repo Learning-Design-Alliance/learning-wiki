@@ -3,7 +3,7 @@ type: claim
 title: No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model
 description: No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model
 id: no-consistent-fp-fn-pattern
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

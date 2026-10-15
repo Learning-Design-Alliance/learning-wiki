@@ -3,7 +3,7 @@ type: claim
 title: The baseline and capacitated facility location formulations of school aggregation are formally equivalent
 description: The baseline and capacitated facility location formulations of school aggregation are formally equivalent
 id: equivalent-school-aggregation-formulations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

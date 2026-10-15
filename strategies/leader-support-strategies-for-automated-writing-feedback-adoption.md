@@ -3,7 +3,7 @@ type: strategy
 id: leader-support-strategies-for-automated-writing-feedback-adoption
 title: Provide school and district leader support strategies when adopting automated writing feedback tools like Ecree
 description: "The brief aims to inform school and district leaders deciding whether to use automated writing feedback tools like Ecree in middle and high schools, and \"provides strategies for school and district leaders to support..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

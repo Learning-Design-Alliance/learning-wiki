@@ -3,7 +3,7 @@ type: claim
 title: "Attending a high school that reduces the fear of bullying raises students' graduation rates"
 description: "Attending a high school that reduces the fear of bullying raises students' graduation rates"
 id: bullying-fear-reduction-raises-graduation-rates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

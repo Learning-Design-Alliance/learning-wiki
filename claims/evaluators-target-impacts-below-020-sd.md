@@ -3,7 +3,7 @@ type: claim
 title: Education evaluators increasingly design studies to detect impacts smaller than 0.20 standard deviations
 description: Education evaluators increasingly design studies to detect impacts smaller than 0.20 standard deviations
 id: evaluators-target-impacts-below-020-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

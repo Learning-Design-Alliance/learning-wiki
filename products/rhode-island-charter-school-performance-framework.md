@@ -4,7 +4,7 @@ id: rhode-island-charter-school-performance-framework
 title: Rhode Island Charter School Performance Framework
 description: A performance-accountability framework created and administered by the Rhode Island Department of Education to evaluate charter schools from initial application through renewal.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

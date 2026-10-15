@@ -3,7 +3,7 @@ type: strategy
 id: performance-plus-selected-response-balance
 title: Use performance assessments in conjunction with selected-response items, counting enough toward final scores to matter
 description: The report recommends that large-scale systems leverage performance assessments strategically alongside on-demand selected-response items, so designs can sample wider coverage while still providing substantial evidenc...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

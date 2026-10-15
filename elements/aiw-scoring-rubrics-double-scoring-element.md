@@ -3,7 +3,7 @@ type: element
 id: aiw-scoring-rubrics-double-scoring-element
 title: Authentic intellectual work scoring rubrics with double-scoring design for inter-scorer reliability
 description: The project scored assignments and student work using measurement rubrics created by writing and mathematics experts, one rubric set per subject (Documents 15 and 16).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

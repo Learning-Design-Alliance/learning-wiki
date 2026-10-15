@@ -3,7 +3,7 @@ type: research-method
 id: teacher-team-method-for-co-taught-value-added-estimation
 title: Teacher Team Method for co-taught value-added estimation
 description: The Teacher Team Method is one of three methods the article proposes for estimating teacher value added when students are co-taught.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

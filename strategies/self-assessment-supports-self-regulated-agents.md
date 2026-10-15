@@ -3,7 +3,7 @@ type: strategy
 id: self-assessment-supports-self-regulated-agents
 title: Self-assessment as a formative assessment practice that supports students to act as self-regulated agents
 description: "The brief presents self-assessment as the formative assessment practice supporting the agency feature: students interpret evidence of their own learning and make informed decisions about next steps."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

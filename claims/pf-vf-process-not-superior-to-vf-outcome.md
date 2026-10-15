@@ -3,7 +3,7 @@ type: claim
 title: Students who generated their own solutions or observed the full process did not significantly outperform students who only viewed the outcomes of failed solution attempts on conceptual knowledge
 description: Students who generated their own solutions or observed the full process did not significantly outperform students who only viewed the outcomes of failed solution attempts on conceptual knowledge
 id: pf-vf-process-not-superior-to-vf-outcome
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

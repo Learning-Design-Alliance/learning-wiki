@@ -3,7 +3,7 @@ type: research-method
 id: cognitive-episodes-an-eight-way-taxonomy-of-functional-problem-solving-states-grounded-in
 title: "Cognitive episodes: an eight-way taxonomy of functional problem-solving states grounded in Schoenfeld's Episode Theory"
 description: Cognitive episodes organize LLM reasoning traces into temporally ordered functional problem-solving states.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: The fine-tuned BERT model generalizes to an external dataset collected by a different research team, maintaining almost perfect agreement with human coders
 description: The fine-tuned BERT model generalizes to an external dataset collected by a different research team, maintaining almost perfect agreement with human coders
 id: bert-generalizes-external-self-affirmation-dataset
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

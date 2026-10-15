@@ -3,7 +3,7 @@ type: claim
 title: Checklist tool use significantly increases Evaluation processes, an effect not observed in the ChatGPT and human-expert groups
 description: Checklist tool use significantly increases Evaluation processes, an effect not observed in the ChatGPT and human-expert groups
 id: checklist-tools-increase-evaluation-processes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

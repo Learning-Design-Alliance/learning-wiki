@@ -3,7 +3,7 @@ type: strategy
 id: large-pilot-study-validation-strategy
 title: Conduct a large pilot study to validate effectiveness with high confidence
 description: "Phase 4 of the checklist prescribes a specific implementable activity: conduct a large pilot study and demonstrate with a high degree of confidence that the solution leads to improved outcomes for students in a priori..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

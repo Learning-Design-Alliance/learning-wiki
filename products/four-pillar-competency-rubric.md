@@ -4,7 +4,7 @@ id: four-pillar-competency-rubric
 title: Four-pillar competency rubric
 description: A rubric developed by Smith et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

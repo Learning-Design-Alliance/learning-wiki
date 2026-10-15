@@ -3,7 +3,7 @@ type: research-method
 id: human-ai-collaborative-thematic-analysis-process-guided-by-the-iaves-framework
 title: Human-AI collaborative thematic analysis process guided by the IAVES framework
 description: "The study adapted Braun and Clarke's six-phase reflexive thematic analysis to incorporate systematic human-AI collaboration guided by the IAVES framework for Human-Centered AI Interaction."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "The Cultivate Survey's impact question indicates whether students experience authentic voice and influence in school improvement"
 description: "The Cultivate Survey's impact question indicates whether students experience authentic voice and influence in school improvement"
 id: cultivate-impact-question-authentic-voice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

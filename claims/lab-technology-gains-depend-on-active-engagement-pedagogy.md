@@ -3,7 +3,7 @@ type: claim
 title: "The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within"
 description: The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within
 id: lab-technology-gains-depend-on-active-engagement-pedagogy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

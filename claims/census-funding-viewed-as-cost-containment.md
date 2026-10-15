@@ -3,7 +3,7 @@ type: claim
 title: Census funding is viewed as a cost-containment approach for special education finance
 description: Census funding is viewed as a cost-containment approach for special education finance
 id: census-funding-viewed-as-cost-containment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

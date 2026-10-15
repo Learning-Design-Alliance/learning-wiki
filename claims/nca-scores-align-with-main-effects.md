@@ -3,7 +3,7 @@ type: claim
 title: "NCA scores of IIU input vectors order action types identically to the main-effects ordering (Spearman's ρ = 1)"
 description: "NCA scores of IIU input vectors order action types identically to the main-effects ordering (Spearman's ρ = 1)"
 id: nca-scores-align-with-main-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

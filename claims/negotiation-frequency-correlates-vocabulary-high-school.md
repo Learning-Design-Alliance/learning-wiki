@@ -3,7 +3,7 @@ type: claim
 title: In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)
 description: In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)
 id: negotiation-frequency-correlates-vocabulary-high-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

@@ -3,7 +3,7 @@ type: claim
 title: Coaching effects do not differ significantly across school levels, and in-person versus virtual delivery shows no significant difference
 description: Coaching effects do not differ significantly across school levels, and in-person versus virtual delivery shows no significant difference
 id: coaching-no-school-level-or-mode-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

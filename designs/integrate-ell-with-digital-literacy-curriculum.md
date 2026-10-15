@@ -3,7 +3,7 @@ type: design
 id: integrate-ell-with-digital-literacy-curriculum
 title: Integrate English language learning with digital literacy instruction in one curriculum for immigrant adult learners
 description: "Briya combines English learning and digital skills in a single curriculum: \"All of their devices, software, and online programs use English, so their learners are integrating their English language learning (ELL) with..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

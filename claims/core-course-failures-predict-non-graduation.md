@@ -3,7 +3,7 @@ type: claim
 title: Core-course failures in freshman year strongly predict non-graduation, similarly across subjects
 description: Core-course failures in freshman year strongly predict non-graduation, similarly across subjects
 id: core-course-failures-predict-non-graduation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

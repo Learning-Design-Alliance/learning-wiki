@@ -3,7 +3,7 @@ type: claim
 title: The CF–KG hybrid model achieves the highest hit rate among all compared methods, rising from 0.718 to 0.751 across training
 description: The CF–KG hybrid model achieves the highest hit rate among all compared methods, rising from 0.718 to 0.751 across training
 id: cfkg-highest-hit-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: strategy
 id: multi-channel-homeless-student-identification-strategy
 title: Combine public information campaigns, continuous staff education, and direct outreach to identify students experiencing homelessness
 description: Study districts increased self-referrals and staff referrals through several implementable channels.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

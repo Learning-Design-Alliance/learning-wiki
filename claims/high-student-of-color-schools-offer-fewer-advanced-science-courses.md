@@ -3,7 +3,7 @@ type: claim
 title: U.S. high schools with high student of color enrollment are less likely to offer advanced science courses than schools with low student of color enrollment
 description: U.S.
 id: high-student-of-color-schools-offer-fewer-advanced-science-courses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Forestructures of understanding are associated with the majority of several key authentic inquiry features, up to 100% for complex transformation of observation and developing theories about mechanisms"
 description: "Forestructures of understanding are associated with the majority of several key authentic inquiry features, up to 100% for complex transformation of observation and developing theories about mechanisms"
 id: forestructures-associated-authentic-features
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

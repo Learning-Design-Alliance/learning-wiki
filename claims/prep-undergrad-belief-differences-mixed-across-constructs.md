@@ -3,7 +3,7 @@ type: claim
 title: Prep School and undergraduate students differed significantly on overall beliefs, MFI-FFI and FonF-FonFs, but not on implicit-explicit or inductive-deductive preferences
 description: Prep School and undergraduate students differed significantly on overall beliefs, MFI-FFI and FonF-FonFs, but not on implicit-explicit or inductive-deductive preferences
 id: prep-undergrad-belief-differences-mixed-across-constructs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

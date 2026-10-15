@@ -3,7 +3,7 @@ type: research-method
 id: what-works-clearinghouse-wwc-design-standards
 title: What Works Clearinghouse (WWC) design standards
 description: The What Works Clearinghouse (WWC), established in 2002 by the U.S.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Relational trust as an organizational property grounded in discernment of intentions within mutual obligations
 description: "The paper develops relational trust as a collective property of a social institution, building on Coleman's trustworthiness in social networks but rejecting a purely rational-choice account."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

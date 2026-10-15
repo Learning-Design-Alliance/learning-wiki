@@ -2,7 +2,7 @@
 type: theory
 title: "Dialectical monism: culture restructures natural mind, and applied research is basic research"
 description: "Lantolf presents SCT as a dialectical, non-dualistic theory: humans begin with biologically evolved natural mentation, and culture, largely through language, does not create something new but \"restructures what is the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

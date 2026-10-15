@@ -3,7 +3,7 @@ type: claim
 title: "The predominant student evaluation of LLMs (42%) is positive but conditional on the student's own verification work"
 description: "The predominant student evaluation of LLMs (42%) is positive but conditional on the student's own verification work"
 id: students-positive-with-caveat-llm-evaluation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

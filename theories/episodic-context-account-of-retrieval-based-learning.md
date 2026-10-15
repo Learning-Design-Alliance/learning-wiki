@@ -3,7 +3,7 @@ type: theory
 title: Episodic Context Account of Retrieval-Based Learning
 description: Proposed by Karpicke et al.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

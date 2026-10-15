@@ -4,7 +4,7 @@ id: ib-dp
 title: IB DP
 description: The IB DP is an internationally developed upper-secondary curriculum and credential programme run by the International Baccalaureate for students preparing for higher education.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

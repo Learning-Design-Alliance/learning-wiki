@@ -3,7 +3,7 @@ type: claim
 title: The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners
 description: The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners
 id: reading-mastery-potentially-positive-effects-ell-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

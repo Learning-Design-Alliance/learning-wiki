@@ -3,7 +3,7 @@ type: claim
 title: "Chatbot engagement was highly uneven: 8 of 15 voluntary users interacted continuously while 7 interacted superficially"
 description: "Chatbot engagement was highly uneven: 8 of 15 voluntary users interacted continuously while 7 interacted superficially"
 id: chatbot-engagement-bimodal-continuous-versus-superficial-users
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

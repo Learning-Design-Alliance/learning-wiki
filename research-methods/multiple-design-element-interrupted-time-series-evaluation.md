@@ -3,7 +3,7 @@ type: research-method
 id: multiple-design-element-interrupted-time-series-evaluation
 title: Multiple-design-element interrupted time series evaluation
 description: Because the basic single-group ITS depends on extrapolating the pretest functional form as a counterfactual, an assumption the authors call problematic, evaluators should add multiple design elements to the basic ITS structure.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

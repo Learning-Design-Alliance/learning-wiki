@@ -3,7 +3,7 @@ type: claim
 title: Core to College network interactions were primarily information sharing and making connections between K–12 and higher education
 description: Core to College network interactions were primarily information sharing and making connections between K–12 and higher education
 id: core-to-college-interactions-primarily-information-sharing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Platform logs show behavioral shifts toward goal-oriented optimization between workshop Days 4 and 5
 description: Platform logs show behavioral shifts toward goal-oriented optimization between workshop Days 4 and 5
 id: behavioral-shift-goal-oriented-optimization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

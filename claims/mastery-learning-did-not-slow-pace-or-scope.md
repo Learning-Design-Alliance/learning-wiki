@@ -3,7 +3,7 @@ type: claim
 title: Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention
 description: Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention
 id: mastery-learning-did-not-slow-pace-or-scope
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

@@ -3,7 +3,7 @@ type: strategy
 id: durable-principles-versus-contingent-capabilities
 title: Teach students to distinguish durable principles from contingent capabilities to keep their model of the field current
 description: "The closing module's strategy for future-proofing the discipline is an explicit inventory of which taught principles are likely durable and which are tied to current capabilities."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument)."
 description: "Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument)."
 id: teacher-expectancy-beliefs-shape-motivation-to-use-ai
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

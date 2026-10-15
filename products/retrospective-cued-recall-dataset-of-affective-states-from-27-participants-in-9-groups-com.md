@@ -4,7 +4,7 @@ id: retrospective-cued-recall-dataset-of-affective-states-from-27-participants-i
 title: Retrospective cued-recall dataset of affective states from 27 participants in 9 groups completing the Weights Task
 description: A research dataset created by Sifatul Anindho et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

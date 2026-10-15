@@ -3,7 +3,7 @@ type: strategy
 id: differentiated-aica-support-by-ct-level
 title: "Differentiate AICA support by CT level: open-ended exploration for high CT students, structured SRL scripts for low CT students"
 description: The article proposes two differentiated instructional strategies grounded in its findings.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

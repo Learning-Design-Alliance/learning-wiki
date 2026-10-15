@@ -3,7 +3,7 @@ type: strategy
 id: presentation-mini-sets-community-benchmark
 title: Create small controlled presentation mini-sets as a near-term community benchmark
 description: "To address the corpus gap, the survey recommends \"creating small, controlledpresentation mini-sets, consisting of 5–10 minute talks per speaker with slide markers, emphasis annotations, and diverse accent coverage, as..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

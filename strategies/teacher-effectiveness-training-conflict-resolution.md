@@ -3,7 +3,7 @@ type: strategy
 id: teacher-effectiveness-training-conflict-resolution
 title: Teacher Effectiveness Training / Conflict Resolution
 description: Gordon's four-step conflict-resolution model — clarifying problem ownership, active empathetic listening, assertive I-messages, and negotiation — for persistent student misbehavior that simpler responses haven't resolved.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

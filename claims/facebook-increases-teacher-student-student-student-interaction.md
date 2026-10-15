@@ -3,7 +3,7 @@ type: claim
 title: Facebook use in higher education is associated with increased teacher-student and student-student interaction
 description: Facebook use in higher education is associated with increased teacher-student and student-student interaction
 id: facebook-increases-teacher-student-student-student-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

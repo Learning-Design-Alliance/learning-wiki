@@ -3,7 +3,7 @@ type: claim
 title: Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades
 description: Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades
 id: prompt-rubric-quality-drives-llm-grading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

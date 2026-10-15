@@ -3,7 +3,7 @@ type: claim
 title: "Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects"
 description: "Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects"
 id: slight-control-reduces-algorithm-aversion
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

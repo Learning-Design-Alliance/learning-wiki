@@ -3,7 +3,7 @@ type: claim
 title: "Workers ages 22 to 25 in the most AI-exposed US occupations experienced a 16% relative employment decline following widespread generative AI adoption"
 description: "Workers ages 22 to 25 in the most AI-exposed US occupations experienced a 16% relative employment decline following widespread generative AI adoption"
 id: early-career-employment-decline-ai-exposed-occupations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

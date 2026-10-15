@@ -3,7 +3,7 @@ type: claim
 title: The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition
 description: The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition
 id: nico-nor-math-null-with-item-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: English-major seniors report writing classes receive inadequate attention and are tied to test preparation
 description: English-major seniors report writing classes receive inadequate attention and are tied to test preparation
 id: writing-class-inadequate-attention-tem-driven
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

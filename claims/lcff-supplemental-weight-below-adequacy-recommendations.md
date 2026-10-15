@@ -3,7 +3,7 @@ type: claim
 title: "California's 20% supplemental grant weight falls below other states' adequacy-study recommendations for English learners and at-risk students"
 description: "California's 20% supplemental grant weight falls below other states' adequacy-study recommendations for English learners and at-risk students"
 id: lcff-supplemental-weight-below-adequacy-recommendations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

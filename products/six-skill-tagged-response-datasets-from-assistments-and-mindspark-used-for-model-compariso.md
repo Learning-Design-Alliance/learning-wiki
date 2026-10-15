@@ -4,7 +4,7 @@ id: six-skill-tagged-response-datasets-from-assistments-and-mindspark-used-for-m
 title: Six skill-tagged response datasets from ASSISTments and Mindspark used for model comparison
 description: Agarwal et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

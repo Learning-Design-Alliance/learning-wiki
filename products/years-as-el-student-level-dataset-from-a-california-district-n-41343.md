@@ -4,7 +4,7 @@ id: years-as-el-student-level-dataset-from-a-california-district-n-41343
 title: Years-as-EL student-level dataset from a California district (N = 41,343)
 description: "A student-level California district dataset used to analyze English learners' years classified as EL, course taking, English proficiency, credit recovery, and graduation outcomes."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

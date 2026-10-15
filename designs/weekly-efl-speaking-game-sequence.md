@@ -3,7 +3,7 @@ type: design
 id: weekly-efl-speaking-game-sequence
 title: Weekly game sequence for EFL speaking practice
 description: "The article describes a four-week sequence of classroom games used to elicit target-language speaking: a questioning game in week 1, group role-play dialogues in week 2, an imagination game in week 3, and collaborativ..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

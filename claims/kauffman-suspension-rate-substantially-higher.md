@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School suspends students at a substantially higher rate than other schools in Kansas City
 description: The Kauffman School suspends students at a substantially higher rate than other schools in Kansas City
 id: kauffman-suspension-rate-substantially-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

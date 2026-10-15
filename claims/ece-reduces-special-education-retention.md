@@ -3,7 +3,7 @@ type: claim
 title: Early childhood education attendance is associated with statistically significant reductions in special education placement and grade retention
 description: Early childhood education attendance is associated with statistically significant reductions in special education placement and grade retention
 id: ece-reduces-special-education-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

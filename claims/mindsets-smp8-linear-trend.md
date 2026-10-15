@@ -3,7 +3,7 @@ type: claim
 title: Repeated Reasoning (SMP 8) benchmark levels improved linearly across all three time points (d ≈ 0.77) with no significant quadratic trend
 description: Repeated Reasoning (SMP 8) benchmark levels improved linearly across all three time points (d ≈ 0.77) with no significant quadratic trend
 id: mindsets-smp8-linear-trend
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

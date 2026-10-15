@@ -3,7 +3,7 @@ type: claim
 title: In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started
 description: In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started
 id: most-students-still-made-gains-reading-math-covid
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Directly prompted Claude 3.7 micro-level deep feedback was judged both necessary and effective in 94.69% of 630 comments"
 description: "Directly prompted Claude 3.7 micro-level deep feedback was judged both necessary and effective in 94.69% of 630 comments"
 id: wraft-micro-feedback-95-percent-necessary-effective
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

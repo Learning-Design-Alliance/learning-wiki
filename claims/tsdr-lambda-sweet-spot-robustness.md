@@ -3,7 +3,7 @@ type: claim
 title: "TSDR is robust to the smoothness coefficient, with a stable sweet spot for lambda in [0.3, 1.0]"
 description: "TSDR is robust to the smoothness coefficient, with a stable sweet spot for lambda in [0.3, 1.0]"
 id: tsdr-lambda-sweet-spot-robustness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

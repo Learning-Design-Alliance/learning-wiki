@@ -2,7 +2,7 @@
 type: theory
 title: Four-type taxonomy of semantic relations in grapho-phonemically related Polish-English word pairs
 description: "The article organizes formally similar English/Polish word pairs by their semantic relation, following Lyons's distributional types."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

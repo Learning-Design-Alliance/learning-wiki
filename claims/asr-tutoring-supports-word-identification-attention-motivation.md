@@ -3,7 +3,7 @@ type: claim
 title: "Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation"
 description: "Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation"
 id: asr-tutoring-supports-word-identification-attention-motivation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

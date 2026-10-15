@@ -3,7 +3,7 @@ type: claim
 title: Only 4 percent of LSCs show three or more signs of inactivity, and the most common problem is having fewer than two active committees
 description: Only 4 percent of LSCs show three or more signs of inactivity, and the most common problem is having fewer than two active committees
 id: lsc-inactivity-signs-minority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

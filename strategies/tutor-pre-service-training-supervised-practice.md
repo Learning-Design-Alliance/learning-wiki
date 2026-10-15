@@ -3,7 +3,7 @@ type: strategy
 id: tutor-pre-service-training-supervised-practice
 title: Train tutors in academic strategies through supervised practice with ongoing professional development across the year
 description: GO Tutor Corps pairs pre-service training with regular professional development sessions throughout the year.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

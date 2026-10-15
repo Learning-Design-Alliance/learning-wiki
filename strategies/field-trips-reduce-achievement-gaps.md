@@ -3,7 +3,7 @@ type: strategy
 id: field-trips-reduce-achievement-gaps
 title: Use field trips to informal science institutions as a tool for reducing science achievement gaps
 description: "The article suggests that field trips \"might be an effective tool for reducing achievement gaps,\" because effects were largest for Hispanic students and students qualifying for free or reduced-price lunch."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices
 description: Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices
 id: comprehensive-induction-doubles-novice-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

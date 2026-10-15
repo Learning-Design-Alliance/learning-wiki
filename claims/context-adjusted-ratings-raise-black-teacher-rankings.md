@@ -3,7 +3,7 @@ type: claim
 title: "Simulated adjustment of ratings for classroom context improves Black teachers' rankings by about 8 percentile points, with the largest gains for teachers serving more disadvantaged students"
 description: "Simulated adjustment of ratings for classroom context improves Black teachers' rankings by about 8 percentile points, with the largest gains for teachers serving more disadvantaged students"
 id: context-adjusted-ratings-raise-black-teacher-rankings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

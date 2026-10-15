@@ -3,7 +3,7 @@ type: claim
 title: AI connectedness is psychologically real but ethically asymmetric, carrying conditional rather than inherent risks
 description: AI connectedness is psychologically real but ethically asymmetric, carrying conditional rather than inherent risks
 id: ai-connectedness-psychologically-real-ethically-asymmetric
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

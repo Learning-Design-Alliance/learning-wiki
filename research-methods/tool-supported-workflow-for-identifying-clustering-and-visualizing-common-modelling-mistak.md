@@ -3,7 +3,7 @@ type: research-method
 id: tool-supported-workflow-for-identifying-clustering-and-visualizing-common-modelling-mistak
 title: Tool-supported workflow for identifying, clustering, and visualizing common modelling mistakes as bug fixing transformations
 description: A three-step workflow in which candidates for common mistakes are represented as bug fixing transformations that locally rewrite incorrect syntax trees into correct ones.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

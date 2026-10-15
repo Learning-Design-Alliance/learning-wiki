@@ -3,7 +3,7 @@ type: strategy
 id: use-psrbvbq-to-identify-teacher-training-needs
 title: "Use the Romanian PSRBVBQ in school practice to identify teachers' bullying perceptions and reveal training needs for bullying prevention"
 description: The article recommends administering the Romanian version of the PSRBVBQ to teachers and school counselors as a diagnostic step in bullying prevention work.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

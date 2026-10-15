@@ -3,7 +3,7 @@ type: claim
 title: AI pedagogical orientation strongly predicts self-reported AI use across research, teaching, and other professional domains
 description: AI pedagogical orientation strongly predicts self-reported AI use across research, teaching, and other professional domains
 id: ai-pedagogical-orientation-predicts-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

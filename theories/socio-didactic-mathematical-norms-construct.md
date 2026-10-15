@@ -2,7 +2,7 @@
 type: theory
 title: Socio-didactic-mathematical norms (SDMNs) as metadiscursive rules in pre-service teacher discourse
 description: SDMNs extend sociomathematical norms by capturing constraints, conditions and particularities related to mathematics as a school subject, its teaching and its learning, as they arise in interaction among pre-service t...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

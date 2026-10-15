@@ -3,7 +3,7 @@ type: research-method
 id: bidirectional-validity-approach
 title: Bidirectional validity approach
 description: "The bidirectional validity approach examines a test's fairness by working backward from the criterion: examinees are matched on the outcome the test is supposed to predict (here, type of math course taken and grade received in first-year college math), and their test scores are compared."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure
 description: Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure
 id: self-explanation-effect-worked-examples
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

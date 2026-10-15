@@ -3,7 +3,7 @@ type: claim
 title: Test preparation demands slow instruction, with the spring review season beginning earlier and lasting longer each year of the study
 description: Test preparation demands slow instruction, with the spring review season beginning earlier and lasting longer each year of the study
 id: test-prep-season-slows-new-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

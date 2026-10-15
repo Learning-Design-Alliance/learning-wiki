@@ -3,7 +3,7 @@ type: claim
 title: Qualitative analysis finds the CIMI-M helped veterans share experiences and helped clinicians build trust and plan treatment
 description: Qualitative analysis finds the CIMI-M helped veterans share experiences and helped clinicians build trust and plan treatment
 id: cimi-m-qualitative-utility-themes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

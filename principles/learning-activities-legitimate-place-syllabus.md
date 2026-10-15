@@ -3,7 +3,7 @@ type: principle
 id: learning-activities-legitimate-place-syllabus
 title: Learning activities have a legitimate place in the language syllabus, but remain secondary to acquisition activities
 description: "If Labov's monitor model better represents the facts than Krashen's, the article argues, then learning activities such as error correction, drills, and grammar explanation have \"a legitimate place in our syllabi.\" Yet..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

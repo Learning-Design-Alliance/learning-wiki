@@ -4,7 +4,7 @@ id: vocabulary-gloss-questionnaire-24-items-on-gloss-exposure-and-perceived-effe
 title: Vocabulary gloss questionnaire (24 items on gloss exposure and perceived effectiveness)
 description: A Chinese-language 24-item questionnaire developed by Cheng et al.
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

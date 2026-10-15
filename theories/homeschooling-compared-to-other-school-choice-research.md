@@ -2,7 +2,7 @@
 type: theory
 title: Homeschooling research compared with research on charter schools, voucher programs, and private schools
 description: The article organizes homeschooling research by placing it alongside the research literatures on other school-choice sectors.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

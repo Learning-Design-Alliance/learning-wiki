@@ -3,7 +3,7 @@ type: claim
 title: Expanding and uniform spacing schedules of retrieval practice do not differ significantly in final retention (g = 0.034)
 description: Expanding and uniform spacing schedules of retrieval practice do not differ significantly in final retention (g = 0.034)
 id: expanding-versus-uniform-retrieval-no-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

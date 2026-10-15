@@ -4,7 +4,7 @@ id: beable
 title: Beable
 description: Beable is a K–12 digital learning platform developed by Beable Life-Ready Learning that personalizes literacy, content learning, language acquisition, intervention, and career-connected learning for students.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

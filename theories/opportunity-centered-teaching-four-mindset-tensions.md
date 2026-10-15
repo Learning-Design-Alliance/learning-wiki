@@ -2,7 +2,7 @@
 type: theory
 title: Opportunity-centered teaching framework adapted as four opposing equity mindset dimensions
 description: "The article draws on Milner's opportunity-centered teaching framework, rooted in critical race theory and culturally responsive and sustaining teaching, which posits that schools fail diverse students because of syste..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: Teachers rely more on experience and instinct than on academic research, and teachers who rely on research are more comfortable with and positive about edtech
 description: Teachers rely more on experience and instinct than on academic research, and teachers who rely on research are more comfortable with and positive about edtech
 id: teacher-practice-experience-over-research-edtech-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: design
 id: llm-practice-platform-offloading-classifier
 title: Custom LLM practice platform with validated offloading classifier for extent-of-support labeling
 description: The article built a custom web platform (React frontend, Python backend, PostgreSQL) giving full experimental control and logging of a fraction-arithmetic learning session with an LLM assistant built on GPT-OSS-120B a...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

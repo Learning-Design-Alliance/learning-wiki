@@ -3,7 +3,7 @@ type: strategy
 id: personal-messages-real-world-examples-reflection-online
 title: Use personal progress messages, real-world examples, and reflection assignments to support online course satisfaction
 description: "The report identifies the online teaching practices most closely associated with greater student satisfaction during the COVID shift: \"sending personal messages to students about how they were doing in the course, usi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

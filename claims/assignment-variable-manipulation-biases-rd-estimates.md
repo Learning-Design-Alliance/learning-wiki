@@ -3,7 +3,7 @@ type: claim
 title: Manipulation of the assignment variable can substantially influence RD impact estimates, particularly when manipulation is related to the outcome and occurs close to the cutoff
 description: Manipulation of the assignment variable can substantially influence RD impact estimates, particularly when manipulation is related to the outcome and occurs close to the cutoff
 id: assignment-variable-manipulation-biases-rd-estimates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

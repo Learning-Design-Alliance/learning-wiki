@@ -3,7 +3,7 @@ type: claim
 title: AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention
 description: AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention
 id: ai-predictive-analytics-improves-academic-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

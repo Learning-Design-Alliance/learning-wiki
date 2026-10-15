@@ -3,7 +3,7 @@ type: claim
 title: Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)
 description: Adaptive AI feedback provides tailored scaffolding and AI simulates authentic interaction scenarios (Contextual Affordance Pathway)
 id: ai-contextual-affordances-scaffolding-simulation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

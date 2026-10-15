@@ -2,7 +2,7 @@
 type: theory
 title: Five commitments for an ecologically attuned critical communication pedagogy for the Anthropocene
 description: "The article proposes an approach to critical communication pedagogy contextualized by planetary ecological crisis, organized around five commitments: that \"Anthropocentrism and speciesism participate in the maintenanc..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

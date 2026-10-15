@@ -3,7 +3,7 @@ type: claim
 title: TK enrollment in California is projected to reach between 291,000 and 358,000 children by 2025–26 under three modeled uptake scenarios
 description: TK enrollment in California is projected to reach between 291,000 and 358,000 children by 2025–26 under three modeled uptake scenarios
 id: tk-enrollment-291k-358k-by-2025-26
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

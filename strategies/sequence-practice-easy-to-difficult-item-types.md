@@ -3,7 +3,7 @@ type: strategy
 id: sequence-practice-easy-to-difficult-item-types
 title: Sequence retrieval practice from less effortful item types (multiple choice, factual) to more effortful ones (short answer, applied) as learners reach mastery
 description: "This scheduling strategy uses the model's finding that easier items permit more successful practice while successful practice on more difficult items yields greater benefit."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

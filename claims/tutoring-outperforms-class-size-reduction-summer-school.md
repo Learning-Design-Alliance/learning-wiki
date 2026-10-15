@@ -3,7 +3,7 @@ type: claim
 title: "Tutoring programs consistently outperform common school-based alternatives such as class-size reduction and summer school, per the review's synthesis of Kraft"
 description: "Tutoring programs consistently outperform common school-based alternatives such as class-size reduction and summer school, per the review's synthesis of Kraft"
 id: tutoring-outperforms-class-size-reduction-summer-school
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

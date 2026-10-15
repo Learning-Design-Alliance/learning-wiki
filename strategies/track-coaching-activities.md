@@ -3,7 +3,7 @@ type: strategy
 id: track-coaching-activities
 title: Track coaching activities to support districtwide coaching implementation
 description: The brief recommends that districts implementing instructional coaching track coaching activities as part of a system of supports.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent
 description: Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent
 id: self-reported-jol-motivation-and-behaviour-change
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration
 description: Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration
 id: sel-classroom-approaches-three-types
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

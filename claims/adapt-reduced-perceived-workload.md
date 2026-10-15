@@ -3,7 +3,7 @@ type: claim
 title: Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows
 description: Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows
 id: adapt-reduced-perceived-workload
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

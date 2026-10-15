@@ -3,7 +3,7 @@ type: claim
 title: Syntactical noticing focuses mainly on sentence length and ways of connecting clauses
 description: Syntactical noticing focuses mainly on sentence length and ways of connecting clauses
 id: syntactical-noticing-sentence-length-connecting-clauses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

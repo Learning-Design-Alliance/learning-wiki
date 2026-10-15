@@ -3,7 +3,7 @@ type: claim
 title: "ReadAbout had a positive and significant impact in the study's second year among teachers with one year of experience using the intervention"
 description: "ReadAbout had a positive and significant impact in the study's second year among teachers with one year of experience using the intervention"
 id: readabout-positive-impact-second-year-experienced-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

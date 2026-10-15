@@ -3,7 +3,7 @@ type: claim
 title: Judgement is theorized as the evaluative locus of educational integrity within GenAI-augmented authorship
 description: Judgement is theorized as the evaluative locus of educational integrity within GenAI-augmented authorship
 id: judgement-locus-of-educational-integrity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: staged-disclosure-buffers-diagnostic-errors
 title: Use staged disclosure with early educator-authored content to buffer some LLM diagnostic errors
 description: The article recommends organizing LLM feedback so early stages rely mainly on educator-authored or template-based conceptual content, which can keep an incorrect localized correction hidden from students.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

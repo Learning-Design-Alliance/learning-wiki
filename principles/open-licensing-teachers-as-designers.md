@@ -3,7 +3,7 @@ type: principle
 id: open-licensing-teachers-as-designers
 title: "Use open-licensed educational computer models so anyone can freely access and modify resources, building teachers' professionalism as designers"
 description: The article argues that open source licensing of educational computer models/software has opened up tremendous opportunities for learning in the 21st century, since anyone can freely access and modify these resources...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: interdisciplinary-human-experience-studies-strategy
 title: Use studies of human experience across world societies with an interdisciplinary focus through grade eight
 description: The framework recommends implementing its goals through selected studies of human experience spanning American cultures and societies, European, African, Asian, Middle Eastern, and Pacific societies.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

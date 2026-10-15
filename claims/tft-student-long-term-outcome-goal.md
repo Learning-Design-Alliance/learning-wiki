@@ -3,7 +3,7 @@ type: claim
 title: "The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems"
 description: "The partnership's long-term goal is that students can solve fraction computation and ratio and rate problems"
 id: tft-student-long-term-outcome-goal
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

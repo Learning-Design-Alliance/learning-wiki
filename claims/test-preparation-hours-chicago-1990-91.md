@@ -3,7 +3,7 @@ type: claim
 title: Chicago elementary teachers spent an estimated 155,464 hours preparing students for standardized tests in 1990-1991
 description: Chicago elementary teachers spent an estimated 155,464 hours preparing students for standardized tests in 1990-1991
 id: test-preparation-hours-chicago-1990-91
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

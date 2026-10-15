@@ -3,7 +3,7 @@ type: strategy
 id: visual-explanation-tools-for-scarce-learning-resources
 title: Use visual explanation tools to support learning in communities with scarce tailored learning resources
 description: "The article recommends that visual explanation tools such as nev can serve learners where dedicated learning materials are lacking, concluding that \"visual explanation tools might alleviate the need for tailored learn..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

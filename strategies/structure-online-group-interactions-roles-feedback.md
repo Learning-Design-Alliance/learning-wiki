@@ -3,7 +3,7 @@ type: strategy
 id: structure-online-group-interactions-roles-feedback
 title: Structure online small group work to maximize meaningful exchanges, assign conversational roles, ensure question-and-answer opportunity, and provide instructor feedback
 description: "The article's implications section recommends that because text-based interaction is the entirety of communication in asynchronous classrooms, \"educators and instructional designers should provide structures that maxi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

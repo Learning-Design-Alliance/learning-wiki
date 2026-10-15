@@ -3,7 +3,7 @@ type: claim
 title: Teacher self-efficacy has its largest effect on perceived enjoyment of GenAI tools
 description: Teacher self-efficacy has its largest effect on perceived enjoyment of GenAI tools
 id: self-efficacy-drives-perceived-enjoyment-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

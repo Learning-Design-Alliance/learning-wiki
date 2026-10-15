@@ -3,7 +3,7 @@ type: claim
 title: "Norming-sample testing volume is concentrated in kindergarten and grade 1, which together account for more than 70% of test events"
 description: "Norming-sample testing volume is concentrated in kindergarten and grade 1, which together account for more than 70% of test events"
 id: spanish-foundational-skills-testing-volume-concentration
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

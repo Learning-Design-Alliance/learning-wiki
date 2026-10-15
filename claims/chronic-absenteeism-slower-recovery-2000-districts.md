@@ -3,7 +3,7 @@ type: claim
 title: NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery
 description: NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery
 id: chronic-absenteeism-slower-recovery-2000-districts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories"
 description: "LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories"
 id: scaffolding-associated-with-next-student-move
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

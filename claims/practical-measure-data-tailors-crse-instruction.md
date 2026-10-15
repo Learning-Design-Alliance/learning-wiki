@@ -3,7 +3,7 @@ type: claim
 title: Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction
 description: Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction
 id: practical-measure-data-tailors-crse-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

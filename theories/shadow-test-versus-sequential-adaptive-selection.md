@@ -2,7 +2,7 @@
 type: theory
 title: "Two adaptive item-selection architectures: sequential maximum-information selection (COLO) versus whole-test shadow-test assembly (CBE)"
 description: The report contrasts two fundamentally different adaptive testing architectures operating under the Rasch model.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: element
 id: structured-teacher-home-visits-family-engagement
 title: Structured relationship-building teacher home visits as a family engagement program component
 description: "The evaluated element is a family engagement program in which teachers conduct \"structured relationship-building teacher home visits\" with students in grades 1-5, delivered \"before the start of the school year\" in Dis..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

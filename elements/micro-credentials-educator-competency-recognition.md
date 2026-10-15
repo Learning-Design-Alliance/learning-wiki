@@ -3,7 +3,7 @@ type: element
 id: micro-credentials-educator-competency-recognition
 title: Micro-credentials as competency-verified recognition of educator professional learning
 description: Micro-credentials are a mechanism for recognizing specific competencies that support a student-centered classroom, such as checking for understanding, using exit tickets, using student data for decision making, or fac...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

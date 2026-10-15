@@ -3,7 +3,7 @@ type: claim
 title: The review finds a complex, mixed landscape of ITS effectiveness and a need for greater scientific rigor in experimental design and data analysis
 description: The review finds a complex, mixed landscape of ITS effectiveness and a need for greater scientific rigor in experimental design and data analysis
 id: its-effectiveness-mixed-landscape-rigor-need
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

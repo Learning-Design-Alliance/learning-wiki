@@ -3,7 +3,7 @@ type: research-method
 id: assessment-metadata-as-naturally-occurring-direct-sel-measurement
 title: Assessment metadata as naturally occurring direct SEL measurement
 description: The article proposes that assessment metadata — data about how students behave on a test or survey, including disengagement indicators — can function as naturally occurring, direct measures of social-emotional competencies, offering an alternative to deliberately administered SEL surveys.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

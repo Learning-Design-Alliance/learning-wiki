@@ -4,7 +4,7 @@ id: dataset-of-23-publicly-available-us-ai-assisted-software-engineering-course-
 title: Dataset of 23 publicly available U.S. AI-assisted software engineering course syllabi and materials
 description: A dataset compiled by Francis Geng et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: "Data-use cycle: collect and prepare data, interpret and hypothesize, modify instruction"
 description: "The guide frames using data to improve instruction as a cyclical process with three steps: \"Collect and prepare a variety of data about student learning\", \"Interpret data and develop hypotheses about how to improve st..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

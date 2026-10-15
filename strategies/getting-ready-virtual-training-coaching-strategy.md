@@ -3,7 +3,7 @@ type: strategy
 id: getting-ready-virtual-training-coaching-strategy
 title: Deliver Getting Ready educator training and coaching through virtual formats
 description: "The program's implementation model is a two-part virtual professional development strategy: educators first receive \"initial training and ongoing coaching to build program capacity.\" Initial training covers adult-chil..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

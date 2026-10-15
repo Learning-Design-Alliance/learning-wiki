@@ -3,7 +3,7 @@ type: claim
 title: Students rated the image decoding, poster sharing, and synthesis lecture components of a digital-images inquiry highest on a five-point feedback scale
 description: Students rated the image decoding, poster sharing, and synthesis lecture components of a digital-images inquiry highest on a five-point feedback scale
 id: digital-images-inquiry-student-feedback-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

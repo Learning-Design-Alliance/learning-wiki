@@ -3,7 +3,7 @@ type: claim
 title: "In the 2010 TIF pay-for-performance programs, over 60% of teachers received a bonus, with average bonuses of about $1,800 and top performers earning more than 3 times the average"
 description: "In the 2010 TIF pay-for-performance programs, over 60% of teachers received a bonus, with average bonuses of about $1,800 and top performers earning more than 3 times the average"
 id: tif-bonuses-easily-earned-top-performers-larger
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

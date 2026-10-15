@@ -3,7 +3,7 @@ type: claim
 title: Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users
 description: Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users
 id: chatbot-users-more-positive-than-non-users
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

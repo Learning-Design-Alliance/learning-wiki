@@ -3,7 +3,7 @@ type: claim
 title: Student-reported safety and classroom behavior are more positive in top-quartile schools, and students feel less safe outside school than inside
 description: Student-reported safety and classroom behavior are more positive in top-quartile schools, and students feel less safe outside school than inside
 id: student-safety-behavior-quartile-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

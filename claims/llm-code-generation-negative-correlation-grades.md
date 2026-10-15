@@ -3,7 +3,7 @@ type: claim
 title: LLM use for code generation is significantly negatively correlated with student final grades
 description: LLM use for code generation is significantly negatively correlated with student final grades
 id: llm-code-generation-negative-correlation-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

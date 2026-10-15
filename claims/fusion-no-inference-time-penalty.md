@@ -3,7 +3,7 @@ type: claim
 title: Adding the linguistic neural network to a transformer does not significantly change inference time (p = 0.244)
 description: Adding the linguistic neural network to a transformer does not significantly change inference time (p = 0.244)
 id: fusion-no-inference-time-penalty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

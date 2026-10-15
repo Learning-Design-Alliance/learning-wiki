@@ -3,7 +3,7 @@ type: claim
 title: Existing institutional AI literacy frameworks converge on a consumer model with no substantive treatment of training data politics or governance participation
 description: Existing institutional AI literacy frameworks converge on a consumer model with no substantive treatment of training data politics or governance participation
 id: existing-ai-literacy-frameworks-consumer-model
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

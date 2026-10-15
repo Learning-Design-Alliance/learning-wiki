@@ -3,7 +3,7 @@ type: claim
 title: Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest
 description: Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest
 id: expert-priority-hierarchy-ai-certificate-dimensions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

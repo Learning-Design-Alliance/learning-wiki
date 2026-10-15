@@ -4,7 +4,7 @@ id: self-regulated-strategy-development-srsd
 title: Self-Regulated Strategy Development (SRSD)
 description: Self-Regulated Strategy Development is a structured instructional framework developed by Karen Harris and Steven Graham for teaching academic strategies and self-regulation skills, especially in writing and other achievement domains.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

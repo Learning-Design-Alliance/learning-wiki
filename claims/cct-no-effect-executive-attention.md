@@ -3,7 +3,7 @@ type: claim
 title: CCT shows no significant effects on executive functions or attention in healthy older adults
 description: CCT shows no significant effects on executive functions or attention in healthy older adults
 id: cct-no-effect-executive-attention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

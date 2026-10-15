@@ -3,7 +3,7 @@ type: claim
 title: The variance-bias trade-off for late pretests is addressed both theoretically and empirically for several commonly used impact estimators
 description: The variance-bias trade-off for late pretests is addressed both theoretically and empirically for several commonly used impact estimators
 id: late-pretest-analyzed-for-several-estimators
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

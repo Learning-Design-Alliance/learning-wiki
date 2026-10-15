@@ -4,7 +4,7 @@ id: eele
 title: EELE
 description: The Environmental Education Learning Experience (EELE) is a field-trip curriculum package whose developers provide activities and curriculum-standards alignments for teachers.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

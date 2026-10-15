@@ -3,7 +3,7 @@ type: claim
 title: Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession
 description: Performance on final tests of learning is improved when multiple study sessions are spaced apart in time rather than massed in immediate succession
 id: spacing-improves-final-test-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

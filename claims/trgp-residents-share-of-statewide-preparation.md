@@ -3,7 +3,7 @@ type: claim
 title: TRGP-funded residents made up between 20 and 40 percent of all California residents between 2020-21 and 2022-23, and about 11 percent of teacher preparation completers self-identified as residency-prepared in 2022-23
 description: TRGP-funded residents made up between 20 and 40 percent of all California residents between 2020-21 and 2022-23, and about 11 percent of teacher preparation completers self-identified as residency-prepared in 2022-23
 id: trgp-residents-share-of-statewide-preparation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

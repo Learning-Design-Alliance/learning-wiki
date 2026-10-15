@@ -2,7 +2,7 @@
 type: claim
 title: Embodied dance improvisation supports physics engagement and sense-making
 id: embodied-dance-improvisation-supports-physics-engagement-and-sensemaking
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

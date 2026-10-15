@@ -3,7 +3,7 @@ type: claim
 title: No evidence found that particular student groups are disadvantaged in oral versus written assessments
 description: No evidence found that particular student groups are disadvantaged in oral versus written assessments
 id: no-group-disadvantage-oral-assessments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

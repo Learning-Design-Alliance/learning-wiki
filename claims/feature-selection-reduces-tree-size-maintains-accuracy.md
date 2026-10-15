@@ -3,7 +3,7 @@ type: claim
 title: CFS and GR feature selection shrink decision trees to 3.2-4.7 leaf nodes without degrading predictive performance
 description: CFS and GR feature selection shrink decision trees to 3.2-4.7 leaf nodes without degrading predictive performance
 id: feature-selection-reduces-tree-size-maintains-accuracy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

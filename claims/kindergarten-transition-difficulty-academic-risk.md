@@ -3,7 +3,7 @@ type: claim
 title: Difficulty adjusting to kindergarten and first grade can put young children at academic risk
 description: Difficulty adjusting to kindergarten and first grade can put young children at academic risk
 id: kindergarten-transition-difficulty-academic-risk
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

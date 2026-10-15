@@ -2,7 +2,7 @@
 type: claim
 title: "In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope"
 id: choice-rich-infrastructure-supports-productive-deviation-and-learning
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

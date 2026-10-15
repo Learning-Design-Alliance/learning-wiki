@@ -3,7 +3,7 @@ type: claim
 title: No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity
 description: No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity
 id: macrostructure-stable-across-language-groups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

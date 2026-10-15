@@ -3,7 +3,7 @@ type: claim
 title: Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism
 description: Hypertextuality extends intertextuality into the digital world, foreshadowing connectivism
 id: hypertextuality-digitizes-intertextuality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: TAP produced no measurable impacts on student test scores through March of the start-up year
 description: TAP produced no measurable impacts on student test scores through March of the start-up year
 id: tap-no-test-score-impact-year-one
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

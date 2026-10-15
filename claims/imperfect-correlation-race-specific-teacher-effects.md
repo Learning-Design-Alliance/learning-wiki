@@ -3,7 +3,7 @@ type: claim
 title: Teacher effectiveness for Black students is only imperfectly correlated with effectiveness for non-Black students (correlations between 0.28 and 0.67 depending on subject and grade level)
 description: Teacher effectiveness for Black students is only imperfectly correlated with effectiveness for non-Black students (correlations between 0.28 and 0.67 depending on subject and grade level)
 id: imperfect-correlation-race-specific-teacher-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

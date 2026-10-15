@@ -3,7 +3,7 @@ type: claim
 title: The Heising-Simons Foundation funded family engagement providers to develop, test, and integrate research-based early math projects within existing family engagement programs
 description: The Heising-Simons Foundation funded family engagement providers to develop, test, and integrate research-based early math projects within existing family engagement programs
 id: heising-simons-funded-early-math-family-engagement-projects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.
 description: Existing KT methods fail to beat a majority-class baseline on the small CoMTA dialogue dataset but perform significantly better on the larger MathDial dataset.
 id: existing-kt-methods-fail-on-small-comta-but-improve-with-more-data-on-mathdial
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

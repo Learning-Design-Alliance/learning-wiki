@@ -3,7 +3,7 @@ type: strategy
 id: situated-context-triggered-language-learning
 title: "Embed situated, context-triggered language learning activities in learners' everyday environments"
 description: "The article recommends designing mobile language learning so that learning activities are triggered by and coupled to the learner's real-world context, using location-aware features such as geo-fence push notification..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

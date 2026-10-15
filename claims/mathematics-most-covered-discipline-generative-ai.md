@@ -3,7 +3,7 @@ type: claim
 title: "Mathematics is the most frequently covered STEM discipline (39%) in research on generative AI in secondary STEM education, followed by physics (24%) and science (19%)"
 description: "Mathematics is the most frequently covered STEM discipline (39%) in research on generative AI in secondary STEM education, followed by physics (24%) and science (19%)"
 id: mathematics-most-covered-discipline-generative-ai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

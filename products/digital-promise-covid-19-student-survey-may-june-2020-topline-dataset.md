@@ -4,7 +4,7 @@ id: digital-promise-covid-19-student-survey-may-june-2020-topline-dataset
 title: Digital Promise COVID-19 Student Survey (May-June 2020 topline dataset)
 description: "A national survey dataset and topline report produced for Digital Promise by Langer Research Associates with Ipsos Public Affairs, documenting college students' experiences of courses moved fully online during COVID-19."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

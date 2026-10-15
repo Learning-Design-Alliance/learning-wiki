@@ -3,7 +3,7 @@ type: claim
 title: Students with the same absence rates had higher GPAs (and in grades 7-8, higher test scores) in post-pandemic years than pre-pandemic years
 description: Students with the same absence rates had higher GPAs (and in grades 7-8, higher test scores) in post-pandemic years than pre-pandemic years
 id: higher-gpas-same-absence-post-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

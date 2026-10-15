@@ -3,7 +3,7 @@ type: claim
 title: Instructors frequently encounter suspected inappropriate AI use but lack confidence in their current investigation processes
 description: Instructors frequently encounter suspected inappropriate AI use but lack confidence in their current investigation processes
 id: instructors-lack-confidence-investigating-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

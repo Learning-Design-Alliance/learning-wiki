@@ -3,7 +3,7 @@ type: claim
 title: The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise
 description: The review reports that the isolated-elements mixed instructional method benefits novices but the benefit disappears for experienced learners, and that the imagination effect reverses with expertise
 id: expertise-reversal-isolated-elements-and-imagination-review
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

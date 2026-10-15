@@ -3,7 +3,7 @@ type: claim
 title: Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate
 description: Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate
 id: ninth-grade-early-outreach-keeps-students-on-track
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

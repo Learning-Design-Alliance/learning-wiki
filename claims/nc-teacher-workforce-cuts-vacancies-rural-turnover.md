@@ -3,7 +3,7 @@ type: claim
 title: "Budget cuts reduced North Carolina's teaching force by 5 percent from 2009 to 2018 even as enrollment grew, with rural districts losing more than 20 percent of teachers in a single year and 1,621 unfilled vacancies in 2017-18"
 description: "Budget cuts reduced North Carolina's teaching force by 5 percent from 2009 to 2018 even as enrollment grew, with rural districts losing more than 20 percent of teachers in a single year and 1,621 unfilled vacancies in..."
 id: nc-teacher-workforce-cuts-vacancies-rural-turnover
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

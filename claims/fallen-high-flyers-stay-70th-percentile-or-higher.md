@@ -3,7 +3,7 @@ type: claim
 title: High-achieving students who fell below the 90th percentile typically stayed at the 70th percentile or higher
 description: High-achieving students who fell below the 90th percentile typically stayed at the 70th percentile or higher
 id: fallen-high-flyers-stay-70th-percentile-or-higher
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

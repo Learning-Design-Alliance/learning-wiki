@@ -3,7 +3,7 @@ type: claim
 title: Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.
 description: Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.
 id: prompt-optimization-improves-accuracy-expertise-still-needed
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

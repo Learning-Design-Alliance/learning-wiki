@@ -4,7 +4,7 @@ id: universal-design-for-learning-udl-framework
 title: Universal Design for Learning (UDL) framework
 description: "CAST's framework for designing flexible instruction around learner variability through multiple means of Engagement, Representation, and Action & Expression."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

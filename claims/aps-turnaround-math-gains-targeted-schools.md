@@ -3,7 +3,7 @@ type: claim
 title: After two years, the Turnaround Strategy is producing improvements in math performance in targeted schools, with no evidence of positive impacts on other student outcomes
 description: After two years, the Turnaround Strategy is producing improvements in math performance in targeted schools, with no evidence of positive impacts on other student outcomes
 id: aps-turnaround-math-gains-targeted-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: The deployed empirically motivated weight vector outperforms equal, empathy-only, and exploration-only weightings in evaluator agreement, with exploration carrying most of the adaptive signal
 description: The deployed empirically motivated weight vector outperforms equal, empathy-only, and exploration-only weightings in evaluator agreement, with exploration carrying most of the adaptive signal
 id: avp-weight-ablation-exploration-dominant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

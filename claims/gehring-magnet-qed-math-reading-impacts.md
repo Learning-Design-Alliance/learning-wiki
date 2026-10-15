@@ -3,7 +3,7 @@ type: claim
 title: Attendance at Gehring STEM Academy had statistically significant positive impacts on mathematics and reading achievement in grades 1-5 after up to 1.5 years, with no significant science impacts
 description: Attendance at Gehring STEM Academy had statistically significant positive impacts on mathematics and reading achievement in grades 1-5 after up to 1.5 years, with no significant science impacts
 id: gehring-magnet-qed-math-reading-impacts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

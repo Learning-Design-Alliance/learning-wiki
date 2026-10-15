@@ -3,7 +3,7 @@ type: design
 id: genai-emerging-knowledge-tracking-mechanism
 title: "Emerging-knowledge tracking mechanism: generative AI reduces the time lag between textbook updates and business practice"
 description: "The second of the article's three proposed mechanisms."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

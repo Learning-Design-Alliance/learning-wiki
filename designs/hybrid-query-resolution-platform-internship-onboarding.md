@@ -3,7 +3,7 @@ type: design
 id: hybrid-query-resolution-platform-internship-onboarding
 title: Hybrid query-resolution platform routing queries across AI assistant, peer layer, curated FAQ corpus and administrator escalation
 description: "A deployed support platform for a large online internship programme that routes each raised query across four paths: an AI chatbot answering only from a curated FAQ corpus, a peer layer where any participant may answe..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

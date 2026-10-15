@@ -3,7 +3,7 @@ type: claim
 title: More instructional time spent on causal mechanistic reasoning correlated with a higher percentage of student responses using causal mechanistic reasoning on phenomenon-based tasks
 description: More instructional time spent on causal mechanistic reasoning correlated with a higher percentage of student responses using causal mechanistic reasoning on phenomenon-based tasks
 id: instructional-cmr-time-correlates-student-cmr
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

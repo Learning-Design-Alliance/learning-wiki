@@ -3,7 +3,7 @@ type: claim
 title: Short chunking study outlines produce higher test performance than long chunking study outlines
 description: Short chunking study outlines produce higher test performance than long chunking study outlines
 id: short-cso-improves-test-performance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

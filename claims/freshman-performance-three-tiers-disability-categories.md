@@ -3,7 +3,7 @@ type: claim
 title: Freshman-year performance of Chicago ninth-graders falls into three tiers, with students two or more years below grade level and students with emotional disturbances performing worst across GPA, course failures, absences, and on-track status
 description: Freshman-year performance of Chicago ninth-graders falls into three tiers, with students two or more years below grade level and students with emotional disturbances performing worst across GPA, course failures, absen...
 id: freshman-performance-three-tiers-disability-categories
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

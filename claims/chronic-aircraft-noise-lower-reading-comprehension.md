@@ -3,7 +3,7 @@ type: claim
 title: Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship
 description: Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship
 id: chronic-aircraft-noise-lower-reading-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

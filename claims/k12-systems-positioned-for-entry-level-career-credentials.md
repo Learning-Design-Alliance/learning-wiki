@@ -3,7 +3,7 @@ type: claim
 title: The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment
 description: The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment
 id: k12-systems-positioned-for-entry-level-career-credentials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ id: sine
 title: SINE
 description: SINE is a domain-agnostic pipeline that uses an open-weight language model, deterministic validation, and automated repair to generate playable choice-based interactive-fiction scenarios from structured educational content.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

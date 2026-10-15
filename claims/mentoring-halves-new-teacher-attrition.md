@@ -3,7 +3,7 @@ type: claim
 title: New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners
 description: New teachers who receive little mentoring are twice as likely to leave the classroom as well-mentored beginners
 id: mentoring-halves-new-teacher-attrition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

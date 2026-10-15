@@ -3,7 +3,7 @@ type: claim
 title: Academic burnout is widespread among secondary vocational students
 description: Academic burnout is widespread among secondary vocational students
 id: academic-burnout-widespread-vocational-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "Online attrition during Orientation Week is twice that of onground classes' first week"
 description: "Online attrition during Orientation Week is twice that of onground classes' first week"
 id: orientation-week-attrition-double-online
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

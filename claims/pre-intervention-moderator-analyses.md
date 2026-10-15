@@ -3,7 +3,7 @@ type: claim
 title: Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented
 description: Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented
 id: pre-intervention-moderator-analyses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful
 description: Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful
 id: mc-testing-effect-and-net-harm-boundary
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

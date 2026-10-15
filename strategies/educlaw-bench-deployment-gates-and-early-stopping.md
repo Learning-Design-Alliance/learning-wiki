@@ -3,7 +3,7 @@ type: strategy
 id: educlaw-bench-deployment-gates-and-early-stopping
 title: Pre-deployment gate and per-epoch helpfulness rollback for vendors shipping LLM tutors to K-12 learners
 description: "The article turns its results into deployment guidance: a pre-deployment safety gate a vendor can add to a CI pipeline (block on hand-over rate above baseline, warn if Helpfulness is below 5.5, treat ∆Solve Rate as a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

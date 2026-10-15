@@ -3,7 +3,7 @@ type: strategy
 id: four-recommendations-exploratory-research-support
 title: Four field-level recommendations for supporting exploratory, interdisciplinary research on emerging learning technologies
 description: Based on the thematic analysis of PI interviews, the report recommends four actions for funders and the field.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

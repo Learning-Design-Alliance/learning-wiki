@@ -3,7 +3,7 @@ type: claim
 title: During COVID-19 school disruptions, schools can take steps to ensure students continue to progress academically whether at home or at school
 description: During COVID-19 school disruptions, schools can take steps to ensure students continue to progress academically whether at home or at school
 id: covid-continuity-of-learning-steps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

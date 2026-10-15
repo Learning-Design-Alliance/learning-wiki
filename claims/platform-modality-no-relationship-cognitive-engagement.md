@@ -3,7 +3,7 @@ type: claim
 title: "Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics"
 description: "Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics"
 id: platform-modality-no-relationship-cognitive-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

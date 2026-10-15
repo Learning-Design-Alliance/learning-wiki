@@ -3,7 +3,7 @@ type: claim
 title: "Grounded theory analysis of professor interviews identifies five functional domains of graduate students' generative AI literacy"
 description: "Grounded theory analysis of professor interviews identifies five functional domains of graduate students' generative AI literacy"
 id: five-functional-domains-genai-literacy-graduate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

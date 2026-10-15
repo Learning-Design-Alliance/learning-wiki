@@ -3,7 +3,7 @@ type: claim
 title: Test engagement was high across all grades on fall 2020 MAP Growth tests in both administration modes
 description: Test engagement was high across all grades on fall 2020 MAP Growth tests in both administration modes
 id: map-growth-fall-2020-high-test-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

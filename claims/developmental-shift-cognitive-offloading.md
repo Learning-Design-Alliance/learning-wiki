@@ -3,7 +3,7 @@ type: claim
 title: "Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them"
 description: "Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them"
 id: developmental-shift-cognitive-offloading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: genai-steam-integration-strategies
 title: "Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy"
 description: "The review recommends a set of classroom strategies: AI-assisted lesson planning anchored in learning outcomes, disciplinary concepts, and assessment evidence; differentiated materials tied to common conceptual goals;..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

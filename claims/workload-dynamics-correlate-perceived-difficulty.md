@@ -3,7 +3,7 @@ type: claim
 title: Workload variability and slope metrics correlate strongly with perceived course difficulty
 description: Workload variability and slope metrics correlate strongly with perceived course difficulty
 id: workload-dynamics-correlate-perceived-difficulty
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

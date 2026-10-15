@@ -3,7 +3,7 @@ type: claim
 title: In the Vaughn, Mathes, et al. (2006) trial, Enhanced Proactive Reading students significantly outperformed comparison students on Word Attack and Passage Comprehension
 description: In the Vaughn, Mathes, et al.
 id: enhanced-proactive-reading-significant-word-attack-passage-comprehension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

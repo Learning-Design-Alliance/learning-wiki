@@ -3,7 +3,7 @@ type: strategy
 id: hybrid-gai-traditional-dst-approach
 title: Combine GAI tools with traditional methods in a hybrid approach to balance efficient collaboration and critical evaluation
 description: The article recommends a hybrid approach in which GAI tools streamline collaborative production while traditional methods preserve deeper critical engagement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Long-term effects of grading mismatch are smaller and more nuanced than those of persistent effects
 description: Long-term effects of grading mismatch are smaller and more nuanced than those of persistent effects
 id: grading-mismatch-long-term-effects-smaller-nuanced
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

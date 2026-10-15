@@ -3,7 +3,7 @@ type: claim
 title: Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)
 description: Experimental-group students held more positive attitudes toward flexible hypertext course design than control-group students toward direct design (t = 4.723)
 id: cft-hypertext-design-more-positive-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

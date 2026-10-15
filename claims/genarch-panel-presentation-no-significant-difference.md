@@ -3,7 +3,7 @@ type: claim
 title: Blinded panel ratings of design presentations did not differ significantly between GenARch and Control teams
 description: Blinded panel ratings of design presentations did not differ significantly between GenARch and Control teams
 id: genarch-panel-presentation-no-significant-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

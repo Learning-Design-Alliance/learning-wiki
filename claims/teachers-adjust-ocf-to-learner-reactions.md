@@ -3,7 +3,7 @@ type: claim
 title: Teachers adjusted their OCF provision in response to learner reactions, providing feedback when accepted and stopping when it was challenged or ignored
 description: Teachers adjusted their OCF provision in response to learner reactions, providing feedback when accepted and stopping when it was challenged or ignored
 id: teachers-adjust-ocf-to-learner-reactions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

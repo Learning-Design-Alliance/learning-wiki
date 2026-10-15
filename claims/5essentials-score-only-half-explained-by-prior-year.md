@@ -3,7 +3,7 @@ type: claim
 title: "Only 50% of a school's 5Essentials score is explained by the previous year's score, indicating substantial year-to-year malleability of school climate"
 description: "Only 50% of a school's 5Essentials score is explained by the previous year's score, indicating substantial year-to-year malleability of school climate"
 id: 5essentials-score-only-half-explained-by-prior-year
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

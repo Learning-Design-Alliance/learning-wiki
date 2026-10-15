@@ -3,7 +3,7 @@ type: claim
 title: Students raise privacy concerns about classroom speech data while teachers initially interpret CoBi as a performance-monitoring device
 description: Students raise privacy concerns about classroom speech data while teachers initially interpret CoBi as a performance-monitoring device
 id: cobi-privacy-and-performance-monitoring-concerns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

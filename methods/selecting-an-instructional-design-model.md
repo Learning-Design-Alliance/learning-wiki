@@ -3,7 +3,7 @@ type: method
 id: selecting-an-instructional-design-model
 title: Selecting an Instructional Design Model
 description: Choosing, adapting or combining an instructional design model for a project. ADDIE is treated as the underlying process and each model as a context-specific instance of it, chosen by delivery format and by what the project must produce.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

@@ -3,7 +3,7 @@ type: claim
 title: U.S. public school closure rates dipped during the pandemic and rebounded to essentially pre-pandemic levels by 2024-25
 description: U.S.
 id: closure-rate-dip-rebound-post-pandemic
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

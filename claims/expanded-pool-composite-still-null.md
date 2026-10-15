@@ -3,7 +3,7 @@ type: claim
 title: Adding a cross-factor composite from a teacher study yields r = .079, still with an interval including zero, and latent profiles reveal over- and underestimation of competence
 description: Adding a cross-factor composite from a teacher study yields r = .079, still with an interval including zero, and latent profiles reveal over- and underestimation of competence
 id: expanded-pool-composite-still-null
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

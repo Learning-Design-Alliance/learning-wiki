@@ -3,7 +3,7 @@ type: research-method
 id: improvement-rate-difference-meta-analysis
 title: Improvement Rate Difference meta-analysis
 description: "This element is the meta-analysis itself: the authors synthesized \"Twenty-four single-case studies\" on aided AAC with individuals with ASD \"via an effect size measure, the Improvement Rate Difference (IRD).\" The IRD is used to quantify improvement across single-case designs, a literature base the au"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-14

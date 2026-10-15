@@ -3,7 +3,7 @@ type: element
 id: essa-transition-title-i-title-ii-a-survey
 title: State and district survey of Title I and Title II-A implementation under the ESSA transition
 description: A survey-based data collection examining how key policies and initiatives related to two large ESEA programs were implemented in 2017–18.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

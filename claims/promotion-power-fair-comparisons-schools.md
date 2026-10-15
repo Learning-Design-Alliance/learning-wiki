@@ -3,7 +3,7 @@ type: claim
 title: Promotion power measures are designed to permit fair comparisons of schools serving different student populations
 description: Promotion power measures are designed to permit fair comparisons of schools serving different student populations
 id: promotion-power-fair-comparisons-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

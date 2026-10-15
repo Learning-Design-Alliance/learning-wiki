@@ -3,7 +3,7 @@ type: claim
 title: "The evidence base for the Lovaas Model is small: only two of 58 reviewed studies met WWC evidence standards"
 description: "The evidence base for the Lovaas Model is small: only two of 58 reviewed studies met WWC evidence standards"
 id: lovaas-model-evidence-base-small-two-studies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

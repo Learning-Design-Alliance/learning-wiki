@@ -3,7 +3,7 @@ type: claim
 title: Students delayed by promotion gates recovered on-schedule status more easily than those delayed by course failure
 description: Students delayed by promotion gates recovered on-schedule status more easily than those delayed by course failure
 id: gate-delays-easier-to-recover-than-course-failure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

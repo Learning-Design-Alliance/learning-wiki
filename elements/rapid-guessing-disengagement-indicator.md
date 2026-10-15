@@ -3,7 +3,7 @@ type: element
 id: rapid-guessing-disengagement-indicator
 title: Rapid-guessing behavior as a validated indicator of test-taking disengagement on state summative assessments
 description: "The study identifies disengaged test taking through rapid-guessing behavior, which the article describes as \"a validated indicator of disengagement\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

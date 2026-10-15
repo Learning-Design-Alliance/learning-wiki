@@ -2,7 +2,7 @@
 type: theory
 title: "Bloom's Taxonomy cognitive domain as a six-level framework for classifying examination questions"
 description: "The article uses Bloom's cognitive domain, established by Benjamin Bloom in 1956, as the organizing framework for analyzing assessment."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

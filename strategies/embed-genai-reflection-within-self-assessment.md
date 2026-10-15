@@ -3,7 +3,7 @@ type: strategy
 id: embed-genai-reflection-within-self-assessment
 title: Embed GenAI-focused reflection within self-assessment as a pedagogical strategy for ethical inquiry
 description: "The article recommends embedding GenAI-focused reflection within self-assessment, stating this \"reframes ethical inquiry as a pedagogical strategy\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

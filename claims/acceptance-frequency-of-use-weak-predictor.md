@@ -3,7 +3,7 @@ type: claim
 title: Acceptance scores are broadly held across learner characteristics, with frequency of use the only significant and weak predictor
 description: Acceptance scores are broadly held across learner characteristics, with frequency of use the only significant and weak predictor
 id: acceptance-frequency-of-use-weak-predictor
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

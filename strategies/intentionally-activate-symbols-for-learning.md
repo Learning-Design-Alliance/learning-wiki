@@ -3,7 +3,7 @@ type: strategy
 id: intentionally-activate-symbols-for-learning
 title: Intentionally activate symbols so they assist transformative learning
 description: "Following Boyd and Myers's priority of identifying symbols critical to the learning undertaken, the article recommends deliberately activating symbols in embodied creative work."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

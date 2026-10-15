@@ -3,7 +3,7 @@ type: claim
 title: Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher
 description: Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher
 id: job-embedded-coaching-active-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

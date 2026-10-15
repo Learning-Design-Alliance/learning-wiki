@@ -3,7 +3,7 @@ type: claim
 title: Items ranked from easiest to most difficult are identical under CTT and MFRM
 description: Items ranked from easiest to most difficult are identical under CTT and MFRM
 id: identical-item-difficulty-ranking-ctt-mfrm
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

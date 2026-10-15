@@ -3,7 +3,7 @@ type: strategy
 id: methodological-summary-for-survey-data-collection
 title: Document survey data collection procedures and results in a methodological summary
 description: "The article models the practice of publishing a methodological summary alongside a survey: \"This report summarizes the College Experiences Survey data collection procedures and results.\" Such documentation makes the d..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

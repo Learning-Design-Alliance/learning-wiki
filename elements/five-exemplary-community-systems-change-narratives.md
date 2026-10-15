@@ -3,7 +3,7 @@ type: element
 id: five-exemplary-community-systems-change-narratives
 title: Narratives from five exemplary communities illustrating systems change components in practice
 description: "The brief includes practice narratives from \"five exemplary communities that have embarked on systems change efforts,\" used to show \"how these components play out in practice.\" These narratives serve as illustrative c..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

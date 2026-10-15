@@ -3,7 +3,7 @@ type: claim
 title: The evidence base for school mindfulness interventions is heterogeneous and many studies are underpowered
 description: The evidence base for school mindfulness interventions is heterogeneous and many studies are underpowered
 id: mindfulness-schools-heterogeneous-underpowered
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

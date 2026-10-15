@@ -3,7 +3,7 @@ type: claim
 title: "Single composite accountability indicators are susceptible to gaming and Campbell's Law corruption pressures"
 description: "Single composite accountability indicators are susceptible to gaming and Campbell's Law corruption pressures"
 id: composite-indicators-gaming-campbells-law
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator"
 description: "Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator"
 id: student-critical-ai-role-expectations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

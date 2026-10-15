@@ -3,7 +3,7 @@ type: strategy
 id: mitigate-llm-hint-errors-before-deployment
 title: Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source
 description: The article recommends that educators and system designers not integrate raw LLM output into pedagogy without error mitigation or awareness of domain-specific error rates.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

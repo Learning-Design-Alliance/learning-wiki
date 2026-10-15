@@ -3,7 +3,7 @@ type: claim
 title: The Bayesian adaptive design can produce better inference and ultimately smaller trials under identifiable conditions
 description: The Bayesian adaptive design can produce better inference and ultimately smaller trials under identifiable conditions
 id: bayesian-adaptive-better-inference-smaller-trials
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

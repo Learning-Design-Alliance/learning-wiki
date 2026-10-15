@@ -3,7 +3,7 @@ type: strategy
 id: alternative-special-education-cost-containment
 title: Contain special education costs through approaches other than census funding while maintaining quality programs
 description: "Beyond census funding, the brief \"describes other ways in which states and districts may be able to contain special education costs while maintaining quality programs.\" These alternatives are offered to states and dis..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

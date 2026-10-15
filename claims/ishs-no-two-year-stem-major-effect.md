@@ -3,7 +3,7 @@ type: claim
 title: Attending an inclusive STEM high school is not associated with declaring a STEM major at a two-year college
 description: Attending an inclusive STEM high school is not associated with declaring a STEM major at a two-year college
 id: ishs-no-two-year-stem-major-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: strategy
 id: accessible-subscript-transcription-rules
 title: "Accessible subscript transcription rules: math-code single elements, text-code multi-letter labels, unstack stacked subscripts"
 description: "The v6m system instructions encode subscript elements semantically: bare numbers, single symbols, and single letters are coded as math so a screen reader reads them separately, while multi-letter labels are coded as t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

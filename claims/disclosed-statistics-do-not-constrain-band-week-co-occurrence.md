@@ -3,7 +3,7 @@ type: claim
 title: "The variation gap traces to what the generator was disclosed: no released statistic constrains which band and which week are zero together"
 description: "The variation gap traces to what the generator was disclosed: no released statistic constrains which band and which week are zero together"
 id: disclosed-statistics-do-not-constrain-band-week-co-occurrence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

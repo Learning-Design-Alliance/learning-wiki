@@ -3,7 +3,7 @@ type: claim
 title: Demand for Rhode Island charter seats surged, with 30,000 applications submitted for 2,500 available seats in 2024–2025
 description: Demand for Rhode Island charter seats surged, with 30,000 applications submitted for 2,500 available seats in 2024–2025
 id: ri-charter-demand-30000-applications-2500-seats
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

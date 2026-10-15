@@ -3,7 +3,7 @@ type: claim
 title: Evaluations of parent education initiatives using experiential methods found positive results for parents
 description: Evaluations of parent education initiatives using experiential methods found positive results for parents
 id: parent-education-experiential-evaluations-positive
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

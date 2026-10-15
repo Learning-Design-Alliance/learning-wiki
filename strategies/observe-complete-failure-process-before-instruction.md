@@ -3,7 +3,7 @@ type: strategy
 id: observe-complete-failure-process-before-instruction
 title: "Use examples of another student's complete failed problem-solving process prior to instruction as an implementable alternative to productive failure"
 description: "The article suggests that having students observe a model's complete problem-solving-and-failing process before instruction is an interesting addition for educational practice: it is \"easy to implement in online as we..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

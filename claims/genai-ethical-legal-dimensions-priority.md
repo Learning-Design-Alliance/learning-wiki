@@ -3,7 +3,7 @@ type: claim
 title: Students identify navigating ethical and legal dimensions of GenAI as a third priority area for curriculum development
 description: Students identify navigating ethical and legal dimensions of GenAI as a third priority area for curriculum development
 id: genai-ethical-legal-dimensions-priority
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

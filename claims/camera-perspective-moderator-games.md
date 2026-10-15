@@ -3,7 +3,7 @@ type: claim
 title: Third-person camera perspective games show significant learning benefits while first-person perspective games show no significant benefit
 description: Third-person camera perspective games show significant learning benefits while first-person perspective games show no significant benefit
 id: camera-perspective-moderator-games
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

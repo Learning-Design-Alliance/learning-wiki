@@ -4,7 +4,7 @@ id: mydigitalhand-mdh
 title: MyDigitalHand (MDH)
 description: MyDigitalHand is a ticketing platform that manages student help requests and teaching-staff interactions during office hours, as used in the studied CS2 course.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

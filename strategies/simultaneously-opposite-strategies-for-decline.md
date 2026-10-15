@@ -3,7 +3,7 @@ type: strategy
 id: simultaneously-opposite-strategies-for-decline
 title: "Implement simultaneously opposite strategies when institutions face decline: external entrepreneurship paired with internal stability"
 description: "The chapter offers tentative guidelines from the author's research on institutions under conditions of decline."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

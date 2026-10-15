@@ -3,7 +3,7 @@ type: claim
 title: The four-year CPS high school graduation rate rose from 62.3 percent for the 2008 cohort to an all-time high of 83.2 percent for the 2020 cohort
 description: The four-year CPS high school graduation rate rose from 62.3 percent for the 2008 cohort to an all-time high of 83.2 percent for the 2020 cohort
 id: cps-graduation-rate-62-to-83-2020
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

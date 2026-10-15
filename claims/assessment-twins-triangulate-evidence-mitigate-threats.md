@@ -3,7 +3,7 @@ type: claim
 title: The article argues that pairing GenAI-vulnerable assessment formats as twins mitigates validity threats by triangulating evidence
 description: The article argues that pairing GenAI-vulnerable assessment formats as twins mitigates validity threats by triangulating evidence
 id: assessment-twins-triangulate-evidence-mitigate-threats
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

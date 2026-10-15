@@ -3,7 +3,7 @@ type: strategy
 id: promotion-power-information-for-districts-parents
 title: Use promotion power measures as information for districts, schools, and parents about high school performance
 description: "The article presents measuring promotion power as a practice providing \"rich information about high school performance of value to districts, schools, and parents in Louisiana.\" It was conducted in partnership with th..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

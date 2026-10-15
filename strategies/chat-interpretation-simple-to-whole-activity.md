@@ -3,7 +3,7 @@ type: strategy
 id: chat-interpretation-simple-to-whole-activity
 title: Interpret CHAT study results by starting with simple start-to-finish change analysis, then working through relationships among activity elements
 description: "In Stage 7 of the research model, the article recommends an interpretation sequence for complex technology integration data: \"it is suggested that interpretation begins in simple terms and eventually considers the who..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

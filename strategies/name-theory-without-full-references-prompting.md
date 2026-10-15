@@ -3,7 +3,7 @@ type: strategy
 id: name-theory-without-full-references-prompting
 title: Name the target theory in the prompt without supplying full reference papers when practical, usable codebooks are the goal
 description: When prompting an LLM for theory-informed codebook development, specify the theoretical framework by name rather than pasting full papers or long reference lists.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

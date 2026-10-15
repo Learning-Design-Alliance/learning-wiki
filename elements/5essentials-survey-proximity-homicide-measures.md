@@ -3,7 +3,7 @@ type: element
 id: 5essentials-survey-proximity-homicide-measures
 title: 5Essentials Survey measures of school climate and organization
 description: "The 5Essentials Survey is completed every spring by students in grades 4-12 and all teachers in CPS pre-K-12 classrooms, plus key staff, and is \"designed to capture important elements of school climate and organizatio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

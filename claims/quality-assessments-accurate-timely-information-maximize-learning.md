@@ -3,7 +3,7 @@ type: claim
 title: The book argues that quality assessments can provide accurate and timely information to maximize student learning, in contrast to punitive testing rhetoric
 description: The book argues that quality assessments can provide accurate and timely information to maximize student learning, in contrast to punitive testing rhetoric
 id: quality-assessments-accurate-timely-information-maximize-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

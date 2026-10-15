@@ -3,7 +3,7 @@ type: claim
 title: "Half of reported developmental barriers stem from academic-related challenges (50.39%)"
 description: "Half of reported developmental barriers stem from academic-related challenges (50.39%)"
 id: academic-challenges-half-of-development-barriers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

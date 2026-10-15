@@ -3,7 +3,7 @@ type: claim
 title: Growth-score differences between CBE and COLO are small, exceeding 0.2 only in Reading Grades K–1 (favoring CBE) and Mathematics Grade 8 (favoring COLO)
 description: Growth-score differences between CBE and COLO are small, exceeding 0.2 only in Reading Grades K–1 (favoring CBE) and Mathematics Grade 8 (favoring COLO)
 id: map-growth-cbe-colo-growth-effect-sizes-small
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

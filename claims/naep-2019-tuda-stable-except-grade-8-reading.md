@@ -3,7 +3,7 @@ type: claim
 title: Among the 27 participating TUDA districts, mathematics and reading scores were relatively stable since 2017, with most declines in grade 8 reading
 description: Among the 27 participating TUDA districts, mathematics and reading scores were relatively stable since 2017, with most declines in grade 8 reading
 id: naep-2019-tuda-stable-except-grade-8-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

@@ -3,7 +3,7 @@ type: claim
 title: Poor labor market conditions lead to substitution from full-time to part-time graduate enrollment for both genders
 description: Poor labor market conditions lead to substitution from full-time to part-time graduate enrollment for both genders
 id: poor-labor-markets-shift-full-time-to-part-time-graduate-enrollment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -4,7 +4,7 @@ id: socratictestcom
 title: socratictest.com
 description: socratictest.com is a custom platform developed by Ilya Mikhelson to administer Socratic Test assessments with adaptive conversation, evidence logging, and human-AI grading workflows.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

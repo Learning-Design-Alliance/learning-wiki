@@ -3,7 +3,7 @@ type: claim
 title: "A threefold staff development plan of immersion, peer monitoring and review, and manual contribution supported instructors' implementation of cooperative learning structures"
 description: "A threefold staff development plan of immersion, peer monitoring and review, and manual contribution supported instructors' implementation of cooperative learning structures"
 id: threefold-cooperative-learning-staff-development-plan
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

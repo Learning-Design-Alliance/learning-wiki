@@ -3,7 +3,7 @@ type: strategy
 id: belief-level-interventions-ai-use-calibration
 title: Address AI-use miscalibration through belief-level interventions rather than mere exposure or surface-level nudges
 description: "Because the article found that experience with AI does not correct miscalibration but entrenches it, it recommends targeting people's beliefs about AI's efficiency gains."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

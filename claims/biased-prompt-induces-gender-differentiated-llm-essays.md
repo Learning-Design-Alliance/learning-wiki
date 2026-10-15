@@ -3,7 +3,7 @@ type: claim
 title: A gender-biased system prompt induces large gender-differentiated language in LLM-generated career essays, while a neutral prompt does not
 description: A gender-biased system prompt induces large gender-differentiated language in LLM-generated career essays, while a neutral prompt does not
 id: biased-prompt-induces-gender-differentiated-llm-essays
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

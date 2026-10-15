@@ -3,7 +3,7 @@ type: claim
 title: Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns
 description: Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns
 id: material-arrangement-affords-stability
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

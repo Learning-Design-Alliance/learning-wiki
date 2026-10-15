@@ -3,7 +3,7 @@ type: research-method
 id: basie
 title: BASIE
 description: BASIE (BAyeSian Interpretation of Estimates) is a framework for interpreting impact estimates from evaluations.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

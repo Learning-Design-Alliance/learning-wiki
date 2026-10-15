@@ -3,7 +3,7 @@ type: claim
 title: Class conditions—period, term, class size and subject—systematically shift grades, largely through attendance
 description: Class conditions—period, term, class size and subject—systematically shift grades, largely through attendance
 id: class-conditions-shift-grades
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

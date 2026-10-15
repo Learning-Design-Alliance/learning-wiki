@@ -3,7 +3,7 @@ type: strategy
 id: assessment-education-resources-for-educators
 title: Provide teachers, administrators, and educational leaders with practical resources and strategies for assessment use
 description: "The book's approach is to supply practical resources and strategies to education practitioners."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

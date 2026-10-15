@@ -3,7 +3,7 @@ type: claim
 title: Contextual diversity facilitates episodic recall but impairs recognition
 description: Contextual diversity facilitates episodic recall but impairs recognition
 id: cd-facilitates-recall-impairs-recognition
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

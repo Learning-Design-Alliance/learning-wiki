@@ -3,7 +3,7 @@ type: claim
 title: Emotion features improve tutor performance only when grounded in education-theory-based pedagogical strategies; emotion information alone misguides a smaller model
 description: Emotion features improve tutor performance only when grounded in education-theory-based pedagogical strategies; emotion information alone misguides a smaller model
 id: emotion-plus-theory-prompting-ablation-gain
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

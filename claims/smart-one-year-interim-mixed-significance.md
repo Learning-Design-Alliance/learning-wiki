@@ -3,7 +3,7 @@ type: claim
 title: After one year of SMART® intervention, only the fluency outcome was statistically significant, while alphabetics and comprehension effects were not
 description: After one year of SMART® intervention, only the fluency outcome was statistically significant, while alphabetics and comprehension effects were not
 id: smart-one-year-interim-mixed-significance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

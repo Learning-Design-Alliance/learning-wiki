@@ -3,7 +3,7 @@ type: claim
 title: "Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints"
 description: "Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints"
 id: genai-use-ethically-negotiated-entangled
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

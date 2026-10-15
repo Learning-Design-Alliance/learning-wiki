@@ -3,7 +3,7 @@ type: design
 id: genai-policy-co-design-module-activity
 title: "GenAI policy co-design module: guided inquiry activity with curated resources, individual policy design, and group discussion"
 description: A 3-4-week course module on GenAI in education within an undergraduate course, Technology and the Global Society.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

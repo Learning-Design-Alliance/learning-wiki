@@ -3,7 +3,7 @@ type: claim
 title: Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions
 description: Youth with an IEP became more engaged in school and extracurricular activities over the past decade, with little change in grade retention, suspensions, and expulsions
 id: iep-youth-increased-school-engagement-2003-2012
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

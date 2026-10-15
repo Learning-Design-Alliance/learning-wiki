@@ -3,7 +3,7 @@ type: claim
 title: Radiographers show substantial uncertainty about how localiser radiograph direction affects radiation dose and ATCM behaviour
 description: Radiographers show substantial uncertainty about how localiser radiograph direction affects radiation dose and ATCM behaviour
 id: localiser-direction-knowledge-gaps-radiographers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: research-method
 id: four-category-functional-classification-of-student-genai-use-learning-formatting-doing-tas
 title: Four-category functional classification of student GenAI use (Learning, Formatting, Doing Task, Feedback)
 description: "A descriptive coding framework developed inductively from students' mandatory GenAI-use declarations in the physics unit, classifying the \"clearly stated pedagogical function of each reported GenAI use\" into four themes: Learning (researching, understanding, conceptualising, refining understanding),"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: when-to-teach-algorithms-five-contexts
 title: Embed algorithmic thinking lessons across content, standalone, SEL, problem-based, and review contexts
 description: "The deck advises teachers on placement of algorithmic thinking lessons, listing that \"Teachers might use algorithmic thinking lessons when\" teaching their content, as a stand alone lesson, as a social emotional lesson..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

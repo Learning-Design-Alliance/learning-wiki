@@ -3,7 +3,7 @@ type: strategy
 id: criterion-then-systematic-practice-strategy
 title: Teach rules to metalinguistic criterion first, then schedule systematic comprehension and production practice
 description: "The article's instructional sequence: teach target rules and vocabulary explicitly, verify with metalinguistic tests until learners reach criterion, then engage learners in systematic, computer-controlled comprehensio..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

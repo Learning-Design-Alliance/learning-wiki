@@ -2,7 +2,7 @@
 type: theory
 title: A response-time-conditional approach to detecting disengaged survey responses
 description: The article presents a conditional approach to identifying disengaged survey responses in which results from a variety of detection methods are conditioned on response times.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

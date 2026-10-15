@@ -3,7 +3,7 @@ type: claim
 title: Chicago multi-grade charter high schools appear to increase the probability of graduating high school
 description: Chicago multi-grade charter high schools appear to increase the probability of graduating high school
 id: chicago-multigrade-charter-high-schools-graduation-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

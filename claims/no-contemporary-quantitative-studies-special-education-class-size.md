@@ -3,7 +3,7 @@ type: claim
 title: There are virtually no contemporary quantitative studies on the effects of small class sizes in special education, making meta-analysis impossible
 description: There are virtually no contemporary quantitative studies on the effects of small class sizes in special education, making meta-analysis impossible
 id: no-contemporary-quantitative-studies-special-education-class-size
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

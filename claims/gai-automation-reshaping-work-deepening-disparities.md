@@ -3,7 +3,7 @@ type: claim
 title: "The editorial argues AI will not have a negligible impact on the job market: automation driven by GAI is reshaping work and deepening economic disparities"
 description: "The editorial argues AI will not have a negligible impact on the job market: automation driven by GAI is reshaping work and deepening economic disparities"
 id: gai-automation-reshaping-work-deepening-disparities
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

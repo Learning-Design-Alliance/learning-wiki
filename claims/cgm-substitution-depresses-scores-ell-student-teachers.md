@@ -3,7 +3,7 @@ type: claim
 title: Using the Colorado Growth Model in place of a value-added model depresses evaluation scores for teachers with more English language learner students
 description: Using the Colorado Growth Model in place of a value-added model depresses evaluation scores for teachers with more English language learner students
 id: cgm-substitution-depresses-scores-ell-student-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

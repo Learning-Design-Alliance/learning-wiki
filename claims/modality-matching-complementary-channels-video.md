@@ -3,7 +3,7 @@ type: claim
 title: Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement
 description: Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement
 id: modality-matching-complementary-channels-video
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

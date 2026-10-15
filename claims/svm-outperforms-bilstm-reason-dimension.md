@@ -3,7 +3,7 @@ type: claim
 title: In the Reason dimension, the IndoBERT–SVM baseline outperformed all BiLSTM variants, achieving QWK 0.332
 description: In the Reason dimension, the IndoBERT–SVM baseline outperformed all BiLSTM variants, achieving QWK 0.332
 id: svm-outperforms-bilstm-reason-dimension
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

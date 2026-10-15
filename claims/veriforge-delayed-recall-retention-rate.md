@@ -3,7 +3,7 @@ type: claim
 title: "VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)"
 description: "VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)"
 id: veriforge-delayed-recall-retention-rate
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

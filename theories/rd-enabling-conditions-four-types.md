@@ -2,7 +2,7 @@
 type: theory
 title: "Four types of R&D enabling conditions in school systems: mindsets, behaviors and routines, structures and tools, and systems supports"
 description: "The report's framework identifies four condition types that school systems must shift to sustain R&D beyond isolated pilots."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

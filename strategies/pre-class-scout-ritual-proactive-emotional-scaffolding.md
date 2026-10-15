@@ -3,7 +3,7 @@ type: strategy
 id: pre-class-scout-ritual-proactive-emotional-scaffolding
 title: "Run a pre-class Scout ritual: identify 2-3 cognitive-emotional bottlenecks, prepare 1-2 interventions each, and anticipate logistical failures"
 description: "A three-step lesson-planning ritual requiring \"no more than 10-15 minutes\": identify the cognitive-emotional bottlenecks where mental friction will be highest, select or develop targeted micro-interventions written in..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

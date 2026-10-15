@@ -3,7 +3,7 @@ type: element
 id: adaboost-ensemble-of-logit-neural-network-brf
 title: AdaBoost meta-algorithm combining logit regression, neural networks, and bagged random forests
 description: "The EDS's prediction engine combines three classifiers — a logit model, a multilayer perceptron neural network trained with backpropagation, and a bagged random forest using the C4.5 algorithm — via the AdaBoost boost..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

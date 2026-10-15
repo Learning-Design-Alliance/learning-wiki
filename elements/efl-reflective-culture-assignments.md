@@ -3,7 +3,7 @@ type: element
 id: efl-reflective-culture-assignments
 title: "Reflective culture assignments: Identity wheel, reflective description, professional development context, past products reflection"
 description: "The study's data-collection and instructional toolkit comprised four named assignments plus reflective journals, think-aloud protocols, and reflective reading and discussions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

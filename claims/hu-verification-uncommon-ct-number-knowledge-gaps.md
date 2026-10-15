@@ -3,7 +3,7 @@ type: claim
 title: Routine post-acquisition verification of HU values is uncommon and knowledge of positioning effects on CT numbers is inconsistent
 description: Routine post-acquisition verification of HU values is uncommon and knowledge of positioning effects on CT numbers is inconsistent
 id: hu-verification-uncommon-ct-number-knowledge-gaps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

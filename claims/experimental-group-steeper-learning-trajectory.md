@@ -3,7 +3,7 @@ type: claim
 title: "In the 12-week quasi-experiment the experimental group's learning trajectory was significantly steeper than the control group's (group × time β = 0.52, 95% CI 0.31–0.73), with comparable baseline D-scores"
 description: "In the 12-week quasi-experiment the experimental group's learning trajectory was significantly steeper than the control group's (group × time β = 0.52, 95% CI 0.31–0.73), with comparable baseline D-scores"
 id: experimental-group-steeper-learning-trajectory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Teachers adjusted problem topics as the most common refinement move
 description: Teachers adjusted problem topics as the most common refinement move
 id: teachers-adjust-problem-topics-refinement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

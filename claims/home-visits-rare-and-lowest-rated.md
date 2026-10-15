@@ -3,7 +3,7 @@ type: claim
 title: Home visits are rarely offered and rated lowest of any engagement resource, with Black, Latino, and multilingual parents rating them less favorably
 description: Home visits are rarely offered and rated lowest of any engagement resource, with Black, Latino, and multilingual parents rating them less favorably
 id: home-visits-rare-and-lowest-rated
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

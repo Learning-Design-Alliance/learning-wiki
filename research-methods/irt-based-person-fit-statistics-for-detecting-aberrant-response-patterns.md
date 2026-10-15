@@ -3,7 +3,7 @@ type: research-method
 id: irt-based-person-fit-statistics-for-detecting-aberrant-response-patterns
 title: IRT-based person-fit statistics for detecting aberrant response patterns
 description: The paper proposes applying Item Response Theory and, within it, Person-Fit Statistics to educational assessment as a lens for detecting GenAI cheating.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

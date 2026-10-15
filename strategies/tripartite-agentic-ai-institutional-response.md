@@ -3,7 +3,7 @@ type: strategy
 id: tripartite-agentic-ai-institutional-response
 title: "Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training"
 description: "The review's central practical contribution is a tripartite framework for responsible integration of agentic AI in higher education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

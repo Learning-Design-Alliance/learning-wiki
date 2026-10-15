@@ -3,7 +3,7 @@ type: strategy
 id: three-strategies-teach-way-students-learn
 title: "Three-part instructional strategy: build community, scaffold inquiry-based instruction while reducing cognitive load, and explicitly develop skills, habits, and mindsets"
 description: "The report describes three key strategies Bronxdale teachers employ to teach the way students learn best: \"They build community that allows adults and students to know each other well; they design and implement inquir..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Despite skepticism about learning benefits, physics students report using LLMs regularly, motivated primarily by convenience and deadline pressure
 description: Despite skepticism about learning benefits, physics students report using LLMs regularly, motivated primarily by convenience and deadline pressure
 id: llm-use-motivated-by-convenience-and-deadlines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

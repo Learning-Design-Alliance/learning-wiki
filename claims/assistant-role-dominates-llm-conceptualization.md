@@ -3,7 +3,7 @@ type: claim
 title: Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments
 description: Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments
 id: assistant-role-dominates-llm-conceptualization
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

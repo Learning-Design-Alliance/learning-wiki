@@ -3,7 +3,7 @@ type: claim
 title: During revision, supported groups (AI, human expert, checklist) engage more in elaboration, organisation and orientation, while AI and human-expert groups read less than the control group
 description: During revision, supported groups (AI, human expert, checklist) engage more in elaboration, organisation and orientation, while AI and human-expert groups read less than the control group
 id: agent-support-srl-frequency-differences-revision
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

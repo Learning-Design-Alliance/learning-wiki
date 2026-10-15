@@ -3,7 +3,7 @@ type: element
 id: vivaldi-individual-school-report
 title: Vivaldi individual school report (Unit 8888) as a longitudinal outcome-tracking artifact
 description: "This artifact is a school-specific tracking report that follows one elementary school's graduates into Chicago Public Schools high schools and Academic Preparatory Centers."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

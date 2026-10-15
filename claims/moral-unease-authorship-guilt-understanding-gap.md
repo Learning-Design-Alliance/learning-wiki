@@ -3,7 +3,7 @@ type: claim
 title: Moral Unease, reported by 190 participants, reflects authorship guilt and a gap between AI output quality and actual understanding
 description: Moral Unease, reported by 190 participants, reflects authorship guilt and a gap between AI output quality and actual understanding
 id: moral-unease-authorship-guilt-understanding-gap
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions
 description: Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions
 id: metaphor-workshops-support-genai-sensemaking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: strategy
 id: cw-fit-session-frequency-fading-strategy
 title: Implement CW-FIT as 30- to 60-minute sessions three to four times per week, fading monitoring and rewards as behavior improves
 description: "The report's implementation guidance specifies that teachers implement CW-FIT during whole-class instruction or independent/small-group work, scheduling 30- to 60-minute sessions three to four times per week during pe..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

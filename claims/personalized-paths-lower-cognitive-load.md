@@ -3,7 +3,7 @@ type: claim
 title: Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes
 description: Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes
 id: personalized-paths-lower-cognitive-load
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

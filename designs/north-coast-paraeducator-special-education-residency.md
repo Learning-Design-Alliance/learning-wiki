@@ -3,7 +3,7 @@ type: design
 id: north-coast-paraeducator-special-education-residency
 title: "North Coast Teacher Residency Consortium: a half-time special education residency that lets paraeducators keep their salaries while training"
 description: The Humboldt County Office of Education and Humboldt State University launched this residency in fall 2019 to recruit existing special education paraeducators across 32 primarily rural districts.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

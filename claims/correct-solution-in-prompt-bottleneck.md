@@ -3,7 +3,7 @@ type: claim
 title: Providing the correct solution in the prompt improves LLM alignment with human-authored distractors, confirming correct-solution recovery as a primary bottleneck
 description: Providing the correct solution in the prompt improves LLM alignment with human-authored distractors, confirming correct-solution recovery as a primary bottleneck
 id: correct-solution-in-prompt-bottleneck
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

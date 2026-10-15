@@ -3,7 +3,7 @@ type: claim
 title: WISE Agent feedback significantly increased Truth-seeking and CT Self-confidence disposition scores
 description: WISE Agent feedback significantly increased Truth-seeking and CT Self-confidence disposition scores
 id: wise-agent-truth-seeking-self-confidence-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

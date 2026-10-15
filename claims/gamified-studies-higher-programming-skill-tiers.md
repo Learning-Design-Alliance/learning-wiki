@@ -3,7 +3,7 @@ type: claim
 title: Gamified robotics studies skew toward higher programming/software development skill tiers than GBL studies
 description: Gamified robotics studies skew toward higher programming/software development skill tiers than GBL studies
 id: gamified-studies-higher-programming-skill-tiers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

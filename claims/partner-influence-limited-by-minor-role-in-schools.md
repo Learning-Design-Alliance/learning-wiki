@@ -3,7 +3,7 @@ type: claim
 title: "External partners' influence is necessarily limited by their minor role in schools' attention and activity"
 description: "External partners' influence is necessarily limited by their minor role in schools' attention and activity"
 id: partner-influence-limited-by-minor-role-in-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

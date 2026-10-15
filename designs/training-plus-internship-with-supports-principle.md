@@ -3,7 +3,7 @@ type: design
 id: training-plus-internship-with-supports-principle
 title: Combine occupational training with an employer internship and layered supports to improve early career earnings for disadvantaged young adults
 description: The reviewed evidence indicates that a program model pairing full-time technical training with a subsequent employer internship, wrapped in advising, mentoring, stipends, and post-program placement services, can subst...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

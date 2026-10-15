@@ -3,7 +3,7 @@ type: claim
 title: Longer online reading times on unknown words are associated with higher vocabulary recall test scores
 description: Longer online reading times on unknown words are associated with higher vocabulary recall test scores
 id: longer-reading-times-linked-higher-recall
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

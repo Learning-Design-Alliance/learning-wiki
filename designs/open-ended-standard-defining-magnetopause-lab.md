@@ -3,7 +3,7 @@ type: design
 id: open-ended-standard-defining-magnetopause-lab
 title: Open-ended data-interpretation task in which students define their own standards for locating a boundary in simulation results
 description: In this lab pattern, students must determine the magnetopause location in simulation plots without a prescribed method.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

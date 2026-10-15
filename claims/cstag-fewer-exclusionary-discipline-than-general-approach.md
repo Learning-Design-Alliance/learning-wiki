@@ -3,7 +3,7 @@ type: claim
 title: Schools using the CSTAG model show fewer disciplinary infractions, suspensions, expulsions, and law enforcement actions than schools using general threat assessment approaches
 description: Schools using the CSTAG model show fewer disciplinary infractions, suspensions, expulsions, and law enforcement actions than schools using general threat assessment approaches
 id: cstag-fewer-exclusionary-discipline-than-general-approach
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

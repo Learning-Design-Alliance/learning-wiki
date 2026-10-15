@@ -3,7 +3,7 @@ type: strategy
 id: detect-and-intervene-on-rapid-guessing
 title: Use longitudinal disengagement findings to inform detection of rapid guessing and interventions to reduce its effect on observed achievement test scores
 description: "The authors draw practical implications from their longitudinal findings: because rapid guessing is largely state-like yet strongly tied to self-efficacy and self-management, detection and intervention efforts should..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

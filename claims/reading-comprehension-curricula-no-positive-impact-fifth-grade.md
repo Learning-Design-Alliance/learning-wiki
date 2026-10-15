@@ -3,7 +3,7 @@ type: claim
 title: "Four supplemental reading comprehension curricula had no positive impact on fifth-grade students' test scores, with negative impacts in some cases"
 description: "Four supplemental reading comprehension curricula had no positive impact on fifth-grade students' test scores, with negative impacts in some cases"
 id: reading-comprehension-curricula-no-positive-impact-fifth-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

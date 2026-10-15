@@ -3,7 +3,7 @@ type: element
 id: summer-counseling-intervention-element
 title: Summer counseling intervention for college-intending high school graduates
 description: "Summer counseling helps college-intending high school graduates complete the steps needed to matriculate, such as \"enrolling in courses, completing housing forms, registering for orientation, finalizing arrangements t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

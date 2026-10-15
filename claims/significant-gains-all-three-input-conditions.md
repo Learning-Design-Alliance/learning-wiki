@@ -3,7 +3,7 @@ type: claim
 title: All three input/interaction conditions produced significant gains in vocabulary recognition and acquisition of Japanese locative structures
 description: All three input/interaction conditions produced significant gains in vocabulary recognition and acquisition of Japanese locative structures
 id: significant-gains-all-three-input-conditions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs. AI teaching g = 0.69) that does not remain robust in multivariate meta-regression
 description: Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs.
 id: instructional-model-subgroup-nonrobust
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

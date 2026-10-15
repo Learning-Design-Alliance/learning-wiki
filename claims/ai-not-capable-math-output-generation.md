@@ -3,7 +3,7 @@ type: claim
 title: AI pilots found models not yet capable of high-quality math output generation, including multiple choice problems, coherent word problems, and math visuals
 description: AI pilots found models not yet capable of high-quality math output generation, including multiple choice problems, coherent word problems, and math visuals
 id: ai-not-capable-math-output-generation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

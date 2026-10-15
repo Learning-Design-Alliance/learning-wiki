@@ -3,7 +3,7 @@ type: claim
 title: Qualitative studies describe distress, relational disruption, and meaningful companion loss when chatbot use becomes emotionally significant
 description: Qualitative studies describe distress, relational disruption, and meaningful companion loss when chatbot use becomes emotionally significant
 id: qualitative-distress-companion-loss-emotionally-significant-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

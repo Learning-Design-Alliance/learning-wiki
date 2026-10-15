@@ -3,7 +3,7 @@ type: claim
 title: "Inadequate evidence synthesis skills left nearly 70% of pharmacy students and practitioners reporting lack of confidence in applying evidence in patient care"
 description: "Inadequate evidence synthesis skills left nearly 70% of pharmacy students and practitioners reporting lack of confidence in applying evidence in patient care"
 id: inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: strategy
 id: reverse-integration-attitude-strategy
 title: "Reverse integration: bring non-handicapped children into handicapped children's classrooms to build acceptance for LRE placement"
 description: The report describes reverse integration as an implementable technique for addressing attitudes so handicapped children are accepted in their least restrictive environment.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

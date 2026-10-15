@@ -3,7 +3,7 @@ type: claim
 title: "Jointly predicting courses and grades reduces grade-prediction MAE by 46.4% versus an identical Transformer that predicts grades only"
 description: "Jointly predicting courses and grades reduces grade-prediction MAE by 46.4% versus an identical Transformer that predicts grades only"
 id: joint-course-grade-prediction-halves-mae
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

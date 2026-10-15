@@ -3,7 +3,7 @@ type: claim
 title: The availability of AI assistants improved the quality of submitted admissions essays, particularly mechanical aspects and especially for international applicants
 description: The availability of AI assistants improved the quality of submitted admissions essays, particularly mechanical aspects and especially for international applicants
 id: ai-availability-improved-essay-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

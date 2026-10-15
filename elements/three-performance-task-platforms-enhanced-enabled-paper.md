@@ -3,7 +3,7 @@ type: element
 id: three-performance-task-platforms-enhanced-enabled-paper
 title: "Three performance task platforms: technology-enhanced, technology-enabled, and paper-and-pencil"
 description: "The study manipulated delivery of a mathematics performance task across three platforms: \"technology-enhanced (technology-based including animation and interactivity),\" \"technology-enabled (computer-based without incl..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

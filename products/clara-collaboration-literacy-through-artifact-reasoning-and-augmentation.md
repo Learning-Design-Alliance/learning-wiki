@@ -4,7 +4,7 @@ id: clara-collaboration-literacy-through-artifact-reasoning-and-augmentation
 title: CLARA (Collaboration Literacy through Artifact Reasoning and Augmentation)
 description: CLARA is an agentic analytics system developed by Dawei Xie and colleagues that transcribes discussions, generates and indexes collaboration artifacts, and provides artifact-grounded analyses for learners and educators.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

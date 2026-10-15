@@ -3,7 +3,7 @@ type: claim
 title: Broda et al. (2018) found indeterminate effects on GPA, full-time enrollment, and credits completed in a large randomized trial
 description: Broda et al.
 id: broda-2018-indeterminate-effects-large-trial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

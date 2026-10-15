@@ -3,7 +3,7 @@ type: claim
 title: High-then-high guidance produced stronger understanding of CVS than low-then-low guidance in third graders, including on a 5-month post-test
 description: High-then-high guidance produced stronger understanding of CVS than low-then-low guidance in third graders, including on a 5-month post-test
 id: hh-guidance-beats-ll-cvs-children
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

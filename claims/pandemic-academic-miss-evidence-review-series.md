@@ -3,7 +3,7 @@ type: claim
 title: "A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically"
 description: "A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically"
 id: pandemic-academic-miss-evidence-review-series
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

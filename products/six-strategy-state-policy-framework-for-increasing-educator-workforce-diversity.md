@@ -4,7 +4,7 @@ id: six-strategy-state-policy-framework-for-increasing-educator-workforce-divers
 title: Six-strategy state policy framework for increasing educator workforce diversity
 description: "An EdTrust policy framework that organizes state and district actions to increase the racial and cultural diversity of the educator workforce and improve students' access to diverse educators."
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Both learner groups were more successful on listening tasks requiring local understanding than on tasks requiring integration of information or inference
 description: Both learner groups were more successful on listening tasks requiring local understanding than on tasks requiring integration of information or inference
 id: local-understanding-easier-than-integration-inference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

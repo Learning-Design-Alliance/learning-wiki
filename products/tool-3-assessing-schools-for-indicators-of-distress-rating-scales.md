@@ -4,7 +4,7 @@ id: tool-3-assessing-schools-for-indicators-of-distress-rating-scales
 title: "Tool #3: Assessing Schools for Indicators of Distress rating scales"
 description: "Aimee Evan et al.'s rating-scale assessment helps charter school authorizers and schools evaluate organizational indicators of school distress using school-level evidence and reflection prompts."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: ELs lost more academic skill during summers than never-ELs in both math and reading
 description: ELs lost more academic skill during summers than never-ELs in both math and reading
 id: el-greater-summer-loss-both-subjects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

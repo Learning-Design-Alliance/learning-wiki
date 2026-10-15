@@ -3,7 +3,7 @@ type: claim
 title: Prompt-writing ability is a new feedback-eliciting capacity that shapes GenAI feedback engagement
 description: Prompt-writing ability is a new feedback-eliciting capacity that shapes GenAI feedback engagement
 id: prompt-writing-new-feedback-literacy-capacity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

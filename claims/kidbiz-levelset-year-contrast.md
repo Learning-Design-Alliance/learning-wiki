@@ -3,7 +3,7 @@ type: claim
 title: "Hill and Lenard (2016): LevelSet Lexile effects were negative in spring 2014 and positive in spring 2015"
 description: "Hill and Lenard (2016): LevelSet Lexile effects were negative in spring 2014 and positive in spring 2015"
 id: kidbiz-levelset-year-contrast
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

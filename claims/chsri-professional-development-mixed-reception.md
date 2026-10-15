@@ -3,7 +3,7 @@ type: claim
 title: Professional development from CHSRI and CPS is valued by some small-school staff but viewed by others as irrelevant, hard to schedule, and poorly connected to school needs
 description: Professional development from CHSRI and CPS is valued by some small-school staff but viewed by others as irrelevant, hard to schedule, and poorly connected to school needs
 id: chsri-professional-development-mixed-reception
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

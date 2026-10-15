@@ -3,7 +3,7 @@ type: strategy
 id: precursor-conditions-data-culture
 title: Establish precursor conditions — school vision, collaboration, equity focus, and supportive culture — to nurture a data-use culture
 description: The analyzed texts frequently discussed contextual aspects of schools that must be in place to establish and nurture a culture around data, which the authors label precursor conditions.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

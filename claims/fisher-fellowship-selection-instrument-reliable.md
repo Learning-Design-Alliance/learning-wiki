@@ -3,7 +3,7 @@ type: claim
 title: The Fisher Fellowship selection instrument is reliable, though three of 34 items had relatively low levels of one type of reliability
 description: The Fisher Fellowship selection instrument is reliable, though three of 34 items had relatively low levels of one type of reliability
 id: fisher-fellowship-selection-instrument-reliable
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

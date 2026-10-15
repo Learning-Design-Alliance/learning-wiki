@@ -3,7 +3,7 @@ type: strategy
 id: integrate-chatgpt-with-peer-feedback-essays
 title: Integrate ChatGPT as a feedback resource alongside peer feedback for essay writing in higher education
 description: "The article recommends combining ChatGPT-generated and peer-generated feedback for argumentative essay tasks in higher education, since the two sources show complementary strengths: ChatGPT provides extensive descript..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

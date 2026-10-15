@@ -2,7 +2,7 @@
 type: theory
 title: Systems-theory view of the infant as a competent adaptive system
 description: "The report adopts a conceptualization of the infant and young child as a \"controlled system\" in constant interaction with the environment, where mutual adaptation produces a fit that enables continuing growth."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

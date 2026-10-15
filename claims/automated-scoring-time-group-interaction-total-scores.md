@@ -3,7 +3,7 @@ type: claim
 title: Automated scoring practice produced a significant time × group interaction on total interpreting scores
 description: Automated scoring practice produced a significant time × group interaction on total interpreting scores
 id: automated-scoring-time-group-interaction-total-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

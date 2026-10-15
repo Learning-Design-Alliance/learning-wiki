@@ -3,7 +3,7 @@ type: claim
 title: "Stronger problem-solving capability predicts lower misconception faithfulness: flip rate under generic feedback correlates negatively with SFS (Pearson r = -0.94, p = 0.002)"
 description: "Stronger problem-solving capability predicts lower misconception faithfulness: flip rate under generic feedback correlates negatively with SFS (Pearson r = -0.94, p = 0.002)"
 id: model-capability-negatively-correlates-sfs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Dictionary-based SEANCE features yielded 21 nominally significant within-person associations with wearable outcomes, but none survived Bonferroni or FDR correction
 description: Dictionary-based SEANCE features yielded 21 nominally significant within-person associations with wearable outcomes, but none survived Bonferroni or FDR correction
 id: seance-nominal-associations-no-survivors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

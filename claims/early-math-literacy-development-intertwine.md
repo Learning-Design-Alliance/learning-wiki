@@ -3,7 +3,7 @@ type: claim
 title: Early math and literacy development intertwine in early childhood
 description: Early math and literacy development intertwine in early childhood
 id: early-math-literacy-development-intertwine
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

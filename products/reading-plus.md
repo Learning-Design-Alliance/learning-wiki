@@ -4,7 +4,7 @@ id: reading-plus
 title: Reading Plus
 description: Reading Plus® is a web-based individualized reading intervention platform developed and operated by Reading Plus® to provide scaffolded silent-reading practice, assessment, and progress monitoring for students.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

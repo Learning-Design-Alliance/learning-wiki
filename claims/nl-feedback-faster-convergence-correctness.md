@@ -3,7 +3,7 @@ type: claim
 title: Natural language AI feedback is associated with faster convergence to correct solutions
 description: Natural language AI feedback is associated with faster convergence to correct solutions
 id: nl-feedback-faster-convergence-correctness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -4,7 +4,7 @@ id: roads-to-success
 title: Roads to Success
 description: Roads to Success is a school and career planning programme that supports students in exploring careers, understanding pathways to career success, and developing school and career plans.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

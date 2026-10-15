@@ -3,7 +3,7 @@ type: claim
 title: "After formative intervention, the teacher's presentations shifted from instruction-only moves to including generative, confirming, reconstructing, and reorienting moves"
 description: "After formative intervention, the teacher's presentations shifted from instruction-only moves to including generative, confirming, reconstructing, and reorienting moves"
 id: epistemological-moves-shift-after-intervention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Ukrainian education managers' personal AI readiness significantly exceeds their perceived system readiness (d = 0.73)"
 description: "Ukrainian education managers' personal AI readiness significantly exceeds their perceived system readiness (d = 0.73)"
 id: personal-exceeds-system-ai-readiness-gap-managers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

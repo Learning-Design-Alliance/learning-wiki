@@ -3,7 +3,7 @@ type: claim
 title: Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems
 description: Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems
 id: distress-tolerance-uncertainty-intolerance-associations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools"
 description: "Variation across schools in principal-assigned professional practice ratings suggests principals' standards may not be fully consistent across schools"
 id: pittsburgh-principal-practice-ratings-vary-across-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

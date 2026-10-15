@@ -3,7 +3,7 @@ type: strategy
 id: arcs-relevance-strategies
 title: "ARCS relevance strategies: goal orientation, motive matching and familiarity"
 description: "Relevance is the second ARCS component, described as strategies \"that link to learners' needs, interests, and motives\"."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

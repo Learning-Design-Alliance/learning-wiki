@@ -3,7 +3,7 @@ type: claim
 title: Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty
 description: Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty
 id: coding-experience-correlates-ct-skills
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

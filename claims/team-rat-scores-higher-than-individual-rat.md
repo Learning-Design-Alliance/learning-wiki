@@ -3,7 +3,7 @@ type: claim
 title: Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module
 description: Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module
 id: team-rat-scores-higher-than-individual-rat
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

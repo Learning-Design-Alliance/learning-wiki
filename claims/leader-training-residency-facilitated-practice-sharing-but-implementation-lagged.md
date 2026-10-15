@@ -3,7 +3,7 @@ type: claim
 title: Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices
 description: Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices
 id: leader-training-residency-facilitated-practice-sharing-but-implementation-lagged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

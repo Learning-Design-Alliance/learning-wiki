@@ -3,7 +3,7 @@ type: claim
 title: GPT-4o mini achieved the lowest ACT balance MAE (6.12) in replicating human supervisor ratings across 49 full transcripts
 description: GPT-4o mini achieved the lowest ACT balance MAE (6.12) in replicating human supervisor ratings across 49 full transcripts
 id: gpt-4o-mini-lowest-act-balance-mae
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

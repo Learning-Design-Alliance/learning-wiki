@@ -3,7 +3,7 @@ type: claim
 title: Students with a better understanding of how AI systems work show higher academic self-efficacy
 description: Students with a better understanding of how AI systems work show higher academic self-efficacy
 id: ai-understanding-higher-self-efficacy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

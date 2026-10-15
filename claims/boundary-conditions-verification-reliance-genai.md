@@ -3,7 +3,7 @@ type: claim
 title: Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy
 description: Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy
 id: boundary-conditions-verification-reliance-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: early-warning-systems-time-management-strategy-use
 title: Use findings on strategy–time-management links to develop early warning systems and interventions promoting effective time management and strategy use in flipped classrooms
 description: The authors propose that their findings on how learning strategies and timing of enactment jointly relate to exam performance can inform the design of learning analytics supports for flipped classrooms.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

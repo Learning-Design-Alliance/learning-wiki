@@ -3,7 +3,7 @@ type: claim
 title: Task decomposition into three segments yields the highest-rated LLM-generated tutor training lessons, while single-step generation yields the lowest
 description: Task decomposition into three segments yields the highest-rated LLM-generated tutor training lessons, while single-step generation yields the lowest
 id: three-segment-decomposition-highest-rated-llm-lessons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

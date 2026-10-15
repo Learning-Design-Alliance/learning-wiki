@@ -3,7 +3,7 @@ type: claim
 title: "Faculty and student workshops diverged on pedagogical structure for project-based learning: instructor-driven formats versus student autonomy"
 description: "Faculty and student workshops diverged on pedagogical structure for project-based learning: instructor-driven formats versus student autonomy"
 id: divergence-structure-versus-autonomy-in-projects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

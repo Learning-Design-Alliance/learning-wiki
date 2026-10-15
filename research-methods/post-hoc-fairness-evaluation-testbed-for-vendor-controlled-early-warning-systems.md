@@ -3,7 +3,7 @@ type: research-method
 id: post-hoc-fairness-evaluation-testbed-for-vendor-controlled-early-warning-systems
 title: Post-hoc fairness evaluation testbed for vendor-controlled early-warning systems
 description: "The article built a comparative evaluation testbed simulating an institution's position under vendor procurement: a research replica EWS and six post-hoc fairness methods applied without accessing, modifying, or retraining the underlying model."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

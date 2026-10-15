@@ -3,7 +3,7 @@ type: research-method
 id: six-behaviour-spatial-pedagogy-coding-scheme-for-team-teaching
 title: Six-behaviour spatial pedagogy coding scheme for team teaching
 description: An observation coding scheme adapted from prior work that integrates spatial pedagogy space types with team-teaching research.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

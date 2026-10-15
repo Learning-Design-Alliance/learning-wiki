@@ -3,7 +3,7 @@ type: claim
 title: Bright Beginnings shows no discernible effects on preschool phonological processing (effect size -0.08, not statistically significant)
 description: Bright Beginnings shows no discernible effects on preschool phonological processing (effect size -0.08, not statistically significant)
 id: bright-beginnings-null-phonological-processing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: element
 id: iready-connect-platform-technology
 title: i-Ready Connect digital platform for teacher-facing content, with browser, SSO, and third-party integration requirements
 description: No technology is required for iRCL itself, but related teacher-facing content is accessed through the digital platform i-Ready Connect, which runs on Windows, MacOS, and Chromebook machines with browsers enabling Java...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

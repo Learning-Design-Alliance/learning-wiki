@@ -4,7 +4,7 @@ id: achieve3000
 title: Achieve3000
 description: Achieve3000® is a supplemental online literacy platform developed and provided by Achieve3000 that delivers differentiated nonfiction reading and writing instruction for learners from preK through grade 12.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

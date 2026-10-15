@@ -3,7 +3,7 @@ type: claim
 title: "Strategic non-intervention informed by class-level emotional trends coincided with stabilization of students' engagement structures without reorganization"
 description: "Strategic non-intervention informed by class-level emotional trends coincided with stabilization of students' engagement structures without reorganization"
 id: class-level-trends-inform-strategic-non-intervention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

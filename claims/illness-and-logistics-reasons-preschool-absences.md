@@ -3,7 +3,7 @@ type: claim
 title: Health is the most commonly reported reason preschool students miss school, with logistical obstacles second, and reasons differ by race/ethnicity
 description: Health is the most commonly reported reason preschool students miss school, with logistical obstacles second, and reasons differ by race/ethnicity
 id: illness-and-logistics-reasons-preschool-absences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

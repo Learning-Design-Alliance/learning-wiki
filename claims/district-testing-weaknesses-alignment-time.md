@@ -3,7 +3,7 @@ type: claim
 title: "Districts' most frequently stated testing weaknesses are lack of alignment with standards and curriculum and time taken from instruction, each cited by 24 percent"
 description: "Districts' most frequently stated testing weaknesses are lack of alignment with standards and curriculum and time taken from instruction, each cited by 24 percent"
 id: district-testing-weaknesses-alignment-time
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: strategy
 id: expert-mathematician-teacher-practices-30-second-probe
 title: "Teacher practices for implementing The Expert Mathematician: lesson walkthroughs, alternating direct and generative learning days, and the 30-second probe"
 description: "The curriculum prescribes specific teacher moves: teachers work through each lesson ahead of students following developer-provided instructions, may \"alternate direct instruction days with generative learning days,\" r..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

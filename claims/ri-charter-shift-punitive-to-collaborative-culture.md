@@ -3,7 +3,7 @@ type: claim
 title: Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication
 description: Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication
 id: ri-charter-shift-punitive-to-collaborative-culture
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

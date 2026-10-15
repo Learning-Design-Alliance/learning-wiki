@@ -3,7 +3,7 @@ type: claim
 title: Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading
 description: Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading
 id: pretest-equivalence-phoneme-awareness-kindergarten-trial
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

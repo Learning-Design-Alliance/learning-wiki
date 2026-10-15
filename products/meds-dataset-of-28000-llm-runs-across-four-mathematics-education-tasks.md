@@ -4,7 +4,7 @@ id: meds-dataset-of-28000-llm-runs-across-four-mathematics-education-tasks
 title: MEDS dataset of 28,000 LLM runs across four mathematics-education tasks
 description: A publicly released dataset by Esposito et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

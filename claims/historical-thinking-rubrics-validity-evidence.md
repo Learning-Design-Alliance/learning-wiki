@@ -3,7 +3,7 @@ type: claim
 title: The historical thinking rubrics were developed with construct and validity evidence from the literature and teacher/reviewer review
 description: The historical thinking rubrics were developed with construct and validity evidence from the literature and teacher/reviewer review
 id: historical-thinking-rubrics-validity-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

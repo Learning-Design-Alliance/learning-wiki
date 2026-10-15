@@ -3,7 +3,7 @@ type: claim
 title: About one in six grade 4 and 5 math and reading/ELA teachers is linked in unconfirmed administrative data to a subject they do not teach
 description: About one in six grade 4 and 5 math and reading/ELA teachers is linked in unconfirmed administrative data to a subject they do not teach
 id: one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

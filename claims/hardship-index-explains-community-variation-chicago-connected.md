@@ -3,7 +3,7 @@ type: claim
 title: "Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level"
 description: "Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level"
 id: hardship-index-explains-community-variation-chicago-connected
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

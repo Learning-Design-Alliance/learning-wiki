@@ -3,7 +3,7 @@ type: claim
 title: Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes
 description: Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes
 id: video-length-mooc-engagement-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

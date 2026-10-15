@@ -4,7 +4,7 @@ id: reproducible-balanced-45000-comment-english-sentiment-corpus-and-released-bu
 title: Reproducible balanced 45,000-comment English sentiment corpus and released build recipe
 description: A community-released, balanced 45,000-comment English sentiment corpus reconstructed from the RateMyProfessor research release with deterministic star-derived labels, fixed splits, provenance, licensing information, and build materials for institutional NLP use.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

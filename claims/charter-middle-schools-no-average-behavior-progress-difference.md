@@ -3,7 +3,7 @@ type: claim
 title: Lottery-based charter middle schools show no average difference from traditional public schools in student behavior and school progress
 description: Lottery-based charter middle schools show no average difference from traditional public schools in student behavior and school progress
 id: charter-middle-schools-no-average-behavior-progress-difference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

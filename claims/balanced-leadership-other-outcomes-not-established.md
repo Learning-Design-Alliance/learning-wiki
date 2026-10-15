@@ -3,7 +3,7 @@ type: claim
 title: Effects of Balanced Leadership® on student achievement, teacher retention, and leadership practice are not established by standards-meeting evidence
 description: Effects of Balanced Leadership® on student achievement, teacher retention, and leadership practice are not established by standards-meeting evidence
 id: balanced-leadership-other-outcomes-not-established
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

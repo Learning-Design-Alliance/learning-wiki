@@ -3,7 +3,7 @@ type: strategy
 id: integrate-oracy-literacy-meaningful-activities
 title: Integrate oracy and literacy in meaningful activities rather than treating the four modes as separate
 description: The brief recommends lessons in which students read, write, listen, and speak to deepen mathematical practices, integrating oracy and literacy instead of treating the modes as separate domains.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Students expected acceptance or rejection notifications from all schools they applied to, and the single-best-offer notification design produced confusion and frustration
 description: Students expected acceptance or rejection notifications from all schools they applied to, and the single-best-offer notification design produced confusion and frustration
 id: notification-expectations-mismatch-gocps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

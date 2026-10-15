@@ -2,7 +2,7 @@
 type: theory
 title: "Wickens' Context Alpha and Context Beta distinction"
 description: "The chapter reviews Wickens' (1987) taxonomy distinguishing two types of context."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

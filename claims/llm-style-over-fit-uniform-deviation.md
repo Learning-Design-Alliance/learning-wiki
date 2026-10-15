@@ -3,7 +3,7 @@ type: claim
 title: On structured pedagogical-judgment items, all evaluated models share a systematic style-over-fit deviation, converging on the same non-reference option
 description: On structured pedagogical-judgment items, all evaluated models share a systematic style-over-fit deviation, converging on the same non-reference option
 id: llm-style-over-fit-uniform-deviation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

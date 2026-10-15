@@ -3,7 +3,7 @@ type: design
 id: multi-step-reading-lesson-pattern
 title: "A multi-step reading lesson pattern: skimming and scanning, structured comprehension exercises, and teacher-read-aloud vocabulary clarification"
 description: The article describes a lesson pattern used with an upper-intermediate reading passage on legendary places.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

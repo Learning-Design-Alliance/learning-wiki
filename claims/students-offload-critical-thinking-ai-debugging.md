@@ -3,7 +3,7 @@ type: claim
 title: Some students lacked fundamental understanding of basic circuit concepts and offloaded critical thinking to AI during collaborative debugging
 description: Some students lacked fundamental understanding of basic circuit concepts and offloaded critical thinking to AI during collaborative debugging
 id: students-offload-critical-thinking-ai-debugging
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

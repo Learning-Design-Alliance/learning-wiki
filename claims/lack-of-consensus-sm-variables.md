@@ -3,7 +3,7 @@ type: claim
 title: There is a lack of consensus regarding student-, intervention-, and setting-level variables supporting self-monitoring use in schools
 description: There is a lack of consensus regarding student-, intervention-, and setting-level variables supporting self-monitoring use in schools
 id: lack-of-consensus-sm-variables
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

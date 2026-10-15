@@ -3,7 +3,7 @@ type: process
 id: behavior-analysis-first-instructional-design
 title: Analyze terminal behavior and objectives before manipulating teaching methods in instructional design
 description: "Glaser's design orientation sets a task sequence: specify the terminal performance standard, determine student entry characteristics and prerequisites, construct procedures and materials to move the learner from one s..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: strategy
 id: build-analytic-capacity-hiring-vendors-training
 title: Build agency analytic capacity by hiring technically skilled staff, partnering with vendors, and providing data-use training
 description: "The report describes three routes education agencies used to strengthen their capacity to use data: \"hiring technically skilled staff, developing partnerships with vendors, or providing training to support data use.\"..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

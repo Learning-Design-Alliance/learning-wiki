@@ -3,7 +3,7 @@ type: claim
 title: "Student solutions became less varied on four of five selected functions by 2025, with exact-form declines of 18.4–51.1%, while the open-ended loopy_madness did not decline"
 description: "Student solutions became less varied on four of five selected functions by 2025, with exact-form declines of 18.4–51.1%, while the open-ended loopy_madness did not decline"
 id: student-exact-form-diversity-declined-constrained-functions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification
 description: Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification
 id: tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

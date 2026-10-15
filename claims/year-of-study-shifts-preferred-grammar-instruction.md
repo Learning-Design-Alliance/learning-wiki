@@ -3,7 +3,7 @@ type: claim
 title: "Preferred instruction type shifted by year: Prep School, freshman and sophomore students preferred implicit instruction while junior and senior students preferred meaning-focused instruction"
 description: "Preferred instruction type shifted by year: Prep School, freshman and sophomore students preferred implicit instruction while junior and senior students preferred meaning-focused instruction"
 id: year-of-study-shifts-preferred-grammar-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

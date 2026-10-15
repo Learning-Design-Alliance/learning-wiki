@@ -3,7 +3,7 @@ type: claim
 title: Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B
 description: Explanation-quality distributions differed significantly between years for Physics 1A (2011 slightly lower) but not Physics 1B
 id: explanation-quality-differs-by-year-1a-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

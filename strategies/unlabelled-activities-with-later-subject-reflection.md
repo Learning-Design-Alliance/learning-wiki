@@ -3,7 +3,7 @@ type: strategy
 id: unlabelled-activities-with-later-subject-reflection
 title: Unlabelled Activities with Later Subject Reflection
 description: "A proposal from the GEMS founder for bringing hidden mathematics into informal STEM activities: \"Laura proposes that leaders do not label activities at the beginning but later guide students to reflect on the subject..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

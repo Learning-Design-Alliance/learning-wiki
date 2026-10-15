@@ -3,7 +3,7 @@ type: claim
 title: Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity
 description: Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity
 id: genai-steam-risks-hallucination-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

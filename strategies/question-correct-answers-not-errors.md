@@ -3,7 +3,7 @@ type: strategy
 id: question-correct-answers-not-errors
 title: Question students about why a correct answer was chosen, rather than why an error was made
 description: "In self-instructional kit work, the teacher asks \"Why did you choose c for number two?\" of a CORRECT answer rather than an incorrect one."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

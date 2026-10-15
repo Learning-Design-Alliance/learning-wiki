@@ -3,7 +3,7 @@ type: claim
 title: "In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry"
 description: "In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry"
 id: collearn-ab-personalised-question-preference
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

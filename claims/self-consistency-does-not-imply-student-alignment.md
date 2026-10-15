@@ -3,7 +3,7 @@ type: claim
 title: "High self-consistency between a simulator's reasoning and its own generated code does not imply alignment with real student reasoning or behavior"
 description: "High self-consistency between a simulator's reasoning and its own generated code does not imply alignment with real student reasoning or behavior"
 id: self-consistency-does-not-imply-student-alignment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

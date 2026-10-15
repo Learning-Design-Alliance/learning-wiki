@@ -3,7 +3,7 @@ type: theory
 title: Stages of Cognitive Development
 description: Piaget's theory that children construct their own understanding of the world by progressing through four universal, sequential stages of qualitatively different reasoning.
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

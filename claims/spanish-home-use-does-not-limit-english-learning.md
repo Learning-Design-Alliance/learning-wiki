@@ -3,7 +3,7 @@ type: claim
 title: "Spanish use at home does not limit English learning: young Spanish–English bilinguals with more Spanish at school entry show higher English skills by year's end"
 description: "Spanish use at home does not limit English learning: young Spanish–English bilinguals with more Spanish at school entry show higher English skills by year's end"
 id: spanish-home-use-does-not-limit-english-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

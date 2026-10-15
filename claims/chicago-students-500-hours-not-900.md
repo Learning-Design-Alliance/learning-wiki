@@ -3,7 +3,7 @@ type: claim
 title: Chicago elementary students experience roughly 500 hours of annual instruction rather than the intended 900 hours
 description: Chicago elementary students experience roughly 500 hours of annual instruction rather than the intended 900 hours
 id: chicago-students-500-hours-not-900
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

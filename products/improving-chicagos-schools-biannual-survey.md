@@ -4,7 +4,7 @@ id: improving-chicagos-schools-biannual-survey
 title: "Improving Chicago's Schools biannual survey"
 description: "A biannual Consortium on Chicago School Research survey that collects students' reports on school experiences and educators' reports on instruction and working conditions across Chicago Public Schools."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

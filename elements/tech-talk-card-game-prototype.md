@@ -3,7 +3,7 @@ type: element
 id: tech-talk-card-game-prototype
 title: Tech Talk card game prototype
 description: Tech Talk is a card game prototype co-designed by youth to encourage human connection and frank conversations among young people about social media use and its impacts.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

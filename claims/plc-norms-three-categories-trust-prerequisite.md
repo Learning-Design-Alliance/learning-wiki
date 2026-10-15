@@ -3,7 +3,7 @@ type: claim
 title: Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time
 description: Productive collaboration norms in mathematics PLC fall into three categories, with trust norms acting as prerequisites for critical inquiry, and develop over time
 id: plc-norms-three-categories-trust-prerequisite
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

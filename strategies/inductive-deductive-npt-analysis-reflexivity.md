@@ -3,7 +3,7 @@ type: strategy
 id: inductive-deductive-npt-analysis-reflexivity
 title: Combine inductive content analysis with deductive NPT-domain coding, supported by reflexive journalling and peer supervision
 description: "The protocol's analytic recipe pairs open coding with theory-driven mapping."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

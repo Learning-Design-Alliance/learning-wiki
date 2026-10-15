@@ -3,7 +3,7 @@ type: claim
 title: GenAI literacy is positively associated with GenAI-assisted self-regulated learning behaviors among special education undergraduates
 description: GenAI literacy is positively associated with GenAI-assisted self-regulated learning behaviors among special education undergraduates
 id: genai-literacy-positive-srlb-special-education-undergraduates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

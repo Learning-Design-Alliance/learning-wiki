@@ -3,7 +3,7 @@ type: claim
 title: School-retention rates are similar between TRP-trained and non-TRP novice teachers
 description: School-retention rates are similar between TRP-trained and non-TRP novice teachers
 id: trp-school-retention-rates-similar
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

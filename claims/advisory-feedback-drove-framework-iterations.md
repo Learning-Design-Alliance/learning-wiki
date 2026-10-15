@@ -3,7 +3,7 @@ type: claim
 title: Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression
 description: Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression
 id: advisory-feedback-drove-framework-iterations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

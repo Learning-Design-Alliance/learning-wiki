@@ -3,7 +3,7 @@ type: design
 id: open-talks-ai-lecture-series
 title: "Open Talks about Artificial Intelligence: annual public lecture series"
 description: "The Open Talks are an annual cycle of lectures open to students, researchers, industry professionals, educators, and AI enthusiasts, with all talks publicly available through LIA's YouTube channel."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

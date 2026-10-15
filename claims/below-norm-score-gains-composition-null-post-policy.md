@@ -3,7 +3,7 @@ type: claim
 title: "Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy"
 description: "Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy"
 id: below-norm-score-gains-composition-null-post-policy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

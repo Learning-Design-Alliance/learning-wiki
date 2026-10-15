@@ -3,7 +3,7 @@ type: claim
 title: Edtech coaches frequently helped teachers use video conferencing tools, LMS platforms, and asynchronous instruction during closures
 description: Edtech coaches frequently helped teachers use video conferencing tools, LMS platforms, and asynchronous instruction during closures
 id: coach-support-to-teachers-closures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

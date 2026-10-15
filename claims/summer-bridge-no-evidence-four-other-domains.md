@@ -3,7 +3,7 @@ type: claim
 title: No studies meeting WWC standards report summer bridge outcomes in college access and enrollment, credit accumulation, general academic achievement, or labor market domains
 description: No studies meeting WWC standards report summer bridge outcomes in college access and enrollment, credit accumulation, general academic achievement, or labor market domains
 id: summer-bridge-no-evidence-four-other-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

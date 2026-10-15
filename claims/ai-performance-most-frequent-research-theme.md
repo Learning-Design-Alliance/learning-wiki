@@ -3,7 +3,7 @@ type: claim
 title: "AI performance is the most frequent research theme (35%) in research on generative AI in secondary STEM education, ahead of tool development (22%) and application & impact (19%)"
 description: "AI performance is the most frequent research theme (35%) in research on generative AI in secondary STEM education, ahead of tool development (22%) and application & impact (19%)"
 id: ai-performance-most-frequent-research-theme
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

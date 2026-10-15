@@ -3,7 +3,7 @@ type: strategy
 id: identify-feedback-loops-process
 title: Identify feedback loops in your organization by sourcing, evaluating, and validating case studies
 description: "The report lays out a three-part process for identifying feedback loops in an organization: sourcing case studies by mapping connections to external partners, evaluating those case studies against the definition and c..."
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

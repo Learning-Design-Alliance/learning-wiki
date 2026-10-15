@@ -3,7 +3,7 @@ type: claim
 title: "Students generally trusted the chatbot's responses, often rating them like responses from teachers or friends"
 description: "Students generally trusted the chatbot's responses, often rating them like responses from teachers or friends"
 id: students-trusted-ama-responses
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

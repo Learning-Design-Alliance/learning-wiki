@@ -3,7 +3,7 @@ type: claim
 title: "California's ECE programs vary widely in teacher qualifications, staff-to-child ratios, and curriculum requirements, creating programs of varying quality"
 description: "California's ECE programs vary widely in teacher qualifications, staff-to-child ratios, and curriculum requirements, creating programs of varying quality"
 id: california-ece-quality-standards-inconsistent-three-aspects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

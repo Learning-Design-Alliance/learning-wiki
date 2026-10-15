@@ -3,7 +3,7 @@ type: strategy
 id: exact-path-existing-staff-vendor-pd-implementation
 title: Implement Exact Path with existing district staff plus vendor-provided professional development
 description: "The program is designed for implementation without additional hiring: districts use their current teachers and leaders, supported by Edmentum's Customer Success Managers, and the Professional Services Team offers \"ded..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

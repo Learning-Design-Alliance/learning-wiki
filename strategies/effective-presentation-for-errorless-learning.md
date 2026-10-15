@@ -3,7 +3,7 @@ type: strategy
 id: effective-presentation-for-errorless-learning
 title: Effective Presentation for Errorless Learning
 description: Behavioral science identifies three levers for minimizing learner errors during instruction — specific directions, a high proportion of active over passive responding, and rapid pacing — that together bring correct responses under reliable stimulus control.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-08-29

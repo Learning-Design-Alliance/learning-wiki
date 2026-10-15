@@ -4,7 +4,7 @@ id: national-black-student-debt-study
 title: National Black Student Debt Study
 description: A mixed-method dataset and research project led by Jalil B.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

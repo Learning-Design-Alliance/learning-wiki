@@ -3,7 +3,7 @@ type: claim
 title: Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure
 description: Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure
 id: transcript-grades-blurred-currency
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

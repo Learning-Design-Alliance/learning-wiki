@@ -3,7 +3,7 @@ type: design
 id: telediscussion-alternating-lecture-discussion-pattern
 title: Telediscussion course pattern alternating telelectures with discussion sessions
 description: "The seminar's structure paired each expert telelecture with a discussion session about it."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

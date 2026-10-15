@@ -3,7 +3,7 @@ type: claim
 title: The four-year college STEM major advantage of inclusive STEM high schools holds for Hispanic, female, and economically disadvantaged students, with odds ratios above three
 description: The four-year college STEM major advantage of inclusive STEM high schools holds for Hispanic, female, and economically disadvantaged students, with odds ratios above three
 id: ishs-stem-major-advantage-underrepresented-subgroups
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

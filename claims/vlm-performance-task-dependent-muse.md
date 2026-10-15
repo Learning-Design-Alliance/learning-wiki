@@ -3,7 +3,7 @@ type: claim
 title: VLM performance on artistic educational imagery is highly task-dependent, with no model dominating across capabilities
 description: VLM performance on artistic educational imagery is highly task-dependent, with no model dominating across capabilities
 id: vlm-performance-task-dependent-muse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

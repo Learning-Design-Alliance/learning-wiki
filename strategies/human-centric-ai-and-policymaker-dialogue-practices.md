@@ -3,7 +3,7 @@ type: strategy
 id: human-centric-ai-and-policymaker-dialogue-practices
 title: AI system developers should ensure human-centric design, institutional leaders should stay updated on global AI regulations, and LA experts should engage policymakers through dialogue
 description: "This strategy distills the article's Notes for Practice into implementable practices for the LA community."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

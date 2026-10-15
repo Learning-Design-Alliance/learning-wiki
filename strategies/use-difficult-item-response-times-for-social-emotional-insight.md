@@ -3,7 +3,7 @@ type: strategy
 id: use-difficult-item-response-times-for-social-emotional-insight
 title: "Use time spent on difficult test items as a source of information about students' social-emotional needs"
 description: The article recommends considering response process metadata as a source of information on social-emotional constructs.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

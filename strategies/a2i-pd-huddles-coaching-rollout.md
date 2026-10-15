@@ -3,7 +3,7 @@ type: strategy
 id: a2i-pd-huddles-coaching-rollout
 title: Deliver A2i professional development through a 90-minute launch session, grade-team Literacy Huddles, and individualized coaching sessions over a 3-year rollout
 description: "This professional development strategy combines a 90-minute getting started with A2i session in the fall, \"up to 6 virtual meetings known as A2i Literacy Huddles\" conducted with grade-level teams and led by a Literacy..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

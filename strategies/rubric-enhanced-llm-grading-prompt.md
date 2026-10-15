@@ -3,7 +3,7 @@ type: strategy
 id: rubric-enhanced-llm-grading-prompt
 title: Provide LLM graders with the full human rubric, accepted solutions, and common-mistake penalties in the prompt (rubric-enhanced prompting)
 description: "This strategy supplies the automated grader with the same structured guidance human evaluators use: general criteria plus question-specific scoring rules."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

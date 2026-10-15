@@ -3,7 +3,7 @@ type: claim
 title: A teacher-coaching CAL program produces significant intent-to-treat gains in elementary and middle school math performance of 0.12-0.22 standard deviations
 description: A teacher-coaching CAL program produces significant intent-to-treat gains in elementary and middle school math performance of 0.12-0.22 standard deviations
 id: cal-teacher-coaching-itt-math-gains-012-022-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

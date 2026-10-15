@@ -4,7 +4,7 @@ id: factria-aware-chatbot
 title: FACTRIA-aware chatbot
 description: A web-based chatbot developed by Marques et al.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

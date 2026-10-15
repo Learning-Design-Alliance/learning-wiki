@@ -3,7 +3,7 @@ type: claim
 title: State school safety legislation most commonly addresses emergency management, followed by the existence and structure of SSSCs and threat assessment
 description: State school safety legislation most commonly addresses emergency management, followed by the existence and structure of SSSCs and threat assessment
 id: state-safety-legislation-focuses-emergency-management
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

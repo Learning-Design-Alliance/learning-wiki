@@ -3,7 +3,7 @@ type: strategy
 id: report-teacher-diversity-state-dashboards
 title: Make educator diversity data visible and actionable by reporting teacher diversity on state dashboards
 description: "The first policy lever identified by more than 100 educators of color at the convening is to \"Report teacher diversity on state dashboards\" and urge state departments of education to collect and report such data, impr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training
 description: Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training
 id: sanction-threats-raise-instructional-spending
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

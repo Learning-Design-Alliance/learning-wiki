@@ -3,7 +3,7 @@ type: claim
 title: Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year
 description: Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year
 id: pittsburgh-vam-report-2016-documents-district-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

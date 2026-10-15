@@ -3,7 +3,7 @@ type: claim
 title: "CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected"
 description: "CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected"
 id: act-scores-below-student-expectations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

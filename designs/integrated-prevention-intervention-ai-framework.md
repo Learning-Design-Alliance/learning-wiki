@@ -3,7 +3,7 @@ type: design
 id: integrated-prevention-intervention-ai-framework
 title: Integrated prevention-intervention framework connecting adaptive survey chatbots to mental health assessment tools
 description: "The dissertation's proposed framework (Objective 3) unifies the preventive layer (TigerGPT plus AURA) with the intervention layer (PsychoGPT and SMMR)."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

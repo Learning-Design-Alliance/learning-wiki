@@ -3,7 +3,7 @@ type: strategy
 id: sequence-vs-then-av-teacher-training
 title: Sequence virtual simulation before authentic video across skill-development stages in teacher observation training
 description: "The article recommends that teacher training programs exploit the complementary roles of different media across skill stages: begin with virtual simulation to reduce extraneous cognitive load and stimulate focused ref..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

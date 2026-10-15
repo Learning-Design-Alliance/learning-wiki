@@ -3,7 +3,7 @@ type: research-method
 id: one-shot-gpt-4o-mini-codebook-based-annotation-of-llm-math-tutor-dialogue
 title: One-shot GPT-4o-mini codebook-based annotation of LLM math-tutor dialogue
 description: "The article reproduces an 82-code educational codebook organised into 7 major categories (MPS, MKT, Cognition, Metacognition, PIU, Student Intent Utterance, Interaction/Discourse) by inlining it into a single GPT-4o-mini prompt at temperature 0: \"we reproduce an 82-code educational codebook on119,00"
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Simple paraphrasing and self-editing counter-measures collapse AI detection rates to near-random levels
 description: Simple paraphrasing and self-editing counter-measures collapse AI detection rates to near-random levels
 id: paraphrasing-defeats-ai-detectors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

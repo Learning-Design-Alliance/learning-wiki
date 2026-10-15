@@ -3,7 +3,7 @@ type: strategy
 id: fit-change-score-curves-to-diagnose-learning
 title: Fit change-score versus pretest-score data with α and γ process models to diagnose learning processes and distinguish student ability from instruction impact
 description: The article recommends fitting empirical pre-post change-score data with the theoretical learning curves (α-process straight lines and γ-process logistic curves, alone or combined via Eq.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

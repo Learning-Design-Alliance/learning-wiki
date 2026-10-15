@@ -4,7 +4,7 @@ id: title-i-supplemental-educational-services-ses
 title: Title I Supplemental Educational Services (SES)
 description: A federally mandated Title I programme administered through states and school districts in which approved public or private providers offer free tutoring and academic support outside the regular school day to eligible students.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

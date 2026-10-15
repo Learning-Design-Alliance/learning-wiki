@@ -3,7 +3,7 @@ type: claim
 title: Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization
 description: Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization
 id: skill-specificity-l2-grammar-practice
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

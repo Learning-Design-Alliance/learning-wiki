@@ -3,7 +3,7 @@ type: design
 id: align-calpads-ag-categorization-before-eligibility-use
 title: Before using CALPADS course records for eligibility studies, align CALPADS A-G categorization with UC/CSU categorization for each year and school
 description: The report recommends reviewing how courses are categorized into A-G categories in CALPADS so that categorization matches what the UC/CSU systems use.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

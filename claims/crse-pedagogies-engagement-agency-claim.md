@@ -3,7 +3,7 @@ type: claim
 title: The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information
 description: The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information
 id: crse-pedagogies-engagement-agency-claim
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -4,7 +4,7 @@ title: The national evaluation of the 21st Century Community Learning Centers pr
 description: The national evaluation of the 21st Century Community Learning Centers program found no average improvement in academic achievement for participating students
 id: 21st-cclc-national-evaluation-no-academic-improvement
 aliases: [cclc-few-impacts-student-achievement]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

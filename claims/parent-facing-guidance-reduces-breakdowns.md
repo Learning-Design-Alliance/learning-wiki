@@ -3,7 +3,7 @@ type: claim
 title: Parent-facing actionable guidance helped parents recover from uncertainty and avoid repeated explanation loops during tutoring
 description: Parent-facing actionable guidance helped parents recover from uncertainty and avoid repeated explanation loops during tutoring
 id: parent-facing-guidance-reduces-breakdowns
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: strategy
 id: distribute-report-review-across-staff-committees
 title: Distribute report review across staff committees to streamline school self-analysis
 description: "The report recommends a way to streamline the review process in a school: ask all interested staff and Local School Council members to study Part I, the Summary Profiles, and assign each sub-section of Part II, such a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change"
 description: "Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change"
 id: annenberg-capacity-gains-eroded-by-2001
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

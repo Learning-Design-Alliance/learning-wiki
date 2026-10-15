@@ -3,7 +3,7 @@ type: claim
 title: A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)
 description: A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)
 id: constructivist-syllabus-beats-knowledge-based-culture-teaching
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

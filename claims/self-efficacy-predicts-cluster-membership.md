@@ -3,7 +3,7 @@ type: claim
 title: Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference
 description: Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference
 id: self-efficacy-predicts-cluster-membership
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

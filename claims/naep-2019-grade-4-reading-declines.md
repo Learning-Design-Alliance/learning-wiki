@@ -3,7 +3,7 @@ type: claim
 title: Grade 4 reading scores in 2019 decreased across the performance distribution except at the 90th percentile compared to 2017
 description: Grade 4 reading scores in 2019 decreased across the performance distribution except at the 90th percentile compared to 2017
 id: naep-2019-grade-4-reading-declines
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

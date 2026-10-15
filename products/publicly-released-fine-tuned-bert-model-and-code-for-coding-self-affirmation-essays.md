@@ -4,7 +4,7 @@ id: publicly-released-fine-tuned-bert-model-and-code-for-coding-self-affirmation
 title: Publicly released fine-tuned BERT model and code for coding self-affirmation essays
 description: "Ye et al.'s publicly released Keras implementation and fine-tuned BERT classifier automate coding student essays as self-affirming or general for research use."
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

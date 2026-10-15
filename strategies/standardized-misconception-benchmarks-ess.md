@@ -3,7 +3,7 @@ type: strategy
 id: standardized-misconception-benchmarks-ess
 title: Establish standardized misconception benchmarks using isomorphic items, paraphrases, and multi-turn curricula
 description: To address non-verifiability, the article calls for shared benchmark suites for non-verifiable educational behaviors, especially misconception consistency and longitudinal socio-affective trajectories.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

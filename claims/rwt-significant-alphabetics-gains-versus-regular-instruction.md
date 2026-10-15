@@ -3,7 +3,7 @@ type: claim
 title: "Read, Write & Type!™ shows statistically significant positive effects on phoneme segmenting and word attack relative to regular classroom instruction for low-achieving first graders"
 description: "Read, Write & Type!™ shows statistically significant positive effects on phoneme segmenting and word attack relative to regular classroom instruction for low-achieving first graders"
 id: rwt-significant-alphabetics-gains-versus-regular-instruction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

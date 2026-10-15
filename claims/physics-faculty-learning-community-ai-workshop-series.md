@@ -3,7 +3,7 @@ type: claim
 title: A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings
 description: A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings
 id: physics-faculty-learning-community-ai-workshop-series
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

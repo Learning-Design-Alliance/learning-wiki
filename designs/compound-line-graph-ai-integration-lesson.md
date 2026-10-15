@@ -3,7 +3,7 @@ type: design
 id: compound-line-graph-ai-integration-lesson
 title: Compound Line Graph lesson (Jiangsu Education Edition, Grade 5) integrating AI prediction comparison into mathematics instruction
 description: "A Stage 2 lesson built on the textbook's vacuum-flask temperature dataset, in which \"The lesson was organized into three instructional segments: Mathematical Inquiry (15 minutes), AI Prediction Comparison (8 minutes),..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: Fast Track showed positive, statistically significant effects on three social outcome measures after one year, with no significant differences on three others
 description: Fast Track showed positive, statistically significant effects on three social outcome measures after one year, with no significant differences on three others
 id: fast-track-social-outcomes-mixed-measures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

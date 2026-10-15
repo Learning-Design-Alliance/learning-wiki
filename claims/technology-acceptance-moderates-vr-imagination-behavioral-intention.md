@@ -3,7 +3,7 @@ type: claim
 title: Technology acceptance conditions the virtual-real-imagination–behavioral-intention association, which is stronger at higher reported technology acceptance
 description: Technology acceptance conditions the virtual-real-imagination–behavioral-intention association, which is stronger at higher reported technology acceptance
 id: technology-acceptance-moderates-vr-imagination-behavioral-intention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

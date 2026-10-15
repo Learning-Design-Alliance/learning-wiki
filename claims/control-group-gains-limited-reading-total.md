@@ -3,7 +3,7 @@ type: claim
 title: Control-group students receiving conventional instruction showed significant gains only in media reading and total literacy, not in media writing
 description: Control-group students receiving conventional instruction showed significant gains only in media reading and total literacy, not in media writing
 id: control-group-gains-limited-reading-total
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

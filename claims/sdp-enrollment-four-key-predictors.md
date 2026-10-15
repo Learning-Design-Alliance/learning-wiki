@@ -3,7 +3,7 @@ type: claim
 title: "Of 259 predictors analyzed for enrollment prediction, four stand out as most important: prior cohort sizes, in-school suspensions, out-of-school suspensions, and absences"
 description: "Of 259 predictors analyzed for enrollment prediction, four stand out as most important: prior cohort sizes, in-school suspensions, out-of-school suspensions, and absences"
 id: sdp-enrollment-four-key-predictors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

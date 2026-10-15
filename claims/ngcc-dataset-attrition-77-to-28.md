@@ -3,7 +3,7 @@ type: claim
 title: Of 77 impact data sets submitted by NGCC projects, only 28 had adequate sample sizes and reasonably comparable conditions; the rest were eliminated for small samples, confounds, or baseline inequivalence.
 description: Of 77 impact data sets submitted by NGCC projects, only 28 had adequate sample sizes and reasonably comparable conditions; the rest were eliminated for small samples, confounds, or baseline inequivalence.
 id: ngcc-dataset-attrition-77-to-28
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

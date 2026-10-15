@@ -3,7 +3,7 @@ type: claim
 title: Norm shifts can change teacher evaluation CGP outcomes independently of instructional quality
 description: Norm shifts can change teacher evaluation CGP outcomes independently of instructional quality
 id: cgp-norm-shifts-change-teacher-evaluation-outcomes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

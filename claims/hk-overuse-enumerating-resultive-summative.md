@@ -3,7 +3,7 @@ type: claim
 title: Hong Kong students overuse enumerating, resultive and summative discourse connectives relative to L1, Singaporean and Thai writers
 description: Hong Kong students overuse enumerating, resultive and summative discourse connectives relative to L1, Singaporean and Thai writers
 id: hk-overuse-enumerating-resultive-summative
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: "AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized"
 description: "AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized"
 id: ai-role-collaborative-learning-undertheorized
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

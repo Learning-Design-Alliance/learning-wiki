@@ -4,7 +4,7 @@ id: varia-benchmark-package-with-follow-up-harness
 title: VARIA benchmark package with follow-up harness
 description: "Ernesto Lee and colleagues' VARIA package provides assessment-variant blueprints, rubrics, canonical solutions, prompting strategies, evaluation metrics, and runnable follow-up analysis code for benchmarking LLM-generated construct-equivalent assessment variants."
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

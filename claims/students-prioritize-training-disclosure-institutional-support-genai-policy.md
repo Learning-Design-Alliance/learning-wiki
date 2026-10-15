@@ -3,7 +3,7 @@ type: claim
 title: Students co-designing a GenAI course policy prioritized training for students and instructors, standardized disclosure procedures, and stronger institutional support
 description: Students co-designing a GenAI course policy prioritized training for students and instructors, standardized disclosure procedures, and stronger institutional support
 id: students-prioritize-training-disclosure-institutional-support-genai-policy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

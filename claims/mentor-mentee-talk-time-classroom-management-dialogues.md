@@ -3,7 +3,7 @@ type: claim
 title: "Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time"
 description: "Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time"
 id: mentor-mentee-talk-time-classroom-management-dialogues
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

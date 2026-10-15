@@ -3,7 +3,7 @@ type: claim
 title: Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest
 description: Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest
 id: ai-video-systems-content-stronger-than-delivery
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

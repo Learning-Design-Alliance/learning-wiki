@@ -3,7 +3,7 @@ type: claim
 title: "Neurodivergent students' comfort is highest for fully structured assignments and lowest for assignments with no structure"
 description: "Neurodivergent students' comfort is highest for fully structured assignments and lowest for assignments with no structure"
 id: nd-comfort-highest-fully-structured-assignments
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

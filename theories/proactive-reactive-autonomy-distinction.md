@@ -2,7 +2,7 @@
 type: theory
 title: "Littlewood's distinction between proactive and reactive autonomy"
 description: "The article adopts Littlewood's (1999) two-level account of learner autonomy for East Asian contexts."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

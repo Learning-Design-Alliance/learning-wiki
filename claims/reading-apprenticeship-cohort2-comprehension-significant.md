@@ -3,7 +3,7 @@ type: claim
 title: Reading Apprenticeship® showed a statistically significant positive effect on the GRADE reading comprehension subtest for Cohort 2 ninth-grade students
 description: Reading Apprenticeship® showed a statistically significant positive effect on the GRADE reading comprehension subtest for Cohort 2 ninth-grade students
 id: reading-apprenticeship-cohort2-comprehension-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

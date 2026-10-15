@@ -3,7 +3,7 @@ type: strategy
 id: state-oversight-backstop-for-weakened-accreditation
 title: "State policymakers should strengthen their own oversight capacity as accreditors' watchdog role weakens"
 description: "Because the forthcoming regulations are set to weaken accreditors' ability to function as independent watchdogs for educational quality and consumer protection, the brief recommends that states fill the gap."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

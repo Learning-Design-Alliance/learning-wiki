@@ -4,7 +4,7 @@ title: Students who attended TEP for four years had math test score gains equal 
 description: Students who attended TEP for four years had math test score gains equal to an additional 1.6 years of school compared to similar students in comparable New York City public schools
 id: tep-four-year-math-gain-1-6-years
 aliases: [tep-four-years-math-gain-1-6-years]
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

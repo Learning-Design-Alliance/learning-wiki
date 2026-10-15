@@ -3,7 +3,7 @@ type: claim
 title: "Program coherence varies widely within quartiles: more than half of top-quartile teachers report moderate coherence and 32 percent report little or none, while 44 percent of bottom-quartile teachers report strong or very strong coherence"
 description: "Program coherence varies widely within quartiles: more than half of top-quartile teachers report moderate coherence and 32 percent report little or none, while 44 percent of bottom-quartile teachers report strong or v..."
 id: program-coherence-quartile-contrast-1997
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

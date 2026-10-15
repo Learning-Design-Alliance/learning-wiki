@@ -3,7 +3,7 @@ type: claim
 title: Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity
 description: Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity
 id: lli-secondary-implementation-challenges-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

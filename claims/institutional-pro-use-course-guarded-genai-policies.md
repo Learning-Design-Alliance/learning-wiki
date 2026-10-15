@@ -3,7 +3,7 @@ type: claim
 title: "Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright"
 description: "Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright"
 id: institutional-pro-use-course-guarded-genai-policies
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

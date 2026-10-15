@@ -3,7 +3,7 @@ type: claim
 title: A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests
 description: A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests
 id: kipp-rct-lottery-positive-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: strategy
 id: irat-as-subsequent-assessment-indicator-strategy
 title: Use IRAT as an indicator of subsequent assessment performance and exam-condition practice in pharmacy calculations
 description: "The article recommends using readiness assurance tests, particularly the IRAT, as low-stakes indicators of students' subsequent performance on major pharmacy calculations assessments."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

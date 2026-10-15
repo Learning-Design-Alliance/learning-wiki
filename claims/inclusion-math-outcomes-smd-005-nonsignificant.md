@@ -3,7 +3,7 @@ type: claim
 title: Inclusion shows a negligible, non-significant pooled difference for math learning outcomes
 description: Inclusion shows a negligible, non-significant pooled difference for math learning outcomes
 id: inclusion-math-outcomes-smd-005-nonsignificant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

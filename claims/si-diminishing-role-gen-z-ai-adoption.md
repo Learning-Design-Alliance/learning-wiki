@@ -3,7 +3,7 @@ type: claim
 title: "Social influence plays a diminishing role in Gen Z students' AI adoption intention"
 description: "Social influence plays a diminishing role in Gen Z students' AI adoption intention"
 id: si-diminishing-role-gen-z-ai-adoption
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

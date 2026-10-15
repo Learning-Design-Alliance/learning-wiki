@@ -4,7 +4,7 @@ id: instructional-leadership-corps-ilc
 title: Instructional Leadership Corps (ILC)
 description: A statewide California teacher-led professional learning initiative run by the Stanford Center for Opportunity Policy in Education, the California Teachers Association, and the National Board Resource Center to develop teacher leadership and support instructional shifts.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

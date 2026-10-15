@@ -3,7 +3,7 @@ type: pattern
 id: ground-conversations-in-childrens-work
 title: Ground coaching conversations in the work of children
 description: "A recurring coaching pattern: conversations about instruction start from authentic artifacts of student learning such as written responses, writing samples, and actual Running Records."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

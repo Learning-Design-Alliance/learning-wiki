@@ -3,7 +3,7 @@ type: claim
 title: "AI use also carries negative outcomes: technical instability, negative emotional impacts, over-reliance, and contextual contingency"
 description: "AI use also carries negative outcomes: technical instability, negative emotional impacts, over-reliance, and contextual contingency"
 id: ai-wtc-negative-outcomes-challenges
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

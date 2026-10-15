@@ -3,7 +3,7 @@ type: claim
 title: Among language-only interventions, instructional practices and one-on-one or small-group delivery produced significantly larger language gains than curricula and large-group or whole-class delivery
 description: Among language-only interventions, instructional practices and one-on-one or small-group delivery produced significantly larger language gains than curricula and large-group or whole-class delivery
 id: small-group-language-instruction-larger-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

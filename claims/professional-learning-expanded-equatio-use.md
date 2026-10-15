@@ -3,7 +3,7 @@ type: claim
 title: After focus-group professional learning, all nine teacher partners committed to trying Mathspace and reported broader, more integrated uses of Equatio
 description: After focus-group professional learning, all nine teacher partners committed to trying Mathspace and reported broader, more integrated uses of Equatio
 id: professional-learning-expanded-equatio-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

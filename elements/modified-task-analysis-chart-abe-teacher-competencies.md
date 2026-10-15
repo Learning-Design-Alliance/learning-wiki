@@ -3,7 +3,7 @@ type: element
 id: modified-task-analysis-chart-abe-teacher-competencies
 title: Modified task analysis charts specifying ABE teacher knowledge and skills
 description: The project produced modified task analysis charts (Figure 2) detailing activities performed by ABE teachers and the specific and generic knowledge/skills each requires.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

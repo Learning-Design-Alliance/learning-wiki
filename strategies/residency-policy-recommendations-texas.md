@@ -3,7 +3,7 @@ type: strategy
 id: residency-policy-recommendations-texas
 title: Policy recommendations for sustaining and expanding teacher residencies
 description: "Drawing on TCLAS implementation findings, the report recommends: continuing to require key features (full-year co-teaching placements, shared governance, specified educator roles); facilitating expansion by developing..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

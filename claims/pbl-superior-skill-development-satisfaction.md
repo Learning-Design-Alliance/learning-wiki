@@ -3,7 +3,7 @@ type: claim
 title: PBL is superior to conventional instruction for skill development and for satisfaction of students and teachers
 description: PBL is superior to conventional instruction for skill development and for satisfaction of students and teachers
 id: pbl-superior-skill-development-satisfaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

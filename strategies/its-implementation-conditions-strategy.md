@@ -3,7 +3,7 @@ type: strategy
 id: its-implementation-conditions-strategy
 title: Address infrastructure, accessibility, teacher preparedness, curriculum alignment, data governance, and institutional support when scaling AI-supported mathematics learning
 description: "The review identifies implementation conditions shaping ITS effectiveness: \"infrastructure, accessibility, teacher preparedness, curriculum alignment, data governance, and institutional support\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

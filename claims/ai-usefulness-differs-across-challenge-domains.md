@@ -3,7 +3,7 @@ type: claim
 title: Perceived usefulness of AI and intent to continue using it differ significantly across challenge domains, with academic tasks rated most useful
 description: Perceived usefulness of AI and intent to continue using it differ significantly across challenge domains, with academic tasks rated most useful
 id: ai-usefulness-differs-across-challenge-domains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

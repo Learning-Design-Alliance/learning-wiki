@@ -3,7 +3,7 @@ type: strategy
 id: research-agenda-choice-policy-elements-and-outcomes
 title: Call for research clarifying the importance of specific choice-policy elements and assessing a wider range of student outcomes
 description: "The authors propose a forward-looking research agenda for school choice policy: studies should \"help clarify the importance of specific policy elements\" and \"assess a deeper and wider range of student outcomes\" beyond..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

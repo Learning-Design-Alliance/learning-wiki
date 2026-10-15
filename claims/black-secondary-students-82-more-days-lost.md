@@ -3,7 +3,7 @@ type: claim
 title: Black secondary students lost 103 days of instruction per 100 enrolled, 82 more days than their White peers
 description: Black secondary students lost 103 days of instruction per 100 enrolled, 82 more days than their White peers
 id: black-secondary-students-82-more-days-lost
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

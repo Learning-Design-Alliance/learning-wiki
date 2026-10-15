@@ -3,7 +3,7 @@ type: claim
 title: Viewing a single full-length L2 TV program results in incidental vocabulary learning at the level of meaning recall and meaning recognition
 description: Viewing a single full-length L2 TV program results in incidental vocabulary learning at the level of meaning recall and meaning recognition
 id: viewing-full-length-tv-incidental-vocabulary-learning
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

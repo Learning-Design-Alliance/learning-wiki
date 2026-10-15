@@ -3,7 +3,7 @@ type: claim
 title: Teacher salaries influence entry, supply, and retention in teaching
 description: Teacher salaries influence entry, supply, and retention in teaching
 id: salary-increases-influence-teacher-supply-and-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

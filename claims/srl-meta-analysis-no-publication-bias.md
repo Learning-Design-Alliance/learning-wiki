@@ -3,7 +3,7 @@ type: claim
 title: Publication bias is unlikely to explain the consistency of SRL intervention effect sizes
 description: Publication bias is unlikely to explain the consistency of SRL intervention effect sizes
 id: srl-meta-analysis-no-publication-bias
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

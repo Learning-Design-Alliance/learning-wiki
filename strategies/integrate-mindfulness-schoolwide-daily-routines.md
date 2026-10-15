@@ -3,7 +3,7 @@ type: strategy
 id: integrate-mindfulness-schoolwide-daily-routines
 title: Integrate mindfulness throughout the school day via mindful moments, pausing before reacting, and reflective norms
 description: "The brief recommends schoolwide integration of mindfulness into existing routines: starting class with a \"mindful moment\" — a deliberate pause in stillness or slow deliberate movement — teaching students to pause befo..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

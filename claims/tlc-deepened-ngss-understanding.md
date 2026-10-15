@@ -3,7 +3,7 @@ type: claim
 title: Most surveyed teachers reported that TLC experiences deepened their understanding of the NGSS dimensions and 3D approaches
 description: Most surveyed teachers reported that TLC experiences deepened their understanding of the NGSS dimensions and 3D approaches
 id: tlc-deepened-ngss-understanding
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

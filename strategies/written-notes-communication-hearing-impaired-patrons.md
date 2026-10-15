@@ -3,7 +3,7 @@ type: strategy
 id: written-notes-communication-hearing-impaired-patrons
 title: Switch to written notes when verbal communication with a hearing-impaired patron breaks down
 description: "When repeated verbal exchanges with a hearing-impaired patron fail, the paper recommends written communication: \"If, after several attemptsat verbalcommunication, the librarian is not understandingthe student's inform..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

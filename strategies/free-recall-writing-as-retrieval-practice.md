@@ -3,7 +3,7 @@ type: strategy
 id: free-recall-writing-as-retrieval-practice
 title: Free Recall Writing as Retrieval Practice
 description: After reading an educational text, students write down as much as they can remember without viewing it, with no feedback required.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

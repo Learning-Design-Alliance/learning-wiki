@@ -3,7 +3,7 @@ type: strategy
 id: game-reports-inform-tutor-planning-strategy
 title: Use game-generated reports to inform tutors and assign targeted follow-up work
 description: "This strategy interweaves gameplay with tutoring: when students play the game, \"reports were generated for tutors on what concepts students might be struggling to understand\", and tutors can assign follow-up work in t..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

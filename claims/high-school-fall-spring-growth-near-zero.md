@@ -3,7 +3,7 @@ type: claim
 title: Fall-to-spring growth rates in high school grades, particularly in reading, are often close to zero and can be negative
 description: Fall-to-spring growth rates in high school grades, particularly in reading, are often close to zero and can be negative
 id: high-school-fall-spring-growth-near-zero
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

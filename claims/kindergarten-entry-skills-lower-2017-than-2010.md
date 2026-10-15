@@ -3,7 +3,7 @@ type: claim
 title: Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010
 description: Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010
 id: kindergarten-entry-skills-lower-2017-than-2010
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: Fairness of overall observation scores may not be substantially compromised by principals using different sets of rubric components
 description: Fairness of overall observation scores may not be substantially compromised by principals using different sets of rubric components
 id: component-subset-fairness-observation-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

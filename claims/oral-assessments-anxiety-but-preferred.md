@@ -3,7 +3,7 @@ type: claim
 title: Oral assessments can induce more anxiety than written ones, yet many students still prefer them
 description: Oral assessments can induce more anxiety than written ones, yet many students still prefer them
 id: oral-assessments-anxiety-but-preferred
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

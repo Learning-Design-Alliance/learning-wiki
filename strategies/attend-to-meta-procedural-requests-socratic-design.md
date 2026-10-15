@@ -3,7 +3,7 @@ type: strategy
 id: attend-to-meta-procedural-requests-socratic-design
 title: Designers of Socratic AI tutors should attend to the prominence of meta-procedural requests when evaluating Socratic designs at scale
 description: "The article's design implication is that the most consequential observation for Socratic AI tutor design is the prominence of Next Step Guidance and related meta-procedural categories: \"a tutor explicitly designed not..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

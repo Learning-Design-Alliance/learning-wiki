@@ -3,7 +3,7 @@ type: claim
 title: Dual language programs showed uncertain effects on mathematics achievement across two studies
 description: Dual language programs showed uncertain effects on mathematics achievement across two studies
 id: dual-language-programs-uncertain-math-effects
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

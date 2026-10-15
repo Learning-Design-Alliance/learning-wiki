@@ -2,7 +2,7 @@
 type: theory
 title: "Authentic intellectual work framework: construction of knowledge, elaborated written communication, and connection to student lives"
 description: "The manual's research strand rests on an intellectual foundation drawn from Fred Newmann and Gary Wehlage's work on authentic achievement."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

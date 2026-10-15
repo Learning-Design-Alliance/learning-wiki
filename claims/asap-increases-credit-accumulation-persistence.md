@@ -3,7 +3,7 @@ type: claim
 title: ASAP likely increases credit accumulation and persistence rates
 description: ASAP likely increases credit accumulation and persistence rates
 id: asap-increases-credit-accumulation-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved
 description: Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved
 id: districts-monitor-esser-interventions-40-state-plans
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

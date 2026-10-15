@@ -3,7 +3,7 @@ type: research-method
 id: a-cat-sensitive-process-for-evaluating-content-alignment
 title: A CAT-sensitive process for evaluating content alignment
 description: The article outlines a process for evaluating content alignment that is sensitive to the particular ways computerized adaptive tests can diverge from their intended content domain.
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

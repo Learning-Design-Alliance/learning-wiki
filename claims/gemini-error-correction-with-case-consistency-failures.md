@@ -3,7 +3,7 @@ type: claim
 title: Gemini frequently corrects board-written math errors with correction logs, but still shows case-consistency and notation-substitution failures
 description: Gemini frequently corrects board-written math errors with correction logs, but still shows case-consistency and notation-substitution failures
 id: gemini-error-correction-with-case-consistency-failures
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

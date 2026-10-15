@@ -3,7 +3,7 @@ type: claim
 title: The cost-effectiveness ratio of ASSISTments is approximately $462.30 per student per standard deviation of long-term math achievement gain
 description: The cost-effectiveness ratio of ASSISTments is approximately $462.30 per student per standard deviation of long-term math achievement gain
 id: assistments-cer-462-per-sd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

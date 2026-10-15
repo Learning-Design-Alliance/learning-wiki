@@ -3,7 +3,7 @@ type: strategy
 id: reconstruct-language-foregrounding-kinship-with-nature
 title: Participate in the creative reconstruction of a language that foregrounds human kinship with nature, using postmodern science fiction as a generative site
 description: "The authors recommend that educators \"participate in the creative teconstruction of language which foregrounds our kinship with naturn\" (article's OCR spellings preserved), developing myths and metaphors that sing the..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: claim
 title: Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement
 description: Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement
 id: rural-transportation-barriers-parent-involvement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

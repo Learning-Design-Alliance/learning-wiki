@@ -3,7 +3,7 @@ type: claim
 title: The additive entropy decomposition is an upper bound, not a security measure; adversary uncertainty is a conditional entropy
 description: The additive entropy decomposition is an upper bound, not a security measure; adversary uncertainty is a conditional entropy
 id: bavd-entropy-decomposition-upper-bound-not-security-measure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

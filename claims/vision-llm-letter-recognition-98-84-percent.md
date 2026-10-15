@@ -3,7 +3,7 @@ type: claim
 title: "In the authors' practical test, vision-capable LLMs recognized handwritten examination letters with high accuracy, with Gemini 3 Flash best at about 98.84% (35 errors in 3009 letters)"
 description: "In the authors' practical test, vision-capable LLMs recognized handwritten examination letters with high accuracy, with Gemini 3 Flash best at about 98.84% (35 errors in 3009 letters)"
 id: vision-llm-letter-recognition-98-84-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

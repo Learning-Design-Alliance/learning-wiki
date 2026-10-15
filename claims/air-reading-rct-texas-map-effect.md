@@ -3,7 +3,7 @@ type: claim
 title: Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)
 description: Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)
 id: air-reading-rct-texas-map-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

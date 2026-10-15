@@ -3,7 +3,7 @@ type: claim
 title: Reallocating resources enabled differentiated professional learning for English learners and students with disabilities
 description: Reallocating resources enabled differentiated professional learning for English learners and students with disabilities
 id: differentiated-professional-learning-reallocation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

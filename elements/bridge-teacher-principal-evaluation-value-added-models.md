@@ -3,7 +3,7 @@ type: element
 id: bridge-teacher-principal-evaluation-value-added-models
 title: BRIDGE teacher and principal evaluation value-added models
 description: The BRIDGE educator evaluation system incorporates value-added models that measure school and teacher contributions to student achievement in Charleston County School District.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

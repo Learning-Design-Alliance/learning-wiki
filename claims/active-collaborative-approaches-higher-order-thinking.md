@@ -3,7 +3,7 @@ type: claim
 title: Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)
 description: Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)
 id: active-collaborative-approaches-higher-order-thinking
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

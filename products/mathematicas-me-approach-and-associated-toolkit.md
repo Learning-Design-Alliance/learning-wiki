@@ -4,7 +4,7 @@ id: mathematicas-me-approach-and-associated-toolkit
 title: "Mathematica's M&E approach and associated toolkit"
 description: A Mathematica framework and toolkit that structures evidence gathering and decision-making across four phases of evidence-based solution development.
 product_kind: framework
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

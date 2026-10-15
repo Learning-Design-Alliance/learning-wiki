@@ -3,7 +3,7 @@ type: research-method
 id: general-education-categorization-two-level-taxonomy-of-learning-environments-endowment-dim
 title: "General education categorization: two-level taxonomy of learning environments, endowment dimensions, and developmental dimensions"
 description: "The article constructed a general education categorization from 343,238 Web of Science papers via a pipeline of \"literature screening, term extraction, embedding generation, coarse categorization and semantic clustering,\" refined by two domain experts."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

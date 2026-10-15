@@ -3,7 +3,7 @@ type: claim
 title: PETs expand the value of data by enabling sharing where in-the-clear approaches are infeasible
 description: PETs expand the value of data by enabling sharing where in-the-clear approaches are infeasible
 id: pets-expand-data-value-through-sharing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

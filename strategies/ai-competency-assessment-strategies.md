@@ -3,7 +3,7 @@ type: strategy
 id: ai-competency-assessment-strategies
 title: Assess AI competencies continuously with formative quizzes, peer review, reflective journals, real-world summative projects, and portfolios
 description: "The chapter recommends continuous evaluation of AI competencies to track student progress across the framework's dimensions."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

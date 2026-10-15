@@ -3,7 +3,7 @@ type: claim
 title: Influence-function diagnostics identify steps 3–8 of the Big-L peg-solitaire board as the most consequential region, with the lowest-β participants showing substantially larger absolute influence values there
 description: Influence-function diagnostics identify steps 3–8 of the Big-L peg-solitaire board as the most consequential region, with the lowest-β participants showing substantially larger absolute influence values there
 id: rlmm-influence-diagnostics-big-l-steps-3-8
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

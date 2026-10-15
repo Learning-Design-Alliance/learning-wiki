@@ -4,7 +4,7 @@ id: stari
 title: STARI
 description: A supplemental, multicomponent reading intervention for struggling middle-school readers, developed by the Strategic Education Research Partnership (SERP) and delivered through thematic units during the school day.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

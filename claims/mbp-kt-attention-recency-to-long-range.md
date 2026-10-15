@@ -3,7 +3,7 @@ type: claim
 title: "Injecting the collaborative prior redistributes AKT's attention from local recency bias toward long-range dependencies"
 description: "Injecting the collaborative prior redistributes AKT's attention from local recency bias toward long-range dependencies"
 id: mbp-kt-attention-recency-to-long-range
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: SAIL is designed to address second- and third-level digital divides through scaffolded skills and explicitly embedded equity competencies
 description: SAIL is designed to address second- and third-level digital divides through scaffolded skills and explicitly embedded equity competencies
 id: sail-addresses-second-third-level-digital-divides
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

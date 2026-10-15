@@ -3,7 +3,7 @@ type: claim
 title: Equated WCPM scores are more highly correlated across passages read by the same student than raw WCPM scores, suggesting greater reliability
 description: Equated WCPM scores are more highly correlated across passages read by the same student than raw WCPM scores, suggesting greater reliability
 id: equated-wcpm-higher-cross-passage-correlations
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

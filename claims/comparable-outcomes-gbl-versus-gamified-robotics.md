@@ -3,7 +3,7 @@ type: claim
 title: GBL and gamified approaches show comparable rates of quantifiable learning gains and affective outcomes in robotics education
 description: GBL and gamified approaches show comparable rates of quantifiable learning gains and affective outcomes in robotics education
 id: comparable-outcomes-gbl-versus-gamified-robotics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

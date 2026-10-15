@@ -4,7 +4,7 @@ id: the-pedagogy-benchmark
 title: The Pedagogy Benchmark
 description: A publicly released dataset developed by Lelièvre et al.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

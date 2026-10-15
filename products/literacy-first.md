@@ -4,7 +4,7 @@ id: literacy-first
 title: Literacy First
 description: Literacy First is an early-literacy tutoring programme run by Literacy First that provides trained tutors and individualized daily sessions for kindergarten through grade 2 students who are reading below grade level.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

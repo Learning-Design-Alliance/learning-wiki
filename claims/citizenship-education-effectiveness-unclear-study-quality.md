@@ -3,7 +3,7 @@ type: claim
 title: The effectiveness of different forms of citizenship education remains unclear, and the review evaluates effects in relation to the quality of the studies reviewed
 description: The effectiveness of different forms of citizenship education remains unclear, and the review evaluates effects in relation to the quality of the studies reviewed
 id: citizenship-education-effectiveness-unclear-study-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

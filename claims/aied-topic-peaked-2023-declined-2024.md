@@ -3,7 +3,7 @@ type: claim
 title: Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024
 description: Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024
 id: aied-topic-peaked-2023-declined-2024
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

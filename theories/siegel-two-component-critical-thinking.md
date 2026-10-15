@@ -2,7 +2,7 @@
 type: theory
 title: "Siegel's two-component account of critical thinking: reason assessment ability plus critical attitude"
 description: "The paper adopts Harvey Siegel's definition of the critical thinker as one who is \"appropriately moved by reasons.\" The account has two components: a reason assessment component, \"the principled assessment of reasons..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

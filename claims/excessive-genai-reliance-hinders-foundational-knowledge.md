@@ -3,7 +3,7 @@ type: claim
 title: Excessive GenAI reliance risks undermining foundational ICT knowledge, supporting supervised in-person assessment of foundational content
 description: Excessive GenAI reliance risks undermining foundational ICT knowledge, supporting supervised in-person assessment of foundational content
 id: excessive-genai-reliance-hinders-foundational-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

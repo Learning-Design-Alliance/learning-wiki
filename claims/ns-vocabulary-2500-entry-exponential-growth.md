@@ -3,7 +3,7 @@ type: claim
 title: Native-speaker children have about 2,500 words at school entry and vocabulary growth becomes exponential once independent reading begins
 description: Native-speaker children have about 2,500 words at school entry and vocabulary growth becomes exponential once independent reading begins
 id: ns-vocabulary-2500-entry-exponential-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Random Forest and SHAP analyses identify Gamma and Beta band power at temporal and frontal channels (T3, P3, F7, T4, T4, F8, F7) as the most critical features for EEG familiarity classification
 description: Random Forest and SHAP analyses identify Gamma and Beta band power at temporal and frontal channels (T3, P3, F7, T4, T4, F8, F7) as the most critical features for EEG familiarity classification
 id: gamma-beta-temporal-frontal-familiarity-biomarkers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

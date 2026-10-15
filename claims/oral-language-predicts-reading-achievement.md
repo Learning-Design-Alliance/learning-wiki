@@ -3,7 +3,7 @@ type: claim
 title: "A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement"
 description: A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement
 id: oral-language-predicts-reading-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

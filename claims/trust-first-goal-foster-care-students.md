@@ -3,7 +3,7 @@ type: claim
 title: Teachers report that building trust is the first and most important goal with students in foster care, and that trust precedes willingness to work
 description: Teachers report that building trust is the first and most important goal with students in foster care, and that trust precedes willingness to work
 id: trust-first-goal-foster-care-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

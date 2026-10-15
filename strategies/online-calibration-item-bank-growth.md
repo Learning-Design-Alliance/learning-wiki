@@ -3,7 +3,7 @@ type: strategy
 id: online-calibration-item-bank-growth
 title: Grow the MCD item bank during operation using online calibration embedded alongside scored items
 description: "To expand from 14 to 35 planned learning objectives without pausing testing, the authors recommend online calibration: \"the system embeds new, unscored items alongside the operational item bank, collects real student..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

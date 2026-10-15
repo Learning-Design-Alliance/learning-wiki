@@ -3,7 +3,7 @@ type: claim
 title: Interview respondents identify collaborative relationships, trust in evidence and its users, clarity on research types, and supportive leadership as facilitators of evidence use
 description: Interview respondents identify collaborative relationships, trust in evidence and its users, clarity on research types, and supportive leadership as facilitators of evidence use
 id: interview-facilitators-evidence-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

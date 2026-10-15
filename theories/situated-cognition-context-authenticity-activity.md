@@ -2,7 +2,7 @@
 type: theory
 title: "Situated cognition: context, authenticity, and activity as key dimensions"
 description: "Situated cognition holds that cognitive processes are located in physical and social contexts, drawing on Lave and Wenger's view of learning as participation in social practice."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

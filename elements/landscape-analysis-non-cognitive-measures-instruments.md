@@ -3,7 +3,7 @@ type: element
 id: landscape-analysis-non-cognitive-measures-instruments
 title: Landscape analysis of instruments measuring learning strategies and student mindsets in middle childhood
 description: This element is the Mathematica Policy Research landscape analysis project on non-cognitive measures.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

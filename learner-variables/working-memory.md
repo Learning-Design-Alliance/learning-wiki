@@ -3,7 +3,7 @@ type: learner-variable
 id: working-memory
 title: Working Memory
 description: How much a learner can hold and manipulate at once before the material itself becomes the obstacle.
-status: draft
+status: review
 generated:
   by: "claude/unspecified"
   at: 2026-09-02

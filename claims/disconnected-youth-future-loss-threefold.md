@@ -3,7 +3,7 @@ type: claim
 title: The future lifetime loss from disconnected youth is three times greater than the immediate loss during the youth years
 description: The future lifetime loss from disconnected youth is three times greater than the immediate loss during the youth years
 id: disconnected-youth-future-loss-threefold
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

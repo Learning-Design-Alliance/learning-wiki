@@ -3,7 +3,7 @@ type: claim
 title: None of the WWC-standards-meeting studies of Tier 2 literacy interventions were conducted in CNMI or other Pacific islands, limiting generalizability
 description: None of the WWC-standards-meeting studies of Tier 2 literacy interventions were conducted in CNMI or other Pacific islands, limiting generalizability
 id: no-tier2-literacy-studies-conducted-in-cnmi
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

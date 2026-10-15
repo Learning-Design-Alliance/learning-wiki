@@ -3,7 +3,7 @@ type: theory
 title: Criterion-referenced versus norm-referenced grading as two competing conceptions of grading
 description: "The article frames grading as a choice between two conceptions: grading students in competition with one another (norm-referenced, on a curve) versus grading in terms of how well they achieve the explicit standards se..."
 canonical: true
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

@@ -3,7 +3,7 @@ type: claim
 title: CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty
 description: CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty
 id: glat-item-selection-discrimination
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

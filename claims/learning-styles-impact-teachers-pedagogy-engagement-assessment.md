@@ -3,7 +3,7 @@ type: claim
 title: Learning styles impact teachers, pedagogy, student engagement, and assessment in K-12 education
 description: Learning styles impact teachers, pedagogy, student engagement, and assessment in K-12 education
 id: learning-styles-impact-teachers-pedagogy-engagement-assessment
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

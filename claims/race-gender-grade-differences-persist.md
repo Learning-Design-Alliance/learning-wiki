@@ -3,7 +3,7 @@ type: claim
 title: Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers
 description: Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers
 id: race-gender-grade-differences-persist
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

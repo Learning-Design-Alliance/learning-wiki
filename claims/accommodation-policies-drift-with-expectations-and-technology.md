@@ -3,7 +3,7 @@ type: claim
 title: Accommodation policies drift over time as public or industry expectations change and new technology arises
 description: Accommodation policies drift over time as public or industry expectations change and new technology arises
 id: accommodation-policies-drift-with-expectations-and-technology
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

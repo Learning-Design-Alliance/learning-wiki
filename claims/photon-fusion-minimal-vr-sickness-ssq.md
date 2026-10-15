@@ -3,7 +3,7 @@ type: claim
 title: VR sickness in the system is minimal overall (SSQ total 12.88), with nausea lowest and oculomotor symptoms most significant
 description: VR sickness in the system is minimal overall (SSQ total 12.88), with nausea lowest and oculomotor symptoms most significant
 id: photon-fusion-minimal-vr-sickness-ssq
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

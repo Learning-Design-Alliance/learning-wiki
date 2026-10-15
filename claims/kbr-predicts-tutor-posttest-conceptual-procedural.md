@@ -3,7 +3,7 @@ type: claim
 title: "Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questions predicts conceptual and procedural post-test scores"
 description: "Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questions predicts conceptual and procedural post-test scores"
 id: kbr-predicts-tutor-posttest-conceptual-procedural
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

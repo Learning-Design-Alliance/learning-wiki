@@ -3,7 +3,7 @@ type: claim
 title: "MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts"
 description: "MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts"
 id: mlm-script-intermediate-between-mlm-and-textbook
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

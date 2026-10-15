@@ -1,7 +1,7 @@
 ---
 type: claim
 title: "Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here"
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

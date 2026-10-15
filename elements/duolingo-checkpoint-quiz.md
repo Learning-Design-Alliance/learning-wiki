@@ -3,7 +3,7 @@ type: element
 id: duolingo-checkpoint-quiz
 title: "Checkpoint Quiz: a unit-terminal achievement test with embedded pre-test/post-test design"
 description: The Checkpoint Quiz is a custom-built assessment learners complete when finishing a unit at a Checkpoint.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

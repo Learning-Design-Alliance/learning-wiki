@@ -3,7 +3,7 @@ type: claim
 title: Chi-square difference tests show significant loading invariance constraints for Kansas Reading but all constraints significant for Michigan Mathematics
 description: Chi-square difference tests show significant loading invariance constraints for Kansas Reading but all constraints significant for Michigan Mathematics
 id: mgcfa-chi-square-difference-patterns-kansas-michigan
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

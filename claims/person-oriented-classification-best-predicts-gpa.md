@@ -3,7 +3,7 @@ type: claim
 title: Person-oriented classification predicts later GPA significantly better than dimensional or categorical methods
 description: Person-oriented classification predicts later GPA significantly better than dimensional or categorical methods
 id: person-oriented-classification-best-predicts-gpa
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

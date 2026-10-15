@@ -3,7 +3,7 @@ type: strategy
 id: six-recommendations-equitable-sead
 title: Six recommendations for school and district leaders to create equitable SEAD learning environments
 description: "The report outlines six recommendations: (1) provide meaningful professional development and supports, (2) engage parents, students, and communities as full partners, (3) diversify the workforce, (4) ensure equitable..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them"
 description: "Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them"
 id: attitude-predicts-intention-genai
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

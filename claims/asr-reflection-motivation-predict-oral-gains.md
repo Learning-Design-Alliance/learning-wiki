@@ -3,7 +3,7 @@ type: claim
 title: Reflective behavior and learning motivation each significantly predict oral proficiency improvement in ASR-assisted instruction
 description: Reflective behavior and learning motivation each significantly predict oral proficiency improvement in ASR-assisted instruction
 id: asr-reflection-motivation-predict-oral-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

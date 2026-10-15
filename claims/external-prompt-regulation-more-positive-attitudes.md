@@ -3,7 +3,7 @@ type: claim
 title: Learners report more positive attitudes toward externally regulated prompts than self-regulated prompts
 description: Learners report more positive attitudes toward externally regulated prompts than self-regulated prompts
 id: external-prompt-regulation-more-positive-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

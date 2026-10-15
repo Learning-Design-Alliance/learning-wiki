@@ -3,7 +3,7 @@ type: strategy
 id: skill-based-adaptive-fading-schedule
 title: Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems
 description: The article reports that current skill levels, in terms of self-explanation performance while studying examples and problem solving performance, can be employed to determine appropriate learning conditions, informing...
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

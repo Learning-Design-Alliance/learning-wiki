@@ -3,7 +3,7 @@ type: strategy
 id: detection-tools-within-broader-decision-process
 title: Position AI detection tools as one component within a broader institutional decision-making process, with regularly updated benchmarks
 description: "The article offers higher education institutions a concrete implementation approach: \"institutional policies should position AI detection tools such as Pangram as one component within a broader decision-making process..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

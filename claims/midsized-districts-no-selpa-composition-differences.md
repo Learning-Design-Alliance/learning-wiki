@@ -3,7 +3,7 @@ type: claim
 title: No meaningful differences in characteristics, inclusion, or academic outcomes among midsized districts in SELPAs with versus without a large district
 description: No meaningful differences in characteristics, inclusion, or academic outcomes among midsized districts in SELPAs with versus without a large district
 id: midsized-districts-no-selpa-composition-differences
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

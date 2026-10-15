@@ -3,7 +3,7 @@ type: claim
 title: Course syllabi name specific GenAI tools — ChatGPT in 90 of 98 — while institutional guidelines contain no code for specific tools
 description: Course syllabi name specific GenAI tools — ChatGPT in 90 of 98 — while institutional guidelines contain no code for specific tools
 id: specific-tools-named-in-syllabi-not-institutional
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

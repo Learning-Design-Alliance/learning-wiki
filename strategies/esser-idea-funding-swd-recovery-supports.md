@@ -3,7 +3,7 @@ type: strategy
 id: esser-idea-funding-swd-recovery-supports
 title: Use federal ESSER and IDEA funding to provide early intervention, extended school year support in the summer, and other evidence-based supports for students with disabilities
 description: The brief recommends directing federal recovery and special education funding toward recovery supports for students with disabilities.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

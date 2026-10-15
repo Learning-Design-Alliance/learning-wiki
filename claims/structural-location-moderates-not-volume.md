@@ -3,7 +3,7 @@ type: claim
 title: Outcome turns on the structural location the synthetic position occupies, not the volume of use; population-level studies indexing use alone should record a washed-out average effect
 description: Outcome turns on the structural location the synthetic position occupies, not the volume of use; population-level studies indexing use alone should record a washed-out average effect
 id: structural-location-moderates-not-volume
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

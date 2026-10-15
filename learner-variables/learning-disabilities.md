@@ -3,7 +3,7 @@ type: learner-variable
 id: learning-disabilities
 title: Learning Disabilities and Developmental Differences
 description: Identified learning, developmental and intellectual disabilities (dyslexia and other specific learning disabilities, autism, intellectual disability), and the special educational needs that follow from them.
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-10-13

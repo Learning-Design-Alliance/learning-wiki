@@ -3,7 +3,7 @@ type: claim
 title: The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students
 description: The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students
 id: kauffman-school-attendance-impact-one-percentage-point
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

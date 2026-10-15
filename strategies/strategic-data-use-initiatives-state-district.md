@@ -3,7 +3,7 @@ type: strategy
 id: strategic-data-use-initiatives-state-district
 title: Foundation-funded state and district initiatives promoting strategic data use
 description: The Gates Foundation funded four initiatives promoting strategic use of data at the state and district levels, which Mathematica evaluated and used to inform the DDDM framework.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

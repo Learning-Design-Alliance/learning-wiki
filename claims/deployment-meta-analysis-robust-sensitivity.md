@@ -3,7 +3,7 @@ type: claim
 title: Pooled effect sizes for deployment on mental health are robust across components of methodological quality in sensitivity analyses
 description: Pooled effect sizes for deployment on mental health are robust across components of methodological quality in sensitivity analyses
 id: deployment-meta-analysis-robust-sensitivity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

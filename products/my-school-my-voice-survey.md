@@ -4,7 +4,7 @@ id: my-school-my-voice-survey
 title: My School, My Voice survey
 description: "CCSR's My School, My Voice product combines teacher and student school-climate survey responses into 31 school-level measures with comparative trend reports and item-level details."
 product_kind: assessment
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

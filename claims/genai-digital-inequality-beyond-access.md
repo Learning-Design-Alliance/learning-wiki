@@ -3,7 +3,7 @@ type: claim
 title: GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support
 description: GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support
 id: genai-digital-inequality-beyond-access
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

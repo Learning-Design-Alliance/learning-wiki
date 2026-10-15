@@ -3,7 +3,7 @@ type: claim
 title: Both HSGPA and ACT strongly predict four-year college enrollment and enrollment in colleges with strong graduation rates
 description: Both HSGPA and ACT strongly predict four-year college enrollment and enrollment in colleges with strong graduation rates
 id: gpa-and-act-predict-enrollment-college-quality
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

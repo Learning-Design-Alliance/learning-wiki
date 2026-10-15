@@ -3,7 +3,7 @@ type: claim
 title: Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times
 description: Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times
 id: single-novel-reading-incidental-vocabulary-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

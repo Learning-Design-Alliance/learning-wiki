@@ -3,7 +3,7 @@ type: claim
 title: "SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)"
 description: SWPBIS produces a very small improvement in teacher-rated prosocial behavior among elementary school children (ES = 0.17)
 id: swpbis-improves-prosocial-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

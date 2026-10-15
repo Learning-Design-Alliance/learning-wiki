@@ -2,7 +2,7 @@
 type: theory
 title: "Three Types of Use: Interacting with AI, Creating with AI, and Problem Solving with AI"
 description: The framework distinguishes three Types of Use—distinct purposes for which users engage with AI-enabled tools.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

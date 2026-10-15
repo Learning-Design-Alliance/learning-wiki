@@ -3,7 +3,7 @@ type: strategy
 id: train-all-literacy-block-staff-morphology-plus
 title: Train all literacy-block staff, including classroom assistants, in the Morphology+ program for effective implementation
 description: "The review's staffing guidance recommends that implementation succeed when every adult delivering literacy instruction is trained: \"All teachers, including classroom assistants, who work with students during their lit..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

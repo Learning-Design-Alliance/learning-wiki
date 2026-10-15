@@ -4,7 +4,7 @@ id: civic-online-reasoning-video-library
 title: Civic Online Reasoning Video Library
 description: A library of videos developed by the Civic Online Reasoning project to teach students and educators how to evaluate online information and data sources.
 product_kind: curriculum
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

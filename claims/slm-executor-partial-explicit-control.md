@@ -3,7 +3,7 @@ type: claim
 title: An SLM executor under tight constraints can drive a Cognitive Agent through formatted outputs and logit-based action selection, yielding partial rather than full explainability
 description: An SLM executor under tight constraints can drive a Cognitive Agent through formatted outputs and logit-based action selection, yielding partial rather than full explainability
 id: slm-executor-partial-explicit-control
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

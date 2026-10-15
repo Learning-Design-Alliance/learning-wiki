@@ -3,7 +3,7 @@ type: claim
 title: "Through Chapelle's CALL evaluation criteria, participants experienced ASR writing as useful, authentic, meaning-focused, and matched to their proficiency level"
 description: "Through Chapelle's CALL evaluation criteria, participants experienced ASR writing as useful, authentic, meaning-focused, and matched to their proficiency level"
 id: chapelle-criteria-asr-writing-affordances
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

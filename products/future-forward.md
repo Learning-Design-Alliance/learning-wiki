@@ -4,7 +4,7 @@ id: future-forward
 title: Future Forward
 description: Future Forward is a branded early-literacy tutoring and family-engagement programme implemented by participating schools and sites for struggling students in kindergarten through grade 3.
 product_kind: programme
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

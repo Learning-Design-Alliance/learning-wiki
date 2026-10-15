@@ -3,7 +3,7 @@ type: claim
 title: "CALPADS course record availability was lower for students in high-FRPM, small, and nontraditional schools (56%, 36%, and 31% with all four years)"
 description: "CALPADS course record availability was lower for students in high-FRPM, small, and nontraditional schools (56%, 36%, and 31% with all four years)"
 id: calpads-availability-lower-small-nontraditional-schools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

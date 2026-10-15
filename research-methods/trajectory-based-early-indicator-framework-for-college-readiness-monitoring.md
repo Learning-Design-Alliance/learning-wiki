@@ -3,7 +3,7 @@ type: research-method
 id: trajectory-based-early-indicator-framework-for-college-readiness-monitoring
 title: Trajectory-based early indicator framework for college readiness monitoring
 description: The article presents a framework that applies college readiness benchmarks to longitudinal middle-grades assessment data, assigning each student a series of up to six on-track status indicators and grouping students into six trajectory patterns.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

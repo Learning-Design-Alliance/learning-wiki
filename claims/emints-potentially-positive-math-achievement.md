@@ -3,7 +3,7 @@ type: claim
 title: eMINTS has potentially positive effects on general mathematics achievement (improvement index +2 across two studies)
 description: eMINTS has potentially positive effects on general mathematics achievement (improvement index +2 across two studies)
 id: emints-potentially-positive-math-achievement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge
 description: Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge
 id: teacher-efficacy-pck-underpin-differentiation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: On public-source benchmark subsets, corrected scores for all three frontier models rise dramatically after excluding flawed questions
 description: On public-source benchmark subsets, corrected scores for all three frontier models rise dramatically after excluding flawed questions
 id: public-source-benchmark-corrected-scores-rise-dramatically
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

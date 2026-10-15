@@ -3,7 +3,7 @@ type: claim
 title: PALS showed no statistically significant effects on near-transfer and far-transfer reading fluency for first graders
 description: PALS showed no statistically significant effects on near-transfer and far-transfer reading fluency for first graders
 id: pals-fluency-no-significant-effects-first-grade
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

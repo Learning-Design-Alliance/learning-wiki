@@ -3,7 +3,7 @@ type: claim
 title: School climate is more strongly associated with the likelihood of beating the odds than student demographics or personnel resources
 description: School climate is more strongly associated with the likelihood of beating the odds than student demographics or personnel resources
 id: climate-stronger-association-than-resources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

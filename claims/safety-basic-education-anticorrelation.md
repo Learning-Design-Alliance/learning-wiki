@@ -3,7 +3,7 @@ type: claim
 title: Safety and Trustworthiness is strongly anti-correlated with Basic Education across the nine evaluated models (r = −0.83)
 description: Safety and Trustworthiness is strongly anti-correlated with Basic Education across the nine evaluated models (r = −0.83)
 id: safety-basic-education-anticorrelation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

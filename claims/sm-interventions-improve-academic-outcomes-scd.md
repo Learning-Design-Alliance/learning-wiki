@@ -3,7 +3,7 @@ type: claim
 title: Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies
 description: Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies
 id: sm-interventions-improve-academic-outcomes-scd
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: On the CASED challenge test set, all participating engagement-prediction methods converge near random-chance performance, with the best F1 Macro at 0.52
 description: On the CASED challenge test set, all participating engagement-prediction methods converge near random-chance performance, with the best F1 Macro at 0.52
 id: cased-challenge-methods-near-random-chance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

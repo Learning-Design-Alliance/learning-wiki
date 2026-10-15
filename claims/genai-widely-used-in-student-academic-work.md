@@ -3,7 +3,7 @@ type: claim
 title: GenAI tools are already widely used in the academic work of the surveyed undergraduates
 description: GenAI tools are already widely used in the academic work of the surveyed undergraduates
 id: genai-widely-used-in-student-academic-work
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

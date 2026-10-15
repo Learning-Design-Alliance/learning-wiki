@@ -3,7 +3,7 @@ type: claim
 title: The training-by-content interaction did not vary with retention interval duration in the human experiment
 description: The training-by-content interaction did not vary with retention interval duration in the human experiment
 id: no-training-retention-interval-interaction
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

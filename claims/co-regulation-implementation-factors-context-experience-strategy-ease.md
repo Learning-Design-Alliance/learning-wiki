@@ -3,7 +3,7 @@ type: claim
 title: Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies
 description: Implementation of co-regulation strategies was shaped by classroom context, facilitator experience and mindset, and varied in ease across strategies
 id: co-regulation-implementation-factors-context-experience-strategy-ease
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

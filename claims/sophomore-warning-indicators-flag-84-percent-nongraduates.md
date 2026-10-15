@@ -3,7 +3,7 @@ type: claim
 title: By the end of sophomore year, 84 percent of eventual non-graduates showed at least one warning indicator
 description: By the end of sophomore year, 84 percent of eventual non-graduates showed at least one warning indicator
 id: sophomore-warning-indicators-flag-84-percent-nongraduates
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

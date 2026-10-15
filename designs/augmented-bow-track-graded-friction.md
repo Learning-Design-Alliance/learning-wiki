@@ -3,7 +3,7 @@ type: design
 id: augmented-bow-track-graded-friction
 title: Augmented bow track with graded friction feedback
 description: A speculative clip-on augmentation positioned between the bridge and fingerboard, using two moving tensioners that hold the bow and shift position according to the string being played.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

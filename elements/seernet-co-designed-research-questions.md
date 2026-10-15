@@ -3,7 +3,7 @@ type: element
 id: seernet-co-designed-research-questions
 title: Co-designed future-oriented research questions on personalization, learning environments, engagement metrics, and reward systems
 description: "The presentation lists examples of co-designed research questions, including \"How does personalizing learning by providing leveled readings and resources affect the learning process of acquiring new concepts?\", questi..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy
 description: Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy
 id: em-scoring-responses-can-show-partial-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

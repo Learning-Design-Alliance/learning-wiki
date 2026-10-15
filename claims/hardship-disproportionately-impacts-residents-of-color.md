@@ -3,7 +3,7 @@ type: claim
 title: Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge
 description: Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge
 id: hardship-disproportionately-impacts-residents-of-color
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

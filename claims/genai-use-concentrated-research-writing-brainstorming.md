@@ -3,7 +3,7 @@ type: claim
 title: "Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation"
 description: "Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation"
 id: genai-use-concentrated-research-writing-brainstorming
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

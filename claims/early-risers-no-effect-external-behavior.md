@@ -3,7 +3,7 @@ type: claim
 title: Early Risers shows no discernible effects on external behavior for children at risk of emotional disturbance classification
 description: Early Risers shows no discernible effects on external behavior for children at risk of emotional disturbance classification
 id: early-risers-no-effect-external-behavior
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

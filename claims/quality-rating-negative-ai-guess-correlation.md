@@ -3,7 +3,7 @@ type: claim
 title: "Students associate poor slide quality with AI as the source: perceived quality correlates negatively with AI-source guesses"
 description: "Students associate poor slide quality with AI as the source: perceived quality correlates negatively with AI-source guesses"
 id: quality-rating-negative-ai-guess-correlation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

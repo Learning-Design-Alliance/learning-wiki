@@ -3,7 +3,7 @@ type: claim
 title: A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings
 description: A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings
 id: proactive-engagement-constructive-adequate-reasoning-link
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: "In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage"
 description: "In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage"
 id: bradley-terry-model-selection-matters-more-than-source-type
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

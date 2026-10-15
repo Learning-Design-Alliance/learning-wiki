@@ -3,7 +3,7 @@ type: claim
 title: Student teachers hired by CPS showed no differences in mentor ratings or feelings of preparation compared with those not hired
 description: Student teachers hired by CPS showed no differences in mentor ratings or feelings of preparation compared with those not hired
 id: cps-hired-vs-not-hired-no-difference-mentor-ratings
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

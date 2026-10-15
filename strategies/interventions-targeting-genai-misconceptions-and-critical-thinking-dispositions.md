@@ -3,7 +3,7 @@ type: strategy
 id: interventions-targeting-genai-misconceptions-and-critical-thinking-dispositions
 title: Interventions targeting genAI misconceptions, epistemic orientation, and intellectual values to foster critical genAI use
 description: Based on their finding that knowledge and critical-thinking dispositions predict critical genAI use, the authors recommend that higher education institutions implement interventions addressing these predictors.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy
 description: An LLM-based analogy judge validated against expert judgments shows moderate-to-strong agreement and screens most generated analogies as meeting baseline adequacy
 id: anvil-llm-judge-analogy-screening
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

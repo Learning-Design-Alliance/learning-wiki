@@ -3,7 +3,7 @@ type: claim
 title: Twenty years of research on disengaged test taking in international assessment programs yields six insights with implications for assessment programs
 description: Twenty years of research on disengaged test taking in international assessment programs yields six insights with implications for assessment programs
 id: six-insights-test-taking-disengagement-international-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

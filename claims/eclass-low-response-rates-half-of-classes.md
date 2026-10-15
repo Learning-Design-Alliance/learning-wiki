@@ -3,7 +3,7 @@ type: claim
 title: "Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response"
 description: "Survey participation was low in about half of administered classes, with only 20 of 45 classes exceeding 40% matched pre/post response"
 id: eclass-low-response-rates-half-of-classes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

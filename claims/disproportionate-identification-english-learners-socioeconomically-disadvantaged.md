@@ -3,7 +3,7 @@ type: claim
 title: Special education identification is disproportionate for English learner and socioeconomically disadvantaged students in California
 description: Special education identification is disproportionate for English learner and socioeconomically disadvantaged students in California
 id: disproportionate-identification-english-learners-socioeconomically-disadvantaged
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

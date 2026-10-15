@@ -3,7 +3,7 @@ type: claim
 title: Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math
 description: Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math
 id: wa-charter-school-level-variation-three-of-nine
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

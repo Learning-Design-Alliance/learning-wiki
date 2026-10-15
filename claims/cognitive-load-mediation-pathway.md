@@ -3,7 +3,7 @@ type: claim
 title: Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators
 description: Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators
 id: cognitive-load-mediation-pathway
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

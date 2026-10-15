@@ -3,7 +3,7 @@ type: claim
 title: Early-grade retention rose after the policy, and roughly 20 percent of first and second graders who were retained experienced a second retention in third grade
 description: Early-grade retention rose after the policy, and roughly 20 percent of first and second graders who were retained experienced a second retention in third grade
 id: early-grade-retention-rise-double-retention
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

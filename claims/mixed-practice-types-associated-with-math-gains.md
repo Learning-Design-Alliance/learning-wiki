@@ -3,7 +3,7 @@ type: claim
 title: Practices associated with higher math achievement gains include both student-centered and teacher-directed practices, though some student-centered practices were associated with lower gains
 description: Practices associated with higher math achievement gains include both student-centered and teacher-directed practices, though some student-centered practices were associated with lower gains
 id: mixed-practice-types-associated-with-math-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

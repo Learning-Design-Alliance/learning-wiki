@@ -3,7 +3,7 @@ type: claim
 title: "Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline"
 description: "Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline"
 id: retrieval-augmentation-essential-local-llm-below-tfidf
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

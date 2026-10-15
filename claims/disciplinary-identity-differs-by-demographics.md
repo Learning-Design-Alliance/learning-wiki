@@ -3,7 +3,7 @@ type: claim
 title: "Undergraduate researchers' disciplinary identity differs by demographic characteristics"
 description: "Undergraduate researchers' disciplinary identity differs by demographic characteristics"
 id: disciplinary-identity-differs-by-demographics
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

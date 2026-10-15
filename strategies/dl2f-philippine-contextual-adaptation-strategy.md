@@ -3,7 +3,7 @@ type: strategy
 id: dl2f-philippine-contextual-adaptation-strategy
 title: Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration
 description: "The article prescribes a concrete adaptation recipe for implementing DL2F in Philippine secondary schools: align with the K-12 curriculum and DepEd goals, select authentic resources reflecting Philippine culture, hist..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

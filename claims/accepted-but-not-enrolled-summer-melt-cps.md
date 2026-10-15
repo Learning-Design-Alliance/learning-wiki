@@ -3,7 +3,7 @@ type: claim
 title: Approximately 10 percent of CPS graduates accepted into a four-year college do not enroll the following fall
 description: Approximately 10 percent of CPS graduates accepted into a four-year college do not enroll the following fall
 id: accepted-but-not-enrolled-summer-melt-cps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

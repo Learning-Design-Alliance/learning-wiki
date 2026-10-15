@@ -3,7 +3,7 @@ type: claim
 title: "Principals' perceptions of their work with their supervisor and of the supervisor's effectiveness improved under the PSI"
 description: "Principals' perceptions of their work with their supervisor and of the supervisor's effectiveness improved under the PSI"
 id: psi-improved-principal-perceptions-of-supervisors
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

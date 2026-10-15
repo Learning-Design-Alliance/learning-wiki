@@ -3,7 +3,7 @@ type: claim
 title: The 2010-2015 study examined characteristics of 30 TRPs, including required coursework, teacher backgrounds and experiences, and teacher retention
 description: The 2010-2015 study examined characteristics of 30 TRPs, including required coursework, teacher backgrounds and experiences, and teacher retention
 id: trp-multisite-study-30-programs
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

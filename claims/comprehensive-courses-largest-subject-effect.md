@@ -3,7 +3,7 @@ type: claim
 title: Subject significantly moderates effects, with AI-enabled personalized STEM education most effective in comprehensive courses (g = 2.161)
 description: Subject significantly moderates effects, with AI-enabled personalized STEM education most effective in comprehensive courses (g = 2.161)
 id: comprehensive-courses-largest-subject-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

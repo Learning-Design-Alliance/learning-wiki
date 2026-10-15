@@ -3,7 +3,7 @@ type: claim
 title: "The Kauffman School's hallmarks are largely being implemented faithfully"
 description: "The Kauffman School's hallmarks are largely being implemented faithfully"
 id: kauffman-school-hallmarks-implemented-faithfully
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

@@ -3,7 +3,7 @@ type: claim
 title: "Teacher impacts on Black students' test scores vary widely, from 0.2 standard deviations in middle school English to 0.5 standard deviations in elementary school math between high- and low-effectiveness teachers"
 description: "Teacher impacts on Black students' test scores vary widely, from 0.2 standard deviations in middle school English to 0.5 standard deviations in elementary school math between high- and low-effectiveness teachers"
 id: teacher-effectiveness-black-students-varies-widely
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

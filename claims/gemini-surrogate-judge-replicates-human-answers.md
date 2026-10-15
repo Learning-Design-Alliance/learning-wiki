@@ -3,7 +3,7 @@ type: claim
 title: Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs
 description: Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs
 id: gemini-surrogate-judge-replicates-human-answers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

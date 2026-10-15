@@ -3,7 +3,7 @@ type: claim
 title: "For-profit alternative certification pathways account for over 70% of Texas educator preparation enrollment while overall completion fell 14% over a decade"
 description: "For-profit alternative certification pathways account for over 70% of Texas educator preparation enrollment while overall completion fell 14% over a decade"
 id: texas-for-profit-alternative-enrollment-completion-divergence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

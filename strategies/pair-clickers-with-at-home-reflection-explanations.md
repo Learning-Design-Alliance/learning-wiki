@@ -3,7 +3,7 @@ type: strategy
 id: pair-clickers-with-at-home-reflection-explanations
 title: Pair clicker questions with at-home follow-up reflections asking students to explain each statement
 description: "The article describes an instructional sequence in which targeted clicker questions are revisited on an end-of-week online homework assignment: the question is displayed verbatim with correct answers, and students are..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-02

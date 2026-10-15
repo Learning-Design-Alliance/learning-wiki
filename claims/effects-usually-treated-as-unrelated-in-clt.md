@@ -3,7 +3,7 @@ type: claim
 title: Within cognitive load theory, the element interactivity and expertise reversal effects are usually not treated as closely related effects
 description: Within cognitive load theory, the element interactivity and expertise reversal effects are usually not treated as closely related effects
 id: effects-usually-treated-as-unrelated-in-clt
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: Self-regulated learning and critical AI evaluation promote effective AI use
 description: Self-regulated learning and critical AI evaluation promote effective AI use
 id: srl-and-critical-evaluation-promote-effective-ai-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

@@ -2,7 +2,7 @@
 type: theory
 title: Universal Grammar parameter-setting account of L2 adverb-position acquisition
 description: "The article adopts the generative view that Universal Grammar is available in second language acquisition, so that syntactic positions of adverbs are \"universally determined and what people have to do is the work of p..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

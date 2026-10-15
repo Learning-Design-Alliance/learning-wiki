@@ -3,7 +3,7 @@ type: claim
 title: "Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities"
 description: "Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities"
 id: learning-studio-exposure-builds-student-awareness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: The effect of learning mode on children’s SSI applications was largest among elementary school children
 description: The effect of learning mode on children’s SSI applications was largest among elementary school children
 id: learning-mode-effect-largest-elementary-children
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

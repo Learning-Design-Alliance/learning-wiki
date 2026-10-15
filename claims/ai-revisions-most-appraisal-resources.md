@@ -3,7 +3,7 @@ type: claim
 title: AI-generated revisions employ significantly more appraisal resources than peer-feedback revisions, which exceed first drafts
 description: AI-generated revisions employ significantly more appraisal resources than peer-feedback revisions, which exceed first drafts
 id: ai-revisions-most-appraisal-resources
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

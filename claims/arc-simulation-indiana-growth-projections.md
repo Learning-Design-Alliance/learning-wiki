@@ -3,7 +3,7 @@ type: claim
 title: "Indiana Markov simulation projects ARC reaches 74% of public K–12 schools and produces 992 robotics programs after 40 years at moderate optimism, versus 161 under natural growth"
 description: "Indiana Markov simulation projects ARC reaches 74% of public K–12 schools and produces 992 robotics programs after 40 years at moderate optimism, versus 161 under natural growth"
 id: arc-simulation-indiana-growth-projections
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

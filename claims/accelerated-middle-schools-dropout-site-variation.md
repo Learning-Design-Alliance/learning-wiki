@@ -3,7 +3,7 @@ type: claim
 title: "Effects of accelerated middle schools on dropping out varied by site: significant in Michigan, substantively important but not significant in Georgia, and null in New Jersey"
 description: "Effects of accelerated middle schools on dropping out varied by site: significant in Michigan, substantively important but not significant in Georgia, and null in New Jersey"
 id: accelerated-middle-schools-dropout-site-variation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

@@ -3,7 +3,7 @@ type: claim
 title: Design-based research was part of 22 funded projects, learning analytics part of 34, and multimodal analytics in roughly a dozen
 description: Design-based research was part of 22 funded projects, learning analytics part of 34, and multimodal analytics in roughly a dozen
 id: research-methods-theme-project-counts
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

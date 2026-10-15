@@ -3,7 +3,7 @@ type: claim
 title: The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty
 description: The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty
 id: flipped-classroom-performance-sensitivity-imputed-data
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

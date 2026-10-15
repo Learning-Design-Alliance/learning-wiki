@@ -3,7 +3,7 @@ type: claim
 title: Functions metaphors framing GenAI as an efficient tool for routine and creative tasks were the most agreed-upon in the workshops
 description: Functions metaphors framing GenAI as an efficient tool for routine and creative tasks were the most agreed-upon in the workshops
 id: functions-metaphors-most-agreed-genai-tools
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

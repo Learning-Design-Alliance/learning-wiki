@@ -3,7 +3,7 @@ type: element
 id: empathy-interview-protocol-ct-pathways
 title: Empathy Interview Protocol for inclusive computing pathways
 description: "A five-step interview protocol that educators use to elicit students' experiences with CS/CT before designing computing pathways."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

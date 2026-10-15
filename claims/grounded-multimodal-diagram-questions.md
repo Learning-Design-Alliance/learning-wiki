@@ -3,7 +3,7 @@ type: claim
 title: The pipeline generated grounded questions about complex multimodal diagrams, citing visual evidence
 description: The pipeline generated grounded questions about complex multimodal diagrams, citing visual evidence
 id: grounded-multimodal-diagram-questions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

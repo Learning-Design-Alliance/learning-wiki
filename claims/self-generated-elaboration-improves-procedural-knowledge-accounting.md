@@ -3,7 +3,7 @@ type: claim
 title: "In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy"
 description: In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy
 id: self-generated-elaboration-improves-procedural-knowledge-accounting
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "Early math exposure in young children is linked to development, math confidence, and later math use (authors' assertion)"
 description: "Early math exposure in young children is linked to development, math confidence, and later math use (authors' assertion)"
 id: early-math-exposure-supports-development-confidence-later-use
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

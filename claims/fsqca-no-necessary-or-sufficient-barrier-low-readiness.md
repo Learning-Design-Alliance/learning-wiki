@@ -3,7 +3,7 @@ type: claim
 title: No barrier is necessary and no barrier configuration is sufficient for low AI readiness (fsQCA null result)
 description: No barrier is necessary and no barrier configuration is sufficient for low AI readiness (fsQCA null result)
 id: fsqca-no-necessary-or-sufficient-barrier-low-readiness
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

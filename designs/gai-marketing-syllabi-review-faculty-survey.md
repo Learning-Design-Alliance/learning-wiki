@@ -3,7 +3,7 @@ type: design
 id: gai-marketing-syllabi-review-faculty-survey
 title: "Multipronged exploratory study: syllabi review of 11 marketing courses plus survey of 14 faculty and interviews"
 description: "The article's empirical base is a multipronged exploratory analysis combining a review of marketing course syllabi, a survey of marketing educators, and follow-up qualitative interviews."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

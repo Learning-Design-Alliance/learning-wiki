@@ -3,7 +3,7 @@ type: claim
 title: Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews
 description: Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews
 id: repeated-retrieval-alters-the-rate-of-forgetting
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-24

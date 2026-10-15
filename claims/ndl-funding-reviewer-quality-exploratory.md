@@ -3,7 +3,7 @@ type: claim
 title: Exploratory analyses suggest NDL increased requested funding, reduced reviewer burden, and shifted proposal quality ratings for two GEO programs
 description: Exploratory analyses suggest NDL increased requested funding, reduced reviewer burden, and shifted proposal quality ratings for two GEO programs
 id: ndl-funding-reviewer-quality-exploratory
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

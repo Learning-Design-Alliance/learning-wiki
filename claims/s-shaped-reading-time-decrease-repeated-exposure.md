@@ -3,7 +3,7 @@ type: claim
 title: Reading times on unfamiliar words decrease non-linearly, following an S-shaped curve, as exposures accumulate during natural reading
 description: Reading times on unfamiliar words decrease non-linearly, following an S-shaped curve, as exposures accumulate during natural reading
 id: s-shaped-reading-time-decrease-repeated-exposure
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

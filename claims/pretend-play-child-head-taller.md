@@ -3,7 +3,7 @@ type: claim
 title: In pretend play the child behaves beyond her average age and daily behaviour
 description: In pretend play the child behaves beyond her average age and daily behaviour
 id: pretend-play-child-head-taller
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

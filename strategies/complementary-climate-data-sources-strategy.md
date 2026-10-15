@@ -3,7 +3,7 @@ type: strategy
 id: complementary-climate-data-sources-strategy
 title: Use districtwide surveys and school-developed measures complementarily at different stages of improvement
 description: The report recommends that large-scale districtwide surveys and school-developed tools be used for different purposes at different stages of school improvement.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

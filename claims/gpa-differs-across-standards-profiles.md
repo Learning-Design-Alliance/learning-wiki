@@ -3,7 +3,7 @@ type: claim
 title: Mean program GPA differs significantly across the five standards-attainment learner groups
 description: Mean program GPA differs significantly across the five standards-attainment learner groups
 id: gpa-differs-across-standards-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

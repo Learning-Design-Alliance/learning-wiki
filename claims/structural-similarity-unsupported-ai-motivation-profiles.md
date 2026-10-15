@@ -3,7 +3,7 @@ type: claim
 title: Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year
 description: Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year
 id: structural-similarity-unsupported-ai-motivation-profiles
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

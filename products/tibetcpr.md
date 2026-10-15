@@ -4,7 +4,7 @@ id: tibetcpr
 title: TibetCPR
 description: A low-cost self-guided CPR training system developed by Yibo Meng and colleagues that combines a sensor-equipped mannequin, electrotactile and visual performance feedback, and a Tibetan-language narrative game.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

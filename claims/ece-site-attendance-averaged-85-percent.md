@@ -3,7 +3,7 @@ type: claim
 title: Site-level pre-k attendance in the validation sample averaged 85.2 percent and varied widely across sites
 description: Site-level pre-k attendance in the validation sample averaged 85.2 percent and varied widely across sites
 id: ece-site-attendance-averaged-85-percent
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

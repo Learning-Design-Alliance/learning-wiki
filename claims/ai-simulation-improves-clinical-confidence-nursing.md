@@ -3,7 +3,7 @@ type: claim
 title: AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness
 description: AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness
 id: ai-simulation-improves-clinical-confidence-nursing
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

@@ -3,7 +3,7 @@ type: claim
 title: Prior-knowledge activation instructions before study had little effect on retention in Experiment 2
 description: Prior-knowledge activation instructions before study had little effect on retention in Experiment 2
 id: prior-knowledge-activation-little-effect-on-retention
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

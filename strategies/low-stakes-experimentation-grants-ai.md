@@ -3,7 +3,7 @@ type: strategy
 id: low-stakes-experimentation-grants-ai
 title: Fund low-stakes experimentation grants that give engineers safe places to test novel AI ideas with small groups of teachers and students
 description: This strategy uses small grants to let organizations pause, explore, and test AI ideas without market pressure.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

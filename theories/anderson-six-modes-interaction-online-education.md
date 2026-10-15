@@ -2,7 +2,7 @@
 type: theory
 title: "Anderson's six modes of interaction as an architectonic model of online education"
 description: "The article reviews Anderson's (2008) interactive model of online education, in which interaction is defined as a reciprocal event involving at least two objects and two actions, and six forms of interaction engage te..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

@@ -3,7 +3,7 @@ type: strategy
 id: critical-engagement-tasks-with-ai-generated-content
 title: Design curricula giving students opportunities to critically engage with AI and AI-generated content through validation, interpretation, and revision tasks
 description: "The article recommends that \"Curricula and instructional design should aim to pro- vide students with opportunities to critically engage with AI and AI generated-content in ways that align with emerging disciplinary u..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

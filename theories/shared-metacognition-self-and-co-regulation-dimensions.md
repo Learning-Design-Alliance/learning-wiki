@@ -2,7 +2,7 @@
 type: theory
 title: "Shared metacognition in online CoI as two interdependent dimensions: self-regulation and co-regulation"
 description: Within the online CoI, metacognition is defined as higher knowledge and skills to monitor and regulate cognitive processes of self and others, consisting of monitoring (awareness) and managing (regulation strategies).
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

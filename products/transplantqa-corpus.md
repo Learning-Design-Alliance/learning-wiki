@@ -4,7 +4,7 @@ id: transplantqa-corpus
 title: TransplantQA corpus
 description: A corpus of 102 U.S.
 product_kind: dataset
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

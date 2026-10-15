@@ -3,7 +3,7 @@ type: claim
 title: "Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat"
 description: "Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat"
 id: trait-temporal-trends-inconclusive-learning-curves
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Progress Learning showed a statistically significant positive impact on NWEA MAP reading scores for Grades 3-6 in Forney ISD, Texas
 description: Progress Learning showed a statistically significant positive impact on NWEA MAP reading scores for Grades 3-6 in Forney ISD, Texas
 id: progress-learning-forney-nwea-map-reading
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

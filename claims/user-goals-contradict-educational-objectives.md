@@ -3,7 +3,7 @@ type: claim
 title: Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community
 description: Individual user goals, such as avoiding cognitive load, can contradict the objectives of the educational community
 id: user-goals-contradict-educational-objectives
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

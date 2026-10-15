@@ -3,7 +3,7 @@ type: claim
 title: Individualized advocacy support and engagement curricula each have direct tests from multiple studies, giving stronger evidence than the other recommendations
 description: Individualized advocacy support and engagement curricula each have direct tests from multiple studies, giving stronger evidence than the other recommendations
 id: advocacy-and-engagement-direct-test-evidence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

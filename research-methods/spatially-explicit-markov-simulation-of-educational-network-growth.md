@@ -3,7 +3,7 @@ type: research-method
 id: spatially-explicit-markov-simulation-of-educational-network-growth
 title: Spatially explicit Markov simulation of educational network growth
 description: "A discrete-time stochastic model with annual transitions representing both school robotics-program development and each school's relationship to the ARC network."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-10

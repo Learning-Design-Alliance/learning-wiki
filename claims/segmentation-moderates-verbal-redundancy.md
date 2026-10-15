@@ -3,7 +3,7 @@ type: claim
 title: Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones
 description: Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones
 id: segmentation-moderates-verbal-redundancy
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

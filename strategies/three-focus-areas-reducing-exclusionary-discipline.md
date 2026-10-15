@@ -3,7 +3,7 @@ type: strategy
 id: three-focus-areas-reducing-exclusionary-discipline
 title: Focus reduction efforts on high schools, racial/achievement disparities, and conflict prevention/de-escalation
 description: "The report identifies three priority areas for districts seeking to reduce exclusionary disciplinary practices: targeting high schools (which account for 56 percent of OSS districtwide), addressing disparities affecti..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

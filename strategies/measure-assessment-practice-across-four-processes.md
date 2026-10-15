@@ -3,7 +3,7 @@ type: strategy
 id: measure-assessment-practice-across-four-processes
 title: "Measure teachers' assessment-to-instruction practice across planning, collection, interpretation, and use"
 description: "The article's approach for examining data-informed individualization is to structure observation across the full cycle: planning data collection, collecting valid data, organizing and interpreting data, and using data..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

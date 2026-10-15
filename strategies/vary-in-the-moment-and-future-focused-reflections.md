@@ -3,7 +3,7 @@ type: strategy
 id: vary-in-the-moment-and-future-focused-reflections
 title: Vary reflection timing between in-the-moment and future-focused reflections
 description: During the reflect step, students engage in reflections at different time scales.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

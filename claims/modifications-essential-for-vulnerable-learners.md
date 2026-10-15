@@ -3,7 +3,7 @@ type: claim
 title: Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities
 description: Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities
 id: modifications-essential-for-vulnerable-learners
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

@@ -3,7 +3,7 @@ type: claim
 title: "The linear-drag AI video yields a fitted glycerin viscosity (≈ 0.234 Pa·s) consistent with an aqueous glycerin solution of about 85% by weight"
 description: "The linear-drag AI video yields a fitted glycerin viscosity (≈ 0.234 Pa·s) consistent with an aqueous glycerin solution of about 85% by weight"
 id: ai-video-linear-drag-recovers-plausible-viscosity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

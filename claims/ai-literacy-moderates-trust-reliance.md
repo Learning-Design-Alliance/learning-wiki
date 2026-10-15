@@ -3,7 +3,7 @@ type: claim
 title: AI literacy negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as AI literacy increases
 description: AI literacy negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as AI literacy increases
 id: ai-literacy-moderates-trust-reliance
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

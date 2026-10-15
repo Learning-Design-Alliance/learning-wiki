@@ -3,7 +3,7 @@ type: claim
 title: "Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion"
 description: "Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion"
 id: five-general-inquiry-phases-identified
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

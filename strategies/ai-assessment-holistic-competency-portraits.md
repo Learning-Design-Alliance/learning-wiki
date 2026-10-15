@@ -3,7 +3,7 @@ type: strategy
 id: ai-assessment-holistic-competency-portraits
 title: Reorient AI assessment toward formative, holistic portraits of learner competencies rather than automated grading
 description: "In the assessment scenario, experts rejected AI as merely faster grading: \"they did not see AI as merely making conventional assessment more accurate or efficient, but as supporting broader goals for assessment that a..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

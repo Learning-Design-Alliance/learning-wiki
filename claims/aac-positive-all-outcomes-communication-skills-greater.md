@@ -3,7 +3,7 @@ type: claim
 title: AAC interventions showed positive effects on all targeted behavioral outcomes, with greater effects for communication skills than other skill categories
 description: AAC interventions showed positive effects on all targeted behavioral outcomes, with greater effects for communication skills than other skill categories
 id: aac-positive-all-outcomes-communication-skills-greater
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

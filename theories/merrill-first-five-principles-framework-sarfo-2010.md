@@ -2,7 +2,7 @@
 type: theory
 title: "Merrill's first five principles of instruction as the framework for quality teaching and learning"
 description: "The article adopts Merrill's first principles of instruction as its organizing framework: \"1) task centeredness, 2) demonstration, 3) activation, 4) application, and 5) integration\"."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

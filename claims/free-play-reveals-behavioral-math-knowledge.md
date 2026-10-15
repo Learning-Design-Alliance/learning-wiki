@@ -3,7 +3,7 @@ type: claim
 title: Preschool children demonstrate behavioral knowledge of classification, one-to-one correspondence, and seriation during everyday free play with everyday materials
 description: Preschool children demonstrate behavioral knowledge of classification, one-to-one correspondence, and seriation during everyday free play with everyday materials
 id: free-play-reveals-behavioral-math-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

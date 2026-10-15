@@ -3,7 +3,7 @@ type: claim
 title: Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1
 description: Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1
 id: term2-gains-consistent-with-term1
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

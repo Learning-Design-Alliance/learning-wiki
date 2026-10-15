@@ -3,7 +3,7 @@ type: claim
 title: Leveling up lessons preceding the source lesson improves Review Exercise accuracy, indicating transfer of learning benefits across lessons within a skill
 description: Leveling up lessons preceding the source lesson improves Review Exercise accuracy, indicating transfer of learning benefits across lessons within a skill
 id: leveling-up-benefit-transfers-across-lessons
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

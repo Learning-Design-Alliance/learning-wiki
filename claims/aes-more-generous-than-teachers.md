@@ -3,7 +3,7 @@ type: claim
 title: The AES tool scored middle school essays more generously than teacher scorers overall and on three of four dimensions
 description: The AES tool scored middle school essays more generously than teacher scorers overall and on three of four dimensions
 id: aes-more-generous-than-teachers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

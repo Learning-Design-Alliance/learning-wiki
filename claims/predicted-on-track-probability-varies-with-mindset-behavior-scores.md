@@ -3,7 +3,7 @@ type: claim
 title: Predicted probability of 9th grade on-track status varied substantially across the growth-mindset and academic-behavior scales
 description: Predicted probability of 9th grade on-track status varied substantially across the growth-mindset and academic-behavior scales
 id: predicted-on-track-probability-varies-with-mindset-behavior-scores
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

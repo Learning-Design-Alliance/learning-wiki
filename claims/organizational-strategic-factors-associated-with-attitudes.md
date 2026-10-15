@@ -3,7 +3,7 @@ type: claim
 title: At the organizational level, strategic leadership and climate, but not their general counterparts, are associated with implementer attitudes toward EBPs
 description: At the organizational level, strategic leadership and climate, but not their general counterparts, are associated with implementer attitudes toward EBPs
 id: organizational-strategic-factors-associated-with-attitudes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

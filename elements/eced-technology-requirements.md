@@ -3,7 +3,7 @@ type: element
 id: eced-technology-requirements
 title: ECED technology requirements
 description: "ECED implementation requires specific technology: \"Projector and computer for PowerPoint presentations, access to internet,\" web-based content-specific instructional programs, and a virtual file management system for..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

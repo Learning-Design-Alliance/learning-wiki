@@ -3,7 +3,7 @@ type: claim
 title: In Pilot District 3, majorities of students agreed that Compact Writing Assignments gave them topic choice and that autonomy and varied expression formats improved engagement and writing quality
 description: In Pilot District 3, majorities of students agreed that Compact Writing Assignments gave them topic choice and that autonomy and varied expression formats improved engagement and writing quality
 id: compact-writing-assignments-student-choice-engagement
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

@@ -3,7 +3,7 @@ type: claim
 title: Fluency Formula™ shows a negative but statistically non-significant effect on second-grade reading comprehension (effect size –0.28, improvement index –11)
 description: Fluency Formula™ shows a negative but statistically non-significant effect on second-grade reading comprehension (effect size –0.28, improvement index –11)
 id: fluency-formula-negative-nonsignificant-comprehension-effect
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

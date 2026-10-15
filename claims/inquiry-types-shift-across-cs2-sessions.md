@@ -3,7 +3,7 @@ type: claim
 title: "Students' question types shift from confusion-reporting toward procedural and task-oriented inquiry as tasks progress, though the session difference did not reach conventional significance"
 description: "Students' question types shift from confusion-reporting toward procedural and task-oriented inquiry as tasks progress, though the session difference did not reach conventional significance"
 id: inquiry-types-shift-across-cs2-sessions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Most education impact studies can rigorously address only broad questions due to power constraints
 description: Most education impact studies can rigorously address only broad questions due to power constraints
 id: most-impact-studies-address-broad-questions-only
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

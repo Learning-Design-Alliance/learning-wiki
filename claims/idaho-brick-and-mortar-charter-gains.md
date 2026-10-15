@@ -3,7 +3,7 @@ type: claim
 title: Brick-and-mortar Idaho charter students show stronger growth than average TPS students in both subjects
 description: Brick-and-mortar Idaho charter students show stronger growth than average TPS students in both subjects
 id: idaho-brick-and-mortar-charter-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

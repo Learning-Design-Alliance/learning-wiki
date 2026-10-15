@@ -3,7 +3,7 @@ type: strategy
 id: four-directions-llm-simulated-students
 title: "Deploy simulated students in four directions: teacher training, social learning, data generation, and content evaluation"
 description: "The article organizes promising applications of LLM-based simulated students into four directions, noting they share three unifying benefits: scalability beyond human availability, safety via risk-free experimentation..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

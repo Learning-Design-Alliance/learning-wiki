@@ -3,7 +3,7 @@ type: claim
 title: "Lexical richness and fluency measures differentiate between low-level L2 learners' comprehensibility"
 description: "Lexical richness and fluency measures differentiate between low-level L2 learners' comprehensibility"
 id: lexical-richness-fluency-differentiate-low-level-comprehensibility
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

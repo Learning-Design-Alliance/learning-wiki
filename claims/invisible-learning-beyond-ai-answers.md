@@ -3,7 +3,7 @@ type: claim
 title: Student narratives complicated the educator assumption that copied AI answers imply no learning, revealing invisible post-AI learning activities
 description: Student narratives complicated the educator assumption that copied AI answers imply no learning, revealing invisible post-AI learning activities
 id: invisible-learning-beyond-ai-answers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

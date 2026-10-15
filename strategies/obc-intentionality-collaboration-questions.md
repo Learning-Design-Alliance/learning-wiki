@@ -3,7 +3,7 @@ type: strategy
 id: obc-intentionality-collaboration-questions
 title: Structure OBC procurement around intentionality questions on learner goals, populations, outcomes, and stakeholders
 description: "The presentation offers a structured set of intentionality and collaboration questions districts should answer before contracting: what learner goals to explore and what the data says, which learner populations and gr..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

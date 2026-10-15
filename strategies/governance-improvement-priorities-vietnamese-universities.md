@@ -3,7 +3,7 @@ type: strategy
 id: governance-improvement-priorities-vietnamese-universities
 title: Prioritize leadership development, legal-framework refinement, and dialogue mechanisms to strengthen university governance
 description: The article derives recommendations from its regression and ANOVA findings for policymakers and university leaders.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-26

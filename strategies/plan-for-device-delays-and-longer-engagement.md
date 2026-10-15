@@ -3,7 +3,7 @@ type: strategy
 id: plan-for-device-delays-and-longer-engagement
 title: Plan for device distribution delays and extend engagement duration in practitioner advisory partnerships
 description: "Based on the advisory board's first six months, the authors recommend that RPIP-style partnerships plan for procurement and contracting delays, since device distribution depends on factors outside the industry partner..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

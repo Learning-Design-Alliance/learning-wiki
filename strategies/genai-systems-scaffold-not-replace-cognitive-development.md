@@ -3,7 +3,7 @@ type: strategy
 id: genai-systems-scaffold-not-replace-cognitive-development
 title: AI-assisted learning systems should scaffold cognitive development rather than replace it, and require active student contribution to preserve ownership
 description: "The article's design implications section recommends that GenAI-assisted learning systems \"scaffold cognitive development, not replace it\", adapting to promote content retention and engage a useful level of cognitive..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

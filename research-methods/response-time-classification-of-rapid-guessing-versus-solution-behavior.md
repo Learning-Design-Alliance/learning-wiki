@@ -3,7 +3,7 @@ type: research-method
 id: response-time-classification-of-rapid-guessing-versus-solution-behavior
 title: Response-time classification of rapid-guessing versus solution behavior
 description: "Computer-based testing enables measuring examinee effort through response times: \"At the item level, responses can be classified as exhibiting either rapid-guessing behavior or solution behavior based on the item response time.\" This study applied that classification approach to a commercially avail"
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

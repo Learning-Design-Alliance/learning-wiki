@@ -3,7 +3,7 @@ type: claim
 title: When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies
 description: When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies
 id: ai-assistance-withdrawal-performance-decline
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

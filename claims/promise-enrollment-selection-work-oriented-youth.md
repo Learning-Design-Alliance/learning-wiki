@@ -3,7 +3,7 @@ type: claim
 title: Youth who were less education-oriented and more work-oriented may have been more likely to enroll in the PROMISE demonstration
 description: Youth who were less education-oriented and more work-oriented may have been more likely to enroll in the PROMISE demonstration
 id: promise-enrollment-selection-work-oriented-youth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

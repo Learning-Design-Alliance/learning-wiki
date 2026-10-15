@@ -3,7 +3,7 @@ type: claim
 title: Intelligent tutoring systems show moderate learning benefits but are less effective than human tutoring
 description: Intelligent tutoring systems show moderate learning benefits but are less effective than human tutoring
 id: its-moderate-effect-less-than-human-tutoring
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

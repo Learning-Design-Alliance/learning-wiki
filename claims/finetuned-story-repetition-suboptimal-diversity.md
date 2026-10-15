@@ -3,7 +3,7 @@ type: claim
 title: Fine-tuned 8B models show suboptimal inter-story diversity, repeating names, animals, locations, and activities across narratives
 description: Fine-tuned 8B models show suboptimal inter-story diversity, repeating names, animals, locations, and activities across narratives
 id: finetuned-story-repetition-suboptimal-diversity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

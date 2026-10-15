@@ -3,7 +3,7 @@ type: claim
 title: Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study
 description: Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study
 id: c3-ablation-policy-collapse
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

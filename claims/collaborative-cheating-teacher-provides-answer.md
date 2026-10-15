@@ -3,7 +3,7 @@ type: claim
 title: Instances occurred where the Teacher LLM directly provided the final answer, bypassing the intended cognitive process, and can be programmatically filtered
 description: Instances occurred where the Teacher LLM directly provided the final answer, bypassing the intended cognitive process, and can be programmatically filtered
 id: collaborative-cheating-teacher-provides-answer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

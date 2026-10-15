@@ -3,7 +3,7 @@ type: claim
 title: Task performance and learning are related but fundamentally different processes
 description: Task performance and learning are related but fundamentally different processes
 id: task-performance-and-learning-are-different-processes
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels
 description: This is the first high-quality study to rigorously examine the impacts of the KIPP charter school network at all elementary and secondary grade levels
 id: first-rigorous-study-kipp-all-grade-levels
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

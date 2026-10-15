@@ -3,7 +3,7 @@ type: claim
 title: Didactic instruction is negatively associated with one-year achievement gains in reading and mathematics
 description: Didactic instruction is negatively associated with one-year achievement gains in reading and mathematics
 id: didactic-instruction-negative-achievement-gains
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

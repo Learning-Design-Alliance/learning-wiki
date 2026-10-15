@@ -3,7 +3,7 @@ type: element
 id: ewing-marion-kauffman-school-element
 title: Ewing Marion Kauffman School
 description: The Ewing Marion Kauffman School is a public, tuition-free charter school serving students in Kansas City, Missouri.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

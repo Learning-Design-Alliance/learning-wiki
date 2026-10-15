@@ -3,7 +3,7 @@ type: strategy
 id: belonging-supports-advanced-coursework
 title: Support belonging in AP classes through AP teachers of color, near-peer mentors, culturally sustaining curricula, and targeted supports
 description: The brief argues that a sense of belonging is fundamental to success in advanced courses and that schools, not students, must create welcoming environments.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

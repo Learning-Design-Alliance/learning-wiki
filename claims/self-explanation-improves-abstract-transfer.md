@@ -3,7 +3,7 @@ type: claim
 title: Self-explanation improves abstract transfer of logical rules relative to no self-explanation
 description: Self-explanation improves abstract transfer of logical rules relative to no self-explanation
 id: self-explanation-improves-abstract-transfer
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

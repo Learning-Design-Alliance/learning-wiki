@@ -3,7 +3,7 @@ type: claim
 title: The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant
 description: The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant
 id: osce-advantage-4cid-not-significant
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-07

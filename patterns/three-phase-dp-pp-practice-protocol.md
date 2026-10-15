@@ -3,7 +3,7 @@ type: pattern
 id: three-phase-dp-pp-practice-protocol
 title: Three-phase DP/PP practice protocol pattern
 description: "The framework organizes practice into three phases, summarized in Table 1 as criteria for deliberate, purposeful, and naive practice for language learning: (1) individualized design of effective practice, (2) actively..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-28

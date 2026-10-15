@@ -3,7 +3,7 @@ type: claim
 title: Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning
 description: Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning
 id: instant-access-24-7-top-llm-benefits
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

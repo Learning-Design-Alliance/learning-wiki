@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Segmentation Benefits Shrink With Expertise
-status: draft
+status: review
 generated:
   by: claude/unspecified
   at: 2026-09-25

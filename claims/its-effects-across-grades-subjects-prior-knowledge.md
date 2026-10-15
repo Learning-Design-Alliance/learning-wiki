@@ -3,7 +3,7 @@ type: claim
 title: ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry
 description: ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry
 id: its-effects-across-grades-subjects-prior-knowledge
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-13

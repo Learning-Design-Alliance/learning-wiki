@@ -3,7 +3,7 @@ type: claim
 title: Teacher support positively predicts mastery-approach and performance-approach goals, but not mastery-avoidance or performance-avoidance goals, in AI-assisted English learning
 description: Teacher support positively predicts mastery-approach and performance-approach goals, but not mastery-avoidance or performance-avoidance goals, in AI-assisted English learning
 id: teacher-support-predicts-approach-goals-ai-efl
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

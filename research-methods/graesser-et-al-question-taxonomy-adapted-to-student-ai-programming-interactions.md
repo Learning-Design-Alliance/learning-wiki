@@ -3,7 +3,7 @@ type: research-method
 id: graesser-et-al-question-taxonomy-adapted-to-student-ai-programming-interactions
 title: Graesser et al. question taxonomy adapted to student-AI programming interactions
 description: The article adapts the Graesser et al.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

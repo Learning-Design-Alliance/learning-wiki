@@ -3,7 +3,7 @@ type: claim
 title: "Teachers' confidence in teaching students to order reasons and evidence logically significantly predicted student writing growth within the first and second prompts"
 description: "Teachers' confidence in teaching students to order reasons and evidence logically significantly predicted student writing growth within the first and second prompts"
 id: teacher-confidence-reasons-evidence-predicts-growth
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

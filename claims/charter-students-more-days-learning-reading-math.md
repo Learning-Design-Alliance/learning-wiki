@@ -3,7 +3,7 @@ type: claim
 title: Charter school students show more annual learning growth in reading and math than matched traditional public school peers
 description: Charter school students show more annual learning growth in reading and math than matched traditional public school peers
 id: charter-students-more-days-learning-reading-math
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

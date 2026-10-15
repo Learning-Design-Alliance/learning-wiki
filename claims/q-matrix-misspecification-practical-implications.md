@@ -3,7 +3,7 @@ type: claim
 title: Q-matrix misspecification, if left unchecked, can have important practical implications
 description: Q-matrix misspecification, if left unchecked, can have important practical implications
 id: q-matrix-misspecification-practical-implications
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-14

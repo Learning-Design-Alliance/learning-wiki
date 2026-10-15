@@ -3,7 +3,7 @@ type: strategy
 id: refine-solution-from-implementation-lessons
 title: Refine a solution based on lessons learned during implementation
 description: "Phase 2 of the M&E Checklist guides users through refining a solution using lessons learned while implementing it."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

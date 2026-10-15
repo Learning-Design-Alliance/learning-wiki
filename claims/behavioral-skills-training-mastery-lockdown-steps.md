@@ -3,7 +3,7 @@ type: claim
 title: Behavioral skills training produced near-complete skill mastery of lockdown steps among young students, per studies the brief summarizes
 description: Behavioral skills training produced near-complete skill mastery of lockdown steps among young students, per studies the brief summarizes
 id: behavioral-skills-training-mastery-lockdown-steps
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

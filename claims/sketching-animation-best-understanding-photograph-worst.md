@@ -3,7 +3,7 @@ type: claim
 title: Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst
 description: Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst
 id: sketching-animation-best-understanding-photograph-worst
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-15

@@ -3,7 +3,7 @@ type: claim
 title: ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time
 description: ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time
 id: chatgpt-lesson-plan-challenges-practicality-safety
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

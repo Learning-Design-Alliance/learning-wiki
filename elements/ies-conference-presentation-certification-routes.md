@@ -3,7 +3,7 @@ type: element
 id: ies-conference-presentation-certification-routes
 title: IES Research Conference presentation on teacher certification route evaluation
 description: A PowerPoint presentation delivered at the annual Institute of Education Sciences Research Conference in Washington, DC, reporting an evaluation of teachers trained through different routes to certification.
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

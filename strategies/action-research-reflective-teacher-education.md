@@ -3,7 +3,7 @@ type: strategy
 id: action-research-reflective-teacher-education
 title: Use action research projects in which pre-service and in-service teachers jointly inquire into instructional decision-making
 description: "Action research is defined in the digest as \"a tool of curriculum development consisting of continuous feedback that targets specific problems in a particular school setting.\" The digest describes a University of Hart..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-27

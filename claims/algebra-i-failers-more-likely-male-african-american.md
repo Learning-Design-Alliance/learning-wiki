@@ -3,7 +3,7 @@ type: claim
 title: Ninth graders who fail Algebra I are demographically similar to those who pass, but are more likely to be male and African American
 description: Ninth graders who fail Algebra I are demographically similar to those who pass, but are more likely to be male and African American
 id: algebra-i-failers-more-likely-male-african-american
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

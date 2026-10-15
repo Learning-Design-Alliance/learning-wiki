@@ -3,7 +3,7 @@ type: claim
 title: "LEAs steadily expanded TK access, with 94% offering TK and 70% of multi-site LEAs offering TK at all elementary sites in 2024–25"
 description: "LEAs steadily expanded TK access, with 94% offering TK and 70% of multi-site LEAs offering TK at all elementary sites in 2024–25"
 id: lea-tk-access-expansion-2024-25
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

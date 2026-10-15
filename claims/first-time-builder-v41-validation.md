@@ -3,7 +3,7 @@ type: claim
 title: First-time builders completed the v4.1 build in a mean of 39.1 minutes with SUS 74.6 (Good), but showed higher assembly Mental Demand than developers and tactile fragility concerns around snap-fit components
 description: First-time builders completed the v4.1 build in a mean of 39.1 minutes with SUS 74.6 (Good), but showed higher assembly Mental Demand than developers and tactile fragility concerns around snap-fit components
 id: first-time-builder-v41-validation
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-11

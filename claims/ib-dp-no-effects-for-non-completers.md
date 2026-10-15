@@ -3,7 +3,7 @@ type: claim
 title: Only 62 percent of ninth-grade IB DP entrants enrolled in the program in eleventh grade, and there were no effects of IB DP participation for the 38 percent who did not complete the program
 description: Only 62 percent of ninth-grade IB DP entrants enrolled in the program in eleventh grade, and there were no effects of IB DP participation for the 38 percent who did not complete the program
 id: ib-dp-no-effects-for-non-completers
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

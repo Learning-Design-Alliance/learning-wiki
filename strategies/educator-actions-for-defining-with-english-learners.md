@@ -3,7 +3,7 @@ type: strategy
 id: educator-actions-for-defining-with-english-learners
 title: "Concrete actions for mathematics educators: focus on ideas over words, engage students in defining early, connect multiple representations, extend to formal definitions, and nurture the genre of definition"
 description: "The brief closes with concrete, specific actions mathematics educators can take when planning learning opportunities for English Learners: think about the mathematical ideas rather than the words, choose a working def..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

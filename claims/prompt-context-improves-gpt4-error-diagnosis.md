@@ -3,7 +3,7 @@ type: claim
 title: "Adding tutor interface and skill-estimate context to the prompt substantially improves GPT-4's error-diagnosis accuracy"
 description: "Adding tutor interface and skill-estimate context to the prompt substantially improves GPT-4's error-diagnosis accuracy"
 id: prompt-context-improves-gpt4-error-diagnosis
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12

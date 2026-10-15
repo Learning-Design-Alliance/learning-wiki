@@ -3,7 +3,7 @@ type: design
 id: rsc-v41-chassis-element
 title: Robot Study Companion (RSC) v4.1 open-source social robot chassis
 description: The RSC is an affordable, compact, 3D-printed desktop social robot built around a Raspberry Pi with peripherals enabling multimodal interaction, including a touchscreen, servo-driven flippers, an LED ring, microphones...
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

@@ -3,7 +3,7 @@ type: claim
 title: Dot voting produced no single dominant category; teachers collectively prioritized motivation and buy-in, removing roadblocks, and building resilience
 description: Dot voting produced no single dominant category; teachers collectively prioritized motivation and buy-in, removing roadblocks, and building resilience
 id: dot-voting-three-priorities-persistence
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

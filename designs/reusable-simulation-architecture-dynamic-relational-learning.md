@@ -3,7 +3,7 @@ type: design
 id: reusable-simulation-architecture-dynamic-relational-learning
 title: Reusable simulation architecture for dynamic relational learning environments
 description: "The article abstracts SupplyNet's pipeline into \"a reusable simulation architecture for dynamic relational learning environments.\" A graph represents domain entities, dependencies, and time-varying states; agents and..."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-11

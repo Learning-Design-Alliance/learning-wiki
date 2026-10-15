@@ -3,7 +3,7 @@ type: design
 id: expand-fullday-prek-access-for-attendance-equity
 title: Expand access to full-day pre-k, prioritizing students and families facing the greatest logistical and economic barriers to attendance
 description: "The article recommends that policymakers increase full-day pre-k availability because it better fits families' daily lives and raises attendance, particularly for groups with historically lower attendance."
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-09

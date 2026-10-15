@@ -3,7 +3,7 @@ type: claim
 title: Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence
 description: Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence
 id: proctor-notification-improves-performance-and-validity
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

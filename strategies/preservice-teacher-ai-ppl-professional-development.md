@@ -3,7 +3,7 @@ type: strategy
 id: preservice-teacher-ai-ppl-professional-development
 title: Preparing preservice teachers to implement AI-powered personalized learning in special education through professional development in technical and pedagogical expertise
 description: "The dissertation's third manuscript provides a guide for preservice teacher faculty on integrating AI-Powered Personalized Learning (AI-PPL) in special education."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-10

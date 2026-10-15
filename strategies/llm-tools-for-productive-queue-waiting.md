@@ -3,7 +3,7 @@ type: strategy
 id: llm-tools-for-productive-queue-waiting
 title: Make queue waiting time productive by offering LLM-based help tools such as CodeHelp to waiting students
 description: "A forward-looking recommendation for addressing long office-hours queues: rather than changing scheduling alone, instructors can make waiting time productive for students."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-09-25

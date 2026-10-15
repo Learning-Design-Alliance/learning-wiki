@@ -3,7 +3,7 @@ type: design
 id: no-code-vibe-coding-research-platform
 title: Purpose-built no-code vibe-coding research platform for controlled experimentation
 description: A custom web platform built for controlled study of LLM-native software creation.
-status: draft
+status: review
 generated:
   by: "process:settle-candidates"
   at: 2026-10-12

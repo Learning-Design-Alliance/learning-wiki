@@ -3,7 +3,7 @@ type: claim
 title: "The principal typology records changes in practice and their severity as distinct columns, with the paradigm-shift type's changes rated high"
 description: "The principal typology records changes in practice and their severity as distinct columns, with the paradigm-shift type's changes rated high"
 id: eit-changes-in-practice-severity-column
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

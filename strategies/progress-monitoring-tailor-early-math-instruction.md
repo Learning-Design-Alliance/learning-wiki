@@ -3,7 +3,7 @@ type: strategy
 id: progress-monitoring-tailor-early-math-instruction
 title: "Use progress monitoring to tailor math instruction to each child's position on a developmental progression"
 description: "The guide's third recommendation is a concrete assessment routine: \"Use introductory activities, observations, and assessments to determine each child's existing math knowledge, or the level of understanding or skill..."
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

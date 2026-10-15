@@ -3,7 +3,7 @@ type: claim
 title: PLI was associated with positive SBAC gains for African American, Hispanic, and Asian elementary students and no negative impact on any ethnic group
 description: PLI was associated with positive SBAC gains for African American, Hispanic, and Asian elementary students and no negative impact on any ethnic group
 id: pli-gains-african-american-hispanic-asian-students
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-09

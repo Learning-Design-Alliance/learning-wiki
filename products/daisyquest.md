@@ -4,7 +4,7 @@ id: daisyquest
 title: DaisyQuest
 description: DaisyQuest is a computer-assisted early-literacy software package developed to provide phonological-awareness instruction to young children through story-based activities, feedback, speech, and progress reports.
 product_kind: software
-status: draft
+status: review
 generated:
   by: "process:sweep-kinds"
   at: 2026-10-10

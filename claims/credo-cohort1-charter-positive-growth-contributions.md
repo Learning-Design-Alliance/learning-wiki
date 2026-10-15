@@ -3,7 +3,7 @@ type: claim
 title: "Charter schools in many of the 10 studied cities make overall positive contributions to students' learning growth relative to state averages"
 description: "Charter schools in many of the 10 studied cities make overall positive contributions to students' learning growth relative to state averages"
 id: credo-cohort1-charter-positive-growth-contributions
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-08

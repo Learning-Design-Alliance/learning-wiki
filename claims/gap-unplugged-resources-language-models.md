@@ -3,7 +3,7 @@ type: claim
 title: Existing CS and AI unplugged activity collections contain few resources specifically about language models or text generation, leaving a gap LLMs Unplugged fills
 description: Existing CS and AI unplugged activity collections contain few resources specifically about language models or text generation, leaving a gap LLMs Unplugged fills
 id: gap-unplugged-resources-language-models
-status: draft
+status: review
 generated:
   by: "process:wiki-ingest"
   at: 2026-10-12
