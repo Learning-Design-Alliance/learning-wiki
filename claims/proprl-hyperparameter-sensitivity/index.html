@@ -39,7 +39,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <p><code>q2 i?</code> Performance improves as propagation depth k increases from zero, with gains becoming limited once k reaches approximately 5; the learning rate has a substantially stronger effect, with best performance around 10^-4. <a href="#xinghe-cheng-2026">→ Xinghe Cheng 2026</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="xinghe-cheng-2026">Xinghe Cheng 2026<a class="headerlink" href="#xinghe-cheng-2026" title="Permanent link">&para;</a></h3>
-<p>Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan. (2026). ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs. arXiv preprint. https://arxiv.org/abs/2608.03006</p>
+<p>Xinghe Cheng, Jiapu Wang, Chaobo He, Ruihai Dong, Quanlong Guan. (2026). ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs. arXiv preprint. https://arxiv.org/abs/2608.03006 <a href="https://doi.org/10.48550/arxiv.2608.03006">doi:10.48550/arxiv.2608.03006</a></p>
 <p><code>q2 · i?</code> · <code>design · r2</code></p>
 <p>Hyperparameter study (Figure 4) over propagation coefficient α, depth k, anti-symmetry weight λ, and learning rate. The effect of α is dataset-dependent (MOOC favors smaller α, UCD a moderate value); the article states ProPRL "requiresanappropriatelysmalllearning rate for reliable optimization".</p>
 <blockquote>
@@ -50,7 +50,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <ul>
 <li><a href="../proprl-ablation-components-contribute/">Removing any ProPRL component reduces F1 on all three datasets, with multi-hop propagation having the largest overall impact</a> — related</li>
 <li><a href="../proprl-acceptable-computational-overhead/">ProPRL incurs moderate overhead over DGCPL but remains lightweight, using under 40 MB GPU memory and under 0.18 seconds test-time inference</a> — related</li>
-<li><a href="../rec-cbm-hyperparameter-sensitivity-lr-critical/">Task F1 saturates by K≈4 concepts and is insensitive to hidden dimension once d≥384, while learning rate forms a sharp inverted-U with collapse at LR≥10−3</a> — related</li>
+<li>Task F1 saturates by K≈4 concepts and is insensitive to hidden dimension once d≥384, while learning rate forms a sharp inverted-U with collapse at LR≥10−3 — related</li>
 <li><a href="../hyperparameter-stability-oral-diagnostic-model/">Diagnostic model performance remains relatively stable across moderate hyperparameter ranges, with 8 attention heads and a 512 hidden dimension yielding optimal results</a> — related</li>
 <li><a href="../proprl-state-of-the-art-prerequisite-relation-learning/">ProPRL ranks first across all nine dataset–metric combinations on three prerequisite relation benchmarks, with relative improvements from 1.96% to 6.11% over the strongest baseline</a> — related</li>
 </ul>

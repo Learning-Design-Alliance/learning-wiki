@@ -39,7 +39,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <p><code>q3 i?</code> The original Model 1 had the largest best validation, public, and private evaluation AUCs, and removing all additional features produced the lowest public and private AUCs. <a href="#lu-2024">→ Lu 2024</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="lu-2024">Lu 2024<a class="headerlink" href="#lu-2024" title="Permanent link">&para;</a></h3>
-<p>Lu, Y., Tong, L., &amp; Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/</p>
+<p>Lu, Y., Tong, L., &amp; Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/ <a href="https://doi.org/10.31219/osf.io/3k7z2">doi:10.31219/osf.io/3k7z2</a></p>
 <p><code>q3 · i? · the article prints no effect size for this finding</code> · <code>design · r2</code></p>
 <p>Ablation study on Model 1 (Table 5), omitting sequence-level embeddings, student/class embeddings, action features, and problem features individually and jointly. Removing all features gave private AUC 0.7802 versus 0.7908 for the original model.</p>
 <blockquote>
@@ -51,7 +51,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <li><a href="../model1-outperforms-complex-model2/">The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture</a> — related</li>
 <li><a href="../ensemble-stabilizes-but-not-better-than-model1/">Rank-averaged ensembling stabilized predictions but did not outperform the single base model</a> — related</li>
 <li><a href="../propdec-colinear-with-student-intercept/">The propdec adaptive student feature is highly colinear with a student intercept, capturing student individual differences without student parameters</a> — related</li>
-<li><a href="../time-window-features-null-for-lr-boost-nonlinear/">Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets</a> — related</li>
+<li>Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets — related</li>
 <li><a href="../cognitive-load-module-largest-ablation-drop/">Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect</a> — related</li>
 <li><a href="../ablation-metadata-embeddings-largest-accuracy-drop/">Ablation study shows metadata-enriched embeddings produce the largest accuracy drop, while attention masking, KV caching and dynamic batching primarily support inference efficiency</a> — related</li>
 </ul>

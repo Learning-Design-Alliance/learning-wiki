@@ -27,7 +27,8 @@
 <h1 id="current-best-learner-performance-models-are-severely-biased-outside-the-interval-containing-most-of-the-data-hindering-downstream-adaptive-policies-and-open-learner-models">Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models<a class="headerlink" href="#current-best-learner-performance-models-are-severely-biased-outside-the-interval-containing-most-of-the-data-hindering-downstream-adaptive-policies-and-open-learner-models" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 1 study (2 entries) · associational <code>r2</code> · <code>q2</code></p>
+<strong>Evidence</strong> · 1 study (2 entries) · associational <code>r2</code> · <code>q2</code>
+<strong>Evidence quality</strong> · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.</p>
 </blockquote>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
 <details class="info">
@@ -55,7 +56,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 </blockquote>
 <h2 id="studies-bearing-on-this-claim">Studies bearing on this claim<a class="headerlink" href="#studies-bearing-on-this-claim" title="Permanent link">&para;</a></h2>
 <!-- synthesis:start -->
-<p><em>Can the system's diagnosis of the learner be trusted?</em> This table gathers the studies behind this claim and the 6 narrower claims that bear on it: <strong>7 distinct studies</strong> (4 design, 2 causal, 1 review), <code>q2</code>–<code>q3</code>, 1 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by <code>scripts/synthesize_claim.py</code> from <code>eval/synthesis/</code>; a row that looks wrong is fixed on the claim it comes from.</p>
+<p><em>Can the system's diagnosis of the learner be trusted?</em> This table gathers the studies behind this claim and the 5 narrower claims that bear on it: <strong>6 distinct studies</strong> (4 design, 1 review, 1 causal), <code>q2</code>–<code>q3</code>, 1 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by <code>scripts/synthesize_claim.py</code> from <code>eval/synthesis/</code>; a row that looks wrong is fixed on the claim it comes from.</p>
 <table>
 <thead>
 <tr>
@@ -73,37 +74,31 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <td>this claim</td>
 </tr>
 <tr>
-<td>Kirk Vanacore 2026</td>
+<td><a href="https://doi.org/10.48550/arxiv.2602.19303">Kirk Vanacore 2026</a></td>
 <td>q2 · review · r2</td>
 <td>i?</td>
 <td><a href="../genai-tutors-struggle-infer-student-knowledge/">Emerging evidence indicates generative AI tutors currently struggle to accurately infer st</a> (supports)</td>
 </tr>
 <tr>
-<td>Jaewook Kim 2026</td>
+<td><a href="https://doi.org/10.48550/arxiv.2605.04727">Jaewook Kim 2026</a></td>
 <td>q2 · causal · r2</td>
 <td>i?</td>
 <td><a href="../pkt-temporal-causality-violation-inflates-performance/">Failing to sort student attempt sequences by ServerTimestamp violates temporal causality a</a> (supports)</td>
 </tr>
 <tr>
-<td>Lu 2024</td>
+<td><a href="https://doi.org/10.31219/osf.io/3k7z2">Lu 2024</a></td>
 <td>q3 · design · r2</td>
 <td>i2</td>
 <td><a href="../transformer-kt-first-place-edm-cup-2023/">The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an </a> (qualifies)</td>
 </tr>
 <tr>
-<td>Liangbei Xu and Mark A. Davenport 2020</td>
-<td>q2 · causal · r2</td>
-<td>i?</td>
-<td><a href="../dynemb-tracks-knowledge-without-skill-tags/">Replacing concept/skill tags with question identifiers significantly degrades DKT and DKVM</a> (qualifies)</td>
-</tr>
-<tr>
-<td>Hooshyar 2026</td>
+<td><a href="https://doi.org/10.48550/arxiv.2604.08263">Hooshyar 2026</a></td>
 <td>q2 · design · r2</td>
 <td>i?</td>
 <td><a href="../responsible-dkt-temporal-reliability/">Symbolic knowledge injection improves temporal reliability of predictions, yielding lower </a> (qualifies)</td>
 </tr>
 <tr>
-<td>Peilin Zhan 2026</td>
+<td><a href="https://doi.org/10.48550/arxiv.2605.05958">Peilin Zhan 2026</a></td>
 <td>q2 · design · r2</td>
 <td>i?</td>
 <td><a href="../tsdr-improves-calibration-acc-rmse/">TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains pla</a> (qualifies)</td>
@@ -115,9 +110,9 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../best-lr-and-dkt-lead-markov-methods-lag-nine-datasets/">Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind</a> — related</li>
-<li><a href="../dkt-long-term-information-and-faster-burn-in/">DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression</a> — related</li>
-<li><a href="../dynemb-outperforms-dkt-and-bmf-baselines/">DynEmb outperforms BMF and DKT baselines in future response prediction across five tutoring datasets, with AUC improvement up to 5.43% in the New User setting</a> — related</li>
+<li>Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind — related</li>
+<li>DKT fails to retain long-term information on datasets with thousands of interactions per learner, but reaches peak performance on a new student faster than logistic regression — related</li>
+<li>DynEmb outperforms BMF and DKT baselines in future response prediction across five tutoring datasets, with AUC improvement up to 5.43% in the New User setting — related</li>
 <li><a href="../expert-panel-ai-limitations-list/">Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp</a> — related</li>
 <li><a href="../moe-candidate-mixed-fidelity-result/">A structured mixture-of-experts candidate improved some corrections on fixed-evidence cases but introduced new factual and continuity regressions, so activation was held</a> — related</li>
 </ul>

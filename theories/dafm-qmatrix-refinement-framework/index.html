@@ -27,7 +27,7 @@
 <h1 id="dafm-a-neural-network-fusion-of-psychometric-and-connectionist-modeling-enabling-backpropagation-based-q-matrix-refinement">dAFM: a neural-network fusion of psychometric and connectionist modeling enabling backpropagation-based Q-matrix refinement<a class="headerlink" href="#dafm-a-neural-network-fusion-of-psychometric-and-connectionist-modeling-enabling-backpropagation-based-q-matrix-refinement" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Theory</strong> · <a href="../">All theories</a>
-<strong>Evidence</strong> · 7 claims (5 for, 1 mixed, 1 against) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 7 claims rest on one study</p>
+<strong>Evidence</strong> · no claims cited</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>dAFM augments the Additive Factors Model, whose "calculations and constraints we show can be exactly replicated within the framework of neural networks", by representing the Q-matrix as a weight coefficient matrix (WQk) adjustable by backpropagation and by computing student KC opportunity counts dynamically with an identity-weight RNN counter as the Q-matrix changes. The model retains AFM's logistic formulation predicting correctness from student ability, KC difficulties, and KC growth rates multiplied by opportunity counts. It was evaluated in six variants on five Cognitive Tutor and ASSISTments datasets, comparing refinement of an expert Q-matrix against learning one from scratch.</p>
@@ -54,15 +54,6 @@
 <li>refined item-to-knowledge-component associations for adaptive mastery-based instruction</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
-<ul>
-<li><a href="../../claims/dafm-fine-tuned-improves-prediction-over-afm/">Dafm Fine Tuned Improves Prediction Over Afm</a> [+M]</li>
-<li><a href="../../claims/expert-refined-qmatrix-beats-ground-up-learning/">Expert Refined Qmatrix Beats Ground Up Learning</a> [+M]</li>
-<li><a href="../../claims/afm-beats-random-init-only-on-large-cogtutor-datasets/">Base AFM with its expert Q-matrix generalizes better than a ground-up learned Q-matrix only on the large Cognitive Tutor Bridge datasets</a> [+W]</li>
-<li><a href="../../claims/dafm-qualitative-remapping-triangle-rectangle/">Qualitative inspection shows dAFM refinement remaps a Geometry problem's items toward side-identification KCs with plausible but partly spurious associations</a> [~W]</li>
-<li><a href="../../claims/embedding-clustered-qmatrices-null-versus-dafm/">Q-matrices clustered from DKT and skip-gram item embeddings do not outperform dAFM models but do outperform a randomly initialized Q-matrix</a> [+W]</li>
-<li><a href="../../claims/individualized-ability-no-benefit-dafm/">Training dAFM with individualized student ability estimates yields essentially no prediction benefit over average ability</a> [-W]</li>
-<li><a href="../../claims/relu-activation-preserves-dafm-accuracy/">Replacing the linear qk activation with ReLU sacrifices very little predictive accuracy while prohibiting negative Q-matrix values</a> [+W]</li>
-</ul>
 <h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="../skill-discovery-bkt-gumbel-softmax/">Skill discovery BKT: end-to-end stochastic learning of the problem-KC assignment matrix with Gumbel-Softmax</a></li>

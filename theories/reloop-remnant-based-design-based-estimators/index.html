@@ -27,7 +27,7 @@
 <h1 id="reloopreloop-design-based-causal-estimators-combining-remnant-trained-imputations-with-leave-one-out-covariate-adjustment">ReLOOP/ReLOOP+: design-based causal estimators combining remnant-trained imputations with leave-one-out covariate adjustment<a class="headerlink" href="#reloopreloop-design-based-causal-estimators-combining-remnant-trained-imputations-with-leave-one-out-covariate-adjustment" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Theory</strong> · <a href="../">All theories</a>
-<strong>Evidence</strong> · 4 claims (4 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 4 claims rest on one study</p>
+<strong>Evidence</strong> · no claims cited</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>ReLOOP and ReLOOP+ are covariate-adjusted A/B test effect estimators that train an outcome-prediction model on 'remnant' users who were not randomized, generate predictions for experimental participants, and use those predictions as covariates in the LOOP leave-one-out estimator. ReLOOP adjusts only for remnant-based imputations via an OLS within-sample model; ReLOOP+ uses an ensemble of OLS and random forests to adjust for both imputations and within-sample covariates. The article states: "These estimators are design-based, exactly unbiased for the τRCT , give conservative standard error estimates, and make no modeling assumptions, beyond the design of the experiment itself." Unbiasedness holds regardless of imputation-model quality because treatment assignment is randomized and model parameters are estimated from separate samples.</p>
@@ -53,12 +53,6 @@
 <li>accurate, precise estimation of causal effects of educational conditions from platform experiments</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
-<ul>
-<li><a href="../../claims/reloop-remnant-imputation-variance-reduction-vs-ttest/">Reloop Remnant Imputation Variance Reduction Vs Ttest</a> [+M]</li>
-<li><a href="../../claims/reloop-gains-beyond-within-sample-loop/">Reloop Gains Beyond Within Sample Loop</a> [+M]</li>
-<li><a href="../../claims/bh-adjusted-discoveries-by-estimator/">After Benjamini-Hochberg false-discovery-rate adjustment, covariate-adjusted estimators detect more significant effects than t-tests (LOOP 11, ReLOOP+ 10, ReLOOP 8, T-Test 3 of 227 contrasts)</a> [+W]</li>
-<li><a href="../../claims/remnant-data-type-contribution-variance/">Among remnant data types, the combined ensemble model reduced sampling variance most, the action-level model least, and the assignment-level model performed nearly as well as the combined model</a> [+W]</li>
-</ul>
 <h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
 <ul>
 <li></li>

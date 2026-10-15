@@ -27,7 +27,7 @@
 <h1 id="hyperparameter-sweeps-reproduce-the-lessons-claims-0-never-solves-the-task-while-1-still-converges">Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges<a class="headerlink" href="#hyperparameter-sweeps-reproduce-the-lessons-claims-0-never-solves-the-task-while-1-still-converges" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code></p>
+<strong>Evidence</strong> · 2 studies · 2 causal <code>r2</code> · <code>q2</code></p>
 </blockquote>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
 <details class="info">
@@ -40,7 +40,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <code>q2 i?</code> In the discount sweep, γ ∈ {0.5, 0.95} reach the optimum while γ = 0 never solves the task, with a final return of −6.1. <a href="#jueng-2026-2">→ Jueng 2026 (2)</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="jueng-2026">Jueng 2026<a class="headerlink" href="#jueng-2026" title="Permanent link">&para;</a></h3>
-<p>Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802</p>
+<p>Jueng, Ekkachai. (2026). Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis. https://arxiv.org/abs/2607.10802 <a href="https://doi.org/10.48550/arxiv.2607.10802">doi:10.48550/arxiv.2607.10802</a></p>
 <p><code>q2 · i?</code> · <code>causal · r2</code></p>
 <p>Multi-seed numerical sweep experiment: for each setting the reference implementation trains for 600 episodes and evaluates the greedy policy every 20 episodes by undiscounted return from the start state, aggregating 10 random seeds. All tested ε values 'eventually reach the optimal return—includingε= 1'.</p>
 <blockquote>
@@ -56,7 +56,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
 <h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
 <ul>
-<li><a href="../optimnn-hyperparameter-insensitivity/">OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT</a> — related</li>
+<li>OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT — related</li>
 <li><a href="../q-learning-matches-value-iteration-ground-truth/">The tool's Q-learning matches a value-iteration ground truth in 98.5% of non-terminal states on average</a> — related</li>
 </ul>
 <details class="info">

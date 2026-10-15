@@ -27,7 +27,7 @@
 <h1 id="code-dkts-attention-softmax-applied-across-the-temporal-dimension-dim1-is-causally-invalid-and-inflates-reported-performance-rectifying-it-to-the-path-dimension-dim2-removes-the-artificial-gain">Code-DKT's attention softmax applied across the temporal dimension (dim=1) is causally invalid and inflates reported performance; rectifying it to the path dimension (dim=2) removes the artificial gain<a class="headerlink" href="#code-dkts-attention-softmax-applied-across-the-temporal-dimension-dim1-is-causally-invalid-and-inflates-reported-performance-rectifying-it-to-the-path-dimension-dim2-removes-the-artificial-gain" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code></p>
+<strong>Evidence</strong> · 2 studies · 2 causal <code>r2</code> · <code>q2</code></p>
 </blockquote>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
 <details class="info">
@@ -40,7 +40,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <code>q2 i?</code> The authors replicated the original reported gain of approximately 0.03–0.04 AUC over DKT before identifying the flaw. <a href="#jaewook-kim-2026-2">→ Jaewook Kim 2026 (2)</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="jaewook-kim-2026">Jaewook Kim 2026<a class="headerlink" href="#jaewook-kim-2026" title="Permanent link">&para;</a></h3>
-<p>Jaewook Kim, Hyeoncheol Kim. (2026). Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols. Preprint, International Conference on Intelligent Tutoring Systems (ITS 2026), Springer LNCS. https://arxiv.org/abs/2605.04727</p>
+<p>Jaewook Kim, Hyeoncheol Kim. (2026). Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols. Preprint, International Conference on Intelligent Tutoring Systems (ITS 2026), Springer LNCS. https://arxiv.org/abs/2605.04727 <a href="https://doi.org/10.48550/arxiv.2605.04727">doi:10.48550/arxiv.2605.04727</a></p>
 <p><code>q2 · i?</code> · <code>causal · r2</code></p>
 <p>Code audit of the official Code-DKT source. The authors argue this "look-ahead" mechanism lets the importance of code features at time t be influenced by future states, and that normalization must instead occur across the path dimension (dim=2).</p>
 <blockquote>

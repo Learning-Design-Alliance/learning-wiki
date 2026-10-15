@@ -27,7 +27,7 @@
 <h1 id="lora-fine-tuning-on-control-systems-course-data-increases-lexical-and-semantic-similarity-between-model-responses-and-course-reference-answers-at-both-3b-and-7b-model-sizes">LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes<a class="headerlink" href="#lora-fine-tuning-on-control-systems-course-data-increases-lexical-and-semantic-similarity-between-model-responses-and-course-reference-answers-at-both-3b-and-7b-model-sizes" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a>
-<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code></p>
+<strong>Evidence</strong> · 2 studies · 2 causal <code>r2</code> · <code>q2</code></p>
 </blockquote>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
 <details class="info">
@@ -40,7 +40,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <code>q2 i?</code> Paired bootstrap 95% confidence intervals for ROUGE improvements lay entirely above zero at most settings, indicating stable gains. <a href="#shaowen-lu-2026-2">→ Shaowen Lu 2026 (2)</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="shaowen-lu-2026">Shaowen Lu 2026<a class="headerlink" href="#shaowen-lu-2026" title="Permanent link">&para;</a></h3>
-<p>Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang. (2026). LoRA Fine-Tuned Models for Control Systems Course Q&amp;A: A Multidimensional Evaluation of Model Scale and Rank Effects. https://arxiv.org/abs/2609.13918</p>
+<p>Shaowen Lu, Chengxu Liu, Ping Zhou and Tao Yang. (2026). LoRA Fine-Tuned Models for Control Systems Course Q&amp;A: A Multidimensional Evaluation of Model Scale and Rank Effects. https://arxiv.org/abs/2609.13918 <a href="https://doi.org/10.48550/arxiv.2609.13918">doi:10.48550/arxiv.2609.13918</a></p>
 <p><code>q2 · i?</code> · <code>causal · r2</code></p>
 <p>Test-set comparison of base and LoRA-fine-tuned Qwen2.5-3B and 7B models on 54 unseen course questions under identical prompts and deterministic decoding, reported via ROUGE-1/2/L and BERTScore-F1. The article reports that "The LoRA-fine-tuned models outperformed their corresponding base models on most metrics."</p>
 <blockquote>
@@ -60,7 +60,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <li><a href="../model-size-and-lora-rank-joint-effects/">Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1</a> — related</li>
 <li><a href="../lora-improves-structured-instructional-output-stability/">LoRA fine-tuning makes the Solution-Method-Teaching Points instructional format more stable, with Solution and Method coverage reaching 1.00 at r=8 and r=16 for the 3B model</a> — related</li>
 <li><a href="../lora-rank-diminishing-parameter-efficiency-returns/">Increasing LoRA rank raises absolute ROUGE-L gains but produces diminishing returns in performance per million adapter parameters</a> — related</li>
-<li><a href="../llama2-qlora-unsatisfactory-for-teaching-quality-tasks/">Fine-tuning Llama2-7B with parameter-efficient methods yields unsatisfactory results for measuring subject-matter teaching practices, only marginally improving the majority baseline</a> — related</li>
+<li>Fine-tuning Llama2-7B with parameter-efficient methods yields unsatisfactory results for measuring subject-matter teaching practices, only marginally improving the majority baseline — related</li>
 <li><a href="../adaptation-gains-grow-with-model-capacity/">Adaptation gains grow monotonically with model capacity under the same LoRA recipe, though three data points cannot establish a scaling law</a> — related</li>
 <li><a href="../lora-adaptation-raises-bengali-physics-qa-accuracy-all-scales/">LoRA adaptation significantly increases closed-book accuracy on the PhysicsMate test set at all three Qwen3 scales</a> — related</li>
 </ul>

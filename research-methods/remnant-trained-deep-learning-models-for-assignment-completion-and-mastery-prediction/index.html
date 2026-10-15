@@ -756,7 +756,7 @@
 <h1 id="remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction">Remnant-trained deep-learning models for assignment-completion and mastery prediction<a class="headerlink" href="#remnant-trained-deep-learning-models-for-assignment-completion-and-mastery-prediction" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Research Method</strong> · <a href="../">All research methods</a>
-<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+<strong>Evidence</strong> · no claims cited</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>The article trained four neural networks on remnant data to predict assignment completion and problems to mastery: a feed-forward network on prior student statistics, LSTM networks on the last 20 started assignments and the last 60 days of tutor actions, and an ensemble. The combined model "takes the three models above and couples their predictions such that the prediction is a function of all three models' weights and the loss is backpropagated through each model during training." Hyperparameters (dropout frequency, layer depth, node counts) were chosen by grid search on a held-out subset, with 5-fold cross-validation used to measure model quality.</p>
@@ -766,10 +766,6 @@
 <li><strong>Four remnant-trained deep-learning imputation models (prior student statistics, prior assignments, prior daily actions, and a combined ensemble)</strong>: The article trained four neural networks on remnant data to predict assignment completion and problems to mastery: a feed-forward network on prior student statistics, LSTM networks on the last 20 started assignments and the last 60 days of tutor actions, and an ensemble. The combined model "takes the three models above and couples their predictions such that the prediction is a function of all three models' weights and the loss is backpropagated through each model during training." Hyperparameters (dropout frequency, layer depth, node counts) were chosen by grid search on a held-out subset, with 5-fold cross-validation used to measure model quality. (Adam C. Sales et al. (2023))</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
-<ul>
-<li><a href="../../claims/prior-assignment-statistics-most-predictive/">Prior assignment statistics were the most predictive remnant data type for assignment performance, followed by prior student statistics, with daily action history least predictive; combining datasets improved predictions over any single dataset</a> [+W]</li>
-<li><a href="../../claims/remnant-data-type-contribution-variance/">Among remnant data types, the combined ensemble model reduced sampling variance most, the action-level model least, and the assignment-level model performed nearly as well as the combined model</a> [+W]</li>
-</ul>
 <h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
 <p>-</p>
 <h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
@@ -805,8 +801,6 @@ The article trained four neural networks on remnant data to predict assignment c
 
 ## Claims
 
-- [Prior assignment statistics were the most predictive remnant data type for assignment performance, followed by prior student statistics, with daily action history least predictive; combining datasets improved predictions over any single dataset](../../claims/prior-assignment-statistics-most-predictive/) [+W]
-- [Among remnant data types, the combined ensemble model reduced sampling variance most, the action-level model least, and the assignment-level model performed nearly as well as the combined model](../../claims/remnant-data-type-contribution-variance/) [+W]
 
 ## Related Elements
 

@@ -27,7 +27,7 @@
 <h1 id="ms-bkt-a-multistate-knowledge-tracing-model-with-data-driven-recency-weights-replacing-the-learning-rate">MS-BKT: a multistate knowledge tracing model with data-driven recency weights replacing the learning rate<a class="headerlink" href="#ms-bkt-a-multistate-knowledge-tracing-model-with-data-driven-recency-weights-replacing-the-learning-rate" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Theory</strong> · <a href="../">All theories</a>
-<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 design), <code>q1</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+<strong>Evidence</strong> · no claims cited</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>MS-BKT is a knowledge tracing architecture that keeps BKT's HMM structure but makes two changes: the knowledge node expands from 2 to 21 states, and a recency weight parameter R replaces the transition probability p(T), so that "weight increases incrementally by a fixed quantum R for each new attempt" with the optimal value learned from data. Knowledge is updated per state via Bayes' rule and estimated by the MAP mode of the posterior, with parameters fit by Expectation Maximization. The authors position it as retaining BKT's parameter interpretability while balancing recent and historical data.</p>
@@ -50,10 +50,6 @@
 <li>Real-time estimation of student mastery of a skill to drive adaptive learning</li>
 </ul>
 <h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
-<ul>
-<li><a href="../../claims/recency-weights-capture-learning-and-forgetting-from-data/">Recency Weights Capture Learning And Forgetting From Data</a> [+M]</li>
-<li><a href="../../claims/ms-bkt-estimates-fluctuate-less-than-bkt/">Ms Bkt Estimates Fluctuate Less Than Bkt</a> [+M]</li>
-</ul>
 <h2 id="related-theories">Related Theories<a class="headerlink" href="#related-theories" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="../spectral-bkt-intermediate-state-hypotheses/">Two hypotheses for the meaning of Spectral BKT's intermediate states: a stages-of-mastery account and a mastery-by-metacognition interaction account</a></li>
