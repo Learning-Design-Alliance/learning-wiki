@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Oral language competence predicts subsequent reading achievement
+title: "A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement"
 description: Oral language competence predicts subsequent reading achievement
 id: oral-language-predicts-reading-achievement
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 1
 ---
 
-# Oral language competence predicts subsequent reading achievement
+# A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
+
+<!-- title before 2026-10-15: Oral language competence predicts subsequent reading achievement -->
 
 ## Subclaims
 `q1 i?` There is a positive correlation between preschool and oral language skills and subsequent achievement in reading. [→ Neiburg 1997](#neiburg-1997)

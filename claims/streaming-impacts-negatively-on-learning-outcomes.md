@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes
+title: "A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested"
 description: Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes
 id: streaming-impacts-negatively-on-learning-outcomes
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes
+# A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+
+<!-- title before 2026-10-15: Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes -->
 
 ## Subclaims
 `q2 i?` The literature generally shows that streaming, setting or tracking based on attainment impacts negatively on student learning outcomes, with the greatest disadvantages for lower-achieving students. [→ Marks 2021](#marks-2021)

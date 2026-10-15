@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Females gained significantly when the formatted plan followed free exploration but scored lower when the plan was withheld
+title: "In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first"
 description: Females gained significantly when the formatted plan followed free exploration but scored lower when the plan was withheld
 id: females-benefit-free-exploration-then-plan
 status: draft
@@ -27,10 +27,12 @@ sources:
     rigour: 1
 ---
 
-# Females gained significantly when the formatted plan followed free exploration but scored lower when the plan was withheld
+# In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+
+<!-- title before 2026-10-15: Females gained significantly when the formatted plan followed free exploration but scored lower when the plan was withheld -->
 
 ## Subclaims
 `q2 i?` Females in the unformatted-to-formatted sequence showed a significant pre-to-post gain (t = 3.618, p = .001). [→ Zambo 1994](#zambo-1994)

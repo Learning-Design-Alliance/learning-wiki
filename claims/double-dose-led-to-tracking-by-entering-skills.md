@@ -9,10 +9,10 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 sources:
-  - id: double-dose-algebra-policy-evaluation-in-the-chicago-public-schools-2003
-    resource: "https://www.tandfonline.com/journals/ujree20"
-    title: "Double-dose algebra policy evaluation in the Chicago Public Schools. (2003). Journal of Research on Educational Effectiveness. https://www.tandfonline.com/journals/ujree20"
-    author: Double-dose algebra policy evaluation in the Chicago Public Schools
+  - id: nomi-allensworth-2009
+    resource: "https://doi.org/10.1080/19345740802676739"
+    title: "Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. Journal of Research on Educational Effectiveness, 2(2), 111–148. https://doi.org/10.1080/19345740802676739"
+    author: "Nomi, T., & Allensworth, E."
     q: 3
     i: "?"
     kind: causal
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
-`q3 i?` The policy induced a change in school organization: algebra classes were tracked by students' entering math skills. [→ Double-dose algebra policy evaluation in the Chicago Public Schools 2003](#double-dose-algebra-policy-evaluation-in-the-chicago-public-schools-2003)
+`q3 i?` The policy induced a change in school organization: algebra classes were tracked by students' entering math skills. [→ Nomi & Allensworth 2009](#nomi-allensworth-2009)
 
 ## Evidence
 
-### Double-dose algebra policy evaluation in the Chicago Public Schools 2003
+### Nomi & Allensworth 2009
 
-Double-dose algebra policy evaluation in the Chicago Public Schools. (2003). Journal of Research on Educational Effectiveness. https://www.tandfonline.com/journals/ujree20
+Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. *Journal of Research on Educational Effectiveness, 2*(2), 111–148. [doi:10.1080/19345740802676739](https://doi.org/10.1080/19345740802676739)
 
 `q3 · i?` · `causal · r?`
 

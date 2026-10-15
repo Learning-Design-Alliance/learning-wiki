@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Students in heterogeneous mathematics classrooms learn more, enjoy mathematics more, and achieve higher understanding than in streamed settings
+title: "A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings"
 description: Students in heterogeneous mathematics classrooms learn more, enjoy mathematics more, and achieve higher understanding than in streamed settings
 id: heterogeneous-mathematics-classrooms-benefit-students
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Students in heterogeneous mathematics classrooms learn more, enjoy mathematics more, and achieve higher understanding than in streamed settings
+# A practice-framework article reports, citing Boaler and Staples (2008), that students in heterogeneous mathematics classrooms learn more, enjoy mathematics more and reach higher understanding than in streamed settings
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+
+<!-- title before 2026-10-15: Students in heterogeneous mathematics classrooms learn more, enjoy mathematics more, and achieve higher understanding than in streamed settings -->
 
 ## Subclaims
 `q2 i?` Students in a heterogeneous mathematics classroom setting learn more, enjoy mathematics more, and achieve a higher level of understanding, as reported by Boaler & Staples (2008). [→ Marks 2021](#marks-2021)

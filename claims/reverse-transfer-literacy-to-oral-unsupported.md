@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Reverse transfer from literacy to oral skills is unsupported by research
+title: "The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language"
 description: Reverse transfer from literacy to oral skills is unsupported by research
 id: reverse-transfer-literacy-to-oral-unsupported
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Reverse transfer from literacy to oral skills is unsupported by research
+# The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+
+<!-- title before 2026-10-15: Reverse transfer from literacy to oral skills is unsupported by research -->
 
 ## Subclaims
 `q1 i?` The author could find no research supporting reverse transfer of skills from the nonnatural literacy stage to the natural oral-aural stage. [→ Neiburg 1997](#neiburg-1997)

@@ -14,7 +14,7 @@ sources:
     title: "Loucks, Susan F. (1977). Levels of Use of the Innovation: The Conceptualization and Measurement of a Variable Useful for Assessing Innovation Implementation by Individuals. https://eric.ed.gov/?id=ED137947"
     author: Loucks, Susan F.
     q: 2
-    i: 3
+    i: "?"
     kind: design
     rigour: 2
 ---
@@ -22,11 +22,11 @@ sources:
 # LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2` · `i3` large
+> **Evidence** · 1 study · design `r2` · `q2`
 <!-- deprecated title (2026-10-05, overstated its evidence): LoU Interview ratings correlate strongly with ethnographers' full-day observations, supporting interview validity -->
 
 ## Subclaims
-`q2 i3` The correlation between the consensus reader rating (based on written protocols) and the consensus interview rating was .65, which the authors read as support tempered by the difficulty of conveying information second hand. [→ Loucks 1977](#loucks-1977)
+`q2 i?` The correlation between the consensus reader rating (based on written protocols) and the consensus interview rating was .65, which the authors read as support tempered by the difficulty of conveying information second hand. [→ Loucks 1977](#loucks-1977)
 
 ## Evidence
 
@@ -34,7 +34,7 @@ sources:
 
 Loucks, Susan F. (1977). Levels of Use of the Innovation: The Conceptualization and Measurement of a Variable Useful for Assessing Innovation Implementation by Individuals. https://eric.ed.gov/?id=ED137947
 
-`q2 · validity comparison within an ethnographic study` · `i3 · r = .65` · `design · r2`
+`q2 · validity comparison within an ethnographic study` · `i? · r = .65, an agreement coefficient, not an effect size` · `design · r2`
 
 Second validity comparison in the same ethnographic study, between consensus ratings by two readers of the written ethnographic protocols and the consensus interview rating, showing weaker agreement than the ethnographer comparison.
 

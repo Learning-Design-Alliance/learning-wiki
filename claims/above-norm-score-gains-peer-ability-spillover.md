@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Above-norm students' post-policy test score gains (.56 points) were partly explained by peer ability and by spillover from classmates taking support algebra (~0.6 points, p<.01)"
+title: "In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra"
 description: "Above-norm students' post-policy test score gains (.56 points) were partly explained by peer ability and by spillover from classmates taking support algebra (~0.6 points, p<.01)"
 id: above-norm-score-gains-peer-ability-spillover
 status: draft
@@ -27,10 +27,12 @@ sources:
     rigour: 2
 ---
 
-# Above-norm students' post-policy test score gains (.56 points) were partly explained by peer ability and by spillover from classmates taking support algebra (~0.6 points, p<.01)
+# In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+
+<!-- title before 2026-10-15: Above-norm students' post-policy test score gains (.56 points) were partly explained by peer ability and by spillover from classmates taking support algebra (~0.6 points, p<.01) -->
 
 ## Subclaims
 `q3 i?` Above-norm students had higher test scores by about 0.6 points when their algebra classes included students enrolled in support courses, controlling for incoming peer ability (p<.01). [→ Takako Nomi 2010](#takako-nomi-2010)
