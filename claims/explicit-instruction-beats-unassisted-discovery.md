@@ -37,7 +37,7 @@ Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does Disc
 
 Random effects meta-analysis of 580 comparisons from 108 studies comparing unassisted discovery with explicit teaching. The pooled effect favored explicit instruction, d = -0.38 (95% CI [-.44, -.31]), a small but meaningful effect (p < .001), with highly heterogeneous effects across studies.
 
-> "Random effects analyses of 580 comparisons revealed that outcomes were favorable for explicit instruction when compared with unassisted discovery under most conditions ( d /H11005– 0.38, 95% CI [–.44, /H11002.31])."
+> "Random effects analyses of 580 comparisons revealed that outcomes were favorable for explicit instruction when compared with unassisted discovery under most conditions ( d = –0.38, 95% CI [–.44, –.31])."
 
 ## Discussion
 

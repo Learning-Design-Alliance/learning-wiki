@@ -35,9 +35,9 @@ Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quiz
 
 `q4 · i2` · `quant-synthesis · r3`
 
-Meta-analysis of 222 independent classroom studies integrating 48,478 students' data; the review reports that "overall testing (quizzing) raises student academic achievement to a medium extent ( g /H110050.499)", i.e. a pooled effect size of g = 0.499, with p-curve support and small publication-bias risk.
+Meta-analysis of 222 independent classroom studies integrating 48,478 students' data; the review reports that "overall testing (quizzing) raises student academic achievement to a medium extent ( g = 0.499)", i.e. a pooled effect size of g = 0.499, with p-curve support and small publication-bias risk.
 
-> "The current review integrated 48,478 students’ data, extracted from 222 independent studies, to investigate the magnitude, boundary conditions, and psychological underpinnings of test-enhanced learning in the classroom. The results show that overall testing (quizzing) raises student academic achievement to a medium extent ( g /H110050.499)."
+> "The current review integrated 48,478 students’ data, extracted from 222 independent studies, to investigate the magnitude, boundary conditions, and psychological underpinnings of test-enhanced learning in the classroom. The results show that overall testing (quizzing) raises student academic achievement to a medium extent ( g = 0.499)."
 
 ## Discussion
 

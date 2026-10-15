@@ -46,7 +46,7 @@ Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Re
 
 Experiment 1 analysis of three self-regulated learning measures: study decisions, self-test decisions, and feedback choices per item. Study choices did not differ, t(58) = 0.70, p = .49; feedback choices were at ceiling (96%+ of trials) in both groups and "did not differ much across groups".
 
-> "the retrieval practice instructions group chose to self-test more than did the control group, t(58) /H110053.23, p /H11021.01, d /H110050.83 [0.30, 1.36]"
+> "the retrieval practice instructions group chose to self-test more than did the control group, t(58) = 3.23, p < .01, d = 0.83 [0.30, 1.36]"
 
 ### Ariel 2018 (2)
 
@@ -56,7 +56,7 @@ Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Re
 
 Experiment 1 cumulative learning analysis across test practice blocks (Table 2). The instructed group also used retrieval practice at least once for 99% of items versus 88% in control, t(58) = 2.51, p < .05, d = 0.65.
 
-> "The retrieval practice instructions group recalled 90% of items at least once during learning compared to 70% in the control group, t(58) /H110052.73, p /H11021.01, d /H110050.71 [0.18, 1.22]."
+> "The retrieval practice instructions group recalled 90% of items at least once during learning compared to 70% in the control group, t(58) = 2.73, p < .01, d = 0.71 [0.18, 1.22]."
 
 ## Discussion
 

@@ -37,7 +37,7 @@ Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves
 
 Classroom test administered 1 day after the review session, comparing students assigned to the 1-day delay (n = 63 per delay group as printed). Interleaved mean was 80% versus blocked 64%, with Cohen's d = 0.42 and 95% CI [0.07, 0.77].
 
-> "Students tested 1 day after the review showed a moderate benefit of interleaving, 80% (SD /H1100533%) vs. 64% (SD /H1100542%), t(62) /H110052.39, p /H11005.02, d /H110050.42, 95% confidence interval (CI) [0.07, 0.77]."
+> "Students tested 1 day after the review showed a moderate benefit of interleaving, 80% (SD = 33%) vs. 64% (SD = 42%), t(62) = 2.39, p = .02, d = 0.42, 95% confidence interval (CI) [0.07, 0.77]."
 
 ## Discussion
 

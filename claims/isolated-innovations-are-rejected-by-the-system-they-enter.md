@@ -32,25 +32,15 @@ sources:
 # An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 2 review `r1`–`r2` · `q2` · n=N/A
+> **Evidence** · 1 study · review `r2` · `q2`
 
 "Innovation" here covers new technologies, teaching approaches and designs being introduced into a school, programme or organisation. The claim is about adoption and persistence, not about whether the innovation works where it is used.
 
 ## Subclaims
 
-`q2 i?` A single innovation, such as a new technology or teaching philosophy, that is foreign to the rest of the system may be rejected, like an incompatible organ transplant; success depends on a coordinated bundle of innovations, generally affecting several groups of stakeholders, that results in a coherent system after implementation. [→ Ellsworth 2018](#ellsworth-2018)
-
 `q2 i?` A single innovation that is foreign to the rest of the system may be rejected, and success depends on a coordinated bundle of innovations affecting several stakeholder groups that results in a coherent system after implementation. [→ Ellsworth 2000](#ellsworth-2000)
 
 ## Evidence
-
-### Ellsworth 2018
-
-Ellsworth, J. B. (2018). A survey of educational change models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 339–345). EdTech Books. [https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models](https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models)
-
-`q2 · narrative review of educational change models` · `i? · no effect size` · `n=N/A` · `review · r1`
-
-A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Change: A Survey of Educational Change Models*. It organises seven classic models of change (Fullan and Stiegelbauer; Reigeluth and Garfinkle; Havelock and Zlotolow; Hall and Hord; Zaltman and Duncan; Rogers; Ely) into one communication framework. It says the field's frameworks are "solidly grounded in empirical studies and practical applications", but the digest summarises them rather than presenting that evidence. The claim is the digest's own concluding synthesis, in its section on succeeding systemically.
 
 ### Ellsworth 2000
 
@@ -61,6 +51,18 @@ Ellsworth, James B. (2000). A Survey of Educational Change Models. ERIC Digest. 
 In its Succeeding Systemically section, the digest asserts, drawing on the classical change models, that "a single innovation (like a new technology or teaching philosophy) that is foreign to the rest of the system may be rejected" and that success depends on a coordinated bundle. This is the author's synthesis, not a tested result.
 
 > "Yet a single innovation (like a new technology or teaching philosophy) that is foreign to the rest of the system may be rejected, like an incompatible organ transplant is rejected by a living system. Success depends on a coordinated "bundle" of innovations-generally affecting several groups of stakeholders-that results in a coherent system after implementation."
+
+<!-- merged duplicate entry 2026-10-15: the same digest reprinted as a book chapter; its entry and subclaim were:
+`q2 i?` A single innovation, such as a new technology or teaching philosophy, that is foreign to the rest of the system may be rejected, like an incompatible organ transplant; success depends on a coordinated bundle of innovations, generally affecting several groups of stakeholders, that results in a coherent system after implementation. [→ Ellsworth 2018](#ellsworth-2018)
+
+### Ellsworth 2018
+
+Ellsworth, J. B. (2018). A survey of educational change models. In *Foundations of Learning and Instructional Design Technology* (1st ed., pp. 339–345). EdTech Books. [https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models](https://edtechbooks.org/lidtfoundations/survey_of_educational_change_models)
+
+`q2 · narrative review of educational change models` · `i? · no effect size` · `n=N/A` · `review · r1`
+
+A public-domain ERIC digest from 2000, drawn from Ellsworth's book *Surviving Change: A Survey of Educational Change Models*. It organises seven classic models of change (Fullan and Stiegelbauer; Reigeluth and Garfinkle; Havelock and Zlotolow; Hall and Hord; Zaltman and Duncan; Rogers; Ely) into one communication framework. It says the field's frameworks are "solidly grounded in empirical studies and practical applications", but the digest summarises them rather than presenting that evidence. The claim is the digest's own concluding synthesis, in its section on succeeding systemically.
+-->
 
 ## Studies bearing on this claim
 

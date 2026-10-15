@@ -37,7 +37,7 @@ Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Re
 
 Experiment 1 time-allocation analysis: instructed group M = 21.89 minutes versus control M = 15.55, t(58) = 3.06, p < .01, d = 0.79. In Experiment 2 the groups did not differ in the initial session but did in the transfer session (d = 0.73), with correlations of r = .72 and r = .68.
 
-> "The total time allocated to learning was highly correlated with the number of successful recall trials per item, r /H11005 .80, p /H11021.001 which suggests that students who allocated more time to learning used their time to implement a highly effective learning strategy."
+> "The total time allocated to learning was highly correlated with the number of successful recall trials per item, r = .80, p < .001 which suggests that students who allocated more time to learning used their time to implement a highly effective learning strategy."
 
 ## Discussion
 

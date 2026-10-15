@@ -216,7 +216,7 @@ Immediate recall, delayed recall, explanation and transfer are separate claims; 
 
 ## Key Sources
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. [doi:10.1177/1529100612453266](https://doi.org/10.1177/1529100612453266)
-- Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 671–684. [doi:10.1016/s0022-5371(72)80001-x)80001-X](https://doi.org/10.1016/s0022-5371(72)80001-x)80001-X)
+- Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research. *Journal of Verbal Learning and Verbal Behavior, 11*(6), 671–684. [doi:10.1016/S0022-5371(72)80001-X](<https://doi.org/10.1016/S0022-5371(72)80001-X>)
 - Pressley, M., McDaniel, M. A., Turnure, J. E., Wood, E., & Ahmad, M. (1987). Generation and precision of elaboration: Effects on intentional and incidental learning. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 13*(2), 291–300. [doi:10.1037/0278-7393.13.2.291](https://doi.org/10.1037/0278-7393.13.2.291)
 - Ozgungor, S., & Guthrie, J. T. (2004). Interactions between elaboration and knowledge-building processes in learning from text. *American Educational Research Journal, 41*(2), 403–439.
 - Schwartz, D. L., & Bransford, J. D. (1998). A time for telling. *Cognition and Instruction, 16*(4), 475–5223. [doi:10.1207/s1532690xci1604_4](https://doi.org/10.1207/s1532690xci1604_4)

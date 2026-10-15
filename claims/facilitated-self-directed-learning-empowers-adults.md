@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Facilitated self-directed learning and peer discussion empower adult learners
+title: One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor
 description: Facilitated self-directed learning and peer discussion empower adult learners
 id: facilitated-self-directed-learning-empowers-adults
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Facilitated self-directed learning and peer discussion empower adult learners
+# One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
+
+<!-- title before 2026-10-15: Facilitated self-directed learning and peer discussion empower adult learners -->
 
 ## Subclaims
 `q1 i?` The author reports that facilitated class discussions allowing views to be spoken and addressed left her feeling empowered as an individual contributor, shifting her view of knowledge away from authoritarian instruction. [→ Ellis 2012](#ellis-2012)
@@ -31,7 +33,7 @@ sources:
 
 ### Ellis 2012
 
-Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm
+Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865
 
 `q1 · i?` · `theoretical · r2`
 

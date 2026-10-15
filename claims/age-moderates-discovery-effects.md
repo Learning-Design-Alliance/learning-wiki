@@ -37,7 +37,7 @@ Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does Disc
 
 Age moderator analysis in the unassisted-discovery meta-analysis, Q(2) = 12.29, p < .01. All age groups showed significant advantages for explicit instruction; the quote shows adolescents (d = -0.53) were hurt more than adults (d = -0.26).
 
-> "Post hoc comparisons revealed that the mean effect size for adolescents ( d /H11005– 0.53) was significantly greater than the mean effect size for adults ( d /H11005– 0.26), Q(1) /H1100510.41, p /H11005.001."
+> "Post hoc comparisons revealed that the mean effect size for adolescents ( d = –0.53) was significantly greater than the mean effect size for adults ( d = –0.26), Q(1) = 10.41, p = .001."
 
 ## Studies bearing on this claim
 

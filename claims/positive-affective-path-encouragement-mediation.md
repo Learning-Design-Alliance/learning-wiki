@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Perceived encouragement mediated a positive indirect effect of layered feedback on learning performance
+title: Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance
 description: Perceived encouragement mediated a positive indirect effect of layered feedback on learning performance
 id: positive-affective-path-encouragement-mediation
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Perceived encouragement mediated a positive indirect effect of layered feedback on learning performance
+# Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
+
+<!-- title before 2026-10-15: Perceived encouragement mediated a positive indirect effect of layered feedback on learning performance -->
 
 ## Subclaims
 `q3 i?` The indirect effect through perceived independence was not significant (Ind = 0.05, p = .61). [→ Jie Cao 2026](#jie-cao-2026)

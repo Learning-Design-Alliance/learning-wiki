@@ -37,7 +37,7 @@ Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does Disc
 
 Comparison-condition moderator analysis in the unassisted-discovery meta-analysis, Q(5) = 32.31, p < .001. Unassisted discovery fared worse against direct teaching (d = -0.29), feedback (d = -0.46), worked examples (d = -0.63), and explanations provided (d = -0.28); the quote shows worked examples beat direct teaching in magnitude.
 
-> "Post hoc comparisons revealed that effect sizes for direct teaching and worked examples were significantly different from one another, Q(1) /H1100518.98, p /H11021.001, and indicated that participants learning with worked examples outperformed participants learning through unassisted discovery to a greater extent than did participants learning from direct teaching outperformed participants learning from unassisted discovery."
+> "Post hoc comparisons revealed that effect sizes for direct teaching and worked examples were significantly different from one another, Q(1) = 18.98, p < .001, and indicated that participants learning with worked examples outperformed participants learning through unassisted discovery to a greater extent than did participants learning from direct teaching outperformed participants learning from unassisted discovery."
 
 ## Discussion
 

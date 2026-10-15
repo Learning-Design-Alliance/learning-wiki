@@ -67,7 +67,7 @@ Boundary conditions follow from this mechanism. If guided notes are too complete
 
 Expertise-reversal reasoning suggests the scaffolding may lose value — or become redundant — for learners with high prior knowledge or strong existing note-taking skills, since the external structure duplicates what skilled note-takers would generate themselves. This parallels the broader pattern in the [expertise reversal effect](../theories/expertise-reversal-effect.md), in which instructional support helps novices but hinders advanced learners.
 
-Open questions: most support for guided notes comes from lecture-based higher-education settings; effects in K-12 contexts, in discussion-based or problem-based formats, and for learners with high prior knowledge are less well established. Both studies recorded above were read as abstracts that report no effect sizes.
+Open questions: the meta-analysis recorded here (Konrad et al. 2009) describes the benefit as strongest for school-age students, and only one higher-education study (Chen et al. 2016) is recorded; effects in discussion-based or problem-based formats, and for learners with high prior knowledge, are not established by the entries here. Both studies recorded above were read as abstracts that report no effect sizes.
 
 ## Related Claims
 

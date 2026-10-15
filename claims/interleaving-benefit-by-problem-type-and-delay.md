@@ -46,7 +46,7 @@ Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves
 
 Secondary analysis splitting test scores by problem type at the 1-day delay, using Welch-corrected t tests. The graph-problem contrast was significant with printed d = 0.54; the slope-problem effect was "positive but not statistically significant" (d = 0.43).
 
-> "For the 1-day test delay, interleaved rather than blocked practice resulted in higher mean test scores for the graph problems, 89% (SD /H11005 18%) vs. 73% (SD /H1100536%), t(50.6) /H110052.25, p /H11005.029, d /H110050.54, but the effect of interleaved practice on the slope problems was positive but not statistically significant, 73% (SD /H1100541%) vs. 54% (SD /H1100547%), t(56.0) /H110051.67, p /H11005.10, d /H110050.43."
+> "For the 1-day test delay, interleaved rather than blocked practice resulted in higher mean test scores for the graph problems, 89% (SD = 18%) vs. 73% (SD = 36%), t(50.6) = 2.25, p = .029, d = 0.54, but the effect of interleaved practice on the slope problems was positive but not statistically significant, 73% (SD = 41%) vs. 54% (SD = 47%), t(56.0) = 1.67, p = .10, d = 0.43."
 
 ### Rohrer 2015 (2)
 
@@ -56,7 +56,7 @@ Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves
 
 Secondary analysis at the 30-day delay showed significant interleaving benefits for both problem types, with printed Cohen's d = 0.81 for graph and d = 0.87 for slope problems, both large effects.
 
-> "For the test given after a 30-day delay, there was a statistically significant benefit of interleaving for both graph problems 84% (SD /H1100530%) vs. 54% (SD /H1100544%), t(56.7) /H110053.28, p /H11005.002, d /H110050.81, and slope problems, 65% (SD /H1100543%) vs. 29% (SD /H1100539%), t(61) /H110053.44, p /H11005.001, d /H110050.87."
+> "For the test given after a 30-day delay, there was a statistically significant benefit of interleaving for both graph problems 84% (SD = 30%) vs. 54% (SD = 44%), t(56.7) = 3.28, p = .002, d = 0.81, and slope problems, 65% (SD = 43%) vs. 29% (SD = 39%), t(61) = 3.44, p = .001, d = 0.87."
 
 ## Discussion
 

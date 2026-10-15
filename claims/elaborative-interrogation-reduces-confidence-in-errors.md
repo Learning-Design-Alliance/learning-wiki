@@ -14,7 +14,7 @@ sources:
     title: "Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949"
     author: Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike
     q: 3
-    i: 1
+    i: "?"
     kind: causal
     rigour: 2
   - id: woloshyn-1992-2
@@ -22,7 +22,7 @@ sources:
     title: "Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949"
     author: Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike
     q: 3
-    i: 1
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -30,7 +30,7 @@ sources:
 # Elaborative-interrogation students are less confident in their incorrect recognition selections than reading controls, who express great confidence in erroneous answers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` In Experiment 1, significant three-way strategy-by-accuracy-by-certainty interactions showed reading controls endorsed more incorrect statements with great certainty. [→ Woloshyn 1992](#woloshyn-1992)
@@ -42,9 +42,9 @@ sources:
 
 Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949
 
-`q3 · i1` · `causal · r2`
+`q3 · i?` · `causal · r2`
 
-Experiment 1 certainty analysis: for facts addressing misbeliefs, significant three-way interactions on immediate and 14-day recognition (F(2,116) > 8.74 and > 8.05, p<.001); "Reading-controls endorsed more incorrect statements with great certainty than did elaborative-interrogation subjects."
+Experiment 1 certainty analysis: for facts addressing misbeliefs, significant three-way interactions on immediate and 14-day recognition (F(2,116) > 8.74 and > 8.05, p<.001); "Reading-controls endorsed more incorrect statements with great certainty than did elaborative-interrogation subjects." The values printed as "g", "a" or "smaller a" in the quotes are Tukey HSD post hoc statistics (the source names Tukey's HSD as its post hoc method; the scan garbles the letter and the p values), not effect sizes, and no effect size is printed.
 
 > "Reading-controls endorsed more incorrect statements with great certainty than did elaborative-interrogation subjects (i.e., 50% certainty for immediate recognition,a= 9.03; 100% certainty for 14-day recognition,a= 3.58)."
 
@@ -52,9 +52,9 @@ Experiment 1 certainty analysis: for facts addressing misbeliefs, significant th
 
 Woloshyn, Vera E.; Paivio, Allan; Pressley, Mike. (1992). Using Elaborative Interrogation To Help Students Overcome Their Inaccurate Science Beliefs. https://eric.ed.gov/?id=ED356949
 
-`q3 · i1` · `causal · r2`
+`q3 · i?` · `causal · r2`
 
-Experiment 2 certainty analysis: three-way strategy-by-accuracy-by-certainty interactions on each posttest recognition measure; elaborative-interrogation students identified more statements with 100% certainty and made fewer erroneous 100%-certain selections on misbelief facts.
+Experiment 2 certainty analysis: three-way strategy-by-accuracy-by-certainty interactions on each posttest recognition measure; elaborative-interrogation students identified more statements with 100% certainty and made fewer erroneous 100%-certain selections on misbelief facts. The values printed as "g", "a" or "smaller a" in the quotes are Tukey HSD post hoc statistics (the source names Tukey's HSD as its post hoc method; the scan garbles the letter and the p values), not effect sizes, and no effect size is printed.
 
 > "There were three-way interactions of strategy, accuracy, and certainty for each posttest recognition measure [F(2,156) > 2.94]. Elaborative-interrogation subjects identified more study statements with 100% certainty than did reading-controls (a > 4.49, 2....01).For facts that addressed inaccurate beliefs, reading-controls made more erroneous selections with 100% certainty than did elaborative-interrogation subjects (a > 4.74, 2:<.01)."
 

@@ -32,6 +32,8 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 
+In Rief et al. (2026), seventh graders practised algebra in the "Math with Matt" tutoring system. The Mindful version added an LLM-based mindful chat, in which the pedagogical agent Matt gave context-sensitive emotional support, and mindful (not only evaluative) feedback and hint messages; the Cognitive version gave cognitive support only.
+
 ## Subclaims
 `q3 i3` Executive state-MA decreased significantly over time for both groups with a large effect size. [→ Rief 2026](#rief-2026)
 `q3 i3` Students' algebra performance improved significantly from pretest to posttest with a large effect size, independent of condition. [→ Rief 2026 (2)](#rief-2026-2)

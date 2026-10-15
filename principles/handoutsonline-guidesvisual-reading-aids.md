@@ -10,7 +10,7 @@ generated:
   at: 2026-10-15
 sources:
   - id: osborne-2006
-    resource: "https://doi.org/10.1080/17453050600572889"
+    resource: "https://doi.org/10.1080/01405110600772830"
     title: "Osborne, H. (2006). Health literacy: How visuals can help tell the healthcare story. *Journal of Visual Communication in Medicine, 29*(1), 28-32"
     author: Osborne, H
 ---

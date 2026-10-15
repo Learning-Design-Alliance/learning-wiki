@@ -37,7 +37,7 @@ Adesope, O. O., & Nesbit, J. C. (2012). Verbal Redundancy in Multimedia Learning
 
 Moderator analysis of segment size (Table 3): nonsegmented studies (k = 7) reached Hedges's g = 0.53 versus g = 0.15 for segmented studies (k = 22); post hoc analysis found nonsegmented presentations significantly different from segmented ones.
 
-> "Table 3 shows that although both segmented and nonseg- mented studies were associated with statistically detectable effect sizes, the nonsegmented presentations were associated with a larger effect size ( g /H110050.53) than were the segmented ones ( g /H110050.15). This result suggests that verbal redundancy is more beneficial when texts are not segmented."
+> "Table 3 shows that although both segmented and nonseg- mented studies were associated with statistically detectable effect sizes, the nonsegmented presentations were associated with a larger effect size ( g = 0.53) than were the segmented ones ( g = 0.15). This result suggests that verbal redundancy is more beneficial when texts are not segmented."
 
 ## Discussion
 

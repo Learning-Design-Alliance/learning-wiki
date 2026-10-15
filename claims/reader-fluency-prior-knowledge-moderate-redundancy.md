@@ -38,7 +38,7 @@ Adesope, O. O., & Nesbit, J. C. (2012). Verbal Redundancy in Multimedia Learning
 
 Meta-analytic moderator analysis of participant characteristics (Table 4): reading-fluency levels differed significantly (QB = 7.73, p = .02), with Hedges's g = 0.82 for nonfluent L1 and g = 0.58 for L2 readers versus g = 0.24 for fluent L1 readers. Prior-knowledge low g = 0.29 versus high g = –0.05 was marginally nonsignificant (QB = 8.12, p = .05).
 
-> "Although spoken–written presentations tended to benefit learners at all levels of reading fluency, we found moderate and large effect sizes for L2 ( g /H110050.58) and nonfluent L1 ( g /H110050.82) learners but only a small effect size for fluent L1 learners ( g /H110050.24)."
+> "Although spoken–written presentations tended to benefit learners at all levels of reading fluency, we found moderate and large effect sizes for L2 ( g = 0.58) and nonfluent L1 ( g = 0.82) learners but only a small effect size for fluent L1 learners ( g = 0.24)."
 
 ## Discussion
 

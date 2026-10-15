@@ -31,7 +31,7 @@ sources:
 
 ### Ellis 2012
 
-Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. http://www.historylearningsite.co.uk/Mexico_1968.htm
+Ellis, M. L. (2012). Using the Pragmatic Progressive Philosophy in Adult Education. https://eric.ed.gov/?id=ED536865
 
 `q1 · i?` · `theoretical · r2`
 

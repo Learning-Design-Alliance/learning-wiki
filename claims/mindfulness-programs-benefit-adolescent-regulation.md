@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults
+title: A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults
 description: Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults
 id: mindfulness-programs-benefit-adolescent-regulation
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults
+# A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+
+<!-- title before 2026-10-15: Mindfulness programs show substantial benefits across cognitive and emotional regulation as well as stress and mental health in adolescents and young adults -->
 
 ## Subclaims
 `q2 i?` Among the intervention approaches reviewed, mindfulness programs in particular showed substantial benefits across both cognitive and emotional regulation, as well as for stress and mental health. [→ Murray 2017](#murray-2017)

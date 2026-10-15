@@ -37,7 +37,7 @@ Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quiz
 
 Meta-analytic moderator analysis across education levels; the review reports generalization to four named levels with printed effect sizes g = 0.328, g = 0.597, g = 0.655, and g = 0.486, and states no firm conclusion for continuing education (p = .119, six studies).
 
-> "Test-enhanced learning generalizes to elementary school ( g /H110050.328), middle school ( g /H110050.597), high school ( g /H110050.655), and university/college ( g /H110050.486). No firm conclusion can be made about whether it works in continuing education ( g /H110050.314 [ /H110020.081, 0.709], p /H11005.119) because few studies ( k /H110056) have explored this."
+> "Test-enhanced learning generalizes to elementary school ( g = 0.328), middle school ( g = 0.597), high school ( g = 0.655), and university/college ( g = 0.486). No firm conclusion can be made about whether it works in continuing education ( g = 0.314 [ −0.081, 0.709], p = .119) because few studies ( k = 6) have explored this."
 
 ## Studies bearing on this claim
 

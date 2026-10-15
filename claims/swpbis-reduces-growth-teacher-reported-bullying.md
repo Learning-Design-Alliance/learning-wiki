@@ -37,7 +37,7 @@ Waasdorp TE, Bradshaw CP, Leaf PJ. (2012). The Impact of Schoolwide Positive Beh
 
 Group randomized controlled effectiveness trial in 37 Maryland elementary schools. Three-level HLM on teacher TOCA-C bullying ratings of 12,344 students showed children in the SWPBIS schools "displayed significantly less bullying behavior" over time vs comparison schools (coefficient −0.02, t = −2.60, P < .05).
 
-> "the hierarchical linear modeling results indicated that children in the SWPBIS schools displayed significantly less bullying behavior (/H9253=−0.02, t= −2.60, P /H11021.05, SE=0.01)"
+> "the hierarchical linear modeling results indicated that children in the SWPBIS schools displayed significantly less bullying behavior (/H9253=−0.02, t= −2.60, P < .05, SE=0.01)"
 
 ## Discussion
 

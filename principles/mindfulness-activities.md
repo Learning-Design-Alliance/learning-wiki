@@ -10,7 +10,7 @@ generated:
   at: 2026-10-15
 sources:
   - id: baird-2014
-    resource: "https://doi.org/10.1037/a0036883"
+    resource: "https://doi.org/10.1037/a0036882"
     title: "Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General, 143*(5), 1972-1979"
     author: "Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W"
   - id: gorman-2016

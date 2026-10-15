@@ -46,7 +46,7 @@ Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Re
 
 Experiment 2 cumulative learning analysis (Table 2): both groups attempted retrieval for nearly all items (98% in Session 1, over 90% in Session 2), so attempted recall showed no group difference; cumulative recall differed significantly only in the transfer session, t(62) = 2.43, p < .05.
 
-> "the number of unique items attempted for recall during learning was not significantly different between groups in either Session 1, t(62) /H110051.18, p /H11005.24, d /H110050.30 [/H110020.20, 0.79], or Session 2, t(62) /H11005.86, p /H11005 .39, d /H110050.22 [/H110020.28, 0.71]"
+> "the number of unique items attempted for recall during learning was not significantly different between groups in either Session 1, t(62) = 1.18, p = .24, d = 0.30 [−0.20, 0.79], or Session 2, t(62) = .86, p = .39, d = 0.22 [−0.28, 0.71]"
 
 ### Ariel 2018 (2)
 

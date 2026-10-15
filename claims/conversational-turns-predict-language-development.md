@@ -79,6 +79,8 @@ The report cites cognitive scientists at MIT and Harvard who found that conversa
 
 ## Discussion
 
+The primary study behind the Gabrieli entry is most likely Romeo, R. R., Leonard, J. A., Robinson, S. T., West, M. R., Mackey, A. P., Rowe, M. L., & Gabrieli, J. D. E. (2018). Beyond the 30-million-word gap: Children's conversational exposure is associated with language-related brain function. *Psychological Science, 29*(5), 700–710. [doi:10.1177/0956797617742725](https://doi.org/10.1177/0956797617742725) (title and authors confirmed on Crossref, 2026-10-15). It has not been read for that entry, so its codes still rest on the textbook's account.
+
 The shift from "word count" to "conversational turns" as the operative mechanism has a direct, practical implication for instructional and parenting guidance: interventions that simply increase the volume of language a child is exposed to (background media, more talking *at* a child) are less well-supported than interventions that increase genuine back-and-forth interaction. This claim should be read as a corrective to, rather than an outright replacement of, the Hart and Risley line of research — both point toward the same practical conclusion (responsive interaction matters), even though the original "30 million word" framing has not held up in its most literal form.
 
 ## Learner Variables

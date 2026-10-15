@@ -38,7 +38,7 @@ Adesope, O. O., & Nesbit, J. C. (2012). Verbal Redundancy in Multimedia Learning
 
 Moderator analysis of outcome constructs and test formats (Table 6): retention outcomes yielded Hedges's g = 0.53 versus g = 0.01 for transfer-only, and multiple-choice formats g = 0.63 versus g = 0.11 for mixed formats; both between-levels differences significant (QB = 21.84 and 29.52, p < .001).
 
-> "Post hoc analyses revealed that the retention-only outcome was associated with a significantly different and larger effect size ( g /H110050.53) than was the transfer-only outcome ( g /H110050.01) and mixed retention and transfer outcome (g /H110050.11). Similarly, the multiple choice objec- tive test format was associated with a significantly different and larger effect size ( g /H110050.63) than were mixed test formats ( g /H11005 0.11)."
+> "Post hoc analyses revealed that the retention-only outcome was associated with a significantly different and larger effect size ( g = 0.53) than was the transfer-only outcome ( g = 0.01) and mixed retention and transfer outcome (g = 0.11). Similarly, the multiple choice objec- tive test format was associated with a significantly different and larger effect size ( g = 0.63) than were mixed test formats ( g = 0.11)."
 
 ## Discussion
 

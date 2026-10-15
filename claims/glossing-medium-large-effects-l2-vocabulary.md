@@ -71,6 +71,7 @@ The review reports, citing Vahedi et al. (2016), that multiple glosses combining
 
 ## Discussion
 
+The evidence recorded here is second-hand. Both entries are background statements in a meta-analysis of language games (Pradheepa et al. 2025), citing the gloss meta-analyses of Abraham (2008), Vahedi et al. (2016) and Mohsen et al. (2023); those meta-analyses are not themselves recorded on this page, and no effect size is printed here, so "medium-to-large" rests on that description. The one primary gloss study in the wiki, Cheng and Good (2009), bears on the narrower claims listed below.
 
 ## Related Claims
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](adventure-games-supplementary-material-vocabulary.md) — a narrower finding that bears on this claim

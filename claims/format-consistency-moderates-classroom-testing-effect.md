@@ -35,9 +35,9 @@ Yang, C., Luo, L., Vadillo, M. A., Yu, R., & Shanks, D. R. (2020). Testing (Quiz
 
 `q4 · i2` · `quant-synthesis · r?`
 
-Meta-analytic moderator analysis of quiz–exam format consistency; the review reports transfer to mismatched formats and that "consistent test formats ( g /H110050.531) are associated with a significantly larger effect size than inconsistent formats ( g /H110050.399)", i.e. g = 0.531 versus g = 0.399.
+Meta-analytic moderator analysis of quiz–exam format consistency; the review reports transfer to mismatched formats and that "consistent test formats ( g = 0.531) are associated with a significantly larger effect size than inconsistent formats ( g = 0.399)", i.e. g = 0.531 versus g = 0.399.
 
-> "The classroom testing effect is significantly greater than 0 when test formats are mismatched between quizzes and exams, indicating transfer of the effect to different test formats (i.e., applying knowledge tested in one format to answer questions presented in a different format). Nevertheless, consistent test formats ( g /H110050.531) are associated with a significantly larger effect size than inconsistent formats ( g /H110050.399)."
+> "The classroom testing effect is significantly greater than 0 when test formats are mismatched between quizzes and exams, indicating transfer of the effect to different test formats (i.e., applying knowledge tested in one format to answer questions presented in a different format). Nevertheless, consistent test formats ( g = 0.531) are associated with a significantly larger effect size than inconsistent formats ( g = 0.399)."
 
 ## Discussion
 

@@ -46,7 +46,7 @@ Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves
 
 Test given 30 days after the review, with unannounced novel problems of the same format. Interleaved students averaged 74% versus 42% for blocked, with printed Cohen's d = 0.79 (medium-to-large, just under the 0.8 threshold).
 
-> "Students tested 30 days after the review showed a large benefit of interleaving, 74% (SD /H11005 39%) vs. 42% (SD /H1100543%), t(62) /H110054.54, p /H11021.001, Cohen's d /H11005 0.79, 95% CI [0.43, 1.15]."
+> "Students tested 30 days after the review showed a large benefit of interleaving, 74% (SD = 39%) vs. 42% (SD = 43%), t(62) = 4.54, p < .001, Cohen's d = 0.79, 95% CI [0.43, 1.15]."
 
 ### Rohrer 2015 (2)
 
@@ -56,7 +56,7 @@ Rohrer, D., Dedrick, R. F., & Stershic, S. (2015). Interleaved practice improves
 
 Two-way ANOVA testing whether the interleaving benefit decreased over time. The article reports the schedule-by-delay interaction was not statistically significant, so equivalence of benefit across delays was not established, only the absence of a detected interaction.
 
-> "However, the interaction between practice schedule and test delay was not statistically significant, F(1, 124) /H110052.84, p /H11005.09."
+> "However, the interaction between practice schedule and test delay was not statistically significant, F(1, 124) = 2.84, p = .09."
 
 ## Discussion
 

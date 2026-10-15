@@ -37,7 +37,7 @@ Alfieri, L., Brooks, P. J., Aldrich, N. J., & Tenenbaum, H. R. (2011). Does Disc
 
 Random effects meta-analysis of 360 comparisons from 56 studies comparing enhanced discovery (generation, elicited explanation, guided discovery) with other instructional methods. The pooled effect favored enhanced discovery, d = 0.30 (95% CI [.23, .36]), small but meaningful (p < .001), with high heterogeneity.
 
-> "In contrast, analyses of 360 comparisons revealed that outcomes were favorable for enhanced discovery when compared with other forms of instruction ( d /H110050.30, 95% CI [.23, .36])."
+> "In contrast, analyses of 360 comparisons revealed that outcomes were favorable for enhanced discovery when compared with other forms of instruction ( d = 0.30, 95% CI [.23, .36])."
 
 ## Discussion
 

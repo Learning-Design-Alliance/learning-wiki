@@ -22,7 +22,7 @@ sources:
     title: "Mol, S. E., Bus, A. G., & de Jong, M. T. (2009). Interactive book reading in early education: A tool to stimulate print knowledge as well as oral language. *Review of Educational Research, 79*(2), 979–1007. [doi:10.3102/0034654309332561](https://doi.org/10.3102/0034654309332561)"
     author: "Mol, S. E., Bus, A. G., & de Jong, M. T."
     q: 3
-    i: 2
+    i: "?"
     n: 31 studies (2,049 children)
     kind: quant-synthesis
     rigour: "?"
@@ -39,7 +39,7 @@ Dialogic reading — an adult reading interactively with a child using prompts, 
 
 `q3 i2` Compared with typical shared reading, dialogic parent–child reading produces a moderate gain in expressive vocabulary (d=0.59), but the effect shrinks substantially for 4- to 5-year-olds and for children at risk for language and literacy impairments. [→ Mol et al. 2008](#mol-et-al-2008)
 
-`q3 i2` Across 31 (quasi-)experiments in which educators were trained in interactive book reading, the effect on oral language is moderate, and effects obtained by experimenters did not replicate when children's own teachers delivered the reading in natural classrooms. [→ Mol et al. 2009](#mol-et-al-2009)
+`q3 i?` Across 31 (quasi-)experiments in which educators were trained in interactive book reading, the effect on oral language is moderate, and effects obtained by experimenters did not replicate when children's own teachers delivered the reading in natural classrooms. [→ Mol et al. 2009](#mol-et-al-2009)
 
 ## Evidence
 
@@ -55,7 +55,7 @@ A meta-analysis of 16 studies that compared a dialogic reading group against a r
 
 Mol, S. E., Bus, A. G., & de Jong, M. T. (2009). Interactive book reading in early education: A tool to stimulate print knowledge as well as oral language. *Review of Educational Research, 79*(2), 979–1007. [doi:10.3102/0034654309332561](https://doi.org/10.3102/0034654309332561)
 
-`q3 · meta-analysis of experiments and quasi-experiments` · `i2 · moderate effect on oral language (abstract gives no d)` · `n=31 studies (2,049 children)` · `quant-synthesis · r?`
+`q3 · meta-analysis of experiments and quasi-experiments` · `i? · moderate effect on oral language (abstract gives no d)` · `n=31 studies (2,049 children)` · `quant-synthesis · r?`
 
 A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in which educators were trained to get children actively involved before, during and after shared book reading in early-education settings. The abstract reports a moderate effect on oral language skills, and attributes 7% of the variance in kindergartners' alphabetic knowledge to the intervention. Effects found when experimenters did the reading did not replicate in natural classrooms with the children's own teachers, which bears on the page's point that implementation fidelity matters. The abstract does not split oral language into expressive and receptive measures.
 
@@ -76,7 +76,7 @@ A meta-analysis of 31 experiments and quasi-experiments (2,049 children) in whic
 
 **Mechanism.** Dialogic reading converts a passive read-aloud into an active, scaffolded conversation. The adult's wh- and completion prompts elicit child utterances, which the adult then expands and recasts; this feedback loop is thought to drive vocabulary growth and expressive language gains beyond what listening alone provides. The technique is closely related to scaffolding within a [cognitive apprenticeship](../theories/cognitive-apprenticeship.md) frame: the adult models language slightly above the child's current level and gradually shifts responsibility to the child. In this sense it is an activation-plus-feedback routine — see [Activation improves learning.](activation-improves-learning.md)
 
-**Scope and moderators.** Effects are expected to be strongest for expressive (production) measures rather than receptive ones, and for younger children and children with smaller starting vocabularies, since the intervention targets the child's own utterances. Dosage matters: benefits are typically tied to repeated sessions over weeks, not single readings. Implementation fidelity — adults actually prompting and expanding rather than simply reading — is a common failure mode in scaled deployments.
+**Scope and moderators.** Effects are expected to be strongest for expressive (production) measures rather than receptive ones, since the intervention targets the child's own utterances. Mol et al. (2008) found the effect larger for younger children than for 4- to 5-year-olds, but substantially smaller, not larger, for children at risk for language and literacy impairments, so a small starting vocabulary does not on this evidence predict a bigger gain. Dosage matters: benefits are typically tied to repeated sessions over weeks, not single readings. Implementation fidelity — adults actually prompting and expanding rather than simply reading — is a common failure mode in scaled deployments.
 
 **Boundary conditions.** The approach presumes a one-to-one or small-group adult–child setting; whole-class read-alouds dilute the turn-taking that defines the technique. It also presupposes an adult trained in the prompting sequence; untrained readers tend to revert to straight reading. Non-interactive formats such as [audiobooks](../elements/audiobooks.md) provide exposure to rich language but lack the elicited-production and expansion cycle that distinguishes dialogic reading.
 

@@ -37,7 +37,7 @@ Ediger, Marlow. (1995). To Every Action There Is an Opposite and Equal Reaction:
 
 An opinion essay citing the Dunns' view that working individually may be a recommendable learning style, and arguing that "slow learners may come to depend upon the fast achievers" in cooperative learning. No data are offered; the support is the author's experience and reasoning.
 
-> "slow learners may come to depend upon the fast achievers doingor most of the work in cooperative learning."
+> "slow learners may come to depend upon the fast achievers doing or most of the work in cooperative learning."
 
 ## Discussion
 

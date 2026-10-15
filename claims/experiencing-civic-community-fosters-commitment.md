@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Experiencing civic community at home, in the neighborhood, and at school fosters students' commitment to civic participation"
+title: Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation
 description: "Experiencing civic community at home, in the neighborhood, and at school fosters students' commitment to civic participation"
 id: experiencing-civic-community-fosters-commitment
 status: draft
@@ -19,10 +19,12 @@ sources:
     rigour: 2
 ---
 
-# Experiencing civic community at home, in the neighborhood, and at school fosters students' commitment to civic participation
+# Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
+
+<!-- title before 2026-10-15: Experiencing civic community at home, in the neighborhood, and at school fosters students' commitment to civic participation -->
 
 ## Subclaims
 `q2 i?` Students who witnessed concern for community and current events in their home, school, or neighborhood were more likely to be committed to civic participation. [→ Susan E. Sporte and Joseph E. Kahne 2007](#susan-e-sporte-and-joseph-e-kahne-2007)
